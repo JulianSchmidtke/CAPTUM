@@ -1,0 +1,942 @@
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+https://doi.org/10.1186/s13601-019-0275-6
+
+Clinical and
+Translational Allergy
+
+RESEARCH Open Access
+
+Increased platelet activating factor levels
+
+®
+
+Check for
+updates
+
+in chronic spontaneous urticaria predicts
+refractoriness to antihistamine treatment:
+
+an observational study
+
+Bastsetseg Ulambayar, Eun-Mi Yang, Hyun-Young Cha, Yoo-Seob Shin, Hae-Sim Park and Young-Min Ye'®
+
+ 
+
+Abstract
+
+ 
+
+predictors of a poor response to H1RA treatment.
+
+tive in patients with CSU refractory to antihistamines.
+
+ 
+
+Background: Platelet activating factor (PAF) is an endogenous, active phospholipid released from inflammatory cells,
+platelets, and endothelial cells, and is involved in the regulation of immune responses. Degradation of PAF by PAF
+acetylhydrolase (PAF-AH) has been shown to be associated with anaphylaxis, asthma, and peanut allergy. The purpose
+of this study was to investigate relationships among clinical parameters, including urticaria severity and treatment
+responsiveness, and PAF and PAF-AH levels in sera from patients with chronic spontaneous urticaria (CSU).
+
+Methods: Serum PAF and PAF-AH levels were measured by enzyme-linked immunosorbent assay in 283 CSU
+patients and 111 age- and sex-matched, healthy normal controls (NCs). Urticaria severity was evaluated by urticaria
+activity score over 7 days (UAS7). Within 3 months after measuring PAF levels, patients whose urticaria was not controlled by antihistamine treatment were classified as histamine receptor 1 antagonist (H1RA) non-responders.
+
+Results: Serum PAF levels were significantly higher in CSU patients than in NCs (median 4368.9 vs. 3256.4 pg/ml,
+p=0.015), while serum PAF-AH levels were significantly lower in CSU patients (105.6 vs. 125.7 ng/ml, p= 0.001). HIRA
+non-responders had higher levels of PAF in their sera than H1RA responders. A generalized linear model revealed
+that a higher UAS7 score (odds ratio 1.023, p= 0.024) and a PAF level > 5000 pg/ml (1.409, p <0.001) were significant
+
+ 
+
+Conclusions: Compared with NCs, CSU patients, particularly those with H1RA refractoriness, showed significant
+increases in serum PAF levels and decreases in PAF-AH. Therapies modulating PAF and PAF-AH levels could be effec
+ 
+
+Keywords: Platelet activating factor, Platelet activating factor acetylhydrolase, Chronic spontaneous urticaria
+
+ 
+
+Background
+
+Platelet activating factor (PAF, 1-O-alkyl-2-acetyl-snglycero-3-phosphocholine) is a bioactive phospholipid
+that plays a critical role in immune and inflammatory
+conditions [1]. It has been found to be produced by most
+immune cells, including basophils, eosinophils, mast
+cells, lymphocytes, and macrophages, as well as platelets and endothelial cells [1]. PAF binds to its specific
+
+ 
+
+*Correspondence: ye9007@ajou.ac.kr
+Department of Allergy and Clinical Immunology, Ajou University School
+of Medicine, 164 Worldcup-ro, Yeongtong-gu, Suwon 443-721, Korea
+
+BMC
+
+receptor PAFR, a G protein-coupled receptor expressed
+on several immune cells, including mast cells and basophils [2]. Metabolism of PAF is regulated by the enzyme
+PAF-acetylhydrolase (PAF-AH), which is responsible for
+PAF degradation. PAF has been found to be involved in
+the pathogenesis of cardiovascular diseases, psoriasis,
+sepsis, and allergic diseases, including asthma, allergic
+rhinitis, anaphylaxis, and urticaria [1, 3-5].
+
+Chronic urticaria (CU) is a chronic inflammatory skin
+disorder characterized by recurrent itchy wheals lasting longer than 6 weeks. CU is classified into inducible urticaria (induced by specific physical triggers) and
+
+© The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+chronic spontaneous urticaria (CSU) [6]. Resulting in
+vasodilatation, plasma extravasation, and inflammatory
+cell migration to urticarial lesions, mast cells and basophils release various inflammatory mediators, including
+histamine, protease, cytokines, chemotactic factors, arachidonic acid metabolites, neuropeptides, and PAF [6].
+Accordingly, recent guidelines recommend non-sedating H1 antihistamines (histaminel receptor antagonist,
+HI1RA) for first-line treatment of CSU [6]. Except for
+histamine, however, the roles of inflammatory mediators in the pathogenesis of CSU have yet to be thoroughly
+investigated.
+
+Research suggests that PAF plays an important role in
+anaphylactic reactions, being correlated with the severity thereof [1, 7]. Interestingly, in severe anaphylaxis, PAF
+levels have been found to be inversely correlated with
+PAF-AH levels [8]. The present study aimed to investigate
+associations of PAF and PAF-AH levels in sera in relation
+to clinical implications in CSU patients.
+
+Methods
+
+Study subjects
+
+In total, 283 patients with CSU who had urticaria symptoms for more than 6 weeks and 111 healthy normal
+controls (NCs) were recruited. Inclusion criteria were
+age>19 years and having urticaria symptoms almost
+daily, such as wheals and itching or angioedema, for at
+least 6 weeks. Patients with other chronic skin diseases
+and those with clinical evidence of urticarial vasculitis
+or inducible (physical stimuli or cholinergic or exercise)
+urticaria were excluded. Sera from healthy normal controls were supplied by the Ajou University Human BioResource Bank. Normal controls (NCs) were confirmed
+by the Biobank as not having any previous history of
+inflammatory or allergic skin disease or urticaria.
+
+UAS7 (urticarial activity score over 7 days), a weekly
+urticaria activity score, was utilized to assess disease
+activity [6]. Body mass index (BMI) was calculated as
+weight/height (kg/m). Aspirin intolerance was diagnosed based on a history of recurrent urticaria after
+aspirin/non-steroidal anti-inflammatory drug (NSAID)
+ingestion or positive results of oral challenge to aspirin,
+as previously described [9]. Written informed consent
+was collected from all study subjects. The study was
+approved by the Institutional Review Board of Ajou University Medical Center (AJIRB-BMR-SMP- 18-74).
+
+Assessment of clinical parameters
+
+Autologous serum skin test (ASST) was performed and
+evaluated in accordance with reported guidelines [10].
+Atopy was defined as at least one positive skin test result
+to common allergens or increased serum levels of specific
+Immunoglobulin E (IgE) to Dermatophagoides farina,
+
+Page 2 of 8
+
+D.pteronyssinus, or other common inhalant allergens.
+Anti-nuclear antibody (ANA) was detected using an indirect fluorescent antibody technique (Fluoro HEPANA
+test, Medical & Biological Laboratories, Nagoya, Japan).
+Total IgE and eosinophilic cationic protein (ECP) were
+measured by the ImmunoCAP system (Pharmacia Diagnostics, Uppsala, Sweden) according to the manufacturer’s instruction. Total cholestrol, triglyceride, and high
+and low density lipoproteins (HDL and LDL) were measured by enzymatic colorimetric assay using a TBA-200FR
+anlalyser (Toshiba, Tokyo, Japan). Complement 3 and 4
+levels were measured using an immunoturbidimetric
+assay (Roche Hitachi Cobas C system, Rotkreuz, Switzerland). Antihistamine doses were described as equivalent
+doses of loratadine (mg/day).
+
+Serum PAF and PAF-AH levels
+
+Before collecting serum samples, antihistamines were
+withdrawn for at least 5 days. Serum samples were stored
+at —70 °C until ready for use. Serum PAF and PAF-AH
+levels were measured by commercial enzyme-linked
+immunoabsorbent assay (ELISA) kits (LifeSpan BioSciences, Inc., Seattle, WA, USA and R&D systems Inc.,
+Minneapolis, MN, USA, respectively). The serum samples were diluted based on the detection ranges of PAF
+(78.3-5000 pg/ml) and PAF-AH (0.781—50 ng/ml).
+
+Statistical analysis
+
+Statistical analyses were performed using IBM SPSS, version 25 for Windows (SPSS Inc., Chicago, IL, USA). Data
+are presented as a mean+standard deviation for clinical
+parameters and as a median (interquartile range [IQR])
+for PAF and PAF-AH. As distributions of total IgE levels
+in both CSU and NC groups, were highly right-skewed,
+total IgE were logarithmically transformed (base 10) for
+statistical analyses. Statistical significance was assessed
+by Mann-Whitney U-test or Fisher’s exact test, and correlation analyses were conducted by Spearman's correlation. The level of PAF > 5000 pg/mL was obtained as the
+cut-off for detecting non-responders to antihistamines
+based on receiver operator characteristics (ROC) curve
+analysis (area under the curve 0.642, p<0.001). A generalized linear model was applied to determine the effects
+of PAF and PAF-AH on treatment response in CSU
+patients.
+
+ 
+
+Results
+
+Characteristics of study subjects
+
+The clinical characteristics of study subjects are summarized in Table 1. We enrolled 283 CSU patients
+(42.4+11.7 years old, 184 females) and 111 age- and sexmatched NCs (43.9+11.3 years old, 73 females). BMI
+was not different between the CSU patients and NCs
+
+ 
+
+ 
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+Table 1 Baseline characteristics of the study subjects
+
+ 
+
+ 
+
+Characteristics CSU(n=283) NC(n=111)  pvalue
+Age (year) 4244117 43.94113 0.123
+Female (%) 184 (65.0) 73 (65.8) 0.888
+BMI (kg/m?) 235439 23.1428 0.864
+Urticaria duration (month) —26.1-£51.8 NA
+
+UAS7 (0-42) 244+10.3 NA
+
+Angioedema (%) 122 (45.7) NA
+
+Aspirin intolerance (%) 63/148 (25.5) NA
+
+ASST positivity (%) 81/268 (30.2) NA
+
+ANA positivity (%) 58/271 (21.4) NA
+
+Atopy (%) 150/277 (54.2) NA
+
+Log[Total IgE (kU/L)] 2.09+0.5 1.71406 <0,001
+ECP (kU/L) 2174189 12.7496 < 0.001
+Total cholesterol (mg/dL) 194.9+ 36.8 18844403 0.362
+Triglycerides (mg/dL) 150.4+ 98,7 104.2 +60.0 <0.001
+LDL (mg/dL) 111.9+35.0 115.94+35.0 0.319
+HDL (mg/dL) 55.7+149 70.24270 <0,001
+Complement 3 (mg/dL) 110.14 208
+
+Complement 4 (mg/dL) 266479
+
+ 
+
+p values were obtained by Chi square test for categorical variables and MannWhitney U-test for continuous variables
+
+CSU chronic spontaneous urticaria, NC healthy normal control, BM/ body
+
+mass index, NA not assessable, UAS7 urticaria activity score over 7 days, ASST
+autologous serum skin test, ANA anti-nuclear antibody, ECP eosinophilic cationic
+protein, LDL low density lipoprotein, HDL high density lipoprotein
+
+ 
+
+ 
+
+(23.5+3.9 vs. 23.1+2.8 kg/m’, p=0.864). The mean
+urticaria duration was 26.1 months, and the mean UAS7
+score was 24.4+10.3. The prevalences of angioedema
+and aspirin intolerance were 45.7% and 25.5% in CSU
+patients, respectively. Among the CSU patients, 30.2%
+had a positive response to ASST, and 21.4% were positive on ANA. The atopy rate was 54.2%, and the mean
+level of log-transformed total IgE (kU/L) was 2.09+0.5
+in CSU patients. Mean serum ECP level was higher in
+CSU patients than in NCs (21.7+18.9 vs. 12.7+9.6
+kU/L, p< 0.001). Compared with NCs, patients with CSU
+had higher levels of log-transformed total IgE (p< 0.001)
+and triglycerides (150.4+98.7 vs. 104.2+60.0 mg/
+dL, p<0.001) and lower levels of HDL (55.7+14.9 vs.
+70.2 +27.0 mg/dL, p<0.001), whereas no significant differences in total cholesterol and LDL were observed.
+H1RA non-responders were defined as patients whose
+symptoms could not be controlled by increasing doses
+of antihistamines (up to fourfold) within 3 months, and
+HI1RA responders were defined as those who responded
+well to antihistamine treatment [11]. The clinical characteristics of patients according to H1RA response are
+summarized in Table 2. There were no differences in age
+(42.3 + 12.0 vs. 42.6 + 11.4 years, p=0.665) or sex (female
+65.7 vs. 64.6%, p=0.852) between H1RA responders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 8
+
+and non-responders, nor were there any significant differences in BMI (23.4+4.1 vs. 23.6+3.6, p=0.577). The
+mean urticaria duration of the H1RA responder group
+was 28.8+56.8 months, and that for the H1IRA nonresponder group was 22.1+43.0 months (p=0.289). No
+differences were observed in serum total IgE and complement levels or lipid profiles between the two groups.
+H1RA non-responders had higher UAS7 scores than
+those who responded well to H1IRA treatment (28.8+ 9.3
+vs. 24.4+10.3, p<0.001) at initial visits. They also had
+higher H1RA requirements calculated as the equivalent
+dose of loratadine (mg/day) (21.0+9.4 vs. 30.8+13.3,
+p<0.001) for a subsequent 3 months after enrollment
+into the present study.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Serum PAF and PAF-AH levels in CSU patients and NCs
+The median level of serum PAF was remarkably higher
+in CSU patients than in NCs (4368.9 [17.0-14768.3] vs.
+3256.4 [27.1-13886.7] pg/ml, p=0.015, Fig. la), while
+the median PAF-AH level was comparably lower in CSU
+patients than in NCs (105.6 [2.6-296.4] vs. 125.7 [2.0291.1] ng/ml, p<0.001, Fig. 1b). When we analyzed the
+ratio of PAF-AH to PAF, CSU patients had significantly
+lower PAF-AH/PAF ratios than NCs (Fig. 1c). However,
+there was no correlation between serum PAF and PAFAH levels (r=0.081, p=0.175) in either CSU patients or
+NCs.
+
+ 
+
+Associations for serum PAF and PAF-AH levels
+
+with treatment response
+
+Interestingly, the median level of serum PAF was higher
+in H1RA non-responders than in H1RA responders
+(5426.3 [53.1-14768.3] vs. 3804.5 [17.0-11716.3] pg/
+mL, p<0.001, Fig. 2a), while PAF-AH levels were not
+(104.2 [2.6-296.4] vs. 112.0 [4.4—256.8] ng/mL, p=0.051,
+Fig. 2b). PAF-AH/PAF ratio was also higher in H1IRA
+responders than in H1RA non-responders (124.5 4569.0
+vs. 70.8 + 278.8 ng/mL, p=0.007, Fig. 2c).
+
+With a cut-off level for PAF of 5000 pg/mL obtained by
+ROC curve analysis, we divided CSU subjects and NCs
+with PAF levels >5000 pg/mL, particularly between
+HIRA responder and non-responders. Among CSU
+patients, 117 (41.3%) had PAF levels at least 5000 pg/mL
+in their sera, whereas the rate of high PAF (> 5000 pg/
+mL) in NCs was 29.7% (p=0.038, Fig. 3). The rate of
+patients with high PAF was more frequent among HIRA
+non-responders than among H1RA responders (57.5 vs.
+30.2%, p< 0.001, Fig. 3).
+
+To identify predictors of responsiveness to antihistamine treatment in patients with CSU, we performed
+multivariate analysis using a generalized linear model
+containing age, sex, urticaria duration, UAS7, total
+IgE levels, BMI, ASST response, PAF-AH levels, and
+
+ 
+
+ 
+
+ 
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+Page 4 of 8
+
+Table 2 Clinical characteristics of HIRA responders and H1RA non-responders among CSU patients
+
+ 
+
+ 
+
+Characteristics H1RA responders (n = 169) H1RA non-responders (n= 113) pvalue
+Age (years) 42.34+12.0 4264114 0.665
+Female n (%) 111 (65.7) 73 (64.6) 0.852
+BMI (Kg/m?) 234441 236+3.6 0.577
+Urticaria duration (months) 28.8+56.8 22.1443.0 0.289
+UAS7 (0-42) 244+10.3 288493 < 0.001
+Log[Total IgE (kU/L)] 2.07405 2.13405 0414
+ECP (kU/L) 20.8+ 16.5 23.14224 0.956
+Total cholesterol (mg/dL) 194.8+ 37.1 195.5 +363 0.985
+Triglycerides (ng/dL) 148.7 + 108.3 15354848 0.288
+LDL (mg/dL) 113.0+378 110.7 31.2 0.909
+HDL (mg/dL) 56.14148 55.5153 0.862
+Platelet (*1000/uL) 2628+ 56.7 263.04 56.3 0.654
+Mean platelet volume 8.0408 8.0+0.7 0.544
+Complement 3 (mg/dL) 108.6417.6 11224247 0.525
+Complement 4 (mg/dL) 26.3474 27.0486 0.481
+H1RA dose® (mg/day) 21.0494 308+ 13.3 <0.001
+Steroid use (9%) 88 (52.1) 106 (93.8) <0.001
+Cyclosporine use (%) 0 35 (31.0) <0.001
+Omalizumab use (%) 0 38 (33.6) <0.001
+PAF (pg/ml) 3804.6 [17.0-11716.4] 54264 [53.2-14768.3] <0.001
+PAF-AH (ng/ml) 104.2 [2.6-296.5] 112.1 [4.4-256.9] 0.051
+
+ 
+
+p values were obtained by Pearson's Chi square test for categorical variables and Mann-Whitney U-test for continuous variables
+
+Medication score, daily mean loratadine dose to control symptoms
+
+HIRA histamine receptor 1 antagonist, CSU chronic spontaneous urticaria, BM! body mass index, UAS7 sum of daily urticaria activity scores during the last week, ASST
+autologous serum skin test, ANA anti-nuclear antibody, ECP eosinophilic cationic protein, LDL low density lipoprotein, HDL high density lipoprotein, PAF platelet
+
+activating factor, PAF-AH platelet activating factor acetylhydrolase
+
+* H1RA dose is presented as the mean daily H1RA prescription calculated as the loratadine equivalent dose for 3 months
+
+ 
+
+PAF (pg/ml)
+3
+8
+Ss
+PAF-AH (ng/ml)
+
+a
+3
+3S
+S
+
+ 
+
+CSU (n = 283)
+Fig. 1 Serum levels of PAF (a) and PAF-AH (b) and PAF-AH to PAF ratio (c) in patients with CSU and NCs. PAF platelet activating factor, PAF-AH
+platelet activating factor acetylhydrolase, CSU chronic spontaneous urticaria, NC healthy normal control. p values were calculated by Mann-Whitney
+U-test
+
+NC (n = 111)
+
+ 
+
+PAF>5000 pg/mL as covariates. Higher UAS7 scores
+(odds ratio 1.008, 95% confidence interval 1.001—1.016,
+p=0.020) and PAF>5000 pg/mL (1.414, 1.217-1.642,
+p<0.001) were found to be significant factors for dis
+criminating H1RA non-responders among CSU patients
+(Table 3).
+
+ 
+
+CSU (n = 283)
+
+ 
+
+c
+250 p= 0.002
+aa
+2
+5 200
+wu
+& 150
+2
+G
+E 100
+uw
+& 50
+0 : :
+NC (n= 111) CSU (n= 283) NC (n= 111)
+
+ 
+
+With regard to serum PAF in CSU patients, no correlations with clinical parameters were observed
+(r=0.042, p=0.523 for BMI; r=0.067, p=0.264 for
+urticaria duration; r=0.103, p=0.084 for UAS7).
+Serum PAF-AH levels, however, were correlated positively with BMI (r=0.131, p=0.04) and negatively with
+Ulambayar et al. Clin Transl Allergy (2019) 9:33 Page 5 of 8
+
+ 
+
+ 
+
+9 50000 7 &
+
+p< 0.001 400 p= 0.051 200
+2
+
+15000 * = 300 . ® 450
+= — uw
+£ > : <
+D £ a
+
+= 10000: = 200: ‘* 2 100
+Le ¢ z=
+ES & <
+
+5000 a 100. & 50
+a
+
+0 0
+
+H1RA responders H1RA non-responders HARA responders H1RA non-responders HARA responders H1RA non-responders
+(n= 169) (n= 113) (n= 169) (n= 113) (n= 169) (n= 113)
+
+Fig. 2 Serum levels of PAF (a) and PAF-AH (b) and PAF-AH to PAF ratio (¢) in H1RA responders and H1RA non-responders among CSU patients.
+PAF platelet activating factor, PAF-AH platelet activating factor acetylhydrolase, H1RA histamine receptor 1 antagonist, CSU chronic spontaneous
+urticaria. p values were estimated using Mann-Whitney U-test
+
+ 
+
+ 
+
+ 
+
+ 
+
+DD PAF < 5000 pg/ml
+DD PAF = 5000 pg/ml
+
+CSU (n = 283)
+p=0.038
+
+NC (n = 111)
+
+H1RA non-responders
+(n= 113)
+p<0.001
+H1RA responders
+(n = 169)
+
+0% 20% 40% 60% 80% 100%
+Fig. 3 Prevalence of subjects with high PAF (> 5000 pg/ml) and low PAF (< 5000 pg/mL) in CSU patients versus NCs and H1RA responder versus
+non-responders. PAF platelet activating factor, CSU chronic spontaneous urticaria, NC healthy normal control, HIRA histamine receptor 1 antagonist
+
+ 
+
+ 
+
+ 
+
+Table 3 Generalized linear model for predicting urticaria duration (r=—0.121, p=0.045), while no correfractoriness to H1RA relation was found with UAS7 (r=0.07, p=0.215). PAFCharacteristics Odds ratio (95% Cl) pvalue AH showed positive correlations with C3 (r=0.163,
+p=0.007) and C4 (r=0.185, p=0.002) levels and
+( ) total cholesterol (r=0.231, p<0.001) and triglyceride
+( ) (r=0.192, p=0.014) levels in the sera of patients with
+( ) 0740 CSU, whereas PAF did not (r=—0.067, p=0.275 for
+( ) 0494 C3; r==—0.031, p=0.613 for C4; r=0.029, p=0.264 for
+Total IgE 1.000 (1.000-1.000) 9.078 total cholesterol; r=0.133, p=0.089 for triglyceride).
+( )
+( )
+( )
+( )
+
+ 
+
+ 
+
+Age 1.004 (0.998-1.011
+Female 0.975 (0.827-1.148)
+BMI 0.996 (0.973-1.019)
+Urticaria duration 1.000 (0.998-1.001
+
+0.209
+0.758
+
+UBS? 7 HOO HOGI L016 6020 No correlations were found between total IgE and ECP
+ASST positivity O97 1'(0:825-4 142) 9.720 Jevels with either PAF (r=0.032, p=0.600 for total IgE;
+PAF (> 5000 pg/ml) 1.414 (1.217-1.642) <0.001 r=0.123, p=0.092 for ECP) or PAF-AH (r=— 0.023,
+PAF-AH VO00K029271.002 0582 p=0.699 for total IgE; r=—0.05, p=0.451 for ECP) levHIRA histamine receptor 1 antagonist, C/ confidence interval, BMI body mass els in the sera of CSU patients. Mean medication score
+
+index, UAS7 urticaria activity score over 7 days, ASST autologous serum skin test, . . +
+PAF platelet activating factor, PAF-AH platelet activating factor acetylhydrolase (daily HIRA requirement defined as mean loratadine
+
+ 
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+dose) was positively correlated with serum PAF-AH
+levels (r=0.153, p=0.019), but not with PAF levels
+(r=— 0.014, p=0.835).
+
+Discussion
+
+The present study demonstrates that PAF levels are
+increased and that PAF-AH levels are decreased in the
+sera from CSU patients, compared with those in healthy
+controls. These results are consistent with previous
+reports on increased PAF levels in anaphylactic patients
+[8, 12] and in asthmatics [13].
+
+PAF is a rapid synthesizing, potent signaling phospholipid produced in response to stress, chemotactic factors,
+phagocyte stimulation, exogenous antigens or IgE/IgG,
+thrombin, IL-1, bacteria, or calcium ionophore [1]. PAF
+is synthesized and released from various immune cells,
+including neutrophils, monocytes, macrophages, platelets, eosinophils, and vascular endothelial cells [1], and
+accumulating evidence indicates that PAF is involved in
+inflammation and coagulation through its specific receptor expressed on a wide variety of cell surfaces [14]. PAF
+induces aggregation and activation of neutrophils to
+produce reactive oxygen species and eicosanoids, and
+PAF can augment IL-1, IL-6, and tumor necrosis factor
+(TNF) production via human cells. Meanwhile, IL-1 and
+TNF promotes the release of PAF in neutrophils, macrophages, and endothelial cells. Prior reports of perivascular cellular infiltration of neutrophils, eosinophils, T
+cells, and monocytes, as well as increased expression of
+IL-6 and TNF-a, in urticarial lesions [15] suggest that
+PAF could be a key player in the pathogenesis of CU.
+Indeed, intradermal injection of PAF has been found to
+induce transient wheals with increases in vascular permeability followed by neutrophil infiltration [16].
+
+Previously, Amin et al. [17] reported that neutrophilic
+infiltrates on skin biopsy from CU patients is a marker of
+poor control. In the present study, a high level of serum
+PAF (>5000 pg/mL) in CSU patients was identified as a
+novel predictor of a poor response to antihistamine treatment: higher PAF levels can lead to massive neutrophil
+chemotaxis and finally result in H1RA resistance. PAF
+as a short half-life (3-13 min) due to its fast metabolism
+by circulating PAF-AH, which also degrades oxidized
+hospholipids [8]. We found increased PAF levels and a
+lower PAF-AH to PAF ratio in CSU patients, compared
+with NCs. This suggests that impaired degradation of PAF
+caused by decreased PAF-AH levels might be a reason for
+increased PAF levels in CSU patients. However, we only
+‘ound a marginal and statistically insignificant difference
+in PAF-AH levels between CSU patients and NCs and
+no difference according to H1RA treatment responses
+among CSU patients. The secretion of PAF-AH is reguated by various cytokines, as well as steroid hormones
+
+ 
+
+Page 6 of 8
+
+and gender. Pro-inflammatory cytokines known to be
+elevated in CSU patients, including IL-6, TNF-a, and
+interferon-gamma (IFN-y), can stimulate macrophages to
+express both PAF-AH and complement as a physiologic
+response [18]. Accordingly, we noted significant correlations between PAF-AH and complements 3 and 4 in
+CSU patients in the present study. Moreover, we previously reported the co-existence of metabolic syndrome in
+severe refractory urticaria patients who had higher complement levels [19]. Additionally, increased levels of PAFAH and LDL were found to be associated with abdominal
+adiposity in obese children and adults with metabolic
+syndrome [20, 21]. Interestingly, in the present study, significant correlations for BMI, total cholesterol, triglyceride, and complement levels with serum PAF-AH levels in
+patients with CSU were also observed. Consistent with
+previous reports in which estrogen was found to decrease
+PAF-AH levels, we also found that females had significantly lower levels of PAF-AH than males among both
+CSU patients and NCs [22]. However, because no difference was observed in PAF-AH levels between HIRA
+responders and non-responders, the pathologic effects of
+PAF-AH in CSU remains to be elucidated.
+
+Research has demonstrated that recombinant PAFAH attenuates inflammation in a variety of experimental
+models and that genetic deficiency of PAF-AH increases
+the severity of atherosclerosis and other inflammatory
+syndromes [18]. Correlating with severity, PAF-AH has
+been found to be decreased in both asthmatic patients
+and mice [22, 23]. Moreover, reports have indicated that
+human PAF is associated with increased nasal airway
+resistance to histamine and nasal symptoms [24, 25]. A
+PAFR deficient asthma mouse model showed reduced
+airway hyper-responsiveness [22, 26, 27], and studies
+have revealed correlations between increased PAF levels
+and anaphylaxis severity [8, 12]. Accordingly, inactivation
+of PAF or PAF receptor antagonist has been proven to
+prevent anaphylaxis in vivo [28, 29].
+
+The estimated prevalence of CSU worldwide is around
+0.5-1%, and 50% of CSU individuals do not achieve control with H1RA treatment [30]. While biomarkers to
+predict H1RA responsiveness in CSU patients would
+be helpful, evidence thereof is sparse. Meanwhile, an
+increase in serum levels of lipocalin-2 has been suggested
+as a useful biomarker with which to determine clinical
+responses to antihistamine treatment in CSU patients:
+this biomarker has also been shown to be correlated with
+metabolic syndrome and obesity [11, 31]. Additionally,
+D-dimer, fibrinogen, C-reactive protein, and erythrocyte
+sedimentation rate have been highlighted as promising
+biomarkers for predicting poor responses to antihistamine treatment [32]. Also, increases in IL-6 have been
+reported in refractory CU [33]. Notably, these features of
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+activating coagulation and chronic low-grade inflammation, which are observed in severe CU, can be linked with
+increases in PAF levels and PAF-induced coagulation and
+inflammation.
+
+Rupatadine is a long-acting H1-antihistamine that
+antagonizes PAF and has recently been shown to be effective in allergic diseases, including urticaria [34, 35]. It has
+been found to decrease the severity of peanut-induced
+anaphylaxis and to alleviate symptoms of allergic rhinoconjunctivitis and cold urticaria [36-38]. As indicated in
+multivariate analysis in the present study, higher UAS7
+score and high PAF levels (PAF > 5000 pg/mL) at baseline could be significant predictors of a poor response to
+HIRA treatment. Therapeutic strategies to inhibit PAF
+or to stimulate PAF-AH might be beneficial for HIRA
+refractory CSU patients.
+
+Conclusion
+
+In conclusion, we found serum levels of PAF to be
+increased and PAF-AH levels to be decreased in CSU
+patients, compared with healthy controls. Accordingly,
+we propose that high levels of PAF in serum could be a
+potential predictor of refractoriness to antihistamine
+treatment in CSU patients. For severe patients with high
+UAS7 scores, increasing antihistamines with the addition
+of a PAF antagonist may help to achieve better control
+of CU earlier. Further studies are required to elucidate
+PAF and PAF-AH signaling and therapeutic modulation
+thereof in CSU.
+
+Abbreviations
+
+ANA: anti-nuclear antibody; ASST: autologous serum skin test; BMI: body mass
+index; Cl: confidence interval; CSU: chronic spontaneous urticaria; CU: chronic
+urticaria; ECP: eosinophil cationic protein; ELISA: enzyme-linked immunosorbent assay; H1RA: histamine receptor 1 antagonist; HDL: high density lipoprotein; IQR: interquartile range; LDL: low density lipoprotein; NA: not assessible;
+NC: healthy normal control; PAF: platelet activating factor; PAF-AH: platelet
+activating factor acetylhydrolase; ROC: receiver operating characteristic; TNF:
+tumor necrosis factor; UAS: urticaria activity score; UAS7: urticaria activity score
+over 7 days.
+
+Acknowledgements
+
+The biospecimens from healthy normal controls for this study were provided
+by the Ajou University Human Bio-Resource Bank (AHBB), a member of the
+Korea Biobank Network, which is supported by the Ministry of Health and
+Welfare.
+
+Authors’ contributions
+
+YMY designed the study, interpreted data, and revised manuscript. BU analyzed clinical and laboratory data and wrote the first draft of the manuscript.
+YEM and CHY performed laboratory experiments. SYS and PHS collected clinical data. All authors read and approved the final manuscript.
+
+Funding
+
+This work was supported by a grant from the National Research Foun
+dation of Korea (NRF) funded by the Korea government (MSIP) (NRF2018R1A2B6006199) and a research grant from Ahn-Gook Pharmaceutical Co,
+Ltd, Seoul, Republic of Korea (Grant No. 2018-2019).
+
+Page 7 of 8
+
+Availability of data and materials
+Not applicable.
+
+Ethics approval and consent to participate
+
+The study was approved by the Institutional Review Board of Ajou University
+Medical Center (AJIRB-BMR-SMP-18-74). Written informed consent was collected from all study subjects.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Received: 20 March 2019 Accepted: 28 June 2019
+Published online: 17 July 2019
+
+References
+
+1. Gill P Jindal NL, Jagdis A, Vadas P. Platelets in the immune response:
+revisiting platelet-activating factor in anaphylaxis. J Allergy Clin Immunol.
+
+15;135:1424-32.
+
+2. Honda Z, Ishii S, Shimizu T. Platelet-activating factor receptor. J Biochem.
+2002;131:773-9.
+
+3. Izaki S, Yamamoto T, Goto Y, Ishimaru S, Yudate F, Kitamura K, et al
+Platelet-activating factor and arachidonic acid metabolites in psoriatic
+inflammation. Br J Dermatol. 1996;134:1060-4.
+
+4. Tjoelker LW, Stafforini DM. Platelet-activating factor acetylhydrolases in
+health and disease. Biochim Biophys Acta. 2000;1488:102-23.
+
+5. Chandrashekar L, Rajappa M, Sundar |, Munisamy M, Ananthanarayanan
+PH, Thappa DM, et al. Platelet activation in chronic urticaria and its correlation with disease severity. Platelets. 2014;25:162-5.
+
+6. ZuberbierT, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ball mer-Weber
+B, et al. The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy.
+2018;73:1393-414.
+
+7. ShibamotoT, Liu W, Cui S, Zhang W, Takano H, Kurata Y. PAF, rather than
+histamine, participates in mouse anaphylactic hypotension. Pharmacology. 2008;82:114-20
+
+8. Vadas P, Gold M, Perelman B, Liss GM, Lack G, Blyth T, et al. Platelet-activating factor, PAF acetylhydrolase, and severe anaphylaxis. N Engl J Med.
+2008;358:28-35.
+
+9. Ye YM, Park JW, Kim SH, Ban GY, Kim JH, Shin YS, et al. Prognostic factors
+for chronic spontaneous urticaria: a 6-month prospective observational
+study. Allergy Asthma Immunol Res. 2016;8:115-23.
+
+10. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CE. EAACI/GA(2)LEN task force consensus report: the autologous
+serum skin test in urticaria. Allergy. 2009;64:1256-68.
+
+11. Trinh HK, Pham DL, Ban GY, Lee HY, Park HS, Ye YM. Altered systemic
+adipokines in patients with chronic urticaria. Int Arch Allergy Immunol.
+
+16;171:102-10.
+
+12. Vadas P, Perelman B, Liss G. Platelet-activating factor, histamine,
+and tryptase levels in human anaphylaxis. J Allergy Clin Immunol.
+
+13;131:144-9.
+
+13. Palgan K, Bartuzi Z. Platelet activating factor in allergies. Int J Immunopathol Pharmacol. 2015;28:584-9.
+
+14. Stafforini DM, McIntyre TM, Zimmerman GA, Prescott SM. Platelet-activating factor, a pleiotrophic mediator of physiological and pathological
+processes. Crit Rev Clin Lab Sci. 2003;40:643-72.
+
+15. Stewart GE 2nd. Histopathology of chronic urticaria. Clin Rev Allergy
+Immunol. 2002;23:195-200.
+
+16. Jenks PJ, Kavanagh GM, Brooks J, Bradfield JW, Archer CB. Comparison of
+weal and flare responses to platelet activating factor (PAF) and histamine,
+and the ultrastructural effects of PAF in the skin of atopic and normal
+subjects. Clin Exp Dermatol. 1999;24:112-7.
+
+17. Amin P, Levin L, Holmes SJ, Picard J, Bernstein JA. Investigation of patientspecific characteristics associated with treatment outcomes for chronic
+urticaria. J Allergy Clin Immunol Pract. 2015;3:400-7.
+Ulambayar et al. Clin Transl Allergy (2019) 9:33
+
+20.
+
+22.
+
+23.
+
+24.
+
+25,
+
+26.
+
+27.
+
+28.
+
+29.
+
+Stafforini DM. Biology of platelet-activating factor acetylhydrolase (PAFAH, lipoprotein associated phospholipase A2). Cardiovasc Drugs Ther.
+2009;23:73-83.
+
+Ye YM, Jin HJ, Hwang EK, Nam YH, Kim JH, Shin YS, et al. Co-existence
+
+of chronic urticaria and metabolic syndrome: clinical implications. Acta
+Derm Venereol. 2013;93:156-60.
+
+OkadaT, Miyashita M, Kuromori Y, Iwata F, Harada K, Hattori H. Plateletactivating factor acetylhydrolase concentration in children with abdominal obesity. Arterioscler Thromb Vasc Biol. 2006;26:e40-1.
+
+Rizos E, Tambaki AP, Gazi |, Tselepis AD, Elisaf M. Lipoprotein-associated
+PAF-acetylhydrolase activity in subjects with the metabolic syndrome.
+Prostaglandins Leukot Essent Fatty Acids. 2005;72:203-9.
+
+Tsukioka K, Matsuzaki M, Nakamata M, Kayahara H, Nakagawa T. Increased
+plasma level of platelet-activating factor (PAF) and decreased serum
+
+PAF acetylhydrolase (PAFAH) activity in adults with bronchial asthma. J
+Investig Allergol Clin Immunol. 1996;6:22-9.
+
+Stafforini DM, Numao T, Tsodikov A, Vaitkus D, Fukuda T, Watanabe N, et al.
+Deficiency of platelet-activating factor acetylhydrolase is a severity factor
+for asthma. J Clin Invest. 1999;103:989-97.
+
+Tedeschi A, Palumbo G, Milazzo N, Miadonna A. Nasal neutrophilia and
+eosinophilia induced by challenge with platelet activating factor. J
+Allergy Clin Immunol. 1994;93:526-33.
+
+Munoz-Cano R, Valero A, Roca-Ferrer J, Bartra J, Sanchez-Lopez J, Mullol J,
+et al. Platelet-activating factor nasal challenge induces nasal congestion
+and reduces nasal volume in both healthy volunteers and allergic rhinitis
+patients. Am J Rhinol Allergy. 2013;27:e48-52.
+
+Chung KF, Barnes PJ. Role for platelet-activating factor in asthma. Lipids.
+1991 ;26:1277-9.
+
+Kasperska-Zajac A, Brzoza Z, Rogala B. Platelet-activating factor (PAF): a
+review of its role in asthma and clinical efficacy of PAF antagonists in the
+disease therapy. Recent Pat Inflamm Allergy Drug Discov. 2008;2:72-6.
+Ishii S, Kuwaki T, Nagase T, Maki K, Tashiro F, Sunaga §, et al. Impaired anaphylactic responses with intact sensitivity to endotoxin in mice lacking a
+platelet-activating factor receptor. J Exp Med. 1998;187:1779-88.
+Finkelman FD, Rothenberg ME, Brandt EB, Morris SC, Strait RT. Molecular
+mechanisms of anaphylaxis: lessons from studies with murine models. J
+Allergy Clin Immunol. 2005;115:449-57 (quiz 58).
+
+Page 8 of 8
+
+30. Maurer M, Weller K, Bindslev-Jensen C, Gimenez-Arnau A, Bousquet PJ,
+Bousquet J, et al. Unmet clinical needs in chronic spontaneous urticaria.
+A GA(2)LEN task force report. Allergy. 201 1;66:317-30.
+
+31. NiJ,Ma X, Zhou M, Pan X, Tang J, Hao, et al. Serum lipocalin-2 levels
+positively correlate with coronary artery disease and metabolic syndrome. Cardiovasc Diabetol. 2013;12:176.
+
+32. Deza G, Ricketti PA, Gimenez-Arnau AM, Casale TB. Emerging biomarkers
+and therapeutic pipelines for chronic spontaneous urticaria. J Allergy Clin
+Immunol Pract. 2018;6:1108-17
+
+33. Takahagi S, Mihara S, lwamoto K, Morioke S, Okabe T, Kameyoshi Y, et al.
+Coagulation/fibrinolysis and inflammation markers are associated with
+disease activity in patients with chronic urticaria. Allergy. 2010;65:649-56.
+
+34. Dubertret L, Zalupca L, Cristodoulo T, Benea V, Medina |, Fantin S, et al.
+Once-daily rupatadine improves the symptoms of chronic idiopathic
+urticaria: a randomised, double-blind, placebo-controlled study. Eur J
+Dermatol. 2007;17:223-8.
+
+35. Shamizadeh S, Brockow K, Ring J. Rupatadine: efficacy and safety of a
+non-sedating antihistamine with PAF-antagonist effects. Allergo J Int.
+2014;23:87-95.
+
+36. Arias K, Baig M, Colangelo M, Chu D, Walker T, Goncharova §, et al
+Concurrent blockade of platelet-activating factor and histamine prevents
+life-threatening peanut-induced anaphylactic reactions. J Allergy Clin
+Immunol. 2009;124(307-14):14.e1-2.
+
+37. Compalati E, Canonica GW. Efficacy and safety of rupatadine for allergic
+rhino-conjunctivitis: a systematic review of randomized, double-blind,
+placebo-controlled studies with meta-analysis. Curr Med Res Opin.
+2013;29:1539-51.
+
+38. Abajian M, Curto-Barredo L, Krause K, Santamaria E, Izquierdo |, Church
+MK, et al. Rupatadine 20 mg and 40 mg are effective in reducing the
+symptoms of chronic cold urticaria. Acta Derm Venereol. 2016;96:56-9.
+
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+ 
+
+Ready to submit your research? Choose BMC and benefit from:
+
+fast, convenient online submission
+
+thorough peer review by experienced researchers in your field
+
+rapid publication on acceptance
+
+support for research data, including large and complex data types
+
+gold Open Access which fosters wider collaboration and increased citations
+
+100M website views per year
+
+maximum visibility for your research: over
+
+At BMC, research is always in progress.
+
+Lemmons omcccrcacmannscos Ml BAC
+
+ 
+
+ 
+
+ 
+

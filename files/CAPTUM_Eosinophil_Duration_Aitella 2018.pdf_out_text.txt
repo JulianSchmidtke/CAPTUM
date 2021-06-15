@@ -1,0 +1,1648 @@
+ 
+
+Check for
+updates
+
+ 
+
+ 
+
+& OPEN ACCESS
+
+Citation: Aitella E, De Bartolomeis F, Savoia A,
+Fabiani M, Romano M, Astarita C (2018) The
+overlap syndrome of urticaria and
+gastroesophageal reflux disease. PLoS ONE 13
+(11): 00207602. https://doi.org/10.1371/journal.
+pone.0207602
+
+ 
+
+Editor: Ricardo Queiroz Gurgel, Federal University
+of Sergipe, BRAZIL
+
+Received: June 22, 2018
+Accepted: November 2, 2018
+Published: November 20, 2018
+
+Copyright: © 2018 Aitella et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information
+files.
+
+Funding: The authors received no specific funding
+for this work.
+
+Competing interests: The authors have declared
+that no competing interests exist.
+
+RESEARCH ARTICLE
+The overlap syndrome of urticaria and
+gastroesophageal reflux disease
+
+Ernesto Aitella@", Fabio De Bartolomeis@"”, Alfonso Savoia”*, Massimo Fabiani‘,
+Marco Romano’, Corrado Astaritag@'?>*
+
+ 
+
+Division of Internal Medicine, Section of Allergology and Clinical Immunology, Campania University L.
+Vanvitelli, Naples, Italy, 3 Post Graduate School in Allergology and ical Immunology of Campania
+eases Department, Italian National Institute of Health
+
+     
+
+* corrado.astarita @libero.it
+
+Abstract
+
+Background
+
+One-quarter of systemic symptoms associated with chronic spontaneous urticaria (CSU)
+are related to gastrointestinal complaints (GICs).
+
+Objectives
+
+To investigate the prevalence and features of urticaria-overlapping GICs.
+
+Methods
+
+In this retrospective cross-sectional survey, 1426 consecutive outpatients were observed at
+our University Department. Only patients suffering from urticaria or GICs with a complete
+diagnostic work-up including serum total IgE level (Tot-IgE), differential blood count and urticaria activity score (UAS), were evaluated.
+
+Results
+
+Among different GICs, gastroesophageal reflux disease (GERD) was the most frequent syndrome observed (15.4%; 95%Cl: 13.6—17.3). The prevalence of overlap syndrome for urticaria and GERD was 5.9% (95%Cl: 4.7—7.2). In urticaria-patients, the prevalence of GERD
+was four-fold higher than in patients without hives (44% vs. 11%, p<0.001). UAS was significantly higher in urticaria and GERD overlap syndromes vs. isolated urticarias. In patients
+with GERD or acute/chronic urticaria or overlap syndrome, Tot-IgE and eosinophil blood
+count (EBC) differed significantly, with a stepwise increase in their values; from the subgroup of patients with GERD only, to that with overlap of CSU to GERD. Prevalence values
+for urticaria overlapping with GERD were three- and two-fold higher in CSU and in longduration GERD cases respectively compared to acute urticaria or short-duration GERD
+cases. Similar to Th2 pathology models, CSU and GERD overlap syndrome was
+
+ 
+
+PLOS ONE | hitps://doi.org/10.1371/journal.pone.0207602 November 20, 2018
+
+1/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+significantly and independently associated with Total-IgE >100IU/ml or EBC >250/mmc
+compared to CSU or GERD. Endoscopic/bioptic findings of non-erosive reflux disease
+(NERD) or Barrett’s esophagus (BE) were more frequent in chronic overlap syndrome than
+in GERD-patients.
+
+Conclusions
+
+GERD was the most frequent GIC in patients with urticaria. Overlap syndrome was more
+frequent among patients with CSU, where this syndrome was associated with higher values
+of UAS, Tot-IgE, EBC and frequencies of NERD and BE. These results suggest that overlap
+syndrome is frequently a chronic syndrome with a Th2-like profile.
+
+ 
+
+Introduction
+
+Urticaria is a common and heterogeneous skin disorder characterised by a mast cell-driven
+vascular reaction causing wheals, itch and /or angioedema in response to several either identifiable infectious, allergic, physical, chemical and psychological stimuli or other unidentifiable
+stimuli [1-6] Due to known or unknown causes and excluding physical stimuli, when recurrence of symptoms persist for <6 or >6 weeks, this urticarial skin eruption is defined as acute
+spontaneous urticaria (ASU) or chronic spontaneous urticaria (CSU), respectively [1].
+Although the pathophysiology of CSU is not yet completely understood, a strong characteristic
+of the disease is the specific increased activation and/or degranulation of skin mast cells
+(MCs). These are primed to increase the release of proinflammatory and vasoactive mediators
+through different immunological or non-immunological stimuli and synergistic/sequential
+different pathomechanisms [6-12]. Over the past five years, clinical studies have demonstrated
+the efficacy and safety of the monoclonal antibody omalizumab in the treatment of spontaneous and inducible chronic urticaria [13-15]. However, beyond its’ ability to bind circulating
+IgE, the underlying mechanisms of action are not yet fully understood. [16].
+
+Because human skin MCs are stabilised by anti-IgE agents [17], omalizumab may decrease
+
+ 
+
+the degranulation/activation threshold of skin MCs by non-immunological stimuli such as
+Substance P (SP) [18-20]. Of note, SP activates human skin MCs predominantly via Masrelated G-protein coupled receptor-X2 (MRGPRX2), that is normally expressed on the skin
+MC subset rich in tryptase and chymase (MCy¢) in humans [21]. Furthermore, MRGPRX2
+has also been observed to be over-expressed on skin MCs of patients suffering from CSU, the
+mechanisms of which are still unknown [22, 23]. In addition, SP activates human eosinophils
+[24] that, due to their accumulation in CSU lesions [25] and ability to induce a further degranulation of MCs [22], may play an important role in the pathophysiology of CSU [26]. With
+regard to prevalence data from clinical studies, in a recent clinical survey involving patients
+affected with CSU, 64% of patients reported concomitant systemic complaints, consisting of
+gastrointestinal complaints (GICs) in more than a quarter of cases. Gastrointestinal complaints
+in these patients were also associated with greater disease burden and higher serum tryptase
+levels [27]. Preliminary observations from our group suggest a high prevalence of symptoms
+
+ 
+
+and endoscopic signs of gastro-esophageal reflux disease (GERD) among Italian CSU patients
+with contemporary GICs [28]. Moreover, GERD is recognised as a syndrome that is prevalent
+in Southern Italy [29] and shares features with CSU such as elevated plasma SP levels [20, 30,
+31], which may have an important role in pathogenesis and clinical severity of hives [20]. On
+this basis, we have conducted a retrospective cross-sectional survey to estimate the prevalence
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 2/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+of urticaria and GERD overlap syndrome in patients affected with urticaria and/or GICs and
+to investigate its associated demographic, clinical and biological features.
+
+Methods
+Study population and data source
+
+We examined all patients affected by urticaria and/or GICs among a sample of 1426 newly
+observed consecutive patients who attended the Allergy and Clinical Immunology Section of
+our University Multispecialty Department from October 2013 to December 2014.
+
+Diagnosis of urticaria and/or GICs was confirmed by a clinical allergist/immunologist or a
+gastroenterologist based at the Department where the study was conducted. Among GICs,
+GERD was suspected on the basis of a weekly/daily recurrence of heartburn and/or reflux [32]
+and confirmed in almost all cases by endoscopy. Patients with suspect physical urticaria, intestinal or extra intestinal parasitosis, infections other than Helicobacter pylori (HP) and druginduced urticaria were excluded from the study. Data were retrospectively retrieved from
+patients’ electronic registry and rendered anonymous for analysis by omitting any possible
+personal identifiers. The Ethics Committee of University-Hospital of Campania University
+“Luigi Vanvitelli”, Naples, Italy approved the study.
+
+Endoscopic examination data
+
+Although missing in all ASU cases, results of gastrointestinal endoscopic examination were
+available for all patients with clinically predictable GERD and used to confirm and grade it
+[33]. Diagnosis of non-erosive reflux disease (NERD) resulted from the endoscopic absence of
+mucosal breaks associated with a marked improvement in heartburn and/or acid reflux by a
+PPI test [34, 35]. Diagnostic endoscopy for suspect Barrett's esophagus (BE) was always investigated by histological examination [36, 37].
+
+Diagnostic work-up
+
+In addition to physical examination, basic demographic data and current Urticaria Activity
+Score (UAS) during clinical observation, all patients completed our relatively extensive diagnostic work-up, to avoid any potential diagnostic bias. Work-up included a complete blood
+count with differential count and main liver function tests, the determination of erythrocyte
+sedimentation rate, C-reactive protein levels, urine routine examination, stool examination for
+parasites, dosage of total IgE level (ImmunoCap Total IgE-Phadia AB-Uppsala, Sweden) and
+the presence/absence of infection by HP as determined by 13C-Urea breath/HP, stool antigen
+test or endoscopic biopsy. Our data of interest were demographic data, eosinophil blood count
+(EBC), total IgE serum level (Tot-IgE), the presence/absence of H. Pylori and current UAS.
+
+Urticaria activity score
+
+All patients with urticaria we observed were receiving treatment with different dosages of different non-sedating antihistamines and they consented to the temporary suspension of drugs
+during the week of urticaria activity determination. For this purpose, patients used the simple
+and validated UAS that assesses daily pruritus and number of hives; each component of the
+UAS was scored on a scale of 0 to 3; the 2 scores are added together for a daily total of 0 to 6
+which were added up (sum of each day) over a week, providing the UAS7 [38].
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 3/16
+@-PLOS | one
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+Statistical analysis
+
+Demographic, clinical and main biological data of patients were presented as absolute frequencies with percentage for categorical variables or median values with interquartile range for
+continuous variables. Differences among sub-groups of patients were evaluated by bivariate
+analysis using the Chi-squared test for categorical variables, and the non-parametric Wilcoxon
+rank sum test or Kruskall-Wallis test respectively, for comparison of continuous variables
+between two and three or more sub-groups. Some continuous variables (age, Tot-IgE and
+EBC) were also analysed after recoding into categories of sufficient size to allow for stratification. The results of the Chi-squared test performed for differences among sub-groups after
+recoding were completely consistent with those derived from the non-parametric tests run for
+continuous variables before categorization.
+
+ 
+
+We calculated the prevalence of urticaria, GICs and their overlap syndromes in the whole
+sample and by sub-groups of patients also considering their 95% confidence interval (CI). The
+association between syndrome of urticaria overlapping GERD with urticaria duration (chronic
+vs. acute) and between overlap syndrome and GERD duration (> 12 months vs. < 12 months)
+was evaluated using a multivariate log-binomial model which was controlled for potential confounding effect due to sex, age and presence of HP. The same model was used to evaluate the
+independent association of chronic urticaria and GERD overlap syndrome with Tot-IgE, EBC
+and their interaction in both CSU and GERD patients. The strength of associations were
+described by the adjusted prevalence ratios (PR) and their 95% CI. All p-values less than 0.05
+were considered statistically significant. All analysis was performed using Stata/MP version 1.3
+(StataCorp LP, Texas, USA).
+
+Results
+Prevalence of GICs and spontaneous urticaria
+
+From the entire sample (n = 1426), 290 patients reported GICs (20.3%; 95% CI, 18.2-22.4). A
+total of 191 patients were suffering from urticaria (13.4%; 95% CI, 11.7-15.7) of which 71 were
+from ASU (5.0%; 95% CI, 3.9-6.2) and 120 from CSU (8.4%; 95% CI, 7.0-10.0). Among GICS,
+GERD was the most frequent syndrome (15.4%; 95% CI, 13.6-17.3), followed by irritable
+bowel syndrome (IBS) (12.2%; 95% CI, 10.2-17.3) and dyspepsia (11.2%; 95% CI, 9.6-12-9).
+However, overlap with IBS and/or dyspepsia was present in 150 (10.6%; 95% CI, 9.0-12.2)
+patients suffering from GERD. The overlap of urticaria with GERD was observed in 84 patients
+(5.9%; 95% CI, 4.7-7-2) while overlap of urticaria with other GICs was slightly less frequent
+(Table 1).
+
+The results shown in Table 2 revealed a significantly higher frequency of GERD, IBS and
+dyspepsia in patients suffering from urticaria compared to those who were not (p<0.001).
+GERD presence as well as its association with urticaria (p<0.001) was confirmed through esophagogastroduodenoscopy in all clinically-diagnosed patients who consented to the endoscopic examination. It is worth highlighting that while the frequency of celiac disease was
+similar between the two groups, chronic inflammatory bowel diseases were absent among
+patients with urticaria but over-represented (0.8%) in patients without hives, although this difference did not attain statistical significance.
+
+Demographic data, clinical and main biological features of patients
+suffering from GERD and/or urticaria
+
+Table 3 summarises the main features of patients suffering from urticaria and/or GERD by
+their clinical presentation. In this subgroup of 327 patients, approximately one-quarter
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 4/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+Table 1. Prevalence of urticaria and main gastrointestinal complaints in all 1426 consecutive patients.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overall prevalence
+N. (%5 95% CI)
+
++ URTICARIA + 191 (13.4; 11.7-15.3)
+
+¥ Acute ¥ 71 (5.0; 3.9-6.2)
+
+Y Chronic v 120 (8.4; 7.0-10.0)
++ GICs" «290 (20.3; 18.2-22.4)
+
+v GERD” ¥ 220 (15.4; 13.6-17.3)
+
+v 1BS** v 174 (12.2; 10.2-14.0)
+
+¥ DYSPEPSIA ¥ 159 (11.2; 9.6-12.9)
+
+¥ GERD plus IBS and/or DYSPEPSIA ¥ 150 (10.6; 9.0-12.2)
++ URTICARIA and GERD + 84 (5.9; 4.7-7.2)
++ URTICARIA and IBS + 63 (4.4; 3.4-5.6)
++ URTICARIA and DYSPEPSIA +51 (3.6; 2.7-4.7)
+
+ 
+
+AGICs = Gastrointestinal complaints
+AAGERD = Gastroesophageal reflux disease
+AAAIBS = Irritable bowel syndrome.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t001
+
+(n = 84) suffered from ASU (n = 14, 4.3%) or CSU (n = 70, 21.4%) that were overlapping with
+a pre-existing GERD, while the remaining 243 patients were exclusively suffering from GERD
+(n = 136, 41.6%), ASU (n = 57, 17.4%) or CSU (n = 50, 15.3%). Distribution of sex, age and HP
+co-infection did not differ among the five groups. Urticaria and GERD overlap syndrome was
+significantly more frequent in patients suffering from CSU compared to those from ASU
+(p<0.001). The duration of GERD related symptoms before onset of urticaria was significantly
+
+Table 2. Prevalence of gastrointestinal complaints by the presence or absence of urticaria in all 1426 consecutive
+patients.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+URTICARIA CASES NON URTICARIA
+CASES
+N.=191 N. = 1235
+n. % n. % p-value
+# Patients positive for any GICs* 92 48.2 198 16.0 <0.001
+# Patients positive for each single GIC
+« GERD** -* 84 44.0 136 11.0 <0.001
++ GERD" -4 70 36.6 136 11.0 <0.001
+« IBSS - */4 63 33.0 111 9.0 <0.001
+« DYSPEPSIA- */4 51 26.7 108 8.7 <0.001
++ IBD®S - 4 0 0.0 10 0.8 0.212
++ CELIAC DISEASE- “ 1 0.5 6 0.5 0.945
+« GALLSTONE -’ 0 0.0 1 0.2 0.694
+« OTHERS GICs- * 0 0.0 2 0.2 0.578
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*GICs = Gastrointestinal complaints
+*“GERD = Gastroesophageal reflux disease’
+SIBS = Irritable bowel syndrome
+
+SSIBD = inflammatory bowel diseases
+
+* = Clinical diagnoses
+
+4 = endoscopic diagnosis or diagnoses confirmed by other instrumental or laboratory investigations.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t002
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 5/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+Table 3. Demographic and clinical features of patients suffering from gastroesophageal reflux disease (GERD) and/or urticaria according to different clinical
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+presentations.
+CLINICAL PRESENTATIONS
+a b c d e
+GERD ASU° Acute UGOS* CSU** # Chronic UGOS* Total p-value
+(n. = 136) (n. = 57) (n. = 14) (n. = 50) (n. = 70) (N. = 327)
+n. (%)” n. (%)” n. (%)” n. (%) “ n. (%)” n. (%)”
+Sex @
++ Male 54 (39.7) 25 (43.8) 8 (57.1) 18 (36.0) 21 (30.0) 127 (38.8) All: 0.185
++ Female 82 (61.3) 32 (56.2 6 (42.9 32 (64.0) 49 (70.0) 200 (61.2)
+Age class (years) @
++ <30 28 (20.6) 14 (24.6) 3 (21.4) 7 (14.0) 16 (22.9) 66 (20.2) All: > 0.05
++ 30-39 31 (22.8) 22 (38.6) 5 (35.7) 18 (36.0) 23 (32.9) 99 (30.3)
++ 40-49 47 (34.5) 12 (21.0) 3 (21.4) 17 (34.0) 19 (27.1) 100 (30.6)
++ >50 30 (22.1) 9 (15.8) 3 (21.4) 8 (16.0) 12 (17.1) 62 (18.9)
+Helicobacter pylori coinfection @
++ Yes 46 (33.8) 24 (42.1) 5 (35.7) 16 (32.0) 28 (40.0) 119 (36.4) All: = 0.735
+«No 90 (66.2) 33 (57.9) 9 (64.3) 34 (68.0) 42 (60.0) 208 (63.6)
+UGOS presence (N. = 191) @
+Yes NA 14 (19.7) (58.3) 84 (44.0) <0.001
+«No 57 (80.3) (41.7) 107 (56.0)
+GERD duration (months) (N. = 220) Ss
+- Median [IQR] 10 [8-12] NA 9 [1-12] NA 13.5 [10-18] 12 [8-14]
+Urticaria duration (weeks) (N. = 191)
+- Median [IQR] NA 1.5 [1.5-2] 3 [3-4] 17.5 [14-22] 16 [13-20] 12 [2-19]
+UAS7 (N. = 191) §
+- Median [IQR] NA 19 [18-21] 27 [24-28] 14.3 [13-19] 22 [20-26] 20 [16-23] All: < 0.001
+c>b: < 0.001
+e>d:< 0.001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“S continuous variables are presented as median and IQR
+
+A = Duration of GERD before urticaria appearance
+
+“ASU = Acute Spontaneous Urticaria
+
+** CSU = Chronic Spontaneous Urticaria
+*“Acute/chronic UGOS = Acute/chronic Urticaria and GERD Overlap Syndrome
+
+@ = Chi-square test
+
+§ = Wilcoxon rank sum test (comparison between two groups) or Kruskall-Wallis test (comparison among three or more groups)
+
+IQR = Interquartile range
+
+UAS7 = Urticaria activity score over a week
+
+NA = Not applicable.
+NS = Not significant.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t003
+
+longer in patients suffering from subsequent overlap of urticaria compared to patients with
+isolated GERD (p<0.001) as well as in GERD cases with overlap of CSU than in those with
+ASU (p<0.001). As measured by UAS7, patients suffering from ASU or CSU overlap with
+GERD were observed to have a greater severity of hive recurrence compared to those suffering
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018
+
+6/16
+oe
+1) 7 PLOS | ONE Urticaria and gastroesophageal reflux disease
+
+ 
+
+600
+400
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+; =
+ws 3
+a —_ ae
+= +
+e . 8
+E g
+£84 —— = 1 1
+5 £
+g q 32| ; :
+: 28 3
+a z
+GERD ASU O80 Bete SOS Chere GOS GERD ASD 6S Aas GOS Gree GOS
+
+Fig 1. Blood eosinophils and total IgE levels, according to different clinical presentations of gastroesophageal
+reflux disease (GERD) and/or urticaria. Eosinophils and total IgE are significantly more elevated in all cases of
+urticaria and GERD overlap syndrome (UGOS) compared to isolated cases of GERD or urticaria. To be noted in the
+figure, where some of the significant differences are highlighted, how both values show a stepwise increase from the
+isolated GERD group up to the chronic urticaria and GERD overlap syndrome (Chronic UGOS) group. *: p <0.00001;
+“*:p = 0.0018; ***: p = 0.003; ****: p = 0.028; N.S. = Not significant.
+
+https://doi.org/10.1371/journal.pone.0207602.g001
+
+ 
+
+only from isolated ASU (p<0.001) or CSU (p<0.001), respectively. A relative longer duration
+of urticaria in patients with overlap of ASU with GERD compared to patients suffering from
+isolated ASU (p<0.001) was also observed.
+
+Levels of serum total IgE and EBC in patients affected from non-associated diseases
+(GERD, ASU and CSU) or urticaria and GERD overlap syndromes are presented in Fig 1 and
+Table 4, Tot-IgE levels and EBCs significantly differed among the groups (p <0.001), with
+lower values observed in patients suffering from GERD, and higher values in those suffering
+from chronic urticaria and GERD overlap syndrome. With regard to non-associated diseases,
+while total IgE levels were similar in GERD and CSU, they markedly increased in ASU comared to GERD (p <0.00001) and moderately when compared to CSU (p = 0.027), while EBCs
+remained similar across groups. Considering the overlap syndromes between GERD and
+ASU/CSU, while levels of total IgE were similar in both syndromes, EBC was significantly
+higher in overlapping syndrome of CSU with GERD than in that of ASU with GERD. Com
+ared to isolated GERD, total IgE level increased significantly in both overlap syndromes, but
+the increase was higher in patients with overlapping CSU (z-score = -8.7) than those with ASU
+z-score = -4.4). Similarly, EBC also increased significantly but not to a similar extent in overap syndromes of ASU (p = 0.0348) or CSU (p<0.00001) with GERD. Compared to the corresponding isolated urticaria, total IgE increase was statistically significant in both overlap
+syndromes, but the increase between isolated ASU and ASU overlap with GERD was lower
+p = 0.00328) than that observed between isolated CSU and CSU overlap with GERD
+(p<0.00001). In contrast, EBC only increased in CSU and GERD overlap syndrome
+(p<0.00001).
+
+After adjusting for sex, age, and HP co-infection, the prevalence of urticaria and GERD
+overlap syndrome was three-fold higher in CSU compared to ASU patients (adjusted
+PR = 2.99; 95% CI, 1.82-4.92), while overlap syndrome-prevalence was two-fold higher in
+long-duration GERD compared to short-duration cases of GERD (adjusted PR = 2.06; 95% CI,
+1.49-2.83) (Table 5).
+
+Moreover, in both CSU and GERD patients the CSU and GERD overlap syndrome was significantly and independently associated with increased levels of Tot-IgE (> 100 IU/ml)
+
+(p = 0.002) or EBC (> 250 cells/mmc) (p = 0.035) without a significant interaction between
+these two biological parameters (Table 6).
+
+ 
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 7/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+Table 4. Total IgE and Eosinophils blood count analysed by different clinical presentations and after recoding into categories of approximately equivalent size
+patients suffering from gastroesophageal reflux disease (GERD) and/or urticaria.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLINICAL PRESENTATION
+a b s a z
+GERD _ ASU’ csu" | Acute ——Chronic_—-| ‘Total
+UGOS* UGOS* Pp
+n. = 136 n.=57 n.=50 n.=14 n.=70 N. = 327 (Chi-square-test)
+n. (%) n. (%) n. (%) n. (%) n. (%) N. (%)
+Total IgE (IU/ml)
++<50 50 (36.8) 4 (7.0) 13 (26.0) 0 (0.0) 1 (1.4) 68 (20.8) | - a vs b: 0.00027a vs c: NS
+-a vs c: NS
++ 50-79 45 (33.1) 23 (40.4 19 (38.0) 3.(21.4) 8.(11.4) 98 (30.0) | - avs d: 00002
+- avs e: <0.00001
++ 80-149 33 (24.2) 24 (42.1) 13 (26.0) 5 (35.7) 24 (34.3) 99 (30.3) | - b vs c: 0.044
+- b vs d: 0.027
++> 150 8 (5.9) 6.(10.5) 5 (10.0) 6 (42.9) 37 (52.9) 62 (18.9) | -cvse: <0.001
+- dvs e: NS
+Eosinophils blood count (n./mmc)
++ <120 41 (30.1) 12 (21.0) 13 (26.0) 2 (14.3) 0 (0.0) 68 (20.8)) | -avsb: NS
+-avsc: NS
+«120-229 47 (34.6) 18 (31.6) 16 (38.0) 2. (14.3) 7 (10.0) 90 (27.5) | -avsd: NS
+- avs e: <0.00001
+«230-329 39 (28.7 18 (31.6) 14 (26.0) 8 (57.1) 15 (21.4) 94 (28.8) | - bvsc: NS
+- bvs d: NS
++> 330 9 (6.6) 9 (15.8) 7 (14.0) 2 (14.3) 48 (68.6) 75 (22.9) | -cvse: <0.00001
+- dvs e: 0.0007
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+° ASU = Acute Spontaneous Urticaria
+
+** CSU = Chronic Spontaneous Urticaria
+
+*Acute/chronic UGOS = Acute/chronic Urticaria and GERD Overlap Syndrome.
+
+NS = Not significant.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t004
+
+Finally, endoscopic and bioptic data revealed a significantly higher prevalence of NERD in
+patients suffering from CSU and GERD overlap syndrome (61.4%) compared to those only
+suffering from GERD (40.6%) as well as an increased prevalence of short BE in the former
+group compared to the estimated general epidemiological forecast among patients with GERD
+[39] (Table 7).
+
+Discussion
+
+To our knowledge, this is the first study evaluating the prevalence of GERD in patients with
+chronic and acute urticaria. Our analysis revealed that GERD was confirmed in 94% of all
+cases from endoscopic findings. The overall prevalence of urticaria and GERD overlap syndrome was approximately 6% and patients affected from acute or chronic variants of this syndrome presented a grade of urticaria severity that was more intense than that observed in
+patients suffering only from ASU or CSU respectively. Patients with a chronic urticaria overlapping a GERD were significantly more frequent than those with overlap of acute urticaria
+and showed Tot-IgE levels and EBCs that were more elevated than in patients without the
+overlapping syndrome. Finally, in cases of CSU overlapped to GERD there was a higher prevalence of NERD and, although not statistically significant, (probably because of reduced
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018
+
+8/16
+oe
+® 7 PLOS | ONE Urticaria and gastroesophageal reflux disease
+
+ 
+
+Table 5. Factors independently associated with urticaria and GERD overlap syndrome (UGOS) compared to patients suffering from isolated urticaria [A] or iso
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lated gastroesophageal reflux disease (GERD) [B].
+CLINICAL PRESENTATION: UGOS [A] CLINICAL PRESENTATION: UGOS [B]
+ISOLATE ASU+CSU UGOS UGOS
+N=107 N=84 ISOLATEGERD | N=84
+N=136
+n(%) n(%) Adjusted PR° i n(%) n (%) Adjusted PR° p-value*
+(CI 95%) (CI 95%)
+Sex
+Male 45 (60.8) 29 (39.2) 1 53 (64.6) 29 (35.4) 1
+Female 62 (52.0) 55 (47.0) | 1.06 (0.77-1.45) 83 (60.1) 55 (39.9) | 0.96 (0.68-1.36) 0.833
+Age classes (years)
+<30 20 (51.3) 19 (48.7) 1 27 (58.7) 19 (41.3) 1
+30-39 40 (58.8) 28 (41.2) | 0.84 (0.57-1.22) 31 (52.5) 28 (47.5) | 1.11 (0.75-1.65) 0.594
+40-49 30 (56.9) 22 (43.1) | 0.80 (0.54-1.19) 48 (68.6) 22 (31.4) | 0.75 (0.48-1.18) 0.210
+250 17 (53.1) 15 (46.9) 0.94 (0.62-1.44) 30 (66.3) 15 (33.3) 0.82 (0.50-1.34) 0.434
+HP-Infection
+Negative 67 (56.8) 51 (43.2) 1 90 (63.8) 51 (36.2) 1
+Positive 40 (54.8) 33 (44.2) | 1.11 (0.83-1.48) 46 (58.2) 33 (41.8) | 1.16 (0.86-1.18)
+Urticaria duration
+< 6 weeks (ASU) 57 (80.3) 14 (19.7) 1 NA NA NA NA
+> 6 weeks (CSU) 50 (41.6) 70 (58.4) | 2.99 (1.82-4,92) NA NA NA NA
+GERD duration’
+< 12 months NA NA NA 110 (70.8) 45 (29.2) 1
+> 12 months NA NA NA 26 (40.0) 39 (60.0) 2.06 (1.49-2.83) < 0.001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASU = Acute spontaneous urticaria
+
+CSU = Chronic spontaneous urticaria
+
+PR’ = Prevalence ratio adjusted for all variables present in the table
+* = Results from UGOS modelled vs. Urticaria or GERD
+
+A= GERD duration before appearance of urticaria
+
+NA = Not applicable.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t005
+
+statistical power related to the small number of cases), an unusual high frequency of Barrett’s
+esophagus compared to that observed in patients suffering only from GERD.
+
+The overall prevalence of urticaria was in line with that estimated in the general population
+[3] although the value of CSU prevalence slightly exceeded that specifically reported [2]. The
+overall prevalence of GICs (45%) we found in patients with CSU was greater than 26.2% and
+12.8% recently reported, respectively, in American adults [27] and Turkish children [5] but
+was similar to that reported several years ago in European adults [40]. Though the prevalence
+of GERD and IBS largely vary in the general population according to different geographical
+location of examined population and/or to different frequency criteria of symptoms that are
+considered crucial for clinical diagnosis [32, 41, 42], in our sample the overall prevalence of
+each syndrome was similar to that reported in the European general population [32, 43, 44].
+
+However, the observed prevalence values of these syndromes in urticaria patients were
+more than three-fold higher than those in patients without urticaria. Interestingly, patients
+with CSU had a risk of overlap with GERD that was about three-fold that in patients with ASU
+and, even after adjusting for differences in age, sex and HP co-infection distributions between
+these two groups, it was strongly associated with relatively high levels of Tot-IgE and EBC.
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 9/16
+oe
+® 7 PLOS | ONE Urticaria and gastroesophageal reflux disease
+
+ 
+
+Table 6. Association between chronic urticaria and GERD overlap syndrome (Chronic UGOS) with serum total IgE and eosinophils blood count in patients suffering from gastroesophageal reflux disease (GERD) [A] or chronic urticaria [B].
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLINICAL PRESENTATION: CHRONIC UGOS CLINICAL PRESENTATION: CHRONIC UGOS
+[A] [B
+GERD | CHRONICUGOS CSU CHRONIC UGOS
+N=136 N=70 N=50 N=70
+n (%) n (%) Adjusted PR° n (%) n (%) Adjusted PR° | p value*
+(C195%) (CI 95%)
+
+Total IgE (IU/ml)
+*< 100 106 (88.3) 14 (11.7) 1 38 (73,1) 14 (26,9) 1
++> 100 30 (34.1) 56 (65.1) 11.18 (2.42-51.62) 12 (17,6) 56 (82,4) 4.88 (1.12-21.29) | 0.035
+EBC** (cells/mmc)
+«< 250 96 (92.3) 8 (7.7) 1 34 (80,9) 8 (19,1) 1
+© >250 40 (39.2) 62 (60.8) 12.95 (3.05-55.01) 16 (20,5) 62 (79,5) 6.00 (1.49-24.20) | 0.012
+Total IgE & EBC®
+- Total IgE <100 and/or EBC < 250 | 122 (85.9) 20 (14.1) 1 48 (70,6) 20 (29,4) 1
+- Total IgE >100 and EBC > 250 14 (21.9) 50 (78.1) 0.22 (0.04-1.10) 2.(3,8) 50 (96,2) 0.43 (0.09-1.99) | 0.277
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CSU = Chronic spontaneous urticaria
+
+PR’ = Prevalence ratio adjusted for all variables present in the table
+* = Results by chronic UGOS modelled vs. GERD or CSU
+
+EBC** = Eosinophils blood count
+
+§ = Interactions between Tot-IgE and EBC.
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t006
+
+However, although overlap of IBS and GERD as well as other functional gastrointestinal syndromes is very frequent in the general population [45-48], the overlap syndrome of CSU and
+GERD that we report is interesting. Clinically, this phenotype of CSU was found to be more
+severe and similar to what was recently reported for CSU cases with overlap of systemic complaints [27]. A dysregulated neurogenic inflammation [49], which is highlighted in GERD and
+in CSU by presence of relatively elevated plasma levels of neuropeptide SP [20,30,31], can be a
+possible pathway that explains the overlap of CSU with these gastrointestinal syndromes. To
+date, elevated serum levels of SP have only been reported in one study in GERD [30] while the
+
+Table 7. Esophageal endoscopic findings in 205 patients suffering from gastro-esophageal reflux disease (GERD) with or without the overlap of chronic spontaneous urticaria.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHRONIC UGOS GERD p-value
+(N= 70) WITHOUT URTICARIA
+(N = 136)
+ENDOSCOPY/BIOPTIC DATA n (%) n (%)
+
+«NERD 43 (61.4) 55 (40.4) 0.004
++ ERD Los Angeles Grade A 14 (20.0) 50 (36.8) 0.014
++ ERD Los Angeles-Grade B 10 (14.3) 23 (16.9) 0.626
++ ERD Los Angeles-Grade C 0 (0.0) 6 (4.4) 0.075
++ ERD Los Angeles-Grade D 0 (0.0) 0 (0.0) NC
+
++ Barrett’s esophagus 3° (4.3) 2° (1.5) 0.214
+
+ 
+
+UGOS = Urticaria and GERD Overlap Syndrome; Chronic UGOS = Chronic Urticaria and GERD overlap Syndrome; NERD = Non-erosive reflux disease; ERD =
+Erosive reflux disease
+
+* = Short Barrett’s esophagus cases with histological intestinal metaplasia
+
+NC = Not calculable
+
+ 
+
+https://doi.org/10.1371/journal.pone.0207602.t007
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 10/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+few studies that investigated this topic in CSU-patients showed conclusions that were not
+completely consistent regarding possible differences with control subjects [20, 31, 50].
+
+Although the association between mucosal neurogenic inflammation of GERD and cutaneous neurogenic inflammation of CSU as well as those between serum SP levels and both neurogenic inflammations are currently unknown, preferential activation by SP of human skin MCs
+via MRGPRX2 [21], and the associate over-expression of this receptor on skin MCs in CSU
+patients [22] may be a potential connection between mucosal neurogenic inflammation and
+the onset of CSU. Furthermore, the observed stepwise and parallel increase in Tot-IgE and
+EBC values, from the lowest in GERD-patients without urticaria to the highest in patients with
+overlap syndrome of CSU and GERD, suggests a progressively increasing activation of a
+Th2-like profile of immune-inflammatory responses because of a CSU appeared months or
+years after a longstanding GERD that had previously been poorly characterized as well as discontinuously managed. The increase in IgE, which is associated with the transition from a previous isolated GERD to an overlap syndrome of GERD with acute or chronic urticaria,
+suggests that the presence or absence of urticaria in patients with a history of GERD can play a
+key role in determining total serum levels of IgE. However, the specific finding of a significant
+increase in circulating eosinophils in patients suffering from CSU overlapping GERD compared to patients with ASU overlapping GERD or isolated CSU suggests that this phenomenon
+may result from a synergistic biological effect of both diseases but that it is predominantly
+related to the duration of the overlap syndrome.
+
+Eosinophilic esophagitis, GERD and other chronic dysfunctional gastrointestinal diseases
+have recently been revisited as possible expression of atopy/food allergy [51-55]. Actually, levels of total/specific IgE as well as expression rate of allergic diseases slightly higher than in the
+general population have already been reported in patients with CSU [56-58]. Moreover, the
+skin MC yc subset, the main actor of CSU history, largely depends on its multiple and not yet
+fully clarified functions by activation of FceRI-IgE axis, among others also by auto-allergens
+[8-12, 25, 59, 60]. This is all true considering that in experimental animal models it has elegantly been demonstrated that perivascular skin MCy¢ are able to exhibit a selective uptake of
+IgE by their positioning and by extending a cell process across the vessel wall to capture intraluminal IgE [61].
+
+Unfortunately, in GERD or other chronic gastrointestinal syndromes as well as more and
+more in CSU where there are often altered skin responses, gastrointestinal synthesis of foodspecific IgE may be difficult to be detected in the blood or skin due to their minute levels that
+could well be below the sensitivity threshold of diagnostic methods we currently use [62, 63].
+
+Corroborating findings from other CSU reports [26], also in our patients, no significant
+blood eosinophilia was observed. However, SP has recently been shown to activate human
+eosinophils promoting their survival by negative modulation of apoptosis as well as exerting a
+prochemotactic effect on these cells [24]. Moreover, prostaglandin D2, which is a potent proinflammatory mediator mainly synthesized and released from activated mast cells, induces a
+strong chemotactic effect on eosinophils, basophils and Th2 lymphocytes through its DP2
+receptor that is predominantly expressed in these cells [64, 65] and promotes their migration
+into the skin [66]. Indeed, eosinophils cumulate in skin lesions of CSU where they colocalize
+with MCy¢ and induce a further activation of these cells [22, 25]. Importantly, NERD and BE,
+which showed a higher frequency in overlap syndrome of CSU and GERD, have recently been
+
+ 
+
+associated to a Th2-like profile of systemic inflammatory response with increased systemic
+expression of interleukin 4 and 10 [67]. With regard to CSU, it has recently been shown that
+the expression of Th2-initianting cytokines like IL-33 and IL-25 is increased and, among others, these cytokines co-localize with MCs in the lesional skin of patients suffering from CSU [8,
+68].
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 11/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+On this basis, we speculate that in the presence of a longstanding GERD, the slightly elevated serum levels of SP as well as low levels of IgE initially produced in the gut could progressively activate gut MCs and the small subset of MCrc in the submucosa, as well as MC yc in the
+skin, where SP would act initially via MRGPRX2 present on intravascular processes of these
+cells [21, 61]. The ongoing activation of MCs that are in intimate synaptic-like contact with
+sensory peptidergic nerves [69-72] not only initiates a vicious circle enhancing both MC activation and neurogenic inflammation, but also may implement, through some mediators of the
+induced Th2-like “proinflammatory soup”, an increase in IgE production at anatomical sites
+originally involved as well as their increasing blood spreading with relative increase of Tot-IgE
+[73, 74]. Similarly, the negative modulation of SP on eosinophils apoptosis could induce a relative increase in the number of these cells in the blood but the described prochemotactic effect
+on these cells of same SP as well as of prostaglandin D2 could determine progressive accumulation of eosinophils in urticarial lesions so that a blood eosinophilia is never induced. In conclusion, we observed that GERD was the most frequent GIC in patients with urticaria. The
+prevalence of urticaria and GERD overlap syndrome was much higher in CSU-patients,
+
+ 
+
+among whom the overlapping syndrome was associated with more intense urticarial symptoms, higher Tot-IgE and EBC levels, and higher frequencies of NERD and BE. These results
+as a whole suggest that urticaria and GERD overlap syndrome is frequently a clinical chronic
+
+ 
+
+syndrome with a prevalent Th2-like profile.
+
+Supporting information
+
+S1 Dataset. Minimal anonymized dataset necessary to replicate our study findings. Legend
+symbols: GERD = gastroesophageal reflux disease; EBC = Eosinophils blood count; Tot IgE =
+serum total IgE level; HP = Helicobacter Pylori infection; *URT-DUR = duration of urticaria
+(weeks); **GERD-DUR = duration of gastroesophageal reflux disease before urticaria onset
+(months); UAS7 = urticaria activity score according to UAS7; IBS = irritable bowel syndrome;
+***Clinical diagnoses: ASU = acute spontaneous urticaria; CSU = chronic spontaneous urticaria; acute/chronic UGOS = acute/chronic Urticaria and GERD Overlap Syndrome; IBD =
+inflammatory bowel diseases; **** Endoscopic study: endoscopy/bioptic data of GERD according to Los Angeles Classification (L.A.)-grade A, B, C, D (L.A. A/B/C/D); NERD = Non erosive disease; S-BE = Short-Barrett’s esophagus; bioptic data of celiac disease (CD) according to
+the modified Marsh-Oberhuber classification-type 1-4 (Marsh 1-4).
+
+(XLSX)
+
+Author Contributions
+
+Conceptualization: Marco Romano, Corrado Astarita.
+Data curation: Ernesto Aitella, Massimo Fabiani.
+Formal analysis: Ernesto Aitella, Massimo Fabiani.
+Funding acquisition: Corrado Astarita.
+
+Investigation: Ernesto Aitella, Fabio De Bartolomeis, Alfonso Savoia, Marco Romano, Corrado Astarita.
+
+Methodology: Marco Romano, Corrado Astarita.
+Project administration: Corrado Astarita.
+
+Software: Ernesto Aitella, Massimo Fabiani.
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 12/16
+oe
+1) 7 PLOS | ONE Urticaria and gastroesophageal reflux disease
+
+ 
+
+Supervision: Corrado Astarita.
+Validation: Marco Romano, Corrado Astarita.
+
+Visualization: Ernesto Aitella, Fabio De Bartolomeis, Alfonso Savoia, Massimo Fabiani,
+Marco Romano, Corrado Astarita.
+
+Writing - original draft: Corrado Astarita.
+
+Writing - review & editing: Ernesto Aitella, Fabio De Bartolomeis, Alfonso Savoia, Massimo
+Fabiani, Marco Romano, Corrado Astarita.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, et al. The EAACI/GA (2)
+LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the
+2013 revision and update. Allergy 2014; 69:868-87. https://doi.org/10.1111/all.12313 PMID: 24785199
+
+2. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al. The diagnosis and management
+of acute and chronic urticaria: 2014 update. J Allergy Clin Immunol. 2014; 133:1270-7. https://doi.org/
+10.1016/j.jaci.2014.02.036 PMID: 24766875
+
+3. Kaplan AP. Urticaria angioedema. In: Adkinson NF, Bochner BS, Busse WW, Holgate ST, Simons
+FER, editors. Middleton’s Allergy: Principles and Practice. 6'"edition Philadelphia: Mosby Elsevier;
+2003. 1537-58.
+
+4. Sackesen C, Sekerel BE, Orhan F, Kocabas CN, Tuncer A, Adalioglu G. The etiology of different forms
+of urticaria in childhood. Pediatr Dermatol 2004; 21:102-8. https://doi.org/10.1111/).0736-8046.2004.
+21202.x PMID: 15078346
+
+5. Arik Yilmaz E, Karaatmaca B, Sackesen C, Sahiner UM, Cavkaytar O, Sekerel BE et al. Parasitic Infections in Children with Chronic Spontaneous Urticaria. Int Arch Allergy Immunol 2016; 171:130-135
+https://doi.org/10.1159/000450953 PMID: 27907915
+
+6. Shocket AL. Chronic urticaria: pathophysiology and etiology, or the what and why. Allergy Asthma Proc.
+2006; 27:90-—5. PMID: 16724623
+
+7. AsaiK, Kitaura J, Kawakami Y, Yamagata N, Tsai M, Carbone DP, et al. Regulation of mast cell survival
+by IgE. Immunity 2001; 14:791-800. https://doi.org/10.1016/S1074-7613(01)00157-1 PMID:
+11420048
+
+8. Kalesnikoff J, Huber M, Lam V, Damen JE, Zhang J, Siraganian RP, et al. Monomeric IgE stimulates
+signalling pathways in mast cells that lead to cytokine production and cell survival. Immunity 2001;
+14:801-811. https://doi.org/10.1016/S1074-7613(01)00159-5 PMID: 11420049
+
+9. Saini SS. Chronic Spontaneous Urticaria Etiology and Pathogenesis. Immunol Allergy Clin North Am
+2014; 34:33-5. https://doi.org/10.1016/j.iac.2013.09.012 PMID: 24262688
+
+10. Jain S. Pathogenesis of Chronic Urticaria: An Overview. Dermatology Research and Practice, 2014,
+Article ID 674709, 10 pages http://dx.doi.org/10.1155/2014/674709
+
+11. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential pharmacologic mechanisms
+of omalizumab in patients with chronic spontaneous urticaria J Allergy Clin Immunol 2015; 135:337—42.
+https://doi.org/10.1016/j.jaci.2014.04.036 Epub 2014 Jun 17. PMID: 24948369
+
+12. Panaszek B, Pawlowicz R, Grzegrzdétka J, Obojski A. Autoreactive IgE in chronic spontaneous/idiopathic urticaria and basophil/mastocyte priming phenomenon, as a feature of autoimmune nature of the
+syndrome. Arch Immunol Ther Exp. 2017; 65:137—143. https://doi.org/10.1007/s00005-016-0417-7
+PMID: 27582030
+
+13. Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med 2013 Mar 7; 368(10): 924-35. https://
+doi.org/10.1056/NEJMoa1215372 PMID: 23432142
+
+14. Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al. Omalizumab in patients with
+symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy
+Clin Immunol. 2013 Jul; 132(1):101-9. https://doi.org/10.1016/j.jaci.2013.05.013 PMID: 23810097
+
+15. Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an effective and rapidly acting therapy in
+difficult-to-treat chronic urticaria: a retrospective clinical analysis. J Dermatol Sci 2014; 73:57-62.
+https://doi.org/10.1016/j.jdermsci.2013.08.011 Epub 2013 Sep 3. PMID: 24060603
+
+16. Kaplan AP, Giménez-Arnau AM, Saini SS. Mechanisms of action that contribute to efficacy of omalizumab in chronic spontaneous urticaria. Allergy 2017; 72:519-533. https://doi.org/10.1111/all.13083
+PMID: 27861988
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 13/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+Chang TW, Shiung YY. Anti-IgE as a mast cell-stabilizing therapeutic agent. J Allergy Clin Immunol
+2006; 117:1203-1212 https://doi.org/10.1016/j.jaci.2006.04.005 PMID: 16750976
+
+Kulka M, Sheen CH, Tancowny BP, Grammer LC, Schleimer RP. Neuropeptides activate human mast
+cell degranulation and chemokine production. Immunology 2008; 123:398-410. https://doi.org/10.
+1111/).1365-2567.2007.02705.x PMID: 17922833
+
+Pennefather J N, Lecci A, Candenas M L et al. Tachykynins and tachykinins receptors: a growing family.
+Life Sci 2004: 74: 1445-1463. https://doi.org/10.1016/j.lfs.2003.09.039 PMID: 14729395
+
+Zheng W, Wang J, Zhu W, Xu C, He S. Upregulated expression of substance P in basophils of the
+patients with chronic spontaneous urticaria: induction of histamine release and basophil accumulation
+by substance P. Cell Biol Toxicol 2016 Jun; 32(3): 217-28. https://doi.org/10.1007/s10565-016-9330-4
+PMID: 27147256
+
+McNeil BD, Pundir P, Meeker S, Han L, Undem BJ, Kulka M et al. Identification of a mast-cell-specific
+receptor crucial for pseudo-allergic drug reactions. Nature. 2015 Mar 12; 519(7542): 237-41. https://
+doi.org/10.1038/nature14022 Epub 2014 Dec 17 PMID: 25517090
+
+Fujisawa D, Kashiwakura J, Kita H, Kikukawa Y, Fujitani Y, Sasaki-Sakamoto T et al. Expression of
+Mas-related gene X2 on mast cells is upregulated in the skin of patients with severe chronic urticaria. J
+Allergy Clin Immunol. 2014 Sep; 134(3): 622-633.e9 https://doi.org/10.1016/j.jaci.2014.05.004 PMID:
+24954276
+
+Tatemoto K, Nozaki Y, Tsuda R, Konno S, Tomura K, Furuno M, et al. Immunoglobulin E-independent
+activation of mast cell is mediated by Mrg receptors. Biochem Biophys Res Commun. 2006 Nov; 349
+(4): 1322-8. https://doi.org/10.1016/j.bbrc.2006.08.177 PMID: 16979137
+
+Raap M, Ridrich U, Stander S, Gehring M, Kapp A, Raap U. Substance P activates human eosinophils
+Exp Dermatol 2015 jul; 24(7): 557-9. https://doi.org/10.1111/exd.12717
+
+Sabroe RA, Poon E, Orchard GE, Lane D, Francis DM, Barr RM, et al. Cutaneous inflammatory cell infiltrate in chronic idiopathic urticaria: comparison of patients with and without anti-FceRI or anti-lgE autoantibodies. J Allergy Clin Immunol. 1999; 103:484—493. hitps://doi.org/10.1016/S0091-6749(99)
+70475-6 PMID: 10069884
+
+Asero R, Cugno M, and Tedeschi A. Eosinophils in chronic urticaria: supporting or leading actors?
+WAO Journal 2009 Sep; 2(9): 213-7 https://doi.org/10.1097/WOX.0b013e3181 bb965f PMID:
+23283151
+
+Doong JC, Chichester K, Oliver ET, Schwartz LB, Saini SS. Chronic idiopathic urticaria systemic complaints and their relationship with disease and immune measures. J Allergy Clin Immunol Pract. 2017
+Sep - Oct; 5(5): 1314-1318. https://doi.org/10.1016/j.jaip.2016.11.037 PMID: 28302451
+
+De Bartolomeis F, Savoia A, Aitella E, Sacerdoti C, Parlato A, Palmieri C, et al. Urticaria by neurogenic
+switching of gastroesophageal chemical-infective inflammation: a phenomenon that should always be
+evaluated in suspected multiple drug hypersensitivity. Clin Trans! Allergy 2014; 4(Suppl 3): P26. https://
+doi.org/10.1186/2045-7022-4-S3-P26
+
+Giolitto G, Bruzzese D, Sarnelli G, Russo G, Budillonn G, Cuomo R. Prevalence of GERD symptoms in
+the general population from a rural area in the South Italy. X National Congress of Digestive Diseases
+Italian Federation of Digestive Diseases Turin, 27-31 March 2004 Digestive and Liver Disease 36
+(Suppl. 2) (2004), 131-32. https://doi.org/10.1016/S1590-8658(04)00099-4
+
+Otsuka K, Niimi A, Matsumoto H, Ito 1, Yamaguchi M, Matsuoka H et al. Plasma Substance P levels in
+patients with persistent cough. Respiration 2011; 82:431-438. hittps://doi.org/10.1159/000330419
+PMID: 21846969
+
+Metz M, Krull C, Hawro T, Saluja R, Groffik A, Stanger C et al. Substance P is upregulated in the serum
+of patients with chronic spontaneous urticaria J Invest Dermatol. 2014 Nov; 134(11): 2833-2836.
+https://doi.org/10.1038/jid.2014.226 PMID: 24844859
+
+Eusebi LH, Ratnakumaran R, Yuan Y, Solaymani-Dodaran M, Bazzoli F, Ford AC. Global prevalence
+of, and risk factors for, gastro-oesophageal reflux symptoms: a meta-analysis. Gut. 2018 Mar; 67
+(3):430—440. https://doi.org/10.1136/gutjnI-2016-313589 PMID: 28232473
+
+Lundell LR, Dent J, Bennett JR, Blum AL, Armstrong D, Galmiche JP et al. Endoscopic assessment of
+oesophagitis: clinical and functional correlates and further validation of the Los Angeles classification.
+Gut. 1999 Aug; 45(2): 172-80. http://dx.doi.org/10.1136/gut.45.2.172 PMID: 10403727
+
+Hershcovici T, Fass R. Nonerosive Reflux Disease (NERD)—An Update. J Neurogastroenterol Motil
+2010 Jan; 16(1): 8-21. https://doi.org/10.5056/jnm.2010.16.1.8 PMID: 20535321
+
+Katz PO, Gerson LB, Vela MF. Guidelines for the Diagnosis and Management of Gastroesophageal
+Reflux Disease. Am J Gastroenterol 2013 Mar; 108(3): 308-28; quiz 329. https://doi.org/10.1038/ajg.
+2012.444 PMID: 23419381
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 14/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+Fiocca R, Mastracci L, Milione M, Parente P, Savarino V. Microscopic esophagitis and Barrett's esophagus: The histology report. Dig Liver Dis. 2011 Mar; 43 Suppl 4:S319-30. https://doi.org/10.1016/
+$1590-8658(11)60588—4
+
+Vakil N, van Zanten SV, Kahrilas P, Dent J, Jones R; Global Consensus Group. The Montreal definition
+and classification of gastroesophageal reflux disease: a global evidence-based consensus. Am J Gastroenterol. 2006 Aug; 101(8): 1900-20; quiz 1943. https://doi.org/10.1111/j.1572-0241.2006.00630.x
+PMID: 16928254
+
+Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How to assess disease activity in patients with chronic urticaria? Allergy. 2008; 63:777-80. https://doi.org/10.1111/j.
+1398-9995.2008.01726.x PMID: 18445192
+
+Runge TM, Abrams JA, Shaheen Nu. Epidemiology of Barrett's Esophagus and Esophageal Adenocarcinoma. Gastroenterol Clin North Am. 2015 Jun; 44(2): 203-31. https://doi.org/10.1016/j.gtc.2015.02.
+001 Epub 2015 Apr 9. PMID: 26021191
+
+Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves MW. Chronic idiopathic urticaria: comparison of the clinical features of patients with and without anti-FcepsilonRI or anti-IgE autoantibodies. J
+Am Acad Dermatol 1999 Mar; 40(3): 443-50. https://doi.org/10.1016/S0190-9622(99)70495-0 PMID:
+10071316
+
+Locke GR 3rd, Talley NJ, Fett SL, Zinsmeister AR, Melton LJ 3rd. Prevalence and clinical spectrum of
+gastroesophageal reflux: a population-based study in Olmsted County, Minnesota. Gastroenterology
+1997; 112: 1448-56. PMID: 9136821 https://doi.org/10.1016/S0016-5085(97)70025-8
+
+Agréus L, Svardsudd K, Talley NJ, Jones MP, Tibblin G. Natural history of gastroesophageal reflux disease and functional abdominal disorders: a population-based study. Am J Gastroenterol 2001 Oct; 96
+(10): 2905-14. https://doi.org/10.1111/j.1572-0241.2001.04680.x PMID: 11693325
+
+Lovell RM, Ford AC. Global prevalence of and risk factors for irritable bowel syndrome: a meta- analysis. Clin Gastroenterol Hepatol. 2012 Jul; 10(7): 712—721.e4. https://doi.org/10.1016/j.cgh.2012.02.
+029 PMID: 22426087
+
+Enck P, Aziz Q, Barbara G, Farmer AD, Fukudo S, Mayer EA et al. Irritable bowel syndrome. Nat Rev
+Dis Primers. 2016 Mar; 2:16014. https://doi.org/10.1038/nrdp.2016.14 PMID: 27159638
+
+Jung HK, Halder S, McNally M, Locke GR 3rd, Schleck CD, Zinsmeister AR et al. Overlap of gastrooesophageal reflux disease and irritable bowel syndrome: prevalence and risk factors in the general
+population. Aliment Pharmacol Ther 2007 Aug 1; 26(3):453-61. https://doi.org/10.1111/j.1365-2036.
+2007.03366.x PMID: 17635380
+
+Yarandi SS, Nasseri-Moghaddam S, Mostajabi P, Malekzadeh R. Overlapping gastroesophageal reflux
+disease and irritable bowel syndrome: increased dysfunctional symptoms. World J Gastroenterol. 2010
+Mar; 16:1232-8. https://doi.org/10.3748/wjg.v16.i9.1232 PMID: 20222167
+
+Ford AC, Bercik P, Morgan DG, Bolino C, Pintos-Sanchez ML, Moayyedi P. Characteristics of functional
+bowel disorder patients: a cross-sectional survey using the Rome III criteria. Aliment Pharmacol Ther.
+2014 Feb; 39(3): 312-21. https://doi.org/10.1111/apt.12573 Epub 2013 Dec 5. PMID: 24308816
+
+Whitehead WE, Palsson OS, Levy RR, Feld AD, Turner M, Von Korff M. Comorbidity in irritable bowel
+syndrome. Am. J. Gastroenterol. 2007 Dec; 102(12): 2767-76. https://doi.org/10.1111/j.1572-0241.
+2007.01540.x PMID: 17900326
+
+Chiu IM, von Hehn CA, Woolf CJ. Neurogenic inflammation and the peripheral nervous system in host
+defense and immunopathology. Nat Neurosci. 2012 Jul; 15(8): 1063-67. https://doi.org/10.1038/nn.
+3144 PMID: 22837035
+
+Tedeschi A, Lorini M, Asero R. No evidence of increased serum substance P levels in chronic urticaria
+patients with and without demonstrable circulating vasoactive factors. Clin Exp Dermatol. 2005 Mar; 30
+(2): 171-5. https://doi.org/10.1111/j.13865-2230.2005.01732.x PMID: 15725248
+
+Yukselen A, Celtik C. Food allergy in children with refractory gastroesophageal reflux disease Pediatr
+Int. 2016 Apr; 58(4): 254-8. https://doi.org/10.1111/ped.12779 Epub 2015 Dec 29. PMID: 26257132
+
+Semeniuk J, Kaczmarski M. Acid gastroesophageal reflux and intensity of symptoms in children with
+gastroesophageal reflux disease. Comparison of primary gastroesophageal reflux and gastroesophageal refludx secondary to food allergy. Adv Med Sci. 2008; 53(2): 293-9. https://doi.org/10.2478/
+v10039-008-0053-5 PMID: 19095581
+
+Heine RG. Gastroesophageal reflux disease, colic and constipation in infants with food allergy. Curr
+Opin Allergy Clin Immunol. 2006 Jun; 6(3): 220-5. https://doi.org/10.1097/01 .all.0000225164.06016.
+5d PMID: 16670518
+
+Pomiecinski F, Yang AC, Navarro-Rodrigues T, Kalil J, Castro FF. Sensitization to foods in gastroesophageal reflux disease and its relation to eosinophils in the esophagus: is it of clinical importance?
+Ann Allergy Asthma Immunol. 2010 Nov; 105(5): 359-63. https://doi.org/10.1016/j.anai.2010.08.021
+PMID: 21055661
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 15/16
+@. PLOS | ONE
+
+Urticaria and gastroesophageal reflux disease
+
+ 
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74,
+
+Spergel JM. Eosinophilic esophagitis in adults and children: evidence for a food allergy component in
+many patients. Curr Opin Allergy Clin Immunol. 2007 Jun; 7(3): 274-8. https://doi.org/10.1097/ACI.
+0b013e32813aee4a PMID: 17489048
+
+Staubach P, Vonend A, Burow G, Metz M, Magerl M, Maurer M. Patients with chronic urticaria exhibit
+increased rates of sensitisation to Candida albicans, but not to common moulds. Mycoses. 2009 Jul; 52
+(4): 334-8. https://doi.org/10.1111/j.1489-0507.2008.01601.x Epub 2008 Sep 12. PMID: 18793264
+
+Augey F, Gunera-Saad N, Bensaid B, nosbaum A, Berard F, Nicolas JF. Chronic spontaneous urticaria
+is not an allergic disease. Eur J Dermatol. 2011 May-Jun; 21(3): 349-53. hittps://doi.org/10.1684/ejd.
+2011.1285 PMID: 21616748
+
+Zazzali JL, Broder MS, Chang E, Chiu MW, Hogan Du. Cost, utilization, and patterns of medication use
+associated with chronic idiopathic urticaria. Ann Allergy Asthma Immunol. 2012 Feb; 108(2): 98-102.
+https://doi.org/10.1016/j.anai.2011.10.018 Epub 2011 Dec 3. PMID: 22289728
+
+Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy against
+thyroid peroxidase—a novel pathomechanism of chronic
+
+spontaneous urticaria? PLoS One. 2011 Apr 12; 6(4): e14794. https://doi.org/10.1371/journal.pone.
+0014794 PMID: 21532759
+
+Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T, Terui T et al. Significantly high
+levels of anti-dsDNA immunoglobulin E in sera and the ability of dsDNA to induce the degranulation of
+basophils from chronic urticaria patients. Int Arch Allergy Immunol. 2013; 161 Suppl 2:154—8. https://
+doi.org/10.1159/000350388 Epub 2013 May 29. PMID: 23711867
+
+Cheng LE, Hartmann K, Roers A, Krummel MF, Locksley RM. Perivascular mast cells dynamically
+probe cutaneous blood vessels to capture immunoglobulin E. Immunity. 2013; 38(1): 166-75. https://
+doi.org/10.1016/.immuni.2012.09.022 Epub 2013 Jan 3. PMID: 23290520
+
+Lin XP, Magnusson J, Ahlstedt S, Dahlman-Hdéglund A, Hanson L LA, Magnusson O et al. Local allergic
+reaction in food-hypersensitive adults despite a lack of systemic food-specific IgE. J Allergy Clin Immunol. 2002; 109(5): 879-87. PMID: 11994715. https://doi.org/10.1067/mai.2002. 123238
+
+Coéffier M, Lorentz A, Manns MP, Bischoff SC. Epsilon germ-line and IL-4 transcripts are expressed in
+human intestinal mucosa and enhanced in patients with food allergy. Allergy. 2005 Jun; 60(6): 822-7.
+https://doi.org/10.1111/j.1398-9995.2005.00782.x PMID: 15876314
+
+Monneret G, Gravel S, Diamond M, Rokach J, Powell WS. Prostaglandin D2 is a potent chemoattractant for human eosinophils that acts via a novel DP receptor. Blood. 2001 Sep 15; 98(6): 1942-8.
+https://doi.org/10.1182/blood.V98.6.1942. PMID: 11535533
+
+Schuligoi R, Sturm E, Luschnig P, Konya V, Philipose S, Sedej M et al. CRTH2 and D-type prostanoid
+receptor antagonists as novel therapeutic agents for inflammatory diseases. Pharmacology. 2010;
+85:372-82. Review. https://doi.org/10.1159/000313836 PMID: 20559016
+
+Satoh T, Moroi R, Aritake K, Urade Y, Kanai Y, Sumi K et al. Prostaglandin D2 plays an essential role in
+chronic allergic inflammation of the skin via CRTH2 receptor. J Immunol. 2006 Aug 15; 177(4): 2621-9.
+https://doi.org/10.4049/jimmunol.177.4.2621 PMID: 16888024
+
+Ivashkin V, Evsyutina Y, Trukhmanov A, Lyamina S, Malyshev I. Systemic Inflammatory Response in
+Patients with Gastroesophageal Reflux Disease. American Journal of Clinical Medicine Research,
+2015, Vol. 3, No. 4, 64-69. https://doi.org/10.12691/ajcmr-3-4-2
+
+Kay AB, Clark P, Maurer M, Ying S. Elevations in T-helper-2-initiating cytokines (interleukin-33, interleukin-25 and thymic stromal lymphopoietin) in lesional skin from chronic spontaneous (“idiopathic”) urticaria. Br J Dermatol. 2015; 172(5): 1294-302. https://doi.org/10.1111/bjd.13621 Epub 2015 Apr 12.
+PMID: 25523947
+
+Undem Bu, Taylor-Clark T. Mechanisms underlying the neuronal-based symptoms of allergy. J Allergy
+Clin Immunol 2014Jun; 133(6): 1521-34. https://doi.org/10.1016/j.jaci.2013.11.027 Epub 2014 Jan 13.
+PMID: 24433703
+
+Stead RH, Dixon MF, Bramwell NH, Riddell RH, Bienenstock J. Mast cells are closely apposed to
+nerves in the human gastrointestinal mucosa. Gastroenterology 1989; 97:575-85. PMID: 2666250
+
+Stead RH, Tomioka M, Quinonez G, Simon GT, Felten SY, Bienenstock J. Intestinal mucosal mast cells
+in normal and nematode-infected rat intestines are in intimate contact with peptidergic nerves. Proc Natl
+Acad Sci U S A 1987 May; 84(9): 2975-9. PMID: 2437589 PMCID: PMC304783
+
+Williams RM, Berthoud HR, Stead RH. Vagal afferent nerve fibres contact mast cells in rat small intestinal
+mucosa. Neuroimmunomodulation 1997; 4: 266-70. https://doi.org/10.1159/000097346 PMID: 9650820
+Gould HJ, Sutton BJ. IgE in allergy and asthma today. Nat Rev Immunol. 2008 Mar; 8(3): 205-17.
+https://doi.org/10.1038/nri2273 PMID: 18301424
+
+Galli SJ, Tsai M. IgE and mast cells in allergic disease. Nat Med. 2012 May; 18(5): 693-704. https://doi.
+org/10.1038/nm.2755 PMID: 22561833
+
+ 
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0207602 November 20, 2018 16/16
+

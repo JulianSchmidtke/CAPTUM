@@ -1,0 +1,413 @@
+Accepted Manuscript
+
+JOURNAL OF INVESTIGATIVE DERMATOLOGY
+
+Effect of Omalizumab on Blood Basophil Counts in Patients with Chronic Idiopathic/
+Spontaneous Urticaria
+
+Sarbjit S. Saini, Theodore A. Omachi, Benjamin Trzaskoma, Henry N. Hulter, Karin
+Rosén, Patricia M. Sterba, Jean-Paul Courneya, Alan Lackey, Hubert Chen
+
+Pll: $0022-202X(16)32773-7
+
+DOI: 10.1016/.jid.2016.11.025
+
+Reference: JID 650
+
+ 
+
+To appear in: The Journal of Investigative Dermatology
+
+Received Date: 6 May 2016
+Revised Date: 1 November 2016
+Accepted Date: 10 November 2016
+
+Please cite this article as: Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosén K, Sterba PM,
+Courneya J-P, Lackey A, Chen H, Effect of Omalizumab on Blood Basophil Counts in Patients with
+Chronic Idiopathic/Spontaneous Urticaria, The Journal of Investigative Dermatology (2017), doi:
+10.1016/j.jid.2016.11.025.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+Effect of Omalizumab on Blood Basophil Counts in Patients with Chronic
+
+Idiopathic/Spontaneous Urticaria
+
+Sarbjit S. Saini,’ Theodore A. Omachi,” Benjamin Trzaskoma,” Henry N. Hulter,? Karin Rosén,”
+
+Patricia M. Sterba,! Jean-Paul Courneya,! Alan Lackey,’ Hubert Chen”
+
+‘Johns Hopkins Asthma and Allergy Center, Baltimore, Maryland, USA; Genentech, Inc., South
+
+San Francisco, California, USA; LabCorp Clinical Trials, Brentwood, Tennessee, USA
+
+Location work was done: South San Francisco, California, USA
+
+Correspondence: Hubert Chen, MD, MPH, 1 DNA Way, MS #453A, South San Francisco, CA
+
+94080. E-mail: chenh37@gene.com. Tel: 650-225-4619. Fax: 650-467-2322
+
+Short title: Omalizumab effect on blood basophils in CIU
+Keywords: anti-IgE; basophil; chronic idiopathic urticaria; chronic spontaneous urticaria;
+
+omalizumab
+Abbreviations: APC, allophycocyanin; CIU, chronic idiopathic urticaria; CSU, chronic
+spontaneous urticaria; FITC, fluorescein isothiocyanate; IgE, immunoglobulin E; ISS, itch
+
+severity score; PerCP, peridinin chlorophyll protein; s.c., subcutaneous; SD, standard deviation
+
+Target journal: J Invest Dermatol
+ACCEPTED MANUSCRIPT
+
+Current word count: 1118/1000
+References: 15/15
+
+Tables/figures: 2 figures (limit, 2 total)
+TO THE EDITOR
+
+Basophils are believed to play an important role in the pathophysiology of chronic
+idiopathic/spontaneous urticaria (CIU/CSU) (Vonakis and Saini, 2008). Notably, basopenia has
+been reported in patients with CIU/CSU (Rorsman, 1961) and is postulated to be the result of
+migration of basophils from the circulation into the skin (Caproni et al., 2005; Ito et al., 2011;
+Ying et al., 2002). Consistent with this hypothesis, the degree of basopenia has been shown to
+correlate with disease severity (Grattan et al., 2003) and improves during times of remission
+(Eckman et al., 2008; Kern and Lichtenstein, 1976). It is theorized that binding of free IgE by
+omalizumab, a humanized monoclonal antibody against IgE, may influence the behavior of
+basophils and mast cells via down-regulation of the high-affinity receptor (FceRI). To evaluate
+the effect of omalizumab on circulating basophils in CIU/CSU, we conducted a post hoc analysis
+of randomized clinical trial data examining changes in blood basophil counts in relation to
+treatment.
+
+Patient data were obtained from three pivotal trials conducted to evaluate the safety and
+efficacy of omalizumab in patients with CIU/CSU: ASTERIA I (NCT01287117), ASTERIA II
+(NCT01292473), and GLACIAL (NCT01264939). Written informed consent for participation in
+the trials was obtained from all patients or their parent or legal guardian, and study protocols
+were developed in accordance with the principles of the Declaration of Helsinki and approved by
+the institutional review board or ethics committee at each center. Detailed information regarding
+these studies has been previously reported (Kaplan et al., 2013; Maurer et al., 2013; Saini et al.,
+2015).
+
+Patients received subcutaneous omalizumab (75 mg, 150 mg, or 300 mg in ASTERIA I and
+
+ASTERIA II; 300 mg in GLACIAL) or placebo every 4 weeks for 12 (ASTERIA IJ) or 24
+(ASTERIA I, GLACIAL) weeks with a 16-week follow-up period. Blood samples for basophil
+analyses were collected at baseline and every 12 weeks. The presence of blood basophils were
+quantified using two different methods: whole blood histamine assay and basophil percentage by
+flow cytometry. Basophils are highly enriched for histamine content relative to plasma or other
+cellular components of blood. Evidence suggests that the cell-free fraction of histamine is
+minimal compared with the cell fraction in patients with CIU/CSU (Cho et al., 2013), and thus
+the measurement of histamine in whole blood lysate correlates closely with basophil levels in the
+blood (Sabroe et al., 1998; Siraganian, 1974; Siraganian, 1975). Histamine concentrations
+(measured in lysates only for patients participating in US-based sites) were determined using the
+method described by Siraganian et al. (Siraganian, 1974; Siraganian, 1975). Flow cytometric
+assessment of basophils was conducted using samples of sodium heparin anticoagulated
+peripheral blood. Basophils were identified through gating CD123'/HLA DR /CD303° cells.
+Overall, the three pivotal trials included a total of 766 patients; 586 received omalizumab and
+180 received placebo. The histamine analysis included data from 578 patients (omalizumab, 440;
+placebo, 138). The basophil percentage by flow cytometry analysis included data from 608
+patients (omalizumab, 469; placebo, 139). Baseline demographic and clinical characteristics
+
+were similar across studies and treatment groups (Supplementary Table S1, online).
+
+ 
+
+Mean + SD histamine concentrations were generally similar across treatment groups at
+baseline (Supplementary Table S2, online). Changes from baseline in histamine concentration
+are depicted in Figure la. The mean changes from baseline in histamine were greater in the
+omalizumab 300 mg group versus placebo for all three trials at Weeks 12 and 24. Although this
+difference was not always statistically significant in individual trials, the difference was
+
+significant at Week 12 when data from all 3 trials were pooled (omalizumab 300 mg, 4.38,
+versus placebo, 0.54; P < 0.001). Changes in histamine concentration for the lower dose
+omalizumab cohorts were less consistent and not statistically significant.
+
+Mean + SD basophil percentages were generally similar across treatment groups at baseline
+(Supplementary Table $3, online). Changes from baseline in blood basophil percentage are
+shown in Figure 1b. As observed for histamine concentration, the mean change in basophil
+percentage was higher in the omalizumab 300 mg group versus placebo for all three trials at
+Weeks 12 and 24. Although this difference was not always statistically significant in individual
+trials, the difference was significant at Week 12 (omalizumab 300 mg, 0.16, versus placebo,
+0.03; P< 0.001) and at Week 24 (omalizumab 300 mg, 0.19, versus placebo, 0.08; P = 0.018)
+when data was pooled across trials. A similar trend of increased basophil percentage at Week 12
+was observed for the 75 mg group (omalizumab 75 mg, 0.08; P = 0.072) and the 150 mg group
+(omalizumab 150 mg, 0.10; P = 0.039). Across all three trials, histamine concentrations
+correlated well with basophil percentages (r = 0.614, P < 0.001 at baseline and r = 0.664, P<
+0.001 at Week 12; Figure 2).
+
+Among the subset of patients from the pivotal trials included in this post hoc analysis, we
+observed improvements in weekly itch severity score (ISS) that paralleled the improvements in
+blood basophil numbers (Figure 1c). Changes in clinical efficacy, as measured by the weekly
+ISS, correlated weakly with changes in histamine concentration (r = —0.2139; P< 0.001; n=
+582) as well as changes in basophil percentage (r = —0.1486; P < 0.001; n = 637).
+
+To our knowledge, this is the first report to prospectively measure basophil presence in
+circulation relative to clinical measures of CIU/CSU activity, and also the first to examine
+basophil counts on a large scale within an interventional study. Our analysis of data from the
+
+pivotal trials of omalizumab for CIU/CSU showed that circulating blood basophils increased in
+response to treatment with omalizumab 300 mg. Parallel improvements in disease severity, as
+measured by the weekly ISS, were observed across all treatment groups, with the omalizumab
+300 mg group demonstrating the greatest clinical benefit. Correlations between weekly ISS and
+blood basophils measures were weak but significant, suggesting a possible relationship. Taken
+together, our data suggest that the clinical improvement observed with omalizumab treatment
+may be related to its effect on basophils.
+
+This analysis is subject to the same limitations of any post hoc analysis of clinical trial data.
+Whole blood histamine concentrations and flow cytometry data were available for only a subset
+of patients, thus power to detect smaller changes in these measures was limited. While statistical
+significance was not achieved at every individual time point, the trends observed were consistent
+between trials as well as between the two methods used to assess basophils, supportive of an
+overall treatment-related effect.
+
+In summary, our findings lend further evidence to the hypothesis that basophils play an
+important role in pathobiology of CIU/CSU. Future investigation is needed to determine whether
+circulating basophils could serve as a potential useful biomarker for clinical response to
+
+omalizumab in patients with CIU/CSU.
+
+ROLE OF THE FUNDING SOURCE
+
+The pivotal trials (ASTERIA I, ASTERIA II, and GLACIAL) were designed and funded by
+Genentech, Inc., South San Francisco, CA and Novartis Pharma AG, Basel, Switzerland.
+Medical writing support for this manuscript was funded by Genentech, Inc. and Novartis
+
+Pharmaceuticals Corporation.
+CONFLICT OF INTEREST
+
+SSS has received research support from AstraZeneca, Genentech, Inc., the National Institutes of
+Health, and Novartis and has served as a consultant to Array, Genentech, Inc., Kendle,
+MedImmune, Novartis, Pharmacyclics, and Teva. TAO, BT, KR, and HC are all employees of
+Genentech, Inc. and receive stock options from Roche. HNH is a paid consultant to Genentech,
+Inc. PMS and J-PC state no conflict of interest. AL is an employee of LabCorp Clinical Trials,
+
+which received payment for performing the flow cytometry assay described in this paper.
+
+ACKNOWLEDGMENTS
+
+The funding for ASTERIA I, ASTERIA I, and GLACIAL, as well as for the current analysis,
+was provided by Genentech, Inc., South San Francisco, CA and Novartis Pharma AG, Basel,
+Switzerland. Medical writing support for this manuscript was provided by Charlotte Kenreigh
+and Margit Rezabek of Excel Scientific Solutions and funded by Genentech, Inc. and Novartis
+
+Pharmaceuticals Corporation.
+REFERENCES
+
+Caproni M, Giomi B, Volpi W, Melani L, Schincaglia E, Macchia D, et al. Chronic idiopathic
+urticaria: infiltrating cells and related cytokines in autologous serum-induced wheals.
+Clin Immunol 2005;114:284—92.
+
+Cho HJ, Cho SI, Kim HO, Park CW, Lee CH. Lack of association of plasma histamine with
+diamine oxidase in chronic idiopathic urticaria. Ann Dermatol 2013;25:189-95.
+
+Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes in chronic
+idiopathic urticaria in relation to disease activity and autoantibodies. J Invest Dermatol
+2008;128:1956-63.
+
+Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic ordinary
+urticaria and healthy controls: diurnal variation, influence of loratadine and prednisolone
+and relationship to disease activity. Clin Exp Allergy 2003;33:337-41.
+
+Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AF, Yokozeki H. Basophil recruitment and
+activation in inflammatory skin diseases. Allergy 2011;66:1107—13.
+
+Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination
+therapy. J Allergy Clin Immunol 2013;132:101-9.
+
+Kern F, Lichtenstein LM. Defective histamine release in chronic urticaria. J Clin Invest
+1976;57:1369-77.
+
+Maurer M, Rosén K, Hsieh HJ, Saini S, Grattan C, Gimenéz-Arnau A, et al. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med 2013;368:924—35.
+
+Rorsman H. Basopenia in urticaria. Acta Allergol 1961;16:185-215.
+Sabroe RA, Francis DM, Barr RM, Black AK, Greaves MW. Anti-Fc(episilon)RI auto antibodies
+and basophil histamine releasability in chronic idiopathic urticaria. J Allergy Clin
+Immunol 1998;102:651-8.
+
+Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Biilbiil Baskan E, Bradley MS, et al. Efficacy
+and safety of omalizumab in patients with chronic idiopathic/spontaneous urticaria who
+remain symptomatic on H; antihistamines: a randomized, placebo-controlled study. J
+Invest Dermatol 2015;135:67—75.
+
+Siraganian RP. An automated continuous-flow system for the extraction and fluorometric
+analysis of histamine. Anal Biochem 1974;57:383-94.
+
+Siraganian RP. Refinements in the automated fluorometric histamine analysis system. J Immunol
+Methods 1975;7:283-90.
+
+Vonakis BM, Saini SS. New concepts in chronic urticaria. Curr Opin Immunol 2008;20:709-16.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. Ty1/Ty2 cytokines and inflammatory cells in
+skin biopsy specimens from patients with chronic idiopathic urticaria: comparison with
+the allergen-induced late-phase cutaneous reaction. J Allergy Clin Immunol
+
+2002;109:694—700.
+FIGURE LEGENDS
+
+Figure 1. Effects of omalizumab on laboratory and clinical parameters. Change from baseline in (a) mean whole blood histamine
+
+concentration (ng/ml), in (b) mean blood basophil percentage (by flow cytometry), and in (c) mean weekly itch severity score ina
+
+subset of patients enrolled in ASTERIA I, ASTERIA II, and GLACIAL. *P < 0.05 versus placebo.
+
+ASTERIAL
+
+Change fram baseline
+
+Qmalzumab 300 mg (n= 45)
+Omalzumab 150 mg (n= 34)
+Omalzumab 75 mg (n= 42)
+
+Placebo (n= 36)
+
+teat
+
+ 
+
+=
+
+ASTERIA IL
+
+Change from baseline
+
+‘4 p=.
+
+ 
+
+Omalizumab 300 ma in = 49)
+Omalizumad 150 mg (n= 50)
+Omalizumad 75 mg (n= 50)
+Placebo (n= §5)
+
+tate
+
+ 
+
+we
+
+Week
+
+GLACIAL
+
+Change from baseline
+
+ 
+
+|
+A
+
+> Omalizumab 300 mg (n= 170)
+~ Placsbo(n=47)
+
+ 
+
+2 24
+Week
+
+= Omalizumab 200 mg (n= 51)
+> Omalizumab 150 mg (n = 43)
+> Omalizumab 76 mg in = 65}
+~~ Placebo (n= 37]
+
+ 
+
+ 
+
+= Omalizumab 200 mg (n = 53)
++ Omalizumab 150 mg (n= 54)
+> Omalizumab 75 mg in =53}
+= Placebo in = 87]
+
+ 
+
+ASTERIA|
+034
+$024
+g 014 =
+a
+6004
+6
+“04 1 1 1
+0 12 24
+Week
+ASTERIAII
+034
+£02
+i
+5 01+
+a
+S004
+6
+0.1 1 r 1
+a 2 24
+Week
+GLACIAL
+034
+
+°
+
+°
+
+Change trom baseline
+°
+
+ 
+
+ 
+
+= Omalizumab 300 mg (n = 160)
+~~ Placebo in = 48)
+
+ 
+
+fe)
+
+10
+
+Change from baseline Change fram beseline
+
+Change from baseline
+
+ASTERIA|
+
+ 
+
+= Omalizumab 300 mg (n= 64)
+> Omalizumab 180 mg (n=57)
+= Omalizumab 76 mg (n= 64]
+= Placebo (n= 54)
+
+ 
+
+=12
+
+o4
+
+ASTERIA II
+
+> Omalizumab 300 mg (n= 68)
+> Omalizumab 150 mg [n= 65)
+= Omalizumab 75 mg (n= 65)
+= Placebo (n= 67)
+
+ 
+
+ 
+
+12
+Week
+
+GLACIAL
+
+= Omalizumab 300 mg (n = 203)
+~~ Plecebo in = 59)
+
+ 
+
+Week
+

@@ -1,0 +1,759 @@
+Ann Allergy Asthma Immunol 114 (2015) 393-398
+
+ 
+
+Contents lists available at ScienceDirect
+
+   
+
+ELSEVIER
+
+ 
+
+ 
+
+Validation of an ICD-9—based claims algorithm for identifying patients
+with chronic idiopathic/spontaneous urticaria
+
+@® CrossMark
+
+Dasha Cherepanov, PhD *; Karina Raimundo, BPharm, MS‘; Eunice Chang, PhD*; Marianne Eagan, MSc*;
+James L. Zazzali, PhD, MPH‘; Paul G. Solari, MD‘; Bruce DeCotiis, MD‘; Iftikhar Hussain, MD °;
+
+Syed Maseeh Rehman, MD''; Nada Shahab, MBBS, CRC; Stephen A. Tilles, MD‘; and
+
+Michael S. Broder, MD, MSHS *
+
+“Partnership for Health Analytic Research, LLC, Beverly Hills, California
+
+‘Genentech Inc, South San Francisco, California
+
+* Ocean Allergy and Respiratory Research Center, Brick, New Jersey
+
+“Allergy, Asthma and Immunology Center, PC, Vital Prospects Clinical Research Institute, Tulsa, Oklahoma
+‘Asthma & Allergy Center, Toledo, Ohio
+
+‘ASTHMA, Inc, Clinical Research Center, Seattle, Washington
+
+ 
+
+ARTICLE INFO ABSTRACT
+
+ 
+
+Article history:
+
+Received for publication October 25, 2014.
+Received in revised form January 14, 2015.
+Accepted for publication February 4, 2015.
+
+Background: There is no specific International Classification of Diseases, Ninth Revision, Clinical Modification (ICD9-CM) code for chronic idiopathic urticaria or spontaneous urticaria (CIU/CSU), a skin condition characterized by
+hives and angioedema lasting at least 6 weeks with no known cause.
+Objective: To validate an ICD-9-CM—based algorithm for identification of patients with CIU/CSU and thus
+facilitate claims-based research.
+Methods: Patient records were reviewed at 4 US practices. Patients included in the study were from a random
+sample of those identified by their physician as having CIU/CSU or because they met the following diagnosis-based
+algorithm: (1) at least 2 outpatient ICD-9-CM diagnosis codes 708.1, 708.8, or 708.9 at least 6 weeks apart or (2) 1
+outpatient diagnosis of 708.1, 708.8, or 708.9 and 1 diagnosis of 995.1 at least 6 weeks apart. Data collected
+included ICD-9-CM codes, diagnoses of urticaria and allergy-related conditions, and medication use. Sensitivity
+and positive predictive value were calculated. The study was approved by the Western Institutional Review Board.
+Results: One hundred forty-nine patient records were reviewed (mean age 41.1 years; 73.8% were women;
+69.1% were white): 115 were identified with the diagnosis-based algorithm, 90 were patients with “known
+CIU/CSU”, and 56 were in the 2 groups. The mean duration of CIU/CSU was 2.9 to 3.1 years. The 2 cohorts
+most frequently had diagnoses of idiopathic urticaria, unspecified urticaria, and other specified urticaria. The
+diagnosis-based algorithm had a positive predictive value of 90.4% and a sensitivity of 71.1%.
+Conclusion: The high positive predictive value suggests that patients identified using the algorithm are highly
+likely to have CIU/CSU. The 71.1% sensitivity suggests that most patients with CIU/CSU will be identified. The
+validation statistics support the use of the diagnosis-based algorithm in claims-based research, although
+future studies could refine the algorithm further.
+
+© 2015 American College of Allergy, Asthma & Immunology. Published by Elsevier Inc. All rights reserved.
+
+ 
+
+Introduction
+
+Chronic idiopathic urticaria or spontaneous urticaria (CIU/CSU) is a
+
+Reprints: Karina Raimundo, BParm, MS, Genentech Inc, 1 DNA Way, South San oe ge . a sentra
+Py Ns debilitating heterogeneous skin condition that affects individuals of all
+
+Francisco, CA 94080; E-mail: raimundo.karina@gene.com,
+
+Disclosure: Drs Broder, Chang, and Cherepanov, and Ms Eagan are employees of the
+Partnership for Health Analytic Research, LLC, a health services research company
+paid to conduct this research. Ms Raimundo, and Drs Zazzali and Dr Solari are
+employees of Genentech Inc. Drs DeCotiis, Hussain, Rehman, and Tilles have
+received research support from Genentech.
+
+Funding: This study was funded by Genentech.
+
+Part of this research was presented at the 19th annual meeting of the International
+Society for Pharmacoeconomics and Outcomes Research; Montreal, Quebec,
+Canada; May 31 to June 4, 2014.
+
+http://dx.doi.org/10.1016/j.anai.2015.02.003
+
+ages and can last for several years.'° CIU/CSU also is known to
+significantly decrease patients’ quality of life.” ° Often co-occurring
+with angioedema, CIU/CSU is characterized by daily or almost daily
+symptoms such as itchy hives or wheals lasting longer than 6 weeks. It
+is prevalent in approximately 0.08% to 0.5% of the population and
+predominately affects women.! °°"!
+
+Different studies have investigated the underlying biologic
+mechanisms and management of CIU/CSU,'*'* but few have
+
+1081-1206/© 2015 American College of Allergy, Asthma & Immunology. Published by Elsevier Inc. All rights reserved.
+394
+
+ 
+   
+
+  
+    
+   
+ 
+
+Urticaria Component:
+two outpatient diagnoses of
+idiopathic urticaria (ICD-9CM: 708.1), other specified
+urticaria (708.8), or
+unspecified urticaria
+(708.9), 26 weeks apart.
+
+   
+  
+   
+
+   
+     
+     
+   
+
+COMPONENTS
+
+Diagnosis-Based
+Algorithm
+
+ALGORITHMS
+
+Angioedema
+Component:
+one outpatient diagnosis of
+708.1,
+one diagnosis of 995.1
+(angioneurotic edema), >6
+
+D. Cherepanov et al. / Ann Allergy Asthma Immunol 114 (2015) 393—398
+
+  
+   
+  
+   
+   
+ 
+
+Medication-Based
+Component:
+1 outpatient diagnosis of
+either 708.1, 708.8, or 708.9,
+and with the use montelukast,
+cyclosporine, methotrexate,
+or oral corticosteroids.
+
+708.8, or 708.9, and
+
+weeks apart
+
+Diagnosis-Based +
+Medication-Based
+Algorithm
+
+Figure 1. Algorithm construction. ICD-9-CM, International Classification of Diseases, Ninth Revision, Clinical Modification.
+
+examined epidemiology, treatment patterns, or burden of
+illness,®:° which includes the effects of comorbidity, health care
+costs, and use. This could be because CIU/CSU is difficult to
+assess in the general population and a lack of an International
+Classification of Diseases, Ninth Revision, Clinical Modification
+(ICD-9-CM) diagnosis code for CIU/CSU limits secondary data
+analyses. One study used health insurance claims to describe
+patterns of health service use in CIU/CSU.'* These findings were
+consistent with prior results,2*°!°!° but the ICD-9-CM algorithms used to identify patients with CIU/CSU had not been
+validated, potentially limiting the reliability of the findings.
+
+To enable accurate research using administrative claims, a
+multicenter chart review was conducted to validate and revise the
+previously used ICD-9-CM—based algorithms that could be used to
+identify patients with CIU/CSU. Then, the resulting algorithms were
+tested in an insurance claims database.
+
+Methods
+Study Design and Setting
+
+A retrospective review of patients’ medical and billing records
+was conducted at 4 specialized asthma and allergy centers in the
+United States, with a large volume of CIU/CSU, a wide variety of
+practice settings, and different geographic regions. The ICD-9-CM
+algorithm also was tested in an insurance claims database. The
+Western Institutional Review Board (www.wirb.com) approved the
+study (protocol 1140461).
+
+Patient Population
+
+Chart review included a random sample of patients who (1)
+met an ICD-9-CM code algorithm or (2) were identified by their
+physician as having CIU/CSU. Patients in the algorithm positive
+sample had 2 outpatient diagnoses of idiopathic urticaria (ICD9-CM code 708.1), other specified urticaria (708.8), or unspecified urticaria (708.9), with the 2 diagnoses at least 6 weeks
+apart, or had 1 outpatient diagnosis of 708.1, 708.8, or 708.9 and
+1 diagnosis of 995.1 (angioneurotic edema) at least 6 weeks
+apart. The 6-week interval was used to avoid identifying patients with acute urticaria conditions that resolved in a short
+period. Patients who did not have at least 1 visit to the study site
+from January 1, 2010 through June 1, 2013 were excluded. The
+goal was to achieve a relatively large sample size by including
+150 eligible patients divided among the 4 centers. The algorithms were tested in a patient population selected from a
+Health Insurance Portability and Accountability Act compliant
+administrative claims database, containing data on approximately 28 million patients.
+
+Data Collection
+
+Study abstractors (site clinical office staff) were trained in
+screening charts and data entry. Data were collected using a
+secure, Web-based application (http://www.project-redcap.org/;
+supported by grant UL1TROO0011 from the National Center for
+Advancing Translational Sciences at the National Institutes of
+Health). Medical and billing record data were collected from
+January 1, 2010 through June 1, 2013 for every patient. Medical
+record data included demographics (age, sex, and race or
+ethnicity), presence of angioedema, various urticaria conditions
+(physical urticaria, contact urticaria, urticaria vasculitis, and
+other urticaria conditions), allergy-related conditions (angioedema, asthma, allergic rhinitis, atopic dermatitis, allergic purpura, and other allergy conditions), and medication use. Billing
+record data included the use of ICD-9-CM codes 708.1 (idiopathic
+urticaria), 708.2 (urticaria due to cold and heat), 708.3 (dermatographic urticaria), 708.4 (vibratory urticaria), 708.5 (cholinergic urticaria), 708.8 (other specified urticaria), 708.9 (urticaria,
+unspecified), and 995.1 (angioneurotic edema).
+
+Statistical Analysis
+
+Validation statistics included positive predictive value (PPV) and
+sensitivity. PPV is defined as the proportion of confirmed cases
+(“true positives”) of all patients identified by a test (“test positives”).'° Sensitivity is defined as the proportion of patients
+correctly identified by a test (“true positives”) in a group known to
+have the condition (“condition positives”).'° PPV was calculated
+only for patients from the algorithm positive sample (the “test
+positives”), and sensitivity was calculated only for patients known
+to have CIU/CSU (the “condition positives”). Descriptive statistics
+summarizing the distribution of demographics, ICD-9-CM codes,
+duration of CIU/CSU, urticaria conditions, allergy-related conditions, and medication use were reported. Missing data were not
+imputed.
+
+The main algorithm (‘“diagnosis-based algorithm”) had 2
+components (Fig 1). The first component (“urticaria component”)
+identified patients with at least 2 outpatient ICD-9-CM diagnoses
+of urticaria (idiopathic, other specified, or unspecified) at least 6
+weeks apart. The second component (“angioedema component”)
+identified patients with 1 outpatient ICD-9-CM diagnosis of urticaria and 1 of angioedema at least 6 weeks apart. The algorithm
+proposed by Zazzali et al'* had a third component that identified
+people with 1 outpatient [CD-9-CM diagnosis of urticaria and an
+overlapping supply of a prescription antihistamine and a second
+antihistamine, montelukast, cyclosporine, methotrexate, or oral
+corticosteroids. During initial testing for the present study using
+D. Cherepanov et al. / Ann Allergy Asthma Immunol 114 (2015) 393—398 395
+
+Table 1
+Patients’ demographics and clinical characteristics
+
+ 
+
+Algorithm Known CIU/CSU All (N = 149)
+positive® (n = 90)
+(n = 115)
+Age (y), mean (SD) 41.0(21.7) 44.6 (17.6) 41.1 (20.8)
+Age (y), n (%)
+<11 3 (11.3) 0(0) 13 (8.7)
+i2=17 2(10.4) 8 (8.9) 16 (10.7)
+18-34 9(16.5) 21 (23.3) 28 (18.8)
+35-44 5 (13.0) 12 (13.3) 20 (13.4)
+45-54 25 (21.7) 21 (23.3) 30 (20.1)
+55-64 5 (13.0) 18 (20.0) 23 (15.4)
+>65 6(13.9) 10(11.1) 19 (12.8)
+Female, n (%) 86(74.8) 66 (73.3) 110 (73.8)
+Race or ethnicity, n (%)
+White 81(70.4) 55 (61.1) 103 (69.1)
+Black or African American 9 (7.8) 9 (10.0) 15 (10.1)
+Other or multiple 4 (3.5) 2 (2.2) 6 (4.0)
+Unknown 21(18.3) 24 (26.7) 25 (16.8)
+ICD-9-CM codes, n (%)
+708.1 Idiopathic urticaria 63 (54.8) 54 (60.0) 87 (58.4)
+708.2 Cold/heat urticaria 2 (1.7) 2 (2.2) 3 (2.0)
+708.3 Dermatographic urticaria 2 (1.7) 1 (1.1) 2 (1.3)
+708.4 Vibratory urticaria 1 (0.9) 1 (1.1) 1 (0.7)
+708.5 Cholinergic urticaria 0 (0.0) 1 (1.1) 1 (0.7)
+708.8 Other specified urticaria 52 (45.2) 43 (47.8) 78 (52.3)
+708.9 Urticaria, unspecified 24 (20.9) 23 (25.6) 27 (18.1)
+995.1 Angioneurotic edema 17 (14.8) 13 (14.4) 24 (16.1)
+CIU/CSU duration (y)”
+Mean (SD) 3.1 (3.2) 2.9 (3.3) 2.9 (3.0)
+Median 25 23 oa
+Urticaria conditions, n (%)
+Physical urticaria 10 (8.7) 8 (8.9) 12 (8.1)
+Contact urticaria 4 (3.5) 1 (1.1) 4 (2.7)
+Urticaria vasculitis 0 (0.0) 0 (0.0) 0 (0.0)
+Other 22(19.1) 27 (30.0) 28 (18.8)
+Allergy-related conditions, n (%)
+Angioedema 22 (19.1) 16 (17.8) 31 (20.8)
+Asthma 25 (21.7) 2022.2) 37 (24.8)
+Allergic rhinitis 62 (53.9) 51 (56.7) 87 (58.4)
+Atopic dermatitis 20 (17.4) 5 (5.6) 20 (13.4)
+Allergic purpura 0 (0.0) 0 (0.0) 0 (0.0)
+Other allergic 31 (27.0) 19 (21.1) 41 (27.5)
+Medication use, n (%)
+Any 114(99.1) 90 (100.0) 148 (99.3)
+Antihistamine 113 (98.3)  89(98.9) 146 (98.0)
+Nonsedating® 109 (94.8) 88 (97.8) 142 (95.3)
+Other* 65 (56.5) 47 (52.2) 82 (55.0)
+Omalizumab 15(13.0) 12 (13.3) 17(11.4)
+Oral corticosteroids 57 (49.6) 48 (53.3) 70 (47.0)
+Doxepin hydrochloride 18 (15.7) 13 (14.4) 20 (13.4)
+Montelukast sodium 26 (22.6) 18 (20.0) 31 (20.8)
+Hp blockers 33(28.7) 16 (17.8) 33 (22.1)
+Dapsone 0 (0.0) 0.(0.0) 0 (0.0)
+Sulfasalazine 6 (5.2) 7(7.8) 7 (4.7)
+Epinephrine auto injector 38 (33.0) 26 (28.9) 47 (31.5)
+Cyclosporine 24 (20.9) 25 (27.8) 25 (16.8)
+Other medications for CIU/CSU° 3 (11.3) 10 (11.1) 16 (10.7)
+
+Abbreviations: CIU/CSU, chronic idiopathic urticaria/spontaneous urticaria; ICD-9CM, International Classification of Diseases, Ninth Revision, Clinical Modification.
+*One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1
+diagnosis of 995.1 at least 6 weeks from the first.
+
+>Number of patients with information of the date of first CIU/CSU diagnosis varied
+by group (Algorithm positive, 81; known CIU/CSU, 62; all, 110).
+
+“Includes cetirizine hydrochloride, desloratadine, fexofenadine hydrochloride, levocetirizine dihydrochloride, and loratadine.
+
+‘Includes diphenhydramine hydrochloride, chlorpheniramine maleate, brompheniramine maleate, clemastine fumarate, pheniramine maleate, and hydroxyzine
+hydrochloride.
+
+“Includes any other oral, injectable, and topical medications listed by the abstractor
+as being used to treat CIU/CSU.
+
+claims data from 2013, there was a decrease in the proportion
+of patients who filled a prescription for an antihistamine, from
+68% in 2007 (the data used in the study by Zazzali et al'*) to
+23% in 2013, which was attributed to the increased availability
+
+of over-the-counter antihistamines. Accordingly, the medication
+component was excluded from the first round of validation.
+In exploratory analyses, the authors examined how the initial
+validation statistics were affected by 4 changes to the main diagnosisbased algorithm. First, ICD-9-CM code 708.8 (other specified urticaria)
+was eliminated. Second, the gap required between ICD-9-CM codes
+was shortened from 6 to 4 weeks. Third, a new “diagnosis +
+medication-based algorithm” was defined by allowing the use of
+montelukast, cyclosporine, methotrexate, or oral corticosteroids to
+substitute for a confirmatory urticaria or angioedema code. Fourth, the
+effect of the diagnosis + medication-based algorithm was tested,
+which required at least 90 days of use (vs any use) of one of the listed
+medications.
+
+The 2 best performing algorithms identified (main diagnosis-based
+and diagnosis + medication-based) and the original algorithm
+developed by Zazzali et al'* underwent further validation tests in the
+claims database. The populations identified by each of these 3 algorithms were compared because, for the diagnosis + medication-based
+algorithm and the algorithm developed by Zazzali et al,'? the chart
+review sample was missing an unknown number of “test positive”
+patients (because the algorithm used to identify patients would not
+have identified all modified algorithm “test positive” patients).
+Therefore, PPV could not be accurately estimated and further validation was conducted.
+
+All data transformations and statistical analyses were performed
+using SAS 9.4 (SAS Institute, Cary, North Carolina).
+
+ 
+
+ 
+
+ 
+
+Results
+
+One hundred fifty patient records were collected, 1 of which was
+included based on an incorrect ICD-9-CM code. The final sample
+consisted of 149 patients: 115 in the algorithm positive sample and
+90 in the known CIU/CSU sample (56 were in the 2 samples). The
+algorithm positive sample had a mean age of 41.0 years (SD 21.7)
+and the known CIU/CSU sample had a mean age of 44.6 years (SD
+17.6). Women constituted 74.8% of the algorithm positive group and
+73.3% of the known CIU/CSU group. White patients constituted
+70.4% of the algorithm positive group and 61.1% of the known CIU/
+CSU group (Table 1).
+
+The mean duration of CIU/CSU was nearly identical between the
+cohorts: 3.1 years (SD 3.2; median 2.5) in the algorithm positive
+sample vs 2.9 years (SD 3.3; median 2.3) in the known CIU/CSU
+group. The distribution ICD-9-CM codes differed somewhat between groups, with slightly fewer patients in the algorithm positive
+group being coded with idiopathic urticaria (54.8% vs 60.0%) and
+unspecified urticaria (20.9% vs 25.6%). “Other” urticaria conditions
+(eg, other than idiopathic, physical, or contact urticaria or urticaria
+vasculitis) were less common in the algorithm positive sample
+compared with the known CIU/CSU sample (19.1% vs 30%). Allergyrelated conditions were found in similar proportions between
+groups, although atopic dermatitis was seen in 17.4% of the algorithm positive group compared with 5.6% of the known CIU/CSU
+group.
+
+The rank ordering of the most commonly used long-term
+medications was similar between groups, with antihistamine
+and oral corticosteroids most common in the 2 groups. H2
+blockers, cyclosporine, and montelukast were the next most
+commonly used medications, and doxepin, omalizumab, and
+sulfasalazine were least commonly used (although the rank
+order differed somewhat between groups). Epinephrine autoinjector was prescribed in approximately one third of cases
+(Table 1).
+
+Algorithm Development
+
+In the algorithm positive sample (N = 115), there were 104 true
+positives, for a PPV of 90.4%. The algorithm correctly identified 64 of
+396 D. Cherepanov et al. / Ann Allergy Asthma Immunol 114 (2015) 393—398
+
+Table 2
+Validation statistics for CIU/CSU patient identification algorithms
+
+ 
+
+Algorithm positive sample
+
+Known CIU/CSU sample*
+
+ 
+
+True positive, n
+
+Diagnosis-based algorithm® 104 115
+
+Exploratory analysis: excluding diagnosis of 79 81
+other specified urticaria’
+
+Exploratory analysis: gap requirement = =
+decreased from 6 to 4 wk*
+
+Exploratory analysis: diagnosis + medication- = =
+based algorithm!
+
+Exploratory analysis: diagnosis + 90-d = oa
+medication-based algorithm®
+
+Test positive, n
+
+PPV, %° True positive, n Condition Positive, n Sensitivity, %
+90.4 64 90 711
+97.5 51 90 56.7
+= 69 90 76.7
+= aS 90 83.3
+= 67 90 744
+
+ 
+
+Abbreviations: CIU/CSU, chronic idiopathic urticaria/spontaneous urticaria; PPV, positive predictive value.
+
+*CIU/CSU confirmed by physician.
+
+>PPV not calculable because the chart review did not encompass all patients meeting this exploratory algorithm definition.
+
+“One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least G weeks apart.
+
+4One diagnosis of 708.1 or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 6 weeks apart.
+
+“One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 4 weeks apart.
+
+fOne diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 6 weeks apart or (3) any use montelukast, cyclosporine, methotrexate, or
+
+oral corticosteroids.
+
+8One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 6 weeks apart or (3) at least 90-day use of montelukast, cyclosporine,
+
+methotrexate, or oral corticosteroids.
+
+90 patients with known CIU/CSU (64 “true positives”), resulting in a
+sensitivity of 71.1% (Table 2). The urticaria component alone had a
+PPV of 90.3% and a sensitivity of 67.8% compared with a PPV of
+88.2% and a sensitivity of 8.9% for the angioedema component
+alone (not shown).
+
+In exploratory analyses, the algorithms were modified and the
+validation statistics were recalculated. Chart review was not performed on all patients meeting each definition, but only for those
+meeting the main algorithm definition. Therefore, PPV could not be
+calculated for the exploratory algorithms that were less restrictive
+than the original (all but the first one). First, the elimination of the
+“other specified urticaria” code increased the PPV of the diagnosisbased algorithm to 97.5% but decreased sensitivity to 56.7%. Second,
+shortening the gap required between diagnoses codes from 6 to 4
+weeks increased sensitivity to 76.7%. Third, the authors allowed any
+use of montelukast, cyclosporine, methotrexate, or oral corticosteroids
+to substitute for a confirmatory urticaria or angioedema code. This
+
+100
+
+diagnosis + medication-based algorithm had a sensitivity of 83.3%.
+Fourth, requiring at least 90 days (rather than any) of use of 1 of the
+listed medications resulted in sensitivity of 74.4% (Table 2, Fig 2).
+
+Algorithm Testing
+
+Only the diagnosis + medication algorithm showed a significant
+sensitivity gain compared with the main diagnosis-based algorithm,
+so the modifications were eliminated from further testing. The
+diagnosis-based, diagnosis + medication-based, and original'? algorithms were tested in the claims database. Of a group of patients
+continuously enrolled from January to December 2012, the diagnosisbased algorithm identified 6,350 patients and the diagnosis +
+medication-based algorithm identified 29,913 patients as having CIU/
+CSU, with 23,563 identified by the medication portion of the algorithm but not by the diagnosis-based portion. The original algorithm
+
+ 
+
+ 
+
+ 
+
+Percents
+
+mPPV
+
+ 
+
+Sensitivity
+
+ 
+
+ 
+
+80
+60
+40
+20
+
+0
+
+ 
+
+‘Dx (exc. 708. a, Dx (4 wk sp), ,
+
+Dx + Rx (90
+
+Dx + Rx Cd
+days)
+
+fd
+
+Figure 2. Positive predictive value (PPV) and sensitivity of chronic idiopathic urticaria or spontaneous urticaria (CIU/CSU) patient identification algorithms. “One diagnosis of
+708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 6 weeks apart. ’One diagnosis of 708.1 or 708.9 and (1) a second of the same or (2) 1
+diagnosis of 995.1 at least 6 weeks apart. “One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 4 weeks apart. “PPV not
+calculable because the chart review did not encompass all patients meeting this exploratory algorithm definition. °One diagnosis of 708.1, 708.8, or 708.9 and (1) a second of the
+same or (2) 1 diagnosis of 995.1 at least 6 weeks apart or (3) any use montelukast, cyclosporine, methotrexate, or oral corticosteroids. ‘One diagnosis of 708.1, 708.8, or 708.9
+and (1) a second of the same or (2) 1 diagnosis of 995.1 at least 6 weeks apart or (3) at least 90-day use of montelukast, cyclosporine, methotrexate, or oral corticosteroids. Dx,
+
+diagnosis-based algorithm; Rx, medication-based component.
+D. Cherepanov et al. / Ann Allergy Asthma Immunol 114 (2015) 393—398 397
+
+identified 6,450 patients, 100 of whom were not identified by the
+main diagnosis-based algorithm.
+
+Discussion
+
+Despite the detrimental effects of CIU/CSU, the burden of this
+skin condition is not well described. One possible reason is the lack
+of a specific ICD-9-CM code for CIU/CSU, thus limiting the use of
+insurance claims databases to conduct research in patients with this
+condition. To fill this gap, the authors validated the previously used
+ICD-9-CM-—based algorithms for the identification of patients with
+CIU/CSU to allow for a variety research using commercial insurance
+claims databases, including studies of treatment patterns and
+disease epidemiology in patients with CIU/CSU.
+
+The authors found that a diagnosis-based algorithm requiring at
+least 1 urticaria code (ICD-9-CM code 708.1, 708.8, or 708.9) plus (1)
+another of the same code or (2) a diagnosis of angioedema (995.1) at
+least 6 weeks from the first code had a PPV of 90.4% and a sensitivity
+of 71.1%.
+
+The PPV expresses how likely patients identified with a given
+test are to have the condition of interest. Overall, PPVs from 85% to
+89% are considered acceptable, and PPVs from 70% to 75% are
+considered moderate.'” A study of ICD-9-CM codes for 32 conditions
+found a median PPV of 80.7%, a mean of 77%, and a range of 23% to
+100%.'° High PPV algorithms are required in claims studies to reliably identify samples, such as in comparisons of different treatment
+groups. The PPV of 90% reported for the present algorithm is
+above the threshold considered “acceptable” and identifies a large
+percentage of patients who are very likely to have CIU/CSU.
+
+Sensitivity of ICD-9-CM algorithms is often less important than
+PPV, because many claims studies are concerned with drawing a valid
+sample from a large population, which is feasible with low sensitivity.
+High sensitivity is important in the identification of the entire population (eg, to estimate disease prevalence). There are no agreed-to
+standards for adequate sensitivity. In a study of more than 4,000
+medical records, sensitivity of ICD-9-CM codes for chart reviewvalidated conditions ranged from 9% for weight loss to higher than
+83% for metastatic cancer.'® The median value was 46% and the mean
+was 49%, and in only 6 of 32 conditions was sensitivity above 70%. Two
+other studies reported the sensitivity of ICD-9-CM codes for multiple
+conditions and found similar ranges: Lee et al!° reported a range of
+2.9% to 81.2%, with only 1 of 12 higher than 70%, and Quan et al?”
+reported a range of 24.6% to 87.8%, with 6 of 17 higher than 70%.
+
+Although the initial sensitivity result of 711% with the main
+algorithm was higher than 70%, the authors attempted to improve it
+with various modifications. Adding a medication-based component
+increased sensitivity to 83.3%. However, in the claims-based portion
+of the study, this modified algorithm identified almost 5 times as
+many patients as the main one. Possibly, the revised algorithm
+incorrectly included many patients without CIU/CSU, and the modest
+increase in sensitivity came at the expense of a dramatic decrease in
+specificity. Perhaps, medications prescribed for something other than
+CIU/CSU (eg, allergy or asthma) are common in patients with a single
+diagnosis of urticaria. Although a decrease in specificity cannot be
+directly confirmed with the present study design, it can be inferred
+because the main algorithm failed to identify only 28.9% (100% minus
+sensitivity) of patients with CIU/CSU. It follows that any modification,
+no matter how sensitive, should not find more than 30% of cases than
+the main diagnosis-based algorithm.
+
+In this chart study, 100% of patients with CIU/CSU had evidence
+of antihistamine use (the records did not specify whether overthe-counter or prescription), yet an examination of recent
+insurance claims found only 23% of patients with CIU/CSU had a
+claim for a prescription antihistamine. The original algorithm
+developed by Zazzali et al'* included a medication component
+that relied on the use of antihistamines to identify patients. The
+
+ 
+
+ 
+
+original algorithm identified only 100 more patients than the
+6,350 with the main diagnosis-based algorithm, likely a result of
+how antihistamines are obtained.
+
+Thus, the authors propose 3 potential algorithms as virtually
+identical in their ability to accurately identify patients with CIU/
+CSU in insurance claims: the entire diagnosis-based algorithm (PPV
+90.4%, sensitivity 71.1%), its urticaria component alone (2 codes of
+708.1, 708.8, or 708.9 at >6 weeks apart; PPV 90.3%; sensitivity
+67.8%), or the original algorithm (which adds some complexity and
+identifies a minimally different patient population).
+
+Strengths and Limitations
+
+This is the first study to directly validate an ICD-9-CM algorithm
+to identify patients with CIU/CSU. The study reports an algorithm
+that can be used in administrative insurance claims-based studies
+to identify patients who are very likely to have CIU/CSU and that the
+algorithm will identify most patients with the condition. Limitations include a sample of fewer than 150 patients and the potential
+non-representativeness of the coding practices at the 4 specialized
+practices. For example, if CIU/CSU is typically coded using a
+different combination of ICD-9 codes at other asthma and allergy
+centers compared with the centers included in this study, then PPV
+and sensitivity values would be affected.
+
+The authors were unable to calculate the negative predictive value
+and specificity because this study included only patients who met an
+ICD-9 code algorithm (“test positive” patients) or were identified by
+their physician as having CIU/CSU (“condition positive” patients). The
+calculation of negative predictive value and specificity requires data
+on patients without CIU/CSU (ie, “test negative” patients and “condition negative” patients), which this study did not collect.
+
+Conclusion
+
+A relatively simple 2-part algorithm can accurately identify patients with CIU/CSU. The diagnosis-based algorithm validated in this
+study had 90.4% PPV and 71.1% sensitivity, suggesting that patients
+identified with this algorithm are highly likely to have CIU/CSU and
+that it will identify a reasonably large proportion of all cases. This
+algorithm enables researchers to explore a vast array of epidemiology
+and health services research topics using administrative insurance
+claims databases to gain knowledge about CIU/CSU.
+
+References
+
+1] Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am Acad Dermatol.
+2002;46:645—657.
+
+2] Greaves M. Chronic urticaria. J Allergy Clin Immunol. 2000;105:664—672.
+
+3] Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin Immunol.
+2003;3:363—368.
+
+4] Powell RJ, Du Toit GL, Siddique N, et al. BSACI guidelines for the management
+of chronic urticaria and angio-oedema. Clin Exp Allergy. 2007;37:631—650.
+5] Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory parameters in
+predicting chronic urticaria duration: a prospective study of 139 patients.
+Allergy. 2004;59:869—873.
+
+6] Engin B, Uguz F, Yilmaz E, Ozdemir M, Mevlitoglu I. The levels of depression,
+anxiety and quality of life in patients with chronic idiopathic urticaria. J Eur
+Acad Dermatol Venereol. 2008;22:36—40.
+
+7] Grob JJ, Gaudy-Marqueste C. Urticaria and quality of life. Clin Rev Allergy
+Immunol. 2006;30:47—51.
+
+8] Weldon D. Quality of life in patients with urticaria and angioedema: assessing
+burden of disease. Allergy Asthma Proc. 2014;35:4—9.
+
+9] Weldon DR. Quality of life in patients with urticaria. Allergy Asthma Proc.
+2006;27:96—99.
+
+[10] Isik SR, Karakaya G, Celikel S, Demir AU, Kalyoncu AF. Association between
+asthma, rhinitis and NSAID hypersensitivity in chronic urticaria patients and
+prevalence rates. Int Arch Allergy Immunol. 2009;150:299—306.
+
+[11] Maurer M, Bindslev-Jensen C, Gimenez-Arnau A, et al. Chronic idiopathic
+urticaria (CIU) is no longer idiopathic: time for an update. Br J Dermatol. 2013;
+168:455—456,
+
+[12] Zazzali JL, Broder MS, Chang E, Chiu MW, Hogan DJ. Cost, utilization, and
+patterns of medication use associated with chronic idiopathic urticaria. Ann
+Allergy Asthma Immunol. 2012;108:98—102.
+
+ 
+
+ 
+398
+
+[13]
+
+14]
+
+15]
+
+[16]
+
+D. Cherepanov et al. / Ann Allergy Asthma Immunol 114 (2015) 393—398
+
+Kaplan AP. Chronic urticaria: pathogenesis and treatment. J Allergy Clin
+Immunol. 2004;114:465—474, quiz 475.
+
+Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment of chronic
+autoimmune urticaria with omalizumab. J Allergy Clin Immunol. 2008;122:
+569-573.
+
+Delong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual direct and indirect
+health care costs of chronic idiopathic urticaria: a cost analysis of 50 nonimmunosuppressed patients. Arch Dermatol. 2008;144:35—39.
+
+Rosner B. Fundamentals of Biostatistics. 2nd ed. Boston, MA: Prindle, Weber, &
+Schmidt/Duxbury Press; 1986:54—55.
+
+{17]
+
+{18]
+
+[19]
+
+[20]
+
+Kim SY, Servi A, Polinski JM, et al. Validation of rheumatoid arthritis diagnoses
+in health care utilization data. Arthritis Res Ther. 2011;13:R32.
+
+Quan H, Li B, Saunders LD, et al. Assessing validity of ICD-9-CM and ICD-10
+administrative data in recording clinical conditions in a unique dually
+coded database. Health Serv Res. 2008;43:1424—1441.
+
+Lee DS, Donovan L, Austin PC, et al. Comparison of coding of heart failure and
+comorbidities in administrative and clinical data for use in outcomes
+research. Med Care. 2005;43:182—188.
+
+Quan H, Parsons GA, Ghali WA. Validity of information on comorbidity
+derived from ICD-9-CCM administrative data. Med Care. 2002;40:675—685.
+

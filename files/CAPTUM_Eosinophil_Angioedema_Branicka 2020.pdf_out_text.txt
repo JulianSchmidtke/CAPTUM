@@ -1,0 +1,1189 @@
+International
+Archives of Allergy
+and Immunology
+
+ 
+
+Int Arch Allergy Immunol
+DOI: 10.1159/000509116
+
+Clinical Allergy - Research Article
+
+ 
+
+Received: April 9, 2020
+Accepted: June 2, 2020
+Published online: August 19, 2020
+
+Eosinophil/Neutrophil/Platelet-to-Lymphocyte
+Ratios in Various Types of Immediate
+Hypersensitivity to NSAIDs: A Preliminary Study
+
+Olga Branicka Barbara Rogala Joanna Glick
+
+Department of Internal Diseases, Allergology and Clinical Immunology, Medical University of Silesia in
+
+Katowice, Katowice, Poland
+
+Keywords
+
+Eosinophil-to-lymphocyte ratio - Neutrophil-to-lymphocyte
+ratio - Platelet-to-lymphocyte ratio - Nonsteroidal
+anti-inflammatory drugs - Drug hypersensitivity
+
+Abstract
+
+Background: The _eosinophil/neutrophil/platelet-to-lymphocyte ratios (ELR, NLR, and PLR) have been used as clinical
+markers of systemic inflammation. However, they have not
+yet been tested in various subtypes of immediate hypersensitivity to nonsteroidal anti-inflammatory drugs (NSAIDs).
+Objectives: To assess the ELR, NLR, and PLR in various types
+of hypersensitivity to NSAIDs. Materials and Methods: A retrospective analysis of complete blood cell count and the ELR,
+NLR, and PLR was performed. Appropriate types of hypersensitivity to NSAIDs were diagnosed based on the anamnesis
+and drug provocation tests. The analysis covered 97 patients.
+Twenty were diagnosed with NERD (NSAID-exacerbated respiratory disease), 20 with NECD (NSAID-exacerbated cutaneous disease), 38 with NIUA (NSAID-inducted urticaria/angioedema), and 19 with SNIUAA (single-NSAID-induced urticaria/angioedema or anaphylaxis). Two controls groups were
+included: the first covered 15 patients with bronchial asthma
+and the second 28 patients with chronic spontaneous urti
+caria without NSAID hypersensitivity. Results: The NLR did
+not differ significantly between the NSAID hypersensitivity
+types. The ELR was significantly higher in NERD patients, and
+the PLR was significantly lower in NECD patients than in patients with other types of NSAID hypersensitivity and in controls. Conclusions: The ELR and PLR may be useful in differentiating various types of immediate hypersensitivity to
+NSAIDs. Moreover, the ELR may be helpful in differentiating
+patients with bronchial asthma with and without NSAID hypersensitivity and PLR in differentiating patients with chron
+ic spontaneous urticaria from NECD. © 2020 S. Karger AG, Basel
+
+Introduction
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs) have
+high analgesic, anti-inflammatory, and antipyretic efficacy. Because of their easy availability, also over the counter, they are used by all age groups and often even overused. Incidence of hypersensitivity to NSAIDs has been
+reported between 0.6 and 5.7% of the general populations
+
+Edited by: H.-U. Simon, Bern.
+
+ 
+
+karger@karger.com
+wwwkarger.com/iaa
+
+© 2020 S. Karger AG, Basel
+
+Ni
+Karger=
+
+Olga Branicka
+Department of Internal Disease, Allergology and Clinical Immunology
+Medical University of Silesia in Katowice
+
+Medykow 14, PL-40-752 Katowice (Poland)
+
+o.branicka @ gmail.com
+
+ 
+1]. Hypersensitivity reactions to NSAIDs belong to type
+B adverse drug reactions which are dose-independent,
+unpredictable, noxious, and unintended response to a
+drug taken at a dose normally used in humans. Moreover,
+hypersensitivity reactions occur in susceptible individuals [2, 3]. The reactions are divided depending on the
+mechanism into not immunological and immunological
+(IgE or T-cell mediated) and based on the time of reacions into immediate or delayed [4]. The first classificaion of hypersensitivity to NSAIDs presented by Stevenson et al. [5] in 2001 was based on clinical symptoms, the
+presence of chronic disease, and cross-reactivity with
+other COX-1 inhibitors. Up-to-date NSAID hypersensiivity is divided into 3 not immunologically mediated
+ypes: (1) NSAID-exacerbated respiratory disease
+(NERD), (2) NSAID-exacerbated cutaneous disease
+(NECD), and (3) NSAID-induced urticaria/angioedema
+(NIUA) and 2 immunologically mediated types: (1) single-NSAID-induced urticaria/angioedema or anaphylaxis (SNIUAA) and (2) single-NSAID-induced delayed hypersensitivity reactions (SNIRD) [5]. Diagnosis of hypersensitivity to NSAIDs is based on a detailed anamnesis
+and drug provocation tests (DPT). However, DPT are
+sometimes associated with a high risk of hypersensitivity
+reactions. Another impediment is the lack of laboratory
+indicators that would make the diagnosis of NSAID hypersensitivity easier. The only commercially available in
+vitro methods are estimation of serum IgE specific to pyrazolones and basophil activation test (BAT). However,
+hey are very rarely used due to low sensitivity. They also
+do not allow us to allocate different cases of hypersensiivity to the appropriate type.
+
+The neutrophil-to-lymphocyte ratio (NLR), eosinophil-to-lymphocyte ratio (ELR), and platelet-to-lymphocyte ratio (PLR) calculated for complete blood cell count
+(CBC) are markers of chronic inflammation that are
+known to be inexpensive and easy to calculate with usage
+of widely available methods. The usefulness of NLR, ELR,
+and PLR measurements has been reported in many diseases in oncology [6-8], cardiology [9,10], pulmonology
+11, 12], and rheumatology [13, 14]. In allergic diseases, the
+usefulness of these ratios was evidenced in nasal polyposis
+15-17], asthma [18, 19], and allergic rhinitis [20]. Moreover, high NLR and ELR have recently been found to serve
+as useful indicators of systemic inflammation in smokers
+21]. In the present study, we aimed to assess if the NLR,
+ELR, and PLR may be useful in making diagnosis of various types of hypersensitivity to NSAIDs and to compare
+with control groups and C-reactive protein (CRP), which
+is the most commonly used marker of inflammation.
+
+ 
+
+ 
+
+ 
+
+2 Int Arch Allergy Immunol
+DOT: 10.1159/000509116
+
+Methods
+
+Study Design and Participants
+
+The study was conducted at the Department of Internal Disease, Allergology and Clinical Immunology, University Clinical
+Hospital K. Gibinskiego, Katowice, Poland. We retrospectively analyzed data on all patients that had been hospitalized between January 2011 and December 2018 with the diagnosis with number
+D89.8 that describes in more detail the diagnosis of disorder involving the immune mechanism, and D89.9 that is a code used to
+specify a diagnosis of unspecified disorder involving the immune
+mechanism according to the International Classification of Diseases (ICD-10). These 2 codes were chosen because they were used
+to describe hypersensitivity reactions to the drugs. J45 and L50
+were used as secondary codes. Then, we chose patients with confirmed hypersensitivity to NSAIDs during hospitalization. The
+typical allergological workup covered clinical history, and if the
+clinical history was not sufficient, DPT were used so as to diagnose
+an appropriate type of hypersensitivity to NSAIDs. Diagnosis of
+types of NSAID hypersensitivity was based on the anamnesis and
+DPT results [22]. Two control groups were formed from patients
+hospitalized in our department with diagnosis of well-controlled
+asthma without nasal polyps and with no anamnestic data on
+NSAID hypersensitivity (J45) and chronic spontaneous urticaria
+(L50), without history of NSAID hypersensitivity.
+
+Clinical History
+
+The detailed clinical history collected included pattern and
+chronology of symptoms, the interval between administration of
+the drug and the first symptoms, previous administration of
+NSAIDs, and other medications taken. To properly record the
+clinical history, we used a European Network for Drug Allergy
+(ENDA) Questionnaire on Drug Hypersensitivity [3, 23]. In the
+case of the history of 3 or more episodes of reaction to 2 different
+NSAIDs, the cross-reactive type of hypersensitivity was diagnosed
+and NERD or NECD was diagnosed if asthma or chronic urticaria
+was present. In the case of 2 or more reactions to the same NSAID
+with concomitant history of good tolerance to another NSAID,
+selective type of immediate hypersensitivity to NSAIDs was suspected, and further diagnosis was based on DPT [22].
+
+Drug Provocation Test
+
+DPT were performed in accordance with the EAACI/GA2LEN
+guidelines [3, 23]. Four increasing doses (27, 44, 117, and 312 mg)
+of aspirin were administered every 2 h until a cumulative dose of
+500 (the patient with asthma) or 1,000 (the other patients) mg is
+reached [24]. If a patient shows no reaction after the last dose (total dose of 500 mg), another 500-mg aspirin could be given 1 h
+after the previous dose. The cumulative dose in that case would be
+1,000 mg of aspirin. In selected cases, DPT and drug tolerance tests
+(DTT) with alternative NSAIDs were performed [24] according to
+the following scheme: 1/4, 1/4, and 1/2 of a single dose and then 1
+dose every 1 h. Spirometry was performed before the test and after
+each drug administration in all patients with asthma and/or chronic rhinosinusitis with nasal polyps. A reaction was judged positive
+ifa decrease in FEV1 by 220% of baseline occurred or when severe
+extrabronchial symptoms of aspirin hypersensitivity appear (e.g.,
+profound rhinorrhea and nasal blockade even if FEV1 fall did not
+exceed 20%). A reaction was counted negative when the maximum
+cumulative dose of aspirin was reached without a drop in FEV1
+
+ 
+
+Branicka/Rogala/Gliick
+
+ 
+ 
+
+Patients with drug hypersensitivity reactions (DHR)
+(n = 3,346)
+
+Patients with DHR to NSAIDs
+fulfilling inclusion criteria and without exclusion criteria
+(n = 98)
+
+NERD
+(n = 20)
+
+NESD
+(n = 20)
+
+ 
+
+NIUA
+(n = 38)
+
+SNIUAA
+(n = 19)
+
+ 
+
+ 
+
+Fig. 1. Flowchart of qualification to the study. DHR, drug hypersensitivity reactions; NSAID, nonsteroidal antiinflammatory drug; NERD, NSAID-exacerbated respiratory disease, NECD, NSAID-exacerbated cutaneous disease; SNIUAA, single-NSAID-induced urticaria/angioedema or anaphylaxis.
+
+Table 1. Characteristic of patients with various types of hypersensitivity to NSAIDs and controls
+
+ 
+
+Types of hypersensitivity to NSAIDs (n = 97)
+
+Control groups (n = 43)
+
+ 
+
+ 
+
+NERD NECD NIUAA SNIUAA C-AST C-CSU
+
+Patients, n (%) 20 (20) 20 (20) 38 (40) 19 (20) 15 (35) 28 (65)
+Mean age + SD, years 42.0+11.1 39.6£13.2 42.1+12.1 40.2+11.6 39.9+13.4 34.2+10.6
+Male, n (%) 7 (35) 5 (25) 9 (24) 4(21) 5 (33) 12 (43)
+Female, 1 (%) 13 (65) 15 (75) 29 (76) 15 (79) 10 (67) 17 (57)
+Comorbidity, n (%)
+
+Bronchial asthma 17 (85) 4 (20) 1 (2) 1 (5) 15 (100) 0 (0)
+
+Allergic rhinitis 5 (25) 3 (15) 121) 4 (21) 7 (46) 3 (10)
+
+Nasal polyps 12 (60) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0)
+
+Chronic rhinosinusitis 7 (35) 0 (0) 1 (2) 0 (0) 2 (13) 0 (0)
+
+Chronic spontaneous urticaria 0 (0) 19 (95) 6 (15) 0 (0) 0 (0) 28 (100)
+
+ 
+
+NSAID, nonsteroidal anti-inflammatory drug; NERD, NSAID-exacerbated respiratory disease, NECD, NSAID-exacerbated cutaneous disease; SNIUAA, single-NSAID-induced urticaria/angioedema or anaphylaxis; C-AST, group of patients with well-controlled
+asthma without nasal polyps and with no anamnestic data on NSAID hypersensitivity; C-CSU, group of patients with chronic sponta
+neous urticaria.
+
+ 
+
+220% and without other symptoms of aspirin hypersensitivity. If
+a patient with an underlying chronic urticaria developed wheals
+and/or angioedema after DPT, the diagnosis was NECD. If such
+symptoms developed in a patient without other allergic diseases,
+NIUA was diagnosed. SNIUAA was diagnosed based on an anamnesis and negative DPT with aspirin.
+
+Exclusion Criteria
+The exclusion criteria included associated diseases unrelated
+to the basic diagnosis of hypersensitivity to drugs that could af
+ 
+
+CBC Ratios in NSAID Hypersensitivity
+
+fect the results of laboratory tests. Those included all chronic
+inflammatory diseases (thyroid dysfunction, diabetes mellitus,
+coronary artery disease, hypertension, heart failure, chronic kidney disease, chronic lung disease, connective tissue disease, metabolic syndrome, and anemia), acute upper respiratory tract infection diagnosed within the previous 4 weeks, parasite infestation, pregnancy, and chronic medical treatment including
+systemic steroid and use of antiplatelet drugs. Any significant
+hematological, biochemical, or serological abnormalities were
+also excluded.
+
+ 
+
+Int Arch Allergy Immunol 3
+DOT: 10.1159/000509116
+
+Color version available online
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Soe
+x Be8
+Do y aaa =) g§ a
+ele lnenanwessszen | eee
+ea <0
+S;EIRERRRRSSSASR| EGE
+o alscoscocococseeosccodco 8eo9o
+Es ag
+G bbc
+i) a eS
+5 ia = an 38
+| x98 Ces Sas
+= aetnnQseangn| 3
+8 eTSeSnnaescsctin|] ose
+Notfwiant TT NAN aus
+g Pe SRR TA kT aT | SES
+A eSaGagnVedge4ren |] Bas
+S |S) 2S eee ccSesrSe!| ous
+@/2]eennecnenscanc] e8&
+2|Q|Sssitnsganggana | Zee
+QA}o as a os
+< ma.
+~~ _ Hem
+be Ss i) Re oe
+a SSsager_ se eg SBD
+° RABI SN CAS ats | 22
+= SEStGSaSsshTa!] E40
+id Sotti ra TT aod wa
+& PoaqauanT mae TST! eho
+i Hoo Sw Sirens w Ree
+a fe SS sacrcasscas | Page
+Bela hnmesawenoxrann | as
+ba “ab RAXSS 7S" | Fae
+210 a = EDs
+7S g
+a - = 8Zs
+a S e |298
+oe = om is ao
+) an => gan
+1) aBuan gaan tatan
+° SYSHRFSAISHTA! F$a
+2 N rrintota al B45
+o rSSgTseTTSaTt? | ese
+Sale l(AMFSARHHASHSS |] Bas
+Plal/ech&asssccssaaa| ¢24
+Zila lxescnraeantrweaewm | Hes
+B/E lesa een SSHeat | agg
+= gy ae eo” 8 228
+3 SoG
+~ ~ 38
+P| S a go 2e
+¥ eo_s ~ RG 3 3
+z aBenegaeege ae da Poe
+Fe aTeanmatoth TA Zee
+2 Nottianwt TSoON oN eqs
+r=] Poeniandgainitaig a BES
+By} akaGavwectetseo] ese
+a fea @s Sos oaecscodd | ada é
+AlS|+tennnexcrwxe | Sas
+ral 2 CSSsenscaAMm SSG aA a A oS
+© ie BRR s78 22%
+a ~ ag
+oh in BQa
+gy Se _¢s an a 35 8
+= ag Sagaas Fada | 822
+3 Ss so Seg OS Sot oy SB 3S
+5 Sotfhiaids TT ms Pw Bom
+[a4 Te ioadrastod agegq
+He mBARAnNGATSEt*HS | SBE
+a Sand sdassdta | Ags
+w|G)| ee tequtaxennl| ape
+ReagtenandsSaui | as
+3/8 Save ss aes
+Z|4 a ZEez
+z Z eB
+Ss eS eos
+S se Ss cr Bee
+aAmonrunarnmaentrage lao}
+F) SP SsaRgeeseeaagea! S2y
+ls tty IT nwaoon + aeass
+0 TIAA TTT TT AT so
+P] ANesaAsnManarras of
+S BAtARdtessrRa!] BSS
+S/Blaeenmanaganaenn | 8k
+SP Rl] Sadana tse socoH aa] oe
+in wn a) o 2a
+s a AN a 3 °
+5 aaa
+Vv n anv
+| Q Ela
+2 a=} o gaa.
+3 s Sse 2 Son Sg
+S/F ilsS8seouuncr 2 ;Q:4
+S)/e/TTIPIP eg 2) SE es
+3 Elocaqunonocy e/6228
+fs aS SES ES Bt a
+2 5 tHsouNnNSoHHS So oe 2
+& Zz a a S $gse
+a seas
+3 ghey
+3 ro] aqees
+8 2 a2 4 R535
+3 = = 2 = S50
+3 fu tS SF a o 6 Bat
+gs Ss 5 * & ge oe
+3 . £
+5 eS O48 2 28%
+& #X% ges 6 oot 8
+is Buk 5 5k B 2LORs
+F ZOOS
+s Sees ee ag 8 a | BS ee
+: eSEECOCES =| SEe8
+N el aa 6 OES 2 Besa
+2 gts egaane sg SES
+3 SSSR RRS aaa mg | Me es
+GI BESTE SSAAae oS g
+e AaZZAeeaeZzav ads
+4 Int Arch Allergy Immunol
+
+DOI: 10.1159/000509116
+
+Laboratory Measurements
+
+CBC and the CRP test were routinely performed in all patients
+admitted to the department. Blood samples were collected in a hematologic sample tube containing an anticoagulant, and neutrophil, lymphocyte, eosinophil, and platelet absolute counts were recorded using a Sysmex XN-350 hematology analyzer (Sysmex Europe Corporation, Norderstedt, Germany). Using these data,
+neutrophil, eosinophil, and platelet absolute numbers were divided by the lymphocyte absolute number, and NLR (neutrophil absolute number/lymphocyte absolute number), ELR (eosinophil
+absolute number/lymphocyte absolute number), and PLR (platelet
+absolute number/lymphocyte absolute number) values were calculated. The obtained data were compared among patients with
+NERD, NECD, NIUA, and SNIUAA.
+
+Statistical Analysis
+
+The results of CBC were expressed as absolute number and
+percentages. The NLR, ELR, and PLR were presented as median
+and interquartile range. The x” test was used to analyze differences
+in nominal variables between groups. Nonparametric KruskalWallis ANOVA and post hoc tests were used to compare the studied groups. All analyses were performed with a software package
+(Statistica 13.3, StatSoft Poland, Krakow, Poland). p values <0.05
+were considered significant.
+
+Results
+
+Between 2011 and 2018, 3,346 patients were hospital
+ized with a diagnosis of drug hypersensitivity. After consid
+ering exclusion criteria, 97 patients (female: 72, 73%) were
+included to the final analysis. The mean age was 40.2 years
+(range 19-70). Twenty patients (20.5%) were diagnosed
+with NERD, 20 patients (20.5%) with NECD, 38 patients
+(39.2%) with NIUA, and 19 patients (19.5% with SNIUAA)
+(Fig. 1). The control group contained 43 patients were divided into 2 subgroups: the first group covering patients
+with well-controlled asthma without nasal polyps and with
+no anamnestic data on NSAID hypersensitivity (C-AST) to
+compare with the NERD group and the second group covering patients with chronic spontaneous urticaria (C-CSU)
+to compare with NECD, NIUA, and SNIUAA groups. CAST included 15 patients, mean age 39.9 years (range 2166), and C-CSU included 28 patients, mean age 34.2 years
+(range 22-59). The groups were comparable in terms of age
+and sex distribution (p > 0.05) (Table 1). No cases of SNIRD
+and NSAID-exacerbated food allergy (NEFA) were diagnosed. Patients did not take any medicines systemically.
+DPT had been performed with appropriate nonselective
+NSAIDs (acetylic acid, ketoprofen, diclofenac, naproxen,
+and metamizol) in 61 patients, acetaminophen in 57 patients, and preferential inhibitors of COX-2 (nimesulid) in
+8 patients, and DTT had been performed with a selective
+inhibitor of COX-2 (celecoxib) in 77 patients.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Branicka/Rogala/Gliick
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+555
+5.0 4 f=
+454 Sa sy sea
+4.0354
+2 3.04
+Fig. 2. Median values and interquartile and 25
+total range of NLR in patients with differ- ,
+ent types of NSAID hypersensitivity. There 20-4
+were no statistically significant differenc- = o 5
+es among the groups. NSAID, nonsteroi- 15-4 a
+dal anti-inflammatory drug; NLR, neutro- cL
+phil-to-lymphocyte ratio; NERD, NSAID- 1.04 snes sofas ope
+exacerbated respiratory disease; NECD,
+NSAID-exacerbated cutaneous disease; 0.5
+SNIUAA, single-NSAID-induced urticar- NERD NES NIDA SNIDAA
+ia/angioedema or anaphylaxis.
+
+ 
+
+ 
+
+The NLR in the NERD group was 1.62 (1.3-2.2);
+NECD, 1.69 (1.4-3.1); NIUA, 1.81 (1.4-2.7); SNIUAA,
+1.82 (1.5-2.3); and in C-AST, 1.97 (1.1-2.5) and C-CSU,
+2.03 (1.4-2.4). No statistically significant difference was
+found between the 4 groups with NSAID hypersensitivity
+and control groups (p > 0.05) (Table 2; Fig. 2). The ELR
+in the NERD group was 0.23 (0.1-0.2); NECD, 0.08 (0.060.1); NIUA, 0.09 (0.6-0.1); SNIUAA, 0.09 (0.05-0.1), CAST, 0.08 (0.06-0.09); and C-CSU, 0.076 (0.05-0.10).
+The ELR was significantly higher in the NERD group
+than in the NECD (p = 0.0009), NIUA (p = 0.0001), and
+SNIUAA (p = 0.0007) groups and then in control groups
+C-AST (p = 0.0008) and C-CSU (p = 0.0008) (Table 2;
+Fig. 3). PLR values were significantly lower in the NECD
+group (p = 0.0013) than in the NERD (p = 0.00004), NIUA
+(p = 0.000001), and SNIUAA (0.00003) groups and then
+in control groups C-AST (p = 0.0002) and C-CSU (p =
+0.000009). The PLR in the NECD group was 65.30 (25.5140.0); NERD, 131.58 (77.4-250.8); NIUA, 129.10 (55.6234.2); and SNIUAA, 122.40 (68.0-237.6); and in C-AST,
+116.24 (100.0-168.2) and C-CSU, 121.35 (95.8-159.5)
+(Table 2; Fig. 4). The CRP value statistically significantly
+correlated with NLR (r, = 0.26; p < 0.05) but not with ELR
+(r, = 0.16) and PLR (r, = 0.04) in all patients with NSAID
+hypersensitivity.
+
+ 
+
+CBC Ratios in NSAID Hypersensitivity
+
+Discussion
+
+In this study, we tried to assess if some peripheral
+blood cell ratios may be helpful to subcategorize NSAIDhypersensitive patients. Thus, we conducted a retrospective analysis in which we evaluated the NLR, ELR, and
+PLR as potential diagnostic indicators in groups of patients with various types of NSAID hypersensitivity. We
+found that the NLR was comparable in all examined
+groups, the ELR was significantly higher in patients with
+NERD, and the PLR was significantly lower in patients
+with NECD (shown in Fig. 2-4; Table 2). We compared
+the results with controls. We chose 2 control groups. The
+first one included the patients with well-controlled bronchial asthma without nasal polyps and with self-reported
+good tolerance to NSAIDs, and the second group included patients with chronic spontaneous urticaria with selfreported good tolerance to NSAIDs. Thanks to these control groups we could assess if higher ELR was characteristic only for NERD patients or for the whole group of
+patients with asthma, and in parallel, we looked if lower
+PLR was typical only for urticaria exacerbated by NSAIDs
+(NECD) or also for another type of urticaria, namely
+chronic spontaneous urticaria.
+
+The higher ELR in NERD patients than in NECD,
+NIUA, and SNIUAA patients and then control groups CAST and C-CSU seems to be easy to explain. Most patients with NERD have nasal polyps associated with eo
+ 
+
+Int Arch Allergy Immunol 5
+DOT: 10.1159/000509116
+
+Color version available online
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+p = 0.0008
+p = 0.0008
+p = 0.0009
+p = 0.0001
+a
+04s p = 0.0009
+Jb
+
+0.40
+
+0.35
+
+0.30 Fig. 3. Median values and interquartile and a8 TL T
+total range of ELR in patients with differ- oe Oo
+ent types of NSAID hypersensitivity and a
+control groups. NSAID, nonsteroidal anti- 0.20
+inflammatory drug; ELR, eosinophil-tolymphocyte ratio; NERD, NSAID-exacer- 0.15
+bated respiratory disease; NECD, NSAIDexacerbated cutaneous disease; SNIUAA, 0.10
+single-NSAID-induced __urticaria/angio- - a a ad a
+edema or anaphylaxis; C-AST, group of 0.05 ama _
+patients with well-controlled asthma with- tL — 72
+out nasal polyps and with no anamnestic
+data on NSAID hypersensitivity; C-CSU; NERD NECD NIUA SNIUAA C-csU C-AST
+group of patients with chronic spontaneous urticaria.
+sinophilia. We have also found that both absolute num- had chronic spontaneous urticaria, which was asymp
+ber and percentage of eosinophils in peripheral blood
+were significantly higher in NERD patients than in others. Thus, higher ELR may simply result from NERD
+pathophysiology. The important and practical finding of
+our study is that the ELR was significantly higher in paients with NERD but not in asthma without polyps and
+with normal tolerance to NSAIDs. If we know the cutoff
+value of ELR value characteristic for NERD, it will be
+helpful in initially distinguishing patients with asthma
+with unclear clinical history of NSAID hypersensitivity
+before performing DPT. However, we could bear in mind
+hat there are patients with bronchial asthma and nasal
+polyps with good tolerance to NSAIDs; thus, our results
+should also be compared with this group of asthmatic paients in future.
+
+More difficult to explain is lower PLR in NECD than
+in other types of NSAID hypersensitivity. The absolute
+number and percentage of platelets and lymphocytes
+were comparable among all types of NSAID hypersensitivity [24, 25]. In our study, most patients with NECD also
+
+ 
+
+ 
+
+6 Int Arch Allergy Immunol
+DOT: 10.1159/000509116
+
+tomatic at the time of the study. Patients did not have
+other autoimmune disease that could affect the number
+of platelets in the blood. Data on the role of platelets in
+chronic urticaria are conflicting. In patients with chronic
+urticaria and hypersensitivity to acetylic acid (ASA),
+platelet activation was increased as compared with urticaria patients tolerating ASA [25]. However, the results of
+studies on platelet indices such as mean platelet volume,
+platelet count, and distribution width, as well as markers
+of platelet aggregation in chronic urticaria, were equivocal. We compared the PLR values in NECD patients with
+patients with CSU-C and found statistically lower PLR
+values only in NECD patients. Thus, low PLR values seem
+to be characteristic for NECD patients and may be a clinically helpful tool in management of patients with chronic urticaria and unclear tolerance to NSAIDs, particularly
+while considering dietary restrictions. However, this phenomenon needs further investigations with larger groups
+of patients with NECD and CSU. It should be underlined
+that no patients with CSU had positive ANA results.
+
+ 
+
+Branicka/Rogala/Gliick
+
+Color version available online
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+p = 0.0002
+p = 0.000009
+300
+5 p = 0.00003
+p = 0.00004 | T >
+eo = "p = 0.000001
+240 —————_ =
+220
+200
+Fig. 4. Median values and interquartile and 180
+total range of PLR in patients with differ- ~ 160
+ent types of NSAID hypersensitivity and =
+control groups. NSAID, nonsteroidal anti- 140 o iz
+inflammatory drug; PLR, platelet-to-lym- 120 i a o
+phocyte ratio; NERD, NSAID-exacerbated 100
+respiratory disease; NECD, NSAID-exac- a0
+erbated cutaneous disease; SNIUAA, sin- ~— ' a —
+gle-NSAID-induced _ urticaria/angioede- 60 ae —
+ma or anaphylaxis; C-AST, group of pa- 40
+tients with well-controlled asthma without iL
+: 20
+nasal polyps and with no anamnestic data
+on NSAID hypersensitivity; C-CSU; group
+of patients with chronic spontaneous urti- NERD NEED, MIA SIVA ese5U CeAST
+caria.
+
+ 
+
+ 
+
+The usefulness of ELR, NLR, and PLR has not yet been
+studied in hypersensitivity to NSAIDs and neither in hypersensitivity to other drugs. However, the NLR, ELR,
+and PLR were assessed in other allergic diseases. Mochimaru et al. [18] reported the correlation between the NLR
+and increased probability for an episode of severe asthma
+exacerbation within the next year. Gungen and Aydemir
+[19] reported positive correlation of the NLR in patients
+with controlled asthma and with state of uncontrolled
+asthma. Yenigun et al. [20] reported correlation between
+the ELR and allergic rhinitis with positive skin prick tests
+in children. In some studies, the means of NLR and ELR
+were significantly higher in patients with chronic rhinosinusitis with nasal polyps (CRSwNP) whose disease recurred than in those remaining disease-free after surgery
+[15]. Moreover, the mean ELR was significantly higher in
+patients with CRSwNP with other clinical conditions
+such as (allergy, asthma, and ASA intolerance) and with
+recurrence of the disease than in patients without allergies [15]. Other data came from studies in different immunologically mediated diseases. Gasparyan et al. [14]
+summarized publications on the PLR in rheumatic disease and reported positive correlation between exacerbation of rheumatic disease and PLR and decrease in the
+PLR in response to anti-inflammatory therapies. In other
+
+ 
+
+ 
+
+ 
+
+CBC Ratios in NSAID Hypersensitivity
+
+diseases such as cancer processes or with atherosclerotic
+background and in some chronic diseases [6-10], the usefulness of the NLR has been confirmed.
+
+Moreover, in our study the correlations between the
+ratios and CRP were calculated. CRP did not significantly
+differ among patients with various type of NSAID hypersensitivity, but its value correlated only with the NLR in
+the whole group of patients. This observation may suggest
+that the NLR together with CRP may be an auxiliary laboratory tool while neutrophilic inflammation is suspected.
+
+There are some limitations of our study. First, the population sizes of groups with individual types of hypersensitivity to NSAIDs were relatively small. It makes impossible to assess the cutoff value of ELR and PLR and sensitivity and specificity in relation to data from the interview
+and the result of DPT in false-positive and false-negative
+patients.
+
+The strengths of this study are that only the patients
+with proper diagnosis of hypersensitivity to NSAIDs
+based on the medical history and DPT were included into
+the study. Of special importance is the fact that their comorbid chronic diseases and chronic or acute infections
+which could affect NLR, ELR, or PLR values were exclusion criteria. The influence of systemically used drugs was
+excluded as well.
+
+ 
+
+Int Arch Allergy Immunol 7
+DOT: 10.1159/000509116
+
+Color version available online
+
+ 
+On the other hand, strict exclusion criteria may be a
+drawback of our project as in real life most patients with
+NSAID hypersensitivity have coexisting diseases that can
+influence the CBC ratios Thus, while interpreting the
+CBC ratios, the possible changes of them caused by other
+diseases should be taken into consideration.
+
+One can assume that the ELR in NERD and the PLR in
+NECD could be used as a helpful indicator although it will
+probably not replace the diagnostic gold standard of drug
+hypersensitivity workup, that is, DPT. Further studies
+covering more numerous groups of patients are warranted in order to establish the diagnostic value of ELR and
+PLR in NSAID hypersensitivity. The most valuable results of our study seem to be the finding on higher ELR in
+NERD than in NSAID-tolerated asthma and in lower values of PLR in NECD than in CSU as they both may have
+practical application.
+
+Conclusions
+
+The ELR and PLR may be helpful in differentiating
+various types of hypersensitivity to NSAIDs and in some
+allergic diseases with good NSAID tolerance. The NLR
+seems not to be useful in this field. However, further studies with larger patient groups are required to confirm our
+initial findings.
+
+References
+
+Statement of Ethics
+
+This paper is exempt from ethics committee approval because
+all examinations were routinely performed in all patients admitted
+to the department.
+
+Conflict of Interest Statement
+
+The authors have no conflicts of interest to declare.
+
+Author Contributions
+
+Olga Branicka: acquisition, analysis, or interpretation of data
+for the work; drafting the work; final approval of the version to be
+published; agreement to be accountable for all aspects of the work
+in ensuring that questions related to the accuracy or integrity of
+any part of the work are appropriately investigated and resolved.
+Barbara Rogala: substantial contributions to the design of the
+work; revising manuscript critically for important intellectual content; final approval of the version to be published; agreement to be
+accountable for all aspects of the work in ensuring that questions
+related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. Joanna Gliick: substantial
+contributions to the conception or design of the work, interpretation of data for the work; revising the work critically for important
+intellectual content; final approval of the version to be published;
+agreement to be accountable for all aspects of the work in ensuring
+that questions related to the accuracy or integrity of any part of the
+work are appropriately investigated and resolved.
+
+1 Doja I, Blanca-Lépez N, Torres MJ, Garcia- 6 LiX, MaX, Tang L, Wang B, Chen L, Zhang 10 Duffy BK, Gurm HS, Rajagopal V, Gupta R,
+
+Campos J, Garcia-Nufiez I, Gomez F, et al.
+Drug hypersensitivity reactions: response
+patterns, drug involved, and temporal variations in a large series of patients. J Investig
+Allergol Clin Immunol. 2012;22(5):363-71.
+WHO. International drug monitoring: the
+role of national centres. Report of a WHO
+meeting. World Health Organ Tech Rep Ser.
+1972;498:1-25.
+
+Demoly P, Adkinson NF, Brockow K, Castells
+M, Chiriac AM, Greenberger PA, et al. International consensus on drug allergy. Allergy.
+2014 Apr;69(4):420-37.
+
+Kowalski ML, Asero R, Bavbek S, Blanca M,
+Blanca-Lopez N, Bochenek G, et al. Classification and practical approach to the diagnosis
+and management of hypersensitivity to nonsteroidal anti-inflammatory drugs. Allergy.
+2013 Oct;68(10):1219-32.
+
+Stevenson DD, Sanchez-Borges M, Szczeklik,
+A. Classification of allergic and pseudoallergic reactions to drugs that inhibit cyclooxygenase enzymes. Ann Allergy Asthma Immunol. 2001 Sep; 87(3):177-80.
+
+F, et al. Prognostic value of neutrophil-tolymphocyte ratio in urothelial carcinoma of
+the upper urinary tract and bladder: a systematic review and meta-analysis. Oncotarget.
+2017 Sep;8(37):62681-92.
+
+Holub K, Biete A. New pre-treatment eosinophil-related ratios as prognostic biomarkers
+for survival outcomes in endometrial cancer.
+BMC Cancer. 2018 Dec;18(1):1280.
+
+Ferro M, Musi G, Serino A, Cozzi G, Mistretta FA, Costa B, et al. Neutrophil, platelets, and
+eosinophil to lymphocyte ratios predict Gleason score upgrading in low-risk prostate cancer patients. Urol Int. 2019;102(1):43-50.
+Arbel Y, Finkelstein A, Halkin A, Birati EY,
+Revivo M, Zuzut M, et al. Neutrophil/lymphocyte ratio is related to the severity of coronary artery disease and clinical outcome in
+patients undergoing angiography. Atherosclerosis. 2012 Dec;225(2):456-60.
+
+ 
+
+Int Arch Allergy Immunol
+
+DOT: 10.1159/000509116
+
+ll
+
+12
+
+13
+
+Ellis SG, Bhatt DL. Usefulness of an elevated
+neutrophil to lymphocyte ratio in predicting
+long-term mortality after percutaneous coronary intervention. Am J Cardiol. 2006 Apr;
+97(7):993-6.
+
+Coban AM, Aksoy E, Duman D, Ozmen I,
+Yildirum E, Giingér S, et al. Does eosinophilia and neutrophil to lymphocyte ratio affect
+hospital re-admission in cases of COPD exacerbation? Tuber Toraks. 2017 Dec;65(4):28290.
+
+Tungay EA, Karakurt Z, Aksoy E, Saltiirk C,
+Gungor §, Ciftaslan N, et al. Eosinophilic and
+non-eosinophilic COPD patients with chronic respiratory failure: neutrophil-to-lymphocyte ratio as an exacerbation marker. Int J
+Chron Obstruct Pulmon Dis. 2017 Nov;12:
+3361-70.
+
+Fu H, Qin B, Hu Z, MaN, Yang M, Wei T, et
+al. Neutrophil- and _platelet-to-lymphocyte
+ratios are correlated with disease activity in
+rheumatoid arthritis. Clin Lab. 2015;61(3-4):
+269-73.
+
+ 
+
+Branicka/Rogala/Gliick
+
+ 
+14
+
+15
+
+16
+
+17
+
+18
+
+Gasparyan AY, Ayvazyan L, Mukanova U,
+Yessirkepov M, KItas GD. The platelet-tolymphocyte ratio as an inflammatory marker
+in rheumatic diseases. Ann Lab Med. 2019 Jul;
+39(4):345-57.
+
+Brescia G, Pedruzzi B, Barion U, Cinetto F,
+Giacomelli L, Martini A, et al. Are neutrophil-, eosinophil-, and basophil-to-lymphocyte ratios useful markers for pinpointing patients at higher risk of recurrent sinonasal
+polyps? Am J Otolaryngol. 2016 Jul-Aug;
+37(4):339-45.
+
+Kara A, Guven M, Yilmaz MS, Demir D, Elden H. Are neutrophil, platelet and eosinophil-to-lymphocyte ratio and red blood cell
+distribution width can be used for nasal polyposis? Eur Arch Otorhinolaryngol. 2018 Feb;
+275(2):409-13.
+
+Tecimer SH, Kasapoglu F, Demir UL, Ozmen
+OA, Coskun H, Basut O. Correlation between
+clinical findings and eosinophil/neutrophil
+ratio in patients with nasal polyps. Eur Arch
+Otorhinolaryngol. 2015 Apr;272(4):915-21.
+Mochimaru T, Ueda S, Suzuki Y, Asano K,
+Fukunaga K. Neutrophil-to-lymphocyte ratio
+as a novel independent predictor of severe ex
+ 
+
+CBC Ratios in NSAID Hypersensitivity
+
+19
+
+20
+
+21
+
+acerbation in patients with asthma. Ann Allergy Asthma Immunol. 2018 Mar;122(3):
+337-39.el.
+
+Gungen AC, Aydemir Y. The correlation between asthma disease and neutrophil to lymphocyte ratio. Res J Allergy Immunol. 2017
+Aug;1(1):1-4.
+
+Yenigun A, Sezen S, Calim OF, Ozturan O.
+Evaluation of the eosinophil-to-lymphocyte
+ratio in pediatric patients with allergic rhinitis. Am J Rhinol Allergy. 2016 Mar-Apr:30(2);
+e21-5.
+
+Brockow K, Przybilla B, Aberer W, Bircher
+AJ, Brehler R, Dickel H, et al. Guideline for the
+diagnosis of drug hypersensitivity reactions:
+S2K-Guideline of the German Society for Allergology and Clinical Immunology (DGAKI)
+and the German Dermatological Society
+(DDG) in collaboration with the Association
+of German Allergologists (AeDA), the German Society for Pediatric Allergology and Environmental Medicine (GPA), the German
+Contact Dermatitis Research Group (DKG),
+the Swiss Society for Allergy and Immunology (SGAI), the Austrian Society for Allergology and Immunology (OGAI), the German
+
+22
+
+23
+
+24
+
+25
+
+Academy of Allergology and Environmental
+Medicine (DAAU), the German Center for
+Documentation of Severe Skin Reactions and
+the German Federal Institute for Drugs and
+Medical Products (BfArM). Allergo J Int.
+2015;24(3):94-105.
+
+Kowalski ML, Makowska JS. Seven steps to
+the diagnosis of NSAIDs hypersensitivity:
+how to apply a new classification in real practice? Allergy Asthma Immunol Res. 2015 July:
+7(4);312-20.
+
+Nizankowska-Mogilnicka E, Bochenek G,
+Mastalerz L, Swierczyriska M, Picado C, Scadding G, et al. EAACI/GA2LEN guideline: aspirin provocation tests for diagnosis of aspirin
+hypersensitivity. Allergy. 2007:62(10);11118.
+
+Vena GA, Cassano N, Marzano AV, Asero R.
+The role of platelets in chronic urticaria. Int
+Arch Allergy Immunol. 2016:169(2);71-9.
+Palikhe S, Palikhe NS, Kim SH, Yoo HS, Shin
+YS, Park HS. Elevated platelet activation in
+patients with chronic urticaria: a comparison
+between aspirin-intolerant and aspirin-tolerant groups. Ann Allergy Asthma Immunol.
+2014 Sep:113(3);276-81.
+
+ 
+
+Int Arch Allergy Immunol
+
+DOI: 10.1159/000509116
+
+ 
+

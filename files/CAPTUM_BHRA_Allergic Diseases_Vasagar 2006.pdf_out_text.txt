@@ -1,0 +1,882 @@
+Clinical and Experimental Allergy, 36, 770-776
+
+ 
+
+ORIGINAL PAPER
+
+© 2006 Blackwell Publishing Ltd
+
+Evidence of in vivo basophil activation in chronic idiopathic urticaria
+
+K. Vasagar, B. M. Vonakis, L. M. Gober, A. Viksman, S. P. Gibbons Jr. and S. S. Saini
+Department of Medicine, Division of Allergy and Clinical Immunology, The Johns Hopkins University School of Medicine, Baltimore, MD, USA
+
+ 
+
+Summary
+
+Clinical and
+Experimental
+Allergy
+
+Background Approximately 40% of chronic idiopathic urticaria (CIU) subjects have
+autoantibodies to either FceRIx or IgE. The effect of such autoantibodies on circulating
+basophil activation status is unknown.
+
+Objective The expression of cell surface activation markers on basophils from CIU, non
+allergic, and allergic subjects were compared. Further, the relationship between marker
+expression and serum factors reported in CIU, such as histamine-releasing activity (HRA) and
+immunoreactivity to FeeRIx were examined.
+
+Methods Peripheral blood was obtained from CIU, allergic, and non-allergic donors and
+fractionated by density gradients. Enriched basophils (1-12%) were analysed by flow
+cytometry for expression of activation markers including CD63, CD69, and CD203c. Dilutions
+of serum (5-50%) were analysed for HRA on basophils from a normal donor. Serum was tested
+for immunoreactivity by western blotting to a standard cell lysate prepared from an RBL
+SX38 cell line transfected with human FceRI«.
+
+Results CIU subjects (n=9) and allergic subjects (n=8) exhibited enhanced expression of
+CD63 and CD69, as compared with non-allergic subjects (n = 7); however, no difference was
+seen among groups for CD203c expression. Five CIU and two non-allergic subjects had
+evidence of significant serum HRA (> 20%), whereas two CIU, two allergic, and three nonallergic subjects had evidence of serum immunoreactivity to FeeRIx. Serum HRA and serum
+
+immunoreactivity to FeeRIx were not associated with enhanced surface marker expression.
+
+Correspondence:
+
+Dr Sarbjit S. Saini, Johns Hopkins
+Asthma and Allergy Center, 5501
+Hopkins Bayview Circle, Baltimore, MD
+21224, USA.
+
+E-mail: ssaini@jhmi.edu
+
+Conclusion Basophil activation marker expression is increased in CIU subjects and is not
+associated with serum factors. In addition, serum HRA and FceRI« immunoreactivity are not
+unique to CIU, or related to enhanced circulating basophil marker expression.
+
+ 
+
+Keywords autoantibodies, basophils, cell surface markers, cellular activation, chronic urticaria
+Submitted 19 October 2005; revised 20 January 2006; accepted 2 March 2006
+
+ 
+
+Introduction
+
+In the last decade several groups have forwarded the idea
+that chronic idiopathic urticaria (CIU) may be the result
+of autoimmunity [1]. Specifically, approximately 40% of
+patients are reported to have serum autoantibodies of
+which 90% are directed against the high affinity IgE
+receptor alpha subunit (FceRIa) while 10% target IgE [1,
+2]. Separately, it has been noted that another 40% of CIU
+patients possess serum histamine releasing activity (HRA)
+by in vitro testing using donor basophils [3]. Although it is
+assumed that serum HRA and autoantibodies represent the
+same entity, there is a significant discordance between the
+presence of these two serum factors in CIU subjects [4, 5].
+Although it has been suggested that subjects with auto
+antibodies have more severe disease [5], the presence of
+serum HRA did not significantly modify the leucocyte
+infiltrates present in biopsies of either new (<4h) or more
+established (> 12h) lesions [6].
+
+In recent years, a role for basophils has emerged in CIU
+[7]. Basophils are present in the leucocyte infiltrate in skin
+biopsies of CIU lesions, which resemble the cellular
+infiltrate found in late-phase allergen injection sites [8].
+Likewise, reduced circulating basophil numbers have been
+correlated with heightened CIU disease activity [9]. Additionally, basophils of CIU subjects have a selective
+reduction in functional response to anti-IgE, but not to
+other stimuli [10-12]. It has also been noted that the
+functional defect via the IgE receptor resolves as CIU
+remits [10]. Several groups recently have shown that cell
+Basophil activation in chronic idiopathic urticaria 771
+
+ 
+
+surface marker expression is useful to detect basophil
+activation [13-15]. For example, CD63, a member of the
+transmembrane-4 superfamily, is rapidly mobilized on the
+basophil surface by IL-3, anti-IgE, and allergen, as well as
+other degranulation stimuli [13, 16]. In contrast, CD69, is
+slowly induced after basophil exposure to IL-3, and is
+thought to require de novo synthesis. In vivo, CD69 is also
+increased on basophils from the BAL of asthmatics [16].
+Most recently, cell surface expression of CD203c (ectonucleotide pyrophosphatase (E-NPP3)) has been shown to be
+enhanced by anti-IgE and allergen [17-20]. Further, its
+expression is unique to basophils, mast cells and their
+progenitors [21]. Although these same basophil markers
+have been applied as an in vitro measure to support the
+clinical diagnosis of allergy, issues remain in regards to
+their sensitivity and specificity relative to more traditional
+tests such as skin tests, specific IgE levels measured by
+RAST or basophil histamine release assays [15, 18, 22].
+
+Although reported for over a decade, direct evidence
+that circulating serum autoantibodies or HRA in CIU is
+linked to altered basophil or mast cell function in vivo is
+limited [23]. While recent studies have suggested the use
+of CIU sera-induced CD63 expression on basophils of
+normal donors as a potential screening tool for autoimmune urticaria [24-27], we are interested in directly
+examining the in vivo levels of activation markers on the
+basophils of CIU subjects. In the present study, we compared the in vivo expression of basophil activation markers among non-allergic, allergic, and CIU subjects to test
+the hypothesis that basophil activation status would be
+greatest in CIU subjects. In addition, we examined the
+relationship between serum factors and the levels of these
+basophil activation markers. Specifically, we measured
+serum HRA, as well as immunoreactivity to FeeRIa.
+
+ 
+
+ 
+
+Materials and methods
+
+Study subjects
+
+All study subjects were recruited from the Johns Hopkins
+Asthma and Allergy Center, via postings. CIU subjects (n= 9,
+1 M/8 F, mean age = 37.6 years) were characterized based on
+allergist diagnosis as well as active status of disease. Allergic
+subjects (n=8, 6 M/2 F, mean age=33.3 years) were
+characterized based on positive skin test and a history of
+allergic rhinitis or asthma. Non-allergic subjects (n= 7, 2 M/
+5 F; mean age=40.7 years) were characterized based on
+absence of the previously mentioned criteria. After informed
+consent, subjects underwent venipuncture via a protocol
+approved by the Western Institutional Review Board.
+
+Basophil isolation
+
+Venous blood samples were drawn into syringes containing
+5 mm EDTA [26] to prevent coagulation. Blood mononuclear
+
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+
+cells were obtained by density-gradient sedimentation,
+using Accuspin separation tubes (Sigma-Aldrich, St. Louis,
+MO, USA) and a discontinuous double Percoll gradient, as
+described [28]. Basophils (purity 1-12%) were enumerated
+by Alcian Blue staining [29]. For serum histamine-releasing
+assays, venous blood from non-CIU donors was subjected to
+dextran sedimentation to obtain mixed leucocytes with
+basophil purity <1% [30]. A separate serum tube was
+collected from all donors for immunoblotting assays.
+
+Dual colour flow cytometry
+
+Enriched basophil suspensions were labelled for direct and
+indirect immunofluorescence and flow cytometry. Antibodies used include: irrelevant mouse IgG1 control
+(MOPC-21; BD Biosciences, Mountain View, CA, USA),
+FITC-conjugated polyclonal goat anti-human IgE and its
+control FITC-conjugated normal goat IgG (Kirkegaard and
+Perry, Gaithersburg, MD, USA) and PE anti-mouse IgG
+(Biosource; Camarillo, CA, USA). PE-conjugated mouse
+IgG1, mouse anti-CD63 IgG1 (CLB-gran12), mouse antiCD69 IgG2B (TP1.55.3), and PE-conjugated mouse antiCD203c IgG1 (97A6) were purchased from Immunotech
+(Hialeah, FL, USA). In select subjects, platelet contamination of enriched basophil preparations was monitored by
+the use of a mouse anti-CD42b IgG1 (SZ2), also from
+Immunotech. Cells were incubated with monoclonal antibodies specific to each surface marker for 30 min at 4°C in
+the presence of FITC-conjugated anti-human IgE. Cells
+were then washed and, if necessary, labelled with PEconjugated anti-mouse for an additional 30 min. Samples
+were analysed on a Berton Dickinson FACS Caliber flow
+cytometer employing Cell Quest software. Cells were
+initially gated based on FITC-IgE-positive cells to select
+the basophil population and then analysed for specific
+activation markers [31]. With rare exception, marker
+expression was unimodal. Data are expressed as net
+median fluorescence intensity (actual MFI — MFI of irrelevant IgG control). In pilot studies, basophils were also
+labelled for flow cytometry using a whole blood lysis
+approach [18] in parallel with Percoll isolation.
+
+ 
+
+ 
+
+Serum histamine-releasing activity
+
+In preliminary studies, eight normal basophil donors were
+screened for high-range (upper quartile) release to antiIgE and CIU sera [24]. A single donor was selected, whose
+basophils were then activated by dilutions of the subjects’
+sera (50, 25, 5%) as well as a crosslinking anti-IgE as a
+positive control. Histamine content was quantitated in
+cell-free supernatants using an automated fluorometric
+assay [32]. Results are shown as the percentage of total
+histamine content present in a lysate of a leucocyte
+aliquot after subtracting spontaneous release. In addition,
+772 XK. Vasagar et al
+
+ 
+
+sera was also tested with RBL-SX38 cells (transfected with
+human FceRI«) as a separate measure of serum HRA that
+may involve factors targeting unoccupied FceRIa.
+
+Serum immunoreactivity for FceRIa
+
+Diluted sera (1: 250) was used to immunoblot a standard
+lysate of RBL-SX38 cells transfected with human FcsRla
+as described [3, 28]. Cell lysates from a single passage of
+RBL-SX38s were separated by SDS-PAGE gel electrophoresis and transferred to PVDF membranes. Membranes
+were next immunoblotted with each individual serum,
+followed by use of a secondary anti-human IgG-HRP
+(Amersham-Pharmacia, Piscataway, NJ, USA). As a positive control, a single lane of each gel was immunoblotted
+with a commercial antibody against FceRI« (polyclonal
+rabbit anti-human FceRI« subunit, Upstate Biotechnology,
+Lake Placid, NY, USA), followed by anti-rabbit IgG-HRP
+(Amersham-Pharmacia, Piscataway, NJ, USA) to allow for
+comparisons of relative band intensity between gels (Fig.
+1) [28]. Analysis of band density was conducted using the
+Bio-Rad imaging system (Bin-Rad Laboratories, Segrate,
+Italy). Using this software, a three-dimensional model of
+each band was generated. The volume of each band was
+calculated, and adjusted for local background. Positive
+serum immunoreactivity was based on two criteria: an
+adjusted volume greater than 1 U, as well as an adjusted
+volume greater than 10% of the respective gel-positive
+control.
+
+Statistical design
+
+The statistical analysis utilized STATVIEW 5 package for
+Macintosh and Student’s ¢ test for normally distributed
+data such as cell surface marker expression. A P-value of
+less than 0.05 was considered to be significant.
+
+il 2 3
+Positive Control Negative Serum
+UBI FeeRLo
+
+6.74 3.59 0
+
+Fig. 1. Representative immunoblot of human sera to detect FceRIx
+
+66 kD
+
+45 kD
+Positive Serum
+
+Adjusted Volume:
+ODU/mm2
+
+immunoreactivity. Immunoblot (lane 1) using a commercial antibody
+against FceRIx, showing typical band density of surface FceRIx at 60 kDa.
+An example of a positive serum immunoblot (lane 2) and a negative
+serum immunoblot (lane 3). Beneath each lane is a digital image of band
+density, as well as the respective volume analysis.
+
+Results
+
+Activation marker expression
+
+We first examined er vivo basophil activation marker
+expression in our study subjects using dual colour flow
+cytometry (Fig. 2). In pilot studies, we observed higher
+levels of activation marker expression on basophils examined using the whole-blood lysis approach as compared with Percoll isolated, and therefore all subsequent
+experiments used the latter approach. As shown in Fig. 3a,
+basophils from CIU and allergic subjects had significantly
+heightened expression of CD63 in comparison with nonallergics (P < 0.02). Furthermore, there was a trend for
+higher CD63 expression in basophils from CIU subjects
+relative to allergic subjects. Of note, levels of CD63
+detected on basophils were independent of the presence
+of platelets which are also known to bear CD63 (data not
+shown). In contrast, CD69 expression was significantly
+elevated on basophils from allergics, as compared with
+non-allergic subjects (P < 0.04). In the case of CIU, CD69
+expression was variable, with five of nine subjects having
+little expression (P=0.12 vs. non-allergics). However, no
+difference was seen in CD203c expression among subject
+groups.
+
+For comparison purposes, we optimally activated basophils obtained from an allergic subject and measured
+activation marker expression (Fig. 3b). In vitro stimulation
+of basophils with doses of grass allergen known to trigger
+
+ 
+
+FSC-H
+
+Flow Cytometric
+Analysis of Basophils
+
+ 
+
+ 
+
+ 
+
+(b) (c)
+50 50
+40 40
+2 30 2 30
+3 3
+8 20 8 20
+10 eal 10
+0 0
+10° 10' 107 10° 104 10° 10' 102 10% 104
+FITC IgE PE - CD63
+
+Fig. 2. Representative flow cytometric basophil analysis. (a) Typical cell
+scatter and gate to capture basophils. (b) Gated cells from (a) examined
+for intensity of labelling with FITC anti-human IgE. (c) Detection of
+surface marker CD63 on cells selected for high expression of human IgE
+in (b).
+
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+Basophil activation in chronic idiopathic urticaria 773
+
+ 
+
+(a) p<0.02
+70) | i *Non-Allergic, n=7
+60 “Allergic, n=8
+
+*ClU, n=9
+
+507 p<0.02 p<0.04 *
+
+— rT
+
+mu 40
+
+= t a
+
+3B 30 os
+
+c
+20 : “
+
+.
+
+10 ae t .
+
+ 
+
+CD69
+Surface Marker
+
+CD203c
+
+(b) 600
+® Pre-stimulation
+
+_ 500 ® Allergen (.25 BAU, 30 mins)
+‘c 400 © Allergen (2.5 BAU, 30 mins)
+2 IL3 (3ng/ml, 24 hrs)
+
+300
+i
+2 200
+
+100
+
+ 
+
+CD69
+Surface Marker
+
+CD63 CD203
+
+Fig. 3. (a) Basophil activation marker expression in study subjects.
+Basophils from chronic idiopathic urticaria and allergic subjects had
+significantly heightened expression of CD63 in comparison to nonallergics. CD69 was elevated in allergics as compared with non-allergics
+(all comparisons to non-allergics using a Student's f-test.) (b) Basophils
+stimulated for maximal surface marker activation, via allergen and IL-3.
+In vitro stimulation with grass allergen led to significant increase in
+expression of CD63 and CD203c as compared with pre-stimulation,
+whereas IL-3 incubation of basophils led to maximal increase in CD69.
+CD63 and CD203c expression not measured following IL-3 incubation.
+
+histamine release (0.25 and 2.5 ng/mL, 30 min at 37 °C) led
+to a significant increase in expression of CD63 ( > 400 net
+MFI) and CD203c ( > 200 net MFI), as compared with prestimulation net MFI. However, allergen exposure led to
+modest shifts in CD69, whereas IL-3 (0.3 ng/mL, 24h) led
+to maximal increase (> 200 net MFI) as reported [16].
+Thus, the level of CD63 expression observed on basophils
+of allergics or CIU subjects was 2.5-5% of the maximal
+expression achieved by in vitro activation (Fig. 3b),
+respectively, whereas, expression of CD69 was 5% of the
+maximal expression achieved by in vitro IL-3 exposure
+(Fig. 3b) in both groups.
+
+Serum histamine-releasing activity
+
+Given the observed differences in basophil activation
+marker expression, we next compared serum HRA between CIU, allergic, and non-allergic subjects. Serum was
+considered positive for HRA if it induced greater than 20%
+histamine release above spontaneous release, a criterion
+similar to that used by others [2]. As shown in Fig. 4, a
+total of seven subjects were considered positive: two nonallergic and five CIU subjects. Surprisingly, none of the
+
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+
+ 
+
+ 
+
+ 
+
+ 
+
+50
+407 e
+E
+a .
+& 304 r
+2
+B BUlbeseccus ns
+2
+= e
+X40 i .
+H .
+o+ U : : °
+Non-Allergic, n=8 Allergic, n=7 CIU, n=9
+Subject Group
+
+Fig. 4. Serum histamine releasing activity (HRA). Basophils were incubated with dilutions of the subjects’ sera, ranging from 5% to 50%. Serum
+was considered positive if histamine release was greater than 20% above
+spontaneous release (dashed line). A total of seven subjects were positive:
+two non-allergic and five chronic idiopathic urticaria subjects. None of
+the allergic subjects had serum HRA. “Denotes subjects positive for both
+HRA and serum immunoreactivity to FceRIx.
+
+allergic subjects were positive for serum HRA. Serum studies
+using RBL-SX38 with unoccupied IgE receptors did not
+clearly discriminate HRA among donors (data not shown).
+
+We next examined whether basophil activation marker
+expression was associated with the presence of serum
+HRA, within each subject group. There was no significant
+difference in marker expression between HRA-positive
+and-negative subjects in either the non-allergic subject
+group or the CIU group (data not shown).
+
+Serum immunoreactivity for FceRIa
+
+We next compared serum immunoreactivity for FceRlx
+between CIU, allergic, and non-allergic subjects. As
+shown in Fig. 5, a total of seven subjects were serum
+positive: three non-allergic, two allergic, and two CIU
+subjects. Of note, no significant difference in immunoblot
+intensity was seen among subjects. As expected from
+earlier studies, there was little overlap between immunoblot-positive and HRA-positive subjects with only two
+subjects positive for both serum factors [4]. We next
+examined activation marker expression relative to serum
+immunoreactivity within each subject group. In all subject
+groups, there were no significant differences in marker
+expression between positive and negative subjects, relative to the presence of serum immunoreactivity to FeseRla
+(data not shown).
+
+To further clarify the activity of identified serum
+factors, we examined sera positive for either HRA, immunoreactivity to FeeRIa, or both, for in vitro activation of
+basophil marker expression (Fig. 6). All categories of sera
+led to modest increases in CD203c levels (~40 net MFI) on
+donor basophils after 30 min of exposure, whereas most
+77A K.Vasagar et al
+
+ 
+
+ 
+
+wo ES
+1 1
+
+ie)
+an
+
+Aajusted bana volume
+(ODU/mm?)
+.
+:
+oe
+.
+
+ 
+
+ 
+
+Non-Allergic, n=8
+
+Allergic, n=7
+Subject Group
+
+Clu, n=9
+
+Fig. 5. Serum immunoreactivity to FceRIx. A total of seven subjects were
+positive: three non-allergic, two allergics, and two chronic idiopathic
+urticaria subjects. Dashed line indicates minimal band volume necessary
+to meet volume criteria for positivity. “Denotes subjects positive for both
+histamine releasing activity and serum immunoreactivity to FceRI«.
+
+sera classes led to a reduction in CD63 expression. No
+changes were noted in CD69 expression after serum
+incubation.
+
+Discussion
+
+We have found that CD63 expression is increased on the
+circulating basophils from CIU and allergic subjects, and
+that both groups have significantly higher expression
+than non-allergic subjects. In contrast, CD69 expression
+levels were similar on basophils from CIU and allergics
+and elevated as compared with non-allergics. However, no
+difference in expression of CD203c was seen among the
+three subject groups. In all cases, levels of activation
+marker expression were modest relative to levels achieved
+with maximal in vitro stimulation, suggesting that the
+level of circulating basophil activation in vivo is far less
+than expected with specific stimulation via FceRI activation. Interestingly, higher basophil marker expression
+levels have been reported by other groups [18] using a
+whole-blood lysis approach, which we observed increased
+levels beyond that seen on basophils isolated in parallel
+via Percoll. Although we cannot exclude activation of
+basophils via our selected isolation approach, we utilized
+this procedure to better reflect the status of basophil
+activation status in vivo. We have also not found a
+correlation between basophil CD63 levels and CD42 presence, indicating that platelet adhesion on basophils is not
+leading to falsely elevated CD63 expression. The underlying mechanism behind enhanced activation marker
+expression is unclear, but certainly in the case of CD69
+and CD63, it may be linked to the presence of cytokines
+such as IL-3 which could be expressed in the sera of both
+allergic and CIU subjects. It has been noted that both CIU
+
+@ Pre-stimulation
+
+© +HRA/+FceRla (n=:
+
+0 +HRA/-FceRla (n=:
+50 @ —-HRA/+FceRla (n=3
+@ —HRA/-FceRla (n=3
+
+   
+
+Net MedianFl
+nN
+a
+
+Kw
+
+CD63
+
+CD69
+Surface Marker
+
+CD203
+
+Fig. 6. In vitro effects of sera on activation marker expression. Various
+serum categories (serum histamine releasing activity positive n=2,
+positive FceRIx immunoblot (IB) n= 3, both n= 2, or neither n=3) were
+incubated with a normal donor's basophils for 30 min. As compared with
+baseline, all sera caused an elevation in CD203c levels, whereas a mixed
+effect on CD63 expression was seen. No shifts in CD69 were noted.
+
+and atopic subjects share similar levels of elevation in
+serum IL-4 as compared with healthy controls [33].
+
+Consistent with the modest levels of basophil activation
+markers in our subject groups, we also found little evidence that the presence of circulating autoantibodies to
+FceRIa as detected by western blotting, altered basophil
+marker expression. This is a rather surprising finding given
+the proposed role for these autoantibodies in CIU pathogenesis [23]. We also failed to see a bimodal distribution in
+activation marker expression that would suggest that only
+a subset of basophils was being activated via autoantibody
+presence. Likewise, the presence of serum HRA was not
+associated with elevated marker expression in CIU and
+non-allergic subjects, and absent in allergic subjects. The
+lack of serum HRA in allergic subjects may explain why
+some investigators have reported the exclusive presence of
+serum HRA in CIU subjects vs. others subjects presenting to
+an allergy clinic [2]. However, the presence of serum HRA
+was not a distinguishing feature of CIU in our study as also
+observed by others [34].
+
+Among the explanations for the lack of association
+between the presence of FceRI~ autoantibodies and basophil activation marker expression is the idea that these
+autoantibodies can only bind to unoccupied receptors on
+the basophil surface or a ‘conditional’ autoimmune state
+[35, 36]. However, in past population studies of receptor
+densities on basophils, it was noted that the number of
+open receptors is fairly constant despite a wide range of
+receptor expression [24]. This observation argues against
+the existence of in vivo states that would increase the
+numbers of unoccupied receptors to permit pathogenic
+activation of either basophils or mast cells. However, such
+an altered state of increased unoccupied receptors has
+
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+Basophil activation in chronic idiopathic urticaria 775
+
+ 
+
+been described in the early months of treatment with the
+therapeutic anti-IgE, omalizumab [37]. Furthermore, the
+existence of FesRIx autoantibodies has also been related
+to cross-reactivity with tetanus toxoid and therefore may
+offer a further challenge to clearly link these autoantibodies specifically to CIU [38, 39]. These groups have found
+naturally occurring FceRIl« autoantibodies in healthy
+subjects [38, 39], as we have also observed in this study.
+Other groups have also shown the presence of such antiFeeRIx antibodies in other inflammatory, autoimmune
+skin diseases, suggesting a broad presence of such autoantibodies [40].
+
+As an aside, we noted allergen dose dependence for
+CD203c expression on basophils, supporting the use of a
+wide range of allergen doses in assays involving activation markers to detect basophil activation. We also saw
+that in vitro exposure of basophils to all categories of sera
+(based on HRA or presence of anti-FceRIx antibodies) led
+to enhanced CD203c expression and a variable effect on
+CD63 expression. From our studies of basophil activation
+markers, we have observed high baseline activation marker expression in highly allergic individuals with a subsequent drop in marker expression following stimulation.
+This may explain the unexpected decrease in sera-induced
+CD63 expression observed in Fig. 6. Although we focused
+on the expression of activation markers on basophils of
+CIU subjects, recently, several groups have suggested the
+use of serum-induced basophil CD63 expression as a
+screening test for autoimmune urticaria based on serologic factors [25-27, 34]. However, the disparity in serum
+effects on CD63 begins to highlight some of the issues
+with broad application of these assays for in vitro diagnosis of clinical allergy or serologic factor status.
+
+In conclusion, we have found that expression of basophil activation markers is increased in CIU and is similar
+to that observed in allergic subjects. We also found that
+elevated basophil marker expression was not associated
+with CIU serologic factors. In addition, serum HRA and
+FeeRIa immunoreactivity are not unique to CIU subjects
+or related to enhanced basophil marker expression.
+
+Acknowledgements
+
+Funded by AAAAI MOA Interest Section, NIH grants K22
+A149288 to Dr Vonakis and NIH grant AI01564 to Dr Saini.
+
+References
+
+1 Kaplan AP. Clinical practice. Chronic urticaria and angioedema.
+N Engl J Med 2002; 346:175-9.
+
+2 Tong LJ, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP.
+Assessment of autoimmunity in patients with chronic urticaria.
+J Allergy Clin Immunol 1997; 99:461-5.
+
+3 Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional
+and binding assays for IgG anti-Fc(epsilon)Rlalpha (alpha-sub
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+
+x
+
+i}
+
+10
+
+I
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+unit) in chronic urticaria. J Allergy Clin Immunol 1998; 101:
+672-6.
+
+Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of
+basophils in chronic urticaria. J Allergy Clin Immunol 2001; 107:
+1056-62.
+
+Sabroe RA, Fiebiger E, Francis DM et al. Classification of antiFeepsilonRI and anti-IgE autoantibodies in chronic idiopathic
+urticaria and correlation with disease severity. J Allergy Clin
+Immunol 2002; 110:492-9.
+
+Sabroe RA, Poon E, Orchard GE et al. Cutaneous inflammatory
+cell infiltrate in chronic idiopathic urticaria: comparison of
+patients with and without anti-FcepsilonRI or anti-IgE autoantibodies. J Allergy Clin Immunol 1999; 103:484-93.
+
+Grattan CE. Basophils in chronic urticaria. J Investig Dermatol
+Symp Proc 2001; 6:139-40.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2
+cytokines and inflammatory cells in skin biopsy specimens from
+patients with chronic idiopathic urticaria: comparison with the
+allergen-induced late-phase cutaneous reaction. J Allergy Clin
+Immunol 2002; 109:694-700.
+
+Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil
+numbers in chronic ordinary urticaria and healthy controls:
+diurnal variation, influence of loratadine and prednisolone and
+relationship to disease activity. Clin Exp Allergy 2003; 33:
+337-41.
+
+Kern F, Lichtenstein LM. Defective histamine release in chronic
+urticaria. J Clin Invest 1976; 57:1369-77.
+
+Saini SS, Vasagar K, Huang F, Gibbons S, Jr. Vonakis BM.
+Signaling defects in basophils in chronic urticaria. J Allergy Clin
+Immunol 2003; 111:S178.
+
+Sabroe RA, Francis DM, Barr RM, Black AK, Greaves MW. AntiFe(episilon)RI auto antibodies and basophil histamine releasability in chronic idiopathic urticaria. J Allergy Clin Immunol
+1998; 102:651-8.
+
+Knol EF, Mul FPJ, Jansen H, Calafat J, Roos D. Monitoring
+human basophil activation via CD63 monoclonal antibody-435.
+J Allergy Clin Immunol 1991; 88:328-38.
+
+Bochner BS. Systemic activation of basophils and eosinophils:
+markers and consequences. J Allergy Clin Immunol 2000; 106:
+$292-302.
+
+Ebo DG, Hagendorens MM, Bridts CH, Schuerwegh AJ, De Clerck
+LS, Stevens WJ. In vitro allergy diagnosis: should we follow the
+flow? Clin Exp Allergy 2004; 34:332-9.
+
+Yoshimura C, Yamaguchi M, likura M et al. Activation markers of
+human basophils: CD69 expression is strongly and preferentially
+induced by IL-3. J Allergy Clin Immunol 2002; 109:817-23.
+Buehring HJ, Seiffert M, Giesert C et al. The basophil activation
+marker defined by antibody 97A6 is identical to the ectonucleotide pyrophosphatase/phosphodiesterase 3. Blood 2001; 97:
+3303-5.
+
+Boumiza R, Monneret G, Forissier MF et al. Marked improvement
+of the basophil activation test by detecting CD203c instead of
+CD63. Clin Exp Allergy 2003; 33:259-65.
+
+Hauswirth AW, Natter S, Ghannadan M et al. Recombinant
+allergens promote expression of CD203c on basophils in sensitized individuals. J Allergy Clin Immunol 2002; 110:102-9.
+Binder M, Fierlbeck G, King T, Valent P, Buehring HJ. Individual
+hymenoptera venom compounds induce upregulation of the
+basophil activation marker ectonucleotide pyrophosphatase/
+776 K. Vasagar et al
+
+ 
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+phosphodiesterase 3 (CD203c) in sensitized patients. Int Arch
+Allergy Immunol 2002; 129:160-8.
+
+Buehring HJ, Simmons PJ, Pudney M et al. The monoclonal
+antibody 97A6 defines a novel surface antigen expressed on
+human basophils and their multipotent and unipotent progenitors. Blood 1999; 94:2343-56.
+
+MacGlashan DW Jr. Graded changes in the response of individual human basophils to stimulation: distributional behavior of
+events temporally coincident with degranulation. J Leukoc Biol
+1995; 58:177-88.
+
+Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med
+1993; 328:1599-604.
+
+MacGlashan DW Jr. Releasability of human basophils: cellular
+sensitivity and maximal histamine release are independent
+variables. J Allergy Clin Immunol 1993; 91:605-15.
+
+De Swerdt A, Van Den Keybus C, Kasran A et al. Detection of
+basophil-activating IgG autoantibodies in chronic idiopathic urticaria by induction of CD63. J Allergy Clin Immunol 2005; 116:662-7.
+Gyimesi E, Sipka S, Danko K ef al. Basophil CD63 expression
+assay on highly sensitized atopic donor leukocytes—a useful
+method in chronic autoimmune urticaria. Br J Dermatol 2004;
+151:388-96.
+
+Hidvegi B, Nagy E, Szabo T et al. Correlation between T-cell and
+mast cell activity in patients with chronic urticaria. Int Arch
+Allergy Immunol 2003; 132:177-82.
+
+Saini SS, Richardson JJ, Wofsy C, Lavens-Phillips S, Bochner
+BS, Macglashan DW Jr. Expression and modulation of FcepsilonRIalpha and FcepsilonRIbeta in human blood basophils.
+J Allergy Clin Immunol 2001; 107:832-41.
+
+Gilbert HS, Ornstein L. Basophil counting with a new staining
+method using alcian blue. Blood 1975; 46:279-86.
+
+Saini SS, MacGlashan DW Jr., Sterbinsky SA et al. Downregulation of human basophil IgE and FceRI« surface densities
+and mediator release by anti-IgE-infusions is reversible in vitro
+and in vivo. J Immunol 1999; 162:5624-30.
+
+31
+
+32
+
+33
+
+34
+
+35)
+
+36
+
+37
+
+38
+
+39
+
+40
+
+Saini SS, Klion AD, Holland SM, Hamilton RG, Bochner BS,
+MacGlashan DW Jr. The relationship between serum IgE and
+surface FceRI on human leukocytes in various diseases: correlation of expression with FceRI on basophils but not on monocytes
+or eosinophils. J Allergy Clin Immunol 2000; 103:514-20.
+Siraganian RP. Refinements in the automated fluorometric
+histamine analysis system. J Immunol Methods 1975; 7:283-90.
+Ferrer M, Luquin E, Sanchez-Ibarrola A, Moreno C, Sanz ML,
+Kaplan AP. Secretion of cytokines, histamine and leukotrienes
+in chronic urticaria. Int Arch Allergy Immunol 2002; 129:
+254-60.
+
+Wedi B, Novacovic V, Koerner M, Kapp A. Chronic urticaria
+serum induces histamine release, leukotriene production, and
+basophil CD63 surface expression - inhibitory effects of antiinflammatory drugs. J Allergy Clin Immunol 2000; 105:552-60.
+Horn MP, Pachlopnik JM, Vogel M et al. Conditional autoimmunity mediated by human natural anti-Fc(epsilon)Rlalpha autoantibodies? FASEB J 2001; 15:2268-74.
+
+Miescher SM, Horn MP, Pachlopnik JM, Baldi L, Vogel M, Stadler
+BM. Natural anti-FcepsilonRlalpha autoantibodies isolated from
+healthy donors and chronic idiopathic urticaria patients reveal a
+restricted repertoire and autoreactivity on human basophils.
+Hum Antibodies 2001; 10:119-26.
+
+MacGlashan DW Jr., Bochner BS, Adelman DC ef al. Downregulation of FceRI expression on human basophils during in
+vivo treatment of atopic patients with anti-IgE antibody.
+J Immunol 1997; 158:1438-45.
+
+Horn MP, Gerster T, Ochensberger B et al. Human antiFcepsilonRIalpha autoantibodies isolated from healthy donors
+cross-react with tetanus toxoid. Eur J Immunol 1999; 29:
+1139-48.
+
+Pachlopnik JM, Horn MP, Fux M et al. Natural anti-FcepsilonRlalpha autoantibodies may interfere with diagnostic tests for
+autoimmune urticaria. J Autoimmun 2004; 22:43-51.
+
+Fiebiger E, Hammerschmid F, Sting] G, Maurer D. Anti-FcepsilonRIalpha autoantibodies in autoimmune-mediated disorders.
+Identification of a structure-function relationship. J Clin Invest
+1998; 101:243-51.
+
+© 2006 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 36 : 770-776
+

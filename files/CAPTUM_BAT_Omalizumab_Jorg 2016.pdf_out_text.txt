@@ -1,0 +1,927 @@
+Double-blind placebo-controlled trial of the effect of omalizumab on basophils
+in chronic urticaria patients
+
+Short Title: Effect of omalizumab on basophils in chronic urticaria patients
+
+Lukas Jorg’, Tatjana Pecaric-Petkovic’, Stephan Reichenbach” *, Michael Coslovsky’, Odile Stalder’,
+Werner Pichler’, Oliver Hausmann’?
+
+‘Department of Rheumatology, Immunology and Allergology, Inselspital, Bern University Hospital,
+University of Bern, Bern, Switzerland
+
+2ADR-AC GmbH, Adverse Drug Reactions, Analysis and Consulting, Bern, Switzerland
+
+3Clinical Trial Unit, University of Bern, Bern, Switzerland
+
+Corresponding author
+
+Lukas Jorg
+
+Department of Rheumatology, Immunology and Allergology
+Inselspital
+
+Bern University Hospital
+
+3010 Bern
+
+Switzerland
+
+Phone : +41 31 632 22 69
+
+Fax : +41 31 632 42 08
+
+Email: lukas.joerg@insel.ch
+
+Target Journal : Journal of Clinical and Experimental Allergy
+
+Key words
+- Basophil activation test, chronic idiopathic urticaria, chronic spontaneous urticaria, FceRI
+
+receptor density, omalizumab
+
+Abstract:
+
+Background: Omalizumab has been shown to be effective in treating chronic spontaneous urticaria
+(CSU). The reduction of FceRI receptor density on the surface of basophils and mast cells is thought
+to play a major role in its effectiveness. We conducted a double-blind, randomized, placebocontrolled trial to investigate the mode of action of omalizumab in patients with antihistamine
+resistant CSU.
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.1111/cea.13066
+
+This article is protected by copyright. All rights reserved.
+Methods: Thirty patients were randomized in a 2:1 ratio to receive either 300 mg omalizumab or
+placebo. Four monthly applications of omalizumab/placebo were followed up with a visit 2 months
+
+after the last injection. The primary endpoint was the FceRI receptor density change on basophils.
+
+Results: Omalizumab led to a significant reduction of FceRI receptor density on
+
+basophils as soon as 1 week after the first injection: baseline omalizumab vs. placebo group, 80.31 +
+47.18x10? vs. 78.29 + 45.09x10? receptors/basophil + SD; 1 week, 72.89 + 47.79x10? vs. 27.83 +
+20.87x103, p=0.001. This effect continued during the treatment phase and persisted for 2 months
+after the last injection: 93.81 + 56.50x10? vs. 21.09 + 15.23x10?, p=0.002. Values for basophil
+“releasability” and the basophil activation test (CU-BAT) of patient serum using donor basophils
+were unchanged despite treatment: CU-BAT, CD63 10.75% (7.35) in the placebo group vs. 8.35%
+
+(15.20) in the omalizumab group, p=0.778.
+
+Conclusion: We demonstrated a rapid reduction of FceRI receptor density on basophils following
+treatment with omalizumab. Because CU-BAT using well-characterized, omalizumab-naive donor
+basophils did not change during the treatment phase, autoreactive serum factors seem to remain
+unaltered. This points towards a cellular effect of omalizumab on basophils. To predict the
+
+omalizumab response time and to monitor disease, FceRI density and CU-BAT might be promising
+
+cellular-based assays.
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a common disease with a point prevalence of 1% of the
+general population [1]. Patients manifest with hives on most days for a period of at least 6 weeks.
+The disease is often accompanied by angioedema and tends to be cyclical in nature, with
+spontaneous disappearances and frequent relapses [2]. In most cases, no underlying disease or
+
+allergy can be found [3].
+
+CSU treatment relies mainly on second-generation antihistamines and is purely symptomatic. While
+some patients respond to standard-dose second-generation antihistamines, in others off-label (for
+CSU) treatments with high-dose H1-antihistamines, leukotriene receptor blocking agents,
+
+cyclosporine A, or systemic corticosteroids are needed [4, 5].
+
+This article is protected by copyright. All rights reserved.
+Based on several randomized controlled trials [6 — 8], the monoclonal anti-lgE antibody omalizumab
+was recently licensed for the treatment of antihistamine-resistant CSU [9]. The mechanism of action
+of omalizumab in CSU is still not fully understood. Omalizumab binds selectively to free IgE in
+plasma, inhibits its binding to FceRI receptors on the surface of mast cells and basophils, and reduces
+the number of FceRI receptors on basophils in atopic patients [10, 11] and those with CSU [12, 13]. A
+significant reduction of FceRI receptor density on the surface of circulating basophils has been found
+as early as 1 week after the administration of omalizumab [14]. In contrast, a decrease in FceRI
+receptor density on mast cells may occur later [11]. The role of basophils in CSU is still debated [15],
+but basophils may be an accessible and relevant model to analyze the effect of omalizumab on FceRI
+
+expression and on the level of basophil activation.
+
+About half of CSU patients have autoantibodies against FceRI, few against IgE [16, 17]. Other
+autoimmune markers such as IgE and IgG antibodies against thyroid peroxidase are frequently found
+[18]. Sera of CSU patients can activate the resting basophils of normal donors to release histamine
+and upregulate the activation markers CD63 and CD203c [19, 20]. The basophil activation test with
+donor basophils (CU-BAT) involves measuring CD63 upregulation as an activation marker and is
+already established as a specific, sensitive, and safe in vitro assay to detect functional autoantibodies
+[19 — 22]. In addition, the FceRI receptor density itself might be another important parameter for the
+quantification of mast cell and basophil “releasability” and therefore a good in vitro surrogate
+
+marker for their reactivity.
+
+To gain insight into the pathophysiology of some forms of CSU and the mode of action of
+omalizumab, we evaluated the effect of omalizumab treatment in patients with CSU by investigating
+three parameters: FceRI receptor density on the surface of basophils, determined by flow cytometry;
+the functional consequences of a change in FceRI receptor density, evaluated via the crosslinking of
+FceRI / IgE receptor complexes induced by autoantibodies (basophil releasibility); and whether
+typical CSU serum factors responsible for basophil degranulation were altered during treatment.
+Based on the findings of Gericke et al. [23], a post hoc analysis was performed to identify differences
+
+between early and slow responses to omalizumab.
+
+This article is protected by copyright. All rights reserved.
+Methods
+
+Study design
+
+In a monocentric, double-blind, randomized, placebo-controlled trial we investigated the mechanism
+of action of omalizumab in antihistamine-resistant CSU over a period of 7 months, between
+September 2012 and April 2014. Thirty patients diagnosed with CSU were recruited and randomly
+assigned to two groups in a 2:1 ratio to receive either omalizumab (n=20) or placebo (n=10).
+Omalizumab (Xolair®) was administered in four monthly treatments at a fixed subcutaneous dose of
+300 mg as currently licensed [6, 24]. Before the first administration, disease activity was assessed
+and documented over a 4-week period with the urticaria activity score (UAS), followed by the 16week treatment period with 4 injections of omalizumab/placebo. Two months after the last
+
+injection, a final study visit to follow up treatment efficacy and study outcomes took place.
+
+The study was approved by the local ethics committee and by Swissmedic, the Swiss agency for
+therapeutic products. The trial was conducted in accordance with the Declaration of Helsinki, the
+International Conference on Harmonisation (ICH)/WHO Good Clinical Practice, and all national,
+
+state, and local laws.
+
+This investigator-initiated study was funded by Novartis Pharmaceuticals (Basel, Switzerland). Their
+representatives were not involved in the design of the study or any data collection, analysis, or
+
+interpretation.
+
+Study population
+
+Patients between the ages of 18 and 70 with CSU were included in the study if they met the
+following criteria: symptoms for at least 6 weeks, with hives present at least twice weekly, and
+symptoms refractory to standard doses of H1-antihistamines at the time of randomization. Patients
+signed informed consent forms documenting their understanding of the study procedures and the
+investigational nature of the study. Exclusion criteria were purely inducible urticaria, clearly defined
+allergic urticaria, treatment with omalizumab during the last year, known hypersensitivity to
+omalizumab or any of its components, history of cancer in the previous 5 years, parasitic infections,
+documented active tuberculosis or ongoing recent (in the preceding 4 weeks) antituberculous
+therapy, documented prior treatment with systemic immunosuppressive agents (short-term
+prednisolone for CSU exacerbations was allowed), current pregnancy or nursing, known intolerance
+to any protocol intervention, and lack of accountability. Any contraception had to be performed by a
+
+safe, reliable, and accepted method such as oral or implanted contraceptives or tubal ligation.
+
+This article is protected by copyright. All rights reserved.
+Patients were allowed to take their usual medications (H1-antihistamines up to a fourfold single
+
+dose, H2-antihistamines, montelukast, short-term prednisolone for CSU exacerbations) for the
+
+treatment of CSU, but systemic immunosuppressive agents other than prednisolone were not
+
+permitted, as they might influence basophil assays.
+
+Basophil assays
+
+Two assays evaluated basophil phenotype and function, while another measured the presence of
+
+serum factors inducing donor basophil degranulation/activation.
+
+a)
+
+b)
+
+c)
+
+The FceRI density on basophils was measured at randomization and on the day of the first
+treatment, and thereafter at 1 week, 1 and 3 months, and 2 months after stopping
+treatment. The FceRI receptor density was assessed by QIFIKIT (Dako-Cytomation, Glostrup,
+Denmark) according to the instructions of the manufacturer [25]. For each quantification,
+500-1000 basophils were acquired using CCR3 basophil-specific staining. FceRI receptor
+density was defined according to the standard curve using beads with ascending predefined
+receptor densities.
+
+Basophil releasability was measured with and without IL-3 coincubation at three timepoints
+(baseline, 1 week, and 3 months after the first injection) by assessing the activation marker
+CD63 [26] after stimulation with anti-lgE (not omalizumab, Beckman Coulter, Krefeld
+Deutschland) at the concentrations of 1000, 100, 10 and 1ng/ml. Cells were stained with
+monoclonal anti-CD63-FITC antibodies (BioLegend, San Diego, CA, USA) and fluorescence
+was measured by FACSCanto® (Becton Dickinson AG, Allschwil, Switzerland)
+
+The CU-BAT involved incubating the serum of study participants on well-characterized
+basophils from 10 donors both at baseline and at the last injection to detect the presence of
+activating serum factors. CD63 served as an activation marker, with expression data
+presented as the percentage of activated basophils and the stimulation index (SI), expressed
+as the percentage of activated basophils after stimulation with patient serum divided by the
+percentage of activated basophils without stimulation (negative control) [22]. The donors
+were previously screened for reactivity to negative and positive controls as well as for
+basophil activation with different IL-3 concentrations. All serum samples were immediately
+
+stored at -20°C in aliquots to avoid repetitive freeze-thaw cycles.
+
+This article is protected by copyright. All rights reserved.
+Patient assessments
+
+All participants were required to document their symptoms once daily for 1 month using the
+
+urticaria activity score [27]. Medications taken were documented on their study questionnaires.
+
+Study endpoints
+The primary endpoint of the study was the FceRI receptor density change on basophils during the
+
+first 12 weeks of treatment with omalizumab and 2 months after treatment.
+
+Secondary endpoints included comparison of basophil releasibility with and without IL-3 incubation
+at three timepoints (baseline, 1 week, and 3 months); comparison of CU-BAT at baseline and 3
+months; and change in the weekly urticaria activity score (UAS7) at baseline, 3 months and 5
+months. We evaluated the proportion of patients with a UAS7 of <6, a UAS7 of 0, and an itch
+
+severity score (ISS) of 0.
+
+We summarized the proportion of patients who used H1- and H2-antihistamines, montelukast and
+prednisolone, and coded adverse events using the medical dictionary for regulatory activities
+
+(MeDRA) and their corresponding preferred terms and assigned body systems.
+
+Post hoc analysis
+
+Recently, Gericke et al. observed that the presence of autoreactive serum components predicted the
+response time to omalizumab treatment [23]. We therefore performed a post hoc analysis to
+identify differences in FceRl-receptor density, autoreactive serum components (measured by CUBAT), and total IgE in omalizumab partial/non-responders, early responders, and slow responders.
+Based on a previous report [23] we divided all study patients into 4 groups: placebo; partial/nonresponder, defined as a UAS7 >6 at 3 months or a reduction of UAS7 to <6 or less at 3 months
+compared to baseline; early responder, defined as a treatment response within 8 days, with the first
+day of response determined as the first day of UAS7 <6; and slow responder, defined as a treatment
+response after 8 days but UAS7 <6 at 3 months. For each of these groups, we compared FceRI
+receptor density, CU-BAT results, and total IgE at baseline, and calculated whether there was a
+
+difference in FceRI density and CU-BAT between baseline and 3 months.
+
+This article is protected by copyright. All rights reserved.
+Sample size determination
+
+A biological effect for the primary outcome was determined to be a difference of FceRI receptor
+density of 45,000 per basophil, assuming a standard deviation of 40,000 Fc-IgE per basophil. A power
+of 80%, a two-sided p-value of 0.05, and 2:1 randomization resulted in an overall sample size of 30
+
+patients, with 20 in the active group and 10 in the placebo group.
+
+Analysis of primary, secondary, and other efficacy endpoints
+
+The primary endpoint, FceRI receptor density, was analyzed using generalized estimation equations
+(GEE) with a negative binomial distribution family, log link, and robust standard errors due to strong
+skewness and heteroscedasticity when using mixed effects linear models. Treatment group and
+baseline receptor density were included as fixed effects. The mean of the two pretreatment visits
+was taken as the baseline receptor density. We report the ratio between treatments, with a ratio <1
+indicating a reduction in receptor density. We used the same methods to analyze FceRI receptor
+
+density at each follow-up time.
+
+Analysis of the primary endpoint followed the intention-to-treat (ITT) principle. Missing primary
+endpoint values were imputed by multiple imputation techniques using sequential chained
+equations based on baseline characteristics. Altogether, 12 of 150 (8.0%) FceRI receptor
+
+measurements were missing, the majority at the last visit.
+
+As a sensitivity analysis, we also performed the main analyses on the per-protocol population.
+
+Twenty-four patients who completed all treatments according to the protocol were included.
+
+Secondary endpoints are summarized using descriptive statistics. Odds ratios (OR) for the UAS7 and
+
+ISS were calculated using penalized logistic regression by Firth’s method [28].
+
+Analysis was performed using Stata 13.1 and 14 [29]. For all analyses we report estimates and 95%
+confidence intervals (Cl) when relevant. Descriptive statistics report mean and standard deviation
+(SD) for continuous and normally distributed data or median and interquartile range (IQR) for non
+normally distributed or highly skewed data. Count and percentages are reported for binary data.
+
+This article is protected by copyright. All rights reserved.
+Results
+
+Study Patients
+
+A total of 77 patients were screened, 41 of whom were excluded, 32 for good disease control with
+antihistamines, 4 for use of immunosuppressive drugs, 4 for spontaneous remission, and 1 for use of
+omalizumab in the last 12 months. Six patients declined to participate. Two patients in the placebo
+group withdrew consent as a consequence of disease progression, and two in the omalizumab group
+
+were lost to follow-up.
+
+Most baseline characteristics (age, weight, BMI) did not differ between the placebo and omalizumab
+groups (Table 1). The proportion of women was 80% in the placebo group and only 40% in the
+omalizumab group, but probably because of the small sample size. The UAS7 at baseline was 18.5
+(11.3, 23.5) in the placebo group and 11.0 (2.5, 21.5) among omalizumab patients, while the ISS at
+baseline was the same in the two groups. Angioedema occurred in 53% of patients (70% in the
+placebo group, 45% in the omalizumab group). Disease duration was 27.0 (19.8, 64.8) months in the
+placebo group and 19.5 (12.0 33.8) in the omalizumab group.
+
+There were eight partial/non-responders, seven early responders, and two slow responders in the
+omalizumab group; three patients who dropped out could not be classified. There were no partial
+
+responders.
+
+FceRI receptor density
+
+At baseline, no significant differences in FceRI receptor density were found between the two groups
+(Figure 2, Table 6). Compared to placebo, 300 mg of omalizumab led to a rapid and significant
+reduction of FceRI receptor density as soon as 1 week after the first injection (72.89 + 47.79x10? vs.
+27.83 + 20.87x10? receptors/basophil, respectively, p=0.001). Again compared to placebo, the
+receptor density in the omalizumab group remained low throughout the treatment period (values at
+3 months: 95.88 + 54.17x10? vs. 17.47 + 21.41x10%, respectively, p=<0.001), and was still low at 2
+months after the last injection (93.81 + 56.50x10? vs. 21.09 + 15.23x103, respectively, p=0.002).
+
+Basophil releasability
+
+Regarding basophil releasability, expressed as Log10 of the anti-IgE (not omalizumab) concentration
+resulting in half-maximal activation of basophils (LC50), no significant difference of the LC50 value
+could be found between the two groups at the start of treatment (with or wthout IL-3). Treatment
+did not result in a consistent change of releasibility (Table 2a). Interestingly, the basophil
+
+releasability measured with IL-3 coincubation decreased in the omalizumab group during the study
+
+This article is protected by copyright. All rights reserved.
+(higher values indicate lower basophil releasability). However, due to the small sample size,
+
+statistical significance cannot be shown.
+
+Effect of omalizumab on serum factors
+
+Patient serum was incubated twice with third-party donor basophils (at baseline and at 3 months).
+Compared to placebo, the percentage of activated donor basophils was slightly higher in the
+omalizumab group at baseline: the CD63 positivity was 12.05% (10.80) vs. 18.35% (17.77),
+respectively, p=0.244; the SI values were similar, 4.20 (5.50) vs. 5.00 (7.20), respectively, p=0.535.
+There was no significant difference in either parameter between the placebo and omalizumab
+groups, both at baseline and the last injection: CD63 positivity, 10.75% (7.35) vs. 8.35% (15.20),
+respectively, p=0.778; SI, 3.20 (2.45) vs. 2.75 (3.50), respectively, p=0.847. Treatment did not
+
+significantly affect the activity of these serum factors (Table 2b).
+
+CSU activity
+The UAS7 was summed for a week before each study visit, and the proportions of patients with mild
+(UAS7 of <6) or no symptoms (UAS7=0) were evaluated. The proportion of patients with no itching
+
+(ISS=0) in the week before the corresponding visit was also assessed (Table 3).
+
+We observed no significant differences at baseline in UAS7<6 (OR 1.47; 0.26, 8.43) or ISS=0 (1.21;
+0.15, 9.92) between the placebo and omalizumab groups. We observed a significant difference in the
+proportion of patients with mild symptoms (UAS7 <=6) at the time of the last injection (7.80; 1.28,
+47.53); it was increased in the omalizumab group (76%) but remained unchanged in the placebo
+group (25%). The proportion of patients with ISS=0 showed no significant difference between the
+two groups; the odds of having a score of 0 were higher in the omalizumab group, though the
+difference was not statistically significant (both 15.21; 0.76, 305.06). Two months after the last
+injection, the proportion of patients with UAS7<6 and ISS=0 showed no significant difference
+
+between the placebo and omalizumab groups.
+
+Post hoc analysis
+
+In a post hoc analysis we classified all study patients into 4 groups: placebo, partial/non-responder,
+early responder, and slow responder (Table 4). At baseline, FceR! density was equal among the
+placebo, slow responder, and early responder groups, but lower in the partial/non-responder group
+
+(p=0.094). Compared to placebo, there was a reduction of the FceRI density on basophils in all three
+
+This article is protected by copyright. All rights reserved.
+treatment groups, although the partial/non-responder group demonstrated the least reduction: 45.3x10? (-74.9; 0.3) receptors per basophil in the partial/non-responder group, -99.7x10? (-138.9; 60.5) in the slow responder group, and -91.7x103 (-154.3; -63.7) in the early responder group). As a
+sign of autoreactive serum components at baseline, CU-BAT results in the omalizumab group were
+highest in the partial/non-responder group (CD63 positivity 26.3% (8.7; 44.6)) and lowest in the early
+responder group (CD63 positivity 17.1% (4.5; 24.8)), though these differences were not statistically
+significant. There was a slight but nonsignificant reduction of the CU-BAT in all three treatment
+groups. Two patients in the partial/non-responder group had an increase of CU-BAT under
+omalizumab treatment. The total IgE values at baseline were lowest in the partial/non-responder
+
+group.
+
+Discussion
+
+We found that treatment with omalizumab resulted in a rapid and significant reduction of FceRI
+density on basophils, which is consistent with previous studies [10, 11, 14] and confirms the results
+of Deza et al. [12] and Metz et al. [13]. This reduction was observed as soon as 1 week after the
+initiation of treatment and remained reduced for at least 2 months after the last omalizumab
+application (last study visit), although CSU often flares up by this later timepoint. The reduction of
+FceRI density is thought to be one of the central mechanisms of omalizumab’s action in CSU [30]. In
+accordance with recent findings [12], FceRI density at baseline was reduced in patients who did not
+respond to this therapy. The partial/non-responder group demonstrated the least reduction of the
+FceRI density under omalizumab treatment. Correspondingly, post hoc analysis showed that total IgE
+
+values before treatment were lowest in partial/non-responders.
+
+We expected a reduction of basophil releasability, applying titrated concentrations of degranulating
+anti-IlgE (not omalizumab) to patient basophils. However, this was not the case. Investigation of
+basophil releasability using a high-affinity degranulating anti-IgE antibody, even in titrated form,
+might produce a signal too intense to show subtle differences in basophil releasability. Basophil
+stimulation with an allergen (in sensitized individuals) might have led to different results.
+Unfortunately, the study included only nine pollen-sensitized patients, which was too few to confirm
+this hypothesis. Interestingly, treatment with omalizumab has been shown to lead to increased
+sensitivity of basophils using IgE-mediated stimuli [31], a phenomenon that is not fully understood.
+In addition, no alteration of mast cell or basophil histamine release was observed when cells were
+coincubated with omalizumab in vitro [32], but this might not reflect the in vivo activity of
+
+omalizumab.
+
+This article is protected by copyright. All rights reserved.
+We investigated changes of autoreactive serum factors, which may occur in CSU patients, during
+omalizumab treatment. By coincubating well-characterized donor basophils with the serum of CSU
+patients (CU-BAT), the omalizumab-treated basophils of the patient are replaced by treatment-naive
+donor basophils, which allows a focus on transferable serum factors alone. Again, no difference was
+found between the two study groups either at baseline or over time. This suggests that omalizumab
+does not interact with or alter autoreactive or other urticaria-promoting serum factors. However,
+CU-BAT results were very heterogeneous and the sample size was small, which hampered the
+statistical analysis. Interestingly, higher CU-BAT results at baseline were associated with slow or
+partial/non-response to omalizumab, with partial/non-responders having the highest values,
+findings that are consistent with those of Gericke et al. [23]. Two partial/non-responders even
+
+demonstrated an increase in CU-BAT under omalizumab treatment.
+
+While CSU is a mast cell-driven disease, our experimental approach relied on basophils due to their
+better accessibility and the assumptions that a) basophils play a relevant role in the pathogenesis of
+CSU [13, 20], and b) analysis of basophil activity is a relevant model for changes of omalizumabinduced mast cell activity. While omalizumab does not lead to a significant reduction of autoreactive
+serum components, its effect might rely on cellular changes. It is well known that circulating
+basophils are recruited into skin lesions in CSU [33 - 35]. It is possible that omalizumab decreases the
+ability of basophils to migrate into the skin, for example by altering their chemokine receptor
+repertoire. Consistent with this hypothesis, Metz et al. showed a decrease in the number of FceRI+
+
+skin cells under omalizumab treatment [13]
+
+Our study population was heterogeneous: 6 of our 30 patients had a changing disease course with
+only mild symptoms at baseline compared to the time of study inclusion. This reflects the natural
+course of CSU, which is characterized by intermittent remissions, and might explain the
+nonsignificant differences in various endpoints. Furthermore, as we intended to study patients with
+severe forms of CSU, there were eight partial/non-responders. This probably influenced the study
+outcomes, but gave us the opportunity to identify differences between slow, early, and partial/non
+responders.
+
+CSU tends to remit spontaneously, and thus far no sustained disease-modifying effect of
+omalizumab has been documented after the medication is discontinued. Furthermore, the response
+time after initiating omalizumab treatment varies greatly. FceRI density on basophils, CU-BAT, and
+
+total IgE might be appropriate parameters to predict response time and disease course under
+
+This article is protected by copyright. All rights reserved.
+omalizumab. Assessing these factors before initiating treatment with omalizumab could help
+differentiate between early, slow, and partial/non-responders. In particular, low FceRI density
+and/or high CU-BAT at baseline might predict whether a patient will be a partial/non-responder.
+Practically speaking, it would be even easier to determine the total IgE value at baseline, as it
+corresponds to FceRI density, meaning that a low total IgE predicts a low FceRI density.
+
+In patients who respond to omalizumab, treatment discontinuation is necessary to reveal the
+underlying disease status. As omalizumab did not lead to a reduction of CU-BAT, a disappearance of
+autoreactive serum components under omalizumab treatment might indicate remission of CSU.
+However, this assumption would only be valid in CU-BAT-positive CSU patients (approximately 3040% of all CSU patients).
+
+Conclusion
+
+This study contributes to understanding CSU pathogenesis and the mode of action of omalizumab. It
+substantiates the previous observation that the reduction of FceRI density is rapid and sustained.
+The clinical efficacy of omalizumab did not correlate with serum changes (CU-BAT results remained
+stable throughout the study period). This points towards a primarily cellular effect of omalizumab on
+basophils. To predict the response time of omalizumab and for disease monitoring, FceRI density and
+
+CU-BAT are promising cellular-based tests if used before treatment initiation.
+
+References
+
+1. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M, Epidemiology of urticaria: a
+representative cross-sectional population survey, Clin Exp Dermatol. 2010
+Dec;35(8):869-73
+
+2. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, Sheikh J, Weldon D,
+Zuraw B, Bernstein DI, Blessing-Moore J, Cox L, Nicklas RA, Oppenheimer J,
+Portnoy JM, Randolph CR, Schuller DE, Spector SL, Tilles SA, Wallace D. The
+diagnosis and management of acute and chronic urticaria: 2014 update. J Allergy
+Clin Immunol. 2014 May;133(5):1270-7.
+
+3. Kozel MM, Bossuyt PM, Mekkes JR, Bos JD. Laboratory tests and identified
+diagnoses in patients with physical and chronic urticaria and angioedema: A
+systematic review. J Am Acad Dermatol. 2003 Mar;48(3):409-16.
+
+4. Staevska M, Popov TA, Kralimarkova T, Lazarova C, Kraeva S, Popova D, Church
+
+DS, Dimitrov V, Church MK. The effectiveness of levocetirizine and desloratadine in
+
+This article is protected by copyright. All rights reserved.
+up to 4 times conventional doses in difficult-to-treat urticaria. J Allergy Clin Immunol.
+2010 Mar;125(3):676-682.
+
+5. Grattan CE. Autoimmune urticaria. Immunol Allergy Clin North Am. 2004 May
+;24(2):163-181
+
+6. Saini S, Rosen KE, Hsieh HJ, Wong DA, Conner E, Kaplan A, Spector S, Maurer M,
+A randomized, placebo-controlled, dose-ranging study of single-dose omalizumab in
+patients with H1-antihistamine-refractory chronic idiopathic urticarial, J Allergy Clin
+Immunol. 2011 Sep;128(3):567-73
+
+7. Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, Brehler R,
+Grabbe J, Hunzelmann N, Jakob T, Jung A, Kleine-Tebbe J, Mempel M, Meurer M,
+Reich K, Ruéff F, Schakel K, Sengupta K, Sieder C, Simon JC, Wedi B, Zuberbier T,
+Mahler V, Staubach P., Efficacy and safety of omalizumab in patients with chronic
+urticaria who exhibit IgE against thyroperoxidase, J Allergy Clin Immunol. 2011
+Jul;128(1):202-209
+
+8. Maurer M, Rosén K, Hsieh HJ, Saini S, Grattan C, Gimenéz-Arnau A, Agarwal S,
+Doyle R, Canvin J, Kaplan A, Casale T., Omalizumab for the treatment of chronic
+idiopathic or spontaneous urticaria, N Engl J Med. 2013 Mar 7;368(10):924-35
+
+9. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+Church MK, Ensina LF, Giménez-Arnau A, Godse K, Gongalo M, Grattan C, Hebert
+J, Hide M, Kaplan A, Kapp A, Abdul Latiff AH, Mathelier-Fusade P, Metz M, Nast A,
+Saini SS, Sanchez-Borges M, Schmid-Grendelmeier P, Simons FE, Staubach P,
+Sussman G, Toubi E, Vena GA, Wedi B, Zhu XJ, Maurer M. The EAACI/GA(2)
+LEN/EDF/WAO_ Guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update. Allergy. 2014 Jul;69(7):86887.
+
+10. MacGlashan D, Jr., Xia HZ, Schwartz LB, Gong J. IgE-regulated loss, not IgEregulated synthesis, controls expression of FcepsilonRI in human basophils. J
+Leukoc Biol. 2001 Aug;70(2):207-218.
+
+11. Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S. Omalizumab-induced
+reductions in mast cell Fcepsilon RI expression and function. J Allergy Clin Immunol.
+Sep 2004;114(3):527-530.
+
+12. Deza G, Bertolin-Colilla M, Pujol R, Curto-Barredo L, Soto D, Garcia M, Hernandez
+
+P, Gimeno R, Gimenez-Arnau A. Basophil Fc RI Expression in Chronic Spontaneous
+
+This article is protected by copyright. All rights reserved.
+Urticaria: A Potential Immunological Predictor of Response to Omalizumab Therapy,
+Acta Derm Venereol 2017; 97
+
+13. Metz M, Staubach P, Bauer A, Brehler R, Gericke J, Kangas M, Ashton-Chess J,
+Jarvis P, Georgiou P, Canvin J, et al. Clinical efficacy of omalizumab in chronic
+spontaneous urticaria is associated with a reduction of FcepsilonRl-positive cells in
+the skin. Theranostics. 2017;7:1266—1276
+
+14. Lin H, Boesel KM, Griffith DT, Prussin C, Foster B, Romero FA, Townley R, Casale
+TB. Omalizumab rapidly decreases nasal allergic response and FcepsilonRI on
+basophils. J Allergy Clin Immunol. 2004 Feb;113(2):297-302
+
+15. Vonakis BM, Saini SS, New concepts in chronic urticarial, Curr Opin Immunol. 2008
+Dec;20(6):709-16
+
+16. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in chronic
+urticaria. J Allergy Clin Immunol. 2001 Jun;107(6):1056-62.
+
+17. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies
+against the high-affinity IgE receptor as a cause of histamine release in chronic
+urticaria. N Engl J Med. 1993 Jun;328(22):1599-604.
+
+18. Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, Brehler R,
+Grabbe J, Hunzelmann N, Jakob T, Jung A, Kleine-Tebbe J, Mempel M, Meurer M,
+Reich K, Ruéff F, Schakel K, Sengupta K, Sieder C, Simon JC, Wedi B, Zuberbier T,
+Mahler V, Staubach P. Efficacy and safety of omalizumab in patients with chronic
+urticaria who exhibit IgE against thyroperoxidase. J Allergy Clin Immunol. 2011
+Jul;128(1):202-9.
+
+19. Wedi B, Novacovic V, Koerner M, Kapp A. Chronic urticaria serum induces histamine
+release, leukotriene production, and basophil CD63 surface expression— inhibitory
+
+effects of anti-inflammatory drugs. J Allergy Clin Immunol 2000 Mar;105: 552-60.
+
+20. Yasnowsky KM, Dreskin SC, Efaw B, Schoen D, Vedanthan PK, Alam R, Harbeck
+RJ. Chronic urticaria sera increase basophil CD203c expression. J Allergy Clin
+Immunol 2006 Jun;117:1430-4.
+
+2
+
+=
+
+. Ferrer M, Kinét JP, Kaplan AP. Comparative studies of functional and binding assays
+for IgG anti-Fc(epsilon)Rlalpha (alpha-subunit) in chronic urticaria. J Allergy Clin
+Immunol. 1998 May;101(5):672-6.
+
+22. Gentinetta T, Pecaric-Petkovic T, Wan D, Falcone FH, Dahinden CA, Pichler WJ,
+
+Hausmann OV. Individual IL-3 priming is crucial for consistent in vitro activation of
+
+This article is protected by copyright. All rights reserved.
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29
+
+30.
+
+31.
+
+32.
+
+33.
+
+donor basophils in patients with chronic urticaria. J Allergy Clin Immunol. 2011
+Dec;128(6):1227-34.
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, Falkencrone S,
+Brand J, Kromminga A, Hawro T, Church MK, Maurer M. Serum autoreactivity
+predicts time to response to omalizumab therapy in chronic spontaneous urticaria. J
+Allergy Clin Immunol. 2016 Nov 9. pii: S0091-6749(16)31282-9.
+
+Sanz ML, Goikoetxea MJ, Cabrera-Freitag P, Javaloyes G, Berroa F, Omalizumab is
+effective in non-autoimmune urticaria. J Allergy Clin Immunol. 2011 May
+127(5):1300-2.
+
+Smith KB, Ellis SA, Standardisation of a procedure for quantifying surface antigens
+by indirect immunofluorescence, J Immunol Methods. 1999 Aug 31;228(1-2):29-36
+
+Szegedi A, Irinyi B, Gal M, Hunyadi J, Danké K, Kiss E, Sipka S, Szegedi G, Gyimesi
+E, Significant correlation between the CD63 assay and the histamine release assay
+
+in chronic urticarial, Br J Dermatol. 2006 Jul;155(1):67-75.
+
+Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M.,
+How to assess disease activity in patients with chronic urticaria?, Allergy. 2008
+Jun;63(6):777-80
+
+Firth D. Bias reduction of maximum likelihood estimates. Biometrika . 1993, 80:27-38.
+
+. StataCorp. 2013. Stata Statistical Software: Release 13. College Station, TX:
+
+StataCorp LP
+
+Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential
+pharmacologic mechanisms of omalizumab in patients with chronic spontaneous
+urticaria. J Allergy Clin Immunol. 2015 Feb;135(2):337-342
+
+Macglashan DW Jr, Saini SS, Omalizumab increases the intrinsic sensitivity of
+human basophils to IgE-mediated stimulation, J Allergy Clin Immunol. 2013
+Oct;132(4):906-11.
+
+Gericke J., Ohanyan T., Church M.K., Maurer M., Metz M. Omalizumab may not
+inhibit mast cell and basophil activation in vitro, J Eur Acad Dermatol Venereol. 2014
+Sep 26. doi: 10.1111
+
+Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic
+ordinary urticaria and healthy controls: diurnal variation, influence of loratadine and
+prednisolone and relationship to disease activity. Clin Exp Allergy. 2003
+Mar;33(3):337-41
+
+This article is protected by copyright. All rights reserved.
+34. Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AF, Yokozeki H. Basophil
+
+recruitment and activation in inflammatory skin diseases. Allergy 2011;66:1107e13
+
+35. Caproni M, Giomi B, Volpi W, Melani L, Schincaglia E, Macchia D, et al. Chronic
+idiopathic urticaria: infiltrating cells and related cytokines in autologous serum
+induced wheals. Clin Immunol 2005;114:284e92.
+
+Figures and tables
+
+ 
+
+Assessed for eligibility (n=77 )
+
+ 
+
+ 
+
+ 
+
+Excluded (n=47 )
+Not meeting inclusion criteria (n=41)
+Declined to participate (n=6)
+Other reasons (n=0)
+
+ 
+
+ 
+
+ 
+
+Randomized (n=30)
+
+y
+
+ 
+
+ 
+
+ 
+
+ 
+
+Allocated to placebo (n=10)
+Received allocated intervention (n=10)
+
+ 
+
+ 
+
+Allocated to omalizumab (n=20)
+Received allocated intervention (n=20)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patients not finishing the study = 2 Patients not finishing the study = 2
+Reasons: Reasons:
+
+Withdrawal of consent: (n=2) Lost to follow up: (n=2)
+Analyzed, intention to treat: 10 Analyzed, intention to treat: 20
+Analyzed, per protocol: 7 Analyzed, per protocol: 17
+
+Missing measure v6 = 2 Missing measure v6 = 2
+Missing measure v7 = 2 Missing measure v7 = 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1 Enrollment and allocation
+
+This article is protected by copyright. All rights reserved.
+Table 1 Baseline characteristics
+
+Placebo Omalizumab p Value
+N=10 N=20
+
+Demographics
+Age (at inclusion) 42.4 + 13.3 41.84 15.2 0.915
+Gender (female) 8 (80%) 8 (40%) 0.058
+Weight (kg) 76.9 +16.9 83.6 + 20.1 0.375
+Height (cm) 164.7 + 8.3 174.14 8.1 0.006
+Body mass index (kg/m2) 28.3 + 6.0 27.54 7.1 0.764
+Clinical
+Duration of disease (months) 27.0 (19.8; 64.8) 19.5 (12.0; 33.8) 0.180
+Angioedema (yes) 7 (70%) 9 (45%) 0.433
+Urticaria activity score for 1 week 18.5 (11.3; 23.5) 11.0 (2.5; 21.5) 0.187
+(UAS7) at baseline
+Itch severity score at baseline 8.0 (1.8; 12.0) 8.0 (1.8; 13.5) 1.000
+Allergy to birch pollen (Yes) 2 (20%) 5 (25%) 1.000
+Allergy to grass pollen (Yes) 4 (40%) 4 (20%) 0.384
+Study complete (Yes) 8 (80%) 18 (90%) 0.584
+
+ 
+
+Values are mean + standard deviation for continuous variables, or median and interquartile ranges (IQR) for non-normally
+distributed or highly skewed variables. Categorical variables reported as n (%).
+
+This article is protected by copyright. All rights reserved.
+ 
+
+150
+
+100
+
+ 
+
+ 
+
+50
+
+Fc-lgE-RI density (10°3 per basophil)
+
+ 
+
+ 
+
+BL1Wk 1M 3M 5M
+
+Time after first application
+
+—+—. Control Omalizumab
+
+Figure 2 FceRI receptor density (mean and 95% Cl) at baseline, 1 week, 1 month, 3 months, and 5 months
+(crude values)
+
+This article is protected by copyright. All rights reserved.
+Table 2a Basophil releasability after stimulation with anti-IgE (not omalizumab)
+
+ 
+
+Variable Visit no. Placebo (median [IQR]) Omalizumab (median [IQR]) p (unadj.) Ratio adjusted for p
+baseline (95% Cl) (Ratio)
+Basophil releasability (LC50) without IL-3 Baseline 29.50 (69.61) 27.95 (57.80) 0.903 0.68 (0.25, 1.83)* 0.446*
+(ng/ml) 1 Week 39.95 (103.75) 57.20 (228.64) 0.77 (0.20, 3.00) 0.691
+3 Months 93.60 (86.20) 23.30 (31.86) 0.33 (0.07, 1.52) 0.142
+Basophil releasability (LC50) with IL-3 Baseline 12.55 (19.27) 8.27 (12.85) 0.903 2.03 (0.85, 4.81)* 0.110*
+(ng/ml) 1 Week 12.23 (38.91) 32.00 (49.26) 1.24 (0.40, 3.86) 0.693
+3 Months 20.70 (58.03) 30.65 (143.80) 2.81 (0.62, 12.71) 0.164
+Values are calculated as LC50 (Log10 of anti-IgE concentration in ng/ml resulting in half-maximal activation of basophils). Higher values indicate lower basophil releasability. Median and
+interquartile range (IQR) are each measured with two methods. P (unadj.) from Wilcoxon’s rank-sum test for baseline values. Ratios and p for ratios calculated from linear regression models
+on log-transformed data for specific times, or from a mixed-effects model including patient ID as a random effect for a repeated measures analysis (*).
+Table 2b Incubation of patient serum with donor basophils (CU-BAT).
+Variable Visit no. Placebo (median [IQR]) Omalizumab (median [IQR]) p (unadj.) Ratio adjusted for p (Ratio)
+baseline (95% Cl)
+CU BAT: CD63 (%) Baseline 12.05 (10.80) 18.35 (17.77) 0.244
+3 Months 10.75 (7.35) 8.35 (15.20) 0.90 (0.42, 1.92) 0.778
+CU BAT: CD63 (Stimulation index) Baseline 4.20 (5.50) 5.00 (7.20) 0.535
+3 Months 3.20 (2.45) 2.75 (3.50) 0.93 (0.44, 1.99) 0.847
+
+ 
+
+CD63 served as an activation marker and is expressed as the percentage of activated basophils. The stimulation index is expressed as the percentage of activated basophils after stimulation
+with patient serum divided by the percentage of activated basophils without stimulation (negative control). Median and interquartile range (IQR) are each measured with two methods. P
+
+(unadj.) from Wilcoxon’s rank-sum test for baseline values. Ratios and p for ratios calculated from linear regression models on log-transformed data for specific times, or from a mixed-effects
+
+model including patient ID as a random effect for a repeated measures analysis (*).
+
+This article is protected by copyright. All rights reserved.
+Table 3 Urticaria activity score over 1 week (UAS7) and itch severity score (ISS)
+
+Measure Placebo (n=8) Omalizumab (n=17) OR (95% Cl)
+
+Baseline
+
+UAS7 <6 2 6* 1.47 (0.26, 8.43)
+
+UAS7 =0 0 3* 4.10 (0.19, 89.44)
+
+ISS =0 1 3* 1.21 (0.15, 9.92)
+3 Months
+
+UAS7 <6 2 13 7.80 (1.28, 47.53)
+
+UAS7 =0 0 8 15.21 (0.76, 305.06)
+
+ISS =0 0 8 15.21 (0.76, 305.06)
+5 Months
+
+UAS7 <6 2 9 2.91 (0.52, 16.35)
+
+UAS7 =0 1 4 1.67 (0.21, 12.97)
+
+Iss=0 1 4 1.67 (0.21, 12.97)
+
+ 
+
+Confidence intervals from penalized logistic regressions.
+
+Urticaria activity score (UAS7) was summed for a week before the above times and evaluated for the proportions of patients with mild (UAS7<6) or no symptoms (UAS7=0). ISS was evaluated
+for the proportion of patients with no itching (ISS=0) in the week before the corresponding visit. Odds ratios (OR) for the UAS7 and ISS were calculated.
+
+* At time of study inclusion, all patients had UAS7>6.
+
+This article is protected by copyright. All rights reserved.
+Table 4
+Comparison of FceRI density (receptors per basophil), incubation of patient serum on donor basophils (CU-BAT: CD63 %), and total IgE (kU/L) in partial/non-responders,
+
+slow responders, and early responders
+
+ 
+
+Partial/NonAll Placebo responders Slow responders Early responders p Value
+
+n (%) or median (IQ- n (%) or median (1Q- n (%) or median (1Q- n (%) or median (1Q- n (%) or median (1Q
+range) range) range) range) range)
+
+ 
+
+Total N N=25 N=8 N=8 N=2 N=7
+
+FceRI density at baseline 90.9 (55.9; 138.1) 97.6 (46.8; 133.9) 55.9 (28.6; 87.9) 113.7 (71.2; 156.2) 104.0 (81.0; 162.8) 0.094
+
+Difference of FceRI density (Basline to 3
+months) -48.0 (-89.1; 5.8) 7.8 (-15.0; 16.9) -45.3 (-74.9; 0.3) -99.7 (-138.9; -60.5) -91.7 (-154.3; -63.7)
+
+CU-BAT at baseline (%) (BL) 13.8 (7.8; 27.8) 11.6 (7.2; 17.9) 26.3 (8.7; 44.6) 20.3 (13.7; 26.9) 17.1 (4.5; 24.8) 0.438
+
+Difference of CU-BAT (Baseline to 3
+months) -3.2 (-14.5; 0.4) 0.2 (-9.7; 2.1) -4.6 (-25.9; 2.2) -17.0 (-24.1; -9.8) -4.9 (-13.1; 0.1)
+
+ 
+
+ 
+
+Total IgE at baseline (kU/L)
+
+137.0 (37.8; 311.0) 222.0 (55.8; 1377.8) 25.0 (10.8; 226.5) 296.0 (273.0; 319.0) 113.5 (59.5; 368.5)
+
+ 
+
+ 
+
+ 
+
+We compared different biological effects among the patients classified into 4 groups (placebo, partial/non-responder, slow responder, and early responder) using the chisquared test and the non-parametric Kruskal-Wallis rank test as appropriate. We compared the FceRI receptor density, CU-BAT results (i.e., CD63 change), and total IgE
+
+values at baseline, and calculated whether there was a difference of FceRI receptor density and CU-BAT between baseline and 3 months.
+
+This article is protected by copyright. All rights reserved.
+

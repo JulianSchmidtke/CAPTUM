@@ -1,0 +1,1086 @@
+DR YU-MI_ PARK (Orcid ID : 0000-0002-5807-9976)
+
+Article type : Original
+
+Title: Predicting inadequate treatment response in children with chronic spontaneous
+
+urticaria
+
+Running title: Prediction for control of chronic urticaria in children
+
+Authors:
+
+Yu-mi Park!, Min-su Oh?, Ji-won Kwon!
+
+1, Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, South
+Korea
+2) Department of Pediatrics, Jeju National University Hospital, Jeju, South Korea
+
+Corresponding author:
+Ji-won Kwon, MD, PhD
+
+Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, 13620, South
+
+Korea
+
+E-mail: pedas@snubh.org
+
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process, which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.1111/PAI.13319
+
+This article is protected by copyright. All rights reserved
+
+Check for
+updates
+Word count; 3045 words;
+Tables: 2
+
+Figures: |
+
+Conflict of interest: The authors declare no conflicts of interest.
+
+Financial support: none
+
+This article is protected by copyright. All rights reserved
+Abstract
+
+Background: We aimed to investigate the treatment response and associated factors for loss of
+
+control in children with chronic spontaneous urticaria (CSU).
+
+Methods: A total of 240 CSU patients (aged 0-17 years) were enrolled in a single-center study in
+Korea from May 2014 to May 2019. We retrospectively reviewed the medical records and
+compared the duration of treatment and step of medications using the urticaria control test (UCT,
+range 0-16 points). Serum total immunoglobulin levels, eosinophil count, allergic sensitization,
+autologous serum skin test, antinuclear antibody, thyroid function test, erythrocyte sedimentation
+rate, and C-reactive protein were measured. The patients were divided into well-controlled
+(sustained UCT = 12), partly controlled (fluctuating UCT around 12), and poorly controlled
+(sustained UCT < 12) groups.
+
+Results: Of the 240 children, 150 (62.5%) achieved well-controlled status; 74 (30.8%), partly
+controlled; and 16 (6.7%), poorly controlled. Longer duration (adjusted odds ratio: 1.09, 95%
+confidence interval: 1.05—1.13, P < 0.001) and higher treatment steps (5.61, 2.82—11.14, P <
+0.001) for reaching the initial 12 points or more of UCT score, initial urticaria activity score
+(UAS) score (1.06, 1.03—1.09, P < 0.001), and food sensitization (1.88, 1.03—3.46, P = 0.041)
+were associated with inadequate treatment response. The mean duration to symptom free for |
+month without medication were 14.6 months in the well-controlled group and 22.1 months in the
+
+partly controlled group (P = 0.002).
+
+Conclusion: Children with CSU have a good treatment response. Longer duration and higher
+treatment step until the initial disease control, higher initial UAS7 score, and food sensitization
+
+can predict inadequate treatment response.
+
+Keywords: allergen sensitization, child, chronic spontaneous urticaria, treatment outcome
+
+This article is protected by copyright. All rights reserved
+Introduction
+
+Chronic urticaria (CU) is defined as urticaria accompanied by wheal and itching lasting for at
+least 6 weeks. A study from the Korean Health Insurance database reported that the annual
+prevalence of CU in Korea was 2.64%-3.52%. The prevalence of chronic spontaneous urticaria
+(CSU) reached 1.13~1.67%, which accounts for 42.9-47.5% of all cases of CU.! In children, a
+previous Korean study reported a prevalence of 0.7%, while an Italian study reported a prevalence
+of 0.38%-0.84%,23 which was lower than that in adults. The natural course of CSU in children is
+generally favorable. About 10%-32% of patients showed remission at | year from disease onset,
+31%-54% at 3 years, and 38%-72% at 5 years.+© Since the CSU characteristics differ between
+
+pediatric and adult patients,’* application of the results of adult studies among children is limited.
+
+Several studies have evaluated the factors associated with the characteristics of CU, control
+status, and remission in children. Children with CU have a higher prevalence of allergic disease?
+and allergic sensitization! than healthy children. A history of atopic dermatitis is a risk factor for
+subsequent CSU.!! However, the association between CU remission and allergic diseases or
+sensitization remains controversial.® CSU generally persists for more than 3 to 5 years, and most
+patients show good response to medications. Nevertheless, not all patients with CU are able to
+maintain their well-controlled status during the follow-up, and pediatric patients may show
+12,13
+
+emotional and behavioral impairments, which have a negative impact on their quality of life.
+
+Therefore, it is crucial to determine the associated factors for loss of control.
+
+Some instruments, including urticaria activity score (UAS), urticaria control test (UCT), and
+CU quality of life (CU-QOL) score, have been validated for the measurement of severity, disease
+control, and QOL in CU.®!4!> Although UAS7 has been validated for CU patients of all ages*!°,
+UCT has only been validated in adults.!”!8 In children, only a few studies have investigated the
+factors associated with disease control status. In the present study, we aimed to investigate the
+clinical features according to CU control status and to identify the factors associated with loss of
+
+CU control.
+
+Methods
+
+Participants
+
+This article is protected by copyright. All rights reserved
+A total of 524 patients aged below 19 years were diagnosed with CU at Seoul National
+University Bundang Hospital from May 2014 to May 2019. CSU was defined as spontaneous
+urticaria lasting for more than six weeks. We included patients who underwent UCT at least twice.
+
+A total of 240 patients were included in our study. (figure 1)
+
+Children with chronic inducible urticaria (CIU) only, children without medication or with
+medication only as needed from the first visit, and children whose level of CU control cannot be
+
+determined due to incomplete check for UCT scores were excluded.
+
+Patients’ medical records were retrospectively reviewed. Demographic and clinical data,
+including age at onset, sex, history of allergic disease (asthma or recurrent wheezers, allergic
+rhinitis, atopic dermatitis, and food allergy), familial history of allergic disease, duration of
+urticaria, medication step, and duration of CU, were collected. After the initial visit, we evaluated
+the CU control for 2 or 3 weeks. And then if they were well-controlled status, follow-up duration
+was 2 or 3 months, but if not, follow-up duration was 2 or 4 weeks. Whenever possible, UCT and
+
+UAS7 scores were assessed for each visit.
+
+This article is protected by copyright. All rights reserved
+Assessment of disease activity and control
+
+The disease activity in CSU patients was assessed by obtaining the UAS7 score. The UAS7
+measures both pruritus (0, none; 1, mild; 2, moderate; and 3, intense) and the number of wheals (0,
+none; 1, mild [<20 wheals/24 h]; 2, moderate [20-50 wheals/24 h]; 3, intense (>50 wheals/24 h or
+large confluent areas of wheals]). The patients’ scores over a 24-hour period for 7 consecutive
+days were summed to yield a possible total score ranging from 0 to 42. Then, the UAS7 scores
+were used to categorize the severity of CSU in five steps (0, urticaria free; 1-6, well controlled; 7—
+
+15, mild; 16-27, moderate; and 28-42, severe).°!4!9
+
+UCT, a simple four-item instrument, is used to determine patients’ disease status. Each question
+is ranked from 0 to 4 on the basis of severity, with a total possible score of 16. The cut-off value
+
+for a well-controlled disease was 12 points.!+!7.!8
+
+1. How much have you suffered from the physical symptoms of urticaria (itch, hives (welts),
+
+and/or swelling) in the last four weeks?
+2. How much was your QOL affected by the urticaria in the last four weeks?
+
+3. How often was the treatment for your urticaria in the last four weeks not enough to control
+
+your urticaria symptoms?
+4. Overall, how well have you had your urticaria under control in the last four weeks?
+
+The 12-point UCT scale was used to categorize the level of urticaria control as well-controlled
+(sustained UCT = 12), partly controlled (fluctuating UCT around 12), or poorly controlled
+(sustained UCT < 12). The CU control status was evaluated by assessing serial UCT scores. If the
+patient gained <12 points only once during follow-up when the medication step was down, he or
+
+she was considered to have a well-controlled status.
+
+Laboratory tests
+
+Blood tests were performed to measure the total eosinophil count, serum total immunoglobulin E
+(IgE), erythrocyte sedimentation rate (ESR), serum C-reactive protein (CRP) level, liver function
+test (aspartate transaminase and alanine aminotransferase), thyroid-stimulating hormone (TSH),
+
+free thyroxine (T4), and antinuclear antibody (ANA).
+
+This article is protected by copyright. All rights reserved
+Allergic sensitization was assessed by multiple allergen screening tests (MAST) (R-Biopharm,
+Darmstadt, Germany) in children requiring continuous medication or skin prick tests
+(Allergopharma, Reinbek, Germany) for common allergens in those with a tolerable state of
+urticaria. Sensitization was defined as at least one positive MAST result, an allergen-induced
+wheal diameter of >3 mm and > positive control (histamine 1 mg/ml) in SPTs. Types and number
+of allergen for MAST and SPT were described in online supplement material. An autologous
+serum skin test (ASST) was performed in children older than 5 years, according to the European
+Academy of Allergology and Clinical Immunology (EAACI) and Global Allergy and Asthma
+European Network task force consensus report.?° A positive result was defined as a serum-induced
+
+wheal diameter of at least 1.5 mm after 30 minutes, which is greater than that induced by saline.
+
+Treatment
+
+The medication to control CU was used according to the CU guidelines suggested by the
+EAACI/World Allergy Organization'*; the American Academy of Allergy, Asthma &
+Immunology/American College of Allergy, Asthma and Immunology?!; and the Korean Academy
+of Allergy, Asthma, and Clinical Immunology.” If the patients failed to respond to a standard dose
+of second-generation non-sedating H1-antihistamine (24 AH), the dose of the 2" AH was
+increased 2-4 times, or the combined use of other medications, such as leukotriene receptor
+antagonist (LTRA), first-generation antihistamines, or H2-antagonist, was considered. In patients
+with severe CU exacerbation or severe urticaria, short-term treatment (3-7 days) of oral
+
+corticosteroid was indicated. (Supplement figure 1)
+
+Statistical analyses
+
+Continuous variables were expressed as means and standard deviations (SDs), while the
+prevalence was expressed as percentage. Analysis of variance and Student’s t-test were used for
+between-group comparisons of continuous variables. Mann-Whitney U test was used in the
+comparison of total IgE that showed non-parametric distribution. Categorical variables were
+compared using the Pearson’s chi-square test. Univariate and multivariate logistic regression
+
+analyses were used to identify the risk factors for non-well-controlled urticaria. The multivariate
+
+This article is protected by copyright. All rights reserved
+regression test was adjusted for age, sex, allergy history, family history of allergic diseases, and
+total IgE levels. Results from logistic regression analyses were expressed as odds ratios (ORs) and
+
+95% confidence intervals (CIs).
+
+A P-value of <0.05 was considered significant. All analyses were performed using SPSS for
+Windows version 25.0 (IBM Corp., Armonk, NY, USA).
+
+Ethical Approval
+
+This study was approved by the institutional review board of Seoul National University Bundang
+Hospital (B-1909/567-109). This study was retrospective, proceeded on waiver of informed
+
+consent.
+
+This article is protected by copyright. All rights reserved
+Results
+Demographic characteristics of each controlled group
+
+The mean age of 463 patients with CU was 6.8 years at the initial visit, and 51.6% were men. A
+total of 318 (68.7%) patients were diagnosed with CSU only (mean age of 6.49 years), while 145
+were diagnosed with both CSU and CIU (median age, 7.40 years) (Online Supplement Table).
+
+According to the level of CSU control, 150 (62.5%) patients had a well-controlled status, 74
+(30.8%) had a partly controlled status, and 16 (6.7%) had a poorly controlled status. No significant
+differences were observed in the level of CSU control by age or sex (P = 0.436 and P = 0.565,
+
+respectively).
+
+Approximately 34.1% (82/240) of the patients showed symptom free for | month without
+medication during the follow-up period, 63 (42.0%) had a well-controlled status, and 19 (25.7%)
+had a partly controlled status. The mean duration to symptom free for 1 month without
+medication was longer in the partly controlled group (22.1 months) than in the well-controlled
+group (14.6 months) (P = 0.002).
+
+No difference was observed in the history of allergic diseases (asthma, AR, and AD) among the
+different control groups, even though it was slightly higher in the non-well-controlled group.
+(57.8% vs. 47.3%, P = 0.231). For the first-step medication, 79.3% in the well-controlled group,
+66.2% in the partly controlled group, and 50% in the poorly controlled group showed good
+treatment response (P = 0.010). There was no difference in the sensitization rate between groups.
+However, patients in the well-controlled group had lower sensitization rates to foods than those in
+other groups. A usual dose of 2™¢ AH for initial treatment was used in 80.0% of well-controlled,
+
+70.3% of the partly controlled, and 53.3% of the poorly controlled group (P = 0.018) (Table 1).
+
+Disease severity and duration of and medications for initial disease control
+
+The mean UAS7 scores at the first visit were 12.53, 17.20, and 21.1 points in the well, partly,
+and poorly controlled groups, respectively (P < 0.001). The severity of UAS7 in each group is
+shown in Supplement figure 2. The mean UCT scores at the first visit were 8.01, 7.05, and 5.93
+points in the well, partly, and poorly controlled groups, respectively (P = 0.023). The well
+controlled group and the partly controlled group achieved 12 points in the UCT within a mean
+
+This article is protected by copyright. All rights reserved
+duration of 7.57 weeks and 13.41 weeks, respectively. Approximately 87.1% of the patients from
+the well-controlled group and 61.4% from the partly controlled group achieved 12 points within
+3 months (Supplement figure 3-A).
+
+At 12 points of UCT, 68.9% of the patients from the well-controlled group used a usual dose of
+24 AH, while the rest used higher doses of 2"! AH (3.4%), the usual dose of 24 AH with other
+medications (12.8%), or a higher dose of 2"4 AH with other medications (14.9%). In the partly
+controlled group, the usual dose of 2"! AH (34.3%), increased dose of 2"! AH (4.3%), the usual
+dose of 2" AH with other medications (21.4%), or increased dose of 2" AH with other
+
+medications was used (Supplement figure 3-B).
+
+Factors associated with not-well-controlled urticaria
+
+To evaluate the factors associated with CSU control, we re-categorized the patients into wellcontrolled and not-well-controlled groups (partly and poorly controlled groups). Univariate
+logistic regression showed the results in terms of the initial UAS7 score (1.06; 1.03-1.09; P <
+0.001), duration (1.09; 1.05—1.13; P < 0.001) and medication (4.74; 2.55-8.82; P < 0.001) until
+the initial disease control (reaching 12 or more UCT score) and food sensitization (1.95; 1.14—
+3.32; P = 0.014), initial UCT score (0.89; 0.80—0.98; P = 0.015), and response to the first-step
+medication. (0.45; 2.55—-8.82; P < 0.001)
+
+Similarly, the results of multivariate logistic regression showed that a higher initial UAS7 score
+(OR, 1.06; 95% CI: 1.03-1.09; P < 0.001), longer duration (1.09; 1.05—1.13; P < 0.001) and
+higher medication step (5.61; 2.82—11.14; P < 0.001) until initial the disease control, and food
+sensitization (1.88; 1.03—3.46; P = 0.041) were the risk factors for a not-well-controlled CSU.
+Higher initial UCT score (0.87; 0.79-0.97; P = 0.008) and treatment response for the first-step
+medication (0.42; 0.23—-0.79; P = 0.007) were favorable factors for controlling CSU.
+
+There was no difference in CU control according to age, sex, allergic history, family history of
+allergic disease, duration of symptoms at diagnosis, and CIU, ASST, or laboratory findings such
+
+as total eosinophilic count, IgE, liver function test, thyroid function test, or ANA status. (Table 2)
+
+Discussion
+
+This article is protected by copyright. All rights reserved
+In our study, children with CSU generally showed good responses to medications. However, a
+longer duration and higher treatment step for the initial control, higher initial UAS7 and UCT
+scores, and food sensitization were risk factors for inadequate disease control. Although the
+evaluation of allergic sensitization is not essential based on the current CSU guidelines,!4?!? our
+
+results suggest that it may help predict the urticaria control status in the clinical setting.
+
+In a recent study, children with CU had a higher prevalence of sensitization to house dust mites
+and multiple sensitizations than those with acute urticaria, but there was no significant difference
+in the prevalence of sensitization to food.'° In another study, children sensitized to food or inhalant
+allergens spent more time on symptom improvement.!® In a study to identify factors associated
+with symptom free for 1 month without medication in 253 children with CU, sensitized children
+had a longer duration of CU. In our study, all children with CSU had a high prevalence of
+allergen (71.3%), food (48.2%), and inhalant (49.0%) sensitization. Sensitization to food,
+especially to multiple foods, was associated with an inadequate response to treatment. Although
+adult CSU patients with positive ASST or positive SPT, mainly to house dust mite, had higher
+UAS scores,”? no study has evaluated urticaria control status using the results of SPT and UAS, or
+
+UCT in children.
+
+CD63 expression in CSU patients with allergic sensitization was significantly higher than that
+in those without sensitization.*4 A higher level of spontaneous basophil activation in CSU patients
+with allergic sensitization? suggested that allergic sensitization may be an underlying factor
+contributing to the pathogenesis of CSU. These results may support our findings, which indicated
+that there was more inadequate control of CSU among food-sensitized children. Further studies are
+
+required to identify the mechanism of the impact of allergen sensitization on CU control.
+
+The prevalence of allergic diseases was higher in children and adults than in those without
+CSU.!75 A strong link between CSU and allergic diseases was reported,’ and a history of atopic
+dermatitis was considered an important risk factor for the subsequent occurrence of CSU.!!
+Several studies have shown an association between allergic diseases and CU compared with the
+normal population. In addition, our results showed that 51.0% of the patients had a history of
+allergic disease. However, we did not find an association between CU control status and a history
+of allergic diseases. We suspected that a history of atopic dermatitis might be a risk factor for
+
+inadequate response to medications (P = 0.069). Further studies are warranted to identify the
+
+This article is protected by copyright. All rights reserved
+association between atopic dermatitis and CU control using objective indicators.
+
+When identifying the treatment steps for CU control and the response to management, most
+children had a favorable response to the usual dose of 2"4 AH.*5° Our results also showed that
+58.8% of the total patients had used the usual dose of 24 AH in order to achieve a UCT of 12
+points. A total of 87.1% of the well-controlled group achieved 12 points of UCT within 3 months,
+but 82.8% of the partly controlled group required 6 months. The higher treatment steps and longer
+duration until the initial disease control and poor response to the first treatment were associated
+
+with inadequate control of CSU.
+
+The higher UAS7 score at the first visit was associated with inadequate control of CSU in our
+study. Children with higher UAS7 at admission showed a longer persistence of symptoms and
+needed more medications to improve the symptoms.*!® Therefore, UAS7 score and disease
+activity at the first visit seemed to be significant factors for controlling CSU. Furthermore, initial
+UCT scores were associated with CU control in the future. These findings suggest that active
+
+treatment for CU control may be required to maintain the subsequent control status.
+
+Our study evaluated CU control using UCT and investigated the risk factors according to the
+CU control status. UCT was used to determine the level of disease control in CU patients as a
+validated tool in adults.!”-!8 Although UCT has not yet been validated in children, we found that
+UCT-based groups showed a reasonable correlation with the UAS7 score and the duration and
+medication until initial CU control. Hence, UCT may be a useful tool to evaluate CU control status
+in children. This is the first study to objectively evaluate CU control using UCT in children and to
+
+investigate the associated factors.
+
+The present study had some limitations. This study was conducted in a single tertiary center.
+Therefore, selection bias might have occurred. Moreover, this study was a retrospective chart
+review that there might be data missing or inappropriate records about the use of rescue
+medication, personal and familial history of allergic diseases, and non-adherence. These might
+cause bias. Furthermore, because we defined allergic sensitization of patients who were unable to
+quit medication by MAST, a semi-quantitative method, careful interpretation is needed. However,
+in the regression analysis, multiple sensitizations to foods were more strongly associated with CU
+control than was mono sensitization; thus, food sensitization may be an essential factor for CU
+
+control. We evaluated only food sensitization and did not confirm the food allergy using the food
+
+This article is protected by copyright. All rights reserved
+provocation test. Because food sensitization is not equivalent to clinical food allergy, careful
+interpretation is needed. Despite this limitation, the present study may have strength because we
+used UAS and UCT as objective indicators to define the severity and control status and tried to
+categorize the patients according to the level of control in a relatively large number of patients.
+
+Our results may provide useful information regarding the control of CU in children.
+
+In conclusion, a longer duration and higher treatment step until the initial disease control, the
+initial UAS7 score, and food sensitization may be parameters for predicting inadequate response to
+treatment. Efforts to reduce the duration of initial disease control, to define disease activity and
+
+control status, and to find allergic sensitization can help in managing pediatric patients with CU.
+
+This article is protected by copyright. All rights reserved
+References
+
+i, Kim BR, Yang S, Choi JW, Choi CW, Youn SW. Epidemiology and comorbidities of
+patients with chronic urticaria in Korea: A nationwide population-based study. J Dermatol.
+2018;45(1):10-16.
+
+a Lee SJ, Ha EK, Jee HM, et al. Prevalence and risk factors of urticaria with a focus on
+chronic urticaria in children. Allergy Asthma Immunol Res. 2017;9(3):212-219.
+
+3. Cantarutti A, Dona D, Visentin F, et al. Epidemiology of frequently occurring skin
+diseases in Italian children from 2006 to 2012: a retrospective, population-based study. Pediatr
+Dermatol. 2015;32(5):668-678.
+
+4. Arik Yilmaz E, Karaatmaca B, Cetinkaya PG, Soyer O, Sekerel BE, Sahiner UM. The
+persistence of chronic spontaneous urticaria in childhood is associated with the urticaria activity
+score. Allergy Asthma Proc. 2017;38(2):136-142.
+
+5. Park H, Lee JY, Song A, et al. Natural course and prognostic factors of chronic urticaria
+in Korean children: A single center experience. Asian Pac J Allergy Immunol. 2019;37(1):19-24.
+6. Caffarelli C, Paravati F, El Hachem M, et al. Management of chronic urticaria in children:
+
+a clinical guideline. [tal J Pediatr. 2019;45(1):101.
+
+gs Lapi F, Cassano N, Pegoraro V, et al. Epidemiology of chronic spontaneous urticaria:
+results from a nationwide, population-based study in Italy. Br J Dermatol. 2016;174(5):996-1004.
+8. Goldstein S, Gabriel S, Kianifard F, Ortiz B, Skoner DP. Clinical features of adolescents
+
+with chronic idiopathic or spontaneous urticaria: review of omalizumab clinical trials. Ann Allergy
+Asthma Immunol. 2017;118(4):500-504.
+
+9. Rosman Y, Hershko AY, Meir-Shafrir K, et al. Characterization of chronic urticaria and
+associated conditions in a large population of adolescents. J Am Acad Dermatol. 2019;81(1):129135.
+
+10. Lee JB, Lee SH, Han MY, Yoon JW. Allergen sensitization and vitamin D status in young
+Korean children with urticaria. Allergy Asthma Respir Dis. 2017;5(3).
+
+dni. Kitsioulis NA, Papadopoulos NG, Kostoudi S, Manousakis E, Douladiris N, Xepapadaki
+P. Assessment of atopic dermatitis as a risk factor for chronic spontaneous urticaria in a pediatric
+population. Allergy Asthma Proc. 2018;39(6):445-448.
+
+12. Beattie PE, Lewis-Jones MS. A comparative study of impairment of quality of life in
+
+children with skin disease and children with other chronic childhood diseases. Br J Dermatol.
+
+This article is protected by copyright. All rights reserved
+2006;155(1):145-151.
+
+13. Olsen JR, Gallacher J, Finlay AY, Piguet V, Francis NA. Quality of life impact of
+childhood skin conditions measured using the Children’s Dermatology Life Quality Index
+(CDLQI): a meta-analysis. Br J Dermatol. 2016;174(4):853-861.
+
+14. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/EDF/WAO guideline for
+the definition, classification, diagnosis and management of urticaria. Allergy. 2018;73(7):13931414.
+
+15. Ye YM, Park JW, Kim SH, Choi JH, Hur GY, Lee HY, et al. Clinical evaluation of the
+computerized chronic urticaria-specific quality of life questionnaire in Korean patients with
+chronic urticaria. Clin Exp Dermatol. 2012;37(7):722-728.
+
+16. Cho S-Y, Choi Y-C, Kim B-G, Jung J-A. Factors associated with the treatment of chronic
+spontaneous urticaria in children. Allergy Asthma Respir Dis. 2017;5(4).
+
+lie Weller K, Groffik A, Church MK, et al. Development and validation of the urticaria
+control test: a patient-reported outcome instrument for assessing urticaria control. J Allergy Clin
+Immunol. 2014;133(5):1365-1372 e1-6.
+
+18. Lee JH, Bae YJ, Lee SH, et al. Adaptation and validation of the Korean version of the
+urticaria control test and its correlation with salivary cortisone. Allergy Asthma Immunol Res.
+2019;11(1):55-67.
+
+19. Hawro T, Ohanyan T, Schoepke N, et al. The urticaria activity score-validity, reliability,
+and responsiveness. J Allergy Clin Immunol Pract. 2018;6(4):1185-1190 el.
+
+20. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan CE.
+EAACI/GA(2)LEN task force consensus report: the autologous serum skin test in urticaria.
+Allergy. 2009;64(9):1256-1268.
+
+Ze Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and management of acute and
+chronic urticaria: 2014 update. J Allergy Clin Immunol. 2014;133(5):1270-1277.
+
+D2. Ye YM, Jang GC, Choi SH, et al. KAAACI Work Group report on the management of
+chronic urticaria. Allergy Asthma Respir Dis. 2015;3(1).
+
+23. Song Z, Zhai Z, Zhong H, Zhou Z, Chen W, Hao F. Evaluation of autologous serum skin
+test and skin prick test reactivity to house dust mite in patients with chronic spontaneous urticaria.
+PLoS One. 2013;8(5):e64142.
+
+24. Chen Q, Zhai Z, Xu J, et al. Basophil CD63 expression in chronic spontaneous urticaria:
+
+correlation with allergic sensitization, serum autoreactivity and basophil reactivity. J Eur Acad
+
+This article is protected by copyright. All rights reserved
+Dermatol Venereol. 2017;31(3):463-468.
+
+2) Lee XH, Ong LX, Cheong JY, et al. A stepwise approach in the management of chronic
+spontaneous urticaria in children. Asia Pac Allergy. 2016;6(1):16-28.
+
+26. Kanchanapoomi K, Pacharn P, Visitsunthorn N, Jirapongsananuruk O. Medication used to
+control symptoms of chronic urticaria in children. Asian Pac J Allergy Immunol. 2018. DOI
+10.12932/AP-010218-0247
+
+This article is protected by copyright. All rights reserved
+Table 1. Comparison of demographics according to each group (N=240)
+
+ 
+
+Well-controlled
+N=150
+
+Partly-controlled
+N=74
+
+Poorly-controlled P-value
+
+N=16
+
+ 
+
+Sex (M:F) (%)
+Age (years)
+
+CSU only vs. CSU+CIU
+(%)
+
+Duration from disease
+onset to last follow-up
+
+(wks)
+
+Symptom free for 1
+month without
+
+medication (n=82)
+
+Duration to symptom
+free for Imonth without
+
+medication (wks)
+Allergic history
+Asthma
+Allergic rhinitis
+Atopic dermatitis
+
+Family history of
+
+allergic disease
+
+Duration of symptoms at
+
+diagnosis (month)
+
+Initial medication
+
+78:72 (52.0:48.0)
+
+6.42+4.04
+
+ 
+
+104:46
+(69.3:30.7)
+
+65.16+67.76
+
+ 
+
+(7.86-647.4)
+
+63 (42.0%)
+
+62.40437.35
+(7.86-175.0)
+
+ 
+
+71 (47.3%)
+16(10.7%)
+47 (31.3%)
+32 (21.3%)
+
+81 (54.0%)
+
+8.02+14.65
+
+ 
+
+34:40 (45.9:54.1)
+
+6.49+4.41
+
+ 
+
+47:27 (63.5:36.5)
+
+91.92+59.43
+
+ 
+
+(9.00-280.4)
+
+19 (25.7%)
+
+94.51442.27
+(29.00-187.29)
+
+ 
+
+44 (59.5%)
+16 (17.6%)
+25 (33.8%)
+22 (29.7%)
+
+42 (56.8%)
+
+7.00£10.02
+
+ 
+
+10:6 (62.5:37.5)
+
+7.59+4.15
+
+ 
+
+12:4 (75.0:25.0)
+
+64.10457.43
+
+ 
+
+(10.71-198.6)
+
+8 (50.0%)
+0
+
+4 (25.0%)
+
+5 (31.3%)
+
+6 (37.5%)
+
+11.98414.08
+
+ 
+
+0.436
+
+0.565
+
+0.559
+
+0.001
+
+<0.001
+
+0.002
+
+0.231
+
+0.101
+
+0.783
+
+0.317
+
+0.373
+
+0.400
+
+ 
+
+This article is protected by copyright. All rights reserved
+ 
+
+24 AH usual dose
+
+Updosing 2™¢ AH (x24) and/or other
+
+medication
+Others
+Oral corticosteroid
+
+Treatment response for
+the first-step medication
+(%)
+
+Initial UAS7 (n=205)
+Initial UCT (n=188)
+Sensitization, any
+Inhalation
+Food
+Positive ASST (n=76)
+Positive ANA (n=118)
+TEC (mm*)
+ESR (mm//hr)
+
+Total IgE, geometric
+mean (IU/ml)
+
+120 (80.0%)
+
+30 (20.0%)
+
+7 (4.7%)
+
+119:31
+(79.3:20.7)
+
+12.5349.13
+
+ 
+
+8.01+2.97
+
+ 
+
+109 (72.7%)
+77 (51.3%)
+67 (44.7%)
+16(36.4%)
+27 (37.5%)
+
+234.044173.57
+
+ 
+
+9.87+8.11
+
+91.1043.35
+
+ 
+
+52 (70.3%)
+
+21 (28.4%)
+
+1 (1.3%)
+6 (8.1%)
+
+49:25 (66.2:33.8)
+
+17.20+9.59
+
+ 
+
+7.05+3.46
+
+ 
+
+59 (79.7%)
+36 (48.6%)
+46 (62.2%)
+8 (30.8%)
+
+10 (27.8%)
+
+ 
+
+267.37£169.37
+
+10.41+7.74
+
+ 
+
+112.5143.34
+
+ 
+
+8 (53.3%)
+
+6 (40.0%)
+
+1 (6.7%)
+2 (12.5%)
+
+8:8 (50.0:50.0)
+
+21.13414.32
+
+ 
+
+5.93+3.00
+11 (68.8%)
+7 (43.8%)
+9 (56.3%)
+1 (16.7%)
+4 (40.0%)
+
+244.46+225.95
+
+ 
+
+11.25+10.17
+
+163.04+3.57
+
+ 
+
+0.018
+
+0.248
+
+0.010
+
+<0.001
+
+0.023
+
+0.447
+
+0.814
+
+0.043
+
+0.604
+
+0.567
+
+0.429
+
+0.770
+
+0.123*
+
+ 
+
+Values are presented as number (percentage) or mean 4
+
+ 
+
+t standard deviation.
+
+* Mann-Whitney U test was used in the comparison of total IgE that showed non-parametric
+
+distribution.
+
+CSU, chronic spontaneous urticaria; CIU, chronic inducible urticaria; AH, antihistamine; UAS,
+
+urticaria activity score; UCT, urticaria control test; ASST, autologous serum skin test; ANA, anti
+This article is protected by copyright. All rights reserved
+nuclear antibody; TEC, total eosinophilic count; ESR, erythrocyte sedimentation rate; IgE,
+
+immunoglobulin E
+
+This article is protected by copyright. All rights reserved
+Table 2. Odds ratios and confidence intervals of the associated factors for the non-well
+controlled (partly and poorly) group
+
+ 
+
+ 
+
+ 
+
+Sex (M:F)
+Age (yr)
+CSU only vs. CSU+CIU
+
+Duration of symptoms at
+
+diagnosis (mo)
+UCT_12 duration (wks) *
+
+Initial VAS7
+Initial UCT
+
+Treatment response for the
+
+first-step medication
+
+UCT 12 medication (2"4
+
+AH usual dose vs. others)
+Oral corticosteroid
+Allergic history
+
+Asthma
+
+Allergic rhinitis
+
+Atopic dermatitis
+Food allergy
+
+Family history of allergic
+
+ 
+
+Univariate Multivariate
+
+taOR (95% CI) P-value taOR (95% CI) P-value
+1.13 (0.67-1.91) 0.641 1.38 (0.79-2.41) 0.265
+
+1.02 (0.95—1.08) 0.633 1.00 (0.93-1.07) 0.971
+
+1.19 (0.68-2.07) 0.544 1.15 (0.64—2.05) 0.651
+
+1.00 (0.98-1.02) 0.938 1.00 (0.98-1.02) 0.866
+
+1.09 (1.05-1.13) 0.000 1.09 (1.05-1.13) <0.001
+
+1.06 (1.03—1.09) 0.000 1.06 (1.03-1.09) <0.001
+
+0.89 (0.80-0.98) 0.015 0.87 (0.79-0.97) 0.008
+
+0.45 (0.25-0.81) 0.007 0.42 (0.23-0.79) 0.007
+
+4.74 (2.55-8.82) 0.000 5.61 (2.82-11.14) <0.001
+1.99 (0.70—5.70) 0.198 2.32 (0.78-6.97) 0.132
+
+1.52 (0.90-2.58) 0.118 1.34 (0.75—2.40) 0.316
+
+1.41 (0.65—3.10) 0.386 1.26 (0.55—2.88) 0.582
+
+1.04 (0.60-1.83) 0.886 0.79 (0.40-1.55) 0.490
+
+1.58 (0.87—2.87) 0.133 1.78 (0.96-3.32) 0.069
+
+1.82 (0.88-3.78) 0.107 1.73 (0.79-3.78) 0.167
+
+0.97 (0.58-1.64) 0.920 1.00 (0.58-1.73) 0.996
+
+ 
+
+This article is protected by copyright. All rights reserved
+ 
+
+disease
+
+Sensitization to any 1.32 (0.71-2.43) 0.379 0.97 (0.49-1.94) 0.935
+
+allergen
+
+Inhalant sensitization 0.87 (0.51-1.46) 0.594 0.63 (0.35—1.15) 0.134
+
+Food sensitization 1.95 (1.14-3.32) 0.014 1.88 (1.03—3.46) 0.041
+Food Ref 0.005 Ref 0.012
+Mono sensitization 1.25 (0.63—2.48) 0.519 1.24 (0.60—2.56) 0.571
+
+Multiple sensitization 2.75 (1.48-5.13) 0.001 2.91(1.41-6.01) 0.004
+
+Positive ASST 0.69 (0.26-1.84) 0.451 0.67 (0.23—1.97) 0.465
+Positive ANA 0.73 (0.33-1.61) 0.433 0.68 (0.30-1.53) 0.347
+TEC 1.00 (1.00-1.00) 0.226 1.00 (1.00-1.00) 0.471
+ESR 1.01 (0.98-1.05) 0.532 1.01 (0.97-1.04) 0.679
+Log IgE 1.57 (0.93-2.65) 0.093 1.34 (0.75-2.40) 0.316
+Thyroid function 1.35 (0.56—3.24) 0.501 1.31 (0.52-3.31) 0.568
+abnormality
+
+ 
+
+aOR, adjusted odds ratio; CI, confidence interval; CSU, chronic spontaneous urticaria; CIU,
+chronic inducible urticaria; UCT, urticaria control test; UAS, urticaria activity score; AH,
+antihistamine; ASST, autologous serum skin test; ANA, antinuclear antibody; TEC, total
+
+eosinophilic count; ESR, erythrocyte sedimentation rate
+
+*Adjusted for age, sex, allergic history (asthma, allergic rhinitis, or atopic dermatitis), family
+
+history of allergic diseases (father, mother, or sibling), and Log IgE
+
+*Duration to reach the first 12 or more points of UCT
+
+This article is protected by copyright. All rights reserved
+Figure legends
+
+Figure 1. Flow chart of participant selection
+
+This article is protected by copyright. All rights reserved
+pai_13319_f1.docx
+
+Figure 1.
+
+ 
+
+Children diagnosed with CSU or CIU (18 years or younger) N=524
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exclusion: CIU only,
+
+n=61
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Children diagnosed with CSU: n=463
+
+ 
+
+ 
+
+CSU only: n=318, CSU and CIU: n=145
+
+ 
+
+ 
+
+ 
+
+Exclusion: absent or incomplete
+
+UCT record, n=204
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Children with UCT record, n=259
+
+Children who underwent UCT two or more times, n=240
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Categorized with UCT based on 12 points
+
+ 
+
+ 
+
+ 
+
+ 
+
+Well-controlled group Partly-controlled group Poorly-controlled group
+
+n=150 n=74 n=16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved
+

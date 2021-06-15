@@ -1,0 +1,1498 @@
+Chu et al. World Allergy Organization Journal (2020) 13:100117 ® V\(@) 1m DN Mma -<en 4
+http://doi.org/10.1016/j.waojou.2020.100117 cea ORGANIZATION
+
+ 
+
+JOURNAL
+
+ 
+
+Open Access
+
+Clinical characteristics and management of
+chronic spontaneous urticaria in patients
+refractory to H,-Antihistamines in Asia,
+Middle-East and Africa: Results from the
+AWARE-AMAC study
+
+Chia-Yu Chu?, Anwar Al Hammadi®, Nancy Agmon-Levin‘, Nilgun Atakan®, Assem Farag®, 7
+Rand K. Arnaout*, Suretha Kannenberg§, Kanokvalai Kulthanan®, Asmara Mubarak’, Fares Zaitouni,
+Susanne Crowe, Sigrid Malfait!, Kathryn Cooke! and Elise L. Dekker*
+
+ABSTRACT
+
+Background: Chronic urticaria (CU) is a condition characterized by recurrent itchy hives and/or
+angioedema for >6 weeks. Most of the data about CU come from western countries with very little
+information available about CU in Asia, Africa, and the Middle East.
+
+Methods: AWARE-AMAC is a 24-month prospective, observational, real-world, non-interventional study in patients aged >18 years from Asia, the Middle East, and Africa (AMAC) with CU
+refractory to H1-antihistamines (H1-AH). The main objective was to describe the real-world
+experience with CU, including clinical characteristics, presence of angioedema, treatment patterns
+(shifts between treatment classes and changes within a treatment class), investigator-assessed
+disease control, and the impact on quality of life. Subgroups of interest were type of CU at
+Baseline and treatment class (based on 2013 urticaria guidelines). There were no mandatory visits
+and diagnostic/monitoring procedures additional to routine practice, except the patient diary (7day Urticaria Activity Score) and patient reported outcome assessments.
+
+Results: The focus of the current manuscript is on patients with chronic spontaneous urticaria
+(CSU), who formed 98% of the sample. Patients were predominantly female (69.6% female, mean
+age + SD 39.8 + 13.29 years). Time since current diagnosis (Mean + SD) was 28.6 + 49.06 months.
+Amongst patients with CSU, 31.0% had comorbid chronic inducible urticaria (CINDU) and 46.4%
+had a history of angioedema. 91.9% received H1-AH therapy (+other treatments). The most
+frequently prescribed treatment classes at Baseline were any/combination of medications, not
+classified under the other 7 treatment classes, named “Others” (30.5%) followed by, omalizumab
+(OMA; 23.6%) and second-generation H1-AH monotherapy (sgAH; 15.1%). At Month 12, the most
+prescribed treatment classes (>15%) for patients were OMA (23.5%) and "Other" (21.3%); 19.7%
+received "No drug". At Month 24, OMA (22.5%), and "Other" (17.9%) were most frequently
+prescribed; 28.6% received "No drug". Overall, 79.5% of patients had some type of change in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Department of Dermatology, National Taiwan University Hospital and Received 19 August 2019; Received in revised from 21 February 2020;
+National Taiwan University College of Medicine, Taipei, Taiwan Accepted 10 March 2020
+
+*Corresponding author. Novartis Pharma AG, Novartis Campus, 4056, Basel, Online publication date xxx
+
+Switzerland. E-mail: elise.dekker@novartis.com 1939-455 1/© 2020 Published by Elsevier Inc. on behalf of World Allergy
+Full list of author information is available at the end of the article Organization. This is an open access article under the CC BY-NC-ND license
+
+http://doi.org/10.1016/j.waojou.2020.100117 (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+2 Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+http://doi.org/10.1016/j.waojou.2020.100117
+
+treatment. Over the study period, improvement in self-reported QoL increased, which was
+
+mirrored by better disease control.
+
+Conclusion: In AMAC countries, the non-recommended "Other" treatment class played a major
+role in the initial management of CU patients. High usage of H1-AH (+other treatments) and OMA
+was observed. Treatment changes were observed in a majority of patients. Treatment escalation
+from sgAH was mostly via OMA. Improvement of disease control and Qol was achieved during the
+
+study period.
+Trial registration: Observational study (NA).
+
+ 
+
+Keywords: Chronic spontaneous urticaria, Second-generation antihistamines, Omalizumab, Ef
+ficacy, Quality of life
+
+INTRODUCTION
+
+Chronic urticaria (CU) is a condition characterized by the development of wheals (hives), and/or
+angioedema, for longer than 6 weeks.’ The
+estimated prevalence of CU is up to 1% in the
+general population worldwide,’ with those aged
+between 30 and 50 years most commonly
+affected, and females affected approximately
+twice as often as males.?°> The prevalence of CU
+in Asia has shown an increasing trend, with recent
+reports of 3.08% in Korea, and 0.79% in Taiwan.©”
+CU is divided into two types: chronic spontaneous
+urticaria (CSU), in which symptoms occur without
+specific identifiable external triggers, and chronic
+inducible urticaria (CINDU), in which symptoms
+are induced and where types include cold, heat,
+solar, delayed pressure, vibratory,
+dermographism, aquagenic, cholinergic, and
+contact urticaria." CSU is more common than
+CINDU and accounts for about two-thirds of all CU
+cases.’ Patients may concurrently experience CSU
+and CINDU in approximately 20% of cases.* CSU
+is unpredictable and debilitating with a significant
+negative impact on patients’ quality of life (QoL),
+including work productivity loss and absenteeism,
+interference with sleep and daily activities, and
+high levels of anxiety and psychological
+distress.27-™1 Furthermore, angioedema
+associated with CU may result in significant QoL
+impairment,?"° due to greater CSU activity,
+health-related quality of life (HRQoL) and productivity impairment, and resource utilization.17"%
+
+ 
+
+ 
+
+In 2013 and 2017, revisions and updates of the
+international EAACI/GA7LEN/EDF/WAO consensus
+guideline on urticaria were published.**"®
+According to the 2013 EAACI/GA7LEN/EDF/WAO
+guideline (relevant at the time of the present
+study), all CSU patients with symptoms
+nsufficiently controlled by the approved dose of
+H1-AH (first-line) for 2-4 weeks should be updosed to 2-4x the approved dose (second-line),
+followed by add-on therapy with omalizumab,
+montelukast or cyclosporine (third-line).1° H1ntihistamines (H1-AH) have long been the stanard of care in CSU,1%7%17 but up to 60% of
+atients remain uncontrolled at the approved
+ose."® Nearly half remain symptomatic even on
+x the approved dose of second-generation H1AH, implying that a significant proportion of the
+patient population are negatively impacted despite
+being treated.'? To improve symptom control and
+minimize disease burden among CU patients, the
+international guidelines recommended a stepwise
+treatment approach.'*"5 Poor adherence to
+urticaria treatment guidelines has been reported,
+suggesting that patients may be sub-optimally
+managed.?°?? Understanding disease burden
+and treatment patterns in patients with urticaria in
+real-world settings is critical in enabling measures
+to mitigate the impact of urticaria.
+
+ 
+
+a
+d
+p
+d
+4
+
+ 
+
+ 
+
+ 
+
+The majority of published data on H1-refractory
+CU are limited to patient populations derived from
+specialized urticaria centers and thus may not be
+representative of the general population of
+Volume 13, No. 4, Month 2020
+
+patients with CU. To collect data on the management of a representative sample of CU patients
+across the world, the AWARE - (A World-wide
+Antihistamine-Refractory chronic urticaria patient
+Evaluation) program through non-interventional,
+prospective observational studies - was
+designed. The studies were independently conducted in Europe, Latin America, and, Asia, the
+Middle East, and Africa (AMAC). AWARE-AMAC
+was a 24-month prospective, observational, realworld, non-interventional study in H1-AH refractory CU (HRCU) patients in the AMAC region.
+Here we present key results from AWARE-AMAC
+pertaining to clinical characteristics, role of
+angioedema, treatment patterns, investigatorassessed disease control, and impact on Qol at
+Baseline. While the study included both CSU and
+CINDU patients, the current publication focuses on
+data from H1-AH refractory CSU patients due to
+the small number of CINDU patients included.
+
+METHODS
+Study design
+
+Enrollment of patients in the AWARE-AMAC
+study occurred between 25 October 2014 and
+30 September 2015 from 14 countries (Algeria,
+Bangladesh, Egypt, Indonesia, Israel, Jordan,
+Lebanon, Oman, Saudi Arabia, South Africa,
+Taiwan, Thailand, Turkey, and UAE). Patients were
+included if they had a confirmed diagnosis of CU,
+defined as recurrent episodes of wheals (hives),
+angioedema, or both, for at least 2 months and if
+they showed a presence of signs and/or symptoms
+of CU that were not controlled by at least 2 weeks
+treatment with H1-AH. Patients were also required
+to be > 18 years of age and to have provided
+informed consent. Patients were excluded if they
+were participating, or planning to participate, in an
+interventional clinical study for CU. The selection o
+the treatment for CSU was clearly separated from
+the decision to include patients in the study, and
+was made at the discretion of the treating physician in accordance with local standard medica
+practice and the investigator's clinical judgment.
+Information on angioedema _ episodes was
+collected by the investigators at each visit and reported in the eCRF with intensity of mild/moderate
+or severe. As the study is an observational one, no
+diagnostic or monitoring procedures additional to
+
+ 
+
+standard care and routine practice were performed for the purpose of the study, except for the
+patient's diary (7-day Urticaria Activity Score UAS7) and patient-reported outcome (PRO) assessments. In order to prevent selection bias, investigators had to offer enrollment to all
+consecutive patients who met study criteria, were
+likely to be available for the full duration of the
+follow-up period, and who were willing to participate in the study. The majority of the treating
+physicians were allergologists or dermatologists.
+Study visit intervals were not fixed per protocol but
+adhered to the site's regular practice in this indication. A patient was considered to have
+completed the study if they were followed for at
+least the planned 24 months (46 weeks); otherwise, they were considered as having prematurely
+discontinued.
+
+ 
+
+Outcomes
+
+The main objectives of AWARE-AMAC were to
+describe the clinical characteristics of H1antihistamines refractory chronic urticaria (HRCU)
+patients in the AMAC region: type of urticaria,
+presence of angioedema/comorbidities, diagnostic procedures performed, treatment patterns
+of HRCU, including the classes of prescribed
+treatments, initial doses & dose adjustments,
+treatment duration, and shifts between treatment
+classes; shifts from one treatment class to another,
+changes in medication (dose/frequency changes
+within the same treatment class). The assessments
+included clinical evolution of HRCU patients,
+assessed in terms of symptom control (Physician
+Global Assessment of disease control (PhyGAVAS), angioedema episodes, and spontaneous
+remission; clinical evolution in the cohort of patients with the diagnosis of CSU — including CSU
+with concomitant CINDU; and impact of HRCU on
+QoL measured with the Dermatology Life Quality
+Index (DLQI). Four subgroups were defined based
+on Baseline CU diagnosis: CiNDU, total CSU,
+which was further divided into CSU with angioedema and CSU without angioedema. Patients who
+had experienced angioedema due to CU either in
+the past or at Baseline were included in the CSU
+with angioedema subgroup, while the CSU without
+angioedema subgroup consisted of patients who
+had not experienced angioedema due to CU
+either in the past or at Baseline. Seven treatment
+4 Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+http://doi.org/10.1016/j.waojou.2020.100117
+
+classes were defined to reflect treatment guidelines in effect at the time of the study in the
+following order (Fig. 1): (1) second-generation H1AH (sgAH) - monotherapy approved dose: once
+daily or as needed; (2) updosed secondgeneration H1-AH (sgAHUP) - monotherapy
+updosed, i.e. not taken once daily or as needed;
+(3) first-generation AH, (fgAH) - monotherapy, or in
+combination with sgAH; (4) cyclosporine A (CsA) monotherapy, or in combination with any H1-AH,
+with or without steroids; (5) omalizumab (OMA) monotherapy, or in combination with any H1-AH,
+with or without steroids; (6) montelukast (MONT) monotherapy, or in combination with any H1-AH,
+with or without steroids; (7) systemic glucocorticosteroids (SGC) - monotherapy, or in combination
+with any H1-AH."* There were a further 2 treatment
+classes defined as "Other" and "No drug". The
+"Other" treatment class consisted of any other
+medication, or combination of medications, not
+classified in the 7 treatment classes defined
+above, and "No drug" refers to patients not on
+any CU-related treatment.
+
+ 
+
+Statistical analysis
+
+Results are reported as observed. Descriptive
+statistics (mean, median, standard deviation (SD),
+
+Second-generation H1-AH
+(G\))
+
+Updosed second-generation
+
+H1-AH (sgAHUP) needed
+
+First generation AH (fgAH)
+
+(GV (el (ols) ofol ai al-W-W (Oxy)
+
+eyanr-lir4blanrelon (@)\Y/1-¥)
+
+Montelukast (MONT)
+
+Systemic corticosteroids
+(SGC)
+
+ 
+
+Fig. 1 Pre-defined treatment classes analyzed in AWARE-AMAC study
+
+lower and upper quartiles, minimum and
+maximum) are provided for continuous values, and
+absolute and relative frequencies for categorical
+values.
+
+Study oversight
+
+The study protocol was approved by the institutional review board of each participating center.
+The trial was conducted in accordance with the
+Declaration of Helsinki and Good Clinical Practice
+(GCP) and in compliance with all federal, local, or
+regional requirements. The AWARE-AMAC study
+was sponsored by Novartis Pharma AG, who is also
+the manufacturer of omalizumab. All data provided are anonymized to respect the privacy of
+patients who have participated in the trial in line
+with applicable laws and regulations.
+
+RESULTS
+
+Baseline demographics and disease
+characteristics
+
+Overall, 919 patients who presented with HRCU
+were analyzed for the purpose of this study: 18
+patients with CINDU alone and 901 patients with
+CSU; 31.0% of CSU patients had concomitant
+CINDU. Of the 901 CSU patients analyzed, 69.6%
+
+Monotherapy approved dose once daily or as needed
+
+Monotherapy updosed i.e., not taken once daily or as
+
+Monotherapy, or in combination with sgAH
+
+Monotherapy, or in combination with any H1-AH, with or
+without steroids
+
+Monotherapy, or in combination with any H1-AH, with or
+without steroids
+
+Monotherapy, or in combination with any H1-AH, with or
+without steroids
+
+Monotherapy, combination with any H1-AH
+Volume 13, No. 4, Month 2020
+
+ 
+
+(627/901) were female, with a mean + SD age of
+39.8 + 13.29 years. Unless otherwise mentioned,
+the results presented are for CSU patients. As expected for the region, most patients were either of
+Caucasian (53.1%; 478/901) or Asian origin
+(38.3%; 345/901). The average time since diagnosis of disease prior to enrollment was 6.6 + 7.73
+years, with the mean + SD time since current
+diagnosis 28.6 + 49.06 months. In total, 45.4%
+(409/901) had a diagnosis of CSU with angioedema at Baseline and 54.6% (492/901) had a
+diagnosis of CSU without angioedema at Baseline.
+At Baseline, 46.4% (418/901) CSU patients had a
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overall HRCU
+
+N= 919
+
+past occurrence of an angioedema episode, with
+11.4% (103/901) of patients experiencing angioedema of severe intensity (Table 1).
+
+Treatment patterns associated with urticaria
+therapy
+
+At Baseline, nearly all CSU patients were on
+treatment (99.9%); only 1 patient was not on
+treatment, having stopped previous treatment 1
+day prior to Baseline and initiated a new treatment
+on day 1 of the study and was therefore included
+in the analysis. Most (91.9% [828/901]) CSU patients received H1-AH (either as monotherapy or in
+
+ 
+
+Age (years)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mean (SD) 39.6 (13.29) 39.8 (13.29)
+Sex, n (%)
+Female 640 (69.6) 627 (69.6)
+Race, n (%)
+Caucasian 490 (53.3) 478 (53.1)
+Black 3 (0.3 3 (0.3)
+Asian 348 (37.9) 345 (38.3)
+Unknown 8 (0.9) 8 (0.9)
+Other 70 (7.6) 67 (7.4)
+Time since diagnosis of current urticaria (months)
+Mean (SD) | 28.3 (48.68) 28.6 (49.06)
+Family-related history of urticaria
+n (%) | 139 (15.1 137 (15.2
+Occurrence of angioedema episodes in the past
+Yes 421 (45.8 418 (46.4
+No 498 (54.2 483 (53.6
+Average intensity of angioedema
+Mild 137 (14.9 136 (15.1
+Moderate 177 (19.3 177 (19.6
+Severe 105 (11.4 103 (11.4
+Missing 2 (0.2) 2 (0.2)
+Average duration (days) of angioedema
+<1 131 (14.3 129 (14.3
+1 111 (12.1 11123
+2 80 (8.7) 79 (8.8)
+S22 96 (10.4) 96 (10.7)
+Missing 3 (0.3) 3 (0.3)
+
+ 
+
+CSU
+With angioedema without angioedema
+N = 409 N = 492
+39.7 (12.57) 39.8 (13.87)
+303 (74.1) 324 (65.9)
+254 (62.1) 224 (45.5)
+2 (0.5) 1 (0.2)
+105 (25.7) 240 (48.8)
+4 (1.0) 4 (0.8)
+44 (10.8) 23 (4.7)
+26.9 (44.92) 30/01(52 25)
+56 (13.7) 81 (16.5)
+398 (97.3) 20 (4.1)
+AA (227) Al2 (959)
+129 (31.5) 7 (1.4)
+171 (41.8) 6 (1.2)
+96 (23.5) 7 (1.4)
+2 (0.5) 0
+122 (29.8) 7 (1.4)
+103 (25.2) 8 (1.6)
+76 (18.6) 3 (0.6)
+94 (23.0) 2 (0.4)
+Si(Gr7) 0
+
+ 
+
+Table 1. Baseline demographics and disease characteristics of patients in the AWARE-AMAC study (full analysis set). CSU, Chronic
+spontaneous urticaria; HRCU, Histamine refractory chronic urticaria; SD, Standard deviation
+6 Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+http://doi.org/10.1016/j.waojou.2020.100117
+
+combination) at some point during the study, of
+which 74.8% (674/901) were on sgAH (monotherapy or in combination with another therapy).
+At Baseline, the predominant treatment classes
+(>20% of all CSU patients) were "Other" (30.5
+[275/901]), and OMA (23.6% [213/901]). Only
+15.1% (136/901) and 12.4% (112/901) received
+sgAH and sgAHUP monotherapy, respectively. The
+most common treatments in the treatment class
+"Other" were H1-AHs taken in conjunction with
+other medications, which excluded them from the
+monotherapy treatment classes. These combinations included, H1-AH combined with: H2antihistamines (approximately 23%); topical treatments (approximately 16%), other therapies
+(approximately 15%). Of the individual medications which contribute to the "Other" treatment
+class at Baseline, the most common were ranitidine, cetirizine, fexofenadine, desloratadine and
+whole blood.
+
+At Month 12, 12.8% (106/826) of CSU patients
+received sgAH, and 11.5% (95/826) received
+sgAHUP, respectively. The most common treatment class at Month 12 was OMA with 23.5% (194/
+826) followed by "Other" treatment (21.3% [176/
+
+826]), as opposed to Baseline, where "Other" was
+the most common treatment class (Fig. 2).
+Consistent with the trend at Month 12, at Month
+24, OMA remained the most common treatment
+class (22.5% [161/717]), followed by "Other"
+(17.9% [128/717)). It is noteworthy that during the
+study, the proportion of CSU patients in the "No
+drug" treatment class increased from 0.1% (1/
+901), to 19.7% (163/826) at Month 12, and to
+28.6% (205/717) at Month 24. These changes
+may be explained by an improvement in CSU
+
+symptom control of CSU patients in the
+population.
+The longest total mean duration of use for CSU
+
+ 
+
+patients of a drug class during the study was for
+OMA (458.6 + 261.90 days since Baseline). Prolonged use (mean + SD duration of use:
+194.3 + 255.07 days since Baseline) of SGC was
+observed. sgAHUP was associated with a duration
+of use (mean + SD) of 273.2 + 237.58 (Table 2).
+During the study, 34.0% CSU patients (306/901)
+did not shift treatment class, and in the OMA
+treatment class 47.4% (101/213) did not shift
+treatment class (Table 3). Amongst patients who
+shifted, 13.2% (18/136) of patients on sgAH and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a CSU Total CSU with angioedema CSU without angioedema
+1 |
+800 | |
+' '
+i) 1
+= 700 275 163 1 |
+z
+$ 600 205) '
+~ a5 45 176 |
+a 1 |
+3 213 26 128} !
+cs 1 1
+$ 400 1 ; 171 97
+1
+3 500 194 9) 104 66 laa 121
+3 74 161| 25 70 =| 2 be — 200 412 36 H 122 15 60 | a 5
+z 31} 14! 41 85
+95 | 109 | 15 68
+100 52 | 33 se | 51 57 16
+io 106 103} u 38 2 | ee
+o H 42 1 94 71 72
+t T T TT T + T T 1
+
+ 
+
+Baseline Month 12 Month 24
+
+{Baseline Month 12 Month 24
+
+Baseline Month 12 Month 24
+
+(m=901) (m=826) (m=717) |(m=409) (m=371) (m=328) |(m=492) (m=455) (m=389)
+
+H sgAH @ sgAHUP @ fgAH m OMA
+
+@ SGC GOTHER* @ NODRUG
+
+Fig. 2 Urticaria-related Treatment Class during the Study. fgAH, first-generation H1-antihistamine; OMA, omalizumab; sgAH, secondgeneration H1-antihistamine (approved dose); sgAHUP, second-generation H1-antihistamine (up-dosed); SGC, systemic steroids; OTHER,
+any other medication or combination not classified under the other subgroup categories. During the study only 1% and 2% of patients were
+treated with cyclosporine and montelukast respectively (not displayed)
+Volume 13, No. 4, Month 2020
+
+Treatment Class n
+
+sgAH 313
+sgAHUP 256
+fgAH 123
+OMA 310
+MONT 68
+CsA 32
+SGC 98
+OTHER 420
+NO DRUG 320
+
+ 
+
+Mean
+270.5
+273.2
+224.7
+458.6
+220.1
+166.0
+194.3
+31301
+336.3
+
+ 
+
+sD
+241.89
+237.58
+242.21
+261.90
+231.21
+199.06
+255.07
+276.12
+215.50
+
+ 
+
+Table 2. Total Treatment Duration (in Days) during the Study in
+CSU Patients (Full analysis set). CsA, cyclosporine; fgAH, first-generation
+H1-antihistamine; MONT, montelukast; OMA, omalizumab; SD, standard
+deviation; sgAH, second-generation H1-antihistamine (approved dose);
+sgAHUP, second-generation H1-antihistamine (up-dosed); SGC, systemic
+
+glucocorticosteroids
+
+No shift
+
+n (%)
+
+ 
+
+sgAH (m = 136) 31
+(22.8)
+sgAHUP 4
+(m= 112) (36.6)
+fgAH (m = 74) 17
+(23.0)
+CsA (m = 9) (de)
+MONT (m = 36) 12
+(33.3)
+OMA (m= 213)| 101
+(47.4)
+OTHER 92
+(mv = 275) (33.5)
+SGC (m = 45) 11
+(24.4)
+NO DRUG 0
+(m = 1)
+
+ 
+
+sgAH
+n (%)
+49 25: 11
+(36.0) | (18.4) | (8.1)
+24 21 6 (5.4)
+(21.4) | (18.8)
+
+28 17 14
+(37.8) | (23.0) | (18.9)
+3 1 (11.1) 1
+(3333) (11.1)
+9 6 (16.7) 0
+
+(25.0)
+
+31 36 11
+(14.6) | (16.9) | (5.2)
+69 50 13
+(25.1) | (18.2) | (4.7)
+13 | 9 (20.0) 7
+(28.9) (15.6)
+0 0 0
+
+ 
+
+ 
+
+18.8% (21/112) of patients on sgAHUP shifted to
+OMA. Most CSU patients who were shifted to
+another treatment class were shifted to "Other"
+or OMA and no CSU patients were shifted to
+MONT, while all the CSU patients on CSA at
+Baseline were shifted to other therapies. The
+majority of CSU patients on sgAH and sgAHUP
+stayed on them. For those who shifted, most
+were shifted to "No drug" (41.9% and 29.5%
+respectively), and fewer than 18.4% of patients
+
+on sgAH were up-dosed.
+
+CSU patients were most often reported to have
+had a change in treatment regimen (dose or frequency of administration), because of lack of efficacy (39.6%; 357/901), if the medication was no
+longer required (31.9%; 287/901), due to disease
+improvement (28.5%; 257/901), or other reasons
+
+(28.6%; 258/901).
+
+1 10 18 a1
+(0.7) | (7.4) | (13.2) | (30.1)
+1 a) 2 22
+(0.9) (18.8) | (19.6)
+0 | 3(41)} 10 27
+
+(13.5) | (36.5)
+2 0 5 3
+(222) (55.6) | (33.3)
+1 |3(83)| 5 13
+(2.8) (13.9) | (36.1)
+10 |2(0.9)| 46 23
+(4.7) (21.6) | (10.8)
+9 |6(2.2)| 29 43
+(3.3) (10.5) | (15.6)
+1 |3(67)| 8 16
+(2.2) (17.8) | (35.6)
+0 0 |1(100)} oO
+
+ 
+
+ 
+
+No
+
+SGC drug
+6) a 9)
+6 (4.4) | 57 (41.9)
+6 (5.4) | 33 (29.5)
+
+10 | 34 (45.9)
+(13.5)
+
+1 1 (11.1)
+(a)
+
+2 (5.6) | 9 (25.0)
+7 (3.3) | 52 (24.4)
+21 121
+(7.6) (44.0)
+
+8 12 (26.7)
+(17.8)
+0 0
+
+ 
+
+Table 3. Shifts* in treatment class during the study in CSU patients (full analysis set). CsA, cyclosporine; fgAH, first-generation H1-antihistamine;
+MONT, montelukast; OMA, omalizumab; sgAH, second-generation H1-antihistamine (approved dose); sgAHUP, second-generation H1-antihistamine (up
+dosed); SGC, systemic glucocorticosteroids. *Shift defined as a shift from one treatment class to another; patient may: a) Contribute to >1 shift across a row; b)
+Change from one treatment class to another, including back to the former treatment class. Percentages (%) are based on the number of patients in the full
+analysis set in each respective Baseline treatment class (m) for each respective group of interest
+8 Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+http://doi.org/10.1016/j.waojou.2020.100117
+
+Disease burden
+
+At Baseline, 16.5% (149/901) of CSU patients
+had an occurrence of angioedema, which
+decreased to 13.0% (52/401) at Month 12, and
+further to 8.8% (25/284) at Month 24. During the
+entire study duration, 32.1% (289/901) of CSU
+patients experienced an occurrence of angioedema. In the CSU with or without angioedema
+subgroups 60.9% (249/409) of patients with a
+diagnosis of CSU with angioedema at Baseline
+experienced angioedema during the study and
+8.1% (40/492) of CSU patients diagnosed without
+angioedema at Baseline experienced angioedema
+during the study period. The number of angioedema episodes, intensity and average duration
+reduced over time. This was reflected in the
+improvement the disease control in patients with
+CSU at Month 12 and further by Month 24
+compared to Baseline when measured with
+PhyGA-VAS, and total in clinic UAS score (henceforth referred to as UAS score). Similar results were
+seen in the UAS7 scores between Month 12 and
+Month 24. Overall, the PhyGA-VAS score in patients with CSU increased notably at Month 12 vs.
+Baseline, indicating that by Month 12 patients
+experienced improved disease control; this
+continued from Month 12-24 (Fig. 3). Both sgAH
+and sgAHUP consistently showed high mean
+PhyGA-VAS scores (>80) from Month 12. onwards. SGC were the least effective treatment class
+in terms of mean PhyGA-VAS score. The total mean
+UAS score in CSU patients was 2.8 + 1.71 at
+Baseline, 1.2 + 1.41 at Month 12 and 1.1 + 1.40 at
+onth 24. Disease severity as assessed with in
+clinic assessment of hives and pruritus also
+demonstrated decreasing disease severity in CSU
+patients. No hives were seen in 54% (211/391) and
+65.8% (177/269) by Month 12 and 24 respectively
+vs. 19.3% (166/860) of patients assessed at Baseine. Similarly, mild-moderate pruritus was seen in
+46.8% (183/391) patients at Month 12, and 43.5%
+(117/269) at Month 24 vs. 66.9% (575/860) at
+Baseline.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+An increase in the proportion of CSU patients
+remaining asymptomatic without treatment, and
+an increase in those achieving spontaneous
+remission demonstrated an improvement in the
+disease status of CSU patients. None of the CSU
+patients were asymptomatic without treatment at
+
+Baseline. At Month 12 and 24, 12.1% (100/826)
+and 23.0% (165/717) of CSU patients were
+asymptomatic without treatment. Spontaneous
+remission (defined as complete remission of
+signs and symptoms of CU for a period longer
+than 6 months as collected in the eCRF) showed
+an increasing trend through the study. At Months
+12 and 24, 5.2% (43/826) and 19.2% (138/717) of
+CSU patients had achieved spontaneous remission. 0.1% (1/826) CSU patients who had achieved remission had suffered from a recurrence
+at Month 12, while 1.5% (11/717) patients suffered recurrence of disease at Month 24 (see Fig.
+4). Consequent to the improvement in disease
+control, the impact of CSU on patients’ QoL as
+measured by DLQI, decreased over time, with
+the individual subscales (symptoms and
+feelings, daily activities, leisure, work and
+school, personal relationships, and treatment)
+also showing a reduction in scores both at
+Month 12 and Month 24, compared to Baseline
+(Table 4).
+
+ 
+
+DISCUSSION
+
+The 2-year results from AWARE-AMAC study
+confirm that CU has a significant impact on the
+QoL of patients, including impact on work.?*24
+While there is a considerable burden of urticaria,
+there is an unmet need for real-world clinical
+data about CU patients from high-quality, large
+scale, observational studies.22:24 The
+demographics of patients analyzed were
+comparable to those from other CU clinical
+trials.1%?5.2 A similar proportion of patients
+were diagnosed as having CSU with angioedema
+at Baseline (45.4%) to that typically reported
+[phase Ill clinical trials: 41.0%?5; AWARE. in
+Europe: 46.1%; AWARE in Central and South
+America: 50.8%].2” A high percentage of CSU
+patients had concomitant CINDU (31.0%) in the
+AMAC region. The corresponding proportion was
+22.0% in AWARE study in Europe and 30.0% in
+Central and South America.?”
+
+According to the 2013 EAACI/GA?LEN/EDF/
+WAO guideline (relevant at the time of the
+AWARE-AMAC study), first-line treatment with
+second-generation H1-antihistamines was recommended, followed by an increase in dose (up to 4Volume 13, No. 4, Month 2020
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+BTotal score
+
+ 
+
+a
+4
+g§ 3
+g x
+a
+2
+$
+& 24
+3
+= 1.2 at
+14
+o4 . 1
+al
+Baseline (m=860) Month 12 (m=391) Month 24 (m=269)
+b ro Mean (SD) change vs. baseline: Mean (SD) change vs. baseline:
+_ 29.7 (36.46) 33.2 (32.49)
+E100
+£ 80.9] (21.33) 83.4 (21.08)
+a= 80
+$8
+& § 60 $1.2 |(29.60) 50.3 |(29.63)
+z
+== 40
+3
+3
+2 20
+2
+0
+Month 12 Month 24
+(n=386) (n=263)
+& Value at Baseline 1 Value at Month 12 © Value at Month 24
+c Month 12 1 Month 24
+12 f
+1
+9.6 H
+10 . '
+9.2 1 94 9.0
+87 t 8.9
+6 1
+5 8 '
+g 1
+= i
+5 fi
+<6 5:3 t
+=) 5.1 = aaa? 48 48
+g 43 ae ! ; 4a 43
+24 3.6 }
+1
+1
+1
+Z i)
+1
+1
+0 1
+with angioedema without Total CSU | with angioedema without Total CSU
+(n=142) angioedema (n=278) (n=92) angioedema (n=179)
+(n=136) 1 (n=87)
+
+Overall Wheal Severity Score
+
+‘= Overall Itch Severity Score (ISS)
+
+ 
+
+ 
+
+Fig. 3 a) UAS, b) PhyGA-VAS, and c) UAS7 in CSU patients at Month 12 and 24. Error bars represent the standard deviation in (a) and (b).
+The UAS7 assessment was optional and only conducted where the diary was available in the patient's local language. PhyGA-VAS, Visual
+Analog Scale Physician Global Assessment of disease control. For post-Baseline visits, only the results for patients with a value for both
+Baseline and the specific post-Baseline observation time-point are summarized
+
+fold) as second-line treatment and finally the
+addition of omalizumab, cyclosporin, or montelukast to the  second-generation H1antihistamines as third-line treatment.’* Many
+CSU patients in the study received treatments or
+combinations of treatments not recommended by
+the 2013 EAACI/GA?LEN/EDF/WAO guideline™*
+(classified in the study as “Other") or received
+
+steroids for prolonged periods pointing to the
+possibility of non-adherence to treatment guidelines in a significant subset of patients in the realworld setting. A recent study from Taiwan
+showed that most CSU patients were unsatisfied
+with their current treatment as can be expected
+with sub-optimal treatment.2® Reports from
+around the world also point to the fact that the
+10
+http://doi.org/10.1016/j.waojou.2020.100117
+
+180
+
+a) |
+
+= 160 4
+
+& 140 +
+
+® 120 + 400
+
+= 100 |
+
+> 80} 58
+
+® 60 +4 43 42
+
+et » Ek
+
+5
+
+-m
+CSU Total With angioedema Without
+(m=826) (m=371) angioedema
+
+(m=455)
+Month 12
+
+Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+165
+
+75
+72 63
+
+CSU Total With angioedema Without
+(m=717) (m=328) angioedema
+(m=389)
+Month 24
+
+™ Patients asymptomatic without treatment
+= Patients achieving spontaneous remission*
+= Remission patients experiencing a recurrence of disease**
+
+Fig. 4 Disease Status, Spontaneous Remission* and Recurrence of CSU** at Month 12 and 24. * spontaneous remission, defined as
+complete remission of signs and symptoms of CU for a period longer than 6 months as collected in the eCRF. ** recurrence of disease,
+defined as those patients who achieved spontaneous remission before experiencing a recurrence of their symptoms or receiving treatment.
+Percentages (%) are based on the number of patients in the full analysis set with disease status available at the observation time-point of
+
+interest (m) for each respective group of interest
+
+management of CSU in real-world settings may not
+sufficiently comply with guidelines.2°??:27
+Prolonged use of SGC, and use of sgAH (either
+as monotherapy or in combination) in CSU
+patients for duration exceeding that
+recommended by guidelines and relatively high
+proportions of patients on fgAH in the AMAC
+region confirms that better awareness of
+treatment guidelines is required.
+
+Disease severity was assessed using the PhyGAVAS. Patients with the highest mean PhyGA-VAS
+scores were frequently not on treatment at the
+time of the PhyGA-VAS assessment. This could
+indicate that their previous treatment was highly
+effective, or, that there was disease disappearance, or, spontaneous remission. At Month 24,
+spontaneous remission had occurred in nearly
+20% of CSU patients, and only 1.5% of CSU patients had relapsed after spontaneous remission.
+The rate of spontaneous remission must be seen
+in view of the fact that 135 CSU patients were lost
+to follow-up, implying the exact rate of spontaneous remission might have been higher. The rate
+of spontaneous remission in this study is low
+compared to the literature-reported rate of 30%50%.°
+
+The current study provides a reflection of
+clinical treatment practices in a real-world practice setting in the included countries. The data
+
+are from a well-designed study in a large cohort
+of patients who were followed up for up to 24
+months, thus offering significant scope for
+recognizing trends in treatment over time, and
+not just a snapshot of clinical practice at a specific time point. This is especially important, as
+the data come from a region of the world where
+scant data about CU treatment in real world
+practice are published.
+
+The study had a few limitations. The only inclusion criteria applied, next to the patient providing
+informed consent and age >18 years, were a
+medically confirmed diagnosis of CU with symptoms of more than 2 months, and signs and/or
+symptoms of CU that were not adequately
+controlled by at least 2 weeks treatment with H1AHs. It is also worth noting that the presentation
+of symptoms of CU may lead to visits to physicians,
+and by extension it is possible for patients not
+experiencing symptoms being either lost to followup or not being assessed at certain timepoints.
+Thus, outcomes may be affected due to the
+missing data from this subset of patients. As is
+generally the case with non-interventional studies,
+no explicit exclusion criteria apart from simultaneous participation in an interventional clinical
+study were applied. There was no set visit
+schedule, therefore the number of assessment
+points fluctuated during the study. Patients
+Volume 13, No. 4, Month 2020
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Actual value at) Actual Value At} Change | Actual value at| Actual Value at) Change
+Baseline Month 12 from BL Baseline Month 24 from BL
+Total score
+n 382 382 382 270 270 270
+Mean 10.8 (6.84) 4.8 (5.40) —6.0 (7.76)| 11.1 (6.75) 4.0 (6.02) —7.2 (8.26)
+(SD)
+95% Cl 10.1, 11.5 4.3, 5.3 —6.8, —5.2 10.3, 11.9 3.2, 4.7 —8.1, —6.2
+Symptoms and feelings
+n 383 383 383 270 270 270
+Mean 3.1 (1.67) 1.5 (1.49) —1.6 (2.18) 3.3 (1.61) 1.3 (1.60) —2.0 (2.21)
+(SD)
+95% Cl 3.07.3:3 1.4, 1.7 -1.9, -1.4 3A 1.1, 1.5 =2.2, —1.7
+Daily activities
+
+n 383 383 383 270 270 270
+
+Mean 2.3 (1.81) 0.9 (1.36) —1.5 (2.00 2.5 (1.81) 0.9 (1.43 —1.6 (2.19)
+
+95% Cl 2.2,2.5 0.8, 1.0 —1.7, -1.3 2.2, 2.7 0.7, 1.1 —1.8, —1.3
+
+Leisure
+
+n 382 382 382 270 270 270
+
+Mean 1.7 (1.66) 0.7 (1.24 —1.0 (1.91 1.8 (1.67) 0.6 (1.32 —1.2 (2.05)
+
+95% Cl Les 1? 0.6, 0.9 —1.2, —0.8 1.6, 2.0 0.5, 0.8 —1.4, -1.0
+
+Work and school
+
+n 382 382 382 270 270 270
+
+Mean 1.3 (1.21) 0.9 (1.21 —0.4 (1.63 1.3 (1.21) 0.4 (0.86 —0.8 (1.36)
+
+95% Cl 1.2, 1.4 0.8, 1.0 —0.5, —0.2 1.1, 1.4 0:3,05 —1.0, —0.7
+
+Personal relationships
+n 382 382 382 270 270 270
+Mean 1.4 (1.63) 0.5 (1.05 —0.9 (1.62 1.4 (1.63) 0.4 (1.17 —1.0 (1.64)
+(SD)
+95% Cl 1.2, 1.5 0.4, 0.6 —1.1, —0.7 276 0.3, 0.6 —1.2, —0.8
+Treatment
+n 382 382 382 270 270 270
+Mean 0.9 (0.96) 0.3 (0.63) —0.6 (1.04) 0.9 (0.97) 0.3 (0.69) —0.6 (1.10)
+(SD)
+
+95% Cl 0.8, 1.0 0.2, 0.4 —0.7, —0.5 0.8, 1.0 0.2, 0.4 —0.8, —0.5
+Table 4. Quality of life (DLO!) during the Study in CSU patients. a. Baseline value only for the subgroup of patients who had an evaluable value at
+Month 12. b. Baseline value only for the subgroup of patients who had an evaluable value Month 24
+enrolled in this study might be more severe than products, but assessed how patients with HRCU
+
+the usual CU patients, as the inclusion criteria
+requested that patients were willing to be followed
+up for 2 years.
+
+The primary aim of AWARE-AMAC was to collect
+real-world evidence on disease burden and treatment patterns in patients with HRCU. This goal was
+achieved by evaluating more than 900 patients
+across 14 AMAC countries. Although patients with
+CINDU were also included in the study, this manuscript focuses on patients with a diagnosis of CSU.
+The study did not scrutinize specific medicinal
+
+were currently treated in the AMAC region. Over the
+24-month study period, the proportion of patients
+with self-reported improved QoL increased. This
+was mirrored by positive developments in disease
+control. Prolonged use of systemic steroid monotherapy, beyond the recommended guidelines for
+steroid use, was also observed in the region. The
+non-guideline-recommended "Other" treatment
+class was used in a considerable proportion of patients. Treatment escalation from the first- and
+second-line guideline-recommended treatments of
+12 Chu et al. World Allergy Organization Journal (2020) 13:100117
+
+http://doi.org/10.1016/j.waojou.2020.100117
+
+sgAH was mostly performed via OMA, with other
+third-line treatments being used less frequently.
+These findings suggest limited adherence to
+guidelines and highlights the need for better
+awareness of the guidelines.
+
+CONCLUSIONS
+
+The AWARE-AMAC study shed light on realworld practice regarding the diagnosis and
+management of CU in >900 patients for 24
+months from the AMAC countries for the first
+time. In the AMAC region, patients were similar
+to those in other regions from a demographic
+perspective, and there were a similar percentage
+of patients with CSU + angioedema compared to
+other regions. Yet the AMAC region had a higher
+percentage of patients with comorbid CINDU
+than other regions. In the AMAC region, limited
+adherence to CU management guidelines was
+observed which highlights the need for better
+awareness of the guidelines. In this study there
+was a low percentage of spontaneous remission
+which might be due to high number patients lost
+to follow-up. The majority of patients had escalation of therapy over the treatment period
+mostly to omalizumab. There was improvement
+in disease control reflected in increase QoL
+scores.
+
+Abbreviations
+
+AMAC: Asia Middle East and Africa; CU: Chronic urticaria;
+CSU: Chronic spontaneous urticarial; CINDU: Chronic
+inducible urticarial; CsA: Cyclosporine A; DLOI: Dermatology Life Quality Index; fgAH: First-generation antihistamines monotherapy, or in combination with sgAH; GCP:
+Good Clinical Practice; H1-AH: H1-antihistamines; HROQoL:
+Health-related quality of life; HRCU: H1-antihistamines refractory chronic urticarial; OMA: Omalizumab monotherapy, or in combination with any H1-AH, with or without
+steroids; MONT: Montelukast monotherapy, or in combination with any H1-AH; PhyGA-VAS: Physician Global
+Assessment of disease control-visual analog scale; PRO:
+Patient-reported outcomes; QoL: Quality of life; SD: Standard deviation; sgAH: Second-generation antihistamines
+monotherapy approved dose: once daily or as needed;
+sgAHUP: Updosed second-generation H1-AH; SGC: Systemic glucocorticosteroids monotherapy, or in combination with any H1-AH; UAS7: 7-day Urticaria Activity Score
+
+ 
+
+ 
+
+ 
+
+Author contributions
+
+All authors contributed to the design and conduct of the
+trial, and read and approved the final manuscript and its
+submission.
+
+Funding
+This study was funded by Novartis Pharma AG, Switzerland.
+
+Ethics approval and consent to participate
+
+The study protocol was approved by the institutional
+review board of each participating center. The trial was
+conducted in accordance with the Declaration of Helsinki
+and Good Clinical Practice (GCP) and in compliance with
+all federal, local, or regional requirements. The AWAREAMAC study was sponsored by Novartis Pharma AG, who is
+also the manufacturer of omalizumab. Informed consent
+was obtained from all participants. All data provided are
+anonymized to respect the privacy of patients who have
+participated in the trial in line with applicable laws and
+regulations.
+
+Consent for publication
+The authors provide their consent for the publication of the
+study results.
+
+Data availability
+
+The datasets generated during and/or analyzed during the
+current study are not publicly available. Novartis is
+committed to sharing with qualified external researchers,
+access to patient-level data, and supporting clinical documents from eligible studies. These requests are reviewed
+and approved by an independent review panel on the
+basis of scientific merit.
+
+Declaration of Competing Interest
+
+CY. Chu is a clinical trial investigator for Novartis; has
+received travel support and consulting fees from Novartis,
+and payment for lectures from Menarini and Novartis.
+Kanokvalai Kulthanan has been an educational speaker for
+MSD and Menarini, and a clinical trial investigator for
+Novartis. S. Malfait, K. Cooke, and E.L. Dekker are
+employees of Novartis Pharma AG, Basel, Switzerland. S
+Crowe is an employee of Novartis Ireland Ltd, Dublin,
+Ireland. Other authors declare no relevant competing
+interests.
+
+Acknowledgements
+
+The authors are grateful to the investigators and patients
+who participated in this study for their contribution to this
+study. The authors acknowledge K M Ashwini Kumar
+(Novartis Healthcare Pvt Ltd, India) and Sumeet Sood
+(Novartis Healthcare Pvt Ltd, India) for editorial and writing
+support, in accordance with the Good Publication Practice
+(GPP3) guidelines (http://www.ismpp.org/gpp3).
+
+Author details
+
+“Department of Dermatology, National Taiwan University
+Hospital and National Taiwan University College of
+Medicine, Taipei, Taiwan. ’Dermatology Center, Dubai
+Health Authority, Dubai, United Arab Emirates. “Clinical
+Immunology, Angioedema and Allergy Department, z
+Center for Autoimmune Diseases, Sheba Medical Centre,
+Ramat Gan, Israel. (Department of Dermatology,
+Hacettepe University, Ankara, Turkey. “Dermatology
+
+ 
+Volume 13, No. 4, Month 2020
+
+Department, Faculty of Medicine, Benha University, Cairo,
+Egypt. ‘Department of Medicine, King Faisal Specialist
+Hospital and Research Centre, Riyadh, Saudi Arabia.
+SDivision of Dermatology, Faculty of Medicine and Health
+Sciences, Stellenbosch University, Cape Town, South
+Africa. "Department of Dermatology, Faculty of Medicine,
+Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+‘Armed Forces Hospital, Royal Army of Oman, Muscat,
+Oman. ‘Allergy, Asthma & Immunology Center Specialty
+Clinics Center, Beirut, Lebanon. “Novartis Ireland Limited,
+Dublin, Ireland. 'Novartis Pharma AG, Basel, Switzerland.
+
+REFERENCES
+
+ie
+
+10.
+
+11.
+
+12.
+
+Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical
+needs in chronic spontaneous urticaria. A GA(2)LEN task force
+report. Allergy. 2011;66:317-330.
+
+. Buss YA, Garrelfs UC, Sticherling M. Chronic urticaria-which
+
+clinical parameters are pathogenetically relevant? A
+retrospective investigation of 339 patients. J Dtsch Dermatol
+Ges. 2007;5:22-29.
+
+. Curto-Barredo L, Riba Archilla L, Roura Vives G, Pujol RM,
+
+Gimenez-Arnau AM. Clinical features of chronic
+spontaneous urticaria that predict disease prognosis and
+refractoriness to standard treatment. Acta Derm Venereol.
+2018;98:641-647.
+
+. Maurer M, Ortonne JP, Zuberbier T. Chronic urticaria: a patient
+
+survey on quality-of-life, treatment usage and doctor-patient
+relation. Allergy. 2009;64:581-588.
+
+. Vietri J, Turner SJ, Tian H, Isherwood G, Balp MM, Gabriel S.
+
+Effect of chronic urticaria on US patients: analysis of the
+National Health and wellness survey. Ann Allergy Asthma
+Immunol. 2015;115:306-311.
+
+. Kim BR, Yang S, Choi JW, Choi CW, Youn SW. Epidemiology
+
+and comorbidities of patients with chronic urticaria in Korea: a
+nationwide population-based study. J Dermatol. 2018;45:1016.
+
+. Chu CY, Cho YT, Jiang JH, Lin El, Tang CH. Epidemiology and
+
+comorbidities of patients with chronic urticaria in Taiwan: a
+nationwide population-based study. J Dermatol Sci. 2017;88:
+192-198.
+
+. Sanchez-Borges M, Asero R, Ansotegui IJ, et al. Diagnosis and
+
+treatment of urticaria and angioedema: a worldwide
+perspective. World Allergy Organ J. 2012;5:125-147.
+
+. Balp M, Chambenoit O, Chiva-Razavi S, et al. Work productivity
+
+and activity impairment among chronic spontaneous/
+idiopathic urticaria patients: Results from the first international
+burden of illness study (Assure-Csu). Value Health. 2015;18:
+A427.
+
+Maurer M, Abuzakouk M, Berard F, et al. The burden of chronic
+spontaneous urticaria is substantial: real-world evidence from
+ASSURE-CSU. Allergy. 2017;72:2005-2016.
+
+Barbosa F, Freitas J, Barbosa A. Chronic idiopathic urticaria
+and anxiety symptoms. J Health Psychol. 2011;16:1038-1047.
+
+Sussman G, Abuzakouk M, Bérard F, et al. Angioedema in
+chronic spontaneous urticaria is underdiagnosed and has a
+substantial impact: analyses from ASSURE-CSU. Allergy.
+2018;73:1724-1734.
+
+13.
+
+14.
+
+15.
+
+16.
+
+Zs
+
+18.
+
+19:
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+13
+
+Choi WS, Lim ES, Ban GY, et al. Disease-specific impairment
+of the quality of life in adult patients with chronic spontaneous
+urticaria. Korean J Intern Med. 2018;33:185-192.
+
+Zuberbier T, Aberer W, Asero R, et al. European academy of
+jallergy and clinical immunology; global allergy and asthma
+European network; European Dermatology forum; World
+allergy organization. The EAACI/GA(2) LEN/EDF/WAO
+guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update.
+Allergy. 2014;69:868-887.
+
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA?LEN/
+EDF/WAO guideline for the definition, classification, diagnosis
+and management of urticaria. Allergy. 2018;73:1393-1414.
+
+Zuberbier T, Asero R, Bindslev-Jensen C, et al. Dermatology
+section of the European academy of allergology and clinical
+immunology; global allergy and asthma European network;
+European Dermatology forum; World allergy organization.
+EAACI/GA(2)LEN/EDF/WAO guideline: definition,
+classification and diagnosis of urticaria. Allergy. 2009;64:14171426.
+
+Zuberbier T, Bindslev-Jensen C, Canonica W, et al. EAACI/
+GA2LEN/EDF. EAACI/GA2LEN/EDF guideline: definition,
+classification and diagnosis of urticaria. Allergy. 2006;61:316320.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria
+despite standard combination therapy. J Allergy Clin Immunol.
+2013;132:101-109.
+
+van den Elzen MT, van Os-Medendorp H, van den Brink |, et al.
+Effectiveness and safety of antihistamines up to fourfold or
+higher in treatment of chronic spontaneous urticaria. Clin
+Transl Allergy. 2017;7:4.
+
+Weller K, Viehmann K, Brautigam M, et al. Management of
+chronic spontaneous urticaria in real life-in accordance with
+the guidelines? A cross-sectional physician-based survey
+study. J Eur Acad Dermatol Venereol. 2013;27:43-50.
+
+Cherrez A, Maurer M, Weller K, Calderon JC, SimancasRacines D, Cherrez Ojeda |. Knowledge and management of
+chronic spontaneous urticaria in Latin America: a crosssectional study in Ecuador. World Allergy Organ J. 2017;10:21.
+
+Rimoldi M, Rossi O, Rota N. State of the art of chronic
+spontaneous urticaria in Italy: a multicentre survey to evaluate
+physicians’ and patients' perspectives. BMJ Open. 2016;6,
+012378.
+
+Itakura A, Tani Y, Kaneko N, Hide M. Impact of chronic urticaria
+on quality of life and work in Japan: results of a real-world
+study. J Dermatol. 2018;45:963-970.
+
+Alzahrani NS, alshammari MA, Alshaer ZA, et al. Chronic
+idiopathic urticaria impacts on patients’ quality of life, in Saudi
+Arabia. Int J Sci Eng Res. 2017;8:11.
+
+Maurer M, Rosén K, Hsieh HJ. Omalizumab for the treatment of
+chronic idiopathic or spontaneous urticaria. N Engl J Med.
+2013;368:924-935.
+
+Casale TB, Bernstein JA, Maurer M, et al. Similar efficacy with
+omalizumab in chronic idiopathic/spontaneous urticaria
+despite different background therapy. J Allergy Clin Immunol
+Pract. 2015;3:743-750.
+
+Maurer M, Houghton K, Costa C, et al. Differences in chronic
+spontaneous urticaria between Europe and Central/South
+14
+
+28.
+
+Chu et al. World Allergy Organization Journal (2020) 13:100117
+http://doi.org/10.1016/j.waojou.2020.100117
+
+America: results of the multi-center real world AWARE study.
+World Allergy Organ J. 2018;11:32.
+
+Cho YT, Pao YC, Chu CY. Unmet medical needs for chronic
+spontaneous urticaria patients: highlighting the real-life clinical
+
+practice in Taiwan. J Eur Acad Dermatol Venereol. 2016;30:4149.
+

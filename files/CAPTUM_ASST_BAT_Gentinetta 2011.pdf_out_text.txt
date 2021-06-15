@@ -1,0 +1,1614 @@
+Atopic dermatitis and skin disease
+
+Individual IL-3 priming is crucial for consistent in vitro
+activation of donor basophils in patients with chronic
+urticaria
+
+Thomas Gentinetta, MSc,” Tatjana Pecaric-Petkovic, PhD,*” Daniel Wan, BSc,° Franco H. Falcone, PhD,°
+Clemens A. Dahinden, MD,? Werner J. Pichler, MD,?”° and Oliver V. Hausmann, MD? Bern, Switzerland, and Nottingham,
+United Kingdom
+
+Background: The in vivo autologous serum skin test (ASST) is
+the diagnostic gold standard to detect autoantibodies against Abbreviations used
+
+FceRI or IgE itself, as well as other autoreactive serum ASST: Autologous serum skin test
+components, in patients with chronic spontaneous urticaria
+(CU). Coincubation of patient sera with donor basophils and
+measuring their degranulation in vitro could be a safe
+alternative but has shown inconsistent results.
+
+Objective: Optimization of the basophil activation test to detect
+autoreactive serum components in patients with CU.
+
+Methods: The ability of patient sera to induce CD63 and
+CD203c in donor basophils (n = 15) was measured by means of
+flow cytometry. Sera of 20 patients with CU (10 with positive
+ASST results), 15 patients with cold urticaria, and 27 healthy
+
+BAT: Basophil activation test
+CU: Chronic spontaneous urticaria
+fMLP: N-formyl-methionyl-leucyl-phenylalanine
+
+ 
+
+Chronic spontaneous urticaria (CU) is defined as recurrent
+and transitory episodes of hives without an obvious cause
+present for more than 6 weeks. The quality of life of patients
+with CU is comparable with that of patients with 3-vessel
+control subjects were included to optimize test conditions with coronary artery disease awaiting bypass grafting.! The Galiss. OF
+donor basophils and a basophil cell line (RBL703/21) followed CU is heterogeneous, and in up to 80% of patients, a cause canby testing of 110 consecutive patients from clinical routine. not be identified.2 Therefore current guidelines for the diagnosis
+Results: We demonstrate that individual 1-3 priming of CU® still recommend the in vivo autologous serum skin test
+normalized the initially inconsistent basophil reactivity and led (ASST) to define a CU subgroup as having “autoreactive urtito reproducible and comparable test results irrespective of the caria.” Several groups identified IgG autoantibodies against
+basophil donors used. CD203c as an activation marker and the ine | subunit of the igh-affinity IgE receptor (FceRIa) or IgE
+use of a basophil cell line were less suitable for this purpose. itself in a subpopulation of patients with CU2-+8 These autoanConclusion: The basophil activation test with individualized tibodies might lead to mast cell or basophil degranulation, with
+13 prem, for each basophil donor is a reproducible and release of histamine and other allergic mediators. However, their
+reliable alternative to the ASST. There are several advantages relevance in the pathogenesis of CU remains controversial” The
+over the ASST: no risk of accidental infection, no influence of ASST requires freshly prepared serum samples, and antihista
+antihistamines on the test result, quantifiable results, and a mine treatment has to be stopped before testing. Interpretation
+potential in providing treatment monitoring. The exact nature is sometimes difficult, especially if a pronounced dermogra
+of the degranulating factor or factors in patient sera remains an phism is present, with reports on the percentage of positive
+open question. (J Allergy Clin Immunol 2011;128:1227-34.) ASST results in the range of 4% to 76% of all patients with
+CU tested.!! Furthermore, there are ethical concerns or even legal prohibitions to inject serum into patients because of the risk
+of accidental infection. Therefore several attempts have been
+made to develop sensitive and specific in vitro tests for the detection of anti-FceRIa and anti-IgE antibodies in sera of patients
+with CU. ELISA-based tests did not discriminate between the
+low-affinity irrelevant antibodies occurring in most subjects
+
+ 
+
+Key words: Autoantibodies, autologous serum skin test, basophil
+activation test, CD203c, CD63, chronic urticaria, flow cytometry,
+IgE receptor, IL-3
+
+ 
+
+From “the Department of Rheumatology, Clinical Immunology and Allergology, Inselspital, University Bern; "ADR-AC GmbH, Bern; “the School of Pharmacy, University
+
+: Lodi ah hi sq, 010,12
+of Nottingham; and “the Institute of Immunology, Inselspital, University Bern. and functionally relevant autoantibodies with high affinity.
+Disclosure of potential conflict of interest: The authors have declared that they have no Therefore the basophil histamine release test or basophil activaponticholsnterest, tion test (BAT) with healthy donor basophils was investigated
+Received for publication March 15, 2011; revised July 4, 2011; accepted for publication . . .
+July 15, 2011. for their potential to detect the autoreactive serum compoAvailable online September 8, 2011. nents,'*"'® and some of these tests are already commercially
+
+Corresponding author: Oliver V. Hausmann, MD, Department of Rheumatology, Clinical available (CU Index test, IBT Laboratories, Lenexa, Kan;
+
+Immunology and Allergology, Freiburgstrasse 10, Bern 3010, Switzerland. E-mail: Anti-IgE Receptor Ab, ADx Laboratories, Denver, Colo; HRcostanteseon ts Urticaria Test,!® RefLab, Copenhagen, Denmark). Unfortu© 2011 American Academy of Allergy, Asthma & Immunology nately, a high interlaboratory variability, most probably because
+doi: 10.1016/j,jaci.201 1.07.021 of donor-to-donor variability, has been reported.”
+
+1227
+1228 GENTINETTA ET AL
+
+J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+TABLE I. Summary of basophil donor characteristics in regard to individual IL-3 concentration and expected values for positive controls
+
+ 
+
+ing as internal validation
+Donor ID Sex Age (y) Atopy status
+1 M 26 No
+2: M 35 Yes
+3 M 27 Yes
+5 F 58 No
+6 F 26 No
+ri F 39 No
+9 13} 8b) Yes
+10 M 36 No
+13 M 25 No
+14 M 34 No
+15 1s 53 No
+
+algE (100 ng/mL)
+
+CD63 upregulation (%)
+fMLP (1.5 ng/mL)
+
+Optimal IL-3 concentration (ng/mL)
+
+S227 8a) SL D216: 10
+47.3 + 7.6 D1 ict 3.5 —
+69.4 + 4.6 48.3) 2°33) 1
+38.6 2 7.2 10.2h 15 10
+49.0 + 3.6 18.8 + 2.6 10
+69.5 675 48.1 + 2.8 1
+3351 £82 20254 13 0.1
+25.1 + 6.8 10.1 3.2, 0.1
+57.3 + 4.9 Su) e i ae ah 7! 1
+18.8:225:7 43.1 + 6.5 10
+478 +74 LI Eases ahr) 10
+
+Basophil donors 4, 8, 11 and 12 were nonresponders to the IgE-dependent positive control (algE). Data are presented as the percentage of CD63* basophils (means + SEMs).
+
+algE, Anti-IgE antibody; F, female; M, male.
+
+Additionally, the fact that several basophil donors are needed to
+establish the test for daily routine diagnostics has not been
+investigated in detail. Basophil cell lines have rarely been used in
+this respect and did not show consistent results when tested in the
+setting of atopic disease.”? There is only 1 report describing the
+use of humanized RBL cells to measure B-hexosaminidase release from heat-treated sera of patients with CU.'° More recently,
+Nakamura et al** demonstrated the toxicity of higher human serum concentrations for RBL SX-38 cells, which was in part because of complement activation.
+
+The main goal of this study focused on the BAT was to define the
+relevant parameters influencing test accuracy compared with that
+of the ASST as the current diagnostic gold standard. We systematically investigated different test conditions (cell separation and
+activation markers) and donor basophil characteristics (IL-3
+sensitivity and IgE receptor density). Here we present, for the
+first time, an optimized test procedure of the BAT in patients with
+CU as an open-source protocol suitable to be implemented into
+routine laboratory diagnostics whereby human donor basophils
+could not be replaced by the basophil cell line used in this study.
+
+METHODS
+Serum samples of patients and healthy control
+subjects
+
+Serum samples from 110 patients (67 women and 43 men; mean age, 42
+years; age range, 12-77 years) with CU, which is defined as the spontaneous
+appearance of typical skin lesions at least 3 times a week for a minimum of 6
+weeks without an identified cause, were recruited from our outpatient
+Department of Allergology in Bern, Switzerland. Patients with physical
+urticaria and urticarial vasculitis were excluded. Twenty-seven healthy
+subjects without urticaria (18 women and 9 men; mean age, 39 years; age
+range, 21-61 years) served as negative healthy control subjects. Additionally,
+we included 15 patients with cold urticaria (8 women and 7 men; mean age, 41
+years; range, 28-59 years) as a further control group. All serum samples were
+stored at —20°C. All patients provided informed consent, and the study was
+approved by the local ethics committee.
+
+ASST
+
+ASST was performed according to international consensus.** Briefly, 0.2
+to 0.3 mL of autologous serum, drawn and centrifuged immediately before
+testing, was injected intradermally (undiluted and 1:10) into the volar aspect
+of both forearms, avoiding skin areas affected within the last 24 hours.
+
+Histamine and codeine (2 mg/mL; Allergopharma AG, Hamburg, Germany)
+and normal saline served as positive and negative controls, respectively. Results were evaluated 30 minutes after injection and were considered positive
+if the wheal diameter exceeded the injection wheal by 1.5 mm and was accompanied by a flare reaction.
+
+Basophil donors
+
+We recruited 15 healthy basophil donors (8 women and 7 men; mean age,
+36 years; age range, 25-57 years; Table I). Five basophil donors were atopic
+based on history and skin test results to grass, weed, and birch pollen and house
+dust mites. Four were nonresponders lacking CD63 upregulation after stimulation with anti-IgE as a positive control; those donors were excluded from further analysis.
+
+FceRI density on the surface of donor basophils
+
+To determine the surface density of FceRI on donor basophils, we used
+QIFIKIT (Dako-Cytomation, Glostrup, Denmark) for quantitative flow
+cytometry, as described elsewhere.”°
+
+BAT
+
+All reagents were from Sigma-Aldrich (Buchs, Switzerland) unless stated
+otherwise. PBMCs were isolated from fresh heparinized peripheral blood by
+means of density gradient centrifugation and resuspended in assay medium
+(RPMI-1640, 1 mmol/L CaCh, | mmol/L MgCh, and 1% BSA) to a final concentration of 5 X 10° cells/mL. An individual concentration of IL-3 was added
+for each basophil donor. One hundred microliters of cells resuspended in the appropriate IL-3 medium was incubated with either 100 L of patient serum or
+100 wL of a healthy control serum for 30 minutes at 37°C. Anti-IgE (100 ng/
+mL; Beckman Coulter, Marseille, France) and assay medium served as positive
+and negative controls, respectively. In some experiments basophils were stimulated with N-formy|-methiony]l-leucyl-phenylalanine (fMLP; 2.5 nmol/L) as
+an additional IgE-independent positive control. The cells were stained with
+anti-CCR3-allophycocyanin, anti-CD63-fluorescein isothiocyanate, and
+anti-CD203c—phycoerythrin, all of which were from BioLegend (San Diego,
+Calif), for 20 minutes at 4°C. Cells were washed in CellWASH and fixed
+with 1% paraformaldehyde. Basophils were acquired according to their granularity and CCR3 expression*® on a FACSCanto. CD63 and CD203c served as
+activation markers and were expressed as the percentage of activated basophils.
+
+Characterization of IL-3 sensitivity in donor
+basophils
+
+To define the IL-3 sensitivity of a given basophil donor, we prepared
+different assay media with varying IL-3 concentrations (10-0.1 ng/ml
+J ALLERGY CLIN IMMUNOL
+VOLUME 128, NUMBER 6
+
+BioLegend) or without IL-3 for the subsequent BAT. The criteria to determine
+the optimal IL-3 concentration for a given basophil donor were that healthy
+control sera led to less than 5% upregulation of CD63 and optimal basophil
+reactivity with positive controls.
+
+Basophil cell line
+
+The human FceRI-transfected RBL cell line RBL-703/21 was generated at
+Paul-Ehrlich-Institut (Langen, Germany)’ and cultured in RPMI-1640 medium (Lonza, Switzerland) supplemented with 2 mmol/L L-glutamine (Gibco
+[now Life Technologies], Carlsbad, Calif), 5% neonatal heat-inactivated calf
+serum (Sigma-Aldrich), and | mg/mL geneticin sulfate (G-418; SigmaAldrich). The cells were cultured at 37°C in a 5% CO, atmosphere. RBL
+cell lines were harvested for use on reaching 85% to 95% confluence.
+
+B-Hexosaminidase release assay
+
+The B-hexosaminidase assay was performed as described by Vogel et al,””
+with some modifications. All reagents were from Sigma-Aldrich unless stated
+differently. RBL-703/21 cells were harvested by using 1 X trypsin-EDTA solution, resuspended in the growth medium described above, seeded into Nunc
+96-well cell-culture plates at 1.5 X 10° cells per well with or without sensitization with purified monoclonal human IgE (AbD Serotec, Oxford, United
+Kingdom), and grown overnight at 37°C in a 5% CO atmosphere. The following day, the cells were washed twice with modified Tyrode buffer with 10
+mmol/L CaCl, (Thermo Fisher Scientific, Loughborough, United Kingdom)
+and | g/L BSA adjusted to pH 7.45 with NaOH. Cells were stimulated with
+100 wL of allergen challenge buffer, a mixture of 50% modified Tyrode buffer
+and 50% deuterium oxide (vol/vol) containing different dilutions of patient or
+control serum. Total B-hexosaminidase release was determined by comparison
+with cells treated with lysis buffer (0.5% Triton X-100). Cells treated with
+1 pg/mL A23187 (Enzo Life Sciences, Farmingdale, NY) together with phorbol 12-myristate 13-acetate (10 wmol/L) or | pg/mL polyclonal goat anti-IgE
+(Vector Laboratories, Burlingame, Calif) in allergen challenge buffer were
+used as positive degranulation controls. Colorimetric quantification of B-hexosaminidase activity was performed as described by Vogel et al.7’
+
+Detection of IL-3 in sera
+
+Detection of IL-13 was done according to the manufacturer’ s protocol with
+the human IL-3 Flex Set (BD Cytometric Bead Array; BD, Franklin Lakes,
+NJ). Flow cytometric analysis was performed with a FACSCanto.
+
+Statistical analysis
+
+Data analysis was performed with FlowJo (version 9.2; Tree Star, Inc,
+Ashland, Ore) and Prism 5.0 (GraphPad Software, Inc, La Jolla, Calif)
+software. The 2-tailed Mann-Whitney test was applied, where appropriate.
+Correlations were analyzed by using the nonparametric Spearman test.
+Receiver operating characteristic curve analysis was performed to calculate
+the optimum cutoff value. P values of less than .05 were considered
+significant.
+
+RESULTS
+BAT with basophils of a single donor coincubated
+with different sera
+
+As a proof of concept and according to the literature,'*"'* basophils of 1 randomly selected donor were coincubated with patient
+sera (n = 67, 16 with positive ASST results) and healthy control
+sera (n = 27), and CD63 upregulation was measured. In these donor basophils sera from patients with CU with positive ASST results induced a median CD63 upregulation of 15.7% + 7.4% (+
+SEM) compared with 3.7% + 1.15% in sera from patients with
+CU with negative ASST results and 1.1% + 0.15% in healthy
+
+GENTINETTA ET AL 1229
+
+r=)
+Ss
+
+n= 11 basophil donors
+
+oe
+S
+
+fon
+So
+
+ 
+
+&
+So
+
+ 
+
+ 
+
+ 
+
+N
+So
+
+ 
+
+ 
+
+ 
+
+% degranulated basophils (% CD63?°S cells)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASST"? Serum ASST? Serum
+
+HC Serum
+
+Pat ID: 205 Pat ID: 222 Donor: 7
+
+FIG 1. High variability of basophil activation under suboptimal IL-3 conditions. Basophils derived from 11 different healthy donors were coincubated
+with 2 patient sera (1 with a positive ASST result [ASST°°S)) or serum from a
+healthy volunteer under standard IL-3 conditions (1 ng/mL). Data are
+presented as a percentage of CD63” basophils for each basophil donor.
+ASST"*9, Negative ASST result; ASST?°®, Positive ASST result; HC, healthy
+control.
+
+control sera (see Fig El] in this article’s Online Repository at
+www.jacionline.org).
+
+Individual basophil response in different basophil
+donors
+
+Several basophil donors are needed to establish the test for
+routine diagnostics. Sera of 2 representative patients and
+1 healthy control subject were each coincubated with 11
+different basophil donors to ensure test reproducibility (Fig 1).
+We observed a high interindividual variability of BAT results between the different basophil donors with limited correlation to
+the respective ASST result and, even more disturbing, falsepositive results in certain basophil donors if coincubated with
+healthy control serum.
+
+The mean IgE receptor (FceRI) density of each basophil donor
+had no influence on the degree of basophil degranulation (see Fig
+E2 in this article’s Online Repository at www.jacionline.org) and
+was therefore not responsible for the observed discrepancy.
+
+It is well known that basophil reactivity is enhanced by IL-37*;
+however, its concentration in the tested sera of patients and basophil donors is low (<5 pg/mL, see Fig E3 in this article’s Online
+Repository at www.jacionline.org). In IL-3 titration experiments
+we could demonstrate an individual IL-3 sensitivity of each basophil donor. All tests were initially performed in the presence of the
+standard IL-3 concentration of 1 ng/mL. The standard IL-3 concentration of 1 ng/mL led to false-positive results with healthy
+control sera in certain basophil donors (Fig 2, A).
+
+Individual basophil priming with IL-3 is crucial
+To define an optimal IL-3 concentration for each basophil
+donor, avoiding false-positivity, we used 10 healthy control sera
+1230 GENTINETTA ET AL
+
+Co-incubation with 10 HC sera
+
+ 
+
+ 
+
+A
+1007 Basophil Donor | 1007 Basophil Donor 9
+a |
+Sie OO] * Se
+32 x 32
+23 23
+2. 6 ce
+a6 * 26
+s
+3 20 3
+x a x
+pL yg Abo an" cgyer
+10 1 0.1 =
+PEE
+IL-3 (ng/ml)
+Stimulation with positive controls
+B in all basophil donors
+100 anti-IgE (100ng/ml) Se fMLP (2.5nM)
+a FI
+..™ A
+22 2
+Fe & 60: 2
+Bs z
+ES z
+BA 40 =
+=O =
+Bs é
+2 £ 2 2
+x x
+10 1 0.1
+(ee ae
+IL-3 (ng/ml) IL-3 (ng/ml)
+
+ 
+
+IL-3 (ng/ml)
+
+ 
+
+J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+Basophil Donor 2
+
+% degranulated basophils
+
+ 
+
+IL-3 (ng/ml)
+
+Co-incubation with
+cold urticaria sera
+
+a
+i=]
+
+100: 100:
+
+medium alone Basophil Donor |
+
+    
+
+F| Z
+
+= 2
+
+227 Zz a7
+
+23 23»
+
+Z2e. Be
+
+ga" #9"
+
+25 26
+
+ge 10: gx 10:
+
+ee es
+
+3 5: 3 5 ©9
+
+< & e 20900
+
+xs 8 8 x —*g90e—
+
+0 0
+
+i 1 Ol cold urticaria sera
+a IL-3 (10 ng/ml)
+IL-3 (ngml)
+
+FIG 2. IL-3 priming is crucial for consistent in vitro basophil activation. A, Coincubation of basophils with
+healthy control (HC) sera (n = 10) using different IL-3 concentrations (10, 1, and 0.1 ng/mL IL-3 or without
+IL-3) and assessment of CD63 upregulation. Positive controls (anti-IgE; 100 ng/mL) are indicated as asterisks.
+Data of 3 representative basophil donors are shown. B and C, CD63 upregulation under different IL-3 concentrations on stimulation with positive controls (anti-lgE and fMLP) or with medium alone. Data of 11 different basophil donors are shown. D, Coincubation of basophils from donor 1 with sera from a patient with
+CU (n = 15) under optimal IL-3 priming conditions (10 ng/mL).
+
+(Fig 2, A) and IgE-dependent (anti-IgE) and IgE-independent
+(fMLP) stimuli (Fig 2, B). As expected, anti-IgE elicited
+IL-3-sensitive basophil degranulation characteristics, whereas
+IgE-independent stimuli ((MLP) were independent of the IL-3
+concentration used. Importantly, there was no unspecific upregulation of CD63 with IL-3 alone (Fig 2, C). Under optimal IL-3
+concentrations, neither healthy control sera nor sera of patients
+with cold urticaria elicited basophil activation (<5.1%; median,
+2.5% + 0.4%).
+
+If the individual basophil priming with IL-3 was optimized for
+each basophil donor, testing with the defined patient sera mentioned above resulted in an improved interassay agreement
+irrespective of the basophil donor used. The results are shown
+for the patients with negative ASST results (Fig 3, A and B) and
+the patients with positive ASST results (Fig 3, C and D)
+separately.
+
+Intraindividual variability of basophils over time
+We further investigated the variability of IL-3 sensitivity and
+basophil degranulation characteristics over time within a given
+basophil donor. Therefore we stimulated basophils from several
+donors with sera from healthy control subjects, with sera from
+
+patients with CU, and with unspecific stimuli in July (middle of
+the grass pollen season) and October (out of the pollen season).
+There were slight but insignificant fluctuations in basophil
+reactivity over time, with comparable results at the 2 time points
+for patient and healthy control sera (Fig 4, Table II, and see Fig E4
+in this article’s Online Repository at www.jacionline.org). Only
+on anti-IgE stimulation and restricted to the 2 atopic donors investigated could we detect a statistically significant difference of basophil reactivity over time (P = .02).
+
+CD203c as an alternative basophil activation marker
+
+We analyzed CD203c instead of CD63 as an alternative
+activation marker on donor basophils, as recommended by
+others.'* We coincubated 2 sera of patients with positive ASST results and 4 healthy control sera with basophils from different donors (see Fig ES in this article’s Online Repository at www.
+jacionline.org). IL-3 could not be included in this approach because IL-3 alone leads to an enhanced expression of CD203c.”°
+In contrast to the results obtained with CD63, the discrimination
+between healthy control sera and sera from patients with positive
+ASST results was no longer possible in certain basophil donors.
+J ALLERGY CLIN IMMUNOL
+VOLUME 128, NUMBER 6
+
+GENTINETTA ET AL 1231
+
+Co-incubation with 10 ASST negative sera in all basophil donors
+
+>
+
+100:
+
+Standard IL-3 condition (Ing/ml)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% degranulated basophils (% CD63?°S cells)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+201 202 205 206 261 270 300 279 265 299
+Sera of ASST Patients (ID N°)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B
+100: a 2
+zg Individual IL-3 condition
+% 90
+z
+& 80:
+Oo 70
+x
+=
+B50
+z
+S 40
+z
+Zz 30
+FI
+=
+5 20: a =
+S10 =To
+x = ——] Ole
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= = =
+
+r a es Se ee Se oe
+5 206 261 270 300 279 265 299
+Sera of ASST Patients (ID N°)
+
+ 
+
+Co-incubation with 10 ASST positive sera in all basophil donors
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c
+
+~ '°) Standard IL-3 condition (Ing/ml)
+
+)
+
+ze 90:
+
+& 80
+
+S 70: | T
+
+x
+
+> 60:
+
+FE 50 I
+
+A
+
+2 40:
+
+;
+
+BE 30
+
+3
+
+z
+
+= 204 | I Tot
+
+2 0
+
+x = rot a
+0 es
+207 250 254 267 213 219 222 260 248 218
+
+Sera of ASST Patients (ID N°)
+
+i=]
+
+Individual IL-3 condition
+
+2
+Ss
+
+80:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% degranulated basophils (% CD63? cells)
+w
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+207 250 254 267 213 219 222 260 248 218
+Sera of ASST Patients (ID N°)
+
+FIG 3. Individual IL-3 priming for consistent and reproducible test results. Coincubation of basophils from
+different donors (n = 11) with sera from patients with negative ASST results under standard IL-3 conditions
+(1 ng/mL; A) or with individual IL-3 priming for each basophil donor (B). C and D, Analogs to Fig 3, Aand B,
+
+but with sera of patients with positive ASST results.
+
+Putting the diagnostic system to the test
+
+After the optimization of the BAT for CU diagnosis described
+above, we analyzed sera of patients with CU (n = 110) with ASST
+results available recruited from our outpatient department in Bern
+from January 2010 until January 2011. In this evaluation period
+basophils derived from all basophil donors described above were
+used according to the donors’ availability. The optimal positivity
+threshold defined by receiver operating characteristic analysis
+was 7.7% activated basophils after incubation with patient sera.
+With this cutoff, the test result was positive in 53 of the 110 patients tested. We included a second method for cutoff determination by using the mean plus twice the SD, which resulted in a
+comparable cutoff point (6.7%). In these basophils from several
+donors, sera from patients with CU with positive ASST results induced a median upregulation of CD63 of 26.5% + 5.3% (+
+SEM) compared with 8.36% + 1.1% in sera from patients with
+CU from negative ASST results (n = 87) and 3.7% + 0.2% in
+healthy control sera (n = 27). Thus the overall picture is comparable with the data obtained by using only 1 basophil donor. Fig 5
+summarizes the BAT results of all cases compared with the respective ASST results.
+
+Insufficient sensitivity of RBL703/21 cells as an
+alternative to human basophils
+
+Sera were also tested by using the humanized basophil-like cell
+line RBL 703/21. One hour after stimulation with different
+dilutions (1:10, 1:100, and 1:1000) of patient or control sera,
+B-hexosaminidase activity released into the supernatant was
+determined and expressed as a percentage of total content determined by means of lysis (data not shown). We found no consistent
+differences between control and patient sera, and positive results
+were only obtained with the higher, potentially cytotoxic concentration of serum, as described by Nakamura et al.?? Thus the use of
+the basophil-like cell line in its current form does not appear to be a
+viable alternative to the method presented in this article.
+
+DISCUSSION
+
+BAT with well-characterized donor basophils can be used in
+clinical routine for the detection of autoreactive serum components and might replace the ASST in a reliable and safe way. In
+contrast to ELISA, which cannot discriminate between autoantibodies of low and high affinity or detect the presence of an
+1232 GENTINETTA ET AL
+
+>
+
+1007 Co-incubation with healthy control sera
+Basophil Donor 2
+80 Se July
+[J October
+
+ 
+
+ 
+
+(% CD63?°S cells)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% degranulated basophils
+
+ 
+
+ 
+
+IL-3 (ng/ml)
+
+(% CD63°°S cells)
+
+ 
+
+ 
+
+% degranulated basophils
+
+ 
+
+October
+
+July
+
+FIG 4. Intraindividual variability over time. A, Coincubation of basophils
+from an atopic donor with healthy control sera (n = 10) under different
+IL-3 conditions analyzed at 2 different time points. B, Test results of this basophil donor at the 2 time points under optimal IL-3 concentrations (framed
+box) are shown in detail. P values are from 2-tailed Mann-Whitney tests.
+
+autoreactive serum component, the ASST and BAT in particular
+might allow such a conclusion. However, we substantiated the
+observation by Najib et al”° that different test conditions result in
+a low interlaboratory agreement. To reduce this variability by using only a single basophil donor is not feasible in laboratory routine for a disease as prevalent as CU. An alternative would be to
+use a suitable cell line. Unfortunately, in our hands the humanized
+RBL703/21 basophil-like cell line used in conjunction with
+8-hexosaminidase determination did not provide consistent results and did not reliably discriminate positive from control
+sera. Therefore recruiting and characterizing several basophil donors is currently the only solution for an application in routine
+diagnostics.
+
+In contrast to other studies,’ we used density-separated
+and washed leukocytes instead of whole blood and thereby
+avoided possible interference of donor-derived plasma factors,
+such as interleukins. Second, we focused on CD63 upregulation.
+CD203c¢ as an alternative activation marker led to variable activation patterns, rendering the discrimination between patient and
+healthy control sera impossible in certain basophil donors. Furthermore, those variations could not be normalized by individual
+IL-3 concentrations (see below) because IL-3 by itself leads to
+CD203c upregulation. Furthermore, in contrast to CD203c,
+
+3,14,17
+
+J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+CD63 is directly linked to basophil degranulation.*° Therefore
+CD203c is less suitable for this test purpose (see Fig ES).
+
+The primary challenge was to eliminate the variability in
+basophil reactivity between the different donors. From our initial
+experiments, we could observe a high reactivity in certain
+basophil donors, even reacting with healthy control sera. Therefore we focused our investigation on the definition of basophil
+donor characteristics. The mean IgE receptor density of the
+individual basophil donor did not significantly influence the test
+result (see Fig E2). The mean IgE receptor density alone is not responsible for the magnitude of basophil degranulation. There are
+several other, mainly intracellular factors playing a role in the basophil activation process.*! Therefore we investigated the role of
+IL-3, which activates the Ras pathway through Janus kinase 2/signal transducer and activator of transcription 5*° and leads to an enhanced basophil degranulation.?*** Some authors claim that IL-3
+has to be avoided to improve test specificity.'® Indeed, this is the
+case in certain atopic basophil donors, in whom autocrine IL-3
+priming might have already enhanced basophil reactivity,** and
+this phenomenon was already described for the histamine release
+test.*> In our patients and basophil donors, IL-3 in sera was hardly
+detectable (see Fig E3), which is in concordance with earlier results.*° Most cytokines are produced locally and have a predominantly local activity. Local tissue concentration of IL-3, as well
+as those of other cytokines, can only be estimated and might
+well be in the high nanogram range.*’ In contrast, nonatopic donors require IL-3 to achieve a comparable degranulation and histamine release of basophils.** To define the optimum test
+condition for each basophil donor, we adjusted the IL-3 concentrations with respect to avoidance of false-positive results (<5%
+CD63 upregulation if coincubated with healthy control sera)
+and conservation of activation characteristics (with anti-IgE as
+a positive control) at the same time. By individually priming
+the basophils with no, low, medium, or high concentrations of
+IL-3, we were able to normalize the basophil reactivity in all 11
+basophil donors (Fig 3, B and D) and to achieve reproducible
+and comparable test results irrespective of the basophil donor
+used. Importantly, and as well reported by others, IL-3 alone
+never led to nonspecific basophil degranulation.2*°
+
+Ina given basophil donor no variability of IL-3 sensitivity was
+observed over time (Fig 4 and see Fig E4), and the CD63 upregulation was reproducible when analyzed at different time points
+(Table II). Table I summarizes the characteristics of our basophil
+donors and is used as an internal test validation tool in our laboratory. For each test round, we controlled for the donor-specific
+activation characteristics. Again, within the same basophil donor,
+the results with our positive controls (anti-IgE and fMLP) were
+comparable (Table II). Of note, we observed a slightly higher
+CD63 upregulation during the pollen season only in the atopic basophil donors, but it reached statistical significance only with antiIgE stimulation.
+
+We and others*° observed a discrepancy between ASST and
+BAT results in certain patients (Figs 3 and 5). Nevertheless,
+the BAT results for the single patient were consistent within
+all 11 basophil donors tested. Probably this observation is due
+to an inaccuracy of the ASST. In the group with negative
+ASST results, comedication can influence the skin test results,
+such as unreported antihistamine or antidepressant intake,*' as
+for example patient 299, who was taking trimipramine and paroxetine and consecutively only had positive BAT results. In
+the group with positive ASST results, mast cell hyperreactivity
+
+ 
+J ALLERGY CLIN IMMUNOL,
+VOLUME 128, NUMBER 6
+
+GENTINETTA ET AL 1233
+
+TABLE Il. Insignificant fluctuations in basophil reactivity: CD63 upregulation on different stimuli analyzed at 2 different time points
+
+Donor 1
+Stimuli July October
+HC sera (n = 10) 2.9 +03 33° 02:
+ASST?*, patient ID 222 42.1 +18 46.3 + 3.8
+ASST?®, patient ID 248 61.3 + 3.0 69.3 + 2.9
+ASST"®, patient ID 205 41+ 0.6 3.202
+ASST", patient ID 261 6.3 + 0.7 S14 05
+algE (100 ng/mL) 88.3 + 2.1 83.3: 2.3
+
+Donor 2
+Stimuli July October
+HC sera (n = 10) 2.6 + 0.6 35.204
+ASST?®, patient ID 222 S12 14 28.3 + 1.6
+ASST, patient ID 248 36.3 + 2.5 33.3 + 1.6
+ASST", patient ID 205 43 + 0.6 28 01
+ASST", patient ID 261 2.8 + 0.3 3.8 + 0.2
+algE (100 ng/mL) $1.3 4 12 41.3: 1.5
+
+Data are presented as a percentage of CD63*
+
+Nonatopic basophil donors
+
+Donor 7
+P value July October P value
+4B ES 02 VS 0.3: Ay
+34 36,6 2219) slo) ee Ties) a)
+09 64.3 + 6.4 TA.3 2.1 14
+67 2.1 + 0.6 54+ 13 ll
+21 19+04 28:+:05 nel
+12 68.3 + 1.2 66.2 + 24 81
+Atopic basophil donors
+Donor 3
+P value July October P value
+14 3.6 =:05 2.0/0.2 allel
+312, 24.2 +23 PA We Vesa dh 37
+14 31.352 32.2418 81
+06 84+ 04 6.3 + 0.7 .07
+06 3.4 + 0.2 4.0 + 0.6 .06
+02 3211 65.4 + 1.2 02
+
+basophils (medians + SEMs). Stimulations were performed in triplicates. P values are from 2-tailed Mann-Whitney tests.
+
+algE, Anti-IgE antibody; ASST", negative ASST result; ASST”, positive ASST result; HC, healthy control.
+
+70
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+H concordant results (BAT / ASST)
+I discordant results (BAT / ASST)
+
+number of patients
+
+ 
+
+ 
+
+0-7.7% 7.7-20% 30-50% - 100%
+
+% degranulated basophils (% CD63?°S cells)
+
+FIG 5. Real life: putting the system to the test. Test results of 110 patients
+from the clinical routine with direct comparison of BATs and ASSTs.
+Concordant results of both tests are presented as solid gray bars, and discordant results are presented as striped bars. The cutoff point is set at 7.7%,
+as defined by receiver operating characteristic analysis.
+
+with pronounced dermographism might exert a relevant influence on the result of intradermal skin testing. Importantly, for
+obvious reasons, neither positive nor negative control sera can
+be injected into the patient’s skin, and therefore there are no
+true controls possible in the ASST. Those limitations of the
+ASST as the diagnostic gold standard hamper the calculation
+of test accuracy, and the result is likely to be biased on patient
+selection. However, because we have not observed false-positive
+
+results in healthy control sera, our test protocol seems to be specific and to not overestimate the rate of autoreactive components
+in patient sera. This was also supported by the absence of basophil activation with sera of patients with cold urticaria. As a typical form of physical urticaria, cold urticaria is thought to be
+associated with bacterial and viral infections and independent
+of autoreactive serum components." Overall, there are several
+advantages over the ASST: no risk of accidental infection, no influence of antihistamines on the test result, quantifiable results,
+and a potential in providing treatment monitoring.
+
+The exact nature of the degranulating factor or factors in patient
+sera remains an open question. Autoantibodies of IgG or IgM
+isotypes have been postulated.**# Other probably important factors in the pathogenesis of CU, such as coagulation or complement split products or even cytokines, cannot be safely
+excluded.*°* CU, especially in its most severe and refractory
+form, might have more than | pathogenetic factor. Our optimized
+assay seems to be able to detect most, if not all, of them in a robust
+and correct way. Hence it might allow for a separate analysis and
+dissection of the pathogenetic cascade, ultimately leading to the
+chronic appearance of urticarial lesions. More investigations are
+needed to dissect the different activation cascades and lead to optimized and individualized treatment.
+
+ 
+
+We thank S. Vieths and L. Vogel, Paul-Ehrlich Institute, Langen, Germany,
+for providing RBL-703/21 cells. We thank B. Schnyder for critical revision
+and discussion and all our blood donors for their continuing support.
+
+Clinical implications: The BAT might be a replacement for the
+ASST, lacking the risk of accidental infection and the influence
+
+of antihistamines on the result. Quantifiable results and the potential use in treatment monitoring are additional advantages.
+
+ 
+1234 GENTINETTA ET AL
+
+REFERENCES
+
+1.
+
+Ey
+
+20.
+
+21.
+
+22.
+
+23.
+
+. Tong LJ, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP. As
+
+O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of
+chronic urticaria on the quality of life. Br J Dermatol 1997;136:197-201.
+
+. Vonakis BM, Saini SS. New concepts in chronic urticaria. Curr Opin Immunol
+
+2008;20:709-16.
+
+. Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G, Church MK, Gime
+nez-Arnau A, et al. EAACI/GA(2)LEN/EDF/WAO guideline: definition, classification and diagnosis of urticaria. Allergy 2009;64:1417-26.
+
+. Najib U, Sheikh J. The spectrum of chronic urticaria. Allergy Asthma Proc 2009;
+
+30:1-10.
+
+. Niimi N, Francis DM, Kermani F, O’Donnell BF, Hide M, Kobza-Black A, et al.
+
+Dermal mast cell activation by autoantibodies against the high affinity IgE receptor
+in chronic urticaria. J Invest Dermatol 1996;106: 1001-6.
+
+. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in
+
+chronic urticaria. J Allergy Clin Immunol 2001;107:1056-62.
+
+. Kaplan AP, Greaves M. Pathogenesis of chronic urticaria. Clin Exp Allergy 2009;
+
+39:777-87.
+
+. Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence and func
+tional role of anti-IgE autoantibodies in urticarial syndromes. J Invest Dermatol
+1988;90:213-7.
+
+. Pachlopnik JM, Horn MP, Fux M, Dahinden M, Mandallaz M, Schneeberger D,
+
+et al. Natural anti-FeepsilonRIalpha autoantibodies may interfere with diagnostic
+tests for autoimmune urticaria. J Autoimmun 2004;22:43-51.
+sment of auto
+  
+
+immunity in patients with chronic urticaria, J Allergy Clin Immunol 1997;99:
+461-5.
+
+. Metz M, Gimenez-Arnau A, Borzova E, Grattan CE, Mager] M, Maurer M. Fre
+quency and clinical implications of skin autoreactivity to serum versus plasma in
+patients with chronic urticaria. J Allergy Clin Immunol 2009;123:705-6.
+
+. Miescher SM, Horn MP, Pachlopnik JM, Baldi L, Vogel M, Stadler BM. Natural
+
+anti-FcepsilonRIalpha autoantibodies isolated from healthy donors and chronic idiopathic urticaria patients reveal a restricted repertoire and autoreactivity on human
+basophils. Hum Antibodies 2001;10:119-26.
+
+. Wedi B, Novacovic V, Koerner M, Kapp A. Chronic urticaria serum induces hista
+mine release, leukotriene production, and basophil CD63 surface expression—
+inhibitory effects of anti-inflammatory drugs. J Allergy Clin Immunol 2000;105:
+552-60.
+
+. Yasnowsky KM, Dreskin SC, Efaw B, Schoen D, Vedanthan PK, Alam R, et al.
+
+Chronic urticaria sera increase basophil CD203c expression. J Allergy Clin Immunol 2006;117:1430-4.
+
+. Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional and binding as
+says for IgG anti-Fe(epsilon)RIalpha (alpha-subunit) in chronic urticaria. J Allergy
+Clin Immunol 1998;101:672-6.
+
+. De Swerdt A, Van Den Keybus C, Kasran A, Cadot P, Neyens K, Coorevits L, et al.
+
+ 
+
+Detection of basophil-activating IgG autoantibodies in chronic i
+by induction of CD 63. J Allergy Clin Immunol 2005;116:662-7.
+
+jopathic urticaria
+
+. Frezzolini A, Provini A, Teofoli P, Pomponi D, De Pita O. Serum-induced basophil
+
+CD63 expression by means of a tricolour flow cytometric method for the in vitro
+diagnosis of chronic urticaria. Allergy 2006;61:1071-7.
+
+. Gyimesi E, Sipka S, Danko K, Kiss E, Hidvegi B, Gal M, et al. Basophil CD63
+
+   
+
+expression assay on highly sensitized atopic donor leucocytes—a useful method
+in chronic autoimmune urticaria. Br J Dermatol 2004;151:388-96.
+
+. Platzer MH, Grattan CE, Poulsen LK, Skov PS. Validation of basophil histamine
+
+release against the autologous serum skin test and outcome of serum-induced basophil histamine release studies in a large population of chronic urticaria patients.
+Allergy 2005;60:1152-6.
+
+Najib U, Ostro MG, Sheikh J. Comparison between the IBT “Chronic Urticaria Index” assay and National Jewish Laboratories “Anti-FcER1 Antibody” assay in
+normal and chronic urticaria subjects [abstract 375]. J Allergy Clin Immunol
+2010;125:AB95.
+
+Ladics GS, van Bilsen JH, Brouwer HM, Vogel L, Vieths $, Knippels LM. Ass
+ment of three human FeepsilonRI-transfected RBL cell-lines for identifying IgE i
+duced degranulation utilizing peanut-allergic patient sera and peanut protein
+extract. Regul Toxicol Pharmacol 2008;51:288-94.
+
+Takagi K, Nakamura R, Teshima R, Sawada J. Application of human Fe epsilon RI
+alpha-chain-transfected RBL-2H3 cells for estimation of active serum IgE. Biol
+Pharm Bull 2003;26:252-5.
+
+Nakamura R, Uchida Y, Higuchi M, Tsuge I, Urisu A, Teshima R. A convenient
+and sensitive allergy test: IgE crosslinking-induced luciferase expression in cultured mast cells. Allergy 2005;65:1266-73.
+
+ 
+
+ 
+
+ 
+
+24.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+34,
+
+35.
+
+36.
+
+3.
+
+38.
+
+40.
+
+41.
+
+42.
+
+46.
+
+47.
+
+48.
+
+J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan CE. EAACI/GA(2)LEN task force consensus report: the autologous serum skin
+test in urticaria. Allergy 2009;64:1256-68.
+
+. Smith KB, Ellis SA. Standardisation of a procedure for quantifying surface anti
+gens by indirect immunofluorescence. J Immunol Methods 1999;228:29-36.
+Hausmann OV, Gentinetta T, Fux M, Ducrest , Pichler WJ, Dahinden CA. Robust
+expression of CCR3 as a single basophil selection marker in flow cytometry. Allergy 2011;66:85-91.
+
+Vogel L, Luttkopf D, Hatahet L, Haustein D, Vieths S. Development of a functional
+in vitro assay as a novel tool for the standardization of allergen extracts in the human system. Allergy 2005;60:1021-8.
+
+Ochensberger B, Daepp GC, Rihs S, Dahinden CA. Human blood basophils produce interleukin-13 in response to IgE-receptor-dependent and -independent activation. Blood 1996;88:3028-37.
+
+Hauswirth AW, Sonneck K, Florian S, Krauth MT, Bohm A, Sperr WR, et al. Interleukin-3 promotes the expression of E-NPP3/CD203C on human blood basophils in healthy subjects and in patients with birch pollen allergy. Int J
+Immunopathol Pharmacol 2007;20:267-78.
+
+Ebo DG, Bridts CH, Hagendorens MM, Aerts NE, De Clerck LS, Stevens WJ. Basophil activation test by flow cytometry: present and future applications in allergology. Cytometry B Clin Cytom 2008;74:201-10.
+
+Ishmael S, MacGlashan D Jr. Early signal protein expression profiles in basophils:
+a population study. J Leukoc Biol 2009;86:313-25.
+
+Reddy EP, Korapati A, Chaturvedi P, Rane S. IL-3 signaling and the role of Src
+kinases, JAKs and STATs: a covert liaison unveiled. Oncogene 2000;19:2532-47.
+
+3. Ocmant A, Peignois Y, Mulier S, Hanssens L, Michils A, Schandene L. Flow cy
+tometry for basophil activation markers: the measurement of CD203c up-regulation
+is as reliable as CD63 expression in the diagnosis of cat allergy. J Immunol
+Methods 2007;320:40-8.
+
+Schroeder JT, Chichester KL, Bieneman AP. Human basophils secrete IL-3: evidence of autocrine priming for phenotypic and functional responses in allergic disease. J Immunol 2009;182:2432-8.
+
+Miadonna A, Salmaso C, Cottini M, Milazzo N, Tedeschi A. Enhancement of basophil histamine release by interleukin-3: reduced effect in atopic subjects. Allergy
+1996;51:525-31.
+
+Jorgensen HG, Allan EK, Jiang X, Liakopoulou E, Richmond L, Eaves CJ, et al.
+Stage-specific alterations in serum levels of G-CSF in chronic myeloid leukaemia.
+Leukemia 2003;17:1430-2.
+
+Hermes B, Prochazka AK, Haas N, Jurgovsky K, Sticherling M, Henz BM. Upregulation of TNF-alpha and IL-3 expression in lesional and uninvolved skin in different types of urticaria. J Allergy Clin Immunol 1999;103:307-14.
+
+Ferrer M, Luquin E, Kaplan AP. IL3 effect on basophils histamine release upon
+stimulation with chronic urticaria sera. Allergy 2003;58:802-7.
+
+. Knol EF, Kuijpers TW, Mul FP, Roos D. Stimulation of human basophils results in
+
+homotypic aggregation. A response independent of degranulation, J Immunol
+1993;151:4926-33.
+
+Kaplan AP, Joseph K, Basophil secretion in chronic urticaria: autoantibodydependent or not? J Allergy Clin Immunol 2007;120:729-30.
+
+Isik SR, Celikel S, Karakaya G, Ulug B, Kalyoncu AF. The effects of antidepressants on the results of skin prick tests used in the diagnosis of allergic diseases. Int
+Arch Allergy Immunol 2011;154:63-8.
+Siebenhaar F, Weller K, Mlynek A, Mager! M, Allrichter S, Vieira Dos Santos R,
+et al. Acquired cold urticaria: clinical picture and update on diagnosis and treatment. Clin Exp Dermatol 2007;32:241-5.
+
+ 
+
+. Kaplan AP. Clinical practice. Chronic urticaria and angioedema. N Engl J Med
+
+2002;346:175-9.
+
+. Grattan CE, O’Donnell BF, Francis DM, Niimi N, Barlow RJ, Seed PT, et al. Ran
+domized double-blind study of cyclosporin in chronic “idiopathic” urticaria, Br J
+Dermatol 2000;143:365-72.
+
+. Asero R, Tedeschi A, Coppola R, Griffini S, Paparella P, Riboldi P, et al. Activation
+
+of the tissue factor pathway of blood coagulation in patients with chronic urticaria.
+J Allergy Clin Immunol 2007;119:705-10.
+
+Asero R, Tedeschi A, Riboldi P, Cugno M. Plasma of patients with chronic urticaria
+shows signs of thrombin generation, and its intradermal injection causes whealand-flare reactions much more frequently than autologous serum. J Allergy Clin
+Immunol 2006;117:1113-7.
+
+Greaves MW, Tan KT. Chronic urticaria: recent advances. Clin Rev Allergy Immunol 2007;33:134-43.
+
+Wang F, Tang H, Xu JH, Kang KF. Activation of the blood coagulation cascade is
+involved in patients with chronic urticaria. J Allergy Clin Immunol 2009;123:972-4.
+
+ 
+J ALLERGY CLIN IMMUNOL GENTINETTA ET AL 1234.e1
+VOLUME 128, NUMBER 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+% of Max.
+
+CCR3-APC CD63-FITC
+
+Le]
+
+% degranulated basophils (% CD63P° cells)
+
+ 
+
+ASSTP® sera ASST" sera HC sera
+
+FIG E1. CD63 upregulation on donor basophils after coincubation with sera. A, Basophil identification according to CCR3 expression. CD63 upregulation after coincubation with the sera of a patients with a positive
+ASST result (shaded histogram) or a negative control. Numbers in the upper left corner indicate the percentage of CD63 upregulation (negative control/positive ASST result). APC, Allophycocyanin; FITC, fluorescein
+isothiocyanate; FSC, forward scatter; SSC, side scatter. B, CD63 upregulation after coincubation of 16 sera
+from patients with positive ASST results (ASST°°*) and 51 patients with negative ASST results (ASST"*?)
+and 27 healthy control (HC) sera expressed with 1 basophil donor (donor 1). Data are presented as the percentage of CD63-expressing cells (medians + SEMs). Donor basophils with sera from patients with negative
+ASST results showed significantly higher activation marker upregulation compared with healthy control
+sera (P< .001). P values are from 2-tailed Mann-Whitney tests. **P< .01; ***P < .001.
+1234.e2 GENTINETTA ET AL J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+  
+
+ 
+
+ 
+
++06 anti-IgE (100 ng/ml) ASSTP®S (Pat ID: 222) ASST"SS (Pat ID: 205)
+100 100:
+
+3 @ 80 ° Be 80 B= 80
+a3 eo 22 22
+3 Z 60 [e) Er 60 23 60:
+ee ea Bs 3%
+as ° zg ° zg
+BO 40 8 28 40] © 38 40
+Ee Ca (e) Pe zo
+© . He ° BS
+3 20 @ = 0.69 se = 0.38 3 20
+= r= 0. = © @o = 2
+
+0 a Sane ee! 0 — 0
+
+103 104 10° 10° 105 10# 105 10° 103 104 105 10°
+
+mean IgE receptor density mean Fee receptor density mean Fee receptor density
+
+FIG E2. Mean IgE receptor density does not explain donor variability. The mean IgE receptor density of each
+basophil donor was compared with its corresponding CD63 upregulation after stimulation with anti-lgE,
+serum from a patient with a positive ASST result (ASST°°*; patient ID: 222), and serum from a patient with a
+negative ASST result (ASST’’9; patient ID: 205).
+J ALLERGY CLIN IMMUNOL GENTINETTA ET AL 1234.e3
+VOLUME 128, NUMBER 6
+
+10
+
+IL-3 (pg/ml)
+
+ 
+
+basophil donors CU patients
+
+FIG E3. IL-3 detection in sera of patients and healthy control subjects. The
+mean IL-3 level measured in healthy control subjects was 2.68 + 0.95 pg/
+mL, and that measured in patients with CU was 3.13 + 0.97 pg/mL. There
+was no statistically significant difference between these 2 groups (P = .325).
+P values are from 2-tailed Mann-Whitney tests.
+1234.e4 GENTINETTA ET AL J ALLERGY CLIN IMMUNOL
+DECEMBER 2011
+
+Co-incubation with healthy control sera
+
+A 159 Co-incubation with healthy control sera
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+   
+
+g z
+Ff Basophil donor 2 (grass-pollen allergic) = Basophil donor 1 (non-atopic)
+s@ ZZ
+£2 10: 33 10
+z z
+Be = Ee
+26 z6
+f= ¢ £ 2 5
+ge ge
+x x
+0
+July October July October
+B 1009 Co-i ion wi i ion wi
+-incubation with ASST sera 1009 Co-incubation with ASST sera
+2 a Basophil Donor 2 (grass pollen allergic) 2 Basophil Donor 1 (non-atopic)
+2 z wae Pat ID: 222 fa * te Pat ID: 222
+q 2 60 te Pat ID: 248 s 6. a te Pat ID: 248
+2g 32
+= 8 40: ~@ Pat ID: 205 = a 40 z+ ~@ Pat ID: 205
+5 RS -———4 ‘ BS ~O- Pat ID: 261
+Ze 2 se
+x x
+0
+July October July October
+
+FIG E4. Intraindividual variability over time. A and B, Coincubation with healthy control sera (n = 10; Fig E4,
+A) or sera derived from 4 patients with CU (2 with positive ASST results; Fig E4, B). Data of 2 representative
+basophil donors are shown (donor 2 = atopic donor) under optimal IL-3 conditions for each donor. Pvalues
+are from 2-tailed Mann-Whitney tests.
+J ALLERGY CLIN IMMUNOL. GENTINETTA ET AL 1234.e5
+VOLUME 128, NUMBER 6
+
+A B c
+1007 Co-incubation with sera 1007 Co-incubation with sera 1007 Co-incubation with sera
+basophil donor 1 basophil donor 2 basophil donor 6
+
+g 2 2 80
+53 ry 53
+a 8 23 ao @ Pat ID: 222
+Le as 22 60
+3% 3% 3% © PatID:248
+a8 ss 25
+
+i) sa a
+5 | A S 5 8 40 A Healthy controls
+Be gs se
+x a = 20
+
+   
+
+FIG E5. CD203c levels measured after coincubation of basophils with healthy control sera (n = 4) and sera of
+2 patients with positive ASST results. Data of 3 representative basophil donors are shown.
+

@@ -1,0 +1,942 @@
+| ®
+Received: 7 June 2019 Revised: 12 December 2019 Accepted: 24 December 2019
+
+Check for
+DOI: 10.1111/cea.13558 updates
+
+ 
+
+ORIGINAL ARTICLE WILEY
+
+Clinical Mechanisms in Allergic Disease
+
+Evidence for bradykinin release in chronic spontaneous
+urticaria
+
+1,2 3
+
+Zonne L.M. Hofman’? | Mignon T. van den Elzen2? | Jeffrey Kuijpers’ |
+Steven de Maat? | C. Erik Hack? | André C. Knulst?* | Heike Réckmann?* | Coen Maas?
+
+tLaboratory of Clinical Chemistry and
+Haematology, University Medical Center Abstract
+Utrecht; Utrecht University, Utrecht; [he Background: Chronic spontaneous urticaria (CSU) is characterized by recurrent itchy
+
+Netherlands
+
+. . weals and/or angioedema and is believed to be driven by mast cell activation. It was
+Laboratory for Translational Immunology,
+University Medical Center Utrecht, Utrecht shown that excessive mast cell activation during anaphylaxis initiates contact activaUniversity, Utrecht, The Netherlands tion, resulting in bradykinin release. Evidence for bradykinin release was never dem3,
+
+Department of Dermatology/Allergology, ‘
+onstrated in CSU.
+
+University Medical Center Utrecht, Utrecht
+
+ 
+
+University, Utrecht, The Netherlands Objective: To study biomarkers of bradykinin release in CSU.
+
+Correspondence Methods: Plasma samples of CSU patients were collected during routine visits at
+Coen Maas, Department of Clinical the outpatient clinic. Cleaved high molecular weight kininogen (CHK) was used as
+Chemistry and Haematology, University . a Ses
+
+Medical Center Utrecht, Heidelberglaan a biomarker for bradykinin release. cHK, factor Xlla-C1-inhibitor (FXIla-C1-INH),
+100, Room G.03.550, 3584CX Utrecht, The kallikrein-C1-INH, plasmin-antiplasmin (PAP) complexes and soluble urokinase-type
+
+Netherlands.
+
+Email: cmaas4@umcutrecht.nl plasminogen activator receptor (suPAR) levels were determined by ELISA. Clinical
+
+data and data on tryptase levels were collected from medical records. cHK levels
+were compared to previously determined levels in hereditary angioedema (HAE).
+Results: One hundred seventeen samples from 88 CSU patients and 28 samples from
+healthy controls were analysed. Median cHK level in CSU was 9.1% (range: 1.4%21.5%), significantly increased compared to healthy controls (median 6.0% range:
+0%-19.9%; P = .0005) and comparable to HAE (n = 46, median 10.3%, range 0%44.3%, P > 9999). CHK levels normalized in patients during disease remission (median
+6.5% range 1.5%-20.8%) but were not dependent on the presence of angioedema,
+acute angioedema attacks or response to antihistamines. Surprisingly, cHK levels
+were inversely correlated to serum tryptase (r = -0.65 P = .0137). C1-INH complexes
+and suPAR levels were not elevated in patients compared to healthy controls. PAPcomplex levels in patients were elevated compared to healthy controls but there was
+no correlation between PAP-complex and cHK levels.
+
+Conclusions: cHK levels are elevated in symptomatic CSU patients compared to
+healthy controls, indicating increased bradykinin production. Increased cHK levels
+
+are not limited to patients with angioedema.
+
+ 
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+© 2020 The Authors. Clinical & Experimental Allergy published by John Wiley & Sons Ltd
+
+ 
+
+Clin Exp Allergy. 2020;50:343-351. wileyonlinelibrary.com/journal/cea 343
+
+ 
+HOFMAN erat.
+
+ 
+
+Clinical relevance: If elevated bradykinin generation has clinical implications in the
+
+pathology of CSU is open to debate.
+
+KEYWORDS
+
+angioedema, bradykinin, chronic spontaneous urticaria, cleaved high molecular
+
+weight kininogen, idiopathic angioedema, plasmin-antiplasmin, soluble urokinase receptor
+
+1 | INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is hallmarked by recurrent
+itchy weals and/or angioedema. The pathophysiology of CSU is
+not fully understood. Mast cell and histamine involvement are
+strongly implicated, and patients demonstrate clinical response to
+the anti-lgE monoclonal antibody omalizumab and antihistamine
+therapy.”
+
+Angioedema is a common symptom of CSU. When patients
+experience angioedema without weals, this CSU subtype can be
+referred to as idiopathic angioedema.* Angioedema results from
+increased vascular permeability followed by swelling of subcutaneous or submucosal tissues. Angioedema in CSU is believed to be
+histamine-induced, while other angioedema subtypes, such as angiotensin-converting enzyme (ACE)-inhibitor-related angioedema
+and hereditary angioedema, are driven by the vasoactive peptide
+bradykinin.* ACE inhibitors prevent the breakdown of bradykinin, increasing bradykinin half-life. In HAE-1 and HAE-2, bradykinin levels are increased because patients lack the main inhibitor
+of bradykinin production: C1-inhibitor (C1-INH, HAE-1) or have
+dysfunctional C1-INH (HAE-2).? C1-INH inhibits activated factor XII (FXlla) and plasma kallikrein (PKa). FXlla converts plasma
+prekallikrein (PK) into PKa that will cleave bradykinin from high
+molecular weight kininogen (HK) °; this enzyme system is called
+the contact system. Therefore, C1-INH deficiency results in uncontrolled bradykinin production.
+
+The various subtypes of angioedema are classified as bradykinin induced or mast cell induced. Clinically, bradykinin- and histamine-mediated swellings are indistinguishable. Especially when
+weals and angioedema coincide, swellings are considered mast cell
+and not bradykinin induced.*” However, research in anaphylaxis
+suggests that mast cell activation and bradykinin release co-exist. A
+study performed in wasp-venom allergic individuals demonstrated
+increased markers of bradykinin generation. After a wasp sting,
+markers increased in those with severe anaphylaxis, for example angioedema and/or shock, while markers were low prior to the sting
+and in individuals with a mild response.® In addition, activation of
+the fibrinolytic system was also observed during anaphylaxis as plasmin-antiplasmin (PAP) complexes increased.’ Later studies found
+increased levels of cleaved high molecular weight kininogen (cHK),
+a marker for bradykinin release, in patients visiting the emergency
+medicine department with a (food or drug) allergic response *° and
+explained these observations demonstrating bradykinin involve
+ment during anaphylaxis in mouse models.’°*? Mast cell-released
+
+heparin was found to activate FXII** connecting mast cell activation
+to bradykinin release as FXlla activity will lead to PKa activity and
+HK cleavage. While histamine is primarily released from mast cells
+or basophils, the contact system is always present in circulation.
+Contact system activation is not only limited to excretion of mast
+cell-released heparin but can also be triggered by, among others,
+
+13.14 and
+
+platelet polyphosphate,’* activation of the endothelium
+neutrophil extracellular traps.>
+
+Little is known about bradykinin generation in CSU, as it is generally considered a mast cell- and histamine-mediated disease. We
+recently developed a sensitive ELISA-based method to assess CHK
+generation.’° Using this method, we revisited CHK generation in
+CSU. In addition, C1-INH in complex with FXlla or PKa were determined, as well as markers of the fibrinolytic system as these were
+
+previously associated with mast cell activation in anaphylaxis.”
+
+2 | METHODS
+2.1 | Study participants and blood collection
+
+All patients with a diagnosis of CSU defined as having spontaneous, recurrent weals and/or angioedema for at least 6 weeks, visiting the dermatology and allergology outpatient department, were
+asked to provide blood samples at first and selected follow-up visits. This study was approved by the local ethical committee (protocol#13-272). Of these, all patients with written informed consent
+and at least one collected sample at first visit between January
+2014 and February 2016 were included and data were analysed
+for this study. Patient characteristics (age, sex, CSU subtype, disease severity, treatment) were retrieved from medical records by
+the physician of the research team. In CSU patients that presented
+with angioedema without weals, HAE-1 and HAE-2 were excluded
+based upon medical history, family history and C4 levels as part of
+routine clinical care. This CSU subtype is referred to as idiopathic
+angioedema throughout this article.* Disease severity was categorized into 1) symptom-free: complete disease control for at least
+one month, 2) mild: recent symptoms but no need for additional
+treatment and 3) moderate to severe: recent symptoms, need for
+additional treatment and/or frequent use of rescue medication.
+When available, the urticaria control test (UCT) score was collected.” During the timeframe of this study, the UCT was not yet
+collected routinely at every visit. Antihistamine resistance was de
+fined as persistent symptoms despite using a four times daily dose
+HOFMAN er at.
+
+ 
+
+of antihistamines; need for add-on therapy such as cyclosporine
+and omalizumab; or frequent need for oral steroids in addition to
+antihistamine prophylaxis.
+
+Venipuncture was performed at inclusion during a regular control visit at the outpatient clinic. One additional blood draw was performed in 20 patients during random control visits, two additional
+blood draws in two patients and three additional blood draws in one
+patient.
+
+Blood was collected in standard blood collection tubes containing 1.8 mg EDTA per ml blood and specific sample collection/
+anticoagulant tubes (SCAT) containing 25 4M PPACK (Phe-ProArg-chloromethylketone, Sigma-Aldrich), 11 mM sodium citrate and
+0.1% mannitol (w/v) to prevent post-blood draw enzymatic activity
+in samples. Blood was centrifuged at 2000 g for 10 minutes shortly
+after blood draw and stored at -80 until use. We previously reported
+cHK measurements in HAE-1 and HAE-2. Samples were collected
+in serine protease inhibitor-containing tubes.*¢ As we collected our
+samples from CSU patients in the same way, we used these HAE
+analyses for comparison.
+
+In addition, plasma from healthy donors was collected (with
+written informed consent; approval by the local ethical committee of the University Medical Center Utrecht; protocol#07-125).
+Blood was collected in standard sodium citrate tubes (10% sodium
+citrate, 3.2% wt/vol). Blood was centrifuged twice at 2000 g for
+10 minutes shortly after blood draw and stored at -80 until use.
+Plasma from ~30 healthy donors was pooled for control pooled
+plasma, and plasma from 28 patients was stored individually for
+
+control plasma.
+
+2.2 | Biomarker assays
+
+cHK,?° FXIla-C1-INH complexes,’® PKa-C1-INH complexes,7® plas
+19
+
+min-antiplasmin (PAP) complexes and soluble urokinase-type
+
+plasminogen activator receptor (suPAR) 2° were determined by
+ELISA, as previously published. cHK levels, FXlla-C1-INH, PKa-C1INH and PAP complexes in patients were determined in citrated
+plasma containing PPACK to prevent post-blood draw contact activation, and suPAR levels were determined in EDTA plasma. cHK
+and C1-INH complex measurements are expressed as percentages.
+One hundred % cHK reflects total HK cleavage in control pooled
+plasma generated by incubating plasma with 1 ug/ml béta-FXIla
+(Hematologic Technology) at 37°C for 10 minutes after which reaction was stopped by diluting plasma 64x in a phosphate-buffered
+saline buffer (mPBSt: 127.9 mmol/L NaCl, 6.2 mmol/L Na,HPO,,
+3.7 mmol/L NaH,PO,, pH 7.0 supplemented with 0.1% Tween-20
+wt/vol and 1% skimmed milk powder wt/vol, containing 50 mol/L
+PPACK). One hundred % C1-INH complex indicates control pooled
+plasma incubated with dextran sulphate Mr ~ 500 000 (SigmaAldrich) at 37°C for 30 minutes after which reaction was stopped
+by diluting 32x in mPBSt containing 50 umol/L PPACK. Calibration
+curves were created by mixing 100% activated plasma with unac
+tivated control pooled plasma both diluted in mPBSt containing
+
+WI Ley
+
+PPACK. Plasma dilution in calibration curves was equal to plasma
+dilution of patient samples.1°7®
+
+For 25 patients, tryptase levels were determined as a routine
+diagnostic via ImmunoCAP using the Phadia250 (Thermo Fisher
+Scientific). These levels were retrieved from medical records. For
+14/25 patients, blood was collected for tryptase determination at
+the same day as collection of study samples that were used for CHK
+
+determination.
+
+2.3 | Data analysis
+
+GraphPad Prism 8 was used for data analysis. CHK and C1-INH
+complex levels were interpolated from a calibration curve using
+a sigmoidal 4PL fit model. The first collected sample per patient
+was included for analysis unless indicated otherwise. Groups
+were compared using Mann-Whitney t test or Wilcoxon test for
+paired samples and multiple groups with Kruskal-Wallis test using
+Dunn's correction for multiple testing. Correlation was tested with
+
+Spearman's rank test.
+
+3 | RESULTS
+
+Eighty-eight patients were included (70% female; mean age 44 years,
+range 18-78), and clinical data and blood samples from 117 visits
+were collected (Table 1). Twenty-eight samples from healthy donors
+were included as controls (74% female; mean age 39 years, range
+23-65). Thirty-nine patients had weals (44%), 35 (40%) patients had
+both weals and angioedema, and 14 (16%) patients had angioedema
+without weals (referred to as idiopathic angioedema). At first visit
+in this study, the majority of patients received prophylactic therapy
+with antihistamines (n = 65, 74%) and most patients (n = 83, 97%)
+received antihistamine prophylaxis somewhere over the course of
+their disease, either in the past or after first visit. Of these patients,
+27 (32%) reported improvement upon antihistamine prophylaxis.
+Further prophylactic treatment at first visit was omalizumab (n = 11,
+13%), steroids (n = 7, 8%) and leukotriene antagonists (n = 5, 6%).
+Eighteen patients (20%) did not receive any prophylaxis but all had
+on-demand treatment available also mainly consisting of antihistamines (Table 1). Most patients (n = 59, 67%) described moderate to
+severe symptoms at first visit, needing additional therapy. Four (5%)
+patients were symptom-free at first visit. When analysing all visits
+including follow-up visits, 16 (14%) patients reported to be symptom-free (Table 1).
+
+3.1. | Cleaved kininogen levels are increased in
+CSU patients
+
+Plasma levels of CHK and C1-INH in complex with FXIla or PKa were
+determined to assess contact activation in CSU. Median cHK level
+in CSU patients was 9.1% (range: 1.4%-21.5%). CHK levels were
+HOFMAN erat.
+
+ 
+
+6 | WILEY.
+
+TABLE 1 Patients characteristics, therapy and disease severity
+per visit
+
+Number of patients 88
+Male (%) 30
+Female (%) 70
+Mean age (range) 44 (18-78)
+CSU subtype n (%)
+Weals 39 (44)
+Weals and angioedema 35 (40)
+Angioedema 14 (16)
+
+First visit (n=88) All visits (n = 117°)
+
+Prophylactic therapy at visit n (%)*
+
+None 18 (20) 19 (16)
+Antihistamines 65 (74) 91 (78)
+Omalizumab 11 (13) 30 (26)
+Steroids 7 (8) 9 (8)
+Leukotriene 5 (6) 7 (6)
+antagonist
+Tranexamic acid 2 (2) 3 (3)
+Cyclosporine 2 (2) 2 (2)
+Methotrexate 1 (1) 1(1)
+Mycophenolic acid 1 (1) 1 (1)
+Chloroquine 1(1) 1(1)
+Disease severity at visit n (%)°
+Symptom-free 4(5) 16 (14)
+Mild 25 (29) 35 (30)
+Moderate to severe 59 (67) 66 (56)
+
+Abbreviation: CSU, chronic spontaneous urticaria.
+Includes combinations of therapies.
+699 follow-up visits from 23 patients.
+
+“Disease severity defined as: symptom-free = complete disease control,
+mild = symptoms partly controlled no need for additional therapy,
+moderate to severe = uncontrolled symptoms, need for additional
+therapy.
+
+significantly increased compared to healthy controls (median 6.0%
+range: 0%-19.9% P = .0056) and comparable to previously determined cHK levels in HAE-1 and HAE-2 *¢ (n = 46, median 10.3%,
+range 0%-44.3%, P > .9999, Figure 1A).
+
+When classifying by disease severity, CHK levels in healthy controls were significantly lower than in CSU patients with mild symptoms (median cHK 10.6% range 1.4%-17.2%, P < .0001, Figure 1B)
+and moderate to severe symptoms (median cHK 9.0% range 2.7%18.71%, P = .0043) but not compared to symptom-free patients
+(median cHK 6.5% range 1.5%-20.8%, P > .9999, Figure 1B). cHK
+levels in symptom-free patients were significantly lower than in
+patients with mild symptoms (P = .0296) and lower compared to
+patients with moderate to severe symptoms. However, the difference between symptom-free patients and those with moderate
+to severe symptoms was not statistically significant (P = .3018,
+
+Figure 1B). An urticaria control test (UCT) score was reported at
+
+31 visits. The average score was 11 (SD + 5.6) and trended towards
+a negative correlation with cHK (P = .06, r = -.28, Supplemental
+Figure 1). There were no differences in CHK levels among patients
+with weals, weals and angioedema or idiopathic angioedema
+(P = .91, Figure 1C).
+
+In three patients with idiopathic angioedema, one or more
+samples were collected during an angioedema attack. All of these
+patients experienced a high attack frequency with 2 to 10 attacks
+monthly while using antihistamine prophylaxis of 1-4 times the
+daily recommended dose. In addition, one of these patients received tranexamic acid and one tranexamic acid and omalizumab
+which only led to partial improvement of symptoms. No increase
+in cHK could be observed in samples collected during an angioedema attack compared to samples in between attacks (P = .42,
+Figure 1D).
+
+Furthermore, no differences could be observed among CSU
+patients with good response to prophylactic antihistamine therapy
+and patients with insufficient response to antihistamine therapy
+(P = .9269, Figure 1E). Tryptase levels were routinely determined
+in 25 patients as part of their diagnostic work-up to rule out systemic mastocytosis. In 24 patients, tryptase was within the normal
+range (defined as levels < 11.4 ug/L), and in one patient, tryptase
+levels were elevated but further diagnostic work-up did not change
+the CSU diagnosis. For 14 patients, tryptase was determined at the
+moment of sample collection for CHK measurement. When analysing these 14 samples, we found a moderate negative correlation
+(r = -.65, P = .0137, n = 14, Figure 1F) between cHK levels and tryptase levels. There was no correlation among cHK and tryptase levels
+if samples for analysis were collected on another day (r = -.0636,
+P = 8603, n = 11, Supplemental Figure 2A) and a moderate correlation if all available data on tryptase levels were combined (r= -.4435,
+P = .0264, n = 25 Supplemental Figure 2B).
+
+FXlla-C1-INH and PKa-C1-INH complex levels were mainly
+below detection limits in patients and healthy controls (Figure 2).
+Distribution of cHK levels among age and sex was analysed but no
+relation with age or sex was found (Figure S3).
+
+We analysed changes in CHK levels detected in samples collected
+from the same patients over time. In only 11 of the 23 cases, disease severity corresponded to cHK levels (Figure $4: A, B, C, L, N, O, Q, R, S, T
+and V demonstrate cases with corresponding cHK and severity levels),
+where change in cHK was defined as >4% difference. Disease severity
+and cHK levels per patient, including additional information on immunosuppressive therapy and omalizumab used per time-point, are shown
+
+in Figure S4 (red lines indicate disease severity, and blue lines CHK).
+
+3.2 | Plasmin-antiplasmin levels are increased in
+CSU patients
+
+Activation of the fibrinolytic system was analysed by measurement of
+PAP complexes and suPAR levels. We observed increased PAP levels
+in CSU patients compared to healthy controls (P =< .0001). This dif
+ference was present for symptom-free patients (P = .0021), patients
+HOFMAN er at.
+
+ 
+
+FIGURE 1 Cleaved HK in chronic
+spontaneous urticaria. Cleaved
+
+HK (cHK) levels were determined by
+ELISA. 100% cHK represents total
+cleavage of the HK pool. A, cHK levels
+in healthy controls (n = 28) and chronic
+spontaneous urticaria (CSU) patients
+
+(n = 86) and hereditary angioedema
+type 1 and type 2 (HAE, n = 46, red dots
+indicate samples collected during an
+acute angioedema attack). B, cHK levels
+(114 measurements in 86 patients) per
+disease severity: symptom-free (n = 15),
+mild (n = 35) and moderate to severe
+
+(n = 64). C, CHK per disease phenotype,
+dots reflect measurements in 86 patients.
+D, cHK levels during remission and
+angioedema attack in 3 patients with
+angioedema without urticaria, each
+symbol represents 1 patient. E, cHK levels
+in antihistamine-responsive (n = 27) and
+antihistamine-resistant (n = 56) patients.
+F, cHK and tryptase levels (n = 14). Lines
+indicate median, and Kruskal-Wallis test
+(A-C), Mann-Whitney t test (D, E) and
+Spearman's rank test (F) were used
+
+(A)
+
+ 
+
+Control
+
+ 
+
+with mild symptoms (P = .0002) and patients with moderate to severe
+
+symptoms (P < .0001, Figure 3A). There was no association with dis
+ease phenotype (P = .28, Figure 3B) or response to antihistamine ther
+apy (P = .21, Figure 3C). Soluble uPAR levels were only determined in
+
+patient samples as reference ranges from healthy control populations
+
+WI Ley
+
+ 
+
+(6) P <.0001
+
+P= .0043
+P> 9999 25 P =.0298
+—s —
+
+     
+
+ZO) QO od
+
+CSU HAE
+
+%cHK
+
+(F)
+
+25 r = 6513
+
+P= .0137
+
+20
+x @
+= 15 Xo)
+e (o)
+= 40 - Oe?
+
+fo) eo @ fe)
+
+ 
+
+0 2 4 6 8 10
+Tryptase pg/L
+
+were available. Measurements were done in 116 samples. In only two
+patients, levels were slightly increased and there was no difference in
+suPAR levels among the disease severity groups (P = .24, Figure 3D) or
+disease phenotypes (P = .42, Figure 3E). Furthermore, PAP and suPAR
+did not correlate to cHK levels or each other (Figure 4A-C).
+HOFMAN erat.
+
+ 
+
+8 | WILEY.
+
+FXila-C1-INH PKa-C1-INH
+
+nN w
+
+% C1-INH complex
+
+ 
+
+FIGURE 2 (C1-esterase inhibitor-enzyme complex levels in
+chronic spontaneous urticaria. Factor Xlla-C1-esterase inhibitor
+(C1-INH) and plasma kallikrein (PKa)-C1-INH complexes were
+determined by ELISA, and 100% represents complex formation
+after 30 minutes of dextran sulphate-induced contact activation in
+control pooled plasma. Healthy controls (n = 9) compared to chronic
+spontaneous urticaria (n = 86)
+
+4 | DISCUSSION
+
+We evaluated if there is evidence for bradykinin release in CSU and
+found that cHK, a marker for bradykinin production, was elevated in
+CSU patients compared to healthy controls. cHK levels normalized
+in patients that were in disease remission. Moreover, the observed
+increases in CHK levels were comparable to previously determined
+levels in HAE-1 and HAE-2. Increased cHK was not limited to CSU
+patients with angioedema and not associated with antihistamine
+responsiveness. However, cHK was inversely correlated to tryptase
+levels. In addition, PAP-complex levels were also increased reflecting
+fibrinolytic activity in CSU.
+
+The increase in cHK levels observed in this CSU cohort was
+within the healthy control range, roughly not surpassing 20% cHK.
+This raises the question if the cHK increase observed is of possible
+clinical relevance. To some extent, bradykinin release appears to
+be a physiological process, as CHK is detectable in healthy individuals. Cleaved HK only moderately discriminates between healthy
+individuals and those with bradykinin driven disease (HAE-1 and
+HAE-2). However, the cHK increase detected in CSU was comparable to levels detected in HAE-1 and HAE-2 patients, suggesting
+possible clinical relevance. The here-reported cHK levels in HAE-1
+and HAE-2 are lower than described in previous studies,1°212? and
+this can be explained by the use of protease inhibitor blood collection tubes in this study preventing post-blood draw ex vivo CHK
+generation. Moreover, we previously found that a slight rise of CHK
+within the range of healthy controls could indicate an angioedema
+attack in individual HAE patients.’7" It is therefore possible that
+the overall slightly increased cHK levels in CSU do reflect patholog
+ical bradykinin release.
+
+Previous studies to CSU only investigated bradykinin levels or HK
+degradation in very small numbers of patients and were limited to
+cases with angioedema. One study reported no decrease in HK antigen
+on Western blot in 7 cases with idiopathic angioedema.”° This different
+outcome can be explained by the sensitivity of cHK detection versus
+loss of HK antigen on Western blot. Another study observed decreased
+HK levels in 10 patients with angioedema provoked by oral contraceptive intake, notably 8 of them also reported weals, symptoms improved
+and HK normalized after cessation of oral contraceptives.2° Evidence
+is surfacing that bradykinin contributes to idiopathic angioedema that
+is unresponsive to antihistamine therapy (idiopathic non-histaminergic angioedema). Increased bradykinin levels were detected in four
+cases of idiopathic non-histaminergic angioedema during angioedema
+attacks.7* Moreover, ex vivo plasma stimulation with a FXII activator
+in patients with idiopathic non-histaminergic angioedema resulted in
+increased PKa activity,2° suggesting increased sensitivity to bradykinin
+production. Both studies did not found increased bradykinin levels or
+sensitivity to bradykinin production in idiopathic angioedema patients
+that did responded to antihistamine therapy (idiopathic histaminergic
+angioedema).?°° We determined cHK in three patients with idiopathic angioedema during an acute attack but did not observe a further
+increase in cHK. All three showed no clear benefit from antihistamine
+therapy but two continued to have a partial and complete response
+to omalizumab suggesting mast cell involvement in their disease pathology. Our findings appear to be in line with previous observations
+in idiopathic histaminergic angioedema as the cHK increase detected
+is subtle and within the range of healthy controls. However, using our
+sensitive method of cHK detection we observed a possible clinically
+relevant difference and are the first to report elevated CHK levels in
+CSU, unrelated to the occurrence of angioedema.
+
+We hypothesized that mast cell activity is the cause of increased
+CHK levels in CSU. A causal relation between mast cell activity and contact activation in allergy was repeatedly demonstrated before.?*”
+Tryptase is a marker for mast cell degranulation that is used in the clinic
+as a biomarker in anaphylaxis and mastocytosis. In this study, we found
+that cHK negatively correlated to tryptase levels. At the moment, we
+do not know the mechanism behind this inverse correlation. However,
+it is noteworthy that human mast cell tryptase has the ability to cleave
+HK at multiple sites.7° It is possible that this destroys the immunoreactive epitope for the antibodies that recognize cHK in our ELISA.
+
+Furthermore, it remains uncertain if mast cell degranulation is
+the source of cHK production in CSU. Previous work showed a positive correlation between tryptase and cHK in anaphylaxis.’° To confirm our finding in CSU, replication in a larger cohort is necessary, as
+only limited data were available.
+
+Involvement of the fibrinolytic system in CSU is topic of debate. The fibrin degradation product D-dimer is associated with
+CSU, and it correlates with disease severity and antihistamine-resistant urticaria.27°° However, urokinase-type plasminogen activator (uPA), suPAR and plasminogen activator inhibitor-1 were not
+elevated in one study in CSU patients.°* We add to these previous
+observations our finding of increased PAP-complex levels in CSU
+
+compared to healthy controls. There is a large bout of evidence
+HOFMAN er at.
+
+ 
+
+P<.0001
+P= .0002
+
+ 
+
+(C) 0.4
+P=.21
+
+0.3 °
+a
+o
+o 0.2 @
+<
+a
+
+0.1 res
+
+ 
+
+ 
+
+ 
+
+(D) (E)
+89 p= 24 87 p=.42
+_ @ im
+a a
+= aqcvece oo 3 cesar = aq .°
+a © a
+= =
+< <
+a2-. a cos - Oo 27....Be...
+s Ss
+on 7)
+
+ 
+
+FIGURE 3. Biomarkers of the fibrinolytic system in chronic spontaneous urticaria. Plasmin-antiplasmin (PAP) levels were determined by
+ELISA data represented in optical density (OD). A, PAP levels in healthy controls (n = 9) and chronic spontaneous urticaria (CSU) patients
+(111 measurements in 85 patients) per disease severity: symptom-free (n = 15), mild (n = 34) and moderate to severe (n = 62). B, PAP levels
+per disease phenotype and C, antihistamine refractoriness, dots reflect measurements in 85 patients. Soluble urokinase receptor (suPAR)
+levels were determined by ELISA (116 measurement in 88 patients), and dotted lines indicate upper and lower reference range in healthy
+controls. D, suPAR levels per disease severity (symptom-free n = 16, mild n = 34, moderate to severe n = 66). E, suPAR levels per disease
+phenotype, dots reflect measurements in 88 patients. Lines indicate median, and Kruskal-Wallis test was used for comparison
+
+demonstrating that activation of the fibrinolytic system and contact system go hand in hand.?*®92°5 Moreover, mast cells are
+pointed out as a source of fibrinolysis via excretion of tissue plasminogen activator, fibrinogenolytic properties of béta-tryptase °°
+and expression of uPAR.°” With this study, we could not establish a
+correlation between PAP levels and cHK. This may be explained by
+a mismatch in half-life of circulating CHK and circulating PAP levels.
+Moreover, PAP-complex levels were still increased in CSU patients
+in disease remission. This may reflect lingering mast cell activity.
+Alternatively, the presence of hyperfibrinolysis may predispose the
+development of CSU. Efficacy of a combination of low molecular
+weight heparin and the antifibrinolytic agent tranexamic acid was
+suggested in one pilot study including 8 antihistamine-resistant
+CSU patients.°%
+
+Whether our observation of increased cHK generation is of
+clinical relevance in CSU or cHK is just an innocent bystander requires investigations. We can only speculate that increased bradykinin turnover in CSU, as reflected by our biomarker study, may
+contribute to increased vasopermeability, possibly priming the vasculature for events leading to weals and/or angioedema. A recent
+case series including two CSU patients described that relapse in
+symptoms after initial successful omalizumab treatment drastically
+improved after cessation of ACE inhibitors. It was suggested that
+ACE inhibitors, which increase bradykinin levels, contributed to
+disease severity in these two CSU cases.°? In our cohort, we could
+not demonstrate a direct relation between antihistamine resistance
+and cHK levels. Notably, only 32% of patients reported benefit of
+antihistamine therapy. A referral bias is possible, as patients truly
+HOFMAN erat.
+
+ 
+
+ 
+
+0.0 014 0.2
+
+PAP (OD)
+
+0.3
+
+0.4 0 2
+suPAR (ng/mL)
+
+(C) 6
+P=.07
+any [e)
+£4 ea, °
+2 80
+a
+<x
+o
+=}
+an
+
+ 
+
+4 6
+
+0.0 0.1
+
+0.2 0.3
+PAP (OD)
+
+0.4
+
+FIGURE 4 Cleaved HK levels and biomarkers of the fibrinolytic system do not correlate. Cleaved HK (cHK), plasmin-antiplasmin (PAP)
+and soluble urokinase-type plasminogen activator receptor (suPAR) were determined by ELISA. cHK plotted against A, PAP levels and B,
+suPAR levels. C, suPAR levels plotted against PAP levels. Spearman's rank test was used
+
+responsive to antihistamine therapy would not have been referred
+to our tertiary treatment centre. We suspect that increased bradykinin release may aggravate histamine-driven symptoms in CSU.
+Mast cell-released heparin is a likely source of contact activation
+in CSU, but we cannot exclude involvement of other triggers for
+bradykinin production such as platelets 1? or endothelial cells.1°**
+We here report on increased cHK levels in CSU reflecting increased bradykinin release. CSU is considered a multifactorial,
+mast cell-mediated disease, and we cautiously introduce the idea of
+including bradykinin in this multifactorial model. If and to what ex
+tent bradykinin indeed contributes to CSU remains to be answered.
+
+ACKNOWLEDGEMENTS
+
+We thank Ans Lebens, Jos Beutler, Stans den Hartog Jager, Stefan
+Nierkens and Edward Knol for their assistance in setting up the
+biobank, patient inclusion and sample collection. We thank Arjan
+Barendrecht for advice on the ELISA set-up. We thank Bram Nuiten
+from ELITechGroup for suPAR determinations.
+
+CONFLICT OF INTEREST
+
+CM and SM are inventors and have a financial interest in SERPINx
+BV. CEH has a financial interest in Prothix BV. AK received research
+funding from Novartis and is a member of the national and international advisory board from Novartis for CSU. HR is a member of the
+national advisory board from Novartis for CSU. ZH, MvdE and JK
+
+have no conflict of interest to declare.
+
+AUTHORS CONTRIBUTIONS
+
+ZH prepared the first draft of this manuscript, collected clinical data
+and performed analysis on the data. MvdE wrote the protocol for
+the biobank study, included the majority of patients and reviewed
+the manuscript. ZH and JK carried out experimental work. CM, CEH,
+SM, ACK and RH supervised the work and revised the manuscript.
+
+All authors read and approved the final manuscript.
+
+DATA AVAILABLE STATEMENT
+The data that support the findings of this study are available from
+
+the corresponding author upon reasonable request.
+
+ORCID
+Zonne L.M. Hofman © https://orcid.org/0000-0002-4001-6133
+
+REFERENCES
+
+1. Puxeddul, Pratesi F, Ribatti D, Migliorini P. Mediators of inflammation
+and angiogenesis in chronic spontaneous urticaria: are they potential
+biomarkers of the disease? Mediators Inflamm. 2017;2017:4123694.
+
+2. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA2LEN/EDF/
+WAO Guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update. Allergy Eur
+JAllergy Clin Immunol. 2014;69(7):868-887.
+
+3. Maurer M, Rosén K, Hsieh H-J, et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med.
+2013;368(10):924-935.
+
+4. Maurer M, Magerl M, Ansotegui I, et al. The international WAO/
+EAACI guideline for the management of hereditary angioedema-The 2017 revision and update. Allergy. 2018;73(8):1575-1596.
+
+5. Nussberger J, Cugno M, Amstutz C, Cicardi M, Pellacani A,
+Agostoni A. Plasma bradykinin in angio-oedema. Lancet.
+1998;351(9117):1693-1697.
+
+6. de Maat S, Maas C. Factor XII: form determines function. J Thromb
+Haemost. 2016;14(8):1498-1506.
+
+7. Cicardi M, Aberer W, Banerji A, et al. and approach to treatment for
+angioedema: consensus report from the Hereditary Angioedema
+International Working Group. Allergy. 2014;69(5):602-616.
+
+8. van der Linden PW, Hack CE, Eerenberg AJ, Struyvenberg A, van
+der Zwan JK. Activation of the contact system in insect-sting anaphylaxis: association with the development of angioedema and
+shock. Blood. 1993;82(6):1732-1739.
+
+9. van der Linden PW, Hack CE, Struyvenberg A, et al. Controlled insect-sting challenge in 55 patients: correlation between activation
+of plasminogen and the development of anaphylactic shock. Blood.
+1993;82(6):1740-1748.
+
+10. Sala-Cunill A, Bjérkqvist J, Senter R, et al. Plasma contact system
+activation drives anaphylaxis in severe mast cell-mediated allergic
+reactions. J Allergy Clin Immunol. 2015;135(4):1031-1043.
+HOFMAN er at.
+
+ 
+
+14.
+
+12.
+
+13.
+
+14.
+
+45.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+Oschatz C, Maas C, Lecher B, et al. Mast cells increase vascular
+permeability by heparin-initiated Bradykinin formation in vivo.
+Immunity. 2011;34(2):258-268.
+
+Verhoef JJF, Barendrecht AD, Nickel KF, et al. Polyphosphate
+nanoparticles on the platelet surface trigger contact system activation. Blood. 2017;129(12):1707-1717.
+
+de Maat S, de Groot PG, Maas C. Contact system activation on endothelial cells. Semin Thromb Hemost. 2014;40(8):887-894.
+
+Mahdi F, Madar ZS, Figueroa CD, Schmaier AH. Factor XII interacts
+with the multiprotein assembly of urokinase plasminogen activator
+receptor, gC1gR, and cytokeratin 1 on endothelial cell membranes.
+Blood. 2002;99(10):3585-3596.
+
+von Briihl M-L, Stark K, Steinhart A, et al. Monocytes, neutrophils,
+and platelets cooperate to initiate and propagate venous thrombosis in mice in vivo. J Exp Med. 2012;209:819-835.
+
+Hofman ZLM, de Maat S, Suffritti C, et al. Cleaved kininogen as
+a biomarker for bradykinin release in hereditary angioedema. J
+Allergy Clin Immunol. 2017;140(6):1700-1703.
+
+Weller K, Groffik A, Church MK, et al. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol.
+2014;133(5):1365-1372.
+
+de Maat S, Bjorkqvist J, Suffritti C, et al. Plasmin is a natural trigger for bradykinin production in patients with hereditary angioedema with factor XII mutations. J Allergy Clin Immunol.
+2016;138(5):1414-1423.
+
+Bouma B, Maas C, Hazenberg B, Lokhorst H, Gebbink M. Increased
+plasmin- a 2-antiplasmin levels indicate activation of the fibrinolytic system in systemic amyloidoses. J Thromb Heamostasis.
+2007;5:1139-1142.
+
+Haupt TH, Petersen J, Ellekilde G, et al. Plasma suPAR levels are associated with mortality, admission time, and Charlson Comorbidity
+Index in the acutely admitted medical patient : a prospective observational study. Crit Care. 2012;16(4):R130. http://ccforum.com/
+content/16/4/R130
+
+Suffritti C, Zanichelli A, Maggioni L, Bonanni E, Cugno M, Cicardi M.
+High-molecular-weight kininogen cleavage correlates with disease
+states in the bradykinin-mediated angioedema due to hereditary
+C1-inhibitor deficiency. Clin Exp Allergy. 2014;44(12):1503-1514.
+Banerji A, Busse P, Shennak M, et al. Inhibiting plasma
+kallikrein for hereditary angioedema prophylaxis. N Engl J Med.
+2017;376(8):717-728.
+
+Giard C, Nicolie B, Drouet M, et al. Angio-oedema induced by oestrogen contraceptives is mediated by Bradykinin and is frequently
+associated with Urticaria. Dermatology. 2012;225(1):62-69.
+
+CugnoM, TedeschiA, Nussberger J. Bradykinin in idiopathic non-histaminergic angioedema. Clin Exp Allergy. 2017;47(1):139-140.
+Lara-Marquez ML, Christiansen SC, Riedl MA, Herschbach J,
+Zuraw BL. Threshold-stimulated kallikrein activity distinguishes
+bradykinin- from histamine-mediated angioedema. Clin Exp Allergy.
+2018;48(11):1429-1438.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+WILEY"!
+
+Nussberger J, Cugno M, Cicardi M. Bradykinin-mediated angioedema. N Engl J Med. 2002;347(8):621-622.
+
+Guilarte M, Sala-Cunill A, Luengo O, Labrador-Horrillo M, Cardona
+V. The mast cell, contact, and coagulation system connection in
+anaphylaxis. Front Immunol. 2017;8:846.
+
+Little SS, Johnson DA. Human mast cell tryptase isoforms: separation and examination of substrate-specificity differences. Biochem
+J. 1995;307(2):341-346.
+
+Asero R, Marzano AV, Ferrucci S, Cugno M. D-Dimer plasma levels parallel the clinical response to Omalizumab in patients with
+severe chronic spontaneous Urticaria. Int Arch Allergy Immunol.
+2017;172(1):40-44.
+
+Asero R. D-dimer: a biomarker for antihistamine-resistant chronic
+urticaria. J Allergy Clin Immunol. 2013;132(4):983-986.
+Kasperska-Zajac A, Brzoza Z, Rogala B. Blood urokinase plasminogen activator system in chronic urticaria. Arch Dermatol Res.
+2007;298(8):409-411.
+
+Hofman Z, de Maat S, Hack CE, Maas C. Bradykinin: inflammatory product of the coagulation system. Clin Rev Allergy Immunol.
+2016;51:152-161.
+
+Cugno M, Hack CE, de Boer JP, Eerenberg AJ, Agostoni A, Cicardi
+M. Generation of plasmin during acute attacks of hereditary angioedemaa. J Lab Clin Med. 1993;121(1):38-43.
+
+Van Geffen M, Cugno M, Lap P, Loof A, Cicardi M, Van Heerde
+W. Alterations of coagulation and fibrinolysis in patients with
+angioedema due to C1-inhibitor deficiency. Clin Exp Immunol.
+2012;167(3):472-478.
+
+Bork K, Wulff K, Steinmiiller-Magin L, et al. Hereditary angioedema with a mutation in the plasminogen gene. Allergy.
+2018;73(2):442-450.
+
+Valent P, Baghestanian M, Bankl HC, et al. New aspects in thrombosis research: possible role of mast cells as profibrinolytic and antithrombotic cells. Thromb Haemost. 2002;87(5):786-790.
+
+Rossi FW, Prevete N, Rivellese F, et al. The Urokinase/Urokinase
+receptor system in mast cells: effects of its functional interaction
+with fMLF receptors. Transl Med. 2016;15:34-41.
+
+Asero R, Tedeschi A, Cugno M. Heparin and tranexamic Acid
+therapy may be effective in treatment-resistant chronic urticaria
+with elevated d-dimer: a pilot study. Int Arch Allergy Immunol.
+2010;152(4):384-389.
+
+Asero R. ACE inhibitors may interfere with omalizumab in chronic
+spontaneous urticaria. J Eur Acad Dermatol Venereol. 2017;31(8):e3
+58-e359.
+
+How to cite this article: Hofman ZLM, van den Elzen MT,
+Kuijpers J, et al. Evidence for bradykinin release in chronic
+spontaneous urticarial. Clin Exp Allergy. 2020;50:343-351.
+https://doi.org/10.1111/cea.13558
+
+ 
+

@@ -1,0 +1,654 @@
+ORIGINAL ARTICLE
+
+Chronic Autoimmune Urticaria: Frequency
+and Association With Immunological
+Markers
+
+M Abd El-Azim, S Abd El-Azim
+
+edical Microbiology and Immunology, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+ 
+
+@ Abstract
+
+Background: Chronic autoimmune urticaria (CAU), a subgroup of chronic idiopathic urticaria (CIU), is characterized by severe and persistent
+wheals accompanied by redness and itching. Diagnosis is almost completely based on clinical suspicion and the results of the autologous
+serum skin test (ASST).
+
+Objectives: To determine the frequency of CAU and compare the clinical and laboratory parameters of patients with positive and negative ASST results.
+Patients and Methods: A total of 165 patients with chronic urticaria (CU) were enrolled; 31 were excluded (known causes and pregnancy/
+breastfeeding), leaving 134 patients with CIU. A clinical evaluation and routine and specific laboratory tests were performed.
+
+Results: The cause of CU was identified in 18.9% of patients; 81.2% patients were considered to have CIU. The ASST result was positive
+in 39.6% of patients with CIU, who had more frequent urticaria attacks than patients with a negative ASST result. Patients with positive
+results had a higher urticaria activity score than those with negative results, although the difference was not statistically significant. As
+for immunological markers, the absolute eosinophil count and serum immunoglobulin (Ig) E titer were lower in patients with a positive
+ASST result than in those with a negative ASST result, although, again, the difference was not statistically significant (P=.07). Antithyroid
+antibody titer and B-cell percentage were higher in patients with a positive ASST result than in those with a negative result, and the
+difference was statistically significant (P=.04 and .004, respectively).
+
+Conclusions: ASST remains a baseline diagnostic test for CAU. Patients with CAU had more frequent attacks and higher antithyroid antibody
+titers and peripheral B-cell percentages, as well as lower absolute eosinophil counts and serum IgE concentrations.
+
+Key words: Autologous serum skin test. Chronic urticaria. Autoimmunity.
+
+ 
+
+ 
+
+ 
+
+™@ Resumen
+
+ 
+
+Antecedentes: La urticaria cronica autoinmunitaria (UCA), un subgrupo de urticaria cronica idiopatica (UCI), se caracteriza por la presencia
+de habones de caracter grave y persistente acompafiados de enrojecimiento y prurito. El diagndstico se basa casi por completo en la
+sospecha clinica y los resultados de la prueba cutanea con suero autdlogo (PCSA).
+Objetivos: Determinar la frecuencia de la UCA y comparar los parametros clinicos y de laboratorio de pacientes con resultados positivos
+y negativos en la PCSA.
+Pacientes y métodos: Se incluyo a 165 pacientes con urticaria cronica (UC), de los que se excluyé a 31 (causas conocidas y embarazo/
+lactancia), quedando 134 pacientes con UCI. Se llevaron a cabo una evaluacién clinica y andlisis de rutina y especificos.
+Resultados: La causa de la UC se identificd en un 18,9% de los pacientes; se consideré que un 81,2% de pacientes padecia UCI. El resultado
+de la PCSA fue positivo en un 39,6% de pacientes con UCI, que tenian episodios de urticaria con mayor frecuencia que los pacientes con un
+resultado negativo en la PCSA. Los pacientes con resultados positivos presentaron una puntuacidn de actividad de urticaria mas elevada que
+aquellos con resultados negativos, si bien la diferencia no fue estadisticamente significativa. En cuanto a los marcadores inmunoldgicos, el
+recuento absoluto de eosindfilos y el titulo de inmunoglobulina (Ig) E en suero fueron mas bajos en pacientes con un resultado positivo en
+la PCSA que en aquellos con un resultado negativo en dicha prueba, aunque, de nuevo, la diferencia no fue estadisticamente significativa
+(p =0,07). El titulo de anticuerpos antitiroideos y el porcentaje de linfocitos B fueron mayores en los pacientes con un resultado positivo en
+la PCSA que en aquellos con un resultado negativo, y la diferencia fue estadisticamente significativa (p =0,04 y 0,004, respectivamente).
+Conclusiones: La PCSA sigue siendo una prueba diagndstica basica para la UCA. Los pacientes con UCA presentaron episodios mas
+frecuentes, titulos de anticuerpos antitiroideos y porcentajes de linfocitos B periféricos mas elevados, asi como recuentos absolutos de
+eosindfilos y concentraciones séricas de IgE mas bajos.
+
+ 
+
+ 
+
+ 
+
+Palabras clave: Prueba cutanea con suero autdlogo. Urticaria crénica. Autoinmunidad.
+
+ 
+
+ 
+
+ 
+
+© 2011 Esmon Publicidad J Investig Allergol Clin Immunol 2011; Vol. 21(7): 546-550
+547 M Abd El-Azim, et al
+
+ 
+
+Introduction
+
+Chronic urticaria (CU) is acommon skin disorder, affecting
+0.1%-1% of the general population. It is characterized by
+recurrent and transitory (<24 hours) pruritic erythematous
+wheals that present at least twice weekly for at least 6 weeks
+[1]. Several investigators have demonstrated a subgroup
+of chronic idiopathic urticaria (CIU), chronic autoimmune
+urticaria (CAU), which affects 30%-50% of CIU patients [2-4].
+
+Immune dysregulation in CAU is characterized by a
+systemic inflammatory profile associated with abnormal
+B-cell-induced immunoglobulin (Ig) E production and
+T-cell—-induced cytokine production [5].
+
+CAU is characterized by the presence of functional
+autoantibodies that activate mast cells and basophils. About
+50% of these antibodies are functional IgG autoantibodies
+that bind to the high-affinity IgE receptor FceRI, and 9% bind
+to the IgE antibody itself [6]. Their presence is consistent
+with disease exacerbation [7].
+
+Diagnosis of CAU is based on clinical suspicion and
+in vivo and in vitro tests to determine functional histamine
+release from basophils or mast cells. The autologous serum
+skin test (ASST) is an in vivo test that assesses autoreactivity
+in CAU patients, particularly during the active phases of
+the disease. It may be an indication of mast cell—activating
+autoantibodies that act either indirectly through the release
+of mediators from cutaneous mast cells and other cells or
+directly in the microvasculature of the skin. The sensitivity
+of the test is approximately 70% and the specificity 80% [8].
+Hence, the presence of functional autoantibodies should be
+confirmed by in vitro tests such as the basophil histamine
+release assay and immunoassay [9].
+
+Despite being the gold standard for detecting functional
+autoantibodies, the basophil histamine release assay is a
+time-consuming procedure that is difficult to standardize [10].
+Furthermore, attempts to develop successful Western blot
+assays and enzyme-linked immunosorbent assays continue to
+be unsuccessful [11,12].
+
+Identification of an autoimmune cause can help to rule out the
+need to continue searching for other etiologies. Early diagnosis
+is important, as patients need high doses of antihistamines,
+systemic corticosteroids, and immunomodulatory drugs in
+severe cases [13]. Therefore, we aimed to determine the
+frequency of CAU among patients with CIU attending our
+Allergy and Immunology Unit and to identify any clinical and
+laboratory findings related to positivity of ASST.
+
+Patients and Methods
+
+From December 2009 to October 2010, we recruited
+165 patients with CU from the Allergy and Immunology
+Unit of the Microbiology and Immunology Department,
+Faculty of Medicine, Zagazig University, Zagazig, Egypt.
+A diagnosis of CU was defined as recurrent episodes of
+wheals, with or without angioedema, of at least 6 weeks
+duration [14]. Patients had to be off antihistamines for at
+least 2-3 days (long-acting antihistamines for 7 days) [9,15]
+
+J Investig Allergol Clin Immunol 2011; Vol. 21(7): 546-550
+
+fumigatus), mixed pollens, and hay dust. Written informe
+
+and corticosteroids and other immunosuppressive drugs
+for 4 weeks before the study to reduce the possibility of
+generating false-negative results. The etiology of CU was
+evaluated using the medical history, clinical examination, an
+laboratory tests. The data recorded from the medical history
+included duration of disease, frequency of attacks, associate
+angioedema, dermographism, and history of atopy. Clinical
+examination included both general and dermatologica
+examinations. Laboratory tests [16] included complete
+blood count, liver function tests, kidney function tests, and
+infection panel (hepatitis surface antigen, antibody titers for
+hepatitis B and C virus, throat culture, urine analysis an
+culture, and microscopic examination of stool for parasites).
+In order to rule out allergic causes of urticaria we performed
+skin prick tests with the following common allergens: house
+dust mite, human hair, tobacco smoke, wool, cotton, mixe:
+fungus (Aspergillus niger, Aspergillus flavus, and Aspergillus
+
+ 
+
+consent was obtained from all patients.
+
+Exclusion Criteria
+
+We excluded 31 patients who were pregnant or breastfeeding
+or had a known cause of CU.
+
+The remaining 134 patients with CIU underwent the
+following evaluations:
+
+1. Urticaria activity score (UAS) [17].
+
+2. Peripheral blood eosinophil count. Eosinophilia was
+defined as a count >5% or >350 cells/mm? [18].
+
+3. Serum total IgE level (Immundiagnostik IgE ELISA kit,
+Immundiagnostik AG, Bensheim, Germany).
+
+4. Antithyroid peroxidase (anti-TPO) antibody (Medizym
+anti-TPO ELISA, Medipan Diagnostica, Dahlewitz/
+Berlin, Germany). All the procedures were performed
+according to the manufacturers’ instructions. Anti-TPO
+antibody values of >30 IU/mL were considered positive.
+
+5. Flow cytometry. The percentage of CD3- CD19*
+B lymphocytes in peripheral blood was detected.
+Two-color analysis was performed using monoclonal
+antibodies marked with CD 19-fluorescein isothiocyanate
+(HIB19 clone; BD Pharmingen, San Diego, California,
+USA) and CD3-allophycocyanin (UCHT Iclone;
+BD PharMingen) according to the manufacturer’s
+instructions. Cells were analyzed using a FACScan flow
+cytometer (Becton Dickinson, San Diego, California,
+USA) and CellQuest software (Becton Dickinson,
+Mountainview, California, USA).
+
+6. ASST technique. Patients received an intradermal
+injection (50 uL of autologous serum, histamine
+diphosphate, and sterile physiological saline) into the
+volar forearm [15,19], avoiding areas known to have
+had spontaneous wheals in the previous 48 hours (mast
+cells may be refractory to further activation [local
+tachyphylaxis]) [20]. After 30 minutes (15 minutes for
+histamine), the wheal was measured at its 2 longest
+perpendicular diameters and the average was calculated
+[6]. A positive ASST result was defined as a seruminduced wheal with a diameter of =1.5 mm as compared
+to a saline-induced wheal at 30 minutes (Figure).
+
+ 
+
+© 2011 Esmon Publicidad
+Autoimmune Urticaria: Immunological Markers 548
+
+ 
+
+Statistical Analysis
+
+Data were recorded and processed using SPSS version 12.0
+(SPSS Inc., Chicago, Illinois, USA). Quantitative variables
+were expressed as mean (SD) and compared using the MannWhitney test for 2 independent variables. Qualitative variables
+were expressed as frequency and percentage and compared
+using the x? test or Fisher exact test when appropriate. A
+P value <.05 was considered significant.
+
+ 
+
+Results
+
+ 
+
+Figure. A positive result in the autologous serum skin test. Serum was A total of 165 patients with CU were enrolled in this study.
+injected more proximally and histamine more distally, with normal saline The etiology—or an exclusion criterion—was identified in 31
+in the middle. A significant wheal and flare response was seen at the (18.9%) patients, and th ining 134 (81.2%) patient
+serum and histamine injection sites only. The diameter of the serum- 7-70) palien!s, and’ ie remaining 1270) patients Were
+induced wheal is 1.7 mm greater than that of the saline-induced wheal. considered to have CIU. The ASST result was positive in 53
+(39.6%) CIU patients and negative in 81 (60.4%) (Table 1). There
+were no significant differences
+between the groups in age,
+sex, total duration of disease
+at the time of assessment, and
+
+ 
+
+Table 1. Characteristics of Chronic Idiopathic Urticaria Patients
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo ee Pp angioedema. The number of
+
+frequent attacks (>5 times/
+
+Age. y week) was significantly greater
+Range in the positive group than in
+Mean (SD) 18-65 20-75 jg the negative group (P<.001).
+36.4 (10.8) 39.7 (14.3) . The UAS was higher in patients
+
+with a positive ASST result
+
+Sex (Table 2), although the
+Females, No.\(%) S871. TR) 46.66.82) .08 difference was not significant
+Males, No. (%) 15 (28.3%) 35 (43.2%) (P=.07). Immunological
+Duration of the disease, mo markers are shown in Table 3.
+Range 3-121 1-300 09 The absolute eosinophil count
+Mean (SD) 27.4 (31) 26.7 (44.3) . and serum IgE titer were lower
+in patients with a positive
+
+Frequency of attacks, ASST score than in those with
+>5/wk, No. (%) 49 (92.5%) 52 (52.8%) <.001 a negative score, although the
+Angioedema, No. (%) 6 (11.3%) 8 (9.9%) .78 difference was not significant
+
+(P=.22 and .15, respectively).
+
+ 
+
+Abbreviation: ASST, autologous serum skin test.
+*P<.05 was significant
+Table 3. Immunological Markers
+
+ 
+
+Positive ASST Negative ASST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(n=53) (n=81) PB
+Table 2. Urticaria Activity Score a
+Eosinophil count/mm?
+Parameter Positive ASST Negative ASST Pp Range 60-211 76-269
+(n=53) (n=81) Mean (SD) 146 (65.8) 160.6 (69.2) 22
+. Serum IgE level, [U/mL
+
+Nuiihber of whicals 25:(0:6) 2:3 (0.7) 08 Range 42.13-110.25  54.23-127.65
+Size of wheals 2.9 (1.0) 2.6 (0.9) 07 Mean (SD) 67.4 (4422) 826 (40.07) is
+Intensity of pruritus 2.8 (0.8) 2.70.9) 05 aww “we .
+Duration 2.3 (0.9) 2.0 0.8) 1 Anti-TPO antibody
+Frequency 2.7 (1.0) 2.5 (1.1) 28 No. of patients, % 8 (15.1%) 4 (4.9%) 04
+Frequency of . EN
+antihistamine use 2.40.9) 2.30.7) 41 Bells, 16380.97) 12.2225) 08
+TSS 15.2 (5.1) 13.8 (4.1) 07 Abbreviations: ASST, autologous serum skin test; Ig, immunoglobulin;
+TS TPO, thyroid peroxidase.
+Abbreviations: ASST, autologous serum skin test; TSS, total symptom score. *Ps.05.
+*Ps.05 °B cells/peripheral blood lymphocytes.
+
+© 2011 Esmon Publicidad J Investig Allergol Clin Immunol 2011, Vol. 21(7): 546-550
+549 M Abd El-Azim, et al
+
+ 
+
+Higher anti-TPO antibody titers and B-cell percentages
+were recorded in patients with a positive ASST result
+than in those with a negative result, and the difference
+was significant (P=.04 and .004, respectively).
+
+Discussion
+
+The ASST showed that CAU affected 39.6% of our
+patients. The prevalence of positive ASST results in CU
+patients has been reported to vary from 34% to 67% in various
+studies [21-23]. Differences in frequency according to ethnic
+group suggest a genetic background [9]. In addition, ASST
+may generate false-positive results owing to the presence of
+mast cell—specific nonimmunoglobulin histamine—releasing
+factors [24] and clotted blood generates bradykinin [6]. We
+found no significant differences between the groups for
+age or associated angioedema. This finding agreed with the
+previous study of Kulthanan et al [25]. However, our study
+did detect a female predominance in CAU patients, a finding
+that is consistent with those of Caproni et al [21]. We found
+no significant differences in disease duration between the
+2 groups, as was the case with George et al [26] in India.
+By contrast, Boguniewicz [27] found that disease duration
+was significantly longer in patients with a positive ASST
+result than in patients with a negative result. Frequent attacks
+(>5 times/week) were significantly more common in ASSTpositive patients than in ASST-negative patients. This finding
+was consistent with the results of George et al and could be
+explained by the difficulty in controlling CAU.
+
+Our study showed that the severity of urticaria was greater,
+although not significantly so, if the ASST result was positive. This
+is consistent with the findings of Bajaj et al [17]. However, Caproni
+et al [21] found that patients with a positive ASST result presented
+more severe clinical features than those with a negative result.
+
+As for immunological markers, absolute eosinophil count
+was not significantly lower in patients with a positive ASST
+result, although it was within the upper limits of normal. This
+reduction is consistent with the accumulation of eosinophils
+in lesional skin [28]: eosinophils are recruited following the
+release of cytokines and chemotactic factors and activation and
+recruitment of adhesion molecules on migrating eosinophils
+and on endothelial cells [29]. The role of tissue eosinophilia
+is unclear, although it is possible that release of toxic major
+basic protein and eosinophil cationic protein further augments
+histamine release from mast cells in the late phase of the
+urticarial wheal [9].
+
+We found that a positive ASST result was more likely to
+be associated with significantly lower IgE levels than ASSTnegative patients. This finding agrees with those of Huilan et
+al [5], who attributed this association to IgE—anti-IgE immune
+complex formation that reduces the amount of detectable free
+IgE in patients with anti-IgE autoantibodies. In contrast, other
+authors showed serum IgE level to be significantly higher in
+ASST-positive patients [6,30], and this could be due to an
+improvement in CAU patients after treatment with the anti-IgE
+antibody omalizumab, which selectively binds to IgE, thus
+decreasing IgE receptor density on basophils and cutaneous
+mast cells and preventing activation by autoantibodies [6].
+
+ 
+
+J Investig Allergol Clin Immunol 2011; Vol. 21(7): 546-550
+
+The significant association between a positive ASST result
+and anti-TPO antibody titer is consistent with the findings of
+other studies and can be explained by segregation of anti-TPO
+antibodies from IgE receptor antibodies because of B-cell
+hyperreactivity [23,31]. However, other authors did not detect
+a difference in the incidence of thyroid disease, probably as a
+result of insufficient sample size (thyroid autoimmunity occurs
+in less than 6% of the general population) [32]. Finally, we
+found that ASST-positive CAU patients were more likely to
+be associated with a higher percentage of B cells. This finding
+agrees with those of Huilan et al [5] and Toubi et al [33], who
+reported increased proliferation rates and decreased apoptosis
+rates for B cells.
+
+In conclusion, ASST is a baseline diagnostic test for CAU.
+Patients with CAU have more frequent attacks and higher antiTPO antibody titers and peripheral B-cell percentages, as well
+as lower absolute blood eosinophil counts and serum IgE titers.
+
+Thyroid function and anti-TPO antibody titers should
+be routinely assessed in CU patients. In addition, successful
+therapy for urticaria should target the regulatory pathway
+linking B cells and IgE in order to downregulate FceRI
+expression.
+
+References
+
+ 
+
+1. Greaves MW, Tan KT. Chronic urticaria: recent advances. Clin
+ev Allergy Immunol. 2007;33:134-43.
+2. Ferrer M, Kinet, JP, and Kaplan AP. Comparative studies of
+unctional and binding assays for IgG anti-FceRlo. (c.-subunit)
+in chronic urticaria. J Allergy Clin Immunol. 1998; 101:672-6.
+3. Platzer MH, Grattan CEH, Poulsen LK, Skov PS. Validation of
+jasophil histamine release against the autologous serum skin
+test and outcome of serum-induced basophil histamine release
+studies in a large population of chronic urticaria patients.
+Allergy. 2005;60:1152-6.
+4. Schocket AL. Chronic urticaria: pathophysiology and etiology, or
+he what and why. Allergy Asthma Proc. 2006;27:90-5.
+5. Huilan Z Runxiang L Bihua L Qing G. Role of the subgroups of T,
+B, natural killer lymphocyte and serum levels of interleukin-15,
+interleukin-21 and immunoglobulin E in the pathogenesis of
+urticaria. J Dermatol. 2010;37:441-7.
+
+6. Kaplan AP and Greaves MW. Pathogenesis of chronic urticaria.
+Clin Exp Allergy. 2009;33:777-87.
+
+7. Grattan CE, Wallington TB, Warin RP, Kennedy CT, Bradfield JW.
+A serological mediator in chronic idiopathic urticaria: a clinical,
+immunological and histological evaluation. Br J Dermatol.
+1986; 114:583-90.
+
+8. Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves
+MW. Chronic idiopathic urticaria: comparison of the clinical
+features of patients with and without anti-Fc epsilon RI or antiIgE autoantibodies. J Am Acad Dermatol. 1999;40:443-50.
+
+9. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A,
+Greaves MW. The autologous serum skin test: a screening test
+for autoantibodies in chronic idiopathic urticaria. Br J Dermatol.
+1999; 140:446-52.
+
+10. Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am
+Acad Dermatol. 2002;46:645-57, quiz 57-60.
+11. Soundararajan S, Kikuchi Y, Joseph K, Kaplan AP. Functional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© 2011 Esmon Publicidad
+Autoimmune Urticaria: Immunological Markers
+
+550
+
+ 
+
+12.
+
+13.
+
+14.
+
+15:
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22:
+
+23.
+
+24.
+
+assessment of pathogenic IgG subclasses in chronic autoimmune
+urticaria. J Allergy Clin Immunol. 2005;115:815-21.
+
+Vohra S, Sharma NL, Mahajan VK. Autologous serum skin
+test: methodology, interpretation and clinical applications. J
+Dermatol Venereol Leprol. 2009;75:545-8.
+
+namadar AC, Palit A. Management of autoimmune urticaria.
+ndian J Dermatol Venereol Leprol. 2008;74:89-91.
+
+O'Donnell BF, Nell CMO, Francis DM, Niimi N, Barr MR, Barlow
+RJ, et al. Human leucocyte antigen class Il associations in
+chronic idiopathic urticaria. Br J Dermatol. 1999; 140:853-8.
+Godse KV. Autologous serum skin test in chronic urticaria.
+ndian J Dermatol Venereol Leprol. 2004;70:283-4.
+
+homas P, Perkin MR, Rayner N, Cox H, Fox AT, Leech S,
+et al. The investigation of chronic urticaria in childhood:
+which investigations are being performed and which are
+recommended? Clin Exp Allergy. 2008;38:1061-2.
+Bajaj Ak, Saraswat A, Upedhyay A, Damisetty R, Dhar S.
+Autologous serum therapy in chronic urticaria: old wine in a
+new bottle. Indian J Dermatol Venerol Leprol. 2008;74:109-13
+Burrows B, Hasan FM, Barbee RA, Halonen M, Lebowitz MD.
+Epidemiologic observations on eosinophilia and its relation to
+respiratory disorders. Am Rev Respir Dis. 1980;122:709.
+Kontou-Fili K, Borici-Mazi R, Kapp A, Matjevic LJ, Mitchel FB.
+Physical urticaria: classification and diagnostic guidelines. An
+EAACI position paper. Allergy. 1997;52:504-13.
+Grattan CE, Hamon CG, Cowan MA, Leeming RJ. Preliminary
+identification of a low molecular weight serological mediator in
+chronic idiopathic urticaria. Br J Dermatol. 1988; 119:179-83.
+Caproni M, Volpi W, Giomi B, Cardinali C, Antiga E, Melani L,
+Dagata A, Fabbri P. Chronic idiopathic and chronic autoimmune
+urticaria: clinical and immunopathological features of 68
+subjects. Acta Derm Venereol. 2004;84:288-90.
+Bakos N, Hillander M. Comparison of chronic autoimmune
+urticaria with chronic idiopathic urticaria. Int J Dermatol.
+2003;42:613-5.
+Nettis E, Dambra P, D’Oronzio L, Cavallo E, Loria MP, Fanelli
+M, Ferrannini A, Tursi A. Reactivity to autologous serum skin
+est and clinical features in chronic idiopathic urticaria. Clin Exp
+Dermatol. 2002;27:29-31.
+
+Saini S. Chronic urticaria: Diagnosis, theories of pathogenesis,
+and natural history. Available at: http://www.uptodate.com/
+contents/chronic-urticaria-diagnosis-theories-of-pathogenesisand-natural-history. Accessed May 2011.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© 2011 Esmon Publicidad
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33;
+
+Kulthanan K, Jiamton S, Gorvanich T, Pinkaew S. Autologous
+serum skin test in chronic idiopathic urticaria: prevalence,
+correlation and clinical implications. Asian Pac J Allergy
+Immunol. 2006;24:201-6.
+
+George M, Balachandran C, Prabhu S. Chronic idiopathic
+urticaria: comparison of clinical features with positive
+autologous serum skin test. Indian J Dermatol Venereol Leprol.
+2008;74:105-8.
+Boguniewicz M. The autoimmune nature of chronic urticaria.
+Allergy Asthma Proc. 2008;29:433-8.
+Haas N, Toppe E, Henz BM. Microscopic morphology of different
+types of urticaria. ArchDermatol. 1998;134:41-6.
+Lee KH, Kim JY, Kang DS, Choi YJ, Lee WJ, Ro JY. Increased
+expression of endothelial cell adhesion molecules due to
+mediator release from human fore skin mast cells stimulated
+y autoantibodies in chronic urticaria sera. J Invest Dermatol.
+2002;118:658-63.
+Kessel A, Helou W, Bamberger E, Sabo E, Nusem D, Panasso J,
+oubi E. Elevated serum total IgE — a potential marker for severe
+chronic urticaria. Int Arch Allergy Immunol. 2010; 153:288-93.
+Kikuchi Y, Fann 7, Kaplan AP. Antithyroid antibodies in
+chronic urticaria and angioedema. J Allergy Clin Immunol.
+2003;112:218.
+
+LeznoffA, Sussman GL. Syndrome of idiopathic chronic urticaria
+and angioedema with thyroid autoimmunity: a study of 90
+atients. J Allergy Clin Immunol. 1989;84:66-71.
+
+oubi E, Adir-ShaniA, Kessel A, Shmuel Z, Sabo E, Hacham
+H. Immune aberrations in B and T lymphocytes derived from
+chronic urticaria patients. J Clin Immunol. 2000;20:371-8.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ll Manuscript received March 25, 2011; accepted for
+publication May 5, 2011.
+
+Shymaa Abd El-Azim Mansour
+
+Medical Microbiology and Immunology
+Faculty of Medicine
+
+Zagazig University, Egypt
+
+E-mail: shymaa_abdelazim@ yahoo.com
+
+J Investig Allergol Clin Immunol 2011; Vol. 21(7): 546-550
+

@@ -1,0 +1,332 @@
+Allergology International xxx (xxxx) Xxx
+
+ 
+
+ 
+
+Contents lists available at ScienceDirect
+
+Allergology International
+
+journal homepage: http://www.elsevier.com/locate/alit
+
+ 
+
+yw
+
+AWERGOLOGY
+INTERNATIONAL
+
+ 
+
+ 
+
+Letter to the Editor
+
+Serum transglutaminase 2 activity as a potential biomarker of disease
+severity and response to omalizumab in chronic spontaneous urticaria
+
+Dear Editor,
+
+Chronic spontaneous urticaria (CSU) is characterized by recurrent hives with or without angioedema lasting for more than 6
+weeks; it affects 0.5—1% of the population worldwide. Although
+CSU is not a life-threatening condition, it has a large impact on
+quality of life.!7
+
+The basic treatment for CSU is second-generation H; antihistamines (HiAH). However, approximately 50% of CSU are not
+controlled with H;AH, even with increasing doses.’ Cyclosporine
+and omalizumab - humanized monoclonal anti-IgE antibodies
+have been suggested as second or third-line therapies for CSU unresponsive to H;AH.'* However, there remain a substantial proportion of CSU patients that are not completely responsive to these
+drugs.!?
+
+We previously reported that transglutaminase 2 (TG2), an
+enzyme involved in the posttranslational modification of proteins
+by deamination and amine incorporation, plays an important role
+in CSU pathogenesis, showing high expression and release in human mast cells.‘ In this study, we investigated the clinical implications of serum TG2 activity as a potential biomarker of disease
+severity and response to omalizumab treatment.
+
+Subjects were recruited between 2015 and 2017 at the allergy
+and dermatology outpatient clinic in Hallym University Dongtan
+Sacred Heart Hospital, and the study was approved by the Institutional Review Board (HDT2014-06-135-003). We enrolled 111 CSU
+patients, 31 patients with acute urticaria (AU, male: 48.4%, age:
+39.97 + 14.12), and 45 nonallergic normal controls (NC, male:
+28.9%, age: 40.07 + 17.45). Inducible urticaria was excluded. AU patients were recruited from the emergency room when they had an
+acute occurrence of urticaria with or without angioedema that was
+cured within 1 week without recurrence.
+
+CSU patients were divided into four subgroups by disease
+severity which was decided by treatment levels from the guidelines
+for the treatment of chronic urticaria with modification': ‘Mild’ —
+well controlled with second-generation HjAH; ‘Moderate’ —
+controlled with multiple combinations of second-generation
+HAH; ‘Severe’ — controlled with addition of leukotriene receptor
+antagonist and/or H2-antagonist; ‘Very severe’ — patients whose
+urticaria was controlled or not adequately controlled with the addition of cyclosporine or omalizumab. CSU was regarded as
+‘controlled’ when UAS7 (urticaria activity score over 7 days) was
+6 or less.”
+
+Peer review under responsibility of Japanese Society of Allergology.
+
+https://doi.org/10.1016/j.alit.2019.10.009
+
+Serum obtained after stopping all medications for at least 3 days
+was used for ASST and measurement of TG2. Blood in AU was
+drawn before pharmacological treatment at the ER. Serial blood
+sampling from the 9 patients who were completely or partially
+responsive to omalizumab treatment (symptom improvement
+and UAS7 < 15) was conducted before each omalizumab injection.
+Serum TG2 activity was measured using a TG2-Covtest kit (Covalab,
+Villeurbanne, France).
+
+Statistical analyses were conducted by one-way ANOVA test,
+Student's t-test, Wilcoxon signed-rank test, and ROC analysis using
+R (version 3.3.1, The R Foundation for Statistical Computing, Vienna,
+Austria). Data were presented as mean + standard deviation (SD). A
+P < 0.05 was considered statistically significant.
+
+Patients’ characteristics are shown in Supplementary Table 1.
+TG2 activity was significantly higher in the sera of CSU
+(132.8 + 81.6 mU/mL) than in AU (86.4 + 57.8 mU/mL) and NC
+(70.0 + 42.4 mU/mL) (P < 0.01, Fig. 1A), while no difference was
+observed between AU and NC. Serum TG2 activity was not significantly different according to sex, ASST, atopy, and angioedema,
+and it did not correlate with age, blood eosinophil count, or serum
+total IgE. ROC analysis showed that the differential cutoff value of
+serum TG2 activity between CSU and AU was 121.1 mU/mL, with
+sensitivity of 54.1% and specificity of 77.4% (AUC 0.661, 95% CI
+[0.560—0.762], P = 0.006, Supplementary Fig. 1). Serum TG2 activity was significantly increased in correlation to disease severity
+(Mild: 87.1 + 66.3, Moderate: 136.1 + 64.0, Severe: 159.7 + 59.0,
+Very severe: 222.1 + 68.1 mU/mL, P < 0.0001, Fig. 1B). In contrast,
+there was no significant correlation between urticaria severity
+and blood eosinophil count or total IgE levels. In the
+omalizumab-responsive group (n = 9), serum TG2 activity was
+significantly decreased upon omalizumab treatment at two time
+points (weeks 2—6 and weeks 16—24, P < 0.01, Fig. 2).
+
+Blood biomarkers of CSU for measuring disease activity, monitoring treatment response, or predicting prognosis are yet to be
+identified. Although the questionnaires, such as urticaria activity
+score (UAS), urticaria control test, etc. are validated and useful for
+the purpose, they are subjective and retrospective.'” There have
+been many attempts to establish useful blood biomarkers in CSU,
+where several biomarkers have been replicated in different studies.
+The potential biomarkers for disease activity include D-dimer, Creactive protein, matrix metalloproteinase-9, mean platelet volume, prothrombin fragment 1 + 2, and interleukin-G.° Activation
+of coagulation/fibrinolysis participates in the pathogenesis of the
+CSU is still unclear, nevertheless, D-dimer has been reported to
+be a biomarker for treatment response to omalizumab and cyclosporine.”’ Two studies showed D-dimer level appeared to follow
+
+1323-8930/Copyright © 2019, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+
+licenses/by-nc-nd/4.0/).
+
+ 
+
+ 
+
+Please cite this article as: Bae Yet al., Serum transglutaminase 2 activity as a potential biomarker of disease severity and response to omalizumab
+in chronic spontaneous urticaria, Allergology International, https://doi.org/10.1016/j.alit.2019.10.009
+
+ 
+
+ 
+2 Letter to the Editor / Allergology International xxx (XXXX) XXX
+
+          
+
+A P< 001
+P< Ot ns
+
+400
+a
+£
+5 300
+£
+2 a
+= 200 ! .
+3
+<
+~ 100
+(2)
+
+0 Eres
+
+CSU AU NC
+
+ 
+
+B P<.001
+
+ 
+
+Ps.01 ns ns
+
+ 
+
+TG2 Activity, mU/mL
+
+ 
+
+Mild Modrerate Severe Very severe
+
+Disease severity of CSU
+
+Fig. 1. Serum transglutaminase 2 activity in the study subjects (A) and in each group divided by disease severity (B). Serum TG2 activity in CSU was significantly higher than in AU
+or NC (P < 0.01). Serum TG2 activity correlated with disease severity, which was defined by the treatment level from the guidelines for treatment of CSU (P < 0.0001). CSU, chronic
+
+spontaneous urticaria; AU, acute urticaria; NC, normal controls.
+
+ 
+
+P<.01
+400 P2= 01 Pi<.01
+
+= |
+£ 300
+2
+E
+F
+= 200
+Z
+cs}
+i ¢
+N
+§ 100
+Ee
+
+0
+
+Initial 4-12wk 15-36 wk
+
+Time (week)
+
+Fig. 2. Changes in serum transglutaminase 2 activity before and after omalizumab
+treatment in patients with very severe chronic spontaneous urticaria.
+
+the positive or negative clinical response to the treatment via long
+term follow up period (up to 12 months). Furthermore, total IgE
+levels have been recently reported to predict the response to omalizumab.® A major issue is that these biomarkers, whose levels can
+be increased due to comorbid conditions, such as chronic infections
+and autoimmune diseases, are not specific to CSU pathogenesis.
+
+TG2 has been reported to be involved in inflammation of allergic
+asthma by Th2 differentiation via TG2-mediated IL-33 expression.°
+Hong et al.'° found that TG2 expressed during mast cell activation enhances IgE production in B cells by up-regulating CD40L expression.
+We also found that TG2 expression was increased in mast cells in
+the lesional skin of CSU patients, and that cultured human mast cells
+derived from peripheral blood or cord blood released TG2 during activation, suggesting that TG2 is involved in the pathogenesis of CSU.4
+
+Here, we found that serum TG2 activity was increased with disease severity and decreased after omalizumab treatment. Moreover, serum TG2 activity of CSU was higher than that of AU,
+showing 121 mU/mL as a differential cutoff value between AU
+and CSU. Considering the association between TG2 and CSU pathogenesis, serum TG2 activity can be a more specific marker of disease
+severity and monitoring response to omalizumab treatment in CSU,
+compared with previously reported biomarkers.
+
+Our study has one limitation that we did not assess the relationship between serum TG2 activity and disease activity, such
+as UAS. Instead, we assessed ‘disease severity’ which is defined
+by medication requirement. ‘Disease severity’ in the current study
+might not reflect the severity of symptoms associated with
+urticaria.
+
+In conclusion, serum TG2 activity could be a useful biomarker in
+predicting the medication requirement for disease control. Further
+study will be needed to confirm this.
+
+Acknowledgement
+
+This work was supported by the National Research Foundation
+of Korea grant funded by the Korea government(MSIT)
+(No.2018R1A2B6009178) and Hallym University Research Fund
+2017(HURF-2017-76).
+
+ 
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.alit.2019.10.009.
+
+Conflict of interest
+The authors have no conflict of interest to declare.
+
+Youin Bae *”', Sung Hun Kang ”“!, Ju Ok Park “, GyeongHun Park *”, Jeong-Hee Choi ?**"
+
+* Department of Dermatology, Hallym University Dongtan Sacred Heart Hospital,
+Hwaseong, South Korea
+
+» Allergy and Clinical Immunology Research Center, Hallym University College of
+Medicine, Chuncheon, South Korea
+
+© Hallym University College of Medicine, Graduate School, Chuncheon, South Korea
+* Department of Emergency Medicine, Hallym University Dongtan Sacred Heart
+Hospital, Hwaseong, South Korea
+
+© Department of Pulmonology and Allergy, Hallym University Dongtan Sacred Heart
+Hospital, Hwaseong, South Korea
+
+* Corresponding author. Department of Pulmonology and Allergy, Hallym
+University Dongtan Sacred Heart Hospital, 7 Keunjaebong-gil, Hwaseong, 18450,
+South Korea.
+
+E-mail address: mdqueen@hallym.or.kr (J.-H. Choi).
+
+1 These authors contributed equally to this work.
+
+ 
+
+ 
+
+Please cite this article as: Bae Yet al., Serum transglutaminase 2 activity as a potential biomarker of disease severity and response to omalizumab
+in chronic spontaneous urticaria, Allergology International, https://doi.org/10.1016/j.alit.2019.10.009
+
+ 
+
+ 
+ARTICLE IN PRESS
+
+Letter to the Editor / Allergology International xxx (xxxx) xxx 3
+
+References
+
+1. Labrador-Horrillo M, Ferrer M. Profile of omalizumab in the treatment of
+chronic spontaneous urticaria. Drug Des Devel Ther 2015;9:4909—15.
+
+2. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification,
+diagnosis and management of urticaria. Allergy 2018;73:1393—414.
+
+3. Maurer M, Church MK, Goncalo M, Sussman G, Sanchez-Borges M. Management and treatment of chronic urticaria (CU). J Eur Acad Dermatol Venereol
+2015;29(Suppl 3):16—32.
+
+4. Hong GU, Ro JY, Bae Y, Kwon IH, Park GH, Choi YH, et al. Association of TG2
+from mast cells and chronic spontaneous urticaria pathogenesis. Ann Allergy
+Asthma Immunol 2016;117:290—7.
+
+5. Deza G, Ricketti PA, Gimenez-Arnau AM, Casale TB. Emerging biomarkers and
+therapeutic pipelines for chronic spontaneous urticaria. J Allergy Clin Immunol
+Pract 2018;6:1108—17.
+
+6. Yalcin AD, Celik B, Gumuslu S. D-dimer levels decreased in severe allergic
+asthma and chronic urticaria patients with the omalizumab treatment. Expert
+Opin Biol Ther 2014;14:283—6.
+
+7. Asero R. Plasma D-dimer levels and clinical response to ciclosporin in severe chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:
+1401-3.
+
+8. Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L, et al. Serum
+IgE as an immunological marker to predict response to omalizumab treatment in symptomatic chronic urticaria. J Allergy Clin Immunol Pract
+2018;6:1386—8. e1.
+
+9. Oh K, Seo MW, Lee GY, Byoun OJ, Kang HR, Cho SH, et al. Airway epithelial cells initiate the allergen response through transglutaminase 2 by
+inducing IL-33 expression and a subsequent Th2 response. Respir Res
+2013;14:35,
+
+10. Hong GU, Park BS, Park JW, Kim SY, Ro JY. IgE production in CD40/CD4OL crosstalk of B and mast cells and mediator release via TGase 2 in mouse allergic
+asthma. Cell Signal 2013;25:1514—25.
+
+Received 25 July 2019
+
+Received in revised form 22 October 2019
+Accepted 23 October 2019
+
+Available online xxx
+
+ 
+

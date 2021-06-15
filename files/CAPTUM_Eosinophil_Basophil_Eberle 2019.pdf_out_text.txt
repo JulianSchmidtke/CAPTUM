@@ -1,0 +1,1698 @@
+ORIGINAL ARTICLE
+
+ 
+
+Eosinophils Mediate Basophil-Dependent ®
+Allergic Skin Inflammation in Mice
+
+ee
+Joerg U. Eberle’, Daniel Radtke'”’, Falk Nimmerjahn’ and David Voehringer!
+
+The mechanisms leading to allergic skin inflammation, such as atopic dermatitis or urticaria, are poorly defined.
+Here we used a mouse model for IgE-dependent chronic allergic inflammation to study the role of basophils
+and eosinophils for induction of pathology. FceRI expression in basophils was required for the ear swelling
+response, and basophils promoted the expression of eosinophil-recruiting chemokines in the ear. The ear
+swelling response could be prevented by prior infection of mice with helminths in an IgE-dependent manner.
+Impaired skin eosinophilia and reduced ear swelling was further observed in IL-4/IL-13—deficient and STAT6deficient mice. In addition, eosinophil-deficient AdbIGATA mice showed only weak ear swelling response,
+which could be enhanced by eosinophil transfer. This suggests that IgE-activated basophils orchestrate the
+recruitment of eosinophils by secretion of IL-4/IL-13, which leads to STAT6-dependent expression of CCL24
+from endothelial cells and extravasation of eosinophils into the ear pinna. Eosinophils are then the critical
+effector cells that cause pathology. Therefore, combined therapeutic approaches that block basophil activation
+and reduce eosinophil numbers could be efficient strategies to improve treatment of chronic allergic disorders
+of the skin.
+
+Journal of Investigative Dermatology (2019) 139, 1957—1965; doi:10.1016/j.jid.2019.03.1129
+
+INTRODUCTION larvae (Brown et al., 1982; Obata-Ninomiya et al., 2013;
+Both allergic responses and helminth infections elicit a strong — Wada et al., 2010).
+
+T helper type 2—dominated immune response, with A critical pro-inflammatory role of basophils could be
+
+increased numbers of eosinophils, basophils, mast cells, type discovered in IgE-mediated chronic allergic skin inflamma2 innate lymphoid cells, T helper type 2 cells; pronounced __ tion (IgE-CAI), a model established by Mukai et al. (2005), in
+expression of T helper type 2—associated cytokines like IL-4, | which intravenous anti-hapten IgE injection, followed by a
+IL-5, and IL-13; and high serum levels of IgE. single intradermal injection of multivalent antigen into the
+
+Mast cells and basophils are the two main cell populations —_ear pinna, results in a strong ear swelling response. A relathat express FceRI and get activated by IgE in vivo. Mast cells tively mild and transient immediate swelling response
+are tissue-resident cells with a lifespan of several weeks. In occurs within minutes and is mediated by mast cells, folcontrast, basophils mature in the bone marrow, circulate in lowed by a much stronger basophil-dependent and mast
+the bloodstream with a lifespan of only 2—3 days, and usually —_ cell—independent response. This late-phase swelling and
+do not extravasate into peripheral tissues under steady-state inflammation persists for several days, is characterized by
+conditions (Ohnmacht and Voehringer, 2009). During in- recruitment of basophils, eosinophils, and neutrophils and is
+flammatory conditions, increased numbers of basophils and — reminiscent of human chronic idiopathic urticaria (Mukai
+high levels of IgE can be found, for example, in the lung of — et al., 2005; Sato et al., 2003). It has also been shown that
+asthma patients (Lichtenstein and Bochner, 1991); in allergic  basophil-derived proteases can elicit the ear swelling
+skin inflammation like atopic dermatitis; and in other in- response (Iki et al., 2016; Tsutsui et al., 2017). However, it
+flammatory skin conditions, such as purigo and urticaria remains unclear whether basophils themselves or other
+(Irani et al., 1998; Ito et al., 2011; Otsuka and Kabashima, — recruited effector cells, like eosinophils or neutrophils, are
+2015). Basophils in the skin can also have a protective responsible for the inflammatory ear swelling response in this
+function against secondary encounters with ticks or helminth — model. Furthermore, experimental evidence is missing
+regarding the requirement of direct basophil activation via
+FceRI and whether helminth infections can block the
+response by either saturating FceRI on basophils with
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"Department of Infection Biology, University Hospital Erlangen and
+Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany;
+
+and “Department of Biology, Friedrich-Alexander University Erlangen- helminth-elicited IgE or expansion of immunosuppressive
+Nuremberg, Erlangen, Germany cell populations, as described previously in other allergy
+*These authors contributed equally to this work. models (Flohr et al., 2009).
+
+Correspondence: David Voehringer, Department of Infection Biology, Here, we addressed these points and show that infection of
+University Hospital Erlangen, Wasserturmstrasse 3-5, 91054 Erlangen, mice with two different gastrointestinal helminths protects
+
+Germany. E-mail: David.voehringer@uk-erlangen.de
+
+against IgE-CAI in an IgE-dependent manner. We further
+demonstrate that basophils are required for upregulation of
+Received 10 October 2018; revised 28 February 2019; accepted 13 March CCL24 (eotaxin-2), CCL3 (MIP-10), and TSLP in the ear
+
+2019; accepted manuscript published online 22 March 2019; corrected proof pinna. Eosinophil recruitment and the ear swelling
+published online 27 June 2019 response are diminished in IL-4/IL-13—deficient (4-14ko) and
+
+Abbreviations: BM, bone marrow; IgE-CAI, IgE-mediated chronic allergic
+skin inflammation; ko, deficient; TNP, trinitrophenyl; WT, wild-type
+
+© 2019 The Authors. Published by Elsevier, Inc. on behalf of the Society for Investigative Dermatology. www. jidonline.org
+
+1957
+1958
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+STAT6-deficient (STAT6ko) and mice, suggesting that eosinophils are the critical terminal effector cells in this model.
+Indeed, eosinophil-deficient AdbIGATA mice showed only
+weak ear swelling, which could be restored by adoptively
+transferred eosinophils. These results indicate that IgEactivated basophils elicit the terminal effector phase by
+orchestrating recruitment of eosinophils, which then cause
+pathology in the skin.
+
+RESULTS
+
+Expression of activating Fc receptors and IL-4/IL-13 by
+basophils is required for IgE-CAI
+
+Previous studies have demonstrated a critical role for basophils in IgE-mediated chronic allergic skin inflammation at
+the late phase (day 2—3 after challenge) (Mukai et al., 2005;
+Ohnmacht et al., 2010). However, it remained unclear
+whether basophils have to be directly activated by IgE and
+whether basophils are required for causing vascular leakage
+in the skin. To address these points, we injected Mcpt8Cre
+and wild-type (WT) mice with IgE anti-trinitrophenyl (TNP)
+intravenously, followed by intradermal injection of TNP-OVA
+into the ear pinnae on the next day. The ear thickness was
+measured every day and we observed a prominent ear
+swelling response in WT mice, peaking on day 2 after challenge and going back to normal at day 5—6, whereas no
+swelling was detected in basophil-deficient Mcpt8Cre mice
+(Figure 1a). By intravenous injection of Evans Blue at 20
+minutes before harvesting the ears on day 2 after TNP-OVA
+challenge, we could visualize and quantify the leakage of
+blood vessels at the site of inflammation of WT mice, while
+no vascular leakage was found in Mcpt8Cre mice (Figure 1b).
+
+To further investigate whether the ear swelling response
+requires direct binding and cross-linking of IgE anti-TNP on
+the cell surface of basophils, we created mixed bone marrow
+(BM) chimeras lacking FcRy on basophils by mixing
+Mcpt8Cre BM with FcRyko BM in a 4:1 ratio. As control WT
+BM was used instead of FcRyko BM. Like in the complete
+absence of basophils, mice lacking FcRy on basophils show
+an impaired ear swelling response when compared to BasoWT chimeras (Figure 1c).
+
+This indicates that basophils have to be directly activated
+by the high-affinity IgE receptor (FceRI) to elicit the ear
+swelling response. We further investigated the role of IL-4/IL13 from basophils for the ear swelling response by generating
+mixed BM chimeras with BM from Mcpt8Cre mice and 413ko mice mixed in a 4:1 ratio. Mice lacking IL-4/IL-13
+expression by basophils developed a significantly reduced
+ear swelling response compared to control mice (Figure 1d).
+
+ 
+
+ 
+
+Helminth-elicited IgE ameliorates IgE-CAI
+Based on the observation that basophils have to be directly
+activated by IgE anti-TNP bound to FceRI, we next investigated whether high levels of polyclonal IgE can saturate
+FceRI receptors and thereby prevent basophil activation in
+this model. To address this point, we infected mice with the
+gastrointestinal helminths Nippostrongylus brasiliensis or
+Heligmosomoides polygyrus. Thirteen days later, serum IgE
+levels were measured by ELISA and IgE anti-TNP was
+injected into the infected mice or naive mice as controls,
+followed by intradermal injection of TNP-OVA into the ear
+on the next day. Helminth-infected mice showed high serum
+
+ 
+
+ 
+
+ 
+
+Journal of Investigative Dermatology (2019), Volume 139
+
+IgE levels and were protected from the ear swelling response
+compared to uninfected control mice (Figure 2a, 2b). The
+protective role of helminth-elicited IgE in IgE-CAl was
+further confirmed by analysis of N. brasiliensis—infected
+IgE-deficient mice, which developed a normal ear swelling
+response (Figure 2c). By staining of basophils with fluorescently labeled IgE anti-TNP antibody, we could demonstrate that binding of this antibody to the surface of
+basophils isolated from helminth-infected mice was
+impaired (Figure 2d). Therefore, we can conclude that helminth infection leads to saturation of the FceRI on basophils
+and thereby prevents their sensitization with the administered IgE anti-TNP antibody.
+
+ 
+
+ 
+
+Basophils enhance expression of TSLP, CCL3, and CCL24 in
+the ear pinna
+To further investigate the mechanisms by which activated
+basophils orchestrate the ear swelling response, we analyzed
+basophil-dependent expression of chemokines, TSLP, and
+VCAM-1 in the ear pinna by quantitative reverse transcriptase
+PCR on day 2 after TNP-OVA challenge. No changes were
+detected for CCL5 (RANTES), CCL11 (eotaxin-1), and VCAM1 expression, but expression levels of TSLP, CCL24 (eotaxin2), and CCL3 (MIP-1a) were significantly lower in the
+absence of basophils compared to WT mice (Figure 3a).
+
+We further determined the CCL24 protein level in the ear
+pinna by ELISA and observed significantly reduced levels in
+Mcpt8Cre compared to WT mice (Figure 3b). This result
+suggests that basophils promote the recruitment of other
+effector cells that could contribute to the ear swelling
+response.
+
+ 
+
+IL-4/IL-13 and STAT6 signaling promotes ear swelling and
+effector cell recruitment during IgE-CAI
+
+Basophils are an important source of IL-4 and IL-13, which
+signal through STAT6 and induce expression of chemokines
+and adhesion molecules in endothelial cells. To investigate
+the role of IL-4/IL-13 and STAT6 for the ear swelling response
+and recruitment of effector cells, we studied the IgE-CAl
+response in 4-13ko and STAT6ko mice. Ear swelling was
+significantly decreased in 4-13ko and STAT6ko mice
+(Figure 4a, 4b). Furthermore, to study the gene expression
+and recruitment of innate effector cells into the ear pinna,
+reverse transcriptase PCR and flow cytometric analysis of WT,
+4-13ko, and STAT6ko ears was performed on day 2 after TNPOVA challenge. We observed no significant increase of M2
+macrophage marker in WT compared to 4-13ko and STAT6ko
+mice at this early time point (Supplementary Figure $1 online). We further revealed a trend toward higher CCL24 and
+TSLP levels in WT compared to 4-13ko and STAT6ko mice
+(Supplementary Figure $1). No difference in percentages and
+total numbers of neutrophils and basophils was detected in
+the ears of WT, 4-13ko, and STAT6ko mice. However, percentage and also total numbers of eosinophils in the ears
+were significantly reduced in both knockout strains
+compared to WT mice (Figure 4c—4g).
+
+ 
+
+Eosinophils are required for induction for the ear swelling
+response in IgE-CAI
+
+Based on the observation that the reduced ear swelling
+response in 4-13ko and STAT6ko mice was associated with
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+160
+~@ WT
+2 450 -O- Mcpt8Cre
+oO
+& 140
+2
+S 130
+S 120
+se 110
+100
+012 3 45 6
+days after challenge
+b
+0.10 =e
+ji
+5 0.08 =
+2 0.06
+om (0.04 o
+a (S)
+0
+o 0.02 roa
+2 fil s
+0.00
+WT Mcpt8Cre
+c
+160
+—@— Baso-WT
+2 150 . zg —Q— Baso-FcRy-ko
+E 140 7
+S 130 7
+= 120
+® 110
+se 100
+012 3 4 5 6
+days after challenge
+d
+130 Mmm Baso-WT
+no MlliBaso-4-13ko *
+n
+oO **
+§ 1204
+2 __
+s
+© 110+
+o
+xs
+100
+1 2
+
+days after challenge
+
+Figure 1. Expression of activating Fc receptors on basophils is required for
+IgE-mediated chronic allergic skin inflammation. (a) Ear thickness of
+Mcpt8Cre and WT mice after trinitrophenyl-OVA challenge. Mean +
+standard error of 14 ears of 8 Mcpt8Cre mice and 9 ears of 7 WT mice from 2
+experiments. (b) EB extravasation on day 2 after challenge. Mean + standard
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+reduced numbers of eosinophils in the ear pinna, we hypothesized that eosinophils could play an important role in
+this model of skin inflammation. To prove this hypothesis,
+we analyzed eosinophil-deficient AdbIGATA mice and
+observed that in the absence of eosinophils, no ear swelling
+was elicited while adoptive transfer of BM-derived eosinophils was sufficient to promote the ear swelling response in
+AdbIGATA mice (Figure 5a). This effect could not be
+explained by reduced basophil numbers or impaired basophil function in AdbIGATA mice (Supplementary Figure S2
+online). The eosinophil cultures contained negligible
+numbers of basophils so that the transfer did not artificially
+increase the number of basophils (Supplementary Figure $3
+online). On the other hand, Mcpt8Cre mice showed no
+defect in generation of eosinophils (Supplementary
+Figure $2).
+To visualize the distribution and accumulation of eosinophils in the ear parenchyma, two-photon imaging of
+unfixed ear of EpxCre_R26""™*° mice was performed on
+day 2 after challenge and compared to untreated EpxCre_R26'47™="'© mice. Prominent extravascular accumulation of eosinophils was apparent in the ear of challenged
+mice, while only few eosinophils were found in the ear of
+untreated control mice (Figure 5b). Next, we addressed
+the activation status of recruited eosinophils in the ear in
+comparison to eosinophils in the peripheral blood by flow
+cytometry. We used IL-4eGFP reporter mice (4get mice) to
+facilitate the gating of eosinophils as IL-4eGFP*SSC™ cells
+with a parental gate on live CD45" cells. The samples
+were stained for CD62L and Siglec-F to differentiate between resting (Siglec-F'° CD62L") and activated (Siglec-F™
+CD62L") eosinophils. As expected, recruited eosinophils
+in the ear showed an activated phenotype, while blood
+eosinophils were not activated (Figure 5c). Finally, we
+performed adoptive transfers of eosinophils into
+AdbIGATA mice and analyzed the role of G-protein—coupled chemotactic receptors on eosinophils for
+recruitment to the ear pinna. Therefore, we transferred
+1.5 x 107 eosinophils that had either been treated with
+pertussis toxin to inhibit G-protein—coupled chemotactic
+receptors or were left untreated. Right after the eosinophi
+transfer, mice were subjected to the IgE-CAI model. Efficient recruitment of eosinophils was observed after transfer of untreated eosinophils into TNP-OVA challenged
+mice, which could be inhibited by prior pertussis toxin
+treatment (Figure 5d).
+Taken together, these experiments demonstrate that eosinophils are recruited to the ear pinna, acquire an activated
+phenotype, and promote the ear swelling response. Therefore, a two-step model is likely to operate in this setting,
+where basophils get first activated by cross-linking of IgE on
+
+ 
+
+ 
+
+ 
+
+ 
+
+error of 14 ears of 9 Mcpt8Cre mice and 7 ears of 5 WT mice from two
+experiments. (c) Ear thickness of mixed bone marrow chimeras lacking FcRY
+on basophils (gray) and controls (black). Mean + standard deviation of three
+Baso-FcRy—deficient chimeras and three Baso-WT chimeras. (d) Ear thickness
+of mixed bone marrow chimeras lacking IL-4 and IL-13 in basophils (gray)
+and controls (black). Mean + standard error for 18 ears per group analyzed by
+analysis of variance. *P < 0.05, *P < 0.01, **P < 0.001, two-tailed Student t
+test was used if not otherwise indicated. EB, Evans Blue; WT, wild-type.
+
+www.jidonline.org
+
+1959
+1960
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a IgE B c
+serum Ig
+1000 - 160 = 160 z =r
+no Nn A
+465 3 150 ae g 150 -@-IgE-ko Nb
+= § 140 5 140 .
+= 10 = 130 £ 130
+= & 120 @ 120
+1 ° o 110
+se 110 x
+0.1 100 100
+naive Nb Hp 04123 4 5 6 723465 6
+days after challenge days after challenge
+d preinc. IgE unlabelled
+FMO + 1:50 IgE (anti-TNP) 1:50 IgE (anti-TNP) =
+= - i Sei iteces: 00 |e ron infected
+; bE ws I Hp-nfected
+& 200
+' “ . - ‘
+2
+zs ‘ i 400
+5 oa on
+E 2» 0 g 5 O88 ae ag a
+° ° ° fo} ~\
+er! ie 8 ot 1 erie i 3 ~S we ws
+IgE (anti-TNP)) ——————__ =n wes y
+Sw Kz
+S&S &
+NS
+Sh?
+LP
+
+Figure 2. Helminth-elicited IgE ameliorates IgE-mediated chronic allergic skin
+
+inflammation. (a) IgE serum levels of naive Nb-infected and or Hp-infected
+
+mice. Mean + standard error of 3—7 mice per group. (b) Ear thickness of naive, Nb- or Hp-infected mice. Mean + standard error of 6 ears of Nb- or Hp-infected
+mice and 35 ears of naive mice. (c) Ear thickness of Nb-infected IgE-deficient and WT mice. Mean + standard error of 14 ears of Nb-infected IgEko mice
+and 16 ears of Nb-infected WT mice. (d) In vitro binding of A647-labeled IgE anti-TNP to basophils from naive or Hp-infected mice (right). For FMO, no
+IgE antibody was added (left). Pre-incubation with unlabeled IgE anti-TNP blocks the binding of labeled IgE anti-TNP (middle). Each curve represents data
+from one mouse. *P < 0.05, *P < 0.01, **P < 0.001 two-tailed Student f test used if not indicated different. FMO, fluorescence minus one; Hp,
+Heligmosomoides polygyrus; Nb, Nippostrongylus brasiliensis; TNP, trinitropheny|; WT, wild-type.
+
+the cell surface and secrete IL-4, which induces expression of
+CCL24 and probably other chemoattractants in endothelial
+cells to recruit eosinophils that finally cause pathology in the
+skin (Figure 6).
+
+DISCUSSION
+
+Basophils are indispensable for IgE-CAI in the ear skin, as we
+demonstrate by comparing ear swelling and dye extravasation in WT and basophil-deficient Mcpt8Cre mice and
+thereby largely confirm previous studies (Cheng et al., 2015;
+Mukai et al., 2005; Ohnmacht et al., 2010). It was previously
+shown that mice deficient for the signal transducing subunit
+FcRy of the FceRI develop no IgE-CAI and reconstitution of
+irradiated FcRy-deficient mice with total or basophilenriched BM from WT mice was sufficient to restore the
+response (Mukai et al., 2005). By generating mixed BM chimeras, we could now demonstrate that FCRY expression on
+basophils is required for IgE-CAI. We previously observed a
+similar importance for activation of basophils via this receptor during secondary helminth infections, where only
+mice with FceRlI-expressing basophils were able to clear
+worms efficiently (Schwartz et al., 2014).
+
+Interestingly, not only the lack of FceRI on basophils
+protects against pathology in the IgE-CAI model, but also
+high levels of helminth-elicited IgE. We observed the
+ameliorated ear swelling response in two different gastrointestinal helminth infection models. A protective effect was
+
+ 
+
+Journal of Investigative Dermatology (2019), Volume 139
+
+only observed in WT but not in IgE-deficient mice, which
+demonstrates that indeed helminth-induced IgE rather than
+other helminth-elicited suppressive cell types or factors are
+accountable for the effect. The IgE saturation hypothesis
+suggests that high levels of helminth-elicited polyclonal IgE
+saturates the high-affinity receptor for IgE (FceRI) on mast
+cells and basophils and prevents binding of allergenspecific IgE (Godfrey and Gradidge, 1976; Stanworth
+et al., 1967). Here we used a mouse infection model to
+provide further experimental evidence that helminthelicited IgE does saturate the available FceRI on the surface of basophils so that the sensitizing IgE anti-TNP antibody cannot bind. However other studies could not confirm
+a blocking effect by helminth-elicited IgE (Flohr et al.,
+2009). They rather indicate that helminth-induced suppression of allergy is caused by increased numbers of regulatory T cells, IL-10—producing T cells, and alternatively
+activated macrophages (Flohr et al., 2009; Wilson et al.,
+2005). Possible explanations for the apparent discrepancies between different studies include the experimental
+protocols (active vs Passive sensitization), investigated organs (skin, lung, vascular system), and differences in serum
+evels of IgE. With regard to the human population, the low
+incidence of allergic inflammation in countries with poor
+sanitary conditions and high prevalence of helminth infections suggests that helminths can protect against allergy,
+supporting the hygiene hypothesis (Wills-Karp et al., 2001).
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a 4
+& 2.0 4/—WT
+ao Mept8Cre 3 il
+x=
+‘9 1.5
+B 1.0 2 |
+N
+w 05 * 4
+iS *
+2 00 a rt 9 [Meal
+TSLP CCL24 CCL3 CCL5 CCL11 VCAM-1
+b
+a ‘T3000 ” © Balb/c
+= © Mcpt8cre
+a eo
+® 100004
+a: e
+= .
+x °°
+= 5000} e Se
+8 @o00
+0
+
+ 
+
+ 
+
+ 
+
+Figure 3. Basophils enhance expression of TSLP, CCL3, and CCL24 in the ear
+pinna. Analysis of total ear pinnae 2 days after trinitrophenyl-OVA challenge
+of IgE—anti- trinitrophenyl sensitized Mcpt8Cre and wild-type mice.
+
+(a) Quantitative reverse transcriptase PCR analysis normalized to HPRT. Data
+show the mean + standard deviation of 3 Mcpt8Cre and 3 WT mice.
+
+(b) CCL24 protein level was determined by ELISA after ear pinna lysis in 1 ml
+RIPA with protease inhibitors. *P < 0.05, **P < 0.01, two-tailed Student t test.
+WT, wild-type.
+
+A large cohort study demonstrated that de-worming leads to
+increased incidence of skin prick test positivity against
+house dust mite allergens (van den Biggelaar et al., 2004).
+Several other studies have confirmed the effect, but the
+mechanism of protection remains poorly defined (Flohr
+et al., 2009).
+
+IgE-mediated basophil activation in the skin causes
+release of lipid mediators, cytokines, chemokines, and
+histamine, which can directly or indirectly result in pathology. Moreover, recent studies could show that the
+release of basophil-specific proteases, like mMCP-8 and
+mMCP-11, increases microvascular permeability in an
+activity-dependent manner to induce allergic inflammation
+(Iki et al., 2016; Tsutsui et al., 2017). Acting on tissueresident cells, like fibroblasts and endothelial cells, we
+found that basophils enhance expression of TSLP, CCL3,
+and CCL24 (eotaxin-2) in the ear pinna. We have previously
+shown that TSLP is required for the ear swelling response
+elicited by topical application of the vitamin D analogon
+MC903 to the ear skin (Schwartz et al., 2016). However, we
+observed no difference in the IgE-CAI ear swelling response
+when comparing TSLP-deficient to WT mice, indicating that
+TSLP is not a major pro-inflammatory factor in this model
+(data not shown). A recent study demonstrated basophildependent upregulation of VCAM-1 in a similar model of
+ear skin inflammation induced by topical application of
+DNEFB in anti-DNP IgE-sensitized mice (Cheng et al., 2015).
+Consistent with this report, we observed massive recruitment of eosinophils into the ear pinna, and although
+VCAM-1 expression was not induced in the IgE-CAI model,
+eosinophil recruitment could be explained by induction of
+CCL24 expression in a basophil-dependent manner. The
+chemokine CCL24 binds to CCR3, which is highly
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+expressed on resting eosinophils and promotes transendothelial migration (Shahabuddin et al., 2000). CCL24 is
+further known to be regulated by STAT6, which gets activated in response to IL-4 and IL-13 signaling (Neilsen and
+Bryce, 2010; Walker et al., 2009; Zimmermann et al.,
+2000). Because basophils are a major source for IL-4 and
+IL-13, they probably directly induce expression of CCL24 in
+endothelial cells of the ear. Our results demonstrate an
+important role of basophil-derived IL-4/IL-13 and expression of STAT6-regulated genes for eosinophil recruitment
+and the ear swelling response in the IgE-CAI model. Interestingly, basophil and neutrophil recruitment was not
+affected by the lack of IL-4/IL-13 or STAT6. Despite the
+profound reduction in eosinophil recruitment, the ear
+swelling was only partially reduced in STAT6ko and 4-13ko
+mice, indicating that even low numbers of eosinophils can
+be sufficient to elicit a weak skin inflammation. Interestingly, others have shown that STAT6 can also dampen
+the inflammatory skin response to repeated TNP-OVA
+challenge at later phases of the response, probably by induction of M2-polarized anti-inflammatory macrophages
+(Hashimoto et al., 2015).
+
+Further analysis of eosinophil-deficient AdbIGATA mice
+revealed a critical role for eosinophils in addition to basophils for induction of the ear swelling response in IgE-CAI. In
+contrast to blood eosinophils, the recruited eosinophils in the
+skin had an activated phenotype with high expression levels
+of Siglec-F and downregulation of CD62L, as we previously
+defined in a helminth infection model (Voehringer et al.,
+2007). Recently, this subset has been further characterized
+and termed inflammatory eosinophils in a murine model of
+allergic asthma (Mesnil et al., 2016). In the IgE-CAI model,
+it is likely that circulating eosinophils get recruited
+via CCL24 and other chemoattractants that signal via
+G-protein—coupled chemotactic receptors, because the
+ear swelling response could be reconstituted in AdbIGATA
+mice by transfer of untreated BM-derived eosinophils
+and pretreatment with pertussis toxin, which blocks
+G-protein—coupled chemotactic receptor signaling, resulting
+in an ameliorated response.
+
+In conclusion, we demonstrate that allergic skin inflammation in the IgE-CAl model requires both basophils and
+eosinophils. Basophils first get activated by crosslinking of IgE
+bound to FceRI, and this response can be blocked by saturating levels of unspecific serum IgE elicited by helminth
+infections. Basophil-derived IL-4/IL-13 then promotes CCL24
+expression to induce recruitment of eosinophils, which are
+required for downstream execution of the ear swelling
+response by release of pro-inflammatory mediators. Based on
+these observations, the role of basophils and eosinophils in
+human allergic skin diseases should be further investigated,
+and combined therapeutic interventions that inhibit basophil
+activation and lower eosinophil levels in the skin might be a
+promising approach in the future.
+
+ 
+
+ 
+
+ 
+
+MATERIALS AND METHODS
+
+Mice
+
+Basophil-deficient Mcpt8Cre mice (Ohnmacht et al., 2010),
+eosinophil-deficient AdbIGATA mice (Yu et al., 2002), IL-4eGFP
+reporter (4get) mice (Mohrs et al., 2001), IgE-deficient mice
+
+www.jidonline.org
+
+1961
+1962
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a c
+160 4-13ko STAT6ko
+wn Le- WT wn 250k A174 250K. 4.55
+a 150 we LO- 4-13ko) — - ® = 00 we
+s 140 i O° 150K. 150K.
+= = 100K. 100K.
+$ 130 Bo
+= 3 3 we a
+§ 120 Ww ° a
+se 110
+100 2 o
+0123 456 = | ‘ 4
+10 si
+days after challenge S ;
+b Qo e F
+160 z ° “4
+ws =e WT a 5 0° 40 _
+a” 150 “ -O- STAT6kO 0 10 M0 tO 1 0 10) 40" Oe
+2 >
+3 140 % 2 anol TTB) 2% 795)
+S 130 = 200K. 200K:
+= = ‘i
+§ 120 = 1008 ()
+ae i a
+“7 ha 2 5 oo ee
+days after challenge
+d Hi WT © 4-13k0 f Hi WT © STAT6Ko
+Eosinophils Basophils Neutrophils Eosinophils Basophils Neutrophils
+4 1.0 0 4 20
+a = o
+g 3 we 0.8 15 g 3 os 0.8 15
+3 “ 0.6 s 0.6 i
+22 L 10 22 ie 10
+S 0.4 5 0.4
+31 02 5 e1 U 02 5
+0 0.0 | 0 an 0.0 | 0 sie
+Blood Ear Blood Ear Blood Ear Blood Ear Blood Ear Blood Ear
+e 9g
+o> 2.0 0.20 —~ 2.0 0.20
+4 wt a wrt
+x15) — 0.15 4-13ko x 15 0.15 STAT6ko
+” 2 a
+8 1.0 1 | o10 | @ 10 0.10
+E I
+Z 05 0.05 2 05 _ | 0.05
+Oo s oD
+O 0.0 0.00 oO 0.0 0.00
+Eosinophils Neutrophils Basophils Eosinophils Neutrophils Basophils
+
+Figure 4. IL-4/IL-13 and STAT6 signaling promotes ear swelling and effector cell recruitment during IgE-mediated chronic allergic skin inflammation. (a, b)
+Ear thickness of indicated mice. Mean + standard error of 30 ears of 4-13ko or STAT6ko mice and 21—28 ears of WT mice. (c) Analysis of the ear 2 days
+after trinitrophenyl-OVA challenge. Basophils (CD49b*IgE*) are gated on live CD45"° cells, eosinophils (Siglec-F*SSC"), and neutrophils (Ly6G") are gated on
+live CD45" cells. (d, f) Percentage of indicated populations in blood and ear of indicated mice. (e, g) Total cell counts of ear of indicated mice. Mean + standard
+error of eight 4-13ko mice, 9 STAT6ko mice and 6 WT mice in (d) and (e) and another 6 WT mice in (f) and (g). *P < 0.05, *P < 0.01, ***P < 0.001, two-tailed
+Student t test. 4-13ko, IL-4/IL-13—deficient; STAT6ko, STAT6-deficient; WT, wild-type.
+
+(Oettgen et al., 1994), 4-13ko mice (McKenzie et al., 1999), IL-5
+transgenic mice (Lee et al., 1997) and STAT6ko mice (Kaplan
+et al., 1996) have been described. Mice were housed according to
+institutional guidelines and used at 6—8 weeks of age. All animal
+experiments were approved by the federal government, Regierung
+von Unterfranken, Germany.
+
+Journal of Investigative Dermatology (2019), Volume 139
+
+Generation of mixed BM chimeras
+
+BM cells were obtained from the tibia and femur of Mcpt8Cre mice
+and mixed at a 4:1 ratio with BM cells from either WT mice or FcRydeficient mice or WT and 4-13ko mice; 2 x 10° cells were injected
+into the tail vein of lethally irradiated (9 Gy) recipient C57BL/6 mice
+to create Baso-WT and Baso-FcRyko or Baso-WT and Baso—4-13ko
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+treated untreated
+o 140 —e BS + PES I. zs0K DY 63] 0.78
+Oo sk xe -O- AdbiGata + eos i.v. “ne of |
+2 130 -©-AdbiGata + PBS iv, = 4 os Ear
+x o
+2 1204 - + Z 0412.89 9.04:
+it 1104 250K, T.04 | {9.97 5.12
+oO aa r
+se 1004 or rae “9 Blood
+014123 45 67 ° a sere (PME Ge
+days after challenge IL-4eGFP—> cp62L ——>
+d
+eT e he RK
+i Recipient eos jj Transferred eos 9 1.0
+IgE-CAI IgE-CAI no IgE-CAI 2D os =
++ eos i.v. + PTX treated eosi.v. + eos i.v. 5 :
+wo] 86.2% 42.0% 13.8%22.0% | “YT 99.4% 40.1% 0.6%20.1% | “] 95.3%40.6% 4.7%20.6% o> 06 ‘
+TT oO
+2 0.4 e
+<
+Oo
+=
+< 3s
+—_
+fe}
+oO
+
+ 
+
+ 
+
+ 
+
+Figure 5. Eosinophils are required for induction for the ear swelling response in IgE-CAI. (a) Ear thickness of WT, AdbIGATA, or AdbIGATA mice with
+transferred eosinophils. Mean + standard error of 4—10 ears per group. Analysis of variance was performed to compare AdbIGATA with eosinophil transfer
+
+against the other groups. (b) Two-photon imaging of ear of EpxCre_R2
+
+6idTomato
+
+mice on day 2 after challenge compared to untreated mice. Scale bar = 100 jim.
+
+(c) Frequency of eosinophils (CD45"IL-4eGFP*SSC"; left plots) and their activation status based on Siglec-F and CD62L expression (right plots). Representative
+of 6 mice. (d) Frequency of transferred untreated or PTX-treated eosinophils in the ear of trinitrophenyl-OVA challenged or untreated mice. (e) Percentage of
+transferred eosinophils among total CD45* cells. Analysis of variance was used to determine significance. *P < 0.05, **P < 0.01, ***P < 0.001 two-tailed
+
+Student t test used if not indicated different. IgE-CAI, IgE-mediated chronic allergic skin inflammation; i.v., intravenous; PBS, phosphate buffered saline; PTX,
+
+pertussis toxin.
+
+mixed BM chimeras, respectively. Mice were kept with antibioticscontaining drinking water (2 g/L neomycin sulfate, 100 mg/L polymyxin B sulfate; Sigma-Aldrich, St Louis, MO) for 8 weeks after
+reconstitution.
+
+Adoptive transfer of eosinophils
+Eosinophils were generated from BM as described previously (Dyer
+et al., 2008) or isolated from IL-5 transgenic mice (Lee et al., 1997).
+To block signaling of G-protein—coupled receptors mature eosinophils where incubated with 100 ng/ml pertussis toxin (Calbiochem at
+Merck KGaA, Darmstadt, Germany) for 2 hours at 37°C, washed
+with phosphate buffered saline and 1.5 x 10” of pertussis toxin
+treated or untreated cells were transferred intravenously into
+AdbIGATA mice simultaneously with starting the IgE-CAl model.
+
+ 
+
+IgE-CAI experiments
+
+Mice were injected via the tail vein with 33 fg monoclonal IgE—anti-TNP antibody (clone IgElb4) and challenged the next day via
+intradermal injection of 10 [ig TNP;2-coupled OVA (TNP;2-OVA;
+LGC Biosearch Technologies, Petaluma, CA) in 10 ul phosphate
+buffered saline into the ear pinna. Ear thickness was measured daily
+with a digital thickness gauge and the change in percentage
+compared to the thickness on day 0 was calculated.
+
+In some experiments, 1 mg Evans blue (Sigma-Aldrich) was
+injected intravenously in 200 ul phosphate buffered saline on day 2
+after challenge and mice were analyzed 20 minutes later. Vascular
+leakage was measured after dye extraction from ear pinnae with
+formamide (Sigma-Aldrich) for 24—48 hours at 55°C. Light absorption was measured at 620 nm using a Multiskan FC Microplate
+Photometer (ThermoFisher Scientific, Waltham, MA).
+
+Helminth infections
+
+Third-stage larvae of N. brasiliensis were washed extensively in
+sterile 0.9% saline at 37°C and 500 third-stage larvae were injected
+subcutaneously into mice. Mice were provided antibiotics containing water (2 g/l neomycin sulfate, 100 mg/l polymyxin B sulfate) for
+the first 5 days after infection. For the Heligmosomoides polygyrus
+bakeri infection model, 200 third-stage larvae were administered by
+oral gavage. Thirteen days later, mice were subjected to IgE-CAI, as
+described.
+
+ELISA
+
+IgE concentrations were determined by conventional ELISA procedure using anti-lgE clone R35-72 for coating and biotinylated antiIgE clone R35-118 (both from BD Pharmingen, San Jose, CA) for
+detection, followed by streptavidin-coupled alkaline phosphatase
+
+www.jidonline.org
+
+1963
+1964
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+ 
+
+a
+parenchyma
+
+IgE anti-TNP
+
+   
+   
+ 
+
+TNP-OVA
+
+IL-4/IL-13
+
+   
+  
+  
+
+Ear swelling
+response
+
+Eosinophil
+recruitment
+
+ 
+
+ 
+
+Helminthelicited IgE
+
+ 
+
+PW TWP-OVA
+
+ 
+
+ 
+
+ 
+
+Figure 6. Model for basophil-elicited and eosinophil-dependent IgE-mediated chronic allergic skin inflammation. (a) In the absence of helminth infection,
+FceRI on basophils is not saturated and can bind injected hapten-specific IgE. Antigen-induced IgE cross-linking then activates basophils to release IL-4/IL-13,
+which leads to induction of CCL24 expression in endothelial cells. This results in recruitment of eosinophils, which are required for induction of the ear swelling
+response. (b) Prior infection with helminths leads to high serum IgE levels, resulting in saturation of FceRI on basophils so that subsequent injection of haptenspecific IgE will not lead to sensitization of basophils and therefore inhibits the ear swelling response. TNP, trinitrophenyl.
+
+(SouthernBiotech, Birmingham, AL) and para-nitrophenyl substrate
+(Sigma-Aldrich). Absorbance at 405 nm was determined using a
+Multiskan FC Microplate Photometer (ThermoFisher Scientific). For
+CCL24 ELISA, ears were homogenized in RIPA buffer with protease
+inhibitors (Complete Protease Inhibitor Cocktail; Roche, Basel,
+Switzerland) with the gentleMACS Octo Dissociator (Miltenyi Biotec, Bergisch Gladbach, Germany) and suspensions analyzed according to manufacturer's instructions (Mouse Eotaxin-2 ELISA Kit
+[ab206985]; Abcam, Cambridge, MA).
+
+Quantitative reverse transcriptase PCR
+
+RNA of total ear pinnae 2 days after TNP-OVA challenge of IgE-antiTNP-sensitized mice was extracted using TRIsure (Bioline, Luckenwalde, Germany) and gentleMACS Octo Dissociator (Miltenyi
+Biotec) according to manufacturer's protocol. Quantitative reverse
+transcriptase PCR was performed with primers
+Supplementary Table $1 online.
+
+listed in
+
+Antibodies, cell preparation, and flow cytometry
+
+Single-cell suspension of total ear pinnae was prepared using the
+Multi Tissue Dissociation Kit | (Miltenyi Biotec) and gentleMACS
+Octo Dissociator with heaters (Miltenyi Biotec) according to manufacturer’s protocol. Single-cell suspensions from spleen were prepared with 100-m cell strainers before an erythrocyte lysis was
+performed. Cell suspensions were stained with diluted antibody
+mixtures on ice. Antibodies against the following antigens were
+used: APC anti-mouse CD49b (HMa2; Biolegend, San Diego, CA),
+PE-Cy7 anti-mouse FceRla (MAR-1; eBioscience at Thermo Fisher
+Scientific, Waltham, MA), BV421 anti-mouse Siglec-F (E50-2440;
+BD Pharmingen at Thermo Fisher Scientific), PerCP-Cy5.5 antimouse CD45 (30-F11; BD Pharmingen), APC/Cy7 anti-mouse Ly-6G
+(1A8; Biolegend), PE anti-mouse IgE (23G3; eBioscience), PE-Cy7
+anti-mouse CD62L (MEL-14; eBioscience), A647 IgE anti-TNP
+(IgElb4), PE anti-mouse CD200R3 (Ba13; Biolegend), biotin antimouse CD69 (H1.2F3; eBioscience) combined with streptavidin
+Journal of Investigative Dermatology (2019), Volume 139
+
+A647, and purified rat-anti-mouse CD16/32 (2.4G2; Bioxcell,
+West Lebanon, NH). To exclude dead cells, fixable ViaDye eFluor
+506 (eBioscience) was used. Cell populations in ear tissue and blood
+on day 2 after TNP-OVA were defined as follows: basophils
+(CD49b*IgE*) gated on live CD45" cells, eosinophils (SiglecF*ssch') and neutrophils (Ly6G") gated on live CD45" cells. Flow
+cytometry data acquisition was performed on a MACSQuant (Miltenyi Biotec) or BD LSRFortessa (BD Biosciences) instrument. Files
+were analyzed with FlowJo software (TreeStar Ashland, OR).
+
+Two-photon microscopy
+
+Two-photon microscopy of unfixed ear pinnae of EpxCre_R26'™"°
+mice was performed on day 2 after challenge and compared to
+untreated EpxCre_R26'10ma"e mice using a Zeiss LSM880 NLO
+Intravital Microscope (Carl Zeiss, Oberkochen, Germany). Acquired
+data were analyzed with ZEN (blue edition) 2.5 software (Carl Zeiss).
+
+Statistical analysis
+
+Statistical analysis was performed with SigmaPlot 12.3 (Systat Software, San Jose, CA) or PRISM 5.02 (GraphPad, La Jolla CA). For ear
+swelling curves, data points at each time point were directly
+compared between groups of indicated experimental and control
+mice if not stated differently in figure legends.
+
+DATA AVAILABILITY
+All primary data are available from the authors upon reasonable request.
+
+ORCIDs
+
+Joerg U. Eberle: https://orcid.org/0000-0003-3806-7 166
+Daniel Radtke: https://orcid.org/0000-0003-3241-4542
+Falk Nimmerjahn: https://orcid.org/0000-0002-5418-316X
+David Voehringer: https://orcid.org/0000-0001-6650-0639
+
+CONFLICT OF INTEREST
+The authors state no conflict of interest.
+ACKNOWLEDGMENTS
+
+We thank Axel Dietschmann, Daniela Déhler, Kirstin Castiglione, and Laura
+Handl for technical support, members of the Voehringer laboratory for critical
+comments on the manuscript and the Optical Imaging Center Erlangen for
+help with two-photon microscopy. This work was supported by the Deutsche
+Forschungsgemeinschaft grant VO944/9-1 within FOR2599.
+
+AUTHOR CONTRIBUTIONS
+
+Conceptualization: JUE, DR, DV; Funding Acquisition: DV; Investigation: JUE,
+DR; Resources: FN; Supervision: DV; Writing — Original Draft Preparation:
+JUE, DR, DV; Writing — Review and Editing: JUE, DR, DV
+
+ 
+
+SUPPLEMENTARY MATERIAL
+
+Supplementary material is linked to the online version of the paper at www.
+jidonline.org, and at https://doi.org/10.1016/j.jid.2019.03.1129.
+
+ 
+
+REFERENCES
+
+Brown SJ, Galli SJ, Gleich GJ, Askenase PW. Ablation of immunity to
+Amblyomma americanum by anti-basophil serum: cooperation between
+basophils and eosinophils in expression of immunity to ectoparasites (ticks)
+in guinea pigs. J Immunol 1982;129:790—6.
+
+Cheng LE, Sullivan BM, Retana LE, Allen CD, Liang HE, Locksley RM. IgEactivated basophils regulate eosinophil tissue entry by modulating endothelial function. J Exp Med 2015;212:513—24.
+
+Dyer KD, Moser JM, Czapiga M, Siegel SJ, Percopo CM, Rosenberg HF.
+Functionally competent eosinophils differentiated ex vivo in high purity
+from normal mouse bone marrow. J Immunol 2008;181:4004—9.
+
+Flohr C, Quinnell RJ, Britton J. Do helminth parasites protect against atopy
+and allergic disease? Clin Exp Allergy 2009;39:20—32.
+
+Godfrey RC, Gradidge CF. Allergic sensitisation of human lung fragments
+prevented by saturation of IgE binding sites. Nature 1976;259:484—6.
+
+Hashimoto T, Satoh T, Yokozeki H. Protective role of STAT6 in Basophildependent prurigo-like allergic skin inflammation. J Immunol 2015;194:
+4631-40.
+
+Iki M, Tanaka K, Deki H, Fujimaki M, Sato S$, Yoshikawa S, et al. Basophil
+tryptase mMCP-11 plays a crucial role in IgE-mediated, delayedonset allergic inflammation in mice. Blood 2016;128:2909—18.
+
+Irani AM, Huang C, Xia HZ, Kepley C, Nafie A, Fouda ED, et al. Immunohistochemical detection of human basophils in late-phase skin reactions.
+J Allergy Clin Immunol 1998;101:354—62.
+
+Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AF, Yokozeki H. Basophil
+recruitment and activation in inflammatory skin diseases. Allergy 2011;66:
+1107-13.
+
+Kaplan MH, Schindler U, Smiley ST, Grusby MJ. Stat6 is required for mediating responses to IL-4 and for development of Th2 cells. Immunity 1996;4:
+A139:
+
+Lee NA, McGarry MP, Larson KA, Horton MA, Kristensen AB, Lee J).
+Expression of IL-5 in thymocytes/T cells leads to the development of a
+massive eosinophilia, extramedullary eosinophilopoiesis, and unique histopathologies. J Immunol 1997;158:1332—44.
+
+Lichtenstein LM, Bochner BS. The role of basophils in asthma. Ann N Y Acad
+Sci 1991;629:48—61.
+
+McKenzie GJ, Fallon PG, Emson CL, Grencis RK, McKenzie AN. Simultaneous disruption of interleukin (IL)-4 and IL-13 defines individual roles in T
+helper cell type 2-mediated responses. J Exp Med 1999;189:1565—72.
+
+Mesnil C, Raulier S, Paulissen G, Xiao X, Birrell MA, Pirottin D, et al. Lungresident eosinophils represent a distinct regulatory eosinophil subset. J Clin
+Invest 2016;126:3279-95.
+
+Mohrs M, Shinkai K, Mohrs K, Locksley RM. Analysis of type 2 immunity
+in vivo with a bicistronic IL-4 reporter. Immunity 2001;15:303—11.
+
+Mukai K, Matsuoka K, Taya C, Suzuki H, Yokozeki H, Nishioka K, et al.
+Basophils play a critical role in the development of IgE-mediated chronic
+allergic inflammation independently of T cells and mast cells. Immunity
+2005;23:191—202.
+
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+Neilsen CV, Bryce PJ. Interleukin-13 directly promotes oesophagus production of CCL11 and CCL24 and the migration of eosinophils. Clin Exp Allergy 2010;40:427—34.
+
+Obata-Ninomiya K, Ishiwata K, Tsutsui H, Nei Y, Yoshikawa S, Kawano Y,
+et al. The skin is an important bulwark of acquired immunity against intestinal helminths. J Exp Med 2013;210:2583—95.
+
+Oettgen HC, Martin TR, Wynshaw-Boris A, Deng C, Drazen JM, Leder P.
+Active anaphylaxis in IgE-deficient mice. Nature 1994;370:367—70.
+
+Ohnmacht C, Schwartz C, Panzer M, Schiedewitz |, Naumann R,
+Voehringer D. Basophils orchestrate chronic allergic dermatitis and protective immunity against helminths. Immunity 2010;33:364—74.
+
+Ohnmacht C, Voehringer D. Basophil effector function and homeostasis
+during helminth infection. Blood 2009;113:2816—25.
+
+Otsuka A, Kabashima K. Mast cells and basophils in cutaneous immune responses. Allergy 2015;70:131—40.
+
+Sato E, Hirahara K, Wada Y, Yoshitomi T, Azuma T, Matsuoka K, et al. Chronic
+inflammation of the skin can be induced in IgE transgenic mice by means of
+a single challenge of multivalent antigen. J Allergy Clin Immunol
+2003;111:143—8.
+
+Schwartz C, Eberle JU, Hoyler T, Diefenbach A, Lechmann M, Voehringer D.
+Opposing functions of thymic stromal lymphopoietin-responsive basophils
+and dendritic cells in a mouse model of atopic dermatitis. J Allergy Clin
+Immunol 2016;138:1443—6 e8.
+
+Schwartz C, Turqueti-Neves A, Hartmann S, Yu P, Nimmerjahn Ff,
+Voehringer D. Basophil-mediated protection against gastrointestinal helminths requires IgE-induced cytokine secretion. Proc Natl Acad Sci USA
+2014;111:E5169—77,
+
+Shahabuddin S$, Ponath P, Schleimer RP. Migration of eosinophils across
+endothelial cell monolayers: interactions among IL-5, endothelialactivating cytokines, and C-C chemokines. J Immunol 2000;164:3847—54.
+
+Stanworth DR, Humphrey JH, Bennich H, Johansson SGO. Specific inhibition
+of the prausnitzkiistner reaction by an atypical human myeloma protein.
+Lancet 1967;290:330—2.
+
+Tsutsui H, Yamanishi Y, Ohtsuka H, Sato S, Yoshikawa S$, Karasuyama H. The
+basophil-specific protease mMCP-8 provokes an inflammatory response in
+the skin with microvascular hyperpermeability and leukocyte infiltration. J
+Biol Chem 292:1061—7.
+
+van den Biggelaar AH, Rodrigues LC, van Ree R, van der Zee JS, HoeksmaKruize YC, Souverijn JH, et al. Long-term treatment of intestinal helminths
+increases mite skin-test reactivity in Gabonese schoolchildren. J Infect Dis
+2004;189:892—900.
+
+Voehringer D, van Rooijen N, Locksley RM. Eosinophils develop in distinct
+stages and are recruited to peripheral sites by alternatively activated macrophages. J Leukocyte Biol 2007;81:1434—44.
+
+Wada T, Ishiwata K, Koseki H, Ishikura T, Ugajin T, Ohnuma N, et al. Selective ablation of basophils in mice reveals their nonredundant role in
+acquired immunity against ticks. J Clin Invest 2010;120:2867—75.
+
+Walker W, Healey GD, Hopkin JM. RNA interference of STAT6 rapidly attenuates ongoing interleukin-13-mediated events in lung epithelial cells.
+Immunology 2009;127:256—66.
+
+Wills-Karp M, Santeliz J, Karp CL. The germless theory of allergic disease:
+revisiting the hygiene hypothesis. Nat Rev Immunol 2001;1:69—75.
+
+Wilson MS, Taylor MD, Balic A, Finney CA, Lamb JR, Maizels RM. Suppression of allergic airway inflammation by helminth-induced regulatory T
+cells. J Exp Med 2005;202:1199-212.
+
+Yu C, Cantor AB, Yang H, Browne C, Wells RA, Fujiwara Y, et al. Targeted
+deletion of a high-affinity GATA-binding site in the GATA-1 promoter leads
+to selective loss of the eosinophil lineage in vivo. J Exp Med 2002;195:
+1387-95.
+
+Zimmermann N, Hogan SP, Mishra A, Brandt EB, Bodette TR, Pope SM, et al.
+Murine eotaxin-2: a constitutive eosinophil chemokine induced by
+allergen challenge and IL-4 overexpression. J Immunol 2000;165:
+5839-46.
+
+www. jidonline.org
+
+1965
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+  
+
+a Arg1 Retnla BALE
+e Cc
+2.0 10 ™ STAT6ko
+wis : 4 44-13ko
+2 =
+S o 6
+31.0 6
+3 a
+0.5. 2,
+0.0 0
+b TsIp Ccl24 Cel3 © BALB/c
+50 15 20 = STAT6ko
+° . 4 4-13ko
+% 91.0 3"
+= 30 EB 5
+§ 5 § 10
+2 20 z 3
+3 B05 25
+10 =
+0 0.0 0
+
+  
+
+Supplementary Figure $1. Expression of M2 macrophage markers and recruitment related genes in the ear of wild-type, STAT6ko, and 4-13ko mice. (a)
+Quantitative reverse transcriptase PCR analysis of total ear pinnae 2 days after trinitrophenyl-OVA challenge of IgE-anti-trinitropheny! sensitized wild-type,
+4-13ko, and STAT6ko mice. Results are normalized to HPRT and fold-change was calculated with one wild-type sample as reference. (a) Expression of
+Arginase 1 (fwd: 5' GIATGA CGT GAG AGA CCA CG 3’, rev: 5’ CTC GCA AGC CAA TGT ACA CG 3’) and Retnla (fwd: 5’ CCA TAG AGA GAT TAT CGT GGA
+3', rev: 5’ TGG TCG AGT CAA CGA GTA AG 3’). (b) Expression of Tslp (fwd: 5! ACG GAT GGG GCT AAC TTA CAA 3/, rev: 5’ AGT CCT CGA TTT GCT CGA
+ACT 3’), Ccl24 (fwd: 5’ AGG CAG TGA GAA CCA AGT 3’, rev: 5’ GCG TCA ATA CCT ATG TCC AA 3’) and Cel3 (fwd: 5' GICTTCTCAGCGCCATATGGAGC 3’,
+rev: 5’ GTC AGG AAA ATG ACA CCT GGC TGG 3’). Analysis of variance was performed with no significance P < 0.05 determined. 4-13ko, IL-4/IL13—deficient; STAT6ko, STAT6-deficient.
+
+Supplementary Figure $2. Normal a b
+eosinophil numbers in Mcpt8Cre
+mice and normal basophil number
+and function in AdbIGATA mice. (a)
+Splenocytes of IgE anti-trinitropheny|
+
+@ Balbic
+1 Mcptécre
+
+@ 86
+@ AdbIGATA
+08
+
+intravenously injected Mcpt8Cre mice
+challenged by trinitrophenyl, OVA
+ear injection were analyzed 2 days
+
+06
+
+04
+later for eosinophil content by flow
+
+cytometry (Siglec-F*SSC"). (b) For
+AdbIGATA splenocytes the percentage
+of basophils (CD49b*CD200R3*)
+after erythrocyte lysis and magnetic
+depletion of CD4* and B220° cells
+for later functional analysis was c d
+
+determined. (c) Basophils 40000 3, on
+
+(CD49b*CD200R3*) were sorted Site i AdbIGATA
+
+post CD4/B220 depletion
+
+2
+;
+
+2
+
+5 a
+a
+
+3 le 3
+io} e 2
+2 P=]
+a &
+g
+
+Go
+
+8B 02
+
+x
+
+  
+
+from pre-purified cells described in 8000 @
+(b); 6 x 10% cells per well in 100 ul
+were seeded into a plate precoated
+overnight with indicated
+
+(Geo mean)
+a
+CI
+
+IL4 (pg/ml)
+
+concentrations of anti-IgE antibody,
+followed by 12 hours of incubation. ee
+
+The expression of CD69 was analyzed 2000 . .
+
+by flow cytometry. (d) IL-4 in the ww ss .
+supernatant of cultured basophils was 0 Z : ; ad Z = 0 1 r one
+
+measured by ELISA. 10 1 0.1 0 10.0 1.0 0.4 0.0
+anti-IgE (ug/ml) anti-IgE (ug/ml)
+
+CD69 on basophils
+
+ 
+
+1965.e1 Journal of Investigative Dermatology (2019), Volume 139
+JU Eberle et al.
+Role of Eosinophils and Basophils in IgE-CAI
+
+CD200R3
+n= a
+
+ 
+
+w 1 0.15% 4 0.026% : 020
+4
+
+|
+
+2
+a
+L
+a
+
+0.104
+
+% Basophils in
+eosinophil culture
+
+bd
+
+f=
+
+a
+r
+
+ 
+
+ 
+
+ 
+
+FceR| —————_____>
+
+ 
+
+ 
+
+  
+
+0.00
+ 
+
+°
+SiglecF
+
+Supplementary Figure $3. Eosinophil cultures contain a minor basophil fractions. Flow cytometric analysis of bone marrow derived eosinophil cultures at
+day 14 to determine the percentage of contaminating basophils. Two exemplary plots are shown and quantification from three cultures is given.
+
+Supplementary Table $1. Primer sequences used for RT-PCR analysis
+
+TSLP (fwd.: 5’- ACG GAT GGG GCT AAC TTA CAA-3’, rev.: 5’-AGT CCT CGA TTT GCT CGA ACT-34),
+
+CCL24 (fwd.: 5’-AGG CAG TGA GAA CCA AGT-3’, rev.: 5’-GCG TCA ATA CCT ATG TCC AA-3’),
+
+CCL3 (fwd.: 5’-GTCTTCTCAGCGCCATATGGAGC-3, rev.: 5’-GTC AGG AAA ATG ACA CCT GGC TGG-3’),
+CCLS5 (fwd: 5’-CAC CAT CAT CCT CAC TGC AGC C-3’, rev.: 5’-GCG GTT CCT TCG AGT GAC AAA C-3’),
+CCL11 (fwd.: 5’-GAA TCA CCA ACA ACA GAT GCA C-3’, rev.: 5’-ATC CTG GAC CCA CTT CTT CTT-3’),
+VCAM1 (fwd.: 5’-TAC CAG CTC CCA AAA TCC TG-3’, rev.: 5’-TCT GCT AAT TCC AGC CTC GT-3’),
+
+HPRT (fwd.: 5’-GTT GGA TAC AGG CCA GAC TTT GTT-3’ , rev: 5’-GAG GGT AGG CTG GCC TAT AGG CT-3’),
+
+ 
+
+www.jidonline.org 1965.e2
+

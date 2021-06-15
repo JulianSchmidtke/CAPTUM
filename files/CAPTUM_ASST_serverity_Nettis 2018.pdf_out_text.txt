@@ -1,0 +1,781 @@
+Accepted Manuscript
+
+Omalizumab chronic spontaneous urticaria: efficacy, safety,
+predictors of treatment outcome and time to response
+
+E. Nettis MD , L. Cegolon MDPhDMSc , E. Di Leo MDPhD , of Allergy, Asthma & Immunology
+F. Lodi Rizzini MDPhD , A. Detoraki MDPhD , W.G. Canonica MD ,
+on behalf of the Italian OCUReL study group
+
+ 
+
+Pll: $1081-1206(18)30506-4
+
+DOI: 10.1016/j.anai.2018.06.014
+
+Reference: ANAI 2591
+
+To appear in: Annals of Allergy, Asthma Immunology
+Received date: 26 April 2018
+
+Revised date: 31 May 2018
+
+Accepted date: 15 June 2018
+
+Please cite this article as: E.NettisMD, L.CegolonMDPhDMSc,  E.DiLeoMDPhD,
+F. Lodi Rizzini) MDPhD , A.DetorakiMDPhD, W.G.CanonicaMD, on behalf of the Italian
+OCUReL study group, Omalizumab chronic spontaneous urticaria: efficacy, safety, predictors of
+treatment outcome and time to response , Annals of Allergy, Asthma Immunology (2018), doi:
+10.1016/j.anai.2018.06.014
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service
+to our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and
+all legal disclaimers that apply to the journal pertain.
+Title of the paper:
+Omalizumab chronic spontaneous urticaria: efficacy, safety, predictors of treatment
+
+outcome and time to response
+
+Omalizumab in patients with chronic spontaneous urticaria: an Italian multicentric real life study
+
+Manuscript word count: 2227
+
+Table count: 5
+
+Authors: E. Nettis, MD’, L. Cegolon, MD, PhD, MSc’, E. Di'keo, MD, PhD®, F. Lodi Rizzini, MD, PhD‘, A.
+
+Detoraki, MD, PhD°, W. G. Canonica, MD®, on behalf of the Italian OCUReL study group’
+
+Affiliations:
+
+‘Department of Emergency and(Organ Transplantation, School of Allergology and Clinical
+Immunology, University of BariAldo Moro, Bari, Italy
+
+*Scientific Directorate, IRCCS Burlo Garofolo, Trieste, Italy
+
+3Section of Allergy and.Clinical Immunology, Unit of Internal Medicine—“F. Miulli” Hospital,
+Acquaviva delle Fonti, Bari, Italy
+
+‘allergy Unit, University of Brescia, Spedali Civili, Brescia, Italy
+
+*Depattment of Clinical Immunology, Clinical Pathology, Infectious Diseases and Dermatology,
+Azienda Ospedaliera Universitaria Federico II, Naples, Italy
+
+*Department of Internal Medicine, Respiratory Disease Clinic, IRCCS Humanitas Clinical and Research
+Center, Humanitas University, Milan, Italy
+
+7ItalianOCUReL (Omalizumab Chronic Urticaria in Real Life) study group: |. Baiardini (Genova), M.
+Cancian (Padova), S. Capretti (Firenze), G. Colombo (Milano), M. Conte (Pordenone), M.T. Costantino
+(Mantova), A. D’Angelo (Borgomanero), G. De Feo (Salerno), T. De Pasquale (Civitanova Marche), A.
+de Paulis (Napoli), M. Di Gioacchino (Chieti), E. Favero (Conegliano Veneto), S. Fichefa (Catania), F.
+Gaeta (Roma), S. Gangemi (Messina), A. Gatta (Chieti), E. Heffler (Catania), L. LayRosa
+(Borgomanero), D. Macchia (Firenze), L. Macchia (Bari), E. Maggi (Firenze), C. Marasco (Bari), |.
+Martignago (Parma), M. Mineni (Brescia), A. Pannofino (Policoro), R. Parente (Salerno), S. Peveri
+(Piacenza), S. Pucci (Civitanova Marche), A. Radice (Firenze), Ricciardi (Messina), E. Ridolo (Parma),
+A. Romano (Roma), O. Rossi (Firenze), E. Savi (Piacenza)~GmE»Senna (Verona), R. Senter (Padova), G.
+Spadaro (Napoli), G. Stefanizzi (Verona), A. Vacca (Bari)pAsVignoli (Mantova), D. R. Villalta
+
+(Pordenone), M. Yacoub (Milano), |. Zaza (Bari).
+
+Corresponding author: Aikaterini/Detoraki, MD, PhD.
+
+*Department of Clinical Immunology,Clinical Pathology, Infectious Diseases and Dermatology,
+Azienda Ospedaliera Universitaria Federico II, Naples, Italy
+
+Telephone: 0039-081-7464269 or 0039-329-1895133
+
+Fax: 0039-081-7463670
+
+e-mail: caterina.detoraki@gmail.com
+
+Email addresses for all authors:
+
+Eustachio Nettis: ambulatorio.allergologia@uniba.it
+
+ 
+Luca Cegolon: |.cegolon@gmail.com
+
+Elisabetta Di Leo: elisabettadileo71@libero.it
+
+ 
+
+Fabio Lodi Rizzini: lodirizz@med.unibs.it
+
+Aikaterini Detoraki: caterina.detoraki@gmail.com
+
+ 
+
+Walter Giorgio Canonica: canonica@unige. it
+
+Funding sources:
+
+Medical writing assistance was funded by Novartis Farma, Italy.
+
+Conflicts of interest:
+E. Nettis, E. Di Leo, L. Cegolon, F. Lodi Rizzini, A. Detorakixand W.G. Canonica declare that they have
+
+no conflict of interest.
+
+Introdwetion
+Chronic spontaneous urticaria (CSU) is the most common subtype of urticaria, and is
+characterized by recurrent episodes of spontaneous wheals and/or angioedema with unknown
+
+triggers, lasting for more than six weeks.’ CSU generally affects 0.5—1.0% of people 20-40
+years of age, with a disease duration of 1-5 years.” Patients with CSU often experience sleep
+deprivation and psychiatric comorbidities like anxiety and depression, which compromise the
+health-related and overall quality of life of the affected individuals.” ?
+
+Treatment of CSU can be challenging in most cases as it is often difficult to identify,the
+underlying cause of the disease, and symptomatic therapies remain mainstay oftreatment in
+these patients. First-line treatment of CSU includes second-generation nonssedating
+antihistamines.’ “* However, the licensed doses of these drugs reliéve symptoms in only
+50% of cases, and the current guidelines suggest updosing of Hi-antihistamines up to
+fourfold. ' Both clinical experience and clinical studies support this approach showing a
+higher efficacy in many, but not all, patients.° Patients refractory to antihistamine therapy are
+generally treated with up to four times the recommended dose of second-generation
+
+antihistamines plus omalizumab, or cycl6Sporine’A in severe cases.!"*
+
+Omalizumab is a recombinant anti-IgE antibody approved for the treatment of CSU
+refractory to antihistamines.” * Itisdministered subcutaneously at the recommended doses
+of 150 or 300 mg evety 4 weeks. °“The mechanism of action is still unclear, although
+omalizumab seems o block the binding of IgE to the FceRI receptor on the surface of target
+cells, including mast cells and basophils, thus reducing receptor expression and the release of
+
+inflammatory/mediators””.
+
+Since predictors of response to omalizumab treatment in CSU patients are still unclear, this
+
+study aims to evaluate efficacy and safety of this drug in patients with H1 antihistaminerefractory CSU, investigating also baseline factors influencing treatment outcome as well as
+
+time lag to response to omalizumab by serum auto-reactivity.
+
+Methods
+
+Study design and patients
+
+This multicentric retrospective observational study involved 23 Italian allérgy and clinical
+immunology secondary care centers. The study comprised a 4—week pre-treatment period,
+followed by a 24—week treatment period, and a 16-week follow-up*period. Patients aged 1285 years included in the study had a history of spontaneous,urticaria for more than 6 weeks,
+not responding to treatment with licensed doses of non-sedating second-generation H1antihistamines for at least four weeks, with adailysirticaria activity score (UAS) =4 assessed
+in clinic on one of the pre-treatment check®up\days (days —14, —7, or 1), and a 7-day urticaria
+activity score (UAS7) >16 assessed during 7 days before first study treatment. Baseline
+autologous serum skin test (ASST) was performed as per standard guidelines. ASST was
+considered to be positive. ifthe wheal induced by serum was > 1.5 mm larger in diameter than
+that induced by saline.'®.The total IgE serum levels were also measured using
+immunofluorometricyassay (ImmunoCAP; ThermoFisher, Uppsala, Sweden) and were
+expresséd in KUA/L, according to the manufacturer’s instructions.
+
+The key,exclusion criteria were as follows: patients with serious psychological disturbances;
+history of malignancy or hypersensitivity to omalizumab; or treatment with omalizumab
+within the previous six months.
+
+All procedures complied with the Helsinki Declaration of 1964, subsequently revised in
+2013. The study protocol was approved by the ethical committee of Naples University
+Hospital, Italy. Informed consent was obtained from all patients who agreed to participate to
+this study.
+
+According to the recommendations of the Italian Drug Agency (AIFA) for CSU, omalizumab
+was administered subcutaneously every 4 weeks at doses of 300 mg for 24 weeks/in total
+(first treatment course) and was administered again (second treatment cotise) atleast 8
+weeks after the end of the first treatment course if the UAS7 score Showed values similar to
+those at pretreatment. u
+
+Throughout the study period, patients were required to maintain) stable doses of their pretreatment therapy with H1 antihistamines at approved doses. During this time, patients were
+therefore allowed to use up to four times of the licensed dose of H1 antihistamines and/or
+systemic glucocorticoids, as needed, for‘symptomatic relief.
+
+Study end points and statistical analysis
+
+The primary efficacy end points included mean and median change in UAS7 score, weekly
+itch severity score (ISS)‘andthive score from baseline to respective values at weeks 4, 12, and
+24. The t-test wasémployed for comparison of means.
+
+Secondary efficacy outcomes included the proportion of patients with well-controlled
+urticaria (UAS7<6) and complete response to omalizumab treatment (UAS7=0) at week 4,
+12, 24pand 40. Safety was evaluated by monitoring and recording the frequency and severity
+of adverse events (AEs).
+
+Various factors were then investigated as predictors of response to omalizumab treatment,
+
+contrasting patients with UAS7 score of >6 (non-responders'”) to those with UAS7 <6
+(responders'”) at week 24. Logistic regression analysis was employed to investigate treatment
+response as binary endpoint (UAS7 >6 vs. UAS7 <6) by different baseline characteristics.
+Total level of pre-treatment IgE were categorized into quartiles. A multivariate logistic
+regression model was fitted by selecting factors significant at the univariate analysis, The
+results of the multivariable logistic regression model, expressed as odds ratio(QR) with 95%
+confidence interval (95% CI), were also adjusted for the effect of participating centers.
+Patients responding within 8 days since omalizumab administration were considered “fast
+responders’, those responding between 8 days and 6 months were*¢onsidered “s/ow
+responders”.'°
+
+The speed of response to omalizumab (fast responders vs. Slow responders) was tested
+against serum reactivity based on ASST results (poSitive vs. negative) in an univariable exact
+logistic regression analysis. Results were 6xpressed as odds ratio (OR) with 95% confidence
+interval (95%CI).
+
+Statistical analyses were performed using Stata 14.2 package (Stata Corporation, College
+Station, Texas, USA). Leveltof significance was set at <0.05. Missing values were excluded
+and complete case“analysis was performed.
+
+Results
+
+The study was conducted at 23 allergy and clinical immunology secondary care centers in
+Italyall.of which were members of the Italian Society of Allergy, Asthma and Clinical
+Immunology task force. A total of 322 patients with refractory CSU who received at least one
+dose of omalizumab at the study centers from September 2015 to August 2017 were included
+
+in the study, and were examined by 56 different physicians.
+ 
+
+The mean age of patients was 46.5 + 14.3 years, 222 patients (68.9%) were female and the
+
+ 
+
+mean total IgE at baseline was 231.4 + 506.6 KUA/L (Table I). Mean duration of CSU was
+
+ 
+
+44.1 + 64.3 months and 167 patients (53.2%) had history of angioedema. The mean baseline
+
+UAS7 score was 27.9 + 8.3 and in-clinic UAS was 4.8 + 0.8; the baseline hive score.was 13.3
+
+ 
+
+ 
+
++ 5.2, whereas baseline ISS was 14.4 + 4.7. Angioedema was reported by 111°@6.3%)
+
+ 
+
+ 
+
+patients in the week before treatment.
+
+Efficacy
+
+As it can be seen from Table I, UAS7 scores diminished fromebaseline to week 4 (mean
+change =—19.5), up to week 12 (mean change = —22.7),and week 24 (mean change = —24.6),
+with a significant decreasing trend over time (p-trend\<0.001). Similar mitigated trends from
+baseline to week 4, 12 and 24 were also observed\for mean values of weekly hive scores (ptrend <0.001) as well as ISS (p-trend <0°008).
+
+Nineteen patients (5.9%) discontinted the study during the 24-week treatment period; 12
+patients had disease progression,three had personal problems, two had AEs, and two were
+lost to follow-up. Eleven patients (3.4%) discontinued treatment between week 24 and week
+40 and were lost to“follow-up.
+
+During the follow-up»period, 119/292 (40.8%) patients repeated treatment with omalizumab
+(second/treatment course) due to an increase in the mean UAS7 score. At the end of the
+studymh73/292 (59.2%) patients did not repeat omalizumab treatment.
+
+At the end of the 40-week study, 107 out of 173 patients (61.8%) reported well-controlled
+urticaria (UAS7 score <6), and complete response to omalizumab treatment (UAS7 score=0)
+
+was observed in 75 out of 173 treated patients (43.4%) (Table II).
+Based on the above, factors significantly associated with UAS7 score >6 after 24 weeks since
+treatment start with omalizumab at univariable analysis were baseline angioedema,
+cyclosporine use, angioedema history, IgE levels and (to some extent) duration of CSU
+(Table II). At multivariate analysis only higher pre-treatment IgE values — categories (48119) KUA/L and (120-236) KUA/L — were significantly less likely to be associated with a
+UAS7 score >6 at the end of the 24-week treatment period (Table II).
+
+ASST was performed on 160 patients only. The results of ASST performed on the 135
+patients who responded to omalizumab treatment (out of 255 responders) were analyzed.
+Sixty-six patients responding within 8 days of omalizumab,administration were categorized
+as “fast responders”, the remaining 69 patients were classed as “s/ow responders”. Nineteen
+out of the 66 (28.8%) “fast responders” were ASST positive compared with 44 of the 69
+(63.8%) “slow responders” (P <0.001) (fable\IV). ASST-positive patients were 4.30 times
+more likely to have a slow respons€ to omalizumab treatment as compared with ASSTnegative patients.
+
+Safety
+
+The overall incidence of. AEs during the 24-week treatment phase was 11.2%, and 31 patients
+(9.6%) reported at least one AE. Migraine, asthenia and administration site conditions were
+the most common AEs (Table V). No treatment-emergent AEs were reported during the
+study?
+
+Discussion
+
+The results of this study showed that omalizumab effectively reduced the symptoms of CSU
+
+in antihistamine refractory patients. After 24 weeks of treatment, omalizumab significantly
+10
+
+decreased the mean UAS7, ISS and weekly hive scores. Furthermore, 84.2% of patients
+reported well-controlled urticaria at the end of the 24-week treatment period, and complete
+response to treatment was seen in 66.7% of patients. Overall, the treatment was well
+tolerated.
+
+UAS7 is a validated and widely used patient-reported measure of CSU that captures the
+intensity of pruritus and number of hives.“ Studies with omalizumab havé reported a
+reduction in UAS7 scores with treatment in patients with CSU.'*'*A randomized, doubleblind, placebo-controlled study of omalizumab in patients withhGSU, reported that treatment
+with omalizumab decreased the UAS7 scores during the‘24-week treatment period.'* Another
+prospective open-label study with omalizumab reported a reduction in the UAS7 scores from
+baseline (5.7 vs 32.2) with treatment.'° The results of the present study are in line with these
+reports and show that omalizumab treatmeént,effectively reduced the UAS7 scores in patients
+with CSU over the 24-week treatment period, thus improving the overall symptoms in these
+patients.
+
+Currently, the predictors.of response to omalizumab treatment in CSU are not well known. A
+study by Ghazanfaf-and colleagues reported that favorable response to omalizumab treatment
+can be predieted by the presence of CSU, no angioedema, negative histamine release test,
+older age, shorter duration of symptoms, and no history of treatment with systemic
+immtnosuppressant drugs.'’ Another prospective study with omalizumab reported that
+patients with lower baseline IgE values showed poor response to treatment and that the ratio
+of IgE values after treatment to baseline IgE levels of patients can help in predicting the
+
+treatment response in patients with CSU.'* Similarly the present study confirmed poor
+11
+
+treatment outcome in relation of some baseline characteristics as cyclosporine administration,
+presence of angioedema, longer duration of CSU symptoms and low level of IgE. The above
+results are in line with previous reports identifying markers of response to omalizumab
+treatment in patients with CSU, which may be of significant value in clinical settings.
+However, after controlling for the simultaneous effect of all factors, the only important
+predictor of efficacious treatment response in our study was higher levels of prestreatment
+IgE.
+
+ASST is a simple in vivo clinical test for the detection of basophilshistamine-releasing
+activity. ASST has a sensitivity of approximately 70% anda specificity of 80%, and it may
+be used as a reasonably predictive clinical test to indicate the presence of functional
+circulating anti-FceRIa and anti IgE autoantibodies "Ybut it can cause false positive results,
+because of the formation of a large amountof bradykinin and secretion of tryptases from
+
+neutrophils during the coagulatio/process’”.
+
+Our study also showed that patients who were ASST positive were less likely to be “fast
+responders” (i.e. response within 8 days of omalizumab administration) to omalizumab
+treatment than those who were ASST negative. This result confirms the findings of Gericke
+et al. whonalso identified a significant association between ASST positivity and slower time
+lag to symptom relief with omalizumab in CSU patients'’, suggesting that omalizumab
+
+reduced the number of FceRI receptors on mast cells and basophils in these patients.
+
+Treatment with omalizumab was well tolerated in the present study. The most common AEs
+
+were migraine, asthenia and administration site conditions, which were not related to
+12
+
+omalizumab treatment. The main limitation of this study is its design, being observational
+and retrospective, without controls. In addition, although current guidelines for the diagnosis
+of CSU still recommend the in vivo ASST to define a CSU subgroup as having autoreactive
+urticaria,’ concerns have been raised regarding its interpretation and specificity '°,
+
+In conclusion, omalizumab was well tolerated and effective in the treatment ofipatients with
+CSU refractory to second-generation non-sedating antihistamines. Monitoring the baseline
+characteristics of patients before introduction of omalizumab therapy may help to predict
+
+treatment outcome in CSU patients.
+
+Acknowledgments
+
+We would like to thank Nishad Parkar, PhD of Springer Healthcare Communications for
+writing the first draft of the manuscript,andeMelanie Gatt, PhD, an independent medical
+writer, who provided editorial assistance on behalf of Springer Healthcare Communications.
+
+This medical writing assistance was\funded by Novartis Farma, Italy.
+
+References
+
+Le Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA2LEN/EDF/WAO Guideline for the
+definition, classification, diagnosis, and management of urticaria. The 2017 revision and
+
+update. Allergy 2018; Jan 15. doi: 10.1111/all.13397.
+13
+
+Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs in chronic spontaneous
+
+urticaria. A GA(2)LEN task force report. Allergy 2011;66:317-30.
+
+Maurer M, Abuzakouk M, Berard F, et al. The burden of chronic spontaneous urticaria is
+
+substantial: Real-world evidence from ASSURE-CSU. Allergy 2017;72:2005-16.
+
+Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and managementtof acute’and chronic
+
+urticaria: 2014 update. J Allergy Clin Immunol 2014;133:1270-7.
+
+Powell R, Leech S, Till S, et al. BSACI guideline for the management of chronic urticaria and
+
+angioedema. Clin Exp Allergy 2015;45:547-65.
+
+Guillen-Aguinaga S, Jauregui Presa |, Aguinaga-Ontoso E, et al. Updosing nonsedating
+antihistamines in patients with chronic spontaneous urticaria: a systematic review and meta
+analysis. Br J Dermatol 2016;17521153-65.
+
+Genentech Inc. USA. Xolair® Prescribing Information. 2017. Available from:
+
+https://www.gene.com/download/pdf/xolair_prescribing.pdf. Accessed: 21 December 2017.
+
+NovartissPharma/GmbH. Xolair® Summary of product characteristics. 2015. Available from:
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_
+_Proddct_Information/human/000606/WC500057298.pdf. Accessed: 21 December 2017.
+
+Chang TW, Chen C, Lin C-J, et al. The potential pharmacologic mechanisms of omalizumab in
+
+patients with chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:337-42. e2.
+10.
+
+11,
+
+12.
+
+13.
+
+14.
+
+15.
+
+14
+
+Konstantinou G, Asero R, Maurer M, et al. EAACI/GA2LEN task force consensus report: the
+
+autologous serum skin test in urticaria. Allergy 2009;64:1256-68.
+
+L’Agenzia Italiana del Farmaco. Piano terapeutico (PT) AIFA per la prescrizione di Xolair
+(omalizumab) (orticaria cronica spontanea). Available from:
+http://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?cdimg#15A062540010001
+0110001&dgu=2015-08-21&art.dataPubblicazioneGazzetta=2015-082
+21&art.codiceRedazionale=15A06254&art.num=1&art.tiposerie=SG. Accessed: 16 March
+
+2017.
+
+Maurer M, Kaplan A, Rosen K, et al. The XTEND-G@lsstudy: Long-term use of omalizumab in
+
+chronic idiopathic urticaria. J Allergy Clin Immunohk2018;141:1138-39.e7.
+
+Gericke J, Metz M, Ohanyan T, et al. Serum autoreactivity predicts time to response to
+omalizumab therapy in chronic spontaneous urticaria. J Allergy Clin Immunol 2017;139:1059
+61. e1.
+
+Mathias SD, Crosby RD, Rosén KE, et al. The minimal important difference for measures of
+urticariadisease activity: Updated findings. In Allergy Asthma Proc. OceanSide Publications,
+
+Ineé~2015: 394-8.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and safety of omalizumab in patients
+with chronic idiopathic/spontaneous urticaria who remain symptomatic on H1
+
+antihistamines: a randomized, placebo-controlled study. J Invest Dermatol 2015;135:67-75.
+15
+
+16. Sussman G, Hebert J, Barron C, et al. Real-life experiences with omalizumab for the
+treatment of chronic urticaria. Anns allergy, asthma & immunol (official publication of the
+
+American College of Allergy, Asthma, & Immunology) 2014;112:170-4.
+
+17. Ghazanfar MN, Sand C, Thomsen SF. Effectiveness and safety of omalizumab in chronic
+spontaneous or inducible urticaria: evaluation of 154 patients. Br J Dermatol! 2016;175:404
+6.
+
+18. Ertas R, Ozyurt K, Atasoy M, et al. The clinical response to omalizumab in chronic
+spontaneous urticaria patients is linked to and predicted by IgE levels and their change.
+
+Allergy 2018 Mar;73(3):705-12.
+
+19. Asero R, Tedeschi A, Riboldi P, et al. Plasma of patients with chronic urticaria shows signs of
+thrombin generation, and its intradermal injection causes wheal-and-flare reactions much
+
+more frequently than autologous serum. J Allergy Clin Immunol 2006;117:1113-7.
+
+Table I. Baseline characteristics of patients included in the study
+
+ 
+
+ 
+
+Baseline characteristics N
+
+Age, years
+Mean + SD 322 46.5+14.3
+Median (range) 46.5 (15-83)
+
+Sex, n (%) 322
+Male
+Female
+Duration of CSU, months
+Mean + SD
+Median (range)
+History of CSU medications, n (%)
+H1 antihistamines at regular dose
+H1 antihistamines at high dose
+Leukotriene receptor antagonists
+Systemic steroids
+Cyclosporines
+History of angioedema, n (%)
+Presence of angioedema’, n (%)
+Total IgE levels, KUA/L
+Mean + SD
+Median (range)
+Positive thyroid autoantibody test, n (%)
+Positive ASST, n (%)
+In clinic UAS
+Mean + SD
+Median (range)
+UAS7*
+Mean + SD
+Median (range)
+Weekly ISS*
+Mean #SD
+Median (range)
+Weekly No. hive score*
+
+Mean + SD
+
+322
+
+322
+
+313
+306
+
+193
+
+236
+160
+
+322
+
+322
+
+322
+
+322
+
+100 (31.1)
+222 (68.9)
+
+44.1 + 64.3
+24 (2-588)
+
+322 (100(0)
+225(69.9)
+66 (20,5)
+237(73.6)
+43 (13.3)
+167 (53.2)
+111 (36.3)
+
+231.4 + 506.6
+120 (0-5237)
+58 (24.7)
+76 (47.5)
+
+48+08
+5 (4-6)
+
+27.9483
+27 (17-42)
+
+14.444.7
+14 (3-21)
+
+13.3 45.2
+
+ 
+
+16
+ 
+
+ACCEPTED MANUSCRIPT
+
+17
+
+Median (range) 13 (0-21)
+
+ 
+
+*Based on data collected in patient’s daily diary in the week before first treatment.
+ASST, autologous serum skin test; CSU, chronic spontaneous urticaria; /SS, itch severity score; SD,
+
+standard deviation; UAS, urticaria activity score; UAS7, 7-day urticaria activity score. A
+
+SX
+oz
+Coy
+
+Yad
+
+eV
+Table Il. Efficacy of omalizumab treatment during the study (n=322)
+
+18
+
+ 
+
+ 
+
+Endpoint Week 4 Week 12 Week 24 Week 40
+Change from baseline in UAS7 score
+Mean + SD -19.5410.9* -22.7410.7*  -24.6+49.9* Median (range) —19 (-42, 9) —21 (-42, 18) —23 (-42, 4) .
+Change from baseline in ISS
+Mean + SD -9.7 + 6.0* -11.646.1*  -12.3+5.8* >
+Median (range) —10 (-21, 5) —12 (-21, 13) —12 (-2Y, 6) Change from baseline in hive score
+Mean + SD -9.4+6.2* -11.145.9*  -42.045,7* Median (range) ~9 (-21, 14) —10 (-21, 10) “11 (-21, 3) Proportion of patients
+58.4% 73.4% 84.2% 61.8%
+with well-controlled
+(188/322) (232/316) (255/303) (107/173)
+urticaria (UAS7 <6)
+Proportion of patients 38.2% 54.1% 66.7% 43.4%
+with complete response (123/322) (171/316) (202/303) (75/173)
+
+(UAS7=0)
+
+ 
+
+*t-test: P <0.001 vs baseline
+
+ISS, itch severity score; $D, standard deviation; UAS7, 7-day urticaria activity score.
+19
+
+Table III. Logistic regression analysis for UAS7 scores as binary endpoint (>6 vs. < 6). Odds ratios
+crude (OR) and adjusted (aOR) with 95% confidence interval (95%Cl) and likelihood ratio test p value
+
+ 
+
+ 
+
+Univariate analysis Multivariate
+Variable analysis
+OR (95% Cl) P-value aOR (95% Cl)
+
+Age, years
+
+<65 reference 0.685 a
+
+>65 0.81 (0.27, 2.41)
+Sex
+
+Female reference 0.971 
+Male 1.01 (0.52, 1.97)
+Duration of CSU, months 1.01 (1.00, 1.01) 0:012 1.00 (1.00, 1.01)
+History of angioedema
+
+No reference 0.010 reference
+
+Yes 2.36 (1.20, 4.62) 1.50 (0.38, 5.96)
+Presence of angioedema
+
+No reference 0.002 reference
+
+Yes 2.77 (1.46\5:27) 1.70 (0.48, 6.01)
+Thyroid antibodies
+
+No reference 0.937 
+Yes 1.04(0.42, 2.58)
+ASST
+
+No reference 0.371 
+Yes 1.52 (0.60, 3.85)
+Cyclosporine use
+
+No reference 0.012 reference
+
+Yes 2.81 (1.31, 6.05) 2.60 (0.70, 9.66)
+Steroid use
+
+No reference 0.058
+
+Yes 2.08 (0.93, 4.66)
+High dose antihistamine therapy
+
+No reference 0.587 
+Yes 1.21 (0.61, 2.41)
+Total IgE, KUA/L
+
+<48 reference 6 ia reference
+
+48-119 0.12 (0.03, 0.50) 0.11 (0.02, 0.69)
+
+120-236 0.28 (0.09, 0.89) 0.24 (0.06, 0.92)
+
+ 
+ 
+
+ACCEPTED MANUSCRIPT
+
+20
+
+2237 0.58 (0.22, 1;55) 0.33 (0.09, 1.21)
+
+ 
+
+OR, odds ratio; aOR, adjusted odds ratio; ASST, autologous serum skin test; CSU, chronic
+
+spontaneous urticaria.
+Table IV. Patients responding to omalizumab by ASST result
+
+ 
+
+Slow responders _ Fast responders
+
+ 
+
+ASST result (Total=69) (Total=66) OR (95% Cl) P-value
+N (%) N (%)
+
+Negative 25 (36.2) 47(71.2) reference
+
+Positive 44 (63.8) 19 (28.8) 4.30 (1.99- 9.60) <0,202
+
+ 
+
+“Slow responders” = patients who responded to omalizumab between 8 days,afid 6 months after
+omalizumab administration.
+
+“Fast responders” = patients who responded to omalizumab within 8,days of omalizumab
+administration.
+
+Exact logistic regression analysis.
+
+ASST, autologous serum skin test; C/, confidence interval#NWpNumber; OR, odds ratio.
+
+21
+ACCEPTED MANUSCRIPT
+
+Table V. Summary of adverse events (AEs) reported during the 24-week treatment period
+
+ 
+
+ 
+
+AEs, n (%) N=322
+
+Overall 36 (11.2)
+
+Migraine 10 (3.1) A
+Asthenia 8 (2.5)
+
+Administration site conditions 7 (2.2) Q
+
+Skin rash
+Arthralgia
+Nasopharyngitis
+Dyspepsia
+Fever
+
+Any AE leading to discontinuation of study
+
+4 (1.2) ay
+4 (1.2) ©
+
+1(0.3
+
+ie
+
+i!
+
+ 
+
+gy
+
+¢
+xe
+
+RNa
+
+ 
+
+22
+

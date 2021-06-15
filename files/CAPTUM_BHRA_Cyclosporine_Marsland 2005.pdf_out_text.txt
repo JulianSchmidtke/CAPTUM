@@ -1,0 +1,766 @@
+Clin Exp Allergy 2005; 35:554-559
+
+doi:10.1111/j.1365-2222.2005.02242.x
+
+Effects of calcineurin inhibitors on an in vitro assay for chronic urticaria
+
+A. M. Marsland, S. Soundararajan, K. Joseph and A. P. Kaplan
+
+Department of Medicine, Division of Pulmonary and Critical Care, Allergy and the Clinical Immunology and the Konishi-MUSC Institute for Inflammation
+Research, Medical University of South Carolina, Charleston, SC, USA
+
+Summary
+
+Background Chronic urticaria is a common skin disorder, which causes considerable morbidity. In
+approximately 40% of cases, patients have an autoimmune disorder in which functional antibodies
+cause degranulation of mast cells and basophils, and C5a complement augments this in varying
+amounts from patient to patient. Since the calcineurin inhibitor ciclosporin has been used in chronic
+autoimmune urticaria, we examined the effect of ciclosporin and other drugs on the release of
+histamine from basophils when stimulated by sera from patients with chronic autoimmune urticaria.
+Methods Leucocytes from healthy donors were isolated and incubated in varying concentrations of
+ciclosporin, ascomycin, methotrexate, diphenhydramine or hydroxyzine for 30min prior to
+stimulation with serum from urticaria patients known to have functional immunoglobulin (Ig)G
+antibodies directed against the alpha subunit of the IgE receptor. Histamine release was then
+measured.
+
+Results Pre-incubating cells with ciclosporin and ascomycin produced dose-dependent inhibition of
+histamine release when cells were stimulated by sera of urticaria patients, by purified IgG from these
+sera, but not by CSa. Inhibition was not prevented by CSa receptor blocking antibodies. No
+inhibition was seen with methotrexate, diphenhydramine or hydroxyzine.
+
+Conclusions This is the first demonstration of inhibition of histamine release by calcineurin
+inhibitors employing sera of patients with chronic autoimmune urticaria. These drugs may work by
+interfering with intracellular signalling in cells following cross-linking of the IgE receptor, but not
+
+following stimulation of the CS5a receptor.
+
+Keywords ascomycin, calcineurin, ciclosporin, immunosuppression, methotrexate, pimecrolimus,
+
+urticaria
+
+Submitted 22 July 2004; revised 21 December 2004; accepted 9 February 2005
+
+Introduction
+
+Chronic urticaria is a common skin disorder characterized by
+widespread transient pruritic weals that recur from day to day
+for 6 weeks or more, producing considerable morbidity [1, 2].
+Greaves and co-workers [3] demonstrated it to be an
+autoimmune disorder in at least 40% of patients, who possess
+functional autoantibodies that cause cross-linking of immunoglobulin (Ig)E receptors on basophils and mast cells to
+release inflammatory mediators and cytokines. Furthermore,
+it has been shown that these chronic autoimmune urticaria
+patients have more severe disease [4].
+
+Treatment of chronic urticaria is a challenge and oral
+antihistamines (H, receptor antagonists), even in high doses,
+may not be effective [1]. Other additional therapies may
+include H> receptor antagonists, leukotriene antagonists [5,
+6], UVB phototherapy [7], hydroxychloroquine, dapsone,
+
+Correspondence: Allen P. Kaplan, Department of Medicine, Division of
+Pulmonary/Critical Care, Medical University of South Carolina, Allergy
+and Clinical Immunology, 96 Jonathan Lucas Street, PO Box 250623,
+Charleston, SC 29425, USA
+E-mail: kaplana@musc.edu
+
+554
+
+methotrexate, plasmapheresis [8] or intravenous y globulin
+[9]. However, none of these are reliably effective or are
+prohibitive based on cost/availability considerations. For
+severe cases, low-dose and alternate day systemic corticosteroids [1] have been recommended, and ciclosporin has also
+been shown to be particularly effective in randomized
+controlled trials involving the autoimmune subgroup. The
+mode of action of calcineurin inhibitors, such as ciclosporin,
+is, however, not clear [10].
+
+In order to further examine mechanisms of action of some
+of these drugs in chronic autoimmune urticaria, we have
+assessed the effects of ciclosporin and ascomycin on basophil
+histamine release [11] as stimulated with sera or isolated IgG
+of patients.
+
+Materials and methods
+
+Leucocyte isolation
+
+Leucocyte isolation was carried out as described previously
+[11]: 1SmL of whole blood from a healthy donor was mixed
+with 1.5mL of 0.2m EDTA and 3.0mL of 3% dextran-3%
+glucose-0.15mM NaCl saline solution. After the mixture had
+
+© 2005 Blackwell Publishing Ltd
+Effects of calcineurin inhibitors for chronic urticaria 555
+
+ 
+
+sedimented for 90min, the supernatant was transferred to
+conical tubes and washed three times with HBSS-HSA
+containing HBSS (Gibco BRL, Grand Island, NY, USA),
+0.3% human serum albumin and 4mm HEPES. Cells were
+resuspended in the histamine release buffer from the
+histamine ELISA kit (Immunotech International) at the
+original leucocyte concentration.
+
+Patients
+
+Sera were selected from patients who had recurrent hives
+occurring at least four times a week for more than 12 weeks,
+with individual lesions lasting over 4h. None of the sera used
+was from patients who had a physical urticaria or who had
+urticarial vasculitis. None of the patients had recently taken
+immunosuppressants, corticosteroids or tricyclic antidepressants, and patients had been off all medication, including
+antihistamines for at least 4 days prior to venipuncture. The
+patients chosen were clearly positive for chronic autoimmune
+urticaria as assessed by histamine release from basophils.
+Autologous skin tests were not employed. We did not
+distinguish those with anti-[gE from those with anti-IgE
+receptor antibody. This study was approved by the Investigational Review Board (IRB) of the Medical University of
+South Carolina and informed consent was obtained from
+each participant.
+
+ 
+
+Purification of immunoglobulin G
+
+Whole IgG was isolated from patent sera using protein G
+(Amersham Biosciences, Uppsala, Sweden) affinity chromatography according to the manufacturer’s instructions.
+
+Histamine release from basophils and histamine assay
+
+The same blood donor, who has a history of mild seasonal
+allergic rhinitis but is otherwise well, was used as his cells are
+known to be reactive to the stimuli of anti-I[gE, functional
+anti-FceRIa, and complement C5a without initial IL-3
+priming. 75 uL of serum, buffer, purified IgG or complement
+C5a was incubated with 75 tL of whole leucocyte suspension
+for 40 min at 37°C, as described previously [11]. Following
+incubation, supernatants were separated by centrifugation at
+1200 g at 4°C for Smin. Aliquots of cells in two dilutions
+were boiled to determine the total histamine content of
+basophils in the leucocyte preparations.
+
+Histamine release was measured with an enzyme immunoassay kit (Immunotech International, Marseille, France),
+according to the instructions of the manufacturer. The
+average release from duplicate samples was calculated and
+expressed as a percentage of total histamine content, after
+subtracting the spontaneous release from both, which was less
+than 5% of total histamine. The inhibition by pre-incubation
+with various drugs was calculated by expressing the proportion of percentage release with drugs.
+
+ 
+
+Drugs and chemicals
+
+Ciclosporin, ascomycin, methotrexate, diphenhydramine and
+hydroxyzine were purchased from Sigma pharmaceuticals.
+Stock solutions of 0.01 M of all these were made in methanol
+with the exception of ascomycin, which was dissolved in
+
+ethanol. The reagents were bought at the highest grade
+available. Drugs were further diluted by the histamine release
+buffer used in the assay and 16.7uL of drug solution was
+added to the leucocyte suspension for 30min at room
+temperature prior to incubation.
+
+Statistics
+
+Statistical analysis was done employing Student’s /-test. A
+P-value of <0.05 was considered significant.
+
+Results
+
+Calcineurin antagonists inhibit histamine secretion
+stimulated by serum from chronic urticaria or isolated
+immunoglobulin G but not by C5a
+
+In order to study the effects of ciclosporin on histamine
+release from normal human basophils, we first stimulated
+cells with anti-IgE, as has been reported previously [12]. As
+shown in Fig. 1, there is a dose-dependent inhibition of
+histamine release between 100 (10-8) and 10000nM
+(10~°m) ciclosporin. A maximum of over 70% inhibition
+was noted. We then examined whether a similar result would
+be obtained if chronic urticaria sera containing anti-FceRIa
+antibody were used as the agonist. Figure 2 is representative
+of one such serum in which a dose-dependent inhibition is
+observed between 100 and 10000nM ciclosporin. We next
+surveyed a series of patients at 1000 nm (10-7) ciclosporin
+and found that all sera tested were inhibited (Fig. 3), with an
+average inhibition of 53.8%. Since we know that the
+pathogenic antibody is of the IgG class, we isolated IgG
+from several patients to remove complement; thus, the effects
+of IgG-induced stimulation alone could be observed. A
+dose-dependent inhibition of histamine release is demonstrated in Fig. 4 employing one representative serum; the
+results were similar in four of four such patients studied. By
+
+80
+70
+60
+50
+40
+30
+20
+10
+
+% inhibition of histamine release
+
+ 
+
+ 
+
+0 1 10 100 1000
+Cyclosporin concentration (nm)
+
+10 000
+
+Fig. 1. Ciclosporin causes a dose-dependent inhibition of histamine
+release from basophils stimulated with anti-IgE. Leucocytes were isolated
+from a healthy donor and preincubated in varying concentrations of
+ciclosporin or reaction buffer alone for 30 min prior to stimulation with goat
+anti-human anti-IgE (100 1m). In the absence of ciclosporin 16.4 pmol
+histamine was released from 75 u1L of leucocyte suspension containing
+approximately 2 x 105cells/mL. Histamine release is expressed as
+percent inhibition by ciclosporin for each of the duplicates. Error bars
+express SEM. A dose-dependent inhibition of histamine release is observed
+with a ICs, occurring between 100 and 1000 nw ciclosporin.
+
+© 2005 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 35:554-559
+556 A. M. Marsland et al.
+
+ 
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+
+ie)
+st
+
+oe 0.1 1 10 100 1000
+
+10 Cyclosporin concentration (nmol/L)
+
+ 
+
+c
+}
+2
+=
+£
+xe
+
+ 
+
+ 
+
+10 000
+
+Fig. 2. Dose-dependent inhibition of histamine release from urticaria
+serum with ciclosporin. Leucocytes were isolated from a healthy donor and
+preincubated in varying concentrations of ciclosporin or reaction buffer
+alone for 30 min prior to stimulation with serum from a patient with chronic
+autoimmune urticaria. In the absence of ciclosporin 26.5 pmol histamine
+was released from 75 u1L of leucocyte suspension containing approximately
+3 x 105cells/mL. Histamine release is expressed as percent inhibition by
+ciclosporin for each of the duplicates. Error bars express SEM. A dosedependent inhibition of histamine release is observed with a ICso occurring
+between 100 and 1000 nm ciclosporin.
+
+a Without CSA
+100) a x = With CSA
+90 *e #e
+
+6 “
+70
+60 *
+50 +
+
+40
+30
+20
+10
+
+xe
+
+ee #e
+
+Histamine release (nmol/L)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Serum
+
+Fig. 3. Inhibition of histamine release with ciclosporin with various
+autoimmune urticaria sera. Leucocytes were isolated from a healthy donor
+and preincubated with 10 1 ciclosporin or reaction buffer for 30 min prior to
+stimulation with serum from different patients with chronic autoimmune
+urticaria. Histamine release is expressed as percent of total histamine
+release when the same volume (75 u\L) of leucocyte suspension was boiled.
+The small spontaneous release has been subtracted for each of the
+duplicates. Total histamine release from 75 .L leucocyte suspension
+(approximately 3 x 105 basophils/mL) was 16.9 pmol. Samples were
+assayed in sextuplet. Histamine release was inhibited in varying amounts
+for all sera tested. Error bars show standard deviation from the mean
+*P<0.05 **P<0.01.
+
+contrast, when we stimulated basophils with CSa [13], we saw
+no inhibition of histamine release by pre-incubation with
+ciclosporin up to 1000 nm (Fig. 5). When we used anti-CD88
+antibodies to block the CSa receptor and stimulated with the
+serum from one patient (Fig. 6) we saw about 47% inhibition.
+Pre-incubation with ciclosporin resulted in a further dosedependent inhibition of histamine release presumably because
+of inhibition of the effect of anti-FceRI« antibodies. We next
+examined the ability of ascomycin to inhibit histamine release
+
+45
+40
+
+> = YY BO w
+oa ono a
+
+% histamine release
+
+a
+
+ 
+
+ie}
+0.001 0.01 0.1 1 10 100 1000 10000
+Cyclosporin concentration (nmol/L)
+
+ 
+
+Fig. 4. Dose-dependent inhibition of histamine release by ciclosporin with
+immunoglobulin (1g)G from urticaria serum. Leucocytes were isolated from
+a healthy donor and preincubated in varying concentrations of ciclosporin or
+reaction buffer for 30 min prior to stimulation with IgG isolated by protein G
+chromatography from the serum of a patient with chronic autoimmune
+urticaria. 26.5 pmol histamine was released from 75 uL of leucocyte
+suspension containing approximately 2 x 105 cells/mL when boiled. Histamine release is expressed as percent of total for each sample after
+subtraction of spontaneous release. A dose-dependent inhibition of
+histamine release is observed with a ICs, occurring between 100 and
+1000 nm ciclosporin.
+
+o
+ao
+335
+£ 30
+£25
+§ 20
+215
+21
+0 |
+
+100 | 1000 [10 000]
+rae Jt (nmol/L)
+
+ 
+
+ 
+
+Fig. 5. Ciclosporin does not inhibit histamine release when cells are
+stimulated with C5a. Leucocytes were isolated from a healthy donor and
+preincubated in varying concentrations of ciclosporin or reaction buffer
+alone for 30 min prior to stimulation with 75 nL of 201m C5a. 43.9 pmol
+histamine was released from 75 uL of leucocyte suspension containing
+approximately 3 x 105 cells/mL when boiled. Histamine release is expressed as percent inhibition by ciclosporin for each of the duplicates. Error
+bars represent SEM. Even at high doses of ciclosporin, no inhibition of
+histamine release is observed when Ca is the agonist.
+
+by sera from chronic urticaria patients. A dose-response
+inhibition to urticaria serum is demonstrated in Fig. 7. There
+is a strikingly similar dose-response inhibition noted in each
+between 100nM and 101M ascomycin, and a dose of 100nM
+ascomycin significantly inhibited all 11 sera tested (Fig. 8).
+The average percent inhibition was 43.9, similar to that seen
+in Fig. 3 employing ciclosporine (41.2% inhibition). However, the concentration of ascomycin employed was 10-fold
+less. The antihistamines diphenhydramine and hydoxyzine,
+and the immunosuppressant methotrexate, have no effect on
+histamine secretion stimulated by serum from chronic
+urticaria patients. Figure 9 demonstrates that no inhibition of histamine was observed by pre-incubating cells with
+a wide concentration range (between | and 100000nm) of
+these drugs.
+
+© 2005 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 35:554-559
+Effects of calcineurin inhibitors for chronic urticaria 557
+
+ 
+
+fo)
+lo}
+
+a
+o
+
+£
+fs)
+
+ 
+
+Histamine (nmol/L)
+= np oO
+Oo Oo oO o
+
+ 
+
+c Bo) < < <t <t <
+
+3 oS DG GF GH
+5 SE 6 O09 0 O_OGs
+B SB + + ts ts té@
++ ao Es EZ EF EC ES
+2 > 2 Pe ef P64 2929 FS
+Ja) sour O- ©2 056 G2 G90
+[S) om a Or DF DO 4S
+20 + + + +7 +2
+
+e°0 ep) ies) Lop) ep) ep)
+
+€ a a a a a
+
+<x <x a <x <
+
+Fig. 6. Ciclosporin has a further dose-dependent inhibitory effect after
+blocking C5a receptors. Leucocytes were isolated from a healthy donor and
+preincubated with anti-CD88 antibodies and/or ciclosporin or reaction
+buffer alone for 30 min prior to stimulation with serum from a patient with
+chronic autoimmune urticaria. 21.4 pmol histamine was released from 75 pL
+of leucocyte suspension when boiled. The results shown are the mean of
+duplicates, and the cells plus serum alone released a mean of 54nmol/L.
+The anti-CD88 alone gave 47% inhibition. Further inhibition could be
+appreciated between 10 and 10000nm ciclosporin. ABS, antibody blocked
+cells; error bars represent SEM.
+
+80
+
+70
+
+% inhibition
+eS a for)
+oo 6
+
+w
+fo}
+
+20
+10
+
+ 
+
+O+
+0.001 0.01 0.1 1 10 100
+Ascomycin concentration (nmol/L)
+
+ 
+
+1000 10000
+
+Fig. 7. Dose-dependent inhibition of histamine release by ascomycin with
+urticaria serum. Leucocytes were isolated from a healthy donor and
+preincubated in varying concentrations of ascomycin or reaction buffer
+alone for 30 min prior to stimulation with serum from a patient with chronic
+autoimmune urticaria. Without ascomycin 12.2 pmol histamine was
+released from 75 nL of leucocyte suspension containing approximately
+
+3 x 105cells/mL. Histamine release is expressed as percent inhibition by
+ascomycin for an average of the quadruplicate samples. Error bars express
+SEM. A dose-dependent inhibition of histamine release is observed with a
+ICso occurring between 1000 and 10000nm ascomycin.
+
+Discussion
+
+The ability of drugs including calcineurin inhibitors to inhibit
+histamine release from basophils stimulated by anti-I[gE has
+been studied previously [12, 14], but we are not aware of any
+studies examining their action specifically in chronic urticaria.
+Chronic autoimmune urticaria is dependent not only on the
+cross-linking of IgE receptors (by anti-FceRI« or anti-IgE)
+but also on the activation of complement [13]. Cross-linking
+
+90 3 Without ASM
+
+= With ASM
+80
+
+ioe} nN
+
+for) fo}
+
+2 =
+
+70
+60
+50
+
+40
+
+30
+
+20
+
+10
+
+Sera
+
+Fig. 8. Inhibition of histamine release with 100nm ascomycin with various
+autoimmune urticaria sera. Leucocytes were isolated from a healthy donor
+and preincubated with 100nm ascomycin or reaction buffer alone for 30 min
+prior to stimulation with serum from different patients with chronic
+autoimmune urticaria. Histamine release is expressed as percent of total
+histamine release when the same volume (75 tL) of leucocyte suspension
+was boiled. The control (spontaneous release) is shown at the right-hand
+side of the figure. Total histamine release from 75 pL leucocyte suspension
+(approximately 5 x 105 basophils/mL) was 46.4 pmol. Histamine release
+was inhibited in varying amounts for all sera tested.
+
+ 
+
+ 
+
+ 
+
+11 Oy
+
+=
+1427 ae
+
+% histamine release
+
+fo}
+333
+336
+1394 | —
+1400
+C=
+1439
+Spont B
+
+of IgE receptors leads to histamine release via a calcineurindependent signal transduction pathway, whereas complement
+CSa receptors act through G-proteins. Histamine release by
+patient sera or isolated IgG can be inhibited by ciclosporin
+and ascomycin, but the contribution by complement is not.
+Kikuchi and Kaplan [11, 13] reported that on average about
+30% of histamine release in the basophil release assay may be
+attributed to complement activation, although this is variable
+from patient to patient. Analysis of IgG subtypes by
+Soundararajan et al. [15] demonstrated that while most
+patients have functional IgG1 and or IgG3 antibodies, some
+have IgG4, which we know does not fix complement.
+Calcineurin inhibitors such as ciclosporin have previously
+been shown to inhibit histamine release from basophils and
+mast cells when stimulated with anti-[gE antibodies and
+pimecrolimus (ascomycin) seemed to be more potent than
+ciclosporin [14]. They also have inhibitory effects on other
+important components of the inflammatory/immune response, most notably T lymphocytes [16], and also eosinophils [17]. Basophils are dependent on T cell derived IL-3 for
+priming, although IL-3 levels of sera and supernatants tested
+were not determined. The randomized controlled trial of
+ciclosporin in urticaria by Grattan et al. [10] demonstrated
+that its in vivo efficacy might be because of inhibition of
+antibody production, rather than inhibition of basophil or
+cutaneous mast cell secretion. For example, the autologous
+serum test to stored serum was not reduced in responsive
+patients. Nevertheless, some patients respond to ciclosporin
+within 4-5 days, a time interval suggesting an effect on
+inflammation apart from antibody production. Although this
+might be because of effects on cells other than basophils or
+mast cells, our observations suggest that effects on these cells
+should be reconsidered. We demonstrate significant in vitro
+inhibition of the histamine releasing ability of the antireceptor
+antibody but no effect upon the complement augmentation.
+We have not tested ciclosporin inhibition of cutaneous mast
+
+© 2005 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 35:554-559
+558 A. M. Marsland et al.
+
+ 
+
+ 
+
+100 000
+
+160
+140 4
+120 4
+Zz
+6 1004
+E
+£
+® 80+
+=
+§
+2 60 4
+<=
+40 4
+204
+0
+rl/ol/eol/o|;e|\eo ~-l/o/!/oe;e;e]eo -/|O/;}/O/1eo/2
+~-/o;/o/S/o -|Oo!1o/o!/o ~-|/o;|o];o
+~-|/o!;}o/o -|/O;oO!/o ~-/o|;o
+7 ic | & we | ee | ~“lo
+- |S -|S serum Diphenhydramine (nm) Hydroxyzine (nM) Methotrexate (nm)
+alone
+
+ 
+
+Fig. 9. Absence of dose response for serum with diphenhydramine, hydroxyzine and methotrexate. Healthy donor leucocytes were preincubated with
+varying concentrations of diphenhydramine, hydroxyzine or methotrexate or with buffer alone for 30 min prior to stimulation with serum from a patient with
+chronic autoimmune urticaria. 46.3 pmol was released from boiling 75 .L leucocyte suspension. Error bars represent SD from the mean for duplicates. No
+
+inhibition is seen even at high doses of these drugs.
+
+cells; however, basophils do infiltrate the skin of patients with
+chronic urticaria [18] and may contribute to the inflammatory
+response. Since calcineurin inhibitors such as ciclosporin and
+ascomycin inhibit histamine release from IgE receptor crosslinking but not CSa receptor stimulation, failure of these
+drugs to satisfactorily treat chronic autoimmune urticaria
+may relate to this, at least in part.
+
+Ascomycin or pimecrolimus is currently available in topical
+form as Elidel’ cream (Novartis Pharmaceuticals, East
+Hanover, NJ, USA) and reports of phase I/II trials for oral
+pimecrolimus in psoriasis and atopic dermatitis have shown
+that it is a safe and effective alternative to ciclosporin in these
+dermatoses and may have fewer side-effects [19-21]. Since it
+inhibits basophil histamine release at a concentration that is
+comparable with ciclosporin, we believe that oral pimecrolimus may potentially be an effective treatment for autoimmune urticaria.
+
+References
+
+Kaplan AP. Clinical practice. Chronic urticaria and angioedema.
+
+N Engl J Med 2002; 346:175-9.
+
+2 Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am
+Acad Dermatol 2002; 46:645-57; quiz 57-60.
+
+3 Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med 1993;
+328:1599--604.
+
+4 Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves
+MW. Chronic idiopathic urticaria: comparison of the clinical
+features of patients with and without anti-FcepsilonRI or anti-IgE
+autoantibodies. J Am Acad Dermatol 1999; 40:443-50.
+
+5 Bagenstose SE, Levin L, Bernstein JA. The addition of zafirlukast
+
+to cetirizine improves the treatment of chronic urticaria in patients
+
+ 
+
+oo
+
+with positive autologous serum skin test results. J Allergy Clin
+Immunol 2004; 113:134-40.
+
+Pacor ML, Di Lorenzo G, Corrocher R. Efficacy of leukotriene
+receptor antagonist in chronic urticaria. A double-blind,
+placebo-controlled comparison of treatment with montelukast
+and cetirizine in patients with chronic urticaria with intolerance
+to food additive and/or acetylsalicylic acid. Clin Exp Allergy 2001;
+31:1607-14.
+
+Berroeta L, Clark C, Ibbotson SH, Ferguson J, Dawe RS. Narrowband (TL-01) ultraviolet B phototherapy for chronic urticaria. Clin
+Exp Dermatol 2004; 29:97-8.
+
+Grattan CE, Francis DM, Slater NG, Barlow RJ, Greaves MW.
+Plasmapheresis for severe, unremitting, chronic urticaria. Lancet
+1992; 339:1078-80.
+
+O’Donnell BF, Barr RM, Black AK et al. Intravenous immunoglobulin in autoimmune chronic urticaria. Br J Dermatol 1998;
+138:101-6.
+
+Grattan CE, O’Donnell BF, Francis DM et al. Randomized
+double-blind study of cyclosporin in chronic ‘idiopathic’ urticaria.
+Br J Dermatol 2000; 143:365-72.
+
+Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of
+basophils in chronic urticaria. J Allergy Clin Immunol 2001;
+107:1056-62.
+
+Plath KE, Grabbe J, Gibbs BF. Calcineurin antagonists
+differentially affect mediator secretion, p38 mitogen-activated
+protein kinase and extracellular signal-regulated kinases from
+immunologically activated human basophils. Clin Exp Allergy
+2003; 33:342-50.
+
+Kikuchi Y, Kaplan AP. A role for C5a in augmenting IgGdependent histamine release from basophils in chronic urticaria.
+
+J Allergy Clin Immunol 2002; 109:114-8.
+
+Zuberbier T, Chong SU, Grunow K et al. The ascomycin
+macrolactam pimecrolimus (Elidel, SDZ ASM 981) is a potent
+inhibitor of mediator release from human dermal mast cells and
+peripheral blood basophils. J Allergy Clin Immunol 2001; 108:
+275-80.
+
+© 2005 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 35:554-559
+Effects of calcineurin inhibitors for chronic urticaria 559
+
+ 
+
+15 Soundararajan S, Joseph K, Kaplan AP. Autoimmune chronic
+urticaria is caused by IgG3 and IgG1 autoantibodies to the alpha
+subunit of the IgE receptor. J Allergy Clin Immunol 2004; 113:S85.
+
+16 Marsland AM, Griffiths CE. The macrolide immunosuppressants
+in dermatology: mechanisms of action. Eur J Dermatol 2002;
+12:618-22.
+
+17 Shupack JL, Kenny C, Jondreau L, Eckman I, Gropper C, Stiller
+MJ. Decreased peripheral blood eosinophil counts in severe
+psoriatic patients treated with low-dose cyclosporine A. Dermatology 1992: 185:202-4.
+
+18 Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2
+cytokines and inflammatory cells in skin biopsy specimens from
+patients with chronic idiopathic urticaria: comparison with the
+
+© 2005 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 35:554-559
+
+allergen-induced late-phase cutaneous reaction. J Allergy Clin
+Immunol 2002; 109:694-700.
+
+Wolff K, Stuetz A. Pimecrolimus for the treatment of
+inflammatory skin disease. Expert Opin Pharmacother 2004;
+5:643-55.
+
+Scott G, Osborne SA, Greig G et al. Pharmacokinetics of
+pimecrolimus, a novel nonsteroid anti-inflammatory drug, after
+single and multiple oral administration. Clin Pharmacokinet 2003;
+42:1305-14.
+
+Rappersberger K, Komar M, Ebelin ME et al. Pimecrolimus
+identifies a common genomic anti-inflammatory profile, is clinically
+highly effective in psoriasis and is well tolerated. J Invest Dermatol
+2002; 119:876-87.
+

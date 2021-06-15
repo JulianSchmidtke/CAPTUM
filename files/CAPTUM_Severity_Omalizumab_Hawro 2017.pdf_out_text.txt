@@ -1,0 +1,995 @@
+Original Article
+
+The Urticaria Activity Score—Validity, Reliability,
+
+and Responsiveness
+
+Tomasz Hawro, MD*, Tatevik Ohanyan, MD®, Nicole Schoepke, MD®, Martin Metz, MD®, Adriane Peveling-Oberhag, MD”,
+
+Petra Staubach, MD”, Marcus Maurer, MD°, and Karsten Weller, MD*
+
+Berlin and Mainz, Germany
+
+What is already known about this topic? The urticaria activity score (UAS) is an established instrument to measure the
+activity of chronic spontaneous urticaria. Two versions of this tool exist. For one of them, critical clinimetric data are still
+
+missing.
+
+What does this article add to our knowledge? We show that both UAS tools have good clinimetric properties. We define
+
+the minimal important difference and the smallest detectable change for both instruments.
+
+How does this study impact current management guidelines? The guideline-recommended version of the UAS with
+once-daily documentation of symptoms is valid, reliable, and sensitive to change. Validity, reliability and responsiveness of
+the UAS version that requires twice-daily documentation are confirmed.
+
+BACKGROUND: Chronic spontaneous urticaria is
+characterized by fluctuating symptoms. Its activity is assessed
+with the urticaria activity score (UAS). Two versions of the
+urticaria activity score used for 7 consecutive days (UAS7) are
+available: (1) The guideline-recommended._ UAS7, with oncedaily documentation, and (2) the UAS77p, with twice-daily
+documentation.
+
+OBJECTIVE: To better characterize both UAS7 versions with
+regard to their validity, reliability, sensitivity to change, minimal
+important difference (MID), and smallest detectable change
+(SDO).
+
+"Department of Dermatology and Allergy, Allergie-Centrum-Charité, Charité Universititsmedizin Berlin, Berlin, Germany
+
+*Department of Dermatology, University Medical Center Mainz, Mainz, Germany
+
+Conflicts of interest: T. Hawro has received lecture fees from Moxie. M. Metz has
+received lecture fees from Novartis and Moxie. A. Peveling-Oberhag has received
+lecture fees from Novartis. P. Staubach is on the boards for Novartis, Genentech,
+Abbvie, Janssen, Leti, Sobi, Celgene, and MSD; has received consultancy and
+research support from Novartis; has received lecture fees from Pfleger, MSD, Leti,
+Leo, Abbvie, Janssen, Shire, Astellas, CSL Behring, and Lilly; and has received
+travel support from Novartis, Janssen, Pfizer, and MSD. M. Maurer is on the
+boards for Novartis and Uriach and has received consultancy and lecture fees from
+Novartis, Genentech, Uriach, and FAES. K. Weller is on the board for and has
+received consultancy and travel support from Novartis; has received research
+support from FAES, Novartis, and Uriach; and has received lecture fees
+from Dr R. Pfleger, Uriach, UCB, Novartis, Moxie (the copyright holder of the
+Urticaria Control Test). The rest of the authors declare that they have no relevant
+conflicts of interest.
+
+Received for publication April 20, 2017; revised September 8, 2017; accepted for
+publication October 3, 2017.
+
+Available online Ml
+
+Corresponding author: Karsten Weller, MD, Allergie-Centrum-Charité, Department
+of Dermatology and Allergy, Charité — Universitatsmedizin Berlin, Charitéplatz 1,
+D-10117 Berlin, Germany. E-mail: karsten.weller@charite.de.
+
+2213-2198
+
+© 2017 Published by Elsevier Inc. on behalf of the American Academy of Allergy,
+Asthma & Immunology
+
+https://doi.org/10.1016/j.jaip.2017.10.001
+
+ 
+
+METHODS: One hundred thirty adult patients with chronic
+spontaneous urticaria completed both UAS7 versions, the
+Patients Global Assessment (PatGA) of disease activity, the
+Urticaria Control Test (UCT), the Chronic Urticaria Quality of
+Life Questionnaire, and the Dermatology Life Quality Index
+before and after the initiation of omalizumab therapy.
+Physicians completed a Physician Global Assessment of disease
+activity.
+
+RESULTS: The UAS7 and the UAS77p showed high correlation
+with the activity anchor PatGA (r = 0.568, P < .001 and
+
++ = 0.605, P< .001) and the UCT (r = —0.580, P< .001 and
+r = —0.585, P < .001). The wheal and pruritus scores of the
+UAS7 and the UAS7 zp exhibited respectable internal
+consistency and, in each UAS7 version, correlated well with each
+other (Cronbach & = 0.78, r = 0.640, P< .001, and Cronbach
+a = 0.77, r = 0.626, P< .001). Changes in the UAS7 and
+UAS7 rp correlated well with PatGA changes (r = 639, P< .001,
+and r = .763, P< .001) and with UCT changes (r = — 0.642, P
+< .001, and r = —0.703, P < .001). The MID was 11 for the
+UAS7 (SDC = 12) and 12 for the UAS7;p (SDC = 11).
+CONCLUSIONS: The UAS7 and UAS77p show good and
+comparable clinimetric properties, including good sensitivity to
+change, and similar MIDs. © 2017 Published by Elsevier Inc.
+on behalf of the American Academy of Allergy, Asthma &
+Immunology (J Allergy Clin Immunol Pract 2017;m:m-m)
+
+Key words: Disease activity; Chronic spontaneous urticaria;
+Chronic inducible urticaria; Urticaria Activity Score; Quality of
+life; Validity; Reliability; Reproducibility; Responsiveness; Minimal important difference; Smallest detectable change; Patientreported outcome
+
+Chronic spontaneous urticaria (CSU) is a highly prevalent
+disease’ with a strong negative impact on patients’ health-related
+quality of life (HRQOL).*° CSU is characterized by the recurrent formation of itchy hives, angioedema, or both for longer
+than 6 weeks.'” Individual hives usually do not persist for longer
+2 HAWRO ET AL
+
+Abbreviations used
+
+CIndU- Chronic inducible urticaria
+CSU- Chronic spontaneous urticaria
+CU-Q>0L- Chronic Urticaria Quality of Life Questionnaire
+DLQI- Dermatology Life Quality Index
+HRQOL- Health-related quality of life
+ICC- Intraclass correlation coefficient
+MID- Minimal important difference
+
+PatGA- Patient Global Assessment
+PhyGA- Physician Global Assessment
+ROC- Receiver operating characteristic
+SDC- Smallest detectable change
+SEM- Standard error of measurement
+UAS- Urticaria activity score
+UAS7- Urticaria activity score used for 7 consecutive days
+UAS7pp- UAS7 with twice-daily documentation
+UCT- Urticaria Control Test
+
+ 
+
+than 24 hours. Urticaria symptoms can fluctuate considerably on
+a daily basis. As of now, reliable diagnostic and activity markers
+of CSU are missing.”’” Therefore, urticaria activity can currently
+be measured only by the use of patient-reported outcome
+measures.
+
+The urticaria activity score (UAS), used for 7 consecutive days
+(UAS7), is an established and widely accepted patient-reported
+outcome tool to prospectively measure CSU activity. It has
+been used in most clinical trials in CSU in the recent years as a
+main outcome parameter.” '' The UAS entails the assessment of
+the 2 key urticaria signs and symptoms wheals and itch. Two
+versions of this tool exist. These versions differ in 2 aspects: first,
+their categories of wheal numbers, and, second, their mode of
+documentation, once daily for the UAS7 and twice daily for the
+UAS7rp.°'? The international EAACI/GA*LEN/EDF/WAO
+guideline for urticaria recommends to use the former, the UAS7,
+in medical practice and in clinical trials.” However, some critical
+data on the validity, reliability, and responsiveness of this patientreported outcome measure are still missing.
+
+The aim of this work was to better characterize and compare
+both available UAS7 versions and to determine their clinimetric
+properties, including validity, reliability, sensitivity to change,
+minimal important difference (MID), and smallest detectable
+change (SDC).
+
+METHODS
+Patient population
+
+We included 130 consecutive adult patients referred to the urticaria specialty outpatient clinics of the Department of Dermatology
+and Allergy of the Charité—Universitatsmedizin Berlin and the
+Department of Dermatology in Mainz. All patients had difficultto-treat CSU (ie, they had not responded to increased doses of
+second-generation antihistamines) and were eligible for omalizumab
+therapy. Some of the patients, in addition to their CSU, had chronic
+inducible urticaria (CIndU), but it was not predominant. The study
+was approved by the local ethics committees.
+
+Study design and outcome tools
+
+All patients were intended to be treated with omalizumab. During the
+2 weeks before the planned start of omalizumab therapy and the 4 weeks
+thereafter, patients were asked to prospectively document their disease
+
+activity by using both the UAS7 and the UAS77p.”'” Patients who
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2017
+
+postponed their visit for omalizumab injection for no longer than 5 days
+were asked to continue to complete their UAS and UASrp. In those
+patients, the UASs from the first 2 weeks were used for reliability analyses,
+whereas the UASs obtained in the last 7 days preceding omalizumab
+injection were used for validity and responsiveness analyses, that is, to
+determine the sensitivity to change, the SDC, and the MID.
+
+In addition, patients and physicians globally assessed urticaria
+activity independently with a 4-item Likert scale (none, mild,
+moderate, or severe). The Patients’ Global Assessment (PatGA) of
+disease activity and the Physicians’ Global Assessment (PhyGA) of
+disease activity, as well as the Urticaria Control Test (UCT), the
+Chronic Urticaria Quality of Life Questionnaire (CU-QooL), and
+the Dermatology Life Quality Index (DLQI), were administered
+twice: before the initiation of therapy with omalizumab and 4 weeks
+thereafter.'*' In the 2 weeks before the first omalizumab administration, patients were asked to keep and not change their treatment.
+
+Analysis of convergent validity
+
+To determine the convergent validity of both UAS7 instruments,
+we correlated (Spearman correlation) their values with those of the
+above-mentioned anchors of disease activity (PatGA and PhyGA),
+disease control (UCT), and HRQOL (CU-Q:oL and DLQI). For
+these analyses, baseline data obtained before the initiation of omalizumab therapy were used. We hypothesized that the correlation
+coefficient should be highest for the correlation between the UAS7
+and the conceptually closest related anchors for disease activity.
+
+Reliability analyses
+
+Correlations between baseline wheal and pruritus scores of each
+UAS7 version and Cronbach alpha coefficients were computed to
+characterize internal consistency reliability. Cronbach alpha above
+0.7 was considered as respectable.'* To investigate test-retest reliability, the UAS7 values obtained during the first week of baseline
+documentation were compared with the values obtained in the
+subsequent week (the week before the first injection of omalizumab)
+by computing the intraclass correlation coefficient (ICC). A 2-way
+mixed-effect and absolute agreement model has been used.'° An
+ICC above 0.7 is considered to reflect excellent agreement. '“"'”
+Analysis of sensitivity to change
+
+Sensitivity to change was analyzed by computing the correlation
+(Spearman correlation) of changes from baseline to 4 weeks after the
+start of treatment with omalizumab, between both UAS and anchor
+instruments.
+
+Identification of the SDC
+
+The SDC or the minimal detectable change, both of which are
+used interchangeably, is a measure of the variation in a scale due to
+measurement error.'*’'” A change in the score that is bigger than the
+SDC is considered to reflect a real change and not just a measurement error. Different methods of calculation of the SDC exist, and
+we used 2 of them.'? Accord ing to the Bland and Altman method,
+the SDC, defined as a change beyond the limits of agreement, was
+calculated as 1.96 x SD of the UAS change between the first week
+and the second week of the baseline phase.””’*' Another method of
+calculation of the SDC is based on the standard error of measurement (SEM). According to this approach, the SDC is calculated by
+using the formula 1.96 x /2 x SEM and the SEM is calculated by
+using the formula SD x y(1 — reliability coefficient).!"??? Here
+also the longitudinal changes between the first week and the second
+
+week of the baseline phase were considered; therefore, the ICC as a
+1922.23
+
+ 
+
+ 
+
+test-retest reliability coefficient has been use:
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+TABLE I. Clinical characteristics of the patient population
+
+Baseline (before omalizumab
+Characteristic injection)
+No. of patients 130
+UAS7, mean + SD, median 24.1 + 10.3, 26 (n = 130)
+UAS7+7p, mean + SD, median 25.7 + 10.7, 28 (n = 130)
+
+PatGA disease activity
+
+Missing n=7 (5.4%)
+None n=2 (1.5%)
+Mild n= 18 (13.8)
+Moderate n= 61 (46.9%)
+Severe n = 42 (32.3%)
+
+PhyGA disease activity
+
+ 
+
+Missing n=0
+None n= 2 (1.5%)
+Mild n=4 3.1%)
+Moderate n = 36 (27.7%)
+Severe n = 88 (67.7%)
+UCT score,'' mean + SD, median 4.8 + 3.3, 4.5 (n = 122)
+CU-Q,0L total score,'* mean + SD, 52.8 + 18.5, 53.3 (n = 108)
+median
+DLQI score,'* mean + SD, median 13.1 + 6.9, 12 (n = 123)
+
+HAWRO ET AL 3
+
+Follow-up (4 wk after omalizumab
+injection)
+
+Change from baseline
+to follow-up
+84 84
+3 + 11.9, 7 (n = 84) —13.7 + 12.1, —14 (n = 84)
+11.6 + 12.8, 6 (m = 84) —15.5 + 13.2, —14.5 (n = 84)
+
+= 4 (4.8%) —
+n = 29 (34.5)
+n = 28 (33.3%)
+
+= 16 (19.0%)
+
+= 7 (8.3%)
+
+n=0 _
+
+n = 32 (38.1%)
+n= 25 (29.7%)
+n= 14 (16.7%)
+n= 13 (15.5%)
+11L.1 + 4.1, 12 m= 81)
+25.5 + 18.7, 23.9 (n = 66)
+
+6.4 + 4.2, 6 (n = 79)
+—26.5 + 19.9, —23.9 (n = 59)
+
+5.2 + 5.6, 3.5 (n = 80) —7.6 + 6.4, —7 (n = 78)
+
+TABLE Il. Nonparametric correlations of the UAS7 and UAS7 7p with measures of disease activity, disease control, and HROOL
+
+impairment
+
+UAS PatGA disease activity PhyGA disease activity
+UAS7 0.568* (n = 123) 0.459* (n = 130)
+UASTrp 0.605* (n = 123) 0.492* (n = 130)
+*P < 001.
+
++P < 01.
+
+Characterization of the MID
+
+The MID is the smallest change that can be considered to be
+clinically relevant. Two anchor-based approaches to determine the
+MID were applied: the “mean change” method and a receiver
+operating characteristic (ROC)-curve analysis.“*°? The PatGA was
+used as an anchor. For the “mean change” method, we used the
+mean change in UAS in patients who reported a 1-step change in
+PatGA activity ratings between baseline and follow-up (4 weeks after
+the first omalizumab administration). For the ROC-curve approach,
+patients were dichotomized, on the basis of results of PatGA, into
+those who improved under the therapy (defined as at least 1-step
+improvement) and those who did not improve (defined by an unchanged or worsened PatGA). An alternative, distributional-criterion
+approach was also applied, by dividing the baseline UAS7 SD by 2.°°
+In the performed analyses, P value of .05 or less was considered as
+statistically significant.
+
+RESULTS
+Patient population
+
+The 130 antihistamine-refractory patients with CSU included
+in this analysis had a mean age of 44.6 + 16.2 years, and most
+(73%) was women. The clinical characteristics of the patient
+population are presented in Table |.
+
+ 
+
+ 
+
+Both UAS show good convergent validity
+Both the UAS7 and the UAS7+rp correlated well with anchors
+for disease activity, disease control, and HRQOL impairment.
+
+UCT score CU-Q,oL total score DLQI score
+
+ 
+
+—0.580* (n = 122)
+—0.585* (n = 122)
+
+0.321% (n = 108)
+0.362" (n = 108)
+
+0.416" (n = 123)
+0.422" (n = 123)
+
+Accordingly, both tools exhibited good levels of convergent
+validity. As hypothesized, the correlations of the UAS7 and
+UAS7 +p were highest with the PatGA disease activity (Table 11).
+Notably, the correlations with the UCT were comparably high.
+
+Both UAS show respectable internal consistency
+and excellent test-retest reliability
+
+The wheal scores and pruritus scores of the UAS7 (r = 0.640;
+P < .001) and of the UAS7rp (7 = 0.626; P < .001) correlated
+well with each other. Cronbach alpha coefficient was found to be
+0.78 and 0.77 for the UAS7 and UAS7+p, respectively, indicating a respectable internal consistency of both measures.
+The mean UAS7 values of the first week and the second week
+of the baseline phase were 25.3 + 10.4 (median, 25) points and
+24.7 + 10.3 (median, 26) points, respectively. The mean
+UAS7 rp values of the first week and the second week of the
+baseline phase were 27.0 + 10.2 (median, 28.5) points and 26.7
++ 10.6 (median, 28) points, respectively. The ICC was 0.91
+(95% Cl, 0.86-0.94) for the UAS7 and 0.93 (95% CI, 0.890.95) for the UAS7+p; indicating excellent test-retest reliability
+for both measures.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Both UASs are sensitive to change
+
+Changes in the UAS7 and UAS7rp correlated well with anchors for changes in disease activity, disease control, and
+HRQOL impairment. The correlations of the UAS7 and
+4 HAWRO ET AL
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2017
+
+TABLE Ill. Nonparametric correlations of changes in the UAS7 and UAS77p with changes in disease activity, disease control, and HROOL
+
+impairment
+
+PatGA disease PhyGA disease
+Change activity change activity change
+UAST7 change 0.639* (n = 78) 0.653* (n = 84)
+UASTrp change 0.763* (n = 78) 0.758* (n = 84)
+
+*P < 001.
+
+UAS7+rp changes were highest with changes in the PatGA disease
+activity and UCT scores (Table III).
+
+The MID is similar for the UAS7 and the UAS77p
+
+UAS7 and UAS7-+p values decreased with improved PatGA
+disease activity. The correlation of the UAS7 and UAS71p
+changes with changes in the PatGA disease activity was r > 0.5
+for both (Table III), indicating that PatGA disease activity is a
+suitable anchor for the computation of the MID of the UAS7
+and the UAS7+p.
+
+The mean UAS7 and UAS7rp change for the smallest
+possible improvement in PatGA disease activity (improvements
+by 1 step on the Likert scale rating, eg, from “moderate” to
+“mild”) was a decrease by 13.0 + 8.5 (median, 15) points and by
+13.5 + 9.3 (median, 12.5) points, respectively. In contrast, the
+mean UAS7 and UAS7+p decreased by only 4.7 + 8.3 (median,
+3.5) points and 4.6 + 6.8 (median, 3.25) points, respectively,
+when the PatGA disease activity rating did not change.
+Accordingly, the mean change method suggests an MID of 13
+points for the UAS7 and of 13.5 points for the UAS71p.
+
+A second anchor-based method, an ROC-curve analysis,
+showed cutoff points of 11 points for the UAS7 (Figure 1; see
+Table El in this article’s Online Repository at www. jaciinpractice.org) and of 12 points for the UAS71p (Figure 2; see
+Table E2 in this article’s Online Repository at www. jaciinpractice.org), to have the best balance of sensitivity and specificity for a meaningful (true) improvement in disease activity. At
+these cutoff points, the sum of the proportion of patients misclassified as disease activity “improved” or “not improved” was
+lowest. Accordingly, the ROC-curve analysis suggests an MID of
+11 points for the UAS7 and of 12 points for the UAS77p.
+
+The indirect distributional-criterion approach suggests an
+MID of 5.2 (5 points) points for the UAS7 and of 5.4 points for
+the UAS7+p, which are the SDs of the UAS7 and UAS7+p
+baseline scores (10.3 and 10.7) divided by 2.
+
+The SDC is similar for the UAS7 and the UAS7 7p
+
+The mean UAS7 and UAS7+p difference between the first
+week and the second week of the baseline phase was 0.3 + 6.0
+and 0.1 + 5.3 points, respectively. According to the Bland and
+Altman method, the SDC of the UAS7 was 11.8 points and the
+SDC of the UAS71p was 10.5 points. According to the SEMbased method, the SDC was 5.0 points for the UAS7 and 4.1
+points for the UAS7+rp.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION
+
+The results of our study provide evidence that both available
+variants of the UAS are appropriate and valid tools to measure
+disease activity in patients with CSU.
+
+The UAS7 and the UAS7rp showed good levels of convergent
+validity, correlating moderately to strongly with other measures
+of disease activity and control. Previously, an even stronger
+
+CU-Q20L total DLOQI score
+UCT score change score change change
+—0.642* (n = 79) 0.612* (n = 59) 0.460* (n = 78)
+—0.703* (n = 79) 0.643* (n = 59) 0.533* (n = 78)
+
+correlation between the UCT and the UAS7 was reported
+(r = —0.750).'* This may be explained by the fact that in the
+UCT validation study of Weller et al,'“ the UAS was recorded
+over 28 days to cover the whole 4-week recall period of the UCT,
+whereas in this study, only 1-week UAS documentation was
+used. The correlation between UAS7 and HRQOL instruments
+was only moderate. This is in line with previous studies’”~*° and
+suggests that factors other than disease activity may influence
+HRQOL, as has already been shown for psychiatric comorbidities in CSU’! and for psychosocial variables in other chronic
+skin diseases, for example, psoriasis.°*” aS
+
+The internal consistency reliability of both UAS instruments is
+supported by the Cronbach alpha coefficient exceeding 0.7. Testretest reliability analyses were performed using UASs of the first 2
+subsequent weeks of the baseline phase to minimize the influence
+of a possible fluctuation in CSU activity over a longer period.
+Both UAS versions showed excellent test-retest reliability, the
+UAS7 with an ICC of 0.91 and the UAS7-p with an ICC of
+0.93. These values are higher than the ICC of 0.659 previously
+reported for the UAS7+1p.'” The differences between the ICCs
+obtained in both studies may be explained by differences between the examined patient populations.'” It is possible that
+CSU in our patients was more stable during the observation
+period of 2 weeks.
+
+The UAS is used both in routine patient care and in clinical
+trials to determine disease activity and response to treatment.”
+Therefore, it is important to assess its responsiveness and
+MID.*° We found that changes in response to treatment for both
+instruments, the UAS7 and the UAS7rp, showed strong and
+comparable correlations with changes in disease activity assessed
+
+ 
+
+100:
+
+80
+
+   
+   
+     
+ 
+
+32
+>
+
+= 60
+
+2 _ ROC curve for
+= UAS7 change
+2)
+
+5 40 -: Identity line
+no
+
+Cut-off of 11 points
+
+of UAS7 score change
+(sensitivity 74%,
+specificity 86%)
+
+20
+
+0 20 40 60 80 100
+100% - Specificity%
+
+FIGURE 1. ROC curve. Area under the ROC curve for change in
+UAS7 from baseline to follow-up: 0.85 (95% Cl, 0.76-0.95).
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+100
+
+ 
+ 
+ 
+ 
+  
+   
+  
+ 
+     
+
+ 
+
+ 
+
+80.
+°
+aS
+>
+= 60 ”
+2 “ ROC curve for
+on ~~ UAS7 1p change
+2 40
+5 -- Identity line
+a 2 Cut-off of 11.75 points
+20: wel @ °F VAST rp score change
+a (sensitivity 79%,
+
+ 
+
+specificity 86%)
+
+0 20 40 60 80 100
+100% - Specificity%
+
+FIGURE 2. ROC curve. Area under the ROC curve for change in
+UAS7+p from baseline to follow-up: 0.89 (95% Cl, 0.81-0.96).
+
+by patients and with disease control (UCT scores) as well as
+moderate to strong correlations with HRQOL measures (CUQoL and DLQI scores). Thus, both UAS versions are responsive to changes in disease activity and comparable in their
+sensitivity to change.
+
+The SDC was found to be 12 points for the UAS7 and 11
+points for the UAS7rp according to the Bland and Altman
+method, and 5.0 points for the UAS7 and 4.1 points for the
+UAS7+rp according to the SEM-based method. This implies that
+changes in urticaria activity that exceed these values may be
+considered with 95% of confidence to be real rather than due to
+a measurement error.
+
+To determine which changes are actually important for patients, MID values were calculated using several methods. The
+lowest MID values were obtained using a distributional-criterion
+approach. This approach, however, does not take into account
+changes in disease activity; thus, anchor-based methods are
+preferred.°” We applied 2 anchor-based approaches to determine
+the MID, the “mean change” method and the ROC-curve
+analysis. The “mean change” method yielded higher values as
+compared with the ROC-curve analysis. We recommend the use
+of the MID obtained from the ROC-curve analysis rather than
+from the “mean change” method, because the first approach also
+includes patients whose urticaria activity did not improve during
+the observation period. The MID value of 12 points for the
+UAS7-rp, obtained by using the ROC-curve analysis, exceeds the
+measurement error (SDC) of 11 obtained using the method of
+Bland and Altman.*°*! Thus, changes in the UAS7yp between
+11 and 12 points should be interpreted as real but not important
+to the patients. In contrast, the MID value of 11 points for the
+UAS7, obtained from the ROC-curve analysis, lies below its
+SDC value of 12. Thus, changes in the UAS7 above 12 points
+should be interpreted as real and important to the patients. The
+SDC values based on the SEM were lower than the MIDs for
+both the UAS7 and the UAS7p. The SEM-related SDC value
+of 4.1 for the UAS7rp was similar to the values 3.5 to 4.0 obtained by Mathias et al!? using the same method.!* Our study,
+for the first time, delivers evidence for the MID of the UAS7.
+Our results obtained for the UAS7-rp are slightly higher than the
+MID range of 9.5 to 10.5 recommended by Mathias et al.'*
+
+ 
+
+ 
+
+ 
+
+ 
+
+HAWRO ET AL 5
+
+Our study has several limitations, which should be mentioned.
+(1) The recruited patients may not be fully representative of the
+overall population of patients with CSU because all of them were
+German, refractory to antihistamine treatment, and were treated
+in a specialized, tertiary reference center of a university hospital.
+(2) Changes in disease activity were observed only in response to
+one type of treatment, and only few patients worsened under
+therapy, which prevented a reliable estimation of the MID for
+worsening of the symptoms. (3) Patients with CIndU were not
+excluded from the study as long as CSU was predominant
+because we aimed to test UAS validity under real-life conditions.
+As much as 36% of patients with CSU were recently reported to
+have comorbid CIndU.*° In this group, activity of inducible
+urticaria may influence the UAS, because it may be difficult for
+the patients to differentiate to what extent their symptoms are
+due to CSU and to what extent due to CIndU. However, we
+believe, that in these patients, the UAS7 is still the best tool to
+measure disease activity. In contrast, if symptoms of physical
+urticaria prevail, monitoring of its activity should be in the first
+line on the basis of available physical testing. (4) A considerable
+dropout rate between the first visit and the second visit was
+observed, which resulted in a lower number of patients included
+in the analyses of sensitivity to change, SDC and MID, only.
+
+This study provides, for the first time, validation data for the
+UAS7 and confirms as well as extends the previous US validation
+data for the UAS7rp in German patients with CSU. Because of
+the very simple linguistic structure of the UAS and its straightforward questions, no significant cross-linguistic and crosscultural differences are to be expected in different populations.
+It cannot be excluded, however, that the disease activity of the
+patients in the setting of this study (tertiary care) is higher as
+compared with other patient groups treated in a primary or
+secondary care setting. This may have an effect on the UAS
+values but rather not on the results of the UAS validity and
+reliability. Therefore, we believe that the results of this study can
+be applied to different populations and generalized, even though
+it was performed in a relatively homogenous population.
+
+In conclusion, our results show good and comparable clinimetric properties of both instruments, including good levels of
+validity, reliability, and sensitivity to change, with a recommendable MID and an SDC of 12 and 11 for the UAS7+p and
+of 11 and 12 for the UAS7, respectively.
+
+Acknowledgments
+
+We thank all patients who made this study possible and the
+members of the urticaria specialty clinic Berlin for their help
+during this project, especially Nicole Klameth, Nadja Tampier,
+Max Spindler, and Hesna Gézliikaya. We also thank the urticaria
+network e.V. (www.urtikaria.net) and the Urtikaria Netzwerk
+Berlin Brandenburg e.V. (www.urtikaria-netzwerk-bb.de) as well
+as the GA*LEN urticaria centers of reference and excellence
+(UCARE) network (http://www.ga2len-ucare.com) for supporting this work.
+
+REFERENCES
+1. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of
+urticaria: a representative cross-sectional population survey. Clin Exp Dermatol
+2010;35:869-73.
+2. Grob JJ, Revuz J, Ortonne JP, Auquier P, Lorette G. Comparative study of the
+impact of chronic urticaria, psoriasis and atopic dermatitis on the quality of life:
+Br J Dermatol 2005;152:289-95.
+
+ 
+ARTICLE IN PRESS
+
+6
+
+10.
+
+1.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+HAWRO ET AL.
+
+. Mlynek A, Mager! M, Hanna M, Lhachimi S, Baiardini I, Canonica GW, et al.
+
+The German version of the Chronic Urticaria Quality-of-Life Questionnaire:
+factor analysis, validation, and initial clinical findings. Allergy 2009;64:927-36.
+
+. Weldon D. Quality of life in patients with urticaria and angioedema: assessing
+
+burden of disease. Allergy Asthma Proc 2014;35:4-9.
+
+. ODonnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of
+
+chronic urticaria on the quality of life. Br J Dermatol 1997;136:197-201.
+
+. Gimenez-Arnau AM, Grattan C, Zuberbier T, Toubi E. An individualized
+
+diagnostic approach based on guidelines for chronic urticaria (CU). J Eur Acad
+Dermatol 2015;29:3-11.
+
+. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+
+et al. The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update.
+Allergy 2014:69:868-87.
+
+. Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T,
+
+Maurer M. How to assess disease activity in patients with chronic urticaria?
+Allergy 2008;63:777-80.
+
+. Zhao ZT, Ji CM, Yu WJ, Meng L, Hawro T, Wei JF, et al. Omalizumab for the
+
+treatment of chronic spontaneous urticaria: a meta-analysis of randomized
+clinical trials. J Allergy Clin Immunol 2016;137:1742-1750.e4.
+
+Casale TB, Bernstein JA, Maurer M, Saini SS, Trzaskoma B, Chen H, et al.
+Similar efficacy with omalizumab in chronic idiopathic/spontaneous urticaria
+despite different background therapy. J Allergy Clin Immunol Pract 2015;3:
+743-750.e1.
+
+Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, et al.
+Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria.
+N Engl J Med 2013;368:924-35.
+
+Mathias SD, Crosby RD, Zazzali JL, Maurer M, Saini SS. Evaluating the
+minimally important difference of the urticaria activity score and other measures
+of disease activity in patients with chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol 2012;108:20-4.
+
+Baiardini I, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, et al.
+A new tool to evaluate the impact of chronic urticaria on quality of life: chronic
+urticaria quality of life questionnaire (CU-QoL). Allergy 2005;60:1073-8.
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol 2014;133:
+1365-72. 72. e1-6.
+
+Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI—a simple
+practical measure for routine clinical use. Clin Exp Dermatol 1994;19:210-6.
+Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation
+coefficients for reliability research. J Chiropr Med 2016;15:155-63.
+
+Cicchetti DV. Guidelines, criteria, and rules of thumb for evaluating normed and
+standardized assessment instruments in psychology. Psychol Assessment 1994:6:
+284-90.
+
+van Kampen DA, Willems WJ, van Beers LWAH, Castelein RM, Scholtes VAB,
+Terwee CB. Determination and comparison of the smallest detectable change
+(SDC) and the minimal important change (MIC) of four-shoulder patient-reported
+outcome measures (PROMs). J Orthop Surg Res 2013;8:40.
+
+Lu WS, Wang CH, Lin JH, Sheu CF, Hsieh CL. The minimal detectable change
+of the simplified stroke rehabilitation assessment of movement measure.
+J Rehabil Med 2008;40:615-9.
+
+ 
+
+21.
+
+22.
+
+23.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+J ALLERGY CLIN IMMUNOL PRACT.
+MONTH 2017
+
+. Bland JM, Altman DG. Statistical methods for assessing agreement between two
+
+methods of clinical measurement. Lancet 1986;1:307-10.
+de Vet HC, Terwee CB, Mokkink LB, Knol DL. Measurement in medicine: a
+practical guide. Cambridge, United Kingdom: Cambridge University Pres
+2011:241-70.
+
+Rosales RS, Garcia-Gutierrez R, Reboso-Morales L, Atroshi I. The Spanish
+version of the Patient-Rated Wrist Evaluation outcome measure: cross-cultural
+adaptation process, reliability, measurement error and construct. validity.
+Health Qual Life Outcomes 2017;15:169.
+
+Tighe J, McManus IC, Dewhurst NG, Chis L, Mucklow J. The standard error of
+measurement is a more appropriate measure of quality for postgraduate medical
+assessments than is reliability: an analysis of MRCP(UK) examinations. BMC
+Med Educ 2010;10:40.
+
+ 
+
+. Juniper EF. Quality of life questionnaires: does statistically significant = clin
+ically important? J Allergy Clin Immunol 1998;102:16-7.
+Deyo RA, Centor RM. Assessing the responsiveness of functional scales to
+clinical change: an analogy to diagnostic test performance. J Chronic Dis 1986;
+39:897-906.
+
+Norman GR, Sloan JA, Wyrwich KW, Interpretation of changes in healthrelated quality of life—the remarkable universality of half a standard deviation. Med Care 2003;41:582-92.
+
+Koti I, Weller K, Makris M, Tiligada E, Psaltopoulou T, Papageorgiou C, et al.
+Disease activity only moderately correlates with quality of life impairment in
+patients with chronic spontaneous urticaria. Dermatology 2013;226:371-9.
+Weller K, Church MK, Kalogeromitros D, Krause K, Magerl M, Metz M, et al.
+Chronic spontaneous urticaria: how to assess quality of life in patients receiving
+treatment. Arch Dermatol 2011;147:1221-3.
+
+Kocaturk E, Weller K, Martus P, Aktas S, Kavala M, Sarigul S, et al. Turkish
+version of the chronic urticaria quality of life questionnaire: cultural adaptation,
+assessment of reliability and validity. Acta Derm Venereol 2012;92:419-25.
+Kessel A, Graif Y, Vadasz Z, Schichter-Konfino V, Almog M, Cohen §, et al.
+Adaptation and validation of the Israeli version of the Chronic Urticaria Quality
+of Life Questionnaire (CU-Q2oL). Isr Med Assoc J 2016;18:461-5.
+
+Staubach P, Eckhardt-Henn A, Dechene M, Vonend A, Metz M, Magerl M,
+et al. Quality of life in patients with chronic urticaria is differentially impaired
+and determined by psychiatric comorbidity. Br J Dermatol 2006;154:294-8,
+Hawro T, Maurer M, Hawro M, Kaszuba A, Cierpialkowska L, Krolikowska M,
+et al. In psoriasis, levels of hope and quality of life are linked. Arch Dermatol
+Res 2014;306:661-6.
+
+Hawro T, Zalewska A, Hawro M, Kaszuba A, Krolikowska M, Maurer M.
+Impact of psoriasis severity on family income and quality of life. J Eur Acad
+Dermatol 2015;29:438-43.
+
+Hawro M, Maurer M, Weller K, Maleszka R, Zalewska-Janowska A,
+Kaszuba A, et al. Lesions on the back of hands and female gender predispose to stigmatization in patients with psoriasis, J Am Acad Dermatol 2017;
+76:648-654.e2,
+
+Revicki D, Hays RD, Cella D, Sloan J, Recommended methods for determining
+responsiveness and minimally important differences for patient-reported outcomes. J Clin Epidemiol 2008;61:102-9.
+
+Sanchez J, Amaya E, Acevedo A, Celis A, Caraballo D, Cardona R. Prevalence
+of inducible urticaria in patients with chronic spontaneous urticaria: associated
+risk factors. J Allergy Clin Immunol Pract 2017;5:464-70.
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+TABLE E1. Performance of UAS7 changes at various cutoff
+values in screening for patients with an “improved” or “not
+improved*” disease activity
+
+ 
+
+Truly “improved” Truly “not improved”
+
+Cutoff value* Sum of %
+
+   
+
+(UAS7 change) Sensi Specifi misclassified}
+<-14 63% 90% 46%
+<-13 67% 86% 48%
+<-12 72% 86% 42%
+s-ll 74% 86% 4‘N%
+<-10 TA% 81% 45%
+<-9 15% 11% 53%
+<-8 19% 67% 54%
+7 86% 62% 52%
+<-6 88% 62% 50%
+x5 91% 62% 47%
+<-4 91% 57% 52%
+x-2 93% 43% 64%
+<0 95% 38% 67%
+
+Bold indicates minimal important difference value, according to the ROC curve
+analysis.
+
+*For this analysis of cutoff values, change in disease activity was categorized into
+“improved” (rating of disease activity was improved by at least 1 category from
+baseline to follow-up, eg, from “moderate” to “mild”) or “not improved” (rating of
+disease activity was unchanged or even worse at follow-up).
+
++Sum of misclassified = (100% — sensitivity%) + (100% — specificity%).
+
+HAWRO ET AL 6.e1
+
+TABLE E2. Performance of UAS77p changes at various cutoff
+values in screening for patients with an “improved” or “not
+improved*” disease activity
+
+  
+ 
+
+Trul
+— Sum of %
+
+misclassified}
+
+Cutoff value*
+(UAS77p change) Sen:
+
+=—13 75, 10% 90% 39%
+<-13.00 10% 86% 44%
+S12 25) 12% 86% 42%
+s-11.75 79% 86% 35%
+Sib 25) 79% 81% 40%
+<-10.50 79% 16% 45%
+<-9.75 81% 16% 43%
+<—9.00 82% 16% 41%
+<-8.00 84% 16% 40%
+S75 86% 716% 38%
+<-6.75 88% 11% 41%
+<-5.25 89% 67% 44%
+SS3 5 93% 67% 40%
+<-3.25 93% 57% 50%
+S25 93% 48% 59%
+<-2.00 93% 43% 64%
+<-0.75 95% 38% 67%
+<0.50 95% 29% 71%
+
+Bold indicates minimal important difference value, according to the ROC curve
+analysis.
+
+*For this analysis of cutoff values, change in disease activity was categorized into
+“improved” (rating of disease activity was improved by at least 1 category from
+baseline to follow-up, eg, from “moderate” to “mild”) or “not improved” (rating of
+disease activity was unchanged or even worse at follow-up).
+
++Sum of misclassified = (100% — sensitivity%) + (100% — specificity%).
+

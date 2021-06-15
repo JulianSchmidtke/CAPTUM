@@ -1,0 +1,934 @@
+Allergy Asthma Immunol Res. 2019 Jan;11(1):29-42
+
+https://doi.org/10.4168/aair.2019.11.1.29
+pISSN 2092-7355-elSSN 2092-7363
+
+ 
+
+Original Article
+
+® Check for updates
+
+@ oPEN access
+
+Causal Relationship Between Anti-TPO
+IgE and Chronic Urticaria by In Vitro
+and In Vivo Tests
+
+Jorge Sanchez,’” Andres Sanchez,’?* Ricardo Cardona’
+
+‘Group of Experimental and Clinical Allergy, IPS Universitaria, University of Antioquia, Medellin, Colombia
+*Foundation for the Development of Medical and Biological Sciences, Cartagena, Colombia
+‘Immunology Department, University Corporation Rafael Nufiez, Cartagena, Colombia
+
+ 
+
+Received: Mar 18, 2018
+Revised: Aug 2, 2018
+Accepted: Aug 7, 2018
+
+Correspondence to
+
+Jorge Sanchez MD, MSc, EAC
+
+Group of Experimental and Clinical Allergy,
+IPS Universitaria, University of Antioquia,
+Cra 42 #7 A Sur, Medellin, Colombia
+
+Tel: +57-3003934000
+
+E-mail: jotamsc@yahoo.com
+
+Copyright © 2019 The Korean Academy of
+Asthma, Allergy and Clinical Immunology The Korean Academy of Pediatric Allergy and
+Respiratory Disease
+
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+
+Disclosure
+There are no financial or other issues that
+might lead to conflict of interest.
+
+https://e-aair.org
+
+ABSTRACT
+
+Purpose: Immunoglobulin (Ig) E autoantibodies against thyroid antigens such as thyroid
+peroxidase (TPO) have been demonstrated in chronic spontaneous urticaria (CSU) patients
+in higher frequency than healthy subjects. However, if these IgE autoantibodies can trigger
+urticaria is still a matter of study. The aim of this study was to investigate the relationship
+between concomitant IgE autoantibodies against thyroid antigens in CSU.
+
+Methods: Patients with CSU, healthy subjects and patients with autoimmune thyroid disease
+(ATD) were recruited. Total IgE and specific anti-TPO IgE and IgG were assessed in all subjects.
+The basophil activation test and skin tests with TPO were performed to demonstrate whether
+this antigen could selectively induce urticaria reaction in subjects with positive anti-TPO IgE.
+Results: Anti-TPO IgE was present in all 3 groups (CSU: 34.0%, ATD: 16.6%, healthy subjects:
+8.1%). Anti-TPO IgE levels were higher in CSU patients, whereas anti-TPO IgG were higher in
+ATD patients. After exposure to TPO, CD203c expression from patients with CSU and anti-TPO
+IgE significantly increased in comparison to the other groups; 33.0% vs. 14.0% in ATD patients
+and 9.0% in control subjects (P< 0.05). Skin reactions with TPO were higher in patients with
+CSU according to the intradermal (CSU: 18.0%, ATD: 3.3%, control: 8.0%) and skin prick tests
+(12.0%, 0%, 0%, respectively). Passive transfer of anti-TPO IgE from a CSU patient to the skin
+of control subjects without anti-TPO IgE induced a positive skin reaction.
+
+Conclusions: Anti-TPO IgE is not a specific biomarker for CSU. However, IgE against TPO
+plays a pathogenic role in inducing effector cell activation and skin exacerbation in some
+patients with CSU.
+
+Keywords: Autoantigen; autoimmunity; hypothyroidism; IgE; thyroid peroxidase; urticaria;
+basophils
+
+INTRODUCTION
+
+Different mechanisms are involved in the pathogenesis of chronic spontaneous urticaria
+(CSU).'? In the early 90s, Grattan et al.* demonstrated the presence of immunoglobulin
+(Ig) G with anti-IgE function in chronic urticaria. Two years later, the same research group
+found IgG against the high affinity IgE receptor and also demonstrated that these IgG
+autoantibodies could induce basophil activation.*
+
+29
+
+Allergy, Asthma &
+Immunology Research
+
+SsTid WATE hq pares9ua5
+ata
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+After demonstrating IgG autoantibodies in CSU, Bar-Sela et al.* suggested that IgE may have
+
+ 
+
+an auto-reactivity role in urticaria by demonstrating IgE against thyroid peroxidase (TPO).
+However, while reproducing the results with IgG autoantibodies in multiple studies has
+been possible, the study of auto-reactive IgE has been more difficult. Studies from Concha
+et al.° indicate that the detection of IgE specific for TPO was an occasional finding, and the
+results suggest that these antibodies were unlikely to play an important pathogenic role in
+urticaria. With the depletion of IgG prior to the measure of IgE, or with new innovations in
+IgE detection techniques, some recent studies”’ have shown that anti-TPO IgE in patients
+with CSU is more frequent than previously described. However, if these IgE autoantibodies
+can trigger urticaria or not in patients with CSU has not been proven and the clinical role of
+this IgE has been little studied.
+
+In this study, we investigated the clinical impact of IgE autoantibodies against TPO in CSU.
+For this purpose, we followed 3 steps:
+
+1. Estimated the prevalence of anti-TPO IgE in our population.
+
+2. Evaluated the interaction of anti-TPO IgE with basophil cells for the induction of
+CD203c expression.
+
+3. Evaluated if TPO can induce urticaria on the skin of patients with anti-TPO IgE and if
+this response could be transferred to healthy subjects.
+
+MATERIALS AND METHODS
+
+Study population
+
+This is a cross-sectional study with 3 groups based on their clinical status: the CSU, healthy
+control and autoimmune thyroid disease (ATD) groups. The CSU population was recruited
+from the Urticaria Research of Tropical Impact and Control Assessment (URTICA) cohort
+(ClinicalTrials.gov number: NCTO1940393).'°"" The CSU group included patients older than
+12 years with CSU, defined as the recurrence of hives, with or without angioedema, for at least
+6 weeks.” Patients could be receiving their treatment with antihistamines but not with antiIgE antibodies. The exclusion criteria were the following: systemic diseases or pharmacologic
+treatment that could cause hives. The impact of CSU on the quality of life was assessed with the
+dermatology life quality index (DLQI) and the urticaria activity score (UAS) was used for the
+disease activity." For skin tests, patients suspend antihistamines 7 days before the autologous
+serum skin test (ASST), intradermal, skin prick test (SPT) or passive transfer of serum.
+
+The healthy control group consisted of people older than 12 years without historical
+autoimmune diseases, chronic urticaria or history of acute urticaria in the previous 2 years.
+
+ 
+
+The ATD group included patients with Hashimoto's thyroiditis according to the American
+thyroid association; the presence of thyroid autoantibody above the normal range (anti-TPO
+IgG > 5.0 IU/mL and/or anti-thyroglobulin < 100.0 IU/mL) in addition to thyroid dysfunction
+(free thyroxine < 0.1 mUI/L and/or thyroid-stimulating hormone > 5 mIU/L) was considered
+as ATD.’
+
+TPO recombinant
+
+The rTPO was obtained using Escherichia coli strains BL21 (DE3) as an expression vector
+(details are presented in the Supplementary Data $1).
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 30
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+Determination of total IgE, anti-TPO IgE and anti-TPO IgG
+Total IgE levels in serum samples were determined using a flouroenzyme immunoassay
+
+ 
+
+(ImmunoCap System, Uppsala, Sweden).
+
+The sera used for the quantification of sIgE were previously depleted of IgG by immunoaffinity
+depletion. The cut-off value for serum specific IgE level to TPO was defined as the mean
+
+and 3 standard deviations of absorbance values from 40 healthy controls without urticaria
+
+or autoimmune diseases. Subsequently, this cut-off point was confirmed with the complete
+control population (70 additional patients). Results were expressed in optical density (OD).
+Absorbance at 405 nm was determined using spectrophotometer (Supplementary Data $1).
+
+The same protocol was followed to determine anti-TPO IgG, except for the IgG depletion and
+that the human sera adsorbed with E. coli lysate were diluted 1:50 and the secondary antibody
+was alkaline phosphatase-conjugated anti-IgG (Pharmigen, San Diego, CA, USA).
+
+CD203c expression
+Peripheral blood basophils were obtained from subjects from each group. We used the
+CD203c expression protocol previously reported by Shin et al.° (Supplementary Data $1).
+
+The percentage of CD203c expression was defined as the percentage of basophils expressing
+more CD203c than the critical point, which was 210.0% of the basophils incubated with
+buffer only, similar to previous studies." To evaluate the response of the basophils of each
+group to the stimulus with serum of subjects from another group, we performed incubations
+at room temperature for 4 hours of the mixed samples and subsequently performed the BAT
+according to what was described above.
+
+ASST
+
+The evaluation of ASST was performed according to international guidelines; ° 0.05 mL of
+serum were injected via intradermal and a wheal larger than 1.5 mm over the negative control
+after 30 minutes was considered as a positive result.”
+
+Intradermal and SPT
+
+Recombinant TPO was used for serum and skin tests. The protein solutions were treated with
+LPS-Free (Toxin eraser Kit, Genscript Cat. No. LO0338) and were prepared at 25.0 ng/L in
+50.0% glycerol, 0.4% phenol, and filtered using a 0.22-1m filter. Result interpretations were
+made according to international recommendations for skin tests and intradermal tests:°””
+
+a 3-mm wheal over the negative control was considered positive. As a control, saline was
+incubated with sepharose-protein G to exclude the release of skin irritants from sepharoseprotein G."*° Atopic sensitization to the principal allergenic sources in this population” was
+evaluated with the SPT.
+
+Passive transfer of serum
+
+In order to prevent infections or other complications, before taking the test sample, donors
+were screened and evaluated for different infections (HIV 1-2, Hepatitis B, Hepatitis C,
+syphilis, Chagas), the determination of the ABO group, antigen D (Rh) and, screened for
+anti-erythrocytic antibodies and their identification.
+
+The protocol for serum skin testing was similar to that used for ASST. Venous blood
+was collected into sterile glass tubes (BD Vacutainer, Franklin Lakes, NJ, USA) without
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 31
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+anticoagulant or other additives. After collection, blood was allowed to clot at room
+
+ 
+
+temperature for 30 minutes before separation of serum by centrifugation at 500 g at 16°C for
+15 minutes. The volar forearm skin was used after cleansing with antiseptic, leaving 3-5 cm
+gaps between each of the injections. A palpable bleb of fluid within the papillary dermis was
+performed with the injection. Three superficial intradermal injections were given using 0.05
+mL of fresh undiluted serum from donor to minimize risk of sample contamination. After 24
+hours, the SPT and the intradermal test with TPO (10 p1g/50 uL and 1 pg/50 pL, respectively)
+were carried out in 2 of the 3 points where the passive transference had been done before. In
+the third point, saline solution was injected as negative control. SPT with histamine (10 mg/
+mL) was used as positive control. A test was considered positive when a wheal larger than 3
+mm over the negative control after 30 appeared.
+
+Ethical considerations
+
+The Ethics review committee of the Universidad de Antioquia and the “IPS Universitaria”
+(university health care services provider and hospital), approved the study (Code number
+CCEI-5311-2016) according to the principles of the declaration of Helsinki. Written informed
+consent was obtained from all the participants or in the case of children, it was obtained from
+their parents. For the passive transfer tests, the same informed consent was made but with an
+addendum explaining the need to perform the previous control tests to avoid the infection risk.
+
+Statistical analysis
+
+Statistical analyses were performed using IBM SPSS Statistics for Windows, version 21.0
+(IBM, Armonk, NY, USA). The mean was reported for descriptive variables. The MannWhitney Utest was used to compare anti-TPO IgE levels. Pearson's y? test was used to
+evaluate the differences among groups. Differences between proportions were analyzed
+using Pearson's y? test. Correlations were assessed with the Spearman coefficient (7).
+
+Given the results of previous studies evaluating the presence of anti-TPO IgE,*° we considered
+that a sample of at least 70 patients with CSU, 30 patients with ATD, and 50 healthy subjects
+would be adequate to ensure a power of 90.0% and an alpha error of 0.05 for the primary
+outcome measure (presence of anti-TPO IgE). A Pvalue of < 0.05 was considered statistically
+significant.
+
+For comparisons among the 3 study groups (CSU, ATD, and control group), we use the
+Kruskal Wallis test, for quantitative variables (¢.g., IgE levels, IgG levels); when this test
+showed a significant difference (P< 0.05), a multiple comparison test, using the same
+analysis, can be performed to compare the differences between each possible pair of groups.
+
+Because experiments with the basophil activation test (BAT) were performed before and
+after exposure to TPO, a generalized linear model of repeated measures was used to compare
+intra- and inter-group measures and the analysis of covariates.
+
+RESULTS
+
+Population characteristics
+
+One hundred patients with CSU, 30 with ATD and 110 healthy subjects were recruited.
+
+Age and sex have a similar distribution between the groups. The CSU group had a higher
+prevalence of atopy and total IgE than the ATD or healthy control groups (P= 0.03). Positive
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 32
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+Table 1. Population characteristics
+
+ 
+
+ 
+
+ 
+
+Characteristics CSU (n = 100) ATD (n = 30) Control (n = 110) B
+Age (yr) 28 (14-50) 32 (16-56) 29 (14-50) 0.2
+Sex (female) 61 (61) 18 (60.0) 62 (56.3) 0.2
+Atopy 42 (42) 10 (33.3) 26 (23.6) 0.03
+Total IgE (IU/mL) 248 + 113 178 +79 194 +109 0.03
+Years with CSU 243 N/A N/A N/A
+Age of onset (yr) 25 (4-49) N/A N/A N/A
+Positive ASST 48 (48.0) 9 (30.0) 30 (27.2) 0.04
+DLQI score 8+6 N/A N/A N/A
+UAS score 243 N/A N/A N/A
+Anti-TPO IgG 28 (28.0) 28 (93.3) 20 (18.1) 0.01
+Mean IgG (IU/mL) 23.2 + 52.0 63.5 + 52.0 13.8 + 33.0 0.01
+(+)anti-TPO IgG and (+)anti-TPO IgE 24 (24) 5 (16.6) 7 (6.3) <0.05
+Correlation among anti-TPO IgG and (+) IgE r= 0.643; P = 0.03 r= 0.548; P = 0.05 r= 0.402; P= 0.05 N/A
+
+ 
+
+Data are shown as number (range), number (%), or mean + standard deviation. A P < 0.05 (bold numbers) was considered statistically significant in
+sociodemographic and clinical parameters among 3 groups according to Kruskal Wallis test.
+
+CSU, chronic spontaneous urticaria; ATD, autoimmune thyroid disease; Ig, immunoglobulin; TPO, thyroid peroxidase; N/A, no apply; ASST, autologous serum skin
+test; DLQI, dermatology life quality index; UAS, urticaria activity score.
+
+ASST was higher in CSU than the other 2 groups (P= 0.04). The CSU group had a higher
+atopy prevalence (42.0%) than the ATD (33.3%) or control groups (23.6%). Levels of total IgE
+are presented in Table 1.
+
+Prevalence of anti-TPO IgE
+
+Anti-TPO IgE was detected in all 3 groups (Fig. 1). More patients with CSU had positive antiTPO IgE compared to the other groups and concentration levels were also higher in the CSU
+group (CSU O.D.: 0.294 + 0.147; ATD O.D.: 0.244 + 0.253; control O.D.: 0.163 + 0.117). Total
+IgE level was higher among CSU patients with sIgE to mites (273.0 + 108.0) compared to CSU
+patients without it (229.0 + 125.0), but the difference was not statistically significant. Taking
+into consideration that atopy and total IgE levels were higher in CSU patients, we adjusted
+this analysis for these 2 variables. Although patients with atopy and total IgE levels over 300
+IU/mL had a higher frequency of anti-TPO IgE (P= 0.05), no direct correlation was observed
+between total IgE and anti-TPO IgE. Patients with anti-TPO IgE had a mean UAS (3.0 + 2.0 vs.
+
+ 
+
+ 
+
+ 
+
+ 
+
+P< 0.01
+P=0.03
+10 34% 16.6% 8.1%
+° 00
+0.8 + ° °
+8 ri
+2 06k
+bb oan0
+° °
+a
+Fr 0-4 F coc SEBSEB aco 8
+:— 00 ‘cogcee00000
+< aS 0 0.D > 0.304
+SB ‘ccoccosca00000
+0.2 | coccerzesznaaeccoece cecsneseeanecsreero
+Gre
+Bee oo SRESTSOSISIIOO
+FA coecB20c0
+ie) = ; Weewssesect
+csU ATD Control
+n=100 n=30 n=110
+
+Fig. 1. Anti-TPO IgE levels in each group.
+TPO, thyroid peroxidase; Ig, immunoglobulin; 0.D., optical density; CSU, chronic spontaneous urticaria; ATD,
+autoimmune thyroid disease.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 33
+Causal Association Between IgE Anti-TPO and Urticaria
+
+ 
+
+Table 2. Comparisons of CSU with anti-TPO IgE and anti-TPO IgE
+
+Allergy, Asthma &
+Immunology Research
+
+ 
+
+ 
+
+Characteristics CSU anti-TPO IgE (n = 34) CSU (-) anti-TPO IgE (n = 66) B
+Age (yr) 27 (15-50) 28 (14-50) 0.2
+Sex (female) 21 (61.7) 40 (60.6) 0.2
+Atopy 16 (47.0) 96 (39.3) o1
+Total IgE (IU/mL) 278 +119 298 +103 o1
+Years with CSU 223 223 01
+Age of onset (yr) 25 (4-46) 25 (4-49) > 0.05
+Positive ASST 17 (50.0) 31 (46.9) > 0.05
+DLQI score 10+6 Sat 0.09
+UAS score 322 2+1 0.09
+Anti-TPO IgG 10 (35.7) 18 (27.2) o1
+Mean IgG (IU/mL) 28.2 + 42.3 20.7 + 62.0 0.03
+Baseline CD203c expression (%) 8+4(n=10) 5+3(n=5) 0.05
+Positive SPT with TPO 6/20 (30) 0/30 (0) 0.02
+Positive IDT with TPO 3/20 (15) 1/30 (3.3) 0.05
+
+ 
+
+Data are shown as number (range), number (%), or mean + standard deviation. Comparisons of clinical characteristics of CSU patients with positive and
+negative anti-TPO IgE. A P< 0.05 (bold numbers) was considered statistically significant.
+
+CSU, chronic spontaneous urticaria; lg, immunoglobulin; TPO, thyroid peroxidase; ASST, autologous serum skin test; DLQI, dermatology life quality index; UAS,
+urticaria activity score; SPT, skin prick test; IDT, intradermal test.
+
+2.0 + 1.0) and DLQI (10.0 + 6.0 vs 7.0 + 7.0) higher than patients with (-)anti-TPO IgE, but the
+difference was not statically significant (P= 0.09) (Table 2).
+
+Among CSU patients and healthy subjects, there were some subjects with anti-TPO IgG and
+no clinical diagnosis of autoimmune thyroiditis. An additional subanalysis was done after
+excluding these patients and comparing these groups with the ATD group, but no significant
+statistical differences were found.
+
+BAT
+
+We observed a similar concentration of basophils in total blood in the 3 groups, being slightly
+lower in the CSU group (23 cells/mL) compared to the ATD group (32 cells/mL) on the healthy
+control group (36 cells/mL), without statistical differences.
+
+For the BAT, basophils were obtained from 4 groups of subjects; CSU (+)anti-TPO IgE, ATD
+(+)anti-TPO IgE, control (-)anti-TPO IgE and control (+)anti-TPO IgE.
+
+With the different dilutions of TPO used (dilution 0.01, P= 0.04; dilution 0.1, P= 0.01;
+dilution 1, P< 0.01) (Fig. 2A), CD203c expression from patients with CSU and anti-TPO IgE
+significantly increased compared to the other groups.
+
+Basophils of control subjects with (+)anti-TPO or (-)anti-TPO IgE and no urticaria or ATD did
+not have a significant CD203c expression when stimulated with TPO. With 0.1 and 1 g/mL
+dilutions, the ATD group had a CD203c expression, which was significantly lower than the
+CSU group and was not significantly different from control subjects with (+)anti-TPO or (-)
+anti-TPO IgE (Fig. 2). When the basal levels of CD203c were compared among patients of the
+CSU group, a higher expression of basal CD203c was observed in the group with anti-TPO IgE
+(P= 0.05) (Table 2).
+
+When we mixed a pool of serum from CSU patients with anti-TPO IgE and basophils from a
+control subject with (-)anti-TPO IgE (Fig. 2B), CD203c expression was significantly increased
+(P= 0.04) after stimulation with TPO (1 g/mL). A similar result was observed when
+basophils from ATD patients were used (P= 0.05).
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 34
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+ 
+
+https://e-aair.org
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+A P=0.04 P=0.01 P<0.01
+35% - 33%
+30% +
+=
+2 25%}
+3 —@- CSU (+) anti-TPO IgE (n = 10)
+2 20% - "
+3 =m ATD (+) anti-TPO IgE (n = 10)
+io 15% | —*- Control (+) anti-TPO IgE (n = 5)
+3 = Control (-) anti-TPO IgE (n = 5)
+A 10% +
+(s) .
+va 5%
+5% + 6%
+a os =
+0% r T T T
+ie} 0.01 0.1 1
+TPO (g/ml)
+B P= 0.05
+40% 36%
+35% +
+5 30% +
+8
+2 25% + :
+i —@ CSU (+) anti-TPO IgE
+2 20% + 23% — _s<- Control (-) anti-TPO IgE
++ ¥
+ee 15% | —m Mixture
+g
+S 10% +
+Te
+5% a a
+3% 5% 5%
+0% r 1 T T
+ie} 0.01 0.1 1
+TPO (g/ml)
+
+Fig. 2. Basophil activation test with TPO.
+TPO, thyroid peroxidase; Ig, immunoglobulin; CSU, chronic spontaneous urticaria; ATD, autoimmune thyroid
+disease.
+
+For the following experiments combining serum and basophils from different subjects, only
+the dilution of 1 pg/mL TPO was used: CSU basophils with sera from healthy control subjects
+with anti-TPO IgE induced the expression of CD203c after stimulation with TPO (1 g/mL)
+(15.5%), but it was lower than with their own serum or with anti-TPO IgE serum from another
+CSU patient (23%). CSU basophils with sera from healthy control subjects with (—)anti-TPO
+IgE did not induce the expression of CD203c after TPO stimulation (5.0%).
+
+Prevalence of anti-TPO IgG
+
+The CSU group had a higher frequency of anti-TPO IgG than the control subjects (28.0% vs.
+18.1%, P= 0.04), but it was lower than the ATD group (93.3%). CSU patients with anti-TPO IgE
+exhibited significantly higher anti-TPO IgG levels than those with (-)anti-TPO IgE (28.2 + 42.3
+vs. 20.7 + 62.0, P= 0.03) (Table 2).
+
+Levels of anti-TPO IgE and IgG had a significant correlation in the CSU and healthy control
+
+groups. Taking into consideration that this correlation could occur because most of these
+subjects had a negative result for IgG and IgE, we evaluated the IgG and IgE correlation using
+
+https://doi.org/10.4168/aair.2019.11.1.29 35
+Allergy, Asthma & AA R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+only subjects with anti-TPO IgE, and there was a significant correlation in ATD (r= 0.548) and
+CSU (r= 0.643) for IgE and IgG (Table 1).
+
+ 
+
+Twelve patients in the CSU group had Hashimoto's thyroiditis; 10 had anti-TPO IgG and 3 of
+these patients also had anti-TPO IgE. All subjects in the healthy control group had normal
+thyroid function, even those with positive IgG or IgE against TPO. We did not find that any
+clinical parameter related with active thyroid disease, like the presence of anti-TPO IgG, could
+predict the presence of anti-TPO IgE.
+
+Skin response to TPO
+
+The CSU group alone showed positive SPT to TPO (Fig. 3A), and intradermal skin reaction
+to TPO in this group was higher than the other groups (P= 0.01) (Fig. 3A). All subjects
+with positive SPT had positive serum anti-TPO IgE and positive intradermal test. Six of the
+9 patients with CSU and positive intradermal test also had anti-IPO IgE (Table 2). Three
+of the 4 control subjects and the ATD patients with positive intradermal test had anti-TPO
+IgE. Among the subjects with positive skin tests in the 3 groups, there was a moderate
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+A a
+a
+a TPO
+TPO CSU (n= 50)
+SPT 6 (12.0%)
+Intradermal 9 (18.0%)
+B
+
+ 
+
+    
+
+Ai
+
+Control (-) Control
+(with CSU serum)
+
+Fig. 3. Skin tests with TPO.
+TPO, thyroid peroxidase; CSU, chronic spontaneous urticaria; ATD, autoimmune thyroid disease; SPT, skin prick test.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 36
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+correlation (r= 408; P= 0.05) between the wheal size in the skin tests and the levels of sIgE
+against TPO.
+
+ 
+
+We did passive intradermal transfer of anti-[PO IgE serum from 1 CSU patient to 2 healthy
+subjects with negative anti-TPO IgE in serum as well as negative SPT, intradermal test and
+ASST (Fig. 3B). The CSU serum used was negative for anti-TPO IgG. After 24 hours, we
+repeated intradermal test and SPT with TPO, and subjects presented positive reactions. In
+these 2 subjectss, after 2 and 4 weeks we repeated skin tests with TPO at the same point
+previously injected with anti-TPO IgE serum from a CSU patient; the skin test remained
+positive after 2 weeks, but it was negative after 4 weeks.
+
+We did not observe clinical changes or alterations in thyroid function among patients with
+ATD who underwent skin tests with TPO, and no changes were observed either among the 2
+subjects who participated in the passive transfer after 2 months of follow-up.
+
+DISCUSSION
+
+Different mechanisms of self-reactivity are involved in the development of CSU*” and some
+studies described a strong association between self-reactivity and autoimmune diseases,
+especially thyroid diseases.” It is necessary to identify auto-reactive proteins in CSU.* The
+presence of anti-IPO IgE in CSU has led us to assume that this auto-reactive IgE may play a
+role in the development of CSU or can, at least, be an indicator of inflammation. To evaluate
+the causal role of anti-TPO IgE in CSU, we first calculated the prevalence of anti-TPO IgE in our
+population. We observed that 34% of patients with CSU had anti-TPO IgE and it was higher
+than in ATD patients (16.6%) or healthy subjects (8.1%). Nevertheless, anti-TPO IgE seems to
+be important only in some patients with CSU; the presence of this autoantibody in subjects
+without urticaria and the presence of urticaria in subjects without this autoantibody indicate
+
+ 
+
+that anti-TPO IgE is not the only factor influencing the development of the disease and that
+different inflammatory cells or other substances of the serum could have a relevant role.*
+
+The direct detection of anti-TPO IgE in a wheal performing a biopsy in the acute phase of
+urticaria could help clarify the clinical relevance of anti-TPO IgE in urticaria. However, the
+technique for detecting this low serum antibody in fresh skin can be complex. Although
+BAT has limitations because it is an “in vitro” technique, it allows us to evaluate the capacity
+of anti-TPO IgE to activate basophils, which shares many characteristics with mast cells in
+terms of IgE activation. Mast cells play a prominent role in urticaria,” but recent studies
+using basophils have provided useful information to understand this disease. Rauber et al.*
+demonstrated that in CSU, different basophil phenotypes can be categorized after stimulating
+basophils through FceRI. BATs using CD63 or CD203c showed that different allergens have
+similar sensitivity, with a slightly higher sensitivity to CD203c.***° We used the protocol with
+CD203c, which has previously been tested with TPO; Shin et al.” suggested that anti-TPO IgE
+plays a pathogenic role in aspirin-exacerbated cutaneous urticaria in terms of the expression
+of CD203c. Some studies suggested that basophils from 10.0% to 20.0% of healthy
+individuals are non-releasers to FeeRI-dependent stimuli” and that basophils from chronic
+urticaria patients seem to have some changes in the FceRI-signaling pathway.* Taking into
+account these results and that we observed an expression of CD203c among patients with
+ATD but without having urticaria, it is necessary to evaluate if basophils from patients with
+autoimmune thyroiditis have their particular characteristic phenotypes.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 37
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+These cell phenotypes are associated with different clinical characteristics, pointing to
+
+ 
+
+basophils as important players in CSU's physiopathology. We observed that patients with
+CSU and anti-TPO IgE had a higher CD203c expression than the 2 other groups. The lack of
+activation through anti-TPO IgE in ATD and healthy control groups suggested that in patients
+without urticaria, some factors can antagonize the effect of anti-TPO IgE, considering the
+results of Rauber et al.* that these groups may be have a high proportion of hypo-reactive
+basophils. Similar to Shin ef al.° in aspirin urticaria, we also observed that among patients
+with CSU, despite having anti-TPO IgE, not all samples had CD203c. To clarify whether this
+lack of basophil response was due to the basophil type or perhaps to another factor present in
+the serum, we evaluated the basophil auto-reactive capacity by mixing basophils and serum
+from the 3 groups. We observed that when we use CSU anti-TPO serum IgE, basophils from
+ATD or control subjects express CD203c, but at a lower intensity than patients with CSU
+
+ 
+
+and only at the highest concentration of TPO. In addition, when we incubated basophils of
+CSU patients with anti-TPO IgE from control subjects, we observed expression of CD203c,
+but lower than what observed with its own anti-TPO IgE serum or with anti-TPO IgE serum
+from another CSU patient. Based on these observations, it seems that the different types of
+basophils may play a role in the type of response to TPO or that other factors from sera can
+prevent this activation at least partially. Inhibition experiments are needed in order to answer
+these questions.
+
+As expected, IgG levels were higher in the ATD group, but the anti-TPO IgG levels were
+higher in the CSU group than in the healthy control group. Although previous studies have
+established the coincidental occurrence of autoimmune diseases and CSU,” there are no
+current data to determine the basis for this link. Due to the design of the study, we cannot
+state with certainty if thyroid diseases in the CSU group were more or less frequent than in
+the healthy control group. However, we observed that within the CSU group, patients with
+anti-TPO IgE had higher levels of anti-TPO IgG than those with (-)anti-TPO IgE, although the
+CD203 expression baseline was higher in the anti-TPO IgE group. Our results suggest that
+anti-TPO IgG could interfere with anti-TPO IgE. This hypothesis is supported by 2 results: (1)
+In patients with ATD and positive anti-TPO IgE, anti-TPO IgG levels were higher compared
+
+to ATD patients who did not have IgE and the activation of basophils was lower compared to
+the CSU group. (2) In CSU patients with positive IgE anti-[PO but negative skin test results,
+anti-TPO IgG levels were higher than in CSU patients with negative IgE (data not shown). As
+suggested by Mozena et al.,” it is plausible that urticaria and ATD are pathogenically linked,
+possibly reflecting a shared epitope targeted by different autoantibodies. It is possible that in
+patients with ATD and high levels of anti-TPO IgG and anti-TPO IgE, this IgE could play a role
+in worsening Hashimoto's thyroiditis. However, in patients with ATD, there must be some
+
+ 
+
+differences in the effector mechanism of anti-TPO IgE regarding what happens in patients
+with CSU because a smaller number of patients presented skin exacerbation with TPO and
+had less reactivity in BAT. Additional experiments are required with a larger number of
+patients to confirm this hypothesis.
+
+The SPT and intradermal tests are excellent tools to evaluate the clinical impact of allergens
+on the skin.""*° The usefulness of skin tests in CSU has been limited in part by the lack of
+knowledge of mechanisms associated with the disease, which does not allow scientists to
+choose the right protein to be tested. The ASST has been the most commonly used diagnostic
+tool in urticaria, although it has excellent sensitivity but quite low specificity.° With the
+growing evidence of the possible role of TPO in a group of patients with CSU, we tested
+whether the stimulation of skin with TPO could induce the formation of wheals in patients
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 38
+ 
+
+Allergy, Asthma & AAI R
+‘ion Between IgE Anti-TPO and Urticaria Immunology Research
+
+with CSU. We observed a strong correlation between in vitro and in vivo results. SPT had better
+
+ 
+
+specificity than the intradermal test, but the sensitivity of the intradermal test was better.
+With the passive transfer of serum from a CSU patient to the skin of 2 control subjects, we
+demonstrated that anti-TPO IgE plays a central role in the pathogenesis of wheal in CSU, at
+least in a group of patients. The standardization of skin tests with TPO will provide a easy and
+simple tool to identify patients in whom urticaria is due to this IgE auto-reactivity. Although
+at the moment anti-TPO IgE measurement is conducted only in some specialized centers,
+
+it will be generalized to all the clinical laboratories. However, according to our results, the
+advantages of the skin test (rapid implementation, avoids puncture, almost immediate
+results), can be supported by anti-TPO IgE measurement in serum.
+
+Our study has some limitations. As mentioned earlier, we did not directly evaluate different
+phenotypes of basophils that could answer some of new questions arising from these results.
+In addition, we did not evaluate how other serum elements, such as complement factors,
+could play a role in auto-IgE pathogenesis. Although the case-control design of the study
+was appropriate for the main objective of the study, the lack of follow-up did not allow for
+evaluating whether IgE or IgG levels are dependent on the exacerbation of urticaria. Despite
+these limitations, the study has some strengths. First, the different experiments carried
+
+out show that anti-TPO IgE can induce the disease in some patients with CSU.Secondly,,
+
+this study could be considered a preliminary effort for future research in the technological
+development of new diagnostic tools for urticaria.
+
+In conclusion, since anti-TPO IgE is present in patients with CSU and ATD as well as
+in healthy subjects, it is not a specific biomarker for CSU. However, IgE to TPO plays a
+
+pathogenic role in cellular effector activation and skin exacerbation in a subgroup of CSU
+patients, and this effect can be transferred to healthy subjects.
+
+ACKNOWLEDGMENTS
+
+We thank the Universidad de Antioquia and IPS Universtaria for its technical and economic
+support. We also thank Professor Leonardo Puerta for his assistance in the experimental
+procedures, Professor Victor Calvo for his advice on statistical analysis and Professor Carolina
+Gallego for the language review.
+
+SUPPLEMENTARY MATERIAL
+
+Supplementary Data $1
+Methods details for Thyroid peroxidase (TPO) recombinant production and clinical tests.
+
+Click here to view
+
+REFERENCES
+
+1. Kolkhir P, Borzova E, Grattan C, Asero R, Pogorelov D, Maurer M. Autoimmune comorbidity in chronic
+spontaneous urticaria: a systematic review. Autoimmun Rev 2017;16:1196-208.
+PUBMED | CROSSREF
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 39
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+2. Kaplan AP. Chronic spontaneous urticaria: pathogenesis and treatment considerations. Allergy Asthma
+Immunol Res 2017;9:477-82.
+PUBMED | CROSSREF
+
+ 
+
+3. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating histamine releasing autoantibodies
+with functional properties of anti-IgE in chronic urticaria. Clin Exp Allergy 1991;21:695-704.
+PUBMED | CROSSREF
+4. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies against the highaffinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-604.
+PUBMED | CROSSREF
+5. Bar-Sela S, ReshefT, Mekori YA. IgE antithyroid microsomal antibodies in a patient with chronic
+urticaria. J Allergy Clin Immunol 1999;103:1216-7.
+PUBMED | CROSSREF
+6. Concha LB, Chang CC, Szema AM, Dattwyler RJ, Carlson HE. IgE antithyroid antibodies in patients with
+Hashimoto's disease and chronic urticaria. Allergy Asthma Proc 2004;25:293-6.
+PUBMED
+7. Kolkhir P, Metz M, Altrichter S, Maurer M. Comorbidity of chronic spontaneous urticaria and
+autoimmune thyroid diseases: a systematic review. Allergy 2017;72:1440-60.
+PUBMED | CROSSREF
+8. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy against
+thyroid peroxidase--a novel pathomechanism of chronic spontaneous urticaria? PLoS One 2011;6:e14794.
+PUBMED | CROSSREF
+9. Shin YS, Suh DH, Yang EM, Ye YM, Park HS. Serum specific IgE to thyroid peroxidase activates basophils
+in aspirin intolerant urticaria. J Korean Med Sci 2015;30:705-9.
+PUBMED | CROSSREF
+10. Sanchez J, Amaya E, Acevedo A, Celis A, Caraballo D, Cardona R. Prevalence of inducible urticaria in patients
+with chronic spontaneous urticaria: associated risk factors. J Allergy Clin Immunol Pract 2017;5:464-70.
+PUBMED
+11. Sanchez J, Zakzuk J, Cardona R. Prediction of the efficacy of antihistamines in chronic spontaneous
+urticaria based on initial suppression of the histamine- induced wheal. J Investig Allergol Clin Immunol
+2016;26:177-84.
+PUBMED | CROSSREF
+12. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, et al. The EAACI/GA(2) LEN/
+EDE/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the 2013
+revision and update. Allergy 2014;69:868-87.
+PUBMED | CROSSREF
+13. Ross DS, Burch HB, Cooper DS, Greenlee MC, Laurberg P, Maia AL, et al. 2016 American Thyroid
+Association guidelines for diagnosis and management of hyperthyroidism and other causes of
+thyrotoxicosis. Thyroid 2016;26:1343-421.
+PUBMED | CROSSREF
+14. Ye YM, Yang EM, Yoo HS, Shin YS, Kim SH, Park HS. Increased level of basophil CD203c expression
+predicts severe chronic urticaria. J Korean Med Sci 2014;29:43-7.
+PUBMED | CROSSREF
+15. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan CE. EAACI/GA(2)
+LEN task force consensus report: the autologous serum skin test in urticaria. Allergy 2009;64:1256-68.
+PUBMED | CROSSREF
+16. Bousquet J, Heinzerling L, Bachert C, Papadopoulos NG, Bousquet PJ, Burney PG, et al. Practical guide to
+skin prick tests in allergy to aeroallergens. Allergy 2012;67:18-24.
+PUBMED | CROSSREF
+17. Heinzerling LM, Burbach GJ, Edenharter G, Bachert C, Bindslev-Jensen C, Bonini S, et al. GA(2)LEN
+skin test study I: GA(2)LEN harmonization of skin prick testing: novel sensitization patterns for inhalant
+allergens in Europe. Allergy 2009;64:1498-506.
+PUBMED | CROSSREF
+18. Meulenbroek LA, de Jong RJ, den Hartog Jager CF, Monsuur HN, Wouters D, Nauta AJ, et al. IgG
+antibodies in food allergy influence allergen-antibody complex formation and binding to B cells: a role for
+complement receptors. J Immunol 2013;191:3526-33.
+PUBMED | CROSSREF
+19. Fagiolo U, Kricek F, Ruf C, Peserico A, Amadori A, Cancian M. Effects of complement inactivation
+and IgG depletion on skin reactivity to autologous serum in chronic idiopathic urticaria. J Allergy Clin
+Immunol 2000;106:56772.
+PUBMED | CROSSREF
+
+ 
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 40
+Allergy, Asthma & AAI R
+Causal Association Between IgE Anti-TPO and Urticaria Immunology Research
+
+20. Sanchez-Caraballo J, Diez-Zuluaga S, Cardona-Villa R. Sensibilizacion a aeroalergenos en pacientes
+alérgicos de Medellin, Colombia. Rev Alerg Mex 2012;59:139-47.
+
+ 
+
+21. Leznoff A, Sussman GL. Syndrome of idiopathic chronic urticaria and angioedema with thyroid
+autoimmunity: a study of 90 patients. J Allergy Clin Immunol 1989;84:66-71.
+PUBMED | CROSSREF
+
+22. Turktas I, Gokcora N, Demirsoy S, Cakir N, Onal E. The association of chronic urticaria and angioedema
+with autoimmune thyroiditis. Int) Dermatol 1997;36:187-90.
+PUBMED | CROSSREF
+
+23. Verneuil L, Leconte C, Ballet JJ, Coffin C, Laroche D, Izard JP, et al. Association between chronic urticaria
+and thyroid autoimmunity: a prospective study involving 99 patients. Dermatology 2004;208:98-103.
+PUBMED | CROSSREF
+
+24. Palma-Carlos AG, Palma-Carlos ML. Chronic urticaria and thyroid auto-immunity. Eur Ann Allergy Clin
+Immunol 2005;37:143-6.
+PUBMED
+
+25. Cebeci F, Tanrikut A, Topcu E, Onsun N, Kurtulmus N, Uras AR. Association between chronic urticaria
+and thyroid autoimmunity. Eur J Dermatol 2006;16:402-5.
+PUBMED
+
+26. Rottem M. Chronic urticaria and autoimmune thyroid disease: is there a link? Autoimmun Rev 2003;2:69-72.
+PUBMED | CROSSREF
+
+27. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O, Goldberg A. Chronic urticaria and
+autoimmunity: associations found in a large population study. J Allergy Clin Immunol 2012;129:13073.
+PUBMED | CROSSREF
+
+28. Magen E, Mishal J. The effect of L-thyroxine treatment on chronic idiopathic urticaria and autoimmune
+thyroiditis. Int J Dermatol 2012;51:947.
+PUBMED | CROSSREF
+
+29. Najib U, Bajwa ZH, Ostro MG, Sheikh J. A retrospective review of clinical presentation, thyroid
+autoimmunity, laboratory characteristics, and therapies used in patients with chronic idiopathic urticaria.
+Ann Allergy Asthma Immunol 2009;103:496-501.
+PUBMED | CROSSREF
+
+30. Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a common and specific
+autoantigen of IgE in patients with chronic spontaneous urticaria. J Allergy Clin Immunol 2017:S00916749(17)31875-4.
+PUBMED
+
+ 
+
+31. Altman K, Chang C. Pathogenic intracellular and autoimmune mechanisms in urticaria and angioedema.
+Clin Rev Allergy Immunol 2013;45:47-62.
+PUBMED | CROSSREF
+
+32. Mozena JD, Tifiana A, Negri J, Steinke JW, Borish L. Lack ofa role for cross-reacting anti-thyroid
+antibodies in chronic idiopathic urticaria. J Invest Dermatol 2010;130:1860-5.
+PUBMED | CROSSREF
+
+33. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfiitzner W. Functional and phenotypic analysis of basophils
+allows determining distinct subtypes in patients with chronic urticaria. Allergy 2017;72:1904-11.
+PUBMED | CROSSREF
+
+34. Eberlein-Kénig B, Varga R, Mempel M, Darsow U, Behrendt H, Ring J. Comparison of basophil activation
+tests using CD63 or CD203c expression in patients with insect venom allergy. Allergy 2006;61:1084-5.
+PUBMED | CROSSREF
+
+35. MacGlashan D Jr. Expression of CD203c and CD63 in human basophils: relationship to differential
+regulation of piecemeal and anaphylactic degranulation processes. Clin Exp Allergy 2010;40:1365-77.
+PUBMED | CROSSREF
+
+36. AbuafN, Rostane H, Rajoely B, Gaouar H, Autegarden JE, Leynadier F, et al. Comparison of two basophil
+activation markers CD63 and CD203c in the diagnosis of amoxicillin allergy. Clin Exp Allergy 2008;38:921-8.
+PUBMED | CROSSREF
+
+37. Nguyen KL, Gillis S, MacGlashan DW Jr. A comparative study of releasing and nonreleasing human
+basophils: nonreleasing basophils lack an early component of the signal transduction pathway that
+follows IgE cross-linking. J Allergy Clin Immunol 1990;85:1020-9.
+PUBMED | CROSSREF
+
+38. Saini S, Rosen KE, Hsieh HJ, Wong DA, Conner E, Kaplan A, et al. A randomized, placebo-controlled,
+dose-ranging study of single-dose omalizumab in patients with H1-antihistamine-refractory chronic
+idiopathic urticaria. J Allergy Clin Immunol 2011;128:567-573.e1.
+PUBMED | CROSSREF
+
+ 
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 41
+ 
+
+Allergy, Asthma & AAI R
+‘ion Between IgE Anti-TPO and Urticaria Immunology Research
+
+39. Kim YS, Han K, Lee JH, Kim NI, Roh JY, Seo SJ, et al. Increased risk of chronic spontaneous urticaria
+
+in patients with autoimmune thyroid diseases: a nationwide, population-based study. Allergy Asthma
+Immunol Res 2017;9:373-7.
+
+PUBMED | CROSSREF
+
+ 
+
+40. Haahtela T, Burbach GJ, Bachert C, Bindslev-Jensen C, Bonini S, Bousquet J, et al. Clinical relevance is
+associated with allergen-specific wheal size in skin prick testing. Clin Exp Allergy 2014;44:40716.
+PUBMED | CROSSREF
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.1.29 42
+

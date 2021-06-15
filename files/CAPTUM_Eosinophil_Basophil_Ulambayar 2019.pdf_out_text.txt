@@ -1,0 +1,947 @@
+Immune Netw. 2019 Jun;19(3):e20
+https://doi.org/10.4110/in.2019.19.e20
+pISSN 1598-2629-elSSN 2092-6685
+
+IMMUNE
+NETWORK
+
+ 
+
+Original Article
+|® Check for updates
+
+& OPEN ACCESS
+
+ 
+
+Received: Feb 15, 2019
+Revised: Mar 31, 2019
+Accepted: Apr 5, 2019
+
+*Correspondence to
+
+Young-Min Ye
+
+Department of Allergy and Clinical
+Immunology, Ajou University School of
+Medicine, 164 World cup-ro, Yeongtong-gu,
+Suwonl6499, Korea.
+
+E-mail: yeQ9007@ajou.ac.kr
+
+Kyunglim Lee
+
+Graduate School of Pharmaceutical Sciences,
+College of Pharmacy, Ewha Womans
+University, Seoul 03760, Korea.
+
+E-mail: klyoon@ewha.ac.kr
+
+Copyright © 2019. The Korean Association of
+Immunologists
+
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+
+ORCID iDs
+
+Bastsetseg Ulambayar @®
+https://orcid.org/O000-0003-0434-4620
+Eun-Mi Yang @
+https://orcid.org/0000-0001-8371-3513
+Hae-Sim Park @
+https://orcid.org/0000-0003-2614-0303
+Kyunglim Lee ®
+https://orcid.org/0000-0001-6524-0185
+Young-Min Ye ®
+https://orcid.org/0000-0002-7517-1715
+
+https://immunenetwork.org
+
+Dimerized, Not Monomeric,
+Translationally Controlled Tumor
+Protein Induces Basophil Activation
+and Mast Cell Degranulation in
+Chronic Urticaria
+
+Bastsetseg Ulambayar (®', Heewon Lee’, Eun-Mi Yang ®', Hae-Sim Park @',
+Kyunglim Lee © ®”, and Young-Min Ye ®""
+
+‘Department of Allergy and Clinical Immunology, Ajou University School of Medicine, Suwon 16499, Korea
+*Graduate School of Pharmaceutical Sciences, College of Pharmacy, Ewha Womans University, Seoul
+03760, Korea
+
+ 
+
+ABSTRACT
+
+Translationally controlled tumor protein (TCTP) is also known as histamine releasing factor
+as it has the ability to activate mast cells. To investigate the role of [CTP in the pathogenesis
+of chronic spontaneous urticaria (CSU), we evaluated serum level of TCTP and effect
+
+of TCTP on basophil and mast cell degranulation. TCTP levels in the sera from 116 CSU
+patients and 70 normal healthy controls (NCs) were measured by ELISA. CD203c expression
+on basophils from CSU patients and B-hexosaminidase release from Laboratory of Allergic
+Disease 2 mast cells were measured upon stimulation monomeric and dimeric TCTP. Nonreducing Western blot analysis was used for detecting dimeric TCTP. No difference was
+observed in serum TCTP levels between CSU patients and NCs (p=0.676). However, dimeric
+TCTP intensity on Western blot was stronger in CSU patients than in NCs. TCTP levels were
+higher in patients with severe CSU (p=0.049) and with IgG positivity to FceRIa (p=0.038).
+
+A significant positive correlation was observed between TCTP and eosinophil cationic
+protein levels (Spearman's rho=0.341; p=0.001). Both basophil and mast cell degranulation
+were significantly increased after stimulation with dimeric TCTP, but not with monomic
+TCTP. The ability of TCTP to activate basophil and mast cells is dependent on dimerization,
+suggesting that the inhibition of [CTP dimerization can be a therapeutic option for CSU.
+Association between TCTP levels and the presence of IgG to high affinity Fc epsilon receptor
+Ialpha subunit in CSU patients indicates that autoimmune mechanisms may be involved in
+the dimerization of TCTP.
+
+Keywords: Chronic urticaria; Translationally-controlled tumor protein; Basophils; Mast cells
+
+INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is characterized by wheals and/or angioedema lasting
+for more than 6 wk, with no definite extrinsic cause (1). The prevalence of chronic urticaria
+(CU) has been found to range between 0.3%-11.3%, and the rate of hospitalization due to
+
+yu
+
+ssoudyutjux {5} hq poresouen
+Histamine Releasing Factor in Chronic Urticaria
+
+IMMUNE
+NETWORK
+
+ 
+
+Conflicts of Interest
+The authors declare no potential conflicts of
+interest.
+
+Abbreviations
+
+ASST, autologous serum skin test; ATA,
+anti-thyroid autoantibody; CSU, chronic
+spontaneous urticaria; CU, chronic urticaria;
+ECP, eosinophil cationic protein; FceRla, high
+affinity Fc epsilon receptor | alpha subunit;
+HLA, human leukocyte antigen; LAD-2,
+Laboratory of Allergic Disease 2; LAT, linker
+of activation of T cell; log, logarithm; NC,
+normal healthy control; TCTP, translationally
+controlled tumor protein; UAS, urticaria
+activity score
+
+Author Contributions
+
+Conceptualization: Yang EM. Data curation:
+Park HS, Ye YM. Formal analysis: Ye YM.
+Investigation: Lee H. Methodology: Lee H,
+Yang EM. Supervision: Lee K, Ye YM. Writing original draft: Ulambayar B. Writing - review &
+editing: Lee K, Ye YM.
+
+https://immunenetwork.org
+
+urticaria appears to be increasing (2). Accord:
+
+ing to a 5-year nationwide epidemiological study
+
+in Korea, the overall ratio of CU among all urticaria patients was, on average, 23.5% (3).
+
+Translationally controlled tumor protein (TCTP), also known as p23, fortilin, and histamine
+
+releasing factor, is a multifunctional protein widely expressed in almost all eukaryotic
+
+organisms (4). Previous reports have shown that intracellular TCTP expression is dependent
+
+on calcium concentrations and microtubule binding protein (5,6). In allergic disease,
+
+extracellular TCTP, which is observed in nasal
+
+and bronchoalveolar lavage and skin blister
+
+fluids, exhibits the capacity to induce histamine release from basophils (7). Indeed,
+recombinant TCTP has been found to enhance IL-4, IL-13, and histamine release from IgE
+sensitized human basophils (8,9). Also, other immune cells involved in allergic disease,
+
+such as eosinophils, B cells, bronchial epithe
+
+ial cells, and T cells, appear to be at least
+
+partly regulated by TCTP (10-13). While some studies have suggested that the role of TCTP
+in basophil activation is dependent on IgE (14), Wantke et al. (15) demonstrated that TCTP
+
+exerts a stimulating effect via its specific rece
+it does not bind with IgE (9,14). Notwithstan
+
+ptor on the surface of human basophils and that
+
+ 
+
+ing, a recent study reported that both serum
+
+TCTP levels and specific IgE Ab against TCTP were increased in CSU patients (16).
+
+The activating mechanism of TCTP has not been fully elucidated in CSU. Kim et al. (13),
+however, demonstrated that dimerization of TCTP is essential for its cytokine-like activity
+
+in OVA-induced airway inflammed mice and atopic dermatitis-like NC/Nga mice in vivo (17).
+
+In the present study, we sought to compare TCTP levels in CSU patients and normal healthy
+
+controls (NCs) and to investigate whether monomeric and dimeric TCTP have different
+
+effects on basophil and mast cell activation.
+
+MATERIALS AND METHODS
+
+Clinical characteristics of the study subjects
+We enrolled 70 NCs and 116 CSU patients who had urticaria symptoms for at least 6 wk
+(Table 1). Disease activity of CSU was assessed using urticaria activity score (UAS), which
+
+evaluates wheal characteristics, pruritus status, and symptom duration. Total scores ranged
+
+from 0-15, with higher scores indicating higher disease activity (18). The patients with UAS
+
+213 has been classified into severe CSU (19). For assessing basophil activation, peripheral
+
+blood was collected from 24 CSU patients for whom antihistamine medication was
+
+Table 1. Clinical characteristics of the study subjects
+
+ 
+
+ 
+
+Characteristics CSU (n=116) NC (n=70)
+Age 39.8+10.5 39.9+13.4
+Female 86 (74.1) 52 (74.2)
+Urticaria duration (month) 4.0 (2.0-12.0) =
+
+Total IgE (kU/L)
+
+117 (55-234) 
+Atopy rate 59 (50.9) =
+ASST positivity 62 (53.4) ATA positivity 27 (23.3) =
+IgG to FceRla. positivity 29 (25.0) #
+UAS (0-15) 10 (7-13) Severe CSU 39 (33.6) z
+HIRA refractoriness 43 (37.1) =
+ECP (g/L) 17.4 (10.0-31.1) 
+ 
+
+Values are presented as mean+standard deviation, number (%), or number (range).
+
+HIRA, histamine receptor 1 antagonist.
+
+https://doi.org/10.4110/in.2019.19.e20
+
+a
+IMMUNE
+
+=
+=
+Histamine Releasing Factor in Chronic Urticaria Nn = j 4 4 oO R K
+
+ 
+
+https://immunenetwork.org
+
+withdrawn for at least 5 days before collecting their blood samples. The study was approved
+by the Institutional Review Board at the Ajou University Medical Center (AJIRB-BMRMDB-17-221, AJIRB-GEN-SMP-13-108). Each patient provided written informed consent.
+
+Autologous serum skin test (ASST), atopy, total IgE, and other
+autoantibodies measurements
+
+ASST was performed and interpreted according to appropriate guidelines (20). Atopy was
+defined as a positive result to at least one allergen on skin prick tests with common inhalant
+allergens (tree mixture, grass mixture, mugwort, ragweed, cat fur, dog fur, Dermatophagoides
+pteronyssinus, Dermatophagoides farinae, and Alternaria spp.) (Bencard, Bretford, UK). Total IgE
+and eosinophil cationic protein (ECP) levels were measured by the ImmunoCAP system
+(Thermo Fisher Scientific, Waltham, MA, USA) according to the manufacturer's instructions.
+Anti-thyroid autoantibodies (ATAs), including anti-thyroglobulin and thyroid microsomal
+antibodies, were detected by radioimmunoassay (BRAHMS Aktiengesellschaft, Hennigsdorf,
+Germany). To measure IgG to high affinity Fc epsilon receptor I alpha subunit (FceRIq) in
+sera from CSU patients and NCs, we performed rapid dot-blot immunoassay as described
+previously (21).
+
+Measurement of TCTP in serum
+
+Serum TCTP concentrations were determined by ELISA (MyBioSource Ltd, San Diego,
+CA, USA) according to the manufacturer's instructions. Both intra-assay and inter-assay
+coefficients of variation (%) were less than 15%, and the sensitivity of the kit was 1 ng/ml.
+
+Purification of recombinant TCTP protein
+
+Recombinant monomeric and dimeric TCTP used for stimulation was purified in an
+Escherichia coli system, as described previously (13). Briefly, pRSET A/TCTP or Del-N11 TCTP
+was transformed to E. coli strain BL21(DE3) pLysS, and the cells were grown in Luria-Bertani
+medium containing 100 g/ml of ampicillin and 34 pg/ml of chloramphenicol. The preculture medium was diluted and cultured until reaching an ODgo0 of 0.6-0.8. IPTG was
+added to induce recombinant protein, and then, the cell pellets were stored at -70°C or used
+directly. Cell pellets were disrupted by sonication, and supernatants containing soluble
+proteins were purified with HisPur™ Cobalt Resin (Thermo Fisher Scientific) according to
+the manufacturer's instructions. Subsequently, eluted proteins were loaded onto a HiTrap
+QHP column (GE Healthcare, Princeton, NJ, USA), which was equilibrated with buffer A
+(20 mM Tris, 1 mM EDTA, 50 mM NaCl; pH 7.4). Proteins were separated by AKTA FPLC
+systems (GE Healthcare) and eluted with buffer B (20 mM Tris, 1 mM EDTA, 1 M NaCl; pH
+7.4) at a constant flow rate of 1 ml/min. The eluted fractions were screened by SDS-PAGE
+and Coomassie blue staining. The purity of the proteins was 85%-98% and no other bands
+were observed visually except target protein (Supplementary Fig. 1). Samples containing
+monomeric or dimeric TCTP were collected, desalted with PBS, concentrated using Vivaspin
+500 (Sartorius, Goettingen, Germany), and stored at ~70°C until ready for use. To reduce
+lipopolysaccharide contamination, final proteins were additionally purified with EndoTrap
+(Cambrex, Walkersvile, MD, USA).
+
+Western blotting for detecting dimerized TCTP in sera from CSU patients and
+NCs
+
+Serum was diluted 2X Laemmli sample buffer and boiled for 5 min. After centrifugation,
+
+the supernatants were separated by 10% SDS-PAGE in non-reducing condition and
+
+https://doi.org/10.4110/in.2019.19.e20 3/1
+IMMUNE
+
+=
+=
+Histamine Releasing Factor in Chronic Urticaria Nn = j 4 4 oO R K
+
+ 
+
+https://immunenetwork.org
+
+electrophoretically transferred to nitrocellulose membranes (GE Healthcare). Membranes
+were blocked for 1 h at room temperature in 5% BSA/TBS-T. The primary Ab against TCTP
+(Santa Cruz Biotechnology, Dallas, TX, USA) was diluted 1:1,000 with blocking buffer and
+incubated overnight at 4°C with the membrane. After washing three times with TBS-T, the
+membranes were incubated with a goat anti-rabbit IgG-HRP conjugated secondary Ab (BioRad Laboratories Inc., Hercules, CA, USA) for 1 h at room temperature. The membranes were
+washed again, visualized with ECL plus reagent (SurModics Inc., Eden Prairie, MN, USA), and
+detected by a LAS-3000 CCD camera (Fuji Film, Tokyo, Japan).
+
+Basophil activation test
+CD203c expression on the surface of basophils was measured by flow cytometry (22). Whole
+
+ 
+
+blood was collected in acid citrate dextrose tubes, and red blood cells were lysed with red
+blood cell lysis buffer (0.154 M NH,Cl, 10 mM KHCO,, 0.1 mM EDTA, pH 7.2~7.4). After
+washing with PBS, resuspended cells were stimulated by recombinant TCTP protein at
+different concentrations (4 to 32.5 ug/ml) for 2 h at 37°C. After incubation, the cells were
+washed with PBS and stained by phycoerythrin-conjugated anti-human CD203c (Beckman
+Coulter, Marseille, France), FITC-conjugated anti-human CD123 (BD PharMingen, San
+Jose, CA, USA), and allophycocyanin-conjugated anti-human human leukocyte antigen
+(HLA)-DR (BD PharMingen) or isotype-matched controls on ice in the dark for 30 min. After
+washing once with PBS, the cells were analyzed on a FACS Canto II flow cytometer (Becton
+Dickinson, San Jose, CA, USA). Basophils were identified as CD123* HLA-DR populations.
+The percentage of cells expressing CD203c was evaluated by comparing TCTP stimulated
+basophils with non-stimulated (resting) basophils.
+
+Measurement of B-hexosaminidase release from Laboratory of Allergic
+Disease 2 (LAD-2) cells
+
+LAD-2 mast cells were kindly provided by Dr. Arnold Kirshenbaum (National Institute of
+Allergy and Infectious Diseases, Bethesda, MD, USA). The release of B-hexosaminidase from
+LAD-2 cells was measured as previously described (23). Cells were treated by monomeric and
+dimeric TCTP (50 to 200 ug/ml) with or without simultaneous biotinylated-IgE (100 ng/ml;
+BioPorto Diagnostics, Hellerup, Denmark) overnight sensitization, followed by 30 min of
+stimulation with streptavidin peroxidase (100 ng/ml) or calcium ionophore A23187 (1 1M) in
+HEPES buffer containing 0.4% BSA at 37°C. Total B-hexosaminidase was obtained by lysing
+LAD-2 cells in 0.1% Triton X-100 in PBS. The supernatants were collected and incubated
+with an equal volume of p-nitrophenyl N-acetyl-B-D-glucosamide in citrate buffer (pH 4.5,
+40 mM citric acid/20 mM Na,HPO,'7H,0) for 30 min. The reactions were stopped by adding
+0.4 M glycine buffer, and signals were read at 405 nM. The percentage of degranulation was
+calculated as 100*(OD stimutatea~ OD non-stimulated) (OD total sates
+
+ 
+
+Statistical analysis
+Statistical analyses were performed using IBM SPSS version 20 for Windows (SPSS Inc.,
+
+ 
+
+Chicago, IL, USA). Data are presented as a meantstandard deviation or as a median
+(interquartile range) value when variables were not normally distributed. A multiple
+regression model was applied to determine the variables most predictive of circulating TCTP
+concentrations as logarithm (log)-transformed values among those known to be associated
+with TCTP, including age, gender, atopy status, IgG to FceRIa positivity, disease severity, and
+serum ECP level. Pearson correlation analysis identified associations among the continuous
+parameters. The p-values <0.05 were considered indicative of statistical significance.
+
+https://doi.org/10.4110/in.2019.19.e20 4/u
+IMMUNE
+
+=
+=
+Histamine Releasing Factor in Chronic Urticaria Nn = j 4 4 oO R K
+
+ 
+
+https://immunenetwork.org
+
+RESULTS
+
+Serum TCTP levels in CSU patients and NCs
+
+Median levels of serum TCTP in CSU patients (34.4 [2.93-242.9] ng/ml) were not different
+from those in NCs (37.5 [1.19-195.7] ng/ml, Fig. 1A). We attempted to differentiate dimeric
+from monomeric TCTP in the sera from CSU patients and NCs using non-reducing Western
+blot analysis. In doings so, we identified separate bands of higher and lower molecular
+weights. The bands located in a position of higher molecular weight were regarded as
+dimerized or oligomerized TCTP (Supplementary Fig. 2), which are conformationally
+modified. Relatively higher signal intensity for dimeric bands was noted for the sera from 4
+patients with CSU, while the sera from NCs showed higher signal intensity for monomeric
+TCTP bands (Fig. 1B). However, we could not quantitatively analyze dimeric and monomeric
+TCTP amounts (Supplementary Fig. 3).
+
+Correlation of serum TCTP levels with clinical characteristics of CSU
+
+The median level of serum TCTP was higher in atopic CSU patients than in non-atopic patients
+(40.5 [25.5-65.0] ng/ml vs. 29.0 [12.0-61.0] ng/ml, respectively, p=0.019, Fig. 2A). However,
+no difference in TCTP levels was observed regarding to ASST positivity (38.8 [22.1-65.0] ng/ml
+vs. 30.4 [19.1-56.3] ng/ml, respectively, p=0.429). Patients with positive IgG to FceRIa
+autoantibody had significantly higher serum TCTP levels than patients with negative IgG to
+FceRIo autoantibody (50.1 [25.4-73.7] ng/ml vs. 31.4 [19.5-64.1] ng/ml, respectively, p=0.03,
+Fig. 2B). Serum TCTP levels did not differ according to the presence ofATA, anti-nuclear Ab,
+or angioedema among CSU patients. Regarding therapeutic responses to antihistamine,
+serum TCTP levels tended to be higher in refractory CSU patients than in patients responsive
+to antihistamines, although statistical significance was lacking (40.5 [22.2-77.1] ng/ml vs.
+31.0 [19.4-56.0] ng/ml, p=0.141). However, a significant difference in serum TCTP levels
+
+was noted between severe and non-severe CSU patients (41.1 [28.0-70.4] ng/ml vs. 30.2
+[19.4-54.3] ng/ml, p=0.049, Fig. 2c). Log-transformed serum TCTP levels were negatively
+correlated with age (r=-0.244; p=0.008), whereas they had a positive correlation with logtransformed ECP in CSU patients (r=0.346; p=0.002). No significant correlation was found
+between TCTP and total IgE levels in CSU patients (data not shown).
+
+With the results of univariate analyses, we performed multiple regression analysis to identify
+predictors of serum TCTP levels in patients with CSU. Significant positive correlations
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+
+34 p=0.676
+
+Dimer
+
+>
+E
+—
+0
+&
+a
+8 Monomer
+
+0 r +
+
+csu NC
+(n=116) (n=70) NC csu
+
+Figure 1. (A) Serum levels of TCTP in CSU patients and NCs. (B) Detection of TCTP in serum. The sera from four
+CSU patients and one NC were analyzed by non-reducing SDS-PAGE and Western blotting.
+
+https://doi.org/10.4110/in.2019.19.e20 5/11
+Histamine Releasing Factor in Chronic Urticaria
+
+IMMUNE
+NETWORK
+
+ 
+
+Table 2. Predictors of log-transformed serum TCTP levels in patients with CSU
+
+ 
+
+Multivariate analysis
+
+ 
+
+ 
+
+Predictors Univariate analysis
+
+OR (95% Cl) p-value OR (95% Cl) p-value
+Age 0.009 (-0.016, -0.003) 0.007 -0.004 (--0.011, 0.003) 0.241
+Male -0.001 (-0.165, 0.162) 0.987 -0.046 (-0.229, 0.136) 0.619
+Atopy 0.192 (0.053, 0.331) 0.007 0.138 (-0.014, 0.291) 0.075
+Positivity of IgG to FceRla 0.167 (0.005, 0.330) 0.044 0.143 (-0.027, 0.313) 0.098
+Severe CSU 0.183 (0.036, 0.330) 0.015 0.175 (0.019, 0.332) 0.028
+Log [ECP (ug/L)] 0.373 (0.183, 0.563) <0.001 0.302 (0.117, 0.488) 0.001
+
+ 
+
+OR, odds ratio; Cl, confidence interval.
+
+were noted between log-transformed TCTP in sera from CSU patients and both severe
+
+CSU (defined as a UAS 213; B=0.150, p=0.043) and log-trans
+p=0.002) after adjustment for confounders, including age, g
+to FceRIa (Table 2).
+
+Basophil activation upon stimulation of monomeri
+
+formed ECP levels (B=0.265,
+ender, atopy, and IgG positivity
+
+ic and dimeric TCTPs
+
+To investigate whether monomeric and dimeric TCTPs have the capability to activate
+
+basophils, we performed basophil activation tests in a total o
+measuring CD203c expression on the surface of basophils, si
+
+f 24 patients with CSU,
+nce it had higher sensitivity than
+
+CD63 and was a predictor of severe CU in our previous report (22). The expression of CD203c
+
+on the surface of basophils was significantly increased upon
+
+stimulation with dimeric TCTP
+
+in a dose-dependent manner (p=0.01, Fig. 3A), while monomeric TCTP had no effect on
+
+CD203c expression.
+
+B-hexosaminidase release from LAD2 cells upon stimulation with TCTP
+To confirm the effect of TCTP on human LAD? cell degranulation, cells were treated with
+
+monomeric and dimeric TCTP with or without IgE sensitizat
+
+ion. Dimeric TCTP induced a
+
+significantly higher level of B-hexosaminidase release in dose depedently when compared
+with untreated cells and cells treated with an equal concentration of monomeric TCTP
+(p<0.001, Fig. 3B). With or without IgE sensitization, there was no significant difference
+in beta-hexosaminidase release from LAD? cells upon either monomeric or dimeric TCTP
+
+stimulation.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+A B c
+300 p=0.019 300 - p=0.031 300 5 p=0.049
+e a e o ay
+2 200 4 = 200 4 = 200 4
+= —_ —
+2 2 2 = 2 .
+a a a
+b bE bE
+R 1005 2 1004 Q 1004
+0 0 0
+Atopy Non-atopy Positive Negative Severe CSU Non-severe CSU
+(n=59) (n=57) (n=29) (n=87) (n=39) (n=77)
+Figure 2. Association of serum TCTP levels according to atopy rate (A), IgG to FceRla positivity (B) and CSU severity (C).
+6/11
+
+https://immunenetwork.org https://doi.org/10.4110/in.2019.19.e20
+IMMUNE
+=
+Histamine Releasing Factor in Chronic Urticaria Nn =TWO R K
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A . B
+805 30 ns
+= Monomer @ Dimer = »
+& oo
+2 om)
+2 60 2s 201
+2 9a *
+% 404 ]§ 104 % *
+g a
+a
+b 3%
+2
+3 204 ae o4
+&
+8 2
+(0) -10.0 50 100 200 50 100 200 50 100 200 50 100 200 TCTP (ug/ml)
+0 4.0 812 16.25 32.5 TCTP (ug/ml) - - ig
+
+sensitization
+
+Figure 3. Effects of TCTP on basophil activation. (A) Basophils from 24 CSU subjects were treated simultaneously with monomeric and dimeric TCTP and
+with anti-IgE stimulation. Basophil activation was measured by surface CD203c expression using flow cytometry. (B) Degranulation of LAD-2 cells. Mast cell
+degranulation was investigated using the B-hexosaminidase release test. The positive control comprised LAD-2 cells sensitized with IgE and stimulated with
+streptavidin peroxidase or only stimulated with calcium ionophore. A statistically significant difference was defined as that with a two-tailed.
+
+ns, no significant.
+
+*p-value<0.05; “*p-value<0.01.
+
+DISCUSSION
+
+The present study demonstrated that dimeric TCTP can induce basophil activation and
+mast cell degranulation, while monomeric TCTP has no influence on basophils/mast cells.
+Even though the median levels of TCTP were not different between CSU patients and NCs,
+more intense bands of higher molecular weight reflective of the dimerized form of TCTP on
+Western blotting were noted in CSU patients than in NCs.
+
+TCTP is ubiquitously expressed in all eukaryotic organisms and tissues; however, expression
+levels thereof vary among cell or tissue types. TCTP has been reported to be involved in
+
+the pathogenic mechanisms of asthma, immune responses to parasitic infections, atopic
+dermatitis, and CU (14,16,17,24). Kim et al. (13) revealed that TCTP conformationally changes
+via intermolecular disulphide bonding into its dimerized form in order to confer its cytokineike activity. Thus, while TCTP might be present in normal conditions, sturctural modification
+may occur in an allergic enviroment rich in oxidants or endogenous and exogenous proteases
+that can induce dimerization of TCTP (13). Interestingly, mast cells release proteases, including
+
+ 
+
+tryptase and chymase, during degranulation, and studies have shown that serum tryptase
+
+levels are elevated in CU and associated with symptom occurrence and increased corticosteroid
+requirement (25,26). In addition, an imbalance in reactive oxygen species and antioxidants has
+been found to worsen allergic inflammation including CSU (27,28). We observed higher TCTP
+levels in CSU patients with IgG autoantibody against FceRIa in the present study. Accordingly,
+we presummed that the autoimmunity represented by the positivity of IgG to FceRIa could
+affect the dimerizing process of TCTP. Nevertheless, because the receptor for dimeric TCTP on
+basophils and mast cells has not been identified, the exact pathway of action for TCTP in the
+activation of basophils and mast cells remains to be elucidated. The crystal structure of human
+TCTP comprises a disulphide-linked dimer that confers an IgE binding site for degranulating
+mast cells (29). A recent study also detected higher levels of serum specific IgE Ab against TCTP
+in CSU patients (16), which supports our hypothesis that activation of TCTP may be associated
+with the autoimmune mechanism of CSU pathogenesis. TCTP has been found to play a role in
+immediate hypersensitivity by interacting with the Fab region of immunoglobulin and in mast
+
+ 
+
+cell activation in an Fe receptor-dependent manner (24). Moreover, prior studies demonstrated
+that different signal transduction events are initiated by TCTP on basophils in TCTP responders
+
+https://immunenetwork.org https://doi.org/10.4110/in.2019.19.e20 7/1
+IMMUNE
+
+=
+=
+Histamine Releasing Factor in Chronic Urticaria Nn = j 4 4 oO R K
+
+ 
+
+https://immunenetwork.org
+
+and non-responders (10). Therein, TCTP was found to prime basophils through FceRIa or
+another adapter molecule that is distinct from IL-3 in TCTP non-responders, whereas TCTP
+induced secretion directly in TCTP responders (10). Based on our findings that dimeric, but
+not monomeric, TCTP could induce degranulation of peripheral basophils from CSU patients,
+we suspect that the dimerizing process might occur less in TCTP non-responders than in TCTP
+responders inducing greater degranulation, despite similar total TCTP levels.
+
+Kashiwakura et al. (24) reported that active TCTP interacts with immunoglobilins by its NH2terminal 19-residue peptide and H3 region with Fab region and crosslinking IgE to induce
+degranulation of mast cell via FeeRIa receptor. However, we found no significant difference
+
+in mase cell degranulation upon dimeric TCTP stimulation with or without IgE sensitization
+
+in the present study. To eliminate the controversy regarding whether TCTP dependently
+
+or independently activates mast cells via IgE (15), the exact activating pathway needs to be
+elucidated. A recent study demonstrated that dimeric TCTP induces IL-8 production in bronchial
+epithelial cells via the activation of adaptor protein 1 by phosphorylating MAPKs and the NF-kB
+pathway, which are also involved in mast cell activation, in a linker of activation of T cell (LAT)dependent manner, thereby generating proinflammatory cytokines (30,31). Meanwhile, FceRIa.
+aggregation has been found to lead to LAT phosphorylation through the phosphorylation of Syk,
+Akt, MEK, and ERK upon exposure to TCTP in TCTP-responders (10,31). Consistent with these
+results, we speculate that dimeric TCTP may induce basophils/mast cells degranulation via the
+same signaling pathway. However, the lack of quantification of dimeric and monomeric TCTP
+levels in the present study is the major limitation to overcome. We just suggested the possible
+difference in the distribution of monomeric and dimeric TCTP from CSU patients to NCs visually
+and it is supported by results of ex vivo and in vitro experiments.
+
+The release of proteases, leukotrienes, lipid mediators, and histamine from mast cells
+contributes not only to tissue inflammation but also to recruitment of eosinophils (32). Mast
+cells are also sources of IL-5, TNFa, and eotaxin, all of which elicit eosinophil recruitment
+and stimulation in urticarial lesions (32,33). ECP, a typical marker of eosinophil activation,
+
+is known to be an indicator of disease severity in CU patients (34). Indeed, in the present
+study, we suggest that urticaria severity and serum ECP levels might be significant predictors
+of TCTP in patients with CSU. ECP has been shown to be concurrently expressed with VEGF
+in the lesional skin of CSU patients, and increases in VEGF have been observed in the plasma
+of CSU patients in association with urticaria severity (35). Accordingly, we presume that
+there may be a direct link between TCTP dimerization and ECP or basophil/mast cell-induced
+eosinophil activation that leads to more severe urticaria.
+
+In conclusion, the current study demonstrated that dimerization of TCTP is important for
+activation of basophils and mast cells in CSU. Atopic status and the presence of autoantibody
+against FceRIa were found to be associated with enhanced dimerization of TCTP. In light of these
+results, we deemed that dimeric TCTP induces basophil activation and mast cell degranulation
+leading to eosinophil activation and increased urticaria severity in CSU. Accordingly, inhibition of
+TCTP dimerization may be a potential therapeutic option for CSU patients.
+
+ACKNOWLEDGEMENTS
+
+This work was supported by a National Research Foundation of Korea (NRF) grant funded by
+the Korea government (MSIP) (NRF-2018R1A2B6006199) and a grant from the Korea Health
+
+https://doi.org/10.4110/in.2019.19.e20 38/1
+IMMUNE
+=
+Histamine Releasing Factor in Chronic Urticaria Nn =TWO R K
+
+ 
+
+Technology R&D Project through the Korea Health Industry Development Institute (KHIDI),
+funded by the Ministry of Health & Welfare, Republic of Korea (HI16C0992).
+
+SUPPLEMENTARY MATERIALS
+
+Supplementary Figure 1
+
+Coomassie blue staining of the final recombinant proteins. (A) dimerized TCTP and (B)
+mouse TCTP. The purity was confirmed by visual observation that no band other than the
+target protein which used actual experiment.
+
+Click here to view
+
+Supplementary Figure 2
+Western blot analysis showing dimeric TCTP in patients with CSU (#2116) and NCs (#119+163).
+
+Click here to view
+
+Supplementary Figure 3
+Full images of western blot analysis using sera from patients with CSU (A and B) and NCs (C).
+
+Click here to view
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, Bernstein JA, BindslevJensen C, Brzoza Z, Buense Bedrikow R, et al. The EAACI/GA?LEN/EDF/WAO guideline for the definition,
+classification, diagnosis and management of urticaria. Allergy 2018;73:1393-1414.
+
+PUBMED | CROSSREF
+
+2. Sanchez-Borges M, Asero R, Ansotegui IJ, Baiardini 1, Bernstein JA, Canonica GW, Gower R, Kahn
+DA, Kaplan AP, Katelaris C, et al. Diagnosis and treatment of urticaria and angioedema: a worldwide
+perspective. World Allergy Organ J 2012;5:125-147.
+
+PUBMED | CROSSREF
+
+3. LeeN, Lee JD, Lee HY, Kang DR, Ye YM. Epidemiology of chronic urticaria in Korea using the Korean
+health insurance database, 2010-2014. Allergy Asthma Immunol Res 2017;9:438-445.
+PUBMED | CROSSREF
+
+4. MacDonald SM. Potential role of histamine releasing factor (HRF) as a therapeutic target for treating
+asthma and allergy. J Asthma Allergy 2012;5:51-59.
+PUBMED | CROSSREF
+
+ 
+
+5. Xu A, Bellamy AR, Taylor JA. Expression of translationally controlled tumour protein is regulated by
+calcium at both the transcriptional and post-transcriptional level. Biochem J1999;342:683-689.
+PUBMED | CROSSREF
+
+6. Gachet Y, Tournier S, Lee M, Lazaris-Karatzas A, Poulton T, Bommer UA. The growth-related,
+translationally controlled protein P23 has properties of a tubulin binding protein and associates
+transiently with microtubules during the cell cycle. J Cell Sci 1999;112:12571271.
+PUBMED
+
+7. MacDonald SM, Lichtenstein LM, Proud D, Plaut M, Naclerio RM, MacGlashan DW, Kagey-Sobotka A.
+Studies of IgE-dependent histamine releasing factors: heterogeneity of IgE. J Immunol 1987;139:506-512.
+PUBMED
+
+8. Schroeder JT, Lichtenstein LM, MacDonald SM. An immunoglobulin E-dependent recombinant
+histamine-releasing factor induces interleukin-4 secretion from human basophils. J Exp Med
+1996;183:1265-1270.
+PUBMED | CROSSREF
+
+https://immunenetwork.org https://doi.org/10.4110/in.2019.19.e20 9/11
+IMMUNE
+
+=
+=
+Histamine Releasing Factor in Chronic Urticaria Nn = j 4 4 oO R K
+
+ 
+
+https://immunenetwork.org
+
+ 
+
+ 
+
+9. Schroeder JT, Lichtenstein LM, MacDonald SM. Recombinant histamine-releasing factor enhances IgE
+dependent IL-4 and IL-13 secretion by human basophils. J Immunol 1997;159:447-452.
+PUBMED
+
+10. Vonakis BM, Macglashan DW Jr, Vilarifio N, Langdon JM, Scott RS, MacDonald SM. Distinct characteristics
+of signal transduction events by histamine-releasing factor/translationally controlled tumor protein (HRE/
+TCTP)-induced priming and activation of human basophils. Blood 2008;111:1789-1796.
+PUBMED | CROSSREF
+
+11. Kang HS, Lee MJ, Song H, Han SH, Kim YM, ImJY, Choi I. Molecular identification of IgE-dependent
+histamine-releasing factor as a B cell growth factor. J Immunol 2001;166:6545-6554.
+PUBMED | CROSSREF
+
+12. Vonakis BM, Sora R, Langdon JM, Casolaro V, MacDonald SM. Inhibition of cytokine gene transcription by
+the human recombinant histamine-releasing factor in human T lymphocytes. J Immunol 2003;171:3742-3750.
+PUBMED | CROSSREF
+
+13. Kim M, Min HJ, Won HY, Park H, Lee JC, Park HW, Chung J, Hwang ES, Lee K. Dimerization of
+translationally controlled tumor protein is essential for its cytokine-like activity. PLoS One 2009;4:e6464.
+PUBMED | CROSSREF
+
+14. Kawakami T, Kashiwakura J, Kawakami Y. Histamine-releasing factor and immunoglobulins in asthma
+and allergy. Allergy Asthma Immunol Res 2014;6:6-12.
+PUBMED | CROSSREF
+
+15. Wantke F, MacGlashan DW, Langdon JM, MacDonald SM. The human recombinant histamine releasing
+factor: functional evidence that it does not bind to the IgE molecule. J Allergy Clin Immunol 1999;103:642-648.
+PUBMED | CROSSREF
+
+16. Huang X, LiZ, Sun R. Synergistic actions of histamine-releasing factor and histamine releasing factorreactive IgE in chronic urticaria. Int Arch Allergy Immunol 2017;172:27-32.
+PUBMED | CROSSREF
+
+17. Jin XH, Lim J, Shin DH, Maeng]J, Lee K. Dimerized translationally controlled tumor protein-binding
+peptide ameliorates atopic dermatitis in NC/Nga mice. Int J Mol Sci 2017;18:256.
+PUBMED | CROSSREF
+
+18. Ye YM, Park JW, Kim SH, Choi JH, Hur GY, Lee HY, Lee EH, Park HS. Clinical evaluation of the
+computerized chronic urticaria-specific quality of life questionnaire in Korean patients with chronic
+urticaria. Clin Exp Dermatol 2012;37:722728.
+PUBMED | CROSSREF
+
+19. Ye YM, Jin HJ, Hwang EK, Nam YH, Kim JH, Shin YS, Park HS. Co-existence of chronic urticaria and
+metabolic syndrome: clinical implications. Acta Derm Venereol 2013;93:156-160.
+PUBMED | CROSSREF
+
+20. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan CE. EAACI/GA?LEN
+task force consensus report: the autologous serum skin test in urticaria. Allergy 2009;64:1256-1268.
+PUBMED | CROSSREF
+
+21. Lee MEF, Lin TM, Liu SW, Chen YH. A rapid method of detecting autoantibody against FceRIa for chronic
+spontaneous urticaria. PLoS One 2014;9:e109565.
+PUBMED | CROSSREF
+
+22. Ye YM, Yang EM, Yoo HS, Shin YS, Kim SH, Park HS. Increased level of basophil CD203c expression
+predicts severe chronic urticaria. J Korean Med Sci 2014;29:43-47.
+PUBMED | CROSSREF
+
+23. Kuehn HS, Radinger M, Gilfillan AM. Measuring mast cell mediator release. Curr Protoc Immunol
+2010;Chapter 7:Unit7.38.
+PUBMED | CROSSREF
+
+24. Kashiwakura JC, Ando T, Matsumoto K, Kimura M, Kitaura J, Matho MH, Zajonc DM, Ozeki T, Ra C,
+MacDonald SM, et al. Histamine-releasing factor has a proinflammatory role in mouse models of asthma
+and allergy. J Clin Invest 2012;122:218-228.
+PUBMED | CROSSREF
+
+25. Ferrer M, Nufiez-Cordoba JM, Luquin E, Grattan CE, De la Borbolla JM, Sanz ML, Schwartz LB. Serum total
+tryptase levels are increased in patients with active chronic urticaria. Clin Exp Allergy 2010;40:1760-1766.
+PUBMED | CROSSREF
+
+26. Siles R, Xu M, Hsieh FH. The utility of serum tryptase as a marker in chronic spontaneous urticaria. Acta
+Derm Venereol 2013;93:354-355.
+PUBMED | CROSSREF
+
+27. Okayama Y. Oxidative stress in allergic and inflammatory skin diseases. Curr Drug Targets Inflamm Allergy
+2005;4:517-519.
+PUBMED | CROSSREF
+
+https://doi.org/10.4110/in.2019.19.e20 10/11
+IMMUNE
+
+=
+Histamine Releasing Factor in Chronic Urticaria Nn =TWO R K
+
+ 
+
+https://immunenetwork.org
+
+28.
+
+29.
+
+30.
+
+31.
+
+32,
+
+33.
+
+34,
+
+35.
+
+Hosoki K, Gandhe R, Boldogh I, Sur S. Reactive oxygen species (ROS) and allergic responses. In: Systems
+biology of free radicals and antioxidants. Laher I, ed. Berlin; Springer; 2014. p.3239-3266.
+
+Doré KA, Kashiwakura JI, McDonnell JM, Gould HJ, Kawakami T, Sutton BJ, Davies AM. Crystal
+structures of murine and human Histamine-Releasing Factor (HRE/TCTP) and a model for HRF
+dimerisation in mast cell activation. Mol Immunol 2018;93:216-222.
+
+PUBMED | CROSSREF
+
+Lee H, Lee K. Dimerized translationally controlled tumor protein increases interleukin-8 expression
+through MAPK and NF-«B pathways in a human bronchial epithelial cell line. Cell Biosci 2018;8:13.
+PUBMED | CROSSREF
+
+Gilfillan AM, Tkaczyk C. Integrated signalling pathways for mast-cell activation. Nat Rev Immunol
+2006;6:218-230.
+
+PUBMED | CROSSREF
+
+Lampinen M, Carlson M, Hakansson LD, Venge P. Cytokine-regulated accumulation of eosinophils in
+inflammatory disease. Allergy 2004;59:793-805.
+
+PUBMED | CROSSREF
+
+Shakoory B, Fitzgerald SM, Lee SA, Chi DS, Krishnaswamy G. The role of human mast cell-derived
+cytokines in eosinophil biology. J Interferon Cytokine Res 2004;24:271-281.
+
+PUBMED | CROSSREF
+
+Lorenzo GD, Mansueto P, Melluso M, Candore G, Cigna D, Pellitteri ME, Salvo AD, Caruso C. Blood
+eosinophils and serum eosinophil cationic protein in patients with acute and chronic urticaria. Mediators
+Inflamm 1996;5:113-115.
+
+PUBMED | CROSSREF
+
+Tedeschi A, Asero R, Marzano AV, Lorini M, Fanoni D, Berti E, Cugno M. Plasma levels and skineosinophil-expression of vascular endothelial growth factor in patients with chronic urticaria. Allergy
+2009;64:1616-1622.
+
+PUBMED | CROSSREF
+
+ 
+
+https://doi.org/10.4110/in.2019.19.e20 Val
+

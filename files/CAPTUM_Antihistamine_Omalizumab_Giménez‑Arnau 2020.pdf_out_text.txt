@@ -1,0 +1,2392 @@
+Drugs
+https://doi.org/10.1007/s40265-020-01387-9
+
+LEADING ARTICLE ®
+
+Check for
+updates
+
+Targeted Therapy for Chronic Spontaneous Urticaria: Rationale
+and Recent Progress
+
+Ana M. Giménez-Arnau'® - Andag Salman?©
+
+© Springer Nature Switzerland AG 2020
+
+Abstract
+
+Chronic spontaneous urticaria (CSU) is characterized by the presence of wheals, angioedema, or both for at least 6 weeks.
+It may persist for a long time—up to 50% of the patients have been reported to be symptomatic 5 years after the onset. Some
+patients can suffer more than one episode of CSU during their lifetime. Considering the recurrences, disabling symptoms,
+and significant impact on quality of life, proper and effective treatment of CSU is critical. The use of antihistamines (AHs)
+is still the mainstay of treatment. However, given the low rates of response to AHs (38.6% and 63.2% to standard doses and
+higher doses, respectively), the complete control of symptoms seems difficult to attain. The use of omalizumab for CSU has
+been a major breakthrough in the care of patients with CSU. However, the partial response and lack of response to omalizumab in a subgroup of patients, as high as 70% in some studies, make the development of alternative treatments desirable.
+Ever-increasing knowledge on the pathogenesis is making new target molecules available and enabling drug development for
+CSU. In addition to drug repurposing as in anti-IL-4/13, IL-5, and IL-17 antibodies, novel targeted therapy options such as
+ligelizumab and Bruton’s tyrosine kinase inhibitors are currently undergoing clinical trials and will be available in the near
+future. This article reviews the current challenges in the treatment of CSU, the pathogenesis and potential target molecules,
+and the rationale for novel treatments and their rapidly developing status.
+
+1 Introduction as physical symptoms, emotional well-being, daily activi
+ties, and sleep [2, 3]. Approximately one-fifth of patients
+
+Chronic urticaria (CU) is characterized by the presence of
+wheals, angioedema, or both for at least 6 weeks and can last
+for months and even years [1]. The chronic, spontaneous,
+and unpredictable course of the disease is defined as chronic
+spontaneous urticaria (CSU), which shows disabling symptoms and challenges in the treatment that might impair the
+quality of life (QoL) of the patients. CU can also be induced
+by specific physical and chemical environmental factors
+(e.g., friction, pressure, cold, ultraviolet light, etc.). Inducible chronic urticarias (CIndUs) can be pure urticarias or be
+manifested in combination with CSU. Studies have reported
+high rates of impairment in different aspects of QoL such
+
+ 
+
+Dx] Ana M. Giménez-Arnau
+anamariagimenezarnau @ gmail.com; 22505aga@comb.cat
+
+ 
+
+Department of Dermatology, Hospital del Mar, Institut
+Mar d’Investigacions Mediques, Universitat Autonoma
+de Barcelona (UAB), Passeig Maritim, 25-29,
+
+08003 Barcelona, Spain
+
+Department of Dermatology, Marmara University School
+of Medicine, Istanbul, Turkey
+
+Published online: 28 August 2020
+
+report missing at least an hour at work per week in addition
+to presenteeism in 25.7% of the patients [3]. The effects of
+CSU on QoL were comparable to psoriasis, atopic dermatitis, and even ischemic heart disease [2, 4]. The impairment
+was more severe in patients with uncontrolled disease and
+angioedema [2].
+
+In the pre-omalizumab period, antihistamines (AHs)
+were the only US Food and Drug Administration (FDA)approved drug class for the treatment of CSU. The major
+challenge during that period was the treatment of patients
+not responding to AHs [5]. A meta-analysis showed that the
+rates of response to AHs at standard doses and updosing of
+AHs were 38.6% and 63.2%, respectively [6]. Another study
+reported even lower response rates to standard doses, with
+disease control in only 22% of the patients [7]. The low rates
+of response to antihistamines might lead to frequent use of
+healthcare sources and greater impairment of QoL [8]. Side
+effects limit the use of other treatment alternatives including systemic corticosteroids and cyclosporine, particularly
+long term [9].
+
+4 Adis
+Although omalizumab was already mentioned as a fourthline or experimental treatment alternative in treatment
+guidelines as early as 2009 [10, 11], it was not until 2014
+that the EMA and FDA approved the use of omalizumab
+in CSU, which revolutionized the treatment of CSU. Since
+then, the ever-growing evidence derived from clinical trials
+and real-life studies suggests that omalizumab is a safe and
+effective treatment for CSU [12, 13]. Despite the high rates
+of complete response (up to 36% of patients in randomized
+clinical trials [12]), there is no curative therapy for CSU,
+and moreover a subset of patients are either unresponsive
+(no response and partial response in 10% and 17.8% of the
+patients in real-world studies, respectively [14]) or so-called
+slow/gradual responders to omalizumab [15, 16]. Moreover,
+studies have shown that CSU might persist for a long period,
+with 17.3-50% of the patients being still symptomatic after
+5 years despite ongoing treatment [7, 17, 18]. Considering
+that CSU has a large effect on patients’ social/work life and
+involves more frequent use of healthcare services, there is
+still a need for new therapeutic options. As the underlying
+pathophysiological mechanisms in CSU are being deciphered, there is an ongoing increase of candidate targets
+and molecules. This article reviews the unmet needs in CSU
+treatment, the current understanding of the pathophysiology
+of CSU, and emerging therapeutic molecules.
+
+2 Overview of Pathogenesis and Potential
+Treatment Targets
+
+Although the pathogenesis of CSU is still not fully understood, mast cells and basophils are the principal effector
+cells. Degranulation of mast cells and basophils, the release
+of stored mediators, and subsequently synthesized cytokines
+lead to development of wheals and/or angioedema in CSU.
+The immediate chemoatraction of cells from the blood carry
+the dermis through the endothelia and involve an infiltrate of
+lymphocytes, eosinophils, basophils and polymorphonuclear
+cells. This build up contributes to the full expression of the
+urticaria lesions, which tend to be edematous and less itchy,
+until they disappear [19, 20].
+
+The main mechanisms underlying increased activation of
+mast cells and basophils are dysregulation of intracellular
+signaling pathways (e.g., activation of spleen tyrosine kinase
+(SYK), low levels of Src homology 2 (SH2)-containing inositol phosphatases) [21, 22] and type I (IgE autoantibodies
+to self antigens such as thyroid peroxidase, also referred to
+as autoallergy) and type II/Ilb (IgG autoantibodies against
+IgE or FceRI) autoimmunity [23-25]. A recently described
+receptor is Mrgprb2 (murine)/MRGPRX2 (human), which
+mediates the activation of mast cells in response to cationic compounds, several drugs, endogenous peptides,
+and amines. MRGPRX2 induced by activated mast cells
+
+4 Adis
+
+A. M. Giménez-Arnau, A. Salman
+
+is associated with the physiology of the mast-cell-nerve
+functional unit [26]. Many other receptors, such as PAR-2,
+chemokine receptors, complement receptors, endothelin1R, FeYRU for IgG, TLRs, and ST2 for IL-33, also induce
+the growth and activation of mast cells, which leads to the
+release of multiple mediators such as histamine, serotonin, leukotrienes, prostaglandins, platelet-activating factor,
+tryptase, and cytokines (e.g., IL-4, IL-13, IL-5, IL-31, etc.)
+[26]. Activation of coagulation pathways, increased inflammatory cytokines, and neurotransmitter-mediated mast-cell
+activation are among the other proposed pathogenic mechanisms [19, 27].
+
+A detailed review of the pathogenesis of CSU is beyond
+the scope of this review, but the potential molecular targets
+of emerging treatments and their primary functions are summarized in Table 1.
+
+3 Omalizumab: From Development
+to Current Challenges
+
+Omalizumab is an anti-I[gE monoclonal antibody that was
+originally developed for allergic asthma and was approved
+by the FDA in 2003 for the treatment of moderate-to-severe
+allergic asthma. The primary mechanisms of action of
+omalizumab are binding and lowering free IgE and thus
+down-regulating FceRI on mast cells and basophils [28].
+Given the alterations in mast cell and basophil functions
+and the presence of autoantibodies against FceRI in CSU,
+omalizumab was proposed as a viable treatment option for
+CSU [29]. The earliest study registered on ClinicalTrials.gov
+(Identifier: NCT00130234) investigating the use of omalizumab in CSU dates back to late 2004. Two exploratory
+phase II proof-of-concept studies (X-Cuisite and Mystique),
+comprising 22 patients in total, have shown the efficacy and
+safety of omalizumab [29, 30]. Since then, growing evidence
+provided by phase III (Asteria I-II and Glacial) studies led
+to approval of the use of omalizumab for CSU in adult and
+adolescent patients unresponsive to AHs in 2014 by the
+European Medicines Agency (EMA) and FDA. In addition to the primary mechanisms of action of omalizumab,
+some possible explanations for its effectiveness in CSU have
+been suggested, including reducing mast cell releasability,
+reversing basopenia, and reducing IgG antibodies against
+IgE/FceRI [28].
+
+Phases II-IV clinical trials have consistently demonstrated the efficacy and safety of omalizumab in patients
+with CSU unresponsive to standard or increased doses of
+AHs. A summary of the data from pivotal phases II-IV trials is given in Table 2 [31-40]. Numerous real-life studies
+have confirmed these findings. In fact, a recent meta-analysis of 67 real-life studies has reported complete and partial
+response rates of 72.2% and 17.8%, respectively, which are
+icaria
+
+ 
+
+(parad
+-W0d) ogaoed ‘sa weaId Jeotdo) %] “SA %¢"0 ‘J oseUd
+
+(pajyeyduros)
+ogoorid “sa (QL Su Op ‘si9]qQuI Sut OT) 1861 UZV
+
+syoom 7¢ ‘Apnys uorsue}xe J] aseyd ‘dnors-ajsurg
+
+9sop Ysty/NIpow/ MO] FOONOT
+[e10 ‘poyfonuos-oqoseyd ‘Surpuy-osop q]] aseyd
+
+(poyajduos) Aprep s01my Ayyeso Sur QOZ “TT eseud
+
+AI 84/3u! 9-Z-9'0-Z'0 11Z-€N
+
+“sa oqooryd ‘payjonuos-oqaoryd ‘pozruopurs ‘] aseyg
+sorumeucpoovureyd pue
+‘sonouryooeurseyd ‘Aq Iqesojo} ‘Ajoyes oy) Sunenyead
+
+‘Kdessy} UO-ppe se [ZZ-GN JO Vsop s[suls ‘T oseyg
+sjuoned
+
+asoueder y[npe ‘qeumzrost] ‘foqe]-uado ‘[]] eseyg
+Bur OZ] pur OTT quumnzresty “sa
+
+SU QZI pue ZL qeumnzryast ‘Apmis uorsusyxe [J] aseyg
+syusosojope
+
+‘ogooryd ‘sa quurnzifast] ‘puryq-a[qnop ‘qz oseyd
+syuaosajope pur synpe ‘oqaoeyd “sa
+
+qeuINzreUO “SA qeuINzIpaST] ‘puryq-s[qnop ‘]]] eseyd
+syusosajope pur synpe ‘oqasetd “sa
+
+qeumnzrfeuo “sa qeuINzIpesT] ‘puryq-o[qnop ‘]]] eseyd
+Apyoom.
+
+> qeunzyesy Sw Qpz ‘Apms uorsua}xo joqey-usdQ
+
+66LP7VCO.LON
+
+6L9TEOCOLON
+
+EI e601POLON
+
+TT9976E0.LON
+
+S79C69EO.LON
+
+POLSLIVOION
+
+T677E9EO.ION
+
+8L8L06€0.ION
+
+€r801 VO. LON
+
+8L7LEVEOLON
+
+69€08SE0.ION
+
+9SE08SEO.ION
+
+8176P9T0.LON
+
+£€97-TVO ‘10I-TVO.
+
+P9C9P9TASD
+
+cOOAV
+
+quvididtasy ‘1 861d ZV
+qrunnaqy
+
+(r90nNOD
+qrunniqnuay
+(esgo-oap)
+
+qiunniqous.y
+
+qeunzying
+
+1cc-€n.
+
+qeumziposry
+
+SUTBUSIS sepN]JIOV-NUT
+S]J09 JSeUL UT SuTeUSTS PY30.7
+uouidopaaap ayAo0ydurAy Ayres,
+uonejnuessep [Joo
+qseu SuNqryut ‘sprydoutsoa
+ut sisoydode Sutonput ‘suon
+-oung Aro} enor Suniqryuy
+sptydoutsos wo
+aseayar (qq) ursjoid oruones
+[tydoutsoo ‘sjrydoseq woy
+9seafoi OUTLUR]STY Paseo‘oUT
+‘uonjonposd ouryo.so
+ZYL Ur sINsar UOTRANOY
+
+Ta394 BIA UONRANe
+]J©9 Ise ‘uononpoid Apoqnue
+
+pue sjj20 g Jo yuswidojoasq
+uonejussoid pue oyejdn
+
+uasyue ul uonouny J0)}da00y
+
+souisvied jsurese surstueyoour
+QSUdJIp UT POATOAUT $$
+“euIyyse o1SIoT]e ‘suoNoRer AIT
+-atsuassad ky oyerpourut ‘uon
+-eynueIsep soonput ‘sptydoseq
+pur s][90 Iseur uo (¢7qD)
+TrasoJ pue TYysoJ 0} spurg
+
+$]]90 Ise
+
+s]]99 onotodoyewopy
+
+sptydoseq
+‘s]]9o ise ‘sjrydoursog
+
+soyAooydurdy ZU,
+‘srydoutsoo ‘sjrydoseg
+
+s]]99 g ‘sptydoseq
+‘s]]90 seul ‘soseydosoeyy
+
+sq]oo g
+
+sq]oo g
+
+(Lr 1] Meld
+
+[L91 ‘991] eseury
+
+aurisoiy usajdg
+
+[16 ‘88] 8-99131S
+
+(eor] TuLYO
+
+[L6] eseury
+SUISOIA] S UOINIg
+
+[sot] a31
+punoqg-ouriquisjy
+
+(sor) ast
+
+ 
+
+Jel) [eorurps oy} Jo Arewung
+
+Joquinu JON
+
+sniq
+
+uonoun,y
+
+s][90 Sutssoidxq
+
+gynogjowr josey,
+
+ 
+
+Targeted Therapy for Chronic Spontaneous Urt
+
+vieoNN snoouejuods sTuOIY UT sTeLN [BOTT] SuroSuo pure sSnup oeprpued ‘sore IepNoojour feNus}og | aGeL
+
+is
+
+4 Adi
+
+ht
+Arnau, A. Salman
+
+iménez
+
+A.M.G
+
+ 
+
+OCILLLL-IN¢
+
+d 9ourysqns
+se yons sopndodomou sur
+-Svojol-ouTuueysty 10} 10}da00y
+
+uononpoid
+
+g[nosjour uoTsoype pur
+suryou Ad ‘uone[npowounury
+
+uoneanoe
+
+T1ydoseq ‘uonsemeoursyo
+
+s]Joo Jseu pure
+suomou Arosuos [Jeulg
+
+s]]9 L ‘sptydonnou
+‘s]]oo iseur ‘sprydourtsog
+
+Ou
+TX duds payeyos-sey
+
+fort]
+Jodaser p-oururesIyL
+
+ 
+
+‘uoTe[NuRISap [99 Ise, wiasXs yuoura}durod, fot] eso
+qeurrxtguy
+qeumunyepy
+UMBIPYIT AL OZIOSOIOLON qidooroueng AloyeureYUL-O1g S][99 + pO ‘soseydosoeyy [LTT] ©-AN.L
+(qeuutjerexta)
+OIL-TdX ‘Qeuinzijouay AroyeurweyUur-O1g S][99 ISBUU “S]TIO TUL (L11] 1-11 ‘daWSO
+qeumnurjnoes Aroyeurwmepur-o1g sq©9 LTUL (oct] VLI-T
+sjtydoutsoa
+Asoyeurureyut-od ‘s]J99 g ‘sy[99 J, ‘saseydor
+qeumnz 190, ‘gsuodsar oseyd oynoy -OBUI ‘s]]O9 [eTToopuq (411) 9-1
+(pajatduiod) payjonuos-oqaoryd ‘AT aseyd = PTO STEOLON qeumnziyeruog
+qeumnzrpsoyy
+8 ‘9 ‘pT ‘0 Syoom Je quuinzrodour Su COT sptydoutsoa [691]
+Jo sasop aay ‘J oseyd Ajiva ‘Jaquy-uodo ‘wie-a]sutg T88r6rC0.LON qeuinzijodayy quowtdoyoaop [tydoursog ‘s]J99 IsvUr ‘s]T9O TUL eydye-ys-"11/S-T1
+BLBOTAN sISsoUTpoYs ‘oqoorjd ‘sa qeumnqidnp ‘TJ oseyg —- SP I6PLEOLON
+qeuinzijeuro 0} stapuodsar ajojd
+-WOOUT JO ‘Jo JURIITOIUT ‘O} dAreU SyuaHed UT ‘oqaouyd
+“SA souTwuR]sIyHue [}]{ Suyepes-uou ‘sa qeumpidng ggrO8IrOLON
+poyenrut-10) sjJoo jseu ‘sprydoseq [211]
+~eStISoAUr ‘poyforuos-oqooeld ‘poztuopues vy] sed = SET6PLEOLON qeumnprdng vonenusleyIp COL ‘spydoursoo ‘s[[eo TUL vydie-ap-Tl “€1/t-T1
+syse]qoiqy
+piuryeuy I-TI-nuy ‘saAoouour ‘soseydoroeyy (L11] eMI-T1
+(umouyun saAooydur sy
+snqejs) Oqoov]g “SA DS Sur QS] quumngryeues ‘Jy oseyg  — LZISE9IOLON qeumuryeued Aroyewuueyul-o1g —*sa,Ad0uow! ‘saseydosoeyy (411) g1-1r
+asuodsar
+SELPSPEAT AroyewUeyuT-o:d Jo voHqryuT S119 PLOTOK [s91] woozao
+s]]oo g Jo
+paeuraneL = Z9L9TCO0.LON geurxmiry = woreIMeUT pue VOHENUeTOy IG sq} fort] ozao
+uonepnuessop []o9 Jseur
+jo uonepnser ‘skemyjed Sure
+-UBIS JETN][OOV.YUT UT POATOAUT
+StII-XOV pue Taso74 WIM poyeroossy S]]99 ISB [ort] 7 ‘I-dIHS
+Ten [eorurys oy) Jo Areurumng Jaquinu JON sniq uonoun,y s][90 Sutssordxq, g[nogjour Jose],
+
+ 
+
+(ponunuos) | aqeL
+
+4 Adis
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+at least comparable to results from clinical trials [14]. Systematic review and meta-analysis of clinical trials showed
+that the rate of adverse events (AEs) was not significantly
+different between omalizumab and placebo [12, 13]. Accordingly, the meta-analysis of real-life studies has shown a mean
+AE rate of 4% [14]. Moreover, the positive impact of omalizumab on various aspects of patient QoL has also been also
+demonstrated in clinical trials and real-life studies [41-43].
+
+Yet, there are still some obscurities and challenges
+regarding the use of omalizumab for CSU. First of all,
+despite the high rates of response to omalizumab, unresponsive patients still pose a major challenge in clinical practice.
+Moreover, data from the literature suggest that obtaining a
+complete response might take up to 6 months in patients who
+are “slow responders”, unlike the “fast responders”, who
+respond to treatment within 4 weeks [44, 45]. Studies investigating the factors associated with response to omalizumab
+have revealed that patients with a positive basophil histamine release assay (BHRA), a positive autologous serum
+skin test (ASST), lower baseline basophil FceRI expression, lower IgE levels, and a lower ratio of 4-week/baseline
+IgE are more likely to show no response or a slow response
+[46-52]. These findings show that the patients exhibiting the
+features of autoimmune CSU with type Ib autoimmunity
+(positive in vivo reactivity (ASST), positive in vitro basophil reactivity (BHRA) and presence of IgG autoantibodies against FceRI) are less likely to completely respond to
+omalizumab [53, 54]. However, considering that only 8%
+of the patients in the PURIST study fulfilled all three criteria, novel clinical or laboratory biomarkers of response to
+omalizumab are still needed [53]. The clinical and laboratory predictors of response to omalizumab in patients with
+CSU are given in Table 3.
+
+Alternative strategies in those patients include updosing
+omalizumab, switching to immunosuppressive treatment,
+for example, cyclosporine or combining omalizumab with
+other systemic treatments. The studies have shown that
+updosing to 450 or 600 mg provides better disease control
+in 32-75% of patients [55-60]. The need for updosing was
+associated with older age (>57 years old), higher baseline
+body mass index (BMI), lower baseline urticaria control test
+(UCT) scores, lower baseline IgE levels, and immediate use
+of CsA [55, 57, 58]. The major shortcoming of immunosuppressive treatments is AEs, and the combined use of
+omalizumab with other systemic agents (e.g., cyclosporine,
+dapsone, colchicine) is based on anecdotal reports [61-63].
+Thus, all three alternative strategies require further evidence
+currently.
+
+Although omalizumab is approved and recommended by
+the guidelines as an add-on therapy to AHs as third-line
+treatment, up to 20% of the patients discontinue AHs and use
+omalizumab as monotherapy [1, 64]. Despite some evidence
+indicating that omalizumab monotherapy is as effective as
+
+NCT number Summary of the clinical trial
+
+Tezepelumab
+
+Drug
+
+tiation of sensitization process
+
+Increased in Th2 response, iniin allergic disorders
+
+Function
+
+Keratinocytes, mast cells,
+epithelial cells
+
+Expressing cells
+
+phopoietin [162]
+CRTh2 chemoattractant receptor-homologous molecule expressed on T helper type 2, /L interleukin, OSMRf oncostatin M receptor B, P/3K phosphoinositide 3-kinases, SHIP-1, 2 Src homology
+
+2 (SH2)-containing inositol phosphatase 1-2, Siglec-8 sialic acid immunoglobulin-like lectin-8, TNF-a tumor necrosis factor-a
+
+ 
+
+ 
+
+Table 1 (continued)
+Thymic stromal lym
+Target molecule
+
+4 Adis
+A. M. Giménez-Arnau, A. Salman
+
+Table 2 Phase II-IV clinical trials on the use of omalizumab for chronic spontaneous/idiopathic urticaria
+
+ 
+
+Trial, year (n)
+
+Study arms
+
+Mean change from baseline at
+
+ 
+
+ 
+
+4-12 weeks 24 weeks 40-48 weeks, > 1 year
+X-CUISITE, 2011 [31] OMA 75-375 mg vs. N/A UAS7: — 17.8 vs. —7.9* N/A
+(n=49) placebo DLQI: 62.4% vs. 15.3%*
+CU-Q2o0L: 53.2% vs. 5.9%*
+MYSTIQUE, 2011 [32] Single-dose OMA 600 mg 4 weeks N/A
+
+(n=90)
+
+ASTERIA 1, 2014 [33]
+(n=319)
+
+ASTERIA II, 2013 [34]
+(n=323)
+
+GLACIAL, 2013 [35]
+(n=335)
+
+POLARIS, 2017 [36]
+(n=218)
+
+OPTIMA, 2020 [37]
+(n=314)
+
+vs. 300 mg vs. 75 mg vs.
+placebo
+
+OMA 300 mg vs. 1500 mg
+vs. 75 mg vs. placebo
+
+Three doses of OMA
+300 mg vs. 1500 mg vs.
+75 mg vs. placebo
+
+Six doses of OMA 300 mg
+vs. placebo
+
+Three doses of OMA
+300 mg vs. 150 mg vs.
+placebo
+
+OMA 300 mg vs. 150 mg
+for 24 weeks, then step-up
+to 300 mg or re-treatment
+with 300 mg
+
+UAS7: — 14.6* vs. — 19.9%
+vs.—9.8 vs.—6.9
+
+ISS7: —6.5* vs. —9.2*
+vs. —4.5 vs.—3.5
+
+HS7: —8.1* vs.—10.7*
+vs. —5.3 vs.—3.5
+
+12 weeks
+
+UAST: — 20.75* vs. — 14.44*
+vs. — 13.82* vs.—8.01
+
+ISS7: —9.4* vs. — 6.66%
+vs. — 6.46* vs. — 3.63
+
+HS7: — 11.35* vs. —7.78*
+vs. —7.36* vs. —4.37
+
+DLQI: — 10.29* vs. —8*
+vs. — 6.33 vs.—6.13
+
+CU-Q2o0L: — 30.5*
+vs. —23.1* vs.— 19.2
+vs.—19.7
+
+12 weeks
+ISS7: —9.8* vs.—8.1*
+vs.—5.9 vs.—5.1
+
+HS7: — 12* vs. —9.8*
+vs.—7.2 vs.—5.2
+
+% of patients with
+UAS7 <6: 66* vs. 43* vs.
+27 vs. 19
+
+DLQI: — 10.2* vs. —8.3*
+vs.—7.5 vs.—6.1
+
+CU-Q2o0L: —31.4* vs. —27*
+vs. — 20.6 vs.— 17.7
+
+12 weeks
+
+UAS7: — 19 vs. —8.5*,
+ISS7: —8.6 vs. —4.6*
+
+HS7: — 10.5 vs. -—4.5*
+
+DLQI: — 9.7 vs.—5.1*, CUQ2oL: — 29.3 vs. — 16.3*
+
+12 weeks
+
+UAS7: — 22.44* vs. — 18.79%
+vs.— 13.9
+
+ISS7: — 10.22* vs. —8.8*
+vs.—6.51
+
+HS7: — 12.17% vs.—10.04*
+vs.—7.41
+
+DLQI: —8.4* vs. —7.2*
+vs.—5.3
+
+UAS7: — 22.11* vs. —14.21*
+vs. — 14.92* vs.— 11.73
+
+ISS7: —9.84* vs.-—6.47*
+vs. — 6.98* vs.—5.41
+
+HS7: — 12.28* vs.—7.75*
+vs. — 7.95* vs.—6.32
+
+N/A
+
+Significant improvements
+were maintained at week
+24 (data not shown)
+
+N/A
+
+40 weeks (at the end
+of 16 weeks of
+follow-up)
+
+DLQI: —4.9 vs. —5.2
+vs.—7 vs.—7.9
+
+N/A
+
+Stepping up to 300 mg (in 79.6% of the patients treated with 150 mg) provided a
+
+9.5-point decrease in UAS7
+
+In patients with post-withdrawal relapse, re-treatment led to UAS7 <6 in 87.8%
+
+ 
+
+4 Adis
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+Table 2 (continued)
+
+ 
+
+Mean change from baseline at
+
+ 
+
+Trial, year (n) Study arms
+4-12 weeks
+X-ACT, 2016 [38] (n=68) Six doses of OMA 300 mg = 4 weeks
+vs. placebo CU-Q2o0L: —
+
+AE-QoL: — 26.5 vs. — 10.3*
+
+12 weeks
+
+ISS7: — 8.3 vs. —2.2*
+HS7:—8.1 vs.—2.1*
+
+XTEND-CIU, 2018 [39, 40] OMA 300 mg vs. placebo
+24 week open-label period
+(n=205), then patients
+with a UAS7 <6 (n= 134)
+re-randomized
+24-week double-blind phase
+
+Percent of patients with a
+UAS7<6 and UAS7=0 in
+OMA group
+
+Week 4: 38.2% and 17.6%
+
+Week 12: 58.5% and 36.8%
+
+Week 24: 73% and 52%
+
+24 weeks 40-48 weeks, > 1 year
+
+28 weeks
+AAS: - 20.6 vs. — 10.8*
+UAS7: — 16.8 vs. —6.5*
+CU-Q2o0L: — 30.9 vs. — 12.1*
+AE-QoL: — 41.4 vs. —24.2*
+DLQI: — 10.5 vs. —5.6*
+AE-burdened days: 14.6 vs.
+49.5%
+36 weeks (following
+12 weeks of follow-up)
+CU-Q2o0L: — 23.9 vs. — 14.7*
+UAS7: — 29.5 (in patients
+randomized to placebo
+and re-treated with OMA
+for > 12 weeks)
+
+N/A
+29 vs. — 12.5*
+
+48 weeks
+
+UAS > 12: 21% vs.
+%60.4*
+
+>3 point increase in
+DLQI: 19.8% vs.
+66%*
+
+ 
+
+AE angioedema, AE-QoL Angioedema Quality-Of-Life Questionnaire, CU-Q2o0L Chronic Urticaria Quality-Of-Life Questionnaire, DLQ/ Dermatology Life-Quality Index, HS7 weekly number of hives score, /SS7 weekly itch score, N number of patients, N/A not available, OMA omali
+zumab, QoL quality of life, VAS7 Urticaria Activity Score over 7 days
+*p <0.05
+
+Table 3 Clinical and laboratory suggested predictors of response and time-to-response to omalizumab in patients with chronic spontaneous urti
+caria (CSU)
+
+ 
+
+Characteristics associated with
+
+ 
+
+Fast responders Slow responders
+
+Smaller number of patients with positive autologous serum skin test [52]
+
+Less common positive baso test, basophil histamine Positive basophil test, basophil histamine release
+assay [46] and CD63
+
+release assay [46] and CD63
+Normal or high total IgE levels [48, 49]
+
+Very high overexpression levels of FceRI on basophils [47, 50]
+
+Autoallergens to be assessed
+
+Positive autologous serum skin test [52]
+
+Low total IgE levels [48, 49]
+
+Lower ratio of 4th week/baseline IgE [49] Lower
+expression levels of FceRI on basophils than fast
+responders but always increased compared with
+healthy controls [50]
+
+Unresponsiveness
+
+Positive autologous serum skin test
+
+Positive baso test, basophil histamine
+release assay and CD63 and IgG
+autoantibodies against FceRI) [53]
+
+Very low total IgE levels [51]
+
+Very low expression of FceRI on
+basophils even lower than healthy
+controls are shown by non-responders [47, 50]
+
+Eosinopenia and basopenia [172]
+
+ 
+
+The test shown has its own limitations that should be taken into account
+
+combined use with AHs, future studies are needed on the use
+of omalizumab as monotherapy [62].
+
+There are different approaches on how to stop treatment
+in patients with complete response [65]. Treatment might be
+stopped as soon as a complete response is obtained, since
+re-treatment can effectively control possible relapses [37].
+Another strategy is extending the dosing intervals by 1 week
+up to 8 weeks and then stopping the treatment, which provided higher complete response rates in one study [66, 67].
+Both approaches need to be validated in larger studies before
+making strong recommendations.
+
+Although the current data suggest that omalizumab
+is effective in patients with chronic inducible urticaria
+(CIndU), particulary in symptomatic dermographism, cholinergic urticaria, cold urticaria, and solar urticaria, the use
+of omalizumab for CIndUs is not approved yet [68-73].
+
+Omalizumab can be considered a safe treatment with low
+AE rates comparable to placebo [12, 14]. It is also well tolerated in patients with underlying systemic co-morbidities
+[74]. The data from studies in patients with asthma have
+demonstrated safety with long-term use [75]. Despite the
+limited number of reports in CSU [76], future studies with
+
+4 Adis
+larger sample sizes and longer durations of follow-up are
+needed. Furthermore, the concurrent use of omalizumab
+with other biologics did not cause any increase in infections
+or laboratory abnormalities [77]. Larger studies in patients
+with asthma and case series of CSU showed no increase of
+major congenital abnormalities with the use of omalizumab
+during pregnancy [78-80]. However, the use of omalizumab
+during pregnancy is still not approved.
+
+4 Upcoming Targeted Therapies for Chronic
+Spontaneous Urticaria (CSU)
+
+4.1 Anti-IgE
+
+Despite the well-established effectiveness and safety of
+omalizumab, the above-mentioned shortcomings of the
+treatment prompted the search for an anti-IgE antibody with
+greater affinity for IgE.
+
+4.1.1 Ligelizumab
+
+A novel monoclonal antibody directed against the Ce3
+domain of IgE is ligelizumab. Preclinical and phase I studies
+demonstrated that ligelizumab (QGE031) has 50-fold greater
+affinity in vitro and six- to ninefold greater potency in vivo
+compared to omalizumab. Ligelizumab provided greater
+and longer suppression of free and cell-bound IgE and
+skin-prick-test reactions than omalizumab [81]. Recently, a
+mechanistic and functional comparison of ligelizumab and
+omalizumab showed epitope differences that contribute to
+their qualitative distinct IgE-receptor profiles. Liguelizumab
+shows better suppression of IgE binding to FceRI, basophil
+activation, and IgE secretion by B cells [82]. The research
+also showed inhibition of IgE-FceRII (CD23) interaction
+was stronger for omalizumab. Considering the role of CD23
+in lung inflammation, the authors suggested that the lack of
+superiority of ligelizamab compared to placebo/omalizumab
+ina phase II trial (NCT01716754) conducted in patients with
+allergic asthma might be explained by this difference [82]. A
+phase IIb dose-finding trial compared the efficacy and safety
+of ligelizumab 24 mg, 72 mg, and 240 mg every 4 weeks
+with omalizumab 300 mg every 4 weeks and placebo in 382
+adult patients with CSU. The percentage of patients with
+complete control of hives (HSS7:0) and complete control of
+symptoms (UAS7:0) at week 12 was higher in ligelizumab
+arms compared to omalizumab and placebo (HSS7: 30%,
+51%, 42%, 26%, and 0% and UAS7: 40%, 48%, 42%, 29%,
+and 0% for ligelizumab 24 mg, 72 mg, 240 mg, omalizumab
+300 mg, and placebo, respectively). Dose-dependent efficacy
+of ligelizumab showing a plateau starting at 72 mg has been
+demonstrated. The low complete response rates with omalizumab were attributed to the high number of patients with an
+
+4 Adis
+
+A. M. Giménez-Arnau, A. Salman
+
+autoimmune component and angioedema. The rates of AEs
+were similar in all groups, except for a slightly higher incidence of local reaction at the injection site for ligelizumab
+240 mg compared to omalizumab [83]. Further analysis of
+this study showed that among patients with an UAS7 <6 at
+week 20, the response was maintained for a median of 16,
+8, and 8 weeks with ligelizumab 240 mg, 72 mg, and omalizumab, respectively. Following the 1-year extension phase
+(patients with UAS7 > 12 during the follow-up received ligelizumab 240 mg every 4 weeks; NCT02649218) with ligelizumab 240 mg, the UAS7 <6 response was maintained for
+even longer, for a median of 28 weeks [84]. A decrease in the
+use of rescue medication was also demonstrated and maintained during the extension phase in the ligelizumab group
+[85]. Ligelizumab also showed greater and sustained efficacy
+in controlling angioedema compared to omalizumab and placebo at week 12 (the percentage of angioedema-free patients
+with ligelizumab 72 mg, 240 mg, omalizumab 300 mg, and
+placebo, was 87.5%, 94.9%, 76.3%, and 68.3%, respectively).
+Following retreatment with ligelizumab 240 mg during the
+extension phase, 91% of the patients were angioedema-free
+at week 12 [86]. Different advantages of ligelizumab versus
+omalizumab observed in these phase II trials are currently
+being reported. Phase III clinical trials (NCT03580356,
+NCT03580369, NCT03437278, NCT04210843) investigating the efficacy and safety of ligelizumab 72 mg and 120 mg
+compared to omalizumab 300 mg and/or placebo in adolescent and/or adult patients with CSU over up to 52 weeks are
+ongoing. Another phase III, open-label, single-arm study
+of ligelizumab in adult Japanese patients with CSU unresponsive to H1-AHs is also in progress (NCT03907878).
+The extension phase study with liguelizumab will help to
+characterize its use in re-treatment, self-administration, and
+monotherapy, helping us to predict better use in real life.
+
+4.1.2 UB-221
+
+UB-221, another monoclonal antibody against IgE, has up
+to eightfold greater affinity for free IgE in comparison to
+omalizumab. It is currently being investigated in an ongoing phase I trial for safety, tolerability, pharmacodynamics,
+and pharmacokinetics following a single dose [0.2, 0.6, 2, 6,
+10 mg/kg UB-221 intravenously (IV) vs. placebo] in adult
+patients with CSU (NCT03632291, NCT04175704).
+
+4.1.3 Quilizumab
+
+Quilizumab, a humanized monoclonal antibody directed
+against membrane-bound IgE, was also evaluated for the
+treatment of CSU in a phase II trial. Following a 20-week
+treatment with quilizumab 450 mg or placebo every 4 weeks,
+no statistically significant differences were observed in ISS7,
+HSS7, and UAS7 scores between two groups. The changes in
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+scores in the quilizumab group also failed to reach the minimally important difference (MID) range [87]. The further
+development of quilizimab for CSU has been discontinued.
+
+The data from clinical trials with novel monoclonal IgE
+antibodies with greater potency compared to omalizumab
+seem very promising [83].
+
+4.2 Anti-Siglec-8
+
+Siglecs are a family of transmembrane proteins that have
+regulatory effects on intercellular and intracellular signaling such as inhibition of cellular proliferation/activation and
+inducing apoptosis [88, 89]. Of them, Siglec-8 is specifically
+expressed on eosinophils and mast cells. Studies showed
+that activation of Siglec-8 induces apoptosis in eosinophils
+and inhibits FceRI-mediated histamine and PGD2 release
+from mast cells [90, 91]. In a phase I, randomized, placebocontrolled study conducted in 51 healthy subjects, a single dose of AK002 (0.001, 0.003, 0.01, 0.03, 0.1, 0.3, and
+1 mg/kg IV), a monoclonal anti-Siglec-8 antibody, resulted
+in complete depletion of circulating eosinophils within an
+hour. The effect was maintained up to 84 days in the group
+who received 1 mg/kg, suggesting that AK002 might be suitable to be administrated in monthly or quarterly intervals
+[92]. Moreover, treatment with AKO002 (antolimab) provided
+symptomatic and histologic improvement in patients with
+eosinophilic eosophagitis [93]. Given the role of eosinophils
+and mast cells in CSU, the efficacy and safety of AKO02 in
+CSU has also been investigated. In a phase Ila study, adult
+patients with CSU and CIndU (cholinergic urticaria and
+symptomatic dermographism) received six doses of AKO02
+(0.3, 1, 1, 1-3, 1-3, 1-3 mg/kg, IV infusion). At week 22,
+among the patients with CSU, the response rates based on
+changes in UCT score [complete + partial (complete)] were
+92% (92%) and 86% (57%) in omalizumab-naive (n= 14)
+and omalizumab-reftactory (n= 12) patients, respectively.
+The response was sustained in a 12-month open-label extension phase. Other than mild-to-moderate infusion-related
+reactions, no AEs were seen [94, 95]. These results indicate
+that anti-Siglec-8 antibodies might be an applicable treatment alternative for CSU refractory to omalizumab in the
+future.
+
+4.3 Bruton’s Tyrosine Kinase (BTK) Inhibitors
+
+Bruton tyrosine kinase (BTK) is a tyrosine kinase expressed
+in various hematopoietic cells including macrophages, mast
+cells, and basophils. In addition to playing a major role in
+B-cell development and functions, BTK is also a part of
+the FceR activation and signaling in mast cells [96, 97].
+BTK inhibitors are used to treat different malignancies of
+B-cell origin [98]. Four different BTK inhibitors (ibrutinib, dasatinib, AVL-292, CNX-774) effectively suppressed
+
+Ig-E-induced activation and histamine release from basophils and mast cells, ibrutinib being the most potent [99]. In
+a recent study, six patients with a known history of peanut/
+tree nut allergy were treated with ibrutinib (420 mg/day) for
+seven consecutive days. Skin-prick tests and basophil activation tests were performed before, during, and after treatment
+course and it was shown that the significant suppression of
+test responses was evident at the second day and maintained
+throughout the treatment. No serious AEs were observed
+[100]. Considering the critical role of FceRI signaling in
+CSU, the use of BTK inhibitors for CSU shows potential.
+The efficacy and safety of a more selective and covalent
+BTK inhibitor, LOU064 (remibrutinib), in adult patients
+with CSU is being investigated in ongoing phase II clinical trials (NCT03926611, NCT04109313). A phase II study
+investigating the use of fenebrutinib (200 mg orally twice a
+day) in 31 adult patients with CSU has been recently completed. The results are not published yet (NCT03693625),
+but have been presented at the EAACI 2020 meeting, showing at week 8 a marked improvement of the UAS7 at 200 mg
+twice a day (— 21.8+ 14.8) compared with the placebo group
+(— 11.3+10.8) [60]. Unlike fenebrutinib, remibrunitib binds
+BTK with a covalent bond, thus it has a faster onset of action
+and its effects are maintained longer [101] (Fig. 1).
+
+4.4 Chemoattractant Receptor-Homologous
+Molecule Expressed on Th2 (CRTH2) Inhibitors
+
+Upon its release from activated mast cells, prostaglandin
+D2 (PGD2) exerts its effects through two receptors: D
+prostanoid receptor (DP) and chemoattractant receptorhomologos molecule expressed on Th2 (CRTH2). CRTH2
+is normally expressed on eosinophils, basophils, and Th2
+cells. The PGD2-mediated activation of CRTH2 results in
+stimulation and chemotaxis of basophils and eosinophils,
+Th2 response, and augmentation of histamine release from
+basophils [102, 103]. One study has demonstrated low levels
+of surface CRTH2 on basophils and eosinophils of patients
+with CSU, which was attributed to internalization of CRTH2
+following PGD2 binding. These results suggest a role for
+PGD2 via CRTH2 in CSU [102]. In another study, the
+CRTH2 expression on eosinophils was increased in patients
+with atopic dermatitis, prurigo nodularis, and CSU. Moreover, the expression levels in AD were correlated with disease
+severity [104]. In an earlier study, a particular CRTH2 gene
+polymorphism was associated with an increase in required
+dose of AHs to control CSU [105]. Based on these findings,
+an oral CRTH2 antagonist, AZD1981, was used for the treatment of CSU in a phase II, double-blind, placebo-controlled
+trial. Twenty-six subjects completed the 4-week treatment
+period with either AZD1981 (40 mg three times daily) or
+placebo. UAS7 and ISS7 scores significantly decreased
+compared to baseline in the treatment group, although the
+
+4 Adis
+    
+ 
+ 
+
+ 
+ 
+
+wll AR,
+Basophil
+
+BTK
+
+ 
+
+CRTH2
+
+[Bewalaimab} —“u-sn, Fosinophil
+
+  
+
+H4R
+
+Fig. 1 An overview of potential target molecules in the pathogenesis
+of chronic spontaneous urticaria and future targeted therapies. BTK
+Bruton’s tyrosine kinase, CRTh2 chemoattractant receptor-homologous molecule expressed on T helper Type 2, H4R histamine H4
+receptor, JL interleukin, MRGPRX2 Mas-related G protein-coupled
+receptor-X2, NK-/R neurokinin-1 receptor, ORAI/ calcium-release
+primary endpoint (decrease in UAS7> 9.5) was not met. No
+significant differences were observed in terms of AH use,
+DLQI score, or angioedema frequency between two groups.
+Moreover, treatment with AZD1981 significantly inhibited
+PGD2-mediated eosinophil shape change and migration to
+the skin. The treatment was well tolerated without any serious AEs [103]. Despite failing to meet the primary endpoint,
+considering the significant effect on itch severity and cellular
+level, future studies evaluating the efficacy of AZD1981 with
+longer duration and higher doses are warranted.
+
+4.5 Spleen Tyrosine Kinase (SYK) Inhibitors
+Following the activation of FceRI in mast cells, spleen
+
+tyrosine kinase (SYK) plays a major role by regulating histamine release and synthesis of the mediators (cytokines,
+
+4 Adis
+
+ 
+ 
+   
+
+<>
+
+A. M. Giménez-Arnau, A. Salman
+
+    
+
+ 
+
+ivation
+
+ 
+
++ Inhibition
+
+ 
+
+     
+
+SHIP-1
+BTK — x2, — ED
+
+    
+
+activated calcium modulator 1, OSMR# oncostatin M receptor f,
+PI3K phosphoinositide 3-kinases, SHIP-1, 2 Src homology 2 (SH2)containing inositol phosphatase 1-2, Siglec-8 sialic acid immunoglobulin-like lectin-8, SYK spleen tyrosine kinase, TNF-a tumor
+necrosis factor-a, TSLP thymic stromal lymphopoietin
+
+leukotriene, prostoglandin) [106]. Given the crucial role
+of SYK in adaptive immunity, oral SYK inhibitors such as
+fostamatinib are used for immune thrombocytopenic purpura and chronic graft-versus-host disease. An intranasal
+SYK inhibitor, R112, was shown to suppress FceRI-related
+mediator-releasing pathways in mast cells [107]. Based on
+these data suggesting a central role for SYK in mast cell
+degranulation and CSU, the use of SYK inhibitors for the
+treatment of CSU might be plausible. Accordingly, the use
+of a topical SYK inhibitor, GSK2646264, blocked the histamine release from mast cells through IgE signaling in an
+ex vivo human skin model [108]. In another study, when
+the patients with CSU were categorized according to the
+degree of histamine release from basophils as responders
+and non-responders, the expression of SYK protein was
+found to be significantly elevated in responders compared to
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+non-responders and healthy controls. The increased expression of SYK was also correlated with spontaneous histamine
+release from mast cells [109]. The efficacy and safety of
+GSK2646264 0.5% and 1% topical cream in patients with
+CSU and cold urticaria have been evaluated in a randomized,
+placebo-controlled phase I trial (NCT02424799) of which
+the results are not available yet.
+
+4.6 Anti-CD20
+
+Rituximab (RTX) is a monoclonal antibody directed against
+CD20. Through the depletion of memory B cells, it has been
+used to treat hematological malignancies, rheumatoid arthritis (RA), and pemphigus vulgaris [110]. It is thought that
+the reduction of memory B cells and subsequent decrease of
+the autoantiboides might be of benefit particularly in autoimmune CSU. In the literature, at least five patients with
+CSU have been treated with rituximab to date [111-115].
+The patients had severe CSU refractory to immunosuppressive treatments. All except for one patient responded well
+to RTX, which was used either as in lymphoma (375 mg/
+m? weekly for 4 weeks) or as an RA protocol (two doses
+of 1000 mg with a 2-week interval). However, apart from
+a phase I/I open-label trial (NCT00216762) that was terminated due to safety concerns, there is no ongoing clinical trial of RTX for CSU. Despite the need for randomized,
+controlled studies and the caution regarding AEs [116],
+RTX could be reserved as an alternative in patients with
+very severe, treatment-resistant CSU.
+
+4.7 Anti-IL-1
+
+Among the members of IL-1 cytokine family, IL-la and
+IL-18 have pro-inflammatory effects, whereas the IL-1R
+antagonist shows anti-inflammatory properties [117].
+Mutations in the NLRP3 (NOD-, LRR- and pyrin domaincontaining protein 3) gene result in NLRP3 inflammasome
+activation, followed by activation of caspase-1, increased
+secretion of IL-1, and systemic inflammation. This is
+associated with a heterogeneous syndrome referred to as
+NLRP3-associated autoinflammatory disease [NLRP3-AID
+(consisting of familial cold autoinflammatory syndrome,
+Muckle—Wells syndrome, chronic infantile neurological,
+cutaneous and articular syndrome)] in which an urticarial rash is a common symptom [118, 119]. Canakinumab
+(monoclonal antibody against of IL-1), anakinra (recombinant IL-1R antagonist), and rilonacept (IL-1a/B blocker)
+are effectively used in the treatment of autoinflammatory
+syndromes [120]. IL-1-blocking agents were also effective in
+treating urticarial vasculitis and Schnitzler syndrome, which
+are also characterized by the presence of urticarial rash and
+systemic inflammation [121, 122]. Another patient with
+idiopathic cold urticaria responded well to treatment with
+
+anakinra [123]. Recently, somatic mutations in NLRP3 were
+shown in two elderly patients with long-standing, refractory chronic urticaria associated with fever and increased
+CRP. Both the patients significantly improved with anakinra.
+The authors concluded that an underlying NLRP3-related
+disorder and anti-IL-1 treatment should be considered in
+patients with refractory urticaria and systemic inflammation markers [124]. The effectiveness of RPH-104 (a novel
+molecule against IL-1), rilonacept, and canakinumab have
+been investigated in Schnitzler syndrome (NCT04213274),
+acquired cold-contact urticaria (NCT02171416), and CSU
+(NCT01635127), respectively. The results of these trials are
+not available yet.
+
+4.8 Anti-IL-4/13
+
+Interleukin-4 and IL-13 both play a role in Th2 differantiation and induction of B cells to plasma cells [117, 125].
+Dupilumab is a monoclonal antibody directed against the
+alpha subunit of IL-4 and IL-13 receptors. It is approved
+in the treatment of asthma, nasal polyposis, and atopic dermatitis [125]. Increased levels of IL-4 and a mixed Th1/
+Th?2 response have been previously demonstrated in patients
+with chronic urticaria, thus making dupilumab a viable treatment alternative for CSU [126]. Accordingly, in a recent
+case series, six patients with concomitant atopic dermatitis
+and CSU refractory to omalizumab 600 mg were treated
+with dupilumab successfully. The authors concluded that
+the effect might be a result of blocking B-cell differentiation
+to plasma cells and inflammatory pathways causing pruritus
+through the inhibition of IL-4 and IL-13, respectively [127].
+Currently, there are three ongoing, still recruiting, phase II/
+III studies investigating the efficacy and safety of dupilumab
+in CSU (NCT03749135, NCT04180488 (EFC16461CUPID)) and cholinergic urticaria (NCT03749148) unresponsive to H1-AHs and/or omalizumab.
+
+4.9 Anti-IL-5
+
+Interleukin-5 plays a major role in eosinophil development and also increases their chemotactic acvitivity [117].
+An increased number of eosinophils has been reported in
+urticarial lesions and they are thought to play a role in the
+pathogenesis of CSU through interactions with mast cells
+and activation of the coagulation cascade [128]. A number of monoclonal antibodies approved for eosinophilic
+asthma target the IL-5 (reslizumab, mepolizumab) or its
+receptor, IL-5R (benralizumab). To our knowledge, the literature has reported three patients with urticaria who have
+been treated with these drugs. Reslizumab and mepolizumab provided significant improvement of symptoms in
+two patients with CSU [129, 130], whereas a patient with
+symptomatic dermographism (SD) benefited from treatment
+
+4 Adis
+with benralizumab [131]. In a recent single-blind, repeatedmeasures study, 12 adult patients with CSU6 were treated
+with benralizumab (30 mg subcutaneously) every 4 weeks
+for 12 weeks following a single dose of placebo. Among the
+nine patients who completed the study, five had complete
+response. UAS7 and CU-Q2oL scores improved significantly
+with benralizumab compared to placebo [132]. Gene-expression analysis in patients with CSU following benralizuamb
+treatment demonstrated normalization of SIGLEC-8 expression and IL-4/5 induced inflammation [133]. Although the
+results imply a role of eosinophils in CSU, the exact mechanism of action has not been understood yet. There are two
+clinical trials, for which the results are not available yet,
+investigating the efficacy of benralizumab (NCT03183024)
+and mepolizumab (NCT03494881, recruiting is active) in
+CSU. For benralizumab, a phase Ib study (ARROYO TrialD3259C00001) is about to start.
+
+4.9.1 Anti-IL-17
+
+Previous studies have shown an increased expression of Th2
+cytokines and CD4+T cells in CSU lesions [134]. Another
+study demonstrated increased blood levels of IL-17 and a
+positive correlation between IL-17 levels and disease severity, suggesting a possible role of IL-17 in the pathogenesis
+of CSU [135]. The results of a recent study have revealed an
+increase in mast cells and CD4+T cells with strong expression of IL-17 in patients with CSU compared to healthy
+controls. In the same study, eight patients with CSU recalcitrant to standard therapies were treated with secukinumab,
+an IL-17A monoclonal antibody. All the patients responded
+well to treatment, with the mean UAS7 scores decreased by
+55% and 82% at 30 and 90 days, respectively. No AEs were
+observed [136].
+
+4.9.2. Tumor Necrosis Factor (TNF)-a Inhibitors
+
+Tumor necrosis factor-a (TNF-a) plays a major role in the
+initiation of inflammatory responses [117]. Mast cells contain and release TNF-a among the other mediators upon
+activation, leading to development of inflammatory infiltration in CSU [137]. Furthermore, the serum levels of TNF-a
+in CSU are significantly higher than the healthy controls
+and are positively correlated with the severity of CSU [135,
+138]. Based on these findings, the use of TNF-o inhibitors
+for CSU has been evaluated in three case series [139-141].
+In the first series, three patients with CSU were successfully treated with etanercept (n=2) and infliximab (n= 1)
+with a long duration of remission up to 3 years [139]. In
+another series of 18 patients with CSU, treatment with
+adalimumab (n= 14) or etanercept (n=4) led to complete
+response in 12 patients and partial response in three. Of
+note, five patients had upper respiratory infections, while
+
+4 Adis
+
+A. M. Giménez-Arnau, A. Salman
+
+one patient experienced central nervous system toxicity with
+adalimumab, which resolved gradually following discontinuation of the treatment. In this series, treatment discontinuation resulted in relapse within a few weeks [140]. The most
+recent series included nine patients with CSU. Treatment
+with adalimumab for 16 weeks provided complete remission
+in three patients and partial remission in four. No significant
+change in the serum TNF-a levels could be demonstrated
+[141]. Despite the promising findings in these series, there
+is no randomized, controlled clinical trial investigating the
+use of TNF-a inhibitors for CSU. One study comparing
+etanercept with placebo was subsequently withdrawn with
+no available results (NCT01030120). Despite the limited
+evidence for all TNF-« inhibitors in treatment of CSU, the
+use of adalimumab could be suggested as a potentially useful tool for controlling CSU recalcitrant to omalizumab and
+immunosuppressive treatments.
+
+4.9.3 Other Possible Targets for Treatment
+
+Some other molecules participating in the pathogenesis of
+CSU also need to be mentioned as they might be important
+targets for treatment in the upcoming years.
+
+In patients with CSU, C5a has been shown to enhance
+histamine release from mast cells upon activation of FceRI
+through IgG autoantibodies [142]. Moreover, activation with
+CSa led to an increased basophil response in patients with
+chronic urticaria compared to healthy controls [143]. These
+finding indicate a possible role for CSa in CSU and provide
+a basis for the evaluation of CSa inhibitors (IFX-1, eculizumab) in the treatment of CSU [144, 145].
+
+Some inhibitory molecules such as SHIP and CD200R
+also deserve further attention. SHIP-negative mast cells are
+more likely to degranulate following IgE binding [146]. The
+inhibitory effects of SHIP-1 occur through the hydrolysis
+of phosphatidylinositol 3,4,5-trisphosphate and limiting the
+entry of extracellular calcium, thereby decreasing phosphoinositide 3-kinase (PI3K)-mediated mast cell activation [22,
+146, 147]. CD200R is expressed on mast cells and the use of
+agonist antibodies directed to CD200R inhibited IgE-mediated mast cell degranulation and cytokine secretion in mice
+[148]. Considering their regulatory functions on mast cells,
+the use of SHIP, CD200R antibodies, or PI3K inhibitors for
+CSU might be of interest.
+
+Histamine H4 receptors are expressed by hematopoietic
+cells including eosinophils, mast cells, neutrophils, and T cells.
+Activation of H4 receptors results in chemotaxis, cytokine
+production, immunomodulation, and inflammatory cell trafficking [149]. The use of H4R-antagonists (JNJ-7777 120) has
+been associated with reduction of histamine-mediated scratching and Th2-induced inflammation in dermatitis [150, 151].
+Another H4 receptor antagonist, ZPL-3893787, led to greater
+improvement of inflammatory skin lesions in patients with
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+atopic dermatitis compared to placebo [152]. The anti-inflammatory and anti-pruritic effects of H4R antagonists might be
+of benefit in CSU treatment.
+
+IL-31 is a pro-inflammatory cytokine mainly secreted by
+Th? cells that exerts its effects through two receptors: IL-31
+receptor A (IL-31RA) and oncostatin M receptor (OSMR)
+[117, 153]. IL-31 was shown to induce pruritus in mice, and
+furthermore, IL-31 levels were significantly higher in patients
+with CSU compared to healthy subjects, although another
+study reported normal levels of IL-31 [154-156]. Increased
+expression of OSMR protein and histamine release were also
+shown in chronic autoimmune urticaria. In addition, O9MR
+gene silencing in mice led to a decrease in inflammatory
+cytokines and number of eosinophils [157]. These data indicate that IL-31 or OSMR6 inhibitors (e.g., nemolizumab, vixarelimab) might play a role in the treatment of CSU.
+
+Increased levels of IL-6, another pro-inflammatory
+cytokine, have been demonstrated in patients with CSU. It
+was also correlated with disease severity, suggesting the role
+of systemic inflammation in CSU [158]. Tocilizumab, an
+IL-6 monoclonal antibody, led to improvement in patients
+with Schnitzler syndrome, and might be of potential benefit
+for CSU treatment [159].
+
+The increased expression of Mas-related gene X2
+(MrgX2, MRGPRX2), which is a receptor for histaminereleasing neuropeptides including substance P and vasoactive intestinal peptides, was demonstrated in mast cells
+of patients with CSU, thus making MRGPRX2 a possible
+therapeutic target [160]. The antagonists for neurokinin
+receptor-1 (e.g., aprepitant, tradipitant), which is the main
+cutaneous receptor for substance P, are under investigation
+for atopic dermatitis for their antipruritic effects and they
+might be of value for CSU as well [161].
+
+The expression of thymic stromal lymphopoietin (TSLP),
+a promotor of Th2 response, was shown to be increased in
+patients with CSU, thus making the anti-TSLP monoclonal
+antibody, tezepelumab, a potential treatment alternative for
+CSU [134, 162].
+
+Calcium-release-activated calcium modulator 1 (ORAI1)
+is a subunit of calcium-release-activated calcium channels,
+which mediate calcium influx and mast cell degranulation
+[163]. A study has demonstrated that different single nucleotide polymorphisms in the ORAII gene are associated with
+an increased risk of CSU and better response to desloratadine [164]. Thus, targeting of ORAI1 via silencing RNAs
+might be of therapeutic potential in CSU [163].
+
+5 Conclusion
+
+The future treatment of chronic urticaria will probably
+change once potential new treatments are completely developed. Omalizumab has been a milestone for the current
+
+treatment of CSU. As a result of better understanding of the
+pathogenesis of CSU, the treatment armamentarium for urticaria is likely to expand in the near future. Each of the drugs
+in development would probably offer therapeutic advantages
+in terms of efficacy in different chronic urticaria phenotypes.
+At the same time the different pharmacology chracteristics
+will show advantages, for example, faster action, complete
+and permanent control, route of administration, or safety.
+Thus we can speculate that for the future complementary,
+efficient, and safe treatments will be available for chronic
+urticaria. With the advances in pathogenesis and development of new therapeutic molecules, we might be able to aim
+to cure CSU instead of only obtaining full symptom control.
+
+Declarations
+
+Funding None.
+
+Conflict of Interest A.S. Medical advisor for Novartis. Educational
+activities for Novartis, Menarini. A.G.A. Medical Advisor for Uriach
+Pharma, Genentech, Novartis, FAES, GSK. Research Grants supported by Uriach Pharma, Novartis, Grants from Instituto Carlos III-FEDER. Educational activities for Uriach Pharma, Novartis, Genentech,
+Menarini, LEO Pharma, GSK, MSD, Almirall.
+
+Ethics approval Not applicable.
+Consent to participate Not applicable.
+Consent for publication Not applicable.
+
+Code availability Not applicable.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AHH, Baker
+D, Ballmer-Weber B, et al. The EAACI/GA*LEN/EDF/WAO
+guideline for the definition, classification, diagnosis and management of urticaria. Allergy Eur J Allergy Clin Immunol.
+2018;73:1393-414.
+
+2. Itakura A, Tani Y, Kaneko N, Hide M. Impact of chronic urticaria
+on quality of life and work in Japan: results of a real-world study.
+J Dermatol. 2018;45:963-70.
+
+3. Maurer M, Abuzakouk M, Bérard F, Canonica W, Oude Elberink
+H, Giménez-Arnau A, et al. The burden of chronic spontaneous
+urticaria is substantial: Real-world evidence from ASSURECSU. Allergy Eur J Allergy Clin Immunol. 2017;72:2005-166.
+
+4. O’Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW.
+The impact of chronic urticaria on the quality of life. Br J Dermatol. 1997;136:197-201.
+
+5. Popov TA. Challenges in the management of chronic urticaria.
+World Allergy Organ J. 2011;4:S28-31.
+
+6. Guillén-Aguinaga S, Jauregui Presa I, Aguinaga-Ontoso E,
+Guillén-Grima F, Ferrer M. Updosing nonsedating antihistamines in patients with chronic spontaneous urticaria: a systematic review and meta-analysis. Br J Dermatol. 2016;175:1153-65.
+
+7. Curto-Barredo L, Archilla LR, Vives GR, Pujol RM, Giménez-Arnau AM, Riba Archilla L, et al. Clinical features of
+chronic spontaneous urticaria that predict disease prognosis
+
+4 Adis
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15;
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+and refractoriness to standard treatment. Acta Derm Venereol.
+2018;98:641-7.
+
+Maurer M, Staubach P, Raap U, Richter-Huhn G, Bauer A, Ruéff
+F, et al. H1-antihistamine-refractory chronic spontaneous urticaria: it’s worse than we thought—first results of the multicenter
+real-life AWARE study. Clin Exp Allergy. 2017;47:684-92.
+Asero R, Pinter E, Marra AM, Tedeschi A, Cugno M, Marzano
+AV. Current challenges and controversies in the management
+of chronic spontaneous urticaria. Expert Rev Clin Immunol.
+2015;11:1073-82.
+
+Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G,
+Church MK, Giménez-Arnau A, et al. EAACI/GA?LEN/EDF/
+WAO guideline: definition, classification and diagnosis of urticaria. Allergy. 2009;64: 1417-26.
+
+Hide M, Hiragun T. Japanese guidelines for diagnosis and treatment of urticaria in comparison with other countries. Allergol
+Int. 2012;61:517-27.
+
+Zhao Z-TT, Ji C-MM, Yu W-JJ, Meng L, Hawro T, Wei J-FF,
+et al. Omalizumab for the treatment of chronic spontaneous urticaria: A meta-analysis of randomized clinical trials. J Allergy
+Clin Immunol. 2016;137:1742-1750.e4.
+
+Urgert MC, van den Elzen MTM, Knulst ACA, Fedorowicz Z,
+van Zuuren EJE. Omalizumab in patients with chronic spontaneous urticaria: a systematic review and GRADE assessment. Br J
+Dermatol. 2015;173:404-15.
+
+Tharp MD, Bernstein JA, Kavati A, Ortiz B, Macdonald K, Denhaerynck K, et al. Benefits and harms of omalizumab treatment
+in adolescent and adult patients with chronic idiopathic (spontaneous) urticaria: a meta-analysis of “real-world” evidence.
+JAMA Dermatol. 2018;02467:1-30.
+
+Maurer M, Church MK, Marsland AM, Sussman G, Siebenhaar
+F, Vestergaard C, et al. Questions and answers in chronic urticaria: where do we stand and where do we go? J Eur Acad Dermatol Venereol. 2016;30:7-15.
+
+Gimenez-Arnau AM, Valero Santiago A, Bartra Tomas J, Jauregui Presa I, Labrador Horrillo M, Miquel Miquel FJ, et al.
+Therapeutic strategy according to differences in response to
+omalizumab in patients with chronic spontaneous urticaria. J
+Investig Allergol Clin Immunol. 2019;29:338-48.
+
+Hiragun M, Hiragun T, Mihara S, Akita T, Tanaka J, Hide
+M. Prognosis of chronic spontaneous urticaria in 117 patients
+not controlled by a standard dose of antihistamine. Allergy.
+2013;68:229-35.
+
+Sahiner UM, Civelek E, Tuncer A, Yavuz ST, Karabulut E,
+Sackesen C, et al. Chronic urticaria: etiology and natural course
+in children. Int Arch Allergy Immunol. 2011;156:224-30.
+Asero R, Tedeschi A, Marzano AV, Cugno M. Chronic urticaria:
+a focus on pathogenesis. F1000Research. 2017;6:1-7.
+
+Kaplan A, Greaves M. Pathogenesis of chronic urticaria. Clin
+Exp Allergy. 2009;39:777-87.
+
+MacGlashan D. Autoantibodies to IgE and FceRI and the natural
+variability of spleen tyrosine kinase expression in basophils. J
+Allergy Clin Immunol. 2019;143:1100-1107.e11. 73.
+
+Gimborn K, Lessmann E, Kuppig S, Krystal G, Huber M. SHIP
+down-regulates FceR1-induced degranulation at supraoptimal
+IgE or antigen levels. J Immunol. 2005; 136:4565-72.
+
+Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O,
+Maurer M. Autoimmune chronic spontaneous urticaria: what
+we know and what we do not know. J Allergy Clin Immunol.
+2017;139(1772-1781):el.
+
+Grattan C. Autoimmune chronic spontaneous urticaria. J Allergy
+Clin Immunol. 2018;141:1165-6.
+
+Bracken SJ, Abraham S, MacLeod AS. Autoimmune theories of
+chronic spontaneous urticaria. Front Immunol. 2019;10:1—10.
+Wang F, Yang T, Kim B. The return of the mast cell: new roles in
+neuroimmune itch biology. J Invest Dermatol. 2020;140:945-5S1.
+
+4 Adis
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35:
+
+36.
+
+OTs
+
+38.
+
+39.
+
+40.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+A. M. Giménez-Arnau, A. Salman
+
+Saini SS, Kaplan AP. Chronic spontaneous urticaria: the Devil’s
+Itch. J Allergy Clin Immunol Pract. 2018;6:1097—106.
+
+Kaplan AP, Giménez-Arnau AM, Saini SS. Mechanisms of
+action that contribute to efficacy of omalizumab in chronic spontaneous urticaria. Allergy. 2017;72:519-33.
+
+Gober L, Sterba P, Eckman J, Saini S. Effect of anti-IgE (omalizumab) in chronic idiopathic urticaria (CIU) patients. J Allergy
+Clin Immunol. 2008;121:S147-S 147147.
+
+Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment of chronic autoimmune urticaria with omalizumab. J
+Allergy Clin Immunol. 2008;122:569-73.
+
+Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M,
+Seyfried S, et al. Efficacy and safety of omalizumab in patients
+with chronic urticaria who exhibit IgE against thyroperoxidase.
+J Allergy Clin Immunol. 2011;128(202-209):e5.
+
+Saini S, Rosen KE, Hsieh H-JJ, Wong DA, Conner E, Kaplan
+A, et al. A randomized, placebo-controlled, dose-ranging study
+of single-dose omalizumab in patients with H1-antihistaminerefractory chronic idiopathic urticaria. J Allergy Clin Immunol.
+2011;128:567-573.e1.
+
+Saini SS, Bindslev-Jensen C, Maurer M, Grob J-JJ, Biilbiil Baskan E, Bradley MS, et al. Efficacy and safety of omalizumab
+in patients with chronic idiopathic/spontaneous urticaria who
+remain symptomatic on h | antihistamines: A randomized, placebo-controlled study. J Invest Dermatol. 2015;135:67-75.
+Maurer M, Roseti K, Hsieh H-JJ, Saini S, Grattan C, GimenezArnau A, et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med. 2013;368:924-35.
+Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al. Omalizumab in patients with symptomatic chronic
+idiopathic/spontaneous urticaria despite standard combination
+therapy. J Allergy Clin Immunol. 2013;132:101-9.
+
+Hide M, Park H-SS, Igarashi A, Ye Y-MM, Kim T-BB, Yagami
+A, et al. Efficacy and safety of omalizumab in Japanese and
+Korean patients with refractory chronic spontaneous urticaria.
+J Dermatol Sci. 2017;87:70-8.
+
+Sussman G, Hébert J, Gulliver W, Lynde C, Yang WH, Papp
+K, et al. Omalizumab re-treatment and step-up in patients with
+chronic spontaneous urticaria: OPTIMA Trial. J Allergy Clin
+Immunol Pract. 2020 (Online ahead of print).
+
+Staubach P, Metz M, Chapman-Rothe N, Sieder C, Brautigam
+M, Canvin J, et al. Effect of omalizumab on angioedema in
+H, -antihistamine-resistant chronic spontaneous urticaria patients:
+results from X-ACT, a randomized controlled trial. Allergy.
+2016;71:1135—-44.
+
+Casale TB, Win PH, Bernstein JA, Rosén K, Holden M, Iqbal A,
+et al. Omalizumab response in patients with chronic idiopathic
+urticaria: insights from the XTEND-CIU STUDY. J Am Acad
+Dermatol. 2017;78:793-—5 (cited 2020 May 14).
+
+Maurer M, Kaplan A, Rosén K, Holden M, Iqbal A, Trzaskoma
+BL, et al. The XTEND-CIU study: long-term use of omalizumab in chronic idiopathic urticaria. J Allergy Clin Immunol.
+2017;141(1138-1139):e7.
+
+Finlay AY, Kaplan AP, Beck LA, Antonova EN, Balp MM, Zazzali J, et al. Omalizumab substantially improves dermatologyrelated quality of life in patients with chronic spontaneous urticaria. J Eur Acad Dermatol Venereol. 2017;31:1715-21.
+Biiyiikéztiirk S, Gelincik A, Demirtiirk M, Kocaturk E, Colakoglu
+B, Dal M. Omalizumab markedly improves urticaria activity
+scores and quality of life scores in chronic spontaneous urticaria
+patients: A real life survey. J Dermatol. 2012;39:439-42.
+Salman A, Demir G, Bekiroglu N. The impact of omalizumab on
+quality of life and its predictors in patients with chronic spontaneous urticaria: real-life data. Dermatol Ther. 2019;32:e12975.
+Ferrer M, Boccon-Gibod I, Gongalo M, inaléz HS, Knulst
+A, Lapeere H, et al. Expert opinion: defining response to
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+SI.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+omalizumab in patients with chronic spontaneous urticaria.
+Eur J Dermatol. 2017;27:455-63.
+
+Kaplan A, Ferrer M, Bernstein JA, Antonova E, Trzaskoma
+B, Raimundo K, et al. Timing and duration of omalizumab
+response in patients with chronic idiopathic/spontaneous urticaria. J Allergy Clin Immunol. 2016;137:474-81.
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov
+PS, et al. Serum autoreactivity predicts time to response to
+omalizumab therapy in chronic spontaneous urticaria. J
+Allergy Clin Immunol. 2017;139(1059-1061):e1.
+
+Deza G, Bertolin-Colilla M, Pujol RM, Curto-Barredo L, Soto
+D, Garcia M, et al. Basophil Fc3 RI expression in chronic
+spontaneous urticaria: a potential immunological predictor
+of response to omalizumab therapy. Acta Derm Venereol.
+2017;97:698-704.
+
+Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L,
+et al. Serum IgE as an immunological marker to predict response
+to omalizumab treatment in symptomatic chronic urticaria. J
+Allergy Clin Immunol Pract. 2018;6(1386—1388):e1.
+
+Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical
+response to omalizumab in chronic spontaneous urticaria patients
+is linked to and predicted by IgE levels and their change. Allergy.
+2018;73:705—-12.
+
+Deza G, Bertolin-Colilla M, Sanchez S, Soto D, Pujol RM,
+Gimeno R, et al. Basophil FceRI expression is linked to time to
+omalizumab response in chronic spontaneous urticaria. J Allergy
+Clin Immunol. 2018;141(2313-16):e1.
+
+Marzano AV, Genovese G, Casazza G, Fierro MT, Dapavo P,
+Crimi N, et al. Predictors of response to omalizumab and relapse
+in chronic spontaneous urticaria: a study of 470 patients. J Eur
+Acad Dermatol Venereol. 2019;33:918-24.
+
+Nettis E, Cegolon L, Di Leo E, Lodi Rizzini F, Detoraki A,
+Canonica G. Omalizumab in chronic spontaneous urticaria:
+efficacy, safety, predictors of treatment outcome, and time to
+response. Ann Allergy Asthma Immunol. 2018;121:474-8.
+Schoepke N, Asero R, Ellrich A, Ferrer M, Gimenez-Arnau A,
+Grattan EHC, et al. Biomarkers and clinical characteristics of
+autoimmune chronic spontaneous urticaria: results of the PURIST Study. Allergy. 2019;74:2427-36.
+
+Asero R, Marzano AV, Cugno M. Unresponsiveness to omalizumab in chronic spontaneous urticaria. Curr Treat Options
+Allergy. 2020;135-41.
+
+Curto-Barredo L, Spertino J, Figueras-Nart I, Expdésito-Serrano
+V, Guilabert A, Melé-Ninot G, et al. Omalizumab updosing
+allows disease activity control in refractory patients with chronic
+spontaneous urticaria. Br J Dermatol. 2018;179:210-2.
+
+Vadasz Z, Tal Y, Rotem M, Shichter-Confino V, Mahlab-Guri
+K, Graif Y, et al. Omalizumab for severe chronic spontaneous
+urticaria: real-life experiences of 280 patients. J Allergy Clin
+Immunol Pract. 2017;5:1743-5.
+
+Kocatiirk E, Deza G, Kizlltag K, Giménez-Arnau AM. Omalizumab updosing for better disease control in chronic spontaneous
+urticaria patients. Int Arch Allergy Immunol. 2018;177:360-4.
+Salman A, Comert E. The real-life effectiveness and safety of
+omalizumab updosing in patients with chronic spontaneous urticaria. J Cutan Med Surg. 2019;23:496—-500.
+
+Alizadeh Aghdam M, van den Broek F, Rijken F, Knulst AC,
+Réckmann H. High-dose omalizumab use in patients with
+chronic spontaneous urticaria. J Allergy Clin Immunol Pract.
+2020;8(1426-1427):e1.
+
+Metz M, Vadasz Z, Kocatiirk E, Giménez-Arnau AM. Omalizumab updosing in chronic spontaneous urticaria: an overview of
+real-world evidence. Clin Rev Allergy Immunol. 2020;59:38-45.
+Mawhirt S, Diaz J, Fonacier L. P170 Concomitant omalizumab
+and cyclosporine for chronic idiopathic urticaria: a case series.
+Ann Allergy Asthma Immunol. 2017;119:S44.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+We
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+. Salman A, Ergun T, Gimenez-Arnau AM. Real-life data on the
+
+effectiveness and safety of omalizumab in monotherapy or combined for chronic spontaneous urticaria: a retrospective cohort
+study. J Dermatolog Treat. 2020;31:204-9.
+
+Rosenblum JD, Nassau S, Fonacier L, Mawhirt SL. Concomitant treatment with omalizumab and cyclosporine for
+chronic spontaneous urticaria. Ann Allergy Asthma Immunol.
+2020;S 108 1—1206(20):30268-74.
+
+Lapeere H, Baeck M, Stockman A, Sabato V, Grosber M,
+Moutschen M, et al. A retrospective analysis omalizumab treatment patterns in patients with chronic spontaneous urticaria: a
+real-world study in Belgium. J Eur Acad Dermatol Venereol.
+2020;34:127-34.
+
+Tiirk M, Carneiro-Ledo L, Kolkhir P, Bonnekoh H, Buttgereit
+T, Maurer M. How to treat patients with chronic spontaneous
+urticaria with omalizumab: questions and answers. J Allergy Clin
+Immunol Pract. 2020;8:113-24.
+
+Niemeyer-van der Kolk T, van Maaren MS, van Doorn MBA.
+Personalized omalizumab treatment improves clinical benefit
+in patients with chronic spontaneous urticaria. J Allergy Clin
+Immunol. 2018;142:1992-4.
+
+Giménez-Arnau AM, Toubi E, Marsland AM, Maurer M. Clinical management of urticaria using omalizumab: the first licensed
+biological therapy available for chronic spontaneous urticaria. J
+Eur Acad Dermatol Venereol. 2016;30:25-322.
+
+Maurer M, Metz M, Brehler R, Hillen U, Jakob T, Mahler V,
+et al. Omalizumab treatment in patients with chronic inducible
+urticaria: a systematic review of published evidence. J Allergy
+Clin Immunol. 2017;141:1-12.
+
+Dressler C, Werner RN, Eisert L, Zuberbier T, Nast A, Maurer
+M. Chronic inducible urticaria: a systematic review of treatment
+options. J Allergy Clin Immunol. 2018;141:1726-34.
+Gastaminza G, Azofra J, Nunez-Cordoba JM, Baeza ML,
+Echechipia S, Gaig P, et al. Efficacy and safety of omalizumab
+(Xolair) for cholinergic urticaria in patients unresponsive to a
+double dose of antihistamines: a randomized mixed double-blind
+and open-label placebo-controlled clinical trial. J Allergy Clin
+Immunol Pract. 2019;7(1599-1609):e1.
+
+Maurer M, Schiitz A, Weller K, Schoepke N, Peveling-Oberhag
+A, Staubach P, et al. Omalizumab is effective in symptomatic
+dermographism—results of a randomized placebo-controlled
+trial. J Allergy Clin Immunol. 2017;140(870-873):e5.
+
+Abbas K, Shusterman A, Patel M, Sussman G. Omalizumab as
+a potential treatment option for solar urticaria in patients refractory to high dose antihistamines: a case series. J Allergy Clin
+Immunol. 2020;145:AB74.
+
+Metz M, Schiitz A, Weller K, Gorezyza M, Zimmer S, Staubach
+P, et al. Omalizumab is effective in cold urticaria—tresults of a
+randomized placebo-controlled trial. J Allergy Clin Immunol.
+2017;140(864-867):e5.
+
+Vollono L, Piccolo A, Lanna C, Esposito M, Bavetta M, Campione E, et al. Omalizumab for chronic spontaneous urticaria in
+“complex” patients: data from real-life clinical practice. Drug
+Des Devel Ther. 2019; 13:3181-6.
+
+Lai T, Wang S, Xu Z, Zhang C, Zhao Y, Hu Y, et al. Long-term
+efficacy and safety of omalizumab in patients with persistent
+uncontrolled allergic asthma: a systematic review and metaanalysis. Sci Rep. 2015;5:9548.
+
+Kavati A, Zhdanava M, Ortiz B, LeCocgq J, Schiffman B, Pilon D,
+et al. Long-term omalizumab outcomes in chronic idiopathic urticaria: a real-world study. Allergy Asthma Proc. 2019;40:321-8.
+Cherian S, Konstantinova T, Hu J, Khan SH. Safety profile of
+dual biologic therapy with omalizumab and a second biologic
+agent. J Allergy Clin Immunol. 2020;145:AB201.
+
+Namazy JA, Blais L, Andrews EB, Scheuerle AE, Cabana
+MD, Thorp JM, et al. Pregnancy outcomes in the omalizumab
+
+4 Adis
+719.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+pregnancy registry and a disease-matched comparator cohort. J
+Allergy Clin Immunol. 2020;145(528-536):e1.
+
+Cuervo-Pardo L, Barcena-Blanch M, Radojicic C. Omalizumab
+use during pregnancy for CIU: a tertiary care experience. Eur
+Ann Allergy Clin Immunol. 2016;48:145-6.
+
+Gonzdlez-Medina M, Curto-Barredo L, Labrador-Horrillo M,
+Giménez-Arnau A. Omalizumab use during pregnancy for
+chronic spontaneous urticaria (CSU): report of two cases. J Eur
+Acad Dermatol Venereol. 2017;31:e245-e246246.
+
+Arm JP, Bottoli I, Skerjanec A, Floch D, Groenewegen A, Maahs
+S, et al. Pharmacokinetics, pharmacodynamics and safety of
+QGE031 (ligelizumab), a novel high-affinity anti-IgE antibody,
+in atopic subjects. Clin Exp Allergy. 2014;44:1371-85.
+
+Gasser P, Tarchevskaya SS, Guntern P, Brigger D, Ruppli R,
+Zbiren N, et al. The mechanistic and functional profile of the
+therapeutic anti-IgE antibody ligelizumab differs from omalizumab. Nat Commun. 2020;11:165.
+
+Maurer M, Giménez-Arnau AM, Sussman G, Metz M, Baker DR,
+Bauer A, et al. Ligelizumab for chronic spontaneous urticaria. N
+Engl J Med. 2019;381:1321-32.
+
+Soong W, Bernstein J, Sussman G, Lanier B, Sitz K, Maurer M,
+et al. Long-term treatment with ligelizumab achieves prolonged
+symptom control during the post-treatment follow-up. J Allergy
+Clin Immunol. 2020;145:AB341.
+
+Sitz K, Soong W, Lanier B, Kobayashi K, Barve A, Hua E, et al.
+P153 ligelizumab reduces rescue medication use in patients
+with chronic spontaneous urticaria: phase 2b study results. Ann
+Allergy Asthma Immunol. 2019;123:S28.
+
+Soong W, Lanier B, Sitz K, Kobayashi K, Barve A, Hua E, et al.
+P151 ligelizumab achieves sustained control of angioedema in
+patients with chronic spontaneous urticaria. Ann Allergy Asthma
+Immunol. 2019;123:S27.
+
+Harris JM, Cabanski CR, Scheerens H, Samineni D, Bradley MS,
+Cochran C, et al. A randomized trial of quilizumab in adults with
+refractory chronic spontaneous urticaria. J Allergy Clin Immunol. 2016;138:1730-2.
+
+Crocker PR, Paulson JC, Varki A. Siglecs and their roles in the
+immune system. Nat Rev Immunol. 2007;7:255-66.
+
+O’Sullivan JA, Chang AT, Youngblood BA, Bochner BS. Eosinophil and mast cell Siglecs: from biology to drug target. J Leukoc
+Biol. 2020;108:73-81.
+
+Bochner BS. Siglec-8 on human eosinophils and mast cells, and
+Siglec-F on murine eosinophils, are functionally related inhibitory receptors. Clin Exp Allergy. 2009;39:317-24.
+
+Kiwamoto T, Kawasaki N, Paulson J, Bochner B. Siglec-8 as a
+drugable target to treat eosinophil and mast cell-associated conditions. Pharmacol Ther. 2012;135:327-36.
+
+Rasmussen HS, Chang AT, Tomasevic N, Bebbington C. A
+randomized, double-blind, placebo-controlled, ascending dose
+Phase 1 study of AKO002, a novel Siglec-8 selective monoclonal antibody, in healthy subjects. J Allergy Clin Immunol.
+2018;141:AB403.
+
+Hirano I, Peterson K, Murray J, Dellon E, Falk G, Gonsalves N,
+et al. AKO02, an Anti-Siglec-8 antibody, depletes tissue eosinophils and improves dysphagia symptoms in patients with eosinophilic esophagitis. J Allergy Clin Immunol. 2020;145:AB167.
+Altrichter S, Staubach P, Pasha M, Rasmussen H, Singh B, Chang
+A, et al. P152 clinical activity of Ak002, an anti-siglec-8 antibody, in multiple forms of uncontrolled chronic urticaria. Ann
+Allergy Asthma Immunol. 2019;123:S27-S2828.
+
+Altrichter S, Staubach P, Pasha M, Rasmussen H, Singh B, Chang
+A, et al. Clinical activity of AK002, an anti-siglec-8 monoclonal
+antibody, in treatment-refractory chronic urticaria. J Allergy Clin
+Immunol. 2020;145:AB239.
+
+Cohen S, Tuckwell K, Katsumoto TR, Zhao R, Galanter J,
+Lee C, et al. Fenebrutinib versus placebo or adalimumab in
+
+4 Adis
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+A. M. Giménez-Arnau, A. Salman
+
+rheumatoid arthritis: a randomized, double-blind, phase II
+Trial (ANDES Study). Arthritis Rheumatol. 2020. https://doi.
+org/10.1002/art.41275.
+
+Angst D, Gessier F, Janser P, Vulpetti A, Walchli R, Beerli
+C, et al. Discovery of LOU064 (Remibrutinib), a potent and
+highly selective covalent inhibitor of Bruton’s Tyrosine Kinase.
+J Med Chem. 2020;63:5102-18.
+
+Wedi B. Bruton tyrosine kinase inhibition in dermatology and
+allergology. Hautarzt. 2018;69:5 19-22.
+
+Smiljkovic D, Blatt K, Stefanzl G, Dorofeeva Y, Skrabs C,
+Focke-Tejkl M, et al. BTK inhibition is a potent approach to
+block IgE-mediated histamine release in human basophils.
+Allergy. 2017;72:1666-76.
+
+Dispenza MC, Pongracic JA, Singh AM, Bochner BS. Shortterm ibrutinib therapy suppresses skin test responses and eliminates IgE-mediated basophil activation in adults with peanut or
+tree nut allergy. J Allergy Clin Immunol.2018;141:1914-1916.
+e7.
+
+Gabizon R, London N. A fast and clean BTK inhibitor. J Med
+Chem. 2020;63:5100-1.
+
+Oliver ET, Sterba PM, Devine K, Vonakis BM, Saini SS. Altered
+expression of chemoattractant receptor-homologous molecule
+expressed on TH2 cells on blood basophils and eosinophils
+in patients with chronic spontaneous urticaria. J Allergy Clin
+Immunol. 2016;137(304-306):e1.
+
+Oliver ET, Chichester K, Devine K, Sterba PM, Wegner C, Vonakis BM, et al. Effects of an oral CRTh2 antagonist (AZD1981)
+on eosinophil activity and symptoms in chronic spontaneous
+urticaria. Int Arch Allergy Immunol. 2019;179:21-30.
+
+Yahara H, Satoh T, Miyagishi C, Yokozeki H. Increased expression of CRTH2 on eosinophils in allergic skin diseases. J Eur
+Acad Dermatol Venereol. 2010;24:75-6.
+
+Palikhe NS, Kim SH, Ye YM, Hur GY, Cho BY, Park HS. Association of CRTH2 gene polymorphisms with the required dose
+of antihistamines in patients with chronic urticaria. Pharmacogenomics. 2009;10:375-83.
+
+Altman K, Chang C. Pathogenic intracellular and autoimmune
+mechanisms in urticaria and angioedema. Clin Rev Allergy
+Immunol. 2013;45:47-62.
+
+Rossi A, Herlaar E, Braselmann S, Huynh S, Taylor V, Frances
+R, et al. Identification of the Syk kinase inhibitor R112 by a
+human mast cell screen [Internet]. J Allergy Clin Immunol.
+2006;118:749-55.
+
+Ramirez Molina C, Falkencrone S, Skov PS, Hooper-Greenhill E,
+Barker M, Dickson MC. GSK2646264, a spleen tyrosine kinase
+inhibitor, attenuates the release of histamine in ex vivo human
+skin. Br J Pharmacol. 2019;176:1135-42.
+
+Saini SS, Paterniti M, Vasagar K, Gibbsons SP Jr, Patricia M,
+Vonakis BM. Cultured peripheral blood mast cells from chronic
+idiopathic urticaria patients spontaneously degranulate upon IgE
+sensitization: relationship to expression of Syk and SHIP-2. Clin
+Immunol. 2009; 132:342-8.
+
+Marshall MJE, Stopforth RJ, Cragg MS. Therapeutic antibodies: what have we learnt from targeting CD20 and where are we
+going? Front Immunol. 2017;8:1245.
+
+Mallipeddi R, Grattan CEH. Lack of response of severe steroiddependent chronic urticaria to rituximab. Clin Exp Dermatol.
+2007;32:333-4.
+
+Arkwright PD. Anti-CD20 or anti-IgE therapy for severe chronic
+autoimmune urticaria. J Allergy Clin Immunol. 2009;123:510-1.
+Chakravarty SD, Yee AF, Paget SA. Rituximab successfully treats
+refractory chronic autoimmune urticaria caused by IgE receptor
+autoantibodies. J Allergy Clin Immunol. 2011;128:1354-5.
+Steinweg S, Gaspari A. Rituximab for the treatment of recalcitrant chronic autoimmune urticaria. J Drugs Dermatol.
+2015;14:1387.
+Targeted Therapy for Chronic Spontaneous Urticaria
+
+115.
+
+116.
+
+117.
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+
+123.
+
+124.
+
+125.
+
+126.
+
+127.
+
+128.
+
+129.
+
+130.
+
+131.
+
+132.
+
+133.
+
+134.
+
+Combalia A, Losno RA, Prieto-Gonzélez S, Mascaré JM. Rituximab in refractory chronic spontaneous urticaria: an encouraging
+therapeutic approach. Skin Pharmacol Physiol. 2018;31:184—7.
+Kasi PM, Tawbi HA, Oddis CV, Kulkarni HS. Clinical review:
+serious adverse events associated with the use of rituximab—a
+critical care perspective. Crit Care. 2012;16:231.
+
+Akdis M, Aab A, Altunbulakli C, Azkur K, Costa RA, Crameri
+R, et al. Interleukins (from IL-1 to IL-38), interferons, transforming growth factor B, and TNF-«: receptors, functions, and roles
+in diseases. J Allergy Clin Immunol. 2016;138:984—-1010.
+Wang D, Duncan B, Li X, Shi J. The role of NLRP3 inflammasome in infection-related, immune-mediated and autoimmune
+skin diseases. J Dermatol Sci. 2020;98:146-51.
+
+Krause K, Metz M, Makris M, Zuberbier T, Maurer M. The role
+of interleukin-1 in allergy-related disorders. Curr Opin Allergy
+Clin Immunol. 2012;12:477-84.
+
+Federici S, Martini A, Gattorno M. The central role of anti-IL-1
+blockade in the treatment of monogenic and multi-factorial autoinflammatory diseases. Front Immunol. 2013;4:351.
+
+Krause K, Mahamed A, Weller K, Metz M, Zuberbier T, Maurer
+M. Efficacy and safety of canakinumab in urticarial vasculitis:
+an open-label study. J Allergy Clin Immunol. 2013;132:751-4.
+Néel A, Henry B, Barbarot S, Masseau A, Perrin F, Bernier C,
+et al. Long-term effectiveness and safety of interleukin-1 receptor
+antagonist (anakinra) in Schnitzler’s syndrome: A french multicenter study. Autoimmun Rev. 2014;13:1035—-41.
+
+Bodar EJ, Simon A, De Visser M, Van Der Meer JWM. Complete
+remission of severe idiopathic cold urticaria on interleukin-1
+receptor antagonist (anakinra). Neth J Med. 2009;67:302-S.
+Assrawi E, Louvrier C, Lepelletier C, Georgin-Lavialle S,
+Bouaziz JD, Awad F, et al. Somatic mosaic NLRP3 mutations
+and inflammasome activation in late-onset chronic urticaria. J
+Invest Dermatol. 2020;140:791-8.
+
+Hendricks AJ, Yosipovitch G, Shi VY. Dupilumab use in dermatologic conditions beyond atopic dermatitis—a systematic
+review. J Dermatolog Treat. 2019 (ahead of print).
+
+Ferrer M, Luquin E, Sanchez-Ibarrola A, Moreno C, Sanz ML,
+Kaplan AP. Secretion of cytokines, histamine and leukotrienes in
+chronic urticaria. Int Arch Allergy Immunol. 2002;129:254-60.
+Lee JK, Simpson RS. Dupilumab as a novel therapy for difficult
+to treat chronic spontaneous urticaria. J Allergy Clin Immunol
+Pract. 2019;7(1659-1661):e1.
+
+Altrichter S, Frischbutter S, Fok JS, Kolkhir P, Jiao Q, Skov PS,
+et al. The role of eosinophils in chronic spontaneous urticaria. J
+Allergy Clin Immunol. 2020 (ahead of print).
+
+Maurer M, Altrichter S, Metz M, Zuberbier T, Church MK,
+Bergmann KC. Benefit from reslizumab treatment in a patient
+with chronic spontaneous urticaria and cold urticaria. J Eur Acad
+Dermatol Venereol. 2018;32:e112-e11313.
+
+Magerl M, Terhorst D, Metz M, Altrichter S, Zuberbier T,
+Maurer M, et al. Benefit of mepolizumab treatment in a patient
+with chronic spontaneous urticaria. J Dtsch Dermatol Ges.
+2018;16:477-8.
+
+Bergmann KC, Altrichter S, Maurer M. Benefit of benralizumab
+treatment in a patient with chronic symptomatic dermographism.
+J Eur Acad Dermatol Venereol. 2019;33:e413-e415415.
+
+Singh U, Bernstein J. Clinical efficacy of benralizumab and its
+role in modifying mechanistic pathways in chronic idiopathic
+urticaria refractory to H1-antagonists. J Allergy Clin Immunol.
+2020;145:AB249.
+
+Singh U, Bernstein J. Demonstrating clinical efficacy of benralizumab in chronic spontaneous urticaria via normalization of
+gene-expression in biological samples. J Allergy Clin Immunol.
+2020;145:AB340.
+
+Kay AB, Clark P, Maurer M, Ying S. Elevations in T-helper2-initiating cytokines (interleukin-33, interleukin-25 and thymic
+
+135.
+
+136.
+
+137.
+
+138.
+
+139.
+
+140.
+
+141.
+
+142.
+
+143.
+
+144,
+
+145.
+
+146.
+
+147.
+
+148.
+
+149.
+
+150.
+
+151.
+
+152.
+
+153.
+
+154.
+
+stromal lymphopoietin) in lesional skin from chronic spontaneous (‘idiopathic’) urticaria. Br J Dermatol. 2015;172:1294—302.
+Atwa M, Emara A, Youssef N, Bayoumy N. Serum concentration
+of IL-17, IL-23 and TNF-a among patients with chronic spontaneous urticaria: association with disease activity and autologous
+serum skin test. J Eur Acad Dermatol Venereol. 2014;28:469-74.
+Sabag D, Matanes L, Bejar J, Sheffer H, Barzilai A, Church
+M, et al. Interleukin-17 is a potential player and treatment target in severe chronic spontaneous urticaria. Clin Exp Allergy.
+2020;50(7):799-804.
+
+Hong GU, Ro JY, Bae Y, Kwon I-H, Park G-H, Choi YH, et al.
+Association of TG2 from mast cells and chronic spontaneous urticaria pathogenesis. Ann Allergy Asthma Immunol.
+2016;117:290-7.
+
+Piconi S, Trabattoni D, Iemoli E, Fusi ML, Villa ML, Milazzo
+F, et al. Immune profiles of patients with chronic idiopathic urticaria. Int Arch Allergy Immunol. 2002;128:59-66.
+
+Wilson LH, Eliason MJ, Leiferman KM, Hull CM, Powell DL.
+Treatment of refractory chronic urticaria with tumor necrosis
+factor-alfa inhibitors. J Am Acad Dermatol. 2011;64:1221-2.
+Sand FL, Thomsen SF. TNF-alpha inhibitors for chronic urticaria: experience in 20 patients. J Allergy. 2013;2013:1-4.
+Bangsgaard N, Skov L, Zachariae C. Treatment of refractory
+chronic spontaneous urticaria with adalimumab. Acta Derm
+Venereol. 2017;97:524-5.
+
+Kikuchi Y, Kaplan AP. A role for CSa in augmenting IgGdependent histamine release from basophils in chronic urticaria.
+J Allergy Clin Immunol. 2002;109:114-8.
+
+Korosec P, Subic T, Adamic K, Silar M, Kosnik M. C5a-induced
+in vitro basophil activation in patients with chronic urticaria: a
+pilot study. Wien Klin Wochenschr. 2009; 121:339-43.
+
+Giang J, Seelen MAJ, van Doorn MBA, Rissmann R, Prens EP,
+Damman J. Complement activation in inflammatory skin diseases. Front Immunol. 2018;9:1—17.
+
+Maurer M, Eyerich K, Eyerich S, Ferrer M, Gutermuth J, Hartmann K, et al. Urticaria: collegium internationale allergologicum
+(CIA) update. Int Arch Allergy Immunol. 2020;2020:321-33.
+Huber M, Helgason CD, Damen JE, Liu L, Humphries RK,
+Krystal G. The src homology 2-containing inositol phosphatase
+(SHIP) is the gatekeeper of mast cell degranulation. Proc Natl
+Acad Sci USA. 1998;95:11330-5.
+
+Kim M-S, Radinger M, Gilfillan AM. The multiple roles of
+phosphoinositide 3-kinase in mast cell biology. Trends Immunol.
+2008;29:493-501.
+
+Cherwinski HM, Murphy CA, Joyce BL, Bigler ME, Song YS,
+Zurawski SM, et al. The CD200 receptor is a novel and potent
+regulator of murine and human mast cell function. J Immunol.
+2005;174:1348-56.
+
+Zampeli E, Tiligada E. The role of histamine H 4 receptor in immune and inflammatory disorders. Br J Pharmacol.
+2009; 157:24-33.
+
+Cowden JM, Zhang M, Dunford PJ, Thurmond RL. The histamine H4 receptor mediates inflammation and pruritus in
+Th2-dependent dermal inflammation. J Invest Dermatol.
+2010;130:1023-33.
+
+Thurmond RL. The histamine H4 receptor: from orphan to the
+clinic. Front Pharmacol. 2015;6:1—11.
+
+Werfel T, Layton G, Yeadon M, Whitlock L, Osterloh I, Jimenez
+P, et al. Efficacy and safety of the histamine H4 receptor antagonist ZPL-3893787 in patients with atopic dermatitis. J Allergy
+Clin Immunol. 2019;143(1830-1837):e4.
+
+Gangemi S, Quartuccio S, Casciaro M, Trapani G, Minciullo
+PL, Imbalzano E. Interleukin 31 and skin diseases: a systematic
+review. Allergy Asthma Proc. 2017;38:401-8.
+
+Dillon SR, Sprecher C, Hammond A, Bilsborough J, Rosenfeld-Franklin M, Presnell SR, et al. Interleukin 31, a cytokine
+
+4 Adis
+155.
+
+156.
+
+157.
+
+158.
+
+159.
+
+160.
+
+161.
+
+162.
+
+163.
+
+produced by activated T cells, induces dermatitis in mice. Nat
+Immunol. 2004;5:752-60.
+
+Raap U, Wieczorek D, Gehring M, Pauls I, Stiinder S, Kapp A,
+et al. Increased levels of serum IL-31 in chronic spontaneous
+urticaria. Exp Dermatol. 2010;19:464-6.
+
+Metz M, Krull C, Maurer M. Histamine, TNF, C5a, IL-6, -9, -18,
+-31, -33, TSLP, neopterin, and VEGF are not elevated in chronic
+spontaneous urticaria. J Dermatol Sci. 2013;70:222-5S.
+
+Luo XY, Liu Q, Yang H, Tan Q, Gan LQ, Ren FL, et al. OSMR
+gene effect on the pathogenesis of chronic autoimmune Urticaria
+via the JAK/STAT3 pathway. Mol Med. 2018;24:1-13.
+Kasperska-Zajac A, Sztylc J, Machura E, Jop G. Plasma IL-6
+concentration correlates with clinical disease activity and serum
+C-reactive protein concentration in chronic urticaria patients.
+Clin Exp Allergy. 2011;41:1386-91.
+
+Krause K, Feist E, Fiene M, Kallinich T, Maurer M. Complete
+remission in 3 of 3 anti-IL-6-treated patients with Schnitzler syndrome. J Allergy Clin Immunol. 2012;129:848-S0.
+
+Fujisawa D, Kashiwakura J-I, Kita H, Kikukawa Y, Fujitani Y, Sasaki-Sakamoto T, et al. Expression of Mas-related
+gene X2 on mast cells is upregulated in the skin of patients
+with severe chronic urticaria. J Allergy Clin Immunol.
+2014;134(622-633):e9.
+
+Stander S, Siepmann D, Herrgott I, Sunderkétter C, Luger TA.
+Targeting the neurokinin receptor 1 with aprepitant: a novel antipruritic strategy. PLoS ONE. 2010;5:e10968.
+
+Takai T. TSLP expression: cellular sources, triggers, and regulatory mechanisms. Allergol Int. 2012;61:3-17.
+
+Yan S, Chen W, Zhang Y, Li J, Chen X. Calcium release-activated calcium modulator | as a therapeutic target in allergic skin
+diseases. Life Sci. 2019;228:152-7.
+
+4 Adis
+
+164.
+
+165.
+
+166.
+
+167.
+
+168.
+
+169.
+
+170.
+
+171.
+
+172.
+
+A. M. Giménez-Arnau, A. Salman
+
+Li J, Guo A, Chen W, Bin L, He Y, Zhu W, et al. Association of
+ORAI] gene polymorphisms with chronic spontaneous urticaria
+and the efficacy of the nonsedating H1 antihistamine desloratadine. J Allergy Clin Immunol. 2017;139(1386—1388):e9.
+Balbino B, Conde E, Marichal T, Starkl P, Reber LL. Approaches
+to target IgE antibodies in allergic diseases. Pharmacol Ther.
+2018;191:50-64.
+
+Geahlen RL. Getting Syk: spleen tyrosine kinase as a therapeutic
+target. Trends Pharmacol Sci. 2014;35:414-22.
+
+Mocsai A, Ruland J, Tybulewicz VLJJ. The SYK tyrosine kinase:
+a crucial player in diverse biological functions. Nat Rev Immunol. 2010;10:387-402.
+
+Horie S, Robbie SJ, Liu J, Wu W-K, Ali RR, Bainbridge JW,
+et al. CD200R signaling inhibits pro-angiogenic gene expression
+by macrophages and suppresses choroidal neovascularization. Sci
+Rep. 2013;3:3072.
+
+Dougan M, Dranoff G, Dougan SK. GM-CSF, IL-3, and IL-5
+family of cytokines: regulators of inflammation. Immunity.
+2019;50:796-811.
+
+Ferrer M, Nakazawa K, Kaplan AP. Complement dependence of
+histamine release in chronic urticaria. J Allergy Clin Immunol.
+1999;104:169-72.
+
+Wu H, Zeng M, Cho EY, Jiang W, Sha O. The origin, expression,
+function and future research focus of a G protein-coupled receptor, Mas-related Gene X2 (MrgX2). Prog Histochem Cytochem.
+2015;50:11-7.
+
+Kolkhir P, Church MK, Altrichter S, Skov PS, Hawro T, Frischbutter S, et al. Eosinopenia, in chronic spontaneous urticaria,
+is associated with high disease activity, autoimmunity, and
+poor response to treatment. J Allergy Clin Immunol Pract.
+2020;8:318-25.e5.
+

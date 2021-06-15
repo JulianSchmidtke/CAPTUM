@@ -1,0 +1,1768 @@
+Theranostics 2017, Vol. 7, Issue 5
+
+ea
+
+ 
+
+IVYSPRING
+
+Ei INTERNATIONAL PUBLISHER
+
+1266
+
+Theranosties
+
+2017; 7(5): 1266 -1276. doi: 10.7150/thno.18304
+
+Research Paper
+
+Clinical efficacy of omalizumab in chronic spontaneous
+urticaria is associated with a reduction of FceRI-positive
+cells in the skin
+
+Martin Metz!, Petra Staubach?, Andrea Bauer’, Randolf Brehler*, Janine Gericke, Michael Kangas®, Joanna
+
+Ashton-Chess°, Philip Jarvis®, Panayiotis Georgiou5t, Janice Canvin5, Rainer Hillenbrand5, Veit J.
+
+Erpenbeck®, Marcus Maurer!™
+
+PONE
+
+Department of Dermatology and Allergy, Charité - Universitatsmedizin, Berlin, Germany;
+Department of Dermatology, University Medicine Mainz, Germany;
+
+Department of Dermatology, University Allergy Center, University Hospital Carl Gustav Carus, Technical University Dresden, Germany;
+Department of Dermatology, University Hospital Muenster, Germany;
+
+Translational Medicine, Novartis Pharma AG, Basel, Switzerland
+
+* Current address: Novartis Pharma AG, Basel, Switzerland
+
++ Current address: Clovis Oncology, Cambridge UK.
+
+© Corresponding author: Marcus Maurer, MD, Professor of Dermatology and Allergy, Director of Research, Dpt. of Dermatology and Allergy,
+Allergie-Centrum-Charité, Charité - Universititsmedizin Berlin, Charitéplatz 1 * 10117 Berlin * Germany. Tel +49 30 450 518 043; Email:
+Marcus.Maurer@charite.de
+
+© Ivyspring International Publisher. This is an open access article distributed under the terms of the Creative Commons Attribution (CC BY-NC) license
+(https:/ /creativecommons.org/licenses/by-nc/4.0/). See http:/ /ivyspring.com/terms for full terms and conditions.
+
+Received: 2016.11.11; Accepted: 2017.01.16; Published: 2017.03.06
+
+Abstract
+
+ 
+
+Background. Treatment with omalizumab, a humanized recombinant monoclonal anti-IgE antibody, results
+in clinical efficacy in patients with Chronic Spontaneous Urticaria (CSU). The mechanism of action of
+omalizumab in CSU has not been elucidated in detail.
+
+Objectives. To determine the effects of omalizumab on levels of high affinity IgE receptor-positive (FceRI*)
+and IgE-positive (IgE+) dermal cells and blood basophils. Treatment efficacy and safety were also assessed.
+
+Study design. In a double-blind study, CSU patients aged 18-75 years were randomized to receive 300 mg
+omalizumab (n=20) or placebo (n=10) subcutaneously every 4 weeks for 12 weeks. Changes in disease
+activity were assessed by use of the weekly Urticaria Activity Score (UAS7). Circulating IgE levels, basophil
+numbers and levels of expression of FceRI* and IgE* cells in the skin and in blood basophils were determined.
+
+Results. Patients receiving omalizumab showed a significantly greater decrease in UAS7 compared with
+patients receiving placebo. At Week 12 the mean difference in UAS7 between treatment groups was -14.82
+(p=0.0027), consistent with previous studies.
+
+Total IgE levels in serum were increased after omalizumab treatment and remained elevated up to Week 12.
+Free IgE levels decreased after omalizumab treatment.
+
+Mean levels of FceRI* skin cells in patients treated with omalizumab 300 mg were decreased at Week 12
+compared with baseline in the dermis of both non-lesional and lesional skin, reaching levels comparable with
+those seen in healthy volunteers (HVs). There were no statistically significant changes in mean FceRI* cell
+levels in the placebo group. Similar results were seen for changes in IgE* cells, although the changes were not
+statistically significant.
+
+The level of peripheral blood basophils increased immediately after treatment start and returned to Baseline
+values after the follow-up period. The levels of FceRI and IgE expression on peripheral blood basophils were
+rapidly reduced by omalizumab treatment up to Week 12.
+
+Conclusions. Treatment with omalizumab resulted in rapid clinical benefits in patients with CSU. Treatment
+with omalizumab was associated with reduction in Fc€ RI+ and IgE* basophils and intradermal cells.
+
+ 
+
+Key words: Omalizumab, Chronic Spontaneous urticaria, mode of action
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+Introduction
+
+Omalizumab  (Xolair®) is a recombinant
+humanized monoclonal antibody that binds to IgE at
+its binding site to the high-affinity IgE receptor (FceRI)
+[1]. Free IgE levels fall between 89 to 98% over 16 to 24
+weeks of therapy. Associated with the decrease in free
+IgE levels is a down-regulation in the expression of
+FceRI receptors on basophils and mast cells [2-4]. In
+addition, recent data show that omalizumab is able to
+dissociate pre-bound IgE from mast cells and
+basophils [5, 6].
+
+Omalizumab is effective in the treatment of
+chronic spontaneous / idiopathic urticaria (CSU /
+CIU) [7-13] including in patients who have relapsed
+after stopping treatment with omalizumab [14].
+Omalizumab is approved for the treatment of CSU (in
+the EU) and CIU (in the USA) patients who remain
+symptomatic despite H1-antihistamine treatment [15,
+16].
+
+Urticaria is characterized by the development of
+hives, angioedema, or both [17]. Pathogenesis of CSU
+is not fully understood [17]. It appears to be a mast
+cell- and basophil-mediated hypersensitivity reaction
+[18-22]. Histamine and other mediators are released
+on activation of basophils and mast cells, and these
+mediators ultimately give rise to the clinical signs and
+symptoms of CSU. The pathology of CSU lesions
+resembles that of allergen-mediated late-phase skin
+reactions, suggesting involvement of FceRI activation
+of mast cells and basophils [23]. Antigen cross-linking
+of IgE bound to FceRI is a known mediator of basophil
+and mast cell activation [24]. Also, approximately 45%
+of CSU patients have _histamine-releasing
+autoantibodies against either FceRI or IgE [25, 26]; the
+clinical significance is unclear, but as cross-linking of
+IgE or FceRI on mast cell or basophil surface may
+result in activation and release of inflammatory
+mediators [27-29], these antibodies may be involved
+in disease pathogenesis [30, 31]. It has also been
+suggested that basophils in CSU patients may have
+distinct alterations in FceRIla mediated degranulation,
+independent of any role of autoantibodies [32-34].
+
+Little is known about the effects of omalizumab
+on basophil numbers and function in CSU. A previous
+skin biopsy study in patients with allergic rhinitis [4]
+showed that omalizumab treatment was associated
+with a decrease in the number of FceRI* mast cells in
+the skin and basophils in the blood, and that this was
+associated with a reduction in the size of
+allergen-induced hives in intradermal skin tests.
+Treatment with omalizumab reduced serum IgE and
+IgE* cells in the airway mucosa of patients with
+allergic asthma [35]. The effects of omalizumab on
+
+1267
+
+basophils from the circulation of CSU patients has
+been described before [36] but little is known about
+local effects of omalizumab treatment in the skin.
+Therefore, the current study took biopsies from
+lesional and non-lesional skin of CSU patients, to
+evaluate the effects of treatment with omalizumab on
+basophil numbers and levels of FceRI* and IgE* skin
+cells in CSU patients compared with that of skin from
+healthy volunteers.
+
+Methods
+
+This was an exploratory, double-blind, parallel
+group, randomized, placebo-controlled Phase II study
+(NCT01599637, EudraCT no. 2011-004216-31; Figure
+1). Patients were enrolled at 4 centers in Germany.
+The study was conducted in accordance with
+applicable local regulations (including European
+Directive 2001/20/EC, US Code of Federal
+Regulations Title 21, and Japanese Ministry of Health,
+Labor, and Welfare), the International Conference on
+Harmonization E6 Guideline for Good Clinical
+Practice, and the ethical principles of the Declaration
+of Helsinki. The study protocol and all amendments
+were reviewed by the Independent Ethics Committee
+(IEC) or Institutional Review Board (IRB) for each
+center and written informed consent was obtained
+from study participants before enrollment.
+
+Study design
+
+For CSU patients, the study consisted of a 10-day
+screening period, during which patient eligibility for
+study entry was assessed, followed by a 3-day
+washout period and a 14-day baseline period (Figure
+1). During this period, urticaria activity was assessed.
+In patients who had taken rescue medication due to
+high disease activity (a short-acting, non-sedating
+antihistamine), the following day was not counted in
+order to exclude any carry-over effect. However, if the
+urticaria activity score (UAS) for that day was 6, the
+day was counted irrespective of medication use on the
+previous day. For the calculation of the baseline UAS7
+seven individual days were calculated counting
+backwards, beginning with the last day before
+randomization. The treatment period was 12 weeks;
+on Day 1 of the treatment period, patients were
+randomized in a 2:1 ratio to omalizumab 300 mg or
+placebo (3 subcutaneous doses at 4-weekly intervals,
+ie. at Day 1, Week 4 and Week 8). After stopping the
+treatment, patients were followed for an additional 8
+weeks (follow-up). The total duration of the study per
+patient was approximately 23 weeks. Skin biopsies
+were taken from CSU patients at baseline, Week 1,
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+Week 4 (optional), Week 12, and Week 20 (after
+follow-up) from non-lesional and lesional skin (as
+available). The optional biopsy at Week 4 was taken
+from patients who showed response to treatment at
+that time-point (defined as UAS7 <6), while no
+response (UAS7 216) was seen at Week 1. On dosing
+days (Day 1 and Day 29), biopsies were taken
+pre-dose and blood samples were taken for
+measurement of basophils. The eligibility of the
+healthy volunteers (HVs) was assessed at a screening
+visit, then at Day 1 a single skin biopsy was collected
+and study completion assessments performed.
+
+Study population
+
+The study included patients, aged 18 to 75 years,
+diagnosed with CSU who remained symptomatic
+despite H1-antihistamine treatment at approved
+doses, defined as presence of itch and hives for over 6
+weeks prior to baseline, with UAS7 score of at least 16
+and itch component of UAS7 of at least 8 during the 14
+days prior to randomization. Patients had to have had
+a CSU diagnosis for at least 6 months, and be on an
+approved dose of an H1-antihistamine for CSU prior
+to entering the study.
+
+Exclusion criteria included weight >130 kg or
+<40 kg at screening; heavy smoking; chronic urticaria
+other than CSU; diseases with symptoms of urticaria
+or angioedema (e.g. urticarial vasculitis, urticaria
+pigmentosa, erythema multiforme, mastocytosis,
+hereditary or acquired angioedema, lymphoma,
+leukemia, or generalized cancer); history or presence
+of atopic dermatitis, bullous pemphigoid, dermatitis
+herpetiformis, senile pruritus or other skin disease
+associated with itch; evidence of parasitic infection;
+any clinically relevant major systemic disease that
+
+D1 W1
+Dose
+
+3d washout
+
+-2 weeks
+
+-4 weeks 1,
+Screening Baseline Period
+
+Treatment
+
+Ww4
+Dose
+
+1268
+
+could potentially complicate interpretation of study
+results; and inability to comply with study and
+follow-up procedures. All subjects (both CSU patients
+and controls) with asthma and atopic dermatitis were
+excluded. History of clinically significant
+hypersensitivity to omalizumab or similar drugs, or to
+local anesthetics, and history of anaphylactic shock
+were also exclusion criteria.
+
+Patients were not allowed to be using other
+investigational drugs at the time of randomization
+(Day 1), or within 30 days or 5 half-lives of
+enrollment, whichever was longer; could not have
+had previous treatment with omalizumab; could not
+be receiving routine doses of systemic or topical
+corticosteroids, hydroxychloroquine, methotrexate,
+cyclosporine, cyclophosphamide or any other
+immunomodulating drug (e.g. interferons) that could
+alter the response to omalizumab treatment, or IV
+immunoglobulin G, or plasmapheresis within 30 days
+prior to -2 weeks. Regular oral doxepin use within 6
+weeks prior to -2 weeks, use of any H2 antihistamine
+or any leukotriene receptor antagonists (LTRAs)
+within 7 days prior to -2 weeks, or use of any H1
+antihistamines at greater than approved doses within
+3 days prior to -2 weeks were also not permitted.
+Patients needed to be on stable doses for 4 weeks prior
+to randomization (Day 1). Loratadine (a short-acting,
+non-sedating antihistamine), was allowed to be used
+as a rescue medication on an as needed basis up to 4
+times the recommended dose of 10 mg, for
+angioedema or other reasons specified by the patient.
+The use of loratadine was documented by the patient
+ina diary.
+
+ws
+Dose
+
+wi2 w20
+
+ 
+    
+
+Follow-up
+
+ 
+
+tT
+
+Mandatory Opti
+biopsies
+
+biopsies
+
+Single biopsy taken
+
+D, Day; W, Week on Day 1 from HVs
+
+  
+
++
+
+Mandatory
+biopsies
+
+ional Mandatory
+
+biopsies
+
+Optional biopsy at Week 4 for patients who showed response to treatment at that time point while no response was seen at
+Week 1. Response was defined as UAS7 s 6, Non-response was UAS7 2 16. On dosing days (Day 1 and Week 4), biopsies
+
+were taken pre-dose.
+
+CSU patients who were experiencing symptoms and whose skin was macroscopically affected had lesional skin, while those
+
+that were not had non-lesional skin.
+
+Figure I. Study design.
+
+ 
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+Age and gender-matched healthy volunteers
+participated in the study to the CSU patients, and
+were in good health. Exclusion criteria for healthy
+volunteers were similar to those for CSU patients
+(except for those criteria specifically related to
+urticaria and its treatment), with the addition of the
+use of any prescription drug or over-the-counter
+medication within 2 weeks prior to Day 1
+(paracetamol was acceptable, but its use had to be
+documented).
+
+Study endpoints
+
+The primary variable was the relative change
+from baseline to Week 12 in the FceRI* and/or IgE*
+skin cells, based on skin biopsies collected from CSU
+patients. Skin biopsy data from healthy volunteers
+were used as a reference for data from CSU patients.
+
+Assessments
+
+Clinical efficacy and quality of life were assessed
+using UAS7, patient's and investigator's global
+assessment of symptoms using a graded Likert scale
+scoring of symptoms (urticaria lesions [hives] and
+itch), angioedema, Dermatology Life Quality Index
+(DLQI), Skindex-29, and Chronic Urticaria Quality of
+Life Questionnaire (CU-Q:OL) [37].
+
+Patient symptoms of itch and hives were
+recorded via electronic diary (eDiary) each morning
+and evening on a daily basis to assess UAS. The
+composite eDiary-recorded score with numeric
+severity intensity ratings on a scale of 0-3 (0 = none to
+3 = intense/severe) for the number of hives and the
+intensity of itch. Daily UAS was calculated as the
+average of the morning and evening scores; UAS7 is
+the sum of the daily UAS scores over 7 days. Response
+to treatment was defined as a 90% reduction from
+baseline in UAS7, a cut-off previously used to
+illustrate complete response in a retreatment study
+[14].
+
+Safety was assessed in terms of the frequency
+and severity of adverse events (AEs), vital signs, ECG
+evaluations, and clinical laboratory measurements.
+Serum omalizumab concentrations were evaluated
+using a validated ELISA method with an anticipated
+Lower Limit of Quantification (LLOQ) of 28 ng/mL.
+
+Measurement of basophils
+
+Blood samples were taken and incubated with
+antibodies (Lineage cocktail-FITC [Becton Dickinson],
+CD203c/PerCPCy5.5 [Biolegend], IgE-PE [Biolegend]
+and FceR1-APC [eBioscience]) at RT, fixed with 1%
+paraformaldehyde in phosphate buffered saline (PBS)
+and the samples stored frozen at -80°C before
+shipment on dry ice to a central processing laboratory.
+Thawed samples were processed as follows: after
+centrifugation for 7 min at 500g at RT, the pellets were
+
+1269
+
+washed and aspirated twice, before being
+resuspended in 2001 1% paraformaldehyde in PBS.
+They were then analyzed within 4 hours by
+fluorescent antibody cell sorting (FACS) performed
+on a FACS-Canto II (Becton Dickinson, CA, USA)
+using the FACSDiva software after adjustment with
+antibodies bound to compensation particles. Mean
+values and the coefficient of variation (CV) were
+calculated and a CV <30% was acceptable.
+
+Analysis of IgE
+
+Blood samples were collected into additive free
+tubes and allowed to clot over a minimum of 30 min
+at room temperature (RT). Serum was collected after
+centrifugation at approximately 3500 rpm for 10 min.
+Serum samples were split into 2 aliquots and stored at
+-20°C until analysis at the central laboratory. Serum
+levels of free IgE and total IgE (i.e. the sum of free and
+bound IgE) were determined by _ specific
+immunoassays, as described previously [38].
+
+Biopsies
+
+Patients provided biopsies from non-lesional
+and lesional skin (as available). An optional biopsy
+could be performed at Week 4; this was targeted at
+slower responding patients and therefore the
+numbers of biopsies collected at this time-point
+depended on response to treatment. Skin biopsies
+with a minimum diameter of 6 mm were taken at each
+scheduled time-point. Baseline biopsies were taken
+from one location with lesional skin and from one
+with non-lesional skin. Following treatment, biopsies
+were taken at locations close to the locations chosen at
+baseline. Biopsy samples were stored at -80°C until
+sectioned.
+
+Histopathology procedures
+
+Biopsy samples were examined using
+immunohistochemistry techniques. Samples from
+skin biopsies were sectioned (5 um) with a cryostat at
+approximately -21°C and placed on glass slides. After
+fixing with acetone (-20°C for 10 min), sections were
+dried and kept at -20°C. Staining (IHC, Giemsa, or
+H&E) was carried out on thawed samples.
+
+Immunohistochemical staining with alkaline
+phosphatase (AP) was performed to analyze FceRI
+and IgE. Samples were thawed and_ blocked
+sequentially with biotin and avidin for 15 mins at RT,
+followed by 2% fetal calf serum (FCS) in Tris-buffered
+saline (TBS) for 20 mins at RT. Samples were then
+incubated with specific primary antibodies, diluted in
+TBS + 1% FCS for 1 hour at RT: mouse anti-CD117 (BD
+555713), diluted 1:400; mouse anti-CD11c (BD 550375)
+diluted 1:400; mouse anti-CD8 (DakoM7103) diluted
+1:150; mouse anti CD4 (Dako M7310) diluted 1:200;
+mouse anti-CD3 (Dako (M7254) diluted 1:400; mouse
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+anti FCeR1 (eBioscience 14-5899) diluted 1:400; mouse
+anti-tryptase (Dako M7052) diluted 1:500; or rabbit
+anti-lgE (Dako A0094) diluted 1:5000. Negative
+control staining was carried out using the same
+concentration of IgGl (Dako X0931), IgG2bk
+(eBioscience 14-4732) or rabbit IgG (Dako X0936).
+
+Samples were then incubated with a biotinylated
+secondary antibody (Link Antibody ready to use,
+Dako REAL Detection System K50050) for 15 mins at
+RT, then with streptavidin-alkaline phosphatase
+(Dako REAL Detection System K5005) for 15 mins at
+RT, then with levamisole for 15 mins at RT before
+being counterstained with hematoxylin for 5 seconds
+at RT and mounted in aqueous solution.
+
+Hematoxylin and eosin staining was carried out
+on cryosections using Papanicolaous Solution la
+Harris’ hematoxylin solution (Merck # 1.09253.2500)
+and Eosin-Phloxin Solution (Hollborn, 1 L, # 601017).
+Samples were mounted in Clarion environmentally
+safe permanent mounting media.
+
+Alkaline Giemsa-Staining was carried out on
+cryosections using Giemsa Azur Eosin-Methylenblau
+1:10 with 2% sodium borate solution before mounting
+with Clarion environmentally safe permanent
+mounting media.
+
+Skin biopsy samples were scored on an average
+number of positive cells from 5 visual fields.
+
+Data analyses
+
+Analyses of cellular data were based on the
+pharmacodynamic (PD) analysis population, which
+included all subjects who received at least one dose of
+study drug and had evaluable PD data. The primary
+variable was the relative change from baseline in
+FceRI* and/or IgE* skin cells, based on skin biopsies
+collected from patients with CSU after 12 weeks of
+treatment relative to placebo. A _ two-tailed
+two-sample t-test was used to compare groups that
+employed a 5% significance level.
+
+Correlation between UAS7 and the FcsRI- and
+IgE-positive skin cells for baseline values and for the
+change from baseline to Day 85 was assessed using
+Spearman’s and Pearson's correlation analysis. All
+results are given as two-tailed p-values, and p<0.05
+was considered statistically significant.
+
+All efficacy analyses were performed on the
+intent-to-treat (ITT) population which included all
+randomized patients who received at least one dose of
+study drug and had post-randomization efficacy data.
+The treatment groups were based on the treatment
+assigned at randomization. For efficacy endpoints,
+descriptive statistics were provided by treatment
+group and time-point. UAS7 was also modeled using
+a repeated measures ANCOVA model with baseline
+UAS7 score as a covariate, and treatment, time, and
+
+1270
+
+treatment by time interaction as fixed factors.
+All subjects who received at least one dose of
+study drug were included in the safety analysis.
+
+Results
+Disposition of participants
+
+Thirty patients were randomized to treatment,
+20 in the omalizumab group and 10 in the placebo
+group (Figure 2). One patient receiving omalizumab
+discontinued prematurely (due to an AE), as did two
+patients in the placebo group (due to administrative
+problems). Data were analyzed from 17
+omalizumab-treated patients and 9 patients in the
+placebo group. All 10 healthy volunteers who entered
+the study completed their single study visit.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 Healthy
+CSU patients volunteers
+Randomized Entered
+n=30 n=10
+Omalizumab 300 mg Placebo
+Allocated: n = 20 Allocated: n = 10
+Received: n = 20 Received: n = 10
+Discontinued: Discontinued:
+Adverse event(s): ||Administrative problems:
+n=1 n=2
+I I
+Completed Completed Completed
+n=19 n=8 n=10
+Analyzed Analyzed Provided biopsy
+PD: n= 20 PD:n=10 data
+Safety: n = 20 Safety: n = 10 n=10
+Efficacy: n = 17 Efficacy: n= 9
+(no post-baseline (no post-baseline
+efficacy data: n = 3) efficacy data: n = 1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2. Participant flow.
+
+ 
+
+Participant demographics and baseline
+characteristics
+
+The omalizumab and placebo groups of CSU
+patients were generally well matched for
+demographic characteristics. All patients were
+Caucasian and 87% were female. The mean age was
+38.7 years, with a range of 23 to 63 years. The mean
+BMI was 27.7 kg/m?. There were four subjects with
+reported allergies in the omalizumab-treated group
+and one subject in the placebo-treated group.
+
+Of the 10 healthy control subjects, all were
+Caucasian and female, with a mean age of 36.4 years
+(range 24 to 51 years) and mean BMI of 24.2 kg/m2.
+
+UAS7 scores at baseline were comparable
+between the groups. Mean (SD) baseline serum total
+IgE concentrations were 1037 (2474) ng/mL in the
+omalizumab 300 mg group and 442 (581) ng/mL in
+the placebo group (Table 1).
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+Omalizumab reduces CSU activity
+
+Decreases in UAS7 after omalizumab treatment
+initiation were rapid (with separation of the curves at
+Day 3) and sustained (Figure 3). At Week 12, the LS
+mean difference in UAS7 between treatment groups
+was -14.82 (p=0.0027).
+
+More than 50% of patients in the omalizumab
+group were UAS7 responders at Week 12 (Figure 4).
+About half of these had become responders by the end
+of Week 2. In contrast, <15% of patients receiving
+placebo had improved by Week 12, without any
+change occurring by Week 2.
+
+The DLQI overall score, Skindex-29 score and
+CU-Q,OL overall score all showed larger decreases
+from baseline in the omalizumab group than the
+placebo group. Mean (SD) scores at Week 12 are
+shown in Table 2. In addition, physicians’ and
+patients’ global assessment scores, itch, hives scores as
+well as loratadine use showed statistically significant
+
+1271
+
+differences between omalizumab and placebo-treated
+patients at Week 12 (Table 2).
+
+Table 1. Demographic summary.
+
+ 
+
+Omalizumab Placebo Healthy
+300 mg, volunteers
+N=20 N=10 N=10
+Age (years) 37.5 (11.0) 41.1 (8.0) 36.4 (9.7)
+Height (cm) 171.4 (7.3) 172.1 (10.8) 166.4 (6.3)
+Weight (kg) 78.5 (16.0) 87.4 (21.6) 66.9 (13.4)
+Female - n (%) 18 (90) 8 (80) 10 (100)
+Race Caucasian-n 20 (100) 10 (100) 10 (100)
+(%)
+BMI (kg/m?) 26.8 (5.8) 29.3 (5.6) 24.2 (5.3)
+Baseline IgE (ng/ml) 1037 (2474) 442 (581) N/A
+Baseline UAS7 32.2 (8.0) 31.6 (7.7) N/A
+
+Data are provided as mean (Standard deviation) unless otherwise indicated
+
+‘Age was calculated from date of screening and date of birth
+
+Weight and height were taken from screening vital signs evaluations
+
+BMI, Body Mass Index , UAS, Urticaria Activity Score , UAS7, the sum of the daily
+UAS scores over 7 days, IgE, Immunoglobulin E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ik Treatment Group: —e— Omalizumab 300mg = = A= = Placebo
+Dose of
+UY q Omalizumab
+n
+a
+=<
+2
+=
+5
+§
+=
+Treatment period Follow-up period
+Saas a a a a toot ot
+Boel 123 4 5 6 7 8 9 10 11 12 13 14 18 16 17 18 19 20
+Weeks
+B
+64
+y Dose of Omalizumab y
+4
+8
+no
+a
+=<
+s
+>
+‘S
+a
+=
+a
+2.
+=
+8
+=
+14
+o4
+ee
+7 4 5 4 3 2 -1 i’) 1 4 3.4 5 6 er 8
+Day
+*p<0.05
+
+Figure 3. Longitudinal UAS7 modulation by treatment. Mean (SEM) UAS7 by treatment and week over the treatment and follow-up period (A) or by UAS
+
+per day during the first week of the treatment period (B).
+
+ 
+
+http://www.thno.org
+1272
+
+Theranostics 2017, Vol. 7, Issue 5
+
+Treatment Group: © —= Omalizumab -- Placebo
+
+554
+507
+454
+404
+354
+304
+257
+2074
+154
+104 |
+54 H
+i
+2 s
+
+T T T T T T T T T
+123 4 5 6 7 8 9
+
+ 
+
+% responders
+
+ 
+
+ 
+
+T T 1
+10 11 12
+
+Figure 4. Responders to treatment. Proportion of patients with a defined
+first occurrence of UAS7 response, defined as a greater than 90%
+reduction from baseline in UAS7 score (UAS7 is the sum of the daily UAS
+scores over 7 consecutive days).
+
+increased after the first treatment and remained
+elevated up to Week 12. The increase largely occurred
+by Day 8. No change was observed in placebo-treated
+subjects and in these subjects total IgE equals free IgE
+(Figure 5A).
+
+In omalizumab-treated subjects, the free IgE
+levels decreased after the first treatment and
+remained suppressed until Week12 (Figure 5B).
+Virtually all of the decrease occurred during the first
+48 hours following treatment.
+
+Table 2. Clinical efficacy data at Week 12.
+
+Efficacy analysis set Mean (SD) change from baseline at Week 12
+
+ 
+
+ 
+
+Omalizumab increases total serum IgE levels
+
+Total serum IgE levels are known to increase 3to 5-fold after omalizumab administration due to
+formation of IgE-anti-IgE complexes and altered rates
+of clearance. In this study, total IgE serum levels
+
+A
+
+Omalizumab (n=17) Placebo P-value
+(n=8)
+Itch assessment score -11.4 (6.53) -3.8 (6.63) 0.0127
+Hives assessment score -11.6 (7.29) -3.8 (7.72) 0.0223
+Loratadine use -1.5 (1.91) 13 (3.41) 0.0143
+(days/week)
+Mean (SD) at Week 12
+Omalizumab Placebo P-value
+(n=8)
+DLQI overall score 3.8 (6.59), n=16 14.6 (10.77) 0.0058
+Skindex-29 score 6.17 (7.12), n=16 22.63 (10.28) 0.0001
+CU-Q:OL overall score 14.51 (22.32),n=17 53.53 (29.82) 0.0013
+Physician’s Global 0.8 (1.01), n=17 2.0 (1.31) 0.0191
+Assessment
+Patient's Global 0.9 (1.05), n=17 1.9 (0.99) 0.0336
+Assessment
+
+DLQI, Disability Life Quality Index; CU-Q,OL, Chronic Urticaria Quality of
+Life Questionnaire
+
+Treatment Group: —-e— Omalizumad 300mg = - A-- Placebo
+
+ 
+
+3000
+
+2000
+
+1000
+
+Mean serum total IgE (ng/mL)
+
+ 
+
+ 
+
+1500
+
+1000 +f
+
+ 
+
+Mean serum free IgE (ng/mL)
+
+ 
+
+— —+
+
+ 
+
+Time
+
+ 
+
+i)
+
+ 
+
+ 
+
+1T T
+D1iD2 wi w4
+
+D, Day; W, Week
+
+T
+we wi2
+Time
+
+Figure 5. Total IgE (A) and Free IgE (B) serum levels shown as mean (SEM). For serum free IgE at Day | (baseline), total IgE data was used. D, day; W,
+
+week
+
+ 
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+Omalizumab increases peripheral blood
+basophils and reduces basophil FceRI and IgE
+expression
+
+Mean levels of basophils are low in untreated
+CSU patients. In patients treated with omalizumab
+there was a non-statistically significant increase in
+peripheral blood basophils over the treatment period
+compared with placebo, mostly occurring by Week 2,
+but basophil levels returned to patients’ baseline
+values after the follow-up period (Figure 6A).
+
+Omalizumab treatment reduced FceRI and IgE
+expression on peripheral blood basophils early in the
+treatment period (by Week 1) and the reduction was
+sustained through to Week 12 (Figure 6B and C).
+These values started to return towards baseline, but
+did not reach baseline values during the follow-up
+period.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Treatment Group: —-e— Omalizumab 300mg - - A= = ‘Placebo
+250 4
+
+o 20074
+
+Da
+
+Go
+
+£2 1505
+
+o=
+
+3
+
+58 100 4
+
+2
+
+OE sod
+
+a6
+
+ce
+
+6 07
+
+=
+1—1—T T T T
+D1 Wi wW2 W4 Wwi2 w20
+D2
+
+B
+
+o
+
+Da
+
+So
+
+2
+
+=3
+
+oS
+
+S2
+
+o£
+
+a6
+
+ce
+
+S
+
+®
+
+=
+1 T T T
+D1 wi w2 W4 Wwi2 w20
+D2
+
+c
+
+o 204
+
+aD
+
+< |.
+
+Go
+
+ss
+
+#3 0
+
+58
+
+$a
+
+g
+
+a5
+
+c& 507
+
+G
+
+2
+
+=
+
+-100 +,
+
+11 T T T
+Di WI W2 W wi2 w20
+
+D2
+
+D, Day; W, Week
+
+Figure 6 Changes in peripheral blood basophils during omalizumab
+treatment (mean, SEM). A: Peripheral blood basophils. B: FceRI
+expression. C: IgE expression. (* p<0.05, **p<0.01, and ***p<0.001; NS,
+not significant).). D, day; W, week.
+
+1273
+
+Omalizumab treatment normalized levels of
+FceRI* and IgE* skin cells
+
+Mean levels of FceRI and IgE expressing cells
+were higher in untreated CSU patients compared with
+HVs. Omalizumab, but not placebo, reduced these
+levels to those seen in HVs. In patients treated with
+omalizumab, mean levels of FceRI* cells were
+statistically significantly decreased at Week 12
+compared with baseline (Day 1) in non-lesional skin
+(14.7 vs. 14.2 in HVs per visual field). Similar changes
+were observed for lesional skin (data not shown). No
+statistically significant changes in mean FceRI* cell
+levels occurred in the placebo group (Figure 7).
+
+Similarly, mean levels of IgE* cells in the dermis
+of the omalizumab-treated patients were reduced to
+levels comparable with those of HVs at baseline.
+Decreases from baseline to Week 12 in mean levels of
+IgE* cells were observed in patients treated with
+omalizumab in dermis of non-lesional skin (9.80 vs.
+8.76 in HV per visual field), (Figure 7). Little
+difference was observed for lesional skin (data not
+shown).
+
+There was a good correlation of baseline UAS7
+scores and FceRI-positive skin cells at baseline in
+lesional and non-lesional skin and the changes from
+baseline for these two parameters correlated for the
+non-lesional skin. No correlations were observed
+between UAS7 and IgE-positive skin cells at baseline
+but changes in UAS7 correlated with changes in
+IgE-positive skin cells after treatment in non-lesional
+skin as shown by Spearman correlation coefficient
+(Table 3).
+
+Table 3. Correlation between UAS7 and FceRI-positive skin cells
+at baseline.
+
+Skin sample N Pearson Correlation
+
+(p-value)
+
+Spearman Correlation
+(p-value)
+
+ 
+
+ 
+
+Correlation between UAS7 at baseline and FceRI-positive skin cells at
+baseline.
+Lesional skin 16 0.56 (0.02)
+
+0.42 (0.04)
+
+0.60 (0.01)
+
+Nor-lesional skin 23 0.41 (0.05)
+
+Correlation between change from baseline to Day 85 for UAS7 and change
+from baseline to Day 85 in FceRI-positive skin cells,
+0.33 (0.2)
+
+0.44 (0.04)
+
+Lesional skin 16 0.24 (0.4)
+
+Non-lesional skin 23 0.38 (0.07)
+
+Correlation between UAS7 at baseline and IgE-positive skin cells at baseline
+0.33 (0.2) 0.22 (0.4)
+0.39 (0.07) 0.32 (0.1)
+
+Lesional skin 16
+Non-lesional skin 23
+
+Correlation between change from baseline to Day 85 for UAS7 and change
+from baseline to Day 85 in IgE-positive skin cells
+0.19 (0.5)
+
+0.38 (0.08)
+
+Lesional skin 16 0.15 (0.6)
+
+Non-lesional skin 23 0.45 (0.03)
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Treatment Group: ——e— Omalizumab 300mg --A-- Placebo
+A FceRI+ cells, non-lesional skin, dermis, mean (SEM)
+changes from baseline
+10
+€
+£4
+=
+og 5
+ae
+gx
+a)
+ou
+as
+Dwr 6
+>
+Ss
+$a
+= -10
+D1 Ww1 Ww4 W112 w20
+Treatment period Follow-up.
+B IgE+ cells, non-lesional skin, dermis, mean (SEM)
+changes from baseline
+E 15
+28 46
+Qo
+Bo
+7 5
+£u
+oD g
+Sec
+wi
+ay §
+<8
+a
+gt -10
+=
+
+ 
+
+a
+
+ 
+
+T T T T
+
+D1 W1 W4 Wwi2 w20
+
+ 
+
+ 
+
+Treatment period
+
+ 
+
+ 
+
+Follow-up
+
+ 
+
+D, Day; W, Week
+
+Figure 7. Mean (SEM) changes from baseline in FceRI* and IgE" cells per
+visual field in biopsy samples of dermis from CSU patients. A FceRI* cells,
+non-lesional skin. Baseline values, mean (SD): omalizumab 18.91 (9.42);
+placebo 20.48 (5.54). B IgE” cells, non-lesional skin. Baseline values, mean
+(SD): omalizumab 13.82 (10.21); placebo 16.59 (9.35). D, day; W, week
+
+ 
+
+Omalizumab is well tolerated
+
+Omalizumab was generally well-tolerated in this
+study. The overall incidence of AEs was slightly
+higher in the omalizumab group than in the placebo
+group (85% vs. 70%) and one person in the
+omalizumab group discontinued due to urticaria,
+which was considered mild and not considered to be
+related to study drug. The most frequently reported
+AEs overall was nasopharyngitis, which occurred at a
+similar rate in the omalizumab 300 mg and placebo
+groups. Influenza and urticaria were the next most
+frequent AEs overall and were reported at the same
+frequency in each treatment group. The AE profile
+was not unexpected in the patient population being
+studied.
+
+Discussion
+
+Omalizumab has been shown to be effective in
+the treatment of CSU, but its mechanism of action is
+not fully understood. Omalizumab decreases
+circulating levels of free IgE in the bloodstream, but
+how this pharmacodynamic effect leads to the
+
+1274
+
+alleviation of the clinical signs and symptoms is not
+completely clear. In this study, treatment of CSU
+patients with omalizumab 300 mg for 12 weeks was
+associated with reduced free IgE, consistent with the
+effect seen in asthma patients.[39] A statistically
+significant reduction in levels of FceRI* cells in the
+dermis of non-lesional and lesional skin was observed
+and these results were temporally associated with the
+plateau of the improvement in clinical response.
+Reduction in FceRI* cells was also observed in a
+previous study of skin biopsies from patients with
+allergic rhinitis [4], and would be expected as FceRI*
+cell density is dependent on free IgE, which decreases
+during omalizumab treatment. IgE* cells in the dermis
+of non-lesional and lesional skin also decreased
+following omalizumab treatment although this
+decrease was not statistically significant. The decrease
+in IgE* cells was also expected, as omalizumab binds
+to free IgE and prevents it binding to FceRI.
+Subsequently, FceRI are down-regulated [5]. Levels of
+FceRI* and IgE* cells in omalizumab-treated patients
+at Week 12 had reduced to levels of those seen in
+healthy subjects at baseline. Overall, these results
+demonstrate that the systemic effects of omalizumab
+lead to local changes in the skin and there seems to be
+no difference in FceRI* and IgE levels between
+affected (lesional) and unaffected (non-lesional) skin.
+
+While the mode of action of omalizumab in CSU
+patients is not fully understood, there are a few key
+hypotheses. One is that the density of IgE receptors at
+the surface of mast cells and basophils is proportional
+to the plasma-free IgE level [40]. Omalizumab binds
+to the same region on IgE as FceRI [41], reducing free
+IgE to near undetectable levels. This should therefore
+down-regulate the FceRI receptors so that e.g.
+potentially relevant IgG autoantibodies cannot
+cross-link FceRI [42]. Cell activation would be
+suppressed, as would all the subsequent
+inflammatory processes. As a consequence, the
+frequency and severity of symptoms of CSU should
+be markedly diminished. This would account for a
+therapeutic effect of omalizumab in the
+approximately 30% of CSU patients with such
+autoantibodies. However, in patients without
+detectable autoantibodies, IgE and FceRI seem to play
+an important role as well, as demonstrated by the
+efficacy of omalizumab in this population [43].
+
+It has also been suggested that down-regulation
+of FceRI may be accompanied by an increase in the
+threshold above which degranulation of mast cells is
+triggered [44, 45]. This may be an independent
+mechanism of action, unrelated to prevention of
+cross-linkage of surface receptors. For degranulation
+to occur, a threshold number of receptors would need
+to be activated. The fall in free IgE after omalizumab
+
+ 
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+treatment (both in the circulation and in tissue) and
+the reduction in the receptor density might therefore
+increase the threshold for degranulation to a much
+higher set point. Therefore, these two mechanisms
+may complement each other.
+
+The efficacy of omalizumab in this study was
+similar to that observed in Phase III studies [9, 10].
+Statistically significant and clinically meaningful
+reductions in UAS7 scores were observed over 12
+weeks of treatment, with a mean decrease relative to
+placebo of -14.82 at Week 12. UAS7 decreased rapidly,
+with changes evident by one week after the first dose.
+Defining response to treatment as a 90% reduction in
+UAS7 from baseline, more than half of patients
+responded during the study, in line with that reported
+in key clinical studies of omalizumab [46]. Other
+clinical endpoints also showed improvements,
+including the physicians’ and patients’ global
+assessment scores, itch and hives assessment scores,
+percentage of angioedema-free days and use of rescue
+medication. Quality of life assessments (CU-Q2OL
+overall score, DLQI overall score and Skindex-29
+score) also showed improvements. The observed
+correlations of FceRI-positive skin cells with UAS7
+scores point to the relevance of these cells in CSU and
+further supports the observation that reducing these
+cells is linked to the mode of action and clinical
+efficacy of omalizumab.
+
+Omalizumab decreases serum free IgE levels,
+and is associated with decreases in FceRI* cells and
+IgE* cells in lesional and non-lesional skin (dermis) of
+patients with CSU. These results support the
+hypothesis that one mode of action of omalizumab in
+CSU involves reduction of free IgE, resulting in a
+down-regulation of surface IgE receptors, and
+subsequent reduction in downstream signaling via
+the FceRI pathway [42]. However, the clinical
+response to omalizumab defined e.g. by UAS7 change
+seems to occur much faster than the histological
+changes in the skin. Therefore, further mechanisms
+might be involved in the omalizumab mode of action.
+Interestingly, the reduction of FceRI and IgE positive
+peripheral basophils was much quicker and more
+closely reflected by the clinical response. This might
+be the result of an exchange of cells between different
+compartments (e.g. skin and blood). Importantly,
+changes in basophil parameters after omalizumab
+treatment were quick in onset like the decrease of free
+IgE but they were not indicative of clinical response as
+there was no correlation between basophil parameters
+and UAS7 (data not shown). Further investigations
+are required to determine the role and observed
+changes of peripheral basophils in CSU.
+
+In conclusion, omalizumab was effective and
+well-tolerated in the treatment of CSU patients in this
+
+1275
+
+study, consistent with the results of earlier Phase II
+and III studies. While the results of this exploratory
+study do require verification and extension in a larger
+and appropriately powered investigation, the data
+suggest that the decrease in free IgE, resulting from
+omalizumab treatment, may lead to a reduction in
+FceRI* cells and IgE* cells in the dermis (to levels seen
+in healthy subjects). In addition, the changes observed
+in omalizumab-treated patients in peripheral blood
+basophils, in terms of basophil numbers, FceRI
+expression and responsiveness of basophils to
+activating stimulation by anti-lgE, may also be
+involved in the therapeutic effect of omalizumab. This
+is the first report demonstrating that the clinical effect
+of omalizumab correlates with histopathological
+markers.
+
+Acknowledgements
+
+Additional analyses of the data were performed
+by Fan Yang and Yaritza Ruiz (Novartis Pharma AG).
+The authors thank Southdown and Tina Patrick,
+Novartis Ireland Ltd. for providing medical writing
+and editorial support, which was supported by
+Novartis Pharma AG, Basel, Switzerland in
+accordance with Good Publication Practice (GPP3)
+guidelines (http://www.ismpp.org/gpp3).
+
+ 
+
+Competing interests
+
+All authors have completed the Unified
+Competing Interest form at www.icmje.org/
+coi_disclosure.pdf. Marcus Maurer and Martin Metz
+have received a research grant to their institution
+from Novartis; Marcus Maurer has been a paid
+consultant for Novartis and Genentech, received
+grants from Novartis, and been paid by Novartis for
+lectures and development of educational
+presentations; Andrea Bauer has been paid by
+Novartis for educational lectures and has been a
+member of the Novartis urticaria board; Randolf
+Brehler has received a research grant to the institution
+and has been paid for lectures and consultancy; Petra
+Staubach has been a paid consultant for Novartis: she
+has received travel support and received payment to
+her institution as the study centre, research grants,
+and payments for lectures and expert testimony;
+Janine Gericke is currently employed by Novartis
+Pharma GmbH; her contribution to the work in this
+publication was performed while she was employed
+by Charité - Universitatsmedizin Berlin, where she
+received research grants from Novartis; Panayiotis
+Georgiou contributed to this work while employed at
+Novartis; he is now employed by Clovis Oncology, in
+which he holds stock options, and he also holds
+shares in Glaxo SmithKline; Rainer Hillenbrand,
+Joanna Ashton-Chess, Philip Jarvis, Veit Erpenbeck
+
+http://www.thno.org
+Theranostics 2017, Vol. 7, Issue 5
+
+1276
+
+ 
+
+and Michael Kangas have received no support from
+any organisation for the submitted work, have had no
+financial relationships with any organisations that
+might have an interest in the submitted work in the
+previous 3 years and are employees of Novartis.
+
+References
+
+4,
+
+10.
+
+eb
+
+12.
+
+1B.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22,
+
+Omalizumab: anti-IgE monoclonal antibody E25, E25, humanised anti-lgE
+MAD, IGE 025, monoclonal antibody E25, Olizumab, Xolair, rhuMAb-E25.
+BioDrugs. 2002; 16: 380-6.
+
+Hill DA, Siracusa MC, Ruymann KR, Tait Wojno ED, Artis D, Spergel JM.
+Omalizumab therapy is associated with reduced circulating basophil
+populations in asthmatic children. Allergy. 2014; 69: 674-7.
+
+Lin H, Boesel KM, Griffith DT, Prussin C, Foster B, Romero FA, et al.
+Omalizumab rapidly decreases nasal allergic response and FceRI on basophils.
+J Allergy Clin Immunol. 2004; 113: 297-302.
+
+Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S.
+Omalizumab-induced reductions in mast cell FceRI expression and function. J
+Allergy Clin Immunol. 2004; 114: 527-30.
+
+Serrano-Candelas E, Martinez-Aranguren R, Valero A, Bartra J, Gastaminza G,
+Goikoetxea MJ, et al. Comparable actions of omalizumab on mast cells and
+basophils. Clin Exp Allergy. 2016; 46: 92-102.
+
+Eggel A, Baravalle G, Hobi G, Kim B, Buschor P, Forrer P, et al. Accelerated
+dissociation of IgE-FceRI complexes by disruptive inhibitors actively
+desensitizes allergic effector cells. J Allergy Clin Immunol. 2014; 133:
+1709-19.¢8.
+
+Saini S, Rosen KE, Hsieh HJ, Wong DA, Conner E, Kaplan A, et al. A
+randomized, placebo-controlled, dose-ranging study of _ single-dose
+omalizumab in patients with H1-antihistamine-refractory chronic idiopathic
+urticaria. J Allergy Clin Immunol. 2011; 128: 567-73.e1.
+
+Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried , et
+al. Efficacy and safety of omalizumab in patients with chronic urticaria who
+exhibit IgE against thyroperoxidase. J Allergy Clin Immunol. 2011; 128: 202-9
+5.
+
+Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, et al.
+Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria.
+N Engl J Med. 2013; 368: 924-35.
+
+Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al.
+Omalizumab in patients with symptomatic chronic idiopathic/spontaneous
+urticaria despite standard combination therapy. J Allergy Clin Immunol. 2013;
+132: 101-9.
+
+Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E, Bradley
+MSt al. Efficacy and safety of omalizumab in patients with chronic
+idiopathic/spontaneous urticaria. who remain symptomatic on H1
+antihistamines: a randomized, placebo-controlled study. J Invest Dermatol.
+2015; 135: 67-75.
+
+Staubach P, Metz M, Chapman-Rothe N, Sieder C, Brautigam M, Canvin J, et
+al. Effect of omalizumab on angioedema in H -antihistamine resistant chronic
+spontaneous urticaria patients: results from X-ACT, a randomised controlled
+trial. Allergy. 2016; 71:1135-44.
+
+Zhao ZT, Ji CM, Yu WJ, Meng L, Hawro T, Wei JF, et al. Omalizumab for the
+treatment of chronic spontaneous urticaria: A meta-analysis of randomized
+clinical trials. J Allergy Clin Immunol. 2016; 137(6):1742-1750.
+
+Metz M, Ohanyan T, Church MK, Maurer M. Retreatment with omalizumab
+results in rapid remission in chronic spontaneous and inducible urticaria.
+JAMA Dermatol. 2014; 150; 288-90.
+
+[Internet] European Medicines Agency. Omalizumab Summary of Product
+Characteristics. 2015. http:/ /www.ema.europa.eu/docs/en_GB/
+document_library /EPAR_-_Product_Information/human/000606/WC50005
+7298.pdf
+
+[Internet] Genentech USA I. XOLAIR Prescribing Information. 2014.
+https:/ / www.gene.com/ download /pdf/xolair_prescribing, pdf
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy. 2014; 69: 868-87.
+
+Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G, Church MK,
+Gimenez-Amau A, et al. EAACI/GA(2)LEN/EDF/WAO _ guideline:
+definition, classification and diagnosis of urticaria. Allergy. 2009; 64: 1417-26.
+Elias J, Boss E, Kaplan AP. Studies of the cellular infiltrate of chronic
+idiopathic urticaria: prominence of T-lymphocytes, monocytes, and mast cells.
+J Allergy Clin Immunol. 1986; 78: 914-8.
+
+Natbony SF, Phillips ME, Elias JM, Godfrey HP, Kaplan AP. Histologic studies
+of chronic idiopathic urticaria. J Allergy Clin Immunol. 1983; 71: 177-83.
+Sabroe RA, Poon E, Orchard GE, Lane D, Francis DM, Barr RM, et al.
+Cutaneous inflammatory cell infiltrate in chronic idiopathic urticaria:
+comparison of patients with and without anti-FceRI or anti-lgE
+autoantibodies. J Allergy Clin Immunol. 1999; 103: 484-93.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2 cytokines and
+inflammatory cells in skin biopsy specimens from patients with chronic
+
+ 
+
+ 
+
+ 
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+Ad
+
+45.
+
+46.
+
+idiopathic urticaria: comparison with the allergen-induced__late-phase
+cutaneous reaction. J Allergy Clin Immunol. 2002; 109: 694-700.
+
+Grattan CE, Boon AP, Eady RA, Winkelmann RK. The pathology of the
+autologous serum skin test response in chronic urticaria resembles
+IgE-mediated late-phase reactions. Int Arch Allergy Appl Immunol. 1990; 9
+198-204.
+
+Stone KD, Prussin C, Metcalfe DD. IgE, mast cells, basophils, and eosinophils.
+J Allergy Clin Immunol. 2010; 125: $73-80.
+
+Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, et al.
+EAACI taskforce position paper: evidence for autoimmune urticaria and
+proposal for defining diagnostic criteria. Allergy. 2013; 68: 27-36.
+
+Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW.
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine
+release in chronic urticaria. N Engl J Med. 1993; 328: 1599-604.
+
+Kaplan AP, Greaves M. Pathogenesis of chronic urticaria, Clin Exp Allergy.
+2009; 39: 777-87.
+
+Greaves M. Chronic urticaria. J Allergy Clin Immunol. 2000; 105: 664-72.
+
+Metz M, Maurer M. Omalizumab in chronic urticaria. Curr Opin Allergy Clin
+Immunol. 2012; 12: 406-11.
+
+Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in
+chronic urticaria. J Allergy Clin Immunol. 2001; 107: 1056-62.
+
+Sabroe RA, Greaves MW. Chronic idiopathic urticaria with functional
+autoantibodies: 12 years on. Br J Dermatol. 2006; 154: 813-9.
+
+Vonakis BM, Saini SS. New concepts in chronic urticaria, Curr Opin Immunol.
+2008; 20: 709-16.
+
+Vonakis BM, Vasagar K, Gibbons SP, Jr., Gober L, Sterba PM, Chang H, et al.
+Basophil FceRI histamine release parallels expression of Src-homology
+2-containing inositol phosphatases in chronic idiopathic urticaria. J Allergy
+Clin Immunol. 2007; 119: 441-8,
+
+Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS, Basophil
+phenotypes in chronic idiopathic urticaria in relation to disease activity and
+autoantibodies. J Invest Dermatol. 2008; 128: 1956-63.
+
+Djukanovic R, Wilson SJ, Kraft M, Jarjour NN, Steel M, Chung KE, et al. Effects
+of treatment with anti-immunoglobulin E antibody omalizumab on airway
+inflammation in allergic asthma. Am J Respir Crit Care Med. 2004; 170: 583-93.
+Saavedra MC, Sur S. Down regulation of the high-affinity IgE receptor
+associated with successful treatment of chronic idiopathic urticaria with
+omalizumab. Clin Mol Allergy. 2011; 9: 2.
+
+Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer
+M. How to assess disease activity in patients with chronic urticaria? Allergy.
+2008; 63: 777-80.
+
+Zielen S, Lieb A, De La Motte S, Wagner F, de Monchy J, Fuhr R, et al.
+Omalizumab protects against allergen- induced bronchoconstriction in allergic
+(immunoglobulin E-mediated) asthma. Int Arch Allergy Immunol. 2013; 160:
+102-10.
+
+Milgrom H, Fick RB, Jr, Su JQ, Reimann JD, Bush RK, Watrous ML, et
+al.Treatment of allergic asthma with monoclonal anti-IgE antibody.
+rhuMAb-E25 Study Group. N Engl J Med. 1999; 341: 1966-73.
+
+MacGlashan DW, Jr., Bochner BS, Adelman DC, Jardieu PM, Togias A,
+McKenzie-White J, et al. Down-regulation of FceRI expression on human
+basophils during in vivo treatment of atopic patients with anti-IgE antibody. J
+Immunol. 1997; 158: 1438-45.
+
+Hochhaus G, Brookman L, Fox H, Johnson C, Matthews J, Ren S, et al.
+Pharmacodynamics of omalizumab: implications for optimised dosing
+strategies and clinical efficacy in the treatment of allergic asthma. Curr Med
+Res Opin. 2003; 19: 491-8.
+
+Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment of chronic
+autoimmune urticaria with omalizumab. J Allergy Clin Immunol. 2008; 122:
+569-73.
+
+Zhao ZT, Ji CM, Yu WJ, Meng L, Hawro T, Wei JF, et al. Omalizumab for the
+treatment of chronic spontaneous urticaria: A meta-analysis of randomized
+clinical trials. J Allergy Clin Immunol. 2016; 137: 1742-50 e4.
+
+Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential
+pharmacologic mechanisms of omalizumab in patients with chronic
+spontaneous urticaria. J Allergy Clin Immunol. 2015; 135: 337-42.
+
+Asero R, Riboldi P, Tedeschi A, Cugno M, Meroni P. Chronic urticaria: a
+disease at a crossroad between autoimmunity and coagulation. Autoimmun
+Rev. 2007; 7: 71-6.
+
+Kaplan A, Ferrer M, Bernstein JA, Antonova E, Trzaskoma B, Raimundo K, et
+al. Timing and duration of omalizumab response in patients with chronic
+idiopathic/spontaneous urticaria. J Allergy Clin Immunol. 2016; 137: 474-81.
+
+ 
+
+ 
+
+http://www.thno.org
+

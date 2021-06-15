@@ -1,0 +1,538 @@
+ 
+
+Effect of arterial hypertension on chronic
+
+urticaria duration
+
+Franco Nebiolo, MD*; Roberta Bergia, MD*; Luisa Bommarito, MD*; Massimiliano Bugiani, MDt;
+Enrico Heffler, MD*; Aurelia Carosso, MD+; Gloria Castiglioni, MD+; Giuseppe Guida, MD*;
+Juliana Badiu, MD*; Stefano Pizzimenti, MD*; Sabrina Mietta, MD*; Nicoletta Ferrero, MD*; and
+Giovanni Rolla, MD*
+
+Background: Reliable clinical or laboratory markers of chronic idiopathic urticaria (CIU) duration are not available.
+Angioedema, autologous serum skin test (ASST) results, and antithyroid antibodies have been inconsistently associated with
+longer urticaria duration.
+
+Objective: To investigate the association of clinical and laboratory parameters with CIU duration, including systemic
+hypertension, because activation of the coagulation cascade pathway may contribute to the pathogenesis of CIU.
+
+Methods: We performed a prospective study of a cohort of 228 consecutive adult patients with CIU of moderate to severe
+intensity referred to 2 outpatient allergy clinics and followed up for a 3- to 5-year period. The association of clinical and
+laboratory parameters (sex, atopy, markers of autoimmunity, antithyroid antibodies, positive ASST result, Helicobacter pylori
+infection, and hypertension) with urticaria duration was analyzed using semiparametric multivariable proportional hazards
+models (Cox regression) using remission as main outcome measure.
+
+Results: Apart from systemic hypertension (hazard ratio, 0.71; 95% confidence interval, 0.53-0.95; P=.02), none of the
+considered parameters influenced CIU remission of our patients; 74% and 54% of our patients with and without hypertension,
+respectively, still had CIU after 5 years.
+
+Conclusions: Our results show, for the first time to our knowledge, that hypertension is associated with extended duration of
+CIU. This observation, together with the previous findings that point to vascular and coagulation involvement in CIU, may
+
+suggest a new approach to antihistamine-refractory CIU treatment, including adequate treatment of hypertension.
+
+INTRODUCTION
+Chronic urticaria (CU) is defined by the presence of hives,
+usually on most days of the week, for a duration of 6 weeks
+or longer. A careful history may occasionally identify external triggers, such as a physical trigger, food, medication, or
+topical allergen; however, in 80% to 90% of adults and
+children with CU, no external cause can be identified, which
+is termed chronic idiopathic urticaria (CIU).'* In the last 2
+decades, up to 40% of patients have been found to have an
+autoimmune component to their CU, based on antithyroid
+antibodies (ATA),? autoantibodies directed against the IgE or
+its receptor,'“ or, more simply, a positive autologous serum
+skin test (ASST) result.° A possible role of Helicobacter
+pylori infection in the pathogenesis of CU has also been
+suggested, with controversial results.°7
+
+The natural history of CIU is only partially known, and
+reliable clinical or laboratory markers of urticaria duration are
+not currently available. It has been reported that up to 40% of
+
+Affiliations: * Allergy and Clinical Immunology, University of Torino
+and AO Ordine Mauriziano Hospital, Torino, Italy; + Pneumology and Allergy
+Unit, ASL-TO2, Torino, Italy.
+
+Disclosures: Authors have nothing to disclose.
+
+Funding Sources: This study was supported partially by Ministero Italiano dell’ Universita e Ricerca.
+
+Received for publication March 19, 2009; Received in revised form June
+11, 2009; Accepted for publication June 28, 2009.
+
+Ann Allergy Asthma Immunol. 2009;103:407—-410.
+
+patients with urticaria beyond 6 months will still have symptoms at 10 years.* In a prospective study, Toubi et al’ reported
+that urticaria severity, defined according to Breneman et al,!°
+angioedema, ASST results, and ATA were associated with
+longer urticaria duration. In a retrospective study, Kulthanan
+et al!! found that median disease duration was nonsignificantly longer in autoimmune urticaria, defined according to
+ASST results, compared with CIU (450 and 390 days, respectively). The aim of the study was to investigate the effect
+of clinical and laboratory parameters on urticaria duration in
+a prospective study of a large cohort of adults with CIU of
+moderate to severe intensity. We decided to consider the
+hypertensive comorbidity as a factor that potentially influences urticaria duration. This is based on 2 considerations.
+The first is that systemic hypertension is a common condition
+known to be associated with a procoagulant state.'* The
+second is the increasing evidence that activation of the coagulation cascade pathway may contribute to the pathogenesis
+of CIU, particularly in antihistamine-refractory cases in
+which anticoagulants have been reported to be useful in a few
+mentions in the literature since 1977.'3!4
+
+METHODS
+
+Patients
+
+A total of 228 consecutive white patients referred to 2 outpatient allergy clinics from January 2003 to December 2005
+
+VOLUME 103, NOVEMBER, 2009
+
+407
+for spontaneous CU (defined by the presence of hives, usually on most days of the week, for a duration of longer than
+6 weeks, associated or not with angioedema) were included
+provided that urticaria was moderate to severe based on the
+evaluation of wheals and pruritus. Pure physical urticaria
+(such as cold or heat contact urticaria), delayed pressure or
+vibratory urticaria, solar, aquagenic, or cholinergic urticaria,
+and factitia or dermographic urticaria were excluded. Viral
+and parasitic infections were excluded on the basis of a
+detailed history, physical examination, and related laboratory
+analyses, including stool culture for parasites. Food and food
+additive hypersensitivity was excluded on the basis of history
+and skin prick test results or specific IgE level for a wide
+panel of food allergens and, when highly suspected, on the
+basis of oral food additive elimination diet and/or food additive provocation test results.
+
+The following investigations were performed in all the
+patients: skin prick tests or specific IgE measurement for a
+panel of the most common inhaled and food allergens, urine
+analysis, full blood cell count, erythrocyte sedimentation rate
+(ESR), liver function tests (and viral hepatitis screen if necessary), thyroid function and ATA measurement, antinuclear
+antibodies (ANA) measurement, C1 inhibitor assays (C3, C4,
+and Cl esterase), and serologic testing or enzyme fecal immunoassay (Meridien Diagnostics, Cincinnati, Ohio) for the
+diagnosis of H pylori.
+
+Atopy was defined as a positive result on at least 1 skin
+prick test or specific IgE test for inhaled allergens; the presence of atopic respiratory diseases (rhinitis and asthma) was
+also recorded. Systemic hypertension, defined on the basis of
+antihypertensive drug treatment, was included in the statistical analysis as a possible influence on urticaria duration. The
+follow-up length ranged from 3 to 5 years. Written informed
+consent was obtained from each patient, and the study protocol was approved by the local ethics committee.
+
+Urticaria Severity
+
+A simple scoring system, based on the evaluation of wheals
+and pruritus, was used.'> Briefly, the number of wheals (0, none;
+1, <20 wheals per 24 hours; 2, 21-50 wheals per 24 hours;
+and 3, >50 wheals per 24 hours), their duration (0, none; 1,
+<11 hours per day; 2, 1-3 hours per day; and 3, >3 hours per
+day), and the severity of pruritus (0, none; 1, mild; 2, moderate; and 3, intense) were recorded by the patients every day
+for 1 week, and the mean values were calculated. To be
+included in the study, patients had to have a urticaria severity
+score greater than 6 (moderate to severe).
+
+ASST Results
+
+ASSTs were performed in all the patients after antihistamine
+washout of at least 2 days as previously described.’ Briefly,
+0.1 mL of sterile autologous serum was injected intradermally, and the wheal size was determined at 30 minutes and
+followed up for a total of 60 minutes. Saline was used as the
+negative control, and histamine (1 mg/mL) served as the
+positive control. The ASST result was considered positive
+
+when the wheal attained was at least 1.5 mm greater than the
+negative control.
+
+Patient Treatment
+Patients were treated with antihistamine drugs associated
+with oral methylprednisolone when needed.
+
+Follow-up
+
+Follow-up visits were scheduled every 4 months by telephone
+interview for patients who could not attend the visit. During
+the visits urticaria severity, medication consumption, and
+adverse effects were reviewed. Urticaria remission was defined by the absence of hives and angioedema in the last 3
+months, while the patients were not undergoing therapy.
+
+Statistical Analysis
+
+To evaluate the effect of predictors on the probability of
+urticaria remission, we used proportional hazard Cox regression models,'® considering age, sex, atopy, angioedema, ESR,
+ASST result, liver test results, ATA, H pylori, ANA, C3, C4,
+and systemic hypertension as predictor variables and using
+remission as the main outcome measure and time from the
+onset of the urticaria to remission or to last visit (censored in
+that case) as the observation period (during which urticaria
+could or could not undergo remission).The observation time
+was truncated at 60 months, and events after this point were
+considered censored. The final model was based on the
+appropriate Akaike and Schwarz criterion.!’ Estimates of
+hazard ratio (HRs) and 95% confidence intervals (CIs) for
+true HRs were reported for each independent variable (predictor) in the regression model. A predictor with an HR
+significantly less than 1 would be indicative of extended
+duration of CIU associated with that predictor. Conversely, a
+predictor with an HR significantly greater than 1 would be
+indicative of attenuated duration of CIU. Significance of an
+HR was determined as P < .05 in a 2-directional test. KaplanMeyer curves were constructed for the relationship between
+urticaria duration and the significant predictor variables.'*
+
+RESULTS
+
+Clinical and demographic characteristics of the patients are
+reported in Table 1. The mean age of the patients (166
+female, 62 male) was 48.2 years (age range, 16—85 years).
+There were 92 atopic patients (40.3%), and 65 (28.5%) of
+them reported allergic diseases (rhinitis combined or not with
+asthma).
+
+Angioedema was found in 39.9%, a positive ASST result
+in 33.3%, ATA in 34.2%, ANA (low titer, 1:80, mostly
+homogeneous pattern) and minimal elevation of ESR in 21%,
+and H pylori infection in 32% of patients. Systemic hypertension was present in 42 of 228 patients (18.9%). Full blood
+cell count, liver function test results, and C3, C4, and thyroxine levels were normal in all the patients.
+
+Relationship Between Urticaria Duration and Considered
+Parameters
+
+Remission probability was based on 7,855 total patientmonths and 82 events, giving a remission rate of 1.04% per
+
+408
+
+ANNALS OF ALLERGY, ASTHMA & IMMUNOLOGY
+Table 1. Clinical and Demographic Characteristics of Study Patients
+
+ 
+
+ 
+
+No. (%) of
+Characteristic patients?
+(N = 228)
+Age, mean (range), y 48.2 (16-85)
+Sex, F/M 166/62
+Duration, mean (range), mo 33.3 (6-60)
+Duration from the onset of urticaria, 44.5 (40.8)
+mean (SD), mo
+Duration of the study period, 31.8 (19.1)
+mean (SD), mo
+Atopy 92 (40.3)
+Allergic diseases 65 (28.5)
+Angioedema 91 (39.9)
+Positive ASST result 76 (33.3)
+Arterial hypertension 42 (18.4)
+ATA 78 (34.2)
+ANA 48 (21.0)
+Helicobacter pylori infection 73 (32.0)
+
+ 
+
+Abbreviations: ANA, antinuclear antibodies; ASST, autologous serum
+skin test; ATA, antithyroid antibodies.
+
+@ Data are presented as number (percentage) of patients unless otherwise indicated.
+
+month. The median duration of CIU was 33 months (range,
+6-60 months), and the mean (SD) duration was 44.5 (40.8)
+months starting from the onset of symptoms and 31.8 (19.1)
+months considering only the study period. Apart from systemic hypertension (HR, 0.71; 95% CL, 0.53-0.95; P = .02),
+none of the considered parameters, including positive ASST
+results, statistically influenced urticaria remission and were
+excluded from the final model. The estimated effect of each
+single factor is reported in Table 2. The proportion of patients
+still having urticaria at each observation time was significantly higher in patients with hypertension compared with
+patients without hypertension. CIU persisted in 81% and 74%
+of hypertensive patients up to 24 and 60 months, respectively.
+On the other hand, in normotensive patients CIU persisted up
+to 24 months in 63% and up to 60 months in 54% of them
+(Fig 1). No significant effect of antihypertensive drugs class
+was found on urticaria duration (15 patients received angiotensin-converting enzyme inhibitors, 16 calcium blockers, 12
+angiotensin receptor blocking drugs, and 30 diuretics).
+
+Table 2. Summary Statistics for Cox Regression Analysis of Time
+Until Urticaria Remission
+
+ 
+
+Hazard ratio Robust
+
+ 
+
+Predictor (95% Cl) SE z P value
+Angioedema 0.96 (0.86-1.08) 0.06 —0.61 54
+ASST 0.99 (0.99-1.01) 0.01 —0.08 93
+ATA 1.00 (0.99-1.00) 0.02 0.68 495
+ANA 0.99 (0.99-1.01) 0.01 —0.12 90
+Atopy 1.12 (0.44-3.28) 0.61 0.35 72
+Hypertension 0.71 (0.53-0.95) 0.11 —2.26 02
+
+ 
+
+Abbreviations: ANA, antinuclear antibodies; ASST, autologous serum
+
+skin test; ATA, antithyroid antibodies; Cl, confidence interval.
+
+ 
+
+100
+
+ 
+ 
+   
+
+= + + Non Hypertension
+
+*° Hypertension
+
+80
+
+70
+
+60 Ye
+
+50
+
+40
+
+30
+
+Percent of patients with persistent urticaria
+
+20
+
+ 
+
+ 
+
+ 
+
+Cy) re
+0 10 20 30 40 50 60
+Months
+
+Figure 1. Kaplan-Meier curve demonstrating the relationship between
+chronic urticaria duration and the presence (continuous line) or absence
+(dotted line) of hypertension.
+
+DISCUSSION
+
+Our results show that CIU persisted in more than half (64%)
+of adult patients who were prospectively evaluated for 5
+years, and its duration was significantly longer in patients
+with systemic hypertension, irrespective of specific drug therapy (eg, angiotensin-converting enzyme inhibitors) than in
+normotensive patients. The high percentage of persistent urticaria we observed in our patients is similar to that reported
+by Sibbald et al, but it is much higher than the value of 14%
+of persistent urticaria at 5-year follow-up reported by Toubi
+et al. All the factors potentially involved in urticaria duration, including positive ASST results, did not significantly
+affect urticaria duration in our study population. This is in
+contrast with the results of Toubi et al,? who reported that
+urticaria severity, angioedema, ASST results, and ATA were
+associated with longer urticaria duration. Some differences in
+patient selection may help to explain our different results. We
+did not enroll patients with mild urticaria, which may explain
+the lack of influence of urticaria severity on its duration in our
+series. Furthermore, the mean age and female prevalence of
+our study population were higher than in the previous study,
+for which defined criteria for urticaria remission had not been
+clearly indicated.
+
+The influence of systemic hypertension on CU duration has
+not been previously reported, probably because hypertension
+had never been taken into account as a factor that could affect
+urticaria duration. The biological link between systemic hypertension and CU is not currently known. Recently, activation of the extrinsic pathway of the coagulation cascade has
+been found in CIU, for which increased serum levels of
+prothrombin fragments and D-dimer'?° have been observed.
+Thrombin and fibrin degradation products have pleiotropic
+immunomodulatory and proinflammatory properties, such as
+enhancement of vascular permeability and provocation of
+mast cell degranulation.?! Thrombin is also able to generate
+CSa in the absence of C3, thus bypassing the entire first part
+of the complement cascade.”? C5a has been demonstrated to
+
+VOLUME 103, NOVEMBER, 2009
+
+409
+ 
+
+amplify IgG-dependent histamine release from basophils in
+CU.** Systemic hypertension, even in its early stages, may
+cause blood vessel wall injury and activation of the coagulation system.”*?5 Alterations in the fibrinolytic-hemostatic balance have been reported in hypertension, predisposing patients to a procoagulant state,'2?° and increased serum levels
+of prothrombin fragments and D-dimer?>?”?? may be found
+in patients with hypertension. No specific therapy for CU,
+except antihistamine drugs, is supported by evidence.
+
+Our results show, for the first time to our knowledge, that
+hypertension is significantly associated with prolonged duration of CIU. Whether adequate treatment of hypertension
+may be helpful in the management of CIU remains to be
+investigated. Our observation, together with the previous
+findings that point to vascular and coagulation involvement in
+CIU, may suggest a new approach to antihistamine-refractory
+CIU treatment, such as anticoagulants.*°
+
+ACKNOWLEDGMENTS
+We thank Luisa Verda and Marco Pela for their excellent
+technical work.
+
+REFERENCES
+
+1. Sheikh J. Autoantibodies to the high-affinity IgE receptor in chronic
+urticaria: how important are they? Curr Opin Allergy Clin Immunol.
+2005;5:403-407.
+
+2. Harris A, Twarog FJ, Geha RS. Chronic urticaria in childhood: natural
+course and etiology. Ann Allergy. 1983;51:161-165.
+
+3. Dreskin SC, Andrews KY. The thyroid and urticaria. Curr Opin Allergy
+Clin Immunol. 2005;5:408 —412.
+
+4. Tong LJ, Balakrishnan G, Kochan JP, et al. Assessment of autoimmunity
+in patients with chronic urticaria. J Allergy Clin Immunol. 1997;99:
+461-465.
+
+5. Sabrone RA, Grattan CE, Francis DM, et al. The autologous serum skin
+test: a screening test for autoantibodies in chronic idiopathic urticaria.
+Br J Dermatol. 1999;140:446—452.
+
+6. Fukuda S, Shimoyama T, Umegaki N, et al. Effect of Helicobacter
+pylori eradication in the treatment of Japanese patients with chronic
+idiopathic urticaria. J Gastroenterol. 2004;39:827-830.
+
+7. Shiotani A, Miyanishi T, Kamada T, et al. Helicobacter pylori infection
+and allergic diseases: epidemiological study in Japanese university students. J Gastroenterol Hepatol. 2008;23:29-33.
+
+8. Sibbald RG, Cheema AS, Lozinski A, et al. Chronic urticaria: evaluation
+of the role of physical, immunologic, and other contributory factors. Int
+J Dermatol. 1991;30:381-386.
+
+9. Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory parameters in predicting chronic urticaria duration: a prospective study of 139
+patients. Allergy. 2004;59:869 —873.
+
+10. Breneman D, Bronsky EA, Bruce S, et al. Cetirizine and astemizole
+therapy for chronic idiopathic urticaria: a double-blind, placebocontrolled, comparative trial. J Am Acad Dermatol. 1995;33:192-198.
+
+11. Kulthanan K, Jiamton S, Thumpimukvatana N, et al. Chronic
+pathic urticaria: prevalence and clinical course. J Dermatol. 2007;34:
+294-301.
+
+12. Makris TK, Stavroulakis GA, Krespi PG, et al. Fibrinolytic/hemostatic
+
+ 
+
+  
+ 
+
+20.
+
+21.
+
+22.
+
+24.
+
+28.
+
+26.
+
+27.
+
+28.
+
+29.
+
+. Asero R, Tedeschi A, Coppola R, et al. Activation of the tiss'
+
+. Morgan M, Khan DA. Therapeutic alternatives for chronic urticaria:
+
+variables in arterial hypertension: response to treatment with irbesartan
+or atenolol. Am J Hypertens. 2000;13:783-788.
+
+. Parslew R, Pryce D, Ashworth J, et al. Warfarin treatment of chronic
+
+idiopathic urticaria and angio-oedema. Clin Exp Allergy. 2000;30:
+1161-1165.
+
+. Barlow RJ, Greaves MW. Warfarin in the treatment of chronic urticaria/
+
+angio-edema. Br J Dermatol. 1992;126:415—416.
+
+. Zuberbier T, Bindslev-Jensen C, Canonica GW, et al. EAACI/
+
+GA2LEN/EDF guideline: definition, classification and diagnosis of
+urticaria. Allergy. 2006;61:316-320.
+
+. Cox, DR, Oakes D. Analysis of Survival Data. London, England: Chap
+man & Hall; 1984.
+
+. Schwarz G. Estimating the dimension of a model. Ann Stat. 1978;6:
+
+461-464
+
+. Collett B. Modelling Survival Data in Medical Research. London,
+
+England; Chapman and Hall; 2003.
+
+ie factor
+pathway of blood coagulation in patients with chronic urticaria. J Allergy
+Clin Immunol. 2007;119:705-710.
+
+Asero R, Tedeschi A, Riboldi P, et al. Severe chronic urticaria is
+associated with elevated plasma levels of D-dimer. Allergy. 2008;63:
+176-180.
+
+Szaba FM, Smiley ST. Roles for thrombin and fibrin(ogen) in cytokine/
+chemokine production and macrophage adhesion in vivo. Blood. 2002;
+99:1053-1059.
+
+Huber-Lang M, Sarma JV, Zetoune FS, et al. Generation of CSa in the
+absence of C3: a new complement activation pathway. Nat Med. 2006;
+12:682-687.
+
+ 
+
+. Kikuchi Y, Kaplan APA. role for CSa in augmenting IgG-dependent
+
+histamine release from basophils in chronic urticaria. J Allergy Clin
+Immunol. 2002;109:114-118.
+
+Trifiletti A, Scamardi R, Pizzoleo MA, et al. Increased indexes of
+thrombin activation in advanced stages of hypertension. Haemostasis.
+2001;31:49-54.
+
+Malyszko J, Tymcio J. Thrombin activatable fibrinolysis inhibitor and
+other hemostatic parameters in patients with essential arterial hypertension. Pol Arch Med Wewn. 2008;118:36—41.
+
+Makris TK, Stavroulakis G, Papadopoulos DP, et al. Eprosartan effect
+on fibrinolytic/hemostatic variables in arterial hypertension: a comparative study to losartan. Drugs Exp Clin Res. 2004;30:125-132.
+Khaleghi M, Singletary LA, Kondragunta V, et al. Haemostatic markers
+are associated with measures of vascular disease in adults with hypertension. J Hum Hypertens. 2009;23:530-537.
+
+Nagashima J, Musha H, Takada H, et al. Influence of physical fitness
+and smoking on the coagulation system in hypertensive patients: effect
+on prothrombin fragment FI +2. Intern Med. 2007;46:933-936.
+
+Nadar S, Lip GY. The prothrombotic state in hypertension and the effects of
+antihypertensive treatment. Curr Pharm Des. 2003;9:1715-1732.
+
+ 
+
+n
+evidence-based review, part 2. Ann Allergy Asthma Immunol. 2008;100:
+517-526.
+
+Requests for reprints should be addressed to:
+Giovanni Rolla, MD
+
+Allergy and Clinical Immunology
+
+University of Torino and AO Ordine Mauriziano
+Largo Turati 62
+
+10128 Torino, Italy
+
+E-mail: grolla@mauriziano.it
+
+410
+
+ANNALS OF ALLERGY, ASTHMA & IMMUNOLOGY
+

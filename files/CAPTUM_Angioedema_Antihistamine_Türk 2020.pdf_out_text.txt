@@ -1,0 +1,767 @@
+Title: Effectiveness of as-needed antihistamines in chronic spontaneous urticaria patients
+under omalizumab treatment
+
+Running Head: As-needed antihistamines in CSU
+
+Authors: Murat Tiirk!?*, insu Yilmaz!, Sakine Nazik Bahcecioglu', Pelin Can’, Ragip Ertas*,
+Demet Kartal, Salih Levent Cinar’, Emek Kocatiirk? °
+
+Affiliations: | Division of Allergy and Clinical Immunology, Department of Chest Diseases,
+Erciyes University School of Medicine, Kayseri, Turkey
+
+? Clinic of Immunological and Allergic Diseases, Kayseri Training and Research
+Center, Kayseri, Turkey
+
+3 Department of Dermatology, Okmeydan1 Training and Research Hospital,
+Istanbul, Turkey
+
+4 Clinic of Dermatology, Kayseri Training and Research Center, Kayseri, Turkey
+
+> Department of Dermatology, Erciyes University School of Medicine, Kayseri,
+Turkey
+
+® Department of Dermatology, Ko¢ University School of Medicine, Istanbul,
+Turkey
+
+* Corresponding author
+
+Murat Tiirk, MD,
+
+Erciyes University Hospital,
+
+Division of Allergy and Clinical Immunology, Department of Chest Diseases,
+38039 Melikgazi, Kayseri, Turkey.
+
+Phone: +90 352 207 66 66 - 22180
+
+email: mrttrk@gmail.com
+
+ 
+
+ 
+
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+
+ 
+
+10.1111/dth.14543
+
+ 
+
+This article is protected by copyright. All rights reserved.
+
+Check for
+updates
+Disclosure Statement: The authors have no conflicts of interest to declare regarding any
+aspect of this study.
+
+Funding Sources: None.
+
+Data availability statement: Data available on request due to privacy/ethical restrictions.
+
+Author Contribution: All author equally participated in the design of the study and data
+collection. Dr Tiirk made the analysis of the data. All authors made substantial contributions
+to the interpretation of the results. Dr Tiirk and Dr Yilmaz wrote the draft of the manuscript.
+Dr Bahcecioglu, Dr Can, Dr Ertas, Dr Kartal, Dr Cinar and Dr Kocatiirk made critical review.
+All authors has seen and approved the final version to be published, agreed to be accountable
+for all aspects of the work related to its accuracy or integrity and all of them meet the
+requirements for authorship.
+
+This article is protected by copyright. All rights reserved.
+ABSTRACT
+
+Background: The question how second-generation antihistamines (sgAHs) should be used
+
+when chronic spontaneous urticaria (CSU) is under control with omalizumab is still
+
+unanswered.
+
+Objective We aimed to investigate the effectiveness of as-needed sgAHs in patients with
+
+well-co
+
+ntrolled urticaria under omalizumab treatment.
+
+Methods: Patients from four different urticaria centers who were treated with omalizumab
+
+300 mg/4 weeks for at least 3 months, had well-controlled urticaria (Urticaria Control Test:
+
+16>UCT=12) and were using sgAHs only if needed, were included in this study. In order to
+
+assess effectiveness of sgAHs, change in the itch, hives and total itch-hives scores before and
+
+after sgAHs were evaluated using modified urticaria activity score-twice daily.
+
+ 
+
+Results: Fifty-three patients [38 female (71.7%)] with mean age 41.1 + 11.4 years were
+
+included in this study. Median sgAH intake per patient throughout the 4 week-intervals was 3
+
+(2-5) ta
+
+ 
+
+blets. sgAH intake decreased itch, hives and total itch-hives scores 45.7% + 52.9,
+
+ 
+
+ 
+
+42.4% + 39.1 and 50.2% + 51.1, respectively (p<0.001 for all). This decrease was similar in
+
+This article is protected by copyright. All rights reserved.
+both isolated-urticaria and urticaria-and-angioedema phenotypes. Baseline IgE levels were
+positively correlated with the decrease of three symptom scores (r=0.31, p=0.05; r=0.375,
+p=0.017; r=0.31, p=0.05, respectively) that showed in patients with higher baseline total IgE
+
+levels, as needed sgAH intake decreased the symptom scores less.
+
+Conclusions: Our study showed that sgAHs may still be an effective option for the treatment
+of the intermittent symptoms in patients with well-controlled urticaria under omalizumab
+treatment. Baseline total IgE levels may be used as a potential biomarker for sgAH
+
+effectiveness in these patients.
+
+Keywords: Chronic spontaneous urticaria, omalizumab, second-generation antihistamines,
+
+IgE, treatment management
+
+Abbreviations: AAS: angioedema activity score
+
+CSU: chronic spontaneous urticaria
+
+PROM: patient reported outcome measure
+
+QoL: quality of life
+
+sgAH: second-generation H1-antihistamine
+
+UAS?7: urticaria activity score over 7 days
+
+UAStn: urticaria activity score-twice daily
+
+UCT: urticaria control test
+
+This article is protected by copyright. All rights reserved.
+INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) presents itself with the development of transient
+hives (wheals) and/or angioedema lasting longer than 6 weeks or more, without any external
+trigger. CSU affects nearly all age groups in the population. It has an estimated life time
+prevalence of approximately 0.5-1%, and its prevalence has an increasing trend (1). CSU
+causes severe impairment in patients’ quality of life (QoL) (2). The aim of treatment in CSU
+is complete disease control with absence of signs and symptoms, and normalization of QoL
+(3). Second-generation H1-antihistamines (sgAHs) are the recommended first-line treatment
+option for CSU and increasing sgAHs dose up to fourfold as the second-line treatment is
+
+recommended in case of inadequate control with standard dose of sgAHs. For the
+
+This article is protected by copyright. All rights reserved.
+antihistamine refractory patients, omalizumab is the only licensed third-line approach, of
+which the clinical efficacy and safety in CSU has been shown in several clinical trials and
+
+real-life studies (3-5).
+
+The European Academy of Allergy and Clinical Immunology (EAACI)/Global
+Allergy and Asthma European Network (GA2LEN)/European Dermatology Forum
+(EDF)/World Allergy Organization (WAO) guideline on urticaria recommends omalizumab
+as an add-on treatment option to sgAHs (3). The guideline also recommends using
+pharmacotherapy following the principle of “as much as needed and as little as possible”
+aiming complete symptomatic relief (3). However, since there is no adequate literature
+support, the guideline does not give clear recommendations on whether sgAHs should be
+discontinued in order to lessen the pharmacotherapy after initiation of omalizumab. An
+opinion on this subject suggests rapid discontinuation of sgAHs after omalizumab is initiated
+in all patients since these patients were already resistant to antihistamines before (6, 7).
+Supporting this idea, in a review of 16 studies, it has been shown that omalizumab was
+effective without the need for concomitant sgAHs in up to 60% of patients (5). Another
+opinion on how to manage sgAHs together with omalizumab opposes rapid discontinuation of
+sgAHs since they may still be effective (6). As shown in our previous studies, in clinical
+practice we also try rapid discontinuation of sgAHs in the first 3 months of therapy in wellcontrolled urticaria [urticaria activity score over 7 days (UAS7) < 6 or urticaria control test
+(UCT) = 12], and recommend the patients to use sgAHs only as-needed in case of intermittent
+urticarial symptoms (6, 8). Previous studies showed that there were patients that develop
+
+intermittent symptoms although they fulfill the well-controlled urticaria criteria under
+
+This article is protected by copyright. All rights reserved.
+omalizumab. A pooled analysis of ASTERIA-I, ASTERIA-II and GLACIAL studies
+demonstrated that after treatment with omalizumab 300 mg/4 weeks for 12 weeks, complete
+response (UAS7=0) was noted in 49%, 54% and 47%, and well-controlled urticaria
+(UAS7<6) was noted in 67%, 76% and 62% of the patients, respectively (9). The 15-22%
+difference between the complete response and well-controlled urticaria groups points out the
+patients who still have intermittent urticarial symptoms although the disease is under control
+
+with omalizumab.
+
+Even though we recommend these patients to use as-needed sgAH whenever they are
+symptomatic, the effectiveness of this treatment is not clear. Therefore, this study aims to
+investigate the effectiveness of as-needed sgAHs in patients with well-controlled urticaria
+
+under omalizumab treatment.
+
+METHODS
+
+This study involves CSU patients under omalizumab treatment from four different
+urticaria centers in Turkey. All patients were treated with 300 mg doses of omalizumab every
+
+4 weeks for at least 3 months. In all centers, in order to assess the disease control in the
+
+This article is protected by copyright. All rights reserved.
+previous interval, patients underwent UCT scoring (UCT=16 defined complete controlled
+urticaria, 16>UCT=12 defined well-controlled urticaria and UCT<12 defined poor-controlled
+urticaria) in every visit and omalizumab was administered at the very same visit. To evaluate
+the effectiveness of as-needed sgAHs, all patients were recommended to lower and, if
+possible, discontinue daily sgAHs and to use sgAHs as-needed from the very first visit, which
+was a routine procedure applied in all centers apart from this study. Other than this, routine
+
+medical treatments of the patients, if any, were unchanged.
+
+Patients who consented to enroll in the study were given urticaria activity score-twice
+daily (UAStp) form, which was developed and validated previously to assess disease activity
+and modified by us for this study to evaluate the effectiveness of as-needed sgAHs (10).
+According to this modified scoring system, during an interval, patients assessed sgAH-free
+
+days according to the standard UAStp as itch (0O= none, 1=mild, 2=moderate, 3=severe itch
+
+ 
+
+severity at each assessment) and hives (O=none, 1=1-6, 2=7-12, 3=>12 hives at each
+
+ 
+
+assessment) scores for each half of the day (every 12 hours). On the days with an as-needed
+sgAH intake, patients scored the severity of their symptoms for the 4 hours before and after
+the sgAH use according to these scores. In standard UAS 7p evaluation, arithmetical mean of
+the scores from the first and second half of the day were calculated. Since the aim of our study
+is to determine the possible changes in the itch and hives severity with sgAH intake,
+arithmetical daily mean of the scores before and after the sgAH use were not calculated,
+instead, scores before and after sgAH use were calculated separately, compared to each other
+and mean percentage change between the scores after sgAH use was calculated. All patients
+
+scored their daily symptoms and recorded the number of sgAHs for a single 4-week interval.
+
+This article is protected by copyright. All rights reserved.
+Patients who 1) had concomitant inducible urticaria, 2) had isolated-angioedema phenotype,
+3) had poor-controlled urticaria at the end of 3 months of omalizumab treatment, 4) did not
+use any sgAH during an interval, or 5) could not discontinue routine daily sgAHs, were
+excluded from the study. Demographic information, baseline IgE values and UCT scores of
+intervals were obtained from the patient charts. This study was approved by the institutional
+
+ethical committee (Erciyes University Medical Ethical Committee, decision no: 2020/179).
+
+Statistical analysis
+
+Data were analyzed using SPSS software version 17 (SPSS Inc, Chicago, Illinois,
+USA). Since all variables were not normally distributed, within-group comparisons were
+made using Wilcoxon test and between-group comparisons were made using the MannWhitney U-test. Correlations between continuous variables performed using Pearson
+
+correlation. p< 0.05 was considered significant.
+
+This article is protected by copyright. All rights reserved.
+RESULTS
+
+ 
+
+Fifty-three patients [38 female (71.7%)] with the mean age of 41.1 + 11.4 years were
+included in this study. Twenty-eight patients (53%) had isolated-urticaria and 25 (47%) had
+urticaria-and-angioedema phenotype. Mean baseline total IgE level prior to omalizumab
+
+treatment was 333.1 + 508.9 IU/mL.
+
+ 
+
+ 
+
+Mean UCT scores in the evaluation visits was 13.05 + 1.19 points. Omalizumab was
+administered 300 mg every 4 weeks, and during a single interval all patients used as-needed
+sgAHs 188 times in total. Median sgAH intake during 4 weeks-intervals was 3 (2-5) tablets
+per patient. UCT scores and sgAH intake frequency of the same interval showed a negative
+
+correlation (r= -0.441; p=0.003).
+
+Mean itch, hives and total itch-hives scores before and after as-needed sgAH intake
+
+ 
+
+were listed in Table 1. Mean total itch-hives score was 2.69 + 1.45 points before as-needed
+
+ 
+
+sgAH intake, and decreased to 1.64 + 1.58 points after sgAH intake (p<0.001). When itch and
+hives scores were evaluated separately, both scores decreased significantly similarly after
+
+sgAH intake (Table 1).
+
+Mean decrease in itch, hives, and total itch-hives scores after sgAH intake was found
+
+ 
+
+ 
+
+45.7% + 52.9; 42.4% + 39.1 and 50.2% + 51.1, respectively. All three scores before and after
+
+ 
+
+sgAH intake and decrease in these scores after sgAH intake were similar for isolated-urticaria
+
+and urticaria-and-angioedema phenotypes (Table 2). When evaluated separately, all three
+
+This article is protected by copyright. All rights reserved.
+parameters (itch, hives, total itch-hive scores) showed significant decrease after sgAH intake
+
+(p<0.001 for all).
+
+In addition, patients with higher baseline total IgE levels showed significantly less
+
+improvement in itch, hives and total itch-hives scores after as-needed sgAH intake (r=0.31,
+
+ 
+
+ 
+
+p=0.05; r=0.375, p=0.017; r=0.31, p=0.05, respectively) (Figure 1). No such correlation was
+
+found between baseline total IgE levels and sgAH intake frequency or UCT scores.
+
+This article is protected by copyright. All rights reserved.
+DISCUSSION
+
+Our study showed that in CSU patients with well-controlled urticaria under
+omalizumab treatment, sgAHs decreased itch and hives scores approximately 45% when
+needed during an omalizumab treatment interval. This decrease was similar in both isolated
+urticaria and urticaria-and-angioedema phenotypes.
+
+Release of histamine following mast cell degranulation plays a central role in the
+development of signs and symptoms of CSU (11). Thus, H1-antihistamines have been the
+standard care of CSU. However, it was shown that rate of response to standard doses of
+antihistamines in CSU patients was 38.6% and increasing the dose of antihistamines were
+likely to increase the response rate in up to 60% of the patients (12). Omalizumab, the first
+humanized anti-IgE monoclonal antibody, has become the mainstay treatment option for the
+antihistamine refractory patients in recent years. Although effectiveness of omalizumab in
+CSU has been shown in several studies, there are still many unanswered questions on how to
+
+manage omalizumab treatment in CSU. One of these questions is whether sgAHs should be
+
+This article is protected by copyright. All rights reserved.
+discontinued in cases where the disease is under control with omalizumab. In our previous
+review, we discussed on this question despite most of our answers were based on expert
+opinions (6). As far as we know, there is no study directly dealing with this subject. In their
+recent study, Ensina et al performed a retrospective analysis and showed that over 24 months
+treatment with omalizumab, 27.2% of the patients were able to stop taking sgAHs and their
+urticaria were still continued to be controlled only with omalizumab monotherapy (7). They
+also found that accompanying angioedema or response rate to omalizumab did not create a
+difference in the use of sgAHs and proposed that sgAHs may be no longer necessary in some
+patients once the disease is controlled with omalizumab. In another retrospective real-life
+data, Andag et al also showed that it was possible to treat 33% of their study group with
+omalizumab monotherapy without antihistamines (13). A review dealing with this subject
+showed that omalizumab was effective without the need for concomitant sgAHs in up to 60%
+of patients (5). It was shown that up to 70% complete response (UAS7=0 or UCT=16) rate
+could be achieved with omalizumab treatment (4, 14) and it is clear that when complete
+response was achieved with omalizumab, sgAHs may no longer be necessary. However, as in
+our study, there is also a patient group that has well controlled urticaria but not complete
+response (0<UAS7<6 or 16>UCT=12) with omalizumab. Our results showed that as the
+disease control rate decreased during intervals, these patients used more sgAHs, and this asneeded sgAH intake was effective on suppressing urticarial symptoms, independent from the
+
+presence of accompanying angioedema.
+
+Another interesting finding of our study is that as-needed sgAHs were less effective in
+
+patients with higher baseline total IgE levels. Over the past years, two endotypes of CSU were
+
+This article is protected by copyright. All rights reserved.
+postulated: type-I autoimmune (autoallergic) CSU and type IIb-autoimmune CSU (15).
+Indirect line of evidence suggests that these two endotypes differ in their serum biomarker
+profiles and response to treatments. Type-I autoimmune endotype have been suggested to
+have higher baseline total IgE levels, have faster and higher rates of response to omalizumab
+treatment and higher response rates to sgAHs (14-16). Similar to previous studies our
+patients’ baseline total IgE levels were high (17), and we had a rapid and high response rate
+with omalizumab in the first 3-months of treatment. Therefore, we believe majority of our
+patient group consisted of type-I autoimmune endotype. It was reported that patients with type
+I[b-autoimmune endotype, which were classified with indirect markers of type IIbautoimmune endotype like higher baseline CRP levels, lower blood basophil counts and
+antinuclear antibodies positivity, were more likely to have resistance to antihistamines when
+compared to type-I autoimmune endotype (18-20). Although it might seem to interfere with
+our results, it would be inappropriate to compare our results with these findings since it is
+important to note that previous findings reflect the antihistamine resistance prior to
+omalizumab treatment. A possible explanation for the lower sgAH effectiveness in patients
+with higher baseline total IgE levels may be that these patients had better symptomatic
+improvement after omalizumab and had lower symptomatic scores before sgAHs, thus the
+possible decrease with sgAH intake would be less. However we eliminated this possibility
+since we found no such correlation between baseline total IgE levels and symptomatic scores
+prior to sgAH or number of sgAH intake during the interval. Another hypothetical
+explanation is that despite the significant suppression of mast cell degranulation, and
+
+therefore, urticarial symptoms after omalizumab treatment, intermittent degranulation of mast
+
+This article is protected by copyright. All rights reserved.
+cells and histamine release still continues at a minimal level, and this time standard dose
+sgAHs may be sufficient to block action of histamine and competes with it at receptor level.
+However, we do not have any explanatory data on this subject and further studies
+
+investigating the underlying mechanisms are needed.
+
+Our study has some limitations. First is the low number of the patients enrolled in the
+study. Secondly, we used UAS 7p to score symptoms before and after sgAH intake. Although
+it has been modified for our study, we are aware that this patient reported outcome measure
+(PROM) was not mainly validated for such purpose, but we had to use this tool since there
+was no other PROM that was feasible for our study. Thirdly, we did not evaluate the possible
+effects of sgAHs on angioedema in patients with urticaria-and-angioedema phenotype.
+Although angioedema activity score (AAS) was a validated tool to determine disease activity
+in recurrent angioedema patients (21), we did not use this PROM. Fourtly, since this was as
+observational study, we did not change the antihistamines that have been already used by the
+patient; which might have resulted in efficacy diversities between different sgAHs (22).
+Therefore, it would be more appropriate to use the same agent in future studies. Lastly, it is
+known that H1-antihistamines are inverse agonists and also have anti-inflammatory activities
+(23). Although our study showed that as-needed sgAHs were effective in symptomatic
+improvement, further studies are needed to investigate whether this inverse-agonist and antiinflammatory effects of sgAHs cause any significant difference between as-needed and daily
+
+regimes. To answer this question, comparative studies are needed.
+
+In conclusion, our study showed that in patients with well controlled urticaria under
+
+omalizumab, as the UCT scores decreased during an interval, patients tended to use more as
+This article is protected by copyright. All rights reserved.
+needed sgAHs and these sgAHs had significantly decreased itch and hives scores. In addition,
+we also found that baseline total IgE levels may be used as a potential biomarker for sgAH
+effectiveness in patients under omalizumab treatment. We believe our findings may provide
+guidance for individualized treatment planning and antihistamine management in CSU
+
+patients under omalizumab treatment.
+
+REFERENCES
+
+This article is protected by copyright. All rights reserved.
+. Fricke J, Avila G, Keller T. Prevalence of chronic urticaria in children and adults
+across the globe: Systematic review with meta-analysis. Allergy 2020;75:423-32.
+
+. Maurer M, Abuzakouk M, Berard F, Canonica W, Oude Elberink H, Gimenez-Arnau
+A, et al. The burden of chronic spontaneous urticaria is substantial: Real-world
+evidence from ASSURE-CSU. Allergy 2017;72:2005-16.
+
+. Zuberbier T, Aberer W, Asero R. The EAACI/GA(2)LEN/EDF/WAO guideline for
+the definition, classification, diagnosis and management of urticaria. Allergy
+2018;73:1393-414.
+
+. Zhao ZT, Ji CM, Yu WJ, Meng L, Hawro T, Wei JF, et al. Omalizumab for the
+treatment of chronic spontaneous urticaria: A meta-analysis of randomized clinical
+trials. J Allergy Clin Immunol 2016;137:1742-50.
+
+. Bernstein JA, Kavati A, Tharp MD, Ortiz B, MacDonald K, Denhaerynck K, et al.
+Effectiveness of omalizumab in adolescent and adult patients with chronic
+idiopathic/spontaneous urticaria: a systematic review of 'real-world' evidence. Expert
+Opin Biol Ther 2018;18:425-48.
+
+. Tiirk M, Carneiro-Leao L, Kolkhir P, Bonnekoh H, Buttgereit T, Maurer M. How to
+treat patients with chronic spontaneous urticaria with omalizumab: questions and
+answers. J Allergy Clin Immunol Pract 2020;8:113-24.
+
+Ensina LF, Arruda LK, Campos RA, Criado RF, Rodrigues Valle S, Melo JM, et al.
+H1-antihistamines may no longer be necessary for patients with refractory chronic
+spontaneous urticaria after initiation of omalizumab. J Investig Allergol Clin Immunol
+
+2020;30:145-7.
+
+This article is protected by copyright. All rights reserved.
+10.
+
+1
+
+—
+
+12.
+
+13.
+
+14.
+
+15.
+
+Tiirk M, Maurer M, Yilmaz I. How to discontinue omalizumab in chronic spontaneous
+urticaria? Allergy 2019;74:821-4.
+
+Kaplan A, Ferrer M, Bernstein JA, Antonova E, Trzaskoma B, Raimundo K, et al.
+Timing and duration of omalizumab response in patients with chronic
+idiopathic/spontaneous urticaria. J Allergy Clin Immunol 2016;137:474-81.
+
+Hawro T, Ohanyan T, Schoepke N, Metz M, Peveling-Oberhag A, Staubach P, et al.
+The urticaria activity score-validity, reliability, and responsiveness. J Allergy Clin
+
+Immunol Pract.2018;6:1185-90.
+
+. Church MK, Kolkhir P, Metz M, Maurer M. The role and relevance of mast cells in
+
+urticaria. Immunol Rev 2018;282:232-47.
+
+Guillen-Aguinaga S, Jauregui Presa I, Aguinaga-Ontoso E, Guillen-Grima F, Ferrer
+M. Updosing nonsedating antihistamines in patients with chronic spontaneous
+urticaria: a systematic review and meta-analysis. Br J Dermatol 2016;175:1153-65.
+Salman A, Ergun T, Gimenez-Arnau AM. Real-life data on the effectiveness and
+safety of omalizumab in monotherapy or combined for chronic spontaneous urticaria:
+a retrospective cohort study. J Dermatolog Treat 2020;31:204-9.
+
+Marzano AV, Genovese G, G Casazza, M T Fierro, P Dapavo, N Crimi, et al.
+Predictors of response to omalizumab and relapse in chronic spontaneous urticaria: a
+study of 470 patients. J Eur Acad Dermatol Venerol 2019;33:918-24.
+
+Maurer M, Eyerich K, Eyerich S, Ferrer M, Gutermuth J, Hartmann K, et al. Urticaria:
+Collegium Internationale Allergologicum (CIA) Update 2020. Int Arch Allergy
+
+Immunol 2020;181:1-13.
+
+This article is protected by copyright. All rights reserved.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+2
+
+pn
+
+22.
+
+Weller K, Ohanyan T, Hawro T, Ellrich A, Sussman G, Koplowitz J, et al. Total IgE
+levels are linked to the response of chronic spontaneous urticaria patients to
+omalizumab. Allergy 2018;73:2406-8.
+
+Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical response to
+omalizumab in chronic spontaneous urticaria patients is linked to and predicted by IgE
+levels and their change. Allergy 2018;73:705-12.
+
+Kolkhir P, Altrichter S, Hawro T, Maurer M. C-reactive protein is linked to disease
+activity, impact, and response to treatment in patients with chronic spontaneous
+urticaria. Allergy 2018;73:940-8.
+
+de Montjoye L, Darrigade AS, Gimenez-Armau A, Herman A, Dumoutier L, Baeck M.
+Correlations between disease activity, autoimmunity and biological parameters in
+patients with chronic spontaneous urticaria. Eur Ann Allergy and Clin Immunol 2020.
+Ahead of print. doi: 10.23822/EurAnnACI.1764-1489.132.
+
+Magen E, Waitman DA, Dickstein Y, Davidovich V, Kahan NR. Clinical-laboratory
+characteristics of ANA-positive chronic idiopathic urticaria. Allergy Asthma Proc
+
+2015;36:138-44.
+
+. Weller K, Groffik A, Magerl M, Tohme N, Martus P, Krause K, et al. Development,
+
+validation, and initial results of the Angioedema Activity Score. Allergy
+2013;68:1185-92.
+Sharma M, Bennett C, Cohen SN, Carter B. H1-antihistamines for chronic
+
+spontaneous urticaria. Cochrane Database Syst Rev 2014;2014(11):CD006137.
+
+This article is protected by copyright. All rights reserved.
+23. Leurs R, Church MK, Taglialatela M. H1-antihistamines: inverse agonism, anti
+inflammatory actions and cardiac effects. Clin Exp Allergy 2002;32:489-98.
+
+FIGURE LEGEND
+
+Figure 1. Baseline total IgE levels were correlated with the changes in itch, hives and total
+
+ 
+
+ 
+
+itch-hives scores (r=0.31, p=0.05; r=0.375, p=0.017; r=0.31, p=0.05, respectively). In patients
+with higher baseline total IgE levels, the mean improvement in itch (A), hives (B) and total
+
+itch-hives (C) scores after as-needed sgAH intake were lower.
+
+This article is protected by copyright. All rights reserved.
+TABLES
+
+Table 1. Results of itch, hives, and total itch-hives scores before and after sgAH intake.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Before sgAH After sgAH p
+Itch score
+Mean + SD 1.62 + 0.83 0.97 +1 <0.001
+Median (IQR) 2 (1-2) 1 (0-2)
+Hives score
+Mean + SD 1.06 + 0.88 0.68 + 0.82 <0.001
+Median (IQR) 1 (0-2) 0,5 (0-1)
+Total itch-hives score
+Mean + SD 2.69 + 1.45 1.64 + 1.58 <0.001
+Median (IQR) 2 (2-4) 2 (0-2)
+
+ 
+
+ 
+
+SD: standart deviation, IQR: interquartile range, sgAH: second generation antihistamines
+
+This article is protected by copyright. All rights reserved.
+
+ 
+Table 2. Results comparing itch, hives, and total itch-hives scores and their changes after
+sgAH intake in isolated-urticaria and urticaria-and-angioedema phenotypes.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Isolated-urticaria Urticaria-andangioedema
+pieustype phenotype P
+n=28
+n=25
+Itch score before sgAH
+Mean + SD 1.69 + 0.76 1.54+0.91 0.219
+Median (IQR) 2 (1-2) 1 (1-2)
+Hives score before sgAH
+Mean + SD 0.95 + 0.87 1.2 + 0.87 0.051
+Median (IQR) 1 (0-2) 1 (1-2)
+Total itch-hives score before sgAH 0.797
+Mean + SD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Median (IQR) 2.64 + 1.34 2.74 + 1.57
+2 (2-4) 2 (2-4)
+Itch score after sgAH
+Mean + SD 0.99 +1 0.94 + 0.85 0.982
+Median (IQR) 1 (0-2) 1 (0-1)
+Hives score after sgAH
+Mean + SD 0.65 + 0.88 0.71 + 0.76 0.277
+Median (IQR) 0 (0-1) 1 (0-1)
+Total itch-hives score after sgAH
+Median (OR 1.62417 1.66 + 1.43 0.501
+edian (IQR) 1 (0-2) 2 (0-2)
+Change in itch score with sgAH (%)
+ean * OR 52.9 + 54.6 39.3451.7 meee
+edian 18) -64.7 (-100- -4.3) -39.3 (-100- 0)
+Change in hives score with sgAH (%)
+Mean * ae 3784415 46.9 +37.1 0.522
+edian (1Q8) -40.1 (-75.3-0) -50 (-87.5- -4,9)
+Change in total itch-hives score with
+0
+Madi IOR -51.9 + 53.4 -48.4 + 49.8
+edian (1QR) -64,6 (-100- -5.7) -50 (-100- -15.6)
+
+ 
+
+SD: standart deviation, IQR: interquartile range, sgAH: second generation antihistamines
+
+This article is protected by copyright. All rights reserved.
+a8 & sgAH intake
+
+meat SURE EG
+
+25,00
+
+0,00
+
+-25,00
+
+-50,00
+
+-75,00
+
+-100,00
+
+10
+
+100
+Baseline IgE level; IU/mL
+
+1000
+0,00
+
+igle after sgAH
+
+-25,00
+
+intake
+
+-50,00
+
+-75,00
+
+uénsegnted, Art
+
+-100,00
+
+10 100 1000
+Baseline IgE level; IU/mL
+bs le, score after
+
+k
+
+med of GERLE ute
+
+sgAH intake
+
+10
+
+100
+Baseline IgE level; IU/mL
+
+1000
+

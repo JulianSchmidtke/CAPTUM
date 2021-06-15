@@ -1,0 +1,295 @@
+Allergology International xxx (xxxx) Xxx
+
+ 
+
+ 
+
+ 
+
+Contents lists available at ScienceDirect
+
+Allergology International
+
+journal homepage: http://www.elsevier.com/locate/alit
+
+ 
+
+yw
+
+AWERGOLOGY
+INTERNATIONAL
+
+ 
+
+ 
+
+Letter to the Editor
+
+Basophil count is a sensitive marker for clinical progression in a
+chronic spontaneous urticaria patient treated with omalizumab
+
+Dear Editor,
+
+Omalizumab is a monoclonal anti-IgE antibody that has been
+approved to treat antihistamine-refractory, chronic spontaneous
+urticaria (CSU). By blocking circulating IgE, omalizumab can prevent IgE attaching to the high-affinity IgE receptor (FceRI) on
+mast cells, basophils, and probably other FceRI-expressing cells,
+including antigen-presenting cells. Because peripheral IgE levels
+are highly associated with FceRI cell surface expression, the efficacy
+of treatment with omalizumab may also be due to secondary suppression of cell function by reducing this receptor's expression.
+However, the precise mechanism of how omalizumab improves
+CSU remains largely unclear.'?
+
+A 67-year-old male with a 6-year history of severe CSU had undergone treatment with antihistamines, then up-dosing of antihistamines alone, and finally switched to combination with H2
+blockers and cyclosporine. Due to being refractory to all previous
+treatments, the patient was started on omalizumab therapy at a
+dose of 300 mg every 4 weeks, which showed a curative effect after
+only one dose in the first week. Since wheals appeared on his body
+ten weeks after the fourth treatment, we restarted omalizumab at
+the same dose and his symptom was relieved again within 3 days.
+
+During omalizumab treatment, we followed basophil behavior
+by flow cytometric analysis after obtaining informed consent,
+which was approved by the IRB of Kansai Medical University. One
+hundred microliters of whole EDTA blood were incubated with
+CRA1-Billiant violet (BioLegend, San Diego, CA), CRA2-biotin (Bio
+Academia, Osaka, Japan), streptavidin-APC (BD, San Jose, CA) and
+antibodies for CRTH2-FITC, CD203c-PE and CD3-PECy7 (Allergenecity kit, Beckman Coulter, Brea, CA) for 15 min. Cells were then lysed
+and fixed for 10 min, and analyzed on a FACS Canto II (BD). Forward
+scatter (FSC) and side scatter (SSC) were used to select the cell population, and then basophils were identified as CD3-negative and
+CRTH2-positive cells (Fig. 1(a)).
+
+Both CRA1 and CRA2 are anti-FceRI antibodies.’ Since CRA1 reacts with a region other than the IgE binding site, we can evaluate
+total expression levels of IgE receptor by CRA1. One week after the
+initiation of omalizumab, his symptoms were relieved with an
+accompanying dramatic decrease of the cell surface CRA1 levels
+on peripheral basophils. After 4 doses of treatment, the mean fluorescent intensity (MFI) of CRA1 remained low (Fig. 1(b),(c)). In parallel with his CSU symptoms, 10 weeks after ceasing omalizumab
+
+ 
+
+Peer review under responsibility of Japanese Society of Allergology.
+
+https://doi.org/10.1016/j.alit.2019.02.002
+
+treatment, the MFI of CRA1 increased with the relapse of wheals,
+and decreased again once the treatment was restarted. Conversely,
+CRA2 recognizes the IgE binding site and competes with IgE;
+thereby, we can estimate the free receptor not bound to IgE by
+CRA2 expression.’ Before omalizumab treatment, we did not find
+any CRA2-positive basophils, indicating that all FceRI on the circulating basophils were occupied with IgE. We can observe CRA2positive basophils only after the initiation of omalizumab, clearly
+demonstrating that omalizumab treatment sufficiently neutralized
+circulating IgE in this patient (Fig. 1(d)).
+
+CD203c, a multifunctional ectoenzyme involved in the clearance of extracellular nucleotides, has been used as an activation
+marker for basophils, and in this study we used this activation
+marker for the evaluation of peripheral basophil condition without
+any stimuli. CD203c intensity increased after the initiation of omalizumab (Fig. 1(e)), even though CSU eruptions were dramatically
+improved after omalizumab treatment. This paradoxical phenomenon suggests that peripheral circulating basophils seem to be
+activated after omalizumab treatment, which has also been reported by others.*
+
+Interestingly, the peripheral basophil count had been persistently low at almost 0 cells/l for at least 1 year prior to omalizumab
+treatment. One week after omalizumab injection, basophil
+numbers increased to 8.4 cells/l. During treatment with omalizumab, the number of basophils was between 8.4 cells/yl and
+18.8 cells/ul. Ten weeks after stopping omalizumab, wheals
+appeared again and basophil numbers returned to 0 cells/l. Three
+days after resuming omalizumab, the basophil count once again
+increased to 9 cells/,l (Fig. 2). Thus, basophil count was well correlated with the clinical course of CSU, and restoring basophil
+numbers may indicate that CSU is under control. The underlying
+mechanism may be explained by the recruitment of peripheral basophils into the tissue, which evokes hives reactions during the
+active phase of CSU. We believe in this situation that activated basophils migrate into local sites and only non-activated basophils
+remain in the peripheral blood when the patient shows CSU symptoms. This may explain the paradoxical phenomenon that CD203c
+expression actually increased after omalizumab treatment when
+hives were under control and basophil numbers remained normal
+in peripheral blood. Our findings are consistent with other previous
+reports showing an increase in the basophil count in peripheral
+blood during treatment with antihistamines.” We should point
+
+1323-8930/Copyright © 2019, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+
+licenses/by-nc-nd/4.0/).
+
+ 
+
+ 
+
+Please cite this article as: Kishimoto | et al., Basophil count is a sensitive marker for clinical progression in a chronic spontaneous urticaria patient treated with omalizumab, Allergology International, https://doi.org/10.1016/j.alit.2019.02.002
+
+ 
+
+ 
+2 Letter to the Editor / Allergology International xxx (XXXX) XXX
+
+ 
+
+ 
+
+  
+  
+   
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a 250K 408 ORTH2 postive
+4.34
+200K 4
+NA 10 9
+4 z=
+A 150K E wd
+n 100K 4 oO Z
+10° 4
+50K 5
+10° |
+i) 50K 100K 150K 200K 250K o 50K took 180K 200K 250K
+FSC FSC FSC
+b 86868
+soon - CRAI
+30000 7
+= 20000 @ omalizumab
+eS administration
+Ss)
+ee
+[e}
+x
+=
+Cc 100 d 1005 e 100
+80 8074 80
+60 6074 60
+40 407 40
+20 2054 20
+” Qa T o oT
+10° 10 10° 10 10 10! 10° 10 10 10° 10° 107 10 10 10
+CRA1 CRA2 CD203c
+
+Fig. 1. Flow cytometric analysis of peripheral basophils. (a) Gating for the identification of basophils. From the lymphocyte population gated by FSC and SSC, we identified basophils
+as CD3-negative and CRTH2-positive. (b) Expression of IgE receptor by CRA1, and the dynamic of CRA1 expression during treatment. (c) CRA1 expression, (d) CRA2 expression and
+
+(e) CD203c expression before (white) and 1 week after (gray) treatment with omalizumab.
+
+  
+   
+
+@ omalizumab
+administration
+
+count of basophils
+3
+
+ 
+
+T 1
+32 36
+(weeks)
+Fig. 2. Peripheral basophils count during omalizumab treatment. While using omali
+zumab, the patient's basophil count increased and was maintained within normal
+range. Once the treatment stopped, the basophil count dropped to 0 cells/ul.
+
+out that there is a limitation in our studies because we substitute
+peripheral basophils instead of dermal mast cells or local basophils
+migrated into the tissue in order to evaluate the effectiveness of
+omalizumab.
+
+In conclusion, we believe that peripheral basophil count may
+be a potential and easy marker for assessing the condition of
+CSU. We hope our findings aid in the discovery of more insights
+into the underlying mechanisms of how omalizumab actually
+works in treating this challenging disease. Further long-term
+follow-up investigations including a large number of patients
+will be required in order to validate the value of basophil counts
+in clinical practice.
+
+Conflict of interest
+The authors have no conflict of interest to declare.
+
+ 
+
+ 
+
+Please cite this article as: Kishimoto | et al., Basophil count is a sensitive marker for clinical progression in a chronic spontaneous urticaria patient treated with omalizumab, Allergology International, https://doi.org/10.1016/j.alit.2019.02.002
+
+ 
+
+ 
+ARTICLE IN PRESS
+
+Letter to the Editor / Allergology International xxx (xxxx) xxx 3
+
+Izumi Kishimoto “”, Naotomo Kambe “””, Nhung Thi My Ly 3,
+Chuyen Thi Hong Nguyen ‘, Hiroyuki Okamoto *
+
+* Department of Dermatology, Kansai Medical University, Hirakata, Japan
+
+> Allergy Center, Kansai Medical University, Hirakata, Japan
+
+© Department of Dermatology and Venereology, University of Medicine and Pharmacy,
+Ho Chi Minh City, Viet Nam
+
+* Corresponding author. Department of Dermatology, Kansai Medical University, 2
+5-1 Shin-machi, Hirakata, Osaka 573-1010, Japan.
+E-mail address: nkambe@hirakata.kmu.ac.jp (N. Kambe).
+
+References
+
+1. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential pharmacologic mechanisms of omalizumab in patients with chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:337—42.
+
+2.
+
+3
+
+Kaplan AP, Gimenez-Arnau AM, Saini SS. Mechanisms of action that contribute to
+efficacy of omalizumab in chronic spontaneous urticaria. Allergy 2017;72:519—33.
+Suzuki K, Hirose T, Matsuda H, Hasegawa S, Okumura K, Ra C. The Fc receptor
+(FcR)y subunit is essential for IgE-binding activity of cell-surface expressed
+chimeric receptor molecules constructed from human high-affnity IgE receptor
+(FceRI)a and FeRy subunits. Mol Immunol 1998;35:259—70.
+
+. Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203c
+upregulating activity as an immunological marker to predict response to treatment with omalizumab in patients with symptomatic chronic urticaria. J Allergy
+Clin Immunol Pract 2016;4:529—30.
+
+. Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic or
+dinary urticaria and healthy controls: diurnal variation, influence of loratadine
+and prednisolone and relationship to disease activity. Clin Exp Allergy 2003;33:
+337-41.
+
+Received 13 November 2018
+
+Received in revised form 6 January 2019
+Accepted 13 January 2019
+
+Available online xxx
+
+ 
+

@@ -1,0 +1,938 @@
+Clinical Communications
+
+Association of basophil parameters
+with disease severity and duration in
+chronic spontaneous urticaria (CSU)
+
+Amy H. Huang, MPH, Kristin L. Chichester, MS, and
+Sarbjit S. Saini, MD
+
+Clinical Implications
+
+e In chronic spontaneous urticaria (CSU), basopenia was
+associated with more severe disease, whereas the basophil
+
+responder phenotype was associated with longer disease.
+Furthermore, the basophil activation test may be an
+alternative method to basophil histamine release for
+classifying basophil functional phenotypes in CSU.
+
+ 
+
+TO THE EDITOR:
+
+Chronic spontaneous urticaria (CSU) is characterized by >6
+weeks of spontaneous, pruritic hives. Despite CSU’s significant
+impact on quality of life, few predictors are known for the
+clinical course of disease. However, basophils have been shown
+to have unique features in CSU. First, basopenia has been
+linked to disease severity.' Second, studies have demonstrated.
+suppression of the IgE pathway to histamine release (HR) in
+active CSU compared with controls, with basophil hyporesponsiveness improving in disease remission.” * Lastly, basophils
+are specifically recruited to skin lesions of patients with CSU.’
+Given their altered phenotype in disease, basophil parameters
+may help predict the clinical course of disease. Here we update
+the preliminary report from Baker et al° with the analysis of
+basophil parameters in patients with CSU using a larger,
+expanded cohort including the initial participants. We also
+include a subcohort for studies comparing HR and the basophil
+activation test (BAT) for functional phenotyping.
+
+Study approval was granted by the Johns Hopkins University
+nstitutional Review Board. Patients >18 years of age with
+allergist/dermatologist diagnosis of active CSU were recruited
+rom Johns Hopkins specialty clinics between October 2004 and
+September 2018. As per previous protocols,° study participants
+underwent venipuncture and completed a written questionnaire
+(including urticaria severity score for current symptoms and with
+ares and the SkinDex-29 dermatology quality-of-life index) at
+each study visit, with baseline visit data presented here. “®
+Detailed methods for basophil HR and BAT assays are
+described in the Methods section of this article’s Online Repository at www.jaci-inpractice.org.
+
+Of the 182 subjects recruited, 159 provided adequate blood
+samples for basophil functional phenotyping using HR, with 71
+(45%) classified as basophil responders, 55 (35%) as nonresponders, and 33 (21%) as basopenics (able E1, available in
+this article’s Online Repository at www.jaci-inpractice.org). Age,
+gender, and race were similar among groups. In a subset (n = 33)
+of subjects enrolled since June 2016, analysis of BAT using
+CD63 (% gated, mean, median) was compared with
+basophil functional classification using HR (%HR) profiling in
+
+ 
+
+ 
+
+TABLE I. BAT threshold to correctly identify basophil responder
+(vs nonresponder) phenotype, using classification by % histamine
+release as the reference standard
+
+Anti-IgE concentration
+
+(ug/mL) BAT (% gated) threshold Sensitivity Specificity
+
+0.1 >13 is responder 94.7% 100%
+<13 is nonresponder
+211 is responder 100% 715%
+<11 is nonresponder
+
+0.01 26 is responder 100% 100%
+<6 is nonresponder
+
+1 217 is responder 79.0% 50%
+<17 is nonresponder
+218 is responder 79.0% 715%
+<18 is nonresponder
+>28 is responder 63.2% 100%
+
+<28 is nonresponder
+
+BAT, Basophil activation test.
+
+19 (58%) responders, 4 (12%) nonresponders, and 10 (30%)
+basopenics. Percent-gated CD63 BAT demonstrated the best
+
+correlation with HR
+
+results with 0.1 [lg/m
+
+(R’ = 0.7812, P < .0001; Figure El,
+article’s Online Repository at www.jaci-in
+
+L anti-IgE stimulation
+A, available in this
+ractice.org) and with
+
+0.01 [g/mL anti-IgE stimulation (R° = 0.8050, P < .0001;
+Figure El, B, available in this article’s Online Repository at
+www, jaci-inpractice.org). In contrast, a correlation between BAT
+and HR by all measures was poor with 1 [g/mL anti-IgE
+stimulation (Figure El, C, available in this article’s Online Repository at www.jaci-inpractice.org).
+
+With classification by HR as the reference standard, we also
+determined the frequency of proper classification of basophil
+functional phenotype using the BAT (Table 1). With 0.1 [ig/mL
+anti-IgE stimulation, a cutoff value >13%CD63-gated BAT was
+94.7% sensitive and 100% specific for the basophil responder
+phenotype. With 0.01 [g/mL anti-IgE stimulation, a cutoff
+value >6%CD63-gated BAT was 100% sensitive and specific.
+No cutoff value at 1 [g/mL anti-IgE stimulation achieved
+sensitivity and specificity greater than 80%.
+
+With regard to clinical parameters, similar quality-of-life
+impairment as assessed by the total SkinDex-29 score was
+noted in basopenics, responders, and nonresponders (Table II).
+However, the mean of the “Emotional” domain was significantly
+higher for basopenics (29.6) compared with 24.1 for responders
+(P = .036) and 25.3 for nonresponders (P = .041). The dif
+ference between basopenics and nonresponders remained significant adjusting for confounders (Table E2, available in this
+article’s Online Repository at www. jaci-inpractice.org). Basophil
+responders were more likely to have longer disease duration, with
+only 23.9% noting disease duration between 6 months and 2
+years as compared with 48.5% of basopenics (P = .012) and
+47.3% of nonresponders (P = .0062) (Table II). Adjusted odds
+of having shorter disease duration was 3.3 for nonresponders
+(95% confidence interval [CI]: 1.5, 7.5; P = .004) and 3.7 for
+basopenics (95% Cl: 1.4, 9.6; P = .007) relative to responders
+
+ 
+
+ 
+2 CLINICAL COMMUNICATIONS
+
+TABLE Il. Survey characteristics’, by functional basophil type
+
+Survey characteristic
+
+Total SkinDex-29 score, mean (SE) 76.1 (4.8)
+SkinDex-29 symptom components, mean (SE) 19.3 (1.0)
+SkinDex-29 functional components, mean (SE) 28.2 (2.1)
+SkinDex-29 emotional components, mean (SE) 29.6 (10.8)
+Years of urticaria since first episode, n (%)
+6 mo to2y 16 (48.5)
+Between 2 and 4 y 3 9.1)
+4 or more y 14 (42.4)
+Steroid tapers in the past year, n (%)
+0 8 (24.2)
+1 or more 25 (75.8)
+Steroid tapers in lifetime, n (%)
+0 4 (12.5)
+1 or more 28 (87.5)
+Average score for number/size of 1.52 (0.23)
+current hives, mean (SE)
+Average score for number/size of 2.91 (0.19)
+hives during flares, mean (SE)
+Current itch, mean (SD) 3.33 (0.54)
+Itch during flare, mean (SD) 9.50 (0.22)
+Wheal locations during flare, mean (SD) 4.85 (0.29)
+Wheal duration during flare, n (%)
+Less than 1 h 1 (3.0)
+1-24h 23 (69.7)
+Longer than 24 h 9 (27.3)
+
+SD, Standard deviation; SE, standard error.
+“Indicates P value for basopenics vs nonresponders in subcomparisons.
+**Indicates P value for basopenics vs responders in subcomparisons.
+“Indicates P value for responders vs nonresponders in subcomparisons.
++Assessed for patients with available data (missing not shown).
+
+tOverall P value comparing the 3 groups is the first value displayed.
+
+§Bolded data indicate values used for subcomparisons between pairs of groups.
+
+(Table E2). More basopenics (75.8%) and nonresponders
+(66.0%) required steroid taper(s) in the last year, compared with
+responders (47.1%) (P = .0063 and P = .047, respectively)
+(Table II). The mean number/size of current hives was highest
+for basopenics (1.52) compared with nonresponders (0.75) and
+responders (0.65) (P < .001). The mean current itch score was
+also highest for basopenics (3.33), compared with responders
+(2.23) and nonresponders (1.30) (P = .002). Finally, itch score
+during flares was again highest for basopenics (9.50) compared
+with responders (8.48) and nonresponders (9.13) (P = .035).
+Other clinical characteristics were similar between groups
+
+Basopenic (n = 33)
+
+J ALLERGY CLIN IMMUNOL PRACT
+
+MONTH 2019
+Responder (n = 71) Nonresponder (n = 55) P value’
+65.2 (3.0) 66.4 (3.3) a3,
+17.1 (0.7) 17.0 (0.8) 14
+23.9 (1.2) 25.3)(13); Bld
+24.1 (10.0) 24.0 (9.0) 024
+.041*
+.036**
+1.088"
+044
+17 (23.9) 26 (47.3) OF
+13 (18.3) 7 (12.7) -012**
+41 (57.8) 22 (40.0) -0062***
+012
+37 (52.9) 18 (34.0) 34*
+33 (47.1) 35 (66.0) -0063**
+047%"
+45
+16 (23.5) 12 (21.8)
+52 (76.5) 43 (78.2)
+0.75 (0.11) 0.65 (0.12) <.001
+.001*
+-002**
+1.088"
+2.55 (0.15) 2.72 (0.15) 232,
+2.23 (0.32) 1.30 (0.27) 002
+.001*
+12**
+BS
+8.48 (0.27) 9.13 (0.26) 035
+1.0*
+.050**
+ote
+4.39 (0.20) 4.48 (0.23) 44
+8 (11.4) 4 (7.4) 32
+34 (48.6) 28 (51.9)
+28 (40.0) 22 (40.7)
+
+(Table E3, available in this article’s Online Repository at www.
+jaci-inpractice.org).
+
+Strengthening previous findings, many CSU disease severity
+measures tracked with basopenia in our study. Specifically,
+basopenics reported greater use of steroid tapers in the last year,
+greatest current hive/itch scores and itch during flares, and
+highest score on the SkinDex-29 emotional component. Taken
+together, blood basopenia may indicate a more severe phase of
+disease with increased recruitment of basophils to the skin that
+may contribute to disease symptoms.’ Consistent with this
+theory, patients with CSU who experience clinical improvement
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+with omalizumab also demonstrate a dose-related rise in blood
+basophil count.”
+
+We also examined an alternate method for basophil functional
+phenotyping and found a strong correlation between HR and %
+gated CD63 BAT at lower anti-IgE stimulation concentrations
+(0.01 and 0.1 [g/mL), which has not been previously reported.'
+However, at a higher anti-IgE concentration (1 [lg/mL), the correlation was poor. This is likely because at supraoptimal concentrations of anti-IgE stimulation, HR decreases whereas the dose
+response plateaus in BAT. Although BAT may be used for CSU
+basophil functional classification, direct measurement of HR should
+first be conducted in a limited sample to assure a correlation between
+both anti-IgE dose response curves.
+
+In addition, the basophil responder phenotype was associated
+with longer disease duration although responders may carry less
+disease burden than basopenics. Prolonged disease duration in
+responders is consistent with Baker et al’s 2009 study,” but our
+remaining findings were not previously observed. This may be
+explained by the small sample size (n = 50) of the previous
+study. Although the present study has increased power overall,
+limitations remain. First, the sample size for BAT versus HR
+release was limited (n = 33) and results should be replicated with
+a larger cohort. In addition, patient-reported survey characteristics may be subject to recall bias. The predominance of highly
+educated Caucasian patients recruited from an urban, tertiary
+care center may limit study generalizability. Lastly, data from the
+baseline study visit are reported here. Future work will include
+longitudinal analysis to correlate basophil functional measures
+with disease evolution in CSU.
+
+Department of Medicine, Division of Allergy and Clinical Immunology, Johns
+Hopkins University School of Medicine, Baltimore, Md
+
+This study was funded by NIH AI116658.
+
+Conflicts of interest: S. S. Saini received grant/research/clinical trial support from the
+National Institutes of Health, ITN, Novartis, Regeneron, and is a consultant/
+
+CLINICAL COMMUNICATIONS 3
+
+advisory board member for Genentech, Novartis, Medimmune, AstraZeneca,
+Pfizer, Allakos, Eli Lily, and Gossamer Bio. The rest of the authors declare that
+they have no relevant conflicts of interest.
+
+Received for publication May 17, 2019; revised July 16, 2019; accepted for
+publication August 3, 2019.
+
+Available online il
+
+Corresponding author: Sarbjit $. Saini, MD, Department of Medicine, Division of Allergy & Clinical Immunology, Johns Hopkins Asthma & Allergy Center, 5501
+Hopkins Bayview Circle, Rm. 2B.71B, Baltimore, MD 21224-6801. E-mail: ssaini@
+jhmi.edu.
+
+2213-2198
+
+© 2019 American Academy of Allergy, Asthma & Immunology
+
+https://doi.org/10.1016/.jaip.2019.08.004
+
+REFERENCES
+
+1. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfutzner W. Functional and
+phenotypic analysis of basophils allows determining distinct subtypes in patients
+with chronic urticaria. Allergy 2017;72:1904-11.
+
+2. Oliver ET, Sterba PM, Saini SS.
+with disease activity in chronic spontaneous urticaria. Allergy 2015;70:601-3.
+
+3. Vonakis BM, Vasagar K, Gibbons SP, Gober L, Sterba P, Chang H, et al.
+Basophil FceRI histamine release parallels expression of Sre-homology
+2-containing inositol phosphatases in chronic idiopathic urticaria. J Allergy
+Clin Immunol 2007;119:441-8.
+
+4, Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes in chronic idiopathic urticaria in relation to disease activity and autoantibodies. J Invest Dermatol 2008;128:1956-63.
+
+5. Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AF, Yokozeki H. Basophil
+recruitment and activation in inflammatory skin diseases. Allergy 2011;66:
+1107-13.
+
+6. Baker R, Vasagar K, Ohameje N, Gober L, Chen SC, Sterba PM, et al. Basophil
+histamine release activity and disease severity in chronic idiopathic urticaria. Ann
+Allergy Asthma Immunol 2008;100:244-9.
+
+7. Sabroe R, Seed P, Francis DM, Barr RM, Black AK, Greaves MW. Chronic
+idiopathic urticaria: comparison of the clinical features of patients with and
+without anti-FceRI or anti-[gE autoantibodies. J Am Acad Dermatol 19:40:
+443-50.
+
+8. Chren M-M. The SkinDex instruments to measure the effects of skin disease on
+quality of life. Dermatol Clin 2012;30:231-6.
+
+9. Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosen K, Sterba PM, et al.
+Effect of omalizumab on blood basophil counts in patients with chronic idio
+ 
+
+Interval shifts in basophil measures correlate
+
+  
+
+ 
+
+ 
+
+pathic/spontaneous urticaria. J Invest Dermatol 2017;137:958-61.
+3.e1 CLINICAL COMMUNICATIONS
+
+ONLINE REPOSITORY
+
+METHODS
+Patient recruitment
+
+Exclusion criteria included the use of systemic corticosteroids,
+cyclosporine, or sulfasalazine in the last month or diagnosis of
+concomitant urticarial vasculitis, atopic dermatitis, or physical
+urticaria.
+
+Basophil histamine release (HR) assay
+
+Density gradient sedimentation (single Percoll density
+centrifugation) was used to isolate blood basophils of patients
+from venous blood samples." '!" Polyclonal goat antihuman IgE
+(0.001-1.0 [ig/mL; DACI Lab, Baltimore, Md) was used in
+duplicate to stimulate basophils for HR in calcium-containing
+buffers and measured using automated fluorometry. In addition, basophils were stimulated using N-formyl-met-leu-phe
+(fMLP) (107° M) asa positive control for basophil degranulation
+as it is an independent pathway typically preserved in patients
+with chronic spontaneous urticaria (csu),"” Supernatants
+were collected and analyzed via automated fluorimetry. Results
+are presented as the percentages of total histamine content of
+total cell lysates of leukocyte aliquots after spontaneous HR was
+subtracted. Total histamine content was defined as total histamine content released from lysed leukocytes derived from 1 mL
+of whole blood minus the basal level of histamine released
+spontaneously by basophils without stimulus (ie, in buffer). Per
+previously optimized protocol, HR levels to 0.1 [g/mL concentration of IgE were used to classify basophil functional phenotypes. Patients with HR >10% of total histamine content
+were categorized as “responders,” whereas those with response
+<10% were categorized as “nonresponders. © Patients with
+histamine concentrations <5 ng/mL blood leukocytes were
+classified as “basopenics.” Evidence of a strong correlation between blood histamine content and independent verification of
+basophil numbers by flow cytometry and enumeration has been
+shown.’ “"?
+
+ 
+
+Basophil activation test (BAT)
+
+At the time of blood sampling for basophil HR, blood
+samples were also collected in parallel into heparinized tubes
+(BD vacutainer, San Jose, Calif) for flow studies. Heparinized
+blood was immediately incubated with either buffer alone or
+identical doses of anti-IgE antibody or fMLP for 30 minutes at
+37°C. Samples were then washed and labeled with CD123
+APC (Thermo Fisher Scientific, Grand Island, NY) and either
+CCR3 PE (Thermo Fisher Scientific) or CD63 PE (Beckman
+Coulter, Atlanta, Ga). Cells were subsequently lysed and fixed
+(Beckman Coulter) and then analyzed on a BD FACS Calibur
+flow cytometer. Basophils were gated using CCR3+, CD123+
+cell subset and results expressed as both net mean fluorescence
+intensity and % positive relative to buffer.” Exogenous IL-3
+was not added to the BAT assay buffers, in contrast to the
+Rauber et al!* study, in order to maintain consistent conditions between the HR results and BAT results.
+
+Written questionnaire
+
+A 3-part survey was administered to patients on the same
+visit as their venipuncture." Part 1 included demographic
+variables, CSU disease duration, family history of CSU,
+medication usage, as well as CSU-related work/school
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+absenteeism and hospital/emergency department (ED) visits.
+Part 2 was the urticaria severity score, an instrument used in
+previous studies of CSU to quantify wheal size and number
+and itching in the present time and during flares.'”""* Systemic
+symptoms during flares were queried, with 4 classified as being
+related to anaphylaxis: gastrointestinal, wheezing, palpitations,
+and flushing. Part 3 was the SkinDex-29 questionnaire, a
+validated dermatology instrument for assessing the impact of
+skin disease on quality of life in the past 3 months."
+
+Statistical analysis
+
+Groups’ means were compared using the analysis of variance
+test, whereas proportions of categorical variables were
+compared using the ‘7 test and Fisher’s exact test. For results
+showing significant differences, post hoc pairwise comparisons
+were conducted using the Bonferroni method. Multivariable
+linear/logistic regression was used to adjust for potential confounders. A correlation between %HR and the BAT was
+assessed by linear regression. Various threshold values were
+tested to determine the sensitivity and specificity of BAT in
+identifying basophil phenotypes, with classification by %HR as
+the reference standard. All analyses were performed in Stata/IC
+15.1 (StataCorp, College Station, Tex).
+
+Results (Tables E1 and E3)
+
+Clinical demographics were among groups
+(Table El). By definition, histamine concentration per 1 mL
+blood leukocytes was different among the 3 groups (P < .001)
+and anti-lgE HR was higher in responders compared with
+nonresponders (P < .001). In contrast to previous studies"!
+with smaller samples, lower fMLP HR was reported in
+nonresponders (29.5) compared with responders (39.6)
+(P = .008).
+
+Mean scores for “Symptom” and “Functional” domains of
+the SkinDex-29 were similar between groups (P = .14 and
+P = .17, respectively) (Table E3). Absent days due to urticaria
+in the past year and lifetime were not different (P = .43 and
+P = .87, respectively). Frequency of hospital/ED visits for
+urticaria in the past year and lifetime were also not different
+(P = .47 and P = 1.0, respectively). No differences were seen
+between groups in the proportions of patients with positive
+personal history of allergic comorbidities (P = .15) or in the
+proportions of patients with positive family history, with
+roughly 15% positive in all groups (P = 1.0). No differences
+were seen among groups in any of the other (ie, nonsteroidal)
+medications taken for urticaria, either currently or lifetime.
+Lifetime requirements for one or more steroid tapers were
+similar (P = .45). The mean score of the number and size of
+hives during flares and the mean number of wheal locations
+during flares were not significantly different among groups
+(P = .32 and P = .A4, respectively). Durations of urticarial
+wheals during flares were similar (P = .32). The mean number
+of systemic symptoms during a flare was not significantly
+different among the other groups (P = .52). Similarly, the
+mean number of anaphylaxis-type symptoms (gastrointestinal,
+wheezing, palpitations, flushing) was not significantly different
+from other groups (P = .52). Proportions of each of the 4
+symptoms of anaphylaxis were also not different between
+groups (P > .05). In all groups, flushing was the most common
+anaphylaxis-associated symptom, whereas palpitations were the
+least common.
+
+similar
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+HR vs. BAT (% gated) at anti-IgE 0.1ug/mL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+2
+0
+3 °
+«8
+=
+eg
+&
+°
+0 20 40 60 80 100
+% gated
+95% Cl Fitted values
+© Basopenics © Responders
+© _Nor-responders
+A R-squared=0.7812, p<0.0001
+HR vs. BAT (% gated) at anti-IgE 0.01ug/mL
+8
+8
+«8
+=
+oe
+S
+&
+°
+% gated
+95% Cl Fitted values
+© Basopenics © Responders
+© __Non-Responders
+B -squared=0.8050, p-0.0001
+° HR vs. BAT (% gated) at anti-IgE 1ug/mL
+8
+3
+3
+F3 8
+xe °
+Ay
+&
+
+ 
+
+ 
+
+0 20 40 60 80 100
+
+ 
+
+ 
+
+ 
+
+% gated
+
+95% Cl Fitted values
+
+© Basopenies © Responders
+© _Non-responders
+
+ 
+
+ 
+
+R-squared=0.2820, p=0.001
+
+c
+
+FIGURE E1. Percent histamine release (HR) versus basophil activation test (BAT), at various concentrations of anti-IgE stimuli. A,
+Gold standard for HR: anti-IgE 0.1 jig/mL. B, Lower concentration:
+anti-IgE 0.01 jig/mL. C, Higher concentration: anti-IgE 1 [ig/mL.
+CI, Confidence interval.
+
+CLINICAL COMMUNICATIONS
+
+3.e2
+3.e3 CLINICAL COMMUNICATIONS
+
+TABLE E1. Demographics and basophil functional characteristic
+
+Characteristic
+Age (y), mean (SE)
+Gender, n (%)
+Male
+Female
+Race, n (%)
+White/Caucasian
+Black/African American
+East Asian/Pacific Islander
+American Indian
+Hispanic/Latino Origin
+South Asian (Indian, etc.)
+Other
+Multiethnicity
+Education level, n (%)
+8th grade or less
+Any high school
+Any college graduate
+Any postgraduate
+Missing
+Histamine concentration, ng/1 mL blood
+leukocytes, mean (SE)
+Anti-IgE (0.1 tg/mL), % histamine release, mean (SE)
+fMLP (10~° M), % histamine release, mean (SE)
+/MLP, N-Formy|-met-leu-phe; SE, standard error.
+
+Bold indicates statistical significance (P < .05).
+*Missing 1.
+
+ 
+
+Basopenic (n = 33)
+41.3 (2.2)
+
+10 (30.3)
+23 (69.7)
+
+25 (75.8)
+6 (18.2)
+0 (0)
+00)
+
+1 3.0)
+00)
+0 (0)
+1 (3.0)
+
+00)
+0 (16.4)
+24 (43.6)
+22 (40.0)
+0 (0)
+1.7 (0.2)
+
+Responder (n = 71)
+44.1 (1.7)
+
+23 (32.4)
+48 (67.6)
+
+53 (74.7)
+8 (11.3)
+1 (1.4)
+00)
+
+3 (4.2)
+2 (2.8)
+2 (2.8)
+2 (2.8)
+
+0)
+10 (14.3)
+3752.9)
+23 (32.9)
+
+1 (1.4)
+
+28.9 (1.8)
+
+45.0 (2.7)
+39.6 (2.6)*
+
+J ALLERGY CLIN IMMUNOL PRACT
+
+MONTH 2019
+Nonresponder (n = 55) P value
+43.7 (1.8) 607
+419
+12 (21.8)
+43 (78.2)
+46 (83.6) 885
+5 9.1)
+J (1.8)
+0 (0)
+J (1.8)
+1 (1.8)
+0 (0)
+1 (1.8)
+153
+0 (0)
+9 (16.4)
+24 (43.6)
+22 (40.0)
+0 (0)
+25.7 (2.3)* <.001
+2.2 (0.4) <.001
+29.5 (2.6) 008
+J ALLERGY CLIN IMMUNOL PRACT CLINICAL COMMUNICATIONS _ 3.e4
+VOLUME Ml, NUMBER fi
+
+TABLE E2. Multivariable regression models adjusting for potential confounders
+Characteristic Unadjusted mean Unadjusted P value Adjusted mean* Adjusted P value*
+
+SkinDex: emotional component
+
+ 
+
+Basopenic (Ref.) (Ref.)
+
+Nonresponder —5.6 014 —4.5 046
+
+Responder =5.5 012 —4.4 050
+Average score for number/size of current hives
+
+Basopenic (Ref.) (Ref.)
+
+Nonresponder —0.87 <.001 —0.79 001
+
+Responder —0.77 001 —0.74 002
+Current itch
+
+Basopenic (Ref.) (Ref.)
+
+Nonresponder 2.0) <.001 -1.8 002
+
+Responder -Ll 041 -1.0 072
+Itch during flare
+
+Basopenic (Ref.) (Ref.)
+
+Nonresponder —0.37 404 —0.50 268
+
+Responder —1.02 017 —1.02 020
+Characteristic Unadjusted OR 95% Cl P value Adjusted OR* 95% Cl P value
+Disease duration <2 y
+
+Responder (Ref.) (Ref.)
+
+Nonresponder 2.8 (1.3, 6.1) .007 3.3 (1.5, 7.5) .004
+
+Basopenic 3.0 (1.2, 7.2) 014 3.7 (1.4, 9.6) .007
+One or more steroid tapers in the last year
+
+Responder (Ref.) (Ref.)
+
+Nonresponder 22 (1.04, 4.5) 038 22 (1.02, 4.9) 045
+
+Basopenic B55: (1.4, 8.8) 008 351 (1.4, 10.0) O11
+
+CI, Confidence interval; OR, odds ratio.
+Bold indicates statistical significance (P < .05).
+* Adjusted for age, gender, race, and education.
+3.e5 CLINICAL COMMUNICATIONS
+
+TABLE E3. Survey characteristicst, by functional basophil type
+Survey characteristic, n (%) Basopenic (n = 33)
+
+Absent days in the past year, n (%)
+
+None 14 (42.4) 37 (53.6)
+
+1 or more 19 (57.6) 32 (46.4)
+Absent days in lifetime, n (%)
+
+None 9 (27.3) 19 (28.8)
+
+1 or more 24 (72.73) 47 (71.2)
+Hospital/ED visits in the past year, n (%)
+
+None 20 (60.6) 50 (70.4)
+
+1 or more 13 (39.4) 21 (29.6)
+Hospital/ED visits in lifetime, n (%)
+
+None 14 (42.4) 29 (42.0)
+
+1 or more 19 (57.6) 40 (58.0)
+Medications ever taken for urticaria, n (%)
+
+Antihistamine 33 (100) 69 (97.2)
+
+Steroids 28 (84.9) 53 (74.7)
+
+Leukotrienes 16 (48.5) 27 (38.0)
+
+Dapsone 3 9.1) 4 (5.6)
+
+Colchicine 0 (0) 1 (1.4)
+
+Sulfasalazine 3 9.1) 16 (22.5)
+
+Antidepressants 19 (57.6) 28 (39.4)
+
+Thyroid medications 8 (24.2) 8 (11.3)
+
+Stomach acid medications 18 (62.1) 35 (60.3)
+Current medications for urticaria, n (%)
+
+Antihistamine 26 (89.7) 50 (86.2)
+
+Steroids 5 (17.2) 10 (17.2)
+
+Leukotrienes 7 (24.1) 7 (12.1)
+
+Dapsone 1 (3.5) 2535)
+
+Colchicine 0 (0) 0 (0)
+
+Sulfasalazine 2 (6.9) 7 (12.1)
+
+Antidepressants 8 (27.6) 9 (15.5)
+
+Thyroid medications 1 (3.5) 5 (8.6)
+
+Stomach acid medications 6 (20.7) 14 (24.1)
+Family history, n (%)
+
+Yes 5 (15.2) 11 (15.7)
+Other allergic diseases, n (%)
+
+Yes 4 (20.0) 8 (43.9)
+Systemic symptoms during flare, mean (SD) 1.82 (0.27) 1.77 (0.22)
+No. of anaphylaxis symptoms, mean (SE) 0.82 (0.13) 0.77 (0.13)
+
+Endorses GI symptoms, n (%) 5 (15.2) 4 (19.7)
+
+Endorses wheezing, n (%) 10 (30.3) 13 (18.3)
+
+Endorses palpitations, n (%) 1 (3.0) 8 (11.3)
+
+Endorses flushing, n (%) 11 (33.3) 20 (28.2)
+
+ED, Emergency department; Gi, gastrointestinal; SD, standard deviation; SE, standard error.
++Assessed for patients with available data (missing not shown).
+tOverall P value comparing the 3 groups.
+
+Responder (n =71)
+
+J ALLERGY CLIN IMMUNOL PRACT
+
+MONTH 2019
+Nonresponder (n = 55) P value?
+43
+23 (43.4)
+30 (56.6)
+87
+17 (32.7)
+35 (67.3)
+AT
+34 (61.8)
+21 (38.2)
+1.0
+24 (43.6)
+31 (56.4)
+55 (100.0) 69
+40 (72.7) 42
+31 (56.4) 12
+4 (7.3) 179.
+3 (5.5) QT
+8 (14.6) 22
+30 (54.6) 12
+12 (21.8) 15
+31 (70.5) 58
+35 (79.6) AT
+3 (6.8) 25
+14 (31.8) 044
+0 (0) AS
+0 (0)
+5 (11.4) 87
+11 (25.0) 35
+9 (20.5) 078
+16 (36.4) 26
+8 (14.8) 1.0
+9 (29.0) AS
+1.46 (0.21) 52
+0.59 (0.10) 44
+7 (13.0) 60
+7 (13.0) 14
+2 3.7) 25
+16 (30.0) 88
+ARTICLE IN PRESS
+
+J ALLERGY CLIN IMMUNOL PRACT.
+VOLUME i, NUMBER
+
+REFERENCES
+
+El. Baker R, Vasagar K, Ohameje N, Gober L, Chen SC, Sterba PM, et al. Basophil histamine release activity and disease severity in chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol 2008;100:244-9,
+
+E2. Vonakis BM, Vasagar K, Gibbons SP, Gober L, Sterba P, Chang H, et al. Basophil
+FeeRI histamine release parallels expression of Src-homology 2—containing inositol
+phosphatases in chronic idiopathic urticaria. J Allergy Clin Immunol 2007;119:441-8.
+
+E3. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfutzner W. Functional and phenotypic
+analysis of basophils allows determining distinct subtypes in patients with chronic
+urticaria, Allergy 2017:72:1904-11.
+
+E4, Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosen K, Sterba PM, et al.
+Effect of omalizumab on blood basophil counts in patients with chronic idiopathic/spontaneous urticaria. J Invest Dermatol 2017;137:958-61.
+
+E5. Sabroe RA, Francis DM, Barr RM, Kobza A, Greaves MW. Anti-FceRI autoantibodies
+and basophil histamine releasability in chronic idiopathic urticaria, J Allergy Clin
+Immunol 1998;102:651-8.
+
+Ey.
+
+E9.
+
+CLINICAL COMMUNICATIONS —_3.e6
+
+. Kim Z, Choi BS, Kim JK, Won DI. Basophil markers for identification
+
+and activation in the indirect basophil activation test by flow cytometry
+for diagnosis of autoimmune urticaria. Ann Lab Med 2016;36:28-35.
+Sabroe R, Seed P, Francis DM, Barr RM, Black AK, Greaves MW, et al.
+Chronic idiopathic urticaria: comparison of the clinical features of patients with and without anti-FceRI or anti-IgE autoantibodies. J Am Acad
+Dermatol 1999;40:443-50.
+
+. Jariwala SP, Moday H, de Asis ML, Fodeman J, Hudes G, de Vos G, et al.
+
+The urticaria severity score: a sensitive questionnaire/index for monitoring
+response to therapy in patients with chronic urticaria. Ann Allergy Asthma
+Immunol 2009;102:475-82.
+
+Chren M-M, Lasek RJ, Flocke SA, Zyzanski SJ. Improved discriminative
+and evaluative capability of a refined version of SkinDex, a quality-of-life
+instrument for patients with skin diseases. Arch Dermatol 1997;133:
+1433-40.
+

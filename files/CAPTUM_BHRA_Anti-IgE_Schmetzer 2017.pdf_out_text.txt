@@ -1,0 +1,1035 @@
+Anaphylaxis, drug allergy, urticaria, and angioedema
+
+IL-24 is a common and specific autoantigen of
+
+® Check for updates
+
+IgE in patients with chronic spontaneous urticaria
+
+Oliver Schmetzer, MD, PhD, Elisa Lakin, Fatih A. Topal, Patricia Preusse, Denise Freier, Martin K. Church, PhD, DSc, and
+
+Marcus Maurer, MD _ Berlin, Germany
+
+Background: The efficacy of omalizumab (anti-IgE) and
+increased IgE levels in patients with chronic spontaneous
+urticaria (CSU) suggest autoallergic mechanisms.
+
+Objective: We sought to identify autoallergic targets of IgE in
+patients with CSU.
+
+Methods: Serum samples of patients with CSU together with
+those of patients with idiopathic anaphylaxis and healthy
+control subjects (7 of each) were screened for IgE
+autoantibodies by using an array of more than 9000 proteins.
+Sera of 1062 patients with CSU and 482 healthy control subjects
+were used in an IgE-anti-IL-24-specific ELISA to investigate
+the association of IgE-anti-IL-24 and CSU.
+
+Results: By using array analyses, more than 200 IgE
+autoantigens were found in patients with CSU that were not
+found in control subjects. Of the 31 IgE autoantigens detected in
+more than 70% of patients, 8 were soluble or membrane bound
+and expressed in the skin. Of these, only IgE autoantibodies to
+IL-24 were found in all patients with CSU. In vitro studies
+showed IL-24 to release histamine from human mast cells
+sensitized with purified IgE of patients with CSU but not control
+subjects. By using ELISA, mean + SD levels of IgE-anti-IL-24
+were 0.52 + 0.24 IU/mL in patients with CSU and 0.27 + 0.08
+IU/mL in control subjects, with 80% of patients with CSU but
+only 20% of control subjects having levels greater than 0.33 IU/
+mL (P <.0001). IgE-anti-IL-24 showed acceptable predictive
+properties for CSU, with a likelihood ratio of 3.9. Clinically,
+IgE-anti-IL-24 levels showed an association with disease
+
+From the Department of Dermatology and Allergy, Charité—Universititsmedizin Berlin.
+
+Disclosure of potential conflict of interest: M. K. Church has consultant arrangements
+with FAES Pharma; has received grants from Almirall, FAES Pharma, Menarini,
+MSD, Novartis, UCB Pharma, Sanofi-Aventis, and Uriach; and has received payment
+for manuscript preparation from FAES Pharma. M. Maurer has board memberships
+with Novartis, Genentech, Uriach, Menarini, FAES, and Moxie; has consultant
+arrangements with Novartis, Genentech, Uriach, Menarini, FAES, and Moxie; has
+provided expert testimony for Novartis, Genentech, Uriach, Menarini, FAES, and
+Moxie; has received grants from Novartis, Genentech, Uriach, Menarini, FAES, and
+Moxie; and has received payment for lectures from Novartis, Genentech, Uriach,
+Menarini, FAES, and Moxie. The rest of the authors declare that they have no relevant
+conflicts of interest.
+
+Received for publication December 21, 2016; revised September 22, 2017; accepted for
+publication October 16, 2017.
+
+Available online December 5, 2017.
+
+Corresponding author: Oliver Schmetzer, MD, PhD, Department of Dermatology and Allergy, Charité—Universititsmedizin Berlin, Chariteplatz 1, Berlin 10117, Germany.
+E-mail: oliver.schmetzer@charite.de.
+
+The CrossMark symbol notifies online readers when updates have been made to the
+
+article such as errata or minor corrections
+
+0091-6749/$36.00
+
+Crown Copyright © 2017 Published by Elsevier Inc. on behalf of the American Academy
+of Allergy, Asthma & Immunology. All rights reserved
+
+https://doi.org/10.1016/j,jaci.2017.10.035
+
+ 
+
+ 
+
+876
+
+activity, as assessed by the urticaria activity score and with
+reduced basophil counts.
+
+Conclusion: Our findings show that patients with CSU
+frequently exhibit IgE autoantibodies against many
+autoantigens and that IL-24 is a common, specific, and
+functional autoantigen of IgE antibodies in patients with CSU.
+(J Allergy Clin Immunol 2018;142:876-82.)
+
+Key words: IL-24, IgE, autoantibody, autoallergen, autoallergy,
+type I hypersensitivity, chronic spontaneous urticaria, wheal and
+flare, protein microarray, urticaria activity score
+
+It has been 75 years since it was first suggested that the
+production of wheals in patients with urticaria might have an
+underlying allergic mechanism.' Certainly, the effectiveness of
+H,-antihistamines in patients with urticaria? would support
+this hypothesis, even though no obvious extrinsic allergens
+have been identified. This prompted Rorsman* to suggest urticaria to be an autoallergy (ie, type I hypersensitivity to selfallergens). The involvement of IgE in patients with urticaria
+was suggested from 2 sources. First is the association of chronic
+spontaneous urticaria (CSU) with high levels of total IgE and
+increased levels of IgE directed, for example, against thyroid
+antigens and double-stranded DNA.*° Second is the effectiveness of omalizumab (anti-IgE) in relieving the symptoms of
+csuU.’
+
+In patients with other autoimmune conditions, such as systemic
+lupus erythematosus, the disease is complex and characterized by
+production of autoantibodies to a broad range of self-antigens.”
+For example, in patients with systemic lupus erythematosus,
+IgE antibodies specific for double-stranded DNA have been suggested to stimulate plasmacytoid dendritic cells, an immune cell
+linked to viral defense, to secrete substantial amounts of IFN-«.”
+
+We postulate that CSU is an autoimmune disease in which IgE
+recognizes several autoantigens that are probably primarily
+dermal in origin. Low-level diffusion of these into the bloodstream would be consistent with the basopenia seen in patients
+with CSU.*'° Furthermore, periods of increased local generation
+of such allergens would explain the localized exacerbations of
+CSU.
+
+To test this hypothesis, large-scale screening of autoreactive
+IgE in the serum of patients with CSU was used to explore
+potential targets of IgE autoantibodies (IgE-AAbs) in patients
+with this disease. IgE present in sera from patients with idiopathic
+anaphylaxis (IdA) and healthy subjects was used as a control. The
+association of the primary IgE autoantibody was further investigated both in vitro and clinically.
+J ALLERGY CLIN IMMUNOL
+VOLUME 142, NUMBER 3
+
+Abbreviations used
+CSU: Chronic spontaneous urticaria
+IdA: Idiopathic anaphylaxis
+IgE-AA: Autoantigen recognized by IgE
+
+IgE-AAb: IgE autoantibody
+PSCMC: Peripheral CD34* stem cell-derived mast cell
+TPBS: PBS with 0.05% Tween-20
+TPO: Thyroid peroxidase
+UAS7: 7-Day urticaria activity score
+
+METHODS
+
+Serum from patients with CSU and control subjects
+
+We analyzed 1062 patients with CSU (73% female), 7 patients with IdA
+(57% female), and 482 healthy control subjects (61% female). There was no
+significant difference between the ages of patients with CSU (mean + SD,
+44.0 + 14.7 years), patients with IdA (44.4 + 13 years), and healthy control
+subjects (46.9 + 16.7 years).
+
+All patients were treated at our specialized outpatient clinic for dermatologic allergology. They were given a diagnosis of CSU or IdA in line with the
+current World Allergy Organization “Guidelines for the assessment and
+management of anaphylaxis” and the European Academy of Allergy and
+Clinical Immunology/Global Allergy and Asthma European Network/European Dermatology Forum/World Allergy Organization urticaria guidelines,
+respectively. None of the patients with CSU had concomitant IdA, and none of
+the patients with IdA had CSU, thus excluding overlap in the patients analyzed
+by using microarray analyses. We did not systematically assess autoimmune
+comorbidities in the study subjects.
+
+In our patients with CSU, the mean duration of disease was 5.0 years, and
+the mean 7-day urticaria activity score (UAS7)° was 16.7. Fifty percent of patients with CSU had angioedema, and 26% had positive autologous serum skin
+test reactions, which were defined as being greater than 2 mm compared with
+those elicited by the negative control.
+
+Blood was taken from all study subjects, and serum was separated after clot
+formation without the use of a clotting enhancer. After separation, serum was
+frozen immediately and stored at —80°C until used for microarray, ELISA, or
+IgE purification for functional studies.
+
+Ethics statement
+
+Blood samples taken from patients and all material investigated in this
+study were used after written informed consent, as approved by the ethics
+committee of the Charité—Universitatsmedizin Berlin (EA1-329-14 and EA1I292-14), according to the Declaration of Helsinki (59th WMA General
+Assembly, Seoul, Korea; October 2008).
+
+Auto-IgEome analyses using a microarray
+
+One milliliter of serum from 7 patients with CSU, 7 patients with IdA, and 7
+healthy control subjects was incubated on a ProtoArray Human Protein
+Microarray (version 5.1; Thermo Fisher, Waltham, Mass) at room temperature
+for | hour. This microarray contains 9374 unique, full-length human proteins.
+The slide was then washed 3 times with PBS with 0.05% Tween-20 (TPBS;
+Sigma, Munich, Germany) and incubated with 1 mL of staining solution for
+30 minutes in the dark (1 ,g/mL each of mouse anti-human IgG—
+phycoerythrin [clone G18-145] and mouse anti-human IgE-allophycocyanin
+[clone MHE-18; both from BioLegend, San Diego, Calif]) in 2% human
+albumin (clinical grade [Baxter, UnterschleiSheim, Germany] in TPBS).
+Thereafter, the slide was washed extensively with TPBS, followed by 3 washes
+with water and measurement at a resolution of 2 4m in a PowerScanner
+(Tecan, Mannedorf, Switzerland). Specificity of mAbs was tested on nonserum-treated chips to remove off-target bindings. The signal was calculated
+as mean or z scores, and signals corresponding to immunoglobulin-binding
+proteins (TRIM domain-—containing or FcR proteins) were removed.
+
+ 
+
+SCHMETZER ET AL 877
+
+9,374 human proteins screened
+for IgE reactivity in CSU patients, patients
+with anaphylaxis, and normal controls
+
+8,957 are not
+detected by IgE
+
+417 human proteins are autoantigens
+(AAs) detected by IgE
+
+34/161 AAs detected by
+IgE of normal controls /
+anaphylaxis patients
+
+222 AAs are detected by IgE of CSU
+patients, but not control subjects
+
+191 AAs are detected by
+IgE in < 70% of CSU patients
+
+31 AAs are detected by IgE
+of >70% of CSU patients
+
+23 AAs are not accessible
+or expressed in the skin
+
+8 AAs are accessible and
+expressed in the skin
+
+7 AAs are not detected by
+IgE in all CSU patients
+
+Interleukin 24 (IL-24)
+
+FIG 1. Selection process of IL-24 as a specific, accessible, and skinexpressed autoantigen detected by IgE of patients with CSU. Accessible
+autoantigens (AAs) are those secreted by cells or that are membrane
+bound. IgE-anti-IL-24 was detected in all patients with CSU but none of
+the patients with IdA or healthy control subjects.
+
+Quantification of IgE-anti-IL-24 function
+
+The functionality of IgE-anti-IL-24 was tested by using histamine
+release from peripheral CD34* stem cell-derived mast cells (PSCMCs),
+which were prepared as previously described.'' Briefly, CD34* cells
+(STEMCELL Technologies, Cologne, Germany) were cultured with rIL-3
+and stem cell factor (both from Miltenyi Biotec, Bergisch Gladbach, Germany) for 2 weeks in SFEM medium containing human LDL (STEMCELL
+Technologies).
+
+Beads for IgE purification were prepared with 1 mg of anti-IgE mab
+(clone MB10-5C4; Miltenyi Biotec) conjugated to NHS-mag Sepharose
+(GE, Frankfurt am Main, Germany) and blocked with 100 mmol/L
+ethanolamine in 1 mol/L Tris (pH 8.0; Sigma). Total IgE was purified
+from 1 L of pooled serum from patients with CSU or healthy subjects by
+using these beads after 24 hours of incubation at 4°C. Beads were washed
+with TPBS, and IgE was eluted with 0.1 mol/L citrate buffer (Sigma) at pH
+2 and stabilized with 1 mol/L Tris (pH 8.0). PSCMCs were diluted to
+2 X 10°/mL in 10 mL of SFEM medium (STEMCELL Technologies) containing 250 wL (= 10 wg) of total IgE preparation and incubated overnight
+at 37°C.
+
+Ninety-six-well plates were coated overnight at 37°C with 0.5 jg of IL-24
+(Miltenyi Biotec) per well in carbonate buffer (pH 9). Plates were blocked for
+2 hours at room temperature with 2% human serum albumin in PBS. IgEloaded PSCMCs were washed with RPMI (Thermo Fisher) and added to the
+plates to a final concentration of 80,000 cells per well in 0.2 mL of SFEM
+medium. In addition to the coated wells, further wells were submitted to antiIgE (1 g/well), 1% Triton-X, or nothing for 30 minutes at 37°C. Thereafter,
+plates were centrifuged at 400g for 8 minutes to deplete cells. Supernatants
+878 SCHMETZER ET AL
+
+ 
+     
+  
+ 
+   
+   
+
+CSU
+patients
+
+157 Anaphylaxis
+patients
+
+  
+ 
+
+  
+ 
+
+34
+Healthy controls
+
+FIG 2. Number of autoantigens detected by IgE (autoallergens) in patients
+with CSU, patients with IdA, and/or healthy control subjects.
+
+were stored in —80°C until histamine measurement in a HISTAREADER
+(Reflab, Copenhagen, Denmark).
+
+IgE-anti-IL-24 measurements by means of ELISA
+
+Sixteen micrograms of anti-IgE (MHE-18; BioLegend) were dispensed in
+10 mL of Coating Buffer (0.1 mol/L carbonate [pH 9]; Sigma), and 25 pL of
+this solution was used per well in a black NUNC Maxi-Sorb 384-well plate
+(Thermo Fisher) to coat at 4°C overnight. After blocking with 2% human
+serum albumin in TPBS again overnight at 4°C, human sera were added from a
+96-well plate as four 25 jL/well replicates and incubated at 4°C
+overnight, followed by 3 washes with TPBS and 3 washes with water.
+Thereafter, 25 jsL/well antigen solution containing 4 wg of BHHCT (Sigma)
+conjugated (molar ratio, 1:30) and europium (Sigma) saturated IL-24
+(Miltenyi Biotec) per 10 mL of 50 pmol/L DTPA-purified BSA (PerkinElmer,
+Waltham, Mass) in 50 mmol/L Tris buffer (pH 8) was added and incubated at
+4°C for 1 hour. After washing 10 times with water, 25 wL of DELFIA enhancer
+solution (PerkinElmer) was added to each well. Plates were measured in a
+Victor V reader (PerkinElmer) with standard settings.
+
+We report mean values of a total of 1062 patients with CSU and 482 healthy
+control subjects, with each subject tested up to 4 times in 4 independent
+experiments with similar results.
+
+Calculation of IgE-anti-IL-24 units, fractions, and
+
+cutoffs
+
+Recombinant IgE-anti-green fluorescent protein (Bio-Rad Laboratories,
+Munich, Germany) was used to generate a standard curve to calculate
+IgE-anti-IL-24 values in international units per milliliter of serum measured
+by means of ELISA and IgE-anti-IL-24 values in international units per
+protein spot by using a microarray. The sum of autoreactive IgE, as detected by
+using the microarray, was calculated based on IgE-anti-IL-24 protein spots,
+which allowed us to determine the percentage of IgE-anti-IL-24 of all
+detectable autoreactive IgE. Because of several calculation steps, the values
+can be viewed as an approximation. Total IgE levels measured by the Central
+Laboratory of Charité—Universitatsmedizin Berlin were used to calculate the
+percentage of ELISA-based IgE-anti-IL-24. The cutoff for increased
+IgE-anti-IL-24 ELISA values was calculated according to the receiver
+operating characteristic curve by using the Youden index.
+
+ 
+
+ 
+
+Assessment of basophil numbers
+Blood basophil numbers were determined by the Central Laboratory of the
+Charité-Universitatsmedizin Berlin by using an automated hematocytometer.
+
+Statistical analyses
+
+Normal distribution was tested with the D’ Agostino-Pearson omnibus test,
+and an approximately Gaussian distribution served as a basis to perform
+Student t and ANOVA tests corrected for multiple testing by using the
+Holm-Sidak method. The null hypothesis of random results was rejected if
+the P value was very small (ie, P <.05).
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2018
+
+RESULTS
+Patients with CSU frequently exhibit IgE against
+many autoantigens
+
+All7 patients with CSU, patients with IdA, and healthy control
+subjects exhibited IgE-AAbs against multiple autoantigens, as
+assessed by using microarray analyses of serum reactivity to 9374
+human proteins (Fig |). IgE-AAbs from patients with CSU
+recognized a mean + SD of 95 + 66 autoantigens, patients
+with IdA recognized a mean + SD of 105 + 63 autoallergens,
+and healthy control subjects recognized a mean + SD of
+28 + 11 autoallergens. The distribution of autoallergens
+recognized by each group is shown in the Venn diagram (Fig 2
+and Tables | and II ). Of the total 226 autoantigens recognized
+by IgE (IgE-AAs) from at least 1 patient with CSU, only 4
+were also recognized by IgE from a patient with IdA and none
+by IgE from any healthy control subjects. IgE from patients
+with CSU was more heterogeneous and recognized more different
+autoantigens than IgE from patients with IdA (226 vs 161).
+
+Considering the IgE-AAs recognized only by serum from a
+patient with CSU, Tables | and II show that 222 autoallergens
+were recognized by at least 1 patient. As the number of patients
+increased, the number of common autoallergens decreased, so
+that the IgE of half of the patients reacted to 77 autoantigens,
+whereas 31 autoallergens were recognized by 71% of patients,
+and only 3 autoallergens are fully shared autoallergens
+recognized by all patients with CSU.
+
+Accessibility of CSU-specific IgE-AAbs to
+autoantigens expressed in the skin
+
+Of the 31 autoantigens to which most (71%) of the patients with
+CSU had IgE-AAbs, 8 were accessible, 4 were soluble, and 4 were
+membrane-bound autoallergens. In contrast, the other 23
+IgE-AAs were intracellular and therefore are unlikely to be
+accessible. Of the 8 accessible IgE-AAs, all can be expressed in
+the skin, but only 1, IL-24, was detected by IgE-AAbs of all 7
+patients with CSU (Fig 1).
+
+IgE-anti-IL-24 is the most abundant IgE-AAb in
+patients with CSU
+
+In all patients with CSU analyzed by using a protein array,
+IgE-anti-IL-24 showed the highest serum levels of all IgE-AAbs
+detected. Up to 1.1% (mean + SD, 0.6% + 0.24%) of the total
+detectable IgE-AAbs in patients with CSU was IgE-anti-IL-24.
+IgE-anti-IL-24 serum levels did not correlate with total IgE
+(r = 0.002, P = .840) or total IgE-AAb levels. None of the 7
+patients with CSU had detectable IgG-anti-IL-24 serum levels.
+
+IgE-anti-IL-24 and IL-24 induce mast cell
+degranulation
+
+PSCMCs were sensitized with purified total IgE from patients
+with CSU, healthy control subjects, or with purified IgE-anti-IL24. IL-24 induced degranulation in cells that had been
+preincubated with purified IgE from patients with CSU but not
+healthy control subjects (Fig 3, A). Mast cells also showed
+degranulation after sensitization with purified IgE-anti-IL-24
+and challenge with IL-24 (Fig 3, B).
+J ALLERGY CLIN IMMUNOL SCHMETZER ET AL 879
+VOLUME 142, NUMBER 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A 30) IgE from control B 30,
+@ IgE from CSU **** wee
+
+~ ms
+
+iS T =
+
+e .
+
+= 5a] _ ¢ bd &
+
+® 20 & 2 204 rs
+
+8 ~ § ds
+
+2 o *
+
+& ~ 2
+
+§ 19) $ + > § 10) ¢
+
+2 a Q
+
+x= =
+
+ooo a
+
+Purified IgE + + +  IgE-anti-IL-24 + + +
+Anti-IgE - + -  Anti-IgE - # IL-24 - + IL-24 : - +
+
+FIG 3. IL-24 induces degranulation in mast cells sensitized with purified IgE or IgE-anti-IL-24. Peripheral
+stem cell-derived mast cells were incubated with purified IgE (A) or IgE-anti-IL-24 (B) derived from the sera
+of patients with CSU or (only in Fig 3, A) healthy control subjects before stimulation with anti-lgE, coated
+IL-24, or vehicle as a control. Data shown are mean values of absolute release and SEMs. Spontaneous
+release was 12%. No specific mast cell degranulation was induced by IL-24 alone. Fig 3, A, shows pooled
+data from 4 experiments by using the same IgE preparation but different cell donors. Data shown in
+Fig 3, B, are from one of 3 experiments with similar results. ***P < .005 and ****P < .0001.
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A = B 200 normal Cc 100
+
+~ -- control
+
+£ n subjects 804.
+2 2 150 Chronic #
+
+x 2 — spontaneous > 60
+
+a ° 400 urticaria 5
+
+wa ® =
+
+= 2 2 40
+
+° 3 50 3
+
+> 2 20
+
+- 0 Pn, 0 ‘ 1 1
+
+normal Chronic 0.0 0.5 1.0 23 0 20 40 60 80 100
+control spontaneous IgE-anti-IL-24 (IU/ml) 100% - Specificity in %
+
+subjects urticaria
+
+FIG 4. IgE-anti-IL-24 levels are greater and more often increased in patients with CSU compared with those
+in healthy control subjects. A, Patients with CSU have 2.2-fold higher serum levels of IgE-anti-IL-24, as
+determined by means of ELISA. Patients with CSU: mean + SEM = 0.5 + 0.2 IU/mL (median, 0.49 IU/mL;
+range, 0.0-2.3 IU/mL); healthy subjects: mean + SEM = 0.3 + 0.1 IU/mL (median, 0.3 IU/mL; range,
+0.1-0.6 IU/mL). The box shows 10% to 90% percentiles. B, Compared with healthy control subjects,
+patients with CSU exhibit a higher prevalence of increased IgE-anti-IL-24 levels. C, Receiver operating
+characteristic analyses of ELISA-based measurements show that the cutoff for an increased IgE-anti-IL-24
+value is 0.33 IU/mL (dotted line), as determined by using the Youden index, with a specificity of 80% and
+sensitivity of 80%. All 3 panels show the same data from one representative measurement from 716 patients
+with CSU and 332 healthy control subjects of 4 independent measurements, with a total of 1062 patients
+with CSU and 482 healthy control subjects, showing similar results. ***P < .001.
+880 SCHMETZER ET AL
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2018
+
+TABLE I. Patients with CSU exhibit IgE reactivity to many autoantigens (autoallergens) that are not detected by the IgE of patients
+
+with IdA or healthy control subjects
+
+Rate (%) of patients with CSU 1/7 (14%)
+No. of AAs not detected by IgE in any of the control subjects 222
+
+2/7 (29%)
+
+3/7 (43%) 4/7 (57%) SIT (11%) 6/7 (86%) 7/7 (100%)
+180 128 71 31 19 3
+
+The table shows numbers of specific IgE-AAs shared by all patients with CSU (7/7), shared by some patients with CSU (2/7 to 6/7), and found in any of the patients with CSU
+
+a).
+AAs, Autoantigens.
+
+TABLE Il. Total number of autoantigens detected by IgE in the sera of patients with CSU and control subjects
+
+Patients with CSU
+
+Subject no. 1 2 3 4 5 6 7
+Absolute no. of IgE-AAs/subject 29 40 49 68 116 166 197
+Mean + SD no. of IgE-AAs 95 + 66
+
+Median (range) no. of IgE-AAs 68 (29-197)
+
+Total no. of IgE-AAs 226
+
+Patients with IdA Healthy control subjects
+
+2 5) 4 S} 6 7 1 2 3 4 5 6 7
+
+10 24 112 128 147 157 158 0 30 32 32 32 34 34
+105/63 28 11
+128 (10-158) 32 (0-34)
+161 34
+
+The bottom line shows the total number of autoantigens recognized within each group of 7 subjects.
+
+IgE-anti-IL-24 is a sensitive and specific marker of
+CSU
+
+To further investigate the association of IgE-anti-IL-24 and
+CSU, we developed and used an IgE-anti-IL-24-specific ELISA
+to measure serum levels in patients with CSU and healthy control
+subjects. In combined data from all tested patients with CSU
+(n = 1062) and healthy control subjects (n = 482),
+the mean + SD IgE-anti-IL-24 serum levels were 0.52 + 0.24
+1U/mL (median, 0.49 IU/mL; range, 0.00-2.33 IU/mL)
+and 0.27 + 0.08 IU/mL (median, 0.26 IU/mL; range, 0.10-0.61
+IU/mL; P = .001), respectively (Fig 4). Eight hundred forty-seven
+(80%) of 1062 patients with CSU exhibited higher than normal
+IgE-anti-IL-24 serum levels compared with 99 (20%) of 482
+healthy control subjects (P <.0001) based on the calculated cutoff
+of 0.33 IU/mL. IgE-anti-IL-24 measurement showed acceptable
+predictive properties for CSU, with a sensitivity of 80% (95%
+CI, 76% to 83%), a specificity of 80% (95% CI, 75% to 84%),
+and a likelihood ratio of 3.89 (Fig 4).
+
+IgE-anti-IL-24 levels in patients with CSU correlate
+with disease activity
+
+Microarray-based IgE-anti-IL-24 levels correlated with
+CSU activity, as assessed by using UAS7 (P = .03; Fig 5, A).
+ELISA-based measurements also showed that relative IgE-anti—
+IL-24 levels were linked to disease activity, although weakly
+(Fig 5, B and C). Relative IgE-anti-IL-24 levels showed a
+negative association with blood basophil counts (Fig 5, D).
+
+DISCUSSION
+
+This study shows that patients with CSU produce IgE against a
+wide array of diverse autoantigens that are distinct from those in
+patients with IdA and healthy control subjects. Further analyses
+showed IL-24 to be a common, functional, and specific target of
+IgE in patients with CSU. These findings support a role for IgE
+directed to dermal autoantigens, of which IL-24 is the first to be
+identified, in the pathogenesis of CSU.
+
+This study has performed full-scale screening of IgE autoreactivity in patients with CSU using more than 9000 proteins.
+Previous studies had identified only single IgE reactivities to self
+(eg, IgE against thyroperoxidase or DNA) and did not use
+
+5,12-19
+
+screening assays for IgE. The present study shows that the
+IgE of patients with CSU is directed to many more autoantigens
+than that of healthy control subjects (226 vs 34 autoallergens).
+
+Patients with CSU also exhibit IgE reactivity to a larger set of
+different autoallergens than patients with IdA, who show similar
+levels of total IgE as patients with CSU. This supports the
+conclusion that the IgE reactivities detected are specific rather
+than artifacts caused by increased total IgE levels. An important
+question that needs to be addressed by future studies is whether
+each autoallergen in patients with CSU is detected by one specific
+IgE or whether there are some IgEs that recognize several
+autoallergens. Because we cannot answer this question at present,
+we have assumed in our calculation of IgE-anti-IL-24 levels that
+all recognized autoallergens are bound by a monospecific IgE.
+However, because it is possible that IgE-anti-IL-24 is
+multivalent, in which case only a fraction will be bound to
+IL-24 in the microarray, this would cause an underestimation of
+the international units per milliliter level of our IgE-anti-IL-24
+results. One thing that is very clear from the Venn diagram (Fig 2)
+is that the majority of IgEs of patients with CSU, patients with
+IdA, and healthy control subjects bind to different,
+group-specific autoallergens. We have explored further only the
+IgE-AAbs in sera from patients with CSU.
+
+For an IgE-AA to be involved in the pathogenesis of CSU, it
+would need to both be present in the skin and accessible to mast
+cell-bound IgE. Eight of 226 IgE-AAs from patients with CSU
+fulfill these criteria and are therefore likely candidates for causing
+IgE-dependent skin mast cell activation in patients with CSU. Of
+these, IL-24 is of prime interest for 3 reasons: (1) IgE against
+IL-24 is present in the sera of most patients with CSU; (2) IL-24 is
+present in a soluble form in the skin’; and (3) IgE-anti-IL-24 had
+the highest serum levels of all IgE-AAbs detected, with about 1%
+of the total IgE in patients with CSU directed to this cytokine.
+This 1% level suggests clinical relevance because it is higher
+than the clinically relevant 0.2% of IgE to B-lactam antibiotics”!
+and similar to 1.4% for Cor a 14 and 3.2% for Ara h 2” in patients
+with allergies to these allergens.
+
+A further requisite for IgE-anti-IL-24 to be involved in the
+pathogenesis of CSU would be its ability to activate mast cells to
+release histamine. This was confirmed by loading cultured human
+mast cells with IgE derived from the serum of patients with CSU,
+followed by challenge with IL-24.
+J ALLERGY CLIN IMMUNOL
+VOLUME 142, NUMBER 3
+
+   
+
+ 
+
+ 
+
+SCHMETZER ET AL 881
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B
+x" x2
+io ves
+To © Fu
+cS 9.0.5 ae 2D
+PN a o=
+Wu ~ P=0.84 yy) &
+dD) fe)
+=~ gop 2 2 P5003 De
+
+0 5 10 15 20 25
+
+UAS7 score UAS7 score
+
+c D
+~ 2 ~ 0
+32" ea) w g 7 =0.25
+oy 102 a “1 & 107
+Wl ° %'S, 102
+2D 5 2D
+Gy l0%) © | SB 109
+De : 002 ‘2S
+= -104..@€_ — +x 10+
+
+ 
+
+0 1
+UAS score
+
+(day of serum collection)
+
+0.00 004 0.08
+
+basophil (/nl)
+
+FIG 5. Higher IgE-anti-IL-24 serum levels are associated with higher disease activity and lower basophil
+counts. A, Higher IgE-anti-IL-24 values are linked to higher levels of disease activity, as assessed by using
+the UAS7 in 5 of the 7 patients with CSU tested by using a microarray (for 2 patients with CSU, no UAS7
+score was available). B, Higher levels of relative (to total IgE) IgE-anti-IL-24 tested by means of ELISA are
+linked to higher disease activity, as assessed by using the UAS7, which reflects disease activity during
+the 7 days before drawing blood (n = 52, averaged by pruning from n = 580 [ie, each data point shown
+was averaged from 15 original data points for visualization purposes]). C, Higher relative IgE-anti-IL-24
+levels, as determined by means of ELISA, are linked to higher CSU disease activity on the day the blood
+was drawn, as assessed by using the UAS. D, Higher relative IgE-anti-IL-24 levels are associated with lower
+blood basophil counts. Linear (Fig 5, A-C) and sigmoidal (Fig 5, D) regression lines are shown with 95% Cls
+
+as dotted lines.
+
+Presently, we do not know and can only speculate whether
+the biological effects of IL-24, other than being a target of
+IgE, are relevant in the pathogenesis of CSU. IL-24, an IL-10
+family cytokine,” has been linked to inflammation™*° and
+described to be upregulated in patients with several autoimmune diseases, such as psoriasis and rheumatoid arthritis.°°7*
+In mouse models of psoriasis, IL-24 is induced by TNF in keratinocytes, and inflammation is dependent on this IL-24 induction"? Unlike IL-10, IL-24 is not immunosuppressive but
+leads to a broad stimulation of various immune cells and
+functions.*°"!
+
+In contrast to previous studies, our microarray screen did not
+identify thyroid peroxidase (TPO) as a common IgE-AA.”'!?**
+The reasons for this are currently unclear but might include
+differences in the glycosylation, folding, or other features of the
+TPO used or quenching of the IgE-anti-TPO signal in our assay
+by the presence of IgG-anti-TPO, or it might be that IgE-antiTPO has a higher affinity to other autoantigens and therefore
+binds to a different spot on our microarray.
+
+Sir Bradford Hill’s 6th criterion for causality states that
+demonstration of a biological gradient can be associated with
+
+increased symptoms.’ Our finding that IgE-anti-IL-24 levels in
+patients with CSU, as assessed by using either a microarray or
+ELISA, are linked to disease activity supports this criterion.
+
+The negative association with blood basophil counts might be
+the consequence of basophil activation by IgE-anti—IL-24 in the
+blood.'°**
+
+The strength of this study is that it shows a marked increase in
+IgE-anti-IL-24 values in patients with CSU compared with
+healthy donors. We used a comprehensive array of autoantigens,
+included IgE-matched control samples and normal donors to rule
+out effects that are based on higher total IgE levels and confirmed
+our microarray results in large populations of patients and healthy
+control subjects by means of ELISA. A further strength of this
+study is that it provides ex vivo evidence for the bioactivity of autoreactive IgE and associations with disease activity, both of
+which suggest pathophysiologic relevance.
+
+A weakness of the study is that we also identified IgEanti-IL-24 in some healthy donors, although at markedly lower
+concentrations. Other studies have shown that expression of a
+major anti-FeeRI antibody clone can also be found in healthy
+donors but does not correlate with any clinical finding.'***
+882 SCHMETZER ET AL
+
+A further important weakness of this study is that we cannot yet
+clarify whether IL-24 is the most specific and relevant
+autoallergen in patients with CSU because we screened only a
+fraction of the human proteome, with only the major protein
+variants of each protein included. Also, we calculated
+the concentration of IgE-anti-IL-24 based on recombinant IgEanti—green fluorescent protein, which might have a much stronger
+affinity. If IgE binding to IL-24 is only one hallmark of autoreactive IgE and is bound also to other autoallergens on the array, the
+IgE-anti-IL-24 concentration might be largely underestimated.
+In conclusion, IL-24 has been identified as a common, specific,
+and functional autoantigen of IgE antibodies in patients with
+CSU. Higher IgE-anti-I[L-24 values were associated with higher
+disease activity. This demonstration of autoreactive IgE in
+patients with CSU might explain, at least in part, the clinical
+success of treatment of the disease with the anti-IgE agent
+omalizumab. New assays for measuring autoreactive IgE,
+including IgE-anti-IL-24, might help in the clinical management
+and monitoring of treatment responses in patients with CSU.
+
+We thank the Mast Cell-driven Diseases and their Differential Diagnoses
+(MAD*) team of the Dermatological Allergy (DEAL) group at Charité for help
+and support and Professor Margitta Worm for providing sera of patients with
+IdA.
+
+Key messages
+
+e Patients with CSU have IgE to many different autoantigens,
+including IL-24.
+
+e Eighty percent of pa
+IgE-anti-IL-24 levels.
+
+e IgK-anti-IL-24 is functional, and levels are linked to
+disease activity.
+
+jients with U have increased
+
+REFERENCES
+
+1, Bray GW. The allergic
+Med J 1942;18:112-5.
+
+2. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy 2014;69:868-87.
+
+3. Rorsman H. Basophilic leucopenia in different forms of urticaria. Acta Allergol
+1962;17:168-84.
+
+4. Bar-Sela S, Reshef T, Mekori YA. IgE antithyroid microsomal antibodies in a patient with chronic urticaria, J Allergy Clin Immunol 1999;103:1216-7.
+
+5. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated
+autoallergy against thyroid peroxidase—a novel pathomechanism of chronic spontaneous urticaria? PLoS One 2011;6:¢14794.
+
+6. Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T, Terui T,
+et al. Significantly high levels of anti-dsDNA immunoglobulin E in sera and the
+
+aspects of urticaria and angioneurotic oedema. Postgrad
+
+ 
+
+ 
+
+ 
+
+ability of dsDNA to induce the degranulation of basophils from chronic urticaria
+patients. Int Arch Allergy Immunol 2013;161 (suppl 2):154-8.
+
+7. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: what we know and what we do not know. J Allergy
+Clin Immunol 2017;139:1772-81.e1.
+
+8. Zhu H, Luo H, Yan M, Zuo X, Li QZ. Autoantigen microarray for high-throughput
+autoantibody profiling in systemic lupus erythematosus. Genomics Proteomics
+Bioinformatics 2015;13:210-8.
+
+9, Henault J, Riggs JM, Karnell JL, Liarski VM, Li J, Shirinian L, et al. Self-reactive
+IgE exacerbates interferon responses associated with autoimmunity, Nat Immunol
+2016;17:196-203.
+
+10. Grattan CE. Basophils in chronic urticaria. J Investig Dermatol Symp Proc 2001;6:
+139-40,
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25s
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+. Concha LB, Chang CC, Szema AM, Dattwyler RJ, Carlson HE. IgE
+
+. Horn MP, Gerster T, Ochensberger B, Derer T, Kt
+
+. Grattan CE, Francis DM, Hide M, Gri
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2018
+
+. Schmetzer O, Valentin P, Smorodchenko A, Domenis R, Gri G, Siebenhaar F, et al.
+
+A novel method to generate and culture human mast cells: peripheral CD34+ stem
+cell-derived mast cells (PSCMCs). J Immunol Methods 2014;413:62-8.
+
+antithyroid antibodies in patients with Hashimoto’s disease and chronic urticaria. Allergy
+Asthma Proc 2004;25:293-6.
+
+ 
+
+. Tong LJ, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP. Assessment of autoim
+munity in patients with chronic urticaria. J Allergy Clin Immunol 1997;99:461-5.
+ek F, Jouvin MH, et al, Human
+anti-FcepsilonRlalpha autoantibodies isolated from healthy donors cross-react with
+tetanus toxoid. Eur J Immunol 1999;29:1139-48.
+
+ 
+
+. Fiebiger E, Hammerschmid F, Sting] G, Maurer D. Anti-FcepsilonRIalpha autoan
+tibodies in autoimmune-mediated disorders. Identification of a structure-function
+relationship. J Clin Invest 1998;101:243-51.
+
+. Fiebiger E, Maurer D, Holub H, Reininger B, Hartmann G, Woisetschlager M,
+
+et al. Serum IgG autoantibodies directed against the alpha chain of Fe epsilon
+RI: a selective marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J Clin Invest 1995;96:2606-12.
+
+. Niimi N, Francis DM, Kermani F, O’Donnell BF, Hide M, Kobza-Black A, et al.
+
+Dermal mast cell activation by autoantibodies against the high affinity IgE receptor
+in chronic urticaria. J Invest Dermatol 1996;106:1001-6.
+
+. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoanti
+bodies against the high-affinity IgE receptor as a cause of histamine release in
+. N Engl J Med 199. 1599-604.
+MW. Detection of circulating histamine
+
+ 
+
+  
+
+chronic urticari
+
+ 
+   
+
+ver
+releasing autoantibodies with functional properties of anti-IgE in chronic urticaria,
+Clin Exp Allergy 1991;21:695-704.
+
+Poindexter NJ, Williams RR, Powis G, Jen E, Caudle AS, Chada S, et al. IL-24 is
+expressed during wound repair and inhibits TGFalpha-induced migration and proliferation of keratinocytes. Exp Dermatol 2010;19:714-22.
+
+Vultaggio A, Virgili G, Gaeta F, Romano A, Maggi E, Matucci A. High serum
+beta-lactams specific/total IgE ratio is associated with immediate reactions to
+beta-lactams antibiotics. PLoS One 2015;10:e0121857.
+
+Grabenhenrich L, Lange L, Hartl M, Kalb B, Ziegert M, Finger A, et al. The
+component-specific to total IgE ratios do not improve peanut and hazelnut allergy
+diagnoses. J Allergy Clin Immunol 2016;137:1751-60.¢8.
+
+Hofmann SR, Rosen-Wolff A, Tsokos GC, Hedrich CM. Biological properties and
+regulation of IL-10 related cytokines and their contribution to autoimmune disease
+and tissue injury. Clin Immunol 2012;143:116-27.
+
+Andoh A, Shioya M, Nishida A, Bamba S, Tsujikawa T, Kim-Mitsuyama S, et al.
+Expression of IL-24, an activator of the JAK1/STAT3/SOCS3 ca
+in inflammatory bowel disease. J Immunol 2009;183:687-9
+Fonseca-Camarillo G, Furuzawa-Carballeda J, Granados J, Yamamoto-Furus
+Expression of interleukin (IL)-19 and IL-24 in inflammatory bowel dis
+tients: a cross-sectional study. Clin Exp Immunol 2014;177:64-75.
+Sahoo A, Im SH. Molecular mechanisms governing IL-24 gene expression. Immune Netw 2012;12:1-7.
+
+Leng RX, Pan HF, Tao JH, Ye DQ. IL-19, IL-20 and IL-24: potential therapeutic targets for autoimmune diseases. Expert Opin Ther Targets 2011;15
+119-26.
+
+Kumari S, Bonnet MC, Ulvmar MH, Wolk K, Karagianni N, Witte E, et al.
+Tumor necrosis factor receptor signaling in keratinocytes triggers interleukin24-dependent psoriasis-like skin inflammation in mice. Immunity 2013;39:
+899-911.
+
+Sa SM, Valdez PA, Wu J, Jung K, Zhong F, Hall L, et al. The effects of IL-20 subfamily cytokines on reconstituted human epidermis suggest potential roles in cuta
+  
+   
+
+ 
+
+cade, is enhanced
+
+   
+
+ 
+
+ 
+
+neous innate defense and pathogenic adaptive immunity in psoriasis, J Immunol
+2007;178:2229-40.
+
+Caudell EG, Mumm JB, Poindexter N, Ekmekcioglu S, Mhashilkar AM, Yang XH,
+et al. The protein product of the tumor suppressor gene, melanoma differentiationassociated gene 7, exhibits immunostimulatory activity and is designated IL-24,
+J Immunol 2002;168:6041-6.
+
+Tong AW, Nemunaitis J, Su D, Zhang Y, Cunningham C, Senzer N, et al. Intratumoral injection of INGN 241, a nonreplicating adenovector expressing the
+melanoma-differentiation associated gene-7 (mda-7/IL24): biologic outcome in
+advanced cancer patients. Mol Ther 2005; 11:160-72.
+
+Mozena JD, Tinana A, Negri J, Steinke JW, Borish L. Lack of a role for crossreacting anti-thyroid antibodies in chronic idiopathic urticaria. J Invest Dermatol
+2010;130:1860-5.
+
+Kolkhir P, Andre F, Church MK, Maurer M, Metz M. Potential blood biomarkers in
+chronic spontaneous urticaria. Clin Exp Allergy 2017;47:19-36.
+
+Fux M, Vogel M, Stadler MB, Stadler BM, Miescher SM. Detection of one VH
+antibody sequence in both healthy donors and urticaria patients. J Immunol
+Methods 2005;307:107-17.
+

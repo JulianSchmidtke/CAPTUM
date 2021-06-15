@@ -1,0 +1,617 @@
+jdiuosnueyy soulny yduosnueyy soulny jdiuosnueyy soulny
+
+ydiuosnuepy souyny
+
+   
+
+“» HHS Public Access
+
+C_ Author manuscript
+J Allergy Clin Immunol. Author manuscript; available in PMC 2020 January 02.
+
+“erase
+
+Published in final edited form as:
+J Allergy Clin Immunol. 2019 March ; 143(3): 923-926.e1. doi:10.1016/j.jaci.2019.01.016.
+
+New insights into the utility of omalizumab
+
+Juan Carlos Cardet, MD, MPH, Thomas B. Casale, MD
+Department of Internal Medicine, Division of Allergy and Immunology, Morsani College of
+Medicine, University of South Florida., Tampa, Fla
+
+Abstract
+
+Cells that express FceRIa, including mast cells, basophils, and plasmacytoid dendritic cells
+(pDCs), are regulated by IgE binding to FceeRIa. Omalizumab binds IgE and prevents its
+engagement with FceRla, thereby downregulating its expression and modulating cell function.
+Because these cells are implicated in the pathobiology of many allergic and immunologic diseases,
+as well as host defense mechanisms, it is unsurprising that omalizumab studies continue yielding
+biologic insights and treatment break-throughs for many diseases. Several recent updates in the
+biology and use of omalizumab will be presented here, and others will be summarized in Table I,
+highlighting available biomarker-based personalized approaches.
+
+Keywords
+
+IgE; FceRIa; mAb; biologic therapy; allergy; antiviral immunity; asthma; chronic urticaria; food
+allergy; immunotherapy
+
+ 
+
+ANTIVIRAL EFFECTS
+
+One exciting contribution from recent studies on omalizumab has been the demonstration
+that omalizumab can ameliorate the inadequate antiviral response observed in patients with
+allergic asthma. Children with severe asthma are more susceptible to virus-induced asthma
+exacerbations, particularly those with higher serum IgE levels.! This relationship has been
+postulated to be due to impaired interferon responses to viruses in patients with allergic
+asthma based on cell-based studies using peripheral blood—derived pDCs coincubated with
+viruses. Furthermore, these studies demonstrated a counterregulatory mechanism between
+FceRIa and Toll-like receptor 7 (TLR7; an important receptor for sensing viruses and
+mounting innate immune responses), whereby their protein expression is inversely
+proportional.34
+
+These observations have now been expanded by 2 recent studies using biospecimens and
+data from the Preventative Omalizumab or Step-up Therapy for Severe Fall Exacerbations
+(PROSE) study, which examined whether preventive administration of omalizumab could
+dampen the seasonal increase in asthma exacerbations seen in children. First, these studies
+
+ 
+
+Corresponding author: Thomas B. Casale, MD, Department of Internal Medicine, Division of Allergy and Immunology, University of
+South Florida, 12901 Bruce B Downs Blvd, MDC19, Tampa, FL 33612, tbcasale@health.usf.edu.
+
+Disclosure of potential conflict of interest: J. C. Cardet declares that he has no relevant conflicts of interest.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Cardet and Casale
+
+Page 2
+
+revealed that omalizumab decreased the duration of human rhinovirus (HRV) infections,
+viral shedding, and risk of HRV-related illnesses compared with guideline-driven care alone.
+6 Second, omalizumab attenuated pDC FceRIa protein expression while simultaneously
+augmenting pDC IFN-a responses to HRV and influenza virus.’ Together, these findings
+provide direct evidence that blocking IgE decreases susceptibility to respiratory viral
+illnesses through enhanced IFN-a responses in pDCs (Fig 1).>~7 These findings can provide
+a mechanistic explanation to the results from the Inner-City Anti-[gE Therapy for Asthma
+study, in which omalizumab inhibited seasonal increases in asthma exacerbations thought to
+be caused by viral infections.®
+
+In contrast, a recent study showed that mepolizumab administration (which blocks IL-5, the
+main driver of eosinophilic inflammation) did not abrogate lung function decreases
+provoked by HRV challenge in participants with mild asthma.? This suggests that
+enhancement of the antiviral response is specific to blocking IgE and not cytokines
+important in eosinophilic inflammation. Still, these recent studies raise new questions on
+allergy-antiviral immunity interactions and the counterregulatory relationship between
+FceRIa and TLR7. Unexpectedly, omalizumab decreased TLR7 protein expression,’
+increases of which were presumed to be one mechanism that promoted greater IFN-a
+production. Whether type | interferons other than IFN-a (eg, IFN-B1) or IFN-y (also
+deficient in patients with allergic asthma) are also upregulated and responsible for the
+enhanced viral clearance observed with omalizumab treatment remains unknown. Future
+omalizumab studies might identify intermediaries downstream of FceRIa that could be
+targeted to further improve or restore interferon responses in patients vulnerable to viral
+respiratory tract infections.
+
+RELATIONSHIP WITH EOSINOPHILS
+
+Another interesting asthma-related finding has been the association between asthma
+exacerbation reductions and peripheral blood eosinophil counts.!° In patients with blood
+eosinophil counts of greater than 300 or greater than 400 cells/pL, the reduction in
+exacerbations noted with omalizumab was 67% and 74%, respectively. Interestingly, data
+from this and the Prospective Observational Study to Evaluate Predictors of Clinical
+Effectiveness in Response to Omalizumab (PROSPERO) study suggest that exacerbation
+reductions relative to blood eosinophil counts are largely driven by the placebo arm because
+placebo-assigned participants with high blood eosinophil counts had substantially greater
+asthma exacerbation rates compared with placebo-assigned participants with low blood
+eosinophil counts.F!
+
+URTICARIA
+
+Omalizumab has transformed the treatment of chronic urticaria (CU) since US Food and
+Drug Administration approval for this indication in 2014. The majority of patients with CU
+experience substantial benefit from omalizumab, but not all are complete responders, and
+some are nonresponders. Recent small studies have identified several response biomarkers.
+The serum total IgE ratio of levels obtained before and 4 weeks after omalizumab therapy
+initiation demonstrated an area under the curve of 0.95, with ratios of less than 1.9 having
+
+J Allergy Clin Immunol, Author manuscript; available in PMC 2020 January 02.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Cardet and Casale
+
+Page 3
+
+both a sensitivity and a specificity of 93% to predict nonresponse to omalizumab (n = 96).2
+Baseline serum total IgE levels (threshold, <43 kU/L) alone showed a 95% negative
+predictive value for response. Others have also reported on low baseline serum IgE levels as
+negatively predictive of response.©? Conversely, greater baseline basophil FceRIa
+expression was 100% sensitive and 72% specific for responsiveness to omalizumab.®*
+Importantly, this assay discriminated well between responders and nonresponders; a mean
+fluorescence intensity threshold of 5000 for FceRIa by using flow cytometry completely
+distinguished responders from nonresponders.
+
+Sera from patients with CU, which activates basophils (increased CD203c levels, as
+determined by using flow cytometry), associates with nonresponsiveness to omalizumab.£>
+Serum IL-31 levels were found to decrease with omalizumab treatment and not placebo, but
+baseline IL-31 levels did not correlate with CU disease activity indexes and did not
+distinguish responders from nonresponders.£° A large (n = 470) retrospective study showed
+no association between baseline D-dimer levels and omalizumab’s therapeutic response,=7
+
+contradicting prior reports of this biomarker’s predictive ability.©8
+
+Improved patient selection is needed, and optimal duration of omalizumab therapy remains
+undetermined. Furthermore, its therapeutic mechanism remains unclear. Indeed, omalizumab
+response times in patients with CU seem slower in patients with autoantibodies"?
+suggesting that variations in pathogenic mechanisms (IgE-mediated vs IgG-mediated
+
+FceRIa activation) likely underlie differences in response times.
+
+Finally, omalizumab’s performance on several physical urticarias has been recently
+
+reviewed, with the strongest data available for symptomatic dermographism, cold-induced
+
+urticaria, and solar urticaria.E!°
+
+OTHER DISORDERS
+
+Omalizumab has been shown to be beneficial in patients with various other disorders.
+Omalizumab facilitates immunotherapy to inhalant, food, and Hymenoptera venom
+allergens. A recent phase 2 randomized, double-blind, placebo-controlled trial of children
+with peanut allergy undergoing oral immunotherapy showed that omalizumab administration
+allowed for tolerance of 2000 mg of peanut on discontinuation of immunotherapy more
+often than placebo (23/27 [74%] vs 1/8 [13%], P<.01).£!! Participants assigned to
+omalizumab were also less likely to experience adverse reactions to peanut immunotherapy.
+Omalizumab has also been shown to improve the safety of oral immunotherapy to other food
+allergens administered alone or in combination.£!2 Considering the high burden of disease
+posed by food allergy and the important role food desensitizations will likely play in clinical
+practice, omalizumab will probably be frequently used to improve safety and efficacy with
+oral immunotherapy.
+
+Omalizumab has shown effectiveness in patients with nasal polyps,£!3 and phase 3 studies
+for this indication are under way. Many studies have demonstrated therapeutic benefit for
+omalizumab in seasonal™!4 and perennial=!5 allergic rhinitis. Small case series show
+
+1
+
+positive therapeutic effects for patients with idiopathic anaphylaxis,~!® mast cell activation
+
+J Allergy Clin Immunol, Author manuscript; available in PMC 2020 January 02.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Cardet and Casale
+
+Page 4
+
+E17 E18 E19
+
+disorders,’ allergic bronchopulmonary aspergillosis,
+
+‘0 E21
+
+atopic dermatitis,~'” eosinophilic
+
+gastrointestinal disorders,£? nonallergic asthma,£2! and asthma—chronic obstructive
+
+pulmonary disease overlap.£2? There is conflicting evidence on whether omalizumab can
+facilitate aspirin desensitization in patients with aspirin-sensitive asthma.§23,E24
+
+Cost ($10,000-$70,000/year [minimum-maximum dose]) largely prevents omalizumab from
+wider use for a broader range of allergic, nonallergic, and immunologic conditions, although
+most analyses in asthma and CU cohorts have considered it cost-effective when targeted to
+select groups.£25-E26 Considering the importance of IgE and cells that bear IgE receptors,
+omalizumab will likely continue gaining prominence in the treatment of disorders beyond
+allergic asthma and CU.
+
+Acknowledgments
+
+Supported by grants K23A1125785 (to J.C.C.) and ROIHL116849 (to T.B.C.) and by generous contributions by the
+Culverhouse family fund (to J.C.C. and T.B.C.).
+
+T. B. Casale was involved in several clinical trials using omalizumab, including industry-sponsored trials, and he
+reports that his university employer has received grants and consulting fees from Genentech and Novartis.
+
+REFERENCES
+
+1. Lambrecht BN, Hammad H. The immunology of asthma. Nat Immunol 2015;16: 45—56. [PubMed:
+25521684
+
+2. Kantor DB, Stenquist N, McDonald MC, Schultz BJ, Hauptman M, Small-wood CD, et al.
+Rhinovirus and serum IgE are associated with acute asthma exacerbation severity in children. J
+Allergy Clin Immunol 2016;138: 1467—71.e9. [PubMed: 27474123]
+
+3. Gill MA, Bajwa G, George TA, Dong CC, Dougherty II, Jiang N, et al. Counter-regulation between
+the FcepsilonRI pathway and antiviral responses in human plasmacytoid dendritic cells. J Immunol
+2010;184:5999-6006. [PubMed: 20410486]
+
+4. Durrani SR, Montville DJ, Pratt AS, Sahu S, DeVries MK, Rajamanickam V, et al. Innate immune
+responses to rhinovirus are reduced by the high-affinity IgE receptor in allergic asthmatic children. J
+Allergy Clin Immunol 2012; 130:489-95. [PubMed: 22766097]
+
+5. Teach SJ, Gill MA, Togias A, Sorkness CA, Arbes SJ Jr, Calatroni A, et al. Preseasonal treatment
+with either omalizumab or an inhaled corticosteroid boost to prevent fall asthma exacerbations. J
+Allergy Clin Immunol 2015;136:1476-85. [PubMed: 26518090]
+
+6. Esquivel A, Busse WW, Calatroni A, Togias AG, Grindle KG, Bochkov YA, et al. Effects of
+omalizumab on rhinovirus infections, illnesses, and exacerbations of asthma. Am J Respir Crit Care
+Med 2017;196:985—92. [PubMed: 28608756]
+
+7. Gill MA, Liu AH, Calatroni A, Krouse RZ, Shao B, Schiltz A, et al. Enhanced plasmacytoid
+dendritic cell antiviral responses after omalizumab. J Allergy Clin Immunol 2018;141:1735—43.e9.
+[PubMed: 28870461]
+
+8. Busse WW, Morgan WJ, Gergen PJ, Mitchell HE, Gern JE, Liu AH, et al. Randomized trial of
+omalizumab (anti-IgE) for asthma in inner-city children. N Engl J Med 2011;364:1005-15.
+[PubMed: 21410369]
+
+9. Sabogal Pineros YS, Bal SM, van de Pol MA, Dierdorp BS, Dekker T, Dijkhuis A, et al. Anti-IL5 in
+Mild Asthma Alters Rhinovirus-Induced Macrophage, B Cell and Neutrophil Responses
+(MATERIAL): a placebo-controlled, double-blind study. Am J Respir Crit Care Med
+2019;199:508-17. [PubMed: 30192638]
+
+10. Casale TB, Luskin AT, Busse W, Zeiger RS, Trzaskoma B, Yang M, et al. Omalizumab
+
+effectiveness by biomarker status in patients with asthma: evidence From PROSPERO, a
+prospective real-world study. J Allergy Clin Immunol Pract 2019; 7:156064.e1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+J Allergy Clin Immunol, Author manuscript; available in PMC 2020 January 02.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Cardet and Casale
+
+Page 5
+
+E1. Casale TB, Chipps BE, Rosen K, Trzaskoma B, Haselkorn T, Omachi TA, et al. Response to
+omalizumab using patient enrichment criteria from trials of novel biologics in asthma. Allergy
+2018;73:490-7. [PubMed: 28859263]
+
+E2. Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical response to omalizumab in
+chronic spontaneous urticaria patients is linked to and predicted by IgE levels and their change.
+Allergy 2018;73:705—12. [PubMed: 29083482]
+
+E3. Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L, et al. Serum IgE as an
+immunological marker to predict response to omalizumab treatment in symptomatic chronic
+urticaria. J Allergy Clin Immunol Pract 2018;6:1386—8.e1. [PubMed: 29175369]
+
+E4. Deza G, Bertolin-Colilla M, Pujol RM, Curto-Barredo L, Soto D, Garcia M, et al. Basophil FceRI
+expression in chronic spontaneous urticaria: a potential immunological predictor of response to
+omalizumab therapy. Acta Derm Venereol 2017; 97:698-704. [PubMed: 28303277]
+
+ES. Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203c-upregulating activity as
+an immunological marker to predict response to treatment with omalizumab in patients with
+symptomatic chronic urticaria. J Allergy Clin Immunol Pract 2016;4:529-30. [PubMed:
+26725153]
+
+E6. Altrichter S, Hawro T, Hanel K, Czaja K, Liischer B, Maurer M, et al. Successful omalizumab
+treatment in chronic spontaneous urticaria is associated with lowering of serum IL-31 levels. J
+
+Eur Acad Dermatol Venereol 2016; 30:454—5. [PubMed: 25371135]
+
+E7. Marzano AV, Genovese G, Casazza G, Fierro MT, Dapavo P, Crimi N, et al. Predictors of response
+
+to omalizumab and relapse in chronic spontaneous urticaria: a study of 470 patients. J Eur Acad
+
+Dermatol Venereol 2018 [Epub ahead of print].
+
+E8. Asero R, Marzano AV, Ferrucci S, Cugno M. Elevated baseline D-dimer plasma levels are
+
+associated with a prompt response to omalizumab in patients with severe CSU. J Allergy Clin
+
+mmunol Pract 2017;5:1740—2. [PubMed: 28866106]
+
+E9. Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum autoreactivity
+
+predicts time to response to omalizumab therapy in chronic spontaneous urticaria. J Allergy Clin
+
+mmunol 2017;139:1059-61.e1. [PubMed: 27838346]
+
+E10. Maurer M, Metz M, Brehler R, Hillen U, Jakob T, Mahler V, et al. Omalizumab treatment in
+
+patients with chronic inducible urticaria: a systematic review of published evidence. J Allergy
+
+Clin Immunol 2018;141:638-49. [PubMed: 28751232]
+
+E11. MacGinnitie AJ, Rachid R, Gragg H, Little SV, Lakin P, Cianferoni A, et al. Omalizumab
+
+facilitates rapid oral desensitization for peanut allergy. J Allergy Clin Immunol 2017;139(3):873—
+
+81.e8. [PubMed: 27609658]
+
+E12. Wood RA, Kim JS, Lindblad R, Nadeau K, Henning AK, Dawson P, et al. A randomized, double
+blind, placebo-controlled study of omalizumab combined with oral immunotherapy for the
+
+treatment of cow’s milk allergy. J Allergy Clin Immunol 2016;137:1103—10.e11. [PubMed:
+
+26581915]
+
+E13. Gevaert P, Calus L, Van Zele T, Blomme K, De Ruyck N, Bauters W, et al. Omalizumab is
+
+effective in allergic and nonallergic patients with nasal polyps and asthma. J Allergy Clin
+
+Immunol 2013;131:110—6.e1. [PubMed: 23021878]
+
+E14. Casale TB, Condemi J, LaForce C, Nayak A, Rowe M, Watrous M, et al. Effect of omalizumab
+
+on symptoms of seasonal allergic rhinitis: a randomized controlled trial. JAMA 2001;286:2956—
+
+67. [PubMed: 11743836]
+
+E15. Chervinsky P, Casale T, Townley R, Tripathy I, Hedgecock S$, Fowler-Taylor A, et al.
+
+Omalizumab, an anti-IgE antibody, in the treatment of adults and adolescents with perennial
+
+allergic rhinitis. Ann Allergy Asthma Immunol 2003;91:160—7. [PubMed: 12952110]
+
+E16. Warrier P, Casale TB. Omalizumab in idiopathic anaphylaxis. Ann Allergy Asthma Immunol
+
+2009;102:257-8. [PubMed: 19354075]
+
+E17. Broesby-Olsen S, Vestergaard H, Mortz CG, Jensen B, Havelund T, Hermann AP, et al.
+Omalizumab prevents anaphylaxis and improves symptoms in systemic mastocytosis: efficacy
+and safety observations. Allergy 2018;73:230-8. [PubMed: 28662309]
+
+ 
+
+ 
+
+J Allergy Clin Immunol, Author manuscript; available in PMC 2020 January 02.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Cardet and Casale
+
+E18.
+
+E19.
+
+E20.
+
+E21.
+
+E22,
+
+£23.
+
+E24.
+
+E25;
+
+E26.
+
+Page 6
+
+Voskamp AL, Gillman A, Symons K, Sandrini A, Rolland JM, O’Hehir RE, et al. Clinical
+efficacy and immunologic effects of omalizumab in allergic bronchopulmonary aspergillosis. J
+Allergy Clin Immunol Pract 2015;3:192—9. [PubMed: 25640470]
+
+Belloni B, Ziai M, Lim A, Lemercier B, Sbornik M, Weidinger S, et al. Low-dose anti-IgE
+therapy in patients with atopic eczema with high serum IgE levels. J Allergy Clin Immunol
+2007;120:1223—5. [PubMed: 17936892]
+
+Loizou D, Enav B, Komlodi-Pasztor E, Hider P, Kim-Chang J, Noonan L, et al. A pilot study of
+omalizumab in eosinophilic esophagitis. PLoS One 2015;10: e0113483. [PubMed: 25789989]
+Pillai P, Chan YC, Wu SY, Ohm-Laursen L, Thomas C, Durham SR, et al. Omalizumab reduces
+bronchial mucosal IgE and improves lung function in non-atopic asthma. Eur Respir J
+2016;48:1593-601. [PubMed: 27824606]
+
+Maltby S, Gibson PG, Powell H, McDonald VM. Omalizumab treatment response in a population
+with severe allergic asthma and overlapping COPD. Chest 2017;151:78-89. [PubMed:
+27742181]
+
+Lang DM, Aronica MA, Maierson ES, Wang XF, Vasas DC, Hazen SL. Omalizumab can inhibit
+respiratory reaction during aspirin desensitization. Ann Allergy Asthma Immunol 2018;121:98—
+104. [PubMed: 29777744]
+
+Waldram J, Walters K, Ronald S, Woessner K, Waalen J, White A. Safety and outcomes of
+aspirin desensitization for aspirin-exacerbated respiratory disease: a single-center study. J Allergy
+Clin Immunol 2018;141:250—6. [PubMed: 28550988]
+
+McQueen RB, Sheehan DN, Whittington MD, van Boven JFM, Campbell JD. Cost-effectiveness
+of biological asthma treatments: a systematic review and recommendations for future economic
+evaluations. Pharmacoeconomics 2018;36: 957-71. [PubMed: 29736895]
+
+Kanters TA, Thio HB, Hakkaart L. Cost-effectiveness of omalizumab for the treatment of chronic
+spontaneous urticaria. Br J Dermatol 2018;179:702-8. [PubMed: 29476533]
+
+J Allergy Clin Immunol, Author manuscript; available in PMC 2020 January 02.
+jdiosnueyy soujny jdiuosnueyy Joulny jdisosnuey Jouny
+
+jdisosnuey souny
+
+Cardet and Casale Page 7
+
+In Patients with Allergic Asthma with a Viral Infection
+
+2S virus
+
+@ IFN-o
+
+   
+
+@@
+
+     
+ 
+
+; \
+Yplasmhacytdid Vp Allergen Bound {IFN-a Type 1 as
+— ——>
+eiidritiqcell 4 IgE on pDCs Antiviral Response as
+
+  
+  
+
+Virus
+Proliferates
+
+      
+
+ 
+     
+ 
+
+oa
+
+& 3 We
+plasmacytoid ¥
+Dedriticelh
+
+Decreased it
+
+Allergen Bound tIFN-a Type 1 Fewer Viral
+IgE on pDCs Antiviral Response Infections
+Fewer Viral Asthma
+Exacerbations
+Decreased Duration of
+Viral Infections
+Decreased Viral Shedding
+
+   
+
+FIG 1.
+Omalizumab and the antiviral response in pDCs. Omalizumab blocks IgE and enhances
+
+IFN-a responses in pDCs, thereby decreasing susceptibility to viral respiratory tract illness
+(based on results from the PROSE study).>~7
+
+J Allergy Clin Immunol. Author manuscript; available in PMC 2020 January 02.
+Page 8
+
+agty Jo Apenb “Joe ‘sutSeydoso
+
+ottydoutsos “qo ‘aseostp Areuourtnd sanongsqo o1uo1ys G_O_D ‘aseosip Aroyertdsas poyeqiooexo-uiidse GQugqy ‘depioao GqOO-euUIse ODY ‘stsoyisiodse Areuowyndoyouosq s1319] |v ‘VeTY
+
+ 
+
+9-OST TPT 8107 JounuMUT WT ABIOITV f Te 19 WIPE,
+POI-86: IZLE 107 founuy es ABr9][y UU “[e 19 SueT
+
+E8PET 1001'S 10 8UO SOTd ‘Te 19 NOZIOT
+
+O8-SLETSTELIOZ IS9UD Te 19 AGRI
+
+S-€7Z1:07 152007 JounuNAT UNL AB9ITY f “Te 19 THOT],
+8-LST :ZO1‘600Z JouNUIUT eUIPsY ABI] [y UU “Te 19 JOLUEA\,
+S-O€T:EL‘8 107 ABIO[TY Te 19 Uas|OQ-Aqsoorg,
+
+6-CTEIS LOZ JRA fount UTD ABsaTPV f “Te 10 dureyson,
+DMOLLTELE 107 jounumuy uD ABs] Ty f Te 19 WORAND
+
+1091-€6S L:8h‘9107 £ sdsoy ang ‘Je 19 II
+
+OP-PET:LI 19007 JounwmT UTD ABT fT 3 oTeSeD
+I8-€L8 °6€ 1:L107 Jounumny UT AB.O[T YW f “Te 19 ONTUUINIeY]
+
+L9-9S67:987: 1007 VIVE ‘Ie 19 2]ese-D,
+
+SEPZ6:89E“E1 07 POW f I8Ug N “Te 19 JOANeY
+06-P81:801: 1007 jounuAMT UID ABIO[TY f “Te 30 ossng,
+
+Sanua1ajoy
+
+Cardet and Casale
+
+Author Manuscript
+
+uoneziisuasop
+uiidse oye ioe ued qeuINziTeUTO JOyJOYyM UO ddUDPIAD SuNoyUOD
+
+sjuaned Jo Ajourw v ur yuouraAosdurt o1SopoIsTY pur [eorUTTD
+JOO pur onuoo vutpse ur yuowoAorduyy
+
+Aderoyy 0) sosuodsos Sunotuod
+
+soposido onoej<ydeue ut uononpoy
+
+swojdur4s urys pure saposida onoepAydeue ur uononpay,
+
+suonjeqiooexo ur UoTONpoy
+
+sosoos déjod o1ydesSorper pue s1doosopua ut uononpoy
+
+sq[oo
+
+3] [esoonur Jeryouosg Jo UONONpal pue uoHouNy Suny ur yuoaAordwy
+poomer 0} Adesoyjounuumtut ysns jo Ajazes url yuowoAosduy
+
+Adezoyjounururt ero jnuead Jo voneOR
+
+agi] Jo Ayenb pue suroyduiAs syrurys ur yuowoaosduy
+
+sourmeystyue hq
+poyfonuooun 10M stuojdurs ssoym syuoned ur surojdurcs ur uononpoy,
+
+suoneqiooexo BUY Se UT UONONpoY,
+
+ssuputy
+
+‘Ta 78vl
+
+Author Manuscript
+
+Author Manuscript
+
+audv
+
+80g
+
+OOV
+
+snneuuop odor
+srxepkydeue oryyedorpy
+oworpuds WONBANOR [199 Ise
+
+(gouapras Sunoryuos
+‘aanoadsomos ‘[e}opsoue ‘sj1odo1 10 satias osvo ‘3d) MOT
+
+vaav
+sisodéjod jesen,
+
+BUIYISE OIBIO][EUON
+
+suaBso]]voraR
+oy Adesoyjounumtut snosueynogns Jo voneyIORy
+
+Aderopounurunt woSs9]]2 pooy [e10 Jo uoNeypoey
+(sein [eorulpo [Jets “Bo) oyeIOpoy
+
+smtUrYys o1Su0] TV
+
+no
+eUTYse dISI] TV
+
+(sosAyeue-vjoUL Jo sei
+
+Jeorur]s poyjonuos-ogosejd ‘puryq-ayqnop ‘oSrey So) ysty
+
+ 
+
+aouaplAa aansoddns jo A4jqenb Aq suoyesipuy
+
+ 
+
+sosn sjI pue qeuinzijewoO
+
+Author Manuscript
+
+available in PMC 2020 January 02.
+
+J Allergy Clin Immunol. Author manuscript
+

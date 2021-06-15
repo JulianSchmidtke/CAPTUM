@@ -1,0 +1,1019 @@
+World Allergy Organization Journal 12 (2019) 100011
+
+ 
+
+Contents lists available at ScienceDirect
+
+   
+
+World Allergy Organization Journal
+
+i
+
+ 
+
+ELSEVIER journal homepage: www.sciencedirect.com/journal/wao-journal
+
+ 
+
+Learnings from real-life experience of using omalizumab for chronic
+urticaria in Latin America | Soa
+
+Ivan Cherrez-Ojeda*”*”, Marcus Maurer“, Jonathan A. Bernstein“, Emanuel Vanegas“,
+Miguel Felix®, German D. Ramon‘, Luis Felipe Ensina‘, José Ignacio Larco Sousa ®,
+
+Edgar Emilio Matos Benavides 7 R. Cardona Villa’, P. Latour Staffeld isk
+
+Blanca Marfa Morfin-Maciel', Jose Mori™, Paul Wilches C", Valeria L. Mata””, Annia Cherrez”’°
+
+* Universidad Espiritu Santo, Samborond6n, Ecuador
+
+> Respiralab, Respiralab Research Group, Guayaquil, Ecuador
+
+* Department of Dermatology and Allergy, Charité — Universitatsmedizin Berlin, Berlin, Germany
+4 University of Cincinnati College of Medicine, Department of Internal Medicine, Division of Immunology/Allergy Section, Cincinnati, OH, United States
+© Instituto de Alergia e Inmunologéa del Sur, Bahéa Blanca, Prov. de Buenos Aires, Argentina
+
+© Federal University of Sao Paulo, Sao Paulo, Brazil
+
+8 Clinica San Felipe, Lima, Peru
+
+» Centro De Referencia Nacional de Alergia Asma e Inmunologia ~ Insn, Lima, Peru
+
+' Universidad de Antioquia, Medellin, Colombia
+
+J Centro Avanzado de Alergia y Asma de Santo Domingo, Santo Domingo, Dominican Republic
+
+* Universidad Nacional Pedro Henriquez Urea, Santo Domingo, Dominican Republic
+
+| Hospital San Angel Inn Chapultepec, Ciudad de Mexico, Mexico
+
+™ Clinica San Borja, Lima, Peru
+
+” Unidad de Asma y Alergia del Hospital Monte Sinai, Cuenca, Ecuador
+
+° University Hospital, Dermatology Department, Rostock, Germany
+
+ 
+
+ 
+
+ARTICLEINFO ABSTRACT
+Keywords: Background: Updated urticaria guidelines recommend that patients should be assessed for disease activity, severity,
+Chronic spontaneous urticaria control, and quality of life at baseline and follow up. Regarding treatment, guidelines consider second generation
+
+Patient-reported outcomes
+Omalizumab
+
+Quality of life
+
+Latin America
+
+antihistamines as the cornerstone in therapy for chronic urticaria (CU), while other drugs, such as omalizumab, are
+conceived as second-line alternatives. In regards to omalizumab, despite advances in the management of CU, there
+are still open questions about timing, dosing, and objective measures for clinical response. This study was designed
+to portray the use of patient-reported outcomes (PROs) in chronic urticaria management, as well as the effectiveness and treatment patterns of omalizumab in CU, as seen in a real-life setting in Latin America.
+
+Methods: This is a retrospective observational study, involving 72 Latin American patients with chronic urticaria
+treated with omalizumab. Patient reported outcomes and treatment patterns, response, quality of life improvement and discontinuation were analyzed.
+
+Results: From the 72 patients, 91.7% (n = 66) were assessed through PROs, where urticaria control test (UCT) was
+the most used (79.2%; n = 57). Overall, 80.0% (n = 44) responded to omalizumab at some point of the treatment.
+Omalizumab 300 mg was associated with earlier response compared to lower doses. Regardless of dosage, most
+patients assessed with CU-Q2oL improved quality of life (80.8%; n = 21). With respect to omalizumab discontinuation, 20.8% (n = 15) patients interrupted omalizumab before the 3rd month of treatment (p = .000).
+
+Abbreviations: CU, chronic urticaria; LA, Latin America; PRO, patient-reported outcomes; UAS7, urticaria activity score 7; EAACI/GA7LEN/EDF/WAO, European
+Academy of Allergology and Clinical Immunology; Global Allergy and Asthma European Network, European Dermatology Forum and World Allergy Organization;
+MCID, minimal clinical important difference; UCT, urticaria control test; CU-Q2oL, chronic urticaria quality of life questionnaire; SD, standard deviation.
+
+* Corresponding author. Ivan Chérrez Ojeda, Universidad Espiritu Santo, Km. 2.5 via La Puntilla, Samborondo6n, Ecuador. Codigo postal: 0901-952,
+
+E-mail addresses: ivancherrez@gmail.com (I. Cherrez-Ojeda), marcus.maurer@charite.de (M. Maurer), jonathan.bernstein@uc.edu (J.A. Bernstein), emnlv@
+hotmail.com (E. Vanegas), miguel.felixromero@gmail.com (M. Felix), clinicalresearch@iais.com.ar (G.D. Ramon), 100alergia@gmail.com (L.F. Ensina), jilarco@
+gmail.com (J. Larco Sousa), ematben@hotmail.com (E.E. Matos Benavides), rcv2016udea@gmail.com (R. Cardona Villa), latour_patricia@hotmail.com (P. Latour
+Staffeld), blancamorfin@hotmail.com (B.M. Morfin-Maciel), josemori23@yahoo.es (J. Mori), pwilches2@gmail.com (P. Wilches C), valeria.matac@gmail.com
+(V.L. Mata), anniacherrez@hotmail.com (A. Cherrez).
+
+https://doi.org/10.1016/j.waojou.2019.100011
+Received 23 October 2018; Received in revised form 20 December 2018; Accepted 8 January 2019
+1939-4551/© 2019 The Author(s). Published by Elsevier Inc. on behalf of World Allergy Organization. This is an open access article under the CC BY-NC-ND license
+
+(htep://creativecommons.org/licenses/by-ne-nd/4.0/).
+I. Cherrez-Ojeda et al.
+
+World Allergy Organization Journal 12 (2019) 100011
+
+Conclusions: The present study highlights how the use of PROs and omalizumab in Latin America differ from
+guidelines’ recommendations and clinical trials. Even though most patients were initiated under omalizumab
+300 mg, most of them finished with lower doses. Regardless of dosage, most patients responded to omalizumab
+and improved quality of life at some point during treatment. However, such features were seen earlier with
+omalizumab 300 mg. Regarding treatment discontinuation, one-fifth of patients interrupted omalizumab before
+
+the third month.
+
+ 
+
+Background
+
+Chronic urticaria (CU) is a common skin disorder characterized by
+spontaneous recurrent wheals, that may present with associated
+angioedema and occur for at least 6 weeks.’ Often, urticaria needs to be
+differentiated from other medical conditions such as anaphylaxis (in the
+case of acute urticaria), autoinflammatory syndromes, or urticarial
+vasculitis, where hives with or without angioedema can also occur.!
+Updated guidelines recommend omalizumab, an anti-IgE monoclonal
+antibody, in cases of antihistamine refractoriness. It was first reported to
+be effective in patients with chronic autoimmune urticaria who were
+symptomatic despite antihistamine therapy, with subsequent clinical
+trials supporting its efficacy and safety for the treatment of CU.?°
+Furthermore, treatment with omalizumab has been shown to improve
+quality of life, effectively treat relapses after treatment discontinuation,
+and is safe for long-term treatment.’ Despite the current knowledge of
+omalizumab for CU, studies of this subject in Latin America (LA) are
+largely missing; therefore, little is known about the use and effects of
+omalizumab in Latin America (LA).
+
+As evidenced by a recent real-world systematic review of omalizumab
+for CU, most studies originate from developed countries in Europe and
+the United States, where omalizumab is readily available for physicians
+to use, and it is usually reimbursed by health insurance.° In contrast, in
+Latin America, economic and health insurance limitations appear to influence the prescription of omalizumab to a greater extent. For instance,
+in a publication addressing omalizumab discontinuation in LA, it was
+found that most patients could not achieve a 3-month regimen since
+health insurance programs did not support this therapy, and patients
+could not afford the costs.’ These circumstances provide a unique setting
+and challenge for the use of omalizumab in the treatment of patients with
+CU, and they may apply to other developing countries outside of LA.
+
+In view of the previous findings, our study aims to objectively assess
+the effectiveness and describe the treatment patterns of omalizumab for
+CU, particularly regarding dose, and the use of patient reported outcomes
+(PROs), as seen in a real-life setting in LA. We believe the knowledge and
+learnings obtained from real-life experiences of treating CU patients with
+omalizumab might help to establish a framework for physicians working
+in places with similar health care systems and socioeconomic conditions.
+
+Methods
+
+This is a retrospective observational study, involving 72 Latin
+American (Ecuador, n = 23; Peru, n = 26, Brazil, n = 9; Colombia, n = 6;
+Argentina, n = 4; Mexico, n = 2 and Dominican Republic, n = 2) patients
+with chronic urticaria (CU) treated with omalizumab from January to
+December 2017. Patient demographics and clinical characteristics were
+reported. PRO use and treatment patterns, treatment regimens and
+response, quality of life improvement and medication discontinuation
+were analyzed. To be included, patients were required to have CU
+diagnosis according to the EAACI/GA7LEN/EDF/WAO guideline and at
+least one application of omalizumab, either 150 mg or 300 mg, within the
+previous designated period.’ Data were collected by physicians from
+clinical records from either private and/or public practice, under the
+supervision of an ethics committee.
+
+The primary variable analyzed was treatment response/urticaria
+control, defined as an Urticaria Activity Score summed over 7 days
+(UAS7) <6 and/or Urticaria Control Test (UCT) >12 at any point during
+
+the treatment.*° In addition, patients were assessed for how long they
+took to achieve response and stratified into early responders (response
+during the first month), intermediate responders (response between the
+first and third month) and late responders (response after the sixth
+month).*!°" Finally, the degree of response was classified into complete
+responders (UAS7 = 0) and partial responders (UAS <6 but not (0) Pies
+The degree of response could manifest at any point of the treatment and
+was exclusively analyzed in patients with two UAS7 measurements,
+including their baseline status.
+
+For quality of life improvement response, a change in the minimal
+clinical important difference (MCID) of 15 points in the total CU-Q2oL
+score from the baseline measurement was considered meaningful.!?
+Time to achieve quality of life improvement was categorized applying the
+same criteria as for treatment response. The improvement could be
+objectively measured at any point during treatment.
+
+Ethical considerations
+
+This study was approved by the ethics committee: Comité de ética e
+Investigacion en Seres Humanos (CEISH).
+
+Statistical analyses
+
+Descriptive statistics were performed for demographic and a number
+of clinical variables including age, gender, years with disease, medications, PRO patterns/preferences, effective omalizumab dose and frequency. Chi-square tests for association were performed between the
+independent variable omalizumab dose and the dependent variables,
+type of responder (according to time to achieve response), degree of
+response and quality of life improvement. A Cramer's V test was use
+further to assess the strength of association if present.
+
+In addition, we performed separate analyses concerning individuals
+completing 3- and 6-months regimens as previously investigated in
+clinical trials.!° A two-way mixed analysis of variance (ANOVA) was
+performed to understand the effect of omalizumab dose and time on
+UAS7, UCT and each of the CU-Q2oL domains scores. Chi-square tests for
+association were performed between the independent variable omalizumab dose and the dependent variable responses (present/absent), and
+quality of life improvement.
+
+In addition, omalizumab discontinuation was evaluated at 3 and 6
+months. Adjusted binomial logistic regressions were performed to
+ascertain the effects of age, gender, angioedema, years with urticaria,
+Omalizumab dose, treatment response and quality of life improvement
+on the likelihood that participants discontinued omalizumab before the 3
+and 6 months of treatment.
+
+Results
+Descriptive statistics
+
+A total of 72 patients were included in this analysis. The average age
+was 43.3 years (SD 14.3), and 55 (76.4%) were female. The average
+duration of urticaria before diagnosis was 3.8 years, and the mean
+treatment duration with omalizumab was 7.7 months (SD 7.7). The most
+common primary diagnosis of urticaria was chronic spontaneous urticaria (91.7%), wheras only 6 (8.3%) patients had a primary diagnosis of
+chronic inducible urticaria (Table 1).
+I. Cherrez-Ojeda et al.
+
+Table 1
+Demographic characteristics of the studied population.
+
+ 
+
+Characteristics (n = 72) n(%)
+
+Average age (SD) 43.34 14.3
+Average time since diagnosis (in years) 3.8
+Mean treatment duration in month (SD) 7.7 (7.7)
+Sex
+
+Female 55 (76.4%)
+
+Male 17 (23.6%)
+Type of urticaria
+Chronic spontaneous urticaria
+Chronic inducible urticaria
+Angioedema
+
+66 (91.7%)
+6 (8.3%)
+17 (23.6%)
+
+Notes: SD, standard deviation.
+
+Baseline assessment
+
+Among the 72 patients, one-third of the patients used all 3 PRO tools,
+the UAS7, the UCT and the Cu-Q2oL, one-third used 2 tools, and onethird used 1. Moreover, 91.7% (n = 66) were assessed objectively using
+questionnaires, while 8.3% (n = 6) were assessed by recall and physical
+exam only (p = .000). Overall, UCT was the most used questionnaire
+(79.2%; n = 57; p = .000), followed by UAS7 (58.3%; n = 42; p = .157)
+and CU-Q2oL (41.7%; n = 30; p = .157). When two questionnaires were
+used, the combination of UAS7 plus UCT was most often used (71.4;
+n = 15; p = .050). Patterns and combination of questionnaires are
+described in Table S1. Questionnaire use over time is depicted in Figure 1
+
+From the 42 patients assessed through UAS7, most patients had severe disease (47.6%; n = 20; p = .000). Based on the use of the UCT, CU
+in 96.5% (n = 55; p = .000) of patients was not controlled when omalizumab was initiated (Table $2). The mean for UAS7, UCT and each CUQ2oL domain are summarized in Table $3.
+
+Treatment with omalizumab
+
+The mean number of omalizumab doses applied during the time
+period of the study was 5.45 (SD, 3.15). The mean treatment duration
+was 7.67 months (SD, 7.67). 56.9% (n = 41) and 43.1% (n = 31) of
+patients started on omalizumab 150 mg and 300 mg monthly, respectively. Of the 72 patients, 7 (9.9%) completed a 3-month treatment
+course, and 10 (13.8%) patients received omalizumab for 6 months.
+Omalizumab dosing over time is illustrated in Figure 2. The remaining
+patients received different treatment schemes other than those used in
+clinical trials (Figure 3). Concerning other medications, all patients used
+antihistamines and 29.2% (n = 21) used steroids. Additional use of
+medication is summarized in Table S4.
+
+100%
+
+World Allergy Organization Journal 12 (2019) 100011
+
+Four of five patients treated with omalizumab benefit from the
+treatment and most respond fast.
+
+Among the 72 patients evaluated, 55 had at least one follow-up office
+visit to assess the degree of response to omalizumab using the UAS7 and/
+or UCT. Overall, 80.0% (n = 44) had some degree of benefit to omalizumab, while 20.0% (n = 11) had no response at all. The mean time to
+response was 1.75 months (SD, 1.28). Furthermore, 45.5% (n = 25) of
+patients were considered early responders, 29.1% (n = 16) intermediate
+responders and 5.5% (n = 3) late responders (p = .000). There was a
+weak but statistically significant association between omalizumab dosing
+and the speed of onset of the response (y2(3) = 7.577, p = .048;
+@C = 0.387, p = .042). The overall treatment response and proportions of
+each type of responder according to omalizumab dose are illustrated in
+Figures 4A and B, respectively.
+
+Degree of response according to UAS7.
+
+Among the 37 patients assessed using the UAS7 at least twice during
+treatment, 54.1% (n = 20) of patients presented with complete response
+at some point during treatment (p = .622). Among the complete responders, 13 were treated with Omalizumab 300 mg every 4 weeks.!“!°
+There was not a statistically significant association between Omalizumab
+dose and complete response (y2(1) = 1.205; p = .272). The mean time to
+achieve complete response was 3.3 months (SD, 2.34), with the highest
+complete response rate at the 4th month of follow-up. The degree of
+response according to UAS7 is depicted in Figure 5.
+
+Quality of life improvement
+
+Among the 26 patients assessed with CU-Q2oL who presented with at
+least one follow-up, 80.8% (n = 21) of patients experienced some degree
+of quality of life improvement at some point during their treatment
+(p = .002).
+
+Among these patients, 53.8% (n = 14) were early improvers, 15.4%
+(n = 4) intermediate improvers, and 11.5% (n = 3) late improvers
+(p = .008) (Figure 6). There was not a statistically significant association
+between Omalizumab dose and type of improvement (y2(2) = 3.962;
+p =.330).
+
+Response and quality of life improvement in patients completing the
+3- and 6-month treatment courses.
+
+Using the UAS7, UCT and CU-Q2oL score values as continuous variables, a two-way mixed ANOVA showed that there were no statistically
+significant interactions between the omalizumab dose and time for UAS7
+and CU-Q2oL. The main effect time showed a statistically significant
+difference for all mean scores. However, the main effect of omalizumab
+
+a
+/ N=
+80% f:
+/ Z
+,
+_- aes ey ~ :
+60% ~ne “= — ?
+oor
+ween jms yee — -vAS7
+40% SAL g SSeS ucT
+Sms
+=== CU2-QoL
+
+ 
+
+20%
+
+ 
+
+Baseline Istmo. 2ndmo. 3rdmo. 4th mo.
+(n=66) (n=55) (n=44) (n=42) (n=32)
+
+ 
+
+Sthmo. 6thmo, 7thmo. 8thmo. 9thmo. 10th mo.
+(n=32) (n=23) (n=19) (n=15) (n=14) (n=10)
+
+Fig. 1. Usage rate of patient-reported outcomes over time. Frequencies of each questionnaire used are shown as percentages at each month of follow-up. N, patients
+assessed by at least 1 questionnaire; Mo, month; UAS7, Urticaria Activity Score 7; UCT, Urticaria Control Test. CU-Q2oL, Chronic Urticaria Quality of Life.
+I. Cherrez-Ojeda et al.
+
+ 
+
+World Allergy Organization Journal 12 (2019) 100011
+
+ 
+
+100%
+—— 150mg
+80% 300mg
+60%
+40%
+20%
+0%
+Baseline Istmo. 2ndmo. 3rdmo. 4thmo. Sthmo. 6thmo. 7thmo. 8thmo. 9thmo. 10th mo.
+(n=72) (n=61) (n=57) (n=50) (n=41) (n=32) (n=21) (n=18) (n=16) (n=13) = (n=7)
+
+Fig. 2. Omalizumab dosage over time. Frequency of omalizumab dose used (150mg
+omalizumab at each month; Mo, month.
+
+and 300mg) is shown as a percentage at each month. N, number patients receiving
+
+ 
+
+ 
+
+ 
+      
+    
+
+Patients receiving <3 doses
+of omalizumab (n=15)
+
+ 
+
+Follow up (n=10) No follow up(n=5)
+
+   
+
+Patients receiving 3 doses of
+omalizumab (n=7)
+
+     
+
+Follow up (n=2) No follow up (n=5)
+
+ 
+
+ 
+
+3 month treatment
+
+ 
+
+      
+ 
+
+Patients receiving 4 to 5 doses
+of omalizumab (n=18)
+
+ 
+
+ 
+
+Follow up (n=2) No follow up (n=16)
+
+ 
+      
+    
+
+Patients receiving 6 doses of
+omalizumab (n=10)
+
+ 
+
+Follow up (n=4) No follow up (n=6)
+
+ 
+
+6 month treatment
+
+ 
+
+doses (n=22)
+
+ 
+
+Fig. 3. Treatment duration and follow-up after last dose received. Frequencies of patients according to number of doses received: <3, 3, 4-5, 6, and more than 6 doses,
+classified according to follow-up. Follow-up indicates at least 1 questionnaire was performed after last dose received.
+
+dose showed no statistically significant difference for any mean score.
+Due to an assumption violation concerning homogeneity of variances and
+covariances, mean difference analyses could not be performed for UCT
+and sleep domain of CU-Q2oL.
+
+Of the 42 patients assessed by either UAS7 or UCT at 3 months, 71.4%
+(n = 30) responded to treatment (p = .005). From these responders,
+61.9% (n = 26) received with Omalizumab 300 mg and 9.5% reveived
+150 mg every 4 weeks. The association between Omalizumab dose and
+the presence/absence of response at month 3 was statistically significant,
+720) = 6.353, p = .020.
+
+Of the 23 patients assessed by either UAS7 or UCT at 6 months, 69.6%
+(n = 16) hada beneficial response to treatment (p = .061), and all of them
+received 300 mg of omalizumab. The association between omalizumab
+
+dose and the presence/absence of response at month 6 was statistically
+significant (y2(1) = 14.603; p = .001). Proportions of patients with
+manifesting treatment response and quality of life improvement at 3 and
+6 months are summarized in Tables S5 and S6, respectively.
+
+Discontinuation of omalizumab and follow up
+
+The omalizumab treatment was interrupted before the third treatment month in 20.8% (n = 15) of patients and in 55.6% (n = 40) before
+the sixth month. Those patients who discontinued treatment showed a
+higher proportion of uncontrolled urticaria with worse quality of life
+than those who continued treatment (supplemental appendix Tables S7
+and S8).
+I. Cherrez-Ojeda et al.
+
+ 
+
+World Allergy Organization Journal 12 (2019) 100011
+
+Fig. 4. Treatment and type of response according to UAS
+and/or UCT. (A) Treatment response over time shown as a
+percentage of patients that achieved response at each month.
+Treatment response was defined as an UAS7 <6 and/or UCT
+>12. (B) Type of responders according to how long they took
+to achieve response with each omalizumab dose. Mo, month;
+Early responders, response at first month; Intermediate responders, response between the first and third month; Late
+responders, response after the sixth month; UAS7, Urticaria
+Activity Score 7; UCT, Urticaria Control Test. CU-Q2oL,
+Chronic Urticaria Quality of Life.
+
+ 
+
+ 
+
+ 
+
+100%
+—— Response
+80%
+60%
+40%
+20%
+Istmo. 2nd mo. 3rd mo. 4th mo. Sthmo. 6thmo. 7thmo. 8thmo. 9th mo. 10th mo.
+(n=53) (n=44) (n=42) (n=32) (n=31) (n=23) (n=18) (n=15) (n=14) (n=10)
+(A)
+300mg
+em [| = &f
+0% 20% 40% 60% 80% 100%
+@ No response (n=11) Early response (n=25)
+(B) m Intermediate response (n=13) m Late response (n=3)
+100%
+80%
+60% 40%
+20%
+0%
+
+ 
+
+Ist mo. 2nd mo. 3rd mo. 4th mo. Sth mo. 6th mo. 7th mo. 8th mo. 9th mo. 10th mo.
+
+(n=18) (n=22) (n=22) (n=24) (n=21) (n=8)
+
+= Partial Response
+
+(n=5) (n=15) (m=7)  (n=4)
+
+Complete Response
+
+Fig. 5. Degree of response over time according to UAS7. Frequencies of patients with partial and complete responses shown as percentages at each month. Partial
+response was defined as an UAS <6; Complete response was defined as an UAS7 = 0; N=number of patients achieving at least one type of response as defined by their
+
+UAS7 score; Mo, month; UAS7, Urticaria Activity Score 7.
+
+Discussion
+
+To our knowledge, this is the first study to analyze the use of omalizumab in Latin America and its role in the management of CU. In
+addition, this study highlights how the experiences with omalizumab by
+Latin American physicians contrast with evidence-based recommendations provided by international guidelines.
+
+Our study provides real-life data on the timing and dosing of omalizumab in the treatment of CU patients as well as on the use of PRO
+
+measures for assessing their clinical response.'° '* Currently, there are
+no reliable biomarkers to identify and measure disease activity in CU.'°
+Consequently, the use of PRO instruments remains crucial to evaluate
+and monitor various aspects of CU including activity, severity, control,
+and quality of life.'° Among the available PRO instruments, UAS7 has
+been considered the gold standard and has been extensively used in
+clinical trials.”° Despite this, the reported use of PRO instruments is low,
+as evidenced by a recent “real world” systematic review by Bernstein and
+colleagues. According to this review, PRO instruments were used to
+I. Cherrez-Ojeda et al.
+
+100%
+
+80%
+
+60%
+
+40%
+
+ 
+
+20%
+
+——|mprovement
+
+World Allergy Organization Journal 12 (2019) 100011
+
+Fig. 6. Treatment and type of quality of life improvement
+according to CU-Q2oL. (A) Percentage of patients that achieved quality of life improvement at each month. Quality of
+life improvement was defined by the minimal clinical
+important difference of 15 points in the total CU-Q2oL score
+with respect to the baseline measurement. (B) Type of quality
+of life improvement according to how long it took to achieve
+improvement with each omalizumab dose. Mo, month; Early
+improvement, quality of life improvement at first month; Intermediate improvement, quality of life improvement between the first and third month; Late improvement, quality of
+life improvement after the sixth month; CU-Q2oL, Chronic
+Urticaria Quality of Life.
+
+ 
+
+Istmo. 2nd mo. 3rdmo. 4thmo. Sthmo. 6thmo. 7thmo. 8thmo. 9th mo. 10th mo.
+
+ 
+
+ 
+
+(n=7)
+
+ 
+
+100%
+
+(n=24) (n=16) (n=13) (n=11) (n=13) (n=9) (n=9)  (n=8) — (n=8)
+“ums | |
+eons |
+0% 20% 40% 60% 80%
+= No improvement (n=5) Early improvement (n=14)
+8) Intermediate improvement (n=4) m Late improvement (n=3)
+
+assess the response of CU patients to omalizumab in only 41.7% of
+studies, with UAS7 being used in 28.6% of studies and UCT only in 3.6%
+of studies.° In our study, 58.3% of patients were evaluated with UAS7,
+while almost 80% of patients were assessed using the UCT at baseline.
+
+The higher reported use of UCT in our patients, compared to UAS7
+and CU-Q2oL, might be the result of the former being simpler and faster
+to use among physicians and patients.'° On the other hand, CU-Q2oL was
+the least used PRO at baseline (approximately 37.5%), with a similar low
+overall use throughout the patients’ follow up. The CU-Q2oL provides
+detailed information on the effects of CU on different QoL domains, and it
+can be useful to compare changes over time including those that occur in
+response to different treatments. On the other hand, it is generally
+considered to be more time consuming than other PRO measures, both
+for patients as well as physicians.'? Our findings are consistent with a
+European study that reported low use (approximately 50% of patients) of
+the CU-Q2oL at baseline evaluation.”!
+
+The current version of the international urticaria guideline recommends second generation H1-antihistamines as the first line treatment,
+and it suggests updosing this medication up to 4-fold when CU control
+cannot be achieved with standard doses.' Of the studied patients, we
+found that nearly half of them were treated following this reeommendation at the start of omalizumab treatment, a finding comparable to that
+of a recent global report.” Nevertheless, the level of awareness of CU
+guidelines among Latin American physicians is still low, and the fear of
+side effects when updosing 2nd generation H1-antihistamines is still
+high.2224
+
+For antihistamine-refractory patients, omalizumab has been shown to
+be very effective and safe in the treatment of CU.'° In fact, several studies
+point to high discontinuation rates for other medications, e.g.
+
+antihistamines, over time when omalizumab is used for the treatment of
+patients with CU.° Our study confirms this and shows a significant
+decrease in the use of pharmacologic agents by the end of omalizumab
+treatment.
+
+Clinical trials have shown that 300 mg of omalizumab monthly is the
+most effective starting dose in CU. In real life clinical practice, however,
+approximately 25% of patients are still started on 150 mg of omalizumab.” In the present study, 43.1% of our patients were initiated on this
+latter regimen. The most likely explanation for this is that, in Latin
+America, the economic burden, insurance restrictions, and omalizumab
+availability limit the use of 300 mg as the starting dose.’ While it is clear
+that 300 mg is the best starting dose, there may be cases where the use of
+150 mg may be preferred for treatment continuation, for example in patients with partial response to 300 mg every 4 weeks, who may experience
+a better response when dosed with 150 mg every two weeks.”°
+
+Even though most of our patients were initiated at a dose of 300 mg
+every 4 weeks, by the 6th month of follow-up, 150 mg every 4 weeks was
+far more common. This finding relates to a recent systematic review, in
+which 300 mg had the highest initiation rates, but was able to be stepped
+down to a lower dose by the end of treatment.° Changes in dosage appear
+to be common in clinical practice. It is still unclear, however, if these
+changes occur secondary to treatment success and achieving urticaria
+control or due to limitations in access to omalizumab as previously
+described. Regardless of dosage, we found an overall response rate at any
+point in treatment of 80%, with 20% of patients not responding at all.
+These findings compare to previous real real-life studies.”° In contrast,
+complete responder rates appear to be more heterogeneous. An earlier
+real-life study by Sussman et al. found a complete response rate of 79% at
+any point during treatment, while a recent retrospective observational
+I. Cherrez-Ojeda et al.
+
+study by Nettis and colleagues observed a complete response of 67%.7°?”
+
+In our study, the complete response rate was lower, achieved only in
+54.1% of cases, and presenting with the highest rate at 4th and 5th
+months as depicted in Fig. 5. In the POLARIS trial, the proportion of
+complete response versus placebo for omalizumab 300 mg was even
+lower than that, 36%, and omalizumab 150 mg resulted in only 19%
+complete responders.”° In the present study we did not find any statistically significant association between omalizumab dose and complete
+response, although most complete responders were treated with omalizumab 300 mg. Clearly, complete responder rates are highly variable,
+and the patient population treated, the tools and definitions used to
+assess complete response, and when this is done after the initiation of
+omalizumab treatment are important variables.
+
+When considering the time to response to omalizumab treatment, our
+analyses show that omalizumab 300 mg was associated with higher rates
+of earlier responders. In our study, 45.5% of individuals were early responders, as assessed by UAS7 and UCT, of which 36.4% were treated
+with Omalizumab 300 mg (p = .042). This finding compares very well
+with the ASTERIA I and II clinical trials, in which the rate of early responders for omalizumab 300 mg was 37% and 51%, respectively.!°
+
+Regarding omalizumab discontinuation, 20.8% of patients interrupted their treatment before 3 months. This contrasts with ASTERIA II
+and ASTERIA I, where overall treatment discontinuation rates at 3
+months of treatment were 6% and 15%, respectively.° The discrepancies
+between our study and clinical trials in treatment discontinuation highlight how much omalizumab regimens vary in the real-life setting and
+that they are frequently subject to factors that may interrupt the course of
+treatment such as poor response to treatment, socioeconomical problems,
+lack of time for treatment, insurance changes, symptom resolution or,
+less commonly, adverse effects.2°?° For instance, in a publication
+addressing omalizumab discontinuation in LA patients, 65.4% patients
+could not complete a 3-month treatment course since health insurance
+programs did not support this therapy and patients could not afford the
+costs.’ Discontinuing omalizumab has been associated with disease
+relapse and significant increase in symptoms, as suggested by other
+studies.'4'>°° In a real-life study, 61% of patients who discontinued
+treatment with omalizumab reported worsening of symptoms, however,
+some of these patients were retreated successfully with omalizumab.*!
+
+It is well known that improvement in disease activity does not always
+translate to better quality of life. CSU disease activity assessed by UAS7 is
+a significant predictor for overall CU-Q2oL score, but patients with a low
+UAS7 score may still have markedly impaired quality of life.!°°? This
+highlights the importance of assessing CU patients with multiple tools in
+order to achieve a more complete status of disease impact. In our study,
+omalizumab improved mean quality of life scores over time, a finding
+that has also been reported in previous clinical trials and other real-life
+studies.'°°? Overall, we found that 80.8% of patients experienced
+improved quality of life at some point during treatment. This finding is
+comparable to a recent systematic review, in which quality of life outcomes measured by CU-Q2oL improved 71.1%°
+
+Limitations
+
+There are several limitations in our study that require mentioning.
+First, the 72 patients included did not achieve enough power to generate
+statistically significant results for all comparisons. For instance, chi
+square tests with 3° of freedom as well as two-way-mixed ANOVA procedures presented difficulties either because of type II errors or assumptions violations. Moreover, even though we describe and portray
+the variability in patterns and preferences in PRO and omalizumab use in
+the real-life clinical practice in LA, the heterogeneity of data limits the
+extrapolation and generalization of some observations/conclusions. The
+results reported in this study might have been influenced by other factors
+that have not been considered in the analyzes, and as our conclusions
+concerning the potential benefits of omalizumab are mostly descriptive,
+they are subject to bias. Despite including few patients with chronic
+
+World Allergy Organization Journal 12 (2019) 100011
+
+inducible urticaria, the PRO evaluated in this study have not been validated for this disease. Another potential limitation is that it was not
+possible to consider in detail the clinical background of each patient,
+such as the type of medications prescribed and their effectiveness prior to
+the start of omalizumab treatment, or the reason why patients could not
+achieve follow-up after the last omalizumab dose received. Despite these
+limitations, many of the reported observations from this real-life study
+correlated fairly well with the pivotal omalizumab clinical trial results
+and other real-life studies from other regions of the world.
+
+Conclusions
+
+Our results suggest that patient-reported outcomes measurements, in
+addition to clinical judgement, are useful to record improvements or lack
+thereof, in patients with chronic urticaria treated with omalizumab. Even
+though most patients are initiated on omalizumab 300 mg, many can be
+maintained well with lower doses. Regardless of the dose selected, most
+patients experienced improved quality of life at some point during treatment. Good responses were observed earlier with omalizumab 300 mg.
+Treatment discontinuation remains a problem: 20% of patients stopped
+omalizumab before the third month for various reasons not related to the
+medication's effectiveness. In summary, there are still many unanswered
+questions regarding the use of omalizumab for CU in clinical practice. We
+believe that these questions can ultimately only be answered by additional
+studies, using registries, real life settings and controlled trials.
+
+Ethics approval and consent to participate
+
+This study was approved by the ethics committee Comité de ética e
+Investigacion en Seres Humanos (CEISH), Guayaquil-Ecuador, in accordance to the principles established by the declaration of Helsinki.
+
+Consent for publication
+Not applicable.
+Availability of data and materials
+
+The datasets used and/or analyzed during the current study are
+available from the corresponding author on reasonable request.
+
+Conflicts of interest
+
+The following authors have relevant competing interests to disclose:
+
+Dr. Marcus Maurer: is or recently was a speaker and/or advisor for
+and/or has received research funding from Allakos, Aralez, Genentech,
+GSK, Menarini, Merckle Recordati, Moxie, Novartis, Sanofi, MSD, and
+Uriach.
+
+Dr. Jonathan A. Bernstein: PI — Novartis and Genentech; PI, speaker,
+consultant - Shire, CSL Behring, Pharming; PI, consultant - Biocryst,
+Consultant — Kalvista
+
+Dr. Luis Felipe Ensina: Speaker for Novartis, Sanofi and Takeda;
+Clinical Research for Novartis; Advisory Board for Novartis.
+
+Dr. José Ignacio Larco Sousa: Speaker for Novartis, Sanofi, Faes
+Farma.
+
+Dr. Ricardo Cardona Villa: Clinical Research for Inmunotek.
+
+Dr. Patricia Latour Staffeld: Speaker for: Astra Zeneca, Faes, Novartis,
+Sanofi, Advisory Board Novartis.
+
+Dr. Blanca Maria Morfin-Maciel: Speaker for Astra-Zeneca.
+
+The rest of authors have no relevant conflicts of interest to disclose
+related to this work.
+
+Author's contributions
+
+Authors have made substantial contributions to conception and
+design, acquisition, analysis and interpretation of data, have been
+I, Cherrez-Ojeda et al.
+
+involved in drafting the manuscript or revising it critically for important
+intellectual content, and given final approval of the version to be published. ICO, EV, MF, VLM, AC, GDR, LFE, JILS, EEMB, RCV, PLS, BMMM,
+JM, PWC participated in the recollection of data. EV performed the statistical analyses. ICO, EV, MV, MM, JAB participated in the interpretation
+of analyses, figures, tables, and drafting of the manuscript. MM, and JAB
+collaborated in revising and improving the final version of the manuscript. All authors read and approved the final version.
+
+Acknowledgements
+
+The authors acknowledge the guidance and knowledge imparted by
+the MECOR Program for this study, especially from Sonia Buist MD, Ana
+Menezes MD, and Juliana Ferreira M.D. Special thanks to all members of
+Respiralab Research Group. Finally, we want to express our gratitude to
+Universidad Espiritu Santo for their continuous support.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.waojou.2019.100011.
+
+Funding
+
+This study was partially supported by an unrestricted grant from
+Universidad Espiritu Santo. The sponsor had no role in the design of the
+study or in the collection, analysis, and interpretation of data.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/EDF/WAO guideline
+for the definition, classification, diagnosis and management of urticaria. Allergy.
+2018;73(7):1393-1414.
+
+2. Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK, Treatment of chronic
+autoimmune urticaria with omalizumab. J Allergy Clin Immunol. 2008;122(3):
+569-573.
+
+3. Maurer M, Altrichter S, Bieber T, et al. Efficacy and safety of omalizumab in patients
+with chronic urticaria who exhibit IgE against thyroperoxidase. J Allergy Clin
+Immunol. 2011;128(1):202-209. e205.
+
+4. Maurer M, Sofen H, Ortiz B, Kianifard F, Gabriel S, Bernstein JA. Positive impact of
+omalizumab on angioedema and quality of life in patients with refractory chronic
+idiopathic/spontaneous urticaria: analyses according to the presence or absence of
+angioedema. J Eur Acad Dermatol Venereol : JEADV. 2017;31(6):1056-1063.
+
+5. Maurer M, Kaplan A, Rosen K, et al. The XTEND-CIU study: long-term use of
+omalizumab in chronic idiopathic urticaria. J Allergy Clin Immunol. 2018;141(3):
+1138-1139. e1137.
+
+6. Bernstein JA, Kavati A, Tharp MD, et al. Effectiveness of omalizumab in adolescent
+and adult patients with chronic idiopathic/spontaneous urticaria: a systematic
+review of ‘real-world’ evidence. Expert Opin Biol Ther. 2018;18(4):425-448.
+
+7. Wilches P, Wilches P, Calderon JC, Cherrez A, Cherrez Ojeda I. Omalizumab for
+chronic urticaria in Latin America. World Allergy Org j. 2016;9(1).
+
+8. Ferrer M, Boccon-Gibod I, Goncalo M, et al. Expert opinion: defining response to
+omalizumab in patients with chronic spontaneous urticaria. Eur J Dermatol : EJD.
+2017;27(5):455-463.
+
+9. Donald Stull DM, Gimenez-Arnau Ana, Grattan Clive, Khalil Sam, Balp MariaMagdalena. Validation of chronic spontaneous/idiopathic urticaria (CSU/CIU) health
+states using weekly urticaria activity score (UAS7) and Dermatology Life Quality
+Index (DLQD. J Am Acad Dermatol. 2015;72(5):AB154.
+
+10. Kaplan A, Ferrer M, Bernstein JA, et al. Timing and duration of omalizumab response
+in patients with chronic idiopathic/spontaneous urticaria. J Allergy Clin Immunol.
+2016;137(2):474-481.
+
+11.
+
+12,
+
+13.
+
+14,
+
+15.
+
+16.
+
+AY,
+
+18.
+
+19,
+
+20.
+
+21.
+
+ze;
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32,
+
+33.
+
+World Allergy Organization Journal 12 (2019) 100011
+
+Syrigos N, Grapsa D, Zande M, Tziotou M, Syrigou E. Treatment response to
+omalizumab in patients with refractory chronic spontaneous urticaria. Int J Dermatol.
+2018;57(4):417-422.
+
+Kulthanan K, Chularojanamontri L, Tuchinda P, Rujitharanawong C, Baiardini I,
+Braido F. Minimal clinical important difference (MCID) of the Thai chronic urticaria
+quality of life questionnaire (CU-Q2oL). Asian Pac J Allergy Immunol. 2016;34(2):
+137-145.
+
+Larenas-Linnemann DES, Parisi CAS, Ritchie C, et al. Update on omalizumab for
+urticaria: what's new in the literature from mechanisms to clinic. Curr Allergy Asthma
+Rep. 2018;18(5):33.
+
+Maurer M, Rosén K, Hsieh H-J, et al. Omalizumab for the treatment of chronic
+idiopathic or spontaneous urticaria. N Engl J Med. 2013;368(10):924-935.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients with symptomatic
+chronic idiopathic/spontaneous urticaria despite standard combination therapy.
+
+J Allergy Clin Immunol. 2013;132(1):101-109.
+
+Maurer M, Church MK, Marsland AM, et al. Questions and answers in chronic
+urticaria: where do we stand and where do we go? J Eur Acad Dermatol Venereol :
+JEADV. 2016;30(Suppl 5):7-15.
+
+Asero R, Canonica GW, Cristaudo A, et al. Critical appraisal of the unmet needs in the
+treatment of chronic spontaneous urticaria with omalizumab: an Italian perspective.
+Curr Opin Allergy Clin Immunol. 2017;17(6):453-459.
+
+Ensina LF, Valle SO, Juliani AP, et al. Omalizumab in chronic spontaneous
+urticaria: a Brazilian real-life experience. Int Arch Allergy Immunol. 2016;169(2):
+121-124,
+
+Moestrup K, Ghazanfar MN, Thomsen SF. Patient-reported outcomes (PROs) in
+chronic urticaria. Int J Dermatol. 2017;56(12):1342-1348.
+
+Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How
+to assess disease activity in patients with chronic urticaria? Allergy. 2008;63(6):
+777-780.
+
+Thomsen SF, Pritzier EC, Anderson CD, et al. Chronic urticaria in the real-life clinical
+practice setting in Sweden, Norway and Denmark: baseline results from the noninterventional multicentre AWARE study. J Eur Acad Dermatol Venereol : JEADV.
+2017;31(6):1048-1055.
+
+Kolkhir P, Pogorelov D, Darlenski R, et al. Management of chronic spontaneous
+urticaria: a worldwide perspective. World Allergy Org J. 2018;11(1):14.
+
+Cherrez A, Maurer M, Weller K, Calderon JC, Simancas-Racines D, Cherrez Ojeda I.
+Knowledge and management of chronic spontaneous urticaria in Latin America: a
+cross-sectional study in Ecuador. World Allergy Org j. 2017;10(1):21.
+Guillen-Aguinaga S, Jauregui Presa I, Aguinaga-Ontoso E, Guillen-Grima F,
+Ferrer M. Updosing nonsedating antihistamines in patients with chronic
+spontaneous urticaria: a systematic review and meta-analysis. Br J Dermatol. 2016;
+175(6):1153-1165.
+
+Turk M, Kocaturk E, Cure K, Yilmaz I. Two-week intervals during omalizumab
+treatment may provide better symptom control in selected patients with chronic
+urticaria. Journal Allergy Clin Immunol Practice. 2018;6(4):1389-1390.
+
+ 
+
+. Sussman G, Hebert J, Barron C, et al. Real-life experiences with omalizumab for the
+
+treatment of chronic urticaria. Ann Allergy Asthma Immunol : Off Pub Am College
+Allergy Asthma Immunol. 2014;112(2):170-174.
+
+Nettis E, Cegolon L, Di Leo E, Lodi Rizzini F, Detoraki A, Canonica GW.
+Omalizumab chronic spontaneous urticaria. Ann Allergy Asthma Immunol. 2018;
+121(4):474-478.
+
+Hide M, Park HS, Igarashi A, et al. Efficacy and safety of omalizumab in Japanese and
+Korean patients with refractory chronic spontaneous urticaria. J Dermatol Sci. 2017;
+87(1):70-78.
+
+Wang L, Ke X, Kavati A, et al. Real-world treatment patterns and outcomes of
+omalizumab use in patients with chronic idiopathic urticaria. Curr Med Res Opin.
+2018;34(1):35-39.
+
+Bongiorno MR, Crimi N, Corrao §, et al. Omalizumab for the treatment of chronic
+spontaneous urticaria in clinical practice. Ann Allergy Asthma Immunol : Off Pub Am
+College Allergy Asthma Immunol. 2016;117(6):703-707.
+
+Turk M, Yilmaz I, Bahcecioglu SN. Treatment and retreatment with omalizumab in
+chronic spontaneous urticaria: real life experience with twenty-five patients. Allergol
+Int : Off J Japan Soc Allergol. 2018;67(1):85-89.
+Koti I, Weller K, Makris M, et al. Disease activity only moderately correlates with
+quality of life impairment in patients with chronic spontaneous urticaria.
+Dermatology (Basel, Switzerland). 2013;226(4):371-379.
+
+Larrea-Baca I, Gurpegui-Resano M. Improvement in the quality of life of patients with
+chronic spontaneous urticaria treated with omalizumab in real life. Enfermeria clinica.
+2017;27(6):361-368.
+
+ 
+

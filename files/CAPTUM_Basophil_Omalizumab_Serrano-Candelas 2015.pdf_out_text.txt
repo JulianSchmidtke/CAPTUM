@@ -1,0 +1,1407 @@
+doi: 10.1111/cea.12668 Clinical & Experimental Allergy, 46, 92-102
+
+ORIGINA SWOR@Me Basic Mechanisms in Allergic Disease ihiasemaearlaiiaiad
+
+Comparable actions of omalizumab on mast cells and basophils
+
+E. Serrano-Candelas'?, R. Martinez-Aranguren®, A. Valero”*°, J. Bartra?*®, G. Gastaminza®, M. J. Goikoetxea®, M. Martin'?* and
+M. Ferrer?*
+
+"Biochemistry Unit, Faculty of Medicine, University of Barcelona, Barcelona, Spain, ?Laboratory of Clinical and Experimental Respiratory Immunoallergy,
+IDIBAPS, Barcelona, Spain, *Department of Allergy and Clinical Immunology, Clinica Universidad de Navarra, Instituto de Investigacién Sanitaria de
+
+ 
+
+ 
+
+Navarra (IDISNA), Pamplona, Spain, “Department of Pneumology and Allergy, Immunoallérgia Respiratoria Clinica | Experimental, IDIBAPS, Hospital Clinic,
+Barcelona, Spain and *Centro de Investigacion Biomédica en Red de Enfermedades Respiratorias (CIBERES), Barcelona, Spain
+
+Clinical Summ
+Background Omalizumab (OmAb) has recently been approved for the treatment of diseases
+& other than allergic asthma, including chronic urticaria. The exploration of the use of
+. OmAb in chronic urticaria was based on the presence of IgE autoantibodies against
+Experi mental autoantigens such as anti-IgE, anti-FceRI, and IgE antibodies against thyroid peroxidase
+Al lergy in certain patients with chronic urticaria. OmAb recognizes and sequesters free IgE to
+prevent its interaction with FceRI. However, OmAb is equally and rapidly effective against
+autoimmune and non-autoimmune urticaria, suggesting the possible involvement of
+additional mechanisms of IgE.
+Objectives We sought to investigate the in vitro mechanism of action of OmAb in mast
+
+Correspondence:
+Margarita Martin, Biochemistry Unit,
+
+Faculty of Medicine, University of
+Barcelona, Casanova 143, Barcelona
+08036, Spain.
+
+E-mail: martin_andorra@ub.edu
+
+cells and basophils.
+
+Methods Both LAD2 human mast cell line, previously sensitized with IgE, and ex vivo
+basophils were incubated with OmAb at different doses, analysing its effect on IgE-depen
+and dent events (e.g., degranulation, phosphorylation-mediated signalling, and eicosanoid
+
+Marta Ferrer, Department of Allergy release).
+and Clinical Immunology, Clinica
+Universidad de Navarra, PioXll, 36,
+31008 Pamplona, Spain.
+
+E-mail: mferrerp@unav.edu
+
+Cite this as: E. Serrano-Candelas,
+
+R. Martinez-Aranguren, A. Valero,
+
+J. Bartra, G. Gastaminza, M. J.
+Goikoetxea, M. Martin, M. Ferrer,
+Clinical & Experimental Allergy, 2016
+(46) 92-102.
+
+Introduction
+
+Omalizumab (OmAb) is a recombinant humanized monoclonal antibody that binds to the C-epsilon-3 locus of
+the Fe (constant fragment) portion of free immunoglobulin E (IgE) [1-3]. Anti-IgE OmAb recognizes an epitope
+that is masked when IgE is bound to its high-affinity
+receptor, Fe epsilon receptor I (FceRI). OmAb was synthesized with the aim of sequestering free IgE to reduce
+its binding capacity, thereby reducing mediator release
+and allergic inflammation [4]. OmAb rapidly reduced
+IgE levels and, consequently, also lowered FceRI levels
+in mast cells [5] and basophils [6], thus resulting in a
+
+*These authors contributed equally to this work
+
+Results We found that OmAb dissociates pre-bound IgE from mast cells and basophils,
+resulting in a reduction of proximal phosphorylation-mediated signalling events (Syk,
+PLCy, and LAT) and in a decrease in degranulation and leukotriene synthesis.
+
+Conclusion Our data prove the existence of common mechanisms of action of OmAb in
+mast cells and basophils that would explain its effectiveness and rapid effect in chronic
+urticaria and provide a basis for its use in other diseases mediated by these cells.
+
+Keywords basophils, chronic urticaria, FceRI, IgE, mast cells, omalizumab
+Submitted 3 July 2015; revised 17 October 2015; accepted 21 October 2015
+
+reduction of the amount of positive allergen skin prick
+tests in patients suffering from allergic rhinitis.
+
+OmAb is currently used in allergic conditions other
+than asthma, including chronic urticaria and food allergies [3]. Sera from a subset of patients with chronic
+spontaneous urticaria (CSU) were demonstrated to activate normal basophils [7] and mast cells [8]. These
+patients had IgG against the alpha subunit of the IgE
+receptor or IgE itself [7-10]. The administration of
+OmAb proved to be effective in a proof of concept
+study carried out with a subset of 12 patients with CSU
+and with antibodies against FceRI [11]. Furthermore,
+after obtaining findings suggestive of IgE autoantibodies against thyroid peroxidase (antithyroid peroxidase
+Abs) [12], the first large multi-centre, double-blinded,
+OmAb action on mast cells and basophils in vitro 93
+
+ 
+
+and placebo-controlled study that was carried out with
+OmAb for CSU, included patients with IgE antithyroid
+antibodies, definitely supported the use of OmAb in
+cases of CSU [13].
+
+Unexpectedly, a small clinical trial also proved that
+OmAb was equally effective for the treatment of
+patients with non-autoimmune CSU [14]. Moreover, in
+a subset of patients treated with OmAb, effectiveness
+was reached within the first 24 to 48 h. These results
+cannot be explained by the previously accepted mechanism of action of OmAb sequestering free IgE.
+
+Eggel et al. recently reported on the ability of nonimmunoglobulin-based IgE inhibitor E2_79, a designed
+ankyrin repeat protein (DARPin), and to a lesser extent
+of that of OmAb, to dissociate pre-bound IgE from its
+receptor in ex vivo basophils [15]. Our research further
+explores the effect of physiological doses of OmAb on
+this action, delving into its functional and signalling
+consequences in mast cells and comparing them to that
+of basophils. We also aimed to test our hypothesis that
+this newly described activity of OmAb does not depend
+on its immunoglobulin nature, using human IgG as a
+control.
+
+In order to perform such study, we first assessed the
+ability of OmAb to decrease the level of pre-bound IgE
+from mast cells and compared this to its ability in the
+case of basophils. Thereafter, we measured mast cell
+and basophil activation after the administration of the
+OmAb treatment by means of several techniques, as
+well as after an anti-IgE challenge to study the mediator release and synthesis, along with the signalling
+cascade.
+
+Understanding the mechanism of action of OmAb in
+mast cells and basophils will potentially enable us to
+find additional applications for this drug.
+
+Materials and methods
+
+Cells and reagents
+
+The LAD2 human mast cell line was provided by Drs.
+A. Kirshenbaum and D.D. Metcalfe (National Institutes
+of Health, Bethesda, MD, USA) and grown in StemPro34 serum-free medium (Invitrogen Life Technologies,
+Carlsbad, CA, USA) supplemented with StemPro-34
+Nutrient, L-glutamine (2 mm), penicillin (100 U/mL),
+streptomycin (100 pg/mL), and 100 ng/mL recombinant
+stem cell factor (SCF) (Amgen, Thousand Oaks, CA,
+USA). The basophil experiments were performed using
+the buffy coat from blood pertaining to non-atopic
+donors. The donor blood was processed within the first
+hour after its collection and was subsequently centrifuged at 500 g for 10 min, removing the serum. The
+buffy coat was then collected and centrifuged again to
+remove any remaining serum. The cells were re-sus
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+
+pended in Tyrode’s buffer: HEPES calcium buffer
+(20 mm HEPES, 133 mm NaCl, 5 mm KCl, 7 mm CaCl,
+3.5 mm MgCl, 1 mg/mL bovine serum albumin [SigmaAldrich, St. Louis, MO, USA], and 1 uL/mL heparin
+[5000 UI/mL], pH 7.4).
+
+Omalizumab was obtained from Novartis (Basel,
+Switzerland). Rabbit anti-PLCy Abs were purchased
+from Santa Cruz Biotechnology (Santa Cruz, CA, USA).
+Monoclonal anti-Syk was obtained from BioLegend
+San Diego, CA, USA). Antiphosphotyrosine (pTyr) monoclonal and anti-ERK Abs were obtained from Zymed
+Laboratories (Invitrogen). Antilinker for activation of T
+cells (LAT), anti-pLATy;5;, anti-pSyky352,  antiPPLCyy7g3, and anti-pERKy92/y204 Abs were purchased
+from Cell Signaling Technology (Danvers, MA, USA).
+Biotinylated human IgE (IgE) was obtained from
+Abbiotec (San Diego, CA, USA). Anti-mouse and antirabbit IgG peroxidase Abs were obtained from DAKO
+Carpinteria, CA, USA) and Bio-Rad (Hercules, CA,
+USA), respectively. Anti-f-actin peroxidase monoclonal
+antibody (clone AC-15) and streptavidin (STV) were
+purchased from Sigma (Sigma, St. Louis, MO, USA). A
+FITC-conjugated anti-FcesRI antibody, phycoerythrin
+PE)-conjugated STV, Fluorescein isothiocyanate (FITC)and PE-conjugated anti-CD63 antibodies, PE- and Allophycocyanin (APC)- or PE-conjugated Annexin V, 7Aminoactinomycin D (7AAD), purified mouse anti-IgE
+antibody, and Pharm lysing buffer were purchased from
+BD Biosciences (San Jose, CA, USA). Whole-molecule
+human IgG was obtained from Jackson ImmunoResearch (West Grove, PA, USA). PerCP-Cy5.5-conjugated
+anti-human HLA-DR, APC-conjugated anti-human
+FeeRI, and PE-Cy7-conjugated anti-human CD123 antibodies were purchased from eBioscience (San Diego,
+CA, USA), and FITC-conjugated anti-human IgE antibody was purchased from Invitrogen.
+
+ 
+
+ 
+
+Cell activation
+
+Mast cell activation was performed following the procedures described elsewhere [16]. Briefly, LAD2 cells were
+sensitized overnight with IgE® (100 ng/mL) in culture
+media. The following day, the cells were washed three
+times in Tyrode’s buffer to eliminate unbound IgE, were
+subsequently incubated with OmAb or higG at different
+concentrations (high-dose experiments: 2, 1, 0.5, and
+0.25 mg/mL; or low-dose experiments: 300, 100 and
+30 g/mL) in culture media and for different periods of
+time, and were then stimulated with streptavidin for
+varying periods of time. Supernatants were collected for
+CysLT measurement, and the cells were used for WB
+analysis or FACS staining.
+
+Basophil suspensions (50 utL) were incubated with
+50 uL of OmAb or higG at different concentrations
+(high-dose experiments: 2, 1 and 0.5 mg/mL; or low94 E. Serrano-Candelas et al
+
+ 
+
+dose experiments: 300, 100 and 30 pg/mL) for 3, 12 or
+24 h. After washing them three times with stimulation
+buffer (Tyrode’s buffer containing 2 ng/mL IL-3), the
+cells were stimulated with 1 pg/mL anti-human IgE or
+stimulation buffer alone for 40 min at 37°C. The reaction was stopped with 100 pL of stopping buffer
+(20 mm HEPES, 133 mm NaCl, 5 mm KCl, and 0.27 mu
+EDTA), and the tubes were centrifuged at 4°C at 900 g
+for 5 min. The cells were then labelled for FACS
+staining, and the supernatants were used for CysLT
+measurements.
+
+FACS staining
+
+Mast cells were activated following the aforementioned protocol. Surface-bound biotinylated IgE and
+FceRI were analysed by direct staining with STV-PE
+or anti-FceRI-FITC, respectively, for 30 min at 4°C.
+For the detection of CD63, IgE®-sensitized cells were
+stimulated by incubation with 200 ng/mL STV for
+30 min and, after being washed, were subsequently
+stained with anti-CD63-FITC. The cell apoptosis
+analysis was performed by incubation with AnnexinAPC and 7AAD for 15 min as described elsewhere
+[17].
+
+Basophil-bound CD63, FceRI, and IgE were determined by incubation with 20 pL of an HLA-DR-PerCPCy5.5, CD123-PE-Cy7, anti-IgE-FITC, anti-CD63-PE,
+and anti-FcesRI-APC cocktail for 30 min at 4°C. Eryhrocytes were lysed with 2 mL of 10x pharm lysing
+buffer (Becton Dickinson, Shannon, County Clare, Ireand) for 10 min in the dark. Cell lysis was stopped by
+centrifugation at 900 g at 4°C for 5 min. The cells were
+hen washed and re-suspended with 500 uL of stopping
+buffer to perform the cytometric analysis. Cell apoptosis
+was evaluated by incubation of Annexin-PE and 7AAD
+for 15 min with cells that had been previously labeled with HLA-DR-PerCP-Cy5.5 and CD123-PE-Cy7.
+Erythrocytes were lysed following the aforementioned
+rocedure.
+
+The cells were then analysed using a FACSCalibur or
+
+a FASCCanto II flow cytometer (FACScan; BD Biosciences, Mountain View, CA, USA) and FlowJo Tree
+Star software. In all cases, dead cells were gated out
+based on the forward (FSC) and side scattering (SSC)
+profile.
+
+ 
+
+ 
+
+Immunoblotting
+
+IgE®-sensitized cells (5 x 10° cells/sample) were incubated with OmAb or higG as described above. After
+undergoing extensive washing, the cells were stimulated with 200 ng/mL STV for the indicated times (0, 1
+or 5 min). Whole-cell lysates were obtained as described elsewhere [18], separated by SDS-PAGE and
+
+electrotransferred to polyvinylidene difluoride (PVDF)
+membranes (Millipore, Bedford, MA, USA). The blots
+were probed with the indicated Abs. In all blots, proteins
+were visualized with the aid of an ECL reagent (Advansta, CA, USA) and quantified using the Quantity One
+software (Bio-Rad).
+
+Cysteinyl leukotriene (CysLT) measurements
+
+Mast cells were activated following the aforementioned
+protocol. The IgE®-sensitized cells (2 x 10*/sample)
+were subsequently incubated with OmAb or hlgG for
+the indicated times, washed and seeded in 96-well
+flat-bottom microtiter assay plates and stimulated with
+200 ng/mL STV for 30 min at 37°C. The supernatants
+were used to measure total CysLT levels using the Cysteinyl Leukotriene Express Competitive EIA Kit (Cayman Chemical, Ann Arbor, MI, USA) following the
+manufacturer’s protocol. The analysis was performed
+in triplicate.
+
+The supernatants (125 pL) from the basophil activation assays described above were used in the CysLT Cellular Antigen Stimulation Test (CAST ELISA, BithImann
+Laboratories, Switzerland) according to the manufacturer’s instructions.
+
+Statistical data analysis
+
+ 
+
+All results are expressed as means + standard deviations of the mean value (SD). One-way anova and
+Bonferroni post hoc tests were used to determine significant differences (P-value) using the GraphPad software. Asterisks indicate the following p values: *P
+value < 0.05, *“P<0.01, **P<0.001, and *“**P<
+0.0001.
+
+Results
+
+OmAb removes surface IgE from mast cells and
+basophils
+
+High doses of OmAb have proven to be effective in
+accelerating the dissociation of pre-bound IgE in
+ex vivo basophils [15]. To explore this novel activity
+in mast cells and its functional consequences, we first
+analysed surface IgE in sensitized LAD2 cells after
+removing free IgE and incubating the cells with OmAb
+or higG as a control. Incubation of OmAb with the
+IgE®-sensitized LAD2 cells reduced the pre-bound IgE
+levels in a time- and dose-dependent manner (Fig. 1).
+higG had no effect on cell surface IgE levels, indicating the specificity for OmAb in this experiment. High
+OmAb levels (2-0.5 mg/mL) were able to dissociate
+pre-bound IgE as early as 4h (Fig. la-c); however, lower OmAb doses (100-30 j1g/mL), closer to the
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+OmAb action on mast cells and basophils in vitro 95
+
+ 
+
+(a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[OmAb/IgG] 2 mg/mL 1 mg/mL 0.5 mg/mL 0.25 mg/mL
+(13.3 ym) (6.7 um) (3.3 ym) (1.7 um)
+™ le i. “i STV
+* i a 7 GBIgE
+: i : ; Cog + OmAb
+=a i i i ETHIgE + IgG
+—. d : :
+x e wt ew et 7 et ee eon! a a
+BD aw 1 a =
+=< A : J
+6 j
+2° w n
+IgE® staining
+(b) ez (c) ms
+2 oe 2
+fae) .. g”
+By © Se
+@ lw a. ®
+oD 4 g =
+fs .° i
+Q~ a 20 we ttt
+i} 0
+IgE - + + + + + + FF F + IgE - + + t+ + Ft + FF F +
+OmAb (mg/mL) = = 2 4 08028 = = = = OmAb (mg/mL) = = 2 1 080205 = = = =
+higG (mg/mL) = = =- = = = 2 4 O85 02 higG (mg/mL) -_ = = = = = 2 4 05: 025
+(d) 150 —@ Omb 300 pg/mL (2 um)
+
+= OmMb 100 pg/mL (0.67 pm)
+—t#— OmMAb 30 pg/mL (0.2 uM)
+—¥— higG 300 pg/mL (2 pm)
+— higG 100 g/mL (0.67 pm)
+seek —@ higG 30 pg/mL (0.2 pm)
+
+100
+
+eke
+
+kee
+
+Surface IgE levels
+(% MFI)
+a
+oO Oo
+
+30 min 3h 24h
+Time
+
+Fig. 1. OmAb removes surface-bound IgE in LAD2 cells. (a) Histograms of surface IgE® staining of pre-sensitized LAD2 cells after incubation with
+OmAb for 4 h at different doses (black line). hIgG was used as a control (dotted line). The light grey-shaded curve (STV) shows the negative control (IgE and OmAb/IgG untreated cells). (b) The bar charts represent the percentage of IgE®-positive cells and (c) the percentage of mean fluorescence intensity (MFI) for IgE® with respect to OmAb/hIgG untreated cells (without OmAb or hIgG). The first bar indicates the negative control (IgE
+and OmAb/IgG untreated cells). Results are expressed as the mean + SD values of three independent experiments. Statistical significance
+(**P < 0.01,***P < 0,001) is relative to OmAb/IgG untreated cells (second bar). (d) Time-course of IgE” dissociation mediated by OmAb in LAD2
+cells. Results are expressed as the mean + SD values of three independent experiments. Statistical significance (**P < 0.01; ****P < 0.0001) is relative to OmAb/IgG untreated cells.
+
+physiological blood levels of OmAb (25-60 pg/mL) Simultaneously, we studied fresh blood basophils that
+[19], required a longer incubation time (24 h) in order already had pre-bound IgE. The cells were incubated
+to be effective (Fig. 1d). for different times and with varying doses of OmAb or
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+96 E. Serrano-Candelas et al
+
+ 
+
+higG. After 24 h of incubation, bound IgE levels were
+significantly decreased in the presence of OmAb
+(Fig. 2a). Interestingly, we detected a significant IgE
+dissociation as early as after 3 h of OmAb incubation
+(Fig. 2b—c). Likewise, we observed a similar effect when
+using low OmAb doses; however, a longer incubation
+time was needed to achieve a significant dissociation of
+IgE from the basophils’ surface (Fig. 2c).
+
+OmAb removes IgE from FceRI in mast cells and
+basophils without involving receptor endocytosis
+
+To determine whether OmAb was able to reduce FcsRI
+expression apart from dissociating IgE from its receptor,
+we evaluated the receptor expression levels in mast
+cells and basophils (Fig. 3). Both short- (4 h) and longterm (24 h) incubations with OmAb did not affect FceRI
+expression in mast cells (Fig. 3a) in spite of causing a
+drastic reduction of pre-bound IgE levels. However,
+longer incubations (12—24 h) induced a decrease in the
+levels of receptor expression in basophils (Fig. 3b). It
+has been previously reported that monomeric IgE is
+capable of stabilizing FceRI in the cell membrane and
+of increasing its expression as a mechanism to amplify
+
+(a)
+
+its signal [20]. For this reason, it is important to note
+that this effect on the reduction of FceRI expression is
+likely a consequence of the absence of IgE bound to the
+receptor, and not a direct effect of OmAb on the receptor’s expression.
+
+Effects of OmAb in mast cell and basophil activation
+
+Next, we studied the physiological relevance of IgE dissociation on mast cell activation, compared to the case
+of basophil activation. To this end, IgE®-sensitized mast
+cells were incubated with OmAb (or hlgG as a control)
+for 4 h and were subsequently challenged with streptavidin (STV) for 30 min. As shown in Fig. 4a, OmAb
+reduced mast cell degranulation, as measured by the
+CD63 activation marker. OmAb per se does not affect
+CD63 expression (data not shown). To rule out the possibility that OmAb also reduces cell activation as a
+result of an increase in the levels of cellular apoptosis,
+we determined whether mast cell viability was compromised in the presence of OmAb. Annexin V-7AAD
+staining was performed in cells that were incubated
+with human IgG or OmAb. No differences in cell viability
+were observed (Fig. 4b).
+
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+150
+[OmAb/IgG] 2 mg/mL 1 mg/mL 0.5 mg/mL 0.25 mg/mL
+(13.3 pm) (6.7 um) (3.3 um) (1.7 pm) x
+i * i - 3 100
+5 2 3 5 Control ws =
+: : ‘ 4 [1 OmAb 2
+ep : ; : 8
+£ 5
+x See Sees ca a a
+g- = =
+10) © j . °
+sx* . 5 Oh 3h 42h 24h
+Tire
+So See a —® OmAb 300 pg/mL (2 um)
+IgE staining —® = Omdb 100 pg/mL (0.67 pm)
+(b) —t Omdb 30 pg/mL (0.2 pm)
+mm3h =F higG 300 pg/mL (2 um)
+mm 12h —©— higG 100 pg/mL (0.67 um)
+Mm 24h ~e-— higG 30 pg/m. (0.2 pm)
+
+Surface IgE levels
+(% MFI)
+
+ 
+
+OmAb (mg/mL) = 2 4 - higG (mg/mL) = - = = 2 1
+
+Fig. 2. OmAb removes surface-bound IgE in primary basophils. Primary basophils from 3 non-atopic donors were incubated with different concentrations of OmAb /hIgG for 3, 12, and 24 h, respectively, and subsequently stained for IgE. (a) The histograms show surface-bound IgE levels
+after 24 h of incubation with OmAb (black line), hlgG (dotted line) and untreated cells (light grey shaded). (b) The bar chart represents the percentage of MFI for IgE with respect to OmAb/hIgG untreated cells. Results are expressed as the mean + SD values of three independent experiments. Statistical significance (*P < 0.05, **P < 0.01, ***P < 0.001) is relative to OmAb/hIgG untreated cells (first three bars). (c) Time-course of
+IgE dissociation mediated by OmAb in basophils. Results are expressed as the mean + SD values of three independent experiments. Statistical significance (*P < 0.05, **P < 0.01, ****P < 0.0001) is relative to OmAb/hIgG untreated cells.
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+OmAb action on mast cells and basophils in vitro 97
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) 4h 24h
+2 mg/mL. 4 mg/mL. 2 mg/mL. 4 mg/mL.
+(OmAb/IgG:
+[OmABNGG] 43 3 un) (6.7 um) (13.3 pm) (6.7 um)
+. ii (Alsotipic control
+. i HlgE
+us i COlge + OmAb
+E EmlgE + IgG
+£° i
+x oe . 7 > be 7 . >
+8.
+= ;
+x
+FceRI staining
+(b)
+ie mmSh
+2 mmi2h
+@ 100 * « mm24h
+& a ees
+ze 75
+8s
+pa
+3 & 50
+oO
+5
+g 2
+0
+OmAb(mgimL) = Hi 2 2 2
+higG (mgiml) — = = 1 2
+
+Fig. 3. The reduction of pre-bound IgE from the cell surface is not due to a decrease in FceRI levels. (a) Histograms of surface FceRI staining of
+previously sensitized LAD2 cells after incubation with OmAb for 4 and 24 h at different doses (black line). hIgG was used as a control (dotted
+line). Data are representative of three independent experiments. (b) The bar chart represents the percentage of MFI for FceRI, with respect to
+OmAb/hIgG untreated cells for human basophils incubated with OmAb at different times and doses. Results are expressed as the mean + SD values of three independent experiments. Statistical significance (*P < 0.05, **P < 0.01, ***P < 0.001) is relative to OmAb/IgG untreated cells (first
+
+bar).
+
+Under similar conditions, OmAb significantly reduced
+basophil degranulation at different time points, as measured by means of CD63 staining, achieving significant
+differences in CD63 expression after 24h of OmAb
+incubation (Fig. 4c). Finally, similarly to the case of
+mast cells, OmAb did not alter basophil viability
+(Fig. 4d).
+
+OmAb attenuates IgE-mediated activation of human
+mast cells
+
+In order to further examine this mechanism of action,
+we analysed the phosphorylation status of IgE°-sensitized mast cells which were treated with OmAb. LAD2
+cells were sensitized with IgE®, washed to remove
+unbound IgE®, and incubated with OmAb for 4 h. Thereafter, the cells were challenged with STV for 1 or 5 min.
+The cells were then lysed as described in section Material
+and Methods, and their phosphorylation pattern was
+evaluated by means of a western blot analysis. As shown
+in Fig. 5a, global tyrosine phosphorylation was reduced
+in the presence of OmAb (lanes 5-9) compared to the
+case of cells that had been incubated without OmAb
+(lanes 2-4). Moreover, this reduction in the pTyr signal
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+
+proved to be dose-dependent. Human IgG, which was
+used as a control, had the same effect on cells as that of
+the incubation with media alone (lanes 10-14).
+
+We subsequently evaluated the phosphorylation status of Syk, PLCy, LAT, and ERK, effectors of FceRIdependent events. The phosphorylation status of these
+molecules was reduced, indicating that incubation with
+OmAb decreased both proximal events regulated by
+Syk, PLCy, and LAT, and downstream events governed
+by ERK (Fig. 5a,b).
+
+OmAb inhibits leukotriene release in mast cells and
+basophils
+
+ERK1/2 phosphorylates cytoplasmic phospholipase A2,
+which is involved in the production of the eicosanoid
+precursor arachidonic acid [21]. Leukotrienes are a product of the 5’ lipoxygenase pathway of arachidonic acid
+metabolism and are generated in leucocytes and other
+immunocompetent cells, such as mast cells, eosinophils,
+neutrophils, monocytes, and basophils. We therefore
+assessed the ability of OmAb to inhibit leukotriene synthesis in mast cells and basophils. Our results demonstrated that OmAb inhibits cysteinyl leukotriene (CysLT)
+98 E. Serrano-Candelas et al
+
+ 
+
+s
+8
+
+Surface CD63 levels
+(% Ml)
+
+o 8 8 BB
+
+IgE = ¢ €£$ &¢ = #& © &€ &
+OmAb (mg/m) - - 2 1
+hig (mg/r.) pe ae BF of
+
+S
+2
+
+100
+
+50
+
+Surface CD63 levels
+(% MFI)
+
+L¢)
+Antilge = + + + + +
+OmAb (mg/m) oa 2 4 - higG (mgim.) - - - - 2 1
+
+150 Mm3h
+mai2h
+mesh
+
+OmAb
+2 mg/mL (13.3 pm)
+Tee
+
+higG
+2 mg/mL (13.3 ym}
+Tas
+
+s
+
+Unstimulated
+
+    
+
+ 
+
+ 
+
+ 
+
+Annexin V
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eee ed
+TAAD staining
+
+ 
+
+ 
+
+  
+
+OmAb
+2 mg/mL (13.3 ym)
+
+(d Dexamethasone
+2 mg/mL
+
+Unstimulated
+708 042
+
+   
+
+ 
+
+ 
+
+staining
+
+ 
+
+Annexin V
+
+Fig. 4. OmAb inhibits IgE-mediated degranulation in LAD2 cells and primary basophils. (a) LAD2 cells were sensitized with IgE® overnight and
+washed to remove unbound IgE". The cells were stained for CD63 after an IgE" challenge. The bar charts represent the percentage of MFI for
+CD63, with respect to OmAb/IgG untreated cells (second bar). hIgG was used as a control. The first bar indicates the negative control (IgE and
+OmAb/IgG untreated cells). The data represent the mean + SD values of three independent experiments. Statistical significance (**P < 0.01,
+**P < 0.001) is relative to OmAb/IgG untreated cells. (b) LAD2 cells were incubated with OmAb (or hIgG as a control) for 4 h, and cell apoptosis
+(by Annexin V/7AAD staining) was evaluated. (c) Human primary basophils from three non-atopic donors were incubated with different concentrations of OmAb for 3, 12 and 24 h, respectively. Basophils were stimulated with 1 jig/mL anti-IgE for 40 min, and CD63 expression was analysed. The bar charts represent the percentage of MFI for CD63 with respect to the OmAb/IgG untreated cells. The first bars indicate the negative
+control (IgE and OmAb/IgG untreated cells). The data represent the mean + SD values of 3 independent experiments. Statistical significance
+(*P < 0.05) is relative to OmAb/IgG untreated cells. (d) Basophil apoptosis was measured after the incubation of the donor cells for 24 h at 37°C
+with 2 mg/mL OmAb, 2 mg/mL dexamethasone as a positive apoptosis control, or stimulation buffer as a negative control. Cell apoptosis was
+
+evaluated by Annexin V/7AAD staining.
+
+release in IgE®-sensitized mast cells (Fig. 6a) and basophils (Fig. 6b). Overall, our data prove that OmAb can
+inhibit leukotriene synthesis and secretion, thus
+explaining the ability of OmAb to reduce leukotrienes
+during sustained inflammation in asthma and allergic
+reactions [22-24].
+
+Discussion
+
+IgE plays a central role in the pathophysiology of allergic diseases. It was also recently proposed that IgE
+plays a role in the amplification of inflammation
+favouring the infiltration of immune cells into secondary lymphoid organs [25, 26]. OmAb is effective in
+treating allergic diseases other than asthma, providing
+new insights into unexpected roles for IgE [27-31]. In
+the case of chronic urticaria, the exact mechanism of
+OmAb is still unknown. Moreover, OmAb has been
+reported to control physical urticarias [32-34]. Thus,
+OmAb could have additional properties that act directly
+on mast cells and basophils.
+
+In this study, we described an OmAb activity in mast
+cells that was already proposed to act in basophils [15].
+This mode of action may be particularly relevant to
+chronic urticaria, in which case mast cells play a key
+role. We showed that OmAb inhibits mast cell activation
+by mediating the reduction of IgE from its receptor. The
+relevant experiments were performed side by side with
+basophils. Inhibition occurred after only a few hours
+and was consistent with the rapid response observed in a
+minority subset of patients suffering from chronic urticaria that could not be explained by FceRI internalization resulting from the disappearance of free IgE. A
+possible explanation for this result is that OmAb is able
+to disturb the IgE-FceRI balance by rapidly sequestering
+any free-IgE molecule. This hypothesis is supported by
+the dissociation constant (Kd) reported for IgE:OmAb
+(0.02—7 nm; which is dependent on the nature of the IgE
+[35]) and IgE:FceRI (0.1 nm) complexes [36]). Thus,
+OmAb would not only act by preventing new IgE from
+binding, as stated for some time now, but also by
+sequestering IgE from FceRI after it has already bound.
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+OmAb action on mast cells and basophils in vitro 99
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) IgE+OmAbIgE+OmAb —IgE+IgG_—IgE+IgG
+IgE 2mg/imL 1mg/mL  2mg/mL 1 mg/mL
+STv(Time)_ 5° 0 1 5) 0 St SO 8
+170 130 100 70 : pTyr
+55 40 170 % WB: pPLCy
+Ratio pPLCy/PLCy0.08 0.03 1.00 020 0.15 047 0.19 059020 0.16 1.27 027 167 063
+— =ew 6s os SS Se oe owes ees | 15 PLT)
+10 - | ee ee ee ee wee | 8K
+Ratio pSyk/Syk 054 0.36 1.00 063 052 0.70 0.64 0.75 0.82 048 1.20 081 0.93 0.40
+A EES ES a Sees apes
+40 - - - = oe WB: pLAT
+Ratio pLAT/LAT 0.06 0.04 1.00 0.04 0.04 0.10 0.10 038 0.11 0.16 169 010 182 0.17
+40 222 6 eee S&S FEE BS | NENT
+40 - eos = = as=as=| WerpeRK
+Ratio pERK/ERK 0.05 0.01 1.00 0.93 0.02 0.63 0.04 0.93 086 0.02 118 1.07 1.12 1.04
+0 - SS we SOB SS) WE faci
+
+LANES 1 23 4 5 6 7 8 910 11 12 13 14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+gE IgE + OmAb (2 mg/mL) IgE + IgG (2 mg/mL)
+2.0 2.0
+S x
+a 15 S15
+= g
+° 1.0 B10
+e 2
+a 2
+o 05 B05
+3 oe
+= 0.0 ma 0.0-"F T-T-T
+IgE 2 ke ee ee IgE eR
+Sstvso?rsorsos Stvso?rso?nrs ot s
+2.0 2.0
+Re
+kb
+S15 a 15
+E irq
+$1.0 & 1.0
+a a
+2 °
+205 205
+a ini a
+00-5 ie ee aoe TT
+IgE - + tte te tet IgE - ++ pete eee
+Stvso?rsorsors svso?rso?rsots
+
+Fig. 5. OmAb incubation attenuates IgE-dependent signalling activation. LAD2 cells were sensitized with IgE® and subsequently incubated for 4 h
+with OmAb or hlgG as a control. IgE was subsequently cross-linked with 200 ng/mL STV for the indicated times. (a) Specific mAb that recognizes phosphorylated-Tyr was used to analyse the general activation status. Specific mAbs against p-PLCyy7g3, p-Syky352, P-LATy191 P-ERKr292/
+y204 Were used to analyse the phosphorylation status of these proteins in LAD2 whole-cell lysates. The total levels of these proteins were also measured, and B-actin was used as a loading control. (b) The bars graphics correspond to western blot quantitation by densitometry.
+
+Furthermore, we found that OmAb not only inhibits
+CD63 expression upregulation (a degranulation marker)
+but also IgE-dependent proximal and distal signalling
+events. In our study, Syk phosphorylation was reduced.
+This kinase plays an essential role in early and late
+mast cell responses by binding to the phosphorylated
+FceRIy chain ITAMs after receptor aggregation, resulting in a conformational change that increases the enzymatic activity of Syk [37] and leads to downstream
+signal propagation. Activated Syk phosphorylates LAT,
+which acts as a scaffold for a multi-molecular signalling complex that includes PLCy, among other
+molecules [38]. Therefore, we determined that the IgEdependent/Syk-LAT-PLCy signalling axis was affected
+by the OmAb treatment.
+
+Our data clearly demonstrate that OmAb also reduces
+ERK phosphorylation and suppresses subsequent events,
+such as leukotriene synthesis, in mast cells and basophils, which explains the effects of OmAb on sustained
+inflammation in asthmatic patients [39].
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+
+Thus, we proved that OmAb can reduce IgE bound to
+the cell surface of mast cells, causing a reduction of all
+IgE-dependent events in a time- and dose-dependent
+manner.
+
+Our data show some experiments performed both at
+supraphysiological doses (2 mg/mL (13 um) and
+physiological concentrations (30 pg/mL (0.2 jm). With
+regard to the doses of OmAb, pharmacodynamics data
+[35] have demonstrated that after the administration
+of a single subcutaneous dose of OmAb (300 mg), its
+mean serum concentration is of 33.1 + 10.4 ug/mL,
+(n = 23). In a study performed in a Japanese
+population, Hayasi [19] obtained a serum concentration of 25-60 pg/mL after the administration of a
+single dose of OmAb 300 mg, whereas Kornmann
+[40] obtained a maximum serum concentration of
+121.9 pg/mL after the administration of two doses of
+OmAb 450 mg on day 1 and day 15 of the study.
+The dose of OmAb is not adjusted to body weight
+and IgE concentration for the treatment of chronic
+
+ 
+100 E. Serrano-Candelas et al
+
+ 
+
+ 
+
+(a) 5000
+4000
+a
+— 3000 x *
+£
+© 2000
+ry ee
+1000
+t)
+sIv + + + + +
+IgE - + + © 4 * &
+Omb(mgim) = - = - 2 41 05 = = =
+higG (mg/mL) - = = = = 2 4 08
+(b) 2000
+J 1500
+Ss
+S *
+= 1000
+5
+2
+s oe
+500
+ee
+t)
+Anti-lgE - + + + +
+OmAb (mg/mL) - - 2 1 08 - = higG (mg/mL) - = = = = 2 1° 05
+
+Fig. 6. OmAb inhibits IgE-mediated leukotriene secretion. (a) LAD2
+cells were sensitized overnight with IgE®, washed several times and
+then incubated for 4 h with OmAb or hlgG as a control. Thereafter,
+cells were challenged with 200 ng/mL STV for 30 min. Supernatants
+were then used for cysteinyl leukotriene (CysLT) secretion quantification. The first bar indicates the negative control (IgE and OmAb/IgG
+untreated cells). The data represent the mean + SD values of three
+independent experiments. Statistical significance (*P < 0.05,
+“P <0.01, ***P < 0.001) is relative to OmAb/IgG untreated cells. (b)
+Primary basophils from healthy donors were pre-incubated with
+OmAb or hIgG as a control for 24 h at different concentrations. The
+basophils were then activated with anti-IgE for 40 min. The supernatants were used to measure CysLT levels. The first bar indicates the
+negative control (OmAb/IgG untreated cells). The data represent the
+mean + SD values of three independent experiments. Statistical significance (*P < 0.05, ***P < 0.001) is relative to OmAb/IgG untreated
+cells.
+
+urticaria, thus, OmAb plasma and tissue levels may
+vary among individuals.
+
+Regarding the mechanism of action of OmAb on
+basophils, our results are consistent with those obtained
+by Eggel and colleagues [15]. Our research data reflect
+the physiological relevance of its action in mast cells
+and a comparison for both cells: mast and basophils
+with a physiological dose range of OmAb. While Eggel
+used a concentration of 50 tm, we observed effects at a
+concentration as low as 0.6 pM, which could be closer
+to that of the skin’s physiological concentrations. In
+addition, using IgG as a control, we proved that the
+ability of OmAb to dissociate IgE was not a result of
+its immunoglobulin nature. The same experiments
+were performed with hlgG, instead of total hlgG to
+determine isotype specificity, without observing any
+
+differences (data not shown). Both the histidine and the
+polysorbate contained in the OmAb solution as a diluent buffer were also analysed separately to rule out any
+undesirable effect, with no significant differences being
+found in this case either (data not shown).
+
+It has recently been reported that OmAb does not
+inhibit mast cell or basophil activation in vitro [41].
+Gericke’s study was performed with low doses of OmAb
+(10 pg/mL; 0.067 jm), with the mast cells and basophils
+being incubated for 1h or 24h, respectively. Our
+results are consistent with that of Gericke’s study, given
+that no effects were observed in the mast cells or basophils at such doses. We believe that any differences
+between both studies could possibly be explained by
+this fact.
+
+The differences in the kinetics of IgE dissociation of
+mast cells and basophils that were observed in our
+study may be partly explained by the nature of the IgE.
+In human primary basophils, IgE is already bound to
+their surface receptor. In the case of mast cells, LAD2
+were incubated with a single IgE clone from the Abbiotec company. In addition, this different IgE dissociation
+could also be explained by the differences between both
+types of cells in terms of the time elapsed until the
+decrease of FceRI expression, as reported elsewhere [5,
+6].
+
+We did not observe the induction of any cellular
+apoptotic effects by OmAb per se in mast cells or basophils. However, monomeric IgE increases mast cell survival, mediator release, cytokine synthesis and FcsRI
+expression [42, 43]. Thus, the depletion of bound IgE
+may eventually decrease cell survival as well as FceRI
+expression.
+
+In conclusion, we proved that OmAb can dissociate
+pre-bound IgE from its receptor, FceRI, in mast cells
+and basophils. We also demonstrated that OmAb can
+inhibit mast cell and basophil activation in vitro by
+directly inhibiting early and late IgE-dependent phosphorylation events, consequently leading to a decrease
+in pre-existing and newly synthesized mediators. This
+additional mechanism of action of OmAb explains its
+efficacy in controlling diseases such as chronic urticaria
+as rapidly as within 24 h. Thus, our study provides new
+information regarding the mechanism of action of
+OmAb in mast cells and completes Eggel’s data on
+basophils. However, the role of this drug in an IgEindependent context remains unclear.
+
+Acknowledgements
+
+This study was funded by a grant from Novartis Spain
+and by grant Pil200332 from the Health Research Fund
+of the Spanish Ministry of Economy and Competitiveness (Fondo de Investigaciones Sanitarias, Ministerio de
+Economia y Competitividad). RM was supported by
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+OmAb action on mast cells and basophils in vitro 101
+
+ 
+
+grant RD12/0013/0010 from the Carlos III Health Institute of Spain. RM, JB and MF belong to the Spanish
+Research Network on Adverse Reactions to Allergens
+and Drugs (RIRAAF: Red de Investigacion de Reacciones Adversas Alérgenos y Farmacos) of the Carlos III
+Health Institute. We are indebted to the Citomics core
+facility of the Institut d’Investigacions Biomédiques
+August Pi i Sunyer (IDIBAPS) for its technical help.
+
+Conflict of interest
+
+Dr. Ferrer is a member of the scientific advisory board
+of Novartis, a speaker for both said company and FAES,
+
+References
+
+1
+
+Presta LG, Lahr SJ, Shields RL et al.
+Humanization of an antibody directed
+against IgE. J Immunol 1993;
+151:2623-32.
+
+Zheng L, Li B, Qian W et al. Fine epitope mapping of humanized anti-IgE
+monoclonal antibody omalizumab.
+Biochem Biophys Res Commun 2008;
+375:619-22.
+
+Babu KS, Polosa R, Morjaria JB. AntiIgE-emerging opportunities for Omalizumab. Expert Opin Biol Ther 2013;
+13:765-77.
+
+Incorvaia C, Mauro M, Russello M
+et al. Omalizumab, an anti-immunoglobulin E antibody: state of the art.
+Drug Drug Des Devel Ther 2014;
+8:197-207.
+
+Beck LA, Marcotte GV, MacGlashan D
+et al. Omalizumab-induced reductions
+in mast cell Fce psilon RI expression
+and function. J Allergy Clin Immunol
+2004; 114:527—30.
+
+MacGlashan DW Jr, Bochner BS, Adelman DC et al. Down-regulation of Fe
+(epsilon)RI expression on human basophils during in vivo treatment of atopic patients with anti-IgE antibody. J
+Immunol 1997; 158:1438—45.
+
+Hide M, Francis DM, Grattan CE et al.
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in chronic urticaria. N
+Engl J Med 1993; 328:1599-604.
+Niimi N, Francis DM, Kermani F et al.
+Dermal mast cell activation by autoantibodies against the high affinity IgE
+receptor in chronic urticaria. J Invest
+Dermatol 1996; 106:1001-6.
+
+Fiebiger E, Maurer D, Holub H et al.
+Serum IgG autoantibodies directed
+against the alpha chain of Fe epsilon
+
+12
+
+13
+
+15
+
+has served on the scientific advisory board of Genentech, receives research grants from Novartis and has
+received the speaker honorarium title from MSD,
+Novartis, FAES and GSK. Antonio Valero reports having
+worked as a consultant for Faes Farma, Chiesi, Orion
+Pharma, MSD, Novartis, UCB, Uriach Pharma, GSK and
+Stallergenes; having been paid lecture fees by Novartis,
+GSK, Stallergenes, Chiesi, Leti and Thermofisher; and
+
+having received grant support from Novartis, Faes
+Farma and Uriach Pharma. Joan Bartra reports having
+served as a consultant for Novartis, Faes Farma and Hal
+
+RI: a_ selective marker and _pathogenetic factor for a distinct subset of
+chronic urticaria patients? J Clin Invest
+1995; 96:2606-12.
+
+Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional and
+binding assays for IgG anti-Fc(epsilon)
+Rlalpha (alpha-subunit) in chronic
+urticaria. J Allergy Clin Immunol 1998;
+101:672-6.
+
+Kaplan AP, Joseph K, Maykut RJ et al.
+Treatment of chronic autoimmune urticaria with omalizumab. J Allergy Clin
+Immunol 2008; 122:569-73.
+
+Altrichter S, Peter HJ, Pisarevskaja D
+et al. IgE mediated autoallergy against
+thyroid peroxidase—a novel pathomechanism of chronic spontaneous urticaria? PLoS ONE 2011; 6:e14794.
+Maurer M, Altrichter S, Bieber T ef al.
+Efficacy and safety of omalizumab in
+patients with chronic urticaria who
+exhibit IgE against thyroperoxidase. J
+Allergy Clin Immunol 2011; 128:202-9
+e5y
+
+Ferrer M, Gamboa P, Sanz ML ef al.
+Omalizumab is effective in nonautoimmune urticaria. J Allergy Clin Immunol
+2011; 127:1300-2.
+
+Eggel A, Baravalle G, Hobi G et al.
+Accelerated dissociation of IgE-FcepsilonRI complexes by disruptive inhibitors actively desensitizes allergic
+effector cells. J Allergy Clin Immunol
+2014; 133:1709-19 e8.
+
+Ainsua-Enrich E, Alvarez-Errico D,
+Gilfillan AM et al. The adaptor 3BP2
+is required for early and late events
+
+in FcepsilonRI signaling in human
+mast cells. J Immunol 2012;
+189:2727-34.
+
+Ainsua-Enrich E, Serrano-Candelas E,
+Alvarez-Errico D etal. The adaptor
+3BP2 is required for KIT receptor
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+
+20
+
+21
+
+22,
+
+23
+
+24
+
+25
+
+Allergy; and having been paid lecture fees by Novartis,
+Stallergenes, UCB, Thermofisher, Menarini and Chiesi.
+
+expression and human mast cell survival. J Immunol 2015; 194:4309-18.
+Alvarez-Errico D, Oliver-Vila I, Ainsua-Enrich E et al. CD84 negatively
+regulates IgE high-affinity receptor
+signaling in human mast cells.
+J Immunol 2011; 187:5577-86.
+Hayashi N, Tsukamoto Y, Sallas WM
+etal. A mechanism-based binding
+model for the population pharmacokinetics and pharmacodynamics of omalizumab. Br J Clin Pharmacol 2007;
+63:548-61.
+
+Kubo S, Matsuoka K, Taya C ef al.
+Drastic up-regulation of FcepsilonRI
+on mast cells is induced by IgE binding through stabilization and accumulation of FcepsilonRI on the cell
+surface. J Immunol 2001; 167:3427—
+34,
+
+Lin LL, Wartmann M, Lin AY ef al.
+cPLA2 is phosphorylated and activated
+by MAP kinase. Cell 1993; 72:269-78.
+Djukanovic R, Wilson SJ, Kraft M
+et al. Effects of treatment with antiimmunoglobulin E antibody omalizumab on airway inflammation in
+allergic asthma. Am J Respir Crit Care
+Med 2004; 170:583-93.
+
+Holgate S, Smith N, Massanari M
+et al. Effects of omalizumab on markers of inflammation in patients with
+
+allergic asthma. Allergy 2009;
+64:1728-36.
+Mauri P, Riccio AM, Rossi R et al. Pro
+teomics of bronchial biopsies: galectin3 as a predictive biomarker of airway
+remodelling modulation in  omalizumab-treated severe asthma patients.
+Immunol Lett 2014; 162:2-10.
+
+Dema B, Charles N, Pellefigues C ef al.
+Immunoglobulin E plays an
+immunoregulatory role in lupus. J Exp
+Med 2014; 211:2159-68.
+102 E. Serrano-Candelas et al
+
+ 
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Dema B, Suzuki R, Rivera J. Rethinking the role of immunoglobulin E and
+its high-affinity receptor: new insights
+into allergy and beyond. Int Arch
+Allergy Immunol 2014; 164:271-9.
+Palgan K, Bartuzi Z, Gotz-Zbikowska
+M. Treatment with a combination of
+omalizumab and specific immunotherapy for severe anaphylaxis after a
+wasp sting. Int J Immunopathol Pharmacol 2014; 27:109-12.
+
+Sokol KC, Ghazi A, Kelly BC et al.
+Omalizumab as a desensitizing agent
+and treatment in mastocytosis: a
+review of the literature and case report.
+J Allergy Clin Immunol Pract 2014;
+2:266-70.
+
+Voskamp AL, Gillman A, Symons K
+et al. Clinical efficacy and immunologic
+effects of omalizumab in allergic bronchopulmonary aspergillosis. J Allergy
+Clin Immunol Pract 2015; 3:192-9.
+Lieberman JA, Chehade M. Use of
+omalizumab in the treatment of food
+allergy and anaphylaxis. Curr Allergy
+Asthma Rep 2013; 13:78-84.
+
+Savage JH, Courneya JP, Sterba PM
+et al. Kinetics of mast cell, basophil,
+and oral food challenge responses in
+omalizumab-treated adults with peanut
+allergy. J Allergy Clin Immunol 2012;
+130:1123-9 e2.
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+Bindslev-Jensen C, Skov PS. Efficacy
+of omalizumab in delayed pressure
+urticaria: a case report. Allergy 2010;
+65:138-9.
+
+Le Moing A, Becourt C, Pape E et al.
+Effective treatment of idiopathic
+chronic cold urticaria with omal
+izumab: report of 3 cases. J Am Acad
+Dermatol 2013; 69:e99-101.
+Baliu-Pique C, Aguilera Peiro P. Three
+cases of solar urticaria successfully
+treated with omalizumab. J Eur Acad
+Dermatol Venereol 2015; doi:10.1111/
+jdv.13001.
+
+FDA, Omalizumab Clinical Pharmacologic review, 2013. [cited 2015 Sept
+19]. Available from:http://www.fda.
+gov/downloads/Drugs/DevelopmentApp
+rovalProcess/DevelopmentResources/UC
+M393855.pdf.
+
+Shin JS, Greer AM. The role of FcepsilonRI expressed in dendritic cells and
+monocytes. Cell Mol Life Sci 2015;
+72:2349-60.
+
+Siraganian RP, de Castro RO, Barbu EA
+et al. Mast cell signaling: the role of
+protein tyrosine kinase Syk, its activation and screening methods for new
+pathway participants. FEBS Lett 2010;
+584:4933—40.
+
+Gilfillan AM, Tkaczyk C. Integrated signalling pathways for mast-cell
+
+39
+
+40
+
+Al
+
+42
+
+43
+
+activation. Nat Rev Immunol 2006;
+6:218-30.
+
+Pasha MA, Jourd’heuil D, Jourd’heuil
+F et al. The effect of omalizumab on
+small airway inflammation as measured by exhaled nitric oxide in
+moderate-to-severe asthmatic patients.
+Allergy Asthma Proc 2014; 35:241—
+9.
+
+Kornmann 0, Watz H, Fuhr R et al.
+Omalizumab in patients with allergic
+(IgE-mediated) asthma and IgE/bodyweight combinations above those in
+the initially approved dosing table.
+Pulm Pharmacol Ther 2014; 28:
+149-53.
+
+Gericke J, Ohanyan T, Church MK
+etal. Omalizumab may not inhibit
+mast cell and basophil activation
+in vitro. J Eur Acad Dermatol Venereol
+2014; 29:1832-6.
+
+Matsuda K, Piliponsky AM, likura M
+et al. Monomeric IgE enhances human
+mast cell chemokine production: IL-4
+augments and dexamethasone suppresses the response. J Allergy Clin
+Immunol 2005; 116:1357-63.
+Kalesnikoff J, Huber M, Lam V et al.
+Monomeric IgE stimulates signaling
+pathways in mast cells that lead to
+cytokine production and cell survival.
+Immunity 2001; 14:801-11.
+
+© 2015 John Wiley & Sons Ltd, Clinical & Experimental Allergy, 46 : 92-102
+

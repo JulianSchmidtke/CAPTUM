@@ -1,0 +1,639 @@
+Factors related to omalizumab resistance in chronic
+spontaneous urticaria
+
+Eli Magen, M.D.,!? Tinatin Chikovani, M.D., Ph.D.,? Dan-Andrei Waitman, M.D.,' and
+Natan R. Kahan, Ph.D.!4
+
+ABSTRACT
+
+Background: Omalizumab resistance (OmR) in chronic spontaneous urticaria (CSU) remains poorly understood.
+
+Objective: To identify clinical and laboratory attributes of patients that may be predictive of OmR in CSU.
+
+Methods: We conducted a retrospective observational study by using an electronic patient record data base of patients with
+severe CSU refractory to a fourfold H,-antihistamine dose, treated with omalizumab 300 mg every 4 weeks for at least 24 weeks.
+Complete response (CR) was defined as the reduction of baseline urticaria activity score by = 90%, partial response (PR) by =
+30% to <90%, and OmR by <30% at 24 weeks. The patient characteristics of the CR, PR, and OmR groups were compared.
+
+Results: Sixty-three patients (58.9%) had a complete remission at 24 weeks of omalizumab therapy, and 16 patients (14.9%)
+had OmR. The patients who were OmR were characterized by a higher rate of arterial hypertension 7 (43.8%), higher mean +
+standard deviation (SD) high-sensitivity C-reactive protein (hs-CRP) level (10.3 + 8.2 mg/L), mean + SD white blood cell
+(WBC) count (9.1 + 2.8 x 10° cells/mL), and higher mean + SD C3 level (164.3 + 45.4 mg/dL) at baseline than the patients
+with CR (arterial hypertension, 9 [13.1%], p = 0.009; mean + SD hs-CRP, 3.4 + 10.1, p = 0.014; mean + SD WBC count,
+6.5 + 3.8 X 10° cells/mL, p = 0.012; and mean + SD C3 level, 121.8 + 42.1 m/dL, p < 0.001). In multivariable analysis
+adjusted for age, sex, and body mass index, OmR was associated with an hs-CRP level of >3.0 mg/L (odds ratio 1.94 [95%
+confidence interval, 1.28-3.15], p = 0.009) and with C3 > 160 mg/dL (odds ratio 1.54 [95% confidence interval, 1.05-2.36],
+p = .017).
+
+Conclusion: Obesity, arterial hypertension, high plasma C3 level, and high-CRP level were associated with OmR in severe CSU.
+
+(Allergy Asthma Proc 40:273-278, 2019; doi: 10.2500/aap.2019.40.4230)
+
+Nowetns H,-antihistamines are the first-line
+treatment of chronic spontaneous urticaria
+(CSU), and up to a fourfold dose increase is recommended if there is no improvement.' In 2014, omalizumab was approved both in the United States and the
+European Union for use in patients with CSU that was
+refractory to high-dose H,-antihistamines,” and, since
+then, it has become the preferred method of treatment
+for CSU in patients unresponsive to Hy-antihistamines.’ However, omalizumab resistance (OmR) in
+CSU remains undefined.
+
+METHODS
+
+Patients and Setting
+
+We conducted a retrospective observational study by
+using the electronic patient record data base of Leumit
+
+ 
+
+From the "Leumit Health Services, Tel Aviv, Israel, Medicine C Department, Clinical
+Immunology and Allergy Division, Barzilai Medical Center, Ben Gurion University
+of the Negev, Ashkelon, Israel, *Department of Immunology, Tbilisi State Medical
+University, Tbilisi, Georgia, and “School of Public Health, Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel
+
+No external funding sources reported
+
+The authors have no conflicts of interest to declare pertaining to this article
+Address correspondence to Eli Magen, M.D., Medicine C Department, Ben Gurion
+University of Negev, Barzilai University Medical Center, Ashkelon, Israel
+
+E-mail address: allergologycom@gmail.com
+
+Copyright © 2019, OceanSide Publications, Inc., U.S.A.
+
+ 
+
+Allergy and Asthma Proceedings
+
+Health Care Services (LHS), a health maintenance organization that covers ~730,000 residents of Israel nationwide. The study protocol was approved by the
+institutional review board of LHS. Patients with CSU
+with severe refractory to a fourfold H1-antihistamines
+dose, treated with omalizumab 300 mg every 4 weeks
+for at least 24 weeks without concomitant montelukast,
+systemic steroids, or cyclosporine at community allergology centers of LHS from December 2014 to May
+2018 were included. The exclusion criteria were as
+follows: a diagnosis of any active infectious, inflammatory, and autoimmune diseases; malignancy; and pregnancy.
+
+The patients were followed up by board-certified
+allergists, who routinely evaluated the therapeutic efficacy of omalizumab by using the urticaria activity
+score at each visit.* Complete response (CR) was defined as the reduction of the baseline urticaria activity
+score by = 90%, the partial response (PR) by =30% to
+<90%, and OmR by < 30% at 24 weeks. Overweight
+and obesity were defined by a body mass index
+(BMI) = 25 kg/ m? and BMI = 30 kg/ m’, respectively.
+
+Statistical Analysis
+
+Variables were tested for normality by using the
+Kolmogorov-Smirnov test. Statistical significance for
+continuous variables was calculated by using analysis
+
+273
+of variance, and, for categorical variables, by using the
+x’ test. We dichotomized concentrations of high-sensitivity C-reactive protein (hs-CRP) into =3.0 and >3.0
+mg/L, the white blood cell (WBC) count into =11.0
+and >11.0 x 10° cells/mL, serum C3 into =160.0 and
+>160.0 mg/dL, BMI into =27.0 and >27.0 kg/m’, and
+the independent association between disease status
+(CR, PR, OmR) was assessed by using a multivariable
+linear regression model with adjustment for age and
+sex. Statistical significance was set at p < 0.05. Data
+were analyzed by using SPSS Software version 18
+(SPSS Inc., IBM-SPSS, Chicago, IL).
+
+RESULTS
+
+Patient characteristics are listed in Table 1. Sixtythree patients (58.9%) had a CR at 24 weeks of omalizumab therapy, and 16 (14.9%) were OmR. Patients
+with OmR were more likely to be obese (p = 0.02)
+compared with patients with CR. The clinical indicator
+of excess adiposity, BMI, was also significantly higher
+in the OmR group (mean + standard deviation [SD]
+29.4 + 2.3 kg/m’) than in the CR group (mean + SD
+27.2 + 2.5kg/m?; p = 0.002) and the PR group (mean +
+SD 27.5 + 3.1 kg/m’; p = 0.039). The patients with
+OmR were characterized by the higher mean + SD
+hs-CRP level (10.3 + 8.2 mg/dL), mean + SD C3 level
+(164.3 + 45.4 mg/dL), and mean + SD white blood cell
+(WBC) count (9.1 + 2.8 x 10° cells/mL) at baseline
+than the patients with CR (mean + SD hs-CRP level,
+3.4 + 10.1 mg/L, p = 0.014; mean + SD C3 level,
+121.8 + 42.1 mg/dL, p = 0.001; and mean + SD WBC
+count, 6.5 + 3.8 cells/mm®, p = 0.012) (Table 1). The PR
+group was distinguished from the OmR group by the
+higher mean + SD total immunoglobulin E (IgE)
+(159 + 72 IU/mL; p = 0.046) and lower mean + SD C3
+level (164.3 + 45.4 mg/dL, p = 0.003) (Table 1).
+
+The results of multivariable analysis of the clinical
+and laboratory factors associated with OmR after adjustment for age and sex only are shown in Table 2.
+When adjusting for age, sex, and BMI, the associations
+with OmR remained positive for hs-CRP value (odds
+ratio 1.94 [95% confidence interval, 1.28-3.15]; p =
+0.009) and for the C3 level (odds ratio 1.54 [95% confidence interval, 1.05-2.36]; p = 0.017) (Table 3).
+
+DISCUSSION
+
+The fact that ~15% of the patients with CSU were
+OmR indicated the involvement of mechanisms
+and/or pathways in CSU other than the IgE cascade.>
+Possible effects of serum total IgE, thyroid autoantibodies, eosinophil counts, rheumatologic markers, Creactive protein (CRP), and erythrocyte sedimentation
+rate on clinical response to omalizumab in CSU were
+evaluated previously in small retrospective studies.°”
+Omalizumab had robust efficacy in the patients with
+
+274
+
+antihistamine refractory CSU regardless of their autoimmune status, age, sex, IgE level, or dosing schedule.”
+
+Previously, Kessel et al.8 showed a significant link
+between increased total IgE levels and disease severity
+in CSU. Furthermore, free-IgE reduction and downregulation of the high-affinity IgE receptor was shown
+to be correlated with CSU clinical improvement with
+omalizumab therapy.’ Nevertheless, previous studies
+that explored the clinical and laboratory predictors of
+response to omalizumab reported a worse response to
+omalizumab in patients with CSU with lower baseline
+serum Igk.'0" Earlier, Altrichter et al.!? found that
+patients with antithyroid autoantibodies responded
+better to omalizumab. However, our study was unable
+to fully reproduce those findings, may be due to the
+small number of patients in the OmR group. Nevertheless, we observed higher levels of total IgE in patients
+with CSU with partial resistance to omalizumab than
+in patients with OmR. Although not addressed by
+publications yet, we know that some patients who
+were resistant were responding to a dosage of >300 mg
+(e.g., 450 mg or 600 mg) or of 300 mg given every 2-3
+weeks. Thus, our small study may have underestimated those for whom IgE had a pathogenic role.
+
+In our study, obesity was a condition that was associated with the reduced effectiveness of omalizumab in
+CSU. In a recent large epidemiologic study, we found
+CSU to be positively associated with metabolic syndrome and obesity.’ The relationship between obesity
+and arterial hypertension is obvious, but the relationship among obesity, arterial hypertension, and CSU
+has not yet been fully investigated.’ The connection
+among CSU, obesity, and OmkR is especially interesting
+and may suggest a pathophysiologic contribution of
+factors, e.g., adipokine-induced inflammation. Patients
+with obesity and metabolic syndrome have elevated
+levels of proinflammatory cytokines and CRP.'° We
+postulated that the action of adipokines may be targeted directly to human mast cells, and their activation
+may aggravate the clinical severity of CSU."®
+
+We observed the laboratory results of low-grade inflammation in OmR CSU that was supported by the
+higher levels of hs-CRP and C3, and the WBC count in
+the OmR group. Because all these biomarkers are
+acute-phase reactants produced under the influence of
+interleukin (IL) 1, tumor necrosis factor (TNF) a, and
+IL-6, it was likely that the increased levels of hs-CRP
+and C3, and of the WBC count were hallmarks of the
+immune activation in the patients with OmR.'” Increased levels of circulating TNF-a, IL-1B, IL-12p70,
+and IL-6 were observed in most patients with CSU,
+together with an enhancement of IL-2 secretion after
+T-cell stimulation.'® Moreover, elevated hs-CRP levels
+were found to be common in patients with CSU, and
+high hs-CRP levels may predict poor responses to antihistamines.'” Elevated plasma C3 levels in CSU were
+
+ 
+
+July 2019, Vol. 40, No. 4
+sBulpesd0i/4 euuujsy pue Abell
+
+Ge
+
+Table 1 Clinical parameters of 106 patients treated with omalizumab for CSU
+
+ 
+
+ 
+
+ 
+
+Complete Partial No Response, pit ps PL
+Response, Response, n = 16 (14.9%)
+n = 63 (58.9%) n = 27 (27.2%)
+
+Age, mean + SD, y 39.8 + 11.7 421+13.4 40.3 + 8.1 0.694. 0.415 0.872 0.629
+BMI, mean + SD, kg/m? 27.2, = 2:5 op + 3:1 29.4 + 2.3 0.014 0.629 0.002 0.039
+Obesity, no. (%) 8 (12.7) 5 (18.5) 6 (37.5) 0.069 0.427 0.020 0.278
+Duration of CSU, mean + SD, mo 16.4 + 3.9 19" .2 15.9 + 3.2 0.146 0.09 0.637 0.134
+Females, no. (%) 41 (65.1) 18 (66.7) 11 (68.8) 0.901 0.884 0.782 0.981
+Angioedema, no. (%) 23 (36.5) 11 (40.1) 7 (43.7) 0.841 0.704 0.594 0.846
+UAS, mean + SD
+
+Baseline 5.4 + 0.3 55 Ss Be +'0.2 0.301 0.15 0.211 0.999
+
+12 wk 0 2.6 + 0.9 5.1+04 <0.001 <0.00 <0.001 <0.001
+Comorbidities, no. (%)
+
+Allergic rhinitis 16 (25.4) 5 (18.5) 2 (12.5) 0.228 0.433 0.272 0.928
+
+Asthma 7 (11.1) 2 (7.4) 1 (6.3) 0.768 0.59 0.564 0.885
+
+Hypothyroidism 11 (15.9) 4 (14.8) 5 (31.3) 0.372 0.757 0.221 0.372
+
+Rheumatologic disorders 2:(B:2) 1(3.7) 0 0.332 0.898 0.658 0.436
+
+Arterial hypertension 9 (13.1) 5 (18.1) 7 (43.8) 0.030 0.61 0.009 0.152
+
+Diabetes mellitus 5 (7.9) 3 (11.1) 2 (12.5) 0.806 0.627 0.566 0.891
+Total IgE, mean + SD, IU/mL 146 + 94 159 + 72 109 + 85 0.196 0.522 0.156 0.046
+hs-CRP, mean + SD, mg/L 3.4 + 10.1 67 275 10.3 + 8.2 0.022 0.13 0.014 0.149
+WBC count, mean + SD, 10° cells/mL 6.5 + 3.8 73 £36 9.12.8 0.039 0.355 0.012 0.094
+Basophils, mean + SD, 10° cells/mL 0.18 + 0.15 0.17 + 0.19 0.18 + 0.16 0.963 0.79 0.998 0.861
+Eosinophil count, mean + SD, cells/mL 0.34 + 0.11 0.31 + 0.15 0.32 + 0.14 0.566 0.292 0.541 0.829
+Platelets, mean + SD, 10° cells / mL 259 + 132 263 + 128 277 + 121 0.884 0.894 0.622 0.725
+Table 1 Continued
+
+276
+
+ 
+
+ps Pall
+
+pit
+
+No Response,
+n = 16 (14.9%)
+
+Partial
+
+Response,
+Nn = 27 (27.2%)
+
+Complete
+
+Response,
+n = 63 (58.9%)
+
+ 
+
+0.832
+0.648
+0.807
+0.369
+0.003
+0.918
+
+0.591
+
+0.623
+0.917
+
+0.886
+0.671
+
+212.5)
+6 (37.5)
+3 (18.8)
+2341.2
+164.3 + 45.4
+
+4 (14.8)
+7 (25.9)
+3 (11.1)
+
+27
+123.5 + 39.2
+
+ANA positivity, no. (%)
+
+0.408
+
+anti-TPO positivity, no. (%)
+anti-Tg positivity, no. (%)
+
+0.299
+0.841
+0.001
+
+0.818
+
+0.581
+
+0.468
+
+0.691
+
+LS
+
+saa
+
+19
+
+24
+121.8 + 42.1
+
+TSH level, mean + SD, (mU/L)
+C3 value, mean + SD, mg/dL
+C4 value, mean + SD, mg/dL
+
+csu
+
+0.858
+0.826
+
+0.002
+
+0.944
+
+0.976
+
+26.1 + 9.7
+
+26.4 + 8.9
+
+25.9 + 10.2
+Chronic spontaneous urticaria; SD = standard deviation; BMI = body mass index; UAS = urticaria activity score; IgE
+
+high-sensitivity C-reactive protein; WBC = white blood cell; ANA
+
+stimulating hormone.
+
+ 
+
+immunoglobulin E; hs-CRP
+
+thyroglobulin; TSH
+
+Thyroid
+= thyroid peroxidase; Tg =
+
+antinuclear antibody; TPO
+
+* Analysis of variance among the complete response, partial response, and omalizumab resistant groups.
+
+# The x test between the complete response and partial response groups.
+
+§ The x’ test between the complete response and omalizumab resistant groups.
+
+[The x test between the partial response and omalizumab resistant groups.
+
+also observed in earlier studies.”° In addition, C3 levels
+were found to be significantly higher in patients with
+CSU with metabolic syndrome and were positively
+correlated with a CSU severity score.?!
+
+In our study, the C3 level was similarly higher in
+patients with CSU and with BMI > 27 kg/ m2, and was
+directly correlated with the higher CSU severity score.
+The observed higher C3 levels in patients with OmR
+could reflect an ongoing low-grade inflammation in
+this population. Both C3 and CRP are synthesized
+mainly in the liver in response to cytokines, e.g., IL-1B,
+IL-6, and TNF-a, which are increased in subjects with
+active CSU.” Analysis of the accumulated data has
+shown that, in some patients with CSU, complement
+components are involved in degranulation of mast
+cells and basophils.*°7# Local complement deposition
+of complement can be found in approximately onethird of CSU urticarial lesions.2*”° In CSU, pathogenic
+IgG cross-links the IgE receptor directly to cause histamine release, and this process is augmented by C5a.2”
+Because the study was a retrospective and descriptive
+in nature, we had no data on complement consumption and release of anaphylatoxins, nor an explanation
+whether the complement played any role in OmR.
+Previously, research groups found that hypertension is
+independently associated with the severity and duration of CSU.75?? A positive association of OmR and
+arterial hypertension in our patients may be partially
+explained by higher rates of obesity and higher BMI in
+the OmR group. The link between OmR and hypertension may also be related to low-grade inflammation.2%3!
+
+The observed higher WBC counts in the patients
+with OmR might be another interesting finding. Because a diagnosis of CSU is mainly clinical, we do not
+usually perform skin biopsies. Therefore, we could not
+judge on role of the WBC count in the histopathology
+of OmR CSU. Winkelman and Reizner™ first described
+neutrophilic chronic urticaria as a separate entity. Since
+then, several research groups have described a percentage of patients with CSU and with a neutrophilic inflammatory infiltrate predominance, which ranges
+from 15.8 to 48.8%.°° According to some investigators,
+neutrophil-predominant CSU has been considered to
+be a variant of CSU related to H, treatment resistance,** but the influence of neutrophil predominance
+on OmkR is still unidentified. Other investigators proposed that the presence of neutrophils in CSU biopsy
+specimens is a common finding and does not seem to
+have an influence on CSU clinical severity or on prognosis.** Therefore, today, there is not enough scientific
+evidence to support neutrophilic chronic urticaria as a
+separate entity, and most researchers postulate that the
+presence of neutrophils is just associated with the inflammatory process.
+
+July 2019, Vol. 40, No. 4
+Table 2 Results of multivariable analysis of factors associated with omalizumab resistance after adjusting
+
+for age and sex
+
+ 
+
+ 
+
+Odds Ratio (95% confidence p
+interval)
+BMI > 27 kg/m’, mg/dL 1.91 (1.16-2.99) 0.021
+Obesity (BMI > 30 kg/m?), mg/dL 3.42 (2.04-5.17) <0.001
+hs-CRP >3 mg/L, mg/dL 2.51 (1.58-4.75) <0.001
+WEC count > 11 X 10° cells/mL, mg/dL 0.57 (0.29-0.94) 0.063
+C3, mg/dL 2.11 (1.27-3.46) 0.004
+
+ 
+
+BMI = Body mass index; hs-CRP = high-sensitivity C-reactive protein; WBC = white blood cell.
+
+Table 3. Results of multivariable analysis of factors associated with omalizumab resistance after adjusting
+
+for age, sex, and BMI
+
+ 
+
+ 
+
+Odds Ratio (95% confidence p
+interval)
+hs-CRP > 3 mg/L, no. (%) 1.94 (1.28-3.15) 0.009
+WBC count > 11 X 10° cells/mL, no. (%) 0.25 (0.03-1.71) 0.164
+C3 > 160 mg/dL 1.54 (1.05-2.36) 0.017
+
+ 
+
+BMI = Body mass index; hs-CRP = high-sensitivity C-reactive protein; WBC = white blood cell.
+
+We understand that this study had several limitations due to the retrospective design implemented. To
+further validate our findings and to better characterize
+clinical and pathophysiologic features of subjects with
+CSU and OmR, prospective studies are needed. Second, the laboratory tests (WBC, hs-CRP, C3) were not
+measured before and after omalizumab treatment to
+define any changes in these parameters. Third, active
+forms of C3, such as C3a and C3b, were not assessed to
+identify how C3 functioned, and, consequently, correlation studies of C3a and C3b with OmR were not
+conducted.
+
+Conclusion
+
+Additional research is required to further explore the
+role of low-grade inflammation to OmR to provide
+possible biomarkers for future personalized therapeutic approaches in CSU.
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA2LEN/
+EDF/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update.
+Allergy. 2014; 69:868-887.
+
+2. Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and
+management of acute and chronic urticaria: 2014 update. J
+Allergy Clin Immunol. 2014; 133:12701-1207.
+
+3. Tonacci A, Billeci L, Pioggia G, Navarra M, Gangemi S. Omalizumab for the treatment of chronic idiopathic urticaria: systematic review of the literature. Pharmacotherapy. 2017; 37:464—
+480.
+
+Allergy and Asthma Proceedings
+
+4. Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How to assess disease activity in patients
+with chronic urticaria? Allergy. 2008; 63:777-780.
+
+5. Navinés-Ferrer A, Serrano-Candelas E, Molina-Molina GJ, Martin M. IgE-related chronic diseases and anti-IgE-based treatments. J Immunol Res. 2016; 2016:8163803.
+
+6. Tiirk M, Yilmaz I, Bahcecioglu SN. Treatment and retreatment with omalizumab in chronic spontaneous urticaria: real
+life experience with twenty-five patients. Allergol Int. 2018;
+67:85-89.
+
+7. Kaplan AP, Giménez-Arnau AM, Saini SS. Mechanisms of action that contribute to efficacy of omalizumab in chronic spontaneous urticaria. Allergy. 2017; 72:519-533.
+
+8. Kessel A, Helou W, Bamberger E, et al. Elevated serum total
+IgE-a potential marker for severe chronic urticaria. Int Arch
+Allergy Immunol. 2010; 153:288-293.
+
+9. Saavedra MC, Sur S. Down regulation of the high-affinity IgE
+receptor associated with successful treatment of chronic idiopathic urticaria with omalizumab. Clin Mol Allergy. 2011; 9:2.
+
+10. Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical
+response to omalizumab in chronic spontaneous urticaria patients is linked to and predicted by IgE levels and their change.
+Allergy. 2018; 73:705-712.
+
+11. Marzano AV, Genovese G, Casazza G, et al. Predictors of response to omalizumab and relapse in chronic spontaneous urticaria: a study of 470 patients. J Eur Acad Dermatol Venereol.
+2019; 33:918-924.
+
+12. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy against thyroid peroxidase—a
+novel pathomechanism of chronic spontaneous urticaria? PLoS
+One. 2011; 6:e14794.
+
+13. Shalom G, Magen E, Babaev M, et al. Chronic urticaria and the
+metabolic syndrome: a cross-sectional community-based study
+of 11 261 patients. J Eur Acad Dermatol Venereol. 2018; 32:276281.
+
+ 
+
+207
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+Pale
+
+22.
+
+23.
+
+278
+
+Zbiciak-Nylec M, Wcisto-Dziadecka D, Kasprzyk M, et al. Overweight and obesity may play a role in the pathogenesis of
+chronic spontaneous urticaria. Clin Exp Dermatol. 2018; 43:525528.
+
+Devaraj S, Rosenson RS, Jialal I. Metabolic syndrome: an appraisal of the pro-inflammatory and procoagulant status. Endocrinol Metab Clin North Am. 2004; 33:431-453, table of contents.
+
+Chaldakov GN, Fiore M, Ghenev PI, et al. Triactome: neuroimmune-adipose interactions. Implication in vascular biology.
+Front Immunol. 2014; 5:130.
+
+Kaplan A. Inflammation in chronic urticaria is not limited to the
+consequences of mast cell (or basophil) degranulation. Clin Exp
+Allergy. 2010; 40:834-835.
+
+Dos Santos JC, Azor MH, Nojima VY, et al. Increased circulating
+pro-inflammatory cytokines and imbalanced regulatory T-cell
+cytokines production in chronic idiopathic urticaria. Int Immunopharmacol. 2008; 8:1433-1440.
+
+Kolkhir P, Altrichter S, Hawro T, Maurer M. C-reactive protein
+is linked to disease activity, impact, and response to treatment
+in patients with chronic spontaneous urticaria. Allergy. 2018;
+73:940—-948.
+
+el-Lati SG, Dahinden CA, Church MK. Complement peptides
+C3a- and C5a-induced mediator release from dissociated human skin mast cells. J Invest Dermatol. 1994; 102:803-806.
+
+Ye YM, Jin HJ, Hwang EK, et al. Co-existence of chronic urticaria and metabolic syndrome: clinical implications. Acta Derm
+Venereol. 2013; 93:156-160.
+
+Ritchie RF, Palomaki GE, Neveux LM, Navolotskaia O, Ledue
+TB, Craig WY. Reference distributions for complement proteins
+C3 and C4: a practical, simple and clinically relevant approach
+in a large cohort. J Clin Lab Anal. 2004; 18:1-8.
+
+Marsland AM. Autoimmunity and complement in the pathogenesis of chronic urticaria. Curr Allergy Asthma Rep. 2006;
+6:265-269.
+
+24.
+
+25.
+
+26.
+
+27,
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+Ferrer M, Nakazawa K, Kaplan AP. Complement dependence
+of histamine release in chronic urticaria. J Allergy Clin Immunol. 1999; 104:169-172.
+
+Monroe EW. Urticaria and urticarial vasculitis. Med Clin North
+Am. 1980; 64:867-883.
+
+Natbony SF, Phillips ME, Elias JM, Godfrey HP, Kaplan AP.
+Histologic studies of chronic idiopathic urticaria. J Allergy Clin
+Immunol. 1983; 71:177-183.
+
+Kikuchi Y, Kaplan AP. A role for C5a in augmenting IgGdependent histamine release from basophils in chronic urticaria. J Allergy Clin Immunol. 2002; 109:114-118.
+
+Chang HW, Cheng HM, Yen HR, et al. Association between
+chronic idiopathic urticaria and hypertension: A populationbased retrospective cohort study. Ann Allergy Asthma Immunol. 2016; 116:554-558.
+
+Nebiolo F, Bergia R, Bommarito L, et al. Effect of arterial hypertension on chronic urticaria duration. Ann Allergy Asthma
+Immunol. 2009; 103:407—410.
+
+Mahmud A, Feely J. Arterial stiffness is related to systemic
+inflammation in essential hypertension. Hypertension. 2005;
+46:1118-1222.
+
+Mathis KW, Broome HJ, Ryan MJ. Autoimmunity: an underlying factor in the pathogenesis of hypertension. Curr Hypertens
+Rep. 2014; 16:424.
+
+Winkelmann RK, Reizner GT. Diffuse dermal neutrophilia in
+urticaria. Hum Pathol. 1988; 19:389-393.
+
+Stewart GE II. Histopathology of chronic urticaria. Clin Rev
+Allergy Immunol. 2002; 23:195-200.
+
+Llamas-Velasco M, Fraga J, Requena L, Sanchez-Pérez J, Ovejero-Merino E, Garcia-Diez A. Neutrophilic urticaria or urticaria
+with predominantly neutrophilic inflammatory infiltrate: study
+of its clinical and histopathologic characteristics and its possible
+association with rheumatic disease. Actas Dermosifiliogr. 2012;
+103:511-519. oO
+
+July 2019, Vol. 40, No. 4
+

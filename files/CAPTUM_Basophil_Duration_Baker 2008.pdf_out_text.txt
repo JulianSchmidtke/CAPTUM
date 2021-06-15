@@ -1,0 +1,643 @@
+ 
+
+Basophil histamine release activity and disease
+
+severity in chronic idiopathic urticaria
+
+Rosalyn Baker, MD, MHS*; Kavitha Vasagar, MS*; Nkiruka Ohameje, MD, MPH*;
+Laura Gober, MD*; Suephy C. Chen, MD, MS}; Patricia M. Sterba, BS*; and Sarbjit S. Saini, MD*
+
+Background: Altered basophil degranulation phenotypes are found in patients with chronic idiopathic urticaria (CIU).
+
+Objective: To evaluate CIU disease severity in relation to basophil histamine release (HR) characteristics.
+
+Methods: Patients with CIU were recruited from allergy and dermatology clinics. Patients with recent use of systemic corticosteroids or immunosuppressants were excluded. Patients completed disease severity surveys and had blood basophils isolated and
+stimulated for HR using polyclonal goat anti-human IgE and N-formyl-met-leu-phe. The HR was measured using automated
+fluorometry. Multivariate linear regression analyses were used to investigate relationships between HR data and CIU disease measures.
+
+Results: Fifty patients completed surveys, of which 34 were further categorized into 2 subgroups based on basophil HR
+response to anti-IgE stimulation: responders (=10% HR) and nonresponders (<10% HR). Responders and nonresponders
+reported similar use of oral corticosteroids, work absences, and quality-of-life impairment but differed in their patterns of
+medications used for CIU. Basophil responders had a trend of higher use of the emergency department for CIU management.
+Multivariate regression revealed that patients with the basophil responder phenotype experienced significantly higher current itch
+scores (P = .02) compared with nonresponders.
+
+Conclusions: Quality-of-life impairment is similar in CIU basophil subsets. Patients with CIU with a basophil responder
+phenotype report longer disease duration, a higher frequency of emergency department use, and significantly higher itch severity.
+
+INTRODUCTION
+
+Chronic idiopathic urticaria (CIU) is a skin disorder characterized by recurrent erythematous wheals and intense itching,
+with or without angioedema, for at least 6 to 8 weeks, and it
+can persist for years.'? The pathogenesis of CIU is not
+completely understood, but mast cell and basophil degranulation of histamine is thought to be of central importance.* In
+the past decade, CIU with certain serologic features has been
+termed chronic autoimmune urticaria Specifically, up to
+30% of patients with CIU have circulating IgG autoantibodies
+targeting the IgE receptor a-chain (FceRIa), whereas approximately 10% have IgG targeting IgE expressed on the surface
+of basophils and mast cells.> Other studies® have found that
+40% of patients with CIU have serum that contains histamine-releasing activity (HRA) as measured by in vitro testing
+against normal donor basophils. However, these 2 serum
+factors (HRA and autoantibodies to IgE or FceRIa) often do
+not coexist in the same individual and have led to confusion
+
+Affiliations: * Division of Allergy and Clinical Immunology, Department
+of Medicine, Johns Hopkins University School of Medicine, Baltimore,
+Maryland; + Department of Dermatology, Emory University, and Division of
+Dermatology, Department of Health Services Research and Development,
+Atlanta VA Medical Center, Atlanta, Georgia.
+
+Disclosures: Authors have nothing to disclose.
+
+Funding Sources: These studies were funded in part by the American
+Academy of Allergy, Asthma, and Immunology Interest Section Award. Dr
+Chen was supported in part by Mentored Patient Oriented Career Development Award K23AR02185-01A1 from the National Institute of Arthritis and
+Musculoskeletal and Skin Diseases, National Institutes of Health.
+
+Received for publication January 4, 2007; Received in revised form
+August 17, 2007; Accepted for publication August 23, 2007.
+
+Ann Allergy Asthma Immunol. 2008;100:244-249.
+
+as to the serologic classification of autoimmune CIU.° Furthermore, attempts to classify CIU disease severity relative to
+serologic factor expression have been hampered by the lack
+of a widely accepted standard assay.7*
+
+It is well established that basophils of patients with CIU have
+altered IgE receptor-mediated degranulation.'!° Recently,
+Vonakis et al'! reported that ex vivo activation of blood basophils in patients with CIU with an optimal dose of crosslinking anti-IgE antibodies is segregated into 2 groups based on
+the degree of HR: responders and nonresponders. Patients with
+CIU with nonresponder basophils show depressed (<10%) HR,
+whereas basophils of patients with CIU with a responder phenotype show at least 10% HR. Furthermore, altered basophil
+protein expression of the FceRI inhibitory phosphatases SHIP-1
+and SHIP-2 correspond to the observed patterns of CIU basophil
+HR and impact the generation of downstream molecules (phosphoAkt) relevant to degranulation. Evidence also supports that
+basophil functional phenotypes are stable in patients with CIU
+and persistent disease symptoms.!!!?
+
+Because of the chronic discomfort induced by pruritus, the
+anxiety induced by the relapsing course, the lack of a specific
+cause, and the social impairment linked to unpredictable
+attacks of pruritus and angioedema, it is expected that CIU
+affects the quality of life (QoL) of patients.!*'* In recent
+studies,!> Skindex-29 has been used to evaluate urticaria and
+noted that QoL is markedly reduced in patients with chronic
+urticaria. In the present study, we explore the relationship of
+defined CIU basophil functional categories (responder and
+nonresponder) to CIU disease severity as measured using
+
+244
+
+ANNALS OF ALLERGY, ASTHMA & IMMUNOLOGY
+disease survey instruments (Skindex-29 and the urticaria severity score [USS]).
+
+METHODS
+
+Patients
+
+Adults (>18 years of age) diagnosed as having CIU were
+recruited from Johns Hopkins University allergy and dermatology clinics. The inclusion criterion was a specialist (allergist or dermatologist) diagnosis of active CIU. Patients who
+had used systemic corticosteroids or other immunosuppressants (cyclosporine or sulfasalazine) in the month before
+enrollment were excluded due to the known suppression of
+these drugs on basophil HR.!° Patients were also excluded if
+they were diagnosed as having another skin disease, such as
+urticarial vasculitis, atopic dermatitis, or physical urticaria, or
+had other etiologies for the urticaria, such as a chronic infection or medication allergy. After providing informed consent,
+patients completed a written disease severity questionnaire
+and underwent venipuncture via a protocol approved by the
+Johns Hopkins Hospital institutional review board.
+
+Basophil Function
+
+Blood basophils of patients were isolated from venous blood
+by means of dextran sedimentation and were stimulated for
+HR using polyclonal goat anti-human IgE (0.01-1.00 g/
+mL) in duplicate using calcium-containing buffers, as described previously.'! Based on an earlier study,'' we found
+that the 0.1-wg/mL concentration of anti-IgE is optimal to
+define basophil functional phenotypes. Cells were also stimulated using N-formyl-met-leu-phe (fMLP) (10°°M) as a
+positive control for basophil degranulation because this pathway is generally preserved in basophils of patients with
+CIU.!! Automated fluorometry was used to measure HR."
+Results for each stimulus are reported as a percentage of the
+total histamine content found in an aliquot of lysed leukocytes derived from 1 mL of whole blood after subtraction of
+spontaneous HR from cells in buffer alone. Blood basopenia
+was noted in certain patients and was defined as total blood
+leukocyte histamine content of less than 5 ng/mL.
+
+Disease Survey
+
+The written questionnaire was composed of 3 elements: demographics and health care utilization, the USS, and the Skindex29.'8 The demographic section included age, sex, ethnicity,
+education, disease duration, family history of urticaria, number
+of days absent from work or school, number of visits to the
+emergency department (ED), number of systemic corticosteroid
+courses, and the type of medications used to treat CIU.
+
+The second element was the USS, a survey used in various
+forms in many clinical studies and trials in CIU.!°? This
+survey includes urticarial wheal characterization, itch severity, wheal distribution, systemic symptoms, and wheal duration.?? The USS was calculated as follows: urticarial activity
+was estimated according to the number of wheals present at
+the evaluation time and during a flare of disease. Wheals
+were scored as follows: 0, no wheals; 1, 1 to 10 small wheals
+
+(<3 cm in diameter); 2, 10 to 50 small wheals or | to 10 large
+wheals; 3, more than 50 small wheals or 10 to 50 large
+wheals; and 4, almost fully covered with wheals. Current itch
+score is the patient’s rating of itch severity based on a visual
+analog scale scored from 0 to 10 (none to severe). Itch
+severity at its worst was scored on a similar visual analog
+scale. The distribution of the wheals was scored | each for
+involvement of the face, mouth or tongue, scalp, trunk, limbs,
+palms, and soles (maximum score, 7). Associated symptoms
+were scored 1 each as follows (maximum score, 6): (1)
+nausea, diarrhea, abdominal pain, or indigestion; (2) wheeze
+or breathlessness; (3) palpitations; (4) flushing; (5) joint pain
+or joint swelling; and (6) headache, malaise, and lassitude.??
+Wheal duration was scored on a 3-point scale as follows: less
+than | hour, | to 24 hours, and greater than 24 hours.”
+
+The third element of the questionnaire was Skindex-29, a
+validated 29-question dermatology survey assessing the impact of skin disease on QoL in the past 3 months. The scoring
+of Skindex divides the questions into specific categories:
+emotions, symptoms, and functioning. The scale score is a
+mean average in each category.
+
+ 
+
+Statistical Analyses
+
+All the statistical analyses were performed using Stata version
+8.0 (StataCorp, College Station, Texas). Multivariate linear regression was used to investigate the relationship between basophil functional data and symptom severity measures while controlling for potential confounders. We considered 3 primary
+outcome variables: current itch severity, itch severity during a
+flare, and Skindex-29 score. Comparisons among basopenic
+patients, nonresponders, and responders were performed using
+an unpaired tf test, with P < .05 considered statistically significant.
+
+RESULTS
+
+Basophil Functional Characteristics
+
+Of the 50 patients who enrolled in the study, 46 provided
+a usable blood sample for basophil analysis (Table 1).
+Patients with CIU were divided into 2 groups based on the
+basophil degranulation achieved with optimal stimulation
+with anti-IgE (0.1 g/mL): CIU nonresponders (CIU-NRs)
+(<10% release of total leukocyte histamine content) and
+responders (CIU-Rs) (>10% release of total leukocyte
+histamine content).!! Thirty-four patients had measurable
+basophil function that could be categorized into CIU-NR
+(n = 15) or CIU-R (n = 19) (Table 1). Of the remaining
+12 patients who submitted a blood sample, blood basophils
+could not be classified due to significant basopenia (n = 8)
+(see the “Methods” section) or other technical reasons
+(n = 4), such as the detection limits of the assay system.
+Significant basopenia has long been recognized in this
+disease®!°4 and was reflected in this study as reductions in
+the histamine concentration present in a lysed aliquot of
+leukocytes representative of 1 mL of whole blood (Table
+1). The pattern of fMLP responses seen in study patients
+with CIU was similar to that previously observed.?''! It is
+
+VOLUME 100, MARCH, 2008
+
+245
+Table 1. Basophil Functional Characteristics of 50 Patients With CIU
+
+ 
+
+ 
+
+Patient Histamine concentration, Anti-IgE (0.1 g/mL), clu fMLP (10°°M),
+No. ng/1 mL blood leukocytes % histamine release category % histamine release
+1 <0.5 ND1 NA ND1
+2 Survey only NA NA NA
+3 37.3 40 R 2
+4 13.25 4 NR 8
+5 6.4 8 NR 0
+6 23.25 8 NR 10
+7 38.05 31 R 67
+8 41.15 3 NR 31
+9 26.85 52 R 48
+10 1:2 ND1 NA ND1
+a 30.5 65 R 47
+12 1.7 ND2 NA ND2
+13 3.55 ie) NR 10
+14 Survey only NA NA NA
+15 16.8 dg R 20
+16 13.5 13 R 7
+17 <0.5 ND1 NA ND1
+18 12.7 18 R 1
+19 Survey only NA NA NA
+20 34.05 1 NR 0
+21 37 12 R 75
+22 5.5 ND2 NA ND2
+23 11 ND2 NA ND2
+24 122: ND2 NA ND2
+25 V2 0 NR 0
+26 2.3 ND1 NA ND1
+27 0.7 ND1 NA ND1
+28 19.45 1 NR 20
+29 13.25 61 R 68
+30 <0.5 ND1 NA ND1
+31 Survey only NA NA NA
+32 18.25 24 R 35
+33 12.05 0 NR 15
+34 28.15 0 NR 47
+35 62.45 1 NR 56
+36 13.34 58 R 22
+37 19.05 10 R 45
+38 39.95 1 NR 32
+39 26.7 27 R 59
+40 0.5 ND1 NA ND1
+41 25.6 44 R 61
+42 37.9 28 R 17
+43 49.85 ie} NR 43
+44 20.5 3 NR 32
+45 76.75 59 R 23
+46 30.25 55 R 48
+47 14.1 24 R 10
+48 2.5: ND1 NA ND1
+49 24.7 ie} NR 20
+50 7.85 64 R 56
+
+ 
+
+Abbreviations: CIU, chronic idiopathic urticaria; fMLP, N-formyl-met-leu-phe; NA, not applicable; ND1, not detectable by assay measurement;
+ND2, not detectable because of technical instrument error; NR, nonresponder; R, responder.
+
+246 ANNALS OF ALLERGY, ASTHMA & IMMUNOLOGY
+known that fMLP is an independent biological response
+and does not necessarily match the release generated by
+anti-IgE. For example, patient 3 (a CIU-R) has an f{MLPinduced response of 2%, with an anti-IgE response of 40%.
+Vonakis et al!! reported that the fMLP response from
+CIU-NR basophils is significantly reduced relative to
+CIU-R basophils.
+
+Patient Demographics
+
+A total of 50 adults were enrolled and provided complete
+surveys for analysis. Patient characteristics are given for all
+enrolled patients based on their defined basophil functional
+category or based on basopenia (Table 2). Most of the patients (74%) were female, with a mean age of 44 years. It was
+noted that 20% of all patients have a family history of hives.
+Among the basophil functional categories and basopenic patients, CIU-Rs were significantly less likely to be white and
+were more likely to have a CIU disease duration greater than
+4 years compared with CIU-NRs.
+
+Measures of Disease Burden
+
+Among the notable measures of disease burden in study
+patients with CIU was the frequent use of rescue systemic
+corticosteroids (Table 2). Nearly half of the patients reported
+using at least 1 corticosteroid course in the previous year, and
+nearly three-quarters reported corticosteroid use during the
+
+Table 2. Characteristics of Patients With CIU
+
+lifetime of their CIU disease. All the basopenic patients
+reported corticosteroid use during their CIU condition. The
+frequency of ED visits for CIU treatment trended higher in
+CIU-Rs compared with CIU-NRs in the past year (33% vs
+14%; P = .16) and during the lifetime of CIU disease (72%
+vs 43%; P = .08). Patients with basopenia also had a higher
+frequency of ED visits than CIU-NRs. More than half of the
+patients reported a work or school absence related to CIU,
+and this occurred at similar frequencies among basophil functional categories and was highest in basopenic patients. Regarding medication use, all the patients have taken antihistamines to control symptoms. Past medication use in the
+subgroups was different. The CIU-Rs predominantly used
+oral corticosteroids with antihistamines, whereas the CIUNRs predominantly used antihistamines, oral corticosteroids,
+tricyclic antidepressants, and antileukotrienes, in descending
+order. In the CIU-NR and basopenic groups, there was a
+higher reported use of leukotriene antagonists and tricyclic
+antidepressants, such as doxepin, for CIU symptoms compared with in the CIU-R group.
+
+QoL Measures
+
+The impairment of QoL was examined using Skindex-29 measures. The degree of impairment in the 3 categories of emotional, functional, and symptoms was similar between the 2
+groups based on basophil functional category (data not shown).
+
+ 
+
+ 
+
+Characteristics Total Basopenic patients Nonresponders Responders P value NR:R;
+(N = 50) (B) (n = 8) (NR) (n = 15) (R) (n = 19) B:NR; B:R
+Age, mean + SD, y 44+ 16 39.3 + 15.6 43.3 + 18.4 42.0+14.9  .41; .35; .29
+Female sex, % 74 87.5 87 63 .06; .054; .08
+White, % 68 75 87 47 01; .41; .01
+Family history of urticaria, % 20 12.5 7 17 -19; .34; .40
+CIU disease duration >4 y, % 52 87.5 47 74 .10; .20; .053
+>1 Corticosteroid taper in the past 1 y, % 53 87.5 46 44 11; .09; .007
+>1 Corticosteroid taper in CIU lifetime, % 76 100 71 77 .32; .046; .007
+>1 Visit to the ED for CIU in the past 1 y, % 28 50 14 33 16; .055; .11
+>1 Visit to the ED in CIU lifetime, % 60 75 43 72 .08; .02; .09
+>1 d of work or school absence in the past 1 59 87.5 64 53 -16; .15; .04
+y, %
+>1 d of work or school absence in CIU 70 100 71 71 .44; .006; .009
+lifetime, %
+Oral corticosteroids used for CIU, % 70 100 64 72 .21; .004; .01
+Antihistamines used for CIU, % 100 100 100 100
+Antileukotrienes used for CIU, % 22 50 36 aol .07; .24; .04
+Antidepressants used for CIU, % 44 75 57 1 .001; .35; .004
+Current wheal size/number score, mean + SD 1.13 + 1.20 2.13 + 1.36 0.86 + 0.95 1.08 + 1.27 .29; .02; .04
+Wheal size/number score during an urticarial 2:34 21:15 2.875 + 1.46 2.50 + 1.02 20072112) .10; .27; .08
+flare, mean + SD
+Itch during an urticarial flare, mean + SD 8.71 + 2.20 9.71 + 0.76 8.93 + 2.67 Bal 2231 18; .16; .007
+Wheal locations during an urticarial flare, 4.53 + 1.72 4.88 + 1.64 4.64 + 1.74 4.68 + 1.77 47; .38; .40
+mean + SD, No.
+Systemic symptoms during an urticarial flare, 1.43 + 1.53 2.5 + 1.60 1.21 + 0.97 1.47 + 1.87 .30; .03; .08
+mean + SD, No.
+Wheal duration, mean + SD 2.25 + 0.60 2.38 + 0.52 2.29 + 0.73 2.17 +£0.62 .31; .37; .19
+
+ 
+
+Abbreviations: CIU, chronic idiopathic urticaria; ED, emergency department.
+
+VOLUME 100, MARCH, 2008
+
+247
+Current Disease Activity and Basophil Characteristics
+Regarding disease activity as measured using the USS, a similar
+number of wheals at the time of assessment was noted between
+basophil functional categories and was greatest in basopenic
+patients (Table 2). Likewise, the characterization of an urticarial
+flare in terms of number of wheals, itch, number of wheal
+locations, systemic symptoms, and average individual wheal
+duration was similar among the basophil functional categories.
+Urticarial flares in basopenic patients were characterized as
+having greater itch and systemic symptoms. However, in response to a measure of instantaneous disease activity, current
+itch, we noted a significant difference between the basophil
+CIU-R and CIU-NR groups (score, 3.36 and 0.92, respectively;
+P = 02), with a difference of 2.44 (Fig 1). The higher itch score
+reported by CIU-Rs occurred despite a similar number of reported current wheals. Basopenic patients also had significantly
+higher current itch than CIU-NRs, despite a similar reported
+pattern of medication use.
+
+DISCUSSION
+
+The findings of this disease survey of patients with CIU
+support that these patients have a significant disease burden
+based on the number of ED visits, health care utilization,
+work absences, and use of systemic corticosteroids. We noted
+that a subset of patients with CIU with a basophil responder
+phenotype experienced heightened itch and increased use of
+the ED compared with patients with a nonresponder basophil
+phenotype.
+
+Previous studies have shown that patients with CIU with
+antibodies against IgE or IgE receptor have more severe disease**; however, the assays used to establish autoimmunity are
+not standardized to allow for widespread use of such biomarkers.
+We simultaneously evaluated a patient’s CIU disease severity
+
+ 
+
+ 
+
+ 
+
+10 ==
+*
+> *
+o
+28
+3 e
+re
+o6 eee e
+2 A e
+< .
+a
+ed . eco
+2 a we
+e e
+a2 . aa e
+==
+0 + Aetetedatetete eceoeee
+Basopenic CIU-NR CIU-R
+
+Figure |. Current itch severity scores. Significant differences in current
+itch exist between patients with chronic idiopathic urticaria (CIU) based on
+responder (CIU-R) and nonresponder (CIU-NR) status. Mean itch severity:
+NR, 0.92 and r = 3.36; mean difference, 2.44 (*P = .03 after controlling for
+, such as race, sex, disease duration, and family his
+ 
+
+potential confounde:
+tory). Basopenic patients also had higher itch scores (3.92) compared with
+CIU-NRs (*P < .03). Horizontal bars indicate means for each group.
+
+with measures of basophil HR. To our knowledge, this is the
+first attempt to relate CIU disease severity to the function of a
+cell implicated in the disease pathogenesis. Given the prominence of pruritus as a symptom of CIU, we compared current
+itch report at the time of the questionnaire with categories of
+basophil degranulation. In recent investigations!!!” of CIU basophils, basophil functional categories were stable across time in
+individuals with active disease. We have also seen that CIU-R
+basophils have reduced SHIP-1! protein levels, an inhibitor in the
+FceRI histamine degranulation pathway, compared with healthy
+donor basophils and CIU-NR basophils. This finding may contribute to higher HR and itch scores in CIU-Rs compared with
+CIU-NRs despite a similar number of wheals and medication
+use at survey evaluation.!! In contrast to CIU-R and healthy
+basophil donors, CIU-NR basophils have higher protein levels
+of SHIP-1 and SHIP-2, leading to reduced histamine degranulation via the IgE receptor.'! This basophil signaling abnormality
+in CIU-NR may contribute to a lower itch score. There was
+similar use of antidepressants and leukotriene antagonists by
+CIU-NRs and basopenic patients, yet CIU-NRs had much lower
+current itch scores.
+
+Newer assays using CIU serum to induce expression of basophil surface activation markers have been developed to assist
+in defining “autoimmune” CIU; however, they rely on individual donor basophils and are not currently standardized.*> Given
+the lack of disease markers in CIU and of a well-established
+assay for serologic factors, CIU basophil functional profiles are
+attractive markers for exploring different clinical subsets of CIU.
+The present data imply that patients with CIU basophil responder phenotype have features consistent with more active
+disease, such as increased ED visits and longer disease duration.
+These data also suggest that patients with significant basopenia
+experience increased disease severity, as noted by the frequent
+use of oral corticosteroids and work absences. CIU-NRs and
+basopenic patients also have an increased history of leukotriene
+antagonist and antidepressant drug use. An analysis of the indirect and direct medical costs in this same population revealed
+that most costs are related to the large number of medications
+used to control symptoms.?° We did not directly evaluate the
+socioeconomic status of these patients and the potential impact
+it may have on the medication differences noted in basophil
+groups.
+
+A limitation of this study is the ability to record basophil
+function. Of 46 blood samples, only 34 could be classified
+due to the basopenia and other technical issues. Because of
+the exclusion of patients actively receiving immunosuppressive medicines or systemic corticosteroids, we likely have
+excluded individuals with high disease severity. A larger
+sample size is required to attain significance given the large
+number of variables evaluated by the questionnaire. Although
+the survey asked about medication use, it did not evaluate the
+effectiveness of each class of medication. We have now
+amended the survey to evaluate current medication use and
+efficacy. The literature review initially revealed a specific
+CIU questionnaire, the USS, that was included as part of this
+study. However, the USS addresses the patient’s subjective
+
+248
+
+ANNALS OF ALLERGY, ASTHMA & IMMUNOLOGY
+ 
+
+symptom scores. We added several questions to evaluate the
+number of medications, onset of disease, disease duration,
+family history, and health care utilization. Skindex-29 has
+been used to evaluate urticaria in previous studies and noted
+that QoL is markedly reduced in patients with chronic urticaria. However, Skindex is a skin-specific and not a urticariaspecific QoL instrument and, thus, may not be sensitive
+enough to detect differences in urticaria populations. Since
+study initiation, Baiardini et al°’ created a health-related QoL
+(HRQoL) tool specifically designed for chronic urticaria
+(Chronic Urticaria Quality of Life Questionnaire). Staubach
+et al!> noted that social functioning and emotions were the
+areas of QoL most affected in patients with chronic urticaria.
+Grob et al?* used a French HRQoL survey and discovered that
+chronic urticaria severely impairs HRQoL at the same level
+as psoriasis or atopic dermatitis on certain dimensions. Overall, patients with CIU have a significant disease burden
+independent of their basophil phenotype. However, the CIU
+basophil responder group has features consistent with a more
+severe disease based on ED use and increased current itch
+scores that may be related to shifts in the FceRI pathway to
+histamine degranulation in their basophils. The implications
+of the existence of CIU subsets are to improve the selection
+of effective medication classes and patient information regarding the impact of the disease on their QoL.
+
+REFERENCES
+
+1. Greaves M. Chronic urticaria. J Allergy Clin Immunol. 2000;105:
+664-672.
+
+2. Zuberbier T. Urticaria. Allergy. 2003;58:1224-1234.
+
+3. Kaplan AP, Horakova Z, Katz SI. Assessment of tissue fluid histamine
+levels in patients with urticaria. J Allergy Clin Immunol. 1978;61:
+350-354.
+
+4. Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin
+Immunol. 2003;3:363-368.
+
+5. Kaplan AP. Chronic urticaria: pathogenesis and treatment. J Allergy Clin
+Immunol. 2004;114:465-474, quiz 475.
+
+6. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in chronic urticaria. J Allergy Clin Immunol. 2001;107:
+1056-1062.
+
+7. Sabroe RA, Fiebiger E, Francis DM, et al. Classification of anti-FceRIa
+and anti-IgE autoantibodies in chronic idiopathic urticaria and correlation with disease severity. J Allergy Clin Immunol. 2002;110:492-499.
+
+8. Sheikh J. Autoantibodies to the high-affinity IgE receptor in chronic
+urticaria: how important are they? Curr Opin Allergy Clin Immunol.
+2005;5:403—407.
+
+9. Sabroe RA, Francis DM, Barr RM, Black AK, Greaves MW. Anti-FceRI
+auto antibodies and basophil histamine releasability in chronic idiopathic
+urticaria. J Allergy Clin Immunol. 1998;102:651-658.
+
+10. Kern F, Lichtenstein LM. Defective histamine release in chronic urticaria. J Clin Invest. 1976;57:1369-1377.
+
+11. Vonakis BM, Vasagar K, Gibbons SP Jr, et al. Basophil FeeRIa histamine release parallels expression of Src-homology 2-containing inositol
+
+12.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+28.
+
+26.
+
+27.
+
+28.
+
+phosphatases in chronic idiopathic urticaria. J Allergy Clin Immunol.
+2007;119:441-448.
+
+Gober LM, Sterba PM, Baker R, Vasagar K, Vonakis BM, Saini SS.
+Longitudinal examination of basophil functional phenotypes and disease
+activity in chronic idiopathic urticaria. J Allergy Clin Immunol. 2007;
+119:S312.
+
+. Grob JJ, Gaudy-Marqueste C. Urticaria and quality of life. Clin Rev
+
+Allergy Immunol. 2006;30:47-51.
+
+. O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The
+
+impact of chronic urticaria on the quality of life. Br J Dermatol.
+1997;136:197-201.
+
+. Staubach P, Eckhardt-Henn A, Dechene M, et al. Quality of life in
+
+patients with chronic urticaria is differentially impaired and determined
+by psychiatric comorbidity. Br J Dermatol. 2006;154:294-298.
+
+. Marsland AM, Soundararajan S, Joseph K, Kaplan AP. Effects of
+
+calcineurin inhibitors on an in vitro assay for chronic urticaria. Clin Exp
+Allergy. 2005;35:554-559.
+
+. Saini SS, Richardson JJ, Wofsy C, Lavens-Phillips S, Bochner BS,
+
+Macglashan DW Jr. Expression and modulation of FeeRIa and FceRIB
+in human blood basophils. J Allergy Clin Immunol. 2001;107:832-841.
+
+. Chren MM, Lasek RJ, Sahay AP, Sands LP. Measurement properties of
+
+Skindex-16. J Cutan Med Surg. 2001;5:105—110.
+
+. Greaves MW. Antihistamine treatment. BMJ (Clin Res Ed). 1981;283:
+
+1435-1436.
+
+O’Donnell BF, Barr RM, Black AK, et al. Intravenous immunoglobulin
+in autoimmune chronic urticaria. Br J Dermatol. 1998;138:101—106.
+Monroe E, Finn A, Patel P, Guerrero R, Ratner P, Bernstein D. Efficacy
+and safety of desloratadine 5 mg once daily in the treatment of chronic
+idiopathic urticaria. J Am Acad Dermatol. 2003;48:535-541.
+
+Di Lorenzo G, Pacor ML, Mansueto P, Esposito Pellitteri M, Lo Bianco
+C, Ditta V, Martinelli N, Rini GB. Randomized placebo-controlled trial
+comparing desloratadine and montelukast in monotherapy and desloratadine plus montelukast in combined therapy for chronic idiopathic
+urticaria. J Allergy Clin Immunol. 2004;114:619-625.
+
+Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves MW.
+Chronic idiopathic urticaria. J Am Acad Dermatol. 1999;40:443—450.
+Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in
+chronic ordinary urticaria and healthy controls. Clin Exp Allergy. 2003;33:
+337-341.
+
+Yasnowsky KM, Dreskin SC, Efaw B, et al. Chronic urticaria sera
+increase basophil CD203c expression. J Allergy Clin Immunol. 2006;
+117:1430-1434.
+
+Delong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual direct and
+indirect costs of chronic idiopathic urticaria. Arch Dermatol. In press.
+Baiardini I, Pasquali M, Braido F, et al. A new tool to evaluate the
+impact of chronic urticaria on quality of life. Allergy. 2005;60:
+1073-1078.
+
+Grob JJ, Revuz J, Ortonne JP, Auquier P, Lorette G. Comparative study of
+the impact of chronic urticaria, psoriasis and atopic dermatitis on the quality
+of life. Br J Dermatol. 2005;152:289-295.
+
+ 
+
+Requests for reprints should be addressed to:
+Sarbjit S. Saini, MD
+
+Johns Hopkins Asthma and Allergy Center
+5501 Hopkins Bayview Cir
+
+Baltimore, MD 21224
+
+E-mail: ssaini@jhmi.edu
+
+VOLUME 100, MARCH, 2008
+
+249
+

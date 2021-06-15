@@ -1,0 +1,1093 @@
+Current perspectives
+
+The role of eosinophils in chronic spontaneous
+
+urticaria
+
+@®) Check for updates
+
+ 
+
+ 
+
+Sabine Altrichter, MD,?* Stefan Frischbutter, PhD,?* Jie Shen Fok, MD,*** Pavel Kolkhir, MD,2"4*
+Qinggqing Jiao, PhD,*** Per Stahl Skov, MD,"2" Martin Metz, MD,? Martin K. Church, PhD, DSc,” and Marcus Maurer, MD?
+
+Berlin, Germany, Melbourne, Australia, Moscow, Russia, Suzhou, China, and Odense and Copenhagen, Denmark
+
+Chronic spontaneous urticaria (CSU) is considered to be
+primarily a mast cell-driven disease. However, recent evidence
+suggests that eosinophils may also have an axial role in
+symptomology. Histologic studies have demonstrated the
+presence of both eosinophils and eosinophil granules, indicative
+of activation, in CSU lesions. Although many allergic and
+inflammatory conditions are associated with a peripheral blood
+eosinophilia, the converse appears to be the case in CSU, with a
+peripheral blood eosinopenia being observed in many patients.
+Possible mechanisms include the depletion of blood eosinophils
+by recruitment into the skin during active disease and
+immunologic destruction in the blood. We also address in some
+detail the interactions between eosinophils and mast cells,
+particularly the cytokine cross-talk of these cells and mediator
+release possibly leading to clinical symptoms. Also, activation by
+eosinophil proteins of the coagulation pathway leads to the
+generation of thrombin and increased mast cell degranulation.
+Finally, treatments aimed at reducing eosinophil accumulation
+
+From “the Dermatological Allergology, Allergie-Centrum-Charité, Department of
+Dermatology and Allergy, Charité-Universititsmedizin Berlin, corporate member of
+Freie Universitit Berlin, Humboldt-Universitat zu Berlin, and Berlin Institute of
+Health, Berlin; "Department of Respiratory Medicine, Box Hill Hospital, Melbourne;
+°Faculty of Medicine, Nursing and Health Sciences, Monash University, Melbourne;
+41M. Sechenov First Moscow State Medical University (Sechenov University), Division of Immune-Mediated Skin Diseases, Moscow; ‘Department of Dermatology, The
+First Affiliated Hospital of Soochow University, Suzhou; ‘Dermatological Department,
+University Hospital of Southern Denmark, Odense; 8RefLab ApS, Copenhagen; and
+‘Institute of Immunology, National University of Copenhagen, Copenhagen.
+
+*These authors contributed equally to this work as first authors.
+
+P. Kolkhir was supported by a GA7LEN fellowship. This project benefitted from the support of the GA7LEN network of Urticaria Centers of Reference and Excellence (www.
+ga2len-ucare.com) and the Russian Academic Excellence Project 5-100.
+
+Disclosure of potential conflict of interest: S. Altrichter is or was recently a speaker and/
+or advisor for and/or has received research funding from Allakos, AstraZeneca, Moxie,
+and Sanofi, P. Kolkhir is or was recently a speaker for Novartis and Roche. M. Maurer
+is or was recently a speaker and/or advisor for and/or has received research funding
+from Allakos, Aralez, AstraZeneca, FAES, Genentech, Menarini, Novartis, Leo
+Pharma, Lilly, Moxie, MSD, Roche, Sanofi, UCB, and Uriach. M. Church has been a
+speaker or consultant for Almirall, FAES Pharma, Menarini, Moxie, MSD, Novartis,
+UCB Pharma, Sanofi-Aventis, and Uriach. The rest of the authors declare that they
+have no relevant conflicts of interest.
+
+Received for publication November 14, 2019; revised February 26, 2020; accepted for
+publication March 2, 2020.
+
+Available online March 26, 2020.
+
+Corresponding author: Marcus Maurer, MD, Allergie-Centrum-Charité, Department of
+Dermatology and Allergy, Charité-Universititsmedizin Berlin, Charitéplatz 1,
+D-10117 Berlin, Germany. E-mail: marcus.maurer@charite.de.
+
+® The CrossMark symbol notifies online readers when updates have been made to the
+
+article such as errata or minor corrections
+
+0091-6749/$36.00
+
+© 2020 American Academy of Allergy, Asthma & Immunology
+
+https://doi.org/10.1016/j,jaci.2020.03.005
+
+ 
+
+1510
+
+and activation, such as the anti-IL-5 antibodies mepolizumab,
+reslizumab, and benralizumab, have been reported to reduce
+CSU symptoms. Clearly, a new picture of an important role of
+eosinophils in the pathogenesis of CSU is emerging. (J Allergy
+Clin Immunol 2020;145:1510-6.)
+
+Key words: Urticaria chronic spontaneous urticaria, mast cell,
+eosinophil
+
+Eosinophils and mast cells, both cells of the innate immune
+system, have bidirectional communication pathways and important synergistic immunologic functions.’ In parasitic infections,
+the mast cell and the eosinophil act in tandem to eliminate the
+parasite. The initial response is IgE-dependent activation of
+mast cells to induce vasodilatation, itching, and mucus secretion
+in mucous membranes. In addition, mast cell cytokines stimulate
+a Ty2 inflammation,” resulting in the recruitment of eosinophils.** The role of the eosinophil, which is essentially a secondary effector cell, is to kill parasitic worms, particularly in larval
+stages, by secretion of their cytotoxic proteins, major basic protein (MBP), eosinophil cationic protein (ECP), and the less toxic
+eosinophil-derived neurotoxin (EDN ta
+
+Allergy (of the immediate type) can essentially be considered
+an inappropriate parasite-killing response whereby the immune
+system recognizes common allergens, such as grass and tree
+pollens, house dust mites, and peanuts as though they are
+parasites.’ Again, IgE-dependent mast cell activation is the
+primary stimulus. In allergic rhinitis, for example, mast cell
+histamine causes vasodilatation, rhinorrhea, itching, and
+sneezing. The release of mast cell cytokines stimulates a Ty2
+response with the influx of eosinophils whose cytotoxic proteins
+cause sustained allergic inflammation and exacerbate nasal
+congestion.°”
+
+Now let us consider chronic spontaneous urticaria (CSU), a
+mast cell—driven skin disease characterized by the recurrence of
+transient wheals, angioedema, or both for more than 6 weeks.*
+Mast cell degranulation induced via the high-affinity IgE receptor
+(FceRI) is considered one of the most frequent initiating factors in
+CSU. This is evidenced by the effectiveness of omalizumab
+(anti-IgE) in reducing the symptoms of the disease.'° In CSU,
+FceRI-dependent mast cell degranulation may occur in either of
+2 ways, as shown in Fig |. The first is type 1 autoallergy, in which
+a patient’s IgE is directed to autoallergens, such as thyroid peroxidase'' and IL-24.'>'* The second is type 2 autoimmunity, in
+which IgG-autoantibodies to IgE or FceRI initiate mast cell activation.'"!” Mast cell cytokines could initiate a local late-phase
+response that would be expected to result in eosinophil infiltration
+and activation, as in the response to parasites and allergy.
+J ALLERGY CLIN IMMUNOL
+VOLUME 145, NUMBER 6
+
+Abbreviations used
+
+CCLI1: Eotaxin-1
+
+CCL24: Eotaxin-2
+CLC: Charcot-Leyden crystal protein
+CSU: Chronic spontaneous urticaria
+ECP: Eosinophil cationic protein
+EDN: Eosinophil-derived neurotoxin
+
+EPO: Eosinophil peroxidase
+
+MBP: Major basic protein
+MCP3: Monocyte chemotactic protein-3
+
+PAF: Platelet-activating factor
+
+PAR: Protease-activated receptor
+Siglec: Sialic acid-binding immunoglobulin-like lectin
+VEGF: Vascular endothelial growth factor
+
+THE BIOLOGY AND FUNCTION OF EOSINOPHILS
+
+Eosinophils are circulating innate immune cells representing
+1% to 3 % of the white blood cells. They originate from
+multipotent hematopoietic stem cells in the bone marrow.'°
+When eosinophils are terminally differentiated, the presence of
+IL-5 is crucial for entering the blood stream,'”'* where they
+persist in the circulation for 8 to 12 hours without proliferation.
+Chemokines, especially eotaxin-1 (CCLI1), eotaxin-2
+(CCL24), monocyte chemotactic protein-3 (MCP3), and
+RANTES, which bind to the 8-chemokine receptor CCR3 on eosinophils, have been shown to be responsible for eosinophil
+recruitment to sites of allergic inflammation in the airways, '”°°
+skin, and other tissues. Once migrated to tissues, eosinophils
+are able to survive for additional 8 to 12 days in the absence of
+stimulation.”'
+
+Besides contributing to (immune) homeostasis, eosinophils are
+commonly known for their role as effector cells in allergies
+(especially in asthma and allergic rhinitis), fueling chronic
+inflammation and tissue destruction. Together with mast cells,
+they represent the key effector cells in allergic inflammation, thus
+being termed the allergic effector unit.° Furthermore, they
+contribute to autoimmune disorders (eg, bullous pemphigoid, inflammatory bowel disease, eosinophilic granulomatosis with polyangiitis, eosinophilic myocarditis, neuromyelitis optica, primary
+biliary cirrhosis),”> cardiovascular diseases, and cancer.”! In patients with CSU, eosinophils are abundant along with mast cells
+at sites of skin lesions, and they are also present in nonlesional
+skin.”
+
+Here, we review the evidence that supports a contribution of
+eosinophils to the pathogenesis of CSU, their role as a biomarker,
+and their value as a target of treatment of patients with CSU.
+
+WHAT IS THE EVIDENCE FOR EOSINOPHIL
+INVOLVEMENT IN CSU?
+
+The presence of eosinophil infiltration in urticarial skin lesions
+of patients with CSU was demonstrated as early as in the 1980s by
+Grattan et al in patients with CSU who were injected with
+autologous sera.”° Subsequent studies have confirmed eosinophil
+infiltration in CSU lesions,’ together with lymphocytes,* and
+small numbers of other cells, such as neutrophils and basophils.°°*"*? Interestingly, eosinophils and microvascular changes
+persist in uninvolved skin, which together with increased mast
+cell numbers, suggests that nonlesional skin is primed for further
+whealing.”” Furthermore, reports of mononuclear cell and
+
+ 
+
+ALTRICHTER ET AL 1511
+
+eosinophil perivascular infiltration into the areas of wheals have
+also been reported in some forms of chronic inducible urticaria
+(eg, delayed pressure urticaria and solar urticaria).*°****
+
+Immunocytochemical studies using eosinophil granular
+proteins, particularly MBP, have explored eosinophil degranulation in chronic urticaria. In an initial study, Peters et al”
+demonstrated the occurrence of eosinophil degranulation in
+lesional biopsy specimens from 12 of 28 patients with
+chronic urticaria. Subsequent studies have reported large
+numbers of extracellular eosinophil granules in the vicinity
+of disrupted eosinophils in long-duration wheals (defined
+as lasting >24 hours) compared with in  short-duration
+wheals.”’*°
+
+HOW ARE EOSINOPHILS RECRUITED INTO THE
+SKIN?
+
+Recruitment of eosinophils to sites of allergic inflammation in
+the skin and other tissues is driven by IL-5, which is essential
+for the expansion and mobilization of eosinophils from the bone
+marrow,’! as well as by chemotactic chemokines, especially
+eotaxin-1 and eotaxin-2, MCP3, and RANTES. These chemokines bind to the B-chemokine receptor CCR3 on eosinophils,
+which drives the eosinophil recruitment to sites of allergic
+inflammation in the airways.’ There are essentially 2 critical
+steps involved in eosinophil recruitment, beginning with eosinophil adhesion to endothelial cells with the aid of the adhesion
+molecules 81 integrin and £2 integrin, as well as selectins expressed’” on the surface of endothelial cells. After the process
+of adhesion is complete, migration of eosinophils into tissues
+takes place under the influence of the aforementioned chemotactic factors** (Fig 1).
+
+Recruitment of eosinophils to sites of allergic inflammation
+usually involves IL-5—producing Ty2 cells,** as well as tissue—
+resident type 2 innate lymphoid cells constitutively expressing
+IL-5 and thereby supporting their homeostasis under steadystate conditions.” As these cells have not as yet been
+described as being pathophysiologically involved in CSU, their
+role in eosinophil recruitment in CSU remains elusive. Other
+cells that are capable of eosinophil recruitment are dermal fibroblasts, which have been identified as an important source
+of eotaxin on stimulation with TNF-a and IL-4."° In addition,
+basophils are involved in eosinophil recruitment, as shown in a
+model of IgE-dependent skin inflammation in which IgE—
+activated basophils produced IL-4 on interaction with endothelial cells. In turn, IL-4 promotes the upregulation of vascular
+cell adhesion molecule | on the vascular endothelium, which
+is necessary for eosinophil entry.*’ Interestingly, dupilumab,
+a mAb against IL-4 and IL-13 receptors, was effective in
+CSU in an early study.** Additionally, IgE-activated basophils
+expressing FceRI have been demonstrated to play an active
+role in eosinophil recruitment through the secretion of IL-4/
+IL-13, which leads to STAT6-dependent expression of
+CCL24 from endothelial cells and extravasation of eosinophils
+into the tissues.“
+
+Mast cells are a source of various mediators. They have been
+shown to release IL-5 and eotaxins and could thereby directly
+mobilize and recruit eosinophils into the skin”? Furthermore,
+they can stimulate dermal fibroblasts via TNF-a! or activate
+and recruit basophils via IL-3,’ and they could thereby also
+be indirectly involved in eosinophil recruitment. In CSU, these
+1512 ALTRICHTER ET AL
+
+   
+
+ 
+
+J ALLERGY CLIN IMMUNOL
+JUNE 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dermal
+fibroblast
+Auto-allergic =~
+CSU Basophil
+Autoantigen
+e eo,
+7 @
+IgG-anti- Lymphocyte 5
+IgE =< Eotaxins
+a
+IgG-anti- a Ss
+sere ng = IL-4, IL-13
+____ Autto- .__, Mast cell N
+immunological IL-5
+CSU .
+Eotaxins
+MCP3 a =e
+RANTES Endothelial cells
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eosinophil
+
+FIG 1. Mechanisms of eosinophil recruitment into the skin in CSU. CCL, C-C motif chemokine ligand; MCP,
+
+mast cell protease.
+
+mechanisms have not been proved as of yet, but they seem
+feasible.
+
+ARE HIGHER SKIN NUMBERS OF EOSINOPHILS
+LINKED TO HIGHER EOSINOPHIL COUNTS IN THE
+BLOOD OF PATIENTS WITH CSU?
+
+In many diseases such as allergic, infectious, inflammatory, and
+neoplastic disorders, tissue eosinophilia had been associated with
+peripheral blood eosinophilia (2450-550 eosinophils per pL).
+In CSU, however, the converse appears to be the case. Eosinopenia (ie, low absolute eosinophil counts in the blood) was first
+described in an individual patient with CSU in 1981.°° In the
+ensuing years, eosinopenia has been reported in further individual
+case reports of patients presenting with urticaria.”°’’* Recently,
+we identified eosinopenia to be present in about 10% of patients
+with CSU (n = 129 in a cohort of 1259 patients with CSU).
+For the definition of eosinopenia/low blood eosinophil counts,
+we used a cutoff of less than 0.05 X 10°/L (50 eosinophils per
+wL) because it was frequently used in the literature.°°! The
+rate of eosinopenia was considerably higher in comparison with
+that in the general population, in which when the same cutoff of
+50 eosinophils per L was used, eosinopenia was found to be present in about 5% of the general population in the United Kingdom
+(44,112 of 775,231 individuals).°! In our population, 3% of patients with CSU had a complete absence of eosinophils in the
+blood and 81% patients with eosinopenia also had basopenia,””
+which is a well-known clinical feature of high disease activity
+and serum autoreactivity.°”
+
+ 
+
+HOW DOES EOSINOPENIA DEVELOP IN CSU?
+Currently, the mechanisms leading to eosinopenia in CSU are
+unknown. There are, however, several hypothetical mechanisms
+that have been described.
+First, blood eosinophils may be depleted from the blood by
+being recruited to the skin during active disease. This is
+
+supported by findings of significantly higher numbers of
+eosinophils and basophils in lesional than in nonlesional skin
+of patients with CSU and significantly more eosinophils in
+nonlesional skin from patients with CSU than in nonlesional
+skin from healthy control subjects.°°°’"°"!'°? Fujisawa et al
+also observed eosinophil infiltration in urticarial lesions in 7
+of 9 severely affected Patients with CSU but not in the skin
+from normal subjects.”
+
+Second, eosinophils may be immunologically destroyed in the
+blood of patients with CSU. This hypothesis is supported by the
+fact that some patients with CSU can have low eosinophil levels in
+both blood and skin. For example, in a 71-year-old woman with
+chronic urticaria and vitiligo, a lack of eosinophils, basophils, and
+IgE was seen in her blood, bone-marrow, and skin.* This phenomenon may be explained by autoimmune antieosinophil and/
+or antibasophil serum activity. In another patient with CSU, complete eosinopenia and basopenia were detected along with IgE
+and IgG, anti-IgA antibodies, circulating immune complexes,
+and IgA deficiency.’’ Interestingly, a complement-dependent
+IgG-related activity was observed in the serum of a patient with
+urticaria and complete eosinopenia. This patient’s serum cytotoxically degranulated human eosinophils in vitro without
+affecting neutrophils. How common this is is currently unclear,
+and further studies are needed to confirm this observation and
+characterize the prevalence and relevance of eosinophilactivating serum factors in CSU. In in vivo experiments, the
+same serum was able to suppress eosinophil counts in monkeys
+for up to 12 hours.*° In another study, all eosinophils and basophils of patients with atopic dermatitis and healthy subjects
+were degranulated and then destroyed after their blood was mixed
+with the plasma from a patient with eosinopenia, basopenia, alopecia, hemolytic anemia, IgA deficiency, and a very low total IgE
+level.°°
+
+Third, it is known that immunosuppressive therapy (eg,
+corticosteroids and cyclosporine) can lead to eosinophil depletion.°° In some cases of CSU, a complete blood count may have
+been performed during or shortly after such treatment with
+
+ 
+
+ 
+J ALLERGY CLIN IMMUNOL
+VOLUME 145, NUMBER 6
+
+immunosuppressive drugs, resulting in an iatrogenically induced
+low cell number.
+
+Finally, eosinopenia may be associated not with CSU but with
+comorbid diseases described in CSU. For example, IgA deficiency, which has been described in some patients with CSU, has
+also been associated with eosinopenia.”*°’
+
+MAST CELL-EOSINOPHIL INTERACTIONS
+
+Eosinophils are able to establish physical contact with mast
+cells via its surface receptors sialic acid—binding
+immunoglobulin-like lectin 7 and sialic acid—binding
+immunoglobulin-like lectin 8 (Siglec-7 and Siglec-8),°°”
+CD300a, CD48, CD244/2B4, or Nectin2/CD112.”° Additionally,
+eosinophils express a variety of surface receptors to bind secreted
+mediators (ie, protease-activated receptor 2 [PAR2], ST2, chemokine receptor homologous molecule expressed on Ty 2 [CRTH2],
+TNF-aR, IL-5R, GM-CSF-R, IL-4R, CCRR3, histamine receptors [H1-H4], and sphingosine-1-phosphate [S1P] receptors).”°
+Thus, various mediators released by mast cells or through an
+interaction of mast cells with other cells (eg, eotaxin, IL-5,
+GM-CSF, histamine, PGD2, and platelet-activating factor
+[PAF]) can lead to eosinophil recruitment into the skin.°° Consequently, activation of infiltrating eosinophils by, for example, IL5, GM-CSF, or PAF may provoke the persistent activation of mast
+cells by secreted eosinophil granule proteins such as major basic
+protein-1 (MBP1) and major basic protein-2 (MBP2), eosinophil
+peroxidase (EPO), the ribonuclease A superfamily members ECP
+and eosinophil-derived neurotoxin, and the acidic CharcotLeyden crystal protein (CLC [or galectin-10]). Because of their
+biochemical properties, these hydrophobic and cationic proteins
+are not only highly toxic to parasites and bacteria, but they can
+also activate neutrophils and platelets, and they stimulate histamine release from basophils and mast cells.°°7!? In addition,
+eosinophil granule proteins are able to persist in the skin for up
+to several weeks. In Hartley guinea pigs, skin-injected ECP,
+EDN, and EPO persisted for 1 to 2 weeks, whereas MBP was still
+detectable after 6 weeks. * This could maintain the persistent state
+of inflammation in long-duration wheals (the late-phase reaction).
+For example, activation of the low-affinity IgE receptor FceRII/
+CD23 on eosinophils by IgG—anti-FceRII/CD23 leads to secretion of MBP by eosinophils, with consequent histamine release
+from basophils.”' Alternatively, activation of the coagulation
+cascade by tissue factor produced by eosinophils may lead to generation of thrombin.” Thrombin can induce mast cell degranulation”® via action on PARs and may activate C5, generating C5a.”’
+C5a may be responsible for the augmented histamine release after
+crosslinking of IgE receptor by IgG—anti-FceRI (autoimmunity
+type IIb). Specific IgE against tissue factor,’* IL-24,'* and other
+autoallergens can mediate the release of mediators by peripheral
+basophils and/or mast cells (autoimmunity type I). Finally, MBP
+and EPO can induce degranulation of human skin mast cells
+through nonimmunologic activation of MAS-related G protein—
+coupled receptor X2 (MRGPRX2).”*
+
+EOSINOPHIL FUNCTION AND CHRONIC URTICARIA
+
+Cellular activation of eosinophils occurs during inflammatory
+responses and is mainly mediated by GM-CSF, IL-5, IL-3, and IL13, leading to degranulation and consequent mediator production.
+Extracellular release of cytotoxic cationic proteins following
+
+ALTRICHTER ET AL 1513
+
+% MRGPRX2
+@ c-kit
+: Tissue
+Thrombin <———————— Factor. G PAR1&2
+
+|
+
+  
+   
+
+VEGF | LTC,
+PGE, | LTD,
+PGE, | LTE,
+
+e
+
+Histamine
+Urticaria
+
+Symptoms
+
+FIG 2. Schematic model of the interaction of eosinophils with mast cells in
+CSU. LTC, Leukotriene Cy; LTD,, leukotriene D,; LTE,, leukotriene E,;
+MRGPRX2, MAS-related G protein-coupled receptor X2; PGE;, prostaglandin E,; PGE, prostaglandin Ez; SCF, stem cell factor.
+
+degranulation may contribute to the pathogenesis of urticaria by
+activation of skin mast cells.** Additionally, it has been observed
+that patients with CSU have increased levels of vascular endothelial growth factor (VEGF), a very potent regulator of angiogenesis
+as well as a major mediator in vascular permeability. VEGF was
+found to colocalize with ECP, supporting eosinophils being the
+main cellular source of VEGF in chronic urticaria lesional skin.””
+
+Eosinophils may enhance chronic urticaria in 3 ways (Fig 2).
+First, eosinophil-derived stem cell factor promotes the recruitment and local maturation of mast cells in the tissues.”*""°""! Second, eosinophil proteins, such as MBP, ECP, and EPO, can
+provoke mast cell degranulation.°"'’"***° Third, activated eosinophils also express tissue factor, the main initiator of the coagulation cascade leading to thrombin formation." 8* Thrombin in
+turn, as demonstrated in experimental models, may directly activate mast cells by interaction with the PARs PARI and PAR2.*”
+Not only may eosinophil infiltration contribute to tissue edema
+of lesional skin in CSU,”°?’"°*? but the increased persistence
+of eosinophils in nonlesional skin and the deposition of their
+granule proteins, together with increased mast cells, could prime
+the skin for further whealing.”>
+
+  
+
+WHAT IS THE CLINICAL RELEVANCE OF
+EOSINOPENIA IN CSU?
+
+The clinical relevance of eosinopenia in CSU is, as yet, unclear.
+However, correlation of eosinopenia with clinical parameters in
+patients with CSU has revealed that eosinopenia is linked to
+higher disease activity and a poor response to treatment.”
+Furthermore, overall lower blood eosinophil numbers were identified in patients with evidence of type IIb autoimmune CSU (eg,
+patients with CSU with a positive autologous serum skin test
+result, a positive basophil histamine release assay result, or high
+levels of IgG—anti-thyroid peroxidase). Most importantly, eosinopenia in CSU was significantly associated with a failure to
+respond to the guideline-recommended treatment with both
+1514 ALTRICHTER ET AL
+
+second-generation antihistamines and omalizumab. Here, the
+combination of eosinopenia and basopenia better predicted
+nonresponse to second-generation antihistamines than did eosinopenia alone (odds ratio of 9.5 vs 4.8).
+
+EOSINOPHIL-TARGETED TREATMENT CAN
+BENEFIT PATIENTS WITH CHRONIC URTICARIA
+INCLUDING CSU
+
+Mast cell-targeted therapies, such as H,-antihistamines and
+anti-IgE (omalizumab), in the treatment of CSU are now well established.*'°°°"! But can eosinophil-targeted treatments be of
+benefit? The first indication that they could was seen in our clinic
+in Berlin in 2017 when a woman with severe asthma was prescribed mepolizumab, a humanized mAb directed against IL5.” In addition to her asthma, this patient had longstanding and
+recalcitrant CSU. From the day after initiation of treatment with
+mepolizumab, the patient noted a dramatic and sustained
+improvement of her urticarial symptoms.”* By 4 weeks, her urticaria was well controlled, and by 8 weeks she was symptom-free.
+Following discontinuation of mepolizumab, the signs and symptoms of CSU recurred, indicating that mepolizumab controlled
+symptoms rather than curing the condition. Later the same year,
+another woman with CSU, cold urticaria, and severe nonallergic
+refractory eosinophilic asthma was treated with an anti-IL-5 antibody. This time, the antibody was reslizumab.”' Immediately
+following reslizumab injection her symptoms of severe CSU
+and cold urticaria improved; she was completely symptom-free
+and remained so for the duration of reslizumab treatment. The
+third patient was an 80-year-old man with severe uncontrolled
+eosinophilic asthma for which treatment was initiated with subcutaneous benralizumab, an anti-IL-5 receptor antibody.” He also
+had symptomatic dermographism, which was controlled only
+with oral prednisolone. His dermographism was markedly
+improved after the first injection of benralizumab; the results of
+provocation tests for dermographism were negative by 3
+months. °
+
+Although the patients in the aforementioned studies ha
+concomitant asthma with systemic eosinophilia, the question of
+whether anti-IL-5 therapy would be of benefit in all patients with
+urticaria arises. To examine this issue, benralizumab an
+mepolizumab are currently under evaluation in CSU (in clinical
+trials with the identifiers NCT03183024 and NCT03494881,
+respectively).
+
+Another eosinophil-targeted drug, antolimab, a humanize:
+mAb to Siglec-8, is being evaluated in a phase Ila, open-label
+pilot study (NCT03436797) in patients with CSU, cholinergic
+urticaria, and symptomatic dermographism. Antolimab inhibits
+mast cell activity and depletes eosinophils by targeting Siglec8, an inhibitory receptor and member of the CD33-relate
+family that is expressed on mast cells, eosinophils, an
+basophils.””
+
+ 
+
+UNANSWERED QUESTIONS, STUDIES THAT
+SHOULD BE DONE, CONCLUSIONS
+
+Taken together, the data that we have presented are strong
+circumstantial evidence that eosinophils contribute to the pathogenesis of CSU, at least in a subgroup of patients.
+
+Eosinopenia is seen in a subpopulation of patients with CSU,
+and its rates are likely to be higher than in the general population.
+
+J ALLERGY CLIN IMMUNOL
+JUNE 2020
+
+In CSU, eosinopenia is linked to high disease activity, type IIb
+
+autoimmunity, and poor response to treatment.
+Many questions remain to be answered. These include, but are
+
+not limited to How are eosinophils activated in CSU? How are
+eosinophils recruited to sites of whealing? Are eosinophils also
+recruited to sites of angioedema? Do eosinophils contribute to
+mast cell activation? and Does the involvement of eosinophils
+make a difference to the course of the disease, the clinical
+features, and the response to treatment?
+
+Further studies are needed to address these and other questions,
+which may help to advance our understanding of CSU and
+
+improve its treatment.
+
+We thank Beate Schinzel for help with searching the literature and
+
+preparing this article.
+
+REFERENCES
+1. Robida PA, Puzzovio PG, Pahima H, Levi-Schaffer F, Bochner BS. Human eosinophils and mast cells: birds of a feather flock together. Immunol Rev 2018;282:
+151-67.
+
+. Hepworth MR, Danilowicz-Luebert E, Rausch S, Metz M, Klotz C, Maurer M,
+et al. Mast cells orchestrate type 2 immunity to helminths through regulation of
+tissue-derived cytokines. Proc Natl Acad Sci US A 2012;109:6644-9.
+
+. Huang L, Appleton JA. Eosinophils in helminth infection: defenders and dupes.
+Trends Parasitol 2016;32:798-807.
+
+4, Ramirez GA, Yacoub MR, Ripa M, Mannina D, Cariddi A, Saporiti N, et al. Eosinophils from physiology to disease: a comprehensive review. Biomed Res Int
+2018;2018:9095275.
+
+. Fitzsimmons CM, Falcone FH, Dunne DW. Helminth Allergens, Parasite-specific
+
+N
+
+ 
+
+w
+
+w
+
+IgE, and its protective role in human immunity. Front Immunol 2014;5:61.
+
+6. Naclerio RM, Bachert C, Baraniuk JN. Pathophysiology of nasal congestion. Int J
+Gen Med 2010;3:47-57.
+
+7, Pawankar R, Mori S, Ozu C, Kimura §, Overview on the pathomechanisms of
+
+allergic rhinitis. Asia Pac Allergy 2011;1:157-67.
+
+. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy 2018;73:1393-414.
+
+9. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: what we know and what we do not know. J Allergy
+Clin Immunol 2017;139:1772-81.e1.
+
+10. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential pharmacologic mechanisms of omalizumab in patients with chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:337-42.
+
+11, Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated
+autoallergy against thyroid peroxidase-a novel pathomechanism of chronic spontaneous urticaria? PLoS One 2011;6:¢14794.
+
+12. Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a
+common and specific autoantigen of IgE in chronic spontaneous urticaria. J Allergy
+Clin Immunol 2018;142:876-82.
+
+13, Lakin E, Church MK, Maurer M, Schmetzer O. On the lipophilic nature of autor
+ 
+
+oo
+
+eactive IgE in chronic spontaneous urticaria, Theranostics 2019;9:829-36.
+
+14, Schoepke N, Asero R, Ellrich A, Ferrer M, Gimenez-Arnau A, Grattan CEH, et al.
+Biomarkers and clinical characteristics of autoimmune chronic spontaneous urticaria (aiCSU); results of the PURIST study. Allergy 2019;74:2427-36.
+
+15. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating histamine
+releasing autoantibodies with functional properties of anti-IgE in chronic urticaria.
+Clin Exp Allergy 1991;21:695-704.
+
+16. Uhm TG, Kim BS, Chung TY. Eosinophil development, regulation of eosinophilspecific genes, and role of eosinophils in the pathogenesis of asthma. Allergy
+Asthma Immunol Res 2012;4:68-79.
+
+17. Collins PD, Marleau S, Griffiths-Johnson DA, Jose PJ, Williams TJ. Cooperation
+between interleukin-5 and the chemokine eotaxin to induce eosinophil accumulation in vivo. J Exp Med 1995;182:1169-74.
+
+18. Kopf M, Brombacher F, Hodgkin PD, Ramsay AJ, Milbourne EA, Dai WJ, et al.
+IL-5-deficient mice have a developmental defect in CD5+ B-l1 cells and lack
+
+ 
+
+eosinophilia but have normal antibody and cytotoxic T cell responses. Immunity
+1996;4:15-24.
+19. Humbles AA, Lu B, Friend DS, Okinaga S, Lora J, Al-Garawi A, et al. The murine
+CCR3 receptor regulates both the role of eosinophils and mast cells in allergen
+ 
+J ALLERGY CLIN IMMUNOL
+VOLUME 145, NUMBER 6
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+255
+
+26.
+
+QT:
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33;
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+induced airway inflammation and hyperresponsiveness. Proc Natl Acad Sci US A
+2002;99:1479-84,
+
+Dahinden CA, Geiser T, Brunner T, von Tscharner V, Caput D, Ferrara P, et al.
+Monocyte chemotactic protein 3 is a most effective basophil- and eosinophilactivating chemokine. J Exp Med 1994;179:751-6.
+
+Rothenberg ME, Owen WF Jr, Silberstein DS, Soberman RJ, Austen KF, Stevens
+RL. Eosinophils cocultured with endothelial cells have increased survival and functional properties, Science 1987;237:645-7.
+
+Minai-Fleminger Y, Levi-Schaffer F. Mast cells and eosinophils: the two key
+effector cells in allergic inflammation. Inflamm Res 2009;58:631-8
+Diny NL, Rose NR, Cihakova D. Eosinophils in autoimmune diseases, Front Immunol 2017;8:484.
+
+Galdiero MR, Varricchi G, Seaf M, Marone G, Levi-Schaffer F, Marone G. Bidirectional mast cell-eosinophil interactions in inflammatory disorders and cancer.
+Front Med (Lausanne) 2017;4:103.
+
+Kay AB, Ying S, Ardelean E, Mlynek A, Kita H, Clark P, et al, Elevations in
+vascular markers and eosinophils in chronic spontaneous urticarial weals with
+low-level persistence in uninvolved skin, Br J Dermatol 2014;171:505-11.
+Grattan CE, Wallington TB, Warin RP, Kennedy CT, Bradfield JW. A serological
+mediator in chronic idiopathic urticaria-a clinical, immunological and histological
+evaluation, Br J Dermatol 1986;114:583-90.
+
+Toyoda M, Maruyama T, Morohashi M, Bhawan J. Free eosinophil granules
+in urticaria: a correlation with the duration of wheals. Am J Dermatol 1996;18:
+49-57.
+
+Elias J, Boss E, Kaplan AP. Studies of the cellular infiltrate of chronic idiopathic
+urticaria: prominence of T-lymphocytes, monocytes, and mast cells. J Allergy
+Clin Immunol 1986;78:914-8.
+
+Saini SS. Chronic spontaneous urticaria: etiology and pathogenesis. Immunol Allergy Clin North Am 2014;34:33-52.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. THI/TH2 cytokines and inflammatory cells in skin biopsy specimens from patients with chronic idiopathic urticaria: comparison with the allergen-induced late-phase cutaneous reaction.
+J Allergy Clin Immunol 2002;109:694-700.
+
+Caproni M, Volpi W, Macchia D, Giomi B, Manfredi M, Campi P, et al. Infiltrating cells and related cytokines in lesional skin of patients with chronic idiopathic urticaria and positive autologous serum skin test. Exp Dermatol 2003;12:
+621-8.
+
+Martins CF, Morais KL, Figueroa P, Dias NF, Valente NS, Maruta CW, et al. Histopathological and clinical evaluation of chronic spontaneous urticaria patients
+with neutrophilic and non-neutrophilic cutaneous infiltrate. Allergol Int 2018;67:
+114-8,
+
+Haas N, Motel K, Czarnetzki BM. Comparative immunoreactivity of the eosinophil
+constituents MBP and ECP in different types of urticaria, Arch Dermatol Res 1995;
+287:180-5.
+
+Leiferman KM, Norris PG, Murphy GM, Hawk JL, Winkelmann RK, Evidence for
+eosinophil degranulation with deposition of granule major basic protein in solar urticaria. J Am Acad Dermatol 1989;21:75-80.
+
+Murphy GF, Austen KF, Fonferko E, Sheffer AL. Morphologically distinctive
+forms of cutaneous mast cell degranulation induced by cold and mechanical stimuli: an ultrastructural study, J Allergy Clin Immunol 1987;80:603-11.
+
+Irwin RB, Lieberman P, Friedman MM, Kaliner M, Kaplan R, Bale G, et al. Mediator release in local heat urticaria: protection with combined HI and H2 antagonists. J Allergy Clin Immunol 1985;76:35-9.
+
+Mayou SC, Kobza Black A, Eady RA, Greaves MW. Cholinergic dermographism.
+Br J Dermatol 1986;115:371-7.
+
+Mekori YA, Dobozin BS, Schocket AL, Kohler PF, Clark RA. Delayed pressure
+urticaria histologically resembles cutaneous late-phase reactions, Arch Dermatol
+1988;124:230-5.
+
+Peters MS, Schroeter AL, Kephart GM, Gleich GJ. Localization of eosinophil
+granule major basic protein in chronic urticaria. J Invest Dermatol 1983:81:39-43.
+Koh YI, Choi IS, Lee SH, Lee JB, Park CH, Hong SN. Localized heat urticaria
+associated with mast cell and eosinophil degranulation, J Allergy Clin Immunol
+2002;109:714-5.
+
+Blanchard C, Rothenberg ME. Biology of the eosinophil. Adv Immunol 2009;101:
+81-121.
+
+Cugno M, Marzano AV, Tedeschi A, Fanoni D, Venegoni L, Asero R. Expression of
+tissue factor by eosinophils in patients with chronic urticaria. Int Arch Allergy Immunol 2009;148:170-4.
+
+Staumont-Salle D, Dombrowicz D, Capron M, Delaporte E. Eosinophils and urticaria, Clin Rey Allergy Immunol 2006;30:13-8.
+
+Islam SA, Chang DS, Colvin RA, Byrne MH, McCully ML, Moser B, et al. Mouse
+CCL8, a CCR8 agonist, promotes atopic dermatitis by recruiting IL-5+ T(H)2
+cells. Nat Immunol 201 1;12:167-77.
+
+ 
+
+ 
+
+45,
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52:
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+58.
+
+59.
+
+6l.
+
+62.
+
+63.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+Ths
+
+72.
+
+723.
+
+ALTRICHTER ET AL 1515
+
+Nussbaum JC, Van Dyken SJ, von Moltke J, Cheng LE, Mohapatra A, Molofsky
+AB, et al. Type 2 innate lymphoid cells control eosinophil homeostasis. Nature
+2013;502:245-8.
+
+Miyamasu M, Nakajima T, Misaki Y, Izumi $, Tsuno N, Kasahara T, et al, Dermal
+fibroblasts represent a potent major source of human eotaxin: in vitro production
+and cytokine-mediated regulation. Cytokine 1999;11:751-8.
+
+Cheng LE, Sullivan BM, Retana LE, Allen CD, Liang HE, Locksley RM. IgE-activated basophils regulate eosinophil tissue entry by modulating endothelial function, J Exp Med 2015;212:513-24.
+
+Lee JK, Simpson RS. Dupilumab as a novel therapy for difficult to treat chronic
+spontaneous urticaria, J Allergy Clin Immunol Pract 2019;7:1659-61.e1.
+
+JU Eberle, Radtke D, Nimmerjahn F, Voehringer D. Eosinophils mediate basophildependent allergic skin inflammation in mice. J Invest Dermatol 2019;139:
+1957-65.¢2.
+
+Asero R, Cugno M, Tedeschi A. Eosinophils in chronic urticaria: supporting or
+leading actors? World Allergy Organ J 2009;2:213-7.
+
+Okayama Y, Ono Y, Nakazawa T, Church MK, Mori M. Human skin mast cells
+produce TNF-alpha by substance P. Int Arch Allergy Immunol 1998;117(Suppl
+1):48-51.
+
+Ishizuka T, Okayama Y, Kobayashi H, Mori M. Interleukin-3 production by mast
+cells from human lung, Inflammation 1999;23:25-35.
+
+Kim S, Prout M, Ramshaw H, Lopez AF, LeGros G, Min B. Cutting edge: basophils are transiently recruited into the draining lymph nodes during helminth infection via IL-3, but infection-induced Th2 immunity can develop without basophil
+lymph node recruitment or IL-3. J Immunol 2010;184:1143-7.
+
+Zellweger F, Buschor P, Hobi G, Brigger D, Dahinden CA, Villiger PM, et al. IL-3
+but not monomeric IgE regulates FeepsilonRI levels and cell survival in primary
+human basophils. Cell Death Dis 2018;9:510.
+
+Kovalszki A, Weller PF. Eosinophilia. Prim Care 2016;43:607-17.
+
+Franklin W, Goetz] EJ. Total absence of eosinophils in a patient with an allergic
+disorder. Ann Intern Med 1981;94:352-3.
+
+Freeman GL. Syndromes associated with eosinopenia. Allergy 1998;53:331-3.
+Juhlin L, Venge P. Total absence of eosinophils in a patient with chronic urticaria
+and vitiligo. Eur J Haematol 1988;40:368-70.
+
+Kolkhir P, Church MK, Altrichter S, Stahl Skoy P, Hawro T, Frischbutter S, et al.
+Eosinopenia, in chronic spontaneous urticaria, is associated with high disease activity, autoimmunity and poor response to treatment, J Allergy Clin Immunol Pract
+2020;8:318-25.e5.
+
+. _Karakonstantis S, Kalemaki D, Tzagkarakis E, Lydakis C. Pitfalls in studies of eo
+sinopenia and neutrophil-to-lymphocyte count ratio. Infect Dis (Lond) 2018;50:
+163-74.
+
+Shah AD, Denaxas S, Nicholas O, Hingorani AD, Hemingway H. Low eosinophil
+and low lymphocyte counts and the incidence of 12 cardiovascular diseases: a
+CALIBER cohort study. Open Heart 2016;3:e000477.
+
+Folci M, Heffler E, Canonica GW, Furlan R, Brunetta E. Cutting edge: biomarkers
+for chronic spontaneous urticaria. J Immunol Res 2018;2018:5615109.
+
+Spry CJ, Tai PC, Barkans J. Tissue localization of human eosinophil cationic proteins in allergic diseases. Int Arch Allergy Appl Immunol 1985;77:252-4.
+
+. Fujisawa D, Kashiwakura J-i, Kita H, Kikukawa Y, Fujitani Y, Sasaki-Sakamoto T,
+
+et al. Expression of Mas-related gene X2 on mast cells is upregulated in the skin of
+patients with severe chronic urticaria. J Allergy Clin Immun 2014;134:622-33.09.
+Juhlin L, Michaelsson G. A new syndrome characterised by absence of eosinophils
+and basophils. Lancet 1977;1:1233-5.
+
+Altman LC, Hill JS, Hairfield WM, Mullarkey MF. Effects of corticosteroids on
+eosinophil chemotaxis and adherence. J Clin Invest 1981;67:28-36.
+
+Gleich GJ, Klion AD, Lee JJ, Weller PF. The consequences of not having eosinophils. Allergy 2013;68:829-35.
+
+Munitz A, Bachelet I, Eliashar R, Moretta A, Moretta L, Levi-Schaffer F, The
+inhibitory receptor IRp60 (CD300a) suppresses the effects of IL-5, GM-CSF,
+and eotaxin on human peripheral blood eosinophils. Blood 2006;107:1996-2003.
+Floyd H, Ni J, Cornish AL, Zeng Z, Liu D, Carter KC, et al. Siglec-8. A novel
+eosinophil-specific member of the immunoglobulin superfamily. J Biol Chem
+2000;275:861-6.
+
+Gangwar RS, Landolina N, Arpinati L, Levi-Schaffer F, Mast cell and eosinophil
+surface receptors as targets for anti-allergic therapy. Pharmacol Ther 2017;170:
+37-63.
+
+Gleich GJ, Adolphson CR, Leiferman KM. The biology of the eosinophilic leukocyte. Annu Rev Med 1993;44:85-101.
+
+Acharya KR, Ackerman SJ. Eosinophil granule proteins: form and function. J Biol
+Chem 2014;289:17406-15.
+
+Davis MD, Plager DA, George TJ, Weiss EA, Gleich GJ, Leiferman KM. Interactions of eosinophil granule proteins with skin: limits of detection, persistence, and
+vasopermeabilization, J Allergy Clin Immunol 2003;112:988-94.
+
+ 
+1516 ALTRICHTER ET AL
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+Puccetti A, Bason C, Simeoni S, Millo E, Tinazzi E, Beri R, et al. In chronic idiopathic urticaria autoantibodies against Fe epsilonRI/CD23 induce histamine
+release via eosinophil activation. Clin Exp Allergy 2005;35:1599-607.
+
+Sakurai Y, Morioke S, Takeda T, Takahagi S, Hide M, Shima M. Increased
+thrombin generation potential in patients with chronic spontaneous urticaria. Allergol Int 2015:64:96-8.
+
+Razin E, Marx G. Thrombin-induced degranulation of cultured bone marrowderived mast cells. J Immunol 1984;133:3282-5.
+
+Krisinger MJ, Goebeler V, Lu Z, Meixner SC, Myles T, Pryzdial EL, et al.
+Thrombin generates previously unidentified C5 products that support the terminal
+complement activation pathway. Blood 2012;120:1717-25.
+
+Cugno M, Asero R, Ferrucci S, Lorini M, Carbonelli V, Tedeschi A, et al. Elevated
+IgE to tissue factor and thyroglobulin are abated by omalizumab in chronic spontaneous urticaria. Allergy 2018;73:2408-11.
+
+Tedeschi A, Asero R, Marzano AV, Lorini M, Fanoni D, Berti E, et al. Plasma
+levels and skin-eosinophil-expression of vascular endothelial growth factor in patients with chronic urticaria, Allergy 2009;64:1616-22.
+
+Hartman M, Piliponsky AM, Temkin V, Levi-Schaffer F, Human peripheral blood
+eosinophils express stem cell factor. Blood 2001;97:1086-91.
+
+Oliveira SH, Lukacs NW. Stem cell factor: a hemopoietic cytokine with important
+targets in asthma, Curr Drug Targets Inflamm Allergy 2003;2:313-8.
+
+Grattan CE, Winkelmann RK, Leiferman KM. Eosinophil major basic protein in
+autologous serum and saline skin tests in chronic idiopathic urticaria. Br J Dermatol 1997;136:141-2.
+
+Kay AB, Clark P, Maurer M, Ying S. Elevations in T-helper-2-initiating cytokines
+(interleukin-33, interleukin-25 and thymic stromal lymphopoietin) in lesional skin
+from chronic spontaneous (‘idiopathic’) urticaria, Br J Dermatol 2015;172:1294-302.
+Jublin L, Pihl-Lundin I. Effects of antihistamines on cutaneous reactions and influx
+of eosinophils after local injection of PAF, kallikrein, compound 48/80 and histamine in patients with chronic urticaria and healthy subjects. Acta Derm Venereol
+1992:72:197-200.
+
+Neves JS, Radke AL, Weller PF. Cysteinyl leukotrienes acting via granule
+membrane-expressed receptors elicit secretion from within cell-free human eosinophil granules, J Allergy Clin Immunol 2010;125:477-82.
+
+Oliver ET, Chichester K, Devine K, Sterba PM, Wegner C, Vonakis BM, et al.
+Effects of an oral CRTh2 antagonist (AZD1981) on eosinophil activity and
+
+  
+  
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93:
+
+94.
+
+96.
+
+97.
+
+J ALLERGY CLIN IMMUNOL
+JUNE 2020
+
+symptoms in chronic spontaneous urticaria. Int Arch Allergy Immunol 2019;179:
+21-30.
+
+Kay AB, Ying S, Ardelean E, Mlynek A, Kita H, Clark P, et al. Calcitonin generelated peptide and vascular endothelial growth factor are expressed in lesional but
+not uninvolved skin in chronic spontaneous urticaria, Clin Exp Allergy 2014:44:
+1053-60.
+
+Criado PR, Antinori LC, Maruta CW, Reis VM. Evaluation of D-dimer serum
+levels among patients with chronic urticaria, psoriasis and urticarial vasculitis.
+An Bras Dermatol 2013;88:355-60.
+
+Zhang H, Yang H, Ma W, He S. Induction of IL-13 production and upregulated
+expression of protease activated receptor-1 by RANTES in a mast cell line. Cytokine 201 1;53:231-8.
+
+Mager! M, Staubach P, Altrichter S, Ardelean E, Krause K, Metz M, et al. Effective
+treatment of therapy-resistant chronic spontaneous urticaria with omalizumab.
+J Allergy Clin Immunol 2010;126:665-6.
+
+Maurer M, Church MK, Goncalo M, Sussman G, Sanchez-Borges M. Management
+and treatment of chronic urticaria (CU). J Eur Acad Dermatol Venereol 2015;
+29(Suppl 3):16-32.
+
+Walsh GM. Mepolizumab-based therapy in asthma: an update. Curr Opin Allergy
+Clin Immunol 2015;15:392-6.
+
+Mager! M, Terhorst D, Metz M, Altrichter S, Zuberbier T, Maurer M, et al. Benefit
+of mepolizumab treatment in a patient with chronic spontaneous urticaria. J Dtsch
+Dermatol Ges 2018;16:477-8.
+
+Deeks ED, Brusselle G. Reslizumab in eosinophilic asthma: a review. Drugs 2017;
+71:777-84.
+
+. FitzGerald JM, Bleecker ER, Nair P, Korn S, Ohta K, Lommatzsch M, et al. Ben
+ralizumab, an anti-interleukin-S receptor alpha monoclonal antibody, as add-on
+treatment for patients with severe, uncontrolled, eosinophilic asthma (CALIMA):
+a randomised, double-blind, placebo-controlled phase 3 trial. Lancet 2016;388:
+2128-41.
+
+Bergmann KC, Altrichter S, Maurer M. Benefit of benralizumab treatment in a patient with chronic symptomatic dermographism. J Eur Acad Dermatol Venereol
+2019.
+
+Kiwamoto T, Kawasaki N, Paulson JC, Bochner BS. Siglec-8 as a drugable target
+to treat eosinophil and mast cell-associated conditions, Pharmacol Ther 2012;135:
+327-36.
+

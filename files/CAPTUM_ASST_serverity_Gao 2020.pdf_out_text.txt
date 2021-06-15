@@ -1,0 +1,1031 @@
+Am J Trans! Res 2020;12(8):4434-4444
+www.ajtrorg /ISSN:1943-8141/AJTRO104841
+
+Original Article
+
+Pathogenic role of circulating CD4*CXCR5*
+cell subpopulations in patients with
+
+chronic spontaneous urticarial
+
+Cuie Gao’, Wen-Chiech Chen??, Wenying Liu+, Qiquan Chen*, Shuguang Chen’, Yan Xu?, Zhiqiang Song?
+
++Department of Dermatology, Southwest Hospital, Army Medical University, Chongqing 400038, China;
+2Department of Dermatology and Allergy, Technical University of Munich, Munich, Germany; °Center for Research
+and Development, Kaohsiung Municipal Siaogang Hospital, Kaohsiung, Taiwan
+
+Received November 13, 2019; Accepted July 4, 2020; Epub August 15, 2020; Published August 30, 2020
+
+Abstract: Accumulating evidence demonstrated that circulating CD4*CXCR5", follicular helper T (Tfh) and follicular
+regulatory T (Tfr) cells maintain immune homeostasis and humoral immune response and were involved in the
+pathogenesis of certain autoimmune/inflammatory diseases. The current study was aimed to investigate the correlation between frequencies of CD4*CXCRS5*, Tfh and Tfr cells, Tfh/Tfr and the disease activity in chronic spontaneous urticaria (CSU). Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr, but not Tfr, in peripheral blood mononuclear cells
+(PBMCs) were elevated in patients with CSU as compared with healthy controls. No difference was observed in the
+frequency of these cells between different subgroups of patients based on autologous serum skin testing (ASST),
+skin prick testing (SPT) and the level of total IgE. The expression of CXCR5 in PBMCs was higher in CSU than in
+controls, both at mRNA and protein levels. Higher levels of plasma IL-4, IL-6 and total IgE were observed in CSU, with
+positive correlation between IL-4/IL-6 and total IgE. The IL-21 level was lower and negatively correlated with total
+IgE. Using receiver operating characteristic (ROC) curve, we found positive correlation between the urticaria activity
+score (UAS) and CD4*CXCR5", Tfh, Tfh/Tfr and total IgE, respectively, with area under the curves (AUCs) all greater
+than 0.7 (P < 0.05). These results indicated that frequencies of circulating CD4*CXCR5* cells, Tfh cells and Tfh/Tfr
+were abnormal and correlated positively with disease severity, suggesting the possible involvement of these cells in
+
+the immunopathogenesis of CSU.
+
+ 
+
+ 
+
+Keywords: Chronic spontaneous urticaria, CD4*CXCR5* cell, follicular helper T cell, follicular regulatory T cell, urti
+caria activity score
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a common recurrent skin disease, with a great impact on the life quality and health [1]. According to autologous serum skin test (ASST) and
+skin prick test (SPT), CSU can be divided into
+several subtypes [2-4]. A variety of factors,
+including autoreactivity, infections, genetic factors, coagulation cascade and autoimmunity,
+can contribute to the pathogenesis of CSU [1],
+but the complexity of the disease remains elusive. Recent studies suggested the association
+with IgE to autoallergens and IgG autoantibodies to IgE or its receptor [5].
+
+Follicular helper T (Tfh) cell is a subgroup of
+CD4*CXCR5* (C-X-C chemokine receptor 5)
+cells that activates germinal center formation
+
+and provides help for B cells in producing autoantibodies and their differentiation into memory cells and long-lived plasma cells [6, 7].
+Follicular regulatory T (Tfr) cells are differentiated from T regulatory (Treg) cells that inhibit
+germinal center formation and B cell development [7]. Both Tfh and Tfr cells express CXCR5,
+but differ in that Tfr cells expresse CD25 and
+FoxP3 [8]. Increase or decrease of circulating
+CD4*CXCRS5*, Tfh or Tfr cells was found to be
+associated with immune imbalance, contributing to the pathogenesis of certain diseases,
+such as atopic dermatitis [9], allergic asthma
+[10], psoriasis [11], bullous pemphigoid [12],
+systemic lupus erythematosus [13-15], primary
+sjogren’s syndrome [16], primary biliary cholangitis [17] and rthumatoid arthritis [18]. In addition, the complex cytokine signals network is
+essential for differentiation of Tfh cells and
+
+ 
+
+ 
+
+ 
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+production of autoantibodies in B cells. Tfh
+cells produce cytokines, such as IL-4, IL-6 and
+IL-21, which help the class switching of B cells.
+For example, IL-6 could regulate the number of
+Tfh cells and the production of total IgE in sensitized mice [19], while IL-4 produced from Tfh
+cells could regulate the production of IgG1 and
+IgE in allergic immune mice [20]. Since IgE and
+IgE autoantibodies have been shown their roles
+in pathognesis of CSU, it is important to explore
+the changes of CD4*CXCR5* subpopulations
+which maybe helpful to understand the class
+switching of B cells in CSU.
+
+The current study was aimed to detect frequencies of CD4*CXCR5*, Tfh and Tfr cells and the
+Tfh/Tfr ratio in peripheral blood mononuclear
+cells (PBMCs) of patients with CSU as compared to normal healthy controls (HC), regarding their correlations to the disease activity.
+The expression levels of CXCR5 in PBMCs and
+the concentrations of inflammatory cytokines
+(IL-4, IL-6 and IL-21) and total IgE in the plasma
+of studied samples were also evaluated.
+
+ 
+
+Material and methods
+Participants and blood sampling
+
+A total of 24 healthy controls (HC) and 63
+patients diagnosed with CSU, matched in sex
+and age distribution, were recruited in the current study. The study was approved by the
+Ethics Committee of Southwest Hospital, Army
+Medical University, Chongqing, with informed
+consent from all the participants. Diagnosis of
+CSU was made and the disease severity (urticaria activity score, UAS) was measured at the
+time of blood sampling according to the EAACI/
+GA?LEN/EDF/WAO guideline [1]. PBMCs were
+prepared by density gradient centrifugation
+from peripheral blood and anticoagulated with
+EDTA-K2. Plasma samples were separated and
+stored at -80°C until used for ELISA. ASST and
+SPT were performed in patients with CSU as
+previously described [2, 3]. The allergens of
+SPT included dust mites, house dust mites,
+cockroaches, mugwort pollen, fish (squid),
+shrimp, duck feather, silk, crab, egg, cow milk
+and peanut. Patients with CSU and SPT+ displaying one or more positive allergens were
+indicated as allergic sensitization.
+
+Flow cytometry
+
+For detection of Tfh and Tfr cells, human PBMCs were stained with FITC mouse anti-hu
+4435
+
+man CD4 (BD Biosciences, San Diego, CA,
+USA), CD185 (CXCR5)-APC human (Miltenyi
+Biotec, CA, USA), PE-CY™7 mouse anti-human
+CD25 (BD Biosciences), and PE mouse antihuman CD127 (BD Biosciences). Cells were
+collected with FACSCanto™ || Flow Cytometer
+(BD Biosciences). Total CD4*CXCR5* cells were
+gated by the forward/side scatter showing
+CD4/CXCR5 expression patterns. Circulating
+Tfh (CD4*CXCR5*CD25'"CD127"=) and Tfr
+(CD4*CXCR5*CD25"8"CD127'™) cells were gated based on expression levels of CD25 and
+CD127. Data were analyzed using FlowJo software (Stanford University, San Francisco, CA,
+USA).
+
+Quantitative real-time PCR (qRT-PCR)
+
+PBMCs were resuspended in RNAiso Plus
+(TaKaRa, Dalian, China) and total RNA was
+extracted according to instructions of manufacturer. For CXCR5 detection, cDNAs were
+synthesized using PrimeScript™ RT reagent Kit
+(TaKaRa). qRT-PCR was performed with TB
+Gerrn™ Premix Ex Taq™ Il (TaKaRa) on a CFX
+Connect™ Real-Time System (BIO-RAD, Singapore, USA). The reaction parameters were as
+follows: 95°C for 30 s, then 40 cycles of 95°C
+for 5s and 60°C for 45 s. The expression levels were calibrated to the B-actin control and
+determined by the 2“4*t method. The primers
+used were as follows: CXCR5 forward, 5’-CAACAACTCCCTGCCACGTT-3’ and reverse, 5’-AGGAATCCCGCCACATGGTA-3’; B-actin forward, 5’CTCTTCCAGCCTTCCTTCCT-3' and reverse, 5’AGCACTGTGTTGGCGTACAG-3’ (Sangon Biotech, Shanghai, China).
+
+Western blotting
+
+PBMCs were lysed in RIPA lysis buffer supplemented with phenylmethyl-sulfonyl fluoride
+protease inhibitor (Beyotime, Shanghai, China).
+Proteins were separated by electrophoresis in
+4-20% SurePAGE™ gel (GenScript, Nanjing,
+China) and transferred onto polyvinylidene fluoride membranes (Millipore, Billerica, MA, USA).
+The membranes were incubated with primary
+antibodys against CXCR5 (Abcam, Cambridge,
+MA) or GAPDH (Bioss, Beijing, China), and then
+washed and incubated with the secondary antibody (Abclonal, Wuhan, China). Proteins were
+detected by scanning the membranes with
+ChemiDoc™ Touch Imaging System (BIO-RAD),
+and band intensities were quantified using CFX
+Manager (BIO-RAD).
+
+Am J Transl Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+Table 1. Demographics and clinical characteristics of the
+patients with chronic spontaneous urticaria (CSU) and
+healthy controls (HC)
+
+ 
+
+HC (n= 24) CSU(n=63) p value
+
+ 
+
+Gender (male/female) 11/13 23/40 0.305
+Age (years), mean (range) 36.6 (16-59) 38.03 (13-70) 0.802
+UAS, mean (range) 4.95 (2-6) ASST positive (%) 15 (23.8%) i
+SPT positive (%) 42 (66.7%) =
+
+ 
+
+Note: CSU: chronic spontaneous urticaria; HC: healthy controls; UAS: urticaria activity score. ASST positive: positive reaction to autologous serum
+skin testing (ASST); SPT positive: positive reaction to skin prick testing
+(SPT). Significance between two groups was evaluated with a two-tailed
+Student’s t-test and indicated by p value (P < 0.05 as significant).
+
+ratio were higher in CSU patients than in HC, without significant difference observed for the frequency of Tfr
+cells (Figure 1B).
+
+Upregulation of CXCR5 expression in
+CSU
+
+A significant upregulation of CXCR5
+at the mRNA level (Figure 2A) as well
+as in the protein expression (Figure
+2B and 2C) was observed in patients
+with CSU, as compared with HC.
+
+Enzyme-linked immunosorbent assays (ELISA)
+
+Plasma levels of IL-4 (BD Biosciences), IL-6
+(R&D Systems, Minneapolis, USA), IL-21 (Biolegend, USA) and total IgE (EUROIMMUN, Beijing, China) were measured using ELISAs according to instructions of the manufacturers.
+
+Statistical analysis
+
+Results were expressed as mean + standard
+error of the mean (SEM). Two-tailed Student’s
+t-test was used to compare the two groups.
+Correlation analyses were conducted using
+Spearman's rank test. Data were recorded and
+analyzed with SPSS version 17.0 (SPSS Inc.,
+Chicago, IL, USA) and GraphPad Prism version
+5 (GraphPad Software, San Diego, CA, USA),
+and P < 0.05 was considered as statistically
+significant.
+
+Results
+
+A total of 63 patients with CSU were recruited. Among them, there were 15 ASST+ vs. 48
+ASST-, 42 SPT+ vs. 21 SPT-. The control group
+included 23 HC. Their demographic and clinical characteristics were listed in Table 1. Significant differences were not observed in gender and age between CSU patients and HC.
+
+Increase in the frequencies of circulating
+CD4*CXCR5* cells, Tfh cells and the Tfh/Tfr
+ratio in CSU
+
+The specific gating strategy to identify Tfh and
+Tfr expressing CD4*CXCR5* was shown in Figure 1A. The frequencies of circulating CD4*CXCR5* cells, Tfh cells and the calculated Tfh/Tfr
+
+4436
+
+Correlation between the plasma levels of IL-4, IL-6, 1-21 and the total IgE
+in CSU
+
+Significantly higher plasma levels of IL-4 and
+IL-6 but lower IL-21 were found in patients with
+CSU than in HC (Figure 3A). The levels of total
+IgE were significantly higher in patients with
+CSU (Figure 3A), and positively correlated with
+IL-4 and IL-6, but negatively with IL-21 (Figure
+3B).
+
+No significant difference of circulating
+CD4*CXCR5* cells, Tfh cells, Tfr cells or the
+Tfh/Tfr ratio among the different subgroups
+
+We divided CSU patients into different subgroups based on ASST, SPT or the levels of total
+IgE as before [2] to see possible differences.
+There are no significant differences in the frequencies of circulating CD4*CXCR5* cells, Tfh
+cells, Tfr cells and the Tfh/Tfr in different subgroups (Figure 4). After further division of the
+patients into four groups, ASST+/SPT+, ASST+/
+SPT-, ASST-/SPT+ and ASST-/SPT-, we still failed to identify any difference among them (data
+not shown).
+
+ 
+
+There was no significant difference in patients
+with CSU between different subgroups, regarding gender, age and the UAS (Table 2).
+
+CD4*CXCR5* cells, Tfh cells, the Tfh/Tfr ratio
+and total IgE correlated with CSU disease activity
+
+There was a positive correlation between
+CD4*CXCR5* cells, Tfh cells, the Tfh/Tfr ratio,
+total IgE and the urticaria activity (UAS), respectively. While no such correlation was observed for Tfr cells (Figure 5A). The ROC curve
+
+Am J Trans! Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+ 
+
+A as0x
+
+200K
+<¢
+© 150k
+7)
+D sox
+
+50K
+
+50K 100K 150K 200K 250K
+FSC-A
+B *
+= 0.0211
+
+_ 20 Aa
+S
+Cd
+Tt
+a
+S)
+§
+wo
+fe
+Oo
+x<
+(3)
+
+HC csu
+
+ 
+
+250K 4
+
+200K 4
+
+100K 4
+
+ 
+
+16
+
+ 
+
+SOK 100K 150K
+
+FSC-A
+
+**
+
+200K 250K
+
+p= 0.002
+|
+
+HC
+
+ 
+
+CSU
+
+Tfr (%)
+
+CXCR5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tfh / Tfr
+
+ 
+
+HC CSU
+
+Figure 1. The status of circulating CD4*CXCR5*, Tfh, Tfr and Tfh/Tfr ratio in peripheral blood mononuclear cells (PBMCs) of patients with chronic spontaneous
+urticaria (CSU). A. Gating strategy to identify circulating Tfh (CD4*CXCR5*CD25'"CD127"#") and Tfr (CD4*CXCR5*CD25"°CD127™) cells among the CD4*CXCR5* T
+cells in human peripheral blood. B. Percentage of circulating CD4*CXCR5*, Tfh and Tfr cells among PBMCs and the Tfh/Tfr in patients with CSU and healthy controls
+(HC). Each plot represented individual subject. Horizontal bars indicated the mean and error bars the SEM. Significance between two groups was evaluated with a
+
+two-tailed Student's t-test and indicated by p value (*P < 0.05, **P < 0.01, "sP > 0.05).
+
+4437
+
+Am J Transl Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+A *
+
+15 p=0.0253
+
+1.0
+
+0.5
+
+Relative expression
+of CXCRS5
+
+0.0
+
+CXCRS ===> Sa epe
+GAPDH ae eee Geet Gee ee Ged Ged ae
+
+c *KK
+
++ p< 0.0001
+x
+a
+a
+< 10
+oO
+=<
+rs
+0.5
+Oo
+x
+Oo
+0.0
+Hc csu
+
+Figure 2. Relative expression of CXCR5 mRNA and
+protein levels in peripheral blood mononuclear cells
+(PBMCs) of patients with chronic spontaneous urticaria (CSU) and healthy controls (HC). A. The CXCR5
+mRNA expression levels were determined by quantitative real-time (qRT)-PCR, with B-actin as an internal
+reference gene. B and C. The CXCR5 protein expression levels were determined by western blot, with
+GAPDH as the endogenous control. B. Representative data (n = 4) by the western blot analysis of total
+protein samples from PBMCs of CSU patients and
+HC. C. The CXCR5/GAPDH in PBMCs were calculated
+from the western blot results. Vertical bars represent
+SEM. Significance between two groups was evaluated with a two-tailed Student's t-test and indicated
+by p value (*P < 0.05, ***P < 0.001).
+
+analysis showed that area under the curve
+(AUC) of Tfr cells was 0.587, there are no statistical difference (P > 0.05). The AUCs of
+CD4*CXCR5*, Tfh, Tfh/Tfr and total IgE were
+0.704, 0.788, 0.708 and 0.900, respectively,
+with statistical significance (P < 0.05) (Figure
+5B).
+
+ 
+
+Discussion
+
+The pathogenic roles of CD4*CXCR5*, Tfh and
+Tfr cells in autoimmune and autoinflammatory
+
+4438
+
+diseases have received much attention in recent years. In children with atopic dermatitis,
+the percentages and absolute numbers of circulating Tfh-like cells (CD4*CXCR5*ICOS*PD-1")
+were increased and their production of IL-21
+cytokine positivily correlated with the disease
+severity index SCORAD [9]. In patients with sysemic lupus erythematosus, the frequencies of
+Tfh and Tfr cells as well as the Tfh/Tfr ratio in
+peripheral blood were abnormal (increased or
+decresed) and correlated with the disease acivity [13-15]. In bullous pemphigoid, the frequency of Tfh cells in peripheral blood of paients was increased and correlated with the
+production of anti-BP180-NC16A autoantibodies [12]. All these studies suggested the poential involvement of these cells in the pathogenesis of autoimmunity and disease.
+
+There are at least two distinct pathways, type |
+(IgE to autoallergens) and type II (IgG autoantibodies to IgE or its receptor) autoimmunity,
+have been proposed to contribute to the pathologic mechanisms of CSU [5]. Antibodies, which
+are produced by the associated B cells and
+helper T cells, may play an important role in the
+pathogenesis of urticaria [4, 21]. Human studies have demonstrated a central role of CXCR5
+in the migration of T and B cells into follicles,
+ormation of germinal center, production of pahogenic autoantibodies, and governing the
+ability of Tfh cells to help B cells [22-24]. Our
+study provided the primary evidence of an upregulation of CXCR5 in PBMCs and the increased CD4*CXCR5* T cells, Tfh cells and the Tfh/
+Tfr ratio in patients with CSU.
+
+ 
+
+ 
+
+ 
+
+Studies reported that the production of IgE
+was mainly derived from two pathways, extraollicular and germinal centers [25]. Early IgE
+antibody response arises from extrafollicular, whereas late IgE antibody response arises
+rom germinal centers. IgE germinal center B
+cells mainly differentiate into short-lived IgE
+plasma cells, which produce IgE of high-mutaion and mature affinity to bind antigens with
+higher affinity in the environment [25]. Most
+IgE cells are plasma cells and high affinity IgE
+is produced by the switching of IgG1 cells to
+IgE [26]. CD4*CXCR5* cells and Tfh cells were
+ound to regulate B cells to produce specific IgE
+and total IgE. In patients with asthma, the frequency of CD4*CXCR5* cells in peripheral blood
+was increased and associated with the producion of pathogenic total IgE antibody [10]. Tfh
+cells could regulate B cells to produce anti-OVA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Am J Trans! Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+    
+
+   
+
+A * KK KKK
+p= 0.0142 p< 0.0001 p< 0.0001
+—_————1 -———— i
+150 100 800
+a a = 80 > 600
+al
+£ 100 £ ~ £
+SD s
+2 2 a 60 2 400
+50 © a wu
+7% ic Y 40 D 200
+= = =
+0 20 0.
+HC CSU HC CSU
+B 800 800 800
+> 600 J 600 J 600
+E E E
+> 400 > 400 > 400
+Ww w Ww
+DB 200 D 200 ® 200
+0 0 0
+0 50 100 150 0 5 10 15 20 40 60 80 100
+IL-4 ( pg/mL ) IL-6 ( pg/mL ) IL-21 ( pg/mL )
+
+Figure 3. Relationship between plasma cytokines and total IgE in patients with chronic spontaneous urticaria (CSU). A. Concentrations of IL-4, IL-6, IL-21 and total IgE
+in the plasma of CSU patients and healthy controls (HC). Differences between CSU and HC were evaluated with a two-tailed Student’s t-test. B. Correlation analysis
+between IL-4, IL-6, IL-21 and total IgE were conducted using Spearman's rank test. Each plot represented one sample. P < 0.05 indicated significant difference (“P
+
+< 0.05, **P < 0.01, ***P < 0.001).
+
+4439 Am J Transl Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+   
+
+      
+
+A 56 p= 0.9251 4a p= 0.8295 sg p= 0.5063
+3s
+ms
+s ~ ie
+a = a
+. a =
+[4 E Ee
+Oo
+x
+3)
+ASST+ ASST- ASST+ ASST- ASST+ ASST- ASST+ ASSTB = = = =
+"20 p=0.4112 46 p= 0.1942 oa p= 0.6208 ss p= 0.5602
+<S
+x, © ‘ M = & wi “a
+a 3x = 10) aghas vvyv = = 20 asa v
+= a v
+a = ry vYW
+Bs Roa wo] Bee
+5 ahaa a v vy
+SPT+ SPT- SPT+ SPTc p=0.5194 p= 0.8982
+= 20 4 40.
+x
+— v
++ 15 vy _~ ™
+8 . S e
+v — ~
+| yi! = z
+O 54 4
+< fat Ywevv
+oO a
+IgE2100 IgE<100 IgE2100 IgE <100 IgE2100 IgE <100 IgE2100 IgE<100
+
+Figure 4. The status of circulating CD4*CXCR5"*, Tfh, Tfr and Tfh/Tfr ratio in peripheral blood mononuclear cells (PBMCs) of different subgroups of patients with
+chronic spontaneous urticaria (CSU). Percentage of circulating CD4*CXCR5*, Tfh and Tfr cells in PBMCs and the Tfh/Tfr in ASST+ CSU and ASST- CSU patients (A),
+SPT+ CSU and SPT- CSU patients (B), the levels of total IgE = 100 IU/ml CSU and IgE < 100 IU/ml CSU patients (C). Each plot represented individual subject. Horizontal bars indicated the mean and error bars the SEM. Significance between two groups was evaluated with a two-tailed Student's t-test and indicated by p value
+
+(P < 0.05 indicated significant difference).
+
+4440 Am J Transl Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+Table 2. Comparison between different subgroups of patients with chronic spontaneous urticaria (CSU)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASST SPT total IgE (IU/ml)
+= - p value — 7 p value p value
+positive negative positive negative 2100 < 100
+Number 15 48 42 21 29 34
+Female gender (%) 12 (80%) 28 (58.3%) 0.132 24 (57.1%) 16 (76.2%) 0.143 19 (65.5%)  21(61.8%) 0.762
+Age (years), mean (range) 33.2 (13-52) 39.5(13-70) 0172 376(13-70) 39.5(13-70) 0.654 38.5(13-64) 38(13-70) 0.897
+UAS, mean (range) 5.13 (2-6) 4.9 (2-6) 0.486 5.02 (2-6) 4.82 (2-6) 0.499 5.07 (2-6) 4.85 (2-6) 0.459
+
+ 
+
+Note: CSU: chronic spontaneous urticaria; ASST: autologous serum skin testing; SPT: skin prick testing; UAS: urticaria activity score. Significance between two groups was evaluated
+with a two-tailed Student's t-test and indicated by p value. p < 0.05 was indicated as significant.
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+> 2) r=0.435 18) r= 0.487 1.8) = 0.222 . 30) r= 0,324 . 800) r= 0.486
+S| p=0.000 p=0.000 ‘ p=0.08 2 p=0.009 ° P= p=0.000
+* § 1 600: 8
+% gz. . == a" z ,
+ie) = 73 8 ~ ° H 2 400. Par
+te FS : e ’ = if
+ried F os: ; LJ fe 10. w
+oO . $3.3 B 2004 .
+g 2° td a
+io 0.04 ——_-—* _—_,____, of_—______.__, 0
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8
+UAS UAS UAS
+
+B . >
+
+1 oh Thr 1) Teh / Thr 1 IgE
+
+0.8 085 085
+Zo 4 2 064
+= s s
+Oo @ o
+& 04 & 044 § 044
+a a oO
+
+AUC : 0.704 AUC : 0.788 AUC : 0.587 AUC : 0.708 AUC : 0.900
+o p: 0.003 92) p: 0.000 92) p: 0.212 02) Pp: 0.003 p: 0.000
+0.0} > —+ 00 > 00 >. — 00 a 00 IT 7 7 —t
+0.0 0.2 04 06 08 1.0 0.0 02 04 06 08 1.0 0.0 02 04 06 08 10 0.0 0.2 04 06 08 1.0 0.0 0.2 04 0.6 08 1.0
+1-Specificity 1-Specificity 1-Specificity 1-Specificity 1-Specificity
+
+Figure 5. Correlation between CD4*CXCRS5* cells, Tfh cells, the Tfh/Tfr ratio, total IgE in the peripheral blood of chronic spontaneous urticaria (CSU) and disease. A.
+Correlation between CD4*CXCR5*, Tfh, Tfr, Tfh/Tfr, total IgE and urticaria activity score (UAS) in patients with CSU. Each plot represented one sample. Correlation
+analysis were conducted using Spearman's rank test. B. Receiver operating characteristic (ROC) curves for association of CSU disease (versus healthy controls)
+based on the CD4*CXCR65", Tfh, Tfr, Tfh/Tfr and total IgE. Statistical results of area under the curve (AUC) and p value in ROC for association of CSU disease were
+shown in the graph. 0.5 < AUC < 1 and P< 0.05 indicated that they were associated with the disease activity.
+
+4441
+
+Am J Transl Res 2020;12(8):4434-4444
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+IgE and total IgE in allergic immune response to
+airborne allergens [27]. Our results that total
+IgE in plasma of patients with CSU was elevated and associated with UAS confirmed earlier
+reports [28, 29]. Taken together, the formation
+of germinal centers and the increased frequencies of CD4*CXCR5* cells and Tfh cells in peripheral blood may be involved in the production
+of total IgE and contributing to the pathogenesis in CSU patients.
+
+Multiple factors, including cytokines, such as
+IL-4, IL-6, TGF-B, IL12 and IL-21, are involved
+in the differentiation and function of Tfh cells
+[30]. In OVA plus alum-sensitized mice, antiOVA and total IgE antibodies were induced and
+promoted by IL-4-secreting Tfh cells [20]. The
+specific block of IL-6R signaling on T cells can
+suppress the number of Tfh cells and the increase in the concentration of total IgE, Derp
+1-specific IgE or IgG1 in B cells after sensitizaion in CD4°°xgp1307% mice [19]. The IL-6/STAT3 signaling pathway has been shown to regulate the frequency of Tfh cells in the peripheral blood of patients with rheumatoid arthritis
+18]. I-21, a cytokine produced by Tfh cells, is
+essential for the immunomodulation of humoral and cellular immune responses. The role of
+L-21 in the production of IgE remains controversial, regarding its promotion or inhibition of
+specific immune functions [31-34]. Our results
+indicated that the total IgE was related to IL-4,
+L6, and IL-21, which suggested that Tfh cells
+might promote the production of total IgE through IL-4 and IL-6, and induced the class
+switching of B cells in CSU patients, while IL21 inhibited the production of IgE from B cells,
+as demonstrated in previous studies [4, 21,
+35-38].
+
+ 
+
+ 
+
+ 
+
+In the current study, the positive correlation
+between CD4*CXCR5* cells, Tfh cells, Tfh/Tfr
+ratio and the UAS, and the higher AUCs of
+CD4*CXCR5* and Tfh cells frequencies and
+Tfh/Tfr ratio indicated their potential use as
+serological markers in clinical diagnosis and
+follow-up of therapeutic response in patients
+with CSU.
+
+ 
+
+There are some limitations in the current study.
+The lack of dynamic observations, such as the
+changes of the above parameters during the
+active versus and remission period of CSU,
+make it impossible to verify the time-course
+change of the immunological parameters. The
+
+ 
+
+4442
+
+relationship between the changes of the above
+parameters and the therapeutic efficacy is not
+clear. It remains to be confirmed whether increase of IL-4 and IL-6 and decrease of IL-21
+can induce CD4*CXCR5* cells and Tfh cells to
+help B cells to produce IgE in patients with CSU.
+
+In conclusion, the positive correlation between
+CD4*CXCR5* cells, Tfh cells and the UAS, and
+the higher AUCs of CD4*CXCR5* and Tfh cells
+frequencies in CSU indicated their potential
+use as serological markers in clinical diagnosis and follow-up of therapeutic response in
+patients with CSU. Our results provided the
+primary evidence that the regulation of class
+switching of B cells may be associated with
+immunopathogenesis and disease severity of
+CSU.
+
+ 
+
+Acknowledgements
+
+This work was supported by the National Natural Science Foundation of China (No. 81673059 and 81673068) and Southwest Hospital Innovation Team Training Program (SWH2018TD-02). We wish to thank Professor Bing
+Ni (Department of Pathophysiology, Army Medical University, China) for suggestions regarding experimental methods and research ideas.
+
+Disclosure of conflict of interest
+None.
+
+Address correspondence to: Zhigiang Song, Department of Dermatology, Southwest Hospital, Army
+Medical University, Chongqing 400038, China.
+Tel: +86-23-68754290; Fax: +86-23-68755290;
+E-mail: drsongzq@hotmail.com
+
+References
+
+[1] Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, Church MK, Ensina LF, Gimenez-Arnau A, Godse K, Goncalo
+M, Grattan C, Hebert J, Hide M, Kaplan A, Kapp
+A, Abdul Latiff AH, Mathelier-Fusade P, Metz M,
+Nast A, Saini SS, Sanchez-Borges M, SchmidGrendelmeier P, Simons FE, Staubach P, Sussman G, Toubi E, Vena GA, Wedi B, Zhu XJ and
+Maurer M. The EAACI/GA2LEN/EDF/WAO guideline for the definition, classification, diagnosis, and management of urticaria: the 2013
+revision and update. Allergy 2014; 69: 868887.
+
+[2] Song Z, Zhai Z, Zhong H, Zhou Z, Chen W and
+Hao F. Evaluation of autologous serum skin
+
+Am J Trans! Res 2020;12(8):4434-4444
+[3]
+
+[4]
+
+ 
+
+ 
+
+9]
+
+ 
+
+ 
+
+ 
+
+(14]
+
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+test and skin prick test reactivity to house
+dust mite in patients with chronic spontaneous
+urticaria. PLoS One 2013; 8: e64142.
+
+Chen Q, Zhai Z, Xu J, Chen W, Chen S, Zhong H,
+Huang X, Hao F and Song Z. Basophil CD63
+expression in chronic spontaneous urticaria:
+correlation with allergic sensitization, serum
+autoreactivity and basophil reactivity. J Eur
+Acad Dermatol Venereol 2017; 31: 463-468.
+Chen Q, Zhong H, Chen WC, Zhai Z, Zhou Z,
+Song Z and Hao F. Different expression patterns of plasma Th1-, Th2-, Th17- and Th22related cytokines correlate with serum autoreactivity and allergen sensitivity in chronic
+spontaneous urticaria. J Eur Acad Dermatol
+Venereol 2018; 32: 441-448.
+
+Kolkhir P, Church MK, Weller K, Metz M,
+Schmetzer O and Maurer M. Autoimmune
+chronic spontaneous urticaria: what we know
+and what we do not know. J Allergy Clin Immunol 2017; 139: 1772-1781.
+
+Craft JE. Follicular helper T cells in immunity
+and systemic autoimmunity. Nat Rev Rneumatol 2012; 8: 337-347.
+
+Zhu Y, Zou L and Liu YC. T follicular helper
+cells, T follicular regulatory cells and autoimmunity. Int Immunol 2016; 28: 173-179.
+Linterman MA, Pierson W, Lee SK, Kallies A,
+Kawamoto S, Rayner TF, Srivastava M, Divekar
+DP, Beaton L, Hogan JJ, Fagarasan S, Liston A,
+Smith KG and Vinuesa CG. Foxp3+ follicular
+regulatory T cells control the germinal center
+response. Nat Med 2011; 17: 975-982.
+
+Szabo K, Gaspar K, Dajnoki Z, Papp G, Fabos
+B, Szegedi A and Zeher M. Expansion of circulating follicular T helper cells associates with
+disease severity in childhood atopic dermatitis. Immunol Lett 2017; 189: 101-108.
+
+Gong F, Zhu HY, Zhu J, Dong QJ, Huang X
+and Jiang DJ. Circulating CXCR5+CD4+ T cells
+participate in the IgE accumulation in allergic
+asthma. Immunol Lett 2018; 197: 9-14.
+
+Niu J, Song Z, Yang X, Zhai Z, Zhong H and Hao
+F. Increased circulating follicular helper T cells
+and activated B cells correlate with disease severity in patients with psoriasis. J Eur Acad Dermatol Venereol 2015; 29: 1791-1796.
+Li Q, Liu Z, Dang E, Jin L, He Z, Yang L, Shi X
+and Wang G. Follicular helper T Cells (Tfh) and
+|L-21 involvement in the pathogenesis of bullous pemphigoid. PLoS one 2013; 8: e€68145.
+Liu C, Wang D, Song Y, Lu S, Zhao J and Wang
+H. Increased circulating CD4+CXCR5+FoxP3+
+follicular regulatory T cells correlated with severity of systemic lupus erythematosus patients. Int Immunopharmacol 2018; 56: 261268.
+
+Xu B, Wang S, Zhou M, Huang Y, Fu R, Guo C,
+Chen J, Zhao J, Gaskin F, Fu SM and Yang N.
+The ratio of circulating follicular T helper cell
+to follicular T regulatory cell is correlated with
+
+ 
+
+4443
+
+{15]
+
+[16]
+
+{17]
+
+(18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+disease activity in systemic lupus erythematosus. Clin Immunol 2017; 183: 46-53.
+
+Yang X, Yang J, Chu Y, Xue Y, Xuan D, Zheng S
+and Zou H. T follicular helper cells and regulatory B cells dynamics in systemic lupus erythematosus. PLoS One 2014; 9: e88441.
+Fonseca VR, Romao VC, Agua-Doce A, Santos
+M, Lopez-Presa D, Ferreira AC, Fonseca JE and
+Graca L. The ratio of blood T follicular regulatory cells to t follicular helper cells marks ectopic lymphoid structure formation while activated follicular helper T cells indicate disease
+activity in primary sjogren’s syndrome. Arthritis
+Rheumatol 2018; 70: 774-784.
+
+Zheng J, Wang T, Zhang L and Cui L. Dysregulation of circulating Tfr/Tfh ratio in primary biliary cholangitis. Scand J Immunol 2017; 86:
+452-461.
+
+Niu Q, Huang ZC, Wu XJ, Jin YX, An YF, Li YM, Xu
+H, Yang B and Wang LL. Enhanced IL-6/phosphorylated STAT3 signaling is related to the
+imbalance of circulating T follicular helper/T
+follicular regulatory cells in patients with rheumatoid arthritis. Arthritis Res Ther 2018; 20:
+200.
+Noble A and Zhao J. Follicular helper T cells are
+responsible for IgE responses to Der p 11 following house dust mite sensitization in mice. Clin
+Exp Allergy 2016; 46: 1075-1082.
+Harada Y, Tanaka S, Motomura Y, Harada Y,
+Ohno §S, Ohno S, Yanagi Y, Inoue H and Kubo
+M. The 3’ enhancer CNS2 is a critical regulator
+of interleukin-4-mediated humoral immunity in
+follicular helper T cells. Immunity 2012; 36:
+188-200.
+Huilan Z, Runxiang L, Bihua L and Qing G. Role
+of the subgroups of T, B, natural killer lymphocyte and serum levels of interleukin-15, interleukin-21 and immunoglobulin E in the pathogenesis of urticaria. J Dermatol 2010; 37:
+441-447.
+
+Forster R, Mattis AE, Kremmer E, Wolf E, Brem
+G and Lipp M. A putative chemokine receptor,
+BLR1, directs B cell migration to defined lymphoid organs and specific anatomic compartments of the spleen. Cell 1996; 87: 10371047.
+
+Schaerli P, Willimann K, Lang AB, Lipp M, Loetscher P and Moser B. CXC chemokine receptor 5 expression defines follicular homing T
+cells with B cell helper function. J Exp Med
+2000; 192: 1553-1562.
+Breitfeld D, Ohl L, Kremmer E, Ellwart J, Sallusto F, Lipp M and Forster R. Follicular B helper T cells express CXC chemokine receptor 5,
+localize to B cell follicles, and support immunoglobulin production. J Exp Med 2000; 192:
+1545-1552.
+Wu LC and Zarrin AA. The production and regulation of IgE by the immune system. Nat Rev
+Immunol 2014; 14: 247-259.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Am J Trans! Res 2020;12(8):4434-4444
+[26]
+
+27
+
+28
+
+29
+
+30
+
+31
+
+ 
+
+ 
+
+32
+
+Frequencies of CD4*CXCR5*, Tfh and Tfh/Tfr correlated with disease severity
+
+He JS, Subramaniam S, Narang V, Srinivasan
+K, Saunders SP, Carbajo D, Wen-Shan T, Hidayah Hamadee N, Lum J, Lee A, Chen J,
+Poidinger M, Zolezzi F, Lafaille JJ and Curotto
+de Lafaille MA. lgG1 memory B cells keep the
+memory of IgE responses. Nat Commun 2017;
+8: 641.
+Kobayashi T, lijima K, Dent AL and Kita H. Follicular helper T cells mediate IgE antibody response to airborne allergens. J Allergy Clin Immunol 2017; 139: 300-313.
+Altrichter S, Hawro T, Liedtke M, Holtappels G,
+Bachert C, Skov PS and Maurer M. In chronic
+spontaneous urticaria, IgE against staphylococcal enterotoxins is common and functional.
+Allergy 2018; 73: 1497-1504.
+
+Kessel A, Helou W, Bamberger E, Sabo E,
+Nusem D, Panassof J and Toubi E. Elevated serum total IgE-a potential marker for severe
+chronic urticaria. Int Arch Allergy Immunol
+2010; 153: 288-293.
+
+Yan L, de Leur K, Hendriks RW, van der Laan
+UW, Shi Y, Wang L and Baan CC. T follicular
+helper cells as a new target for immunosuppressive therapies. Front Immunol 2017; 8:
+1510.
+Fina D, Fantini MC, Pallone F and Monteleone
+G. Role of interleukin-21 in inflammation and
+allergy. Inflamm Allergy Drug Targets 2007; 6:
+63-68.
+Wood N, Bourque K, Donaldson DD, Collins M,
+Vercelli D, Goldman SJ and Kasaian MT. IL-21
+effects on human IgE production in response
+to IL-4 or IL-3. Cell Immunol 2004; 231: 133145.
+
+ 
+
+ 
+
+ 
+
+4444
+
+[33]
+
+[34]
+
+[35]
+
+36
+
+37
+
+38
+
+ 
+
+ 
+
+Suto A, Nakajima H, Hirose K, Suzuki K, Kagami S, Seto Y, Hoshimoto A, Saito Y, Foster DC
+and Iwamoto I. Interleukin 21 prevents antigen-induced IgE production by inhibiting germ
+line C(epsilon) transcription of IL-4-stimulated
+B cells. Blood 2002; 100: 4565-4573.
+
+Brandt K, Singh PB, Bulfone-Paus S and Ruckert R. Interleukin-21: a new modulator of immunity, infection, and cancer. Cytokine Growth
+Factor Rev 2007; 18: 223-232.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB and Kaplan
+AP. TH1/TH2 cytokines and inflammatory cells
+in skin biopsy specimens from patients with
+chronic idiopathic urticaria: comparison with
+the allergen-induced late-phase cutaneous reaction. J Allergy Clin Immunol 2002; 109: 694700.
+
+Maged Amin M and Rushdy M. Hyperlipidemia
+in association with pro-inflammatory cytokines
+among chronic spontaneous urticaria: casecontrol study. Eur Ann Allergy Clin Immunol
+2018; 50: 254-261.
+
+Ferrer M, Luquin E, Sanchez-lbarrola A, Moreno C, Sanz ML and Kaplan AP. Secretion of cytokines, histamine and leukotrienes in chronic
+urticaria. Int Arch Allergy Immunol 2002; 129:
+254-260.
+
+Papadopoulos J, Karpouzis A, Tentes J and
+Kouskoukis C. Assessment of Interleukins IL
+4, IL-6, IL-8, IL-10 in Acute Urticaria. J Clin Med
+Res 2014; 6: 133-137.
+
+Am J Trans! Res 2020;12(8):4434-4444
+

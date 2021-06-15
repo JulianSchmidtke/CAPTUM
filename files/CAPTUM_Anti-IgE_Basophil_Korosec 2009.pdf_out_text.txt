@@ -1,0 +1,505 @@
+olateltar-li-lat(e (=
+
+Wien Klin Wochenschr (2009) 121: 339-343
+DOI 10.1007/s00508-009-1168-9
+
+Printed in Austria
+
+© Springer-Verlag 2009
+
+ 
+
+Wiener klinische Wochenschrift
+The Middle European Journal of Medicine
+
+ 
+
+C5a-induced in vitro basophil activation in patients with
+
+chronic urticaria: a pilot study
+
+Peter Korosec, Tjasa Subic, Katja Adamic, Mira Silar, Mitja Kosnik
+
+University Clinic of Respiratory and Allergic Diseases, Golnik, Slovenia
+
+Summary. Background: Complement component 5a
+(C5a) might be involved in the formation of wheals in
+patients with chronic urticaria (CU). We sought to compare the in vitro responsiveness of basophils to C5a in
+patients with CU and in a control group.
+
+Methods: Basophil surface expression of activation
+marker CD63 induced by CSa, anti-FceRI mAb or antiIgE pAb was measured using flow cytometry in 17 patients with CU and in 10 healthy controls.
+
+Results: Patients with CU showed significantly
+greater basophil CD63 surface expression induced by
+C5a (median [interquartile range]; 16.4% [13-25.1]; P =
+0.011) than the group of healthy controls (10.7%
+[7.2-16.8]). In contrast, basophil CD63 response to antiIgE and anti-FceRI was lower in the CU group (12.3%
+[6-36.3]; 25.9% [12.5-60.5]) than in the control group
+(51.7% [6.7-84.3]; 62.1% [9.7-89.2]), although not statistically significant.
+
+Conclusion: Results of this pilot study suggest that
+patients with CU might have an enhanced basophil response to stimulation with C5a, indicating that further
+studies in CU basophil responsiveness are needed.
+
+Key words: Chronic urticaria, basophils, C5a, CD63.
+
+Introduction
+
+Chronic urticaria (CU) is defined as the daily or almost
+daily occurrence of wheals for at least six weeks, physical urticaria and urticarial vasculitis having been excluded. The pathogenesis of CU is not thoroughly understood, although mast cell degranulation and histamine release are believed to be of a central importance
+[1]. A subpopulation of patients have an autoimmune
+disorder associated with autoantibodies against the
+high-affinity IgE receptor FceRI [2] and/or IgE [3] or with
+circulating antibodies against various thyroid antigens
+[4]. Other triggers such as chronic Helicobacter pylori
+gastritis could also be involved [5]. Anti-IgE receptor autoantibodies are thought to cause mast cell and basophil degranulation by cross-linking of the o-chain of
+
+Correspondence: Peter Korosec, Ph.D., Laboratory for Clinical
+Immunology and Molecular Genetics, University Clinic of
+Respiratory and Allergic Diseases, Golnik 36, 4204 Golnik,
+Slovenia, E-mail: peter.korosec@klinika-golnik.si
+
+FceRI (2, 3]. However, recent data suggest that this activation is further augmented by complement activation
+[6, 7] and release of complement component 5a (C5a) [8].
+C5a acts directly through the G-protein-coupled C5a receptor on basophils or dermal mast cells and can induce both rapid and long-lasting cellular responses [9].
+C5a is also a chemotactic factor for neutrophils, basophils and eosinophils, which are present in CU lesions
+[10]. Although in vitro C5a-mediated release of basophils and mast cells may be altered in several allergic
+and non-allergic conditions [11], there is a lack of data
+on C5a-induced basophil or mast cell response in patients with CU. However, in patients with CU it has been
+shown that basophils have reduced capacity for releasing mediators when activated through IgE receptors
+[12-13]. We wished to establish, by measuring surface
+expression of CD63 (glycoprotein 53) as a marker of basophil activation [14], whether basophils from patients
+with CU show an altered response to C5a-induced in
+vitro stimulation in comparison with healthy control
+persons.
+
+Materials and methods
+Study participants
+
+We recruited 17 CU patients with recurrent whealing occurring at least four times a week for an average of 45 months
+(range 6-132) without clinical evidence of physically induced
+urticaria or of urticarial vasculitis. The average age of the patients was 51 years (range 34-70) and 12 were women. Ten
+healthy persons (average age 38 years; age range 28-49, 6 of
+whom were women) served as the control group. Controls were
+matched for sex but were younger than the patients. The clinical and laboratory characterization of the CU patients is summarized in Table 1. Antihistamine treatment was stopped at
+least four days before blood samples were collected and none
+of the patients was taking glucocorticoids, immunosuppressive drugs or tricyclic antidepressants at the time of venipuncture or in the past month. The study was approved by the National Ethics Committee and written informed consent was
+obtained from the participants.
+
+Materials
+
+Recombinant human CS5a was obtained from Sigma Chemicals (St Louis, MO), mouse anti-FceRI mAb from Biihlmann
+Laboratories (Allschwil, Switzerland) and goat anti-IgE pAb
+from Caltag Laboratories (Burlingame, CA). C5a was dissolved
+
+ 
+
+wkw
+
+C5a-induced in vitro basophil activation in patients with chronic urticaria 9-10/2009
+
+339
+nal article
+
+in dimethyl sulfoxide and stored at —-80°C. For stimulation of
+basophils, C5a was diluted 1/1000 in cell incubation medium.
+The final concentration of dimethyl sulfoxide (0.1% vol/vol)
+had no effect on cellular function (data not shown).
+
+Preparation of peripheral blood leukocytes
+
+For the basophil activation assay, 9 ml of whole blood collected in EDTA tubes (Vacutainer, BD, Plymouth, UK) was centrifuged at 550 x g for 10 min at 4°C; the buffy coat was collected
+(0.5 ml) and centrifuged again. The supernatant was discarded
+and the cell pellet resuspended in 450 pl of HEPES calcium
+stimulation buffer containing 2 ng/ml of interleukin 3 (IL-3)
+for 5 min.
+
+Cell stimulation procedure
+
+Cells were stimulated at 37°C in a shaking water bath for
+45 min in final concentrations of 1.2 x 10°°M for C5a [8], 0.55 pg/
+ml for anti-FceRI (a chain of high-affinity IgE receptor) mAb
+and 0.5 pg/ml for anti-IgE pAb. Basal surface expression of
+CD63 was determined in the same conditions by adding an
+equal volume of corresponding IL-3 containing stimulation
+buffer alone.
+
+Basophil activation assay
+
+Surface expression of the basophil activation marker CD63
+was measured using the Flow-CAST test (BiihImann Laboratories, Allschwil, Switzerland). Briefly, the stimulation was
+stopped by adding blocking buffer (ice-cold HEPES buffer
+without calcium and magnesium but with EDTA 0.27 mM) followed by incubation with a mixture of anti-human CD63 mAb
+labelled with phycoerythrin (anti-CD63 PE) and anti-human
+IgE labelled with fluorescent isothiocyanate (anti-IgE FITC).
+After incubation for 30 min on ice, lysing reagent was added
+
+Table 1. Clinical and laboratory
+
+for 4 min at room temperature. Cell lysis was stopped with
+blocking buffer and after centrifugation the cells were resuspended in blocking buffer and analyzed within 2 hours on a
+FACSCalibur flow cytometer with CELLQuest software (BD,
+San Jose, CA). The initial cell gate was defined on a histogram
+by forward and side scatter around lymphocytes and the second gate was defined around cells showing bright IgE expression identifying them as basophils. IgE-carrying monocytes
+and dendritic cells were excluded from the analysis by their
+different forward and side scatter characteristics and dim expression of IgE. CD63 surface expression was determined by
+analyzing 150-500 basophils in each probe. The percentage of
+activation was calculated as the number of cells positive for
+anti-IgE and anti-CD63 compared with the total number of
+anti-IgE positive cells. Other parameters were given simultaneously by FACS as the percentage of the anti-IgE positive
+population.
+
+Statistical analysis
+
+The distribution of data was recalculated using the ShapiroWilk normality test. The data were not normally distributed,
+therefore a Mann-Whitney U test was used to study differences between the groups. The strength of association between variables was obtained with the Spearman rank-order
+method. Probability values of P <0.05 were accepted as significant. Unless otherwise stated, results are given as medians
+and interquartile ranges (IQR). GraphPad Prism 5 software
+was used for the analyses.
+
+Results
+
+The percentage of bright anti-IgE positive cells (basophils) in patients with CU (median [IQR]; 0.7% [0.4-1.2])
+was not significantly different from the healthy control
+group (1.1% [0.7-1.7]; P = 0.23).There were no significant
+
+cteristics of 17 patients with
+
+ 
+
+ 
+
+Sex Duration of CU Recurrent Positive autologous Elevated levels Elevated levels of ASA intolerance®
+(months) angioedema serum skin test of Ab to thyroid? IgG Ab to H. pylori®
+F 48 Yes No No No Yes
+F 40 No Yes Yes Yes No
+M 56 No No No No No
+M 38 Yes No No No No
+M 60 Yes No No No Yes
+F 58 Yes No No No No
+F 32 Yes No No No No
+F 38 Yes No No No No
+M 46 Yes No No No No
+F 43 Yes No No No Yes
+F 36 Yes No No Yes No
+F 40 No No Yes Yes No
+F 12 Yes Yes Yes Yes No
+F 24 Yes No No Yes Yes
+F 6 Yes No Yes Yes No
+M 132 No ND ND Yes No
+F 60 Yes Yes No Yes Yes
+
+ 
+
+CU chronic urticaria; Ffemale; M male; ND not determined. @TSH receptor antibody. >The level of IgG Ab to H. pylori was measured on the day of basophil
+
+testing. Clinical history of intolerance to acetylsalicylic acid (ASA).
+
+ 
+
+ 
+
+340 9-10/2009 CS5a-induced in vitro basophil activation in patients with chronic urticaria
+
+wkw
+olateltar-li-lat(e (=
+
+differences in the basal percentage of basophil CD63
+surface expression between CU patients (5.5% [4-7.2])
+and the control group (5.2% [3.7-6.2]; P = 0.53). However,
+after stimulation with C5a, the percentage of CD63-expressing basophils was significantly higher in CU patients (16.4% [13-5.1]; P = 0.011) than in healthy controls
+(10.7% [7.2-16.8]) (Fig. 1). In contrast, the basophil response to anti-IgE pAb and anti-FceRI mAb was lower in
+patients with CU (12.4% [6-36.3]; 25.9% [12.5-60.5])
+than in the control group (51.7% [6.7-84.3]; 62.1%
+[9.7-89.2]), although the difference did not reach statistical significance (P = 0.18; P = 0.17) (Fig. 2). There was a
+highly significant positive correlation between the basophil response to anti-IgE pAb and anti-FceRI mAb
+stimulation (R = 0.8, P = 0.0001). There was no correlation between other variables.
+
+Clinical and laboratory data in subgroups of CU patients were also compared. We could not find any significant differences in C5a, anti-IgE pAb or anti-FceRI
+mAb basophil responsiveness between CU subgroups
+according to occurrence of angioedema (P = 0.87, 0.1 or
+0.28), positive autologous serum skin-test results (P =
+0.11, 0.42 or 0.59), elevated levels of Ab to thyroid (P =
+0.76, 0.51 or 0.86) H. pylori (P = 0.42, 0.13 or 0.54) or
+clinical history of ASA intolerance (P = 0.71, 0.79 or
+0.23).
+
+Discussion
+
+Previous studies showed that basophil IgE-dependent
+release of histamine and sulfidoleukotrienes is reduced
+in patients with CU in comparison with healthy persons
+(12, 13]. Our findings demonstrate a similar trend, as
+basophil activation induced by anti-FceRI or anti-IgE
+stimuli tended to be lower in patients with CU. However, we showed that basophils from patients with CU displayed an increased response after activation with ana
+ 
+
+C5a
+
+ 
+
+ 
+
+ 
+
+p=0.011
+
+CD63 expressing basophils
+
+ 
+
+Controls CU
+
+Fig. 1. Basophil response determined by the percentage of
+surface CD63-expressing cells, gated according to their bright
+surface IgE expression after stimulation with C5a from healthy
+control persons (n= 10) and patients with chronic urticaria (n= 17).
+The horizontal solid bars indicate the median value for each group
+
+phylotoxin C5a. The contrasting effect of an anti-IgE
+receptor-triggered response and a C5a triggered response was demonstrated by surface up-regulation of
+basophil activation marker CD63 [14].
+
+The serum of CU patients induces an inflammatory
+response and marked expression of CD63 on basophils
+[15]. However, in 2005 Lugin et al. [16] suggested that CU
+basophils may be hyporesponsive to C5a stimulation.
+Nevertheless, the results of their study may have been
+influenced by technical problems, as basophile histamine release after C5a stimulation was very low in the
+healthy controls, who released only around 4% of the
+histamine content after C5a stimulation. In contrast, an
+earlier study by Miura and MacGlashan [17], for example, and a recent study by Marsland et al. [18] have
+shown that basophils of normal donors release about
+40% of their histamine content after C5a stimulation.
+Calcineurin inhibitors were able to inhibit the in vitro
+release of histamine when basophils were stimulated
+with urticaria sera but not when stimulated with C5a
+[18].
+
+Many reports have suggested that complement
+could play an important role in the pathogenesis of CU
+[6-8]. IgG autoantibodies (anti-FceRI or anti-IgE autoantibodies) from patients with CU can induce in vitro
+activation of complement [6-7] and liberation of C5a [8],
+which contribute to the higher magnitude of histamine
+release and may participate in enhanced dermal mastcell degranulation in skin lesions of patients with CU.
+Therefore, C5a might also be a potential therapeutic
+target in CU. Ying et al. [10] found significant recruitment of basophils into the inflammatory cell infiltrate
+in CU lesions. Those basophils might significantly contribute to the enhanced in situ inflammatory response
+to C5a. In addition, Ying et al. [10] found that the inflammatory and cytokine profile in the skin lesions of
+patients with CU with and without circulating IgG au
+ 
+
+ 
+
+anti-Fce RI
+
+ 
+
+anti-lgE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+vvv
+
+   
+
+°
+
+CD63 expressing basophils
+
+Controls cu
+
+Controls cu
+
+Fig. 2. Basophil response determined by the percentage of
+surface CD63-expressing cells after stimulation with anti-IgE pAb
+or anti-FceRI mAb in healthy control persons (n=10) and patients
+with chronic urticaria (n=17). The horizontal solid bars indicate the
+median value for each group
+
+ 
+
+wkw C5a-induced in vitro basophil activation in patients with chronic urticaria 9-10/2009 341
+nal article
+
+toantibodies are the same and that the skin cell infiltration in both subgroups is likely to be the result of a C5amediated chemotactic response. C5a-mediated basophil activation via binding of the G-protein-coupled C5a
+receptor induces not only a rapid basophil degranulation response but also continuous generation of leukotriene C4, IL-4 and IL-13 for a period of 16-18 h [9, 19].
+This long-lasting cellular response mediated by C5a can
+therefore differently promote certain basophil or dermal mast-cell functions.
+
+Recent findings suggest an additional pathogenic
+mechanism in CU patients: activation of the coagulation cascade resulting in thrombin production [20].
+Thrombin is a serine protease that may play a key role in
+urticaria, being able to induce edema through an increase in vascular permeability and mast-cell activation and degranulation, and to induce the production of
+C5a. Such mechanisms seem to be active in the majority
+of CU patients; however, their relationship with antiFceRI or anti-IgE autoantibodies is still a matter of research.
+
+We also demonstrated that the percentage of basophils showing bright IgE fluorescence was slightly lower
+in patients with CU than in healthy control persons.
+Indeed, several previous studies have reported basopenia in CU [13, 21], although others have not [12]. An absolute basophil count was not included in our study.
+
+The incidence of asthma, allergic rhinitis and atopic
+dermatitis in CU patients is comparable with the distribution of these disorders in the population and identification of an external allergen responsible for hive formation is very rare. However, basophils from patients
+with allergic disease frequently show an altered in vitro
+response to C5a [11], which could be in correlation with
+the severity of clinical symptoms. To eliminate the influence of atopy on the variability of the results we
+strictly excluded such persons from the study.
+
+Several researchers [11, 22] suggest that C5a is able
+to enhance in vitro production of sulfidoleukotrienes in
+persons with acetylsalicylic acid intolerance. Hence, it
+is interesting that persons with intolerance to single or
+multiple non-steroid anti-inflammatory drugs (NSAIDs)
+showed a high prevalence (30% for single and >90% for
+multiple) of positive autologous serum skin tests [23].
+Moreover, it was very recently demonstrated that NSAID
+intolerance often precedes the onset of CU by years, especially in individuals with acetylsalicylic acid intolerance [24]. Perhaps altered responsiveness to C5a is a
+possible link between NSAID intolerance and CU [25].
+Nevertheless, in our study we were not able to find any
+differences in basophil response to C5a between CU individuals concerning their clinical history of intolerance to acetylsalicylic acid.
+
+In conclusion, we have compared basophil surface
+expression of CD63 by various stimuli in patients with
+CU and in healthy control persons. The basophils from
+the CU patients showed significantly higher activation
+after C5a stimulation, indicating that CU basophils
+could be targeted very effectively by C5a, which further
+suggests their possible importance in the pathogenesis
+of CU.
+
+ 
+
+Acknowledgements
+
+We thank the Slovenian Ministry of Education, Science and
+Sport who funded part of this work (grant no. J3-3468-1613-01).
+
+Conflict of Interest
+The authors declare that there is no conflict of interest.
+
+References
+
+1. Greaves MW (1995) Chronic urticaria. N Engl J Med 332:
+1767-1772
+
+2. Hide M, Francis DM, Grattan CEH, Hakimi J, Kochan JP,
+Greaves MW (1993) Autoantibodies against the high affinity IgE receptor as a cause of histamine release in
+chronic urticaria. N Engl J Med 328: 1599-1604
+
+3. Gruber BL, Baeza M, Marchese M, Agnella V, Kaplan AP
+(1988) Prevalence and functional role of anti-IgE autoantibodies in urticaria syndromes. J Invest Dermatol 90:
+213-217
+
+4. Leznoff A, Josse RG, Denburg J, Dolovich J (1983) Association of chronic urticaria and angioedema with thyroid
+autoimmunity. Arch Dermatol 119 (8): 636-640
+
+5. Wedi B, Wagner S, Werfel T, Manns MP, Kapp A (1998)
+Prevalence of Helicobacter pylori associated gastritis in
+chronic urticaria. Int Arch Allergy Immunol 116: 288-294
+
+6. Ferrer M, Nakazawa K, Kaplan AP (1999) Complement dependence of histamine release in chronic urticaria. J Allergy Clin Immunol 104: 169-172
+
+7. Kikuchi Y, Kaplan AP (2001) Mechanisms of autoimmune
+activation of basophils in chronic urticaria. J Allergy Clin
+Immunol 107: 1056-1062
+
+8. Kikuchi Y, Kaplan AP (2002) A role for C5a in augmenting
+IgG-dependent histamine release from basophils in
+chronic urticaria. J Allergy Clin Immunol 109: 114-118
+
+9. Speth C, Wiirzner R, Stoiber H, Dierich MP (1999) The
+complement system: pathophysiology and clinical relevance. Wien Klin Wochenschr 111 (10): 378-391
+
+10. Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP (2002) TH1/
+TH2 cytokines and inflammatory cells in skin biopsy
+specimens from patients with chronic urticaria: comparison with the allergen-induced late-phase cutaneous reaction. J Allergy Clin Immunol 109 (4): 694-700
+
+11. Abrahamsen O, Haas H, Schreiber J, Schlaak M (2001) Differential mediator release from basophils of allergic and
+non-allergic asthmatic patients after stimulation with
+anti-IgE and Cda. Clin Exp Allergy 31 (3): 368-378
+
+12. Kern F, Lichtenstein LM (1976) Defective histamine release in chronic urticaria. J Clin Invest 57: 1369-1377
+
+13. Sabroe RA, Francis DM, Barr RM, Kobza Black A, Greaves
+MW (1998) Anti-FceRI autoantibodies and basophil histamine releasability in chronic urticaria. J Allergy Clin Immunol 102: 651-658
+
+14. Knol EF, Mul FP, Jansen H, Calafat J, Roos D (1991) Monitoring human basophil activation via CD63 monoclonal
+antibody 435. J Allergy Clin Immunol 88: 328-338
+
+15. Wedi B, Novacovic V, Koerner M, Kapp A (2000) Chronic
+urticaria serum induces histamine release, leukotriene
+production, and basophil CD63 surface expression — inhibitory effects of anti-inflammatory drugs. J Allergy Clin
+Immunol 105 (3): 552-560
+
+16. Luquin E, Kaplan AP, Ferrer M (2005) Increased responsiveness of basophils of patients with chronic urticaria to
+sera but hypo-responsiveness to other stimuli. Clin Exp
+Allergy 35 (4): 456-460
+
+17. Miura K, MacGlashan DW Jr (2000) Dual phase priming by
+IL-3 for leukotriene C4 generation in human basophils:
+difference in characteristics between acute and late priming effects. J Immunol 164 (6): 3026-3034
+
+ 
+
+342 9-10/2009 CS5a-induced in vitro basophil activation in patients with chronic urticaria
+
+wkw
+nal article
+
+18.
+
+19.
+
+20.
+
+21.
+
+Marsland AM, Soundararajan S, Joseph K, Kaplan AP
+(2005) Effects of calcineurin inhibitors on an in vitro assay for chronic urticaria. Clin Exp Allergy 35 (5): 554-559
+Lefkowitz RJ (1998) G protein-coupled receptors. III. New
+roles for receptor kinases and beta-arrestins in receptor
+signaling and desensitization. J Biol Chem 273 (30): 1867718680
+
+Asero R, Riboldi P, Tedeschi A, Cugno M, Meroni P (2007)
+Chronic urticaria: a disease at a crossroad between autoimmunity and coagulation. Autoimmun Rev 7 (1): 71-76.
+Review
+
+Rorsman H (1962) Basophilic leucopenia in different
+forms of urticaria. Acta Allergol 17: 168-184
+
+22.
+
+23.
+
+24,
+
+25.
+
+Czech W, Schopf E, Kapp A (1995) Release of sulfidoleukotrienes in vitro: its relevance in the diagnosis of pseudoallergy to acetylsalicylic acid. Inflamm Res 44 (7): 291-295
+Mewes T, Riechelmann H, Klimek L (1996) Increased in
+vitro cysteinyl leukotriene release from blood leukocytes
+in patients with asthma, nasal polyps, and aspirin intolerance. Allergy 51 (7): 506-510
+
+Asero R, Tedeschi A, Lorini M (2002) Autoreactivity is
+highly prevalent in patients with multiple intolerances to
+NSAIDs. Ann Allergy Asthma Immunol 88 (5): 468-472
+Asero R (2003) Intolerance to nonsteroidal anti-inflammatory drugs might precede by years the onset of chronic
+urticaria. J Allergy Clin Immunol 111 (5): 1095-1098
+
+ 
+
+wkw
+
+C5a-induced in vitro basophil activation in patients with chronic urticaria 9-10/2009 343
+

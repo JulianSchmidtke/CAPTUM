@@ -1,0 +1,1021 @@
+Clinical & Experimental Immunology
+
+immunologg@
+
+ 
+
+elec totic Minerva ORIGINAL ARTICLE
+
+doi:10.1111/j.1365-2249.2011.04485.x
+
+Up-regulation of chemokine C-C ligand 2 (CCL2) and C-X-C
+chemokine 8 (CXCL8) expression by monocytes in chronic
+
+idiopathic urticaria
+
+ 
+
+J. C. Santos,* C. A. de Brito,*
+
+E. A. Futata,* M. H. Azor,*
+
+N. M. Orii,* C. W. Maruta,*
+
+E. A. Rivitti,’ A. J. S. Duarte* and
+M.N. Sato*
+
+*Laboratory of Dermatology and
+Immunodeficiencies (LIM-56), Department of
+Dermatology and ‘Dermatological Outpatient
+Clinic, Hospital das Clinicas, Medical School of
+
+the University of Sao Paulo, Sao Paulo, Brazil
+
+Accepted for publication 13 September 2011
+Correspondence: M. N. Sato, Laboratory of
+Investigation in Dermatology and
+Immunodeficiencies, LIM 56, Department of
+Dermatology, School of Medicine, University of
+Sao Paulo, Avenida Dr Enéas de Carvalho
+Aguiar, 500, 3rd floor, 05403-000 Sao Paulo,
+Brazil.
+
+E-mail: marisato@usp.br
+
+Introduction
+
+Summary
+
+The disturbed cytokine-chemokine network could play an important role in
+the onset of diseases with inflammatory processes such as chronic idiopathic
+urticaria (CIU). Our main objectives were to evaluate the relation between
+proinflammatory chemokine serum levels from CIU patients and their
+response to autologous skin test (ASST) and basophil histamine release
+(BHR). We also aimed to assess the chemokine secretion by peripheral blood
+mononuclear cells (PBMC) upon polyclonal stimulus and to evaluate
+chemokine C-C ligand 2/C-X-C chemokine 8 (CCL2/CXCL8) and Toll-like
+receptor-4 (TLR-4) expression in monocytes. We observed significantly
+higher serum levels of the CXCL8, CXCL9, CXCL10 and CCL2 in CIU
+patients compared to the healthy group, regardless of the BHR or ASST
+response. The basal secretion of CCL2 by PBMC or induced by Staphylococcus aureus enterotoxin A (SEA) was higher in CIU patients than in the
+control group, as well as for CXCL8 and CCLS5 secretions upon phytohaemagglutinin stimulation. Also, up-regulation of CCL2 and CXCL8
+mRNA expression was found in monocytes of patients upon SEA stimulation. The findings showed a high responsiveness of monocytes through
+CCL2/CXCL8 expression, contributing to the creation of a proinflammatory
+environment in CIU.
+
+Keywords: chemokines, chronic idiopathic urticaria, innate immunity,
+
+monocytes
+
+mal injection of autologous serum (autologous serum skin
+test, ASST) that is able to induce a weal-and-flare response in
+
+Chronic urticaria (CU) is a skin disorder characterized by
+recurrent and transitory itchy weals that last for 6 weeks or
+longer. CU can be accompanied by angioedema in 40% of
+the cases, has a higher incidence in women (2:1) and a prevalence of approximately 0-1%, with an average episode length
+of 3-5 years in adults [1]. Despite the extensive search for
+underlying causes or triggering factors, the aetiology of CU
+remains unclear in at least 80-90% of the patients; therefore,
+it is referred to as chronic idiopathic urticaria (CIU). In
+addition, the term chronic autoimmune urticaria has been
+proposed for those 35-40% of the CU patients who develop
+anti-immunoglobulin (Ig)E IgG to the receptor alpha
+subunit and for an additional 5-10% that produce anti-IgE
+IgG autoantibodies [2,3].
+
+The functional properties of antibodies can be evidenced
+in vitro with the release of histamine from basophils and
+mast cells elicited in the presence of serum from CIU
+patients [2,4]. In vivo evidence can be achieved by intrader
+© 2011 The Authors
+
+patients with CIU [5]. Nonetheless, the ASST has been considered an autoreactivity test rather than a specific test for
+autoimmunity [6].
+
+It has been suggested that inflammation in CU patients
+does not result solely from the consequences of mast cells (or
+basophil) degranulation [7]. In CIU patients, inflammatory
+aetiopathogenesis has been related to an increase in the
+interleukin (IL)-4, IL-13 and IL-18 serum levels or in factors
+such as neopterin [8-10]. Our previous findings support the
+concept of immunological dysregulation in CIU with disturbed cytokine production by T cells - related mainly to
+IL-17 and IL-10 production — regardless of skin reactivity to
+ASST [11]. The possibility of other factors, such as chemokines, acting in parallel to the cytokines is not excluded and
+should be investigated for CIU.
+
+Chemokines are proinflammatory chemotactic cytokines
+that recruit leucocytes to inflammation sites, but also play
+important roles in tumour growth, angiogenesis, organ
+
+129
+
+ 
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+J. C. Santos et al.
+
+sclerosis and autoimmunity [12,13]. Chemokines are a
+superfamily of small proteins (8-14 kD) classified on the
+basis of their structural properties regarding the number and
+position of conserved cystein residues [14]. C-X-C chemokine 8 (CXCL8)/IL-8, which is the best-characterized C-X-C
+chemokine, is chemotactic for neutrophils, T lymphocytes
+and monocytes [15-17].
+
+CXCL9/Mig, a monokine induced by interferon (IFN)-y,
+acts as chemoattractant for T helper type 1 (Th1) cells and
+blocks eosinophil chemoattraction, the platelet-activating
+factor and leukotriene B4-induced responses [18]. Both
+CXCL9 and CXCL10/IFN-y-induced protein 1 (IP-10) are
+considered type 1 chemokines and display strong chemoattraction for Th] cells [19,20]. In contrast, the C-C chemokines, of which chemokine C-C ligand 2 (CCL2) (monocyte
+chemoattractant protein-1) is a prototypic example, activate
+a variety of cells, including monocytes, macrophages, lymphocytes, eosinophils and basophils, and have been implicated in chronic inflammatory diseases [13,21]. CCL2 is a
+crucial factor for the development of adaptive Th2 responses
+[22] and also causes degranulation of mast cells and, mainly,
+basophils [23]. Together with other factors, CCL2, CCL5 and
+CXCL8 have been suggested to play a fundamental role in
+histamine and serotonin generation in mast cells and are
+mediators of acute inflammatory responses [24]. Considering the important roles of chemokines and their receptors in
+the inflammatory process of several skin diseases [25-27], it
+is possible that the proinflammatory chemokines together
+with other factors, such as like cytokines, contribute to the
+immune dysregulation in CIU.
+
+Due to the role of CXCL8, CXCL9, CXCL10, CCL2 and
+CCL5 in innate immune response and inflammation, we
+evaluated the level of these chemokines in sera from CIU
+patients and compared their ASST and BHR responses.
+Moreover, to evaluate the chemokines produced by monocytes and T cells, we assessed (i) the ability of peripheral
+blood mononuclear cells (PBMC) to secrete CXCL8 and
+CCL2 in response to superantigen, a stimulus to monocytes
+plus T cells and polyclonal T cells, and (ii) the relative levels
+of mRNA and protein in CD14* cells and CD4* T cells.
+
+ 
+
+ 
+
+Materials and methods
+
+Study subjects and ASST
+
+CIU patients who had recurrent and transitory itchy weals for
+more than 6 weeks, at least four times a week, were selected
+from the Dermatological Outpatient Clinic of the Hospital
+das Clinicas de Sao Paulo. Patients with physical urticaria,
+urticarial vasculitis or food allergies were excluded as
+described previously [28]. Anti-histamine medications were
+withdrawn 48 h before the study. The CU patients and healthy
+control (HC) group who participated in our study did not
+take corticosteroids or immunosuppressive drugs. Samples
+were obtained from 38 patients with CIU (32 females and six
+
+130
+
+males, aged 22-80 years, median age 48-50 years) and 32
+healthy controls (24 females and eight males, aged 23-60
+years, median age 38-81 years). The HC group consisted of
+laboratory staff who do not take corticosteroids or immunosuppressive drugs with no clinical signs of urticarial, asthma/
+rhinitis and food allergies. All subjects gave written informed
+consent, and the study protocol was approved by the institutional ethics committee of the HC-FMUSP.
+
+The ASST (autologous serum skin test) was performed
+according to standard methods [5], using fresh autologous
+serum injected intradermally into the volar forearm skin. A
+positive test was defined as a serum-induced weal =1-5 mm
+diameter more than that elicited by the saline response after
+30 min.
+
+Basophil histamine release assay
+
+BHR was performed using leucocyte suspension from healthy
+blood donors, as described by Luquin and collaborators [29].
+Whole blood was collected in ethylenediamine tetraacetic
+acid (EDTA) (40 ml), sedimented in 6% dextran-3% glucose0:15 M NaCl saline solution. Fifty ul of leucocytes (20 x 10°
+cells/ml) diluted in phosphate-buffered saline (PBS) containing 3% bovine serum albumin (BSA) with 2 mm CaCL, and
+1 mm MgCl were incubated with 50 ul of serum in 96-well
+microplates (Costar, Cambridge, MA, USA) for 40 min at
+37°C. The positive control reaction was incubated with 50 ul
+of goat anti-human IgE (12-5 ug/ml) (Calbiochem, Darmstadt, Germany) in PBS. For determining total histamine, two
+replicates of cell aliquots were boiled for 5 min. Reaction was
+stopped by the addition of 25 ul of 20 mm/ml EDTA and
+ice-cold buffer, and centrifuged. Histamine concentration
+was measured with enzyme-linked immunosorbent assay
+(ELISA) based on the competition principle, according to the
+manufacturer’s instructions (IBL, Hamburg, Germany). The
+optical density reading was performed at 450 nm inan ELISA
+microplate reader (Molecular Devices, Sunnyvale, CA, USA)
+with a SOFT max PRO program. The results are expressed as
+percentage release using the formula: (sample-basal)/(totalbasal) x 100. The cut-off values for each assay were determined as the percentage of histamine release comparing
+to the media obtained from healthy serum (n = 27) plus 2
+standard deviations (SD).
+
+ 
+
+Serum chemokine measurements
+
+Serum obtained from CIU patients and healthy subjects were
+measured using the human chemokine cytometric bead
+array kit (Becton Dickinson, San Diego, CA, USA) and
+analysed by flow cytometry [fluorescence activated cell
+sorter (FACS)Calibur; Becton Dickinson]. CCL5 measurement was performed by ELISA (R&D Systems, Minneapolis,
+MN, USA). The optical density reading was performed at
+450 nm in an ELISA microplate reader (Molecular Devices,
+Sunnyvale, CA, USA) with a SOFT max PRO program.
+
+© 2011 The Authors
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+In vitro induction of chemokine secretion by PBMC
+
+PBMC were obtained from heparinized venous blood by
+Ficoll-Hypaque gradient centrifugation (GE Healthcare BioSciences AB, Uppsala, Sweden) and diluted in RPMI-1640
+medium supplemented with 10% AB human serum (Sigma,
+St Louis, MO, USA). Cultures of PBMC (3-0 x 10° cells/well)
+were incubated in 24-well plates (Costar, Cambridge, MA,
+USA) with medium or phytohaemagglutinin (PHA, 2-5 Ug/
+ml) or Staphylococcus aureus enterotoxin A (SEA, 40 ng/ml)
+for 24h at 37°C and 5% CO). Cell-free supernatants were
+harvested and stored at —80°C until chemokine measurement by ELISA (R&D Systems). The limits for chemokine
+detection by ELISA are as follows: 7-81 pg/ml for CXCL8 and
+CCLS5 and 23-44 pg/ml for CCL2.
+
+Flow cytometry
+
+For intracellular CXCL8 and CCL2 staining, PBMC
+(3-0 x 10°) were cultivated in RPMI-1640 medium with 10%
+AB human serum (Sigma) in 24-well plates (Costar) for 18 h
+at 37°C and 5% CO, with medium or SEA (1 pg/ml) and
+brefeldin A (Sigma, 10 g/ml). After incubation with 10 ul of
+human IgG for 10 min at 4°C, cells were labelled with antiCD14 PC5 (BD PharMingen). The cells were fixed with fixation medium (Fix & Perm medium A; Invitrogen, Calsbad,
+CA, USA), washed and then permeabilized with permeabilization medium (Fix & Perm medium B; Invitrogen).
+Samples were incubated with anti-CXCL8 phycoerythrin
+(PE) or anti-CCL2 PE (BD Pharmingen) with their respective isotype controls. Analyses were performed in a Coulter
+EPICS XL-ML flow cytometer (Coulter, Miami, FL, USA)
+with System II software.
+
+Real-time polymerase chain reaction (PCR)
+
+CD4* T cells and CD14* monocytes were isolated by magnetic cell sorting using negative and positive selection,
+respectively, with magnetic microbeads (Miltenyi Biotech,
+Paris, France). The purity of the two cell populations was
+95% as assessed by flow cytometry. CD14* and CD4* cells
+were cultivated in RPMI-10% AB human serum (Sigma) in
+96-well plates (Costar) with medium or SEA (40 ng/ml) or
+PHA (2:5 ug/ml), respectively, for 2 h at 37°C and 5% CO).
+Total RNA from 1 x 10° cells was extracted using the RNeasy
+Mini Kit (Qiagen, Valencia, CA, USA) and reverse transcription was performed with Sensiscript reverse transcriptase
+(Qiagen). The real-time PCR condition was performed as
+described previously [11], with the following primers:
+albumin sense: 5’-GCT-GTC-ATC-TCT-TGT-GGG-CTG-T3’, albumin anti-sense: 5’-AAA-CTC-ATG-GGA-GCT-GCTGGT-T-3’, melting temperature (Im, 79°C); CCL2 sense:
+5’-TCT-GTG-CCT-GCT-GCT-CAT-AG-3’,  CCL2 _ antisense: 5’-CAG-ATC-TCC-TTG-GCC-ACA-AT-3’, Tm 83°C;
+
+© 2011 The Authors
+
+Chemokines in chronic idiopathic urticaria
+
+CCL5 sense: 5’-ACC-ACA-CCC-TGC-TGC-TTT-GC-3’,
+CCLS anti-sense: 5’-CCG-AAC-CCA-TTT-CTT-CTC-TGG3’, Tm 84°C; CXCL8 sense: 5’-TGT-GTG-TAA-ACA-TGACTT-CCA-AGC-T-3’, CXCL8 anti-sense: 5’-GCA-AAACTG-CAC-CTT-CAC-ACA-G-3’, Tm 81°C; and Toll-like
+receptor-4 (TLR-4) sense 5’-CAG-AGT-TTC-CTG-CAATGG-ATC-A-3’, TLR-4 anti-sense: 5’-GCT-TAT-CTG-AAGGTG-TTG-CAC-AT-3’, Tm 78°C. The copy number of
+chemokines messenger was normalized with the housekeeping gene, albumin, and presented as a cytokine to albumin
+copy-number ratio [30].
+
+Statistical analysis
+
+The Mann-Whitney U-test was used to compare variables
+between patients with CIU and healthy controls. Wilcoxon’s
+test, a non-parametric paired test, was used to compare the
+difference between the expression levels under basal and
+stimulated conditions. P values less than 0-05 were considered significant.
+
+Results
+
+Circulating chemokines in CIU
+
+Considering the active role chemokines play in inflammatory
+process, we evaluated the level of the CXCL8, CXCL9 and
+CXCLI10 and the CCL2 and CCL5 in serum from patients
+with CIU. There was a significant increase in the level of
+CXCL8, 9, 10 and CCL2 in CIU sera in comparison with the
+HC group (Fig. 1). The CCL5 chemokine was detected at
+the highest concentration, but no difference was observed
+between the levels found in sera from CIU or HC groups. The
+relation among levels of chemokines in the CIU group was
+CCL5 > CXCL10 = CXCL9 > CCL2 > CCL8, and in the HC
+group was CCL5 > CXCL10 > CXCL9 > CCL2 >CCL8. In
+fact, in HC the level of CXCL10 was higher than that of
+CXCL9 (CXCL10 > CXCL9), whereas in CIU the level of
+CXCL10 was found to be similar to that of CXCL9
+(CXCL10 = CXCL9).
+
+The circulating levels of chemokines in CIU patients were
+tested through the ASST or the BHR assay. Table 1 shows that
+of 38 patients, 21 (55-3%) had a positive response to ASST
+and 44-7% were negative. For the BHR, 10 of the 38 patients
+(26:3%) were positive, of whom six (60%) were both BHR*
+and ASST*, and the remaining four were BHR+ and ASST.
+No significant difference was found regarding the levels of
+circulating chemokines between patients positive or negative
+for the ASST response; similarly, no difference was found
+between BHR-positive or BHR-negative. Furthermore, the
+levels of chemokines were compared with the clinical
+evidence for angioedema. No significant difference was
+found in the chemokine levels of patients with or without
+angioedema (Table 1).
+
+131
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+J. C. Santos et al.
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CXCL8 CXCL10
+500; g cas 6000
+eg .
+250 °
+2 2 1000)
+> 50 >
+> 2000}
+5
+0 )
+CXCL9 CCL5
+6000 a 400
+: 300} 6
+oll
+E 200,
+2 ae
+100- S2gee
+oBee0
+I)
+CCL2
+1500 ae eHC
+. *ClU
+1000
+|
+E *.
+2
+500; Be
+92808
+ol See SE
+
+Fig. 1. Circulating chemokine levels in patients with chronic
+idiopathic urticaria (CIU). Serum samples from healthy controls (HC)
+and CIU patients were used to determine the presence of CXCL8,
+CXCL10, CCL2 and CXCL9 by cytometric bead array. Determination
+of CCLS levels was performed by enzyme-linked immunosorbent
+assay (ELISA). Horizontal line represents the median. ***P = 0-001;
+**P = 0-01 compared with the HC group.
+
+In vitro chemokine secretion by PBMC
+
+Considering the broad influence of CCL2, CXCL8 and CCL5
+on the lymphocyte and monocyte populations, we evaluated
+the level of chemokines secreted by PBMC using PHA
+or SEA as stimulus. As shown in Fig. 2, the spontaneous
+
+secretion of CCL2 by PBMC from CIU patients was significantly higher than that from the HC group. In addition, in
+CIU patients, CCL2 secretion was greatly enhanced by SEA
+stimulation, and CCL5 and CXCL8 levels were increased
+using PHA as stimulus in comparison with HC individuals
+(Fig. 2). The CXCL8 secretion induced by SEA was not
+significantly different from the control values.
+
+Up-regulation of CXCL8 and CCL2 and
+down-regulation of TLR-4 in monocytes of
+CIU patients
+
+Monocytes from PBMC secreting CCL2 and CXCL8 were
+evaluated by flow cytometry after stimulation with SEA
+and in the presence of brefeldin. Also, levels of CCL2 and
+CXCL8 mRNA from CD14* cells treated with SEA were
+analysed by real-time PCR. We found that in PBMC the
+CD14* cells were the main source of CXCL8 in both groups
+(Fig. 3a), as the analysis of CD4* and CD8* T cells showed
+fewer than 2% of positive cells for CXCL8 secretion (data
+not shown).
+
+The mean fluorescence intensity (MFI) of intracellular
+CXCL8* in CD14" cells with or without SEA stimulation was
+significantly lower in CIU than in HC subjects (Fig. 3c).
+Similar results were observed for the percentage of CD14*
+cells secreting CXCL8 (data not shown).
+
+In contrast, the mRNA analysis from CD14* cells stimulated with SEA (Fig. 3e) revealed an increased CXCL8 expression in CIU patients compared to HC. The up-regulation of
+the CXCL8 mRNA and protein levels detected in the supernatant of cell cultures suggests that activated monocytes in
+CIU individuals secrete the chemokine in vivo quickly; this
+could interfere with the in vitro capture of the intracellular
+protein.
+
+CCL2 was secreted mainly by CD14* cells (Fig. 3b) and its
+basal expression decreased in CIU patients whereas, after
+SEA stimulation, similar levels were observed for both CIU
+and HC groups (Fig. 3d). Analysis of CCL2 expression in
+CD4* T and CD8* T cells, naive or memory B cells, as well as
+basophils, were negative (data not shown).
+
+Similarly to CXCL8, the CCL2 mRNA level increased
+after SEA stimulation in CD14* cells from the CIU group
+
+Table 1. Chemokine serum levels in patients with chronic idiopathic urticaria (CIU).
+
+ 
+
+ 
+
+ 
+
+Patients CXCL10 CXCL9 CXCL8 CCL2 CCLS
+pg/ml pg/ml pg/ml pg/ml ng/ml
+1747 = 252-1 1933 + 366-7 35:4 + 5-0 433-6 + 87-1 84-3 + 15-1
+1487 = 194-7 1639 = 217-4 PLE BB 425-6 + 66:8 84-3 + 10-2
+1294 + 134-8 1936 + 469-0 SAV EO35 414-6 + 144-3 85-3 = 19-0
+1618 = 181-5 1700 + 242-0 SP 2e 12:6 507-1 + 63-2 86-7 = 8-6
+1403 = 159 1424 + 271-9 42-29 + 5-26 474-0 = 97-5 82-0 = 10-5
+1343 + 155 1387 + 197-9 64-83 + 21-39 351-0 + 58-0 85-4 + 23-7
+
+ 
+
+ 
+
+Autologous serum skin test (ASST) or basophil histamine release assay (BHR) in 38 patients with CIU expressed as mean ~ standard error of the
+
+mean. Association with angioedema (ANG*).
+
+132
+
+© 2011 The Authors
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+ 
+
+Chemokines in chronic idiopathic urticaria
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baseline PHA SEA +
+50 400 400 - é
+° * .
+AD 300 300 + e
+a 30+ ° a Pry a
+CCL2 £ Oo, E 200 é E2007 5
+2 207; 800 2 O40 e 2 ©9909
+tol 8 100 G02 100; 50
+° 0088 S909
+0 aie 0 a o LS8g80
+Baseline PHA SEA
+250 - 800 400 - .
+fe} * 4
+fa: e
+POT °° 600 e 300g
+e
+3 150b 6° a a °
+CXCL8 E °0 £— 400 E 200+ 0°
+D100 0° = 2
+c OB Cc i= fo}
+0° eo
+50 | 200 8 100+ 00
+ogo?
+0 ‘00 9 Lc 480
+Baseline PHA SEA
+80 - 20 . 50,
+fe}
+60 - 15 4 40; e
+) e 4 6
+3 Z ZF ‘
+CCL5 — 40+ 5 10 0° ee > 0 ee
+< c ee © 204+
+20 F 5 9 Se" °° °
+08 tee" 10; 290 e
+9 BRIS 5
+0 O | Sanam or Phee@- ol a
+OHC e@ClU
+
+Fig. 2. In vitro chemokine secretion by peripheral blood mononuclear cells (PBMC) from patients with chronic idiopathic urticaria (CIU). PBMC
+
+from healthy controls (HC) and CIU patients were incubated with medium (baseline) or with phytohaemagglutinin (PHA) (2:5 ug/ml) or
+Staphylococcus aureus enterotoxin A (SEA) (40 ng/ml) for 24 h. Supernatants were taken to determine the presence of CCL2, CXCL8 and CCL5
+by enzyme-linked immunosorbent assay (ELISA). Horizontal line represents the median. **P = 0-01; *P = 0-05 compared with the HC group.
+
+compared to HC (Fig. 3f). These findings show the activation status of monocytes in CIU and hyperresponsiveness to
+SEA stimulation. Moreover, considering that Gram-positive
+bacterial superantigenic exotoxins can up-regulate the transcription and membrane expression of TLR-4 in human
+monocytes [27], we evaluated the ex vivo TLR-4 expression
+in CD14" T cells. Interestingly, TLR-4 expression on monocytes from patients was reduced significantly compared to
+HC CD14' cells (Fig. 4a).
+
+In view of the high levels detected for CCL5 secreted by
+PBMC, we evaluated the expression of the CCL5 mRNA
+levels in CD4* T cells by real-time PCR (Fig. 4b). The CCL5
+mRNA levels in CD4* T cells with or without PHA stimulation were similar in both patients and control groups
+(Fig. 4b). Also, the expression of the CXCR5 receptor on
+CD4* T cells, evaluated by flow cytometry, showed similar
+MFI between groups (data not shown).
+
+ 
+
+ 
+
+© 2011 The Authors
+
+Discussion
+
+The combination of chemokines may exert a key influence in
+the innate and adaptive immune response and could explain
+why T cells or other cell subtypes become activated in CIU.
+We have shown previously in CIU a disturbance in the T cell
+response for IL-2, IL-4, IL-10 and IL-17a secretion [11].
+Furthermore, we have also shown a disturbance in the innate
+immune response in CIU related to cytokine secretion by
+plasmacytoid dendritic cells though TLR-9 activation [31].
+In this sense, we demonstrated that the altered chemokine
+synthesis is related to the dysfunction of the innate immune
+response in CIU. Therefore, we evaluated the chemokines
+that exhibit a broad effect on monocytes, a subset scarcely
+studied in CIU. Accordingly, CXCL8 was chosen, as it is
+chemotactic for neutrophils, T lymphocytes and monocytes [15,17], and also CXCL10, as it is chemotactic for
+
+133
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+J. C. Santos et al.
+
+Fig. 3. Up-regulation of CXCL8 and CCL2
+mRNA levels in monocytes upon Staphylococcus
+aureus enterotoxin A (SEA) stimulation in
+patients with chronic idiopathic urticaria
+(CIU). Peripheral blood mononuclear cells
+(PBMC) from healthy controls (HC) (open
+symbol) and CIU patients (closed symbol) were
+incubated with medium (baseline) or with SEA
+and brefeldin A for 18 h; CD14* cells secreting
+intracellular CXCL8 and CCL2 were evaluated
+by flow cytometry. Dot-plot graphs illustrate
+non-stimulated CD14* cells from HC
+individuals expressing CXCL8 (a) or CCL2 (b).
+The mean fluorescence intensity (MFI) for
+CXCL8 (c) and CCL2 (d) expression on CD14*
+cells is shown. CD14* cells were purified from
+HC and CIU patients, stimulated with SEA for
+2h, and CXCL8 (e) and CCL2 (f) mRNA levels
+were determined by real-time polymerase chain
+reaction. The horizontal line represents the
+median. **P < 0-01; *P < 0-05 compared with
+the HC group.
+
+IFN-y-secreting Thl lymphocytes [20] and CCL2, secreted
+mainly by monocytes, and a crucial factor for the development of adaptive Th2 responses [22].
+
+Increases in CXCL8, 9 and 10 and CCL2 levels were
+detected in the majority of the CIU patients, regardless of
+
+(a) (b)
+80, 40,
+
+fo)
+S
+°
+
+wo
+S
+
+expression
+
+nN
+
+i=}
+
+oe
+
+ee
+:
+
+oO fe}
+
+°
+
+4 °
+
+°
+
+Relative TLR4 mRNA
+expression
+nN oS
+So oS
+°
+°
+eo x
+°
+Relative CCL5 mRNA
+
+fo}
+
+ 
+
+PHA — - + +
+
+Fig. 4. Toll-like receptor-4 (TLR-4) mRNA expression on monocytes
+and CCL5 mRNA expression on CD4* T cells of patients with chronic
+idiopathic urticaria (CIU). Purified non-stimulated CD14* cells from
+healthy controls (HC) (open symbol) and CIU patients (closed
+symbol) were evaluated for TLR-4 mRNA levels (a) or for CCL5
+mRNA expression on purified CD4* T cells stimulated with
+phytohaemagglutinin (PHA) for 2 h (b) by real-time polymerase
+chain reaction. The horizontal line represents the median. *P = 0-05
+compared with the HC group.
+
+134
+
+ 
+
+ 
+
+0-18% 312%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+cD14
+
+(c) (d)
+
+= 2000 = 50
+L *
+
+2 1500 8 2 407 mg
+& N30} ° .
+S100} g * » *
+Q _ eV Bal o
+(3) Ss, 80 A See.
+% S5O0p % “oe Sl St
+Pal oe tk ° s a 8 =
+Oo 0 * 5 0) =
+
+SEA - - + + SEA - - + +
+
+(e) (f)
+g 8 + £ 50
+lag . 6 *
+= _ 20 . o te E 5) °
+ao Lat N= *
+age; Tw (U8 Zo °
+Sto} we FI 8 tO G20
+2% 5 o re g $40
+oO 0 2 2
+©& SFA = = & & SEA
+
+ 
+
+ASST or BHR response. Moreover, chemokine up-regulation
+was not correlated with clinical parameters such as angioedema, which was detected in 59% in the cohort of CIU
+patients. Of these chemokines, we focused on CCL2, in view
+of its increased serum levels in CIU, the spontaneously active
+secretion by PBMC, and the high secretion levels induced by
+SEA stimulation. The crucial source of CCL2 was monocytes, as shown by the increased mRNA expression in CD14*
+cells in CIU. CCL2 is one of the key factors involved in the
+initiation of inflammation, triggering chemotaxis and
+transendothelial migration of monocytes to inflammatory
+lesions by interacting with the membrane CC chemokine
+receptor 2 (CCR2) in monocytes [32]. CCL2 also has a
+potent basophil histamine release activity [22]; in CIU, a
+normal basophil response to CCL2 has been reported,
+whereas it cannot be ruled out that CCL2 might be involved
+in histamine release [33]. In fact, it seems that serum
+factor(s) could be involved in the activation of basophils, as
+basophils from patients with CIU are hyperresponsive to
+serum, but such a factor is yet to be identified [29]. Previously, we observed that basophils from patients with CIU
+displayed up-regulation of the activation/degranulation
+markers, CD203c and CD63, and high responsiveness to IL-3
+stimulation [28]. This basophil-activated profile was due
+probably to an in vivo priming triggered by a potent
+
+© 2011 The Authors
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+basophil-activating factor such as CCL2; therefore, we
+observed increased CCL2 serum levels associated with active
+secretion by monocytes that, together, could contribute, at
+least in part, to the activated status of basophils in CIU
+patients.
+
+In addition, several other chemokines may also be
+involved in the recruitment/activation of monocytes. In this
+regard, it has been demonstrated that the stimulation of
+CCL5 leads to recruitment of monocytes/macrophages
+which express CCR5 and CCR1, both of which bind CCL5
+with high affinity [34]. In CIU the target cells are mast cells
+and basophils, in which mast cell activation requires an
+assembly of circulating chemokines, such as CCL5, CCL2
+and CXCLS8 that together play a fundamental role in histamine and serotonin generation [24]. In this sense, not only
+CCL5, but CCL2 and CXCL8 were also significantly more
+abundant in CIU; up-regulation of these chemokines in
+patients with CIU may possibly contribute to the maintenance of activated status of cell subsets, such as basophils,
+monocytes and T cells. It is probable that the disturbance of
+chemokine synthesis may be one of the triggering factor(s)
+of the inflammatory status in the CIU.
+
+The activated status of monocytes in CIU was reinforced
+by hyperresponsiveness to SEA stimulation. Superantigens
+bind directly to specific regions of major histocompatibility complex (MHC) class II molecules on the antigenpresenting cells and to the variable region of the B chain of
+the T cell receptor [35]. Interestingly, a decreased TLR-4
+expression on CD14* cells from CIU patients was observed
+in ex vivo conditions. It has been described that histamine
+could inhibit the expression of CD14 on monocytes through
+the stimulation of H2-receptors [36]. TLR-4 requires CD14
+to participate in the process of lipopolysaccharide (LPS)induced signalling; whether there is a direct action from
+histamine released by skin mast cells, or by a secondary effect
+of H1-anti-histamine on regulation of TLR-4 expression on
+monocytes, needs to be explored further. Together, these
+findings suggest that there is an ongoing inflammatory
+process in CIU.
+
+In conclusion, the results showed that patients with CIU
+present an altered chemokine secretion pattern that is potentially connected to their chronic inflammatory status.
+Up-regulation of CCL2 and CXCL8 genes, measured by
+mRNA levels and cell-secreted protein in serum, indicates
+igh responsiveness from monocytes, contributing to the
+creation of a proinflammatory environment in CIU. These
+findings suggest that the innate immune system through
+chemokines and monocytes could lead to the immune activation contributing to the pathogenesis of CIU.
+
+ 
+
+ 
+
+ 
+
+Acknowledgments
+
+We thank Dr Gabriela Ribeiro-dos-Santos for reviewing the
+manuscript. This work was supported by FAPESP (2007/
+58485-9) and LIM-56/HCFMUSP.
+
+© 2011 The Authors
+
+Chemokines in chronic idiopathic urticaria
+
+Disclosure
+
+The authors declare no conflict of interest.
+
+References
+
+1 Greaves M. Chronic urticaria. J Allergy Clin Immunol 2000;
+105:664—72.
+
+2 Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves
+
+MW. Autoantibodies against the high-affinity IgE receptor as a
+
+cause of histamine release in chronic urticaria. N Engl J Med 1993;
+
+328:1599-604.
+
+Kaplan AP, Greaves M. Pathogenesis of chronic urticaria. Clin Exp
+
+Allergy 2009; 39:777-87.
+
+4 Sabroe RA, Francis DM, Barr RM et al. Anti-Fc(episilon)RI auto
+
+antibodies and basophil histamine releasability in chronic idio
+pathic urticaria. J Allergy Clin Immunol 1998; 102 (Pt 1):651-8.
+
+Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A,
+
+Greaves MW. The autologous serum skin test: a screening test for
+
+autoantibodies in chronic idiopathic urticaria. Br J Dermatol 1999;
+
+140:446-52.
+
+6 Guttman-Yassky E, Bergman R, Maor C, Mamorsky M, Pollack S,
+Shahar E. The autologous serum skin test in a cohort of chronic
+
+w
+
+w
+
+idiopathic urticaria patients compared to respiratory allergy
+patients and healthy individuals. J Eur Acad Dermatol Venereol
+2007; 21:35-9.
+
+7 Kaplan A. Inflammation in chronic urticaria is not limited to the
+consequences of mast cell (or basophil) degranulation. Clin Exp
+Allergy 2010; 40:834-5.
+
+8 Caproni M, Cardinali C, Giomi B et al. Serological detection of
+eotaxin, IL-4, IL-13, IFN-gamma, MIP-lalpha, TARC and IP-10 in
+chronic autoimmune urticaria and chronic idiopathic urticaria.
+J Dermatol Sci 2004; 36:57-9.
+
+9 Ciprandi G, De Amici M, Berardi L et al. Serum neopterin levels in
+spontaneous urticaria and atopic dermatitis. Clin Exp Dermatol
+2011; 36:85-7.
+
+10 Tedeschi A, Lorini M, Suli C, Asero R. Serum interleukin-18 in
+patients with chronic ordinary urticaria: association with disease
+activity. Clin Exp Dermatol 2007; 32:568-70.
+
+11 Dos Santos JC, Azor MH, Nojima VY et al. Increased circulating
+pro-inflammatory cytokines and imbalanced regulatory T-cell
+cytokines production in chronic idiopathic urticaria. Int Immunopharmacol 2008; 8:1433-40.
+
+12 Mackay CR. Chemokines: immunology’s high impact factors. Nat
+Immunol 2001; 2:95-101.
+
+13 Zlotnik A, Yoshie O. Chemokines: a new classification system and
+their role in immunity. Immunity 2000; 12:121-7.
+
+14 Charo IF, Ransohoff RM. The many roles of chemokines and
+chemokine receptors in inflammation. N Engl J Med 2006;
+354:610-21.
+
+15 Baggiolini M, Walz A, Kunkel SL. Neutrophil-activating peptide-1/
+interleukin 8, a novel cytokine that activates neutrophils. J Clin
+Invest 1989; 84:1045-9.
+
+16 Gerszten RE, Garcia-Zepeda EA, Lim YC et al. MCP-1 and IL-8
+trigger firm adhesion of monocytes to vascular endothelium under
+flow conditions. Nature 1999; 398:718-23.
+
+17 Taub DD, Turcovski-Corrales SM, Key ML, Longo DL, Murphy WJ.
+Chemokines and T lymphocyte activation: I. Beta chemokines
+costimulate human T lymphocyte activation in vitro. J Immunol
+1996; 156:2095-103.
+
+135
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+J.C
+
+8
+
+19
+
+20
+
+2
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+136
+
+. Santos et al.
+
+Fulkerson PC, Zhu H, Williams DA, Zimmermann N, Rothenberg
+ME. CXCL9 inhibits eosinophil responses by a CCR3- and Rac2dependent mechanism. Blood 2005; 106:436-43.
+
+Bonecchi R, Bianchi G, Bordignon PP et al. Differential expression
+of chemokine receptors and chemotactic responsiveness of type 1 T
+helper cells (This) and Th2s. J Exp Med 1998; 187:129-34.
+Rotondi M, Rosati A, Buonamano A et al. High pretransplant
+serum levels of CXCL10/IP-10 are related to increased risk of renal
+allograft failure. Am J Transplant 2004; 4:1466-74.
+
+Baggiolini M, Dewald B, Moser B. Human chemokines: an update.
+Annu Rev Immunol 1997; 15:675-705.
+
+Karpus WJ, Lukacs NW, Kennedy KJ, Smith WS, Hurst SD, Barrett
+TA. Differential CC chemokine-induced enhancement of T helper
+cell cytokine production. J Immunol 1997; 158:4129-36.
+
+Rose CE Jr, Sung SS, Fu SM. Significant involvement of CCL2
+(MCP-1) in inflammatory disorders of the lung. Microcirculation
+2003; 10:273-88.
+
+Castellani ML, De Lutiis MA, Toniato E et al. Impact of RANTES,
+MCP-1 and IL-8 in mast cells. J Biol Regul Homeost Agents 2010;
+24:1-6.
+
+Gros E, Bussmann C, Bieber T, Forster 1, Novak N. Expression of
+chemokines and chemokine receptors in lesional and nonlesional
+upper skin of patients with atopic dermatitis. J Allergy Clin
+Immunol 2009; 124:753-60. el.
+
+Homey B, Meller S. Chemokines and other mediators as therapeutic targets in psoriasis vulgaris. Clin Dermatol 2008; 26:539-45.
+Meller S, Gilliet M, Homey B. Chemokines in the pathogenesis of
+lichenoid tissue reactions. J Invest Dermatol 2009; 129:315-19.
+Lourenco FD, Azor MH, Santos JC etal. Activated status of
+basophils in chronic urticaria leads to interleukin-3 hyper
+29
+
+30
+
+5
+
+32
+
+33
+
+35
+
+36
+
+responsiveness and enhancement of histamine release induced by
+anti-IgE stimulus. Br J Dermatol 2008; 158:979-86.
+
+Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of
+basophils of patients with chronic urticaria to sera but hyporesponsiveness to other stimuli. Clin Exp Allergy 2005; 35:456-60.
+Giulietti A, Overbergh L, Valckx D, Decallonne B, Bouillon R,
+Mathieu C. An overview of real-time quantitative PCR: applications to quantify cytokine gene expression. Methods 2001; 25:386401.
+
+Futata E, Azor M, Dos Santos J et al. Impaired IFN-o secretion by
+plasmacytoid dendritic cells induced by TLR9 activation in chronic
+idiopathic urticaria. Br J Dermatol 2011; 164:1271-9.
+
+O’Hayre M, Salanga CL, Handel TM, Allen SJ. Chemokines
+and cancer: migration, intracellular signalling and intercellular
+communication in the microenvironment. Biochem J 2008;
+409:635-49.
+
+Puccetti A, Bason C, Simeoni $ et al. In chronic idiopathic urticaria
+autoantibodies against Fe epsilonRII/CD23 induce histamine
+release via eosinophil activation. Clin Exp Allergy 2005; 35:1599607.
+
+Weber C, Belge KU, von Hundelshausen P etal. Differential
+chemokine receptor expression and function in human monocyte
+subpopulations. J Leukoc Biol 2000; 67:699-704.
+
+Choi YW, Herman A, DiGiusto D, Wade T, Marrack P, Kappler J.
+Residues of the variable region of the T-cell-receptor beta-chain
+that interact with S. aureus toxin superantigens. Nature 1990;
+346:471-3.
+
+Takahashi HK, Morichika T, Iwagaki H et al. Histamine downregulates CD14 expression via H2 receptors on human monocytes. Clin
+Immunol 2003; 108:274-81.
+
+© 2011 The Authors
+
+Clinical and Experimental Immunology © 2011 British Society for Immunology, Clinical and Experimental Immunology, 167: 129-136
+

@@ -1,0 +1,1107 @@
+Significant association of FceRla promoter
+polymorphisms with aspirin-intolerant
+
+chronic urticaria
+
+ 
+
+Jin-Sik Bae, MS,?* Seung-Hyun Kim, PhD,?* Young-Min Ye, MD,? Ho Joo
+Yoon, MD, PhD,” Chang-Hee Suh, MD, PhD,? Dong-Ho Nahm, MD, PhD,?
+and Hae-Sim Park, MD, PhD? Suwon and Seoul, Korea
+
+Background: Although the mechanism that underlies aspirin
+hypersensitivity is not completely understood, an IgE-mediated
+response was reported for a patient with aspirin-intolerant
+chronic urticaria (AICU).
+
+Objective: We investigated whether genetic polymorphisms
+on the a-chain of the high-affinity IgE receptor (FceRIa)
+gene were associated with the AICU phenotype.
+
+Methods: We genotyped 2 promoter polymorphisms (-344C>T
+and -95T>C) of FceRIa gene in the Korean population, and
+the functional effect of the -344C>T polymorphism was
+analyzed by using a luciferase reporter assay and an
+electrophoretic mobility shift assay.
+
+Results: The rare allele frequency of the -344C>T
+polymorphism was significantly higher in the patients with
+AICU compared with the other subjects (P = .008 for AICU
+ys aspirin-tolerant chronic urticaria; P = .03 for AICU vs
+controls). This polymorphism was also significantly associated
+with total serum IgE concentrations and a higher rate of atopy
+in the patients with AICU (P = .01 and .05, respectively).
+
+The reporter plasmid that carried the -344T allele exhibited
+significantly higher promoter activity in a rat mast cell line
+(RBL-2H3) compared with the promoter activity of the -344C
+allele (P <.001). We found that transcription factor Mycassociated zinc finger protein preferentially bound the -344C
+promoter. Moreover, patients with AICU with the heterozygous
+CT genotype of the -344C>T polymorphism exhibited greater
+anti-IgE—mediated histamine release compared with those
+with the homozygous CC genotype.
+
+Conclusion: These results suggest that the -344C>T
+polymorphism of the FceRIa promoter may be associated
+with increased expression of FceRIa on mast cells and
+enhanced release of histamine.
+
+Clinical implications: The FceRIa —344C>T polymorphism
+may contribute to the development of AICU. (J Allergy Clin
+Immunol 2007;119:449-56.)
+
+From “the Department of Allergy and Rheumatology, Ajou University School
+of Medicine, Suwon; and "the Department of Internal Medicine, Hanyang
+University School of Medicine, Seoul.
+
+*These authors contributed equally to this work.
+
+Supported by a grant from the Korea Health 21 Research and Development
+Project of the Ministry of Health and Welfare, Republic of Korea (03-PJ10PG13-GD01-0002 and A0S0571).
+
+Disclosure of potential conflict of interest: The authors have declared that they
+have no conflict of interest.
+
+Received for publication January 24, 2006; revised September 27, 2006;
+accepted for publication October 3, 2006.
+
+Available online November 29, 2006.
+
+Reprint requests: Hae-Sim Park, MD, PhD, Professor, Department of Allergy
+and Rheumatology, Ajou University School of Medicine, San-5, Woncheondong, Youngtonggu, Suwon, Korea 442-721. E-mail: hspark@ajou.ac.kr.
+
+0091-6749/$32.00
+
+© 2007 American Academy of Allergy, Asthma & Immunology
+
+doi:10.1016/j,jaci.2006.10.006
+
+Key words: Aspirin hypersensitivity, chronic urticaria, high-affinity
+IgE receptor, genetic polymorphism
+
+Sensitivity to aspirin (acetylsalicylic acid) results in
+distinct clinical syndromes including aspirin-intolerant
+asthma (AIA), which is a respiratory syndrome, and
+aspirin-intolerant chronic urticaria (AICU), which is a
+cutaneous syndrome. Although the cellular and biochemical events that occur during adverse reactions to aspirin
+are not completely clear, cysteinyl leukotrienes and histamine have been implicated as key mediators of the
+pathogenic responses of patients with AIA and AICU,
+respectively. Although several molecular genetic studies
+of AIA have clarified the pathogenesis of aspirin sensitivity in patients with this syndrome, there has been no
+attempt to study the molecular genetics of AICU.
+
+The prevalence of AICU is ~0.2% of the general
+population.’ Aspirin and other nonsteroidal anti-inflammatory drugs” aggravate 20% to 30% of patients with
+chronic urticaria, but the pathogenic mechanism that underlies AICU is unknown. Previously, we compared the
+clinical symptoms of patients with AICU with those of patients with aspirin-tolerant chronic urticaria (ATCU).? In
+the Korean population, aspirin hypersensitivity confirmed
+by an oral provocation test was observed in 35.7% of patients with chronic urticaria who had a high rate of atopy
+and high total serum IgE concentrations. Because an
+IgE-mediated response was reported for a patient with
+AICU,' we speculated that IgE might be involved in the
+pathogenesis of AICU. Consequently, in the current study,
+we performed a molecular genetic analysis on the a-chain
+of the high-affinity IgE receptor (FceRIa) gene in patients
+with AICU.
+
+The high-affinity IgE receptor is expressed on the
+surface of effector cells such as mast cells and basophils
+and initiates an IgE-mediated allergic response. The classic high-affinity IgE receptor is composed of a tetramer
+of a ligand-binding a-chain, a signal-augmenting B-chain,
+and a signal-transducing y-chain dimer. Binding of allergens to IgE-occupied high-affinity IgE receptors activates
+mast cells and eventually triggers the release of mediators
+such as histamine, proinflammatory cytokines (eg, ILs,
+TNF-a, and monocyte chemoattractant protein 1), prostaglandins, and leukotrienes.~° The a-chain of the highaffinity IgE receptor is the primary candidate for initiating
+the receptor stabilization that is crucial to the IgE-mediated
+allergic response.’
+
+449
+
+>
+Soe,
+x2
+a)
+~
+
+£2
+a.
+
+oo
+=
+
+ce
+55
+D>
+5
+= 2
+oie
+35
+gE
+“oOo
+=}
+
+ 
+e
+il
+30
+a2
+Qa
+ga
+ge
+<a
+ax
+ag
+a
+23
+as
+ae
+ga
+ae
+<
+
+ 
+
+ 
+
+450 Bae et al
+
+Abbreviations used
+AIA: Aspirin-intolerant asthma
+AICU: Aspirin-intolerant chronic urticaria
+API: API transcription factor
+ATCU: Aspirin-tolerant chronic urticaria
+EMSA: Electrophoretic mobility shift assay
+GR: Glucocorticoid receptor
+MAZ: Myc-associated zinc finger protein
+PIPES: Piperazine-N,N’-bis(2-ethanesulfonic acid)
+SNP: Single nucleotide polymorphism
+SPI: Spl transcription factor
+
+ 
+
+The FceRIa gene is located on chromosome 1q23 in
+humans and is composed of 7 exons and 2 promoters, specifically a distal and proximal promoter.* Recently, genetic
+association studies demonstrated positive associations
+between genetic polymorphisms within the proximal promoter of FceRIa and allergic diseases such as asthma and
+atopic dermatitis.”'° However, the possible association
+between FceRIa polymorphisms and the pathogenesis of
+urticaria has not been addressed. In this study, we investigated whether genetic polymorphisms of FceRIa were
+associated with the AICU phenotype by examining the
+genotype of FceRIa in patients with AICU, patients with
+ATCU, and normal, healthy controls.
+
+METHODS
+Subjects and phenotyping
+
+Subjects enrolled from Ajou University Hospital in Suwon,
+Korea, were divided into 3 groups (105 patients with AICU, 154
+patients with ATCU, and 222 controls). All the subjects participated
+in this study were ethnically Korean. Patients with chronic urticaria in
+the presence of daily itchy wheals that persisted for more than 6
+weeks and no known cause of chronic urticaria such as food allergy,
+urticarial vasculitis, physical urticaria, infectious agents, parasites,
+or autoimmune disease were classified as either aspirin-tolerant or
+aspirin-intolerant on the basis of the result of oral provocation with 500
+mg aspirin (Rhonal; KunWha Pharmaceutical Co, Seoul, Korea) as
+described previously.'! Patients with both AIA and AICU were excluded
+from this study. Normal controls were recruited from the general population. Controls had no personal or family history of allergic diseases, or
+aspirin or drug hypersensitivity. All subjects provided informed consent,
+and the study protocols were approved by the institutional ethics committee. All subjects fully understood the scope of this study and signed an
+informed consent form. Skin prick tests were performed with 12 common
+aeroallergens (Bencard Co, West Sussex, United Kingdom). On the basis
+of the results of the skin prick tests, atopy was defined as | or more
+positive reactions to common inhalant allergens. Total IgE concentrations were measured by using the UniCAP system (Pharmacia
+Diagnostics, Uppsala, Sweden) according to the manufacturer’s instructions. Antithyroglobulin and antimicrosomal antibodies in
+serum were detected by using anti-Tg radioimmunoassay and antiTPO radioimmunoassay (B-R-A-H-M-S Aktiengesellschaft, Hennigsdorf, Germany), respectively. Serum antinuclear antibody was
+detected by using indirect immunofluorescence (Fluoro HEPANA
+test, Medical and Biological Laboratories Co, Ltd, Nagoya,
+Japan).
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+ 
+
+Identification and genotyping of single
+nucleotide polymorphisms
+
+For single nucleotide polymorphism (SNP) identification, genomic
+DNA donated from 40 healthy Korean volunteers was used. Both
+promoter regions of FceRIa were sequenced, including a 1.1-kb
+fragment of the distal promoter and a 1.1-kb fragment of the proximal
+promoter, to examine SNPs by using the ABI Prism 3100 DNA
+analyzer (Applied Biosystems, Foster City, Calif). Four sets of
+primers designed for the amplification and sequencing analyses
+were based on GenBank sequences (reference genome sequence
+ABO059239, released on January 26, 2002). The forward and reverse
+primer sequences for the distal promoter region were 5'-cattttctgcctagacctgac-3' and 5’-ttcacctgctttctctgagtag-3', respectively, and the
+forward and reverse primer sequences for the proximal promoter
+region were 5'-actgtccctgtcttcttcagag-3' and 5'-tctacttaccgaagaacagtaagg-3', respectively. Sequence variants were verified using chromatograms. Two SNPs in the proximal promoter were identified at
+-344 and -95. No SNPs were detected in the distal promoter.
+
+Single nucleotide polymorphism genotyping was performed by
+using the SNP-IT assays of the SNPstream 25K system (Orchid BioSciences, Princeton, NJ). The region of genomic DNA that spanned
+the polymorphic site was amplified by using PCR with | phosphothiolated primer and | regular PCR primer. Sequences of amplifying
+and extension primers for —344C>T and -95T>C were forward-5'tggcatatgtttggtattcagt-3', reverse-5’-aatctgtcaatctgtgtacaactatttag-3’,
+extension-5'-cttagaaaagtggeatgcaagggag-3' (-344C>T), forward-5'agaaagaagcaaaaccaggc-3', reverse-5'-aatataggcttaaaaccaaaaagca-3’,
+extension-5’-caaaaagca gxaggaaatgttttctgt-3', (-95T>C). The positions of the aforementioned SNPs are expressed relative to the ATG
+translation start site at +1.
+
+Transfection and luciferase reporter assay
+
+RBL-2H3 cells (rat mast cell line #22256; KCLB, Seoul, Korea)
+were cultured in high-glucose Dulbecco modified Eagle medium
+supplemented with 10% FBS, | mmol/L sodium pyruvate, 100 U/mL
+penicillin G, and 100 g/mL streptomycin (Invitrogen, Carlsbad,
+Calif) at 37°C in a 5% CO; incubator.
+
+A 673-bp fragment (from —679 to —7) of the proximal promoter
+of human FceRIa was prepared by PCR amplification using either
+-344C homozygote or —344T homozygote human genomic DNA as a
+template. The forward primer sequence was 5'-CAAGGTA
+CCAAGAAAAGCGTTGGTAGCTC-3’ (the bold characters represent a Kpnl site). The reverse primer sequence was 5’- CTTCTCC
+ATGgACTCCTGGTGC-3’ (the bold characters represent a Ncol
+site; g was substituted with T to create the Ncol site). Each of
+the PCR products was subcloned separately into the KpnI-—Ncol site
+of the pGL3-Basic luciferase reporter vector (Promega, Madison, Wis).
+
+The mast cell line RBL-2H3 was transfected with the reporter
+plasmid (1 2g) and a control plasmid (0.2 pg pRSVBgal) by using
+lipofectamine (Invitrogen) as described previously.'* The relative
+transcriptional activity of each construct was expressed as the
+ratio of luciferase activity to B-galactosidase activity. Each experiment was conducted in triplicate for each sample, and the results are
+expressed as the means + SEs for 4 independent experiments (Fig 1).
+
+Nuclear extract preparation and
+electrophoretic mobility shift assay
+
+RBL-2H3 cells were washed with ice-cold PBS before being
+suspended in ice-cold buffer A (10 mmol/L HEPES, pH 7.9; 10
+mmol/L KCI; 0.1 mmol/L EDTA; | mmol/L dithiothreitol; 1 mmol/L
+phenylmethylsulfony! fluoride; 1 mmol/L NaNO;; 1 mmol/L NaF;
+and complete protease inhibitor cocktail; Roche, Basel, Switzerland).
+The cells were incubated on ice for 10 minutes and for an additional
+J ALLERGY CLIN IMMUNOL
+VOLUME 119, NUMBER 2
+
+15 minutes in the presence of 0.5% Nonidet P-40 (Sigma-Aldrich,
+St Louis, Mo). After centrifuging at 6000g for 1 minutes, the pellet
+was resuspended in extract buffer (20 mmol/L HEPES [Sigma], pH
+7.9; 400 mmol/L potassium chloride [Sigma]; 4.5 mmol/L magnesium chloride [Sigma]; 0.2 mmol/L ethylenediaminetetraacetic acid
+[Sigma]; | mmol/L dithiothreitol [Sigma]; 1 mmol/L phenylmethylsulfony] fluoride [Sigma]; 1 mmol/L sodium nitrate [Sigma]; 1 mmol/L
+sodium fluoride [Sigma]; and complete protease inhibitor cocktail;
+Roche Applied Science, Indianapolis, Ind) and were incubated on
+ice for | hour. The lysate was centrifuged at 10,000g for 10 minutes.
+After the addition of 15% glycerol, the supernatant was stored at
+—80°C until use.
+
+The following double-stranded oligonucleotides were used as
+probes for the electrophoretic mobility shift assay (EMSA): 5'gttttattctgeccteccttgcat-3’ and 5’-atgcaagggagggcagaataaaac-3’ corresponded to —354/-334 for -344C; 5’-gttttattctgctcteccttgcat-3' and
+5'-atgcaagggagagcagaataaaac-3'’ corresponded to —354/-334 for
+-344T; and 5'-cgcttgatgactcagecggaa-3’ and 5'-ttecggctgagtcatcaagcg-3' (API), 5’-ctegegecctececcge-3' and 5'-gcggeggaggecgcgag-3'
+(Myc-associated zinc finger protein [MAZ]!*), and 5’-attcgatcgegecggeecgagc-3' and 5’-cgagcggegcegegctagctta-3' (SP1)
+were competitors. The double-stranded oligonucleotides were annealed by incubation at 95°C for 5 minutes and successive gradual
+cooling to 37°C. The double-stranded DNA probes were radiolabeled
+at their 5’ ends with DNA polymerase I (Klenow; Promega) and
+[a-*?P]2’-deoxycytidine 5’ triphosphate (Amersham Biotech, Buckinghamshire, UK). Reaction mixtures (15 «L) that contained 5 pg
+nuclear extract, 10 mmol/L HEPES (pH 7.9), 400 ng poly(dIdC),
+1 mmol/L MgCh, 30 mmol/L KCl, 1 mmol/L dithiothreitol,
+1 mmol/L NaNO;, | mmol/L NaF, and 5% glycerol were preincubated at room temperature in the absence of the probe for 20 minutes
+before being incubated for 20 minutes at room temperature in the
+presence of 0.2 pmol radiolabeled probe. The reaction mixtures
+were then subjected to electrophoresis on a native 6% polyacrylamide
+gel. For competition experiments, unlabeled blunt-ended competitor
+oligonucleotides were added to the binding reaction mixtures before
+adding the radiolabeled oligonucleotide probes. The labeled probe
+was then added to the reaction mixture, which was then incubated
+for an additional 20 minutes before being electrophoresed on a native
+6% polyacrylamide gel. Competitive binding assay was performed to
+identify the transcription factor bound to —344 probe with incubation
+of 100-fold excess amounts of the unlabeled MAZ, SP1, or API
+probe. Supershift assay is described in detail in the Methods section
+in this article’s Online Repository at www.jacionline.org.
+
+All gels were dried and radioactivity was detected using a
+FLA3000 scanner (Fuji Photo Film, Tokyo, Japan). Modifications
+to the aforementioned procedures are described in the figure legends.
+
+Histamine release from basophils
+
+Preparation of peripheral blood leukocytes for fluorometric measurement of histamine release was performed in 15 volunteers with
+AICU with complaints of daily urticaria according to methods
+described previously.'*"'° Briefly, 20 mL blood was mixed with
+2.5 mL of 6% dextran (in 3% dextrose) and 1 mL EDTA. Samples
+were allowed to sediment at room temperature for 2 hours. The plasma
+fraction that contained the leukocytes was isolated by centrifugation
+at 250g for 8 minutes. The leukocyte pellet was washed twice with
+PIPES solution A (25 mmol/L piperazine-N-N-bis-2 ethane sulfonic
+acid, 110 mmol/L sodium chloride, 5 mmol/L potassium chloride,
+40 mmol/L sodium hydroxide, and 0.03% human serum albumin;
+PH adjusted to 7.4) before being resuspended in PIPES solution B
+(91 mmol/L calcium chloride, 0.5 mmol/L magnesium chloride, and
+0.1% dextrose in PIPES) to a final concentration of ~5 X 10° cells/
+mL. For the histamine release assay, 100 jxL calcium ionophore,
+A23187 (1 pmol/L or 3 pmol/L; Sigma) or goat antihuman IgE
+
+Bae et al 451
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+-344C
+1
+P344C [carta Luci
+---4 . uciferase focs
+promoter region pGL3
+-679 7
+-344T
+1
+PST | FoeRia Lucif b--=
+promoter region stone pGL3
+-679 -7
+B P<0.001
+10 2B 8p
+2 L
+4 8
+o Tf
+@ of
+2 5p
+gat
+£ 3r
+SB 2+
+© 1p
+o|
+Basic p344c p344T
+
+FIG 1. Effect of the -344C>T polymorphism on the transcription
+activity of the promoter on the FceRla. A, Schematic representation
+of reporter gene constructs that contained the FceRla promoter region with the -344 polymorphism. B, Relative luciferase production
+(ratio vs luciferase production by the promoter-less control vector,
+pGL3-Basic). The P value was determined by using the paired
+Student t test.
+
+antibodies (1:10, 1:100, 1:1,000 vol/vol; KPL, Gaithersburg, Md)
+were added to 200 wL leukocyte suspension, which was then
+incubated for 15 minutes at 37°C. In parallel, leukocyte suspensions
+were incubated with PIPES solution B alone to assay spontaneous
+histamine release. The total cellular histamine concentration was
+measured by adding 0.1 mL 55% trichloroacetic acid to the leukocyte
+suspension. The suspensions were centrifuged at 250g for 15 minutes
+at 4°C, and the supernatants were then collected and stored at -20°C
+until assayed for histamine. All of the aforementioned experiments
+were performed in duplicate. The histamine concentration was
+measured by using an automated fluorometric analyzer (Astoria
+analyzer 300; Astoria-Pacific, Clackamas, Ore). Histamine release
+was expressed as a percentage of the total cellular histamine concentration by using the following formula: percent histamine release =
+100 X ({stimulated histamine release — spontaneous histamine
+release]/[total cellular histamine release — spontaneous histamine
+release]). The histamine releasability from each patient by
+stimulation with antihuman goat IgE antibodies was presented as
+the maximum value of histamine release in response to 3 different
+concentrations of antihuman goat IgE antibodies (1:10, 1:100, and
+1:1000 vol/vol).
+
+Statistical analysis
+
+The genotype frequency at each SNP was examined for significant
+departure from Hardy-Weinberg equilibrium by using a y° test.
+Differences in genotype frequency between patients and controls
+were analyzed by using a x? test and by calculating the odds ratio
+with a 95% CI. Three logistic regression models (codominant, dominant, and recessive) were used to analyze SNPs after controlling for
+age and sex as covariates. Linkage disequilibrium between loci was
+
+measured by using the absolute value of Lewontin |D'| and r?.'7
+
+~
+Soe,
+x2
+So
+=?
+to
+=
+ce
+Bs
+£2
+Se
+Be
+oF
+eis
+sos
+
+ 
+452 Bae et al J ALLERGY CLIN IMMUNOL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e
+il
+30
+a2
+Qa
+ga
+ge
+<a
+ax
+ag
+a
+23
+as
+af
+Sa
+ae
+<
+
+ 
+
+FEBRUARY 2007
+TABLE I. Clinical characteristics of the study subjects
+AICU ATCU Nc Pvalue
+(N = 105) (N = 154) (N = 222) AICU vs ATCU AICU vs NC
+Age (y)* 34.98 + 11.518 39.34 + 11.615 36.36 + 15.156 .003 362
+Sex (male/total) 51/105 (48.6%) 74/154 (48.1%) 104/222 (46.8%) 935 771
+Atopy (presence/total) 76/102 (74.5%) 73/150 (48.7%) 26/186 (14.0%) <.001 <.001
+Log (serum total IgE [[U/mL])* 2.22 + 0.480 2.06 + 0.469 NA 009 NA
+Antithyroglobulin antibody (positive/total) 10/64 (15.6%) 22/115 (16.1%) NA 938 NA
+Antimicrosomal antibody (positive/total) 6/64 (9.4%) 17/137 (12.4%) NA 529 NA
+Antinuclear antibody (positive/total) 13/67 (19.4%) 22/129 (17.1%) NA 684 NA
+NA, Not applicable; NC, normal healthy controls.
+*Means + SDs.
+TABLE Il. The genotype and allele frequencies of the a-chain of human high-affinity IgE receptor (FceR1a)
+AICU ATCU Nc Papi?
+Loci Genotype (N = 105) (N = 154) (N = 222) AICU vs ATCU AICU vs NC
+—344C>T cc 59 (56.2%) 108 (70.1%) 148 (66.7%) 007 028
+CT 39 (37.1%) 45 (29.2%) 69 (31.1%) 039 062
+TT 7 (6.1%) 1 (0.6%) 5 (2.3%) 028 071
+q 0.252 0.153 0.178 008 .030
+—~95T>C TT 92 (87.6%) 149 (96.8%) 200 (90.1%) 014 512
+cr 13 (12.4%) 5 (3.2%) 22 (9.9%) NA NA
+cc 0 0 0 014 512
+q 0.062 0.016 0.050 016 524
+
+ 
+
+NA, Not applicable; q, minor allele frequency.
+
+*Each P value was calculated for a codominant, dominant, and recessive model. Logistic regression analysis was applied to control for age and sex as
+
+covariates.
+
+Differences of clinical characteristics between groups were examined
+by using the Student r test (for continuous variables) or a x” test (for
+categorical variables). Differences of histamine releasability between
+2 different genotype groups were examined by using Mann-Whitney
+U test. A P value of .05 or less was regarded as significant. All statistical analyses were performed using SPSS software (version 11.5;
+SPSS Inc, Chicago, Ill).
+
+RESULTS
+Clinical characteristics of the study subjects
+
+The clinical characteristics of the subjects are summarized in Table I. The patients with AICU were significantly
+younger (P = .003) than the patients with ATCU, whereas
+the rate of atopy and total serum IgE concentrations were
+significantly higher in the patients with AICU compared
+with the patients with ATCU (P < .001 and P = .009,
+respectively). The prevalence of serum autoantibodies
+including antithyroglobulin antibody, antimicrosomal
+antibody, and antinuclear antibody was not different between the patients with AICU and ATCU.
+
+Frequencies of FceRla SNPs in patients
+with chronic urticaria
+
+The allele and genotype frequencies of 2 FceRla
+polymorphisms are presented in Table II. The genotype
+distributions of both polymorphisms did not depart significantly from Hardy-Weinberg equilibrium (P > .05). The
+
+frequency of the genotype and allele that contained the
+-344T allele was significantly higher in the patients with
+AICU compared with the patients with ATCU (AICU vs
+ATCU, P = .007 for the codominant model, P = .039
+for the dominant model, P = .028 for the recessive model,
+and P = .008 for the allele frequency; AICU vs controls,
+P = .028 for the codominant model and P = .030 for the
+allele frequency). The genotype and allele frequencies of
+the -95T>C polymorphism were also significantly higher
+in the patients with AICU compared with the patients with
+ATCU (P = .014 for the codominant and recessive model
+and P = .16 for the allele frequency). There were no significant differences in allele and genotype frequencies
+between the patients with AICU and the controls. The
+homozygous CC genotype of the —95C polymorphism
+was not detected in any of the subjects. Two promoter polymorphisms in the FeeRIa gene were not in linkage disequilibrium (ID'| = 0.74 and r=0.01).
+
+Associations between chronic urticaria
+phenotype and SNPs
+
+We determined whether there were any associations
+between the 2 polymorphisms and clinical parameters
+such as atopy; elevated erythrocyte sedimentation rate;
+and concentrations of total serum IgE, antithyroglobulin
+antibodies, antimicrosomal antibodies, and antinuclear
+antibodies (Table III). Patients with AICU who carried the
+-344T allele had higher total serum IgE concentrations
+J ALLERGY CLIN IMMUNOL
+VOLUME 119, NUMBER 2
+
+Bae et al 453
+
+TABLE Ill. Comparison of clinical characteristics according to FceRla genotype in patients with AICU
+
+ 
+
+ 
+
+ 
+
+ 
+
+—344C>T —95T>C
+cc CT or TT P value TT cT P value
+Sex (male/total) 24/59 (40.7%) 24/46 .07 45/92 (48.9%) 6/13 (46.2%) 85
+Atopy (presence/total) 39/58 (67.2%) 37/44 (84.1%) 05 67/89 (75.3%) 9/13 (69.2%) 64
+Log (serum total 2.11 + 0.508 (58) 2.36 + 0.406 (45) 01 2.24 + 0.489 (90) 2.11 + 0.411 (13) 36
+IgE [IU/mL})*
+Antithyroglobulin antibody 7/30 (23.3%) 3/34 (8.8%) ll 9/58 (15.5%) 1/6 (16.7%) 94
+(positive/total)
+Antimicrosomal antibody 3/30 (10.0%) 3/34 (8.8%) 87 5/58 (8.6%) 1/6 (16.7%) S2
+(positive/total)
+Antinuclear antibody 7/30 (23.3%) 6/37 (16.2%) 46 13/61 (21.3%) 0/9 (0%) 21
+
+(positive/total)
+
+ 
+
+*Means + SDs.
+
+than patients with AICU who had the homozygous CC
+genotype (P = .01). The atopy rate was higher in patients
+with AICU who carried the —344T allele compared with
+patients with AICU who had the homozygous CC genotype, although this difference barely reached statistical
+significance (P = .05). There were no significant associations among the various clinical parameters and the
+~95T>C polymorphism in the patients with AICU.
+
+Effects of the -344C>T polymorphism on
+transcriptional activity
+
+To examine whether the -344C>T polymorphism was
+associated with altered promoter activity, we used a
+luciferase reporter assay to compare the reporter activity
+of plasmids that contained either —344T or —344C in the
+FceRIa promoter (Fig 1). Constructs that contained —344T
+exhibited significantly greater luciferase activity compared with the constructs that contained —344C (P < .001).
+
+To investigate whether the genetic polymorphism created a transcription factor binding site, we performed an
+EMSA with nuclear extracts from RBL-2H3 cells using
+double-stranded oligonucleotide probes that corresponded
+to—344C/T (-334/-354; Fig 2, A). A specific band was observed with the —344C probe but not with the —344T probe
+(Fig 2, B). The shifted band produced by the —-344C probe
+was not visible in the presence of the nonlabeled —-344C
+probe but remained visible in the presence of the nonlabeled —344T probe (Fig 2, C). A survey of a database
+of transcription factors suggested that the —344C>T polymorphism generated a potential MAZ-binding motif,
+namely CCCACCC. To clarify the involvement of
+MAZ, we performed a competition assay by using MAZ
+and SP1 probe, and found that the shifted band corresponding to the -344C probe was completely competed by unlabeled MAZ probe, but not by unlabeled SP1 and AP1
+probes (Fig 2, D).
+
+ 
+
+Effects of the -344C>T polymorphism on IgEinduced histamine release from basophils
+
+Because IgE binds FceRIa to induce the release of
+histamine from mast cells, we evaluated the effects of the
+polymorphism at —344C>T on histamine release from
+peripheral blood basophils in patients with AICU by using
+
+serial additions of the calcium ionophore, A23187, and
+anti-IgE antibodies. IgE-mediated histamine release in
+patients who carried the heterozygous CT genotype was
+significantly higher compared with patients with the
+homozygous CC genotype (P = .045; Fig 3, B). In contrast, there was no significant difference in the amount of
+histamine released by A23187 between these 2 genotypes
+(Fig 3, A).
+
+DISCUSSION
+
+This is the first study to demonstrate a significant
+association between genetic polymorphisms of FceRIa
+and the AICU phenotype. Our results suggest that the
+human FceRIa gene may play an important role in the
+development of chronic urticaria associated with aspirin
+sensitivity.
+
+Shikanai et al? were the first to describe 3 promoter polymorphisms in FceRla, namely -770A>C, -664G>A,
+and —335C>T (—344C>T in the current study), in white
+subjects and African American subjects with asthma.
+The polymorphism —95T>C has been reported to exist
+in Japanese patients with atopic dermatitis,'° but the authors of the aforementioned study did not detect other
+SNPs because the region within which screening was performed (—338 to + 178) was too short. In the current study,
+we identified 2 SNPs at -344C>T and -95T>C in the
+1.3-kb proximal promoter region of FceRIa in a Korean
+population, which suggests that there may be ethnic differences in the distribution of FceRIa genotypes.
+
+Our study revealed a significant association between
+the -344C>T polymorphism and the AICU phenotype.
+Specifically, patients with AICU had a significantly higher
+frequency of the minor allele of the -344C>T polymorphism compared with the control subjects. Moreover, the
+—344C>T polymorphism was associated with a higher rate
+of atopy and total serum IgE concentrations in the patients
+with AICU. These findings are consistent with previous
+reports that severe reactions to aspirin occur more often in
+atopic than in nonatopic subjects.*'* Several reports have
+suggested that circulating IgE may be related to the regulation of high-affinity IgE receptor expression in mast cell
+
+~
+Soe,
+x2
+os
+~
+=P
+[3
+oO
+ij
+oe
+Bs
+£2
+22
+mo]
+a
+als
+“oOo
+sos
+
+ 
+e
+il
+30
+a2
+Qa
+ga
+ge
+<a
+a<
+ag
+a
+23
+as
+ae
+ga
+ae
+<
+
+ 
+
+454 Bae et al
+
+-344C : GTITTATTCTGCCCTCCCTTGCAT
+-344T + GTTTTATTCTGCICTCCCTTGCAT
+AP1 = CGCTTGA[ITGACTCAIGCCGGAA
+MAZ : CTCGCGICCCTCCC}CCGC
+
+SP1_ : ATTCGATCIGGGGCGGGGC]eacc
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+B Cc D
+
+nuclear extract - ++ ++ + + +
+
+probe ; -344C + ee ee eeet
+
+competitor - --344C -344T API nuclear extract - + + + +
+nuclear extract + + <Ba8a8 probe ; -344C ++ + id s
+probe ;-344C/T CT a pee iss competitor --2a8%
+
+_—>. =
+
+free probe == free probe —>
+
+=>) 6 we
+
+ 
+
+free probe —>
+
+FIG 2. Results of an EMSA for the -344C>T polymorphism using nuclear extracts obtained from RBL-2H3 cells.
+A, Nucleotide sequences of oligonucleotides used as probes and competitors. B, Differential binding of a
+nuclear protein to -344C/T alleles. C, Binding affinity of MAZ protein to -344C/T alleles. D, Identification of
+the transcription factor binding to -344 probe using competitive binding assay.
+
+ 
+
+ 
+
+A
+NS
+100
+e
+e
+S 20 °° &
+= ae
+o
+a @
+§ 6
+“ e
+© 40
+& e
+& 20
+@
+in
+0
+cc cT
+
+ 
+
+ 
+
+B
+P=0.045
+rs |
+
+100
+
+=
+
+= 80 e
+
+% ry
+
+Ss 60 °
+
+3 5
+
+: - F
+
+© 40
+
+E
+
+0 7 °
+
+in e
+
+0 8
+Ce CT
+
+FIG 3. Comparison of histamine release from peripheral basophils obtained from AICU patients with the
+homozygous CC (N = 9) or heterozygous CT (N = 6) genotype of -344C>T. A, Stimulation with 3 wmol/L calcium ionophore A23187. B, Stimulation with antihuman goat IgE antibodies. NS, Not significant.
+
+19-21 122.23
+
+and basophils, which might promote cell survival
+and increase histamine release.”* In addition, the accumulation of basophils at sites of inflammation also may be
+induced by IgE and stimulation of FceRI via cross-linking
+of these molecules.”> In this study, we found that the
+-344C>T polymorphism was significantly associated
+with higher total serum IgE concentrations in patients
+with AICU. This suggests that prolonged exposure to
+
+IgE may increase the surface expression of high-affinity
+IgE receptors and might induce the accumulation of basophils at sites of inflammation in patients with AICU,
+particularly in patients who carry the —344T allele; presumably, this would lead ultimately to chronic inflammation. Therefore, atopy mediated by IgE may be a risk factor
+for aspirin sensitivity in patients with AICU. The genotype distribution of the —95T>C polymorphism was
+J ALLERGY CLIN IMMUNOL
+VOLUME 119, NUMBER 2
+
+significantly different between patients with AICU and
+ATCU but not between patients with AICU and the controls. Therefore, we focused on the functional effects of
+the -344C>T polymorphism.
+
+To investigate the effects of the -344C>T polymorphism on FceRIa expression, we used a functional assay
+of promoter activity in reporter constructs that contained
+wild-type or polymorphic promoters in the RBL-2H3 line
+of mast cells. Constructs that contained the —344T allele
+had significantly more promoter activity compared with
+those that contained the —344C allele. This effect was
+specific to basophils because it could not be replicated in
+other types of cell line that do not contain FceRIa, such as
+a human bronchial epithelial cell line (A549) and a human.
+monocyte cell line (U937). In addition, this polymorphism
+affected a transcription factor binding in the promoter
+region of FceRIa because a shifted band was found in the
+presence of the —344C probe in the EMSA finding. The
+transcription factor bound to the —344C probe was identified as MAZ through a competition assay, because MAZ
+was bound to the —344C allele promoter with a higher
+affinity compared with that of the —344T allele promoter.
+For further identification of recognition sequence of MAZ,
+mutational assays were performed using 100-fold excess
+amounts of unlabeled mutant probe. CCCACCC (-345/
+—339) was found to serve as a core sequence for binding of
+the nuclear protein (see this article’s Fig El in the Online
+Repository at www.jacionline.org). We also performed
+supershift assays using 2 kinds of commercially available
+anti-MAZ antibodies (MAZ L-20 for recognizing an internal epitope and MAZ A-17 for recognizing C-terminal
+epitope; Santa Cruz, Calif) and found that these 2 antiMAZ antibodies could not affect DNA-protein complex
+formation in the —-344C probe (see this article’s Fig E2 in
+the Online Repository at www.jacionline.org), possibly
+because these 2 anti-MAZ antibodies were affinitypurified goat polyclonal antibodies raised against human
+MAZ and they may fail to recognize rat MAZ. MAZ is a
+multifunctional transcription factor that is involved in
+both positive?®?” and negative regulation?®”° of gene
+expression. In the transcription regulation of FceRIa gene,
+MAZ may act as a negative regulator because the —-344C
+allele-contained reporter construct showed lower promoter activity compared with the —344T allele—contained
+reporter construct.
+
+FceRIa is required for mast cells to initiate an IgEmediated allergic reaction because FceRIa-deficient mice
+fail to exhibit allergic reactions even in the presence of
+antigens and antigen-specific IgE.°*° After being activated via FceRI, mast cells release histamine, leukotrienes, and other vasoactive substances. To examine
+whether genetic variants of FeeRIa might contribute to
+the aforementioned process, we assayed histamine release
+from human peripheral blood basophils harvested from
+patients with AICU. We found a significant correlation
+between the -344C>T polymorphism and greater
+amounts of histamine release. Patients with AICU who
+carried the heterozygous CT genotype of the —344C>T
+polymorphism exhibited a greater amount of histamine
+
+Bae et al 455
+
+release compared with those with the homozygous CC
+genotype. These findings supported our hypothesis that
+genetic variants of the FceRIa gene may create a transcription factor-binding site that leads ultimately to an increase in the expression of FceRIa. During prolonged
+exposure to IgE, this would lead to an increase in histamine release.
+
+This study has the following limitations. First, we did
+not evaluate the functional effects of the -9ST>C polymorphism in RBL-2H3 cells. Therefore, we cannot
+exclude the possibility that the 2 polymorphisms might
+interact. Second, the functional effects of the -344C>T
+polymorphism in the human basophil cell line, KU-812,
+could not be determined because of a low transfection
+efficiency. Further studies will address the functional
+effects of the -344C>T polymorphism in other inflammatory cells.
+
+In conclusion, the results of the current study suggest
+that the -344C>T polymorphism in the promoter of the
+FceRIa gene is associated with AICU. Specifically, the
+—344T allele may increase the expression of high-affinity
+IgE receptors on mast cells to enhance histamine release,
+which likely contributes to the development of AICU.
+
+ 
+
+REFERENCES
+
+1, Gollapudi RR, Teirstein PS, Stevenson DD, Simon RA. Aspirin sensitivity: implications for patients with coronary artery disease. JAMA 2004;
+292:3017-23.
+
+2. Grattan CEH. Aspirin sensitivity and urticaria. Clin Exp Dermatol 2003;
+28:123-7.
+
+3. Ye YM, Kim JE, Nahm DI, Kim SH, Suh CH, Nahm DH, Park HS.
+Comparison of clinical characteristics and prognosis of chronic urticaria
+according to the aspirin sensitivity. Kor J Asthma Allergy Clin Immunol
+2005;25:194-9.
+
+4, Blanca M, Perez E, Garcia JJ, Miranda A, Terrados S, Vega JM, Suau R.
+Angioedema and IgE antibodies to aspirin: a case report. Ann Allergy
+1989;62:295-8.
+
+5, Dombrowicz D, Flamand V, Brigman KK, Koller BH, Kinet JP. Abolition of anaphylaxis by targeted disruption of the high affinity immunoglobulin E receptor « chain gene. Cell 1993;75:969-76.
+
+6. Kinet JP. The high-affinity IgE receptor (FceRI): from physiology to
+pathology. Annu Rev Immunol 1999;17:931-72.
+
+7. Borkowski TA, Jouvin MH, Lin SY, Kinet JP. Minimal requirements for
+IgE-mediated regulation of surface Fc epsilon RI. J Immunol 2001;167:
+1290-6.
+
+8. Hasegawa M, Nishiyama C, Nishiyama M, Akizawa Y, Takahashi K,
+Ito T, et al. Regulation of the human Fe epsilon RI alpha-chain distal
+promoter. J Immunol 2003;170:3732-8.
+
+9, Shikanai T, Silverman ES, Morse BW, Lilly CM, Inoue H, Drazen JM.
+Sequence variants in the FcepsilonRI alpha chain gene. J Appl Physiol
+2002;93:37-41.
+
+10. Hasegawa M, Nishiyama C, Nishiyama M, Akizawa Y, Mitsuishi K,
+Ito T, et al. A novel -66T/C polymorphism in Fe epsilon RI alphachain promoter affecting the transcription activity: possible relationship
+to allergic diseases. J Immunol 2003;171:1927-33.
+
+11. Kim SH, Choi JH, Lee KW, Kim SH, Shin ES, Oh HB, et al. The HLADRB1*1302-DQB1*0609-DPB1*0201 haplotype may be a strong genetic marker for aspirin-induced urticaria. Clin Exp Allergy 2005;35:
+339-44.
+
+12. Kim SH, Bae JS, Hollowayw JW, Lee JT, Suh CH, Nahm DH, et al.
+A polymorphism of MS4A2 (-L09T>C) encoding the B-chain of the highaffinity immunoglobulin E receptor (FceR 1) is associated with a susceptibility to aspirin-intolerant asthma. Clin Exp Allergy 2006;36:877-83.
+
+13. Song J, Ugai H, Kanazawa I, Sun K, Yokoyama KK. Independent repression of a GC-rich housekeeping gene by Sp1 and MAZ involves the same
+cis-elements. J Biol Chem 2001;273:19897-904.
+
+Food allergy, anaphylaxis,
+
+=
+5
+®
+=
+v
+i)
+Pe
+7
+3
+=
+c
+>
+iy
+a
+°
+2
+3
+5
+5
+G
+z
+
+ 
+jAydoupn ‘A6ua]|D pooy
+
+‘sIxD)
+
+[a
+icy
+$
+E|
+2
+a
+pa
+°
+a
+<
+Q
+s
+Q
+fa
+i
+c
+a
+a
+o
+S
+a
+<
+
+ 
+
+456 Bae et al
+
+20.
+
+21.
+
+. Lichtenstein LM. The mechanism of basophil histamine release induced
+
+by antigen and by the calcium ionophore A23187. J Immunol 1975;114:
+1692-9.
+
+. Siraganian RP. An automated continuous-flow system for the extraction
+
+and fluorometric analysis of histamine. Anal Biochem 1974;57:383-94.
+
+. Cromwell O, Durham SR, Shaw RJ, Mackay JA, Kay AB. Provocation
+
+tests and measurement of mediators from mast cells and basophils in
+asthma and allergic rhinitis. In: Weir DM, editor. Applications of immunological methods in biomedical sciences. Oxford: Blackwell Scientific
+Publications; 1986. p. 127.
+
+. Hedrick PW. Gametic disequilibrium measures: proceed with caution.
+
+Genetics 1987;177:331-41.
+
+. Hoigne RV, Szczeklik A. Allergic and pseudoallergic reactions associ
+ated with nonsteroidal anti-inflammatory drugs. In: Borda IT, Koff RS,
+editors. NSAIDs: a profile of adverse effects. Philadelphia: Hanley &
+Belfus; 1992. p. 157-84.
+
+. Furuichi K, Rivera J, Isersky C. The receptor for immunoglobulin E on
+
+rat basophilic leukemia cells: effect of ligand binding on receptor expression, Proc Natl Acad Sci U $ A 1985;82:1522-5.
+
+Hsu C, MacGlashan D Jr. IgE antibody up-regulates high affinity IgE
+binding on murine bone marrow-derived mast cells. Immunol Lett
+1996;52:129-34.
+
+Yamaguchi M, Lantz CS, Oettgen HC, Katona IM, Fleming T, Miyajima
+I, et al. IgE enhances mouse mast cell FceRI expression in vitro and
+in vivo: evidence for a novel amplification mechanism in IgE-dependent
+reactions. J Exp Med 1997;185:663-72.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+Asai K, Kitaura J, Kawakami Y, Yamagata N, Tsai M, Carbone DP, et al.
+Regulation of mast cell survival by IgE. Immunity 2001;14:791-800.
+Kalesnikoff J, Huber M, Lam V, Damen JE, Zhang J, Siraganian RP,
+et al. Monomeric IgE stimulates signaling pathways in mast cells
+that lead to cytokine production and cell survival. Immunity 2001;14:
+801-11.
+
+Tanaka S, Takasu Y, Mikura S, Satoh N, Ichikawa A. Antigen-independent induction of histamine synthesis by immunoglobulin E in mouse
+bone marrow-derived mast cells, J Exp Med 2002;196:229-35.
+Suzukawa M, Hirai K, likura M, Nagase H, Komiya A, YoshimuraUchiyama C, et al. IgE- and FceRI-mediated migration of human basophils. Int Immunol 2005;17:1249-55.
+
+Parks CL, Shenk T. The serotonin 1a receptor gene contains a TATA-less
+promoter that responds to MAZ and Spl. J Biol Chem 1996;271:
+4417-30.
+
+Her S, Bell RA, Bloom AK, Siddall BJ, Wong DL. Phenylethanolamine
+N-methyltransferase gene expression: Spl and MAZ potential for tissuespecific expression. J Biol Chem 1999;274:8698-707.
+Karantzoulis-Fegaras F, Antoniou H, Lai SL, Kulkami G, D’Abreo C,
+Wong GK, et al. Characterization of the human endothelial nitric-oxide
+synthase promoter. J Biol Chem 1999;274:3076-93.
+
+Song J, Murakami H, Tsutsui H, Tang X, Matsumura M, Itakura K, et al.
+Genomic organization and expression of a human gene for Myc-associated zinc finger protein (MAZ). J Biol Chem 1998;273:20603-14.
+Turner H, Kinet JP. Signalling through the high-affinity IgE receptor
+FceRI. Nature 1999;402:B24-30.
+

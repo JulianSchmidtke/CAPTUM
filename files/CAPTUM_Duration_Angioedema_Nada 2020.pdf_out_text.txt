@@ -1,0 +1,1193 @@
+| ®
+Accepted: 11 September 2020.
+
+Check for
+updates
+
+Received: 8 July 2020 Revised: 24 August 2020
+
+ 
+
+DOI: 10.1111/jocd.13730
+
+ 
+
+ORIGINAL CONTRIBUTION
+
+ 
+
+WILEY
+
+Dermatology
+
+Interleukin 17 receptor A haplotype analysis in chronic
+spontaneous urticaria: A preliminary study
+
+Hesham Nada MD, PhD? | Ranya Hassan MD, PhD* | Rasha Abd El-Hamed Ibrahim MSc? |
+Omnia Emad Abdelsalam MSc* | Amal Fathy MD* | Eman Ali Toraih MD, PhD>°® |
+
+Mona A. Atwa MD?
+
+Dermatology, Venereology and Andrology
+Department, Faculty of Medicine, Suez
+Canal University, Ismailia, Egypt
+
+2Clinical Pathology Department, Faculty of
+Medicine, Suez Canal University, Ismailia,
+Egypt
+
+3Belbis General Hospital, Sharkia, Egypt
+“Dermatology and Leprosy Hospital,
+Zagazig, Egypt
+
+5Department of Surgery, School of Medicine,
+Tulane University, New Orleans, LA, USA
+
+Genetics Unit, Histology and Cell Biology
+Department, Faculty of Medicine, Suez
+Canal University, Ismailia, Egypt
+
+Correspondence
+
+Eman Ali Toraih, Department of Surgery,
+Tulane University, School of Medicine, New
+Orleans, LA, USA.
+
+Email: etoraih@tulane.edu
+
+ 
+
+1 | INTRODUCTION
+
+Abstract
+
+Background: Chronic spontaneous urticaria (CSU) is a distressing skin disease. Family
+clustering and heterogeneity in the onset and progression indicate that susceptibility
+to CSU is a complex trait. In this study, we performed haplotype analysis for one of
+the key player gene, IL17RA, for CSU to test the association with disease susceptibility and severity.
+
+Methodology: The study included 70 CSU patients and 30 healthy controls. The severity of the disease was evaluated by autologous serum skin test (ASST) and urticaria activity score (UAS). ASST test was done and quality of life was assessed using
+a questionnaire. Allelic discrimination analysis for rs4819554 and rs879577 was performed using real-time polymerase chain reaction technology.
+
+Results: Carriers of rs4819554*G were more prone to develop CSU than its counterpart (P= .039), while rs4819554*A allele displayed more severe phenotype in the form
+of more prolonged disease duration (P = .040), concurrent angioedema (P < .001),
+higher level of treatment (P < .001), and higher score of quality of life (P < .001).
+Additionally, homozygote patients with rs879577*CC were associated with angioedema (P < .001). Haplotype analysis revealed that cohorts with both rs4819554*A
+and rs879577*T conferred protection against developing CSU (OR = 0.07, 95%
+Cl =0.01-0.32, P = .001).
+
+Conclusion: Our results showed that IL17RA gene polymorphisms might contribute
+
+to the increased susceptibility to CSU.
+
+KEYWORDS
+
+chronic spontaneous urticaria, haplotype, IL-17RA, variant
+
+into chronic spontaneous urticaria (CSU) or chronic inducible urti
+caria.? Although all age groups can be affected, the peak incidence
+
+Chronic urticaria is a distressing skin disease characterized by recurrent itching and hives with or without angioedema, with symptoms persisting for more than 6 weeks without a known cause.! The
+condition lays a significant emotional and economic burden on the
+
+patient.? It is classified according to whether it is inducible or not
+
+is seen between 20 and 40 years of age. The duration of the disease
+is generally 1-5 years but is likely to be longer in more severe cases.
+CSU has major effect on quality of life (QoL), with sleep deprivation
+and psychiatric comorbidity being frequent. Non-sedating antihista
+mines are the mainstay of symptomatic therapy.*
+
+ 
+
+J Cosmet Dermatol. 2020;00:1-12.
+
+wileyonlinelibrary.com/journal/jocd
+
+© 2020 Wiley Periodicals LLC pS
+NADA er AL.
+
+ 
+
+ic Dermatology
+
+ 
+
+Different biologic components including inflammation, immunity, and coagulation were suggested to be the leading factors which
+cause mast cell and basophil degranulation with consequent wheal
+formation and angioedema,? each of which may contribute by an additive weight in each patient. However, the exact initiative mechanisms of chronic spontaneous urticaria are still poorly understood.
+CSU shows both autoimmune and allergic disease characteristics.
+Histamine-releasing autoantibodies directed against FceRI or IgE
+were detected in only one-third of CSU patients, suggesting that
+other circulating mediators, including cytokines, may be involved in
+its pathophysiology. Most autoimmune and/or allergic diseases are
+caused by an imbalance between cytokines and T lymphocyte subgroups.° The determination of the dominant cytokine pattern and T
+lymphocyte subgroup in CSU patients could be the key explaining
+this complicated immunopathogenesis.’
+
+Growing body of researches showed an association with autoimmunity in approximately 45 percent of patients, evidenced
+by the presence of autoantibodies.® These autoantibodies can
+be detected in vivo by the autologous serum skin test (ASST).”
+Additionally, an aberrant T-cell-mediated immune response is crucial in the development of CSU."° Interleukin-17 (IL-17) contains
+six distinct isoforms (IL-17 A, B, C, D, E, and F) and five receptors
+(IL-17 RA, B, C, D, and SEF).*? IL-17 is produced by T helper 17
+(Th17) subsets of CD4+ T cell. IL-17 plays an important role in the
+development and progression of inflammatory and autoimmune
+disease.° Cytokines produced from T lymphocytes and natural
+killer (NK) cells form a cascade of reactions which might contribute significantly to the pathogenesis of CSU."° The IL17RA receptor is expressed in many types of cells, including epithelial cells,
+fibroblasts, and lymphocytes.”* Increased levels of proinflammatory cytokines including IL-17 family members have also been
+found in the circulation of patients with chronic spontaneous urticaria, atopic dermatitis, psoriasis, and bullous skin diseases.‘>"??
+Blocking the action of IL-17 appeared to be favorable in the treatment of these categories of disorders. Brodalumab, a human antiIL-17RA monoclonal antibody, has shown efficacy in psoriasis, a
+similar autoimmune skin disease.’° It binds with high affinity to
+human IL-17RA and blocks the biological activity of interleukins
+17 family.
+
+IL17RA gene is highly polymorphic (www.ensemble.org). Several
+common single nucleotide polymorphisms (SNPs) in this gene have
+been linked to increased susceptibility for developing cancer, autoimmune diseases, and inflammatory conditions.2°! Genetic variants
+can alter protein expression, processing, maturation, and activity in
+human disorders.2? One common variant of IL17RA existed upstream
+in the gene (c.-947G>A) is rs4819554 SNP. Being within the promoter region and closely related to the binding site of transcription
+factors as Ikaros (IK) family, which is related to Th17 cell differentiation,2? we proposed the possibility to have a functional consequence on the transcription rate of the gene. This SNP was reported
+to be associated with autoimmune diseases and cancer.’* Another
+common missense variant rs879577 is caused by a C to T substitution (c.1100C>T) in exon 13 leading to an amino acid change from
+
+alanine to valine at codon 367. This SNP overlaps three transcripts
+of IL-17RA protein. Thus, being in the protein coding sequence might
+have altered function.
+
+The role of IL-17RA gene polymorphism in the pathogenesis of
+CSU has not been studied yet; therefore, we hypothesized that IL17RA gene polymorphism may be associated with CSU like other autoimmune diseases. The aim of the present study was to determine
+the association of single nucleotide polymorphisms (rs4819554 and
+rs879577) of IL-17RA gene with CSU susceptibility and severity.
+
+2 | METHODOLOGY
+2.1 | Study population
+
+Seventy CSU patients (29 males and 41 females) were enrolled in the
+study. They were recruited from the Dermatology Clinic, Faculty of
+Medicine at Suez Canal University Hospitals, in the period between
+November 2014 and April 2015. The control group comprised 30
+sex-, and age- matched healthy subjects with negative ASST results.
+Ethical approval by the Regional Ethics Committee of the Faculty of
+Medicine, Suez Canal University Hospital was obtained (#2747). All
+patients and control subjects gave their written informed consent
+
+before enrolling in the study.
+
+2.2 | Clinical assessment
+
+Demographic and clinical data including age at onset, disease duration, nail involvement, familial history of CSU, and other comorbidities apart of CSU were collected. Early onset was considered if the
+age of CSU onset was below or equal to 40 years. Familial CSU was
+considered positive if there was at least one first- or second-degree
+affected relative. All patients underwent thorough general examination as well as dermatological examination of CSU lesions. These
+included a skin prick test for food and inhalant allergens and provocation tests for physical urticaria (an ice test for cold urticaria or skin
+scratching for dermographism).
+
+Urticaria activity score (UAS) was applied for disease severity assessment. It was calculated as recommended by the EAACI/GA2LEN/
+EDF/WAO Guidelines.“ The weekly UAS was estimated according
+to the number of wheals and pruritus intensity, which appeared
+during the week before the day of blood sampling. The patients were
+asked to record 24-hour self-evaluation scores for 7 days, using the
+following scoring scheme: no wheals = 0; <20 wheals/24 hours = 1;
+20-50 wheals/24 hours = 2; and > 50 wheals/24 hours = 3; and
+pruritus intensity: no = 0; mild = 1; moderate = 2; and severe = 3.
+The weekly UAS was equal to the sum of the scores obtained on 7
+consecutive days, with a minimum score of 0 and a maximum score
+of 42. Consequently, this score was graded as follows: 0-14 (mild),
+15-29 (moderate), or 30-42 (severe).
+
+Urticaria Patient Daily Diary (UPDD) was also applied. The validated UPDD contains the UAS data (assessed every 12 hours) and
+NADA Er AL.
+
+ 
+
+daily activity interference, sleep interference, and presence of angioedema, all of which are assessed every 24 hours, as well as the
+use of rescue medication.?°
+
+The Dermatology Life Quality Index (DLQI) was applied to assess health-related quality of life (HRQoL). The DLQI has a total
+score that ranges from O to 30, with higher scores reflecting
+worse HRQoL. The recall period for the DLQI is 1 week. DLQI
+data were collected at baseline and weeks 4, 12, 24, 30. Validated
+score ranges exist for the DLQI to explain the impact on dermatological-related QoL: no effect (0-1); small effect (2-5); moderate effect (6-10); very large effect (11-20); extremely large effect
+(21-30).2628
+
+Autologous serum skin test (ASST) was performed to detect
+basophil histamine-releasing activity and to diagnose chronic autoimmune urticaria (CAU) among CSU patients. Sedating antihistamines were stopped at 7 days, and non-sedating antihistamines
+were stopped at 3 days before blood samples were collected. 10 cc
+of venous blood was obtained from the patients into sterile plain
+tubes and left to coagulate for 30 minutes at room temperature.
+The blood was then centrifuged for 15 minutes at 500 g, and the
+serum was eluted. 50 pL of the serum was drawn into an insulin injector and injected into the volar face of the forearm intradermally.
+Ten microliters of histamine (Allergopharma) as a positive control
+and 50 pL of physiological saline solution as a negative control (for
+the intracutaneous test; Allergopharma) were injected intradermal
+at 5 cm from the area that received the autologous serum injection.
+After 30 minutes, erythema and in-duration were evaluated. The
+widest diameter of in-duration and the diameter that was perpendicular to this diameter were measured. Erythema and in-duration
+were graded as recommended by the EAACI/GA2LEN/EDF/WAO
+Guidelines?’ as follows: Grade 0: skin rash caused by physiological
+saline solution that is expected to be light pink or skin-colored.
+Grade 1: The formation of pink color caused by autologous serum,
+whereas the area where physiological saline solution was injected
+remains skin-colored. Grade 2: The formation of a histamine-like
+red color caused by autologous serum, whereas the area where
+physiological saline solution was injected remains skin-colored. A
+positive test reaction was indicated when the erythema caused by
+the autologous serum was grade 2 and the diameter of in-duration was 1.5 mm greater than that of the in-duration caused by
+the physiological saline solution. The same researcher performed
+all ASST.
+
+The control group underwent the same laboratory and dermatological tests as the patients to exclude any inflammatory or autoim
+mune diseases.
+
+2.3 | Biochemical analysis
+
+Liver function tests, complete blood count (CBC), erythrocyte sedimentation rate, a parasite stool test, and complete urine analysis
+were performed in the clinical pathology department laboratories,
+
+Suez Canal University Hospital.
+
+ 
+
+2.4 | Allelic discrimination analysis by real-time PCR
+
+Two milliliters of whole blood was obtained from controls and patients in EDTA vacutainers (Becton Dickinson Plymouth), and stored
+at -60°C until processed for DNA extraction. DNA extraction from
+blood leukocytes was done using QlAamp DNA Blood Mini kits
+(Q\Agen, Clinilab Co., Catalog no. 51104), according to the manufacturer's instructions. Concentration and purity of the extracted DNA
+of each sample were measured by NanoDrop ND-1000 (NanoDrop
+Tech., Inc). Genotyping of the promoter variant (rs4819554, c.947G>A) and the missense mutation of rs879577 SNP at codon
+367 (c.1100C>T; p.A367E or p.367V) was performed using real-time
+polymerase chain reaction (RT-PCR) technology, using TaqMan®
+genotyping assay (Applied Biosystem, assay ID C__337392_30 and
+C__2666446 20) to detect the presence of one or both alleles in
+each sample. TaqMan Universal PCR Master Mix (2x) and 20x SNP
+Genotyping Assay were used in a total PCR reaction volume of 20
+uL. Two no-template controls (NTC) were included in each run. Initial
+step of 95°C for 10 minutes, followed by 40 cycles of denaturation at 92°C for 15 seconds and annealing/extension step at 60°C
+for 1 minute. SDS (Software-Defined Storage) Software v1.4 was
+used for allelic discrimination analysis. For the promotor variant
+rs4819554, possible genotypes were GG, AA, and GA. The probe
+for allele G was labeled with VIC® dye; the probe for allele A was
+labeled with FAM™ dye. Regarding Ala367Glu polymorphism, possible genotypes were CC, CT, and TT. The probe for allele C (Alanine)
+was labeled with VIC® dye; the probe for allele T (Glutamic acid) was
+labeled with FAM™ dye.
+
+2.5 | Statistical analysis
+
+Statistical analysis was carried out using the “Statistical Package
+for the Social Sciences (SPSS) for windows” software, version 26.0.
+The test for normality was performed using the Shapiro-Wilk test.
+Descriptive statistics were represented as mean + standard deviation (SD) for quantitative variables and percentage for qualitative
+variables. For qualitative variables, the Chi-square (2) and Fisher's
+Exact tests were used. For quantitative variables, the student's t and
+Kruskal-Wallis tests were used for non-parametric variables. A Pvalue < .05 was considered statistically significant, and all statistical
+tests were two-sided.
+
+The genotype frequency within each group was calculated as
+the number of genotypes divided by the total number of the group.
+The allele frequency was determined as the number of occurrences
+of an individual allele divided by the total number of alleles.°° The
+Hardy-Weinberg equilibrium (HWE) for each SNP was tested by
+using a goodness-of-fit Chi-square test via the Online Encyclopedia
+for Genetic Epidemiology (OEGE) software (http://www.oege.org/
+software/hwe-mr-calc.html).
+
+The associations of the IL-17RA rs4819554 and rs879577 genotypes and susceptibility to urticaria disease were estimated by computing odds ratios (ORs) and their 95% confidence intervals (Cls) from
+NADA er AL.
+
+ 
+
+ic Dermatology
+
+ 
+
+binary logistic regression analysis (Enter method) after adjustment for
+possible confounders. The pooled ORs were calculated for the five genetic association models; for rs4819554 variant: allelic model (G vs A),
+homozygote comparison (GG vs AA), heterozygote comparison (AG
+vs AA), dominant model (AA + GA vs GG), and recessive model (GG
+vs AG + AA), while for rs879577: allelic model (T vs C), homozygote
+comparison (TT vs CC), heterozygote comparison (CT vs CC), dominant model (TT + CT vs CC), and recessive model (TT vs CT + CC).22
+Linkage disequilibrium statistics and haplotype frequency estimation
+were performed in SNPStats software (https://www.snpstats.net/).
+Data exploration by multivariate analysis (MVA) was performed
+using Bray-Curtis Ordination analysis and Two-way hierarchical
+cluster analysis to identify similarities and dissimilarities between
+urticaria patients based on their characteristics and genotypes. PCORD version 5.0 software was employed for analysis. The following
+setup for 70 strands and 17 factors was adjusted for MVA: Distance
+method: Sorensen, Endpoint selection method: Variance-regression,
+group linkage method: Flexible beta (0.75), and clustering factor:
+relative by factor maximum, axis projection geometry: Euclidean,
+calculation of residual distance: Euclidean, and calculated scores for
+
+factor by weighted averaging.
+
+3 | RESULTS
+
+3.1 | Baseline characteristics of the study
+population
+
+The demographic and baseline characteristics of the study population are demonstrated in Table 1. A total of 70 patients, including 41
+(58.6%) females and 29 (41.4%) males, participated in the study. They
+were diagnosed with CSU and were being treated at the Internal
+Diseases Allergy Immunology Clinic. The mean age of the patients
+was 28.2 + 11.9 years (age range between 14 and 56). Thirty-five
+
+patients had positive ASST results, and 35 had negative results.
+Among patients, only three (4.3%) had a family history of CSU while
+67 (95.7%) did not have positive family history. The majority (53.4 of
+CSU, 74.3%) were employed. On the other hand, the control group
+(30 individuals) included 13 (43.3%) males and 17 (56.7%) females
+with a mean age of 32.3 + 12.3 years (age range of between 13 and
+63). All control subjects had negative ASST results. No significance
+differences were observed between cases and control regarding
+their age, sex, or family history. However, there were statistical significance differences between them in occupation condition with
+
+increased frequency of employment in the patient group (P = .048).
+
+3.2 | Disease characteristics of urticaria patients
+
+Mean disease duration of patients was 8.71 + 1.37 weeks. Thirtyfour patients (48.6%) experienced urticaria disease for less than or
+equal 8 weeks, 31 patients (44.3%) had lesions for less than or equal
+10 weeks, while 5 patients (7.1%) showed further prolonged features for <12 weeks. Regarding disease course, almost all patients
+had recurrent disease. Lesions were mostly distributed in the abdomen and arms. Less than quarter the patients had concomitant angioedema, Figure 1. Assessment of patients via angioedema activity
+score (AAS) was employed to estimate the level of five key factors
+related to angioedema symptoms. All CSU patients with angioedema
+had a total daily score more than 8. According to the ASST, thirtyfive (50%) patients had positive ASST results, while the other half
+had negative results. Regarding patients' treatment, 60% of CSU patients were treated with Step 1 medications including non-sedating
+second-generation antihistamines, while 40% of patients received
+Step 2 medications with doses up to four times those recommended
+on the label of non-sedating, second-generation antihistamines. The
+second-generation antihistamines provided moderate-to-good control for 50% of patients with CSU.
+
+TABLE 1 Demographic characteristics
+
+Demographic data Controls Patients P-value OR(95% Cl) of the urticaria patients (f'= 70) and
+Total number 30 70 controls (n = 30)
+Age, y Mean + SD 32.3 + 12.3 28:2 2417.9
+Age categories, % <30y 20 (66.7) 36 (51.4) 191 Reference
+>30y 10 (33.3) 34 (48.6) 1.88 (0.77-4.61)
+Gender Female 17 (56.7) 41 (58.6) .860 Reference
+Male 13 (43.3) 29 (41.4) 0.92 (0.39-2.19)
+FH urticaria Negative 29 (96.7) 67 (95.7) .824 Reference
+Positive 1 (3.3) 3 (4.3) 1.29 (0.13-13.0)
+Occupation Housewife 10 (33.3) 16 (22.9) 048 Reference
+Student 4 (13.3) 2 (2.9) 0.31 (0.04-2.03)
+Working 16 (53.4) 52 (74.3) 2.03 (0.77-5.35)
+
+Note: Data are shown as number (percentage) or mean + standard deviation. FH; family history.
+Chi-square, Fisher's exact, and Student's t tests were used. Bold values are statistically significant
+
+at P<.05.
+NADA Er AL.
+
+ 
+
+FIGURE 1 Disease characteristics of
+urticaria patients. A, Duration of urticaria
+disease, (B) Site of lesions, (C) Presence
+
+of associated angioedema, (D) Course of
+urticaria disease, (E) Results of autologous
+serum skin test (ASST), (F) Therapeutic
+modalities received by CSU patients based
+on antihistamines medication levels
+
+(A)
+40 Disease duration
+
+30
+20
+
+10
+
+Frequency of patients
+
+ 
+
+s8we <10we <12 we
+
+(C) Disease course
+
+ORecurrent Continuous
+
+Cosmetic Dermatology
+
+ 
+
+80 Lesion distribution
+
+>
+o
+
+Frequency of patients
+N
+o
+
+ 
+
+o
+
+Abd Back
+
+Legs Arms
+
+(0) Angioedema
+
+ONegative Positive
+
+1(1.4%) «
+(22.9%
+69 54
+(98.6) (77.1%)
+(2) ASST (F) Lines of treatment
+
+ONegative Positive
+
+35
+(50%)
+
+Disease severity was assessed using urticaria activity score
+(UAS) system, Table 2. Half patients, accounting for 45.7%, had
+moderate number of wheals ranging from 11 to 50, while about a
+quarter (25.7%) exhibited large number of wheals. Moreover, 20%
+of patients displayed wheals with >3 cm in size. Three quarters of
+CSU cases experienced moderate-to-severe itching. In addition, urticaria lesions of more than half of patients (55.7%) disappeared by
+12 hours.
+
+Stratifies analysis by gender revealed non-significant difference
+in all UAS symptoms between males and females, Table 2. However,
+stratification by angioedema and ASST demonstrated that patients
+with angioedema [16 (22.8%)] had more wheals (P < .001), a wider
+distribution (P < .001), higher wheal score (P < .001), intense itching (P < .001), and more prolonged duration (P < .001) than patients
+without angioedema, Figure 2A-E. Similar findings were encountered in patients with positive ASST, Figure 2F-J.
+
+OStep1 MStep2
+
+35 (40%)
+
+50%
+( ) 42
+
+(60%)
+
+Dermatological quality of life was assessed using six parameters.
+Mean QoL score was 12.9 + 6.13 in urticaria patients with non-sig
+nificant difference between genders, Table 3.
+
+3.3 | Molecular analysis of IL17RA gene
+polymorphism
+
+A total of 70 patients and 30 controls were genotyped. The distribution of IL17RA genotype among patients and controls was found in
+accordance with those expected by the Hardy-Weinberg equilibrium
+(P > .05). SNP analysis of the promoter variant rs4819554 (c.-947G>A)
+showed that the frequencies of G and A alleles in controls were 0.47
+and 0.53, respectively. As depicted in Table 4, comparing between urticaria patients and controls, GG was significantly the most prevalent
+genotype among patients (42.9% in patients vs 16.7% in controls), while
+élwy LEY
+
+NADA er AL.
+
+ 
+
+Journal of
+Cosmetic Dermatology
+
+Characteristics Total Female
+Number of <10 20 (28.6%) 14 (34.1%)
+wheals 11-50 32 (45.7%) 18 (43.9%)
+>50 18 (25.7%) 9 (22.0%)
+Size of wheals <icm 23 (32.9%) 15 (36.6%)
+te) 4-3.cm 33 (47.1%) 19 (46.3%)
+23cm 14 (20.0%) 7 (17.1%)
+Scores of wheals Mild 19 (27.1%) 12 (29.3%)
+Moderate 32 (45.1%) 19 (46.3%)
+Severe 19 (27.1%) 10 (24.4%)
+Itching intensity Mild 19 (27.1%) 13 (31.7%)
+Moderate 31 (44.3%) 18 (43.9%)
+Severe 20 (28.6%) 10 (24.4%)
+Duration of 1-12h 39 (55.7%) 26 (63.4%)
+wheals >12h 31 (44.3%) 15 (36.6%)
+Frequencies of Daily 70 (100%) 41 (100%)
+
+appearance
+
+TABLE 2 Domains of urticaria activity
+score (UAS) to assess disease severity in
+the patient group (n = 70)
+
+Male P-value
+
+6 (20.7%) 43
+14 (48.3%)
+
+9 (31.0%)
+
+8 (27.6%) 65
+14 (48.3%)
+
+7 (24.1%)
+
+7 (24.1%) 8
+13 (44.8%)
+
+9 (31.0%)
+
+6 (20.7%) 50
+13 (44.8%)
+10 (34.5%)
+13 (44.8%) $25)
+16 (55.2%)
+
+29 (100%) NA
+
+Note: Data are shown as number (percentage). Chi-square or Fisher's exact tests were used.
+
+(A) Number ofwheals (B) Size of wheals (C)
+
+OScorel @Score2 mScore3 OScorel WScore2 mScore3
+
+100% 5 100% 100% 5 100% %
+80% | 80% sox | 80% 20% |
+60% | 60% 60% | 60% 60% }
+40% | 40% 40% | 40% 40% |
+20% | 20% 20% | 20% 20% |
+0% 0% ox | 0% 0%
+
+No angioedema Angioedema No angioedema Angioedema
+
+(F) Number of wheals (G) Size of wheals (H)
+
+OScore1 Score2 mScore 3 QScore1 @Score2 mScore 3
+
+100%
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+Negative ASST Positive ASST
+
+100%
+
+; 100%
+80% 30%
+60% 60%
+40% 40%
+20% 20%
+
+0% 0%
+
+Negative ASST Positive ASST
+
+Score of wheals
+
+OScore1 @Score2 mScore3
+
+No angioedema Angioedema
+
+Score of wheals (I)
+
+OScore 1 GScore2 mScore 3
+
+(D)
+
+OScore1 GScore2 mScore 3
+
+Intensity of pruritus (E) Duration of wheals
+
+GScore1 Oscore2 mScore 3
+
+il
+
+No angioedema Angioedema
+
+100%
+
+No angioedema Angioedema
+
+Intensity of pruritus (J) Duration of wheals
+
+DScore1 GScore2 mScore 3 GScore1 DScore2 mScore 3
+
+a a
+
+Negative ASST Positive ASST
+
+Negative ASST Positive ASST Negative ASST Positive ASST
+
+FIGURE 2 Stratification analysis. Stratification of urticaria activity score (UAS) by angioedema and autologous serum skin test in patient
+
+group (n = 70)
+
+GA genotype was predominant in the healthy control group (38.6% in
+patients vs 60% in controls), P = .039. Consistently, the frequency of A
+allele was significantly lower in urticaria patients compared to controls
+(37.1% vs 53.3%; P = .042). Carriers for A variants were less likely to develop urticaria than their counterpart under homozygote comparison
+(OR=0.18, 95% Cl = 0.03-0.89), heterozygote comparison (OR = 0.24,
+95% Cl = 0.06-0.91), dominant model (OR = 0.24, 95% Cl = 0.06-0.91),
+and allelic model (OR = 0.40, 95% Cl = 0.66-0.91).
+
+In contrast, SNP analysis of rs879577 (c.1100C>T) showed that
+
+the frequencies of C and T alleles in the whole study population
+
+were 0.53 and 0.47, respectively. On comparing between urticaria
+patients and controls, CC was significantly the most prevalent genotype among patients (34.3% in patients vs 13.3% in controls), while
+TT genotype was predominant in the healthy control group (18.6% in
+patients vs 33.3% in controls) (P = .022). Consistently, the frequency
+of T allele was significantly lower in urticaria patients compared to
+controls (42.9% vs 60.0%; P = .020). Carriers for T variants were less
+likely to develop urticaria than their counterparts under homozygote, dominant model, and allelic model, but after adjustment results
+
+were insignificant, Table 4.
+NADA Er AL.
+
+ 
+
+TABLE 3 Assessment of QoL among the patient group (n = 70)
+
+QoL domain Total Female Male P-value
+Pruritus 1.2404 1.2404 13404 .25
+Swelling thse osk) 1.2404 13404 .25
+Impact on life 2.8419 25419 3.2419 16
+activities
+Sleep problems 2.841.3 2641.3 3.1413 14
+Looks 2.8413 2.5413 3.2+12 .06
+Limit 1.7+0.8 1.7408 18408 .51
+Total CSU-QoL 12.9+ 6.13 12.0461 141459 15
+
+Note: Data are shown as mean + standard deviation. QoL; quality of life.
+Student's t test was used.
+
+3.4 | Haplotype analysis
+
+Though there was poor linkage equilibrium between the two variants (r = 0.007, P = .92), patients with genotype combination of
+rs4819554*A and rs879577*T conferred protection against developing CSU, Table 5.
+
+3.5 | Association between IL17RA genotypes and
+features of CSU patients
+
+On comparison between CSU patients with different IL17RA
+rs4819554 genotypes (GG, GA, and AA), there was no significance
+association between genotypes of rs481995 promoter variant and
+age, sex, family history, or occupation. Though rs4819554*G variant was showed earlier to be the risky allele in CSU, the other allele
+(rs4819554*A) displayed more severe features. A/A genotype was associated with more prolonged disease duration (P = .044), concurrent
+angioedema (P < .001), and positive ASST status (P < .001). A/A genotype also demonstrated more frequent lesions in abdomen (P = .049)
+and legs (P = .042). In addition, the same variant was associated with
+higher level of treatment step (P < .001). CSU patients carrying A/A
+genotype were associated with the worst score in each UAS domain.
+A/A patients displayed a greater number of wheals (>50) (P < .001),
+higher prevalence of wheals > 3 cm (P < .001), greater score of wheals
+(P < .001), more intense itching (P < .001), and prolonged persistence
+of wheals > 12 hours (P = .004). In addition, A/A genotype was associated with higher scores for quality of life assessment (P < .001).
+Regarding IL17RA rs879577 genotypes (CC, CT, and TT), CC genotype
+was associated with CSU lesions in legs (P = .002) and concurrent angioedema (P < .001). Patients with the same genotype also reported
+poor symptoms in all QoL parameters (P < .001), Table 6.
+
+3.6 | Multivariate analysis of clinical data
+
+Principal component analysis of CSU patients using molecular and
+
+clinical variables scattered patients in a high dimensional space.
+
+ 
+
+Classifying patients according to their IL17RA promoter genotype at
+rs4819554 (c.-947G>A) polymorphism is demonstrated in Figure 3.
+Ordination revealed that, a part of one patient, clear demarcation of
+CSU patients with A/A genotype was observed. Clustering of this
+group was highly influenced by prolonged disease duration, concomitant angioedema, in addition to higher AAS, UAS, and QoL scores in
+these patients, thus, supporting the results of the univariate analysis
+
+in the previous tables.
+
+4 | DISCUSSION
+
+The present study is, to the best of our knowledge, the first to investigate a potential influence of IL-17RA in urticaria patients. Here, we
+tried to shed light on the role of analyzing IL-17RA gene polymorphism as a diagnostic and prognostic biomarker for CSU phenotype.
+Genotype profiling of IL17RA rs4819554 (G/A) and rs879577(C/T)
+variants was carried out in a sample of an Egyptian population. Our
+results demonstrated rs4819554*G allele to be a putative marker for
+disease risk while rs4819554*an allele was associated with severe
+phenotype. On the other hand, rs879577*C was associated with
+angioedema.
+
+In our study population, genotypes of patients and controls of
+rs4819554 SNP were in accordance with Hardy-Weinberg equilibrium. Allelic discrimination detected G and A alleles with frequencies
+of 0.47 and 0.53 in the control group. In this SNP, the minor allele
+(G) is reported to be 0.01 in Africans, 0.41 in Americans, 0.42 in East
+Asians, 0.24 in South Asians, and 0.21 in Europe (www.ensemble.org).
+On comparison between the study groups, GG was the most frequent
+genotype among CSU patients, while GA genotype was more prevalent in controls. Additionally, rs4819554*G variant was the risky allele
+under heterozygote and homozygote comparisons a well as dominant
+and allelic models. In agreement with our results, [L17RA rs4819554
+variant was related to susceptibility to psoriasis in Spanish patients.
+G carriers were more predominant among patients.°? In contrast, this
+promoter variant did not show significant association with alopecia
+areata risk in a Korean population.°? Nevertheless, rs4819554*A allele was more frequent in patients with papillary thyroid cancer than
+in control patients °4 and was associated with increased risk of developing end-stage renal disease.°° At the rs4819554 site in the IL17RA
+gene, the genomic sequence with G allele displayed an SP1 transcription factor consensus sequence; however, this consensus sequence
+was absent in the sequence with A variant.°*
+
+Another main finding in our results, patients carrying
+rs4819554*AA genotype, was associated with more prolonged disease duration, concomitant angioedema, and positive ASST status,
+advanced stage in treatment, and worst quality of life score in CSU.
+Similarly, homozygosity of AA was associated with more deterioration of renal function®? and higher primary graft dysfunction.°6 A
+allele of IL17RA gene also showed significant difference between the
+early onset AA and late onset AA in a Korean population.°? After
+analyzing several SNPs in coding and regulatory regions in two
+
+Spanish cohorts with ankylosing spondylitis (AS), results indicated
+ 
+
+ 
+
+ 
+
+a |. NADA Er at.
+WILEY
+TABLE 4 Genetic association models for IL-17RA (rs4819554 and rs879577) polymorphisms and risk of urticaria disease
+Controls Patients Adjusted* OR
+Genetic model Genotype (n = 30) (n= 70) P-value Crude OR (95% Cl) (95% Cl)
+rs4819554
+HWE P 0.26 0.13
+Co-dominant model” GG 5 (16.7) 30 (42.9) .039 1.0 1.0
+GA 18 (60.0) 27 (38.6) 0.25 (0.07-0.75) 0.24 (0.06-0.91)
+AA 7 (23.3) 13 (18.6) 0.31 (0.07-1.21) 0.18 (0.03-0.89)
+Dominant model GG 5 (16.7) 30 (42.9) .011 iL 1
+GA+AA 25 (83.3) 0 (57.1) 0.27 (0.08-0.76) 0.24 (0.06-0.91)
+Recessive model GG +GA 23 (76.7) 7 (81.4) .585 1 1
+AA 7 (23.3) 3 (18.6) 0.75 (0.26-2.24) 0.75 (0.18-3.15)
+Allelic model G 28 (46.7) 7 (62.1) .042 1 1.32 (0.31-5.51)
+A 32 (53.3) 3 (37.8) 0.53 (0.28-0.98) 0.4 (0.66-0.91)
+rs879577
+HWE P 0.54 0.92
+Co-dominant model ce 4 (13.3%) 24 (34.3%) .022 1 a
+CT 16 (53.3%) 33 (47.1%) 0.34 (0.08-1.13) 0.34 (0.06-1.73)
+TT 10 (33.3%) 13 (18.6%) 0.22 (0.05-0.84) 0.26 (0.05-1.31)
+Dominant model cc 4 (13.3%) 24 (34.3%) .03 1 1
+CT+TT 26 (86.7%) 46 (65.7%) 0.29 (0.08-0.91) 0.34 (0.06-1.73)
+Recessive model CC +CT 20 (66.7%) 57 (81.4%) ul a 1
+ul 10 (33.3%) 13 (18.6%) 0.46 (0.17-1.24) 0.75 (0.24-2.34)
+Allelic model Cc 24 (40.0%) 81 (57.8%) .02 1 1.32 (0.42-4.10)
+ap 36 (60.0%) 59 (42.2%) 0.48 (0.26-0.90) 0.34 (0.06-1.73)
+
+Note: Values are shown as the number (%). HWE P; P-value of Hardy-Weinberg equilibrium. The Chi-square test was used. OR (95% Cl), odds ratio,
+
+and confidence interval.
+*Adjusted for confounding factors (age, gender, FH, and occupation).
+
+Represented both heterozygote and homozygote comparison models. There was a statistically significant increase in the frequency of GG genotype
+and G Allele among the patient group compared to the control group (P < .05).
+
+Bold values are significant at P < .05.
+
+the genetic role of our promoter variant in the development of severe forms of AS.”* Interestingly, rs4819554* A allele was linked to
+an increased expression of the IL-17RA protein and higher levels of
+Th17 cell subsets,°° which might explain the increased severity of
+immune-related diseases.
+
+The missense mutation rs879577 (c.1100C>T) showed allele
+frequencies of 0.53 and 0.47 for C and T alleles in the whole study
+population. In population genetics projects as the 1000 Genome
+Project Phase 3, similar frequencies (53% and 47% respectively)
+
+were reported. In contrast, minor allele frequencies (T allele)
+
+accounted for 9%, 26%, and 28% in Asia, Europe, and America
+respectively (www.ensembl.org). CC genotype was significantly
+the most prevalent among patients, while TT genotype was predominant in the healthy control group. Similarly, the frequency of
+T allele was significantly lower in urticaria patients compared to
+controls. Haplotype analysis showed that patients with genotype
+combination of rs4819554*A and rs879577*T conferred protection against developing CSU. Carriers of rs879577*C allele, which
+was the predominant variant in CSU patients, were also associated
+
+with poor clinical markers in CSU. CC genotype was associated
+
+TABLE 5. Haplotype analysis of
+
+rs4819554 rs879577 ~— Total Controls Cases OR (95% Cl) P-value IL-ATRA (84819554 and rs879577)
+1 6A Cc 0.3036 0.3615 0.2906 1.00 polymorphisms and risk of urticaria
+2 G T 0.2714 0.1052 0.3309 5.59 (0.71-26.70) .303 disease
+3 G Cc 0.2214 0.0385 0.288 5.52 (0.64-47.32) .12
+4 A T 0.2036 0.4948 0.0906 0.07 (0.01-0.32) .0011
+
+Note: Data are shown as a number (percentage). OR: odds ratio (95% Cl) (95% confidence interval).
+
+The Chi-square test was used.
+Bold values are significant at P < .05.
+NADA Er AL. aj
+
+D WILEY
+
+Cosmetic Dermatology
+
+ 
+
+ 
+
+TABLE 6 Demographic features of urticaria patients, according to IL-17RA genotypes
+
+ 
+
+ 
+
+rs4819554 genotypes rs879577 genotypes
+Patient GG GA AA
+Characteristics (n= 70) (n= 30) (n= 27) (n = 13) P-value CC(n=24) CT(n=33) TT(n=13) P-value
+Age, y
+<30 36 (51.4) 16 (53.3) 13 (48.1) 7 (53.8) 91 13 (54.2) 17 (51.5) 6 (46.2) 90
+>30 34 (48.6) 14 (46.7) 14 (51.9) 6 (46.2) 11 (45.8) 16 (48.5) 7 (53.8)
+Sex
+Female 41 (58.6) 21 (70.0) 14 (51.9) 6 (46.2) 20) 14 (58.3) 20 (60.6) 7 (53.8) m2:
+Male 29 (41.4) 9 (30.0) 13 (48.1) 7 (53.8) 10 (41.7) 13 (39.4) 6 (46.2)
+FH Urticaria
+Negative 67 (95.7) 29 (96.7) 26 (96.3) 12 (92.3) 8 22 (91.7) 33 (100) 12 (92.3) 25
+Positive 3 (4.3) 1 (3.3) 1 (3.7) 1 (7.7) 2 (8.3) 0 (0.0) 1 (7.7)
+Occupation
+Housewife 16 (22.9) 8 (26.7) 7 (25.9) 1 (7.7) 44 2 (8.3) 9 (27.3) 5 (38.5) n2D)
+Student 229) 1 (3.3) 0 (0.0) 1 (7.7) 1 (4.2) 1 (3.0) 0 (0.0)
+Working 52 (4.3) 21 (70.0) 20 (74.1) 11 (84.6) 21 (87.5) 23 (69.7) 8 (61.5)
+Duration
+<8 wk 34 (48.6) 14 (46.7) 17 (63.0) 3 (23.1) .04 8 (33.3) 20 (60.6) 6 (46.2) 10
+<10 wk 31 (44.3) 15 (50.0) 9 (33.3) 7 (53.8) 12 (50.0) 12 (36.4) 7 (53.8)
+<12 wk 5 (7.1) 1 (3.3) 1 (3.7) 3 (23.1) 4 (16.7) 1 (3.0) 0 (0.0)
+Distribution
+Abdominal 8 (11.4) 5 (16.7) 0 (0.0) 3 (23.1) .05 S125) 4 (12.1) 1 (7.7) 2
+Back 26 (37.1) 9 (30.0) 10 (37.0) 7 (53.8) roo. 7 (29.2) 12 (36.4) 7 (53.8) ee
+Legs 38 (54.3) 13 (43.3) 14 (51.9) 11 (84.6) .04 20 (83.3) 13 (39.4) 5 (38.5) 002
+Arms 16 (22.9) 7 (23.3) 5 (18.5) 4 (30.8) 69 7 (29.2) 7 (21.2) 2 (15.4) 61
+Angioedema
+Negative 54 (77.1) 29 (96.7) 24 (88.9) 1 (7.7) <.001 11 (45.8) 30 (90.9) 13 (100) <.001
+Positive 16 (22.9) 1 (3.3) 3 (11.1) 12 (92.3) 13 (54.2) 3 (9.1) 0 (0.0)
+ASST status
+Negative 35 (50.0) 21 (70.0) 14 (51.9) 0 (0.0) <.001 9 (37.5) 19 (57.6) 7 (53.8) 31
+Positive 35 (50.0) 9 (30.0) 13 (48.1) 13 (100) 15 (62.5) 14 (42.4) 6 (46.2)
+Treatment
+Step 1 42 (60.0) 24 (80.0) 17 (63.0) 1(7.7) <.001 10 (41.7) 23 (69.7) 9 (69.2) 08
+Step 2 28 (40.0) 6 (20.0) 10 (37.0) 12 (92.3) 14 (58.3) 10 (30.3) 4 (30.8)
+Number of wheals
+<10 20 (28.6) 14 (46.7) 6 (22.2) 0 (0.0) <.001 6 (25.0) 10 (30.3) 4 (30.8) 89
+11-50 32 (45.7) 13 (43.3) 17 (63.0) 2 (15.4) 13 (54.2) 14 (42.4) 5 (38.5)
+>50 18 (25.7) 3 (10.0) 4 (14.8) 11 (84.6) 5 (20.8) 9 (27.3) 4 (30.8)
+Size of wheals
+<1 23 (32.9) 14 (467) 9 (33.3) 0 (0.0) <.001 9 (37.5) 10 (30.3) 4 (30.8) 86
+4:32: 33 (47.1) 14 (46.7) 15 (55.6) 4 (30.8) 12 (50.0) 15 (45.5) 6 (46.2)
+>3 14 (20.0) 2 (6.7) 3 (11.1) 9 (69.2) 3 (12.5) 8 (24.2) 3 (23.1)
+Score of wheals
+Mild 19 (27.1) 12 (40.0) 7 (25.9) 0 (0.0) <.001 6 (25.0) 9 (27.3) 4 (30.8) We
+Moderate 32 (45.7) 15 (50.0) 16 (59.3) 1 (7.7) 13 (54.2) 15 (45.5) 4 (30.8)
+Severe 19 (27.1) 3 (10.0) 4 (14.8) 12 (92.3) 5 (20.8) (27.3) 5 (38.5)
+
+(Continues)
+ 
+
+ 
+
+ 
+
+ 
+
+to | NADA er aL,
+WILEY
+TABLE 6 (Continued)
+rs4819554 genotypes 1s879577 genotypes
+Patient GG GA AA
+Characteristics (n= 70) (n= 30) (n= 27) (n = 13) P-value CC(n=24) CT(n=33) TT(n=13) P-value
+Itching intensity
+Mild 19 (27.1) 13 (43.3) 6 (22.2) 0 (0.0) <.001 6 (25.0) 9 (27.3) 4 (30.8) 84
+Moderate 31 (44.3) 14 (46.7) 16 (59.3) 1(7.7) 12 (50.0) 15 (45.5) 4 (30.8)
+Severe 20 (28.6) 3 (10.0) 5 (18.5) 12 (92.3) 6 (25.0) 9 (27.3) 5 (38.5)
+Duration of wheals
+1-12h 39 (55.7) 21 (70.0) 16 (59.3) 2 (15.4) .004 13 (54.2) 20 (60.6) 6 (46.2) 66
+>12h 31 (44.3) 9 (30.0) 11 (40.7) 11 (84.6) 11 (45.8) 13 (39.4) 7 (53.8)
+
+Note: Values are shown as a number (percentage). The Chi-square test was used. Bold values indicate statistical significance at P < .05.
+
+with concurrent angioedema, lesions in legs, and low quality of life
+domains. A putative explanation for this is depicted in the following structural analysis of the point mutation; in the cytoplasmic
+domain of IL-17Ra protein, the nucleotide substitution from cytosine to thymine at the position 22:17 108 319 causes a missense
+mutation at codon 367; changing from alanine to valine (p.A367V)
+with the same preserved length of the protein. This amino acid
+change is located between two beta strands (297-301 and 379383), away from active or binding sites, and is predicted by computational tools as SIFT and PolyPhen to be tolerable mutation.
+However, amino acid composition analysis of alanine along with its
+substituted residues demonstrated that alanine is unique in that
+it is the only amino acid where the side chain is connected to the
+protein backbone twice, forming a five-membered ring; therefore,
+it cannot adopt a normal helical conformation and is usually found
+
+in very tight turns and on the surface of protein structures. On
+
+184819554
+4GG
+aGA
+AAA
+
+the other hands, the hydrophobic, bulky, and branched valine (V)
+residue tends to lie near the protein backbone, within beta sheets
+and to be buried in protein hydrophobic cores. Thus, structural alterations in the IL-17Ra protein from alanine to valine might cause
+conformational changes with functional consequences.
+
+The pathogenesis of CSU is probably characterized by a
+multiplicity of mechanisms, including autoimmunity, autoallergy, and coagulation, each of which may carry different
+weight in each patient. We have demonstrated for the first time
+that IL17RA polymorphisms have the possibilities of determining
+the pathophysiology of CSU phenotype. Our data supported the
+biological role of the IL-17RA gene in the development and progression of CSU disease. The promoter variant could be a putative marker for disease risk and severity in a sample of Egyptian
+population. However, some limitations warrant to be mentioned.
+
+First, small sample size was enrolled in the study, and replication
+
+ 
+
+FIGURE 3. Ordination plot for multivariate analysis. Based on clinical parameters, CSU patients with various IL-17RA rs4819554*AA and
+rs879577*CC genotypes were associated with angioedema, higher AAS, UAS, and prolonged duration. Thus, showed some clustering
+NADA Er AL.
+
+ 
+
+in larger cohorts is warranted to confirm the genetic association of
+rs4819554 and rs879577 to CSU and study the functional impact
+of the variant on disease progression. Second, in the survey/questionnaire format and subjectivity of data might impose a putative
+bias effect. In addition, adding another positive control group with
+an inflammatory dermatosis condition would enhance the study.
+Functional consequence of the polymorphism was not studied in
+the laboratory, and correlation analysis between the expression
+level of IL-17RA and polymorphism in blood of CSU patients would
+have added more value on the study outcomes.
+
+In conclusion, we combined clinical and molecular analysis to illustrate the influence of the promoter polymorphism (rs4819554) and
+missense mutation (rs879577) on CSU development and progression.
+We found individuals with rs4819554*GG homozygosity were associated with disease risk, while those with rs4819554*AA genotype
+displayed more severe phenotype, while rs879577*CC was associated
+with angioedema. Whether it directly contributes to disease susceptibility or in linkage disequilibrium with other true-causing polymorphisms needs further investigation. Screening CSU patients for
+IL17RA genetic determinants during patient's assessment would predict the course of the disease and guide the best medication choice in
+each patient, which may ultimately enhance care and improve health
+
+outcomes.
+
+ACKNOWLEDGEMENT
+We acknowledge the Center of Excellence in Molecular and Cellular
+Medicine, Faculty of Medicine, Suez Canal University, where labora
+tory work was performed.
+
+CONFLICT OF INTEREST
+All authors confirm that there is no conflict of interest or have re
+ceived fund for conducting this work.
+
+AUTHOR CONTRIBUTION
+
+HN, RH, and MA designed the study. HN, RH, RAEI, and OEA collected patients’ data. ET performed data management and statistical
+analyses. HN, RH, RAEI, OEA, and ET contributed to data interpretation. RAEI, OEA, and ET wrote the first draft. ET drafted the final
+manuscript. All authors critically reviewed and approved the final
+
+version of the manuscript.
+
+DATA AVAILABILITY STATEMENT
+Data available on request due to privacy/ethical restrictions.
+
+ORCID
+Eman Ali Toraih © https://orcid.org/0000-0001-9267-3787
+
+REFERENCES
+
+1. Vestergaard C, Deleuran M. Chronic spontaneous urticaria: latest
+developments in aetiology, diagnosis and therapy. Ther Adv Chronic
+Dis. 2015;6(6):304-313.
+
+2. Folci M, Heffler E, Canonica GW, Furlan R, Brunetta E. Cutting
+edge: biomarkers for chronic spontaneous urticaria. J Immunol Res.
+2018;2018:1-12.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21s
+
+S BED
+Po wiey=
+
+Sanchez J, Amaya E, Acevedo A, Celis A, Caraballo D, Cardona R.
+Prevalence of inducible urticaria in patients with chronic spontaneous urticaria: associated risk factors. J Allergy Clin Immunol Pract.
+2017;5(2):464-470.
+
+Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs
+in chronic spontaneous urticaria. A GA2LEN task force report 1.
+Allergy. 2011;66(3):317-330.
+
+Asero R, Tedeschi A, Marzano AV, Cugno M. Chronic urticaria: a
+focus on pathogenesis. F1000Research. 2017;6:1095.
+
+Dos Santos JC, Azor MH, Nojima VY, et al. Increased circulating pro-inflammatory cytokines and imbalanced regulatory
+T-cell cytokines production in chronic idiopathic urticaria. Int
+Immunopharmacol. 2008;8(10):1433-1440.
+
+Jain S. Pathogenesis of chronic urticaria: an overview. Dermatol Res
+Pract. 2014;2014:1-10.
+
+Chakravarty SD, Yee AF, Paget SA. Rituximab successfully treats
+refractory chronic autoimmune urticaria caused by IgE receptor autoantibodies. J Allergy Clin Immunol. 2011;128(6):1354.
+
+Sabroe RA, Poon E, Orchard GE, et al. Cutaneous inflammatory
+cell infiltrate in chronic idiopathic urticaria: comparison of patients
+with and without anti-FceRI or anti-lgE autoantibodies. J Allergy Clin
+Immunol. 1999;103(3):484-493.
+
+Aslam A, Griffiths CEM. Drug therapies in dermatology. Clin Med
+(Northfield Il). 2014;14(1):47.
+
+Kaabachi W, Amor A, Kaabachi S, Rafrafi A, Tizaoui K, Hamzaoui
+K. Interleukin-17A and-17F genes polymorphisms in lung cancer.
+Cytokine. 2014;66(1):23-29.
+
+Monin L, Gaffen SL. Interleukin 17 family cytokines: signaling
+mechanisms, biological activities, and therapeutic implications.
+Cold Spring Harb Perspect Biol. 2018;10(4):a028522.
+
+Iwakura Y, Ishigame H, Saijo S, Nakae S. Functional specialization of
+interleukin-17 family members. Immunity. 2011;34(2):149-162.
+Vidal-Castifeira JR, Lopez-Vazquez A, Diaz-Pena R, et al. A single nucleotide polymorphism in the [l17ra promoter is associated with functional severity of ankylosing spondylitis. PLoS One.
+2016;11(7):e0158905.
+
+Atwa MA, Emara AS, Youssef N, Bayoumy NM. Serum concentration of IL-17, IL-23 and TNF-« among patients with chronic
+spontaneous urticaria: association with disease activity and
+autologous serum skin test. J Eur Acad Dermatology Venereol.
+2014;28(4):469-474.
+
+McAleer JP, Kolls JK. Directing traffic: IL-17 and IL-22 coordinate
+pulmonary immune defense. Immunol Rev. 2014;260(1):129-144.
+Speeckaert R, Lambert J, Grine L, Van Gele M, De Schepper S, van
+Geel N. The many faces of interleukin-17 in inflammatory skin diseases. Br J Dermatol. 2016;175(5):892-901.
+
+Degirmenci PB, Kirmaz C, Vatansever S, et al. Analysis of the association of chronic spontaneous urticaria with interlekin-4,-10,
+transforming growth factor-61, interferon-y, interleukin-17A
+and-23 by autologous serum skin test. Adv Dermatology Allergol.
+2017;34(1):70.
+
+Grzanka A, Damasiewicz-Bodzek A, Kasperska-Zajac A. The relationship between circulating concentrations of interleukin 17 and
+C reactive protein in chronic spontaneous urticaria. Allergy Asthma
+Clin Immunol. 2017;13(1):25.
+
+McGovern DPB, Rotter JI, Mei L, et al. Genetic epistasis of IL23/
+IL17 pathway genes in Crohn's disease dermot. Inflamm Bowel Dis.
+2009;15(6):883-889.
+
+Catanoso MG, Boiardi L, Macchioni P, et al. IL-23A, IL-23R, IL-17A
+and IL-17R polymorphisms in different psoriatic arthritis clinical
+manifestations in the northern Italian population. Rheumatol Int.
+2013;33(5):1165-1176.
+
+Reva B, Antipin Y, Sander C. Predicting the functional impact of
+protein mutations: application to cancer genomics. Nucleic Acids
+Res. 2011;39(17):e118.
+ 
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29;
+
+30.
+
+NADA er AL.
+
+ 
+
+osmetic Dermatology
+Wong LY, Hatfield JK, Brown MA. Ikaros sets the potential for Th17
+lineage gene expression through effects on chromatin state in early
+T cell development. J Biol Chem. 2013;288(49):35170-35179.
+Zuberbier T., Asero R., Bindslev-Jensen C., et al. EAACI/GA2LEN/
+EDF/WAO guideline: definition, classification and diagnosis of urticaria. Allergy. 2009;64(10):1417-1426.
+Flood EM, Zazzali JL, Devlen J. Demonstrating measurement equivalence of the electronic and paper formats of the urticaria patient
+daily diary in patients with chronic idiopathic urticaria. Patient
+Patient Centered Outcomes Res. 2013;6(3):225-231.
+Lennox RD, Leahy MJ. Validation of the Dermatology Life Quality
+Index as an outcome measure for urticaria-related quality of life.
+Ann Allergy Asthma Immunol. 2004;93(2):142-146.
+Mathias SD, Dreskin SC, Kaplan A, Saini SS, Spector S, Rosén KE.
+Development of a daily diary for patients with chronic idiopathic
+urticaria. Ann Allergy Asthma Immunol. 2010;105(2):142-148.
+Khalil S, McBride D, Gimenez-Arnau A, Grattan C, Balp M-M,
+Stull DE. Weekly urticaria activity score (UAS7) and dermatology
+life quality index (DLQI) in validation of chronic spontaneous/idiopathic urticaria (CSU/CIU) health states. J Allergy Clin Immunol.
+2015;135(2):AB131.
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, SchmidGrendelmeier P, Grattan CEH. EAACI/GA2LEN task force consensus report: the autologous serum skin test in urticaria. Allergy.
+2009;64(9):1256-1268.
+Toraih E, Hussein MH, Badran DI. Beta,-adrenergic receptor gene
+polymorphisms in Egyptian patients with acute myocardial infarction. Bianco PR, editor. Adv Mol Biol. 2014;2014:471635.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+Toraih EA, Fawzy MS, Mohammed EA, Hussein MH, EL-Labban
+MM. MicroRNA-196a2 biomarker and targetome network analysis
+in solid tumors. Mol Diagn Ther. 2016;20(6):559-577.
+
+Batalla A, Coto E, Gonzalez-Lara L, et al. Association between single
+nucleotide polymorphisms IL17RA rs4819554 and IL17E rs79877597
+and Psoriasis in a Spanish cohort. J Dermatol Sci. 2015;80(2):111-115.
+Lew B-L, Cho H-R, Haw S, Kim H-J, Chung J-H, Sim W-Y. Association
+between IL17A/IL17RA gene polymorphisms and_ susceptibility to alopecia areata in the Korean population. Ann Dermatol.
+2012;24(1):61-65.
+
+Lee YC, Chung J-H, Kim SK, et al. Association between interleukin
+17/interleukin 17 receptor gene polymorphisms and papillary thyroid cancer in Korean population. Cytokine. 2015;71(2):283-288.
+Coto E, Gomez J, Suarez B, et al. Association between the IL17RA
+rs4819554 polymorphism and reduced renal filtration rate in the
+Spanish RENASTUR cohort. Hum Immunol. 2015;76(2-3):75-78.
+Somers J, Ruttens D, Verleden SE, et al. Interleukin-17 receptor
+polymorphism predisposes to primary graft dysfunction after lung
+transplantation. J Heart Lung Transplant. 2015;34(7):941-949.
+
+How to cite this article: Nada H, Hassan R, Ibrahim RAE-H, et
+al. Interleukin 17 receptor A haplotype analysis in chronic
+spontaneous urticaria: A preliminary study. J Cosmet
+Dermatol 2020;00:1-12. https://doi.org/10.1111/jocd.13730
+
+ 
+

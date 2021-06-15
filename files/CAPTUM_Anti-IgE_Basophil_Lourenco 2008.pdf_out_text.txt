@@ -1,0 +1,941 @@
+ 
+
+CLINICAL AND LABORATORY INVESTIGATIONS
+
+DO! 10.1111/).1365-2133.2008.08499.x
+
+Activated status of basophils in chronic urticaria leads
+to interleukin-3 hyper-responsiveness and enhancement
+
+of histamine release induced by anti-IgE stimulus
+F.D. Lourengo, M.H. Azor, J.C. Santos, E. Prearo,* C.W. Maruta,* E.A. Rivitti,* A.J.S. Duarte and M.N. Sato
+
+Laboratory of Investigation in Dermatology and Immunodeficiencies (LIM-56), Department of Dermatology, School of Medicine, University of Sdo Paulo,
+
+05403-000 Sao Paulo, Brazil
+
+*Dermatological Outpatient Clinic, Hospital das Clinicas, School of Medicine, University of Sto Paulo, Sao Paulo, Brazil
+
+Summary
+
+ 
+
+Correspondence
+Maria Notomi Sato.
+
+E-mail: marisato@usp.br
+
+Accepted for publication
+11 December 2007
+
+Key words
+basophil, CD203c, CD63, chronic urticaria,
+releasability
+
+Conflicts of interest
+None declared.
+
+Background Basophils and mast cells are the main target cells in chronic idiopathic
+urticaria (CIU). Besides the basopenia, intrinsic defects of the anti-IgE crosslinking signalling pathway of basophils have been described in CIU.
+
+Objectives We sought to investigate the profile of expression of activation markers
+on basophils of patients with CIU and to explore the effect of interleukin (IL)-3
+priming upon anti-IgE cross-linking stimuli through expression of activation
+markers and basophil histamine releasability.
+
+Methods Evaluation of the surface expression of FceRIa, CD63, CD203c and
+CD123 on whole blood basophils of patients with CIU undergoing autologous
+serum skin test (ASST) was performed by flow cytometry. The effect of pretreatment with IL-3 in the anti-IgE response was analysed by the expression o}
+basophil activation markers and histamine release using enzyme-linked immunosorbent assay.
+Results Blood basophils of patients with CIU were reduced in number and displayed increased surface expression of FceRIx, which was positively correlated
+with the IgE serum levels. Upregulation of expression of both surface markers
+
+ 
+
+CD203c and CD63 was verified on basophils of patients with CIU, regardless o:
+
+ 
+
+ASST response. High expression of IL-3 receptor on basophils was detected only
+in ASST+ patients with CIU. Pretreatment with IL-3 upregulated CD203c expression concomitantly with the excreting function of blood basophils and induced a
+quick hyper-responsiveness to anti-IgE cross-linking on basophils of patients with
+CIU compared with healthy controls.
+Conclusions Basophils of patients with CIU showed an activated profile, possibly
+due to an in vivo priming. Functionally, basophils have high responsiveness to
+
+ 
+
+IL-3 stimulation, thereby suggesting that defects in the signal transduction pathway after IgE cross-linking stimuli are recoverable in subjects with chronic
+urticaria.
+
+Chronic urticaria is a common skin disorder characterized by
+recurrent and transitory itchy weals occurring regularly for
+more than 6 weeks.’ In most patients the cause remains
+unknown, in which case it is defined as chronic idiopathic
+urticaria (CIU). CIU appears to be of autoimmune origin in a
+substantial percentage of cases, as approximately 35-40% of
+patients have circulating IgG antibodies directed against the
+a-subunit of the high-affinity IgE receptor,” and an additional
+5-10% have antibodies against the IgE molecule.* The auto
+© 2008 The Authors
+
+immune subgroup represents the most severe form of chronic
+urticaria.''* Patients with chronic urticaria without autoantibodies still have no clear cause for their urticaria, but it has
+been suggested that a population of patients has intrinsic basophil or mast cell defects, which may be the underlying cause
+of hives in these patients. However, some caution is required
+in extrapolating the results from circulating basophils to those
+sequestered in the affected urticarial tissues, an issue that
+
+requires further investigation.
+
+Journal Compilation © 2008 British Association of Dermatologists @ British Journal of Dermatology 2008 158, pp979-986 979
+980 Activation profile of basophils in chronic urticaria, F.D. Lourenco et al.
+
+Basophils represent <0°5% of total leucocytes in peripheral
+blood; they are generated and mature in the bone marrow
+and circulate in the periphery as fully differentiated forms.
+Stimulated basophils release preformed histamine, the major
+mediator of urticaria, and newly synthesized factors, such as
+leukotriene C, and interleukin (IL)-4 and IL-13. In CIU, the
+occurrence of basopenia has been well described, which has
+been correlated with urticarial activity.*° One possible reason
+for the reduced number of basophils in CIU is that these cells
+are actively recruited into lesional skin.’
+
+The activation markers on basophils have been parameters
+for evaluating the degree of cellular activation in atopic
+disease as well as in CIU, based on the allergens or seruminducing activity of basophils, respectively. In resting basophils, CD63 is anchored in the basophilic granule membrane
+that contains histamine, and its exposure to the outside of
+the cells reflects cell degranulation due to fusion between
+granules and plasma membranes.* CD63 is expressed by different cell types, such as basophils, tissue mast cells, macrophages and platelets.” CD203c appears to be selectively
+expressed on the basophil/mastocyte lineage.'° CD203c is a
+multifunctional ectoenzyme called ectonucleotide pyrophosphatase phosphodiesterase 3 (E-NPP3).'° Both activation
+markers, CD63 and CD203c, under different kinetics, are
+rapidly upregulated on basophils after stimulation with aller
+11,12
+“* Sera
+
+gens or cross-linking with anti-IgE or anti-FceRI.
+from patients with CIU with positive autologous serum skin
+tests (ASSTs) significantly upregulate basophil CD63 as we
+as CD203c and correlate with basophil histamine release, particularly if highly sensitive donor basophils are used.'*'*
+Most investigation has been focused on the CIU serum activity in the activation of donor basophils as a screening tool.
+However, direct evidence of basophil activation in the
+peripheral blood could also possibly be used to monitor urticarial activity. An enhanced expression of CD63 in basophils
+in vivo that is not associated with serum factors has been
+shown for patients with CIU.'®
+
+IL-3 has been shown to improve basophil histamine release
+
+ 
+
+upon stimulation with sera from patients with CIU, partially
+converting nonreleaser basophils into cells that respond to sera
+if they are unresponsive to anti-IgE but respond normally to
+other secretory stimuli.'’ Basophils in patients with CIU are
+considered to have possible specific intrinsic defects, such as
+being hyporesponsive to anti-IgE,”"'**° but hyper-responsive
+to healthy or patient serum. However, if there are some
+intrinsic basophil defects in CIU, the effectiveness of IL-3
+stimulation in anti-IgE cross-linking histamine release is
+unknown.
+
+In the current study, we sought to investigate the intensity of FceRIa receptor expression as well as expression of
+the activation/degranulation markers CD203c, CD63 and
+CD123 on blood basophils from ASST+ and ASST— patients
+with CIU. In addition, we sought to explore the efficacy of
+IL-3 priming upon anti-IgE stimulus through expression of
+basophil activation markers and basophil histamine releasability.
+
+Patients and methods
+
+Study subjects
+
+All patients with continuous CIU were selected from the Dermatological Outpatient Clinic of the Hospital das Clinicas de
+Sao Paulo (HC-FMUSP). They had had weals at least four times
+a week for 6 weeks or longer. Patients with physical urticaria,
+urticarial vasculitis and food allergy were excluded. Antihistamines were withdrawn 48 h before the study, and none of the
+patients was taking corticosteroids or immunosuppressive
+drugs at the time of venipuncture. Samples from 29 patients
+with CIU (five men and 24 women; median age 42:5 years,
+range 20-66) and 26 healthy control (HC) individuals (eight
+men and 18 women; median age 37 years, range 22-65) were
+collected and stored at —70°C. All subjects gave written
+informed consent, and the study protocol was approved by the
+institutional ethics committee of the HC-FMUSP.
+
+Autologous serum skin test
+
+All patients underwent skin testing with autologous serum
+(ASST) performed following standard methods”! with fresh
+autologous serum injected intradermally into the volar forearm
+skin. A positive skin test was defined as when the seruminduced weal was red and had a diameter 21:5 mm than that
+
+of the saline-induced response at 30 min.
+
+Flow cytometry analysis
+
+To analyse the expression of FceRI or activation surface markers on basophils, cells were stained with a combination of
+labelled monoclonal antibodies (mAbs) and measured by
+means of flow cytometry. In brief, 100 tL of whole blood
+was incubated for 30 min on ice with fluorescein isothiocyanate (FITC)-labelled goat antihuman IgE (Caltag, Carlsbad, CA,
+U.S.A.), phycoerythrin (PE)-labelled FceRI o-chain mAb
+AER-37 (CRA1; Immunotech International, Marseille, France),
+or their isotype-matched controls. Cells were initially gated
+based on the histogram defined by forward scatter and side
+scatter, and then a second gate of high-density FITC-IgE+ cells
+was defined to select the basophil population. To evaluate the
+specific activation markers, the follow mAbs were used:
+R-PE-labelled CD203c; PE-labelled CD63 (Immunotech International); and PE-Cy5 (cyanin 5)-labelled CD123 [IL-3 receptor & (IL-3Ra), 9F5], from BD Pharmingen (San Jose, CA,
+U.S.A.). After incubation, the cells were washed once in phosphate-buffered saline (PBS)/0°5%
+(BSA), processed with a Coulter EPICS XL-ML flow cytometer
+(Miami, FL, U.S.A.), and analysed with System II software. At
+least 500 basophils were assessed. The absolute number of
+
+bovine serum albumin
+
+basophils in the peripheral blood was determined as the percentage of positive cells multiplied by the total leucocyte
+count performed using the Cell-Dyn 1400 (Abbott, Chicago,
+IL, U.S.A.). Data were expressed as net median fluorescence
+intensity (MFI) (actual MFI — MFI of the irrelevant IgG
+
+© 2008 The Authors
+
+Journal Compilation © 2008 British Association of Dermatologists © British Journal of Dermatology 2008 158, pp979-986
+Activation profile of basophils in chronic urticaria, F.D. Lourengo et al. 981
+
+control). All incubation steps were performed at 4°C. For
+
+anti-IgE stimulation assays, the gate on side scatter
+with PE-CD203c+ cells or the gate with PE-CD63+ and highdensity FITC-IgE+ cells was defined to select the basophil
+
+population, analysing at least 500 cells.
+
+Basophil activation and histamine-release reaction
+
+Whole blood (100 tL) was incubated with human recombinant IL-3 (4ng mL7'; BD Pharmingen) for 10 min at 37°C.
+After incubation, the cells were incubated with 12°5 pig mL!
+of anti-IgE (Calbiochem, Darmstadt, Germany) in PBS containing 0°3% BSA, 2 pmol L™' CaCl, and 1 pmol L™' MgCl, for
+15 and 40 min at 37°C. After incubation, the reaction was
+stopped with 100 wL of cold PBS/0:3% BSA solution containing 20 mol L™! ethylenediamine tetraacetic acid. The supernatants were separated by means of centrifugation for
+histamine measurement and the cells for flow cytometry analysis. Spontaneous histamine release (basal) was evaluated by
+measuring histamine concentration in the supernatant of
+unstimulated cells. Aliquots of cells underwent four freeze—
+thaw cycles to determine total basophil histamine content. The
+results were expressed as percentage of total histamine content calculated by using the following formula: (sample —
+basal) /(total — basal) X 100.
+
+Histamine assay
+
+Basophil histamine release as well as plasma histamine levels
+were measured using enzyme-linked immunosorbent assay
+(ELISA), instructions
+
+according to the manufacturer’s
+
+(a) 256
+
+ 
+
+(Immuno-Biological Lab, Hamburg, Germany). The optical
+density reading was performed at 450 nm in an ELISA microplate reader (Molecular Devices, Sunnyvale, CA, U.S.A.) with a
+SOFT max PRO program.
+
+Statistical analysis
+
+Data are presented as means. The Mann—Whitney U-test was
+used to compare variables between patients with CIU and HC
+subjects. Correlations of data were analyzed by the nonparametric Spearman test. The Kruskal—Wallis test with Dunn’s
+post-test was used to compare nonpaired data between three
+
+sets of data. P < 0-05 was considered significant.
+
+Results
+
+Basopenia and FceRI surface expression on basophils
+of patients with chronic idiopathic urticaria
+
+To verify the expression of the high-affinity IgE receptor
+(FceRI) on basophils from peripheral blood, patients with
+CIU underwent skin testing with autologous serum (ASST).
+Initial experiments were designed to quantify basophils in
+peripheral blood and to ascertain the plasma histamine levels
+of patients with CIU. To determine the absolute number of
+blood basophils, the percentage of basophils stained for antiIgE by flow cytometry as shown in Figure 1 was multiplied
+by the leucocyte number. The enumeration of basophils
+showed marked basopenia in patients with CIU, independent
+of a positive or negative ASST (Fig. 1). The occurrence of
+basopenia in patients with CIU is well known through the use
+
+(b) 256
+
+   
+
+ 
+
+ 
+
+ 
+
+192 192
+& 6
+g g
+5 128 g 128
+z 2
+8 3
+Fig 1. Peripheral blood basophil enumeration 5 e
+and plasma histamine levels. (a) Cell scatter 64 64
+and gate-contained basophils located between :
+the monocytes and lymphocytes. (b) Cells 7 F 5
+~ . ™ " ~ a ~
+were selected by high IgE intensity of 0 128 192 192 256 10° 10" 10? 10° 10°
+labelling with fluorescein isothiocyanate Side scatter Anti-lgE FITC
+FITC)-antihuman IgE. (c) Absolute number
+ae ee (c) 57 060 (d) 3000
+of basophils (percentage of basophils stained 0! 6
+O,
+for anti-IgE multiplied by leucocyte number) Se tee ke 5
+of peripheral blood from healthy control 50 sue
+(HC) individuals, patients with chronic ": in
+°
+idiopathic urticaria (CIU), and autologous &
+serum skin test (ASST)— or ASST+ patients. 25 * 0004 So
+(d) Determination of plasma histamine levels é * * *
+by enzyme-linked immunosorbent assay.
+é eos vrv
+Horizontal lines represent means. 0 in eee tate —
+4487 < 0-001, *P < 0-05 compared with the e 8 ¥ $
+¥
+
+ 
+
+HC group.
+
+© 2008 The Authors
+
+ 
+
+ 
+
+ 
+
+Journal Compilation © 2008 British Association of Dermatologists @ British Journal of Dermatology 2008 158, pp979-986
+982 Activation profile of basophils in chronic urticaria, F.D. Lourengo et al.
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) 10005 - «
+a
+7505 : ay
+3
+3 e v
+£5004 9 fe Mm
+= goo evs y —t
+= 00 &. ¥ a
+goo e v
+250 oO ’ ’
+ite)
+og e v
+0 T T T T
+© © « “x
+gs g
+Oo ? S
+(b) 15005
+= 10004 .
+a
+€
+5 . . .
+500 4 . ":
+5 E a =r: 0-567
+P=0-011
+. = é
+oF By T T 1
+0 250 500 750 1000
+MFI FeeRIa
+
+ 
+
+ 
+
+ 
+
+Fig 2. Increased FcéRIo expression on basophils from patients with
+chronic idiopathic urticaria (CIU). (a) Cells selected for high IgE
+intensity were evaluated by median fluorescence intensity (MFI) for
+FceRIa expression on basophils from healthy control (HC) individuals,
+patients with CIU, and autologous serum skin test (ASST)— or ASST+
+patients. (b) Correlation of FcéRIa expression with serum IgE levels.
+Horizontal lines represent means. **P < 0-01, *P < 0:05 compared
+with the HC group.
+
+of metachromatic stain on peripheral blood’ as well as
+through flow cytometry.® The reduced percentage and absolute number of blood basophils in patients with CIU was
+comparable with the small amount of plasma histamine, that
+was 14-fold lower than in HC individuals. For evaluation of
+FceRIo expression, the AER-37 (CRA1) mAb was used, which
+reacts with the o-chain of FceRI and does not block IgE binding.’* Figure 2(a) shows that basophils from patients with
+CIU had a significantly higher expression of FceRIa compared
+with basophils of the HC group; this was verified in both
+ASST+ and ASST— patients with CIU. Total serum IgE levels
+were found to be heterogeneous in patients with CIU (median
+312'5 Ul mL', range 12-588°5), which were positively correlated (r = 0-567, P= 0-011) with MFI values of FceRIo
+expression on basophils (Fig. 2b).
+
+Upregulation of basophil activation markers in patients
+with chronic idiopathic urticaria
+
+To evaluate the basophil activation profile in the peripheral
+blood of patients with CIU, we analysed CD203c, CD63 and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+§ 100 °° a
+So
+g ee wv
+2 a
+= 50 —
+a
+a
+0 x
+&
+(b) v
+755
+2 504 e v eK
+©
+a
+oO ° e aA
+ra ee M aa
+S 0 e v
+255 95° ° e te é,
+ee v aa
+Ogp ee v a
+Se
+0 LQ eee vy
+q So y <
+- ro S S
+ro»
+(c) —__*
+10005
+O a
+7504 fee Ty s
+2
+a
+=
+a
+2 a
+= Aa
+aA
+«x
+S
+Y
+
+ 
+
+Fig 3. Upregulation of marker activation/degranulation on blood
+basophils from patients with chronic idiopathic urticaria (CIU). Cells
+selected for high IgE intensity were evaluated by median fluorescence
+intensity (MEI) for (a) CD203c, (b) CD63 or (c) CD123 (interleukin3 receptor 0) expression on basophils from healthy control (HC)
+individuals, patients with CIU, and autologous serum skin test
+(ASST)— or ASST+ patients. Horizontal lines represent means.
+
+#**P << 0-001, *P < 0-05 compared with the HC group.
+
+CD123 markers. As shown in Figure 3, blood basophils from
+patients with CIU showed a significant increase of CD203c
+expression (mean + SD MFI 57:48 + 23-82) compared with
+the HC group (mean + SD MFI 22:8 + 14°51). This finding
+was detected in both ASST+ and ASST-— patients with CIU.
+In parallel, basophils from patients with CIU showed an
+enhanced CD63 expression. Although expression of both activation molecules was upregulated on basophils from patients
+
+with CIU, the intensity of CD123 expression was significantly
+
+© 2008 The Authors
+
+Journal Compilation © 2008 British Association of Dermatologists © British Journal of Dermatology 2008 158, pp979-986
+Activation profile of basophils in chronic urticaria, F.D. Lourengo et al. 983
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 . 7
+(a) 3000 . (b) 3000
++
+3 16004 . 5 1600
+Fig 4. Kinetics of expression of CD203c and 5 * R200 . —
+2 2004 ~ f 200
+CD63 markers on interleukin (IL)-3-primed = 2004 ° g
+= FS
+basophils upon anti-IgE stimulation. Whole 2 ‘aad ’8 5 “ oF = iw
+blood cells were stimulated with IL-3 of of of & :
+followed by incubation with antihuman IgE ol wv .
+antibodies for 15 and 40 min. (a) Cells AntiIgE - = + + 2s ht
+analysed by flow cytometry for median B a
+fluorescence intensity (MFI) of CD203c
+; y ( ) (c) 30004 “ (d) 3000 Seiad .
+expression on basophils from healthy control . 5
+(HC) individuals (open symbols) and patients
+with chronic idiopathic urticaria (CIU) B 2000") ° @ 20004) °
+& i)
+(closed symbols), and (b) AMFI (MFI from = . a °
+8
+anti-IgE-stimulated cells minus MFI from = 1000+ Ao os = 100 9 . °
+baseline expression) of CD203c expression. 5 . ce
+(c) CD63 expression after 15 and 40 min of od ee “Sse pe SS
+anti-IgE stimulation and (d) AMEFI of CD63 1s ag"
+expression. ***P < 0-001, **P < 0-01,
+*P < 0-05 compared with the HC group. (e) () 359
+Horizontal lines represent means, and thick
+horizontal lines show the comparison Py °°
+between the incubation times. Representative E wd a ”
+histogram of CD203c expression on IL-3- S) is]
+primed basophils from (e) a healthy 8 )
+individual and (f) a patient with CIU after o4 0
+15 min of anti-IgE stimulation (shaded area). 10° 10' 10 10 10° 10° 10! 10? 10° 10°
+CD203¢ PE CD203¢ PE
+
+ 
+
+PE, phycoerythrin.
+
+increased only in ASST+ patients compared with the HC group
+(Fig. 3). This finding showed that the few basophils circulating in peripheral blood of patients with CIU showed an
+intense occurrence of activation markers in the peripheral
+blood, as confirmed by CD203c and CD63 surface markers.
+
+Basophil reactivity to anti-IgE stimulus
+
+It has been reported that basophils from patients with CIU are
+
+hyporesponsive to anti-IgE stimulus,”'*'!?
+
+and that priming
+with IL-3 may improve the testing of anti-IgE cross-linking
+with sera from patients with CIU on healthy donor basophils.'”
+priming on anti-IgE stimulus of basophil expression of
+CD203c and CD63 and histamine release.
+
+Preincubation with IL-3 induced significant high expression
+of CD203c on basophils from peripheral blood of patients
+with CIU in the absence of anti-IgE antibodies (Fig. 4). Upon
+
+Therefore, we examined the effectiveness of IL-3
+
+anti-IgE cross-linking, expression of CD203c on the basophils
+of patients with CIU was enhanced compared with the
+basophils of HC individuals. This finding was similar in both
+ASST+ and ASST— subjects. As an in vivo enhancement of the
+constitutive CD203c expression on basophils from patients
+with CIU was verified, it was evaluated using AMFI (MFI from
+anti-IgE-stimulated cells minus MFI from baseline expression).
+Even with subtracting the CD203c baseline expression, a nota
+ble increase of CD203c expression on basophils was detected.
+
+© 2008 The Authors
+
+ 
+
+ 
+
+It was noticed that throughout the time of anti-IgE stimulation, increasing CD203c surface expression occurred only on
+basophils of the HC group, as basophils of patients with CIU
+had already been upregulated at 15 min of stimulation. A similar profile of CD63 expression on basophils upon anti-IgE
+stimulation was detectable between patients with CIU and HC
+individuals, with both groups having increased CD63 expression with anti-IgE cross-linking (Fig. 4). As noticed for
+CD203c, increasing CD63 AMFI during anti-IgE stimulation
+was verified only on basophils from the control group.
+
+The effect of preincubation with IL-3 upon anti-IgE stimulation of basophil histamine release was evaluated. As shown in
+Figure 5, IL-3 treatment by itself induced an increased histamine release by basophils from patients, which was markedly
+enhanced after 15 min of anti-IgE stimulation compared with
+basophil histamine release from control subjects. Interestingly,
+the patients whose histamine release upon anti-IgE stimulation
+was above the median value (41:67 ng mL™') belonged to the
+ASST+ subgroup (75%). After 40 min, unstimulated cells
+from patients with CIU primed with IL-3 maintained an
+increased basophil histamine release, whereas after anti-IgE
+stimulation a similar level of histamine release was observed
+between basophils from control individuals and _ patients.
+These results indicate that IL-3 induces both the functional
+ability to release histamine and upregulation of expression of
+CD203c molecules on basophils of patients with CIU. More
+over, in CIU, IL-3 priming induced a faster responsiveness to
+
+Journal Compilation © 2008 British Association of Dermatologists @ British Journal of Dermatology 2008 158, pp979-986
+984 Activation profile of basophils in chronic urticaria, F.D. Lourenco et al.
+
+fo)
+
+°
+0.
+2
+
+ 
+
+ 
+
+Anti-IgE —
+Time
+
+ 
+
+Fig 5. Histamine release from interleukin (IL)-3-primed basophils
+upon anti-IgE stimulation. Whole blood cells from healthy control
+(HC) individuals (open symbols) and patients with chronic idiopathic
+urticaria (closed symbols) were stimulated with IL-3 followed by
+incubation with antihuman IgE antibodies for 15 and 40 min.
+Supernatants were harvested for histamine determination by enzymelinked immunosorbent assay. Horizontal lines represent means.
+
+*P < 0-05 compared with the HC group.
+
+anti-IgE stimuli for release of histamine at high levels, than
+
+for basophils of healthy individuals.
+
+Discusssion
+
+The findings of this study demonstrated that basophils in
+peripheral blood of patients with CIU have an activated profile, displaying increased FceRIa expression simultaneously
+with upregulation of CD203c and CD63 expression. Treatment
+with IL-3 by itself induced an enhancement of CD203c molecule expression and basophil histamine release in patients with
+CIU. Functionally, the basophils in CIU are prone to IL-3
+responsiveness, leading to an increased release of histamine
+upon anti-IgE cross-linking.
+
+We verified that the few basophils circulating in the peripheral blood of patients with CIU exhibited a high intensity
+of FceRI% expression compared with the basophils from HC
+individuals. Basopenia has been well documented in CIU,
+which could be associated with urticarial activity, mainly in
+patients with functional autoantibodies able to induce histamine-releasing activity in vitro.” In our findings, the marked
+reduction of blood basophils was verified in both ASST+ and
+ASST— patients with CIU. A positive correlation of FceRIo.
+expression on basophils with IgE serum levels in CIU suggests
+that enhancement of FcéRIa expression on the basophil surface is regulated by IgE. Therefore, variable IgE serum level
+was found in patients with CIU. There is no relationship
+between increased incidence of either atopic status or elevated
+total serum IgE in patients with CIU.’* It is known that the
+synthesis of FcéRI is constitutive, and that IgE stabilizes its
+
+4
+
+presence on the cell surface,** modulating the intensity of
+
+effector responses.”” Indeed, other factors, such as IL-4, may
+synergize with IgE in increasing the percentage of FceRI+
+cells*® and the IgE-mediated FceRI expression on cord bloodderived mast cells.” Whether the upregulation of FceRIa on
+basophils of patients with CIU is due to IgE, in synergy or not
+with other serum factors, remains to be explored.
+
+The activated status of basophils in CIU was verified by the
+upregulation of expression of both CD203c and CD63, again,
+regardless of in vivo serum reactivity. Peripheral blood CD203c
+is exclusively and constitutively expressed on the outer basophil membrane.’ The biological significance of CD203c
+(E-NPP3) expression on basophils remains unknown, but this
+marker is upregulated very quickly in response to specific
+allergens, anti-IgE, and anti-FceRI stimulation.'°'** Heightened expression of CD63 on basophils from patients with CIU
+has been reported for enriched basophil preparations compared with those from nonallergic individuals, whereas no difference was found in CD203c expression.'® One reason for
+the high CD203c expression found in our study is probably
+the use of whole blood evaluation instead of an enriched cell
+preparation. We evaluated basophil activation markers in
+whole blood to avoid any interference on their constitutive
+CD203c expression, as this molecule could be quickly upregulated in response to some stimuli.
+
+The reduced number of blood basophils in CIU has been
+suggested to occur by an active recruitment of these cells
+from the circulation into weals by expression of endothelial
+adhesion molecules in response to local chemokine and cytokine production.”’'? Migration of basophils through the endothelium is promoted by endogenous cytokines, such as IL-1,
+IL-3, and several chemokines. In the presence of IL-3,
+chemotaxis is selectively enhanced in basophils by transendothelial migration.” IL-3 exhibits diverse effects on human
+basophils, including development,*° growth and differentiation factor,*! migration,” histamine release, and augmentation of cytokine generation as well as inhibition of
+apoptosis.*? Moreover, IL-3 stimulation is able to convert
+anti-IgE nonreleasing basophils into releasing basophils,
+showing recoverable defect(s) in the signal transduction pathway after IgE cross-linking. '”
+
+The findings showed that IL-3 stimulation is able to induce
+upregulation of CD203c expression on basophils from patients
+with CIU, concomitantly with the release of histamine. If
+CD203c upregulation represents a distinct point in the signalling pathway or a different functional endpoint, it seems likely
+that CD203c upregulation, degranulation, and histamine
+release occur simultaneously in response to IL-3 priming.
+Differently from in vivo CD63 upregulation in patients with
+CIU, IL-3 stimulation upon anti-IgE stimuli was detected similarly on basophils of patients and controls. Only some of them
+had an increased CD63 expression upon anti-IgE stimuli. In
+fact, preactivation of the basophils with IL-3 does not upregulate CD63 expression, whereas it has been observed to increase
+assay sensitivity.** The mechanism for the improved assay sensitivity is unknown, but early events of upregulation were
+found at the level of Raf-1-Mek-Erk.**
+
+© 2008 The Authors
+
+Journal Compilation © 2008 British Association of Dermatologists © British Journal of Dermatology 2008 158, pp979-986
+Activation profile of basophils in chronic urticaria, F.D. Lourengo et al. 985
+
+In general, basophils from patients with CIU have been
+considered to be hyporesponsive to anti-IgE stimulus,*”*''*
+suggesting an abnormal regulation of the signalling path
+19,20
+way.
+
+We observed for the first time that preincubation
+with IL-3 induced a hyper-responsiveness for anti-IgE stimulus
+in the CIU group compared with the control group. Kinetics
+of anti-IgE cross-linking demonstrated that IL-3 induced a faster histamine release from basophils of patients with CIU than
+from those of HC individuals, probably due to their in vivo
+activated phenotype. Curiously, the basophils of some ASST+
+patients with CIU released more histamine upon anti-IgE stimulus. Also, these patients showed high expression of IL-3Ra
+on basophils, which may explain their hyperactivity to IL-3
+priming for degranulation. Although basophils from CIU are
+less responsive to some stimuli, they are hyper-responsive to
+serum either from healthy individuals or from patients with
+ClU.”° The serum factor responsible for the increased responsiveness of basophils of patients with CIU has not yet been
+identified, but it is not clearly related to the presence of serological factors such as histamine release activity and/or FceRIa
+autoantibodies.** Although it is hard to interpret findings with
+surviving peripheral blood basophils in patients with CIU, our
+finding suggests possible intrinsic basophil defect(s) that renders them susceptible to circulating mediator(s), as verified by
+the hyper-responsiveness following pretreatment with IL-3.
+Furthermore, the peculiar activated profile of basophils in
+patients with CIU may possibly contribute to their migration
+into lesional skin.
+
+In summary, our data show an activated profile of blood
+basophils in patients with CIU, possibly due to an in vivo priming. Upregulation of marker activation/degranulation was
+coincident with the high intensity of FceRIa on basophils
+from patients with CIU. Furthermore, in CIU, IL-3 treatment
+by itself as well as upon IgE cross-linking induced the histamine-excreting function of basophils, suggesting a recoverable
+defect in the signalling transduction pathway on basophils of
+patients with CIU.
+
+Acknowledgments
+This research was supported by FAPESP (no. 2004/06937-5),
+
+CAPES and LIM 56-HC/FMUSP.
+
+References
+
+Kaplan AP. Chronic urticaria: pathogenesis and treatment. J Allergy
+Clin Immunol 2004; 114:465-74.
+Grattan CE, Francis DM, Hide M, Greaves MW. Detection of cir
+culating histamine releasing autoantibodies with functional prop
+N
+
+erties of anti-IgE in chronic urticaria. Clin Exp Allergy 1991;
+21:695-704.
+Hide M, Francis DM, Grattan CE et al. Autoantibodies against the
+
+w
+
+high-affinity IgE receptor as a cause of histamine release in chronic
+urticaria. N Engl J Med 1993; 328:1599-604.
+
+4 Sabroe RA, Fiebiger E, Francis DM et al. Classification of antiFeepsilonRI and anti-IgE autoantibodies in chronic idiopathic
+
+© 2008 The Authors
+
+2.
+
+2
+
+de
+
+a
+
+a
+
+)
+
+00
+
+2
+
+3
+
+urticaria and correlation with disease severity. J Allergy Clin Immunol
+2002; 110:492-9.
+
+Sabroe RA, Francis DM, Barr RM et al. Anti-Fc(episilon)RI auto
+antibodies and basophil histamine releasability in chronic idiopathic urticaria. J Allergy Clin Immunol 1998; 102:651-8.
+
+Grattan CEH, Walpole D, Francis DM et al. Flow cytometric analysis
+of basophil numbers in chronic urticaria: basopenia is related to
+serum histamine releasing activity. Clin Exp Allergy 1997; 27:1417—
+24.
+
+Grattan CE, Dawn G, Gibbs S$, Francis DM. Blood basophil numbers
+in chronic ordinary urticaria and healthy controls: diurnal variation, influence of loratadine and prednisolone and relationship to
+disease activity. Clin Exp Allergy 2003; 33:337-41.
+
+Knol EF, Mul EP, Jansen H et al. Monitoring human basophil activation via CD63 monoclonal antibody 435. J Allergy Clin Immunol
+1991; 88:328-38.
+
+Buhring HJ, Simmons PJ, Pudney M et al. The monoclonal antibody
+97A6 defines a novel surface antigen expressed on human basophils and their multipotent and unipotent progenitors. Blood 1999;
+94:2343-56.
+
+Buhring HJ, Streble A, Valent P. The basophil-specific ectoenzyme
+E-NPP3 (CD203c) as a marker for cell activation and allergy
+diagnosis, Int Arch Allergy Immunol 2004; 133:317-29.
+
+Binder M, Fierlbeck G, King T et al. Individual hymenoptera venom
+compounds induce upregulation of the basophil activation marker
+ectonucleotide pyrophosphatase/phosphodiesterase 3 (CD203c) in
+sensitized patients. Int Arch Allergy Immunol 2002; 129:160-8.
+
+Ebo DG, Sainte-Laudy J, Bridts CH et al. Flow-assisted allergy diagnosis: current applications and future perspectives. Allergy 2006;
+61:1028-39.
+
+Boumiza R, Monneret G, Forissier MF et al. Marked improvement
+of the basophil activation test by detecting CD203c instead of
+CD63. Clin Exp Allergy 2003; 33:259-65.
+
+Yasnowsky KM, Dreskin SC, Efaw B et al. Chronic urticaria sera
+increase basophil CD203c expression. J Allergy Clin Immunol 2006;
+117:1430—-4.
+
+Gyimesi E, Sipka S, Danko K et al. Basophil CD63 expression
+assay on highly sensitized atopic donor leucocytes—a useful
+method in chronic autoimmune urticaria. Br J Dermatol 2004;
+151:388-96.
+
+Vasagar K, Vonakis BM, Gober LM et al. Evidence of in vivo basophil
+activation in chronic idiopathic urticaria. Clin Exp Allergy 2006;
+36:770-6.
+
+Ferrer M, Luquin E, Kaplan AP. IL-3 effect on basophils histamine
+release upon stimulation with chronic urticaria sera. Allergy 2003;
+58:802-7.
+
+Kern F, Lichtenstein LM. Defective histamine release in chronic
+urticaria. J Clin Invest 1976; 57:1369-77.
+
+Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin
+Immunol 2003; 3:363-8.
+
+Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of
+basophils of patients with chronic urticaria to sera but hyporesponsiveness to other stimuli. Clin Exp Allergy 2005; 35:456—
+60.
+
+Sabroe RA, Grattan CE, Francis DM et al. The autologous serum
+skin test: a screening test for autoantibodies in chronic idiopathic
+urticaria. Br J Dermatol 1999; 140:446—52.
+
+Hakimi J, Seals C, Kondas JA et al. The & subunit of the human IgG
+receptor (FcERI) is sufficient for high-affinity IgE binding. J Biol
+Chem 1990; 265:22079-81.
+
+MacGlashan D Jr, Lichtenstein LM, McKenzie-White J et al. Upregulation of FcepsilonRI on human basophils by IgE antibody is
+
+Journal Compilation © 2008 British Association of Dermatologists @ British Journal of Dermatology 2008 158, pp979-986
+986 Activation profile of basophils in chronic urticaria, F.D. Lourenco et al.
+
+24
+
+25
+
+26
+
+Pye
+
+28
+
+mediated by interaction of IgE with FcepsilonRI. J Allergy Clin Immunol
+1999; 104:492-8.
+
+MacGlashan D Jr, Schroeder JT. Functional consequences of
+FeepsilonRlalpha up-regulation by IgE in human basophils. J Leukoc
+Biol 2000; 68:479-86.
+
+MacGlashan DW Jr. Relationship between spleen tyrosine kinase
+and phosphatidylinositol 5’ phosphatase expression and_ secretion from human basophils in the general population. J Allergy Clin
+Immunol 2007; 119:626-33.
+
+Xia HZ, Zweiman B, Schwartz LB. Levels of tryptase, chymase, and
+Fe epsilon RI alpha messenger RNA in human skin are unchanged
+after IgE-dependent stimulation of cutaneous mast cells in vivo.
+J Allergy Clin Immunol 1997; 99:224-6.
+
+Yamaguchi M, Sayama K, Yano K et al. IgE enhances Fe epsilon
+receptor I expression and IgE-dependent release of histamine and
+lipid mediators from human umbilical cord blood-derived mast
+cells: synergistic effect of IL-4 and IgE on human mast cell Fe epsilon receptor I expression and mediator release. J Immunol 1999;
+162:5455—65.
+
+Kahlert H, Cromwell O, Fiebig H. Measurement of basophilactivating capacity of grass pollen allergens, allergoids and hypoallergenic recombinant derivatives by flow cytometry using
+anti-CD203c. Clin Exp Allergy 2003; 33:1266-72.
+
+29 likura M, Ebisawa M, Yamaguchi M et al. Transendothelial migration of human basophils. J Immunol 2004; 173:5189-95
+
+30 Cozon G, Ferrandiz J, Peyramond D, Brunet J. Detection of activated basophils using flow cytometry for diagnosis in atopic
+patients. Allergol Immunopathol 1999; 27:182-7.
+
+Vilarifio N, Miura K, MacGlashan DW Jr. Acute IL-3 priming
+up-regulates the stimulus-induced Raf-1-Mek-Erk cascade indepen2005;
+
+3
+
+dently of IL-3-induced activation of Erk. J Immunol
+175:3006-14.
+
+32 Lantz CS, Boesiger J, Song CH et al. Role for interleukin-3 in mast
+Nv
+
+cell and basophil development and in immunity to parasites. Nature
+1998; 392:90-3.
+
+33 Valent P, Schmidt G, Besemer J et al. Interleukin-3 is a differentiation factor for human basophils. Blood 1989; 73:1763-79.
+
+34 Zheng X, Karsan A, Duronio V et al. Interleukin-3, but not granulocyte-macrophage colony-stimulating factor and interleukin-5,
+inhibits apoptosis of human basophils through phosphatidylinositol
+3-kinase: requirement of NF-kappaB-dependent and independent
+pathways. Immunology 2002; 107:306-15.
+
+35 Vonakis BM, Vasagar K, Gibbons SP Jr et al. Basophil FcepsilonRI
+histamine release parallels expression of Src-homology 2-containing inositol phosphatases in chronic idiopathic urticaria. J Allergy
+
+Clin Immunol 2007; 119:441-8.
+
+© 2008 The Authors
+
+Journal Compilation © 2008 British Association of Dermatologists © British Journal of Dermatology 2008 158, pp979-986
+

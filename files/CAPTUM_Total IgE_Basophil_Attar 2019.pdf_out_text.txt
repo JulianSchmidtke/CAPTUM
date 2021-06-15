@@ -1,0 +1,716 @@
+Copyright © 2020 John Libbey Eurotext. Téléchargé par UNIVERSITE DE BORDEAUX le 07/01/2020.
+
+Investigative report
+
+Mandana HOSSEIN ZADEH
+ATTAR!?
+
+Hans F. MERK!
+
+Konstantin KOTLIAR®
+Gerda WURPTS!
+
+Stefani ROSELER'
+
+Silke MOLL-SLODOWY!
+Johanna PLANGE!
+
+Jens Malte BARON!
+
+Galina BALAKIRSKI'4
+
+! Department of Dermatology and
+
+Allergology, University Hospital of RWTH
+
+Aachen, Aachen,
+
+? Department of Ophthalmology, University
+
+Hospital of RWTH Aachen, Aachen,
+
+3 Department of Medical Engineering and
+Technomathematics, FH Aachen University
+
+of Applied Sciences, Campus Jiilich,
+4 Department of Dermatology and
+
+Allergology, University Hospital of Bonn,
+
+Bonn, Germany
+
+Reprints: Galina Balakirski
+<galina.balakirski@ukbonn.de>
+
+Article accepted on 20/09/2019
+
+Eur J Dermatol 2019; 29(6): 614-8
+
+The CD63 basophil activation test as a diagnostic
+tool for assessing autoimmunity in patients with
+chronic spontaneous urticaria
+
+Background: Over the past years, it has become widely recognized
+that a proportion of chronic spontaneous urticaria (CSU) cases is of
+autoimmune origin, however, the search for reliable diagnostic tools to
+confirm underlying autoimmune pathophysiology is ongoing. The CD63
+basophil activation test (CD63 BAT) has recently become useful for diagnosing autoimmune CSU. Objectives: To analyse the correlation between
+positive CD63 BAT results, total IgE antibody levels, and the presence
+of autoimmune thyroiditis as a comorbidity in patients diagnosed with
+CSU. Materials and Methods: We performed a retrospective analysis of
+CD63 BAT results obtained from 87 CSU and 20 non-CSU patients. The
+information extracted from the patients’ records included age, gender,
+total IgE levels, clinical history of autoimmune thyroiditis (AT), and the
+presence of anti-thyroid autoantibodies. Results: Positive CD63 BAT
+results were significantly more frequent in CSU patients compared with
+non-CSU subjects (p=0.045). Furthermore, we found a strong significant
+negative correlation between the stimulation index (SI) value for CD63
+BAT and total IgE levels in CD63 BAT-positive CSU patients (p=0.004;
+Spearman’s rank correlation coefficient p=-0.322), meaning that higher
+SI values corresponded to lower total IgE values, and vice versa. Conclusion: The current standard set of diagnostic tools cannot be reliably
+used to determine when CSU is caused by autoimmune mechanisms.
+There is evidence that CD63 BAT represents a helpful diagnostic tool
+for detecting underlying autoimmunity. We show that high SI values in
+CD63 BAT-positive CSU patients correlate negatively with their total
+IgE levels. The clinical relevance of this effect needs to be investigated
+further.
+
+Key words: chronic spontaneous urticaria, CD63 basophil activation
+test, autoimmune thyroiditis, autoimmunity, autoimmune urticaria
+
+as a spontaneous occurrence of hives and/or
+
+angioedema for a duration of over six weeks [1].
+It is often not possible to pinpoint its aetiology, however,
+a proportion of CSU cases is considered to be of autoimmune nature, based on experimental and clinical evidence
+[2]. Recent studies describe the presence of functional IgG
+autoantibodies against IgE and the high-affinity IgE receptor (FceRI) in the sera of some CSU patients [3-6]. Because
+of its ability to detect the presence of autoreactivity in
+CSU patients, the autologous serum skin test (ASST) is
+a widely used in vivo diagnostic tool, however, a positive
+ASST result alone is not enough for a diagnosis of autoimmune urticaria [7]. In recent decades, in vitro assays - the
+basophil histamine release assay (BHRA) and the basophil
+activation test (BAT) - have also been shown to be highly
+effective for detecting autoimmunity [8, 9]. Furthermore,
+it has been suggested that positive results of these two in
+vitro tests might not only be linked to high disease activity
+in both adults and children, but may also serve as predictors for how rapidly the patient will respond to treatment
+10-12].
+
+614 am
+
+C hronic spontaneous urticaria (CSU) is defined
+
+In this investigation, we analysed the correlation between
+positive CD63 BAT results, total IgE antibody levels, and
+the presence of autoimmune thyroiditis as a comorbidity in
+patients diagnosed with CSU.
+
+Patients and methods
+
+Study design
+
+We conducted a retrospective analysis of patient records
+with the agreement of the local ethics committee (Ethics
+Committee of the University Hospital of RWTH Aachen in
+Aachen, Germany, internal file number: EK 043/17).
+
+Control subjects and patients with CSU
+
+We performed a retrospective investigation of all the
+available CD63 BAT results of CSU patients who were
+diagnosed and/or treated at the Department of Dermatology and Allergology of the University Hospital of Aachen,
+
+EJD, vol. 29, n° 6, November-December 2019
+
+ 
+
+ 
+
+To cite this article: Hossein Zadeh Attar M, Merk HF, Kotliar K, Wurpts G, Réseler S, Moll-Slodowy S, Plange J, Baron JM, Balakirski G. The CD63 basophil activation
+test as a diagnostic tool for assessing autoimmunity in patients with chronic spontaneous urticaria. Eur J Dermatol 2019; 29(6): 614-8 doi:10.1684/ejd.2019.3680
+
+ 
+
+ 
+
+089€°6 10z'Pla/r891 0110p.
+Copyright © 2020 John Libbey Eurotext. Téléchargé par UNIVERSITE DE BORDEAUX le 07/01/2020.
+
+Germany between 2007 and 2013. The data collected from
+the patients’ files included such parameters as age, gender,
+total IgE levels (in kU/L), clinical history of autoimmune
+thyroiditis, and the presence of anti-thyroid autoantibodies
+(in U/L).
+
+The study population included 87 patients diagnosed with
+CSU and 20 non-CSU patients (used as control subjects)
+who underwent diagnostic evaluation at the outpatient clinic
+for other, non-CSU, conditions, such as drug hypersensitivity reactions or food allergies, and received the CD63 BAT
+as a part of the diagnostic procedure.
+
+The basophil activation test
+
+Commercially available BAT kits were purchased from
+BUHLMANN LABORATORIES AG, Schonenbuch,
+Switzerland (Flow Cast®). In each case, the BAT was performed on the same day when the patients’ blood samples
+were collected; the sera were not frozen for storage. Prior
+to the testing, the sera were heat-inactivated for 30 minutes
+at 56°C in order to prevent non-specific basophil activation.
+All further steps were carried out in accordance with the
+manufacturer’s instructions: 50 wL of each patient’s serum
+was mixed with 50 wL of the donor’s blood, then 100 wL of
+stimulation buffer and 20 wL of staining reagent (a mixture
+of monoclonal antibodies to human CD63 labelled with fluorescein isothiocyanate [anti-CD63-FITC] and to human
+chemokine receptor CCR3 labelled with phycoerythrin
+[anti-CCR3-PE]), both from BUHLMANN LABORATORIES AG (Schénenbuch, Switzerland), were added. The
+samples were incubated in a water bath for 30 minutes
+at 37°C. A healthy, non-atopic volunteer (a 40-year-old
+female) served as a basophil donor for the entire study. To
+determine the reactivity of the donor’s basophils, positive
+and negative control tests were performed. For the negative
+control - the donor’s individual background - 50 wL of stimulation buffer was used instead of patient serum. For the two
+positive control tests, the incubation of the basophils was
+performed with highly specific monoclonal antibody to the
+high-affinity IgE binding receptor (anti-FeeRI mAb) and
+the non-specific cell activator, N-formyl-L-methionyl-Lleucyl-phenylalanine ((MLP); 50 wL each (both purchased
+from BUHLMANN LABORATORIES AG, Schénenbuch,
+Switzerland).
+
+After this step, 2 mL of prewarmed lysing solution was
+added and incubated for 10 minutes at room temperature
+(18-28°C) in order to remove the erythrocytes by a lysis
+reaction. After centrifugation for five minutes at 500g, the
+cells were resuspended in 300 wL of wash buffer and then
+analysed for CD63 expression in a BD FACScan™ flow
+cytometer using Flow Cast®. There were at least 500 to
+600 basophilic cells acquired per sample.
+
+Stimulation index (SI), defined as the ratio between the
+percentage of degranulated donor basophils (CD63* cells)
+after stimulation with a patient’s serum and the percentage
+of activated basophils without stimulation (negative control), was calculated for each patient. The BAT result was
+considered to be positive if the SI was >2.5.
+
+Total IgE
+
+The total IgE levels in the patients’ sera were measured
+with the ImmunoCAP™ 250 system (Phadia, Uppsala,
+
+EJD, vol. 29, n° 6, November-December 2019
+
+Sweden). The results were expressed in kU/L. The total
+IgE level was considered elevated if the value exceeded
+100 kU/L.
+
+Statistical analysis
+
+Statistical analysis was performed using SPSS (version
+16.0, SPSS, Inc., Chicago, IL). Descriptive statistics of
+metric-scaled data were presented by median and interquartile range (IQR = 1° to 3" quartile). Pairwise group
+comparisons were performed using the Mann-Whitney U
+test. The distribution of categorical data was presented by
+absolute and relative frequencies and compared between the
+groups using the Chi-squared test (x7 test). Spearman’s rank
+correlation was applied to analyse the association between
+the variables. Statistical hypothesis testing was conducted
+at 5% significance level.
+
+Results
+
+Epidemiological data
+
+The median age of the 87 CSU patients (31 male and 56
+female) was 41 (28-55) years. The age difference between
+the male and the female CSU patients was not statistically
+significant (p=0.1). The average age of the 20 non-CSU
+subjects (the control group) was 53 (41-76) years. There
+was also no statistically significant age difference between
+the male and the female non-CSU patients (six male and 14
+female subjects; p=0.13) There was no statistically significant difference in gender distribution between the CSU
+and the non-CSU groups (p=0.617). However, the nonCSU subjects were significantly older compared to the CSU
+patients (p<0.001).
+
+Total IgE levels
+
+Measurement of total IgE was performed in 80 CSU patients
+and 18 control subjects (non-CSU patients). The median
+total IgE level in the patients of the CSU group was 72.0
+(27.5-202.5) KU/L, and 15.2 (7.9-19.3) kU/L in the control group, qualifying as a statistically significant difference
+(p<0.001). In the CSU group, the male patients had significantly higher total IgE levels than the female patients
+(p=0.008). There were no statistically significant genderrelated differences in total IgE levels in the control group
+(p=0.289).
+
+The basophil activation test (CD63 BAT)
+
+The CD63 BAT was performed in all 87 patients of the CSU
+group and was positive in 56 of the cases (64.4%). To investigate the clinical relevance of this finding, the CD63 BAT
+was also performed in all 20 of the control subjects, with
+eight positive results (40%). Compared with the control
+population, the proportion of positive CD63 BAT results
+was significantly higher in the CSU patients (p=0.045).
+In the CD63 BAT-positive CSU patients and control subjects, the median SI was 8.9 (4.4-16.0) and 6.5 (5.3-10.5),
+
+i
+Copyright © 2020 John Libbey Eurotext. Téléchargé par UNIVERSITE DE BORDEAUX le 07/01/2020.
+
+ 
+
+ 
+
+ 
+
+125 4
+
+100 +
+
+4
+a
+
+Stimulation Index (SI)
+3
+
+we
+on
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CSU non-CSU
+
+ 
+
+ 
+
+ 
+
+Figure 1. Stimulation index (SI) of CD63 BAT-positive
+patients in the CSU and non-CSU groups (p=0.745), showing
+greater variability of the SI values in CSU patients compared
+to control subjects.
+
+ 
+
+respectively. There was a higher variability in the SI
+values of the BAT-positive CSU patients compared to CD63
+BAT-positive control subjects (interquartile range: 11.6 vs
+5.2) (figure 1). However, the SI values showed no statistically significant difference between the CD63 BAT-positive
+individuals of the CSU and the control groups (p=0.745).
+There were no significant differences in age between the
+CD63 BAT-positive and CD63 BAT-negative CSU patients,
+with a median age of 40 (27-55) and 42 (30-54), respectively
+(p=0.670). However, a statistically significant genderrelated difference was found: 41 of the CD63 BAT-positive
+patients were female and only 15 were male (p=0.021),
+whereas in the CD63 BAT-negative subjects, the gender
+distribution was almost equal (15 female and 16 male). The
+average total IgE level in those CSU patients who had positive CD63 BAT results was 68.5 (22.8-178.0) KU/L. In the
+CSU patients with negative CD63 BAT results, this was 87.7
+(62.0-238.0) KU/L. Therefore, there was no statistically significant difference in total IgE levels between these two
+subgroups of CSU patients (p=0.052). However, there was
+a statistically significant negative correlation between the SI
+values and total IgE levels in the CD63 BAT-positive CSU
+subjects (p=0.004; Spearman’s rank correlation coefficient
+p=-0.322), which means that higher SI values corresponded
+to lower total IgE values, and vice versa (figure 2).
+
+Autoimmune thyroiditis
+
+Sixty-six of the 87 CSU patients were screened for clinical
+history or present clinical manifestations of autoimmune
+thyroiditis (AT). Of these 66 CSU patients, 37 (56.1%) had
+positive CD63 BAT results. Ten CSU patients had elevated
+serum levels of anti-thyroid autoantibodies: anti-thyroid
+peroxidase (TPO) antibodies and/or anti-thyroglobulin
+antibodies (TgAb); 13 reported a history of physiciandiagnosed autoimmune thyroiditis. A total of 15 patients
+had elevated serum levels of anti-thyroid autoantibodies
+and/or reported a history of AT. The mean age of these
+patients was 40 (20-51) years. There was no significant
+difference in age compared to the CSU patients without a
+
+616 a
+
+ 
+
+5
+an
+
+S
+S
+
+Stimulation Index (SI)
+
+ 
+
+ 
+
+ 
+
+75
+50
+
+oo.
+
+0°
+25 eo ®
+
+200 Sa 2
+
+0 PLHP w PO Cr)
+
+0 200 400 600 800 1000
+
+total IgE (kU/)
+
+ 
+
+ 
+
+ 
+
+Figure 2. Negative correlation between stimulation index (SI)
+values and total IgE levels in CD63 BAT-positive CSU patients
+(p=0.004; Spearman’s rank correlation coefficient p=-0.322).
+
+clinical history of AT and with normal serum levels of antithyroid autoantibodies (p=0.251). Of the 15 patients with
+elevated serum levels of anti-thyroid autoantibodies and/or
+a known history of AT, 12 (80.0%) tested positive in the
+CD63 BAT. Additionally, almost a third (12/37; 32.4%) of
+the CSU patients with positive CD63 BAT results had a
+clinical history or presented with clinical manifestations of
+AT. However, statistically, there was no correlation between
+positive CD63 BAT results and a clinical diagnosis of AT
+(p=0.188), possibly due to the small sample size.
+
+Discussion
+
+Based on experimental and clinical evidence, it is being
+increasingly recognized internationally that a proportion of
+CSU cases has autoimmune aetiology [2, 13]. Currently,
+there is very limited evidence of an association between
+CSU and IgE autoantibodies, such as IgE anti-doublestranded DNA (dsDNA) or IgE anti-thyroperoxidase (TPO)
+antibodies, as only a few independent studies have shown
+that serum levels of IgE autoantibodies in CSU patients
+are significantly higher than in healthy controls [14-16].
+Moreover, these results could not be reproduced in smaller
+cohorts [17, 18]. However, there are numerous investigations suggesting that IgG anti-IgE and/or IgG anti-FceRI
+autoantibodies may play an important role in the pathophysiology of CSU in some patients [3-6, 19-21].
+
+One of the screening tools most frequently used to detect
+the presence of pathogenic autoantibodies in the sera of
+CSU patients is the autologous serum skin test (ASST).
+It has been shown that positive ASST results occur more
+frequently in CSU patients than in healthy controls or nonCSU patients [22-24]. However, the EAACI/GA(2)LEN
+task force released a consensus statement that a positive ASST result alone is not sufficient for a diagnosis of
+autoimmune urticaria [2, 7]. Recently, the CD63 basophil
+activation test has gained prominence as a useful in vitro
+diagnostic tool [2, 25-27].
+
+EJD, vol. 29, n° 6, November-December 2019
+Copyright © 2020 John Libbey Eurotext. Téléchargé par UNIVERSITE DE BORDEAUX le 07/01/2020.
+
+In the present study we investigated CD63 BAT results
+in CSU patients as a potential marker of autoimmunity.
+We also looked for a possible correlation between the test
+results and the patients’ age, gender, and total IgE levels.
+Similar to previous investigations [23, 28], we found statistically significantly higher total IgE levels in CSU patients
+compared with the non-CSU control subjects. As hypothesized previously, elevated IgE levels in patients’ sera may
+contribute to the upregulation of high-affinity IgE receptor
+FceRI on mast cells and basophils and, therefore, lead to
+augmentation of activity and render the cells more susceptible to degranulation [29]. It has been shown that binding of
+the monomeric IgE to the FceRI, even in the absence of an
+antigen, enhances cell surface expression of the FceRI and
+leads to cytokine production and mast cell survival [30-32].
+These findings provide a rationale for anti-IgE treatment in
+patients with chronic spontaneous urticaria.
+
+Another finding, consistent with reports of other authors
+9, 10, 25], is that positive CD63 BAT results are more frequent in CSU patients than in non-CSU controls. Although
+in our study the non-CSU controls were not healthy subjects, but patients with other, non-CSU, conditions, there
+was still a statistically significant predominance of positive
+CD63 BAT results in the CSU patients (p=0.045). Based
+on our investigation, the CD63 BAT was positive in 64%
+patients of the CSU group, which is comparable to the 4057% rate reported in the current literature [8, 33]. There was
+no Statistically significant difference either in age or total
+IgE levels between the CSU patients with positive and negative CD63 BAT results. However, we found that higher SI
+values corresponded to lower total IgE values in the CD63
+BAT-positive CSU patients, and vice versa (p=0.004; Spearman’s rank correlation coefficient p = -0.322) (figure 2).
+Current studies link lower total IgE levels to lower omalizumab treatment response in CSU patients [34-36].
+However, a number of complete and partial responders to
+omalizumab therapy were also found to have low total IgE
+levels [34]. Therefore, total IgE level cannot be used as a
+sole predictor of omalizumab efficacy in CSU patients. A
+positive CD63 BAT result in CSU patients, on the other
+hand, has been shown to be predictive of a more severe
+course of the disease, which might also be resistant to therapy [10-12]. Recent research revealed that patients with
+autoimmune CSU also have significantly lower total IgE
+levels than those with non-autoimmune CSU [37]. We were
+not able to reproduce the latter finding in our patient collective. However, the correlation we found might represent a
+possible link between these two above-mentioned findings:
+patients with a positive CD63 BAT result and a high SI and
+low total IgE levels might not only be suffering from the
+autoimmune type of CSU and exhibit more pronounced and
+severe symptoms, but also have a lower response to omalizumab therapy. Further prospective studies are needed to
+verify this hypothesis.
+
+Another phenomenon we were able to observe was a statistically significant higher prevalence of female gender in the
+CD63 BAT-positive group (p=0.021). If the assumption is
+valid that a positive CD63 BAT result is a sign of an existing autoimmune condition, the gender distribution might
+be explained by the fact that female gender is generally
+associated with a higher incidence of autoimmune disorders
+[38, 39]. It has also been observed that female patients were
+significantly more likely to have clinical manifestations of
+the autoimmune type of CSU [40].
+
+ 
+
+EJD, vol. 29, n° 6, November-December 2019
+
+A further aspect that we investigated was the connection
+between CSU and autoimmune thyroiditis. It has been
+shown by other researchers that CSU patients who test
+positive for IgG-autoantibodies tend to have autoimmune
+comorbidities, such as AT [2, 41, 42]. Of the CSU patients
+in our study, 23% (15/66) had elevated serum levels of
+anti-thyroid autoantibodies and/or a history of physiciandiagnosed AT, a proportion similar to those reported in
+previous studies [23, 28]. Herein, we found that almost
+a third (12/37, 32.4%) of the CSU patients with positive
+CD63 BAT results had AT. This finding was not statistically significant in our study, presumably due to relatively
+small sample size and consequent limited statistical power.
+To summarize, a positive CD63 BAT result was more frequent in the CSU patient group compared with the non-CSU
+controls. We have also found that the percentage of CD63
+BAT-positive patients in our CSU population was similar to
+that reported in other studies. A higher proportion of female
+subjects in the CD63 BAT-positive group in our cohort
+may suggest that female CSU patients tend to develop the
+autoimmune type more frequently. Additionally, we found
+that almost a third of the CSU patients with positive CD63
+BAT results had AT as an autoimmune comorbidity. There
+was also a statistically relevant negative correlation between
+the SI values in the CD63 BAT-positive CSU patients and
+their total IgE levels. We hypothesize that a combination
+of high SI values for the CD63 BAT and low total IgE in
+patients with autoimmune CSU might be clinically significant and possibly predictive of an unfavourable treatment
+prognosis, however, this should be confirmed by further
+investigations.
+
+The limitation of our study is its retrospective design,
+which resulted in some non-uniformity in the data (e.g. not
+all of the CSU patients were screened for elevated antithyroid autoantibody levels in the serum). In addition, the
+severity of the patients’ symptoms and their response to
+treatment was not investigated. Therefore, further prospective studies with a larger number of patients are needed
+to reproduce the results and to investigate the relationship
+between positive CD63 BAT results, SI values, total IgE
+levels, and anti-thyroid autoantibodies in CSU patients and
+how these diagnostic tools can help to predict treatment
+efficacy. ll
+
+Disclosure. Funding sources: none. Conflicts of interest:
+none.
+
+Ee
+References
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA?LEN/
+EDF/WAO guideline for the definition, classification, diagnosis and
+management of urticaria. Allergy 2018; 73: 1393-414.
+
+2. Konstantinou GN, Asero R, Ferrer M, etal. EAACI taskforce position
+paper: evidence for autoimmune urticaria and proposal for defining
+diagnostic criteria. Allergy 2013; 68: 27-36.
+
+3. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a cause
+of histamine release in chronic urticaria. N Engl J Med 1993; 328:
+1599-604.
+
+617
+Copyright © 2020 John Libbey Eurotext. Téléchargé par UNIVERSITE DE BORDEAUX le 07/01/2020.
+
+ 
+
+4. Fiebiger E, Maurer D, Holub H, et al. Serum IgG autoantibodies
+directed against the alpha chain of Fc epsilon RI: a selective marker and
+pathogenetic factor for a distinct subset of chronic urticaria patients? J
+Clin Invest 1995; 96: 2606-12.
+
+5. Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP.
+Prevalence and functional role of anti-lgE autoantibodies in urticarial
+syndromes. J Invest Dermatol 1988; 90: 213-7.
+
+6. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating histamine releasing autoantibodies with functional properties
+of anti-lgE in chronic urticaria. Clin Exp Allergy 1991; 21: 695-704.
+
+7. Konstantinou GN, Asero R, Maurer M, Sabroe RA, SchmidGrendelmeier P, Grattan CE. EAACI/GA(2)LEN task force consensus report: the autologous serum skin test in urticaria. Allergy
+2009; 64: 1256-68.
+
+8. Frezzolini A, Provini A, Teofoli P, Pomponi D, De Pita O. Seruminduced basophil CD63 expression by means of a tricolor flow
+cytometric method for the in vitro diagnosis of chronic urticaria. Allergy
+2006; 61: 1071-7.
+
+9. Irinyi B, Gyimesi E, Garaczi E, ef al. Extended diagnostic value
+of autologous serum skin test and basophil CD63 expression assay in
+ronic urticaria. Br J Dermatol 2013; 168: 656-8.
+
+O. Netchiporouk E, Moreau L, Rahme E, Maurer M, Lejtenyi D, Benjoshan M. Positive CD63 basophil activation tests are common in
+ildren with chronic spontaneous urticaria and linked to high disease
+tivity. Int Arch Allergy Immunol 2016; 171: 81-8.
+
+1. Gericke J, Metz M, Ohanyan T, et al. Serum autoreactivity preicts time to response to omalizumab therapy in chronic spontaneous
+urticaria. J Allergy Clin Immunol 2017; 139: 1059-61.e1.
+
+12. CurtoBarredo L, Yelamos J, Gimeno R, Mojal S, Pujol RM,
+Giménez-Arnau A. Basophil activation test identifies the patients with
+chronic spontaneous urticaria suffering the most active disease. Immun
+Inflamm Dis 2016; 4: 441-5.
+
+13. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer
+M. Autoimmune chronic spontaneous urticaria: what we know and
+what we do not know. J Allergy Clin Immunol 2017; 139: 1772-81.
+
+14. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy against thyroid peroxidase - a
+novel pathomechanism of chronic spontaneous urticaria? PLoS One
+
+2011; 6:e14794.
+
+15. Hatada Y, Kashiwakura J, Hayama K, et al. Significantly high
+levels of anti-dsDNA immunoglobulin E in sera and the ability of dsDNA
+to induce the degranulation of basophils from chronic urticaria patients.
+Int Arch Allergy Immunol 2013; 161: 154-8.
+
+16. Shin YS, Suh DH, Yang EM, Ye YM, Park HS. Serum specific IgE
+to thyroid peroxidase activates basophils in aspirin intolerant urticaria.
+
+J Korean Med Sci 2015; 30: 705-9.
+17. Concha LB, Chang CC, Szema AM, Dattwyler RJ, Carlson HE.
+
+IgE antithyroid antibodies in patients with Hashimoto's disease and
+chronic urticaria. Allergy Asthma Proc 2004; 25: 293-6.
+
+18. Tedeschi A, Lorini M, Asero R. Anti-thyroid peroxidase IgE in
+patients with chronic urticaria. J Allergy Clin Immunol 2001; 108:
+467-8.
+
+19. Sabroe RA, Fiebiger E, Francis DM, ef al. Classification of
+antiFcepsilonRI and anti-lgE autoantibodies in chronic idiopathic
+urticaria and correlation with disease severity. J Allergy Clin Immunol
+
+2002; 110: 492-9.
+
+20. Hidvégi B, Nagy E, Szabé T, et al. Correlation between T-cell
+and mast cell activity in patients with chronic urticaria. Int Arch Allergy
+Immunol 2003; 132: 177-82.
+
+21. Sun, Erxun K, LiJ, Yang J, Han C. Correlations between anti-mast
+cell autoantibodies and chronic idiopathic urticaria. Ann Dermatol
+2014; 26: 145-9.
+
+22. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black
+A, Greaves MW. The autologous serum skin test: a screening test
+for autoantibodies in chronic idiopathic urticaria. Br J Dermatol
+
+1999; 140: 446-52.
+
+= 29%m0
+
+ 
+
+618 a
+
+23. Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory
+parameters in predicting chronic urticaria duration: a prospective study
+
+of 139 patients. Allergy 2004; 59: 869-73.
+
+24. Kurt E, Aktas A, Aksu K, ef al. Autologous serum skin test
+response in chronic spontaneous urticaria and respiratory diseases
+and its relationship with serum interleukin-18 level. Arch Dermatol Res
+2011; 303: 643-9.
+
+25. De Swerdt A, Van Den Keybus C, Kasran A, et al. Detection of basophil-activating IgG autoantibodies in chronic idiopathic
+urticaria by induction of CD 63. J Allergy Clin Immunol 2005; 116:
+662-7.
+
+26. D’Auria E, De Amici M, Licari A, ef al. Basophil activation test in
+children with autoimmune chronic spontaneous urticaria: is it ready for
+clinical practice? Immunobiology 2019; 224: 30-3.
+
+27. Schoepke N, Asero R, Ellrich A, ef al. Biomarkers and clinical characteristics of autoimmune chronic spontaneous urticaria
+(aiCSU): results of the PURIST Study. Allergy 2019; doi: 10.1111/
+all.13949.
+
+28. Kessel A, Helou W, Bamberger E, et al. Elevated serum total IgE-a
+potential marker for severe chronic urticaria. Int Arch Allergy Immunol
+2010; 153: 288-93.
+
+29. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M.
+The potential pharmacologic mechanisms of omalizumab in patients
+with chronic spontaneous urticaria. J Allergy Clin Immunol 2015; 135:
+337-42.
+30. Kalesnikoff J, Huber M, Lam V, ef al. Monomeric IgE stimulates
+signaling pathways in mast cells that lead to cytokine production and
+cell survival. Immunity 2001; 14: 801-11.
+
+31. Kubo S, Matsuoka K, Taya C, et al. Drastic up-regulation of
+FceRI on mast cells is induced by IgE binding through stabilization
+and accumulation of FceRI on the cell surface. J Immunol 2001; 167:
+3427-34.
+32. Borkowski TA, Jouvin MH, Lin SY, Kinet JP. Minimal requirements for IgE mediated regulation of surface FceRI. J Immunol
+2001; 167: 1290-6.
+
+33. Szegedi A, Irinyi B, Gal M, et al. Significant correlation between
+the CD63 assay and the histamine release assay in chronic urticaria.
+Br J Dermatol 2006; 155: 67-75.
+
+34. Weller K, Ohanyan T, Hawro T, etal. Total IgE levels are linked to
+the response of chronic spontaneous urticaria patients to omalizumab.
+
+Allergy 2018; 73: 24068.
+
+35. Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical response to omalizumab in chronic spontaneous urticaria patients
+is linked to and predicted by IgE levels and their change. Allergy
+2018; 73: 705-12.
+
+36. Straesser MD, Oliver E, Palacios T, ef al. Serum IgE as an
+immunological marker to predict response to omalizumab treat
+ment in symptomatic chronic urticaria. J Allergy Clin Immunol Pract
+2018; 6: 1386-8.
+
+37. Schoepke N, Asero R, Ellrich A, et al. Biomarkers and clinical characteristics of autoimmune chronic spontaneous urticaria
+(aiCSU): results of the PURIST Study. Allergy 2019; doi: 10.1111/
+all.13949.
+38. Nussinovitch U, Shoenfeld Y. The role of gender and organ specific autoimmunity. Autoimmun Rev 2012; 11:A377-85.
+
+39. Quintero OL, Amador-Patarroyo MJ, Montoya-Ortiz G, RojasVillarraga A, Anaya JM. Autoimmune disease and gender: plausible
+mechanisms for the female predominance of autoimmunity. J Autoimmun 2012; 38:J109-19.
+
+40. Asero R. Sex differences in the pathogenesis of chronic urticaria.
+J Allergy Clin Immunol 2003; 111:425-6.
+
+41. O'Donnell BF, Francis DM, Swana GT, Seed PT, Kobza Black A,
+Greaves MW. Thyroid autoimmunity in chronic urticaria. Br J Dermatol
+2005; 153: 331-5.
+
+42. Kolkhir P, Metz M, Altrichter S, Maurer M. Comorbidity of chronic
+spontaneous urticaria and autoimmune thyroid diseases: a systematic
+
+review. Allergy 2017; 72: 1440-60.
+
+ 
+
+ 
+
+EJD, vol. 29, n° 6, November-December 2019
+

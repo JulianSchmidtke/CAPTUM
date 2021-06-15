@@ -1,0 +1,809 @@
+Original Article
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445.
+
+https://doi.org/10.4168/aair.2017.9.5.438
+Sea pISSN 2092-7355 * elSSN 2092-7363
+
+sane
+
+Allergy, Asthma & Immunology Research
+
+Epidemiology of Chronic Urticaria in Korea Using the Korean
+Health Insurance Database, 2010-2014
+
+Nami Lee,' Jeong-Dong Lee,’ Hyun-Young Lee,’ Dae Ryong Kang," Young-Min Ye'*
+
+'Department of Allergy and Clinical Immunology, Ajou University School of Medicine and Graduate School of Medicine, Suwon, Korea
+?Office of Biostatistics, Ajou University School of Medicine and Graduate School of Medicine, Suwon, Korea
+
+°Clinical Trial Center, Ajou University Medical Center, Suwon, Korea
+
+“Center of Biomedical Data Science / Institute of Genomic Cohort, Wonju College of Medicine, Yonsei University, Wonju, Korea
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+ 
+
+Purpose: There are very few epidemiological studies on chronic urticaria (CU). We aimed to investigate the prevalence of CU and to depict demographics and medication patterns for the disease in a nationwide population-based study. Methods: Data on urticaria (L50 of the International Classification of Diseases, 10th revision) from 2010 to 2014 were obtained from the Korean Health Insurance Review and Assessment Service. Algorithms designed to evaluate prescription drug claims for antihistamines were applied to identify CU. Results: The crude prevalence of CU was
+2,256.5 per 100,000 person-years and tended to increase every year. The age-standardized prevalence of CU was significantly higher in females
+than in males (2,466.8 vs 1,819.2 per 100,000 person-years, P< 0.001). Age-specific prevalence was highest for older adults over the age of 65 years
+and lowest for ages 10-29 years. The median duration of CU was 591 days, and symptoms lasted for at least 1 year in 61.9% of patients. Gastrointestinal disease was the most common comorbidity in adults, whereas allergic rhinitis and common cold were more prevalent in children with CU.
+Around a third of CU patients were taking antihistamine treatment alone, and 70% were treated with both antihistamines and systemic corticosteroids. Cyclosporine was prescribed for 0.02% of CU patients. Conclusions: The present study outlines recent longitudinal epidemiological data on
+the prevalence of CU in Korea. In light of limitations on the use of claims data, including no specific disease code for CU and a possible discordance
+between drug claims and the presence of urticaria symptoms, further investigations are necessary to describe the exact epidemiologic profile of CU
+
+patients.
+Key Words: Urticaria; chronic; epidemiology
+
+INTRODUCTION
+
+Urticaria is a common heterogeneous skin disease characterized by the occurrence of wheals and/or angioedema with pruritus that can be differentiated according to its duration and the
+presence of eliciting factors. Acute urticaria is triggered usually
+by allergens, food, medications, food additives and infections,
+and is resolved within less than 6 weeks.' In contrast, itchy
+wheals on the skin of patients with chronic urticaria (CU) persist
+for at least 6 weeks, and most cases have no external causes to be
+avoided.’ Although there are considerable differences in CU duration, reports suggest that patients, on average, suffer from urticarial symptoms for 3-5 years.’ Because of a longer duration,
+sudden occurrence, intractable pruritus, and changes in appearance, CU has a significant impact on the quality of life of patients.’
+
+Approximately one of every 5 individuals in the general population experiences an episode of urticaria in their life.> The overall prevalence of CU in North American and European popula
+438 http://e-aair.org
+
+ 
+
+ 
+
+ 
+
+tions has been reported as 0.5%-1.0%.* However, knowledge of
+the epidemiology, medication use, and social burden of CU is
+still lacking, particularly in Asian populations. Accordingly, we
+aimed to perform a nationwide epidemiologic study using the
+Korean Health Insurance Review and Assessment Service
+(HIRA) database to estimate the prevalence and treatment patterns of CU in Korea.
+
+MATERIALS AND METHODS
+
+Study population and data sources
+The present study was designed as a longitudinal descriptive
+
+ 
+
+Correspondence to: Young-Min Ye, MD, PhD, Department of Allergy and
+Clinical Immunology, Ajou University School of Medicine, 164 World cup-ro,
+Yeongtong-gu, Suwon 16499, Korea.
+
+Tel: +82-31-219-5155; Fax: +82-31-219-5154; E-mail: ye9007@ajou.ac.kr
+Received: January 26, 2017; Revised: March 27, 2017; Accepted: April 21, 2017
+
+© There are no financial or other issues that might lead to conflict of interest.
+
+© Copyright The Korean Academy of Asthma, Allergy and Clinical Immunology * The Korean Academy of Pediatric Allergy and Respiratory Disease
+AAIR
+
+analysis over a 5-year period using the claims database of the
+HIRA, a government-affiliated organization encharged with
+conducting accurate claims review and quality assessment in
+support of the National Health Insurance service, which covers
+around 98% of the overall Korean population.’ The claims database contains information on patient demographics, diagnosis,
+treatments, procedures, prescription medications, and surgical
+history. Diagnoses are based on the 6th edition of the Korean
+Classification of Disease, which is a modified version of the International Classification of Diseases, 10th revision (ICD-10).
+The study included patients with an ICD-10 code of L50 as the
+primary diagnostic code from January 1, 2010 to December 31,
+2014. Patients with CU were operationally defined by the following criteria (Fig. 1): 1) a single prescription of antihistamines
+exceeding 42 days; 2) accumulating days for prescription antihistamines and/or another medication commonly used to treat
+CU, including cyclosporine or systemic steroid, during the
+study period for at least 42 days; and 3) a time interval between
+the first and last visits under the ICD-10 code of L50 within the
+study period exceeding 42 days. If the interval between visits
+was less than 7 days, it was considered as a continuous visit for
+controlling the same event of urticaria. If any of the 3 conditions
+were identified, patients were classified into having CU. However, patients whose claims data did not meet at least one of the
+above criteria were excluded. The total Korean population in
+2012 from Statistics Korea was used as the standard population.
+
+Variables
+To describe treatment patterns, we categorized 5 groups of
+prescription medications commonly used to treat CU. Antihis
+Epidemiology of Chronic Urticaria in Korea
+
+tamines were classified into 2 groups: non-sedating (azelastine,
+bepotastine, cetirizine, desloratadine, ebastine, epinastine,
+fexofenadine, levocetrizine, loratadine, and mizolastine) and
+sedating (chlorpheniramine, clemastine, dimenhydrinate, hydroxyzine, and piprinhydrinate). Topical steroid were excluded
+in the present database. Systemic corticosteroids were classified into oral and parenteral corticosteroids according to their
+administration route. The last medication category was cyclosporine. Total days for prescription medications and numbers
+of patients who used medications individually and in combination were reported. Any medications without a prescription,
+such as over-the-counter antihistamines, were not included in
+the current database.
+
+To characterize comorbidities, we sorted the most frequently
+combined diagnostic codes in conjunction with urticaria from
+the database. Gastroduodenitis (K29), allergic rhinitis (J30),
+acute bronchitis (J20), hypertension (110), asthma (J45), and
+atopic dermatitis (K59) were identified as common comorbidities in patients with CU.
+
+Statistical analysis
+
+Descriptive statistics were applied for all measures. Data analyses were performed using SAS statistical software, version 9.4
+(SAS Institute Inc., Cary, NC, USA). All statistical tests were
+2-sided, and P<0.05 were considered significant. Crude and
+age-standardized prevalence rates were estimated by Poisson
+regression and reported as person-years and 95% confidence
+intervals (CIs). By considering characteristics of population
+structure each year, age-standardization was performed. The
+standardized population for age-standardization was calculat
+ 
+
+ 
+
+ICD-10 L50.x
+2010-2014
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ifthe interval between visits was less than 7 days,
+Jit was considered as a continuous visit for controlling
+the same event of urticaria.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes .@
+
+ 
+
+ 
+
+ 
+
+ 
+
+or
+
+{UP Pd, = 42days}
+
+or
+
+ 
+
+{(Dm, + Pd) — D, = 42days}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 1. Algorithms for identification of CU. If subsequent visits had happened within a week, it was considered as a continuous visit for controlling the same event of
+urticaria. D, represents the visit date at time t, and Pd, means days for prescription medications at time t. Time “m” means the last visit for urticaria. CU, chronic urti
+caria.
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+
+http://e-aairorg 439
+Lee etal.
+
+ed by adding the population numbers from 2010 to 2014 according to age groups (<10, 10-29, 30-64, and =65 years) each
+year. Linear regression analyses were used to evaluate time
+trends in the prevalence of CU. Chi-square tests were utilized to
+analyze trends among age groups. Means and standard deviations are reported for continuous variables, while counts and
+percentages are presented for categorical variables. In regards
+to urticaria duration, since we confirmed that the distribution
+was skewed to the left and did not follow normal distribution,
+the median value is reported.
+
+Ethics statement
+
+The present study was exempt from review by an Institutional
+Review Board, because it was conducted using secondary data
+that contained no protected health information.
+
+RESULTS
+There were 14,096,710 cases under the diagnostic codes of ur
+ticaria (ICD-10 code of L50) from 2010 to 2014 recorded in the
+HIRA database. In accordance with the stated criteria for deter
+ 
+
+ 
+
+2500 23108 2.7565
+21174
+2,000 + 1,926.4
+5 1,796.7
+& 1,662.3
+S 1,500 +
+3
+s
+S 1000 }
+g
+500 [
+0
+2010 ©2011-2012, 2013.—SS 2014 2010-2014
+
+Fig. 2. Crude prevalence of CU (per 100,000 person-years) over a 5-year period.
+There was a significant linear trend in the crude prevalence of CU over the
+5-year period (P<0.001). CU, chronic urticaria.
+
+Table 1. Prevalence of chronic urticaria according to the algorithm
+
+Volume 9, Number 5, September 2017
+
+mining CU (Fig. 1), 39.7% (5,599,940) of all cases were classified
+as having CU over the 5-year period (Table 1). Of all CU cases,
+4.8% were obtained by the first criterion, 8.0% by the second
+criterion, and 87.2% by the third criterion (266,714 vs 450,424 vs
+4,882,802 cases, respectively). The annual CU ratio of total patients having urticaria was on average 23.5% over the 5-year
+study period.
+
+The crude prevalence of CU was 2,256.5 (95% CI, 2,252.32,260.6) per 100,000 person-years (Fig. 2). The annual prevalence of CU consistently increased from 1,662.3 per 100,000
+persons in 2010 to 2,310.8 per 100,000 persons in 2014 (Fig. 2).
+For 2010-2014, the age-adjusted prevalences of CU were 2,138.4
+(2,134.3-2,142.4) per 100,000 person-years overall, 1,819.2
+(1,813.9-1,824.6) per 100,000 person-years among men, and
+2,466.8 (2,460.7-2,472.9) per 100,000 person-years among
+women (P<0.001, Table 2). The age-specific prevalence of CU
+was highest in older adults over the age of 65 years and lowest
+in ages 10-29 years. The age-specific prevalence of urticaria that
+did meet our set of criteria for CU was highest in children
+younger than 10 years. Chi-square tests for analyzing trends revealed significantly different prevalence rates of CU among age
+
+Table 2. Prevalence of chronic urticaria (per 100,000 person-years) by age and
+sex
+
+ 
+
+Prevalence rate (95% Cl)
+
+ 
+
+ 
+
+Characteristics
+Crude Age-standardized
+
+Total 2,256.2 (2,252.3-2,260.6) 2,138.4 (2,134.3-2,142.4)
+Sex
+
+Male 1,884.5 (1,879.1-1,889.9) 1,819.2 (1,813.9-1,824.6)
+
+Female 2,633.3 (2,626.9-2,639.7) 2,466.8 (2,460.7-2,472.9)
+Age group (year)
+
+<10 3,253.6 (3,237.1-3,270.1)
+
+10-29 1,470.9 (1,464.3-1,477.6)
+
+30-64 2,188.9 (2,183.2-2,194.5)
+
+265 3,601.5 (3,585.6-3,617.4)
+
+ 
+
+CU, chronic urticaria; Cl, confidence interval.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Characteristics 2010 2011 2012 2013 2014 2010-2014
+CU
+Condition 1 61,596 (7.6) 68,534 (7.7) 67,476 (7.1) 81,204 (7.7) 93,273 (8.0) 266,714 (4.8)
+Condition 2 100,456 (2.8) 109,234 (12.3) 124,528 (13.0) 139,762 (13.2) 164,101 (13.3) 450,424 (8.0)
+Condition 3 650,916 (18.0) 707,984 (79.9) 764,703 (79.9) 837,517 (79.1) 915,338 (78.7) 4,882,802 (87.2)
+Subtotal 812,968 (22.4) 885,752 (23.0) 956,707 (23.2) 1,058,483 (24.0) 1,162,712 (24.7) 5,599,940 (39.7)
+Urticaria out of the criteria 2,811,583 (77.6) 2,959,862 (77.0) 3,158,773 (76.8) 3,158,345 (76.8) 3,538,656 (75.3) 8,496,770 (60.3)
+Total L50 3,624,551 3,845,614 4,115,480 4,410,828 4,701,368 14,096,710
+Values are presented as number (%). Condition 1: cases having at least one prescription drug claim for antihistamines for more than 42 days at any visit. Condition 2:
+accumulating days for prescription antihistamines for at least 42 days. Condition 3: the period between the first visit for L50 and the prescription day at the last visit
+exceeding 42 days. CU, chronic urticaria.
+
+440 http://e-aair.org
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+AAIR
+
+groups (Table 2, P<0.001).
+
+The prevalence of CU according to sex also differed according
+to age (Fig. 3), that is, the prevalence of CU was higher in boys
+than in girls among children under the age of 10 years, although
+it was significantly higher in females than in males among adolescent and adults older than 15 years. The median duration of
+urticaria was estimated as 591 days, with an interquartile range
+of 256-1,054 in CU patients. Among CU patients, the durations
+of prescription medications were shorter than 3 months in
+12.0%, from 3 to 12 months in 26.2%, from 12 to 24 months in
+23.0%, from 24 to 36 months in 17.7%, from 36 to 48 months in
+13.4%, and longer than 48 months in 7.8% (Fig. 4).
+
+Table 3 depicts the clinical characteristics of and medication
+prescription days and patterns in patients with CU. The mean
+age of the CU patients was 41.6+ 23.2 years. CU patients visited
+medical clinics on an average of 6.7 times and took medicines
+for a mean of 45.0 days. Of all CU patients, 27.2% were prescribed antihistamines alone, and 69.9% received combined
+medicines with antihistamines and systemic corticosteroids.
+Among patients receiving antihistamines, 49.7% were given sedating antihistamines, and 69.7% were prescribed non-sedating antihistamines. Mean days for prescribing antihistamines
+were significantly higher with non-sedating antihistamines,
+compared to sedating antihistamines (45.8£126.5 vs 20.84
+68.7 days, P<0.001). Mean days for supply of systemic corticosteroids differed from 3.25.6 days for parenteral corticosteroids to 17.7+42.3 days for oral corticosteroids (P<0.001). In
+contrast, cyclosporine was prescribed only for 0.02% of CU patients. Mean prescription days for cyclosporine reached 66.7 +
+105.3 days over the 5-year study period.
+
+To determine the accuracy of our algorithms for identifying
+CU patients, we investigated mean number of visits, mean du
+5,000 —®- Male
+
+—&- Female
+
+3,000 +
+
+2,000 +
+
+per 100,000 person-year
+
+1,000
+
+ 
+
+Epidemiology of Chronic Urticaria in Korea
+
+ration of prescription medications, and number of cyclosporine users among patients who did not fulfill the criteria for CU.
+They had visited clinics under a primary diagnosis of urticaria
+1.5 times as a mean, with 5.0 days of prescription medication
+use (Table 3). Only 210 (<0.01%) of 8,496,770 patients in the
+non-CU group had been prescribed cyclosporine. These findings indicated that most of the patients that did not fulfill the
+criteria for CU in the present study might be patients with acute
+urticaria.
+
+The most common comorbidities in CU patients were gastrointestinal disease, allergic rhinitis, and common cold (62.8% vs
+32.4% vs 26.9%, respectively, Table 4). In adults, especially those
+older than 30 years, gastrointestinal disease was the most common comorbid disorder (age of 30-64, 68.9%; =65, 71.9%).
+Meanwhile, however, allergic rhinitis (50.1%) and common
+
+ 
+
+ 
+
+30 23.0
+20 +
+177
+_ 155
+& 13.4
+120
+107
+| | | |
+0 l
+<3M 36M = 7-12M_ 13-24M 25-36M 37-48M >48M
+
+Fig. 4. Distribution of CU patients according to urticaria duration. M, month;
+CU, chronic urticaria.
+
+ 
+
+ol
+0-4
+
+5-9 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 280
+
+Age (year)
+
+Fig. 3. The prevalence of CU (per 100,000 person-years) specific to age and sex. CU, chronic urticaria.
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+
+http//e-aairorg 441
+Lee etal.
+
+cold (60.0%) were the most prevalent diseases in children, especially in those younger than 5 years.
+
+DISCUSSION
+
+The present study represents the first nationwide epidemio
+Table 3. Clinical characteristics and medication prescription patterns in patients with chronic urticaria in comparison to patients with urticaria that not fulfill CU criteria
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clinical characteristics _—— hee ma
+Age 4.64232 3714217
+Female 3,246,106 (58.0) 4,626,142 (54.4)
+Number of visit 6.7490 1540.9
+Prescription days 45041209 5.0+5.0
+Using H1RAs
+
+Non-sedating 3,892,888 (69.5) 4,400,498 (51.8)
+
+Sedating 2,784,554 (49.7) 3,148,080 (37.4)
+Days for prescribing H1RAs
+
+Non-sedating 45841265 58+56
+
+Sedating 20.8468.7 43439
+Using steroids
+
+Oral corticosteroids 3,972,542 (70.9) 5,154,730 (60.7)
+
+Parenteral corticosteroids 2,605,742 (46.5) 2,896,897 (34.1)
+Days for prescribing steroids
+
+Oral corticosteroids 1774423 44436
+
+Parenteral corticosteroids 3.2+56 1340.7
+Using cyclosporine 1,166 (0.02) 210 (<0.01)
+Days for prescribing cyclosporine 66.7+105.3 1.4£9.1
+Most frequent prescription pattern
+
+H1RA alone 1,524,180(27.2) 2,327,239 (27.4)
+
+H1RA+steroi 3,912,440 (69.9) 4,432,735 (52.2)
+
+H1RA+cyclosporine 119 (<0.01) 61 (<0.01)
+
+H1RA+steroid+cyclosporine 1,047 (0.02) 149 (<0.01)
+
+Steroid alone 59,055 (1.1) 721,846 (8.5)
+
+Others 103,099 (1.8) 1,014,740 (11.9)
+
+ 
+
+ 
+
+Data presented by mean+ standard deviation or number (%). Others included
+prescription patterns for cyclosporine alone and steroid+cyclosporine.
+CU, chronic urticaria; H1RA, histamine receptor 1 antagonist.
+
+Table 4. Age-specific comorbidities of patients with chronic urticaria
+
+Volume 9, Number 5, September 2017
+
+logical study on CU in Korea. Between 2010 and 2014, an estimated age-adjusted prevalence of 2,138.4 (95% CI, 2,134.32,142.4) per 100,000 person-years in CU was obtained using a
+nationwide database in Korea. The annual prevalence of CU
+has been increasing year by year, and the overall ratio of CU
+among all urticaria patients was on average 23.5% over the
+5-year study period. Age-specific prevalence showed 2 peaks in
+children younger than 10 years old and older adults aged 65
+years and older. Female predilection of CU was also noted in
+patients older than 15 years in the present study, whereas in
+those younger than 10 years, a significantly higher prevalence
+of CU was found in boys than in girls.
+
+Although study populations and methods vary among studies, estimates in previous reports on the prevalence of CU have
+ranged from 0.05% to 3.0%.’ A prior questionnaire survey conducted among the general population of Germany revealed a
+lifetime prevalence for CU of 1.8% and a period prevalence of
+0.8% for active CU within the past 12 months.’ The authors of
+another study in Spain utilized a similar questionnaire survey
+to estimate the real prevalence of CU in the adult general population. While they found a 0.6% prevalence of active CU, 2.9% of
+the nationwide sample of adults was recognized as having had
+urticaria for more than 6 weeks.’ As these questionnaires-based
+population studies are dependent on the patients’ participation
+and memories, there might be recall bias and limitations of
+fewer respondents among children and older adults. Therefore,
+the CU prevalence covering 5 years in Korea would be comparable to the lifetime prevalence of 1.8% and 2.9% for German’
+and Italian® populations.
+
+Similar to the present study, recent studies have also used insurance claims databases to investigate the prevalence of
+chronic spontaneous urticaria (CSU).*" Zazzali et al.? adopted
+algorithms for defining CSU as the presence of at least one outpatient International Classification of Diseases, 9th revision,
+Clinical Modification (ICD-9-CM) code of 708.1, 708.8, or 708.9
+and a second diagnosis of the same codes later than 6 weeks
+from 2010 to 2013, the presence of angioedema (ICD-9-CM
+code of 995.1) for at least 6 weeks from the urticaria diagnosis,
+or 90-day use of prescription medications for treating CSU,
+such as antihistamine and montelukast, cyclosporine, methotrexate, or oral corticosteroids. They identified an estimated
+
+ 
+
+ 
+
+Age (year) Gastrointestinal disease Rhinitis Common cold Asthma Atopic dermatitis Hypertension Pvalue
+<5 124,729 (28.3) 220,884 (50.1) 264,405 (60.0) 115,844 (26.3) 67,487 (15.3) 44 (0.01) <0.001
+529 670,630 (53.5) 450,489 (35.9) 373,875 (29.8) 113,580 (9.1) 139,467 (11.1) 996 (0.1) <0.001
+30-64 2,011,477 (68.9) 880,659 (30.2) 663,345 (22.7) 182,532 (6.3) 173,278 (5.9) 182,123 (6.2) <0.001
+265 708,415 (71.9) 262,358 (26.6) 203,604 (20.7) 84,506 (8.6) 57,130 (5.8) 183,348 (18.6) <0.001
+Total 3,515,251 (62.8) 1,814,390 (32.4) 1,505,229 (26.9) 496,512 (8.9) 437,362 (7.8) 366,511 (6.5)
+
+ 
+
+Values are presented as number (%).
+CU, chronic urticaria.
+
+442 http://e-aair.org
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+AAIR
+
+1-year period prevalence of 0.08% for CSU.’ The proportions of
+CU patients were dependent on the 3 different conditions target by our algorithms. Of all patients with CU, 87.2% were selected by condition 3, followed by conditions 2 (8.0%) and 1
+(4.8%). These are consistent with prior results by Zazzali et al.
+in that a second urticaria claim at 6 weeks or later was the most
+common reason for inclusion (82.2%) as a patient with CU, followed by days of prescription medications used to treat CSU
+(16.7%). Lapi et al.'° used similar algorithms as those in the
+aforementioned study for patients aged =15 years between
+2002 and 2013 in Italy. Therein, the annual prevalence of CSU
+ranged from 0.02% in 2002 to 0.38% in 2013."° According to the
+literature, of patients having non-acute urticaria, 66%-93% have
+been found to have CSU.’ Since we selected all patients with urticaria, regardless of their etiologies and ages, the age-adjusted
+prevalence rate of CU of 2,138.4 per 100,000 person-years over
+a 5-year of study period was a little higher than rates in previous
+reports limited to CSU.°"° Moreover, differences in ethnicity,
+geographic distributions, and criteria for identifying CU may
+have also contributed to the variations in the prevalence of CU
+among different studies. Because the criteria for selecting CU in
+our study did not consider the presence of angioedema and focused on the use of antihistamines, it would be difficult to extrapolate the prevalence of CSU for the Korean population
+based on the present results. Further studies using previous validated algorithms’ for CSU are needed to confirm whether the
+real prevalences of CSU, as well as CU, are higher in Korea than
+in other countries.
+
+Consistent with other studies, we confirmed that the age-adjusted prevalence of CU was higher in females than in males
+among adults older than 15 years: 66.7% in the US,’ 63% in Israel," 69.8% in Turkey,” 70.3% in Germany,’ and 79% in Thailand.’ Considering that autoimmune mechanisms are involved in about half of all CU cases, a female predilection in the
+prevalence of CU is acceptable, as it is a common feature in various autoimmune disorders.’ However, we found that in children younger than 10 years, the prevalence of CU was significantly higher in boys than in girls. A recent questionnarirebased study on Korean children also reported a higher prevalence of CU in boys, although no statistical significance was
+noted.'® Furthermore, differences in other allergic diseases between boys and girls have been shown by other studies,'*”” in
+which, compared with girls, boys show higher incidences of
+asthma, allergic rhinitis, and anaphylaxis during childhood.
+
+In general, the peak incidence of CU is observed between 20
+and 40 years of age.*'*"* The mean age of CU patients was 41.6
+years in Korea from 2010 to 2014 in the present study. In a previous claims-based research on CU epidemiology in the US, the
+mean age of the patients was 41.0 years, the same as that in the
+present study. A recent cross-sectional study using questionnaires reported that the prevalence of CU in children aged from
+4 to 13 years was 1.8% in Korea."° This is in line with the present
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+
+Epidemiology of Chronic Urticaria in Korea
+
+results that approximately 3.2% (3,253.6 per 100,000 personyears) in children aged less than 10 years and around 1.5%
+(1,470.9 per 100,000 person-years) in 10-29 years were estimated as CU patients. Meanwhile, previous retrospective observational studies or phone surveys have found the age group of 45
+to 64 years to show the highest prevalence of CU.”*”® However,
+we found that the prevalence of CU was higher in patients over
+the age of 65 years and younger than 10 years, compared to other age groups. In agreement with our results, a recent population-based study using claims data in Italy indicated that, based
+on the prevalence of CU in individuals younger than 20 years,
+the adjusted hazard ratio of CU increased significantly in patients aged 60-79 years, while it was significantly decreased in
+patients of ages 20-29 and 30-39 years.'” However, our results
+are limited in that information on over-the-counter medications was not available for analysis in the present study, nor in
+the previous Italian studies. Considering that younger individuals, particularly those of ages from 20 to 40 years are more
+prone to take over-the-counter antihistamines, we could not
+simply conclude that the prevalence of CU is higher in older
+adults than in middle-aged adults. In order to clarify epidemiological results on CU, further studies with data on the use of
+over-the-counter medications and validation of our algorithms
+based on clinical chart reviews are needed.
+
+The median duration of CU in the present study population
+was 1.6 years, which is similar to previous reports.'°” Over a
+5-year period, only 12% of CU patients stopped visiting clinics
+within 3 months in our study; the highest proportion of patients
+was treated for 12-24 months, accounting for 23% of all patients
+with CU. In our findings, 38.2% of CU patients had stopped visiting clinics under the diagnosis of urticaria within 1 year,
+whereas another 38.9% had remained in the claims database
+for at least 3 years. A previous retrospective study on 450 patients with CU in Thailand revealed a consistent result with the
+present study in that 34.5% of CU patients had symptom remission within 1 year.’ Toubi et al."' reported that, in more than
+70% of 139 patients with CU, urticaria lasted for more than 1
+year, whereas we found that 61.9% of patients in our study were
+treated for CU for more than 1 year.
+
+In regards to medication use, 27.2% of CU patients used antihistamines alone, while only 1.1% used systemic corticosteroids without antihistamines. Among antihistamine users,
+69.5% took non-sedating ones, and 49.7% had prescriptions for
+sedating antihistamines. In a previous retrospective study of
+distributions of medications used for CU patients, the authors
+observed that 72% and 46% of patients were taking non-sedating and sedating antihistamines, respectively.”' In contrast,
+69.9% of patients received combined medicines, antihistamines, and systemic corticosteroids in the present study. A recent claims-based study in the US also revealed that the most
+common prescription pattern for CU population was a combination of non-sedating antihistamines with at least one course
+
+http//e-aairorg 443
+Lee etal.
+
+of oral corticosteroids;? however, this was recorded for only
+31.0% of their study patients, which is almost half that noted in
+our study. Moreover, oral corticosteroids (70.9%) were the most
+common medication, comparable to the frequency of prescription non-sedating antihistamines (69.5%) in the present study,
+whereas 53.7% of patients in the study by Zazzali et al. used
+oral corticosteroids. Taken together, while the patterns of prescription urticaria medication use in Korea were similar to
+those in US,’ relatively more frequent use of systemic corticosteroids was observed in the present study. Notwithstanding,
+insurance claims do not link prescriptions with diagnoses in
+the HIRA database, and sometimes, oral corticosteroids can be
+used for treating other combined diseases.
+
+In our study population, gastrointestinal disease was most
+commonly associated with CU, followed by allergic rhinitis,
+common cold, asthma, atopic dermatitis, and hypertension, in
+that order. The rank ordering of frequently combined diseases
+was dependent on the ages of the CU patients. The most common comorbidity among patients of ages over 5 years was gastrointestinal disease, rates of which increased with age. Interestingly, a recent meta-analysis demonstrated a significant association between Helicobacter pylori infection and CU.” A
+higher prevalence of H. pylori infection in Korea could plausibly explain the high frequency of gastrointestinal diseases as a
+comorbidity of CU in the present study.”* However, as HIRA
+data are collected for the purposes of reimbursing healthcare
+services, the code of K29 could be added to diagnoses when
+prescribing H2 receptor antagonists for controlling urticarial
+symptoms and not for treating gastrointestinal diseases in CU
+patients. In contrast, common cold and allergic rhinitis were
+the most common comorbidities in children younger than 5
+years. In agreement with our findings, allergic rhinitis and asthma were noted as the most frequent comorbidities in another
+claims-based study.’ In Italy, different findings were observed
+for a 12-year period longitudinal database." Although they enrolled patients older than 15 years, they noted a higher risk of
+developing CSU in patients with malignancies and anxiety, as
+well as in obese individuals, whereas allergy had no impact on
+the risk for CU."° Meanwhile, we investigated patients of all ages
+registered in the HIRA database, and a higher prevalence of CU
+in younger subjects was noted. For these reasons, our analyses
+may not have identified anxiety, diabetes, and malignancies,
+which are more prevalent in older populations, as common comorbidities among CU patients in the present study.
+
+There were some limitations to the use of HIRA data in this
+study, even though the database provides a wealth of information on demographics and treatment patterns of CU in Korea.
+Since no specific disease code for CU is available and since
+both over-the-counter drugs and herbal medicines were not
+registered in the present study, a confirmatory medical record
+analysis of CU patients is needed to obtain accurate estimates
+of the prevalence and disease burden of CU in Korea. In addi
+444 http://e-aair.org
+
+Volume 9, Number 5, September 2017
+
+tion, a possible discordance between drug claims and active
+urticaria symptoms might distort real medication patterns of
+CU in the HIRA database.
+
+In conclusion, we have outlined the epidemiology of CU in
+Korea using a nationwide database. The prevalence of CU in
+this study was similar to that in the literature for other countries. However, we were able to shed light on more frequent use
+of systemic corticosteroids, a relatively shorter duration of prescription antihistamines, and a higher frequency of gastrointestinal comorbidity, compared with other countries. Thus, to support physicians in the management of urticaria, development
+of appropriate treatment guidelines may be needed.
+
+ACKNOWLEDGMENTS
+
+This work was supported partly by grants from the Korea
+Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry
+of Health and Welfare, Republic of Korea (HI16C0992).
+
+REFERENCES
+
+1. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F et al.
+The diagnosis and management of acute and chronic urticaria:
+2014 update. J Allergy Clin Immunol 2014;133:1270-7.
+
+2. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, et al. The EAACI/GA(2) LEN/EDF/WAO guideline for
+the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy 2014;69:868-87.
+
+3. Maurer M, Weller K, Bindslev-Jensen C, Giménez-Arnau A, Bousquet PJ, Bousquet J, et al. Unmet clinical needs in chronic spontaneous urticaria. A GA*LEN task force report. Allergy 2011;66:31730.
+
+4. Choi WS, Lim ES, Ban GY, Kim JH, Shin YS, Park HS, et al. Diseasespecific impairment of the quality of life in adult patients with
+chronic spontaneous urticaria. Korean J Intern Med. Forthcoming
+2016.
+
+5. Sanchez-Borges M, Asero R, Ansotegui JJ, Baiardini I, Bernstein JA,
+Canonica GW, et al. Diagnosis and treatment of urticaria and angioedema: a worldwide perspective. World Allergy Organ J 2012;5:
+125-47.
+
+6. Kim L, Kim JA, Kim S. A guide for the utilization of health insurance review and assessment service national patient samples. Epidemiol Health 2014;36:e2014008.
+
+7. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of urticaria: a representative cross-sectional population
+survey. Clin Exp Dermatol 2010;35:869-73.
+
+8. Gaig P, Olona M, Munoz Lejarazu D, Caballero MT, Dominguez FJ,
+Echechipia §, et al. Epidemiology of urticaria in Spain. J Investig AlJergol Clin Immunol 2004;14:214-20.
+
+9. Zazzali JL, Broder MS, Chang E, Chiu MW, Hogan DJ. Cost, utilization, and patterns of medication use associated with chronic idiopathic urticaria. Ann Allergy Asthma Immunol 2012;108:98-102.
+
+10. Lapi E Cassano N, Pegoraro V, Cataldo N, Heiman EF CricelliI, et al.
+Epidemiology of chronic spontaneous urticaria: results from a nationwide, population-based study in Italy. Br J Dermatol 2016;174:
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+AAIR
+
+i.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+Allergy Asthma Immunol Res. 2017 September;9(5):438-445. https://doi.org/10.4168/aair.2017.9.5.438
+
+996-1004.
+
+Toubi E, Kessel A, Avshovich N, Bamberger E, Sabo E, Nusem D, et
+al. Clinical and laboratory parameters in predicting chronic urticaria duration: a prospective study of 139 patients. Allergy 2004;59:
+869-73.
+
+Isik SR, Karakaya G, Celikel S, Demir AU, Kalyoncu AF Association
+between asthma, rhinitis and NSAID hypersensitivity in chronic
+urticaria patients and prevalence rates. Int Arch Allergy Immunol
+2009;150:299-306.
+
+Kulthanan K, Jiamton S, Thumpimukvatana N, Pinkaew S. Chronic
+idiopathic urticaria: prevalence and clinical course. J Dermatol
+2007;34:294-301.
+
+Fine LM, Bernstein JA. Guideline of chronic urticaria beyond. AlJergy Asthma Immunol Res 2016;8:396-403.
+
+Lee SJ, Ha EK, Jee HM, Lee KS, Lee SW, Kim MA, et al. Prevalence
+and risk factors of urticaria with a focus on chronic urticaria in children. Allergy Asthma Immunol Res 2017;9:212-9.
+
+Suh M, Kim HH, Sohn MH, Kim KE, Kim C, Shin DC. Prevalence of
+allergic diseases among Korean school-age children: a nationwide
+cross-sectional questionnaire study. J Korean Med Sci 2011;26:3328.
+
+EY:
+
+18.
+
+19:
+
+20.
+
+21.
+
+22.
+
+23.
+
+Epidemiology of Chronic Urticaria in Korea
+
+Lee SY, Ahn K, Kim J, Jang GC, Min TK, Yang HJ, et al. A multicenter
+retrospective case study of anaphylaxis triggers by age in Korean
+children. Allergy Asthma Immunol Res 2016;8:535-40.
+
+Kozel MM, Mekkes JR, Bossuyt PM, Bos JD. Natural course of physical and chronic urticaria and angioedema in 220 patients. J Am
+Acad Dermatol 2001;45:387-91.
+
+Saini SS. Chronic spontaneous urticaria: etiology and pathogenesis. Immunol Allergy Clin North Am 2014;34:33-52.
+
+Cherepanov D, Raimundo K, Chang E, Eagan M, Zazzali JL, Solari
+PG, et al. Validation of an ICD-9-based claims algorithm for identifying patients with chronic idiopathic/spontaneous urticaria. Ann
+Allergy Asthma Immunol 2015;114:393-8.
+
+Delong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual direct
+and indirect health care costs of chronic idiopathic urticaria: a cost
+analysis of 50 nonimmunosuppressed patients. Arch Dermatol
+2008;144:35-9.
+
+GuH, LiL, GuM, Zhang G. Association between Helicobacter pylori infection and chronic urticaria: a meta-analysis. Gastroenterol
+Res Pract 2015;2015:486974.
+
+Eusebi LH, Zagari RM, Bazzoli F Epidemiology of Helicobacter pylori infection. Helicobacter 2014;19 Suppl 1:1-5.
+
+http//e-aairorg 445
+

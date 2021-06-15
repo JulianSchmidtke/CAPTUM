@@ -1,0 +1,1337 @@
+Atopic dermatitis and skin disease
+
+A randomized, placebo-controlled, dose-ranging study of
+single-dose omalizumab in patients with H,-antihistamine—
+refractory chronic idiopathic urticaria
+
+Sarbjit Saini, MD,? Karin E. Rosen, MD, PhD,” Hsin-Ju Hsieh, PhD,” Dennis A. Wong, MD,° Edward Conner, MD,?
+Allen Kaplan, MD,‘ Sheldon Spector, MD,‘ and Marcus Maurer, MD® Baltimore, Md, South San Francisco and Los Angeles,
+
+Calif, Charleston, SC, and Berlin, Germany
+
+Background: Proof-of-concept studies with omalizumab in
+patients with chronic idiopathic urticaria (CIU) have shown
+significant decreases in mean urticaria activity scores (UASs).
+Objective: We sought to evaluate the efficacy and safety of
+omalizumab in patients with CIU who remain symptomatic
+despite concomitant H,-antihistamine therapy.
+
+Methods: This phase II, prospective, double-blind, placebocontrolled, dose-ranging study investigated omalizumab in
+patients aged 12 to 75 years in the United States and 18 to 75
+years in Germany with a UAS over 7 days (UAS7) of 12 or
+greater despite antihistamine therapy. Patients were
+randomized 1:1:1:1 to receive a single subcutaneous dose of 75,
+300, or 600 mg of omalizumab or placebo added to a stable dose
+of H,-antihistamine. The primary efficacy outcome was change
+from baseline to week 4 in UAS7. Patients were followed for an
+additional 12 weeks to monitor safety.
+
+Results: Ninety patients from the United States or Germany
+were enrolled. Both the 300-mg omalizumab group (—19.9 vs
+—6.9, P <.001) and the 600-mg omalizumab group (—14.6 vs
+—6.9, P = .047) showed greater improvement versus the placebo
+group in UAS7. No meaningful difference was observed for the
+
+From “the Johns Hopkins Asthma and Allergy Center, Baltimore; "Genentech, Inc, South
+San Francisco; ‘the Medical University of South Carolina, Charleston; “UCLA, Los
+Angeles; and ‘the Department of Dermatology and Allergy, Charité-Universititsmedizin Berlin.
+
+Supported by Genentech, Inc (South San Francisco, Calif), and Novartis Pharmaceuticals
+Corporation (East Hanover, NJ), ClinicalTrials. gov registration no.: NCT00130234.
+
+Disclosure of potential conflict of interest: S, Saini has consulted for Genentech/Novartis,
+Pharmacyclics, MedImmune, Array, and Kendle and has received research support
+from Genentech/Novartis. K. E. Rosen, H.-J. Hsieh, D. A. Wong, and E. Conner are
+employees of Genentech. A. Kaplan has consulted for Sanofi-Aventis and Novartis,
+has given lectures for Viro Pharma (Robert Michael Educational Institute), and is on
+the speakers’ bureau for Shire and Dyax. S. Spector has consulted for and is a speaker
+for AstraZeneca; is a speaker for and has received research support from Novartis; has
+received research support from GlaxoSmithKline, TKL Perrigo, Amgen, AstraZeneca,
+Schering-Plough, Genentech, Boehringer Ingelheim, Merck, Medpoint, Sunovion, and
+KarmelSonix; has served on committees for the American College of Allergy, Asthma,
+and Immunology; and has been a speaker/moderator for the American Academy of Allergy, Asthma & Immunology. M. Maurer has consulted for BMWI (Prolnno), the German Research Foundation (DFG), the European Centre for Allergy Research
+Foundation (ECARF), ProFit, and VolkswagenStiftung.
+
+Received for publication January 19, 2011; revised April 27, 2011; accepted for publication June 8, 2011.
+
+Available online July 18, 2011
+
+Reprint requests: Sarbjit Saini, MD, Johns Hopkins Asthma and Allergy Center, Unit Office 2B. 71B, 5501 Hopkins Bayview Circle, Baltimore, MD 21224, E-mail: ssaini@
+jhmi.edu.
+
+0091-6749/$36.00
+
+© 2011 American Academy of Allergy, Asthma & Immunology
+
+doi: 10.1016/j,jaci.201 1.06.010
+
+ 
+
+ 
+
+75-mg omalizumab group. Similar results were seen for key
+secondary end points of weekly hive and itch scores. Onset of
+effect occurred after 1 to 2 weeks. Omalizumab was well
+tolerated, and the incidence of adverse events was similar across
+treatment groups.
+
+Conclusion: This study demonstrated that a fixed dose of 300 or
+600 mg of omalizumab provides rapid and effective treatment of
+CIU in patients who are symptomatic despite treatment with H,antihistamines. (J Allergy Clin Immunol 2011;128:567-73.)
+
+Key words: Chronic idiopathic urticaria, chronic spontaneous urticaria, Hj-antihistamine, hive, itch, omalizumab, urticaria activity
+score, dose ranging
+
+Urticaria with a nonspecific cause characterized by the spontaneous emergence of wheals, angioedema, or both without
+external physical stimuli is classified as chronic idiopathic
+urticaria (CIU) in the United States or chronic spontaneous
+urticaria in Europe if symptoms occur daily or almost daily for
+more than 6 weeks.'? CIU has a significant effect on patients’
+quality of life both physically and psychologically, with loss of
+energy, social isolation, and emotional distress similar to that
+seen in patients awaiting coronary artery bypass surgery.**
+
+In approximately half of the patients with CIU, no cause for the
+condition has been identified”; however, approximately 30% to
+50% of patients with CIU reportedly produce IgG autoantibodies
+against either IgE or its high-affinity receptor (FceRI).” Crosslinking autoantibodies directed against the a-subunit of FceRI
+lead to histamine release through degranulation of cutaneous
+mast cells and blood basophils.®” A subgroup of patients who exhibit IgE autoantibodies against thyroperoxidase has also recently
+been identified. Although autoantibodies are considered to play a
+role in the cause of certain subtypes of CIU, autoantibodies have
+also been found in patients without CIU, and their clinical significance remains unclear.*!°
+
+Current guidelines for the treatment of CIU recommend a
+stepwise approach beginning with nonsedating H,-antihistamines
+(nsAHs)'' and then increasing the dose of nsAH up to 4-fold if
+symptoms persist before changing to a different nsAH or adding
+a leukotriene antagonist.''"'? If symptoms do not abate with any
+of these interventions, the guidelines recommend adding cyclosporin A, an H>-antihistamine, dapsone, or omalizumab. Cyclosporine has been shown to be effective when administered with
+an nsAH,'* but concerns about potential toxicities preclude it
+from being recommended as standard treatment.'’ Data on the
+combination of H,- and H),-antihistimines is favorable but
+
+ 
+
+567
+568 SAINI ET AL
+
+Abbreviations used
+AE: Adverse event
+CIU: Chronic idiopathic urticaria
+nsAH: Nonsedating H1-antihistamine
+UAS: Urticaria activity score
+UAS7: Urticaria activity score over 7 days
+
+ 
+
+limited, and dapsone has only been tested in uncontrolled clinical
+trials.'' Exacerbations are treated with systemic steroids for 3 to7
+days, but longer-term exposure is not recommended because 0:
+unavoidable severe adverse events (AEs).!!
+
+Omalizumab is a recombinant mAb that is approved for the
+treatment of moderate-to-severe persistent asthma in patients
+with a positive skin test response or in vitro reactivity to a perennial aeroallergen and symptoms that are inadequately controlle
+with inhaled corticosteroids (in the United States) or inhaled corticosteroids plus a long-acting inhaled B>-agonist (in Europe).'*!> Omalizumab blocks the binding of IgE to the FceRI
+receptor on the surface of target cells, including mast cells and basophils, thus reducing receptor expression’'” and the release of
+inflammatory mediators.'*
+
+After initial case reports of beneficial effects of omalizumab in
+patients with chronic urticaria,'®?° 2 proof-of-concept trials investigated omalizumab in patients with active CIU who remained
+symptomatic despite antihistamine therapy.?!?? Both of these
+trials used the US Food and Drug Administration—approved dosing table for asthma, determining the omalizumab dose based on
+body weight and screening IgE levels.'* In each of these studies,
+omalizumab improved mean urticaria activity scores (UASs) as
+early as week 2, and scores continued to improve through week
+16.7! Subsequently, additional case studies have reported beneficial effects for omalizumab in patients with recalcitrant
+urticaria.?***
+
+The purpose of the present study was to evaluate the efficacy
+and safety of omalizumab in patients with CIU who remained
+symptomatic despite treatment with H,-antihistamines. Because
+the mechanism of action for omalizumab in patients with CIU
+might not be directly linked to IgE reduction, the study was additionally designed to determine the optimal dose of omalizumab
+for the treatment of CIU.7!?
+
+ 
+
+METHODS
+
+MYSTIQUE was a phase II, prospective, multicenter, international (United
+States and Germany), randomized, double-blind, placebo-controlled, doseranging study of a single subcutaneous dose of omalizumab in patients with
+CIU refractory to H;-antihistamines (see Table El in this article’s Online Repository at www.jacionline.org). Patients were enrolled at 26 study centers in
+the United States and Germany, which included academic institutions, allergy
+offices, and research/clinical groups. This study was conducted in accordance
+with US Food and Drug Administration regulations, the International Conference on Harmonization the E6 Guideline for Good Clinical Practice, and applicable local, state, and federal laws in the United States and Germany. All
+sites obtained institutional review board approval to conduct this study and obtained written informed consent from study participants before enrolment.
+
+Study population
+
+The study included patients aged 12 to 75 years (in the United States) or 18 to
+75 years (in Germany) with a history of CIU (>3 months) without a clearly
+defined cause. At the time of screening, eligible patients had moderate-to-severe
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2011
+
+CIU (pruritus and hives for >3 days in a 7-day period for >6 consecutive weeks)
+despite treatment with an approved dose of an H,-antihistamine. Allowable
+antihistamines were 10 mg of cetirizine once daily, 5 mg of levocetirizine dihydrochloride once daily, 60 mg of fexofenadine twice per day or 180 mg once
+daily, 10 mg of loratadine once daily, or 5 mg of desloratadine once daily.
+
+Patients were required to have a daily UAS of 4 or more established in the
+clinic, and a diary-based UAS over 7 days (UAS7) of 12 or more during the
+run-in period before randomization (day 0) despite stable doses of Hj-antihistamine. The daily UAS is a composite score (scale, 0-6) calculated as the sum
+of the daily average morning and evening scores for severity of itch (0, none; 1,
+mild; 2, moderate; and 3, severe) and number of hives (0, none; 1, 1-6 hives; 2,
+7-12 hives; and 3, >12 hives).?°°7
+
+Exclusion criteria included weight less than 40 kg, pregnancy or lactation,
+any other skin disease associated with pruritus, treatment with omalizumab
+within 12 months before screening, contraindication to diphenhydramine,
+treatment with any investigational agent within 30 days of screening, any
+clinically relevant major systemic disease that could potentially complicate
+interpretation of study results, and inability to comply with study and followup procedures. Patients were not permitted regular use (daily/every other day)
+of any of the following medications/treatments from the indicated time period
+before the screening visit throughout the end of the treatment period: 3 months
+prior—hydroxychloroquine, sulfasalazine, dapsone, methotrexate, cyclophosphamide, intravenous immunoglobulin, plasmapheresis, or other mAb
+therapies; 6 weeks prior—doxepin; | month prior—cyclosporine; and 1 week
+prior—H,-antihistamines and leukotriene receptor antagonists. Use of systemic corticosteroids or cutaneous corticosteroids was not allowed during
+the screening, run-in, or treatment phases; however, intranasal, inhaled, and
+ophthalmic steroids were permitted.
+
+Study design
+
+The study consisted of 4 phases (Fig 1): screening (week —2 to week —1),
+run-in (week —1 to day 0), treatment (day 0 through week 4), and follow-up
+(week 4 through week 16). A patient’s eligibility to enter the trial was determined at the screening visit. During the run-in period, patients established
+baseline symptom scores in their diaries; those with a UAS7 of 12 or more
+were eligible for randomization. At day 0, patients were randomized in a
+1:1:1:1 ratio to receive a single dose of 75, 300, or 600 mg of omalizumab
+or placebo. Randomization was performed by using a dynamic randomization
+scheme stratified by weight (<80 kg and >80 kg) and administered through an
+interactive voice-response system. Patients, all study personnel, the designated evaluating physician, and the sponsor and its agents (with the exception
+of the interactive voice-response system service provider) were blinded to
+treatment assignment. After completing the 4-week treatment period, patients
+were followed for an additional 12 weeks to collect safety data. From screening through week 4, all patients were provided 25 mg of diphenhydramine to
+use as a rescue medication for pruritus relief on an as-needed basis. The maximum allowable daily dose of diphenhydramine was 75 mg in the United
+States and 50 mg in Germany. Patients who required any other medications
+(including systemic corticosteroids) to treat persistent/worsening disease
+were discontinued from the study.
+
+Study end points
+
+Because frequent variation in disease intensity during the course of a day is
+common, the assessment of disease activity was based on a weekly aggregate
+UAS score (UAS7). The UAS7 is the sum of the daily average UAS scores
+(average of morning and evening scores) over 7 days (scale, 0-42).°°?” The
+primary efficacy outcome was the change in UAS7 from baseline to the end
+of the treatment period (week 4).
+
+Key secondary efficacy outcomes included the change in weekly pruritus
+score and weekly score for the number of hives from baseline to week 4 in the
+treatment period. The pruritus score was measured twice daily (morning and
+evening) on a scale of 0 (none) to 3 (intense). The weekly pruritus score was
+the sum of daily average (over morning and evening) pruritus scores over 7
+days (range, 0-21). Similarly, the number of hives was measured twice daily
+(morning and evening) on a scale of 0 (none) to 3 (>12 hives). The weekly
+J ALLERGY CLIN IMMUNOL
+VOLUME 128, NUMBER 3
+
+OMA 600 mg (n=21)
+
+OMA 300 mg (n=25)
+
+OMA 75 mg (n=23)
+
+Placebo (n=21)
+
+SAINI ET AL 569
+
+Period1 Period2 Period3 Period 4
+: Run-In Treatment Follow-up
+Screening + (<1 week) (4 weeks) | (12 weeks) |
+Week-2 Week-1 Day 0 Week4 Week 16
+1 1
+Randomization End of End of
+(n=90) Treatment Study
+
+FIG 1. Study design. OMA, Omalizumab.
+
+score of number of hives was the sum of the daily average scores over 7 days
+(range, 0-21).
+
+Safety outcomes included the frequency and severity of treatment-emergent
+AEs and clinical laboratory measures. Pharmacokinetic and pharmacodynamic outcome measures included total omalizumab serum concentration,
+maximum observed omalizumab serum concentration, and time to maximum
+omalizumab serum concentration.
+
+Statistical analyses
+
+Study sample size calculations were based on the primary efficacy outcome
+for treatment differences between omalizumab and placebo. On the basis of
+the results of a previous double-blind, placebo-controlled trial, it was assumed
+that the mean change in UAS7 from baseline to week 4 would be — 12.46 for
+omalizumab and —1.26 for placebo, with a common SD of 10.2? Under this
+assumption, 19 patients in each arm would yield approximately 90% power
+to detect a difference between omalizumab and placebo with a 2-sided significance level of.05.
+
+All efficacy outcomes were analyzed by using modified intent-to-treat
+populations based on the treatment group assigned at randomization. Patients
+whose postbaseline data were completely missing were not included in the
+analysis. In the case of incomplete data, missing scores were imputed by using
+the average of available corresponding scores in that week. If a patient’s diary
+from the fourth week was missing completely, UAS7 for that week was imputed by using the last-observation-carried-forward method.
+
+Efficacy outcomes were analyzed by using the van Elteren test stratified by
+weight (<80 vs >80 kg). The van Elteren test is a nonparametric method
+commonly used in continuous variables with small sample size. The 95% CIs
+were obtained by using nonparametric methods for order statistics. All
+pairwise comparisons for assessing differences between treatment arms were
+performed by using 2 treatment groups at a time. No adjustments were made
+for multiple comparisons. Safety analyses included all patients who received
+any amount of study treatment (omalizumab or placebo), and patients were
+grouped according to treatment received. All analyses, summaries, and
+listings were performed with SAS software, version 9.1 or later (SAS Institute,
+Inc, Cary, NC).
+
+RESULTS
+Patient disposition
+
+Ninety patients were randomized into the study, and all
+received the assigned treatment. As a result, efficacy and safety
+were evaluated on the intent-to-treat population. Nine (10.0%)
+patients discontinued before the end of the treatment period (week
+4, Fig 2). The majority of patients (n = 71 [78.9%]) completed the
+
+follow-up period (week 16), with 6 patients discontinuing from
+both the placebo (28.6%) and 75-mg omalizumab (26.1%)
+groups, 2 patients (8.0%) from the 300-mg omalizumab group,
+and 5 patients (23.8%) from the 600-mg omalizumab group.
+The most common reason for discontinuation during the study
+was disease progression (n = 5 [5.6%]), with 3 of the 5 cases occurring in the placebo group. One (1.1%) patient was treated with
+an H>-antihistamine during the screening period but was inadvertently randomized to the 300-mg omalizumab group. This patient
+is included in the efficacy and safety analyses.
+
+Patients’ demographics and characteristics
+
+The demographics of the 90 patients enrolled in this study
+showed no major imbalances among the 4 treatment groups
+(Table 1). The mean age was 40.8 years, and 5 (5.6%) patients
+were less than 18 years of age. More than half of the patients
+were female (67.8%), and the majority were white (83.3%).
+Mean weight was 81.0 kg, with 43.3% of patients weighing 80
+kg or more. At baseline, CIU disease characteristics were generally similar among the groups, although the UAS7 and weekly
+hive score were slightly higher in the placebo group. Overall,
+the mean baseline UAS7 was 28.2 (SD, 7.5) and the in-clinic
+UAS was 4.4 (SD, 1.2). Use of rescue medication was low, with
+a mean of 4.9 (SD, 6.4) weekly doses and a median of 2 doses
+in the 7-day period before randomization.
+
+Efficacy
+
+The mean and median change in UAS7 showed a decrease from
+baseline to week 4 in all treatment groups (Table II and Fig 3). The
+300-mg and 600-mg omalizumab groups showed greater improvement than the placebo group, with a difference in mean
+change from baseline in UAS7 of 13.0 points (—19.9 vs —6.9,
+P <.001) and 7.7 points (— 14.6 vs —6.9, P = .047), respectively.
+The 75-mg omalizumab group was not different from the placebo
+group at the end of the treatment period (—9.8 vs —6.9, P = .16).
+Onset of effect, as measured by mean change from baseline in
+UAS7, was apparent as early as week | (the earliest time point assessed) for the 300-mg omalizumab group and continued to improve throughout the end of the treatment period (Fig 4). The
+600-mg omalizumab group also demonstrated a clear separation
+570 SAINI ET AL
+
+ 
+
+Assessed for eligibility (n=119)
+
+ 
+
+y
+
+poo
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2011
+
+ 
+
+ 
+
+Excluded (n=29)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Randomized (n=90)
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+i
+
+I
+
+y
+
+ 
+
+ 
+
+Allocated to Placebo (n=21)
+Received Placebo (n=21)
+
+ 
+
+Allocated to OMA 75 mg (n=23)
+Received OMA 75 mg (n=23)
+
+Allocated to OMA 300 mg (n=25)
+Received OMA 300 mg (n=25)
+
+Allocated to OMA 600 mg (n=21)
+Received OMA 600 mg (n=21)
+
+ 
+
+!
+
+|
+
+!
+
+ 
+
+y
+
+ 
+
+Discontinued before week 4 (n=1)
+
++ Adverse event (n=O)
+
+= Subjectquardian decision to
+withdraw (n=0)
+
+= Pregnancy (n=0)
+
++ Disease progression (n=1)
+
+= Physician decision to withdraw (n=0)
+
+Completed week 4 (n=20)
+
+ 
+
+Discontinued before week 4 (n=5)
+
++ Adverse event (n=2)
+
+= Subjectquardian decision to
+withdraw (n=1)
+
+= Pregnancy (n=1)
+
++ Disease progression (n=1)
+
+= Physician decision to withdraw (n=0)
+
+Completed week 4 (n=18)
+
+Discontinued before week 4 (n=2)
+
+Adverse event (n=0)
+
++ Subjectiguardian decision to
+withdraw (n=0)
+
+* Pregnancy (n=0)
+
+* Disease progression (n=1)
+
+= Physician decision to withdraw (n=1)
+
+Completed week 4 (n=23)
+
+Discontinued before week 4 (n=1)
+
++ Adverse event (n=0)
+
+* Subjectquardian decision to withdraw
+(n=1)
+
++ Pregnancy (n=0)
+
++ Disease progression (n=0)
+
+«Physician decision to withdraw (n=0)
+
+Completed week 4 (n=20)
+
+ 
+
+|
+
+|
+
+|
+
+ 
+
+Discontinued before week 16 (n=6)
+
+* Adverse event (n=0)
+
+* Lost to follow-up (n=1)
+
++ Subject/guardian decision to
+withdraw (n=2)
+
+Pregnancy (n=0)
+
+«Disease progression (n=3)
+
+Physician decision to withdraw (n=0)
+
+Completed week 16 (n=15)
+
+Discontinued before week 16 (n=6)
+
++ Adverse event (n=2)
+
+= Lost to follow-up (n=1)
+
+* Subjectiguardian decision to
+withdraw (n=1)
+
++ Pregnancy (n=1)
+
+* Disease progression (n=1)
+
+Physician decision to withdraw (n=0)
+
+Completed week 16 (n=17)
+
+ 
+
+  
+
+Discontinued before week 16 (n=2)
+
+= Adverse event (n=0)
+
+* Lost to follow-up (n=0)
+
++ Subjectiguardian decision to
+withdraw (n=0)
+
++ Pregnancy (n=0)
+
+* Disease progression (n=1)
+
+= Physician decision to withdraw (n=1)
+
+Completed week 16 (n=23)
+
+Discontinued before week 16 (n=5)
+
++ Adverse event (n=
+
+= Lost to follow-up (n=2)
+
+* Subjectiguardian decision to
+withdraw (n=1)
+
+Pregnancy (n=0)
+
++ Disease progression (n=0)
+
++ Physician decision to withdraw (n=1)
+
+Completed week 16 (n=16)
+
+ 
+
+ 
+
+ 
+
+Analyzed for efficacy (n=21)
+Analyzed for safety (n=21)
+
+Analyzed for efficacy (n=23)
+Analyzed for safety (n=23)
+
+Analyzed for efficacy (n=25)
+Analyzed for safety (n=25)
+
+Analyzed for efficacy (n=21)
+Analyzed for safety (n=21)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIG 2. Flow diagram based on Consolidated Standards of Reporting Trials (CONSORT) guidelines. OMA,
+
+Omalizumab.
+
+TABLE I. Demographics and baseline characteristics
+
+ 
+
+ 
+
+Placebo OMA, 75 mg OMA, 300 mg OMA, 600 mg All patients
+(n = 21) (n = 23) (n = 25) (n = 21) (n = 90)
+Mean age (y [SD]) 41.2 (16.2) 38.8 (15.5) 42.9 (15.7) 40.0 (11.1) 40.8 (14.7)
+12 to <18 y, no. (%) 2 (9.5) 2 (8.7) 1 (4.0) 0 5 (5.6)
+18 to <40 y, no. (%) MG33), 10 (43.5) 12 (48.0) 11 (52.4) 40 (44.4)
+240 y, no. (%) 12 (57.1) 11 (47.8) 12 (48.0) 10 (47.6) 45 (50.0)
+Female sex, no. (%) 17 (81.0) 15 (65.2) 17 (68.0) 12 (57.1) 61 (67.8)
+Race, no. (%)
+American Indian or Alaska native 0 0 1 (4.0) 1 (4.8) 2 (2.2)
+Asian 1 (4.8) 2 (8.7) 2 (8.0) 0 5 (5.6)
+Black or African American 2 (9:5) 1 (4.3) 3 (12.0) 2 (9.5) 8 (8.9)
+White 18 (85.7) 20 (87.0) 19 (76.0) 8 (85.7) 75 (83.3)
+Mean weight, kg (SD) 80.4 (24.8) 80.5 (21.6) 82.2 (22.8) 80.6 (18.1) 81.0 (21.6)
+280 kg, no. (%) 8 (38.1) 9 (39.1) 12 (48.0) 10 (47.6) 39 (43.3)
+Weekly diary scores
+Mean UAS7 (SD) 31.0 (7.32) 27.3 (8.31) 27.7 (7.19) 26.8 (6.98) 28.2 (7.53)
+Mean itch score (SD) 14.0 (4.23) 13.1 (3.53) 13.0 (3.72) 12.6 (3.19) 13.2 (3.66)
+Mean hive score (SD) 17.0 (4.79) 14.2 (5.71) 14.7 (4.62) 14.2 (4.81) 15.0 (5.05)
+Weekly doses of rescue medication
+Mean (SD) 7.1 (9.05) 4.8 (5.81) 4.5 (5.52) 3.2 (4.43) 4.9 (6.42)
+Median 2 3) 3 0 2
+Mean in-clinic UAS at day 0 (SD) 4.9 (0.89) 4.5 (1.24) 3.9 (1.54) 4.6 (0.93) 4.4 (1.24)
+
+Total IgE levels, [U/mL
+Mean (SD)
+Median (range)
+
+297.4 (748.9)
+114.0 (2-5310)
+
+251.5 (389.6)
+62.0 (3-1500)
+
+170.5 (178.5)
+131.5 (2-819)
+
+139.4 (142.9)
+90.0 (4-617)
+
+215.3 (431.6)
+88.5 (2-3510)
+
+ 
+
+OMA, Omalizumab.
+
+from the placebo group in UAS7 at week 1 and continuing
+through week 4; however, the magnitude of the decrease was
+smaller than for the 300-mg omalizumab group. A post hoc responder analysis was performed to determine the proportion of
+
+patients achieving a 50% or greater improvement from baseline
+in UAS7 (Table III). The results of this analysis paralleled the primary end point, with 4.4% (75 mg of omalizumab), 36.0% (300
+mg of omalizumab), and 28.6% (600 mg of omalizumab) of
+J ALLERGY CLIN IMMUNOL
+VOLUME 128, NUMBER 3
+
+TABLE II. Change from baseline to week 4 in UAS7
+
+ 
+
+SAINI ET AL 571
+
+ 
+
+ 
+
+ 
+
+Placebo OMA, 75 mg OMA, 300 mg OMA, 600 mg
+(n = 21) (n = 23) (n = 25) (n = 21)
+
+UAS7 (week 4)
+
+Mean (SD) —6.9 (9.84) —9.8 (11.75) —19.9 (12.38) —14.6 (10.17)
+
+Median =65 —14.0 =23.0 —13.8
+
+95% CI of median —11.50 to 0.96 -17.77 to —4.85 —25.38 to — 12.00 —22.50 to —7.00
+
+P value vs placebo _— <.001 047
+Weekly itch score (week 4)
+
+Mean (SD) —3.5 (5.22) —4.5 (5.84) —9.2 (5.98) —6.5 (5.63)
+
+Median —25 —6.0 —10.0 —5.5
+
+95% CI of median —6.00 to 0.00 —8.00 to —1.50 —11.50 to —6.00 —10.05 to —3.08
+
+P value vs placebo — <.001 056
+Weekly hive score (week 4)
+
+Mean (SD) —3.5 (5:17) —5.3 (6.91) —10.7 (6.75) —8.1 (6.00)
+
+Median -0.5 =6:5) 125, —8.8
+
+95% CI of median —6.50 to 0.00 —10.50 to — 1.00 —13.50 to —6.50 —11.50 to —3.00
+
+P value vs placebo — <.001 02
+OMA, Omalizumab.
+
+Placebo OMA 75 mg OMA 300 mg OMA 600 mg Mean Change From Baseline in UAS7 Score
+5
+0 >
+
+E 2) 5 2 ; -* Placebo
+
+is * £ 75mg
+
+ec & z ~*- 300 mg
+
+cy -10 § “4-600 mg
+
+53 os °
+
+Ge
+
+Bo -2
+
+5 3 -25 me week
+
+2s P= 047 FIG 4. Mean change from baseline in UAS7 by week during the treatment
+
+-30 period.
+-35 P<001
+
+ 
+
+FIG 3. Mean + SD for changes from baseline to week 4 in UAS7. P values
+are based on comparison with the placebo group by using the Van Elteren
+test. OMA, Omalizumab.
+
+patients achieving 100% improvement from baseline in UAS7
+compared with 0% for the placebo group.
+
+As with the primary efficacy outcome, similar results were
+observed for weekly itch and hive scores, key secondary efficacy
+outcomes (Table II and Fig 5). The mean change from baseline to
+week 4 in the weekly itch score was —9.2 (SD, 5.98) points for the
+300-mg omalizumab group (—3.5 points for placebo, P < .001)
+and —6.5 (SD, 5.63) points for the 600-mg omalizumab group
+(—3.5 for placebo, P = .056). During the same time period, the
+mean change in weekly hive score was 10.7 (SD, 6.75) points
+for the 300-mg omalizumab group (P <.001) and 8.1 (SD, 6.0)
+points for the 600-mg omalizumab group (P = .02) compared
+with 3.5 (SD, 5.2) points for the placebo group. No meaningful
+differences between the 75-mg omalizumab and placebo groups
+were observed for either the itch score (—4.5 points, P = .16)
+or the hive score (—5.3 points, P = .14).
+
+Safety and tolerability
+
+In this study omalizumab was well tolerated, and the incidence
+of AEs was similar across treatment groups. During the treatment
+period (day 0 to week 4), 44.0% of patients experienced at least
+
+1 AE (placebo: 10/21 [47.6%]; 75 mg of omalizumab: 8/23
+[34.8%]; 300 mg of omalizumab: 12/25 [48.0%]; 600 mg of
+omalizumab: 10/21 [47.6%]). Treatment-emergent AEs occurring
+through week 4 in 5% or more of any treatment group were upper
+respiratory tract infection, headache, nasopharyngitis, and dysmenorrhea; no AEs occurred in greater than 15% of patients in any
+treatment group. During the follow-up period (week 4 to week 16),
+40.7% of patients experienced at least 1 AE (placebo: 7/20
+[35.0%]; 75 mg of omalizumab: 9/18 [50.0%]; 300 mg of
+omalizumab: 12/23 [52.2%]; 600 mg of omalizumab: 5/20
+[25.0%]). Treatment-emergent AEs occurring in more than | patient in any treatment group were nasopharyngitis and idiopathic
+urticaria; no AEs occurred in more than 3 patients in any treatment
+group during the follow-up period. During both treatment and
+follow-up, the majority of AEs were mild to moderate in severity
+and were considered not related to the study drug.
+
+Four (4.4%) patients experienced AEs that led to discontinuation from the study. Three patients withdrew from the 75-mg
+omalizumab group (1 case each of pregnancy, asthma, and
+pruritus), and | patient withdrew from the 600-mg omalizumab
+group (exacerbation of urticaria on day 70). Two (2.2%) patients
+in the 75-mg omalizumab group used prednisone during the
+treatment period (day 8 for CIU exacerbation and day 21 for
+asthma exacerbation) and were discontinued from the study.
+
+No serious AEs were observed during the treatment period. On
+day 101, 1 patient in the 300-mg omalizumab group reported
+chest pain and was hospitalized. The patient had a history of
+572 SAINI ET AL
+
+TABLE Ill. Proportion of patients with 50% or greater improvement from baseline in UAS7 at week 4
+
+No. (%) of patients Placebo OMA, 75 mg OMA, 300 mg OMA, 600 mg
+
+with improvement (n= 21) — (n = 23) (n = 25) (n = 20)
+100% Improvement 0 (0.0) 1 (4.4) 9 (36.0) 6 (28.6)
+90% Improvement 1 (4.8) 1 (4.4) 10 (40.0) 6 (28.6)
+75% Improvement 2(9.5)  5(21.7) 15 (60.0) 7 (33.3)
+50% Improvement 5 (23.8) 12 (52.2) 20 (80.0) 12 (57.1)
+
+ 
+
+OMA, Omalizumab.
+
+intermittent chest pain over the previous year before enrolment in
+the study, and all test results (including electrocardiograms and
+cardiac enzyme measurements) were normal. The discharge
+diagnosis was atypical chest pain, likely musculoskeletal, and
+the investigator assessed the event as not related to the study drug.
+There were no deaths during the study.
+
+No clinically relevant laboratory findings were reported during
+the study. Of the AEs of special clinical interest, there were 2
+cases of hypersensitivity (1 each in the 75-mg and 600-mg
+omalizumab groups). The definition of hypersensitivity was
+based on a broad search for a large number of preferred terms,
+which included asthma but did not include anaphylaxis, injectionsite reaction, urticaria, or skin rash. There were no observations of
+anaphylaxis, Churg-Strauss syndrome, injection-site reaction,
+malignancy, parasitic infection, serum sickness syndrome, or
+thrombocytopenia and bleeding-related disorders during the
+treatment or follow-up periods.
+
+Pharmacokinetics and pharmacodynamics
+
+The single dose of omalizumab was slowly absorbed, reaching
+peak concentrations after a mean of 7 to 8 days. Drug concentrations were proportional across the 3 doses studied, and the
+mean terminal half-life ranged from 19 to 22 days across the 3
+dose groups.
+
+DISCUSSION
+
+In this phase II study a single dose of 300 or 600 mg of
+omalizumab showed greater improvement in UAS7 from baseline
+to week 4 compared with placebo, supporting previous observations that omalizumab therapy can be effective for urticaria
+refractory to H,-antihistamine therapy. Both itch and hive scores
+individually improved for the 300- and 600-mg doses compared
+with placebo. Regardless of dose, no new safety issues or concerns were observed in patients with CIU treated with
+omalizumab.
+
+A rapid onset of action was noted for omalizumab in the
+treatment of refractory CIU, which was most apparent in the 300mg dose group, with a UAS7 at week | that was approximately
+two thirds of the total mean improvement noted at the end of the
+treatment period. This observation contrasts with the experience
+gained with omalizumab in the treatment of moderate-to-severe
+allergic asthma, in which 16 weeks of treatment are recommended to demonstrate clinical response.”* Patients with CIU have
+lower levels of serum IgE relative to patients with asthma, and
+there is little information supporting the relationship between serum IgE levels and CIU. The results of this study suggest that flat
+dosing of omalizumab might be sufficient for patients with CIU,
+although further studies must be conducted to confirm this. We
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2011
+
+ 
+
+5, Placebo OMA 75 mg OMA 300 mg OMA 600 mg
+~ 0 7
+ao
+c 2
+ss
+be 5]
+ae
+a3
+10 4
+aa
+oe P=16
+= 2 P=14 P=.056
+“15 4 P=02
+1 Weekly Itch Score P<.001
+Weekly Hive Score
+P<.001
+
+ 
+
+-20 4
+
+FIG 5. Mean = SD for changes from baseline to week 4 in weekly itch and
+weekly hive scores. P values are based on comparison with the placebo
+group by using the Van Elteren test.
+
+postulate that the mechanism of action for omalizumab might
+be through a more direct effect on mast cell/basophil reactivity
+that would reduce hive generation relatively quickly instead of requiring the long-term change in the steady-state levels of serum
+IgE necessary for asthma control.
+
+The results of this phase II trial were consistent with those of 3
+previous proof-of-concept trials in which multiple doses of
+omalizumab were administered based on the approved dosing
+regimens for asthma. Including the current study, all 4 trials
+showed that omalizumab significantly improved UASs with a
+rapid onset of effect and persisted for the duration of treatment.?'??° The results of these studies lend additional support to
+the latest version of the European Academy of Allergy and Clinical Immunology/Global Allergy and Asthma European Network/
+World Allergy Organization/European Dermatology Forum
+guidelines, which recommend omalizumab as a treatment option
+for patients with CIU whose disease is refractory to standard
+therapies.'!
+
+A clear dose-response relationship was not seen between the
+300- and 600-mg doses for either the primary or key secondary
+end points. By contrast, the 75-mg omalizumab group did not
+show a meaningful difference from the placebo group for either
+the primary or key secondary end points. Taken together, these
+data suggest that if there is a dose-dependent response to singledose omalizumab over 4 weeks, the plateau dose might lie below
+the 300-mg dose; however, doses between 75 and 300 mg were
+not tested in the present study.
+
+The limitations of this study include its small sample size (90
+patients randomized), the limited number of treatment groups (3
+active vs placebo) and exclusion criteria regarding recent or
+concomitant medications. The limited sample size might have
+contributed to the observation that the improvement from baseline
+in the 600-mg omalizumab group was not as pronounced as that in
+the 300-mg omalizumab group when compared with the placebo
+group. The single-dose design and limited follow-up time were
+appropriate for this dose-ranging study, but the results do not
+provide any insight into the frequency of dosing that would be
+required for long-term control of CIU in this population. Additional studies are needed to investigate questions related to the
+mechanism of action for omalizumab in patients with CIU and to
+evaluate any effects of omalizumab on additional clinical
+J ALLERGY CLIN IMMUNOL,
+VOLUME 128, NUMBER 3
+
+outcomes, such as health-related quality of life or the need for
+rescue medication.
+
+In conclusion, consistent with the findings of 3 multiple-dose
+proof-of-concept trials, the results of this randomized, doubleblind, placebo-controlled study demonstrate that single-dose
+omalizumab (300 or 600 mg) provides rapid and effective treatment of CIU in patients who remain symptomatic despite treatment
+with H,-antihistamines. Regardless of the dose of omalizumab, no
+new safety issues or concerns were revealed. Future trials, including longer durations of treatment, will be necessary to fully evaluate the potential for this agent in the treatment of CIU.
+
+We thank Kate DeBruin, PhD, and Embryon, Inc, for writing and editorial
+assistance.
+
+Clinical implications: Single-dose omalizumab rapidly improved urticarial symptoms (itch and hives) in patients with
+antly more
+
+H,-antihistamine-refractory CIU and was signi
+effective than placebo after 4 weeks.
+
+ 
+
+REFERENCES
+
+. Zuberbier T, Asero R, Bindslev-Jensen C, Walter CG, Church MK, Gimenez-Arnau A, et al. EAACI/GA(2)LEN/EDF/WAO guideline: definition, classification
+and diagnosis of urticaria, Allergy 2009;64:1417-26.
+
+. Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin Immunol 2003;
+3:363-8.
+
+. Staubach P, Eckhardt-Henn A, Dechene M, Vonend A, Metz M, Magerl M, et al.
+Quality of life in patients with chronic urticaria is differentially impaired and determined by psychiatric comorbidity. Br J Dermatol 2006;154:294-8.
+
+4, O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of
+chronic urticaria on the quality of life. Br J Dermatol 1997;136:197-201.
+
+. Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CE, et al. Classification of anti-FcepsilonRI and anti-IgE autoantibodies in chronic idiopathic urticaria and correlation with disease severity. J Allergy Clin Immunol 2002;110:
+492-9,
+
+. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in
+chronic urticaria. N Engl J Med 1993;328:1599-604.
+
+. Kaplan AP, Greaves M. Pathogenesis of chronic urticaria. Clin Exp Allergy 2009;
+39:777-87.
+
+. Eckman JA, Sterba PM, Gober L, Hamilton RG, Saini SS. Immunoenzymetric assay measurement (IEMA) of autoantibodies in chronic idiopathic urticaria (CIU) in
+relation to basophil functional profile over time. J Allergy Clin Immunol 2008;
+121 (suppl):S100.
+
+9. Eckman JA, Hamilton RG, Saini SS. Independent evaluation of a commercial test
+for “autoimmune” urticaria in normal and chronic urticaria subjects. J Invest Dermatol 2009;129:1584-6.
+
+10. Brodell LA, Beck LA, Saini SS. Pathophysiology of chronic urticaria. Ann Allergy
+
+Asthma Immunol 2008;100:291-8.
+
+N
+
+w
+
+w
+
+a
+
+x
+
+oo
+
+12.
+
+16.
+
+17.
+
+21,
+
+22.
+
+23.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+SAINI ET AL 573
+
+. Zuberbier T, Asero R, Bindslev-Jensen C, Walter CG, Church MK, Gimenez-Ar
+nau AM, et al. EAACI/GA(2)LEN/EDF/WAO guideline: management of urticaria.
+Allergy 2009;64: 1427-43.
+
+Staevska M, Popov TA, Kralimarkova T, Lazarova C, Kraeva S, Popova D, et al.
+The effectiveness of levocetirizine and desloratadine in up to 4 times conventional
+doses in difficult-to-treat urticaria. J Allergy Clin Immunol 2010;125:676-82.
+
+. Grattan CE, O’ Donnell BF, Francis DM, Niimi N, Barlow RJ, Seed PT, et al. Ran
+domized double-blind study of cyclosporin in chronic “idiopathic” urticaria. Br J
+Dermatol 2000;143:365-72.
+
+.. Xolair [prescribing information]. South San Francisco (CA): Genentech, Inc; 2010.
+. Xolair: summary of product characteristics. European Medicines Agency; 2010.
+
+Available at: http:/www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Pro
+duct_Information/human/000606/WC500057298.pdf. Accessed June 23, 2011.
+MacGlashan DW Jr, Bochner BS, Adelman DC, Jardieu PM, Togias A, KenzieWhite J, et al. Down-regulation of Fc(epsilon)RI expression on human basophils
+during in vivo treatment of atopic patients with anti-[gE antibody. J Immunol
+1997;158:1438-45.
+
+Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S. Omalizumab-induced
+reductions in mast cell FcepsilonRI expression and function. J Allergy Clin Immunol 2004;114:527-30.
+
+. Oliver JM, Tarleton CA, Gilmartin L, Archibeque T, Qualls CR, Diehl L, et al. Re
+duced FeepsilonRI-mediated release of asthma-promoting cytokines and chemokines from human basophils during omalizumab therapy. Int Arch Allergy
+Immunol 2009;151:275-84.
+
+. Spector SL, Tan RA. Effect of omalizumab on patients with chronic urticaria. Ann
+
+Allergy Asthma Immunol 2007;99:190-3.
+
+. Spector SL, Tan RA. Therapeutic alternatives for chronic urticaria: additional re
+ports on omalizumab. Ann Allergy Asthma Immunol 2008;101:647.
+Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment of chronic autoimmune urticaria with omalizumab. J Allergy Clin Immunol 2008;122:569-73.
+Gober LM, Sterba PM, Eckman JA, Saini SS, Effect of Anti-IgE (omalizumab) in
+chronic idiopathic urticaria (CIU) patients. J Allergy Clin Immunol 2008;
+121 (suppl):$147.
+
+Magerl M, Staubach P, Altrichter S, Ardelean E, Krause K, Metz M, et al. Effective
+treatment of therapy-resistant chronic spontaneous urticaria with omalizumab.
+J Allergy Clin Immunol 2010;126:665-6.
+
+. Metz M, Altrichter S, Ardelean E, Kebetaler B, Krause K, Magerl M, et al. Anti
+immunoglobulin E treatment of patients with recalcitrant physical urticaria. Int
+Arch Allergy Immunol 2010;154:177-80.
+
+Zuberbier T, Bindslev-Jensen C, Canonica W, Grattan CE, Greaves MW, Henz
+BM, et al. EAACI/GA2LEN/EDF guideline: definition, classification and diagnosis
+of urticaria. Allergy 2006;61:316-20.
+
+Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M.
+How to assess disease activity in patients with chronic urticaria? Allergy 2008;63:
+777-80.
+
+Mathias SD, Dreskin SC, Kaplan A, Saini SS, Spector $, Rosen KE. Development
+of a daily diary for patients with chronic idiopathic urticaria, Ann Allergy Asthma
+Immunol 2010;105:142-8.
+
+Holgate , Buhl R, Bousquet J, Smith N, Panahloo Z, Jimenez P. The use of omalizumab in the treatment of severe allergic asthma: a clinical experience update.
+Respir Med 2009;103:1098-113.
+
+Maurer M. Efficacy and safety of omalizumab in patients with chronic urticaria
+who exhibit IgE against thyreoperoxidase. J Allergy Clin Immunol 2011 [Epub
+ahead of print].
+573.e1 SAINI ET AL
+
+J ALLERGY CLIN IMMUNOL
+
+TABLE E1. CONSORT 2010 checklist of information to include when reporting a randomized trial*
+
+Section/topic
+
+Title and abstract
+
+Introduction
+Background and objectives
+
+Methods
+Trial design
+
+Participants
+Interventions
+
+Outcomes
+
+Sample size
+
+Randomization
+Sequence generation
+
+Allocation concealment
+mechanism
+
+Implementation
+
+Blinding
+
+Statistical methods
+Results
+Participant flow (a diagram
+is strongly recommended)
+
+Recruitment
+
+Baseline data
+Numbers analyzed
+
+Outcomes and estimation
+
+Ancillary analyses
+Harms
+
+Discussion
+Limitations
+
+Generalizability
+Interpretation
+
+Other information
+Registration
+Protocol
+Funding
+
+Item no.
+
+la
+Ib
+
+2a
+2b
+
+3a
+3b
+4a
+4b
+
+6a
+
+6b
+Ta
+7b
+
+8a
+8b
+
+lla
+
+11b
+12a
+12b
+
+13a
+
+13b
+4a
+14b
+15
+16
+
+17a
+
+17b
+18
+
+20
+
+21
+22
+
+23.
+24
+25
+
+Checklist item
+
+Identification as a randomized trial in the title
+Structured summary of trial design, methods, results, and conclusions (for specific guidance
+see CONSORT for abstracts)
+
+Scientific background and explanation of rationale
+Specific objectives or hypotheses
+
+Description of trial design (eg, parallel and factorial), including allocation ratio
+
+Important changes to methods after trial commencement (eg, eligibility criteria) with reasons
+
+Eligibility criteria for participants
+
+Settings and locations in which the data were collected
+
+The interventions for each group with sufficient details to allow replication, including how
+and when they were actually administered
+
+Completely defined prespecified primary and secondary outcome measures, including how
+and when they were assessed
+
+Any changes to trial outcomes after the trial commenced with reasons
+
+How sample size was determined
+
+When applicable, explanation of any interim analyses and stopping guidelines
+
+Method used to generate the random allocation sequence
+
+Type of randomization; details of any restriction (eg, blocking and block size)
+
+Mechanism used to implement the random allocation sequence (eg, sequentially numbered
+containers), describing any steps taken to conceal the sequence until interventions were
+assigned
+
+Who generated the random allocation sequence, who enrolled participants, and who assigned
+participants to interventions
+
+If done, who was blinded after assignment to interventions (eg, participants, care providers,
+and those a: ing outcomes) and how
+
+If relevant, description of the similarity of interventions
+
+Statistical methods used to compare groups for primary and secondary outcomes
+
+Methods for additional analyses, such as subgroup analyses and adjusted analyses
+
+ 
+
+For each group, the numbers of participants who were randomly assigned, received intended
+treatment, and were analyzed for the primary outcome
+
+For each group, losses and exclusions after randomization with reasons
+
+Dates defining the periods of recruitment and follow-up
+
+Why the trial ended or was stopped
+
+A table showing baseline demographic and clinical characteristics for each group
+
+For each group, number of participants (denominator) included in each analysis and whether
+the analysis was by original assigned groups
+
+For each primary and secondary outcome, results for each group and the estimated effect size
+and its precision (eg, 95% CI)
+
+For binary outcomes, presentation of both absolute and relative effect sizes is recommended.
+
+Results of any other analyses performed, including subgroup analyses and adjusted analyses,
+distinguishing prespecified from exploratory
+
+All important harms or unintended effects in each group (for specific guidance, see
+CONSORT for harms)
+
+Trial limitations, addressing sources of potential bias, imprecision, and, if relevant,
+multiplicity of analyses
+
+Generalizability (external validity and applicability) of the trial findings
+
+Interpretation consistent with results, balancing benefits and harms, and considering other
+relevant evidence
+
+Registration number and name of trial registry
+Where the full trial protocol can be accessed, if available
+Sources of funding and other support (eg, supply of drugs), role of funders
+
+CONSORT, Consolidated Standards of Reporting Trials; NA, not applicable.
+*We strongly recommend reading this statement in conjunction with the CONSORT 2010 explanation and elaboration for important clarifications on all the items. If relevant, we
+also recommend reading CONSORT extensions for cluster randomised trials, noninferiority and equivalence trials, nonpharmacological treatments, herbal interventions, and
+
+pragmatic trials. Additional extensions are forthcoming: for those and for up-to-date references relevant to this checklist, see www.consort-statement.org.
+
+SEPTEMBER 2011
+
+Reported on
+page no.
+
+Yes
+P3
+
+P3
+P3
+P10
+NA
+P8, P9
+P8
+P10
+P10
+NA
+Pil
+NA
+NA
+P10
+NA
+P10
+P10
+NA
+Pil
+NA
+Fig 2
+Fig 2
+Fig 1
+Table 1
+Table 2
+Table 2
+
+NA
+Table 2, Fig 5
+
+PIS
+
+P18
+
+P18
+P17
+
+P2
+NA
+P2
+

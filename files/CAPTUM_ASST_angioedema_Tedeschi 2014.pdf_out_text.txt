@@ -1,0 +1,686 @@
+ORIGINAL ARTICLE
+
+Different Rates of Autoreactivity in Patients
+With Recurrent Idiopathic Angioedema
+Associated or Not With Wheals
+
+A Tedeschi,’ R Asero,? M Lorini,’"2 AV Marzano,* M Cugno?
+
+1U.0. Allergologia e Immunologia Clinica, Fondazione IRCCS Ca’ Granda, Ospedale Maggiore Policlinico,
+Milano, Italy
+
+?Ambulatorio di Allergologia, Clinica San Carlo, Paderno Dugnano (Milano), Italy
+
+3Dipartimento di Medicina Interna, Universita degli Studi di Milano, Fondazione IRCCS Ca’ Granda, Ospedale
+Maggiore Policlinico, Milano, Italy
+
+4U.0. Dermatologia, Fondazione IRCCS Ca’ Granda, Ospedale Maggiore Policlinico, Milano, Italy
+
+ 
+
+@ Abstract
+
+Background: The pathophysiology and triggers of idiopathic nonhistaminergic angioedema are unclear. This study aimed to assess
+autoreactivity in recurrent idiopathic angioedema associated or not with wheals.
+
+Methods: The study population comprised 19 patients with recurrent idiopathic nonhistaminergic angioedema without wheals, 38 patients with
+angioedema and chronic urticaria (CU), and 52 patients with CU without angioedema. Twenty healthy individuals served as controls. Autoreactivity
+was evaluated in vivo using the autologous serum skin test (ASST) and in vitro by measuring serum-induced basophil histamine release (BHR).
+Results: ASST results were negative in all patients with idiopathic angioedema without wheals and in healthy controls and positive in 29 of the
+38 patients with angioedema and CU (76.3%) and in 26 of the 52 patients with CU without angioedema (50%) (P<.0001 for both CU groups).
+BHR was negative in the healthy controls and positive in 2 of the 19 patients with idiopathic angioedema without wheals (10.5%), in 18 of
+the 38 patients with angioedema and CU (47.3%) (P<.0001), and in 11 of the 52 patients with CU without angioedema (21.1%) (P<.03).
+Conclusion: The different rates of autoreactivity observed in patients with idiopathic nonhistaminergic angioedema without wheals and in
+patients with CU either with or without angioedema suggest that these disorders have a different pathophysiology. The failure to detect
+circulating vasoactive factors and histamine-releasing autoantibodies explains why H; antihistamines are scarcely effective in most patients
+with idiopathic angioedema without wheals. However, they represent the cornerstone of CU treatment.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key words: Autologous serum skin test. Autoreactivity. Basophil histamine release. Idiopathic angioedema. Chronic urticaria.
+
+ 
+
+ 
+
+™@ Resumen
+
+Antecedentes: Se desconocen la fisiopatologia y los desencadenantes del angioedema idiopatico no histaminérgico. El objetivo de este
+estudio fue evaluar la autorreactividad en el angioedema idiopatico recurrente asociado o no a la presencia de habones.
+
+Métodos: La poblacion en estudio incluy a 19 pacientes con angioedema idiopatico no histaminérgico recurrente sin presencia de habones,
+a 38 pacientes con angioedema y urticaria cronica (UC), y a 52 pacientes con UC sin angioedema. Veinte individuos sanos sirvieron como
+controles. Se evalud la autorreactividad in vivo mediante la prueba cutanea con suero autdlogo (PCSA) e in vitro mediante la determinacion
+de la liberacién de histamina de basofilos (LHB) inducida por suero.
+
+Resultados: Los resultados de la PCSA fueron negativos en todos los pacientes con angioedema idiopatico sin presencia de habones y en los
+controles sanos, y positivos en 29 de los 38 pacientes con angioedema y UC (76,3%) y en 26 de los 52 pacientes con CU sin angioedema
+(50%) (9 <0,0001 para ambos grupos con UC). Los resultados de la LHB fueron negativos en los controles sanos y positivos en 2 de los
+19 pacientes con angioedema idiopatico sin presencia de habones (10,5%), en 18 de los 38 pacientes con angioedema y UC (47,3%)
+(p<0,0001), y en 11 de los 52 pacientes con UC sin angioedema (21,1%) (0 < 0,03).
+
+Conclusion: Los diferentes indices de autorreactividad que se observaron en pacientes con angioedema idiopatico no histaminérgico sin
+presencia de habones y en pacientes con UC con o sin angioedema permiten suponer que estos trastornos tienen una fisiopatologia
+distinta. El hecho de que no se detectaran factores vasoactivos circulantes y autoanticuerpos liberadores de histamina explica por qué
+los antihistaminicos H; resultan apenas eficaces en la mayoria de pacientes con angioedema idiopatico sin presencia de habones y, sin
+embargo, representan la piedra angular del tratamiento de la UC.
+
+ 
+
+ 
+
+Palabras clave: Prueba cutanea con suero autdlogo; autorreactividad; liberacion de histamina de basofilos; angioedema idiopatico;
+urticaria cronica.
+
+ 
+
+ 
+
+ 
+
+J Investig Allergol Clin Immunol 2012; Vol. 22(2): 87-91 © 2012 Esmon Publicidad
+Autoreactivity in Idiopathic Angioedema and Urticaria 88
+
+ 
+
+Introduction
+
+Angioedema is a self-limiting localized swelling that
+involves subcutaneous and submucosal tissues and is
+generally not associated with changes in skin color, burning
+sensation, or itchiness. It is thought to result from a local
+increase in the permeability of subcutaneous and submucosal
+capillaries and postcapillary venules in response to mediators
+such as histamine and bradykinin [1,2]. In most patients,
+angioedema occurs with wheals, is largely histaminergic,
+and responds to antiallergic drugs such as H, antihistamines
+and corticosteroids [3-5]. The most common form is allergic
+angioedema, which is generally due to allergy to food, drugs,
+and insect venom [3]. Immunoglobulin (Ig) E-mediated
+mast cell degranulation with subsequent histamine release is
+considered to underlie the disorder in most cases. However,
+the pathophysiology of recurrent angioedema with urticaria
+may also be linked to an autoimmune process leading to
+mast cell degranulation. Chronic spontaneous urticaria (CU),
+which is associated with angioedema in about 30% of cases,
+is now recognized as an autoimmune disease associated with
+histamine-releasing autoantibodies in a consistent proportion
+of patients [6]. Substantial advances in our understanding of
+the pathogenesis of this disease have been made during the
+last 2 decades, following the observation by Grattan et al [7]
+that intradermal injection of autologous serum (autologous
+serum skin test [ASST]) caused a wheal-and-flare reaction
+in about 50% of CU patients. The main factors inducing skin
+reactivity to autologous serum were subsequently identified
+as autoantibodies directed against the @ subunit of the high
+affinity IgE receptor (FceRI) or against IgE [8,9]. These
+findings led to the interpretation of CU as an autoimmune
+disorder produced by histamine-releasing autoantibodies in
+about 40% of patients. In contrast to angioedema occurring in
+the context of an allergic reaction or CU, the pathophysiology
+of recurrent idiopathic angioedema without urticaria remains
+unclear. Although bradykinin is known to play a major role
+in the pathophysiology of angioedema caused by hereditary
+or acquired Cl-inhibitor deficiency and treatment with
+angiotensin-converting enzyme inhibitors, the mediators
+involved in idiopathic nonhistaminergic angioedema and
+related factors acting as triggers or enhancers of vascular
+permeability remain unclear [2,10,11].
+
+The aim of this study was to assess autoreactivity in patients
+with idiopathic recurrent angioedema associated or not with
+urticaria. Autoreactivity was evaluated in vivo using the ASST
+and in vitro by measuring serum-induced basophil histamine
+release (BHR).
+
+Patients and Methods
+
+The study population comprised 19 patients with recurrent
+idiopathic angioedema without wheals (13 males and 6
+females; median age, 45 [range, 27-78] years), 38 patients
+with angioedema and CU (8 males and 30 females; median
+age, 40.5 [range, 14-76 | years), and 52 patients with CU
+without angioedema (16 males and 36 females; median age,
+
+© 2012 Esmon Publicidad
+
+37.5 [range, 18-81] years), all of whom were evaluated at the
+allergy center of Ospedale Maggiore Policlinico in Milano,
+Italy. Twenty healthy individuals (11 males and 9 females;
+median age, 40.5 [range, 26-65] years) were selected as
+controls. CU was diagnosed on the basis of the recurrence of
+spontaneous wheals for more than 6 weeks. Physical urticaria
+and other possible causes of urticaria (ie, food and drug allergy
+and parasitosis) were ruled out after appropriate investigations.
+Only patients with chronic spontaneous urticaria were selected
+for the study, whereas patients with physical urticaria and
+urticaria vasculitis were excluded.
+
+At the first visit, based on patients’ recent history and
+according to the number of wheals and degree of pruritus
+present, disease activity was estimated following the urticaria
+activity score (UAS), as recommended in the recent guidelines
+of the European Academy of Allergy and Clinical Immunology
+[12]. According to the UAS, urticaria was classified as mild
+(score 1), moderate (score 2), or severe (score 3). All patients
+had active urticaria with or without angioedema at the time
+of the study.
+
+Patients with idiopathic angioedema without wheals
+reported a history of recurrent angioedema involving different
+sites and organs (mostly affecting the face [including lips
+and eyelids], hands, feet, and genital area) that was not
+accompanied by urticaria and was not triggered by identified
+external agents including drugs, foods, or hymenoptera venom.
+None of the patients had a family history of angioedema or was
+taking angiotensin-converting enzyme inhibitors. Functional
+Cl-inhibitor levels, measured using a commercial reagent kit
+(Immuno), and antigenic Cl-inhibitor levels, assayed using
+radial immunodiffusion (Dade Behring), were normal in all
+cases, as were serum levels of the complement fractions C3
+and C4. In all patients, treatment with H; antihistamines at
+the licensed doses had failed to prevent angioedema episodes.
+
+The intradermal ASST was performed with 0.05 mL
+of fresh autologous serum at least 5 days after stopping
+antihistamine therapy (cetirizine, levocetirizine, loratadine,
+desloratadine, or ebastine in all cases) according to the method
+of Sabroe et al [13], with reading of the wheal-and-flare
+reaction at 30 minutes. Intradermal injection of saline solution
+(0.9% wt/vol) was performed as a negative control and skin
+prick test with 10 mg/mL of histamine as a positive control.
+Patients showing a red wheal with a diameter at least 1.5 mm
+greater than that of the control saline solution were considered
+positive. At the time of blood sampling, none of the patients
+had associated chronic inflammatory disorders, hepatitis C,
+ora history of recent acute infectious disease. All participants
+gave their informed consent to undergo ASST and peripheral
+blood collection for in vitro assays.
+
+Basophil Histamine Release Assay
+
+Leukocyte suspensions from healthy blood donors were
+prepared by dextran sedimentation of peripheral venous blood
+anticoagulated with 0.01 M EDTA and mixed with 6% dextran
+in saline solution (Plander 70, Fresenius Kabi Italia) and 30
+mM dextrose (Sigma Chemicals). The cells were allowed to
+settle for 60-90 minutes at room temperature, the leukocyterich plasma was aspirated and centrifuged at 300g for 15
+
+J Investig Allergol Clin Immunol 2012; Vol. 22(2): 87-91
+89 A Tedeschi, et al
+
+ 
+
+minutes at 4°C, and the cell button was washed twice in
+Tyrode buffer (pH, 7.4) containing (mM) 140 NaCl, 5.5
+dextrose, 2.7 KCI, 0.36 NaH:PO,, and 12 NaHCO;. Leukocytes
+(with about 7 x 10* basophils) were resuspended in 100 wL of
+Tyrode buffer with 1.8 mM CaCl, and 0.5 mM MgCl2 and
+incubated with 100 uL of the serum under examination, making
+a final volume of 200 uL. After incubation for 40 minutes at
+37°C, the reaction was stopped by addition of 800 wL of icecold buffer solution and centrifugation at 1000g for 10 minutes
+at 4°C. The supernatants were then aspirated, mixed with an
+equal volume of 6% HCIO, and centrifuged again at 1000g
+for 10 minutes at 4°C. The histamine concentration in the
+supernatants was measured using an automated fluorometric
+method [14]. Spontaneous histamine release was evaluated by
+measuring the histamine concentration in the supernatant o:
+nonstimulated cells incubated for 40 minutes at 37°C. Total
+histamine content was obtained by adding 100 uL of 6%
+HCIO, to 100 wL of cell suspension. Net histamine release
+was calculated as the percentage of total histamine content
+after subtraction of spontaneous release. A 5% release cutof!
+value was used, as previously described [15]. Sera were
+tested with leukocyte suspensions from a normal donor whose
+basophils were previously shown to release 30% of total
+histamine content on challenge with an optimal dose of goat
+polyclonal antihuman IgE (Sigma Chemicals; 10 ug/mL). In
+order to detect the presence of functionally active anti-FceRI
+autoantibodies, basophil histamine release was also evaluated
+after stripping membrane-bound IgE with 10 mmol/L of lactic
+acid (pH, 3.9; incubation for 3.5 minutes at room temperature),
+
+ 
+
+found for sex distribution, namely, a predominance of
+males among patients with idiopathic angioedema without
+wheals (68.4%) and a minority of males among patients
+with angioedema and CU (21%, P=.001) and among patients
+with CU without angioedema (30.7%, P=.018) (Table 1).
+The ASST result was negative in all healthy controls and in
+patients with idiopathic nonhistaminergic angioedema without
+urticaria; conversely, it was positive in 29 out of 38 patients
+with angioedema and CU (76.3%) and in 26 out of 52 patients
+with CU without angioedema (50%). ASST positivity was
+significantly associated with CU with or without angioedema
+in comparison to patients with idiopathic angioedema without
+wheals (P<.0001 for both patient groups, relative risk, 3.22 for
+CU with angioedema and 1.76 for CU without angioedema);
+furthermore, percentage positivity was higher in patients
+with CU and angioedema than in patients with CU without
+angioedema (P=.015). BHR was positive in 2 out of 19 patients
+with idiopathic angioedema without wheals (10.5%), in 18 out
+of 38 patients with angioedema and CU (47.3%) (P<.0001
+vs healthy controls, relative risk 2.0; P=.007 vs angioedema
+patients), and in 11 patients out of 52 with CU without
+angioedema (21.1%) (P<.03 vs healthy controls; relative risk,
+1.48) (Table 2). The results of histamine release are reported
+in the Figure and show a significant difference between the 4
+groups (P=.0001). BHR was positive only after stripping of
+basophil membrane-bound IgE with lactic acid in | patient with
+angioedema without wheals (out of 2 positive), in | patient with
+angioedema and CU (out of 18 positive), and in 3 patients with
+CU without angioedema (out of 11 positive). No correlations
+
+ 
+
+ 
+
+ 
+
+ 
+
+a procedure that allows dissociation of FeeRI-bound IgE were found between BHR and CU severity score in patients
+without damaging basophil
+functional activity [16]. One . .
+assay per serum was performed Table 1. Demographic Characteristics
+to detect histamine-releasin, .
+activity. The histamine aime Patient Category Number Maly Female P Value* | Median Age
+: ‘ atio (Range), y
+assay was carried out using the
+same sera as for ASST. Healthy controls 20 11/9 40.5 (26-65)
+2 oe 5 Angioedema without urticaria 19 13/6 45 (27-78)
+Statistical Analysis Angioedema with chronic
+Results were expressed as urticaria 38 8/30 001 40.5 (14-76)
+median and range. Proportions Chronic urticaria without
+were comparedusing the Fisher angioedema 52 16/36 018 37.5 (18-81)
+
+exact test. Differences between
+patient groups were assessed
+using the Kruskal-Wallis test
+and Dunn test. The correlation
+with the UAS was assessed
+
+Fisher exact test compared to patie
+
+Table 2. Positivity of Autologous Sert
+
+ 
+
+ 
+
+nts with angioedema without urticaria
+
+um Skin Test and Basophil Histamine Release Assay
+
+ 
+
+ 
+
+using the Spearman rank test. Patient Category ASST-Positive,% | P Value’ | BHR-Positive,% P Value*
+P values <.05 were considered
+significant. Healthy controls 0/20 0/20 (0)
+Angioedema without urticaria 0/19 (0) NS 2/19 (10.5) NS
+Angioedema with chronic
+urticaria 29/38 (76.3) <.001 18/38 (47.3) .0001
+Results Chronic urticaria without
+angioedema 26/52 (50) <.001 11/52 (21.1) .03
+
+No differences were found
+between the 3 patient groups
+for median age, whereas a
+significant difference was
+
+ 
+
+J Investig Allergol Clin Immunol 2012; Vol. 22(2): 87-91
+
+Abbreviations: ASST, autologous serum skin test; BHR, basophil histamine release; NS, nonsignificant.
+Fisher exact test compared with healthy controls.
+
+© 2012 Esmon Publicidad
+Autoreactivity in Idiopathic Angioedema and Urticaria 90
+
+ 
+
+with CU and angioedema or in patients
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with CU without angioedema. J am
+50
+P<.05 |
+P<.05 °
+Discussion 40+
+* °
+The results of this study indicate
+that patients with idiopathic angioedema = & 304 °
+without wheals do not react tointradermal é
+injection of autologous serum and donot ° &
+show significant circulating histamine- 204
+releasing activity, unlike patients with = °
+angioedema and CU, who often show °
+autoreactivity. In fact, CU is associated 10+ °
+with the presence of circulating = = |-—-~~-~~~-~~-~-~---- NO Re es
+histamine-releasing factors, as assessed 0 ep =
+by ASST and BHR, independently of i! Tain Travel Tiron Shoah
+é 7 : ealtl ngioedema ronic ronic Urticaria
+the COCMStEne ot angioedema. akin Conttals Without Urticaria Urticaria With Angioedema
+reactivity to intradermal injection of
+Figure. Results of serum-induced basophil histamine release in healthy controls and in patients
+
+autologous serum in about 50% of
+patients with CU was described in 1986
+by Grattan et al [7] and considered
+
+with idiopathic angioedema without urticaria, chronic urticaria without angioedema, and chronic
+urticaria with angioedema. Individual values are reported. Horizontal bars are median values. The
+horizontal dotted line represents the cutoff value.
+
+ 
+
+indicative of circulating vasoactive
+factors that could be relevant to the pathogenesis of the disease.
+In subsequent years, histamine-releasing autoantibodies
+targeting the high-affinity IgE receptor or IgE were identified
+in patients with CU [8,9], and ASST was proposed as a
+screening test for functional autoantibodies in CU patients [13].
+Nowadays, ASST is considered more a test for autoreactivity
+than a specific test for histamine-releasing autoantibodies, as
+it has been shown to have moderate specificity as a marker
+for functional autoantibodies targeting FceRI or IgE, but
+a high negative predictive value (92.8%) for patients with
+or without CU [17]. According to the expert panel of the
+European Academy of Allergology and Clinical Immunology,
+a negative ASST result is a useful surrogate marker of the
+absence of circulating histamine-releasing autoantibodies [17].
+Conversely, BHR has been used as a confirmatory test showing
+the presence of functionally active histamine-releasing
+autoantibodies [18], since a routine in vitro assay able to detect
+circulating and functionally active anti-FceRIo and/or antiIgE autoantibodies is still lacking. Negative ASST results in
+patients with idiopathic angioedema without wheals enable us
+to rule out the presence of histamine-releasing autoantibodies
+in the vast majority of patients. In fact, we were able to detect
+weak serum histamine-releasing activity just above the cutoff
+value in 2 out of 19 patients with idiopathic angioedema
+without wheals, indicating that small amounts of histaminereleasing autoantibodies may occasionally be present in
+this group. In one patient, histamine-releasing activity was
+detected using basophils bearing membrane IgE, indicating
+the presence of anti-IgE autoantibodies, whereas in the other
+patient, histamine release was observed only after stripping
+basophil-bound IgE, thus suggesting the presence of anti-FceRI
+autoantibodies. Consistent with previous observations, patients
+with CU either with or without angioedema showed frequent
+autoreactivity, since ASST was positive in 76.3% and 50%
+of cases, respectively, suggesting the presence of circulating
+
+ 
+
+ 
+
+© 2012 Esmon Publicidad
+
+vasoactive factors and/or histamine-releasing autoantibodies in
+at least half of the patients [7,17]. It is interesting to note that
+the percentage of positive ASST results was higher in patients
+with CU and angioedema than in patients with CU without
+angioedema, thus confirming the observation by Nettis et al
+[19], who noted that CU patients with angioedema were more
+frequently ASST-positive than those without angioedema.
+Accordingly, patients with a positive basophil activation test
+result showed a higher prevalence of other autoantibodies and
+more severe urticaria and were more likely to have angioedema
+[20]. However, this has not been a consistent finding in other
+studies [21,22]. A significant difference between the 3 patient
+groups was also found for BHR: patients with angioedema
+and CU had the strongest serum histamine-releasing activity.
+Therefore, the overall impression is that autoreactivity is more
+common and stronger in patients with angioedema and CU
+than in patients with CU without angioedema. It is noteworthy
+that the percentage of positive BHR results was lower than
+the percentage of positive ASST results in both CU groups,
+indicating lower sensitivity for the former than for the latter,
+as found in a previous study by our group [15] and confirmed
+by Platzer et al [23]. This finding may be explained, at least in
+part, by the characteristics of the basophils used in the assay,
+such as releasability, density of membrane IgE, and availability
+of free FceRI receptors; in fact, percentage positivity increases
+if basophils from different donors or human mast cells are
+used [24].
+
+In conclusion, negative ASST findings demonstrate
+the lack of circulating vasoactive factors and histaminereleasing autoantibodies in most patients with idiopathic
+nonhistaminergic angioedema without wheals, in contrast
+to patients with CU either with or without angioedema.
+Furthermore, the predominance of males among patients with
+idiopathic nonhistaminergic angioedema does not support an
+autoimmune origin for this disorder, whereas the predominance
+
+J Investig Allergol Clin Immunol 2012; Vol. 22(2): 87-91
+91
+
+A Tedeschi, et al
+
+ 
+
+of women among patients with CU is consistent with the
+known predilection of autoimmune disorders in females
+[25]. The different rates of autoreactivity, as assessed by
+ASST and BHR, provide an explanation for the different
+efficacy of H; antihistamines. In fact, H; antihistamines are
+scarcely effective in most patients with idiopathic angioedema
+without wheals, whereas they represent the cornerstone of CU
+treatment. Assessment of autoreactivity by ASST, BHR, or
+both may help to predict the response to H, antihistamines in
+patients presenting with recurrent angioedema.
+
+References
+
+ 
+
+1.
+
+2:
+
+. Bas M, Adams V, Suvorava T, Niehues
+
+Kaplan AP, Greaves MW. Angioedema. J Am Acad Dermatol.
+2005;53:373-88.
+Nussberger J, Cugno M, Amstutz C, Cicardi M, Pellacani A,
+Agostoni A. Plasma bradykinin in angio-oedema. Lancet.
+1998;351:1693-7.
+
+. Kulthanan K, Jiamton S, Boochangkool K, Jongjarearnprasert K.
+
+Angioedema: clinical and etiological aspects. Clin Dev Immunol.
+2007;2007:26438.
+
+. Zingale LC, Beltrami L, Zanichelli A, Maggioni L, Pappalardo
+
+E, Cicardi B, Cicardi M. Angioedema without urticaria: a large
+clinical survey. CMAJ. 2006;175:1065-70.
+
+. Grattan C, Powell S, Humphreys F. Management and diagnostic
+
+guideline for urticaria and angio-oedema. Br J Dermatol.
+2001; 144:708-14.
+
+. Kaplan AP, Greaves M. Pathogenesis of chronic urticaria. Clin
+
+Exp Allergy. 2009;39:777-87.
+
+. Grattan CE, Wallington TB, Warin RP, Kennedy CT, Bradfield
+
+JW. A serological mediator in chronic idiopathic urticaria —
+a clinical, immunological and histological evaluation. Br J
+Dermatol. 1986; 114:583-90.
+
+ 
+
+ 
+
+. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of
+
+circulating histamine releasing autoantibodies with functional
+properties of anti-lgE in chronic urticaria. Clin Exp Allergy.
+991;21:695-704.
+Hide M, Francis DM, Grattan CEH, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med.
+993;328:1599-604.
+
+ 
+
+ 
+
+ 
+
+, Hoffmann TK, Koida
+G. Nonallergic angioedema: role of bradykinin. Allergy.
+
+2007;62:842-56.
+
+. Cugno M, Nussberger J, Cicardi M, Agostoni A. Bradykinin and
+
+ 
+
+the pathophysiology of angioedema. Int Immunopharmacol.
+2003;3:311-7
+
+. Zuberbier T, ASErS R, Bindslev-Jensen C, Canonica GW, Church
+
+MK, Giménez-Arnau A, Grattan CE, Kapp A, Merk HF Rogala B,
+Saini S, Sanchez-Borges M, Schmid-Grendelmeier P, Schliemann
+H, Staubach P Vena GA, Wedi B, Maurer M. Dermatology
+Section of the European Academy of Allergology and Clinical
+Immunology; Global Allergy and Asthma European Network;
+European Dermatology Forum; World Allergy Organization.
+EAACI/GA2LEN, EDF, WAO guideline: definition, classification,
+and diagnosis of urticaria. Allergy. 2009;64:1417-26.
+
+ 
+
+ 
+
+. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza-Black A,
+
+Greaves MW. The autologous serum skin test: a screening test
+
+J Investig Allergol Clin Immunol 2012; Vol. 22(2): 87-91
+
+ 
+
+20.
+
+22.
+
+23.
+
+24.
+
+25.
+
+for autoantibodies in chronic idiopathic urticaria. Br J Dermatol.
+1999; 140:446-52.
+
+. Ruff F Saindelle A, Dutripon E, Parrot JL. Continuous automatic
+
+fluorometric evaluation of total blood histamine. Nature.
+
+1967;214:279-81.
+
+. AseroR, TedeschiA, Lorini M, Salimbeni R, Zanoletti T, Miadonna
+
+A. Chronic urticaria: novel clinical and serological aspects. Clin
+Exp Allergy. 2001;31:1105-10.
+
+. Pruzansky JJ, Grammer LC, Patterson R, Roberts M. Dissociation
+
+of IgE from receptors on human basophils. |. Enhanced passive
+sensitization for histamine release. J Immunol. 1983;131:1949-53.
+
+ 
+
+. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid
+Grendelmeier P, Grattan CEH. EAACI/GA2LEN task force
+consensus report: the autologous serum skin test in urticaria.
+lergy. 2009;64:1256-68.
+
+ 
+
+>
+
+. Tong U, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP.
+
+Assessment of autoimmunity in patients with chronic urticaria.
+Allergy Clin Immunol. 1997;99:461-5.
+Nettis E, Dambra P, D’Oronzio L, Cavallo E, Loria MP, Fanelli
+, Ferrannini A, Tursi A. Reactivity to autologous serum skin
+test and clinical features in chronic idiopathic urticaria. Clin Exp
+Dermatol. 2002;27:29-31.
+De Swerdt A, Van Den Keybus C, Kasran A, Cadot P, Neyens K,
+Coorevits L, Kochuyt AM, Degreef H, Ceuppens JL. Detection
+of basophil activating IgG autoantibodies in chronic idiopathic
+urticaria by induction of CD63. J Allergy Clin Immunol.
+2005;116:662-7.
+
+ 
+
+ 
+
+. Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves
+
+ 
+
+W. Chronic idiopathic urticaria: comparison of the clinical
+features of patients with and without anti-FcepsilonRI or antiIgE autoantibodies. J Am Acad Dermatol. 1999;40:443-50.
+Kulthanan K, Jiamton S, Gorvanich T, Pinkaew S. Autologous
+serum skin test in chronic idiopathic urticaria: prevalence,
+correlation and clinical implications. Asian Pac J Allergy
+Immunol. 2006;24:201-6.
+
+Platzer MH, Grattan CE, Poulsen LK, Skov PS. Validation of
+basophil histamine release against the autologous serum skin
+test and outcome of serum-induced basophil histamine release:
+studies in a large population of chronic urticaria patients.
+Allergy. 2005;60:1152-6.
+
+Asero R, Lorini M, Chong SU, Zuberbier T, Tedeschi A. Assessment
+of histamine-releasing activity of sera from patients with chronic
+urticaria showing positive autologous skin test on human
+basophils and mast cells. Clin Exp Allergy. 2004;34:1111-4.
+Asero R. Sex differences in the pathogenesis of chronic urticaria.
+J Allergy Clin Immunol. 2003;111:425-6.
+
+ 
+
+ll Manuscript received July 18, 2011; accepted for
+publication September 14, 2011.
+
+i DrA Tedeschi
+
+U.O. Allergologia e Immunologia Clinica
+Fondazione IRCCS Ca’ Granda
+
+Ospedale Maggiore Policlinico
+
+Via Pace, 9
+
+20122 Milano, Italy
+
+© 2012 Esmon Publicidad
+

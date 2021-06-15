@@ -1,0 +1,1205 @@
+Original articles
+
+ 
+
+Basophil FceRI histamine release parallels
+expression of Src-homology 2-containing
+inositol phosphatases in chronic
+
+idiopathic urticaria
+
+Becky M. Vonakis, PhD, Kavitha Vasagar, MS, Scott P. Gibbons, Jr, BS, Laura Gober,
+MD, Patricia M. Sterba, BS, Hyeyoun Chang, BS, and Sarbjit S. Saini, MD Baltimore, Md
+
+Background: Basophils are implicated in the pathogenesis of
+chronic idiopathic urticaria (CIU). Autoantibodies to the IgE
+receptor (FceRI) and serum histamine releasing activity have
+been detected in some subjects with CIU, although their role
+
+in vivo is unclear. Basophils of patients with CIU have altered
+FceRI-mediated histamine release (HR); however, the mechanism
+is unknown. In the basophil FceRI signaling pathway, protein
+levels of Sre-homology 2-containing—S' -inositol phosphatase
+(SHIP)-1 are inversely correlated with the release of mediators or
+releasability. A related phosphatase, SHIP-2, is a negative
+regulator of monocyte IgG receptor (FeyR) signaling . We
+hypothesized that SHIP levels are altered in CIU basophils.
+Methods: Blood basophils were isolated from cold urticaria,
+CIU, or normal donors, and FceRI-dependent and independent
+HR were quantified. Protein levels of SHIP-1, SHIP-2, spleen
+tyrosine kinase, and phosphorylated Akt were determined by
+Western blotting. Subjects’ serum was tested for serum
+histamine releasing activity and anti-FceRIa antibodies.
+Results: CIU basophils displayed a bimodal response to
+anti-IgE activation. One half of CIU subjects’ basophils had
+reductions in anti-IgE—induced HR and were designated
+nonresponders (CIU NR). CIU NR basophil HR remained
+diminished at 10-fold to 30-fold higher doses of anti-IgE. CIU
+anti-IgE responder basophils had HR similar to normal
+subjects. SHIP-1 and SHIP-2 proteins were increased in CIU
+NR basophils and were linked to reduced phosphoAkt after
+anti-IgE stimulation. CIU basophil anti-IgE response was not
+related to the presence of serologic factors.
+
+Conclusion: In CIU basophils, the observed changes in FceRIT
+signaling pathway molecule expression may underlie changes
+in releasability.
+
+From the Department of Medicine, Division of Allergy and Clinical Immunology,
+Johns Hopkins University School of Medicine.
+
+Supported in part by National Institutes of Health grants AI49288 (to B. M. V.)
+and AI01564 (to S. S. S.) and the American Academy of Allergy, Asthma
+and Immunology Mechanisms of Asthma and Allergic Inflammation Interest Section Award.
+
+Disclosure of potential conflict of interest: The authors have declared that they
+have no conflict of interest.
+
+Received for publication February 14, 2006; revised August 31, 2006; accepted
+for publication September 26, 2006.
+
+Available online November 29, 2006.
+
+Reprint requests: Sarbjit S. Saini, MD, Johns Hopkins Asthma and Allergy
+Center, 5501 Hopkins Bayview Circle, Baltimore, MD 21224. E-mail:
+ssaini@jhmi.edu.
+
+0091-6749/$32.00
+
+© 2007 American Academy of Allergy, Asthma & Immunology
+
+doi:10.1016/j,jaci.2006.09.035
+
+Clinical implications: Patients with CIU can be segregated on
+the basis of basophil functional phenotype. (J Allergy Clin
+Immunol 2007;119:441-8.)
+
+Key words: Basophils, SHIP-1, SHIP-2, CIU, FceRI
+
+Urticaria is a common disorder affecting as much as
+25% of the US population.! Acute urticarial eruptions can
+be triggered by allergic reactions to medications, food, and
+insect stings or in the setting of viral infections. In chronic
+urticaria, defined as recurrent episodes of urticaria for longer than 6 weeks, a minority of cases (~20%) are triggered
+by physical stimuli such as exposure to cold, heat, pressure, vibration, or specific wavelengths of light.'! However, the majority of chronic urticaria cases lack an
+identifiable trigger and are labeled chronic idiopathic urticaria (CIU).
+
+In the last decade, several groups have described circulating autoantibodies to IgE or the « subunit of the highaffinity IgE receptor (FceRIa) in subjects with CIU. Other
+studies have shown the ability of certain CIU subjects’ sera
+to induce histamine releasing activity (HRA) from normal
+basophils.’ Although the presence of either serum factor
+(HRA or autoantibodies) has been used to classify subjects
+with CIU as autoimmune, a poor correlation has been shown
+between the presence of serum HRA and FceRIa antibodies
+in the same individual.* The dual presence of anti-FceRIa
+autoantibodies and serum HRA has been linked to CIU
+disease severity.* However, the expression of anti-FceRIa
+antibodies in other skin diseases” and healthy subjects® has
+left their role in CIU pathogenesis unclear. Furthermore,
+because only 40% of subjects with CIU have a detectable
+serologic factor, the mechanism underlying the majority of
+CIU disease cases is unknown.
+
+Basopenia in CIU has been described for decades,’ and
+recently, basopenia has been correlated with disease activity and the presence of serum HRA.*” A possible explanation for basopenia is the recruitment of blood basophils to
+skin tissues. Skin biopsies of both lesional and nonlesional
+skin from subjects with CIU show basophils, and at similar frequency in subjects with or without HRA.'°!*
+Functionally, basophils from subjects with CIU have reduced anti-IgE—induced histamine release (HR) compared
+with nonatopic subjects, but not in response to other
+
+441
+
+ 
+
+ 
+
+>
+Soe,
+x2
+a)
+~
+
+£2
+a.
+
+oo
+=
+
+ce
+55
+D>
+5
+= 2
+ot
+35
+gE
+“oOo
+=}
+
+ 
+e
+il
+30
+a2
+Qa
+ga
+ge
+<a
+ax
+ag
+a
+23
+as
+af
+Sa
+ae
+<
+
+ 
+
+442 Vonakis et al
+
+ 
+
+Abbreviations used
+CIU: Chronic idiopathic urticaria
+CIU NR: Anti-IgE nonresponders
+CIU R: Anti-IgE responders
+FMLP: N-formyl-met-leu-phe
+HR: Histamine release
+HRA: Histamine releasing activity
+HrHRF: Human recombinant histamine
+releasing factor
+HRP: Horseradish peroxidase
+PIP3: Phosphatidylinositol-3, 4, 5 trisphosphate
+SHIP: Src-homology 2-containing—S’-inositol
+phosphatase
+
+ 
+
+ 
+
+degranulation stimuli such as calcium-ionophore.'* Other
+work suggests that subjects with CIU with serum HRA
+have the greatest reduction in basophil anti-IgE induced
+HR.” Of note, CIU basophils have increased anti-IgE
+induced histamine release in parallel with reduced urticarial symptoms, suggesting that the defect in basophil HR
+via the FceRI pathway appears to correlate with the active
+phase of the disease.
+
+Although altered histamine secretion by basophils is
+observed in CIU, an analysis of the changes in signaling
+molecules in the FceRI pathway that accompany cellular
+activation or releasability has not been reported. A novel
+Src-homology 2-containing—5’-inositol phosphatase
+(SHIP)-1 has been gaining prominence as a gatekeeper
+of the IgE mediated response and as a negative regulator
+of hemopoietic cell activation, survival, and proliferation.'*'5 SHIP-1 is a hematopoietic signaling molecule
+with multiple forms (145, 135, 125, 110 kd) that hydrolyzes phosphatidylinositol-3, 4, 5 trisphosphate (PIP3),
+thereby limiting a crucial step between the release of calcium from intracellular stores and the influx of extracellular calcium. Mast cells of SHIP-1 knockout mice
+more readily degranulate after IgE receptor activation or
+even IgE sensitization alone. Similarly, in hyperreleasable
+human basophils, a reduction in SHIP-1 protein levels is associated with heightened response to human recombinant
+histamine releasing factor (HrHRF).'°'’ The phosphatase
+activity of SHIP-1 does not change after cytokine stimulation.'* Furthermore, anti-IgE stimulation does not change
+basophil SHIP-1 protein expression.'? However, TGF-B
+has been shown to regulate SHIP-1 expression and is involved in apoptosis in human lymphocytes and endotoxin
+tolerance in bone marrow-derived mast cells and macrophages.?°?! A related molecule, SHIP-2, also hydrolyzes
+PIP; and in human monocytes is a negative regulator of
+IgG receptor (FeyR) signaling.?*>
+
+In this study, we have investigated the protein expression of SHIP-1 and SHIP-2 and histamine release in the
+basophils of subjects with chronic urticaria. We report for
+the first time that 2 distinct basophil anti-IgE mediated
+functional profiles exist in subjects with active CIU,
+responders and nonresponders. We further report that
+levels of these negative regulators are altered in the
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+TABLE I. Study subject characteristics
+
+ 
+
+Average age (y),
+
+Disease category mean (+ SD) N Male/female
+Cold 49.9 (+ 28.4) 5 0/5
+CIU, NR 41.7 (+ 8.0) 20 S/S
+CIU, R 42.3 (+ 6.9) 20 TAZ
+Normals 37.6 (+ 12.0) 26 10/16
+
+ 
+
+basophils of subjects with CIU and reflect the functional
+profiles observed with FceRI mediator release. We have
+also found that altered CIU basophil function is not clearly
+related to the presence of serologic factors such as HRA
+and/or FceRIa autoantibodies.
+
+METHODS
+Study subjects
+
+Adult volunteers (with and without allergy) and those with either
+CIU or cold urticaria were recruited from the Johns Hopkins Asthma
+and Allergy Center. Subjects underwent venipuncture after informed
+consent via a protocol approved by the Western Institutional Review
+Board or Johns Hopkins Hospital Institutional Review Board.
+Subjects with allergy were characterized by positive skin tests and
+a history of allergic rhinitis or asthma, whereas subjects without
+allergy lacked these features. Characteristics of study subjects are
+shown in Table I. Additional details of subjects with CIU and their
+active medications are in listed in this article’s Table El in the
+Online Repository at www.jacionline.org. Subjects were excluded
+if they had received a course of systemic steroids in the month before
+venipuncture. All subjects with chronic urticaria reported active
+disease at the time of the blood sample collection, or in the case of
+cold urticaria, had a positive ice cube test.
+
+Basophil isolation
+
+Venous blood samples for basophil studies were drawn into
+syringes containing 5 mmol/L EDTA, and a separate tube was collected for serum assays. For HR assays, the blood was subjected to
+dextran sedimentation to obtain mixed leukocytes with an average
+basophil purity <1%.7* For Westem blotting studies, enriched basophils were obtained by density-gradient sedimentation with Percoll
+using Accuspin separation tubes (Sigma-Aldrich, St Louis, Mo),?°
+and then further purified by negative selection with a basophil separation kit (Stem Cell Technologies, Vancouver, British Columbia,
+Canada; purity >95%) as described.'’ Basophils were counted using
+Alcian blue staining.”°
+
+Basophil histamine release
+
+Assays were performed in standard buffers containing calcium at
+37°C for 45 minutes. Mixed blood leukocytes isolated by dextran
+sedimentation were stimulated for histamine release by polyclonal
+goat antihuman IgE (0.01-3 g/mL), N-formyl-met-leu-phe (FMLP;
+1 pmol/L), ionomycin (5 mol/L), or HrHRF (17.6 mol/L; gift of
+Dr Susan MacDonald, Johns Hopkins)'® for 45 minutes at 37°C.
+Histamine was quantified in cell-free supernatants using an automated fluorometric assay.?’ Results are shown as the percentage
+of total histamine content present in total cell lysates of leukocyte aliquots after subtracting spontaneous release. To calculate the percent
+maximal histamine release from a donor’s basophil anti-IgE mediated
+histamine release curve, the dose at which maximal release occurred
+is assigned a value of 100% and all other histamine release values are
+referenced to this maximal point.
+J ALLERGY CLIN IMMUNOL Vonakis et al 443
+VOLUME 119, NUMBER 2
+
+ 
+
+ 
+
+A 25 1 Normals (n=26)
+m Clu (n=40)
+2 20
+3
+3 15
+a
+.
+3
+§ 10
+€
+z
+5
+D —i . I =
+
+ 
+
+0-9 10-19 20-29 30-39 40-100
+% Histamine Release to Anti-IgE
+
+60
+OHrHRF (17.6 umol/L)
+Bi anti-Ig€ (0.1 p9/mL)
+50 DI FMLP (1 umol/L)
+
+**
+
+% Histamine Release
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+20
+nes
+10
+n=6
+a *
+om
+Cold (n=5) CIU-R(n=20) —CIU-NR(n=20) Normals (n=26)
+2 —O- Normals (n=17)
+@- CIU-R (n=18)
+—t#— CIU-NR (n=14)
+Pi I
+s
+2 eee
+gz 30 “7 x
+> cool \
+g \
+5 i
+ie Lb |
+= ~~ A Normals, n=14
+CIU-R, n=10
+F 0 n
+CIU-NR, n=8
+° Fad
+0.01 g/mL 0.1 ug/L. 1 yg/mt 3 ua/mL é D
+Anti-IgE Dose x2
+D ae
+>o
+100 —O— Normals (n=17) = FA
+—g— CIU-R (n=18) Qa
+3 A —te— CIU-NR (n=14) oo
+2 cu
+5 oc
+4 ~ os
+2 ~
+z D>
+— 60 5
+g 20
+3
+2 So
+Ay
+qe © a i}
+°
+— 0 &
+Fe Pa
+$ 5
+= 20 3
+&
+io)
+
+ 
+
+0.01 Ha/mL 0.1 ya/mL 1 pa/mt
+
+FIG 1. A, Subjects with CIU have a bimodal distribution of basophil HR to an optimal dose of anti-IgE (0.1 .g/
+mL) compared with normal subjects. B, CIU NR had significant reductions in basophil anti-IgE dependent release compared with normal, CIU R, and cold urticaria subjects (*P < .00001). FMLP-induced release differed
+significantly only between CIU NR and CIU R (**P < .001). HrHRF response was tested in a smaller subset of
+donors (as indicated) and was not significantly different between subjects with CIU and normal subjects.
+C, Basophil HR was examined across a range of anti-lgE doses in normal donors and donors with CIU
+(*P < .0002 CIU NR vs normal subjects and CIU R). D, HR is presented as a percent of the maximal response
+achieved (see Methods).
+e
+il
+30
+a2
+Qa
+ga
+ge
+<a
+ax
+ag
+a
+23
+as
+af
+Sa
+ae
+<
+
+ 
+
+444 Vonakis et al
+
+Western blotting for SHIP-1, SHIP-2,
+Syk, and phosphorylated Akt (phosphoAkt)
+
+Basophil whole cell lysates (>95% purity, generally 5 X 10° cell
+equivalents) whole cell lysates were separated by SDS-PAGE gel
+electrophoresis and transferred to nitrocellulose for the immunoblotting of the indicated proteins. All gels included 2 doses of a standard
+lysate of human T cells to allow comparisons of band intensity across
+gels within a previously determined linear range of antibody staining.'” Immunoblotting was performed sequentially with the following antibodies: SHIP-1 (N1, rabbit), SHIP-2 (120, goat), and spleen
+tyrosine kinase (Syk) (4D10, mouse) (Santa Cruz Biotechnology,
+Santa Cruz, Calif). Membranes were stripped between each immunoblot with a stripping buffer (69 mmol/L SDS, 62 mmol/L Trizma
+base, pH 6.7, 0.7% B-mercaptoethanol). For phosphoAkt studies, purified basophils were stimulated up to 30 minutes with anti-IgE (0.10.3 g/mL) before lysis for Western blotting. Immunoblotting was
+performed sequentially with an antiphosphoAkt-Ser473 (Cell Signaling Technology, Danvers, Mass) followed by extracellular signalrelated kinase (ERK) (Santa Cruz Biotechnology) to normalize
+phophoAkt as described.”* The detection of specific proteins was performed with the appropriate secondary antibody coupled to horseradish peroxidase (HRP; GE Healthcare Biosciences, Piscataway, NJ) and
+chemiluminescence (Supersignal, Pierce) film radiography. Digital images of detected protein bands were quantified using Kodak digital software (Kodak, New Haven, Conn). We have previously demonstrated
+the ability to detect statistically significant 2-fold changes in protein
+expression with this approach?”
+
+Serum HRA
+
+In preliminary studies, a panel of basophil donors (with and
+without allergy; n = 9) were screened for robust release to anti-IgE
+and CIU sera.*! A single allergic donor was selected whose basophils
+were then activated by dilutions of the CIU or normal subjects’ sera
+(50%, 25%, 5%) as well as anti-IgE (0.1 g/mL; mean 43%; n = 7)
+and FMLP (mean 28%; n = 7) as positive controls. Histamine content
+was quantified in cell-free supernatants as noted.
+
+Serum immunoreactivity for FceRla
+
+Diluted subjects’ sera (1:250) were used to immunoblot a standard
+lysate of rat basophilic leukemia (RBL)-SX38 cells transfected with
+human FceRIa as described.”** RBL-SX38 cell lysates were separated by SDS-PAGE gel electrophoresis and transferred to polyvinylidene difluoride (PVDF) membranes. Membranes were next
+immunoblotted with each individual serum, followed by use of a secondary antihuman IgG-HRP (Amersham-Pharmacia, Piscataway, NJ)
+to detect the presence of the anti-FceRIa IgG protein. As a positive control, a single lane of each gel was immunoblotted with a commercial
+antibody against FceRIa (polyclonal rabbit antihuman FceRIa subunit;
+Upstate Biotechnology, Lake Placid, NY), followed by antirabbit HRP
+(Amersham-Pharmacia) to allow comparisons of relative band intensity
+between gels.”°** Analysis of band density was conducted using the
+Quantity One (Bio-Rad, Hercules, Calif) imaging system. Using this
+software, a 3-dimensional model of each band was generated. The
+volume of each band was calculated and adjusted for local background. Positive serum immunoreactivity was based on 2 criteria:
+an adjusted volume greater than | unit and an adjusted volume greater
+than 10% of the respective gel positive control.**
+
+Statistical design
+
+The statistical analysis used the STAT VIEW 5 package for Macintosh (SAS, Cary, NC). The Student ¢ test was used for normally distributed data such as basophil HR response, whereas nonparametric analysis
+was used for protein expression (ie, SHIP-1 and SHIP-2). A p value less
+than .05 was considered significant. All error bars represent SEMs.
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+RESULTS
+Basophil functional response
+
+Basophil functional responses to both FeeRI-dependent
+(anti-IgE) and independent (FMLP, ionomycin and
+recombinant [r]HrHRF) stimuli were examined. Surprisingly, CIU basophils appeared to have a bimodal distribution of basophil HR response to an optimal dose of
+polyclonal anti-IgE (0.1 g/mL) compared with normal
+donors (Fig 1, A). Twenty of 40 subjects with CIU examined had significant reductions in their basophil anti-[gE—
+induced HR (<10% HR) and were designated anti-IgE
+nonresponders (CIU NR), whereas the remaining CIU
+subjects had an intact basophil anti-IgE induced response
+and were designated anti-IgE responders (CIU R). CIU
+NR subjects had significant reductions in their average
+basophil IgE dependent release (mean = 3%) compared
+with normal subjects (mean = 37%; P < .00001), CIU
+R (mean = 42%; P < .00001), and subjects with a physical
+urticaria (cold-induced; mean = 37%; P < .00001). CIU
+NR and CIU R basophils also significantly differed in their
+FMLP response (mean = 18% vs 39%; P < .002; Fig 1,
+B). Although an overall reduction in anti-lgE mediated
+response by basophils of subjects with CIU has been reported,”"'* the presence of a CIU subgroup with normal
+basophil anti-IgE response is novel. Further, all chronic
+urticaria subtypes failed to show significant release
+(>10% of total histamine content) to HrHRF, indicating
+they are not hyperreleasable basophils.'’ Of note, no clear
+pattern of clinical treatments (see this article’s Table E1 in
+the Online Repository at www.jacionline.org) was related
+to CIU functional subtype, and functional phenotype was
+confirmed in a subset of subjects off all treatments (n = 8,
+3 CIU NR and 5 CIU R). To investigate the stability of basophil functional categorization of subjects with CIU, we
+repeatedly sampled 16 active CIU subjects’ basophils (10
+CIU NR and 6 CIU R). We found persistence of the original basophil functional category for as long as 38 months
+among CIU NR subjects (range, 1-38 months) and for as
+long as 58 months in CIU R subjects (range, 4-52 months)
+from the time of initial sample.
+
+On the basis of the results of stimulation of CIU
+basophils with an optimal dose of anti-IgE, we expanded
+our studies to include a full range of anti-IgE doses (0.01-3
+pg/mL). CIU NR basophil HR averaged <12% at all antiIgE doses tested (Fig 1, C). We found that a ~10-fold
+higher dose of anti-IgE is necessary for CIU NR basophils
+to achieve maximal HR (see Methods and Fig 1, D). In
+a small subset of CIU NR donors, calcium-ionophore—
+induced HR is normal (>60%; n = 3), supporting the
+idea that the HR defect is specific to the FceRI pathway.
+Likewise, an earlier study has demonstrated that calciumionophore-induced HR is not altered in CIU basophils.'>
+
+ 
+
+Basophil expression of Syk, SHIP-1, SHIP-2,
+and phosphoAkt
+
+Among the possible explanations for the reduction in
+basophil FceRI degranulation response in CIU NR subjects is the nonreleaser phenotype present in approximately
+J ALLERGY CLIN IMMUNOL
+VOLUME 119, NUMBER 2
+
+CIU CIU Std
+
+A ponor:
+
+BLOT
+Syk
+
+SHIP-1
+SHIP-2
+Cells (XK 109: 200 076 
+B 100
+
+ 
+
+[syk),,
+
+Cold cIUR CIULNR
+(n=S) (n=6) (n=6)
+
+a
+
+160
+140
+120
+100
+80 *
+60
+40
+20
+
+(SHIP-1],,,
+
+Cold CUR = CIU-NR Normal
+(neS) (n=6)  (ne6) (n=7)
+
+Vonakis et al 445
+
+CIU CIU Std. Nor Std
+
+ 
+
+ 
+
+Normal
+(n=7)
+
+600
+.
+
+Cold CIR CIU-NR_ Normal
+(n=5) (n=6) (n=6) (n=?)
+
+FIG 2. Expression of Syk, SHIP-1, and SHIP-2 protein in basophils from donors with CIU, donors with cold
+urticaria, and normal (Nor) donors. A, Representative immunoblots shows a Nor, 2 CIU R, and 2 CIU NR donors. The scanned values were normalized to the T-cell standard lysate (Std) and corrected for cell equivalents
+(bottom). The upper panel demonstrates the expected 72-kd band of Syk, and the middle panel the expected
+band of 145 kd for SHIP-1, whereas the /ower panel reveals the expected 155-kd SHIP-2 protein band. B, Mean
+values of Syk protein expression were not different among donor types. C, Mean normalized values for
+expression of SHIP-1 and SHIP-2 protein. SHIP-1 expression is reduced in cold urticaria and CIU R (*P < .05
+vs normal; #P < .05 vs CIU NR). SHIP-2 expression is increased in CIU NR compared with normal subjects
+(*P < 0.05) and CIU R (#P < .03). Error bars represent SEMs.
+
+5% to 10% of the population. In this condition, a protein
+deficiency of the tyrosine kinase Syk, a critical early
+signaling molecule in receptor signaling, has been correlated with histamine release of <10% after optimal antiIgE stimulation.**°° We examined the levels of this
+tyrosine kinase in the purified basophil lysates of CIU
+and normal subjects by Western blotting (Fig 2, A). No
+significant differences in average Syk protein levels were
+noted among chronic urticaria subtypes and in particular
+by basophils of CIU NR (Fig 2, B). A deficiency of Syk
+was noted in each category (1 CIU R, 3 CIU NR, 1 cold
+urticaria, and 1 normal).*° Thus, the nonreleaser condition
+did not explain the functional shift present in basophils of
+CIU NR.
+
+We next explored the expression of a known, SHIP-1,
+and a putative, SHIP-2, negative regulator of basophil IgE
+receptor activation. Both SHIP-1 (145 kd) and SHIP-2
+(155 kd) proteins were found in the basophils of both
+subjects with CIU and normal subjects (Fig 2, A). Using
+the standard T-cell lysate for normalization, basophils of
+CIU NR (363 + 139 relative units; n = 6) have increased
+expression of the phosphatase SHIP-2, relative to normal
+subjects (166 + 53; n = 7; P < .05) and CIU R (70 = 14;
+n = 6; P < .03; Fig 2, C). In contrast, CIU R subjects and
+subjects with cold urticaria have decreased SHIP-1 levels
+(32 + 8;n = 6; P < .05; and 43 + 17;n =5; P< .05, respectively) compared with normal subjects (74 + 18;n =
+7). Further, CIU R SHIP-1 levels were also significantly
+
+~
+Soe,
+x2
+So
+~
+
+=e
+a
+
+oo
+=
+
+ce
+Bs
+5
+= 2
+iG)
+3
+
+ge
+als
+“oOo
+3
+
+ 
+nn
+°
+)
+a
+&
+a
+s
+ro}
+<
+a
+3
+a
+I
+~
+>
+a
+a.
+_
+
+ 
+
+a
+o
+5
+E|
+a
+a
+oF
+o
+
+Ce)
+
+<
+a
+Fi
+a
+a
+3
+C
+
+a
+=
+ay
+s
+
+a
+
+<
+
+446 Vonakis et al
+
+ 
+
+ 
+
+A
+Stimulation i) 5 3 3 30 0 3
+Time(min)
+AntilgE it) ol Ol 03 03 it) Ol
+(ug/ml) .
+* ie
+B normal
+g 18
+2 us n> Normal
+2 © CIUNR
+5 12
+4 & CIUR
+x 09
+z
+& 06
+p O3
+ij
+< 00
+° 5 10 as 20 2s 30
+
+Stimulation Time (min)
+
+J ALLERGY CLIN IMMUNOL
+
+FEBRUARY 2007
+30 5 30 tt) 4 30 5 30
+O1 03 tt) Ol ol 03 03
+
+~ aan 4. | ans
+
+   
+
+a eats |
+ot
+
+ 
+ 
+
+° 5 10 as 20 2s 30
+Stimulation Time (min)
+
+FIG 3. Expression of phosphoAkt in basophils from CIU NR, CIU R, and a normal donor. A, Basophil lysates
+were examined at the indicated time points after stimulation with anti-IgE (0.1-0.3 g/mL) for the expression
+of phosphoAkt and Erk. B, Phosphorylated Akt (pAKT) expression normalized to ERK protein (anti-IgE 0.1 y.g/
+mL, dashed lines; 0.3 j.g/mL, solid lines). Immunoblot representative of 2 to 3 similar experiments.
+
+reduced relative to CIU NR (115 + 49; n = 6; P < .05).
+However, the levels of SHIP-1 in CIU R subjects and subjects with cold urticaria are not reduced to the levels (<20
+relative units) found in hyperreleasable basophils known
+to degranulate to HrHRF.'’ These measures of SHIP protein levels are consistent with the observed functional
+behavior of the basophils (Fig 1) and also agree with other
+published reports of SHIP-1 serving as a gatekeeper of
+IgE-mediated mediator responses. '**'” This is also the first
+report of SHIP-2 expression in blood basophils.
+
+We next examined the functional effect of elevated
+SHIP-1 and SHIP-2 protein levels in CIU NR and reduced
+SHIP-1 protein levels in CIU R basophils on the FceRImediated phosphorylation of Akt. This phosphorylation is
+an indirect indicator of the amount of PIP; generated on
+anti-IgE stimulation and can occur as 1 of 3 isoforms.”*
+PIP; is produced by phosphatidyl inositol-3 (PI3) kinase
+and hydrolyzed by inositol phosphatases including
+SHIP-1 and SHIP-2. We found that phosphoAkt generation (60 kd) is blunted in basophils of CIU NR subjects,
+even at higher doses of anti-IgE stimulation, compared
+with the normal basophils and as previously reported>”
+(Fig 3). In contrast with CIU NR and normal basophils,
+CIU R basophils demonstrate evidence of phosphoAkt activation (60 kd) at baseline with a modest induction after
+FceRI-mediated activation. In addition, all 3 CIU R donors produced a second, more rapidly migrating protein
+(58 kd) on blotting unstimulated lysates for phosphoAkt
+that did not change with stimulation.
+
+Serum HRA
+
+Although an earlier study linked the presence of serum
+HRA to reduced CIU basophil anti-IgE response, there
+
+was also evidence that reductions in basophil function
+were present in subjects without serum HRA.” We defined
+serum HRA as >20% HR above the spontaneous release
+from our normal donor’s basophil induced by any dilution
+of sera. We did not find a consistent relationship between
+the presence of serum HRA with our CIU basophil antiIgE functional phenotypes (Table II). Serum HRA was
+noted in a number of control subjects without allergy but
+was absent among control subjects with allergy.
+
+Serum immunoreactivity for FceRla
+
+We have previously described 2 forms of FceRIq, a heterogenous, broad band (~60 kd) and a homogenous band
+at 50 kd mass, detected by Western blotting.”° For the current study, we used a dilution of sera (1:250) previously
+established to distinguish normal sera from CIU sera*
+and strict criteria for quantifying serum immunoreactivity
+for either FceRIa isoform.** We found the presence of serum immunoreactivity in less than half of the CIU NR subjects tested. We also detected such activity in the serum of
+subjects with cold urticaria and allergy (Table II). We also
+failed to see concordance between the 2 assays for serum
+factors, as reported by others.*
+
+DISCUSSION
+
+On the basis of the literature, we expected that the
+basophils of all subjects with CIU would be reduced in
+their degranulation response to stimulation via the IgE
+receptor.”"!> However, a careful examination of the distribution of CIU basophil HR in these earlier studies reveals
+evidence for a bimodal distribution. We report for the first
+J ALLERGY CLIN IMMUNOL
+VOLUME 119, NUMBER 2
+
+Vonakis et al 447
+
+TABLE Il. Presence of serum HRA or serum immunoreactivity to FceRla in donor populations
+
+ 
+
+Percent of positive donors (no. positive/no. tested)
+
+ 
+
+Donor type Anti-FceRla (Western blot)
+CIUR 0% (0/6)
+CIU NR 38% (3/8)
+Cold urticaria 25% (1/4)
+Allergy 25% (2/8)
+No allergy 0% (0/7)
+
+Serum HRA from donor basophils*
+
+Positive by both assays
+
+67% (4/6) 0% (0/6)
+50% (4/8) 13% (1/8)
+0% (0/4) 0% (0/4)
+0% (0/8) 0% (0/8)
+57% (4/7) 0% (0/7)
+
+ 
+
+*>20% Total HR above spontaneous release.
+
+time that subjects with CIU can be divided into 2 subsets
+on the basis of the profile of basophil functional response
+to anti-IgE stimulation and the protein levels of negative
+regulatory phosphatases, SHIP-1 and SHIP-2. In addition,
+we demonstrate that elevated SHIP-1 and SHIP-2 protein
+levels in CIU NR basophils appear functional as measured
+by a reduction in FeeRI-mediated phosphoAkt generation,
+an indirect measure of PIP3 generation, a substrate for
+SHIP-1 and SHIP-2. In the case of CIU R basophils
+with reduced SHIP-1 protein levels, phosphoAkt is
+present in resting basophils, indicating constitutive PIP;
+production. We also provide evidence that a subject’s
+basophil functional phenotype is stable over time with
+continued CIU disease activity.
+
+Further, we expected that the basophils of CIU anti-IgE
+NR would be most likely to possess a serum factor
+(autoantibodies to the FeeRIa or HRA) that has activated
+the basophils in vivo and left them unresponsive to further
+immunologic stimulation via the IgE receptor. We were
+surprised that circulating antibodies to FeeRIa and serum
+HRA were not exclusively present in the CIU NR, but also
+found in CIU and in other control groups. Curiously, we
+did not observe serum HRA in the serum of subjects
+with allergy, which is consistent with earlier reports describing a low frequency of HRA in non-CIU populations
+recruited from allergy clinics. We have also recently reported that basophil surface activation marker expression
+is not increased in subjects with CIU with the presence of a
+serologic factors.**
+
+From a disease perspective, it is possible that the pattern
+of basophil functional response to IgE receptor activation
+may offer a biomarker for CIU disease activity. Earlier
+work suggested that the reduction in basophil anti-IgE HR
+normalizes with reductions in urticarial disease activity.'>
+Studies to examine the relationship of disease activity to
+these functional categories are underway.** The altered
+protein expression of SHIP-1 and SHIP-2 phosphatases
+in basophils may also provide insights into pathways
+that are involved in CIU. Evidence suggests that the activities of SHIP-1 and SHIP-2 appear to be regulated in part
+by altering their protein expression as we observed in CIU
+NR and CIU R basophils.*° Further studies are needed to
+define these signaling pathways and guide the development of new therapeutic targets for the treatment of CIU.
+
+There has been tremendous interest to view a subset of
+CIU as an autoimmune disease given the absence of an
+identifiable external trigger or allergen in the majority of
+
+cases. Several groups have described the presence of
+circulating autoantibodies to IgE or the FceRIa in CIU
+serum or the capacity of selected serum to cause basophil
+histamine release from normal basophils in vitro.?“° The
+overall incidence of such factors ranges from 10% to
+40% of subjects with CIU.*! Methods for detection of
+autoimmune serum range from skin injection with autologous serum to gauge for wheal formation to in vitro assays
+measuring serum HRA using donor blood basophils. Of
+concern is that different assays such as Western blotting
+using purified FeeRIa protein have shown poor agreement
+with functional assays for HRA using donor basophils.*
+Increasing evidence suggests that that anti-FceRIa antibodies occur at similar frequencies in the sera of other immune-mediated skin diseases such as pemphigus vulgaris
+(39%), dermatomyositis (36%), bullous pemphigoid (13%),
+and systemic lupus erythematosus (20%) as that detected in
+the sera of subjects with CIU (38%), but may differ in IgG
+isotype.>” Recent studies support that serum HRA is found
+in the IgG fraction, can be neutralized by immunoadsorption with FceRIa protein, and involves complement activation via the C5a receptor.*“* Using established protocols to
+detect serologic factors, we did not find that the presence of
+circulating autoantibodies to FeeRla or serum HRA were
+strongly linked to a specific basophil functional phenotype.
+
+In summary, we have confirmed the alteration in
+basophil FceRI-mediated histamine response noted by
+others in CIU populations. However, we have described a
+novel characterization of subjects with CIU on the basis of
+the profile of basophil FceRI-mediated degranulation
+response, CIU responders and CIU nonresponders. We
+have found that functional phenotypes are a durable
+feature in subjects with active CIU and have linked the
+degranulation patterns to the expression of the negative
+regulatory phosphatases, SHIP-1 and SHIP-2. We also
+provide evidence that the increased expression of these
+phosphatases in CIU NR basophils impairs PIP3 generation.
+The mechanism leading to altered basophil functional phenotype is not readily apparent, but appears independent of
+serum HRA, the presence of circulating FceRIa antibodies,
+or Syk deficiency.
+
+ 
+
+REFERENCES
+1, Greaves MW. Chronic urticaria. N Engl J Med 1995;332:1767-72.
+2. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW.
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-604.
+
+~
+Soe,
+x2
+os
+~
+=P
+[3
+oO
+ij
+oe
+Bs
+£2
+22
+mo]
+a
+als
+al)
+sos
+
+ 
+a
+o
+5
+E|
+a
+a
+oF
+o
+
+Ce)
+
+<
+a
+Fi
+a
+a
+=
+C
+
+a
+=
+ay
+s
+
+a
+
+<
+
+‘py Audbup ‘A619]|p pooy
+
+4
+
+448 Vonakis et al
+
+2
+
+ 
+
+22.
+
+. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of
+
+basophils in chronic urticaria. J Allergy Clin Immunol 2001;107:
+1056-62.
+
+. Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CE,
+
+et al. Classification of anti-FcepsilonRI and anti-IgE autoantibodies in
+chronic idiopathic urticaria and correlation with disease severity. J Allergy Clin Immunol 2002;110:492-9.
+
+. Fiebiger E, Hammerschmid F, Sting] G, Maurer D. Anti-FcepsilonRIal
+pha autoantibodies in autoimmune-mediated disorders: identification of
+a structure-function relationship. J Clin Invest 1998;101:243-51.
+
+. Miescher SM, Horn MP, Pachlopnik JM, Baldi L, Vogel M, Stadler BM.
+
+Natural anti-FcepsilonRIalpha autoantibodies isolated from healthy
+donors and chronic idiopathic urticaria patients reveal a restricted repertoire
+and autoreactivity on human basophils. Hum Antibodies 2001;10:119-26.
+
+. Grattan CE. Basophils in chronic urticaria, J Investig Dermatol Symp
+
+Proc 2001;6:139-40.
+
+. Grattan CE, Walpole D, Francis DM, Niimi N, Dootson G, Edler S, et al.
+
+Flow cytometric analysis of basophil numbers in chronic urticaria: basopenia is related to serum histamine releasing activity. Clin Exp Allergy
+1997;27:1417-24.
+
+. Sabroe RA, Francis DM, Barr RM, Black AK, Greaves MW. Anti-Fe(epi
+silon)RI auto antibodies and basophil histamine releasability in chronic
+idiopathic urticaria. J Allergy Clin Immunol 1998;102:651-8.
+
+). Sabroe RA, Poon E, Orchard GE, Lane D, Francis DM, Barr RM, et al.
+
+Cutaneous inflammatory cell infiltrate in chronic idiopathic urticaria:
+comparison of patients with and without anti-FcepsilonRI or anti-IgE
+autoantibodies. J Allergy Clin Immunol 1999;103:484-93.
+
+. Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2 cytokines
+
+and inflammatory cells in skin biopsy specimens from patients with
+chronic idiopathic urticaria: comparison with the allergen-induced latephase cutaneous reaction. J Allergy Clin Immunol 2002;109:694-700.
+
+. Caproni M, Giomi B, Volpi W, Melani L, Schincaglia E, Macchia D,
+
+et al. Chronic idiopathic urticaria: infiltrating cells and related cytokines
+in autologous serum-induced wheals. Clin Immunol 2005;114:284-92.
+
+. Kern F, Lichtenstein LM. Defective histamine release in chronic urticaria.
+
+J Clin Invest 1976;57:1369-77.
+
+. Rauh MJ, Krystal G. Of mice and men: elucidating the role of SH2
+containing inositol 5-phosphatase (SHIP) in human disease. Clin Invest
+Med 2002;25:68-70.
+
+. Huber M, Helgason CD, Damen JE, Liu L, Humphries RK, Krystal G. The
+
+sre homology 2-containing inositol phosphatase (SHIP) is the gatekeeper
+of mast cell degranulation, Proc Natl Acad Sci U $ A 1998;95:11330-5.
+MacDonald SM, Rafnar T, Langdon J, Lichtenstein LM. Molecular identification of an IgE-dependent histamine-releasing factor. Science 1995;
+269:688-90.
+
+. Vonakis BM, Gibbons S Jr, Sora R, Langdon JM, MacDonald SM. Sre
+
+homology 2 domain-containing inositol 5’ phosphatase is negatively
+associated with histamine release to human recombinant histaminereleasing factor in human basophils. J Allergy Clin Immunol 2001;
+108:822-31.
+
+. Rohrschneider LR, Fuller JF, Wolf I, Liu Y, Lucas DM. Structure, func
+tion, and biology of SHIP proteins. Genes Dev 2000; 14:505-20.
+
+. MacGlashan DW Jr. Syk, but not SHIP-1, expression regulates IgE
+
+ 
+
+mediated responsiveness of human basophil
+J Allergy Clin Immunol 2007. In press.
+
+in the general population.
+
+). Valderrama-Carvajal H, Cocolakis E, Lacerte A, Lee EH, Krystal G, Ali
+
+S, et al. Activin/TGF-beta induce apoptosis through Smad-dependent
+expression of the lipid phosphatase SHIP. Nat Cell Biol 2002;4:963-9.
+
+. Sly LM, Rauh MJ, Kalesnikoff J, Song CH, Krystal G. LPS-induced
+
+upregulation of SHIP is essential for endotoxin tolerance. Immunity
+2004;21:227-39.
+
+Pengal RA, Ganesan LP, Fang H, Marsh CB, Anderson CL, Tridandapani
+S. SHIP-2 inositol phosphatase is inducibly expressed in human monocytes
+and serves to regulate Fcgamma receptor-mediated signaling. J Biol Chem
+2003;278:22657-63.
+
+24,
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+J ALLERGY CLIN IMMUNOL
+FEBRUARY 2007
+
+. Ai J, Maturu A, Johnson W, Wang Y, Marsh CB, Tridandapani S. The
+
+inositol phosphatase SHIP-2 down-regulates FogammaR-mediated phagocytosis in murine macrophages independently of SHIP-1. Blood 2006;
+107:813-20.
+
+MacGlashan DW Jr, Bochner BS, Adelman DC, Jardieu PM, Togias A,
+McKenzie-White J, et al. Down-regulation of FceRI expression on
+human basophils during in vivo treatment of atopic patients with antiIgE antibody. J Immunol 1997;158:1438-45.
+
+Saini SS, Richardson JJ, Wofsy C, Lavens-Phillips S, Bochner BS,
+Macglashan DW Jr. Expression and modulation of FcepsilonRIalpha
+and FcepsilonRIbeta in human blood basophils. J Allergy Clin Immunol
+2001;107:832-41.
+
+Gilbert HS, Ornstein L. Basophil counting with a new staining method
+using Alcian blue. Blood 1975;46:279-86.
+
+Siraganian RP. Refinements in the automated fluorometric histamine
+analysis system. J Immunol Methods 1975;7:283-90.
+
+Lu Y, Wang H, Mills GB. Targeting PI3K-AKT pathway for cancer therapy. Rev Clin Exp Hematol 2003;7:205-28.
+
+Vonakis BM, Gibbons SP Jr, Rote MJ, Brothers EA, Kim SC, Chichester K, et al. Regulation of rat basophilic leukemia-2H3 mast cell secretion
+
+ 
+
+by a constitutive Lyn kinase interaction with the high affinity IgE receptor (Fe epsilon RI). J Immunol 2005;175:4543-54.
+
+Wofsy C, Vonakis BM, Metzger H, Goldstein B. One lyn molecule is
+sufficient to initiate phosphorylation of aggregated high-affinity IgE
+receptors. Proc Natl Acad Sci U S A 1999;96:8615-20.
+
+MacGlashan DW Jr. Releasability of human basophils: cellular sensitivity and maximal histamine release are independent variables. J Allergy
+Clin Immunol 1993;91:605-15.
+
+32. Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional and
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39,
+
+40.
+
+41.
+
+42.
+
+43.
+
+binding assays for IgG anti- Fe(epsilon)RIalpha (alpha-subunit) in
+chronic urticaria. J Allergy Clin Immunol 1998;101:672-6.
+
+Vasagar K, Vonakis BM, Gober L, Viksman A, Gibbons SP Jr, Saini SS.
+Evidence of in vivo basophil activation in chronic idiopathic urticaria.
+Clin Exp Allergy 2006;36:770-6
+
+Kepley CL, Youssef L, Andrews RP, Wilson BS, Oliver JM. Syk deficiency in nonreleaser basophils. J Allergy Clin Immunol 1999;104:279-84.
+Lavens-Phillip S, MacGlashan D. The tyrosine kinases, p53 lyn, p72 syk
+are differentially expressed at the protein level, not the mRNA level in
+non-releasing human basophils. Am J Cell Respir Mol Med 2000;23:
+566-71.
+
+Saini SS, Gibbons SP Jr, Vasagar K, Vonakis BM. Relationship between
+Syk protein and degranulation in basophils from chronic urticaria donors.
+J Allergy Clin Immunol 2004;113:589.
+
+Miura K, Lavens-Phillips $, MacGlashan DW Jr. Localizing a control
+region in the pathway to leukotriene C(4) secretion following stimulation
+of human basophils with antitgE antibody. J Immunol 2001;167:
+7027-37.
+
+Baker R, Ohameje N, Vasagar K, Gober L, Chen SC, Vonakis BM, et al.
+Basophil histamine release activity and disease severity in chronic idiopathic urticaria. J Allergy Clin Immunol 2006;117:S123.
+
+Sly LM, Rauh MJ, Kalesnikoff J, Buchse T, Krystal G. SHIP, SHIP2,
+and PTEN activities are regulated in vivo by modulation of their protein
+levels: SHIP is up-regulated in macrophages and mast cells by lipopolysaccharide, Exp Hematol 2003;31:1170-81.
+
+Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence
+and functional role of anti-[gE autoantibodies in urticarial syndromes.
+J Invest Dermatol 1988;90:213-7.
+
+athogenesis and treatment. J Allergy Clin
+Immunol 2004;114:465-74; quiz 75.
+
+Soundararajan S, Kikuchi Y, Joseph K, Kaplan AP. Functional assessment
+of pathogenic IgG subclasses in chronic autoimmune urticaria. J Allergy
+Clin Immunol 2005;115:815-21.
+
+Kikuchi Y, Kaplan AP. A role for C5a in augmenting IgG-dependent histamine release from basophils in chronic urticaria. J Allergy Clin Immunol
+2002;109:114-8.
+
+  
+ 
+
+ 
+

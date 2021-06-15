@@ -1,0 +1,820 @@
+Article type : Original Article
+
+Different Expression Patterns of Plasma Th1-, Th2-, Th17-, and
+Th22-Related Cytokines Correlate with Serum Autoreactivity and
+
+Allergen Sensitivity in Chronic Spontaneous Urticaria
+
+Cytokine pattern in chronic spontaneous urticaria
+
+Qiquan Chen?', Hua Zhong’, WenChieh Chen”, Zhifang Zhai‘, Zhou Zhou’, Zhigiang Song1*,
+
+Fei Hao1*
+
+1 Department of Dermatology, Southwest Hospital, Third Military Medical University,
+
+Chongging, China
+
+2 IZZ-Immunologie Zentrum Zurich, Zurich, Switzerland
+
+3 Department of Dermatology and Allergy, Technische Universitat MUnchen, Munich,
+
+Germany
+
+*Corresponding authors:
+
+E-mail: zhiqiang.-song@hotmail.com (ZS) and haofei62@medmail.com.cn (FH)
+
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process, which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.11 11/jdv.14541
+
+This article is protected by copyright. All rights reserved.
+Conflict of interests: none declared.
+
+Abstract
+
+Background: Clinical features and basophil activation levels correlate with serum
+
+autoreactivity and allergen sensitivity in patients with chronic spontaneous urticaria (CSU).
+
+Objectives: To explore the relationship of the expression patterns of plasma T-helper cell
+(Th) 1, Th2, Th17, and Th22-related cytokines with the serum autoreactivity and the allergen
+
+sensitivity in CSU.
+
+Method: Twenty related cytokines were measured and analysed in 60 CSU patients, 15
+acute urticaria patients, 10 patients with atopic dermatitis (AD), and 15 healthy persons,
+respectively. Autologous serum skin testing (ASST) and skin prick testing (SPT) were
+performed to detect autoreactivity and allergy sensitivity, respectively. The protein-protein
+interaction of cytokines and the molecular pathways were analysed by Search Tool for the
+Retrieval of Interacting Genes/Proteins (STRING) and KyotoEncyclopedia of Genes and
+
+Genomes (KEGG database), respectively.
+
+Results: Th1/Th2 and Th17 related cytokines were significantly elevated and correlated with
+disease activity in CSU than in healthy controls. Interleukin (IL)-6, IL-10, and IL-13 were
+significantly higher in acute urticaria than in CSU patients. Granulocyte/macrophage
+colony-stimulating factor (GM-CSF), IL-10 and IL-17 were significantly higher in ASST + than
+
+in ASST- CSU patients. IFN- y , IL-2, IL-12p70, and IL-21 were significantly higher in SPT +
+
+This article is protected by copyright. All rights reserved.
+than in SPT- CSU patients. The plasma levels of interferon- y , IL-2, and IL-21 varied among
+ASST+/SPT+, ASST+/SPT-, ASST-/SPT+, and ASST-/SPT- CSU subgroups, which appeared to
+involve the positive regulation of the Janus kinase-signal transducer and activator of
+
+transcription (Jak-STAT) signaling pathway.
+
+Conclusion: This study indicates acute urticaria elicits a more prominent Th2 immune
+response than CSU. There was association between different expression patterns of plasma
+Th1-, Th2-, Th17-, and Th22-related cytokines and serum autoreactivity or allergen
+sensitivity in CSU. Further studies on the JAK-STAT pathway in the pathogenesis of CSU is
+
+warranted.
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is one of the most common subtype of chronic
+urticaria.’ The long-lasting course and distressing symptoms have a grave impact on life
+quality. The exact etiopathogenesis of CSU remains poorly understood. Increasing evidence
+indicated that inflammation and unbalanced immunity play critical roles in the generation
+and promotion of the recurrent symptoms.”° Inflammatory cells and the cytokines released
+in the peripheral circulatory micro-environment are proposed to determine the immune
+
+response in CSU.?°
+
+The activity of T cells is largely dependent on the differentiation of TO cells into subtypes of
+CD4+ T helper (Th) cells, such as Th1, Th2, Th17, and Th22 cells, which can be further
+
+grouped based on distinct cytokine profiles.*° A complex network of cytokines released by
+
+This article is protected by copyright. All rights reserved.
+the Th cells is involved in various autoimmune and allergic responses.” Interleukin (IL)-1se
+of a complex network of cytokintumour necrosis factor (TNF)-( are typically Th1 cytokines
+involved in cell-mediated pro-inflammatory responses, while Th2- cytokines, such as IL-2,
+IL-4, IL-5, IL-6, IL-10, and IL-13, can inhibit Th1 cytokine production, augment humoral
+responses, and mediate allergic diseases.’” The imbalance between Th1 and Th2 has long
+been considered as a possible mechanism in urticaria.’* “* Th17 cells, which produce IL-17,
+IL-17F, IL-21, transforming growth factor (TGF)-B and IL-23, are thought to contribute to
+autoimmune and allergic diseases.’° IL-22 is synthesized and released by Th22, and both
+
+IL-22 and Th22 have been confirmed to play important roles in atopic diseases.’°
+
+Autologous serum skin test (ASST) is a simple and effective procedure to test serum
+autoreactivity in CSU patients. Skin prick test (SPT) can provide useful evidence of allergen
+sensitivity. About 30-62% of CSU patients were found to have autoreactivity as indicated by
+ASST,*’-"9 and 25-58% with allergen sensitivity as demonstrated by SPT.”° Our previous
+studies revealed that CSU patients with distinct responses to ASST and SPT displayed
+different disease activity, Dermatology Life Quality Index (DLQI), and response to
+antihistamines, 7* while the CD63 expression in basophils was found to be highest in ASST+
+
+SPT+ CSU patients.”
+
+The current study was aimed to analyze the association of distinct responses to ASST and/or
+SPT in CSU patients with different immune status and cytokine profile. We used a protein
+array to determine the plasma concentrations of 20 respective cytokines related to Th1,
+
+Th2, Th17, and Th22, in patients with CSU, as compared to acute urticaria, atopic dermatitis
+
+This article is protected by copyright. All rights reserved.
+and healthy controls. The protein-protein interactions between differently expressed
+
+cytokines and the corresponding pathways were further mapped and analyzed.
+
+Materials and Methods
+
+Subjects
+
+This study was approved by the ethics committee of the Southwest Hospital, Third Military
+Medical University, Chongqing, China. Patients and controls were fully informed with given
+consent prior to enrollment. At the start of the study, the detailed medical history of
+subjects and controls was assessed with systemic examinations to exclude any potential
+autoimmune or inflammatory diseases. Diagnosis of CSU or acute urticaria was based on the
+new EAACI/GA2LEN/WAO/EDF guidelines.’ Patients with diagnosis of acute urticaria were
+followed for 6 weeks and those with total natural course exceeding 6 weeks were ruled out.
+All patients diagnosed with CSU underwent ASST and SPT in our clinics. Patients with
+urticaria factitia or urticarial vasculitis were excluded, and those with any clinical evidence
+or history of autoimmune or inflammatory diseases were ruled out following an appropriate
+investigation. Patients taking H1 antihistamines seven days before enrollment and those
+who had received corticosteroids or immunosuppressants in the six weeks prior to
+enrolment were also excluded. The urticaria activity score for 7 days (UAS7) at the time of
+patient recruitment and UAS at the time of blood drawing was recorded for each CSU
+patient according to the guideline.’ The disease activity were graded as follows: 0-14
+(mild),15-29 (moderate) and 30-42 (severe) based on the UAS7 score. Controls were age
+This article is protected by copyright. All rights reserved.
+and sex-matched healthy subjects without any history of urticaria and being negative for
+both SPT and ASST. Patients with clear and definite diagnosis of atopic dermatitis (AD)
+following the AD criteria of Hanifin and Rajka ~°, but without any other inflammatory
+diseases were enrolled in one group. For cytokine study, 5 mL of morning venous blood
+from each patient and control was collected in a collection tube with
+ethylenediaminetetraacetic acid. Samples were centrifuged at 400g for 15 min to separate
+
+the plasma, and stored at -80°C.
+
+Autologous serum skin testing (ASST) and skin prick testing (SPT)
+
+ASST and SPT was performed in CSU patients as previously described.”” ” The allergens of
+SPT included the house dust mites Dermatophagoides farinae and Dermatophagoides
+pteronyssinus, cockroach allergen, mugwort pollen, humulus pollen, fish (catfish), shrimp,
+crab, egg, cow milk and peanut. Allergic sensitization was indicated when a patient showed
+
+eps 22
+one or more positive result to allergens tested above.
+
+Plasma cytokine analysis
+
+Twenty respective cytokines of Th1 (IL-1, IFNy, granulocyte/macrophage
+colony-stimulating factor — GM-CSF, IL-2, IL-12p70, IL-28A, TNFa, TNF-B), Th2 ( IL-4, IL-5,
+IL-6, IL-10, IL-13, macrophage inflammatory protein-3a), Th17 (IL-17, IL-17F, IL-21, TGF-B,
+
+IL-23), and Th22 (IL-22) were measured in stored plasma using a commercially available
+
+This article is protected by copyright. All rights reserved.
+multiplexed sandwich enzyme-linked immunosorbent assay (ELISA)-based quantitative array
+(RayBiotech, Inc., Norcross, GA, USA), according to the manufacturer’s instructions. Data
+extraction was performed using the GAL file specific for this array, along with microarray
+analysis software (GenePix, ScanArray Express, ArrayVision, MicroVigene, etc.). The
+concentration of cytokines in the samples was determined by comparing the signals from
+
+unknown samples to the standard curve.
+
+Protein-protein interactions (PPIs) and molecular pathways analysis
+
+To analyse PPIs of the cytokines significantly elevated, we used the STRING (Search Tool for
+the Retrieval of Interacting Genes/Proteins) database (http://string-db.org/), which includes
+known and predicted protein interactions.~* To identify the pathways in which these
+proteins may be involved, we used the KEGG (KyotoEncyclopedia of Genes and Genomes)
+database (http://www.kegg.jp/), a collection of manually drawn pathway maps representing
+
+. . . 25
+molecular interactions and reactions between networks.
+
+Statistical analysis
+
+Kolmogorov-Smirnov and Shapiro-Wilk tests were used to verify the distribution of cytokine
+concentrations and assess the normal distribution of their means, respectively. Continuous
+variables with normal distributions were expressed by the mean + standard deviation.
+
+Those with non-normal distributions were described by medians and interquartile ranges.
+
+This article is protected by copyright. All rights reserved.
+Student’s t-test or the Mann-Whitney U-test was performed to analyse differences in
+cytokine concentration between any two groups. One-way analysis of variance or the
+Kruskal Wallis test was used to compare differences between more than two groups.
+Statistical significance was set by two-sided p values of less than 0.05 for all tests. Data
+analysis was performed with SPSS version 18.0 (SPSS Inc., Chicago, IL, USA) and Graph-Pad
+
+Prism version 5 (Graph Pad Software, San Diego, CA, USA).
+
+Results
+
+A total of 60 patients with CSU, including 15 ASST+/ SPT+, 15 ASST+/ SPT-, 15 ASST-/ SPT+,
+and 15 ASST-/ SPT-, were recruited. The UAS7 at the time of patient recruitment and UAS at
+the time of blood drawing did not show significant differences among the subgroups. The
+number of patients with different disease activity as follows: mild (n=16), moderate (n=29),
+severe (n=15). The control groups included 15 patients with acute urticaria, 10 with atopic
+dermatitis as atopic control (AC), and 15 healthy controls (HC). Their demographic and
+
+clinical characteristics are listed in Table 1.
+
+Cytokine expression pattern in CSU and acute urticaria
+
+The plasma concentrations of 11 cytokines were higher in the CSU than in the healthy
+control group, including IFN-y (p = 0.004), IL-2 (p = 0.001), IL-5 (p = 0.018), IL-6 (p = 0.004),
+
+IL-12p70 (p = 0.027), IL-13 (p = 0.008), IL-21 (p = 0.012), IL-23 (p = 0.038), TGF-B1 (p = 0.006),
+
+This article is protected by copyright. All rights reserved.
+TNF-a (p = 0.004), and TNF-B (p = 0.045). 8 cytokines, including IFN-y, IL-2, IL-5, IL-6, IL-21,
+IL-23, TNF-a and TNF-B, were correalted with the disease severity of CSU (Fig. 1.). In
+patients with acute urticaria, only 6 cytokines were expressed at significantly higher levels
+than in healthy controls: IL-4 (p = 0.021), IL-6 (p = 0.00009), IL-10 (p = 0.0086), IL-12p70 (p =
+0.045), IL-13 (p = 0.00039), IL-17 (p = 0.0049) (Supplementary Table 1). Representative
+images of cytokine arrays captured by the laser scanner are shown in Fig. 2. Among the 20
+cytokines measured, significant differences for IL-6 (p = 0.012), IL-10 (p = 0.00039), and IL-13
+(p = 0.022) were found between CSU and acute urticaria, with values being generally higher
+
+in acute urticaria (Fig. 3).
+
+Differences in cytokine expression profiles in CSU patients between ASST+
+
+and ASST-, or SPT+, SPT- CSU and atopic control
+
+Thirty CSU patients were ASST+, and the other 30 were ASST-. The plasma level of 12
+cytokines, including IL-2, IL-5, IL-6, IL-12p70, IL-13, IL-17, IL-21, IL-22, IL-23, TGF-B1, TNF-a,
+and TNF-f, was significantly higher in ASST+ CSU patients than in healthy controls. In ASSTCSU patients, only 5 cytokines were more significantly expressed, including IL-2, IL-6, IL-13,
+TGF-B1, and TNF-a (Supplementary Table 2). Three cytokines, GM-CSF (p = 0.0011), IL-10 (p
+= 0.026), and IL-17 (p = 0.004), displayed significantly different expression patterns between
+ASST+ and ASST- CSU patients (Fig. 4). Of the 60 CSU patients, 30 were SPT+ and 30 were
+SPT-. Compared to healthy controls, 13 cytokines were significantly more abundant in the
+
+plasma of SPT+ CSU patients: IFN-m, IL-2, IL-4, IL-5, IL-6, IL-12p70, IL-13, IL-21, IL-22, IL-23,
+
+This article is protected by copyright. All rights reserved.
+TGF-B1, TNF-a, and TNF-B. In SPT- CSU patients, only four cytokines, IL-2, IL-6, IL-21, and
+TNF-a, exhibited greater abundance. The expression of four cytokines was significantly
+higher in the SPT+ than in the SPT- CSU patients: IFN-y (p = 0.0035), IL-2 (p = 0.04), IL-12p70
+
+(p = 0.0070), and IL-21 (p = 0.00026) (Fig.5).
+
+Higher levels of IFN-y, IL-2, and IL-21 is related to allergen sensitization and
+
+serum autoreactivity in CSU
+
+The IFN-y and IL-2 plasma levels did not change between ASST+/SPT+, ASST+/SPT-, and
+ASST-/SPT+ subgroups. IFN-y was significantly lower in ASST-/SPT- than in ASST+/SPT+ (p =
+0.0070), or than in ASST-/SPT+ (p = 0.0025) subgroups, whereas IL-2 was significantly higher
+in ASST+/SPT+, ASST+/SPT-, and ASST-/SPT+ than in ASST- SPT- patients (p = 0.0079, 0.0251,
+and 0.0055, respectively). The IL-21 plasma concentrations in ASST+/SPT+ (p = 0.0003) and
+ASST-/SPT+ (p = 0.0025) were significantly higher than in ASST-/SPT-. IL-21 was significantly
+
+higher in the ASST+/SPT+ than in the ASST+/SPT- subgroup (p = 0.0251) (Fig. 6).
+
+Potential pathogenic role of IFN- y , IL-2, and IL-21 in CSU
+
+The analysis of STRING database showed significantly more interactions between the
+corresponding networks of IFN-y, IL-2, and IL-21 (p = 0.00457), which are all involved in
+positive regulation of tyrosine phosphorylation on the signal transducer and activator of
+
+transcription (STAT) protein (p = 7.04*10°). KEGG pathway analysis showed that these three
+
+This article is protected by copyright. All rights reserved.
+cytokines are involved in the Jak-STAT signaling pathway (p = 6.0*10°). Analysis of the
+actions of these cytokines and the top 10 confidence proteins showed that the action
+network causes upregulation of STAT1 and SHC adaptor protein 1 (SHC1) (Fig. 7). The
+interactions of IFN-y, IL-2, and IL-21 with the top 10 confidence cytokines are shown in
+
+Supplementary Table 4.
+
+Discussion
+
+Our observations of mixed Th1/Th2 and Th17 responses in CSU patients with increased
+circulating levels of Th1, Th2 and Th17 related cytokines, and concentrations of most of
+these cytokines were correlated with the severity of the disease, which support the
+existence of an autoimmune basis and pro-inflammatory process in CSU. An increase of
+mainly Th2 related cytokines in our patients with acute urticaria, as compared to healthy
+controls or CSU subjects, indicated that acute urticaria is associated with a more prominent
+
+Th2 immune response than CSU."” 7°
+
+The finding of a high IL-10 level in acute urticaria with
+marginal reduction after 2 weeks was also reflected in our result that IL-10 was only
+elevated in acute urticaria but not in CSU as compared to healthy controls, presumably due
+to its consumption during the long lasting course of CSU. The different cytokines profiles
+between acute urticaria and CSU shown in our study suggest that patients with a generally
+
+activated Th1/Th2 and Th17 cytokines instead of a dominant Th2 cytokine pattern will
+
+transform into chronic urticaria. A time-course study of the cytokine changes in CSU
+
+This article is protected by copyright. All rights reserved.
+patients will help to identify which group of patients will develop chronic urticaria from the
+
+beginning.
+
+Previous studies showed that the levels of IL-10, IL-13, IL-17, IL-23 and TNF-a were higher in
+ASST + than in ASST- CSU patients.””? In the current study, serum levels of IL-10 and IL-17
+were elevated, with no difference in IL-13, IL-23 and TNF-a. The reasons for this discrepancy
+are unclear. We found for the first time an increased level of GM-CSF in ASST+ CSU patients.
+As GM-CSF can amplify IL-3-induced differentiation of basophils from bone marrow cells *°,
+and basophil is an important effector cell of urticaria, with much higher CD63 expression in
+basophils of CSU patients than in normal subjects, a higher GM-CSF level may play a role in
+
+the pathogenesis of CSU.
+
+Our current study revealed significantly higher levels of Th1, Th2, Th17 and Th22 related
+cytokines in SPT+ CSU, indicating a mixed cytokine pattern of inflammation in a subgroup of
+CSU patients with allergen sensitivity. Higher plasma concentrations of Th1 and Th17 related
+cytokines in SPT+ than in SPT- CSU patients indicated a possible association between
+allergen sensitivity and a predominant Th1-Th17 immune activation. It remains to be
+determined whether this subgroup of patients will differ in urticarial activity, course and
+
+prognosis.
+
+Overexpression of IFN-y indicates overactive Th1 response, which can lead to
+autoimmunity.” IL-2, another Th1 related cytokine, can enhance basophil histamine
+release.*? IL-21 from the interleukin-2 family, in synergy with IL15 and IL18, can stimulate
+
+IFN-y production in T-cells.** Synergistic effects of IFN-y, IL-2, and IL-21 display positive
+
+This article is protected by copyright. All rights reserved.
+regulation of the molecular mediators in immune response and control of
+
+lymphocyte-mediated immunity.*> >”
+
+In the current study, positive ASST and/or positive SPT
+CSU have higher levels of IFN-y, IL-2, and IL-21, which can activate the basophils leading to a
+
+high CD63 expression. This may be one of the reasons to explain why CSU patients with both
+
+allergen sensitization and serum autoreactivity had the highest level of CD63 expression.”
+
+STRING database is a comprehensive and well-established tool used to analyze and predict
+the protein-protein interaction. KEGG PATHWAY is a collection of manually drawn pathway
+maps representing current knowledge on the molecular interaction networks. Using the
+STRING database and KEGG pathway, we found that IFN- y , IL-2, and IL-21 are all
+significantly involved in the JAK-STAT signaling pathway through upregulation of STAT1 and
+SHC1. Inflammatory disorders commonly associated with JAK-STAT pathway include
+systemic lupus erythematosus, rheumatoid arthritis, ankylosing spondylitis, Crohn’s disease,
+
+ulcerative colitis, atopic dermatitis and psoriasis.*®?
+
+Our results suggest JAK-STAT pathway
+may play a role in the pathogenesis of CSU, especially in patients with allergen sensitization
+
+and serum autoreactivity.
+
+There are three major limitations in the current study. The cross-sectional time-point blood
+sampling cannot reflect the time-course change of CSU. It is unclear if the demonstrated
+cytokine profiles are specific to CSU or not, due to the lack of an autoimmune disease
+control. Future studies should recruit larger sample sizes, especially in the subgroups of
+
+patients.
+
+This article is protected by copyright. All rights reserved.
+In conclusion, our study indicated that CSU patients may contain heterogenous subgroups
+regarding autoreactivity or allergen sensitivity based on the results of ASST and SPT,
+respectively. The association of IFN- y , IL-2, and IL-21 with both autoreactivity and allergen
+sensitivity suggests JAK-STAT pathway may involve in the pathogenesis of CSU. Further
+studies are required to understand the correlation between the cytokine changes and the
+
+subtypes, activity, course, and prognosis of CSU.
+
+Acknowledgments
+
+We thank Mr. Baiyu Zhong, Mrs. Xiaofang Zhou and Mrs. Shuguang Chen for the technical
+preparation of blood samples, and thanks Prof. Yi You for helping to improve the writing of
+
+the manuscript.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, et al. The
+EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update. Allergy 2014; 69: 868-87.
+
+2. Harvima IT, Nilsson G. Mast cells as regulators of skin inflammation and immunity. Acta
+Derm Venereol 2011; 91(6): 644-50.
+
+3. Chen WC, Chiang BL, Liu HE, Leu SJ, Lee YL. Defective functions of circulating
+CD4+CD25+ and CD4+CD25- T cells in patients with chronic ordinary urticaria. J
+Dermatol Sci 2008; 51: 121-30.
+
+4. Huilan Z, Runxiang L, Bihua L, Qing G. Role of the subgroups of T, B, natural killer
+lymphocyte and serum levels of interleukin-15, interleukin-21 and immunoglobulin E in
+the pathogenesis of urticaria. J Dermatol 2010; 37: 441-7.
+
+This article is protected by copyright. All rights reserved.
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Santos JC, de Brito CA, Futata EA, Azor MH, Orii NM, Maruta CW, et al. Up-regulation of
+chemokine C-C ligand 2 (CCL2) and C-X-C chemokine 8 (CXCL8) expression by monocytes
+in chronic idiopathic urticaria. Clin Exp Immunol 2012; 167: 129-36.
+
+Lopes A, Machado D, Pedreiro S, Henriques A, Silva |, Tavares B, et al. Different
+frequencies of Tc17/Tc1 and Th17/Th1 cells in chronic spontaneous urticaria. Int Arch
+Allergy Immunol 2013; 161(2): 155-62.
+
+Atwa MA, Emara AS, Youssef N, Bayoumy NM. Serum concentration of IL-17, IL-23 and
+TNF-alpha among patients with chronic spontaneous urticaria: association with disease
+activity and autologous serum skin test. J Eur Acad Dermatol Venereol 2014; 28(4):
+469-74.
+
+Lu T, Jiao X, Si M, He P, Zou J, Zhang S, et al. The Correlation of Serums CCL11, CCL17,
+CCL26, and CCL27 and Disease Severity in Patients with Urticaria.Dis Markers 2016;
+2016: 1381760.
+
+Dos Santos JC, Azor MH, Nojima VY, Lourenco FD, Prearo E, Maruta CW, et al. Increased
+circulating pro-inflammatory cytokines and imbalanced regulatory T-cell cytokines
+production in chronic idiopathic urticaria. Int Immunopharmacol 2008; 8(10): 1433-40.
+
+Zhu J, Paul WE. Heterogeneity and plasticity of T helper cells. Cell Res 2010;20(1):4-12.
+
+Hofmann MA, Kiecker F, Zuberbier T. A systematic review of the role of interleukin-17
+and the interleukin-20 family in inflammatory allergic skin diseases. Curr Opin Allergy
+Clin Immunol 2016; 16(5): 451-7.
+
+Del Prete G. The concept of type-1 and type-2 helper T cells and their cytokines in
+humans. Int Rev Immunol 1998; 16(3-4): 427-55.
+
+Zhao G, Zhou S, Davie A, Su Q. Effects of moderate and high intensity exercise on T1/T2
+balance. Exerc Immunol Rev 2012; 18: 98-114.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2 cytokines and inflammatory cells
+in skin biopsy specimens from patients with chronic idiopathic urticaria: comparison
+with the allergen-induced late-phase cutaneous reaction. J Allergy Clin Immunol 2002;
+109(4): 694-700.
+
+Speeckaert R, Lambert J, Grine L, Van Gele M, De Schepper S, van Geel N. The many
+faces of interleukin-17 in inflammatory skin diseases. Br J Dermatol 2016; 175(5):
+892-901.
+
+This article is protected by copyright. All rights reserved.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+Mirshafiey A, Simhag A, El Rouby NM, Azizi G. T-helper 22 cells as a new player in
+chronic inflammatory skin disorders. Int J Dermatol 2015; 54(8): 880-8.
+
+Beck LA, Bernstein JA, Maurer M. A Review of International Recommendations for the
+Diagnosis and Management of Chronic Urticaria. Acta Derm Venereol
+2017;97(2):149-58.
+
+Vikramkumar AG, Kuruvila S, Ganguly S. Autologous serum skin test as an indicator of
+chronic autoimmune urticaria in a tertiary care hospital in South India. Indian Dermatol
+Online J 2014; 5(Suppl 2): $87-91.
+
+Gecer E, Erdem T. Aeroallergen prick skin test and autologous serum skin test results in
+patients with chronic urticaria and their comparison. Ann Dermatol. 2012; 24(4): 472-4.
+
+Kulthanan K, Jiamton S, Rutnin NO, Insawang M, Pinkaew S. Prevalence and relevance
+of the positivity of skin prick testing in patients with chronic urticaria. J Dermatol 2008;
+35(6): 330-5.
+
+Song Z, Zhai Z, Zhong H, Zhou Z, Chen W, Hao F. Evaluation of autologous serum skin
+test and skin prick test reactivity to house dust mite in patients with chronic
+spontaneous urticaria. PloS one. 2013; 8(5): e64142.
+
+Chen Q, Zhai Z, Xu J, Chen W, Chen S, Zhong H, et al. Basophil CD63 expression in
+chronic spontaneous urticaria: correlation with allergic sensitization, serum
+autoreactivity and basophil reactivity. J Eur Acad Dermatol Venereol. 2016.
+
+Hanifin JM, Rajka G. Diagnostic features of atopic eczema. Acta Dermatol Venereol
+(Stockh) 1980; 92: 44-47
+
+Jiang X, Gold D, Kolaczyk ED. Network-based auto-probit modeling for protein function
+prediction. Biometrics 2011; 67(3): 958-66.
+
+Kanehisa M, Furumichi M, Tanabe M, Sato Y, Morishima K. KEGG: new perspectives on
+genomes, pathways, diseases and drugs. Nucleic Acids Res 2017; 45(D1): D353-d61.
+
+Bae Y, Izuhara K, Ohta S, Ono J, Hong GU, Ro JY, et al. Periostin and Interleukin-13 Are
+Independently Related to Chronic Spontaneous Urticaria. Allergy Asthma Immunol Res
+2016; 8(5): 457-60.
+
+Papadopoulos, J., A. Karpouzis, J. Tentes and C. Kouskoukis. Assessment of Interleukins
+IL-4, IL-6, IL-8, IL-10 in Acute Urticaria. J Clin Med Res 2014; 6(2): 133-137.
+
+This article is protected by copyright. All rights reserved.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+Zhong H, Song Z, Chen W, Li H, He L, Gao T, et al. Chronic urticaria in Chinese
+population: a hospital-based multicenter epidemiological study. Allergy. 2014; 69(3):
+359-64.
+
+Caproni, M., C. Cardinali, B. Giomi, E. Antiga, A. D'Agata, S. Walter and P. Fabbri.
+Serological detection of eotaxin, IL-4, IL-13, IFN-gamma, MIP-1alpha, TARC and IP-10 in
+chronic autoimmune urticaria and chronic idiopathic urticaria. J Dermatol Sci 2004;
+36(1): 57-59.
+
+Bhattacharya P, Thiruppathi M, Elshabrawy HA, Alharshawi K, Kumar P, Prabhakar BS.
+GM-CSF: An immune modulatory cytokine that can suppress autoimmunity. Cytokine.
+2015; 75(2): 261-71.
+
+Dajnoki Z, Beke G, Mocsai G, Kapitany A, Gaspar K, Hajdu K, et al. Immune-mediated
+Skin Inflammation is Similar in Severe Atopic Dermatitis Patients With or Without
+Filaggrin Mutation. Acta Derm Venereol 2016; 96(5): 645-50.
+
+Ozdemir, C., M. Akdis and C. A. Akdis. T-cell response to allergens. Chem Immunol
+Allergy 2010; 95: 22-44.
+
+Morita, Y., M. Goto and T. Miyamoto. Effect of interleukin 2 on basophil histamine
+release. Allergy 1987; 42(2): 104-108.
+
+Tangye SG. Advances in IL-21 biology - enhancing our understanding of human disease.
+Curr Opin Immunol 2015; 34: 107-15.
+
+Alasandagutti, M. L., M. Ponnana, R. Sivangala, S. Thada, L. Joshi, H. Hussain,et a. Role
+of IFN-gamma and IL-6 cytokines and their association in determining susceptibility to
+chronic idiopathic urticaria." Genet Test Mol Biomarkers 2014; 18(12): 804-809.
+
+Bayer AL, Pugliese A, Malek TR. The IL-2/IL-2R system: from basic science to therapeutic
+applications to enhance immune regulation. Immunol Res 2013; 57(1-3): 197-209.
+
+Saha B, Jyothi Prasanna S, Chandrasekar B, Nandi D. Gene modulation and
+immunoregulatory roles of interferon gamma. Cytokine 2010; 50(1): 1-14.
+
+Goropevsek A, Holcar M, Avcin T. The Role of STAT Signaling Pathways in the
+Pathogenesis of Systemic Lupus Erythematosus. Clin Rev Allergy Immunol 2016.
+
+Palanivel JA, Macbeth AE, Chetty NC, Levell NJ. An insight into JAK-STAT signalling in
+dermatology. Clin Exp Dermatol 2014; 39(4): 513-8.
+
+This article is protected by copyright. All rights reserved.
+Table 1. The demographic data and clinical characteristics of the subjects.
+
+ 
+
+ 
+
+csu
+. Acute Urticaria AC HC
+Variables ASST+ & SPT+ ASST+ & SPT- ASST- & SPT+ ASST- & SPT- (n=15) (n=10) (n=15)
+(n=15) (n=15) (n=15) (n=15)
+Gend
+eneer 7/8 4/11 9/6 5/10 7/8 6/4 6/9
+(male/female)
+Age (year) 36.2 (17.0-51.0) 28.8 (17.0-50.0) 26.0 (16.0-43.0) 33.0 (16.0-57.0) 29.7 (16.0-54.0) 24.0 (16.0-42.0) 24.6 (22.0-29.0)
+Weight (Kg) 61.8 (40.0-81.0) 59.2 (43.0-80.0) 58.6 (44.0-75.0) 55.0 (43.0-74.0) 61.3 (45.0-80.0) 59.2 (45.0-78.0) 56.8 (44.0-75.0)
+
+Height (cm) 162.0 (152.0-172.0) 162.2 (152.0-175.0) 164.5 (152.0-175.0) 161.9 (150.0-180.0) 165.2 (155.0-174.0) 167.5 (156.0-178.0) 166.2 (155.0-180.0)
+
+Disease duration
+
+14.4 (1.5-48.0) 19.7 (2.0-120.0) 31.6 (1.5-156.0) 25.6 (2.0-98.0) -- -- -
+(month)
+UAS 3.1 (2.0-5.0) 3.0 (2.0-4.0) 4.0 (0-5.0) 3.0 (2.0-4.0) -- - UAS7 24.7 (4.0-42.0) 21.8 (6.0-42.0) 23.3 (4.0-42.0) 20.2 (0-42.0) - - 
+CSU, chronic spontaneous urticaria; AC, atopic control; HC, healthy control; ASST, autologus serum skin testing; SPT, skin prick testing; UAS, urticaria activity score at
+the time of blood drawing; UAS7, urticaria activity score in the nearly 7 days.
+
+ASST+ & SPT+, CSU patients with positive reaction to ASST and SPT.
+
+ASST+ & SPT-, CSU patients with positive reaction to ASST and but neagtive to SPT.
+
+ASST- & SPT+, CSU patients with neagtive reaction to ASST and but positive to SPT.
+
+ASST- & SPT-, CSU patients with negative reaction to ASST and SPT.
+pote: - pgimL we pg/ml, * pgm +
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+2oco: 16 2000 i
+— : sso}
+-2000- 100z ke sco .
+: oa x .
+ 1000- 50<E- 5 4 0 :
+vy Saat he ‘ ar
+4 ce vo
+Mid Moderate Severe Mic Moderate ‘Severo Wild Moderate Severe Mild Moderate Severe
+tet. a i 4
+* pg/ml * pg/mL =
+pgimL. i pi 5
+—_—_ 4000- -400. i i,
+A . * ‘ ee
+4000- —— 3000- ———_ 300- *
+Ra 4 400 i
+20004 " “og i
+s . :. 39> 2 i
+a 4 a
+= 20004 = 200 =
+oo, E100. 5
+wo] eee ory +. =E . Se wat
+3 7 ns: rn somes R
+ol espero "ee ° o_o +
+Mild Moderato Sovore
+
+Mid Moderate. Severe Mita Moderate Severe Mild Moderate Severe
+
+>
+
+wo
+
+fa)
+
+9
+
+m
+
+mn
+
+(9)
+
+EY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+K
+CSU Healthy control Acute urticaria
+1 2 3 4 4 2 3 4
+A | Posi | Posi | POS1 | POS: | POS2 | POS2| POS2 | POS2
+B_ |GM-CSF|GM-CSFIGM-CSHGM-CSH IFN-y | IFN-y | IFN-y | IFN-y
+C | wip | u16}11B]}m1B] wz | wz | we | we
+D 4 14 4 4 1S Ls IL-5 IL-5.
+E IL-6 IL-6 16 ILé IL-10 | IL-10 | IL-10 | 1-10
+F ML-12 W-12 | WL-12 | IL-12 | 1-13 | IL-13 | 1L-13 | 1L-13
+G | 1-974 | IL-17A | 1L-17A | 1L-27A | 1L-17F | IL-1 7F | 1L-17F | 1L-17F
+H IL-21 W-21 | IL-21 | IL-21 | WL-22 | I-22 | L-22 | 1-22
+i} IL-23 1L-23 | IL-23 | IL-23 | IL-28A |IL-28A}IL-28A} IL-28A
+J |Mip-3a| MiP-3a|MIP-3q]MIP-3a| TGF-B1|TGF-B1)TGF-B1|TGF-B1
+K | TNF-a | TNF-a | TNF-a | TIF-o | TNF-B | TNF-B| TNF-B| TNF-B
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved.
+IL-10
+
+ 
+
+CSU Acute Urticaria. = HC CSU Acute Urticaria. = HC
+
+(a) (<)
+
+ 
+
+(5)
+
+ 
+
+ 
+
+ASST+ ASST- ASST+ ASST
+(a) (b)
+
+This article is protected by copyright. All rights reserved.
+
+ASST+
+
+(c)
+
+ASSTIL-2
+
+  
+
+ 
+
+ 
+
+SPT+ SPT- SPT+ SPT
+(a) (b)
+
+IL-21
+
+  
+
+SPT+ ‘SPT(c)
+Po a
+Ot!
+0.0564 2
+pg/mt a pg/mL —
+3000- 6000a a
+2000- x 4000: <
+z a ¢ é . y
+= se * 2
+
+ 
+
+  
+
+This article is protected by copyright. All rights reserved.
+ 
+
+This article is protected by copyright. All rights reserved.
+

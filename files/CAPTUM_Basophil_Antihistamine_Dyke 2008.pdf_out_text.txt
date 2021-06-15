@@ -1,0 +1,1012 @@
+doi: 10.1111/).1365-2222.2007.02864.x
+
+ 
+
+RIGINAL PAPER
+
+Clinical and Experimental Allergy, 38, 86-92
+© 2007 The Authors
+Journal compilation © 2007 Blackwell Publishing Ltd
+
+ 
+
+Effect of stress on basophil function in chronic idiopathic urticaria
+
+S. M. Dyke, B. S. Carey and E. R. Kaminski
+Department of Immunology, Derriford Combined Laboratory, Derriford Hospital, Plymouth, UK
+
+ 
+
+Clinical and
+Experimental
+Allergy
+
+Correspondence:
+Dr E. R. Kaminski, Department of
+
+Summary
+
+Background Chronic idiopathic urticaria (CIU) is a distressing skin condition involving
+recurrent itchy hives lasting 6 weeks or longer. The mechanism involves mast cell and
+basophil degranulation, which releases inflammatory mediators including histamine. In our
+clinical practice, we have observed that the onset of CIU is often preceded by a major life
+event.
+
+Objective To investigate the role of the hormones of the hypothalamic—pituitary-adrenal
+(HPA) axis in the link between psychological stress and CIU.
+
+Methods Thirty people with CIU and 30 normal controls were recruited. A flow cytometric
+CD63 expression assay was used to quantify basophil activation, and serum cortisol
+concentrations were measured as an indication of stress.
+
+Results Both corticotrophin releasing factor (CRF) and adrenocorticotrophic hormone (ACTH)
+were shown to activate basophils. There was no significant difference between numbers of
+CIU patients and normal controls responding to CFR, ACTH or cortisol. However, the
+responses in the CIU patients were stronger than those in normal controls. There was also a
+trend towards higher serum cortisol concentrations in CIU patients. The basophil response to
+CRF and ACTH correlated with the serum cortisol concentration in normal controls, but not in
+CIU patients.
+
+Conclusions Although our data have not supported the hypothesis that stress makes a major
+contribution to CIU, the heightened basophil response to CFR and ACTH and higher levels of
+
+ 
+
+Immunology, Derriford Combined
+Laboratory, Level 7, Derriford Hospital,
+Plymouth PL6 8DH, UK.
+
+E-mail:
+edward.kaminski@phnt.swest.nhs.uk
+
+serum cortisol do suggest a derangement of the HPA axis in CIU.
+
+Keywords ACTH, adrenocorticotrophic hormone, basophils, chronic idiopathic urticaria,
+corticotrophin-releasing factor, cortisol, stress
+Submitted 31 May 2007; revised 16 August 2007; accepted 28 September 2007
+
+ 
+
+Introduction
+
+Chronic urticaria is a skin condition characterized by a
+raised, itching weal-and-flare rash that appears with
+varying frequency for at least 6 weeks and can occur for
+many years [1-3]. It affects 0.5-1% of individuals at some
+time in their lives [3]. The same mechanism is shared by
+chronic urticaria and allergic reactions, namely the
+degranulation of mast cells and basophils, which releases
+mediators of inflammation, such as histamine. However,
+unlike allergies, degranulation in chronic urticaria is not
+initiated by an allergen interacting with IgE bound to cell
+surface receptors. A proportion of cases of chronic urticaria are predominantly due to physical factors such as
+delayed pressure, cold, heat, ete directly triggering mast
+cell degranulation, and these are classified as physical
+
+urticaria [3]. In another proportion of cases of chronic
+urticaria, autoantibodies to the high-affinity IgE receptor
+have been demonstrated [4] and these are now classified
+as autoimmune urticaria [1]. Finally, the remaining
+patients with chronic urticaria for which no cause can be
+identified are classified as chronic idiopathic urticaria
+(CIU) [3]. It is recognized that physical urticarias often
+co-exist with CIU [1]. It has been suggested that autoimmune urticaria accounts for 30-50% of cases of chronic
+urticaria, including many patients previously diagnosed
+as CIU [5].
+
+In our clinical allergy practice, we have made the
+observation that a relatively large proportion of patients
+with CIU give a history of a significant life event in
+the period leading up to the commencement of the
+symptoms and this has been confirmed by a recent study
+Basophil function in chronic idiopathic urticaria 87
+
+ 
+
+(C. M. Chung, C. Symons, J. Gilliam and E. R. Kaminski,
+unpublished data). This is paralleled by the observation
+that in our own practice, only a relatively small minority
+(~5-10%) of patients with chronic urticaria have the
+autoimmune variety, as diagnosed by the autologous skin
+prick test or the presence of thyroid antibodies. A number
+of previous studies have proposed a role for stress in CIU
+[6-8].
+
+The association with stress implicates the neuroendocrine system in the disease aetiology. Psychological stress
+activates the hypothalamic-pituitary—adrenal (HPA) axis.
+This hormone cascade includes corticotrophin-releasing
+factor (CRF), adrenocorticotrophic hormone (ACTH), and
+cortisol. CRF has been associated with mast cell degranulation in rats [9], and the expression of the CRF receptor
+has been detected in human skin [10], with higher levels
+found in CIU patients [6].
+
+The activation and degranulation of basophils can be
+assessed using flow cytometric detection of surface CD63
+expression. This flow cytometric assay has been used to
+study the response of donor basophils to serum from CIU
+patients to detect autoantibodies [11-13]. However, recent
+work by Luquin et al. [14] suggests an intrinsic basophil
+abnormality in CIU. In this study, the CD63 expression
+assay was used to investigate whether the degranulation
+of basophils in CIU results from an abnormal response to
+the HPA axis hormones.
+
+Patients and methods
+
+Study subjects
+
+[hirty consecutive patients diagnosed with CIU were
+recruited from the routine allergy clinic at Derriford
+Hospital, Plymouth. Four of these patients were on antihistamine treatment. Thirty normal volunteer controls
+from the hospital laboratory staff were also recruited.
+These volunteers had never suffered from any form of
+urticaria, were not taking antihistamines and did not have
+allergies requiring ongoing treatment or avoidance of
+specific allergen triggers. All subjects gave written informed consent to take part in the study. All subjects were
+aged 18-65 years to avoid any confounding effects caused
+by the declining function of the immune system in old
+age. All data were anonymized before analysis. This study
+was approved by the South West Devon Research Ethics
+Committee (reference: 06/Q2103/20).
+
+ 
+
+ 
+
+ 
+
+Sample collection
+
+Peripheral blood samples were taken by a trained phlebotomist. All samples were taken during the time of the
+morning clinic (within 2.5 h) to minimize the effects of the
+diurnal variation in the cortisol level.
+
+© 2007 The Authors
+
+Basophil activation test
+
+The basophil activation test is based on flow cytometric
+detection of CD63, which appears on the surface of
+basophils during degranulation. Basophils are identified
+by the presence of IgE bound to the cell surface via the
+high-affinity IgE receptor. The basophil activation test
+measures cell function, and hence all samples were
+analysed within 24h of collection to minimize cell death
+and degradation. The BASOTEST kit manufactured by
+Orpegen (Heidelberg, Germany) was purchased from
+Becton Dickinson (Oxford, UK). All reagents are kit
+components unless stated otherwise. Preparations of CRF
+(human/rat), ACTH (human) and cortisol (corticosterone)
+were purchased from Sigma-Aldrich (Poole, UK). The
+peptide hormones, CRF and ACTH, were dissolved in
+BASOTEST wash buffer at 5 and 10 pg/mL, respectively.
+Cortisol was dissolved at 50yg/mL in 0.5% ethanol in
+wash buffer due to its hydrophobic character. These
+hormone concentrations are orders of magnitude higher
+than physiological levels, but are based on the work of
+Theoharides et al. [9] on the response of mast cells in rat
+skin.
+The manufacturer's instructions for the BASOTEST were
+altered to assess the in vitro response of basophils to the
+HPA-axis hormones. One hundred microlitres of heparinized whole blood was pre-incubated with 20 uL of IL-3containing buffer at 37°C for 10min. The stimulation
+age involved addition of 100uL of test solution (hormone solution, wash buffer as negative control or 0.5%
+ethanol in wash buffer) and incubation for 2h at 37 °C.
+Alternatively, 100 uL of f-Met-Leu-Phe (fMLP; 2 pm) was
+added as a positive control stimulation and incubated for
+20 min at 37 °C. Degranulation was stopped by chilling on
+ice for at least 5min. The cells were then labelled by
+incubating for 20 min with a two-colour staining reagent
+containing two monoclonal antibodies: phycoerythrinconjugated anti-IgE and anti-CD63 conjugated to fluoroisothiocyanate. This was carried out on ice to avoid the
+anti-IgE activating the basophils by crosslinking IgE
+bound to receptors on the cell surface. The erythrocytes
+were lysed and the leucocytes were simultaneously fixed
+by the addition of lysing solution and incubation at room
+temperature for 10 min. Finally, the cells were washed and
+resuspended in ice-cold wash solution. They were kept on
+ice and analysed within 2h. Data on approximately 1000
+surface IgE-positive cells were acquired on a FACS calibur
+flow cytometer (Becton Dickinson), and the percentage
+expressing surface CD63 was calculated.
+
+n
+
+ 
+
+ 
+
+Assessing baseline basophil activation
+
+One hundred microlitres of whole blood was diluted with
+100 pL of ice-cold BASOTEST wash buffer to obtain the
+same dilution of the sample as that used for the basophil
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 :86-92
+88 S.M. Dyke et al
+
+ 
+
+stimulation test. Twenty microlitres of BASOTEST twocolour staining reagent was added and incubated on ice
+for 20min to label the baseline CD63 without prior
+exposure to IL-3 buffer or incubation at 37 °C. The rest of
+the procedure was identical to that described for the
+basophil activation test.
+
+Quantitation of serum cortisol
+
+Serum cortisol concentration was measured by the
+Clinical Chemistry department using the routine immunoassay method on a DPC Immulite 2000 analyser.
+
+Statistical analysis
+
+The differences between percentages were tested by calculating the 95% confidence intervals (CIs) of proportion.
+Any overlap of the 95% Cls indicates that the percentages
+are not significantly different. Using the negative control
+to model on, the baseline basophil activation was tested
+using Student’s t-test based on the mean and standard
+deviation of the CD63 fluorescence of the IgE-positive
+cells as given by the flow cytometer. Other analyses were
+carried out using non-parametric tests: Mann-Whitney
+U-test for hypothesis testing and Spearman’s ranked
+correlation coefficient.
+
+Results
+
+Assay precision
+
+To assess the variability of the basophil activation test
+performance, the negative and positive controls were
+tested in duplicate on three volunteer control samples.
+The 95% CIs for the percentage of basophils expressing
+CD63 overlapped in each pair, except the fMLP-positive
+controls for volunteer 2 (Fig. 1). The overlap indicated that
+there was no statistically significant difference between
+the two results. The difference between the two results for
+the positive control of volunteer 2 was statistically significant despite being the outcome of identical test conditions. The gap between the 95% CIs was small: only 0.4%.
+This variability was considered when interpreting the
+results of the basophil activation tests. The mean coefficient of variance for the negative controls was 16.17%
+and 5.67% for the positive controls.
+
+Using the negative control to model baseline basophil
+activation
+
+Baseline basophil activation, as indicated by CD63 expression, was assessed directly on eight samples: five CIU
+patients and three volunteer controls. Comparison between the baseline activation and the negative control
+showed no significant difference for six of the eight
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60
+= te
+& 50 iE
+rr T
+= 40 " { T a
+3 ai i
+s
+30
+£
+3
+g 20
+2
+8 10
+) Hy + am
+zt
+(e)
+Volunteer 1 Volunteer 2 Volunteer 3
+Subject
+
+Fig. 1. Assessing basophil activation test assay precision. Controls were
+carried out in duplicate on blood samples from three volunteers. Open
+bars represent negative controls stimulated with BASOTEST wash buffer.
+Shaded bars represent positive controls stimulated with f-Met-Leu-Phe.
+Error bars represent 95% confidence intervals of proportion, calculated
+with n= number of surface IgE-positive cells.
+
+samples (Table 1). One sample had a difference of only
+1.32 fluorescence units, which was significant due to a
+small standard deviation, but not clinically significant.
+This left only one discrepant sample out of eight (12.5%;
+95% Cl=— 10.4 to 35.4%). The negative control is therefore an acceptable model of baseline basophil activation.
+
+Effects of antihistamine treatment on basophil response
+
+Initially, CIU patients were recruited independently of
+whether or not they were taking antihistamine treatment
+for their condition. However, it was observed that basophils from patients on treatment had a different response
+profile to the stimulation conditions (Fig. 2). They had an
+elevated baseline activation as indicated by the negative
+control. The positive control response was the same
+irrespective of treatment. Only four patients on antihistamines were recruited, which accounts for the large standard errors of the means compared with the untreated
+group. Nonetheless, it can be seen that the mean result for
+those on antihistamines was high in response to all three
+hormones compared with the untreated group, but consistent with the negative control. In order to avoid this
+effect biasing the outcome of the study, all subsequent
+patients were recruited at initial diagnosis before commencing treatment with antihistamines. The results from
+the four patients taking antihistamines were excluded
+from the analyses of the basophil activation test results.
+
+Response to f-Met-Leu-Phe as an indicator of successful
+assay performance
+
+The validity of the basophil activation test was assessed by
+calculating the 95% CIs of the percentage of cells
+
+© 2007 The Authors
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 : 86-92
+Basophil function in chronic idiopathic urticaria 89
+
+ 
+
+Table 1. A Student's f-test to test the use of the basophil activation test negative control as a model for the baseline basophil activation
+
+ 
+
+Negative control (fluorescence intensity)
+
+Baseline activation (fluorescence intensity)
+
+ 
+
+ 
+
+Subject Mean Standard deviation Mean Standard deviation t-test statistic Significance
+CIU patients
+
+1 10.67 39.03 8.78 37.36 1.12 NS
+
+2 20.57 49.83 9.87 28.95 5.13 Difference
+
+3 13.64 65.92 10.35 25.64 1.47 NS
+
+4 5.35 9.23 4.03 4.01 4.06 Difference
+
+5 2.70 2.77 2.75 3.38 —0.40 NS
+Volunteer controls
+
+6 9.26 62.79 5.96 11.19 1.63 NS
+
+7 6.17 17.77 5.73 14.36 0.69 NS
+
+8 9.62 29.05 8.44 26.09 0.96 NS
+
+ 
+
+The two-tailed test 95% critical value for significance of the f-test statistic is + 1.96. CIU, chronic idiopathic urticaria; NS, not significant.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70
+
+= 60
+
+: |
+
+= 50
+
+8 I
+
+@ 40
+
+2
+
+go
+
+fo) | | J
+
+a
+
+°
+
+2 20 | l |
+
+8 T t
+
+a
+
+B i oe &
+
+0 [1
+Negative fMLP positive CRF ACTH Cortisol
+control control
+Stimulation
+
+Fig. 2. Basophil responses from untreated chronic idiopathic urticaria
+(CIU) patients compared with those taking antihistamines. Open bars
+represent the mean of the untreated CIU patients [n = 22 for the negative
+control, f-Met-Leu-Phe (fMLP)-positive control and corticotrophinreleasing factor (CRF) stimulation; n=20 for adrenocorticotrophic
+hormone (ACTH) stimulation and cortisol stimulation]. Shaded bars
+represent the mean of the CIU patients taking antihistamines (n= 4 for
+the negative and positive controls, CRF stimulation and ACTH stimulation; n=2 for cortisol stimulation). Error bars represent the standard
+error of the mean.
+
+expressing CD63 in the negative and positive controls
+for each sample. The positive control must be greater
+than the negative control and there must be no overlap in
+Cls in order for the test to be considered valid. This was
+the case in all the samples, except one, which was from a
+CIU patient. This sample was excluded from subsequent
+analyses of basophil activation test results because
+the test was deemed to have failed. While performing
+these analyses, it was observed that one volunteer control
+gave extreme responses to all stimulation conditions. It
+was decided to exclude these data as well, in order to
+avoid outlier effects on the statistical tests, although
+diagnosing their condition was beyond the scope of this
+study.
+
+© 2007 The Authors
+
+ 
+
+8.00 4
+
+7.00 4 *
+
+6.00 4 °
+
+5.00 4 T
+
+ 
+
+ 
+
+4.00 +
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.00 4
+
+CD63 median fluorescence intensity
+
+2.00 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Control Patient
+
+Group
+
+Fig. 3. Distribution of baseline basophil activation. CD63 median fluorescence intensity given in arbitary fluorescence units. Subject group:
+control, volunteer control (n=27); and patient, chronic idiopathic
+urticaria patient (n= 22). Open circles and asterisks represent outlying
+data and extreme outliers, respectively.
+
+Baseline basophil activation and serum cortisol
+concentration
+
+There was very little variation in the baseline basophil
+activation. No difference was found in the baseline
+expression of CD63 between the CIU patients and volunteer controls using a Mann-Whitney test to compare the
+median fluorescence intensity of the negative controls in
+each group (P=0.904) (Fig. 3). There was a trend towards
+higher serum cortisol concentrations in the CIU patients
+compared with the volunteer controls (Fig. 4). However,
+using a Mann-Whitney test, this difference was not
+statistically significant (P=0.071). There was no relationship between serum cortisol concentration and baseline
+basophil activation (p=0.008, P=0.960) and a wide
+variation in the serum cortisol concentrations, ranging
+from 111 to 897 nmol/L.
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 :86-92
+90 S.M. Dyke et al
+
+ 
+
+Basophil responses to stress hormones of the
+hypothalamic-pituitary-adrenal axis
+
+The results of the basophil activation test using the
+hormones of the HPA axis as stimulation are summarized
+in Fig. 5. The data were analysed in the same way as for
+the assay precision study. The number of cells collected for
+each test was used to calculate the 95% CIs of the
+percentage of basophils expressing CD63. If the 95% CI
+for the response to a hormone did not overlap with the
+95% CI for the negative control, the basophils from that
+individual were deemed to have responded to the hormone. Based on the assay precision study, any sample
+with a gap between the 95% CIs of <0.4% was not
+classified as a responder.
+
+ 
+
+800.00 4
+
+600.00 4 °
+
+400.00 —
+
+ 
+
+ 
+
+ 
+
+200.00 4
+
+ 
+
+ 
+
+Serum cortisol concentration (nmol/L)
+°
+
+ 
+
+ 
+
+ 
+
+ 
+
+T
+Patients
+Group
+
+Controls
+
+Fig. 4. Distribution of serum cortisol concentration. Subject group:
+controls, volunteer controls (n=30); and patients, chronic idiopathic
+urticaria patients (n= 22). Open circles and asterisks represent outlying
+data and extreme outliers, respectively.
+
+There were a few significant responses to CRF in both
+the CIU patient group and the volunteer control group.
+Four of the 22 CIU patients in the analysis (18.2%; 95%
+CI = 2.1-34.3%) responded, with a mean increase in the
+percentage of basophils expressing CD63 of 34.2%
+(95% CI =31.3-37.1%). Six of the 27 volunteer controls
+(22.2%; 95% CIl=6.5-37.9%) responded, with a mean
+increase in basophils expressing CD63 of 11.1% (95%
+CI =9.2-13.0%). There were five significant responses to
+ACTH in basophils from 20 CIU patients (25%; 95%
+CI =6.0-44.0%) and nine from 27 volunteer controls
+(33.3%; 95% CI = 15.5-51.1%). The mean increase in the
+percentage of basophils expressing CD63 was 24.5%
+(95% CI=21.8-27.2%) for the CIU patients and 10.8%
+(95% CI = 8.9-12.7%) for the volunteer controls. Two CIU
+patients responded to both CRF and ACTH. All six of the
+volunteer controls who responded to CRF also responded
+to ACTH.
+
+In five of the 47 subjects (10.6%; 95% CI = 1.8-19.5%),
+the percentage of basophils expressing CD63 decreased
+following stimulation with cortisol. Three were volunteer
+controls and two were CIU patients. The mean reduction
+was 5.5% (95% CI = 4.1-6.9%). Three of these subjects also
+showed reductions in the percentage of basophils expressing CD63 in response to the 0.5% ethanol control. In
+total, six subjects had reduced basophil activation in
+response to the ethanol control. The ethanol solvent may
+therefore also have been a factor in the suppression of
+basophil activation in the tests stimulated with cortisol.
+
+The basophil response to stimulation with the peptide
+hormones was calculated as the percentage of basophils
+expressing CD63 in response to CRF or ACTH minus the
+percentage in the negative control. The response to
+cortisol was calculated by subtracting from the negative
+control. These differences were then compared between
+CIU patients and volunteer controls using Mann-Whitney
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100.00
+z _
+a 80.00 4 _
+=
+Qa *
+°
+a *
+iS 60.00 — * Fig. 5. Summary of the basophil activation
+2 test using the hormones of the hypothalamic9 4000 =_- pituitary-adrenal axis as stimulation. Open
+Q . boxes represent the responses of basophils from
+5 * 2 volunteer controls (n=27 for all stimulation
+2 90.00 8 T ° groups). Shaded boxes represent the responses
+8 . iy ° T of chronic idiopathic urticaria patients [n= 22
+2 2 — = — SB for the negative iti
+gative control, f-Met-Leu-Phe positive
+0.00 — = = — — control and corticotrophin-releasing factor
+; T T ; ; (CRF) stimulation; n=20 for adrenocorticoNegative Positive CRF ACTH Cortisol trophic hormone (ACTH) stimulation and cortisol
+. stimulation]. Open circles and asterixes represent
+Stimulation
+
+outlying data and extreme outliers, respectively.
+
+© 2007 The Authors
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 : 86-92
+Basophil function in chronic idiopathic urticaria 91
+
+ 
+
+tests. No statistically significant differences were found
+between the responses to CRF (P=0.817), ACTH
+(P= 0.540) or cortisol (P= 0.606).
+
+Correlation of basophil activation with serum cortisol
+concentration
+
+The responses to CRF and ACTH were calculated as the
+difference between the percentage of basophils expressing
+CD63 in the stimulated test and in the negative control.
+The relationship between these differences and the serum
+cortisol concentration was then explored using a Spearman’s correlation coefficient. In the volunteer controls,
+the in vitro responses to both CRF and ACTH correlated
+with the serum cortisol concentration (p=0.432,
+P=0.024; and p=0.432, P=0.025, respectively). However, in the CIU patients this correlation was lost for both
+CRE (p = 0.010, P= 0.968) and ACTH (p = 0.270, P= 0.295).
+
+Discussion
+
+There is evidence that CIU may be associated with psychological stress [6-8]. This is proposed to be a two-way
+interaction, chronic skin diseases are known to heighten
+psychological distress [15], while chronic stress may be a
+trigger of CIU [3, 8]. In this study, a basophil activation
+test was used to look at whether an abnormal basophil
+response to the hormones of the HPA axis is involved in
+the mechanism of this link.
+
+The comparison of baseline basophil activation between CIU patients and volunteer controls showed no
+difference in baseline CD63 expression. This is surprising,
+because basophils are thought to be involved in mediating
+the disease [16] and CD63 is a marker of basophil activation; it would therefore be expected that the basophils
+would be more active in patients with CIU. Therefore, the
+assumptions must be called into question. One possibility
+is that basophils are not involved in the disease process,
+which is entirely mediated by mast cells, or that basophils
+have to be recruited to the skin before they are activated as
+is the case for neutrophils in contact hypersensitivity [17].
+Another is that CD63 expression may not be a good
+marker of activation for basophils in this disease. CD63
+appears on the surface of basophils during degranulation
+and has previously been shown to be correlated with
+histamine release [18]. Perhaps the role of basophils in
+CIU is independent of their degranulation response. For
+example, human mast cells and basophils are a major
+source of cytokines, such as IL-4 and IL-5 [19], which
+could contribute to the inflammatory skin lesions.
+
+Measuring serum cortisol as a surrogate marker of
+chronic stress found a trend towards higher serum cortisol
+concentrations in CIU patients. Measuring the cortisol
+concentration in a 24-h collection of urine would have
+given a more accurate indication of chronic stress and
+
+© 2007 The Authors
+
+may therefore have shown a more significant difference
+between the two groups. If CIU patients were found to
+have higher cortisol production that normal controls, this
+would be contrary to findings in atopic dermatitis where a
+blunting of the diurnal rhythm of cortisol production and
+a decreased cortisol response to acute stress are observed
+and implicated in the disease mechanism [20, 21].
+
+The main purpose of the study was to investigate the
+response of basophils to the hormones of the HPA axis in
+order to determine their role in CIU. There were subjects in
+both the CIU patient group and the volunteer control
+group whose basophils responded to CRF and/or ACTH.
+Therefore, this response is not diagnostic of CIU. However,
+it does suggest that basophils are sensitive to activation by
+these peptide hormones. Roughly the same proportion of
+subjects responded to CRF or ACTH in the CIU patients and
+the volunteer control groups. It would be interesting to
+test whether the presence of autoantibodies affected the
+basophil responses. The responses were stronger in the CIU
+patients, resulting in a higher percentage of basophils
+expressing CD63. Therefore, basophils from CIU patients
+may be hyperresponsive rather than hypersensitive.
+
+The final hormone of the HPA axis is cortisol. Corticosteroids are known to suppress cytotoxic T cell immunity
+and the results suggest a mild suppressive effect on
+basophil activation. When CIU patients are treated with
+corticosteroids, it may therefore not only reduce the
+inflammation but may also modulate the mechanism of
+the disease.
+
+The working hypothesis of this study was that basophils
+from patients with CIU would have a lower threshold for
+activation by hormones of the HPA axis than basophils
+from normal controls. This was not shown to be the case,
+as no significant difference in basophil responses was
+found to any of the hormones tested. There is, however, a
+correlation between basophil responses to CRF or ACTH
+and serum cortisol concentration in volunteer controls
+that is lost in CIU patients. This derangement of basophil
+function is consistent with the basophil abnormality
+reported by Luquin et al. [14] in CIU patients. In conclusion, our data do not substantiate a major contribution of
+the hormones of the HPA axis to CIU.
+
+ 
+
+Disclosure
+
+There are no competing interests.
+
+Acknowledgements
+
+Thanks are due to Dr Jinny Jeffery for discussion of the
+methods of cortisol measurement, Dr Steve Shaw for help
+with statistical analysis, and Dr Julie McLeod for academic
+supervision. This work was submitted to the University of
+the West of England, Bristol, by S. M. D.
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 :86-92
+92 S.M. Dyke et al
+
+ 
+
+References
+
+Nv
+
+wo
+
+N
+
+i}
+
+10
+
+1
+
+Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin
+Immunol 2003; 3:363-8.
+
+Kaplan AP. Chronic urticaria and angioedema. N Engl J Med
+2002; 346:175-9.
+
+Powell RJ, Du Toit GL, Siddique N et al. BSACI guidelines for the
+management of chronic urticaria and angio-oedema. Clin Exp
+Allergy 2007; 37:631-50.
+
+Hide M, Francis DM, Grattan CEH, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine-release in chronic urticaria. N Engl J Med
+1993; 328:1599-604.
+
+Sheikh J. Autoantibodies to the high-affinity IgE receptor in
+chronic urticari: how important are they? Curr Opin Allergy Clin
+Immunol 2005; 5:403-7.
+
+Papadopoulou N, Kalogeromitros D, Staurianeas NG, Tiblalexi D,
+Theoharides TC. Corticotropin-releasing hormone receptor-1 and
+histidine decarboxylase expression in chronic urticaria. J Invest
+Dermatol 2005; 125:952-5.
+
+Sperber J, Shaw J, Bruce S. Psychological components and the
+role of adjunct interventions in chronic idiopathic urticaria.
+Psychother Psychosom 1989; 51:135-41.
+
+Yang HY, Sun CC, Wu YC, Wang JD. Stress, insomnia, and
+chronic idiopathic urticaria - a case-control study. J Formos
+Med Assoc 2005; 104:254-63.
+
+Theoharides TC, Singh LK, Boucher W et al. Corticotropinreleasing hormone induces skin mast cell degranulation and
+increased vascular permeability, a possible explanation for its
+proinflammatory effects. Endocrinology 1998; 139:403-13.
+Slominski A, Ermak G, Mazurkiewicz JE, Baker J, Wortsman J.
+Characterization of corticotropin-releasing hormone (CRH) in
+human skin. J Clin Endocrinol Metab 1998; 83:1020-4.
+
+De Swerdt A, Van Den Keybus C, Kasran A ef al. Detection of
+basophil-activating IgG autoantibodies in chronic idiopathic
+urticaria by induction of CD63. J Allergy Clin Immunol 2005;
+116:662-7.
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+Gyimesi E, Sipka S, Danko K et al. Basophil CD63 expression
+assay on highly sensitized atopic donor leucocytes - a useful
+method in chronic autoimmune urticaria. Br J Dermatol 2004;
+151:388-96.
+
+Wedi B, Novacovic V, Koerner W, Kapp A. Chronic urticaria
+serum induces histamine release, leukotriene production,
+and basophil CD63 surface expression - inhibitory effects of
+anti-inflammatory drugs. J Allergy Clin Immunol 2000; 105:
+552-60.
+
+Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of
+basophils of patients with chronic urticaria to sera but hyporesponsiveness to other stimuli. Clin Exp Allergy 2005;
+35:456-60.
+
+Evers AWM, Lu Y, Duller P, van der Valk PGM, Kraaimaat FW,
+van de Kerkhof PCM. Common burden of chronic skin
+diseases? Contributors to psychological distress in adults with
+psoriasis and atopic dermatitis. Br J Dermatol 2005; 152:
+1275-81.
+
+Sabroe RA, Greaves MW. The pathogenesis of chronic idiopathic
+urticaria. Arch Dermatol 1997; 133:1003-8.
+
+Cattani F, Gallese A, Mosca M et al. The role of CXCR2 activity in
+the contact hypersensitivity response in mice. Eur Cytokine Netw
+2006; 17:42-8.
+
+Sainte-Laudy J, Sabbah A, Vallon C, Guerin JC. Analysis of antiIgE and allergen induced human basophil activation by flow
+cytometry. Comparison with histamine release. Inflamm Res
+1998; 47:401-8.
+
+Belvisi MG. Regulation of inflammatory cell function by corticosteroids. Proc Am Thoracic Soc 2004; 1:207-14.
+Buske-Kirschbaum A, Geiben A, Hollig H, Morschhauser E,
+Hellhammer D. Altered responsiveness of the hypothalamuspituitary-adrenal axis and the sympathetic adrenomedullary
+system to stress in patients with atopic dermatitis. J Clin
+Endocrinol Metab 2002; 87:4245-51.
+
+Wright RJ, Cohen R, Cohen S. The impact of stress on the
+development and expression of atopy. Curr Opin Allergy Clin
+Immunol 2005; 5:23-9.
+
+© 2007 The Authors
+
+Journal compilation © 2007 Blackwell Publishing Ltd, Clinical and Experimental Allergy, 38 : 86-92
+

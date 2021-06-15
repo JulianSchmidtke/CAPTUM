@@ -1,0 +1,720 @@
+‘Department of Paediatric
+Allergy, King's College
+Hospital NHS Foundation
+Trust, London, UK
+Dermatology, Norfolk and
+Norwich University Hospital,
+Norwich, UK
+
+3Science and Research
+Department, Royal College of
+Paediatrics and Child Health,
+London, UK
+
+‘Department of Immunology,
+Royal Surrey County Hospital
+NHS Foundation Trust,
+Guildford, UK
+
+5Royal Shrewsbury Hospital
+NHS Trust, Shrewsbury, UK
+6Skin Care Campaign, UK
+Department of Paediatrics,
+Imperial College, St Mary's
+Hospital Campus, London, UK
+
+Correspondence to
+
+Dr Susan Leech, Department
+of Paediatric Allergy, King’s
+College Hospital NHS
+
+Foundation Trust, Denmark Hill,
+
+London SE5 SRS, UK;
+susan.leech@kcl.ac.uk
+
+Accepted 6 June 2011
+
+i34
+
+Downloaded from adc.bmj.com on October 5, 2014 - Published by group.bmj.com
+
+Original article
+
+The RCPCH care pathway for children with Urticaria,
+Angio-oedema or Mastocytosis: an evidence and
+consensus based national approach
+
+Susan Leech,' Clive Grattan,” Kate Lloyd,? Sarah Deacock,’ Lynette Williams,*
+Andrew Langford,® John Warner’; on behalf of the Science and Research Department,
+
+Royal College of Paediatrics and Child Health
+
+ABSTRACT
+
+Aims The Royal College of Paediatrics and Child
+
+Health (RCPCH) Science and Research Department was
+commissioned by the Department of Health to develop
+national care pathways for children with allergies; the
+urticaria, angio-oedema or mastocytosis pathway is
+
+the fifth pathway. The pathways focus on defining the
+competences required to improve the equity of care
+received by children with allergic conditions.
+
+Method The urticaria, angio-oedema or mastocytosis
+pathway was developed by a multidisciplinary working
+group and was based on a comprehensive review of
+evidence. The pathway was reviewed by a broad group
+of stakeholders including the public and approved by the
+Allergy Care Pathways Project Board and the RCPCH
+Clinical Standards Committee.
+
+Results Three pathways are described: urticaria with
+or without angio-oedema, angio-oedema without weals,
+and mastocytosis. The results are presented in four
+parts: evidence review, mapping, external review and
+core knowledge documents. Acute urticaria has many
+causes and is often not allergic in origin. It is frequently
+of relatively short duration and easily managed with
+antihistamines alone. However, at the other extreme,
+causes of chronic urticaria and angio-oedema are
+difficult to diagnose and treatment can be complex.
+Thus defining the competence required for each extreme
+is critical to ensure optimal care. The evidence review
+identified that allergy testing and thyroid function testing
+were helpful in the investigation of chronic urticaria, that
+increasing the dose of antihistamine was effective in
+treating urticaria and that ciclosporin A and prednisolone
+were effective second line treatments.
+
+Conclusions From the common presentation of acute
+(intermittent) urticaria to the uncommon presentations
+of chronic urticaria, angio-oedema and cutaneous
+mastocytosis, this pathway is a tool to assist health
+professionals to differentiate and manage these
+conditions.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION
+
+Urticaria
+
+Urticaria is a disease characterised by intensely
+itchy weals, angio-oedema or both. Three main
+clinical patterns are recognised: spontaneous (also
+known as ordinary urticaria), physical (including
+cholinergic) and contact urticaria. The differential
+diagnosis of chronic urticaria includes urticarial
+vasculitis and the autoinflammatory syndromes.
+These may be hereditary or acquired. Chronic
+
+urticaria is usually defined as continuous disease
+activity lasting at least 6 weeks and acute urticaria
+as a problem lasting less than 6 weeks. An intermittent or episodic course may be seen in some
+patients, characterised by daily or almost daily
+weals for a few days or weeks followed by periods
+without symptoms.
+
+There is lack of universal agreement on several
+aspects of urticaria terminology: the term ‘idiopathic’ urticaria is often used for patients with
+chronic urticaria to denote that the cause is not
+nown. ‘Chronic idiopathic urticaria’ has been in
+use for decades and serves a purpose by emphasising that its aetiology is not allergic even though
+the symptoms may be the same as those seen in
+immediate hypersensitivity reactions of the skin.
+However, there is good laboratory and clinical
+evidence for an autoimmune aetiology in around
+30-50% of patients who would otherwise be classified as having ‘idiopathic’ disease.! The prevaence of chronic urticaria in children showing a
+positive autologous serum skin test,? as a demonstration of autoreactivity, and a positive basophil
+istamine release assay,° as an in vitro measure of
+istamine releasing autoantibodies, is similar to
+that in adults. In recognition that chronic urticaria
+cannot be both ‘idiopathic’ and ‘autoimmune’,
+there is a weight of European opinion in favour
+of using a clinical rather than an aetiological classification. The ‘ordinary’ presentation of urticaria
+implies the usual pattern of spontaneous eruptions
+of weals, angio-oedema or both, for which an aetiology may or may not be identified. In a recent
+consensus paper on the definition of urticaria, the
+term ‘chronic spontaneous urticaria’ was preferred
+to ‘chronic idiopathic’ or ‘ordinary urticaria’ and
+seems likely to become the standard international
+nomenclature.* Whether ‘chronic urticaria’ should
+be restricted to patients with spontaneous disease
+or include those with physical urticaria as well is
+also disputed, although the latter seems logical.
+Cholinergic urticaria is included as a physical urticaria in some classifications but not in others on
+the grounds that it is triggered primarily by sweating, with or without a rise in core body temperature, rather than only application of external heat.
+
+The prevalence of urticaria is poorly documented, especially in children. Historicalestimates
+that urticaria occurs in about 25% of the general
+population at some point during life are almost
+certainly too high. A figure of 8-10% lifetime
+
+ 
+
+ 
+
+Arch Dis Child 2011;96(Suppl 2):i34—i37. doi:10.1136/adc.2011.214734
+Downloaded from adc.bmj.com on October 5, 2014 - Published by group.bmj.com
+
+Original article
+
+prevalence in Europeans may be more realistic.5 Estimates for
+the point prevalence of chronic spontaneous urticaria range
+from 0.1% to 1.0%.° The proportion of chronic urticaria
+patients with predominant physical or cholinergic disease is
+in the region of 25%. Chronic urticaria is most frequent in the
+fourth decade of life and is about twice as common in females
+as in males. Good information on the epidemiology of acute
+urticaria is difficult to find, but it is certainly more common
+than chronic disease, presenting at any age, and is prevalent
+in children, and particularly those with co-existent eczema.
+There was no gender bias in a series of 57 children presenting
+in infancy and early childhood.” Over half of these cases had
+evidence of an atopic constitution. Indeed, atopy appears to be
+more common in all patterns of urticaria than in the general
+population, except for chronic autoimmune urticaria where
+total IgE levels are often lower than expected.
+
+ 
+
+Angio-oedema without weals
+
+About 10% of chronic urticaria patients have angio-oedema
+without weals.® Most classifications of urticaria now distinguish angio-oedema with weals from angio-oedema without
+weals because the important practical implication of this subgroup is that a proportion will have kinin-induced swellings due
+to Cl esterase inhibitor deficiency (hereditary or acquired), type
+Ill hereditary angio-oedema (HAE) (with normal C1 inhibitor levels) or angiotensin converting enzyme induced angiooedema. The investigation and management of this should
+be completely different from the more common histaminemediated angio-oedema (often known as ‘idiopathic’ angiooedema). The prevalence of HAE (types I and II) is in the region
+of 1:50 000 of the general population with an autosomal dominant pattern of inheritance. Both sexes are affected equally.>
+
+Mastocytosis
+Mastocytosis is a disorder of mast cells. It is rare and clinicians
+are therefore often unfamiliar with it, although it is often
+linked with urticaria because of the name urticaria pigmentosa. Patients may present to specialists with diverse symptoms, including skin lesions, anaphylactic reactions and blood
+disorders. It is defined by a clonal increase in the number of
+mast cells in the body. Clonality is usually assessed on bone
+marrow aspirates to optimise the sensitivity of the detection
+method, so it is unusual for diagnostic molecular testing to be
+performed in children.
+
+Mastocytosis is conventionally classified as cutaneous or
+systemic, although it may be difficult to distinguish one from
+the other. The term ‘mastocytosis in the skin’ has been introduced for patients with skin lesions who have not been investigated for systemic disease (including bone marrow biopsy),’
+which is usually the case in children. Different clinical patterns
+of mastocytosis in the skin are recognised, including urticaria
+pigmentosa, mastocytomas, diffuse cutaneous mastocytosis
+(DCM) and telangiectasia macularis eruptiva perstans (TMEP).
+Overlap between patterns may occur. Grouping urticaria pigmentosa with TMEP under the umbrella term ‘maculopapular
+cutaneous mastocytosis’ to some extent resolves the difficulty
+presented by overlapping clinical presentations but leaves
+unresolved whether TMEP should be regarded as affecting a
+subgroup of patients with limited cutaneous disease having a
+better prognosis than those with urticaria pigmentosa as has
+been proposed.!?
+
+TMEP generally presents in adults. The commonest presentation of mastocytosis in infancy is the mastocytoma, which
+usually presents in the first year of life and may be present at
+
+ 
+
+ 
+
+ 
+
+Arch Dis Child 2011;96(Suppl 2):i34—i37. doi:10.1136/adc.2011.214734
+
+birth. DCM is exceptionally rare and may present in the neonate with blistering. Urticaria pigmentosa presents by the age
+of 2 years in the majority of children.!! The skin lesions resolve
+in approximately half by puberty, with notable improvement in
+the remainder.'? The proportion of adult urticaria pigmentosa
+patients who have or will develop systemic disease over their
+lifetime is probably very high, but exact data on this are lacking. Neither are there reliable data on the lifetime prevalence
+of mastocytosis. Familial mastocytosis has been reported in
+over 50 families,!® but relevant gene mutations have not been
+identified and the molecular basis for it remains unknown.
+
+Care pathways
+
+To our knowledge this is the first such attempt to describe the
+care for children with either urticaria, angio-oedema or mastocytosis using a national approach. The need and requirement for
+care pathways is described separately in this supplement. For
+the purposes of the pathway, ‘children’ is an inclusive term that
+refers to infants, children and young people (0-18 years of age).
+
+METHOD
+The full methodology is outlined separately in this
+supplement.'4
+
+RESULTS
+
+The pathway development results are presented in four parts:
+evidence review, mapping, external review and core knowledge documents.
+
+ 
+
+ 
+
+ 
+
+Table 1 Key definitions for conditions covered in this pathway
+Condition Description
+Urticaria Characterised by fluctuating weals and/or angiooedema
+Weal Consists of three typical features:
+
+a central swelling of variable size, almost
+invariably surrounded by a reflex erythema
+associated itching or, sometimes, burning
+sensation
+a fleeting nature, with the skin returning to its
+normal appearance, usually within 1-24 h
+Characterised by continuous symptoms that persist
+for more than 6 weeks
+Characterised by the occurrence of repeated
+relapses of urticaria with intervals of at least a week
+between each relapse
+Characterised by:
+a sudden, pronounced swelling of the lower
+dermis and subcutis
+which is pale rather than pink and may be painful
+rather than itching
+frequent involvement below mucous membranes
+resolution that is slower than for weals and can
+take up to 72h
+May also involve symptoms of abdominal pain due to
+intestinal oedema causing obstruction
+Heterogeneous group of disorders characterised by
+abnormal growth and accumulation of mast cells in
+one or more organ systems
+Most children present with maculopapular
+cutaneous mastocytosis (urticaria pigmentosa).
+Other less frequent forms of cutaneous
+mastocytosis are diffuse cutaneous mastocytosis
+and mastocytoma of skin*?
+The diagnosis of cutaneous mastocytosis in children
+is based on typical clinical and histological skin
+lesions and absence of systemic involvement
+
+Chronic urticaria
+
+Episodic urticaria
+
+Angio-oedema
+
+Hereditary angio-oedema
+
+Mastocytosis
+
+Cutaneous mastocytosis
+
+ 
+
+i35
+Downloaded from adc.bmj.com on October 5, 2014 - Published by group.bmj.com
+
+Original article
+
+Evidence review
+
+A total of 390 titles and abstracts were screened by the project
+manager and Urticaria Working Group chair (table 1 and figure 1). Twenty-four systematic reviews and/or primary papers
+and seven guidelines were identified for appraisal; hand searching the reference lists of appraised papers identified a further
+2 papers. The full critical appraisal resulted in the inclusion of
+9 systematic reviews and/or primary papers and five clinical
+practice guidelines.
+The evidence review found that non-allergic hypersensitivity reactions do play a role in children with chronic urticaria.!
+ncreasing antihistamine dose was highlighted as a key way
+to improve management for urticaria patients.!° The research
+also clearly showed the value of second line treatments, such as
+ciclosporin A!” !8 and prednisolone.!? The value of allergy testing? and thyroid function screening was also highlighted.° All
+aboratory tests should be performed in an accredited laboratory.!§ 21 A full evidence table can be obtained from the Royal
+College of Paediatrics and Child Health (RCPCH) Science and
+esearch Department.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mapping
+
+The RCPCH national care pathway for urticaria, angio-oedema
+or mastocytosis can be downloaded from http://www.rcpch.
+ac.uk/allergy/urticaria, http://www.rcpch.ac.uk/allergy/angiooedema or http://www.rcpch.ac.uk/allergy/mastocytosis.
+
+External review
+
+This pathway was made available on the RCPCH website
+and emailed to a general allergy stakeholder list. A total
+of 7/56 of invited organisations responded, providing 49
+comments.
+
+ 
+
+Core knowledge documents
+
+1. The working group identified key clinical guidance for
+health professionals treating and managing urticaria and
+angio-oedema (core knowledge documents). These are
+
+as follows:Urticaria‘ EAACI/GA2LEN/EDF _ guideline:
+management of urticaria.2?
+2. Angio-oedema: the consensus statement for C1 inhibitor
+deficiency.®
+No core knowledge document was identified
+ment and management of mastocytosis.
+
+for the treat
+DISCUSSION
+The urticaria, angio-oedema and mastocytosis care pathways
+have been mapped based on review of the available evidence,
+expert consensus and comprehensive stakeholder input. The
+pathway is described from the point of first presentation of
+symptoms through to the desired patient end point: successful treatment of an acute episode or a plan of management
+and follow-up of a chronic condition. This pathway is one of
+eight pathways produced by the RCPCH (in press)5 74 25 26;
+the purpose and value of these pathways are described elsewhere (in press).!4
+
+Acute urticaria in children is common, affecting around 3%
+of children, and is usually associated with a range of infections, allergy or physical triggers such as cold, heat, sunlight
+and pressure.?” Most cases are transient and respond to treatment with a non-sedating antihistamine. The pathway aims
+to support the management of uncomplicated cases as close to
+home as possible, in primary care or at a local hospital. A small
+proportion of cases will progress to chronic urticaria, which is
+poorly understood in childhood; most information is indirect
+being extrapolated from adult data.”7 In children, a significant
+number of cases are associated with allergy”? and as many as
+30% may have an autoimmune aetiology.® These may require
+a more comprehensive approach to diagnosis and management
+provided by a specialist centre.
+
+HAE is a rare autosomal dominant condition affecting 1
+in 50 000 of the population.”® Forty per cent of patients have
+their first attack before the age of 5 years.”? A quarter of cases
+occur as spontaneous mutations with no family history, and
+the diagnosis is often delayed.°° For the clinician, the significance of angio-oedema presenting without urticaria may be
+
+ 
+
+ 
+
+ 
+
+ 
+
+Literature review and expert opinion
+
+ 
+
+Titles screened [390]
+
+Stage 2: Titles and eee screened
+
+ 
+
+——_——
+
+Si 2:
+Syster Review! Stage 2: Guideli:
+Primary Evidence [19] araennes (el
+
+|
+
+Handsearching reference
+lists of appraised papers <—4—————
+[5 guidelines, 7 papers)
+
+Stage 3: CASP Critical
+\ppraisal / Data extraction
+
+|
+
+Stage 3: AGREE
+Appraisal/data extraction
+
+ee ee ee ee
+
+Include [5G] Exclude {7P} include [12]
+
+Figure 1
+
+136
+
+Exclude {7} Include [9] Exclude {0}
+
+Urticaria, angio-oedema or mastocytosis pathway: methodology of evidence review.
+
+Arch Dis Child 2011;96(Suppl 2):i34—i37. doi:10.1136/adc.2011.214734
+Downloaded from adc.bmj.com on October 5, 2014 - Published by group.bmj.com
+
+missed. We have addressed this by describing a separate care
+pathway for angio-oedema without weals. Symptoms vary in
+requency and severity. Episodes in childhood occur less often
+and are less likely to involve laryngeal oedema than in adult
+patients.° There is no curative therapy for HAE, so management aims at anticipation, minimisation and early treatment of
+acute episodes. At least half of the children with HAE require
+long term prophylaxis. Education of patients and their famiies is important and they need ready access to C1 inhibitor
+concentrate at hospital or at home and a written management
+plan. The specification for specialist services providing diagnosis and treatment of patients with HAE has been described.*!
+Each region should have a nominated centre supported by a
+multidisciplinary team including an immunologist and specialist nurses. The centre must look after enough patients to
+maintain competence in diagnosis and management,®? with
+written, shared protocols and management plans. Home therapy, training and testing for relatives should also be provided.
+Orofacial granulomatosis has been included in this section
+because it also presents with facial swelling. This may be an
+isolated condition sometimes know as Melkersson—Rosenthal
+syndrome, or may be a feature of Crohn’s disease or sarcoidosis. Diagnosis is based on identifying granulomata in buccal
+biopsies. While this condition is clearly not part of the allergic
+spectrum of diseases, it is sometimes exacerbated by exposure
+to a range of food additives and flavouring agents, notably cinnamaldehyde, which is present in most toothpastes.
+
+Cutaneous mastocytosis presents in childhood with typical skin lesions, and unlike in adults, has a favourable prognosis and usually remits spontaneously around puberty. This is
+also described as a separate pathway.’ This is an uncommon
+condition, which should be managed ina centre familiar with
+providing information to families on the course, prognosis and
+complications of this condition.
+
+ 
+
+ 
+
+Acknowledgements We thank Ms Hilary Whitworth, a PhD student at the
+University of Southampton, who provided assistance for the evidence review,
+the RCPCH Allergy Care Pathways Project Board who provided guidance and
+
+assistance, and the RCPCH Clinical Standards team for their hard work on the
+approval process, in particular Ms Katie Jones.
+
+Funding This project was funded by the Department of Health.
+
+Competing interests CG: CSL Behring, GSK; AL: Stiefel, GSK, Reckitt Benckiser,
+Dermal, Leo & Galderma; LW: GSK, MSD; JW: Novartis, Danone, Mead Johnson,
+Airsonette, Merck, Allergy Therapeutics, GSK, AstraZeneca. No other members
+declared a financial interest.
+
+Provenance and peer review Not commissioned; not externally peer reviewed.
+
+REFERENCES
+
+1, Grattan CEH, Hide M, Greaves MW. Chronic urticaria as an autoimmune disease.
+In: Hertl M, ed. Autoimmune Disease of the Skin. 3rd edition. New York, NY:
+Springer 2010:349-72.
+
+2. Jirapongsananuruk 0, Pongpreuksa S, Sangacharoenkit P, et a/. Identification of
+the etiologies of chronic urticaria in children: a prospective study of 94 patients.
+Pediatr Allergy Immunol 2010;21:508-14.
+
+3. Brunetti L, Francavilla R, Miniello VL, et a/. High prevalence of autoimmune
+urticaria in children with chronic urticaria. J Allergy Clin Immunol 2004;114:922-7.
+
+4. Zuberbier T, Bindslev-Jensen C, Canonica W, et al.; EAACI/GA2LEN/EDF. EAACI/
+GA2LEN/EDF guideline: definition, classification and diagnosis of urticaria. Allergy
+2006;61:316—20.
+
+5.  Zuberbier T, Balke M, Worm M, et al. Epidemiology of urticaria: a representative
+cross-sectional population survey. Clin Exp Dermato! 2010;35:869-73.
+
+Arch Dis Child 2011;96(Suppl 2):i34—i37. doi:10.1136/adc.2011.214734
+
+20.
+
+2
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+  
+
+inal article
+
+ 
+
+Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs in chronic
+spontaneous urticaria. A GA?LEN task force report. Allergy 2011;66:317—30.
+Mortureux P, Léauté-Labréze C, Legrain-Lifermann V, et al. Acute
+
+urticaria in infancy and early childhood: a prospective study. Arch Dermatol
+1998;134:319-23.
+
+Gompels MM, Lock RJ, Abinun M, et a/. C1 inhibitor deficiency: consensus
+document. Clin Exp Immunol 2005;139:379-94.
+
+Valent P, Akin C, Escribano L, et al. Standards and standardization
+
+in mastocytosis: consensus statements on diagnostics, treatment
+recommendations and response criteria. Eur J Clin Invest 2007;37:435-53.
+Sarkany RP, Monk BE, Handfield-Jones SE. Telangiectasia macularis eruptiva
+perstans: a case report and review of the literature. Clin Exp Dermatol
+1998;23:38-9.
+
+Ben-Amitai D, Metzker A, Cohen HA. Pediatric cutaneous mastocytosis: a
+review of 180 patients. /sr Med Assoc J 2005;7:320-2.
+
+Carter MC, Metcalfe DD. Paediatric mastocytosis. Arch Dis Child
+2002;86:315-19.
+
+Chang A, Tung RC, Schlesinger T, et a/. Familial cutaneous mastocytosis.
+Pediatr Dermato! 2001;18:271-6.
+
+Warner JO, Lloyd K. Shared learning for chronic conditions: a methodology
+
+for developing the Royal College of Paediatrics and Child Health (RCPCH) care
+pathways for children with allergies. Arch Dis Child 2011;96(Suppl 2):i1—i5.
+Ehlers I, Niggemann B, Binder C, et a/. Role of nonallergic hypersensitivity
+reactions in children with chronic urticaria. Allergy 1998;53:1074-7.
+Siebenhaar F, Degener F, Zuberbier T, et a/. High-dose desloratadine decreases
+wheal volume and improves cold provocation thresholds compared with
+standard-dose treatment in patients with acquired cold urticaria: a randomized,
+placebo-controlled, crossover study. J Allergy Clin Immunol 2009;123:672-9.
+Vena GA, Cassano N, Colombo D, et a/.; Neo-|-30 Study Group. Cyclosporine in
+chronic idiopathic urticaria: a double-blind, randomized, placebo-controlled trial.
+J Am Acad Dermatol! 2006;55:705-9.
+
+Grattan CE, O'Donnell BF, Francis DM, et al. Randomized double-blit
+cyclosporin in chronic ‘idiopathic’ urticaria. Br J Dermatol 2000;
+Poon M, Reid C. Do steroids help children with acute urticaria? Arch Dis Child
+2004;89:85-6.
+
+Thomas P, Perkin MR, Rayner N, et a/. The investigation of chronic urticaria
+
+in childhood: which investigations are being performed and which are
+recommended? Clin Exp Allergy 2008;38:1061—2.
+
+Levy Y, Segal N, Weintrob N, et a/. Chronic urticaria: association with thyroid
+autoimmunity. Arch Dis Child 2003;88:517-19.
+
+Zuberbier T, Bindslev-Jensen C, Canonica W, et al.; EAACI/GAZLEN/EDF. EAACI/
+GA2LEN/EDF guideline: management of urticaria. Allergy 2006;61:321-31.
+
+Cox HE, Williams HC, Lloyd K, et a/. Emollients, education and quality
+
+of life: the RCPCH care pathway for children with eczema. Arch Dis Child
+2011;96(Suppl 2):i19-i24.
+
+Vance G, Lloyd K, Scadding G, et al. The ‘unified airway’: the Royal College
+
+of Paediatrics and Child Health care pathway for children with asthma and/or
+thinitis. Arch Dis Child 2011;96(Suppl 2):i10-i14.
+
+Fox A, Lloyd K, Arkwright PD, et a/. RCPCH care pathway for food allergy in
+children: an evidence and consensus based national approach. Arch Dis Child
+2011;96(Suppl 2):i25-i29.
+
+Clark A, Lloyd K, Sheikh A, et a/. The Royal College of Paediatric and Child Health
+care pathway for children at risk of anaphylaxis: an evidence and consensus
+based national approach to caring for children with life-threatening allergies.
+Arch Dis Child 2011;96(Suppl 2):i6—i9.
+
+Greaves MW. Chronic urticaria in childhood. Allergy 2000;55:309-20.
+
+Boyle RJ, Nikpour M, Tang ML. Hereditary angio-oedema in children: a
+management guideline. Pediatr Allergy Immunol 2005;16:288-94.
+
+Agostoni A, Cicardi M. Hereditary and acquired C1-inhibitor deficiency:
+biological and clinical characteristics in 235 patients. Medicine (Baltimore)
+1992;71:206-15.
+
+Farkas H, Harmat G, Fiist G, et a/. Clinical management of hereditary angiooedema in children. Pediatr Allergy Immunol 2002;13:153--61.
+
+Bork K, Hardt J, Schicketanz KH, et a/. Clinical studies of sudden upper airway
+obstruction in patients with hereditary angioedema due to C1 esterase inhibitor
+deficiency. Arch Intern Med 2003;163:1229-35.
+
+Williams H, Flohr C. How epidemiology has challenged 3 prevailing concepts
+about atopic dermatitis. J Allergy Clin Immunol 2006;118:209-13.
+
+Valent P, Horny HP, Escribano L, et a/. Diagnostic criteria and classification of
+mastocytosis: a consensus proposal. Leuk Res 2001;25:603—25.
+
+  
+
+i37
+Downloaded from adc.bmj.com on October 5, 2014 - Published by group.bmj.com
+
+ADC The RCPCH care pathway for children with
+Urticaria, Angio-oedema or Mastocytosis: an
+evidence and consensus based national
+approach
+
+Susan Leech, Clive Grattan, Kate Lloyd, et al.
+
+Arch Dis Child 2011 96: i34-i37
+doi: 10.1136/adc.2011.214734
+
+Updated information and services can be found at:
+http://adc.bmj.com/content/96/Suppl_2/i34.full.html
+
+These include:
+
+References This article cites 32 articles, 8 of which can be accessed free at:
+http://adc.bmj.com/content/96/Suppl_2/i34.full.html#ref-list-1
+
+Article cited in:
+http://adc.bmj.com/content/96/Suppl_2/i34.full.html#related-urls
+
+Email alerting Receive free email alerts when new articles cite this article. Sign up in
+service the box at the top right corner of the online article.
+
+ 
+
+Topic Articles on similar topics can be found in the following collections
+
+Collections ;
+Dermatology (268 articles)
+Immunology (including allergy) (1401 articles)
+Drugs: CNS (not psychiatric) (349 articles)
+Notes
+
+To request permissions go to:
+http://group.bmj.com/group/rights-licensing/permissions
+
+To order reprints go to:
+http://journals.bmj.com/cgi/reprintform
+
+To subscribe to BMJ go to:
+
+http://group.bmj.com/subscribe/
+

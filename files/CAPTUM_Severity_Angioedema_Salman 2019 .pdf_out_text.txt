@@ -1,0 +1,785 @@
+Received: 19 March 2019 Revi
+
+ 
+
+DOI: 10.1111/dth.12975
+
+ORIGINAL PAPER
+
+|: 25 May 2019
+
+Accepted: 27 May 2019
+
+ 
+
+The impact of omalizumab on quality of life and its predictors
+in patients with chronic spontaneous urticaria: Real-life data
+
+Andac Salman*® | GizemDemirt©® | Nural Bekiroglu?
+
+1Department of Dermatology, Marmara
+University School of Medicine, Istanbul,
+Turkey
+
+2Department of Biostatistics, Marmara
+University School of Medicine, Istanbul,
+Turkey
+
+Correspondence
+
+Andac Salman, Department of Dermatology,
+Marmara University School of Medicine, Fevzi
+Cakmak Mah, Mimar Sinan Cad. No:
+
+41, Pendik, Istanbul 34899, Turkey.
+
+Email: asalmanitf@gmail.com, andac.
+salman@marmara.edu.tr
+
+1 | INTRODUCTION
+
+ 
+
+Abstract
+
+Background: Omalizumab is a third-line treatment for chronic spontaneous urticaria
+(CSU). However, the real-life data on the impact of omalizumab on CSU-related quality of life (QoL) remain scarce.
+
+Objectives: To investigate the impact of omalizumab on QoL and its predictors in
+CSU. A retrospective cohort study was done. The response to therapy was evaluated
+using urticaria activity score over 7 days (UAS7) and urticaria control test (UCT); the
+impairment in QoL was assessed using dermatology life quality index (DLQI) and
+chronic urticaria quality of life questionnaire (CU-Q2oL).
+
+Results: Forty-two patients were included. All scores improved from baseline to first
+month and remained stable at the third month of treatment (p < .001). The gender,
+age, and angioedema had no significant effect on QoL, but the complete responders
+(UAS7:0-1) had better improvement rates in all scores compared to others. The baseline UAS7, DLQI, and CU-Q2oL scores were lower at the baseline in complete
+responders (p = .0001).
+
+Conclusions: A rapid and continual improvement in QoL was obtained with omalizumab
+treatment. A better UAS7, UCT, DLQI, and CU-Q2oL score at the baseline might be a
+
+predictor of a better response to omalizumab and more improvement in QoL.
+
+KEYWORDS
+
+chronic spontaneous urticaria, omalizumab, quality of life, real-life, treatment, urticaria
+
+Mevlitoglu, 2008; Mendelson et al., 2017). The negative impact of
+
+CSU on various aspects of quality of life (QoL), including daily activi
+Chronic spontaneous urticaria (CSU) is characterized by the recurrence of wheals and/or angioedema for >6 weeks in the absence of
+any identifiable triggering factor (Zuberbier et al., 2018). The chronic
+and relapsing course of the disease, unpredictability of the recurrences, occasionally disfiguring lesions usually pose a heavy psychosocial burden on the patients (Balp et al., 2018; Maurer et al., 2017).
+Previous studies have reported a higher risk of anxiety, depression,
+and sleep difficulties in CSU compared to patients with psoriasis and
+
+healthy controls (Balp et al., 2018; Engin, Uguz, Yilmaz, Ozdemir, &
+
+IRB approval status: Reviewed and approved by Marmara University School of Medicine IRB
+(Approval number: 09.2018.233).
+
+ties, personal relationships, looks, work, and school life, has also been
+repeatedly demonstrated (Baiardini et al., 2011; Liu, Yao, Si, Xiong, &
+Zhou, 2012; Staubach et al., 2006). The updated CSU guidelines recommend to evaluate the impact on QoL in patient with CSU at every
+visit with CSU-specific instruments such as chronic urticaria quality
+of life questionnaire (CU-Q2oL) (Beck, Bernstein, & Maurer, 2017;
+Zuberbier et al., 2018).
+
+The current first line treatment for CSU is nonsedating antihistamines at standard doses. The antihistamines might be used up to fourfold of standard doses in patients unresponsive to first line treatment
+
+(Zuberbier et al., 2018). Moreover, omalizumab, a third line treatment
+
+ 
+
+Dermatologic Therapy. 2019;e12975.
+https://doi.org/10.1111/dth.12975
+
+wileyonlinelibrary.com/journal/dth
+
+© 2019 Wiley Periodicals, Inc. 1of7
+SALMAN er AL.
+
+ 
+
+2°7_| WILEY
+
+alternative, has expanded the armamentarium for the treatment of
+CSU and led to significant improvement in the care of patients with
+CSU (Giménez-Arnau, Velasco, Armario Hita, Labrador-Horrillo, &
+Silvestre Salvador, 2016; Tharp et al., 2019). Despite the growing evidence from clinical and real-world studies showing the effectiveness
+and safety of omalizumab in CSU, the impact of omalizumab treatment on CSU-related QoL has not been studied in detail (Tharp et al.,
+2019). Therefore, we aimed to investigate the changes in QoL measures following treatment with omalizumab and determine possible
+related clinical or demographic factors in this retrospective cohort
+
+study.
+
+2 | MATERIAL AND METHODS
+
+A retrospective cohort study was done to investigate the effects of
+omalizumab on the QoL of the patients with CSU. The study protocol
+was approved by the institutional review board (Approval number:
+09.2018.233).
+
+In our specialized urticaria outpatient clinic, the patients with
+uncontrolled CSU (urticaria control test [UCT] score < 12) despite the
+regular use of antihistamines up to fourfold of licensed doses for
+>6 months are treated with omalizumab 300 mg every 4 weeks. The
+demographic (age, gender, smoking status, comorbidities, body mass
+index, history of atopy) and disease characteristics (duration, coexistence of angioedema and chronic inducible urticaria, response to previous treatments, family history) of the patients are recorded at the
+baseline visit. Then, the patients are regularly followed up every
+4-8 weeks depending on the response to treatment. The response to
+treatment and the CSU-related QoL of the patients are evaluated
+using patient-reported outcomes including urticaria activity score over
+7 days (UAS7), UCT, CU-Q2oL, and dermatology life quality index
+(DLQI) at every follow-up visit.
+
+The UAS score consists of daily scores for severity of itching and
+number of urticarial lesions. It provides a daily score ranging 0-6 and
+a weekly score between O and 42. The higher scores indicate more
+severe disease (Jauregui Presa et al., 2014; Mtynek et al., 2008). The
+treatment response is recorded as complete response (CR; UAS < 2),
+good disease control (GDC; 2 < UAS7 < 6), partial response (PR;
+UAS7 > 6, but 210 point of decrease from baseline), or no response
+(NR; no change or increase in UAS7) (Asero et al., 2017; Kaplan
+et al., 2016).
+
+The UCT is a self-administered questionnaire consisting of four
+questions evaluating the control of symptoms control during the last
+4 weeks. A score between 0 and 16 is obtained and a score of 12 or
+more means well-controlled disease (Weller et al., 2014). The minimal
+important difference (MID) for UAS7 and UCT scores is 10 and
+3 points, respectively (Mathias, Crosby, Rosen, & Zazzali, 2014;
+Ohanyan et al., 2017).
+
+The DLQI is a 10-item questionnaire assessing the impact of skin
+conditions on the QoL of the patients. It has been used in numerous
+skin diseases including chronic urticaria and evaluates six different
+
+aspects (symptoms and feelings, daily activities, leisure, work and
+
+school, personal relationships, and treatment) of QoL. The final score
+ranges between O and 30. The higher scores imply more severe of
+impairment in QoL (Finlay & Khan, 1994). The minimal clinically
+important difference (MCID) for DLQI score was estimated to be
+4 (Basra, Salek, Camilleri, Sturkey, & Finlay, 2015; Shikiar, Harding,
+Leahy, & Lennox, 2005).
+
+The CU-Q2oL is a 23-item instrument that specifically evaluates
+the impact chronic urticaria on QoL. It provides scores on six different
+subscales (pruritus, swelling, impact on life activities, sleep problems,
+limits, and looks). The raw total and subscale scores are converted into
+scaled scores using linear transformations and the final score for each
+subscale ranges between 20 and 100. Higher scores reflect more
+impairment in QoL (Baiardini et al., 2005).
+
+The validity and reliability of the Turkish versions of all scales and
+questionnaires have been demonstrated previously (Kocatiirk et al.,
+2012; Kocatiirk Géncii et al., 2016; Oztiirkcan, Ermertcan, Eser, &
+Sahin, 2006).
+
+The medical records of all patients treated with omalizumab for
+CSU between 2017 and 2018 were reviewed. The patients who had
+baseline, first, and third month records for all indices were included in
+the study. The demographic, clinical, and treatment characteristics
+were recorded.
+
+The primary objective of the study was to evaluate the effect of
+demographic and clinical characteristics on QoL improvement. The
+secondary objectives were the mean absolute change from baseline
+UAS7, UCT, DLQI, CU-Q2oL, and subscale scores at the end of first
+and third months, the number of patients achieving the MID levels for
+UAS7, UCT, and DLQI scores at the end of first and third months of
+treatment. The number of patients with an UCT score 2 12 or DLQI
+score of 0-1 at different time points and response to treatment were
+
+also determined.
+
+2.1 | Statistical analysis
+
+Demographic and clinical characteristics of the patients were shown as
+frequency distribution for discrete random variables and mean + SD for
+the continuous random variables. Univariate general linear model was
+used to evaluate the effect of demographic and clinical characteristics
+of the patients on disease severity and QoL during the follow-up period.
+Repeated measures analysis of variance was used to compare the mean
+score measurements between different time points. p < .05 was considered as significant. Statistical Package for Social Sciences (SPSS, Inc.,
+
+Chicago, IL) v15.0 was used for the statistical analysis.
+
+3 | RESULTS
+
+A total of 42 patients were included in the study. The mean age of the
+study group was 39.45. The mean UAS7 and UCT scores prior to
+treatment were 26.2 and 5.9, respectively. The baseline demographic
+
+and clinical characteristics of the patients were detailed in Table 1.
+SALMAN er AL.
+
+ 
+
+TABLE1 _ Demographic and clinical characteristics of the patients
+at the baseline
+Characteristics
+
+Gender n (%) Female 23 (54.8)
+Male 19 (45.2)
+39.4 + 15.2 (17-75)
+
+38.3 + 48.1 (6-240)
+
+Age (years)
+Duration of the
+disease (months)
+
+Mean + SD (range)
+Mean + SD (range)
+
+Angioedema n (%) Absent 17 (40.5)
+Present 25 (59.5)
+
+UAS7 Mean + SD (range) 26.2 + 8 (10-42)
+
+UCT Mean + SD (range) 5.9 + 2.7 (1-12)
+
+DLQI-total Mean + SD (range) 12.1 + 7.6 (1-30)
+
+CU-2QoL-total Mean + SD (range) 54.4 + 16.8 (26-93)
+
+Abbreviations: CU-2QoL, chronic urticaria quality of life questionnaire;
+DLQI, dermatology life quality index; UAS7, urticaria activity score over
+7 days; UCT, urticaria control test.
+
+At the time of the final analysis, a CR was observed in 23 (54.8%)
+patients. A GDC, PR, and NR were seen in 14 (33.3%), 2 (4.8%), and
+3 (7.1%) patients, respectively.
+
+The effect of age (s36 vs. >36), gender, duration of disease (<1
+vs. >1 year), presence of angioedema, and treatment response (CR vs.
+others) on the mean UAS, UCT, DLQI, and CU-Q2oL scores and mean
+changes from baseline to first and third months of treatment were analyzed. A statistically significant difference was found only between complete responders and others. The patients showing CR to treatment had
+significantly higher UCT scores and lower UAS7, DLQI, and CU-Q2oL
+scores at the baseline compared to others. The mean change in the UAS7,
+UCT, DLQI, and CU-Q2oL from baseline was also significantly higher at
+the end of first and third months in this group of patients (p < .001).
+
+Of note, although the older patients (>36) had higher UAS7,
+CU-Q2oL, and lower UCT scores at the baseline, their mean scores
+were better than younger patients (<36) at the end of first and third
+months (p > .05). Albeit statistically insignificant, the rate of improvement in UAS7, CU-Q2oL, and UCT scores also tend to be better in older
+patients at the end of third month of treatment (p > .05) (Figure 1).
+
+The mean change in UAS7 score from baseline to first and third
+months was —17.48 and —22.48, respectively (p < .001). The mean
+change in UCT score from baseline was 6.63 and 8.02 at the end of
+first and third months, respectively (p < .001). The number of patients
+with an UCT score 212 was 2 (4.7%), 31 (73.8%), and 35 (83.3%) at
+the baseline, first, and third months, respectively (p < .001).
+
+The mean DLQI-total score was 12.1 at the baseline. The mean
+change in DLQI score from baseline was —6.4 and —7.5 at the end of
+first and third months, respectively (p < .001). A significant improvement was also observed in all DLQI subscale scores (p < .001). The
+changes in DLQI total and subscale scores were shown in Figure 2.
+The number of patients with a DLQI-total score of 0/1 was 1 (2.3%),
+19 (45.2%), and 20 (47.6%) at the baseline, first, and third months,
+respectively (p < .001).
+
+es-Witeyt =
+
+The number of the patients achieving MID/MCID levels for UAS7,
+UCT, and DLQI at the first month was 33 (78.5%), 34 (80.9%), and
+28 (66.6%), respectively. At the third month, the numbers further
+increased to 39 (92.8%), 39 (92.8%), and 29 (69%), respectively.
+
+The mean CU-Q2oL-total score was 54.4 at the baseline. The
+mean change in CU-Q2olL-total score from baseline —16.52 and
+—20.12 at the end of first and third months, respectively (p < .001). In
+a similar manner, all subscale scores significantly improved with treatment (p < .001). The changes in CU-Q2oL total and subscale scores
+
+were demonstrated in Figure 3.
+
+4 | DISCUSSION
+
+Omalizumab is an effective and well-tolerated treatment alternative
+for patients with CSU as shown in the earlier studies; however, reallife studies investigating the omalizumab-induced improvements in
+the QoL of the patients with CSU are sparse. The present study is a
+real-life study aimed at investigating the effects of omalizumab on
+QoL and its clinical and demographic predictors, with relatively high
+number of patients. The results demonstrate that a rapid, significant,
+and sustainable improvement in all aspects of QoL can be obtained
+with omalizumab treatment in patients with CSU. The use of both
+DLQI and CU-Q2oL and detailed analysis of clinical determinants of
+improvement in QoL make our results more valuable.
+
+Owing to its unpredictable, chronic, and relapsing nature, CSU commonly causes a negative impact on QoL of the patients. Furthermore,
+impairment in QoL was the main predictor of psychologic comorbidities
+(Zachariae, Zachariae, Ibsen, Mortensen, & Wulf, 2004). Although the
+burden of CSU on the affected individuals was often underestimated,
+the negative impact of CSU on QoL was comparable to that of atopic
+dermatitis, psoriasis, and even coronary artery disease (Balp et al., 2018;
+Grob, Revuz, Ortonne, Auquier, & Lorette, 2005; Mendelson et al., 2017;
+O'Donnell, Lawlor, Simpson, Morgan, & Greaves, 1997). The QoL impairment was evident in various aspects including home management, social
+functions, emotions, sleep, rest, and work (Engin et al., 2008; O'Donnell
+et al., 1997). The existing studies in the literature have reported mean
+DLQI and CU-Q2oL scores of 6.62-9.93 and 33.6-36, respectively (Dias
+et al., 2016; Liu et al., 2012; Maurer, Abuzakouk, et al., 2017). The higher
+mean DLQI (12.1) and CU-Q2oL (54.4) scores in the current study might
+be attributed to the inclusion of patients with more severe and recalcitrant disease. Consistently with the existing data, the most affected subdomains were work/school and symptoms/feelings for DLQI, and sleep
+and pruritus for CU-Q2oL in the present study (Dias et al., 2016; Liu
+et al., 2012; Maurer, Abuzakouk, et al., 2017).
+
+In addition to objective and subjective disease severity scores,
+assessment of the improvement in QoL through validated and
+patient-reported scales is an important part of the evaluation of
+response to treatment. Previously, desloratadine and fexofenadine
+have been shown to significantly improve the QoL in patients with
+CSU (Lachapelle et al., 2006; Thompson, Finn, & Schoenwetter, 2000).
+
+The impact of omalizumab on QoL has been investigated in patients
+
+participated to Phase Ill clinical trials (Finlay et al., 2017; Maurer et al.,
+SALMAN er AL.
+
+ 
+
+“7_| WILEY
+
+ 
+
+307] UAS7*
+
+20>)
+
+of
+
+ 
+
+ 
+
+85 CU-Q2o0L-total*
+
+ 
+
+T
+1 2 3
+time
+
+UCT*
+
+12579
+
+754
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+Age > 36
+Age < 36
+s4
+T T T
+1 2
+DLQI-total*
+1254
+104
+754
+s
+254
+
+ 
+
+ 
+
+2 3
+time
+
+FIGURE 1_— The change in mean scores over time according to age group. *p > .05. CU-2QolL, chronic urticaria quality of life questionnaire;
+DLQI, dermatology life quality index; UAS7, urticaria activity score over 7 days; UCT, urticaria control test
+
+2017; Staubach et al., 2018). A mean decrease of 4.49-10.3 points in
+DLQlI-total has been reported at Week 12 (Finlay et al., 2017; Maurer,
+Sofen, et al., 2017). Similarly, the mean change in DLQI in our study
+group was —7.5 at third month. The proportion of the patients achieving
+the MCID of 4 points or more in DLQI-total score at Week 12 was
+74.1-77.1% in previous studies, accordingly 69% of our study group
+reached the MCID or more at Week 12 (Finlay et al., 2017). Accordingly
+with our results, the improvement in DLQI subscales was significantly
+better compared to placebo group (Finlay et al., 2017; Staubach et al.,
+2018), except for personal relationships subscale was not different from
+placebo group in one study (Finlay et al., 2017).
+
+In contrast to clinical trials, the impact of omalizumab on QoL was
+seldom evaluated in real-life studies. A recent systematic review has
+
+reported that QoL was assessed in only 13% of the real-life studies on
+
+omalizumab in CSU (Bernstein et al., 2018). Furthermore, most of the
+previous studies are limited by the small number of patients and lack
+of detailed analysis of subscales. A total 89 of patients with CSU were
+enrolled in seven studies (n = 2-28) and a significant improvement in
+DLQI scores was obtained following omalizumab treatment (Kai,
+Flohr, & Grattan, 2014; Kaplan, Joseph, Maykut, Geba, & Zeldin,
+2008; Lefévre, Deleuran, & Vestergaard, 2013; Marcelino et al., 2018;
+Savic et al., 2015; Subramaniyan & Chopra, 2016; Vestergaard &
+Deleuran, 2010). Accordingly with our results, the decrease in DLQI
+scores was most significant during the first month of treatment and
+then stabilized as long as the treatment is continued (Kai et al., 2014;
+Lefévre et al., 2013; Vestergaard & Deleuran, 2010). More recently, a
+multicenter study of 132 patients has reported a mean change of
+—19.6 in DLQI-total score at sixth month of treatment (Bulur et al.,
+SALMAN Er AL. D TOLOGIC WI LEY. 5 of7
+
+ 
+
+ 
+
+100
+§ Baseline
+90
+& First month
+80
+i © Third month
+70 Py
+a4 *
+60-566 z | *
+. . 50 ; a
+50 a | al | * ‘ 4
+40,3 cto _ 40,6
+*
+‘2 34,8 a a
+31,3 8
+30 26,5
+23,6 as
+20 178 18,1 - 19,1
+15,3 15,6
+13,8 13,8 12,6 ~~ 13,8 13,3 12,6
+: [ i il l LU J lJ | LJ [
+0 ihvacricnd a Snell
+Symptoms and feelings Daily activities Leisure Work and school Personal relationships Treatment DLQI-Total
+
+FIGURE 2_ The change in the DLQI and subscale scores. *p < .001. The scores were shown as the percentage of the maximum possible score.
+DLQI, dermatology life quality index
+
+100
+
+™ Baseline
+90 | First month
+| Third month
+
+80 >
+
+*
+
+71
+70
+62 *
+60 58
+54,4
+50 48,3 ood,
+45,5 Ea
+[es | 42,7
+40,7 40,5 40,4
+40 37,5 37,4 37,8
+“s 35,2 a5 342
+314
+
+: “L [| U l lJ l
+20 L U
+
+Pruritus Swelling Impact on life activities Sleep problems Limits Looks CU-2QoL-Total
+
+FIGURE 3 The change in the CU-2QoL and subscale scores. *p < .001. CU-2QolL, chronic urticaria quality of life questionnaire
+
+2018). The relatively smaller change in DLQI-total score might be patients with CSU as early as the first month of treatment. Besides,
+explained with the shorter follow-up period (3 vs. 6 months) and the improvement is generally maintained throughout the treatment
+
+lower baseline DLQI-total scores (12.1 vs. 23.1) in the present study. indicating that the benefits of omalizumab outweigh the difficulties
+Consistently with our findings, two previous studies including 14 and such as regular visits to hospital for injections.
+
+18 patients have reported a significant decrease in CU-Q2oL-total The existing literature has failed to show any significant correlation
+scores which was maintained up to 6 months (Biiyiikéztiirk et al., between the rate of improvement in QoL and demographic/clinical char2012; Larrea-Baca & Gurpegui-Resano, 2017). Accordingly with the acteristics (Ghazanfar et al., 2018; Maurer, Sofen, et al., 2017). Similarly,
+present study, in a recent prospective study of 117 patients, a DLQI- we were unable to demonstrate any differences according to gender,
+total score of 0/1, that indicates no effect on patients’ life, has been duration of disease, and the presence of angioedema. However, in our
+obtained in 35.8% of the patients at third month (Ghazanfar, Holm, & study, the patients showing CR had lower baseline disease activity and
+Thomsen, 2018). These findings altogether suggest that omalizumab better disease control, in accordance with a recent study reporting that
+
+treatment considerably improves the various aspects of QoL in higher baseline disease activity is a predictor of refractoriness to treatment
+SALMAN er AL.
+
+ 
+
+“7_L WILEY
+
+(Curto-Barredo, Riba Archilla, Roura Vives, Pujol, & Giménez-Arnau,
+2018). Moreover, the current study has demonstrated that lower disease
+activity (lower UAS7 score) and better disease control (higher UCT score)
+at the baseline are predictors of better improvement in all aspects of QoL.
+Another novel observation in our study was the statistically insignificant
+trend of better improvement rate in disease severity, symptom control,
+and QoL in older patients (>36) with time. Although speculative, this could
+be explained with younger patients being more active in social, school, and
+work life; thus prolonged treatment duration and required hospital visits
+for injections might affect them more. Self-administration of omalizumab
+at home, as described previously (Denman et al., 2016; Ghazanfar & Thomsen, 2018), might be a good alternative for such patients. It would also
+be interesting to evaluate the effect of age on patient reported outcomes
+in larger studies with a longer follow-up period.
+
+The present study was limited by its retrospective design. Another
+limitation is the relatively short follow-up period of 3 months. Considering that the CR to omalizumab can be seen up to 6 months, a longer
+follow-up period could have provided even better results. The key
+strength of this study is the combined use of multiple patientreported tools to evaluate different aspects of Qol in real-life settings
+with a relatively large group of patients.
+
+In conclusion, the current findings add to a growing body of literature on the positive impact of omalizumab on Qol of the patients with
+CSU. Moreover, this study has demonstrated, for the first time to our
+knowledge, that lower disease activity and better disease control at
+the baseline predict a higher rate of improvement in QoL. Further
+investigation is recommended to determine the possible demographic,
+
+clinical, and laboratory markers of response and improvement in QoL.
+
+CONFLICT OF INTEREST
+
+AS has served as a medical advisor and speaker for Novartis. GD and
+
+NB declare no conflict of interest.
+
+ORCID
+
+Andac Salman © https://orcid.org/0000-0002-6407-926X
+Gizem Demir © https://orcid.org/0000-0002-8528-9979
+
+REFERENCES
+
+Asero, R., Canonica, G. W., Cristaudo, A., Fierro, M. T., Girolomoni, G.,
+Marzano, A. V., ... Rossi, O. (2017). Critical appraisal of the unmet
+needs in the treatment of chronic spontaneous urticaria with
+omalizumab: An Italian perspective. Current Opinion in Allergy and Clinical Immunology, 17, 453-459.
+
+Baiardini, |., Braido, F., Bindslev-Jensen, C., Bousquet, P. J., Brzoza, Z.,
+Canonica, G. W., ... Maurer, M. (2011). Recommendations for
+assessing patient-reported outcomes and health-related quality of life
+in patients with urticaria: A GA(2) LEN taskforce position paper.
+Allergy, 66, 840-844.
+
+Baiardini, |., Pasquali, M., Braido, F., Fumagalli, F., Guerra, L., Compalati, E.,
+.. Canonica, G. W. (2005). A new tool to evaluate the impact of
+chronic urticaria on quality of life: Chronic urticaria quality of life questionnaire (CU-Q2oL). Allergy, 60, 1073-1078.
+
+Balp, M. M., Khalil, S., Tian, H., Gabriel, S., Vietri, J., & Zuberbier, T. (2018).
+Burden of chronic urticaria relative to psoriasis in five European countries. Journal of the European Academy of Dermatology and Venereology,
+32, 282-290.
+
+Basra, M. K. A., Salek, M. S., Camilleri, L., Sturkey, R., & Finlay, A. Y. (2015).
+Determining the minimal clinically important difference and responsiveness of the dermatology life quality index (DLQI): Further data.
+Dermatology, 230, 27-33.
+
+Beck, L. A., Bernstein, J. A., & Maurer, M. (2017). A review of international
+recommendations for the diagnosis and management of chronic urticaria. Acta Dermato-Venereologica, 97, 149-158.
+
+Bernstein, J. A, Kavati, A. Tharp, M. D., Ortiz, B., MacDonald, K.,
+Denhaerynck, K., & Abraham, |. (2018). Effectiveness of omalizumab in
+adolescent and adult patients with chronic idiopathic/spontaneous
+urticaria: A systematic review of ‘real-world’ evidence. Expert Opinion
+on Biological Therapy, 18, 425-448.
+
+Bulur, |., Baskan, E. B., Ozdemir, M., Balevi, A., Kocatiirk Géncii, E.,
+Altunay, I., ... Mustafa Teoman, E. (2018). The efficacy and safety of
+omalizumab in refractory chronspontaneous urticaria: Real-life experience in Turkey. Acta dermatovenerologica Alpina, Pannonica, et
+Adriatica, 27, 121-126.
+
+Biiytikéztiirk, S., Gelincik, A., Demirtiirk, M., Kocaturk, E., Colakoglu, B., &
+Dal, M. (2012). Omalizumab markedly improves urticaria activity
+scores and quality of life scores in chronic spontaneous urticaria
+patients: A real life survey. The Journal of Dermatology, 39, 439-442.
+
+Curto-Barredo, L., Riba Archilla, L., Roura Vives, G., Pujol, R. M. &
+Giménez-Arnau, A. M. (2018). Clinical features of chronic spontaneous
+urticaria that predict disease prognosis and refractoriness to standard
+treatment. Acta Dermato-Venereologica, 98, 641-647.
+
+Denman, S., Ford, K., Toolan, J., Mistry, A., Corps, C., Wood, P., & Savic, S.
+(2016). Home self-administration of omalizumab for chronic spontaneous urticaria. The British Journal of Dermatology, 175, 1405-1407.
+
+Dias, G. A. C., Pires, G. V., do Valle, S. O. R., Junior, S. D. D., Levy, S.,
+Franca, A. T., ... Canonica, W. G. (2016). Impact of chronic urticaria on
+the quality of life of patients followed up at a university hospital. Anais
+Brasileiros de Dermatologia, 91, 754-759.
+
+Engin, B., Uguz, F., Yilmaz, E., Ozdemir, M., & Mevlitoglu, |. (2008). The
+levels of depression, anxiety and quality of life in patients with chronic
+idiopathic urticaria. Journal of the European Academy of Dermatology
+and Venereology, 22, 36-40.
+
+Finlay, A. Y., Kaplan, A. P., Beck, L. A., Antonova, E. N., Balp, M. M.,
+Zazzali, J., ... Maurer, M. (2017). Omalizumab substantially improves
+dermatology-related quality of life in patients with chronic spontaneous urticaria. Journal of the European Academy of Dermatology and
+Venereology, 31, 1715-1721.
+
+Finlay, A. Y., & Khan, G. K. (1994). Dermatology life quality index (DLQI)-A
+simple practical measure for routine clinical use. Clinical and Experimental Dermatology, 19, 210-216.
+
+Ghazanfar, M. N., Holm, J. G., & Thomsen, S. F. (2018). Effectiveness of
+omalizumab in chronic spontaneous urticaria assessed with patientreported outcomes: A prospective study. Journal of the European Academy of Dermatology and Venereology, 32, 1761-1767.
+
+Ghazanfar, M. N., & Thomsen, S. F. (2018). Home self-administration of
+omalizumab. The Journal of Dermatological Treatment, 29, 196.
+
+Giménez-Arnau, A. Velasco, M., Armario Hita, J. C., LabradorHorrillo, M., & Silvestre Salvador, J. F. (2016). Omalizumab: What benefits should we expect? European Journal of Dermatology, 26, 340-344.
+
+Grob, J. J., Revuz, J., Ortonne, J. P., Auquier, P., & Lorette, G. (2005). Comparative study of the impact of chronic urticaria, psoriasis and atopic
+dermatitis on the quality of life. The British Journal of Dermatology,
+152, 289-295.
+
+Jauregui Presa, |., Ortiz de Frutos, F. J., Ferrer, M., Giménez-Arnau, A.,
+Sastre, J., Bartra, J., ... Valero, A. (2014). Assessment of severity and
+quality of life in chronic urticaria. Journal of Investigational Allergology &
+Clinical Immunology, 24, 80-86.
+SALMAN er AL.
+
+ 
+
+Kai, A. C., Flohr, C., & Grattan, C. E. (2014). Improvement in quality of life
+impairment followed by relapse with 6-monthly periodic administration
+of omalizumab for severe treatment-refractory chronic urticaria and urticarial vasculitis. Clinical and Experimental Dermatology, 39, 651-652.
+
+Kaplan, A. Ferrer, M., Bernstein, J. A, Antonova, E., Trzaskoma, B.,
+Raimundo, K., ... Zazzali, J. L. (2016). Timing and duration of
+omalizumab response in patients with chronic idiopathic/spontaneous
+urticaria. The Journal of Allergy and Clinical Immunology, 137, 474-481.
+
+Kaplan, A. P., Joseph, K., Maykut, R. J., Geba, G. P., & Zeldin, R. K. (2008).
+Treatment of chronic autoimmune urticaria with omalizumab. The
+Journal of Allergy and Clinical Immunology, 122, 569-573.
+
+Kocatiirk, E., Weller, K., Martus, P., Aktas, S., Kavala, M., Sarigul, S., ...
+Maurer, M. (2012). Turkish version of the chronic urticaria quality of
+life questionnaire: Cultural adaptation, assessment of reliability and
+validity. Acta Dermato-Venereologica, 92, 419-425.
+
+Kocatiirk Goncti, E., Aktan, §., Atakan, N., Bulbul Bagkan, E., Erdem, T.,
+Koca, R., ... Utag, S. (2016). The Turkish guideline for the diagnosis and
+management of urticaria-2016. Turkderm, 50, 82-98.
+
+Lachapelle, J., Decroix, J., Henrijean, A., Roquet-Gravy, P. P., Swerdt, A.,
+Boonen, H., ... Vastesaeger, N. (2006). Desloratadine 5 mg once daily
+improves the quality of life of patients with chronic idiopathic urticaria. Journal of the European Academy of Dermatology and Venereology,
+20, 288-292.
+
+Larrea-Baca, I., & Gurpegui-Resano, M. (2017). Mejora de la calidad de vida
+de los pacientes con urticaria crénica espontanea tratados con
+omalizumab en vida real. Enfermeria Clinica, 27, 361-368.
+
+Lefévre, A. C., Deleuran, M., & Vestergaard, C. (2013). A long term case
+series study of the effect of omalizumab on chronic spontaneous urticaria. Annals of Dermatology, 25, 242-245.
+
+Liu, J. B., Yao, M. Z., Si, A. L., Xiong, L. K., & Zhou, H. (2012). Life quality of
+Chinese patients with chronic urticaria as assessed by the dermatology
+life quality index. Journal of the European Academy of Dermatology and
+Venereology, 26, 1252-1257.
+
+Marcelino, J., Costa, C., Mendes, A., Alonso, E., Cabral Duarte, F.,
+Pedro, E., & Pereira-Barbosa, M. (2018). Omalizumab in chronic spontaneous and inducible urticaria: A 9 year retrospective study in Portugal. European Annals of Allergy and Clinical Immunology, 50, 169-176.
+
+Mathias, S., Crosby, R. D., Rosen, K., & Zazzali, J. (2014). Estimating the
+minimal important difference (MID) of the measures in the urticaria
+patient daily diary (UPDD): Updated findings using data from the
+Asteria |, Asteria Il, and glacial studies of omalizumab in chronic
+idiopathic/spontaneous urticaria. The Journal of Allergy and Clinical
+Immunology, 133, AB118.
+
+Maurer, M., Abuzakouk, M., Bérard, F., Canonica, W., Oude Elberink, H.,
+Giménez-Arnau, A., ... Balp, M. M. (2017). The burden of chronic spontaneous urticaria is substantial: Real-world evidence from ASSURECSU. Allergy, 72, 2005-2016.
+
+Maurer, M., Sofen, H., Ortiz, B., Kianifard, F., Gabriel, S., & Bernstein, J. A.
+(2017). Positive impact of omalizumab on angioedema and quality of
+life in patients with refractory chronic idiopathic/spontaneous urticaria: Analyses according to the presence or absence of angioedema.
+Journal of the European Academy of Dermatology and Venereology, 31,
+1056-1063.
+
+Mendelson, M. H., Bernstein, J. A., Gabriel, S., Balp, M. M., Tian, H.,
+Vietri, J., & Lebwohl, M. (2017). Patient-reported impact of chronic
+urticaria compared with psoriasis in the United States. The Journal of
+Dermatological Treatment, 28, 229-236.
+
+Mtynek, A. Zalewska-Janowska, A. Martus, P., Staubach, P.,
+Zuberbier, T., & Maurer, M. (2008). How to assess disease activity in
+patients with chronic urticaria? Allergy, 63, 777-780.
+
+O'Donnell, B. F., Lawlor, F., Simpson, J., Morgan, M., & Greaves, M. W.
+(1997). The impact of chronic urticaria on the quality of life. The British
+Journal of Dermatology, 136, 197-201.
+
+Ohanyan, T., Schoepke, N., Bolukbasi, B., Metz, M., Hawro, T.,
+Zuberbier, T., ... Weller, K. (2017). Responsiveness and minimal
+
+ge -Witeyt?~
+
+important difference of the urticaria control test. The Journal of Allergy
+and Clinical Immunology, 140, 1710-1713.
+
+Oztiirkcan, S., Ermertcan, A. T., Eser, E., & Sahin, M. T. (2006). Cross validation of the Turkish version of dermatology life quality index. International Journal of Dermatology, 45, 1300-1307.
+
+Savic, S., Marsland, A. McKay, D., Ardern-Jones, M. R., Leslie, T.,
+Somenzi, O., ... Grattan, C. (2015). Retrospective case note review of
+chronic spontaneous urticaria outcomes and adverse effects in
+patients treated with omalizumab or ciclosporin in UK secondary care.
+Allergy, Asthma & Clinical Immunology, 11, 1-11.
+
+Shikiar, R., Harding, G., Leahy, M., & Lennox, R. D. (2005). Minimal important difference (MID) of the dermatology life quality index (DLQI):
+Results from patients with chronic idiopathic urticaria. Health and
+Quality of Life Outcomes, 3, 36.
+
+Staubach, P., Eckhardt-Henn, A., Dechene, M., Vonend, A., Metz, M.,
+Magerl, M., ... Maurer, M. (2006). Quality of life in patients with
+chronic urticaria is differentially impaired and determined by psychiatric comorbidity. The British Journal of Dermatology, 154, 294-298.
+
+Staubach, P., Metz, M., Chapman-Rothe, N., Sieder, C., Brautigam, M.,
+Maurer, M., & Weller, K. (2018). Omalizumab rapidly improves
+angioedema-related quality of life in adult patients with chronic spontaneous urticaria: X-ACT study data. Allergy, 73, 576-584.
+
+Subramaniyan, R., & Chopra, A. (2016). Treatment of chronic spontaneous
+urticaria with a single dose of omalizumab: A study of four cases.
+Indian Journal of Dermatology, 61, 467.
+
+Tharp, M. D., Bernstein, J. A. Kavati, A., Ortiz, B., MacDonald, K.,
+Denhaerynck, K., ... Lee, C. S. (2019). Benefits and harms of
+omalizumab treatment in adolescent and adult patients with chronic
+idiopathic (spontaneous) urticaria. JAMA Dermatology, 155, 29-38.
+
+Thompson, A. K., Finn, A. F., & Schoenwetter, W. F. (2000). Effect of 60 mg
+twice-daily fexofenadine HCI on quality of life, work and classroom productivity, and regular activity in patients with chronic idiopathic urticaria.
+Journal of the American Academy of Dermatology, 43, 24-30.
+
+Vestergaard, C., & Deleuran, M. (2010). Two cases of severe refractory
+chronic idiopathic urticaria treated with omalizumab. Acta DermatoVenereologica, 90, 443-444.
+
+Weller, K., Groffik, A., Church, M. K., Hawro, T., Krause, K., Metz, M., ...
+Maurer, M. (2014). Development and validation of the Urticaria Control Test: A patient-reported outcome instrument for assessing urticaria control. The Journal of Allergy and Clinical Immunology, 133,
+1365-1372.
+
+Zachariae, R., Zachariae, C., Ibsen, H. H. W., Mortensen, J. T., & Wulf, H. C.
+(2004). Psychological symptoms and quality of life of dermatology outpatients and hospitalized dermatology patients. Acta DermatoVenereologica, 84, 205-212.
+
+Zuberbier, T., Aberer, W., Asero, R., Abdul Latiff, A. H., Baker, D., BallmerWeber, B. Endorsed by the following societies: AAAAI, AAD, AAIITO,
+ACAAI, AEDV, APAAACI, ASBAI, ASCIA, BAD, BSACI, CDA, CMICA,
+CSACI, DDG, DDS, DGAKI, DSA, DST, EAACI, EIAS, EDF, EMBRN, ESCD,
+GA’LEN, IAACI, IADVL, JDA, NVvA, MSAI, OGDV, PSA, RAACI, SBD, SFD,
+SGAI, SGDV, SIAAIC, SIDeMaST, SPDV, TSD, UNBB, UNEV and WAO.
+(2018). The EAACI/GA7LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. The 2017 revision and
+update. Allergy, 73, 1393-1414. https://doi.org/10.1111/all.13397
+
+ 
+
+How to cite this article: Salman A, Demir G, Bekiroglu N. The
+impact of omalizumab on quality of life and its predictors in
+patients with chronic spontaneous urticaria: Real-life data.
+Dermatologic Therapy. 2019;e12975. https://doi.org/10.1111/
+dth.12975
+

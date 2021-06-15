@@ -1,0 +1,794 @@
+PharmacoEconomics (2016) 34:521-527
+DOI 10.1007/s40273-015-0375-7
+
+ORIGINAL RESEARCH ARTICLE
+
+® CrossMark
+
+EQ-5D Utilities in Chronic Spontaneous/Idiopathic Urticaria
+
+Emma Hawe'! - Doreen McBride! - Maria-Magdalena Balp” * Haijun Tian’ 
+Anna Halliday* - Donald E. Stul>@
+
+Published online: 20 January 2016
+
+© The Author(s) 2016. This article is published with open access at Springerlink.com
+
+Abstract
+
+Objectives To obtain utility estimates suitable for use in
+economic models for chronic spontaneous (idiopathic)
+urticaria (CSU).
+
+Methods Patient-level data from three randomized clinical trials—ASTERIA I, ASTERIA II and GLACIAL—
+were analysed. Health states were derived from the Urticaria Activity Score over 7 days (UAS7); higher scores
+denote greater activity. The health state score ranges were
+urticaria free: 0; well-controlled urticaria: 1-6; mild urticaria: 7-15; moderate urticaria: 16-27; and severe urti
+ 
+
+Electronic supplementary material The online version of this
+article (doi:10.1007/s40273-015-0375-7) contains supplementary
+material, which is available to authorized users.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Donald E. Stull
+dstull @rti.org
+
+ 
+
+! RTI Health Solutions, Manchester, UK
+Novartis Pharma AG, Basel, Switzerland
+
+Novartis Pharmaceuticals Corporation, East Hanover, NJ,
+USA
+
+Health Economics and Outcomes Research, Novartis
+Pharmaceuticals UK Limited, Frimley, UK
+
+RTI Health Solutions, 200 Park Offices Drive,
+Research Triangle Park, NC 27709-2194, USA
+
+w
+
+caria: 23-42. The mean EQ-SD utilities were calculated for
+each health state. A mixed model was used to predict the
+EQ-5D according to UAS7 health states in a pooled data
+set containing all treatment arms and time points from the
+three trials. Pooled trial data were validated through visual
+comparisons and interaction terms. Fixed and random
+effects for trials and patients were included, along with the
+following covariates: UAS7 health state at baseline (moderate or severe); presence of angioedema at baseline and
+during follow-up; duration of CSU; number of previous
+CSU medications; visit; current treatment; and patient age
+and sex.
+
+Results There was a consistent improvement in EQ-5D
+utilities as urticaria activity decreased. The mean utilities
+ranged from 0.710 (severe urticaria) to 0.780 (moderate
+urticaria), 0.829 (mild urticaria), 0.862 (well-controlled
+urticaria) and 0.894 (urticaria free). Sensitivity and subgroup analyses confirmed the robustness of the results.
+Conclusion The results suggest that EQ-SD utility scores
+increase with decreasing urticaria activity. EQ-5D utility
+scores enable the health-related quality of life of CSU
+patients to be compared with that of patients with other
+diseases.
+
+4 Adis
+522
+
+Key Points for Decision Makers
+
+ 
+
+Although an increasing amount of knowledge is
+available about the health-related quality of life of
+patients with chronic spontaneous (idiopathic)
+urticaria, no health state utilities have been
+established for this condition. Utilities are key data
+for economic models used in making reimbursement
+decisions in many countries.
+
+This paper presents utilities for different levels of
+disease activity of chronic spontaneous urticaria.
+This information will be valuable for future costeffectiveness models. Utilities measured by generic
+measures, such as the EQ-5D, allow for healthrelated quality-of-life comparisons between different
+disease areas.
+
+Evaluation of these utilities provides robust results
+for health technology assessment bodies to evaluate
+the cost effectiveness of treatments for chronic
+spontaneous urticaria and quantification of health
+gains by calculation of quality-adjusted life-years.
+
+1 Introduction
+
+Chronic spontaneous (also known as idiopathic) urticaria
+(CSU) is defined by the current European Academy of
+Allergy and Clinical Immunology/Global Allergy and
+Asthma European Network/European Dermatology Forum/
+World Allergy Organization guidelines as the occurrence,
+for 6 weeks or longer, of itchy hives (wheals), angioedema,
+or both, due to known or unknown causes [1].
+
+At any one time, up to | % of the population have
+chronic urticaria [2], and CSU represents approximately
+two thirds of these cases [3]. Published data quantifying the
+burden of the condition are limited [4] but indicate that
+chronic urticaria can have a substantial impact on patients’
+health-related quality of life (HRQoL), their ability to
+perform daily tasks and their mental health [1, 5, 6].
+
+The activity of CSU is assessed by evaluating the signs
+(hives) and symptoms (itch) of the disease with a daily
+diary of the Urticaria Activity Score (UAS). Daily average
+UAS scores over 7 days are summed to a weekly UAS7
+score. Changes in UAS7 scores provide a good measure of
+treatment efficacy, and improvements in UAS7 scores are
+reflected in significant improvements in HRQoL [7].
+
+The use of the generic, preference-based EQ-5D
+instrument for measuring health utilities in economic
+evaluations is well understood. Within this study, the threelevel version of the EQ-5D was used [8], which generates
+
+4 Adis
+
+E. Hawe et al.
+
+243 health states valued by the general population using the
+time trade-off method [9]; a five-level version has since
+been developed [10] but was not available when the data
+for these analyses were collected.
+
+To our knowledge, there is no published information on
+the relationship between health states based on disease
+activity [11] and utility values in patients with CSU. The
+objective of the current study was to investigate the relationship between disease activity levels and the associated
+utility estimates in CSU, as derived from the EQ-5D, and to
+provide suitable utility value estimates for use in economic
+models.
+
+2 Methods
+2.1 Data
+
+For the present analyses, patient-level data came from three
+randomized, double-blind, placebo-controlled, phase 3
+clinical trials of omalizumab for the treatment of patients
+with CSU with inadequate control from the standard of
+care: ASTERIA I (N = 318) [12], ASTERIA II (N = 322)
+[13] and GLACIAL (N = 335) [14]. Treatment was
+administered once every 4 weeks for 24 weeks in the
+ASTERIA I and GLACIAL trials, and once every 4 weeks
+for 12 weeks in the ASTERIA II trial. All three trials had a
+follow-up period of 16 weeks with no active treatment (see
+Fig. A-1 and Table A-1 in the Electronic Supplementary
+Material).
+
+2.2 Measures
+
+The UAS is a validated daily diary [15], which has two
+components: the itch severity score and the hives score.
+Patients filled in the diary twice daily over the entire period
+of the trials. The UAS7 is a weekly composite score,
+derived by summing daily average UAS scores over
+7 days. The UAS7 is used to determine disease activity and
+response to treatment [1]. UAS7 scores range from 0 to 42,
+with higher scores reflecting greater urticaria activity (more
+severe itch and a larger number of hives). The UAS7 was
+selected as the primary endpoint for this analysis because it
+covers the key symptoms and signs of the disease.
+
+UAS7 scores from the three trials were categorized into
+five urticaria health states: urticaria free (UAS7 = 0), wellcontrolled urticaria (UAS7 = 1-6), mild urticaria
+(UAS7 = 7-15), moderate urticaria (UAS7 = 16-27) and
+severe urticaria (UAS7 = 28-42) [11]. Two of these health
+states (urticaria free and well-controlled urticaria) were
+endpoints for the clinical trials. Patients were required to
+have a UAS7 score of 16 or higher to be included in the
+trial, and this was considered by medical experts and
+EQ-S5D Utilities in Chronic Urticaria
+
+regulatory agencies as the threshold of moderate to severe
+urticaria, therefore a score of 16 was considered the lower
+threshold of the moderate urticaria health state. In addition,
+on the basis of clinical expertise, a score of 28 or higher
+was considered severe for reimbursement purposes and by
+the UK National Institute for Health and Care Excellence
+[16]. Thus, the remaining UAS7 scores (7-15) were used to
+define the mild urticaria health state. UAS7 scores for
+every week were available, but scores reported in the 7
+days prior to baseline and every study visit were used in the
+analysis. Study visits were conducted every 4 weeks after
+baseline until week 40 in the ASTERIA I and GLACIAL
+trials and until week 28 in the ASTERIA II trial.
+
+The EQ-SD is a generic, standardized instrument used as
+a measure of health outcomes across many diseases. The
+measure can describe the effect of different health states on
+HRQoL. It consists of five questions, each asking about a
+particular dimension: mobility, self-care, usual activities,
+pain/discomfort and anxiety/depression [8]. The EQ-5D
+allows comparison of HRQoL across diseases and facilitates calculation of quality-adjusted life-years (QALYs).
+The version used in these three clinical trials, the EQ-5D3L, has three levels of response for each question, evaluating the respondent’s current status: no problems, some
+problems or extreme problems. A single index value for
+health states (called a utility) can be calculated from the
+combination of responses to the five questions [9]. The
+maximum utility value is 1 (perfect health), and 0 corresponds to death. In some instances, the utility can be less
+than 0, indicating a health state that is considered worse
+than death. As per the trial protocols, in the ASTERIA I
+and GLACIAL trials, the EQ-5D data were collected at
+baseline and at weeks 12 and 40; in the ASTERIA II trial,
+the data were collected at baseline and at weeks 12 and 28.
+The EQ-5D index score was constructed using UK population—based weights [9].
+
+2.3 Analyses
+
+Descriptive statistics were considered for the baseline
+characteristics for each trial, including patient age and
+sex, duration of CSU and other key variables. For
+descriptive statistics, continuous variables were presented
+as means, standard deviations (SDs) and ranges; categorical variables were presented as counts and percentages. The mean utilities were calculated for each of the
+five UAS7 health states by trial and visit. There was no
+imputation of missing data.
+
+Because the analyses at the individual trial level and
+individual time points resulted in inconsistent utilities, with
+variability in the relationship of utilities to disease activity,
+data from the individual trials and individual time points
+were pooled to increase the sample size and generate more
+
+523
+
+reliable estimates, and mixed-effects regression models
+were tested to estimate utilities. A linear mixed-effects
+model was used to predict EQ-5D utilities for each UAS7
+health state on the basis of pooled data from the three trials.
+The validity of pooling the three trials was considered
+through visual comparisons and interaction terms to assess
+differences in the relationship between health states and
+utilities among the three trials. Random effects for trials
+and patients were included, along with the following
+covariates as fixed effects: UAS7 health state at baseline
+(moderate or severe), presence of angioedema at baseline
+and during follow-up (a binary variable indicating the
+presence of 1 or more days with angioedema in the 7 days
+prior to each of the visits included in the model), duration
+of CSU, number of previous CSU medications, visit,
+treatment, and patient age and sex (see Eq. A-1 in the
+Electronic Supplementary Material). Interaction terms
+between the duration of CSU and the UAS7 health state
+and between the presence of angioedema and the UAS7
+health state also were considered in the models.
+
+A parsimonious model was selected using an elimination stepwise procedure—a combination of backwards
+elimination, in which covariates that were not significant
+were sequentially removed from the model according to
+their P values (P < 0.05), and forward inclusion, in which
+those variables that had been previously removed were
+considered for inclusion on the basis of their P values. The
+UAS7 health state was forced into the model to ensure it
+was always a predictor. The results of the models with
+nonsignificant covariates are not shown, as those models
+were an intermediate step. Consistency was observed in the
+selection of variables on the basis of their significance
+across the sensitivity analysis and primary analysis. No
+significant evidence was found that those variables that
+were not retained in the final model were predictive of
+utilities. The model fit was examined by comparing margins over visits, health state, presence of angioedema and
+trial against the observed values. Margins, or marginal
+effects, are post-estimation statistics calculated from predictions of a previously fit overall model. Margins were
+compared with observed group values across visit, health
+state and trial (because of small subgroups across all
+covariates). Margins were plotted against a line of best fit.
+
+The primary analysis considered angioedema in the
+7 days prior to the EQ-5D utility value. Sensitivity analyses were also conducted, which considered the covariates
+angioedema at baseline and angioedema between 4 and
+12 weeks (the latter was a secondary efficacy endpoint of
+the studies) with and without the 28-week data from
+ASTERIA IL.
+
+Further sensitivity analyses were conducted to confirm
+the robustness of the results by evaluating the impact on
+utilities of including covariates that were not significant in
+
+4 Adis
+524
+
+one model but were significant in alternative models. This
+allowed evaluation of the stability of the utility estimates.
+
+In addition, subgroup analysis was conducted to further
+explore possible differences in the relationship between
+UAS7 health state and utilities in (1) those patients who
+had angioedema at baseline and those who did not;
+(2) those patients who had angioedema at any time during
+follow-up and those who did not (regardless of their
+baseline angioedema status); and (3) those patients who
+were in the severe health state (UAS7 28-42) at baseline
+and those who were in the moderate health state at baseline
+(UAS7 16-27).
+
+All analyses were performed using Stata 13 software
+(StataCorp; College Station, TX, USA).
+
+E. Hawe et al.
+3 Results
+
+The baseline characteristics of patients in the ASTERIA I
+(N = 318), ASTERIA Il (N = 322) and GLACIAL
+(N = 335) trials were consistent, with similar age distributions, sex distributions and durations of CSU (Table 1).
+The mean (SD) UAS7 scores ranged from 30.7 (6.8) to
+31.1 (6.6), and the mean (SD) EQ-5D score ranged from
+0.68 (0.27) to 0.73 (0.24).
+
+Calculation of utilities for each UAS7 health state
+revealed inconsistent utilities for individual treatment arms
+and at individual time points, with improved response not
+always equating to an increase in the utility. For example,
+at 12 weeks in GLACIAL, the utilities for those who were
+
+Table 1 Baseline characteristics of patients in chronic spontaneous urticaria (CSU) clinical trials—all treatment arms pooled
+
+ 
+
+Characteristic
+
+Age [years; mean (SD)] 41.2 (14.5)
+Sex: male [n (%)] 87 (27.4)
+Weight
+Mean [kg (SD)] 82.2 (21.0)
+Median (kg) 80.0
+Range (kg) 35 to 138
+<80 kg [n (%)] 158 (49.7)
+Duration of CSU
+Mean [years (SD)] 6.9 (9.1)
+Range (years) 0.5 to 50.5
+>10 years (%) 21.7
+UAS7
+Mean (SD) 31.1 (6.6)
+Range 16.0 to 42.0
+Weekly itch severity score
+Mean (SD) 14.3 (3.5)
+Range 8.0 to 21.0
+Score <13 (%) 34.0
+Presence of angioedema (%) 47.5
+Previous medications for CSU: overall [n (%)] 318 (100.0)
+Antihistamines 317 (99.7)
+Histamine H2 blockers 93 (29.2)
+Immunosuppressants 29 (9.1)
+Ciclosporin 26 (8.2)
+LTRAs 83 (26.1)
+Other 148 (46.5)
+Dapsone 5 (1.6)
+Omalizumab 4 (1.3)
+Steroids 159 (50.0)
+EQ-5D utility [mean (SD)] 0.68 (0.27)
+Range —0.08 to 1
+
+ASTERIA I, N = 318
+
+ASTERIA II, N = 322 GLACIAL, N = 335
+
+42.5 (13.7) 43.1 (14.1)
+78 (24.2) 94 (28.1)
+82.4 (21.9) 83.9 (22.5)
+79.0 79.6
+
+43 to 188 46 to 172
+166 (51.6) 168 (50.1)
+6.5 (8.6) 74 (9.5)
+0.5 to 66.4 0.5 to 54.1
+19.1 24.0
+
+30.7 (6.8) 30.9 (6.6)
+16.5 to 42.0 16.0 to 42.0
+14.0 (3.7) 14.0 (3.6)
+8.0 to 21.0 75 to 21.0
+B8 39.1
+
+40.7 53.1
+
+322 (100.0) 335 (100.0)
+322 (100.0) 335 (100.0)
+113 (35.1) 297 (88.7)
+26 (8.1) 34 (10.1)
+24 (7.5) 23 (6.9)
+
+83 (25.8) 195 (58.2)
+143 (44.4) 197 (58.8)
+8 (2.5) 11 (3.3)
+
+2 (0.6) 2 (0.6)
+
+161 (50.0) 194 (57.9)
+0.71 (0.26) 0.73 (0.24)
+—0.08 to 1 =0.23 to 1
+
+ 
+
+LTRA leukotriene receptor antagonist, SD standard deviation, UAS7 Urticaria Activity Score over 7 days
+
+4 Adis
+EQ-S5D Utilities in Chronic Urticaria
+
+severe at baseline were 0.9 for those with mild urticaria and
+0.86 for those with well-controlled urticaria (see
+Tables A-3, A-4 and A-S in the Electronic Supplementary
+Material). This was likely due to the very small numbers of
+patients in each UAS7 health state.
+
+Pooling of trials to increase the overall sample size,
+examining utilities across all visits and taking into account
+angioedema at any point in the trial resulted in more
+consistent utilities for each health state. The final model
+(see Table A-2 in the Electronic Supplementary Material)
+included only the significant covariates of the assessment
+point (visit) in the trial and angioedema in the 7 days prior
+to the visit; study and patient were included as random
+effects. In the pooled analyses of all trials, treatment arms
+and time points (Fig. 1), patients with greater CSU activity
+were observed to have lower EQ-5D utilities (0.710 for
+severe urticaria, 0.780 for moderate urticaria, 0.829 for
+mild urticaria, 0.862 for well-controlled urticaria and 0.894
+for urticaria free), and with each improved UAS7 health
+state, there was an incremental increase in the utility. A
+comparison of the predicted values with the observed data
+did not suggest any issues with the model fit and indicated
+that the model accurately predicted the underlying data (see
+Figs. A-2 and A-3 in the Electronic Supplementary
+Material).
+
+All comparisons between EQ-SD utility values, except
+for well-controlled urticaria versus urticaria free and for
+well-controlled urticaria versus mild urticaria, showed
+significant differences between health states at P < 0.005.
+
+As seen in the primary analysis of all patients and all
+time points, consistent utilities were observed in the sensitivity analyses (Table 2); patients with more severe CSU
+had lower EQ-SD utilities; and with each improved UAS7
+
+0.894 ees
+0.80 0.829
+0.780
+0.70
+0.710
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+
+URTICARIA FREE WELL-CONTROLLED —MILDURTICARIA MODERATE URTICARIA SEVERE URTICARIA
+(UAS7=0} URTICARIA (Uas7=7-15) (uas7=16-27) (UAS7=28-42)
+N=316 (Uas7a1-6) N=253 N=607 N=916
+N=233
+
+Mean Utility Score* + SD
+
+Urticaria Health State
+
+Fig. 1 Utility weights for chronic spontaneous urticaria health states
+based on Urticaria Activity Score over 7 days (UAS7) pooled data
+including all patients, all treatment arms and all time points. Note: the
+upper error bars are capped at 1.00, which represents perfect health;
+0.00 represents death. SD standard deviation
+
+525
+
+health state, there was an incremental increase in the utility. Sensitivity analysis 1, which also included angioedema
+between weeks 4 and 12 as a covariate and omitted
+28-week data from ASTERIA II, provided very similar
+results, typically differing only at the third decimal place
+(Table 2). This also was true for sensitivity analysis 2,
+which considered all time points and also included
+angioedema between weeks 4 and 12 as a covariate
+(Table 2).
+
+The results of the subgroup analyses showed a pattern similar to those of the primary and sensitivity
+analyses, with EQ-5D utilities increasing with decreasing urticaria activity in all subgroups (Table 3). Overall,
+the presence of angioedema at both baseline and during
+follow-up decreased utility in all health states, with the
+exception of angioedema during follow-up in patients
+with mild and well-controlled urticaria. The utilities of
+each health state were similar whether the angioedema
+was present at baseline or during follow-up. While the
+interaction between the health state and angioedema on
+utilities was not significant, the largest impact of the
+presence of angioedema was observed in the severe
+health state. Similarly, greater CSU activity at baseline
+decreased the overall utility in the majority of health
+states.
+
+4 Discussion and Conclusion
+
+The results presented here demonstrate that when sample
+sizes are sufficient (that is, by pooling of trials, treatment
+arms and time points), consistent EQ-5D utilities for differing levels of disease activity can be obtained. Thus, in
+contrast to analyses that have focused on treatment arms
+within a single trial, the pooled trial and treatment arm
+analyses demonstrated that EQ-5D utilities increase with
+decreasing urticaria activity. The robustness of the results
+was confirmed by the sensitivity and subgroup analyses.
+When the presence of angioedema 7 days prior to a visit
+was examined at various time points, there were some
+slight changes in utilities but the general pattern held: the
+better the CSU health state, as measured by the UAS7, the
+greater the EQ-5D utility, indicating a greater preference
+for less active CSU health states. This pattern was also
+demonstrated in the subgroup analyses. Overall, lower
+utilities were generally seen in each health state with
+greater baseline disease activity and in the presence of
+angioedema.
+
+These analyses document an evaluation of utilities
+associated with the activity of CSU. The clinical impact of
+CSU, especially on patients’ HRQoL, is immense,
+demonstrated particularly by lower physical and mental
+components scores on the SF-36 and higher rates of
+
+4 Adis
+526
+
+Table 2 Sensitivity analyses with the presence of angioedema at baseline and between 4 and 12 weeks:
+
+28-week data from ASTERIA II
+
+E. Hawe et al.
+
+(1) excluding and (2) including
+
+ 
+
+ 
+
+ 
+
+Health state UAS7 score EQ-S5D score [mean (SD)]
+Sensitivity analysis 1: excluding Sensitivity analysis 2: including
+ASTERIA II 28-week data* ASTERIA II 28-week data*
+
+Urticaria free 0 0.897 (0.255) 0.905 (0.253)
+
+Well controlled 1-6 0.859 (0.244) 0.862 (0.243)
+
+Mild 7-15 0.845 (0.244) 0.840 (0.244)
+
+Moderate 16-27 0.782 (0.261) 0.785 (0.262)
+
+Severe 28-42 0.712 (0.308) 0.712 (0.307)
+
+ 
+
+SD standard deviation, UAS7 Urticaria Activity Score over 7 days
+
+* The sensitivity analyses considered the presence of angioedema between 4 and 12 weeks and baseline angioedema as possible covariates in the
+model. Following backwards elimination, fixed effects for visit and angioedema between 4 and 12 weeks were retained in the model, along with
+the UAS7 health state. The models also included random effects for study and patient
+
+Table 3 Subgroup analyses of patients with and without angioedema at baseline and during follow-up, and by baseline urticaria activity
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Health state UAS7 score EQ-5D score [mean (SD)]
+
+Angioedema during trial Baseline urticaria activity
+
+At baseline During follow-up
+
+Without With Without With Moderate: UAS7 Severe: UAS7
+
+score 16-27 score 28-42
+
+Urticaria free 0 0.904 (0.225) 0.902 (0.276) 0.908 (0.229) 0.896 (0.280) —-0.913 (0.241) 0.903 (0.246)
+Well controlled = 1-6 0.869 (0.224) 0.857 (0.254) 0.856 (0.224) (0.865 (0.264) —_-0.876 (0.235) 0.871 (0.235)
+Mild 7-15 0.838 (0.223) 0.832 (0.261) 0.831 (0.222) 0.836 (0.269) —_-0.830 (0.236) 0.853 (0.237)
+Moderate 16-27 0.795 (0.224) 0.760 (0.285) 0.790 (0.221) ~—-0.774 (0.310) ~—_—-0.759 (0.346) 0.800 (0.241)
+Severe 28-42 0.735 (0.253) 0.673 (0.349) 0.755 (0.255) 0.679 (0.374) 0.767 (0.195) 0.700 (0.286)
+
+ 
+
+SD standard deviation, UAS7 Urticaria Activity Score over 7 days
+
+depression, anxiety and sleep difficulties in patients with
+CSU than in those without the disease [4]. In addition,
+evaluation of EQ-5D utility scores is of great importance,
+as it allows comparison of HRQoL across diseases and
+enables calculation of QALYs, which are used in economic
+models. QALYs are essential components of health technology assessments, which support decision making in
+health care resource allocation.
+
+As with any study, there were potential limitations to
+this work. First, the version of the EQ-5D used in these
+three clinical trials was the EQ-5D-3L, and there may be
+some question about whether it is sensitive enough to
+capture differences between patients’ preferences for one
+health state versus another. The five CSU health states
+showed consistent differences in utilities, and so for each
+successively improved CSU health state, the EQ-5D utility
+increased from one health state to another—by between 3
+and 9 % in the final model. However, sensitivity often is a
+criticism of the EQ-5D-3L. While there was a clear relationship between the CSU health state and EQ-5D utility in
+
+4 Adis
+
+the present case, it is possible that the EQ-5D-3L may not
+be sufficiently sensitive to capture the full impact of
+CSU—for example, for patients in the severe UAS7 health
+state, the utility was 0.710, which may be higher than
+would be expected for this subgroup. The recently developed EQ-5D-5L [10] provides measurement properties
+superior to those of the EQ-5D-3L. The second limitation
+was that the EQ-5D scores were calculated on observed
+data. The results may not completely reflect the health
+utilities of all trial patients, particularly those with more
+severe disease activity.
+
+A third potential question can be raised about the
+validity of the CSU health states themselves. However,
+other work [7, 11] has shown that the five health states, as
+defined here in our models, can discriminate significantly
+between patients in terms of their Dermatology Life
+Quality Index scores, sleep interference and interference
+with daily activities. Thus, any concerns about the validity
+of these health states should be minimal. Further validation
+work is ongoing.
+EQ-S5D Utilities in Chronic Urticaria
+
+It is essential that health economic researchers and
+health technology assessment bodies have the latest information in order to determine the cost effectiveness of
+treatments. In the present case, we now have important
+information that can assist in determination of the cost
+effectiveness of CSU treatments and can aid decision
+makers in their consideration of the reimbursement for
+such treatments.
+
+The results of these analyses document the utility
+associated with the severity of CSU health states and
+suggest that the EQ-5D utility score increases with
+decreased disease activity. Overall, lower utilities were
+generally seen in each health state with greater baseline
+disease activity and in the presence of angioedema.
+
+Acknowledgments All co-authors had involvement in all aspects of
+the manuscript, with one exception: Donald Stull and Emma Hawe
+share responsibility for the data analysis. However, the results were
+shared with all co-authors at each step, and their input was sought
+regarding the discussion and implications of the results. All authors
+approved the final version of the manuscript prior to its submission.
+
+Compliance with Ethical Standards
+This study was funded by Novartis Pharma AG.
+
+Conflict of interest Emma Hawe, Doreen McBride and Donald Stull are employees of RTI Health Solutions, which provides
+consulting and other research services to pharmaceutical, device,
+government and nongovernment organizations. In their salaried
+positions, they work with a variety of companies and organizations.
+They receive no payment or honoraria directly from these organizations for services rendered. Maria-Magdalena Balp is an employee of
+Novartis Pharma AG. Haijun Tian is an employee of Novartis Pharmaceuticals Corporation. Anna Halliday is an employee of Novartis
+Pharmaceuticals UK Limited.
+
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution-NonCommercial 4.0 International
+License (http://creativecommons.org/licenses/by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any
+medium, provided you give appropriate credit to the original
+author(s) and the source, provide a link to the Creative Commons
+license, and indicate if changes were made.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA2LEN/
+EDF/WAO guideline for the definition, classification, diagnosis,
+and management of urticaria: the 2013 revision and update.
+Allergy. 2014;69(7):868-87.
+
+2. Maurer M, Mager! M, Metz M, et al. Revisions to the international guidelines on the diagnosis and therapy of chronic urticaria. J Dtsch Dermatol Ges. 2013;11(10):971-8. doi:10.1111/
+ddg.12194.
+
+10.
+
+11.
+
+12.
+
+14.
+
+15.
+
+16.
+
+527
+
+. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical
+
+needs in chronic spontaneous urticaria: a GA2ZLEN Task Force
+report. Allergy. 2011;66:317-30.
+
+. Balp MM, Vietri J, Tian H, Isherwood G. The impact of chronic
+
+urticaria from the patient’s perspective: a survey in five European
+countries. Patient. 2015;8(6):551-8.
+
+. O'Donnell BF, Lawlor F, Simpson J, et al. The impact of chronic
+
+urticaria. on the life. Br J Dermatol.
+
+1997;136(2):197-201.
+
+quality of
+
+. Staubach P, Eckhardt-Henn A, Dechene M, et al. Quality of life
+
+in patients with chronic urticaria is differentially impaired and
+determined by psychiatric comorbidity. Br J Dermatol.
+2006; 154(2):294-8.
+
+. Stull DE, McBride D, Gimenez-Arnau A, et al. Validation of
+
+chronic spontaneous/idiopathic urticaria (CSU/CIU) health states
+using weekly Urticaria Activity Score (UAS7) and Dermatology
+Life Quality Index (DLQI) [poster]. American Academy of
+Dermatology Annual Meeting, San Francisco, March 2015. RTI
+Health Solutions. 2015.  https://www.rtihs.org/publications/
+validation-chronic-spontaneousidiopathic-urticaria-csuciu-healthstates-using-weekly. Accessed 10 Oct 2015.
+
+. Gusi N, Olivares PR, Rajendram R. The EQ-5D health-related
+
+quality of life questionnaire. In: Preedy VR, Watson RR, editors.
+Handbook of disease burdens and quality of life measures. New
+York: Springer; 2010. p. 87-99.
+
+. Kind P, Dolan P, Gudex C, Williams A. Variations in population
+
+health status: results from a United Kingdom national questionnaire survey. BMJ. 1998;316:736-41.
+
+EuroQol Research Foundation. EuroQoL EQ-5D-5L. EuroQol
+Research Foundation. 2015. http://www.eurogol.org/faqs/eq-SdSl.html. Accessed 1 Oct 2015.
+
+Stull DE, McBride D, Gimenez-Arnau A, et al. Categorical health
+states in chronic spontaneous urticaria (CSU) based on the
+weekly Urticaria Activity Score (UAS7): are they distinct, discriminative, and reproducible? [poster]. ISPOR 17th Annual
+European Congress, Amsterdam, November 2014. RTI Health
+Solutions. 2014. https://www.rtihs.org/sites/default/files1ISPOR%
+202014_CSU%20Health%20states%20Final %20version%20for%
+20print_862_6th%20Nov.pdf. Accessed 6 Oct 2015.
+
+Saini S, Rosen K, Hsieh H, et al. Efficacy and safety of omalizumab in patients with chronic idiopathic urticaria who remain
+symptomatic despite concomitant H1 antihistamine therapy:
+results of a phase 2 trial [abstract]. 30th Congress of the European Academy of Allergy and Clinical Immunology, Istanbul, June 2011. Allergy. 2011;66:33.
+
+. Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for the treat
+ment of chronic idiopathic or spontaneous urticaria. N Engl J
+Med. 2013;368:924-35.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria
+despite standard combination therapy. J Allergy Clin Immunol.
+2013;132:101-9.
+
+Mathias SD, Dreskin SC, Kaplan A, et al. Development of a daily
+diary for patients with chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol. 2010;105(2):142-8.
+
+National Institute for Health and Care Excellence. Omalizumab
+for previously treated chronic spontaneous urticaria. NICE technology appraisal guidance [TA339]. National Institute for Health
+and Care Excellence. 2015. https://www.nice.org.uk/guidance/
+ta339/chapter/1-guidance. Accessed 6 Oct 2015.
+
+4 Adis
+

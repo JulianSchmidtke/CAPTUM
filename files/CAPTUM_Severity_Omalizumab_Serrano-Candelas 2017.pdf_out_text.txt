@@ -1,0 +1,1073 @@
+SCIENTIFIC REPIRTS
+
+OPEN Omalizumab efficacy in cases of
+chronic spontaneous urticaria is not
+explained by the inhibition of sera
+
+paren ard activity in effector cells
+
+Li: line: 21 August 2: B . ii i
+Published online: 21 August 2017 Eva Serrano-Candelas*?, Rubén Martinez-Aranguren?, Olga Vega’, Gabriel Gastaminza?, Joan
+
+Bartra‘*, Maria Teresa Audicana’®, Jorge M. Nufiez-Cordoba®, Jaime Algorta’, Antonio Valero*®,
+Margarita Martin?” & Marta Ferrer(?
+
+Omalizumab (OmAb) is a humanized anti-IgE antibody approved for the treatment of chronic
+spontaneous urticaria (CSU). OmAb‘s mechanism of action is known to include actions on free IgE
+and on pre-bound IgE. However, OmAb is equally and rapidly effective against autoimmune and nonautoimmune urticaria where IgE involvement is not clear, suggesting the involvement of additional
+mechanisms of action. In this study, we sought to investigate the ability of OmAb to inhibit mast
+cell and basophil degranulation induced by sera from CSU patients. For this purpose, we performed
+a comparison between the in vitro incubation of sera from CSU patients treated with OmAb and the
+in vivo administration of OmAb in a clinical trial. We found that OmAb added in vitro to sera from
+CSU patients did not modify the ability of the sera to induce cell degranulation. Similarly, the sera
+from patients treated with OmAb in the context of the clinical trial who had a good clinical outcome
+maintained the capacity to activate mast cells and basophils. Thus, we conclude that the beneficial
+activity of OmAb does not correlate with the ability of patient sera to induce cell degranulation.
+
+Omalizumab (OmAb) is a biological drug that specifically recognizes IgE at the same epitope where IgE is bound
+to its high-affinity receptor, FceRI. In addition to its ability to sequester free IgE, it has been demonstrated that
+OmAb is also capable of accelerating the dissociation of pre-bound IgE in basophils'. Our recent data suggest
+that this also occurs in mast cells and confirm previous basophil data at physiological dose ranges (30-100 ug/
+ml, 0.2-0.67 1M) in a time- and dose-dependent manner’. In these conditions, OmAb was able to inhibit early
+IgE-triggered events, such as phosphorylation of PLCy, LAT and Syk, as well as phosphorylation of ERK and
+later events, such as upregulation of CD63 and leukotriene synthesis*. This result explains the effects of OmAb on
+sustained inflammation in asthmatic patients‘.
+
+OmAb has recently been approved for chronic spontaneous urticaria (CSU) and has shown high rates of
+complete control®. CSU is a severely disabling disease® defined by the spontaneous onset of wheals, with or without angioedema, persisting for >6 weeks. Despite its impact on patient quality of life and morbidity, CSU has an
+elusive physiopathology’. It is widely accepted that CSU has an autoimmune component’, wherein dermal mast
+cells and basophils in CSU patients are triggered by circulating IgE against autoantigens’, by IgG against FceRI'*"!
+or by IgG against IgE itself'*, which would be present in the sera of CSU patients. These antibodies may eventually
+activate mast cells and basophils, causing histamine release!! and increased expression of activation markers such
+
+ 
+
+1Biochemistry Unit, Faculty of Medicine, University of Barcelona, Casanova 143, Barcelona, 08036, Spain.
+?Laboratory of Clinical and Experimental Respiratory Immunoallergy, IDIBAPS, Barcelona, Spain. Department of
+Allergy and Clinical Immunology, Clinica Universidad de Navarra, Pamplona, Spain. ‘Department of Pneumology
+and Allergology, Immunoallérgia Respiratoria Clinical Experimental, IDIBAPS, Hospital Clinic, Barcelona, Spain.
+5Allergy Service, Hospital Santiago, Vitoria, Spain. "Research Support Service, Central Clinical Trials Unit, Clinica
+Universidad de Navarra, Pamplona, Spain. Department of Biochemistry and Molecular Biology, Universidad del Pais
+Vasco-EHU, Bizkaia, Spain. °Centro de Investigacion Biomédica en Red de Enfermedades Respiratorias [Biomedical
+Research Networking Centre on Respiratory Diseases (CIBERES)], Madrid, Spain. Margarita Martin and Marta Ferrer
+contributed equally to this work. Correspondence and requests for materials should be addressed to M.M. (email:
+martin_andorra@ub.edu) or M.F. (email: mferrerp@unav.edu)
+
+ 
+
+SCIENTIFIC REPORTS |7: 8985 | DOI:10.1038/s41598-017-09361-4 1
+www.nature.com/scientificreports/
+
+as CD63"? or CD203c'*. However, the presence of reactive IgE/IgG has not been observed in approximately half of
+CSU patients, and, from a clinical standpoint, autoimmune and non-autoimmune CSU cases are indistinguishable from one another. In fact, OmAb is effective in the majority of CSU patients regardless of the presence or
+absence of autoantibodies. Moreover, in some cases, OmAb is able to cause symptom remission in a very short
+timeframe, which cannot be explained by the currently postulated mechanisms of action of OmAb®.
+
+In an attempt to better understand the mechanisms of action of OmAb in CSU and, more importantly, to
+better understand the pathophysiology of this disease, we studied the influence of OmAb on the ability of CSU
+sera to activate mast cells and basophils. Our research was performed in two ways. First, we studied the effects of
+OmAb addition in vitro by pre-incubating sera from CSU patients with OmAb and assessing its ability to modulate basophil and mast cell activation induced by such sera. Second, we determined whether the ability of sera
+from CSU patients to activate mast cells and primary basophils is altered after OmAb treatment in the context of a
+clinical trial. We also evaluated whether the levels of histamine, tryptase and C-reactive protein in sera from CSU
+patients change during treatment to evaluate their use as potential markers for the efficacy of OmAb treatment.
+
+Results
+
+Sera from CSU patients differentially induce mast and basophil celldegranulation. Thirty-nine
+CSU patients (22 women and 17 men, mean age: 44 + 12.2 years) with a median disease duration of 6.7 years were
+enrolled in the study. Sera from all patients were collected at the beginning of the study. To determine the activating capacity of sera from these CSU patients, we assessed its capacity to induce mast cell and basophil degranulation by analyzing CD63 expression on mast cells (LAD2) and basophils of healthy donors by flow cytometry using
+the basophil activation test (BAT)'*. Our results revealed that mast cell and basophil sera-dependent degranulation follows the same pattern (Fig. 1) (Pearson's coefficient 0.730; p-value 8.76 x 10~*). However, the ability of
+sera from CSU patients to induce cell degranulation is very heterogeneous among different sera. Importantly, this
+degree of variability in the cell response to sera activity is not attributable to clinical differences between patients.
+
+Sera from CSU patients incubated with OmAb in vitro do not inhibit cell degranulation. To test
+the ability of OmAb to sequester soluble factors present in CSU or to hinder their activating capacity, we selected
+several CSU sera able to induce cell degranulation of LAD2 cells and basophils and treated them with different
+concentrations of OmAb or human IgG (hIgG) as a control (Fig. 2A). These pre-treated sera were subsequently
+incubated with LAD2 mast cells or primary basophils, and CD63 surface expression was evaluated. Our results
+showed that OmAb does not inhibit the ability of these sera to induce degranulation of LAD2 cells (Fig. 2B) or
+primary basophils (Fig. 2C). To test whether OmAb was fully active (i.e., able to sequester soluble IgE), the same
+OmAb concentrations and procedures were used with IgE® and subsequent triggering with streptavidin (STV),
+achieving a near total inhibition of mast cell degranulation (Fig. 2D,E).
+
+Altogether, our data indicate that OmAb effectively prevents IgE from binding to FceRI, preventing
+IgE-mediated cell degranulation, but is unable to inhibit CSU patient sera-dependent degranulation in mast cells
+and basophils under the same conditions.
+
+Clinical outcomes from the OmAb clinical trial. Of the 39 CSU patients enrolled in the study
+(Supplementary Table 1), seventeen patients were recruited to participate in a clinical trial to analyze the efficacy
+of OmAb in the treatment of CSU. Fig. 3A shows a brief scheme of the clinical trial design, which was structured
+as a cross-over study. Of these 17 patients (retention rate: 85%), 10 started in the OmAb arm (Arm A) and 7
+started in the placebo arm (Arm B). The mean patient age was 46.7 (SD: 12.5) years, and 9 (52.9%) were women.
+
+The Urticaria Activity Score (UAS) changes from baseline to the end of the study revealed a greater average improvement in response to OmAb treatment (mean UAS reduction = —2.4, SD = 2.5; median UAS reduction = —2; p25 = —4, p75 =0) than in response to placebo (mean UAS reduction = —1.2, SD = 2.6; median UAS
+reduction = —2; p25 = —3, p75 = 1); however, the difference between the placebo and OmAb treatment groups
+was not statistically significant (p = 0.380). In contrast, OmAb treatment resulted in a statistically significant
+improvement in the post-treatment UAS compared with the baseline UAS (baseline UAS: 3; p25 =2, p75 =6;
+post-OmAb UAS: 0; p25 =0, p75 = 2; p=0.004) (Fig. 3B; Supplementary Table 2A,B).
+
+Comparisons of the change in the chronic urticaria quality of life (CU-Q,OL) score from baseline to the end of
+the study showed a greater average improvement with OmAb treatment (mean overall score reduction = — 13.0,
+SD = 22.0; median overall score reduction = —5.4; p25 = —29.3, p75 = 1.1) than with placebo (mean score reduction = —7.0, SD = 15.0; median overall score reduction = —4.9; p25 = — 16.8, p75 = 3.3), although the difference
+was not statistically significant (p = 0.339). OmAb treatment resulted in a statistically significant improvement
+in the post-treatment score compared with the baseline score (baseline overall score: 22.8; p25 = 8.7, p75 = 34.8;
+post-OmAb treatment overall score: 6.5; p25 = 3.3, p75 = 15.2; p= 0.047) (Fig. 3C; Supplementary Table 2A,B).
+
+The comparison between the change in the visual analogue scale (VAS) score from baseline to the end of
+the study showed a greater average improvement with OmAb treatment (mean VAS reduction = —29.8,
+SD = 29.4; median VAS reduction = —23; p25 = —53, p75 = —7) than with placebo (mean VAS reduction = —9.5,
+SD = 41.7; median VAS reduction = —11; p25 = —45, p75 = 21), but the difference was not statistically significant
+(p=0.218). OmAb resulted in a significantly improved VAS score post-treatment compared with baseline (baseline VAS: 60; p25 = 25, p75 =75; post-OmAb VAS: 10; p25=1, p75 = 29; p=0.001) (Fig. 3D; Supplementary
+Table 2A,B).
+
+Sera from CSU patients from the clinical trial maintained its ability to activate mast cells and
+basophils. The results described above indicate that although OmAb treatment showed high efficacy in
+the control of CSU, incubation of sera from CSU patients with OmAb in vitro did not hinder the ability of the
+sera to activate mast cells (LAD2) and basophils. For this reason, we aimed to determine whether the in vivo
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 2
+ 
+
+www.nature.com/scientificreports/
+
+| a
+aS
+
+Fold change (CD63 MFI)
+&
+
+101
+102
+103
+105
+106
+108
+109
+110
+111
+112
+113,
+
+Clinical trial patients
+
+114
+115
+117
+118
+119
+
+ 
+
+120
+
+ 
+
+T T 1 F171
+9 v cs oo 2
+
+Figure 1. Sera from CSU patients differentially activate mast cells and basophils. (A) Sera from 39 CSU patients
+were incubated for 30 min with LAD2 cells or ex vivo basophils to evaluate their ability to increase CD63
+expression in the cell membrane. The bar graph represents fold increases of CD63 (mean fluorescence intensity)
+on LAD2 cells (MC; grey bars) and ex vivo basophils (BS; black bars) compared with that on unstimulated cells.
+‘The vertical dashed line corresponds to a fold change value of 1. The mean CD63 on the cell surface of both cell
+types was correlated (Pearson's coefficient 0.730; p-value 8.76 x 10~). Patients enrolled in the clinical trial are
+indicated in the figure.
+
+     
+
+administration of OmAb had any impact on the activating capacity of patient sera. To test this hypothesis, we
+used sera from CSU patients collected at different time points during the clinical trial: before treatment (untreated
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 3
+www.nature.co
+
+ 
+
+A OmAb treatment in vitro
+OmAb treatment of CSU sera
+
+Hg YS | +a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sera from untreated OmAb/higG MCIBS CD63 staining
+CSU patients
+B LAD2 MAST CELLS c PRIMARY BASOPHILS
+1505 15077.
+_ 1004 I il _ 1004
+S | s
+S =
+Pa Bs
+8 8
+504 504
+o- T T T 0
+OmAb(ugiml) - 120 60 30 - - - OmAb (ug/ml) - 120 60 30 higG (igiml) - -— - - 120 60 30 hlgG (ig/ml) - - - = 120
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D
+Evaluation of OmAb ability to sequester soluble IgE
++ |B eo
+Biotiniated IgE (IgE8)  OmAb/higG MC bard CD83 staining
+E LAD2 MAST CELLS
+1504
+100+
+Cc
+=
+x
+oO
+8
+505
+0+ T T T
+a a a
+OmAb(ugiml) - 120 60 30 - - higG gil) - = - 120 60 30
+STV + + + + + +
+
+Figure 2. Preincubation of sera from CSU patients with OmAb does not modify the ability of the sera to
+stimulate mast cells. (A) Brief scheme of the experimental protocol used in (B and C). (B) LAD2 cells were
+incubated with sera samples from CSU patients who were pre-incubated with different doses of OmAb, or hlgG
+as a control, for 30 min. The bar charts represent the percentage of the mean fluorescence intensity (MFI) of
+CD63 staining relative to that in OmAb/IgG untreated cells (first bar). (C) Basophils from healthy donors were
+incubated with sera samples from CSU patients who were pre-incubated with different doses of OmAb, or hlgG
+as a control, for 30 min. The bar charts represent the percentage of the MFI of CD63 staining relative to that
+
+in OmAb/IgG untreated cells (first bar). (D) Brief scheme of the experimental protocol used in (E). (E) IgE*
+was incubated with different doses of OmAb, or IgG as a control, for 30 min. Then, LAD2 cells were incubated
+overnight with this mixture, and cells were stained for CD63 after IgE® challenge. The bar charts represent the
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 4
+
+ 
+ 
+
+www.nature.co
+
+ 
+
+fhiteg-)Xolae)
+
+ 
+
+A Arm A: OmAb_ Arm B:OmAb |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wo in “Arm B: Placebo ‘Arm A’ Placebo
+istration
+vere TELL Ttttt
+[Wess 4 02 6 10 18 22 2h 28S
+‘Serum extraction J |
+BEFORE AFTER FIRST AFTER SECOND
+TREATMENT TREATMENT TREATMENT
+B Arm A/A' (first OmAb) Arm B/B' (first i)
+of —*  —* |>— wa « |] © before treatment
+o & after 1st treatment
+s GB after 2nd treatment
+oy
+8
+a
+2
+5
+3 “ mk,
+g
+_
+pe)
+of +
+0 18 40 0
+Cc Weeks of treatment
+Arm AVA’ (first OmAb) Arm B/B' (first Placebo)
+s ry * * *
+8
+Ed
+ay —
+o
+28a .
+a5 .
+eo _
+See
+22
+s5
+ass
+cs q |_|
+$
+é LL
+° a et
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 18 40 0 18 40
+
+ 
+
+Weeks of treatment
+
+Arm A/A' (first OmAb) Arm B/B' (first Placebo)
+
+* *
+
+ 
+
+100
+
+80
+
+ 
+
+ 
+
+ 
+
+60
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+Visual Activity Score (VAS)
+40
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 18 40 0 18 40
+
+Weeks of treatment
+
+Figure 3. Clinical trial study. (A) Scheme of the double-blind, placebo-controlled, randomized, cross-over
+
+(2 x 2) clinical trial. (B) Urticaria activity score (UAS), (C) Chronic Urticaria Quality of Life (CU-Q2oL) score,
+and (D) Visual Activity Scale (VAS) score reported by patients before the start of the study and after the two
+treatment periods (weeks 0, 18 and 40, respectively). The first three bars represent the patients who received
+OmAb followed by placebo (Arm A/A), and the second three bars represent the patients who received placebo
+followed by OmAb (Arm B/B’). The box plots represent the median, 25th percentile and 75th percentile of UAS/
+CU-Q2o0L/VAS scores of 17 patients enrolled in the clinical trial before and after receiving OmAb or placebo.
+‘The outer point corresponds to a patient who did not respond to the OmAb treatment. The Wilcoxon matchedpairs signed-rank test was used to evaluate differences between the values at baseline and at the end of the study
+(*p <0.05).
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 5
+www.nature.com/scientificreports/
+
+OmAb treatment in vivo
+
++»
+
+WA
+Sera from CSU patients from the MC/BS CD63 staining
+clinical trial treated with OmAb/Placebo
+
+ 
+
+LAD2 MAST CELLS
+
+  
+  
+
+Fold change (CD63 MFI)
+
+ 
+
+ 
+
+AmA Am B
+
+Cc PRIMARY BASOPHILS
+
+ 
+
+ 
+
+ 
+
+Fold change (CD63 MFI)
+
+ 
+
+ 
+
+AmA Am B
+
+Figure 4. Sera from CSU patients enrolled in the clinical trial, treated with either OmAb or placebo, did not
+modify the capacity of the sera to activate mast cells or basophils. (A) Protocol followed in the assay. (B) Dot
+plot showing fold change of CD63 mean fluorescence intensity (MFI) of LAD2 mast cells and (C) basophils
+incubated with sera from CSU patients at different time points of the clinical trial.
+
+CSU sera), after the first treatment (corresponding to week 18) and after the second treatment (corresponding to
+week 40).
+
+We incubated these CSU sera samples with LAD2 mast cells and basophils and evaluated their activating
+capacity by measuring CD63 by flow cytometry (Fig. 4A). Our results show that their sera maintained the same
+activating capacity for mast cells (Fig. 4B) and basophils (Fig. 4C) throughout the study. It is important to note
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 6
+ 
+
+www.nature.com/scientificreports/
+
+that all patients, regardless of the ability of their serum to activate basophils and mast cells, had similar positive
+clinical outcomes with OmAb treatment.
+
+These results show that the capacity of CSU sera to activate mast cells and basophils is not a good marker for
+predicting the clinical response to OmAb treatment.
+
+The histamine, tryptase and C-reactive protein levels present in the sera of CSU patients are
+maintained following OmAb treatment. Because the analysis of the activating capacity of sera from
+CSU patients for mast cells and basophils was not useful for predicting the response to OmAb treatment, we
+sought to determine whether other potential mediators or proinflammatory markers present in the sera changed
+during treatment, as they may serve as markers of symptom remission. We evaluated the levels of histamine,
+tryptase and C-reactive protein in sera from CSU patients during treatment. As shown in Fig. 5, sera from CSU
+patients initially contained variable amounts of these substances, which had no correlation with clinical outcome,
+and the amounts of these soluble factors did not vary throughout the treatment course. Moreover, the concentrations of these markers did not seem to be correlated with each other (Fig. 5D).
+
+Other standard practices reported in the literature include the evaluation of the 3-hexosaminidase activity
+of cell supernatants after incubation of CSU sera with mast cells!” !*. Given the results found for histamine, we
+sought to evaluate the 3-hexosaminidase content in sera from CSU patients compared with that in sera from
+healthy controls. We found that both sera samples had considerable intrinsic enzymatic activity (Supplementary
+Fig. S1A). Moreover, the evaluation of 3-hexosaminidase content in CSU samples during treatment showed no
+change with either OmAb or placebo treatment (Supplementary Fig. $1B). Thus, we concluded that this colorimetric approach to measuring cell degranulation is not valid to assess sera-dependent mast cell degranulation.
+Moreover, the variability in sera colors, despite subtraction of the background, can also alter the assay results.
+
+Discussion
+
+OmAb has been postulated to be effective in the treatment of CSU due to its ability to sequester free IgE and,
+indirectly, to downregulate FceRI'*-*!. Benefits of omalizumab treatment (300 mg) are commonly evident early
+(before week 4) in CSU patients and persisted to week 24° ?*:?°. However, in some cases its clinical effectiveness
+is evident much earlier than downregulation of the IgE receptor could take place, given that there are patients
+whose symptoms resolve as early as 24 or 48h after OmAb administration™*”. In certain cases, the effectiveness
+of OmAb is thought to be associated with the blocking of autoreactive IgE antibodies’, although the presence of
+these autoantibodies cannot be found in all CSU patients. In a recent review is summarized that OmAb therapy is
+successful in patients with or without a positive test for IgG autoantibodies against FceRI or IgE, or IgE autoantibodies against thyroperoxidase”’. In this study, we aimed to further explore the action of OmAb in CSU patients
+and to better understand the pathophysiology of this disease.
+
+We first explored the capacity of sera from CSU patients to activate mast cells (LAD2) and primary basophils.
+It has been reported that between 5 and 10% of CSU patients present with specific autoantibodies against IgE
+itself'* °°, Using LAD2 cells as a mast cell model permits the uniform evaluation of serum activation in a context
+where FceRI is not occupied. Therefore, this model allows us to discard anti-IgE antibodies as the soluble factor
+present in the sera responsible for cell degranulation, as LAD2 cells are not IgE-sensitized.
+
+To explore the action of OmAb in CSU patients, we analyzed the ability of OmAb to block the serum-activating
+ability of sera from CSU patients to induce mast cell (LAD2) and basophil degranulation. We used ranges of
+OmAb doses close to physiological concentrations in vitro for comparison with the data obtained from the sera
+from CSU patients treated with OmAb in a clinical trial.
+
+From our in vitro experiments, we can conclude that OmAb did not interfere with or block the serum factor
+or antibody responsible for activating mast cells and basophils. This result highlights the fact that IgE is not the
+activating factor present in the sera from our patients. Consistent with this result, the use of quilizumab, a monoclonal antibody that binds to the M1-prime segment of the IgE membrane causing IgE-switch depletion and cell
+apoptosis, did not prove to be effective in a clinical trial involving 45 patients with CSU”’.
+
+We next analyzed the efficacy of OmAb in the treatment of CSU in a clinical trial. OmAb treatment was efficacious in all CSU subtypes, regardless of their autoimmune and non-autoimmune behavior, defined as the ability
+of the sera to activate basophils and mast cells. Consistent with these findings, it has been recently published that
+serum reactivity can be useful for predicting the time to response to OmAb*. The authors concluded that patients
+with a positive autologous skin serum test (ASST) respond faster to OmAb, but they determined that the final
+OmAb efficacy did not depend on the result of the ASST, which is in accordance with our results demonstrating
+no differences in OmAb effectiveness regardless of the activating capacity of sera from the patients enrolled in the
+clinical trial. This result is in accordance with the clinical experience of others” *°. Our study shows a statistical
+significant difference between the baseline to OmAb post-treatment. However there is not significant difference
+between placebo and OmAb treatment although we observed a clear improvement. While not statistically significant, the magnitude of this improvement may have clinical relevance and should not lead these results to be
+discarded. The residual effect of OmAb in the Arm A/A’ may have contributed to alter significance. In addition,
+the impact of the placebo effect should not be discounted. This symptom reduction in the placebo group has also
+been observed in other OmAb efficacy studies that evaluated the mean change from baseline in symptom scores?.
+
+Our results also reveal that the activating capacity of sera from CSU patients did not change after treatment
+with OmAb. This result is in accordance with that of other studies that did not reveal changes in ASST in CSU
+patients during remission*"». In the proof of concept study for the use of OmAb in CSU, Kaplan’ treated 12 CSU
+patients and analyzed the ability of sera to activate basophils before and after administering OmAb. In patients
+with complete resolution of or remitted symptoms, they observed a trend toward the induction of a lower histamine release than that resulting from the same sera at the beginning of the treatment. However, they did not find a
+clear correlation between symptom remission and serum activity, with patients who exhibited complete responses
+
+ 
+
+ 
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 vi
+ 
+
+www.nature.com/scientificreports/
+
+ 
+
+A
+15:
+
+C5 before treatment
+ex @ after 1st treatment
+= 10
+sS @™ after 2nd treatment
+s
+e
+£
+2 5
+=
+
+0
+SG GP GCP GOS OP HP PO Oe
+B 8 Arm AVA' (first OmAb) Arm B/B' (first Placebo)
+6
+
+Tryptase (ug/ml)
+>
+
+ 
+
+ 
+
+ 
+
+2
+0
+c FP GC EC OWLS OS PHP GW OS
+4 Arm AVA’ (first OmAb) Arm B/B' (first Placebo)
+3
+Zz 2
+oD
+Es
+©
+=
+2 1.0
+a
+©
+$
+s
+3
+o 0.5
+2
+S)
+0.0.
+FS SF CF LF SF eS SF
+D Arm AJA' (first OmAb) Arm B/B' (first Placebo)
+
+ 
+   
+ 
+  
+
+Pearson’s coefficient
+
+  
+    
+    
+  
+  
+  
+   
+    
+
+Before treatment -0.09346
+
+   
+
+ 
+
+Histamine vs Tryptase After 15 treatment -0.08131 0.8233
+-0.1667
+
+ 
+
+ 
+
+After 2nd treatment
+
+Before treatment
+
+ 
+
+ 
+
+ 
+
+Histamine vs C-reactive protein After 1*t treatment 0.655 0.2990
+After 2nd treatment 0.1838 0.6113
+Before treatment 0.4317 0.2128
+
+ 
+
+Tryptase vs C- reactive protein After 1t treatment
+
+After 2nd treatment
+
+ 
+
+ 
+
+Figure 5. Histamine, tryptase or C-reactive protein levels in sera from CSU patients did not change after
+OmAb treatment. The charts represent the concentration of histamine (A), tryptase (B) and C-reactive protein
+(C) in sera from CSU patients at different time points of the OmAb/placebo treatment. (D) Table showing
+Pearson's coefficients for the different substances tested.
+
+maintaining the same serum activity and vice versa. Moreover, as we will discuss below, the analysis of histamine
+release can yield artificial results due to the serum content of histamine in these patients.
+
+Finally, we also describe the intrinsic levels of the soluble mediators 8-hexosaminidase, histamine, tryptase
+and C-reactive protein in the sera from CSU patients. The concentrations of these soluble factors were not
+observed to be associated with either the clinical outcomes or the responses to treatment. We conclude that the
+use of 3-hexosaminidase analysis to determine the ability of patient sera to induce mast cell degranulation could
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 8
+www.nature.com/scientificreports/
+
+result in artificial values that are determined more by sera activity than by cell activity itself. These results also call
+into question the use of the ASST in the evaluation of autoimmune CSU patients, as soluble factors such bradykinin, complement fragments or cytokines may trigger skin mast cell activation and yield false-positive results”.
+
+We should also consider that removal of IgE from the mast cell and basophil surface may desensitize them
+and would leave them unable to be activated by IgE or anti-IgE autoreactive antibodies. However, IgE or anti-IgE
+antibodies are not the unique cause of CSU symptoms and that OmAb is acting through other mechanisms.
+As highlighted by a recent comprehensive review"”, there could be alternative mechanisms. Accordingly, it has
+been demonstrated that OmAb is also effective in several types of inducible urticaria, as solar urticaria**,
+cold- and heat-induced urticaria**** and delayed pressure urticaria or symptomatic dermographism™ “° where
+non-IgE-mechanisms have been demonstrated, indicating that OmAb may act beyond IgE-mediated mechanisms. We have recently published a review in which we discuss the action of OmAb cells other than mast cells
+and basophils“’. For example, OmAb can target membrane-IgE (mlgE) in IgE* B-cells, reducing IL4R expression
+and IgE synthesis and decreasing the number of these cells, possibly by causing B-cell anergy**. OmAb has also
+been reported to cause eosinophil apoptosis”, a finding that is in agreement with the decrease in eosinophilia
+found in asthma patients after OmAb administration“. Finally, OmAb has been observed to inhibit corneal angiogenesis in IgE-deficient mice, but it failed to inhibit angiogenesis in Fcgr1—/— mice, suggesting a role of OmAb
+as an IgG.
+
+In conclusion, our data show that OmAb efficacy in cases of CSU is not explained by the inhibition of sera
+activity in mast cells and basophils and indirectly proves that autoimmunity, understood as the ability of CSU
+sera to activate basophils and mast cells, is not a good biomarker for predicting clinical CSU responses to OmAb
+treatment. We also conclude that proinflammatory components present in sera from CSU patients are not useful
+for predicting OmAb treatment responses. Moreover, these results also suggest a possible direct effect of OmAb,
+not only in mast cells and basophils but also in other cells, which could explain its effectiveness in CSU and other
+pathologies.
+
+Methods
+This study was approved by the institutional review board of the University of Navarra. The clinical trial was
+approved by the Spanish Agency of Medicines and Medicinal Products (AEMPS).
+
+Cells and reagents. The LAD2 human mast cell line was provided by Drs A. Kirshenbaum and D.D. Metcalfe
+(National Institutes of Health, Bethesda, MD) and grown in StemPro-34 serum-free medium (Invitrogen Life
+Technologies, Carlsbad, CA, USA) supplemented with StemPro-34 Nutrient, L-glutamine (2 mM), penicillin (100
+U/ml), streptomycin (100,:g/ml), and 100 ng/ml recombinant stem cell factor (SCF) (Amgen, Thousand Oaks,
+CA, USA). The experiments with basophils were performed as previously reported** using blood from non-atopic
+donors. Biotinylated human IgE (IgE®) was obtained from Abbiotec (San Diego, CA, USA). Streptavidin
+(STV) was purchased from Sigma (Sigma, St. Louis, MO, USA). Whole-molecule human hlgG was obtained
+from Jackson ImmunoResearch (West Grove, PA, USA). PerCP-Cy5.5-conjugated anti-human HLA-DR and
+PE-Cy7-conjugated anti-human CD123 antibodies were purchased from eBioscience (San Diego, CA, USA), and
+APC-conjugated anti-human CD203c and PE-conjugated anti-human CD63 antibodies were purchased from BD
+Bioscience (Mountain View, CA).
+
+CSU patients. ‘Thirty-nine patients were enrolled in this study. All patients had been diagnosed with a
+2-month to 40-year history of CSU, and 31 (79%) suffered from angioedema along with urticaria. Supplementary
+Table 1 in the online supporting information includes demographic and clinical data of these patients. All patients
+provided their written consent to participate in this study, and 17 (43.5%) were included in the clinical trial
+described below.
+
+Ethics statement. The study design and protocol was approved by the Food and Drug Spanish Agency
+(AEMPS), the State Ethics Committee and the Ethics Research Committee of the University of Navarra. The
+authors performed these procedures in accordance with the approved guidelines, obtaining informed consent
+from each subject before conducting the experiments.
+
+Mast cell and basophil activation with sera from CSU patients. LAD2 cells (0.2 x 10°) were
+re-suspended in Tyrode's buffer” and incubated for 30 minutes at 37°C with 251] of sera from CSU patients in a
+final volume of 60 1. Cells were collected for CD63 testing using a FACSCalibur flow cytometer (FACScan; BD
+Biosciences). A total of 100 ul of blood from healthy donors was pre-incubated with 20 ul of stimulation buffer
+containing IL-3 at 37°C for 10 minutes. Thereafter, blood was stimulated with 80 ul of sera. After 30 min at 37°C,
+stimulation was stopped and the serum was eliminated by washing the samples with cold washing buffer (PBS,
+2mM EDTA). Samples were stained with HLA-DR, PerCP-Cy5.5, CD123 PE-Cy7, CD203c APC and CD63 PE
+for 30 min at 4°C. Erythrocytes were lysed for 15 min at RT, and samples were washed twice prior to separating
+them in a FASCCanto II flow cytometer (FACScan). Data were analyzed with FlowJo Tree Star software (Ashland,
+OR, USA). In all cases, dead cells were eliminated based on their forward (FSC) and side scattering (SSC) profiles.
+
+In vitro preincubation of sera from CSU patients or IgE with OmAb/IgG and LAD2 and primary
+basophil stimulation. Sera from CSU patients were treated for 30 min at 37°C with OmAb or higG, as an
+immunoglobulin control, at different concentrations in Tyrode’s buffer. Then, LAD2 cells and basophils from
+donors were stimulated with these pre-treated sera as described above, and CD63 was assessed by flow cytometry.
+For IgE-dependent LAD2 degranulation, biotinylated IgE (IgE®) was incubated with different concentrations of
+OmAb/hIgG for 30 min at 37°C. Then, LAD2 mast cells were incubated overnight with this mixture at 37°C, and,
+after extensive washing, cells were stimulated with streptavidin for 30 min. CD63 was assessed by flow cytometry.
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 9
+ 
+
+www.nature.com/scientificreports/
+
+Clinical trial. The multicenter, double-blinded, placebo-controlled, randomized, cross-over clinical trial
+of OmAb was registered at Clinical Trials.gov (NCT01713725). Twenty participants were recruited from those
+included in the study. These patients were randomly assigned to receive OmAb or a matching placebo for a total
+of 14 weeks (first period). A total of 300 mg of OmAb was subcutaneously administered every two weeks during
+the first four weeks and every 4 weeks thereafter. After a washout period of 4 weeks, patients were crossed over to
+the other treatment for an additional 14 weeks (second period). Patients were followed-up for 12 weeks after the
+end of the second period.
+
+Disease activity and quality of life assessment. The urticaria activity score (UAS) was used to evaluate
+the main CSU characteristics (pruritus and number of wheals), with a total daily score ranging from 0 to 6 (lowest
+to highest disease activity)’. The validated Spanish version of the Chronic Urticaria Quality of Life Questionnaire
+(CU-Q,OL) was used to measure 6 CSU-specific dimensions of health-related quality of life: pruritus (2 items),
+impact on life activities (6 items), sleep disorders (5 items), limitations (3 items), appearance (5 items), and swelling (2 items)*’. Scores were transformed to a 0 to 100 scale, with higher scores representing a worse quality of
+life. Additionally, the visual analogue scale (VAS) was used as a complementary measure of CSU severity. The
+VAS score was determined by measuring the distance in millimeters (mm) between the left corner of a straight,
+100-mm horizontal line and the mark indicated on the line by each patient.
+
+LAD2 and primary basophil stimulation with sera from CSU patients treated with OmAb/
+Placebo. Patient sera samples from the clinical trial phases were obtained at the start of the study, after administering 5 OmAb or placebo doses (week 18) and at the end of the study (week 40). These sera samples were used
+to assess cell degranulation of mast cells and basophils as detailed above.
+
+Measurement of soluble substances in sera from CSU patients. Histamine, tryptase and C-reactive
+protein levels in sera were measured using the EIA Histamine kit (Immunotech, BeckmanCoulter, Marseille,
+France), the enzyme immunoassay ImmunoCAP FEIA (Thermo Fisher, Uppsala, Sweden) and the C-reactive
+protein High Sensitivity immunoturbidimetric assay (Roche Diagnostics, Mannheim, Germany), respectively,
+following the manufacturers’ instructions. Measurement of intrinsic }-hexosaminidase from CSU sera was performed by incubating sera with substrate (p-nitrophenyl-N-acetyl-3-D-glucopyranoside) for 30 min and, after
+stopping the reaction, measuring the absorbance at 405 nm.
+
+ 
+
+ 
+
+Statistical data analysis. The results of the in vitro assays are expressed as the means + standard deviations of the mean value (SD). One-way ANOVA or unpaired t-tests were used to determine significant differences (p-value), and Pearson's coefficient was used to analyze the correlation between different parameters
+using GraphPad software. The Wilcoxon matched-pairs signed-rank test was used to compare efficacy parameters
+according to interventions using Stata 14 (StataCorp LP, College Station, TX). Asterisks indicate the following p
+values: *p < 0.05, **p <0.01, ***p < 0.001, and ****p < 0.0001.
+
+ 
+
+References
+
+1. Eggel, A. et al. Inhibition of ongoing allergic reactions using a novel anti-IgE DARPin-Fc fusion protein. Allergy 66, 961-968,
+doi:10.1111/j.1398-9995.2011.02546.x (2011).
+
+2. Pennington, L. F. et al. Structural basis of omalizumab therapy and omalizumab-mediated IgE exchange. Nat Commun 7, 11610,
+doi:10.1038/ncomms1] 1610 (2016).
+
+3. Serrano-Candelas, E. et al. Comparable actions of omalizumab on mast cells and basophils. Clin Exp Allergy 46, 92-102, doi:10.1111/
+cea.12668 (2016).
+
+4, Pasha, M. A. et al. The effect of omalizumab on small airway inflammation as measured by exhaled nitric oxide in moderate-tosevere asthmatic patients. Allergy Asthma Proc 35, 241-249, doi:10.2500/aap.2014.35.3741 (2014).
+
+5. Maurer, M. et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med 368, 924-935,
+doi:10.1056/NEJMoa1215372 (2013).
+
+6. Zuberbier, T. et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management of
+urticaria: the 2013 revision and update. Allergy 69, 868-887, doi:10.1111/all.12313 (2014).
+
+7. Ferrer, M. Immunological events in chronic spontaneous urticaria. Clin Transl Allergy 5, 30, doi:10.1186/s13601-015-0074-7 (2015).
+
+8. Konstantinou, G. N. et al. EAACI taskforce position paper: evidence for autoimmune urticaria and proposal for defining diagnostic
+criteria. Allergy 68, 27-36, doi:10.111 1/all.12056 (2013).
+
+9. Altrichter, S. et al. IgE mediated autoallergy against thyroid peroxidase—a novel pathomechanism of chronic spontaneous urticaria?
+PLoS One 6, 14794, doi:10.1371/journal.pone.0014794 (2011).
+
+10. Hide, M. et al. Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl ] Med
+328, 1599-1604, doi:10.1056/NEJM199306033282204 (1993).
+
+11. Ferrer, M., Kinet, J. P. & Kaplan, A. P. Comparative studies of functional and binding assays for IgG anti-Fc(epsilon)Rlalpha (alphasubunit) in chronic urticaria. J Allergy Clin Immunol 101, 672-676 (1998).
+
+12. Gruber, B. L., Baeza, M. L., Marchese, M. J., Agnello, V. & Kaplan, A. P. Prevalence and functional role of anti-IgE autoantibodies in
+urticarial syndromes. J Invest Dermatol 90, 213-217 (1988).
+
+13. Wedi, B., Novacovic, V., Koerner, M. & Kapp, A. Chronic urticaria serum induces histamine release, leukotriene production, and
+basophil CD63 surface expression-inhibitory effects ofanti-inflammatory drugs. J Allergy Clin Immunol 105, 552-560, doi:10.1067/
+mai.2000.104939 (2000).
+
+14. Yasnowsky, K. M. et al. Chronic urticaria sera increase basophil CD203c expression. J Allergy Clin Immunol 117, 1430-1434,
+doi:10.1016/j.jaci.2006.02.016 (2006).
+
+15. Kaplan, A. P., Gimenez-Arnau, A. M. & Saini, S. 8. Mechanisms of action that contribute to efficacy of omalizumab in chronic
+spontaneous urticaria. Allergy 72, 519-533, doi:10.1111/all.13083 (2017).
+
+16. Hoffmann, H. J. et al. The clinical utility of basophil activation testing in diagnosis and monitoring of allergic disease. Allergy 70,
+1393-1405, doi:10.1111/all.12698 (2015).
+
+17. Tong, L. J., Balakrishnan, G., Kochan, J. P., Kinet, J. P. & Kaplan, A. P. Assessment of autoimmunity in patients with chronic urticaria.
+JAllergy Clin Immunol 99, 461-465 (1997).
+
+18. Bossi, F. et al. Mast cells are critically involved in serum-mediated vascular leakage in chronic urticaria beyond high-affinity IgE
+receptor stimulation. Allergy 66, 1538-1545, doi:10.1111/j.1398-9995.2011.02704.x (2011).
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 10
+ 
+
+www.nature.com/scientificreports/
+
+19. Kaplan, A. P, Joseph, K., Maykut, R. J., Geba, G. P. & Zeldin, R. K. Treatment of chronic autoimmune urticaria with omalizumab. J
+Allergy Clin Immunol 122, 569-573, doi:10.1016/j.jaci.2008.07.006 (2008).
+
+20. MacGlashan, D. Jr., Xia, H. Z., Schwartz, L. B. & Gong, J. IgE-regulated loss, not IgE-regulated synthesis, controls expression of
+FcepsilonRI in human basophils. Journal of leukocyte biology 70, 207-218 (2001).
+
+21. Beck, L. A., Marcotte, G. V., MacGlashan, D., Togias, A. & Saini, S. Omalizumab-induced reductions in mast cell Fce psilon RI
+expression and function. J Allergy Clin Immunol 114, 527-530, doi:10.1016/j.jaci.2004.06.032 (2004).
+
+22. Kaplan, A. et al. Timing and duration of omalizumab response in patients with chronic idiopathic/spontaneous urticaria. J Allergy
+Clin Immunol 137, 474-481, doi:10.1016/j.jaci.2015.08.023 (2016).
+
+23. Chang, T. W. et al. The potential pharmacologic mechanisms of omalizumab in patients with chronic spontaneous urticaria. J Allergy
+Clin Immunol 135, 337-342, doi:10.1016/j.jaci.2014.04.036 (2015).
+
+24, Metz, M., Ohanyan, T., Church, M. K. & Maurer, M. Omalizumab is an effective and rapidly acting therapy in difficult-to-treat
+chronic urticaria: a retrospective clinical analysis. J Dermatol Sci 73, 57-62, doi:10.1016/j.jdermsci.2013.08.011 (2014).
+
+25, MacGlashan, D. W. Jr. et al. Down-regulation of Fc(epsilon)RI expression on human basophils during in vivo treatment of atopic
+patients with anti-IgE antibody. J Immunol 158, 1438-1445 (1997).
+
+26. Goh, C. L. & Tan, K. T. Chronic autoimmune urticaria: where we stand? Indian J] Dermatol 54, 269-274, doi:10.4103/00195154.55640 (2009).
+
+27. Harris, J. M. et al. A randomized trial of quilizumab in adults with refractory chronic spontaneous urticaria. J Allergy Clin Immunol
+138, 1730-1732, doi:10.1016/j.jaci.2016.06.023 (2016).
+
+28. Gericke, J. et al. Serum autoreactivity predicts time to response to omalizumab therapy in chronic spontaneous urticaria. J Allergy
+Clin Immunol 139, 1059-1061 1051, doi:10.1016/j.jaci.2016.07.047 (2017).
+
+29. Ferrer, M. et al. Omalizumab is effective in nonautoimmune urticaria. J Allergy Clin Immunol 127, 1300-1302, doi:10.1016/j.
+jaci.2010.12.1085 (2011).
+
+30. Viswanathan, R. K., Moss, M. H. & Mathur, S. K. Retrospective analysis of the efficacy of omalizumab in chronic refractory urticaria.
+Allergy Asthma Proc 34, 446-452, doi:10.2500/aap.2013.34.3694 (2013).
+
+31. Grattan, C. E., Wallington, T. B., Warin, R. P., Kennedy, C. T. & Bradfield, J. W. A serological mediator in chronic idiopathic
+urticaria-a clinical, immunological and histological evaluation. Br J Dermatol 114, 583-590 (1986).
+
+32. Fusari, A., Colangelo, C., Bonifazi, F. & Antonicelli, L. The autologous serum skin test in the follow-up of patients with chronic
+urticaria. Allergy 60, 256-258, doi:10.1111/j.1398-9995.2005.00673.x (2005).
+
+33. Bernstein, J. A. ef al. The diagnosis and management of acute and chronic urticaria: 2014 update. J Allergy Clin Immunol 133,
+1270-1277, doi:10.1016/j.jaci.2014.02.036 (2014).
+
+34, Waibel, K. H., Reese, D. A., Hamilton, R. G. & Devillez, R. L. Partial improvement of solar urticaria after omalizumab. J Allergy Clin
+Immunol 125, 490-491, doi:10.1016/j.jaci.2009.11.007 (2010).
+
+35. Guzelbey, O. et al. Successful treatment of solar urticaria with anti-immunoglobulin E therapy. Allergy 63, 1563-1565, doi:10.1111/
+j-1398-9995.2008.01879.x (2008).
+
+36. Boyce, J. A. Successful treatment of cold-induced urticaria/anaphylaxis with anti-IgE. J Allergy Clin Immunol 117, 1415-1418,
+doi:10.1016/j.jaci.2006.04.003 (2006).
+
+37. Bullerkotte, U., Wieczorek, D., Kapp, A. & Wedi, B. Effective treatment of refractory severe heat urticaria with omalizumab. Allergy
+65, 931-932, doi:10.1111/j.1398-9995.2009.02268.x (2010).
+
+38. Metz, M. et al. Omalizumab is effective in cold urticaria-results of a randomized placebo-controlled trial. J Allergy Clin Immunol,
+doi:10.1016/j.jaci.2017.01.043 (2017).
+
+39. Bindslev-Jensen, C. & Skov, P. S. Efficacy of omalizumab in delayed pressure urticaria: a case report. Allergy 65, 138-139,
+doi:10.1111/j.1398-9995.2009.02188.x (2010).
+
+40. Maurer, M. et al. Omalizumab is effective in symptomatic dermographism-results of a randomized placebo-controlled trial. J Allergy
+Clin Immunol, doi:10.1016/j.jaci.2017.01.042 (2017).
+
+41, Navines-Ferrer, A., Serrano-Candelas, E., Molina-Molina, G. J. & Martin, M. IgE-Related Chronic Diseases and Anti-IgE-Based
+Treatments. J Immunol Res 2016, 8163803, doi:10.1155/2016/8163803 (2016).
+
+42. Chan, M. A., Gigliotti, N. M., Dotson, A. L. & Rosenwasser, L. J. Omalizumab may decrease IgE synthesis by targeting membrane
+IgE+ human B cells. Clin Transl Allergy 3, 29, doi:10.1186/2045-7022-3-29 (2013).
+
+43. Noga, O. et al. Effect of omalizumab treatment on peripheral eosinophil and T-lymphocyte function in patients with allergic asthma.
+J Allergy Clin Immunol 117, 1493-1499, doi:10.1016/j.jaci.2006.02.028 (2006).
+
+44, Skiepko, R. et al. Changes in blood eosinophilia during omalizumab therapy as a predictor of asthma exacerbation. Postepy Dermatol
+Alergol 31, 305-309, doi:10.5114/pdia.2014.40973 (2014).
+
+45, Bogdanovich, S. et al. Human IgG] antibodies suppress angiogenesis in a target-independent manner. Signal Transduct Target Ther
+1, doi:10.1038/sigtrans.2015.1 (2016).
+
+46. Sanz, M. L. et al. Flow cytometric basophil activation test by detection of CD63 expression in patients with immediate-type reactions
+to betalactam antibiotics. Clin Exp Allergy 32, 277-286 (2002).
+
+47, Alvarez-Errico, D. et al. CD84 negatively regulates IgE high-affinity receptor signaling in human mast cells. J Immunol 187,
+5577-5586, doi:10.4049/jimmunol.1101626 (2011).
+
+48. Jauregui, I. et al. Assessment of severity and quality of life in chronic urticaria. J Investig Allergol Clin Immunol 24, 80-86 (2014).
+
+49. Valero, A. et al. Adaptation and Validation of the Spanish Version of the Chronic Urticaria Quality of Life Questionnaire (CU-Q(2)
+oL). J Investig Allergol Clin Immunol 18, 426-432 (2008).
+
+Acknowledgements
+
+This study was funded by a grant from Novartis Spain and by grants PI1200332 and PS 09/01083 from the Health
+Research Fund of the Spanish Ministry of Economy and Competitiveness (Fondo de Investigaciones Sanitarias,
+Ministerio de Economia y Competitividad). RM was supported by grant RD12/0013/0010 from the Carlos III
+Health Institute of Spain. RMA, JB and MF belong to the Spanish Research Network on Asthma and adverse
+and allergic reactions (Asma, Reacciones Adversas y Alérgicas (ARADYAL) of the Carlos III Health Institute.
+We are indebted to the Cytomics core facility of the Institut d’Investigacions Biomédiques August Pi i Sunyer
+(IDIBAPS) for its technical help. We gratefully acknowledge the patients for their participation and the Biobank
+of the University of Navarra for its collaboration.
+
+Author Contributions
+
+E.S.C., R.M.A., A.V., M.M. and M.F. conceived the experiments; E.S.C. and R.M.A. conducted the experiments;
+and E.S.C., R.M.A., O.V., G.G.,, J.B., M.T.A., J.N.C., J.A., A.V., M.M., and M.F. analyzed the results. All authors
+reviewed the manuscript.
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 aa
+www.nature.co
+
+   
+
+Additional Information
+Supplementary information accompanies this paper at doi:10.1038/s41598-017-09361-4
+
+Competing Interests: Dr. Ferrer is a member of the scientific advisory board of Novartis, is a speaker for both
+Novartis and FAES, has served on the scientific advisory board of Genen-tech, receives research grants from
+Novartis and has received the speaker honorarium title from MSD, Novartis, FAES and GSK. Antonio Valero
+reports having worked as a consultant for Faes Farma, Chiesi, Orion Pharma, MSD, Novartis, UCB, Uriach
+Pharma, GSK and Stallergenes; having been paid lecture fees by Novartis, GSK, Stallergenes, Chiesi, Leti and
+Thermofisher; and having received grant support from Novartis, Faes Farma and Uriach Pharma. Joan Bartra
+reports having served as a consultant for Novartis, Faes Farma and Hal Allergy and having been paid lecture
+fees by Novartis, Stallergenes, UCB, Thermofisher, Menarini and Chiesi.
+
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the
+copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+ 
+
+© The Author(s) 2017
+
+ 
+
+SCIENTIFIC REPORTS | 7: 8985 | DOI:10.1038/s41598-017-09361-4 12
+

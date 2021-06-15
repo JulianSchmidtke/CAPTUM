@@ -1,0 +1,958 @@
+Maoz-Segal et al. World Allergy Organization Journal (2020) 13:100448 ® AVV(@) 51 DV aiscey 4
+http://doi.org/10.1016/j.waojou.2020.100448 cea ORGANIZATION
+
+ 
+
+JOURNAL
+
+ 
+
+Open Access
+
+Combination therapy with omalizumab and
+an immune-suppressive agent for resistant
+chronic spontaneous rrticaria - A real-life
+experience
+
+Ramit Maoz-Segal™, Tanya Levy?, Soad Haj-Yahia®®, Irena Offengenden?,
+Mona lancovich-Kidon®” and Nancy Agmon-Levin®””
+
+ABSTRACT
+
+Background: Chronic Spontaneous Urticaria (CSU) is a relatively common immune mediated
+disease that can be effectively treated nowadays. Nevertheless, for some patients remission
+cannot be achieved following current treatment recommendations, defined as resistant CSU (rCSU). Treating r-CSU is challenging, and, currently, there are no recommended interventions. In
+this real-life study we describe successful therapy of 18 r-CSU patients using an "intensified protocol" of anti-lgE-antibody (omalizumab) concomitantly with an immunosuppressant. We defined
+the r-CSU phenotype and compared it to omalizumab-responsive CSU (Or-CSU) phenotype.
+
+Methods: Clinical and serological data of 72 CSU patients (ie, 18 r-CSU and 54 age and sex
+matched Or-CSU) were retrospectively collected and analyzed. All patients were diagnosed with
+CSU for >6 months and treated at the Sheba Medical Center during 2013-2018.
+
+Results: Of 289 CSU patients, 18 (6%) were diagnosed with r-CSU and treated with the "intensified protocol" including omalizumab and cyclosporine-A (16p), methotrexate (1p), and azathioprine (1p). Of which, 14/18 (78%) achieved complete remission, 2/18 (11%) partial remission,
+and 2/18 (11%) no remission. During follow-up no serious adverse events were documented. rCSU patients received higher doses of antihistamine (p < 0.0001) and omalizumab (425 + 58 mg/
+month vs. 283 + 86 mg/month; p < 0.0001) compared to Or-CSU. The r-CSU phenotype was
+linked with concomitant autoimmunity (p = 0.0005) and a lower level of IgE prior to initiation of
+therapy (p = 0.027).
+
+ 
+
+ 
+
+Conclusion: r-CSU may be a distinct CSU phenotype characterized by severe disease, concomitant autoimmunity, and lower baseline-IgE levels (low "autoallergy"). An "intensified protocol"
+
+ 
+
+*Clinical Immunology, Angioedema and Allergy Unit, Center for
+Autoimmune Diseases, Sheba Medical Center, Tel Hashomer, Israel
+*Corresponding author. Clinical Immunology, Angioedema and Allergy
+Unit; The center for Autoimmune Diseases, Sheba Medical Center; TelHashomer Hospital, Ramat- Gan, 52621, Israel. E-mail: ramit.maozsegal®
+sheba.health.gov.il
+
+This study received approval by the institutional ethics committee and
+fulfilled the ethical guidelines of the declaration of Helsinki (Edinburgh
+2000).
+
+Full list of author information is available at the end of the article
+
+http://doi.org/10.1016/j.waojou.2020.100448
+
+Received 11 April 2020; Received in revised from 13 July 2020; Accepted
+15 July 2020
+
+Online publication date xx
+
+1939-455 1/© 2020 The Authors. Published by Elsevier Inc. on behalf of
+World Allergy Organization. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/).
+2 Maoz-Segal et al. World Allergy Organization Journal (2020) 13:100448
+
+http://doi.org/10.1016/j.waojou.2020.100448
+
+with omalizumab and an immunosuppressive agent was found to be efficacious and safe for r-CSU.
+Further larger studies are required to verify these results.
+
+Keywords: Resistant CSU, Omalizumab, Cyclosporine, CSU phenotypes, Autoimmunity,
+
+Autoallergy
+
+INTRODUCTION
+
+Chronic Spontaneous Urticaria (CSU) is an immune mediated disorder that affects up to 1% of
+the general population, and it is characterized by
+hives, pruritus, and frequent angioedema.’ This
+chronic condition is associated with various comorbidities, decreased quality of life, and
+reduced ability to maintain normal activities.2~4
+Two immune mechanisms were linked with CSU
+pathogenesis. “Type |” response that is mediated
+by IgE antibodies, but unlike classic allergy, these
+IgE antibodies are directed at auto-antigens (e.g.
+IL-24).5 This mechanism was recently termed
+“Auto-allergy". “Type Il” immune responses are
+autoimmune in nature and are mediated by IgG
+autoantibodies directed against the high-affinity
+receptor for IgE (FceR1) or membrane-bound
+IgE.°7
+
+Regardless of the dominant immunemechanisms, a strong link was observed between
+CSU and concomitant autoimmunity, namely, systemic or organ specific autoimmune diseases and/
+or autoantibodies. A myriad of autoimmune diseases such as pernicious anemia, psoriasis, vitiligo,
+type I-diabetes mellitus, Celiac disease, Graves'
+disease, and Hashimoto's thyroiditis, are more
+prevalent among CSU patients.*? Equally,
+systemic autoantibodies such as__ antiThyroperoxidase (Anti-TPO) and anti-nuclear antibodies (ANA) were documented to be more
+common in CSU. Like other autoimmune diseases,
+CSU was linked with female gender and family
+history of autoimmunity.?""*
+
+ 
+
+Treatment guidelines for CSU were published
+by the EAACI/GA2LEN/EDF/WAO and revised in
+2018.7'13 Similar guidelines were published in
+2014 by the American group representing the
+Joint Task Force on Practice Parameters
+(JTFPP),'* the Israeli Association for Allergy and
+Clinical Immunology (IAACI), and — other
+
+ 
+
+groups.’*'"® In all algorithms for CSU treatment,
+a stepwise approach is recommended. The first
+step includes regular doses of second generation
+antihistamines followed by up to four-fold incremental increase in antihistamine dose. Leukotriene
+antagonists were included in former guidelines (ie,
+2013) as part of the third line of therapy for CSU.
+However, in 2018 these drugs were no-longer
+advised as there is scarce evidence for their efficacy. Thus, currently only omalizumab and cyclosporine are included as third and fourth line of
+therapy, respectively. Of note, in Israel the Ministry
+of Health instructions, issued in 2015, require
+leukotriene antagonist therapy prior to omalizumab. This algorithm revolutionized CSU management in the last decade and set the goal of
+achieving complete remission of symptoms in all
+patients. However, presently in up to 15% of patients disease remission can not be achieved. This
+non-responding variant of disease is defined
+resistant CSU (r-CSU).1”
+
+Treatment of r-CSU in a clinical setting continues
+to be a challenge. Development of new potent
+drugs is 1 way to overcome r-CSU, whereas combination of available modalities may be another
+path to achieve disease remission. In the current
+study we describe 18 r-CSU patients that were
+successfully treated with a combination of omalizumab and an immunosuppressive medication (ie,
+intensified protocol). Additionally, we compared rCSU patients with CSU patients that responded
+favorably to omalizumab (Or-CSU) in order to
+define the r-CSU phenotype. We believe the
+knowledge obtained from this real-life experience
+of treating r-CSU may help physicians worldwide.
+
+METHODS
+
+In this single center observational study, we
+retrospectively evaluated 72 Israeli CSU patients
+treated during January 2013 to December 2018. In
+this period 289 CSU patients were treated in the
+Volume 13, No. 8, Month 2020
+
+Clinical Immunology and Allergy Department, at
+Sheba Medical Center, Israel. Eighteen’® of these
+patients were diagnosed with r-CSU, and 54
+consecutive age and gender matched CSU
+patients that were omalizumab responsive (OrCSU) served as a control group. r-CSU was defined
+following failure to achieve disease remission
+utilizing all steps of the recommended protocols
+(ie, high dose second generation antihistamines,
+Omalizumab, immunosuppressant). Notably,
+although Urticaria Activity Score (UAS) was not
+performed regularly in this study, very low disease
+activity (eg, few lesions a week and mild
+intermittent itch, which may be comparable to a
+low UAS score of <6), was regarded as remission.
+Demographic disease features (eg, disease
+duration, co-presence of inducible urticaria,
+angioedema, etc) comorbidities, laboratory parameters (as CRP and ESR; autoantibodies, baseline-IgE
+levels etc), as well as treatment doses and outcomes
+were collected and analyzed. Patients were followed
+every 4 weeks. Blood analysis was preformed prior
+to initiation of omalizumab and/or immunosuppressive therapy and thereafter, periodically, as
+commonly practiced (ie, complete blood count,
+transaminase levels, creatinine level, and cyclosporine levels, if relevant). This study received
+approval by the institutional ethics committee and
+fulfilled the ethical guidelines of the declaration of
+Helsinki (Edinburgh 2000).
+
+ 
+
+In the study most patients received omalizumab
+300 mg/month (the recommended dose by the
+Israeli Ministry of Health) and fewer 150 mg/
+month, if was sufficient for complete response.
+When a partial response to omalizumab was
+observed, dose escalation was attempted (eg,
+450 mg/month) if approved by the patient's health
+maintenance organization (HMO). Notably, all patients received at least 2 courses of oral glucocorticoids and >8 weeks of montelukast within the
+12 months prior to initiation of omalizumab (as
+required by the Israeli regulation). Immunosuppressive drugs were given at the following doses:
+Cyclosporine 1-3 mg/kg/day, azathioprine 12.5 mg/kg/day, and methotrexate up to 20 mg/
+week. Doses were tailored individually and were
+raised gradually according to disease severity and
+drug tolerability. Response to therapy was determined after 3-6 months of initiation of immunosuppressant or  omalizumab respectively.
+
+ 
+
+ 
+
+ 
+
+Treatment outcomes were defined as complete
+remission if full withdrawal of glucocorticoids
+therapy was achieved and disease activity was
+improved by > 80% (eg, .hives, rash, angioedema)
+compared to baseline, in other words if disease
+activity was very low and/or non-active. Partial
+response was withdrawal of glucocorticoids therapy and decrease of symptoms by 50-80% and
+lack of response was if improvement criteria were
+not met (eg, less than 50%), as reported by the
+patient and physician. Serious adverse events were
+determined as those that required hospitalization
+or stopping of an immunosuppressive drug. CSU
+was considered to be “associated with autoimmunity” if concomitant overt autoimmune disease
+and/or high titers of autoantibodies were present.
+
+Statistics
+
+Statistical analysis was performed using SPSS
+24.0. For all tests p < 0.05 was considered statistically significant. Continuous variables were
+described as mean + SD, and categorical variables
+as percentages. Comparisons between cases (rCSU group) and controls (Or-CSU group) were
+analyzed by Chi-square test or Fisher's exact test as
+appropriate for categorical variables, and by Student's T-test or Mann-Whitney for continuous
+variables.
+
+ 
+
+RESULTS
+
+In our cohort of 289 CSU patients, 161 (56%)
+achieved remission while treated with regular or
+high dose antihistamines, and 128 (44%) required
+third/fourth lines of treatment. Of these patients,
+92/128 (72%) were initially treated with omalizumab, and 36/128 (28%) initially treated with
+immunosuppressive drug. If a response was not
+achieved patients were diagnosed with r-CSU, as
+both drugs (either omalizumab or cyclosporine)
+did not induce remission (Fig. 1). Subsequently, rCSU patients were treated with the “intensified
+
+ 
+
+protocol” that includes omalizumab at the
+highest dose (300 mg/month [3p] and 450 mg/
+month [15p]) in conjunction with an
+
+immunosuppressive drug (Cyclosporine [16p],
+Methotrexate [1p] or Azathioprine [1p]). In the
+current study the mean duration of treatment
+with the “intensified protocol” was 14 + 8 months
+(range 9-40 months), whereas the whole follow
+ 
+4 Maoz-Segal et al. World Allergy Organization Journal (2020) 13:100448
+
+http://doi.org/10.1016/j.waojou.2020.100448
+
+289 CSU p
+
+Following 2™ line
+treatment
+
+Responded
+
+—— (|
+
+ 
+
+Not responded
+
+128p
+Required 3 4™ line
+treatment
+
+ 
+
+2p
+Treated initially with
+Omelizumab
+
+p
+Treated initially with an
+immunosuppressive drug
+
+18p
+Treated with the
+intensified protocol
+
+ 
+
+Fig. 1 2nd line -high dose anti-histamine, 3rd-4th linesOmalizumab or immunosuppressant; * Cross over to the
+alternative drug if remission was not achieved; Intensified
+protocol - Omalizumab and immunosuppressant
+
+up period was 57 months. The responses to this
+“intensified protocol” were complete remission in
+14/18 (78%; of which 1 was treated with methotrexate), partial response in 2/18 (11%; of which 1
+was treated with azathioprine), and no response in
+
+2/18 (11%) of patients. Noteworthy, during followup, 6/14 (43%) patients that achieved complete
+remission could decrease therapy: 4/6 (67%)
+reduced 1 of the drugs, and 2/6 (33%) patients
+discontinued both drugs with no relapse. No
+serious adverse events were documented during
+follow up. Dose modifications of cyclosporine
+were required in 2 patients due to high blood
+pressure and mild elevation of creatinine level
+(1.5 mg/dl) for another; both normalized
+thereafter.
+
+r-CSU compared to omalizumab responsive
+disease (Or-CSU)
+
+Our 18 r-CSU patients were age and gender
+matched with 54 consecutive CSU patients that
+achieved complete remission with omalizumab
+(Or-CSU). As can be expected r-CSU patients
+received higher doses of antihistamines, omalizumab and montelukast compared to Or-CSU group
+(Table 1). Associated autoimmunity was more
+common among r-CSU group vs Or-CSU (55% vs
+20%, p = 0.0005). In contrast, higher levels of IgE
+prior to initiation of omalizumab therapy were less
+prevalent among r-CSU patients compared to OrCSU (18% vs 41%, respectively; p = 0.027)
+although baseline IgE levels were available only for
+11/18 r-CSU and 29/54 Or-CSU patients
+compared.
+
+Or-CSU group
+
+ 
+
+ 
+
+Mean age (years; mean + SD)
+Male gender
+
+Disease duration (years; mean + SD)
+Concomitant Angioedema
+
+Concomitant inducible urticaria
+
+High IgE levels (above upper
+therapy
+
+ 
+
+imits) prior to
+
+Concomitant Autoimmunity
+Treated with x4 fold anti H1
+
+Treated with Montelukast
+
+ 
+
+Omalizumab dose (mg/month)
+
+ 
+
+ 
+
+(n — 54) P value
+45+16 46+ 18 NS
+2 (11%) 15 (28%) NS
+Bae 5) SEG NS
+14 (77%) 43 (79%) NS
+5 (27%) 22 (40%) NS
+2/11 (18%) 12/29 (41%) p = 0.027
+10 (55%) 11 (20%) p = 0.0005
+18 (100%) 15 (46%) p < 0.0001
+18 (100%) 30 (55%) p < 0.0001
+425 (+58) 283 (486) p < 0.0001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1. Demographics and clinical manifestations of r-CSU vs. Or-CSU groups. NS- Non-significant; Montelukast-leukotriene antagonist;
+
+Omalizumab - anti-lgE monoclonal antibody
+Volume 13, No. 8, Month 2020
+
+DISCUSSION
+
+CSU therapy changed dramatically in the last
+decade and complete remission of symptoms was
+set as an achievable goal. Nevertheless, a sizable
+proportion of patients suffer from resistant disease
+(r-CSU), despite improvements in therapy, for
+which recommended interventions are lacking.
+Multiple new medications are being investigated
+for this resistant phenotype of CSU: 2 novel antiIgE antibodies (ligelizumab and UB-221), the anticytokine monoclonal antibodies (dupilumab,
+reslizumab, mepolizumab, and benralizumab), a
+CRTh2 antagonist, a monoclonal antibody to
+Siglec-8 (AK002), Bruton's tyrosine kinase inhibitors (fenebrutinib and Lou064), and a Syk inhibitor, as recently reviewed by Maurer et al.7®
+These are intriguing therapeutic modalities that
+are still in different stages of research, and migh
+be found efficacious for r-CSU, but are expected
+to be of high cost. This leaves many patients
+worldwide without adequate treatment. In this
+real-life clinical study we report for the first time,
+to the best of our knowledge, results o
+combining 2 modalities that are currently
+available and reimbursed in most countries for
+the treatment of r-CSU, namely the approved
+anti-lgE monoclonal antibody, omalizumab,'?
+with an  immunosuppressant agent. This
+“intensified protocol” was efficacious in 16/18 of
+r-CSU patients, of which 6 patients were able to
+withdrawal 1 or both drugs and maintain
+remission during follow up.
+
+ 
+
+In the present study, in the context of real-life
+clinical practice, r-CSU was diagnosed in 6% of
+our entire CSU cohort, and in 14% of those that
+required the third-fourth lines of therapy. This is
+similar to previous reports. For instance, in a
+former study r-CSU was reported in 7% of the
+general CSU population,?° and lack of response to
+omalizumab in 14-33% of treated patients. In a
+multicenter retrospective analysis from Israel,
+CSU remission was achieved in 86% of patients
+treated with omalizumab. In other studies from
+Latin America and Australia, 80% and 67% of
+CSU patients, respectively, responded favorably
+to this intervention.172°5 In contrast, a lower
+success rate of omalizumab was_ recently
+documented in a worldwide multicenter real-life
+study, the AWARE study. The relatively lower
+
+ 
+
+success of omalizumab was attributed to lack of
+adherence to the recommended guidelines.?°?7
+Furthermore, recent publications report that
+urticaria-guideline recommendations, which
+contribute to a higher quality of patient care, are
+not followed precisely by 20% of physicians.?® An
+additional explanation for this relatively high nonresponse rate may be the lack of up-dosing omalizumab that was utilized in our study.
+
+ 
+
+The most commonly used immunosuppressant
+in our “intensified protocol” was cyclosporine. The
+use of cyclosporine is supported by data from
+several clinical studies*? and most guidelines.
+Admittedly, its safety profile is lower compared
+to omalizumab with potential side effects such as
+elevated creatinine, hypertension, _ fatigue,
+gastrointestinal problems, gingivitis, | and
+headaches.*° Yet, up to 2015 cyclosporine was
+used prior to omalizumab in many countries, as
+well as in Israel. In 2018 guidelines it is
+recommended to use cyclosporine as a
+alternative treatment option for omalizumab nonresponders.*" In a recently published small metaanalysis of cyclosporine efficacy and safety in
+CSU, the results support its effectiveness, and it is
+suggested that its safety is dose dependent.>?
+Following these recommendations, the
+“intensified protocol” includes low doses of
+cyclosporine (1-2 mg/kg) concomitantly with
+regular or high doses of omalizumab. No
+significant adverse events were observed,
+although close monitoring and dose adjusment
+of cyclosporine was required for some patients.
+Our results support the recently published
+recommendations to consider adding low dose
+cyclosporine to omalizumab in r-CSU patients.**
+Data regarding methotrexate and azathioprine
+for CSU is scarce.31345 Although both are used
+as “steroid sparing” drugs for many autoimmune
+conditions, they are seldom recommended for
+CSU. In the current study, as described, only 2
+patients that could not receive cyclosporine
+received these drugs.
+
+We compared the 2 phenotypes of CSU in our
+cohort, namely r-CSU vs. Or-CSU, trying to find
+biomarkers or other clinical parameters defining
+each group. Indeed, recent reports characterized 2
+possible endotypes according to the type of mast
+cell degranulation signals: type | autoimmune CSU
+mediated with IgE autoantibodies to auto
+6 Maoz-Segal et al. World Allergy Organization Journal (2020) 13:100448
+
+http://doi.org/10.1016/j.waojou.2020.100448
+
+allergens (or autoallergy), and type Ilb autoimmune CSU mediated with autoantibodies that
+target activating mast cells receptors. These 2
+endotypes of autoimmune hypersensitivity have
+been postulated as being etiologic in most CSU
+patients. There is a need for development of
+diagnostic tests to differentiate these 2 endotypes
+of CSU in order to tailor the appropriate treatment
+and help each patient achieve remission.2®
+Intriguingly, we found 2 major differences
+between r-CSU and Or-CSU in our study: High
+total IgE levels (associated with type | autoimmunity) were related to Or-CSU phenotype (18% vs
+41%, respectively) while concomitant autoimmunity (which may support type II autoimmunity) was
+related to r-CSU phenotype (55% vs. 20%,
+respectively).
+
+ 
+
+The predictive role of specific and total IgE level
+in CSU was evaluated in recent studies, and a
+particular link with response to omalizumab has
+been suggested.'7°°37 Additionally, more than
+200 IgE autoantigens were detected in CSU
+patients, but not in healthy subjects. Some of
+these autoantibodies, such as IgE anti-IL-24 antibodies, are possible biomarkers, and their levels
+correlate with disease severity.’*®° On the other
+hand, low total IgE level prior to initiation of
+therapy was associated with a slower response to
+omalizumab, reduced efficacy of this drug and a
+shorter time to disease relapse after omalizumab
+discontinuation.*1~44 Similarly, we have found in
+our cohort, that lower baseline IgE correlated
+with r-CSU, further supporting baseline IgE levels
+as a marker of response to anti-IgE therapy. Our
+results are compatible with those demonstrated in
+he PURIST study which demonstrated more severe disease and markedly lower IgE levels among
+patients diagnosed with autoimmune CSU
+compare to non-autoimmune CSU _patients.**
+otably, better understanding of CSU endotypes
+is needed, not only for choosing the better
+reatment for each patient, but also, with no less
+importance, for evaluation of treatment duration
+following remission. For example, in a recent
+study accepted for publication, it was confirmed
+hat it is possible to half omalizumab dose and
+maintain efficacy in a large subgroup of CSU
+patients, which had an excellent response to full
+dose omalizumab. Unfortunately, none of the
+
+ 
+
+currently available biomarkers of efficacy or
+severity of disease, including IgE level, were able
+to predict which patients will relapse following
+omalizumab dose reduction.*® Our results stand
+in agreement with findings from former studies in
+which associated autoimmunity was linked with
+difficult to treat CSU. A higher rate of r-CSU was
+documented among anti-nuclear antibodies
+(ANA) positive patients, compared to those with
+undetectable ANA.'° Moreover, in several studies
+the autologous serum skin test, which supports
+the presence of IgG autoantibodies directed
+against FceRI IgE,*°*? was associated with a
+slower response to therapy particularly to
+omalizumab.*® Thus, it seems that the prevalence
+of autoantibodies and/or autoimmune
+comorbidities, as suggested by the results from
+our study, may be considered a marker of
+resistant/severe CSU.
+
+Our study has several limitations derived from
+its retrospective, observational nature. Nonetheess, these real-life data presented from our tertiary
+center stand in agreement with data from another
+arge Israeli multicenter study, as well as from
+studies from other countries. All these studies
+highlight the unmet need in treating r-CSU, as well
+as the need for an individual tailored approach to
+reating these patients according to disease
+endotypes. Additionally, we did not measure
+routinely UAS, nor IgG-anti-lgE receptor antibodies which are of great importance in the
+pathogenesis of CSU.*? These parameters are not
+used in common practice in Israel and these
+specific antibodies are usually measured in
+research laboratories and cannot be measured in
+our country. Further prospective studies of r-CSU,
+which will examine more specific markers, are
+required.
+
+ 
+
+ 
+
+CONCLUSIONS
+
+In this clinical observational retrospective study,
+an “intensified protocol" using omalizumab and an
+immunosuppressant concomitantly was found to
+be efficacious and safe for treating r-CSU patients,
+and thus may be an alternative solution for this
+difficult condition. In addition, r-CSU patients were
+found to have more concomitant autoimmunity
+and lower baseline-IgE levels and, as such, may be
+Volume 13, No. 8, Month 2020
+
+regarded as a distinct phenotype of CSU, characterized by severe disease. Further prospective
+controlled larger studies are required to verify this
+approach.
+
+Abbreviations
+
+CSU: chronic spontaneous urticaria; r-CSU: resistant
+chronic spontaneous urticarial; Or-CSU: Omalizumab
+responsive CSU; IgE: immunoglobulin E; FceR1: high-affinity receptor for Immunoglobulin E; IL-24: interleukin 24;
+ANA: anti-nuclear antibodies
+
+Author contribution
+
+Dr. Ramit Maoz-Segal, Mrs. Tanya Levi, Prof. Nancy
+Agmon-Levin: Contributed to the study conception and
+design. Contributed to acquisition of data, analysis and
+interpretation of data. Drafted the article. Given a final
+approval of this version to be published and agrees to be
+accountable for all aspects of the work related to its
+accuracy and integrity.
+
+Mrs. Tanya Levi: She is a medical student and has no
+academic degree. Contributed to the study conception.
+Contributed to analysis and interpretation of data. Drafted
+the article. Given a final approval of this version to be
+published and agrees to be accountable for all aspects of
+the work related to its accuracy and integrity.
+
+Dr. Soad Haj-Yahia, Dr. Irena Offenganden, Dr. Mona
+lancovich-Kidon: Contributed to interpretation of data.
+Reviewed the article including the references. Given final
+approval of this version to be published and agrees to be
+accountable for all aspects of the work related to its
+accuracy and integrity.
+
+This manuscript has been read and approved for
+publication by all authors.
+
+All data and material are available by demand.
+
+Funding source
+Not applicable.
+
+Declaration of Competing Interest
+The authors have nothing to declare.
+
+Author details
+
+°Clinical Immunology, Angioedema and Allergy Unit,
+Center for Autoimmune Diseases, Sheba Medical Center,
+Tel Hashomer, Israel. "Sackler School of Medicine, Tel Aviv
+University, Ramat-Aviy, Israel.
+
+REFERENCES
+
+1. Lee SJ, Ha EK, Jee HM, et al. Prevalence and risk factors of
+urticaria with a focus on chronic urticaria in children. Allergy
+Asthma Immunol Res. 2017;9(3):212-219.
+
+2. Shalom G, Linder D, Comaneshter D, et al. Healthcare services
+utilization and drug use in patients with chronic urticaria.
+J Invest Dermatol. 2015;135(12):3187-3189.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+12:
+
+18.
+
+19;
+
+20.
+
+. Shalom G, Magen E, Dreiher J, et al. Chronic urticaria and
+
+atopic disorders: a cross-sectional study of 11 271 patients. Br
+J Dermatol. 2017;177(4):e96-e97.
+
+. Shalom G, Kridin K, Babaev M, et al. Chronic urticaria and
+
+osteoporosis: a longitudinal, community-based cohort study of
+11 944 patients. Br J Dermatol. 2019;180(5):1077-1082.
+
+. Schmetzer O, Lakin E, Topal FA, et al. IL-24 is a common and
+
+specific autoantigen of IgE in patients with chronic spontaneous
+urticaria. J Allergy Clin Immunol. 2018;142(3):876-882.
+
+. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP,
+
+Greaves MW. Autoantibodies against the high-affinity IgE
+receptor as a cause of histamine release in chronic urticaria.
+N Engl J Med. 1993;328(22):1599-1604.
+
+. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of
+
+basophils in chronic urticaria. J Allergy Clin Immunol.
+2001;107(6):1056-1062.
+
+. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O,
+
+Goldberg A. Chronic urticaria and autoimmunity: associations
+found in a large population study. J Allergy Clin Immunol.
+2012;129(5):1307-1313.
+
+. Kolkhir P, Borzova E, Grattan C, Asero R, Pogorelov D,
+
+Maurer M. Autoimmune comorbidity in chronic spontaneous
+urticaria: a systematic review. Autoimmun Rev. 2017;16(12):
+1196-1208.
+
+Magen E, Waitman DA, Dickstein Y, Davidovich V, Kahan NR.
+Clinical-laboratory characteristics of ANA-positive chronic
+idiopathic urticaria. Allergy Asthma Proc. 2015;36(2):138-144.
+
+Viswanathan RK, Biagtan MJ, Mathur SK. The role of
+autoimmune testing in chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol. 2012;108(5):337-341 e1.
+
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/
+EDF/WAO Guideline for the definition, classification,
+diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy. 2014;69(7):868-887.
+
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/
+EDF/WAO guideline for the definition, classification, diagnosis
+and management of urticaria. Allergy. 2018;73(7):1393-1414.
+
+Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and
+management of acute and chronic urticaria: 2014 update.
+J Allergy Clin Immunol. 2014;133(5):1270-1277.
+
+Levin Agmon N, Kessel A, Maoz Segal R, et al.
+Recommendation for evaluation and treatment of chronic
+urticaria - the Israeli association for allergy and clinical
+Immunology. Harefuah. 2017;156(6):385-389.
+
+Zuberbier T, Bernstein JA. A comparison of the United States
+and international perspective on chronic urticaria guidelines.
+J Allergy Clin Immunol Pract. 2018;6(4):1144-1151.
+
+Vadasz Z, Tal Y, Rotem M, et al. Omalizumab for severe chronic
+spontaneous urticaria: real-life experiences of 280 patients.
+J Allergy Clin Immunol Pract. 2017;5(6):1743-1745.
+
+Maurer M, Gimenez-Arnau AM, Sussman G, et al. Ligelizumab
+for chronic spontaneous urticaria. N Engl J Med. 2019;381(14):
+1321-1332.
+
+McCormack PL. Omalizumab: a review of its use in patients with
+chronic spontaneous urticaria. Drugs. 2014;74(14):1693-1699.
+
+Kaplan AP. Therapy of chronic urticaria: a simple, modern
+approach. Ann Allergy Asthma Immunol. 2014;112(5):419-425.
+21%
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+Maoz-Segal et al. World Allergy Organization Journal (2020) 13:100448
+
+http://doi.org/10.1016/j.waojou.2020.100448
+
+Rottem M, Segal R, Kivity S, et al. Omalizumab therapy for
+chronic spontaneous urticaria: the Israeli experience. Isr Med
+Assoc J. 2014;16(8):487-490.
+
+Farrah G, Stevenson B, Lie K, Brusch A. The use of omalizumab
+for treatment-refractory chronic spontaneous urticaria in a
+West Australian outpatient cohort. Intern Med J. 2019;49(4):
+526-528.
+
+Cherrez-Ojeda |, Maurer M, Bernstein JA, et al. Learnings from
+real-life experience of using omalizumab for chronic urticaria
+in Latin America. World Allergy Organ J. 2019;12(2):100011.
+
+Kaplan AP, Joseph K, Saini SS. How omalizumab came to be
+studied as a therapy for chronic spontaneous/idiopathic
+urticaria. J Allergy Clin Immunol Pract. 2015;3(4):648.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and
+safety of omalizumab in patients with chronic idiopathic/
+spontaneous urticaria who remain symptomatic on H1
+antihistamines: a randomized, placebo-controlled study.
+J Invest Dermatol. 2015;135(3):925.
+
+Maurer M, Raap U, Staubach P, et al. Antihistamine-resistant
+chronic spontaneous urticaria: 1-year data from the AWARE
+study. Clin Exp Allergy. 2019;49(5):655-662.
+
+Maurer M, Houghton K, Costa C, et al. Differences in chronic
+spontaneous urticaria between Europe and Central/South
+America: results of the multi-center real world AWARE study.
+World Allergy Organ J. 2018;11(1):32.
+
+Kolkhir P, Pogorelov D, Darlenski R, et al. Management of
+chronic spontaneous urticaria: a worldwide perspective. World
+Allergy Organ J. 2018;11(1):14.
+
+Toubi E, Blant A, Kessel A, Golan TD. Low-dose cyclosporin A
+in the treatment of severe chronic idiopathic urticaria. Allergy.
+1997;52(3):312-316.
+
+Savic S, Marsland A, McKay D, et al. Retrospective case note
+review of chronic spontaneous urticaria outcomes and adverse
+effects in patients treated with omalizumab or ciclosporin in
+UK secondary care. Allergy Asthma Clin Immunol. 2015;11(1):
+21.
+
+Vestergaard C, Toubi E, Maurer M, et al. Treatment of chronic
+spontaneous urticaria with an inadequate response to H1antihistamines: an expert opinion. Eur J Dermatol. 2017;27(1):
+10-19.
+
+Kulthanan K, Chaweekulrat P, Komoltri C, et al. Cyclosporine
+for chronic spontaneous urticaria: a meta-analysis and
+systematic review. J Allergy Clin Immunol Pract. 2018;6(2):586599.
+
+Turk M, Carneiro-Leao L, Kolkhir P, Bonnekoh H, Buttgereit T,
+Maurer M. How to treat patients with chronic spontaneous
+urticaria with omalizumab: questions and answers. J Allergy
+Clin Immunol Pract. 2020;8(1):113-124.
+
+Pathania YS, Bishnoi A, Parsad D, Kumar A, Kumaran MS.
+Comparing azathioprine with cyclosporine in the treatment of
+antihistamine refractory chronic spontaneous urticaria: a
+randomized prospective active-controlled non-inferiority
+study. World Allergy Organ J. 2019;12(5):100033.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39:
+
+40.
+
+A.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+Curto-Barredo L, Gimenez-Arnau AM. Treatment of chronic
+spontaneous urticaria with an inadequate response to H1antihistamine. G Ital Dermatol Venereol. 2019;154(4):444-456.
+
+Maurer M, Eyerich K, Eyerich S, et al. Urticaria: collegium
+internationale allergologicum (CIA) update 2020. Int Arch
+Allergy Immunol. 2020;181(5):321-333.
+
+Kaplan A, Ferrer M, Bernstein JA, et al. Timing and duration of
+omalizumab response in patients with chronic idiopathic/
+spontaneous urticaria. J Allergy Clin Immunol. 2016;137(2):
+474-481.
+
+Deza G, Ricketti PA, Gimenez-Arnau AM, Casale TB. Emerging
+biomarkers and therapeutic pipelines for chronic spontaneous
+urticaria. J Allergy Clin Immunol Pract. 2018;6(4):1108-1117.
+
+Folci M, Heffler E, Canonica GW, Furlan R, Brunetta E. Cutting
+edge: biomarkers for chronic spontaneous urticaria. J Immunol
+Res. 2018;2018:5615109.
+
+Sanchez-Borges M, Capriles-Hulett A, Caballero-Fonseca F,
+Gonzalez-Aveledo L. Biomarkers of treatment efficacy in
+patients with chronic spontaneous urticaria. Eur Ann Allergy
+Clin Immunol. 2018;50(1):5-9.
+
+Weller K, Ohanyan T, Hawro T, et al. Total IgE levels are linked
+to the response of chronic spontaneous urticaria patients to
+omalizumab. Allergy. 2018;73(12):2406-2408.
+
+Straesser MD, Oliver E, Palacios T, et al. Serum IgE as an
+immunological marker to predict response to omalizumab
+treatment in symptomatic chronic urticaria. J Allergy Clin
+Immunol Pract. 2018;6(4):1386-1388 e1.
+
+Kessel A, Helou W, Bamberger E, et al. Elevated serum total
+IgE-a potential marker for severe chronic urticaria. Int Arch
+Allergy Immunol. 2010;153(3):288-293.
+
+Schoepke N, Asero R, Ellrich A, et al. Biomarkers and clinical
+characteristics of autoimmune chronic spontaneous urticaria:
+results of the PURIST Study. Allergy. 2019;74(12):2427-2436.
+
+Asero R. Are currently available biomarkers useful to
+discriminate CSU patients not controlled by low dose
+omalizumab maintenance therapy? Eur Ann Allergy Clin
+Immunol. 2020 Mar 19. https://doi.org/10.23822/EurAnnACI.
+1764-1489.139. Online ahead of print.
+
+Sun L, Erxun K, Li J, Yang J, Han C. Correlations between antimast cell autoantibodies and chronic idiopathic urticaria. Ann
+Dermatol. 2014;26(2):145-149.
+
+Magen E, Mishal J, Zeldin Y, et al. Increased mean platelet
+volume and C-reactive protein levels in patients with chronic
+urticaria with a positive autologous serum skin test. Am J Med
+Sci. 2010;339(6):504-508.
+
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, SchmidGrendelmeier P, Grattan CE. EAACI/GA(2)LEN task force
+consensus report: the autologous serum skin test in urticaria.
+Allergy. 2009;64(9):1256-1268.
+
+Kaplan AP, Gimenez-Arnau AM, Saini SS. Mechanisms of
+action that contribute to efficacy of omalizumab in chronic
+spontaneous urticaria. Allergy. 2017;72(4):519-533.
+

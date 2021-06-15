@@ -1,0 +1,956 @@
+DOI: 10.1111/jdv.15350 JEADV
+
+ORIGINAL ARTICLE
+
+Predictors of response to omalizumab and relapse in
+chronic spontaneous urticaria: a study of 470 patients
+
+A.V. Marzano, '2* @<. Genovese, '? ©@«. Casazza,° M.T. Fierro,* P. Dapavo,* N. Crimi,° S. Ferrucci,'
+P. Pepe,’ S. Liberati,° P.D. Pigatto,” A. Offidani,® E. Martina,® G. Girolomoni,® M. Rovaris,° C. Foti,'°
+L. Stingeni,'’ A. Cristaudo, '? G.W. Canonica,'® E. Nettis,'4 R. Asero'®
+
+‘UOC Dermatologia, Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico, Milan, Italy
+
+2Dipartimento di Fisiopatologia Medico-Chirurgica e dei Trapianti, Universita degli Studi di Milano, Milan, Italy
+
+SDipartimento di Scienze Biomediche e Cliniche “L. Sacco”, Universita degli Studi di Milano, Milan, Italy
+
+Department of Medical Sciences, Section of Dermatology, University of Turin, Turin, Italy
+
+5Department of Clinical and Experimental Medicine-Respiratory Medicine & Allergy, University of Catania, Catania, Italy
+
+®Dermatology Unit, Surgical, Medical and Dental Department of Morphological Sciences Related to Transplant, Oncology and
+Regenerative Medicine, University of Modena and Reggio Emilia, Modena, Italy
+
+?Clinical Dermatology, Department of Biomedical, Surgical and Dental Sciences, IRCCS Galeazzi Orthopaedic Institute, University of
+Milan, Milan, Italy
+
+®Dermatology Unit, Department of Clinical and Molecular Sciences, Polytechnic Marche University, Ancona, Italy
+
+°Department of Medicine, Section of Dermatology, University of Verona, Verona, Italy
+
+‘Department of Biomedical Science and Human Oncology, Section of Dermatology, University of Bari, Bari, Italy
+
+"Section of Clinical, Allergological and Venereological Dermatology, Department of Medicine, University of Perugia, Perugia, Italy
+12Service of Occupational and Environmental Allergic Dermatology, San Gallicano Dermatology Institute for Research and Care, Rome, Italy
+‘SDepartment of Internal Medicine, Respiratory Disease Clinic, IRCCS Humanitas Clinical and Research Center, Humanitas University,
+Milan, Italy
+
+‘Department of Emergency and Organ Transplantation, School of Allergology and Clinical Immunology, University of Bari Aldo Moro,
+Bari, Italy
+
+‘Sambulatorio di Allergologia, Clinica San Carlo, Paderno Dugnano, Milan, Italy
+
+*Correspondence: A.V. Marzano. E-mail: angelo.marzano@unimi.it
+
+Abstract
+
+Background Chronic spontaneous urticaria (CSU) is defined as spontaneous occurrence of wheals and/or angioedema for
+>6 weeks. Omalizumab is a monoclonal anti-IgE antibody effective in refractory CSU, but its mechanism of action and markers
+predictive of response remain not completely defined.
+
+Objectives To correlate baseline levels of two proposed biomarkers, total IgE (blgE) and p-dimer (bp-dimer), and clinical
+parameters to omalizumab response and to relapses after drug withdrawal.
+
+Methods In this retrospective Italian multicentre study, clinical data were collected in 470 CSU patients, and blgE and bpdimer were measured in 340 and 342 patients, respectively. Disease activity was determined by Urticaria Activity Score 7
+(UAS7) at week 1 and 12 after omalizumab starting. Relapses were evaluated during a 2- and 3-month interval after a first and
+a second course of treatment, respectively.
+
+Results blgE correlated to a good response to omalizumab since levels were significantly higher in responders than nonresponders (P = 0.0002). Conversely, bp-dimer did not correlate to response. There was no correlation between both bigE and
+p-dimer and either first or second relapse. Disease duration was significantly longer in patients who experienced either first or
+second relapse (P < 0.0001 and P = 0.0105, respectively), while baseline UAS7 correlated only to first relapse (P = 0.0023).
+Conclusions Our study confirms bIgE as a reliable biomarker predicting response to omalizumab in CSU, while it does not
+support the usefulness of bo-dimer unlike previous findings. CSU duration before omalizumab and baseline UAS7 may be clinical markers of relapse risk.
+
+Received: 2 August 2018; revised: 18 October 2018;
+
+Conflict of interest
+All authors declare no conflicts of interest.
+
+Funding source
+None.
+
+ 
+
+JEADV 2018 © 2018 European Academy of Dermatology and Venereology
+
+®
+
+Check for
+updates
+Introduction
+
+Chronic spontaneous urticaria (CSU) is defined as the spontaneous occurrence of wheals and/or angioedema for six or
+more weeks.! All over the world, more than 50 million people are affected by CSU, a disease which exerts negative
+effects on different aspects of the quality of life, such as sleep,
+school and work performance, daily life activities and social
+relationships.** Physiopathology of CSU has not been completely elucidated, but the role of histamine as well as several
+other proinflammatory cytokines released by skin mast cells
+and basophils in wheal formation is undisputed. However,
+different biologic systems, that is autoimmunity, coagulation
+and autoallergy, may contribute in determining CSU symptoms.* The autoimmune pathomechanism is based on the
+presence of circulating histamine-releasing immunoglobul
+(Ig) G autoantibodies directed against either the high-affinity
+
+ 
+
+in
+
+IgE receptor (FceRI) on mast cells and basophils or membrane-bound IgE.°* The coagulation cascade is activated in
+CSU and involves mainly the so-called extrinsic pathway,
+which is mediated by the overexpression of tissue factor on
+activated eosinophils, as seen in the lesional skin of CSU
+patients.” Moreover, thrombin, which is the final enzyme of
+coagulation cascade, permeability and
+induces mast cell degranulation in experimental models.'°!!
+Thus, the activation of coagulation concurs to CSU patho
+increases vascular
+
+genesis and correlates to disease severity, as demonstrated by
+the elevated levels of p-dimer, a biomarker of coagulation
+activation and fibrinolysis, in the plasma of CSU patients.'*
+4 Another mechanism recently identified and classified as
+‘auto-allergic’ is mediated by IgE specific for different auto
+allergens like thyroperoxidase (TPO),'° double-stranded
+DNA!® and interleukin (IL)-24.!”
+Omalizumab is a recombinant DNA-derived humanized
+
+monoclonal anti-IgE antibody widely proved to be effective
+and safe for the treatment of CSU."* Albeit its exact mechanism of action is not completely understood, the omal
+izumab-induced reduction of free levels seems to
+
+Marzano et al.
+
+with the reduction being lower in non-responders than in
+
+responders. Moreover, a study of the same authors suggested a
+possible link between baseline levels of basophil FceRI expres
+sion and time to response to omali:
+levels shown in early responders.”°
+
+zumab in CSU, with higher
+
+Two different groups evaluated the possible correlation
+
+between basophil activation test (BAT) and response to omal
+izumab.”°”® The first found an
+
+response to omalizumab and negati
+
+BAT and autologous serum skin test
+responders to omalizumab. These
+response to omalizumab in BAT-po
+
+association between good
+ive BAT.*° The latter found
+(ASST) to be positive in late
+authors explained the slow
+sitive patients hypothesizing
+
+that in these subjects, the drug works mainly via reducing FceRI
+
+expression.”°
+
+Ertas et al.” showed that total IgE levels and their
+change predict the response to treatment with omalizumab
+
+in CSU. Asero et al.** found that
+plasma levels are associated wit
+
+elevated baseline p-dimer
+a prompt response to
+
+omalizumab in patients with severe CSU. The same authors
+
+demonstrated that not only IgE
+levels are higher in responders
+omalizumab in CSU.?? Moreover,
+
+ut also p-dimer baseline
+than non-responders to
+increased total IgE seems
+
+to be linked to a faster relapse in patients with omal
+izumab-discontinued CSU.*°
+Here, we retrospectively evaluate
+IgE (bIgE) and p-dimer (bp-dimer)
+
+baseline levels of both total
+in a large cohort of Italian
+
+CSU patients treated with omalizumab, with the primary end
+point of correlating these two
+response, stratifying the patients
+responders’ and ‘non-responders’,
+
+iomarkers to the clinical
+in ‘early responders’, ‘late
+as well as to relapses after
+
+drug withdrawal. As secondary endpoints, we investigated for
+
+the possible correlation between cl
+
+ 
+
+inical response/relapses and
+
+several parameters, such as age at diagnosis, sex, disease duration, baseline Urticaria Activity Score over 7 days (UAS7) and
+
+thyroid autoimmunity.
+
+Methods
+
+diminish mast cell and baso
+FceRI in the skin.'®
+
+IgE
+hil activity, also downregulating
+
+Recently, a subdivision of omalizumab responders in early
+
+ 
+
+responders and late respon
+
+ers was highlighted,*° suggesting
+
+that this drug may act through distinct mechanisms of action
+depending on the rate of response.*° *? Therefore, the delin
+eation of different categories
+
+of responders to omalizumab as
+
+well as the investigation of both biological and clinical markers
+
+predictive of response to omalizumab could ameliorate the man
+agement of CSU patients.
+
+Deza et al.** found FceRI expression levels on basophils
+before omalizumab treatment to be significantly lower in nonresponders than in responders. They also showed that, after
+
+starting omalizumab, a significant drop by almost 90% in the
+basophil FceRI expression occurred 1 month after the first dose,
+
+JEADV 2018
+
+Patients
+
+In this retrospective multicentre study involving 12 different
+Italian Dermatology and Allergology Units, we evaluated clinical
+(sex, age at diagnosis, disease duration, disease activity at baseline assessed by means of UAS7) and laboratory (thyroi
+autoimmunity, notably presence of autoantibodies directe:
+against thyroglobulin or TPO) findings of 470 patients with
+severe CSU.
+
+To be part of this observational study, each centre was aske
+to provide data for patients with refractory CSU, defined as having a history of spontaneous urticaria for more than 6 weeks.
+We included only CSU patients resistant to standard first-line
+treatments, that is all patients were refractory to standard dose
+and up to fourfold dosed second-generation antihistamine
+
+ 
+
+© 2018 European Academy of Dermatology and Venereology
+Predictors of response to omalizumab and relapse in CSU
+
+(sgAH) treatment, and all had a baseline UAS7 >16. Some
+patients had treatments other than antihistamines before inclusion in this study.
+
+Patients were treated with omalizumab 300 mg_ every
+4 weeks for 24 weeks, and they were instructed to continue
+their daily treatment with an up to fourfold dosed sgAH for
+the first 4 weeks. According to the Italian Drug Agency
+(AIFA) recommendations,”> omalizumab was discontinued
+after 24 weeks (first course) and re-administered in case of
+relapse of symptoms (UAS7 >16) for other 20 weeks (second
+course). Patients were assessed for their clinical response at
+the end of the first week and at week 12 after the start of
+omalizumab treatment.
+
+All patients agreed with the treatment regimen and signed
+a written consent form. Control subjects provided written
+consent to the use of their blood samples in an anonymous
+form for research purposes. In view of the retrospective nature of the study, only a notification to the Ethical Committee of the principal investigator Center (IRCCS Fondazione
+Ca’ Granda Ospedale Maggiore Policlinico, Milan, Italy) was
+requested.
+
+Clinical response and relapses
+
+Disease activity was determined by the use of UAS7, which is the
+weekly sum score of the daily subscore values for number of
+wheals (no wheals = 0 points; 1-20 wheals = 1 point; 21-50
+wheals = 2 points; >50 wheals = 3 points) and intensity of itch
+(no itch = 0 points; mild itch = 1 point; moderate itch = 2
+points; severe itch = 3 points).*!
+
+An early complete (EC) response was defined as the disappearance of the CSU symptoms (UAS7 of 0) within
+1 week from the start of omalizumab treatment. A late complete (LC) response was defined as the disappearance of the
+CSU symptoms (UAS7 of 0) within 12 weeks from the start
+of omalizumab treatment. A late partial (LP) response was
+defined as an at least 30% reduction of UAS7 as compared
+to baseline evaluated at week 12 while no response (N) was
+defined as a <30% reduction of UAS7 or an exacerbation at
+week 12.
+
+Two relapses were evaluated: the first one, defined as first
+relapse, during the 2 months following omalizumab withdrawal
+after the first course of treatment and the second one, defined as
+second relapse, during a period of 3 months following omalizumab withdrawal after the second course of treatment
+(see above). The relapse was considered to be the reappearance
+of CSU symptoms in complete responders and the increase in
+UAS7 as compared to the value at the end of omalizumab
+treatment in partial responders.
+
+Laboratory data
+
+Serum bIgE was measured by chemiluminescent immunoassay
+(ImmunoCAP; ThermoFisher Scientific, Uppsala, Sweden), and
+
+JEADV 2018
+
+levels of 100 KUA/L or greater were defined as increased based
+on the reference range of the laboratory of the principal investigator Center.
+
+Sodium citrate-anticoagulated plasma bp-dimer was measured by immunoenzymatic methods (Zymutest p-Dimer;
+Hyphen BioMed, Neuville-sur-Oise, France) in accordance with
+the manufacturer’s instructions. The intra- and interassay coefficients of variation were 10% and 15%, respectively. Levels below
+500 ng/mL were regarded as normal.
+
+Statistical analysis
+
+Continuous variables are reported as mean (standard deviation,
+SD) or median (interquartile range, IQR), as appropriate. Categorical data are reported as counts (percentages). Considering
+clinical response and relapses, the Student’s two-sample t-test or
+the Mann—Whitney non-parametric test was used for the comparisons of continuous variables between groups, as appropriate.
+Fisher exact test was used for group comparison of categorical
+variables. Kolmogorov—Smirnov test was used to assess if bIgE
+and bp-dimer data were normally distributed. Since bIgE and
+bp-dimer data were skewed, they were log-transformed before
+performing the analyses. The results are reported as antilog values of means (geometric means) and standard deviations. For
+comparisons of continuous variables (log-transformed bIgE)
+among the four categories of clinical responders (EC, LC, LP
+and N), a general linear model analysis was performed. Finally,
+considering only the first relapse, a logistic regression analysis
+was performed in order to provide a joint assessment of the
+two variables that showed an association with the first relapse.
+P values for pairwise comparisons between the four responder
+categories were adjusted using Sidak’s adjustment method. P values lower than 0.05, two-sided, were considered statistically significant. All the statistical analyses were performed with the
+statistical software SAS (release 9.4; SAS Institute, Inc., Cary,
+North Carolina).
+
+Results
+
+Clinical features
+Demographic and clinical features of the patients are summarized in Table 1.
+
+The patients were predominantly females (n = 310; 66%).
+The median age at the time of diagnosis was 49 years (IQR:
+37-61 years). The median CSU duration, assessed as the time
+from CSU diagnosis to omalizumab initiation in months, was of
+20 months (IQR: 9-48 months). Positivity for antithyroglobulin
+or anti-TPO autoantibodies was observed in 121 out of 438
+patients (27.6%); in 32 patients, laboratory data were not available. A positive clinical response was recorded in 425 patients
+(90.4%), whereas non-responders were 45 (9.6%). Stratifying
+patients based on grade and rapidity of response, it was observed
+that EC response was achieved by 211 patients (44.9%), LC
+
+© 2018 European Academy of Dermatology and Venereology
+response by 119 patients (25.3%) and LP response by 95 patients
+(20.2%). First relapse was observed in 236 out of 392 patients
+(non-responders, cases lost to follow-up and patients under
+treatment when data had been collected were excluded), with a
+relapse rate of 60.2%. Second relapse was observed in 116 out of
+175 patients, with a relapse rate of 66.3%. Complete responders
+
+Table 1 Demographic and clinical features of the patients
+
+ 
+
+ 
+
+n= 470
+
+Females, n (%) 310 (66.0)
+Age at diagnosis, years, median (IQR) 49 (37-61)
+Disease duration, months, median (IQR) 20 (9-48)
+Urticaria Activity Score 7, median (IQR) 30 (26-36)
+IgE+, KUA/L, geometric mean (SD) 119.1 (494)
+p-dimer{, ng/mL, geometric mean (SD) 323.8 (856)
+Positivity for antithyroglobulin or 121 (27.6)
+antithyroperoxidase autoantibodies§, n (%)
+Response, n (%)
+
+Early complete 211 (44.9)
+
+Late complete 119 (25.3)
+
+Late partial 95 (20.2)
+
+Non-responders 45 (9.6)
+First relapseq, n (%) 236 (60.2)
+Second relapse++, 1 (%) 116 (66.3)
+
+IgE values missing for 130 patients.
+
+to-dimer values missing for 128 patients.
+
+§Data missing for 32 patients.
+
+Data on 392 patients.
+
+++Data on 175 patients.
+
+IQR: interquartile range; SD: standard deviation.
+
+Table 2 Association between clinical and laboratory parameters
+to response to omalizumab
+
+ 
+
+ 
+
+Responders Non-responders Pvalue
+n= 425 n=45
+Females, n(%) 285 (67) 25 (55.6) 0.1372
+Age at diagnosis, 48 (37-61) 52 (40-63) 0.2382
+years, median (IQR)
+Disease duration, 20 (9-48) 16 (7-36) 0.3838
+months, median (IQR)
+Urticaria Activity 30 (26-36) 30 (25-33) 0.3949
+Score 7, median (IQR)
+IgE} KUA/L, geometric 131.6 (507) 42.1 (299) <0.0001
+mean (SD)
+p-dimert, ng/mL, 327.0 (874.1) 292.9 (689.6) 0.5560
+geometric mean (SD)
+Positivity for 106 (26.7) 15 (36.6) 0.1995
+antithyroglobulin or
+antithyroperoxidase
+
+autoantibodies§, n (%)
+
++IgE values missing for 130 patients.
+
+to-dimer values missing for 128 patients.
+
+§Data missing for 32 patients.
+
+IQR: interquartile range; SD: standard deviation.
+
+JEADV 2018
+
+Marzano et al.
+
+who had not experienced the first relapse were not further followed up for a possible relapse.
+
+As shown in Table 2, sex, age at the diagnosis, disease duration and thyroid autoimmunity did not significantly differ
+between responders and non-responders. Similarly, the risk of
+developing the first and second relapse was not associated with
+thyroid autoimmunity, sex and age (Table 3). Interestingly, disease duration was significantly longer in patients who experienced either first (median 13 months,
+P< 0.0001) or second relapse (median duration 25 vs.
+18 months, P = 0.0105) after omalizumab withdrawal. Furthermore, baseline UAS7 significantly correlated with the risk of
+developing the first (P = 0.0023) but not the second relapse.
+
+Table 4 shows the results of the logistic analyses performed
+for the assessment of the joint association of disease duration
+and UAS7 with the first relapse.
+
+uration 24 vs.
+
+ 
+
+Laboratory data
+
+bIgE was determined in 340 patients and bp-dimer in 342
+patients of our cohort; both were measured in 272 cases. Interestingly, bIgE was associated with the clinical response to omalizumab as levels were significantly higher in responders (mean
+value: 132 KUA/L) than in non-responders (mean value:
+42 kUA/L; P = < 0.0001). Among responders, there was no significant difference in terms of clinical response among the three
+categories, namely EC, LC and LP; indeed, as shown in Figure 1
+and Table 5, all three categories of responders showed a statistical significance when compared with non-responders
+(P = 0.0002 for EC; P = 0.0182 for LC; P = 0.0005 for LP). On
+the other hand, there was no association between bIgE and either
+first or second relapse (Table 3).
+
+Of note, bp-dimer was not associated with the clinical
+response to omalizumab since bp-dimer mean values were similar in responders and non-responders (Table 2). As in the case
+of bIgE, there was no association between bp-dimer and either
+first or second relapse (Table 3).
+
+ 
+
+Discussion
+
+This retrospective multicentre study on a cohort of 470 patients
+with CSU reflects the Italian real-life experience in the management of the disease with omalizumab and confirms the efficacy
+of this agent for ssAH-—refractory CSU. In fact, in line with most
+studies present in the literature,** *° complete responders to
+omalizumab were approximately 70% of the patients, with
+around 65% who responded early, namely within the first week
+after omalizumab starting, and around 35% who responded
+more lately, namely at the clinical evaluation at week 12 after
+omalizumab administration.
+
+Although late responders to omalizumab are regarded as
+patients who respond after 12 weeks of treatment,’ we
+made our clinical evaluation at week 12 since AIFA recommendations for CSU establish that omalizumab has to be
+
+© 2018 European Academy of Dermatology and Venereology
+ 
+
+Predictors of response to omalizumab and relapse in CSU 5
+Table 3 Association between clinical and laboratory parameters to first and second relapse after omalizumab withdrawal
+First relapse Second relapse
+Relapsed Non-relapsed Pvalue* Relapsed Non-relapsed P value*
+n= 236 n= 156 n=116 n=59
+Females, n(%) 152 (64.4) 109 (69.9) 0.2757 76 (65.5) 38 (64.4) 1.000
+Age at diagnosis, 48 (37-60) 49 (36-62) 0.7274 52 (39-60) 51 (35-62) 0.9522
+years, median (IQR)
+Disease duration, 24 (12-57) 13 (6-36) <0.0001 25 (14-61) 18 (10-36) 0.0105
+months, median (IQR)
+Urticaria Activity 31 (27.5-37) 29.5 (25-35) 0.0023 31.5 (27-37.5) 31 (27-36) 0.5238
+Score 7, median (IQR)
+IgE+, KUA/L, geometric 137.0 (473.3) 115.6 (376.3) 0.3147 174.2 (543.5) 116.7 (275.2) 0.0964
+mean (SD)
+p-dimerf, ng/mL, 340.3 (954.7) 330.3 (823.3) 0.8404 299 (936.9) 383.8 (1012.9) 0.2185
+geometric mean (SD)
+Positivity for antithyroglobulin 62 (27.7) 38 (26.6) 0.9044 33 (29.5) 15 (27.3) 0.8564
+
+or antithyroperoxidase
+autoantibodiess, n (%)
+
+*P value for comparison of relapsed vs. non-relapsed patients.
+
++IgE values missing for: First relapse, 58 relapsed and 53 non-relapsed; Second relapse, 23 relapsed and 16 non-relapsed.
+to-dimer values missing for: First relapse, 57 relapsed and 57 non-relapsed; Second relapse, 33 relapsed and 14 non-relapsed.
+§Data missing for: First relapse, 12 relapsed and 13 non-relapsed; Second relapse, 4 relapsed and 4 non-relapsed.
+
+IQR: interquartile range; SD: standard deviation.
+
+Table 4 Logistic analyses of the joint association of disease duration and Urticaria Activity Score 7 with the first relapse after
+
+omalizumab withdrawal
+
+ 
+
+Univariate analysis
+
+Multivariate analysis
+
+ 
+
+OR (95% Cl) Pvalue
+Disease duration 1.46 (1.20-1.77) 0.0001
+Urticaria Activity Score 7 4.11 (1.72-9.78) 0.0014
+
+c-statistic OR (95% Cl) Pvalue c-statistic
+0.627 1.44 (1.19-1.75) 0.0002 0.65
+0.591 3.84 (1.58-9.31) 0.0029
+
+ 
+
+Disease duration and Urticaria Activity Score 7 were log-transformed. OR refers to the increase of 1-unit in log-scale. c-statistic is a measure of the accuracy
+
+of the model on predicting the first relapse.
+Cl: confidence interval; OR: odds ratio.
+
+Table 5 Correlation of baseline total IgE levels and clinical
+response to omalizumab subdivided into four categories: early
+complete, defined as the disappearance of the chronic spontaneous urticaria (CSU) symptoms within 1 week from the start of
+omalizumab treatment; late complete, defined as the disappearance of the CSU symptoms within 12 weeks from omalizumab
+starting; late partial, defined as an at least 30% reduction of Urticaria Activity Score (UAS7) as compared to baseline, evaluated at
+week 12; and no response, defined as a <30% reduction of UAS7
+or an exacerbation at week 12
+
+ 
+
+Response n IgE KUA/L, geometric P value for comparison
+
+mean (95% Cl) vs. non-responders
+Early complete 149 143.25 (113.7-180.5) 0.0002
+Latecomplete 90 104.4 (77.6-140.6) 0.0182
+Late partial 72 = 147.4 (105.7-205.4) 0.0005
+
+No response 29 = 41.9 (24.8-70.73) 
+CI: confidence interval.
+
+discontinued at week 12 in case of non-response, which
+may lead to possibly missing some patients responding
+
+more lately.
+
+JEADV 2018
+
+Moreover, we evaluated relapses during the 2 months following omalizumab discontinuation after the first course of treatment (defined as first relapse) and during a period of 3 months
+following omalizumab discontinuation after the second course
+of treatment (defined as second relapse). In fact, according to
+the AIFA recommendations for CSU,” omalizumab was withdrawn after 24 weeks and re-administered in case of relapse of
+symptoms for other 20 weeks. Of note, the first relapse occurred
+in approximately 60% of responders. The second relapse was
+recorded in approximately 66% of those who responded to the
+second course of treatment.
+
+The most noteworthy finding of our study is that patients
+with higher blgE responded well to the treatment, confirming
+the findings of previous studies*”?°°°°”
+ger series of CSU patients bIgE as a reliable biomarker predictive
+of clinical response to omalizumab. A very recent multicentre
+retrospective study confirmed that elevated (>100% of the upper
+
+and validating in a lar
+reference value) bIgE is associated with complete response to
+omalizumab.** These authors found also that normal and, particularly, low normal (0-10% of the upper reference value) bIgE
+
+© 2018 European Academy of Dermatology and Venereology
+ 
+
+P=0.0002
+
+5000 CO
+= P=0.0182
+2
+ES 4000 ° P= 0.0005
+=
+‘% 3000) ° °
+3B 5 ° °
+2 2000; . &
+o 8 8 °
+£ °
+ij
+3
+%
+a
+
+°
+“be
+0
+EC Lc LP
+Response
+
+ 
+
+Zhe 2
+
+Figure 1 Correlation between baseline total IgE levels and clinical
+response to omalizumab subdivided into four categories: early
+complete (EC), defined as the disappearance of the chronic spontaneous urticaria (CSU) symptoms within 1 week from omalizumab
+starting; late complete (LC), defined as the disappearance of the
+CSU symptoms within 12 weeks from the start of omalizumab
+treatment; late partial (LP), defined as an at least 30% reduction of
+Urticaria Activity Score (UAS7) as compared to baseline, evaluated
+at week 12; and no response (N), defined as a <30% reduction of
+UAS7 or an exacerbation at week 12.
+
+ 
+
+was prevalent in non-responders and only rarely detectable in
+complete responders, possibly representing a marker of lack of
+response to the drug. On the other hand, they failed to identify a
+cut-off for bIgE for non-responders, thus concluding that bIgE
+cannot be regarded as a stand-alone predictor of response to
+omalizumab.**
+
+bIgE was also reported to correlate to the rapidity of relapse
+upon omalizumab discontinuation,*® proposing blgE as a biomarker potentially helping also to predict fast CSU relapse and
+to identify patients in whom the treatment has not to be
+stopped, but we were unable to confirm this finding in the present study, although, notably, we found that disease duration
+was significantly linked to odds of both first and second relapse.
+Moreover, baseline UAS7 significantly correlated to the first but
+not to the second relapse. The latter finding is in line with the
+recent study of Ferrer et al.,*° who showed that high baseline
+UAS7 and slow decrease in CSU symptoms after omalizumab
+starting indicate a higher probability of rapid relapse upon drug
+withdrawal.
+
+In our study, we evaluated bp-dimer with the aim of confirming a possible role of this biomarker in predicting clinical
+response to omalizumab and tendency to develop disease flareups. Our group recently suggested possible effects of omalizumab on the coagulation cascade and fibrin degradation leading to a marked reduction in p-dimer plasma levels in CSU
+patients treated with this agent.?*?°“° In keeping with our previous findings, elevated bp-dimer levels were observed in CSU
+patients responders to omalizumab in a recent French study,*'
+which showed also a fast normalization of this biomarker during
+
+JEADV 2018
+
+Marzano et al.
+
+omalizumab treatment. However, the latter study did not support the usefulness of p-dimer to monitor long-term disease
+prognosis in adult CSU, indicating the need of further studies
+on larger series of patients to clearly establish the link between
+p-dimer and clinical response to omalizumab.
+
+In this large cohort of Italian patients, we failed to confirm the results of our previous study which had revealed
+that not only blgE but also bp-dimer was higher in responders than non-responders to omalizumab in CSU.?? In fact,
+bp-dimer did not correlate neither to the clinical response
+to omalizumab, since they were similar in responders and
+non-responders, nor to probability to develop relapses. In
+preliminary studies including a low number of CSU patients,
+we reporte
+
+ 
+
+that bp-dimer was higher in responders than in
+non-responders to omalizumab and suggested that this marker of coagulation activation/fibrinolysis potentially
+involved in the mechanism of action of omalizumab in CSU
+and might be predictor of the therapeutic effectiveness of
+
+‘was
+
+this drug.??*° The present multicentre study on a larger series of patients with CSU failed to confirm the predictive
+value of this biomarker, making reasonable to consider bpdimer as associated with CSU severity in a subset of CSU
+patients, as previously reported,”!*'* rather than being a
+marker of clinical response to omalizumab.
+
+In conclusion, our study confirms the link between bIgE levels
+and response to omalizumab treatment in CSU patients, pointing out bIgE as a predictor of response to omalizumab, while it
+does not support the usefulness of bp-dimer. Interestingly, the
+study shows also that the duration of the disease before omalizumab starting and high baseline UAS7 values may be clinical
+markers of relapse risk.
+
+References
+
+Zuberbier T, Aberer W, Asero R et al. The EAACI/GA*LEN/EDF/WAO
+guideline for the definition, classification, diagnosis and management of
+urticaria. Allergy 2018; 73: 1393-1414.
+
+Weller K, Maurer M, Grattan C et al. ASSURE-CSU: a real-world study
+of burden of disease in patients with symptomatic chronic spontaneous
+urticaria. Clin Transl Allergy 2015; 5: 29.
+
+Maurer M, Staubach P, Raap U, Richter-Huhn G, Baier-Ebert M, Chapman-Rothe N. ATTENTUS, a German survey of chronic urticaria
+patients highlighting the burden of disease, unmet needs and real-life
+clinical practice. Br J Dermatol 2016; 174: 892-894.
+
+4 Asero R, Tedeschi A, Marzano AV, Cugno M. Chronic spontaneous urticaria: immune system, blood coagulation, and more. Expert Rev Clin
+Immunol 2016; 12: 229-231.
+
+Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating
+histamine releasing autoantibodies with functional properties of anti-IgE
+in chronic urticaria. Clin Exp Allergy 1991; 21: 695-704.
+
+6 Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves
+
+MW. Autoantibodies against the high-affinity IgE receptor as a cause of
+histamine release in chronic urticaria. N Engl J Med 1993; 328:
+1599-1604.
+
+Fiebiger E, Maurer D, Holub H et al. Serum IgG autoantibodies directed
+against the alpha chain of Fc epsilon RI: a selective marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J Clin
+Invest 1995; 96: 2606-2612.
+
+N
+
+w
+
+w
+
+a)
+
+© 2018 European Academy of Dermatology and Venereology
+Predictors of response to omalizumab and relapse in CSU
+
+ 
+
+oo
+
+Ferrer M, Kinét JP, Kaplan AP. Comparative studies of functional and
+binding assays for IgG anti-Fc(epsilon)Rlalpha (alpha-subunit) in
+chronic urticaria. J Allergy Clin Immunol 1998; 101: 672-676.
+
+Cugno M, Marzano AV, Tedeschi A, Fanoni D, Venegoni L, Asero R.
+Expression of tissue factor by eosinophils in patients with chronic urticaria. Int Arch Allergy Immunol 2009; 148: 170-174.
+
+Schaeffer RC, Gong F, Bitrick MS, Smith TL. Thrombin and bradykinin
+initiate discrete endothelial solute permeability mechanisms. Am J Physiol
+1993; 264: 1798-1809.
+
+Razin E, Marx G. Thrombin-induced degranulation of cultured bone
+marrow-derived mast cells. J Immunol 1984; 133: 3282-3285.
+
+12 Asero R, Tedeschi A, Riboldi P, Cugno M. Plasma of patients with
+chronic urticaria shows signs of thrombin generation, and its intradermal
+
+R-}
+
+I
+
+S
+
+1
+
+injection causes wheal-and-flare reactions much more frequently than
+autologous serum. J Allergy Clin Immunol 2006; 117: 1113-1117.
+
+13 Asero R, Tedeschi A, Coppola R et al. Activation of the tissue factor pathway of blood coagulation in patients with chronic urticaria. J Allergy Clin
+Immunol 2007; 119: 705-710.
+
+14 Asero R, Tedeschi A, Riboldi P, Griffini $, Bonanni E, Cugno M. Severe
+
+chronic urticaria is associated with elevated plasma levels of D-dimer.
+
+Allergy 2008; 63: 176-180.
+
+Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE
+
+mediated autoallergy against thyroid peroxidase~a novel pathomecha
+nism of chronic spontaneous urticaria? PLoS ONE 2011; 6: e14794.
+
+16 Hatada Y, Kashiwakura J, Hayama K et al. Significantly high levels of
+anti-dsDNA immunoglobulin E in sera and the ability of dsDNA to
+induce the degranulation of basophils from chronic urticaria patients. Int
+Arch Allergy Immunol 2013; 161: 154-158.
+
+17 Schmetzer O, Lakin E, Topal FA et al. IL-24 is a common and specific
+autoantigen of IgE in patients with chronic spontaneous urticaria.
+
+J Allergy Clin Immunol 2018; 142: 876-882.
+
+18 Zhao ZT, Ji CM, Yu WJ et al. Omalizumab for the treatment of chronic
+
+spontaneous urticaria: a meta-analysis of randomized clinical trials.
+J Allergy Clin Immunol 2016; 137: 1742-1750.
+19 Metz M, Staubach P, Bauer A et al. Clinical efficacy of omalizumab in
+
+1
+
+a
+
+chronic spontaneous urticaria is associated with a reduction of FceRIpositive cells in the skin. Theranostics 2017; 7: 1266-1276.
+
+20 Gericke J, Metz M, Ohanyan T et al. Serum autoreactivity predicts time
+to response to omalizumab therapy in chronic spontaneous urticaria.
+J Allergy Clin Immunol 2017; 139: 1059-1061.
+
+21 Kaplan A, Ferrer M, Bernstein JA et al. Timing and duration of omal
+izumab response in patients with chronic idiopathic/spontaneous urticaria. J Allergy Clin Immunol 2016; 137: 474-481.
+
+22 Kaplan AP, Gimenez-Arnau AM, Saini SS. Mechanisms of action that
+contribute to efficacy of omalizumab in chronic spontaneous urticaria.
+Allergy 2017; 72: 519-533.
+
+23 Asero R, Canonica GW, Cristaudo A et al. Critical appraisal of the unmet
+needs in the treatment of chronic spontaneous urticaria with omalizumab: an Italian perspective. Curr Opin Allergy Clin Immunol 2017; 17:
+453-459.
+
+24 Deza G, Bertolin-Colilla M, Pujol RM et al. Basophil FceRI expression in
+
+chronic spontaneous urticaria: a potential immunological predictor of
+
+response to omalizumab therapy. Acta Derm Venereol 2017; 97: 698-704.
+
+Deza G, Bertolin-Colilla M, Sanchez S et al. Basophil FceRI expression is
+
+linked to time to omalizumab response in chronic spontaneous urticaria.
+
+J Allergy Clin Immunol 2018; 141: 2313-2316.
+
+No
+a
+
+JEADV 2018
+
+26
+
+27
+
+28
+
+29
+
+30
+
+3
+
+3:
+
+is)
+
+3.
+
+es)
+
+3.
+
+rs
+
+35
+
+3
+
+a
+
+3
+
+a
+
+3
+
+CJ
+
+39
+
+40
+
+4
+
+Ghazanfar MN, Sand C, Thomsen SF. Effectiveness and safety of omalizumab in chronic spontaneous or inducible urticaria: evaluation of 154
+patients. Br J Dermatol 2016; 175: 404406.
+
+Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical
+
+response to omalizumab in chronic spontaneous urticaria patients is
+linked to and predicted by IgE levels and their change. Allergy 2018; 73:
+705-712.
+
+Asero R, Marzano AV, Ferrucci $, Cugno M. Elevated baseline D-dimer
+plasma levels are associated with a prompt response to omalizumab in
+patients with severe CSU. J Allergy Clin Immunol Pract 2017; 5:
+1740-1742.
+
+Cugno M, Genovese G, Ferrucci S, Casazza G, Asero R, Marzano AV. IgE
+and D-dimer baseline levels are higher in responders than non-responders
+to omalizumab in chronic spontaneous urticaria. Br J Dermatol 2018;
+179: 776-777.
+
+Ertas R, Ozyurt K, Ozlu E et al. Increased IgE levels are linked to faster
+relapse in patients with omalizumab-discontinued chronic spontaneous
+urticaria. J Allergy Clin Immunol 2017; 140: 1749-1751.
+
+Zuberbier T, Aberer W, Asero R et al. The EAACI/GA(2)LEN/EDF/WAO.
+Guideline for the definition, classification, diagnosis, and management of
+urticaria: the 2013 revision and update. Allergy 2014; 69: 868-887.
+Maurer M, Altrichter $, Bieber T et al. Efficacy and safety of omalizumab
+in patients with chronic urticaria who exhibit IgE against thyroperoxidase. J Allergy Clin Immunol 2011; 128: 202-209.
+
+Maurer M, Rosén K, Hsieh HJ et al. Omalizumab for the treatment of
+chronic idiopathic or spontaneous urticaria. N Engl J Med 2013; 368:
+924-935.
+
+Kaplan A, Ledford D, Ashby M et al. Omalizumab in patients with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin Immunol 2013; 132: 101-109.
+
+Saini SS, Bindslev-Jensen C, Maurer M et al. Efficacy and safety of omalizumab in patients with chronic idiopathic/spontaneous urticaria who
+remain symptomatic on H1 antihistamines: a randomized, placebo-controlled study. J Invest Dermatol 2015; 135: 67-75.
+
+Nettis E, Cegolon L, Leo ED et al. Omalizumab chronic spontaneous urticaria: efficacy, safety, predictors of treatment outcome and time to
+response. Ann Allergy Asthma Immunol 2018; 121: 474-478.
+
+Straesser MD, Oliver E, Palacios T et al. Serum IgE as an immunological marker to predict response to omalizumab treatment in symptomatic chronic urticaria. J Allergy Clin Immunol Pract 2018; 6:
+1386-1388.
+
+Weller K, Ohanyan T, Hawro T et al, Total IgE levels are linked to the
+response of chronic spontaneous urticaria patients to omalizumab.
+Allergy 2018. https://doi.org/10.111 1/all.13586.
+
+Ferrer M, Giménez-Arnau A, Saldana D et al. Predicting chronic
+spontaneous urticaria symptom return after omalizumab treatment
+discontinuation: exploratory analysis. J Allergy Clin Immunol Pract 2018;
+6: 1191-1197.e5.
+
+Asero R, Marzano AV, Ferrucci $, Cugno M. D-dimer plasma levels
+parallel the clinical response to omalizumab in patients with severe
+chronic spontaneous urticaria. Int Arch Allergy Immunol 2017; 172:
+40-44,
+
+Bérard F, Ferrier le Bouédec MC, Bouillet L et al. Omalizumab in chronic
+spontaneous urticaria patients nonresponsive to H1-antihistamine treatment: results of the phase IV open-label SUNRISE study. Br J Dermatol
+2018. https://doi.org/10.1111/bjd.16904.
+
+© 2018 European Academy of Dermatology and Venereology
+

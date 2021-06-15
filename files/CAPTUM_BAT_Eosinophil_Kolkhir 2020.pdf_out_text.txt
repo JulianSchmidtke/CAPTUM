@@ -1,0 +1,1832 @@
+Original Article
+
+ 
+
+Eosinopenia, in Chronic Spontaneous Urticaria, Is 2
+Associated with High Disease Activity,
+Autoimmunity, and Poor Response to Treatment
+
+Pavel Kolkhir, MD*”, Martin K. Church, PhD, DSc°, Sabine Altrichter, MD®, Per Stahl Skov, MD“, Tomasz Hawro, MD°,
+
+Stefan Frischbutter, PhD*, Martin Metz, MD°, and Marcus Maurer, MD®*
+
+Copenhagen, Denmark
+
+Berlin, Germany; Moscow, Russia; and Odense and
+
+What is already known about this topic? While blood basopenia has been linked to severe, antihistamine-resistant, and
+autoimmune urticaria, the role of eosinophils in chronic spontaneous urticaria is largely unknown.
+
+What does this article add to our knowledge? Low blood eosinophil counts in patients with chronic spontaneous ur
+ticaria can point to severe disease and poor response to treatment.
+
+How does this study impact current management guidelines? Eosinophil count is a cost-effective and easy-to-perform
+parameter approved by current urticaria guidelines. It may help physicians to identify the right patients for choosing the
+
+next step in the chronic urticaria algorithm.
+
+ 
+
+BACKGROUND: Chronic spontaneous urticaria (CSU) is
+characterized by the degranulation of skin mast cells and the
+influx of basophils and eosinophils to affected skin sites. Blood
+basopenia has been linked to severe antihistamine-resistant CSU
+and type IIb autoimmunity, whereas the role of eosinophils in
+CSU is largely unknown.
+
+OBJECTIVE: To analyze data from 1613 patients with CSU
+from 2 centers to study the prevalence, role, and relevance of
+eosinopenia in CSU.
+
+METHODS: Peripheral blood eosinophil and basophil counts
+were measured by automated hematology analyzers. Patient files
+were screened for clinical characteristics, results of laboratory
+tests, the autologous serum skin test, the serum-induced basophil histamine release assay, and response to second-generation
+H,-antihistamines and omalizumab.
+
+RESULTS: Ten percent of patients with CSU had eosinopenia.
+Eosinopenia was associated with the female sex, high disease
+activity, autologous serum skin test and basophil histamine
+release assay positivity, low total IgE, and high levels of Creactive protein and IgG-antithyroperoxidase (P < .007).
+
+“Dermatological Allergology, Allergie-Centrum-Charité, Department of Dermatology and Allergy, Charité—Universitiitsmedizin Berlin, corporate member of
+Freie Universitit Berlin, Humboldt-Universitit zu Berlin, and Berlin Institute of
+Health, Berlin, Germany
+
+*Division of Immune-Mediated Skin Diseases, IM. Sechenov First Moscow State
+Medical University (Sechenov University), Moscow, Russia
+
+‘Dermatological Department, University Hospital of Southern Denmark, Odense,
+Denmark
+
+4RefLab ApS, Copenhagen, Denmark
+
+No funding was received for this study.
+
+Conflicts of interest: P. Kolkhir received personal fees from Novartis and Roche,
+outside the submitted work. S. Altrichter received personal fees from AstraZeneca,
+outside the submitted work. T. Hawro received personal fees from Moxie, outside
+the submitted work. M. Metz received personal fees from Aralez, Moxie,
+Novartis, Roche, Sanofi, and Uriach, outside the submitted work. M. Maurer
+
+318
+
+Nonresponders to second-generation H,-antihistamines or
+omalizumab had significantly lower eosinophils as compared
+with responders (P < .05 and P < .01, respectively). Blood
+eosinophil counts correlated with basophil counts (r = 0.396; P
+< .001), and 81% of patients with CSU with undetectable eosinophils had basopenia. The combination of eosinopenia and
+basopenia is a better predictor of nonresponse to secondgeneration H,-antihistamines than eosinopenia alone (odds ratio
+of 9.5 vs 4.8).
+
+CONCLUSIONS: Eosinopenia in patients with CSU is
+associated with type IIb autoimmunity, high disease activity, and
+poor response to treatment. Eosinophils should be explored as
+biomarkers and investigated for their contribution to the
+pathogenesis of CSU. © 2019 American Academy of Allergy,
+Asthma & Immunology (J Allergy Clin Immunol Pract
+2020;8:318-25)
+
+Key words: Chronic spontaneous urticaria; Eosinophils; Basophils; Eosinopenia; ASST; BHRA,; Disease activity; Antihistamines; Omalizumab; Biomarker
+
+received grants and/or personal fees from Allakos, Aralez, Alnylam, AstraZeneca,
+BioCryst, Blueprint, CSL Behring, FAES, Genentech, Kalvista, Menarini, Leo
+Pharma, Moxie, MSD, Pharming, Pharvaris, Roche, Sanofi, Shire/Takeda, UCB,
+and Uriach, outside the submitted work. The rest of the authors declare that they
+have no relevant conflicts of interest.
+
+Received for publication May 17, 2019; revised August 13, 2019; accepted for
+publication August 16, 2019.
+
+Available online August 28, 2019.
+
+Corresponding author: Marcus Maurer, MD, Allergie-Centrum-Charité, Department
+of Dermatology and Allergy, Charité—Universititsmedizin Berlin, Charitéplatz 1,
+Berlin D-10117, Germany. E-mail: marcus. maurer@charite.de.
+
+2213-2198
+
+© 2019 American Academy of Allergy, Asthma & Immunology
+
+https://doi.org/10.101.6/j,jaip.2019.08.025
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME 8, NUMBER 1
+
+Abbreviations used
+
+aiCSU- Autoimmune chronic spontaneous urticaria
+ASST- Autologous serum skin test
+
+BHRA- Basophil histamine release assay
+
+CSU- Chronic spontaneous urticaria
+sgAH- Second-generation antihistamine
+
+TPO- Thyroperoxidase
+
+UAS- Urticaria activity score
+
+ 
+
+INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is a common and
+debilitating disease defined by the recurrence of unprompted
+itchy wheals, angioedema, or both for more than 6 weeks. : Type
+I autoimmunity (“autoallergy,” with IgE against autoallergens)
+and type IIb autoimmunity (IgG—anti-FceRI/IgE) are held to be
+involved in the pathogenesis of most CSU cases.” Both result in
+the degranulation of skin mast cells and subsequent wheal formation, as well as cytokine release, which results in the influx of
+inflammatory cells including lymphocytes, neutrophils, basophils, and eosinophils.°* Although blood basopenia has been
+linked to severe, antihistamine-resistant, and autoimmune
+CSU,?* the role of eosinophils in CSU is largely unknown.
+
+Eosinophils are a subset of granulocytes described by Jones in
+1846 and stained by Ehrlich in 1879. IL-5, IL-3, and GM-CSF
+are responsible for the maturation and release of eosinophils in
+the bone marrow and their migration into the blood.'” Eosinophils provide protection against helminth infections by the
+actions of their peptide mediators including major basic protein,
+eosinophil peroxidase, eosinophil cationic protein, and
+eosinophil-derived neurotoxin. Recently, unexpected new roles
+of eosinophils in tissue repair, metabolic homeostasis, and thermogenesis have been reported.”'' Eosinophils are also increased
+in allergic responses, and they contribute to the pathogenesis of
+asthma and other allergic disorders."”
+
+Eosinophils are potentially interesting in CSU for several
+reasons. |~ First, eosinophils are present in both the lesional and
+nonlesional skin of patients with CSU.'*'* Second, there is
+bidirectional interaction between mast cells/basophils and eosinophils mediated by cell-cell contacts through cell surface receptors and the production and release of mediators.'? For
+example, IgG autoantibodies against the low-affinity IgE receptor
+FceRII/CD23 on eosinophils are able to induce histamine release
+from basophils through production of major basic protein by
+eosinophils.'°'” Major basic protein and eosinophil peroxidase
+can induce histamine release from human skin mast cells through
+nonimmunological activation of — MAS-related G
+protein—coupled receptor X2. Recently, the expression of
+MAS-related G protein—coupled receptor X2 on mast cells has
+been shown to be upregulated in the skin of patients with severe
+chronic urticaria.'“ In addition, eosinophils express tissue factor,
+which can activate the coagulation cascade, leading to the generation of thrombin and mast cell degranulation via thrombin
+action on protease-activated receptors 1 and 2.'2'820 ‘Third, a
+correlation between the extent of eosinophilic infiltration of lesions and CSU severity has been reported. '* Furthermore, a
+contribution of eosinophils to the pathogenesis of CSU has been
+suggested by the observation of an effective anti—IL-5-targeted
+treatment with mepolizumab or reslizumab in individual patients with CSU.*!"*
+
+ 
+
+ 
+
+ 
+
+ 
+
+KOLKHIRETAL 319
+
+TABLE I. Characteristics of CSU patients
+
+Characteristic Parameter Data
+
+Demographic and No. of patients with CSU 1613
+
+clinical features
+
+Age (y), median (range) 43 (13-105)
+Female patients TA%
+Years of disease duration, 2 (0.1-65)
+
+median (range)
+Presence of
+
+angioedema, % (n)
+ASST-positive, % (n)
+x 10°/L, median (IQR)
+
+51.6 (758 of 1468)
+
+35.2 (436 of 1239)
+Blood eosinophil 0.15 (0.08-0.23)
+counts
+Low, % (n/total)
+Undetectable, % (n/total)
+
+x10°/L, median (IQR)
+
+10.2 (129 of 1259)
+3.3 (42 of 1259)
+Blood basophil 0.02 (0.01-0.03)
+
+counts
+
+Undetectable, % (n/total) 14.4 (180 of 1251)
+
+For the definition of eosinopenia and basopenia, we used cutoff values of <0.05 x
+10°/L and <0.01 x 10°/L, respectively.
+
+To better define the role and relevance of eosinophils in CSU,
+we analyzed data from a large cohort of patients with CSU from
+2 urticaria centers”? addressing the following questions: (1) How
+often do patients with CSU show reduced blood eosinophil
+counts? (2) Is eosinopenia in patients with CSU relevant? (3) Is
+eosinopenia linked to basopenia, a previously described marker of
+difficult-to-treat CSU?
+
+METHODS
+Patients
+
+We analyzed data from 1613 patients with CSU from the urticaria centers of Charité—Universitatsmedizin Berlin, Germany (n =
+1383), and Sechenov First Moscow State Medical University, Russia
+(n = 230). Because all data were pseudonymized and analyzed
+retrospectively, an ethics committee review was not required or
+obtained. CSU was defined as recurrent whealing, angioedema, or
+both reoccurring for more than 6 weeks because of known or unknown causes.’ Patients with chronic inducible urticaria only and
+patients with urticarial vasculitis were excluded. Duration of the
+disease, age, and other characteristics of the patients are presented in
+
+Table I. Additional results of the study
+
+4
+
+ave been published
+
+2
+elsewhere.~
+
+Blood collection and analysis
+
+Blood was drawn and analyzed for routine patient care. From the
+patients’ files, we collected information regarding the following
+laboratory tests: complete blood cell count including eosinophils and
+basophils; C-reactive protein; erythrocyte sedimentation rate; Ddimer, fibrinogen; complement C3, C4; ferritin; IL-6, TNF; total
+serum IgE, IgA, IgG, IgM; IgG—antithyroperoxidase (TPO),
+IgG—antithyroglobulin, IgE—anti-TPO; and eosinophil cationic
+protein. The methods were the same for most parameters from both
+
+ 
+
+centers and the normal/reference ranges and units of measure were
+the same. Some tests, for example for eosinophil cationic protein, IL6, TNF, and ferritin, were performed only in one of the centers.
+Eosinophils were measured in 1259 patients with CSU. The
+number of patients analyzed per clinical or laboratory parameter is
+320 KOLKHIR ETAL
+
+indicated in Tables El and E2 in this article’s Online Repository at
+www.jaci-inpractice.org.
+
+Assessment of blood eosinophil and basophil counts
+
+Peripheral blood absolute eosinophil and basophil counts were
+measured by automated hematology analyzers (XN-1000 or XT2000i, Sysmex, Kobe, Japan) in the local central laboratories of both
+centers. Reference values were the same and for eosinophils were
+defined as less than 0.7 x 10°/L and for basophils as 0.01-0.09 x
+10°/L. For the definition of eosinopenia/low blood eosinophil
+counts, we used a cutoff of less than 0.05 x 10°/L, the most
+frequently used in the literature.””?° We defined basopenia as less
+than 0.01 x 10°/L, as previously described.’ The minimum
+detectable values were 0.01 x 10°/L for both parameters.
+
+ 
+
+Clinical parameters
+We analyzed data on age, sex, duration of CSU, presence of
+
+ 
+
+concomitant angioedema, and comorbid allergic diseases. Allergic
+iseases were assessed if these diseases were present at the time of
+
+ 
+
+assessment and included asthma, allergic rhinitis, allergic conjunctivitis, atopic dermatitis, contact dermatitis, and food allergy. We
+analyzed the patients’ records on history of autoimmune diseases
+including autoimmune thyroid diseases, vitiligo, rheumatoid
+arthritis, celiac disease, psoriasis, insulin-dependent diabetes
+mellitus, systemic lupus erythematosus, pernicious anemia, and
+autoimmune hepatitis.
+
+Disease activity was determined using the urticaria activity score
+(UAS), which was calculated as the sum of the itch (no = 0, mild =
+1, moderate = 2, intense = 3) and the wheal score (no wheals = 0,
+<20 wheals/24 h = 1, 20-50 wheals/24 h = 2, >50 wheals/24 h =
+3) for 7 consecutive days (UAS7; minimum = 0, maximum = 42)
+before blood analysis.' Patients with CSU were divided into 3
+groups according to CSU activity (severity): low disease activity, 0 to
+15 (urticaria-free, well-controlled CSU, or mild CSU); moderate
+disease activity, 16 to 27 (moderate CSU); and high disease activity,
+28 to 42 (severe CSU).**
+
+Patient files were screened for results of the autologous serum skin
+test (ASST) and of the serum-induced basophil histamine release
+assay (BHRA). The ASST is a screening test for type IIb autoimmune urticaria that evaluates the presence of histamine-releasing
+serum factors of any type, including IgG autoantibodies against
+FceRI or IgE.*”*! The ASST result is regarded as positive when the
+
+serum wheal is 1.5 mm or more as compared with that of the
+
+ 
+
+negative control (saline). The BHRA is used to test patients with
+CSU for basophil-degranulating effects of their serum, for example,
+because they have functional IgG—anti-FceRI/IgE antibodies. The
+BHRA is considered positive when the serum-induced release of
+histamine is more than 16.5% of the spontaneous release.**
+
+Of 1613 patients with CSU, 222, 9, and 31 patients were treated
+with standard or high doses of second-generation antihistamines
+(sgAHs), corticosteroids, and both, respectively, at the time of the
+blood sampling and/or within a week before it. A total of 346 and
+519 patients with CSU did not receive sgAHs and corticosteroids,
+respectively. Of these patients, 249 patients did not use both sgAHs
+and corticosteroids. Whether the remaining 380 and 1050 patients
+with CSU received sgAHs and corticosteroids, respectively, was
+unknown.
+
+ 
+
+The response to treatment with sgAHs was evaluated in 93 patients with CSU from the Moscow cohort on the day of blood
+
+ 
+
+collection as described before.”* Briefly, patients were asked how
+much they suffered from CSU symptoms in the last 4 weeks (1, very
+
+J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+much; 2, much; 3, somewhat; 4, a little; 5, not at all), how often the
+treatment for CSU was not enough to control symptoms in the last 4
+weeks (1, very often; 2, often; 3, sometimes; 4, seldom; 5, not at all),
+and how they considered the overall efficacy of treatment (1, not
+effective; 2, poor response; 3, good response; 4, very good response).
+Patients were regarded unresponsive to sgAHs when they chose
+answer options 1 and/or 2 for all 3 questions.
+
+The association between eosinophil counts and omalizumab
+treatment was analyzed in 147 patients with CSU from the Berlin
+cohort. Other results of this study population have been published
+elsewhere.” Briefly, omalizumab 300 mg was injected at day 1 and
+after 4 weeks. The treatment efficacy was evaluated using the UAS
+for 4 consecutive weeks at 4 and 8 weeks. Patients were divided into
+3 groups according to their response to the treatment: nonresponders
+(a reduction of <30% in UAS7), partial responders (a reduction of
+30%-89% in UAS7), and complete responders (a reduction of
+>90% from baseline in UAS7). Of 147 patients, 19 patients with
+CSU were nonresponders to the first omalizumab injection. Of 67
+partial responders to the first omalizumab injection, 16 were complete responders and 3 were nonresponders after the second injec
+ 
+
+tion. Of 61 complete responders to the first omalizumab injection,
+10 were partial responders and 1 was a nonresponder later. Eosinophil counts were collected from 147, 95, and 84 patients at day 1,
+after 4 weeks, and after 8 weeks, respectively.
+
+Statistical analysis
+
+Statistical analysis was performed using the Statistical Package for
+the Social Science (IBM SPSS version 25.0; IBM Corp, New York,
+NY). Figures were made using GraphPad Prism 6 (GraphPad
+Software, La Jolla, Calif). Demographic characteristics of patients
+with CSU were reported using descriptive statistics. Distribution of
+numerical variables was analyzed with the Kolmogorov-Smirnov test.
+Nonparametric tests were used for not normally distributed data.
+Results are expressed as median and interquartile range. Correlations
+were assessed by Spearman rank test. Comparison analyses between
+the groups were carried out using ‘{° test, the Mann-Whitney U test,
+and the Friedman test. P values less than .05 were considered
+significant.
+
+RESULTS
+
+10% of patients with CSU have low blood
+eosinophil counts, and eosinopenia is associated
+with basopenia
+
+Of 1259 patients with CSU, 129 (10.2%) had low counts of
+blood eosinophils (Table I), and blood eosinophils were not
+detected at all in 3.3% (42 of 1259) of patients. All basopenic
+patients with CSU (14.4%) had undetectable blood basophils.
+Most of the patients with CSU with undetectable eosinophils
+also had undetectable basophils (80.9%, 34 of 42), whereas only
+22.7% (34 of 150) basopenic patients had undetectable eosinophils. Thirty-four of 1244 (2.7%) patients had undetectable
+eosinophils and basophils in their blood.
+
+Female patients with CSU had significantly lower blood
+eosinophil counts compared with male patients with CSU (P =
+.001). Blood eosinophil counts were decreased in patients with
+CSU with concomitant autoimmune disease and increased in
+patients with CSU with concomitant allergic disease. Blood
+eosinophil levels were not found to be linked to angioedema, age
+of the patients, or the duration of CSU (see Tables El and E2).
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME 8, NUMBER 1
+
+100
+
+80
+
+i
+60
+40
+20
+0
+
+Low Moderate High ASST- ASST+
+n=377 n=312 n=159 n=729 n=353
+
+CSU activity (UAS7)
+
+Proportion of patients in %
+
+ASST response
+
+KOLKHIRETAL 321
+
+Total absence of eosinophils
+
+Low eosinophil counts
+
+Mid normal eosinophil counts
+
+=
+
+a
+
+™) Low normal eosinophil counts
+tl
+
+® High normal eosinophil counts
+=
+
+High eosinophil counts
+
+BHRA- BHRA+
+n=141  n=29
+
+BHRA response
+
+FIGURE 1. Association between absolute blood eosinophil counts and urticaria activity, ASST response, and BHRA response. For comparisons between groups, we divided all data on the basis of eosinophil values as undetectable (0 x 10°/L), low (>0-0.049 x 109/L), low
+normal (0.05-0.09 x 10°/L), midnormal (0.1-0.49 x 109/L), high normal (0.50-0.69 x 10°/L), and high (>0.70 x 109/L).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.0 . P= 04 NS (P= .07)
+P= 03 : P=.04 _NS. : NS__NS
+r — © : —r—
+om : . : .
+S 0.84 « : :
+% : :
+g : sf: ._ ¢
+= z ¢
+3 06 rn
+= . : : _
+: ns re
+B04 eet :
+8 - : 2
+2 2 oF :
+5 T & :
+& 0.2 : :
+a : :
+‘Le! 2
+NR OR NR PR CR NR PR CR
+n=46n=47 n=19n=67n=61 n=11n=62n=64
+
+Omalizumab 300 mg
+1 month after
+the 1st injection
+
+Omalizumab 300 mg
+1 month after
+the 2nd injection
+
+sgAHs
+
+FIGURE 2. Association between absolute eosinophil counts and
+response to treatment. Boxes are displayed as median and interquartile range. The whiskers are drawn down to the 10th
+percentile and up to the 9Oth percentile. Points below and above
+the whiskers are drawn as individual dots. CR, Complete
+responder; NR, nonresponder; NS, not significant; PR, partial
+responder; A, responder.
+
+Low blood eosinophil counts are associated with
+
+high urticaria activity
+
+Blood eosinophil counts and disease activity were found to be
+negatively correlated, albeit weakly; that is, the lower the patients’ blood eosinophil counts, the higher their disease activity
+(P< .001; see Table E2). Patients with high CSU disease activity
+had significantly lower blood eosinophil counts compared with
+patients with low or moderate CSU disease activity (see
+Table El). One of 5 patients with high CSU activity (17.6%,
+UAS7 > 27) was eosinopenic compared with 7.0% and 9.2% of
+
+patients with moderate (UAS7 = 16-27) and mild (UAS7 < 15)
+CSU activity, respectively (Figure 1).
+
+Eosinopenic patients had higher disease activity compared
+with patients with normal or high counts of blood eosinophils
+(P = .006; see Figure E2 in this article’s Online Repository at
+www, jaci-inpractice.org). High CSU activity was seen in onethird of patients with low blood eosinophil and/or basophil
+counts as compared with 15% of patients with normal or high
+blood eosinophil and basophil counts (see Figure El in this
+article’s Online Repository at www.jaci-inpractice.org).
+
+Low blood eosinophil counts are associated with
+ASST and BHRA positivity
+
+ASST-positive (ASST+) patients had significantly lower
+counts of blood eosinophils and basophils compared with ASSTnegative (ASST—) patients (see Table E1). Eosinophil counts
+were low in 15.8% of ASST+ patients compared with 7.0% of
+ASST— patients (Figure 1). Also, BHRA-positive (BHRA+)
+patients had significantly lower blood eosinophil counts
+compared with BHRA-negative (BHRA-—) patients (see
+Table El). Eosinophil counts were low in 24.1% of BHRA+
+versus 5.7% of BHRA— patients with CSU (Figure 1). Vice
+versa, eosinopenic patients with CSU had higher rates of ASST
+and BHRA positivity compared with patients with CSU with
+normal or high blood eosinophil counts (see Figure E2).
+
+Blood eosinophil counts in patients with CSU are
+correlated with blood basophil counts, C-reactive
+protein, lgG—anti-TPO, and total IgE
+
+In patients with CSU, blood eosinophil counts showed a
+strong positive correlation with blood basophil counts (r =
+0.396; P < .001) and a weak negative correlation with C-reactive
+protein, D-dimer, IgM, and IgG—anti-TPO levels. Moderate/
+weak correlation was observed between eosinophils and total IgE,
+leukocyte, and platelet counts (see Table E2). Patients with low
+blood basophil counts, low total IgE, high C-reactive protein, or
+high IgG—anti-TPO had significantly decreased blood eosino
+phil counts (see ‘Table E1). Vice versa, eosinopenic patients with
+322 KOLKHIR ETAL J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+CSU more frequently had low blood basophil counts, low levels
+
+ 
+
+ 
+
+ 
+
+of total IgE, and higher levels of lgG—anti-TPO compared with z S _ >
+
+patients with CSU with normal or high eosinophils (see 21a a a
+
+Figure E2). 2 E = 8
+
+ala Ra ES
+
+Eosinopenia, in patients with CSU, is associated 3|= S =
+
+with poor treatment responses to sgAHs $(3 2 Ea}
+Nonresponders to sgAHs had significantly lower blood fo 2 = a
+
+eosinophil counts compared with responders (P = .03; s
+
+Figure 2). Of 14 eosinopenic patients with CSU, 78.6% (11) 2 =
+
+were nonresponders to sgAHs as compared with 43% (34 of = 3
+
+79) nonresponders among patients with normal or high blood 2 =
+
+eosinophil counts. Eosinopenia predicted nonresponsiveness to BIS
+
+standard-dosed sgAHs with high specificity but low sensitivity % =
+
+(Table Il). Nonresponders to sgAHs had lower blood basophil 21g
+
+counts compared with responders, but the difference was not 2
+
+statistically significant (P = .198). Assessment of both blood =
+
+eosinophil and basophil counts increased the accuracy of pre
+diction of nonresponse to sgAHs compared with eosinophils
+
+ 
+
+alone (odds ratio, 9.5 vs 4.8; Table II).
+
+PLR (95% Cl)
+
+6.013; P = .014 0.2444 (0.1424-0.3867) 0.9375 (0.8316-0.9785) 3.911 (1.166-13.
+
+In patients with CSU, eosinopenia and basopenia
+are associated with poor responses’. to
+omalizumab treatment
+
+After 2 injections of 300 mg omalizumab, 23.1% and 25.0%
+of patients with CSU with baseline (pretreatment) eosinopenia
+and basopenia, respectively, were nonresponsive. In contrast, no
+
+Specificity
+(95% Cl)
+
+ 
+
+5.670; P = .017 0.2414 (0.1222-0.4211) 0.9677 (0.8381-0.9943) 7.483 (0.98-57.156) 0.784 (0.632-0.972)
+
+ 
+
+41.2 (14/34) 1.659; P = .198 0.4255 (0.2951-0.5672) 0.7021 (0.5602-0.8135) 1.429 (0.824-2.477) 0.818 (0.601-1.114)
+
+ 
+
+ 
+
+ 
+
+ 
+
+response to omalizumab was seen in 6.5% of patients with CSU 2
+: . *. * ‘ c =
+with normal/high baseline blood eosinophil counts and 7.0% of go 2
+patients with normal/high blood basophil counts (T’able III; see 3 5
+also Table E3 in this article’s Online Repository at www.jaci- 2 3
+inpractice.org). One month after the first injection, non- 3 ~ 2
+che zs A
+responders to omalizumab treatment had significantly less s| 2° e
+blood eosinophil counts compared with partial responders and g 2 2 5
+; a 5 g
+complete responders (P < .05; Figure 2) or both (partial re- gt a~ S
+sponders plus complete responders, P = .02). Both eosinopenia 2 5
+" : . ; ra
+and basopenia predicted nonresponse to omalizumab in pa- 3 z
+tients with CSU with high specificity and moderate to low s oF &
+srcome, ES a . ; £153 3
+sensitivity (Table III; see also Table E3). Blood eosinophil 2/8 g2 3
+counts did not change statistically significantly from baseline to 2) Sex 5
+. at ©
+8 weeks of omalizumab treatment (data not shown). 2 [x2 B g
+és) * 2
+D>l_ aan ale = a we 3
+DISCUSSION Bezalel PPs2eeoe8 813%
+< * : . esos 246F Skee cs es SS a g
+This study shows that in a large cohort of patients with CSU, £lseceiecze is Sie) Coma a
+; ea . WE RAL: a ee Gh Sra 5a
+eosinopenia is associated with high activity of their disease and £les SIP Vie ce ee cle eles e
+x aero t Wnt m0 a ae
+poor response to treatment. < o ac
+s| Bs a5
+Eosinopenia is common in CSU Slese cs
+Eosinopenia, that is, low or undetectable eosinophils in the > g £ ‘8 3 3
+P" . : ee
+blood, is held to be a rare abnormality in the general popula- e|ao 2 w s PD Ps e Bs
+* 5 rane o Zz g
+tion. For example, only 24 (0.01%) of 24,300 hospitalized s ee) = a a a a= 23
+2 25
+patients with normal total leukocyte counts and without cancer & 5 2 «8
+. + 3 TT. n fey iI a oe
+had low blood eosinophil counts.”” Using the same cutoff value 3 we 8 2 « g
+9 : 26 = = oO = S
+of less than 0.05 x 10°/L as we did, Shah et al”® reported 5 2 2 = gs 2 a2
+. st . $ FI ;
+eosinopenia in only 5% (44,112) of 775,231 subjects from the 1B 2 € & 5 22 ze
+: . : aener : 2 & a 3 2 @& ea
+English population. However, eosinopenia is linked to infec- S 5 8 3 5 $8 ial
+. : 7 : : a 3
+tion, malignancy, stress, and drugs, for example, corticosteroids é 13) & 4 g ae &
+7.34 ha a 5 a os ot og
+or chemotherapy,””** and may appear in inflammatory diseases 3 ge mM ie fe fae ae
+Fe ‘* eS %. 3, = By oS S
+including CSU. Although the prevalence of eosinopenia in w 2| és S a OU a ae BS
+: = F 2
+CSU has not been studied before, several cases have been a s & £ S & a Ee 5 Ze
+. 34-36 . . F é 6 4 5 g 5 5
+published.**°° A few studies compared eosinophil counts of BF ela 2 8&2 2 Q 2Z fe
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME 8, NUMBER 1
+
+Responsiveness to therapy with omalizumab in patients with CSU and with eosinopenia
+
+TABLE Ill.
+
+Patients with CSU with
+normal or high eosinophil
+
+Diagnostic
+
+72 value;
+significance
+
+Patients with CSU with
+eosinopenia, % (n/total)
+
+Response to
+
+counts, % (n/total)
+
+odds ratio
+
+No. of
+
+omalizumab
+assessed
+
+NLR (95% Cl) (95% Cl)
+
+PLR (95% Cl)
+
+Specificity (95% Cl)
+
+(95% Cl)
+
+ 
+
+o
+c
+5
+
+ao
+
+a
+a
+as
+s
+a
+oy
+i
+a
+=
+a
+Oy
+s
+a
+a
+6
+a
+
+level (7? test)
+
+NR
+
+NR
+78.6 (11/14) 21.4 (3/14) 87.9 (117/133)
+
+patients
+
+After the first Baseline (147)
+
+1.994
+
+0.921
+(0.753-1.127) (0.502-7.922)
+
+1.837
+(0.563-5.992)
+
+0.9141
+(0.8527-0.9513)
+
+=
+6
+ko
+2
+S.
+a
+8
+a
+S
+Ss
+
+@
+S
+S
+5
+ie
+&
+S
+&
+Ss
+RS
+is
+S
+a
+o
+5
+I
+a
+S
+a
+BS
+
+injection
+
+11.333
+
+0.719
+
+8.154
+(1.671-39.796) (0.499-1.038) (1.801-71.315)
+
+0.9623
+(0.8725-0.9896)
+
+15.0 (9/60)
+
+66.7 (4/6) 85.0 (51/60)
+
+3.3 (2/6)
+
+3:
+
+At 4 wk (66)
+
+4.350
+
+3.436 0.790
+(1.106-10.676) (0.548-1.139) (0.994-19.029)
+
+0.9206
+(0.8601-0.9563)
+
+6.5 (8/124) 4.404; P= .03 0.2727
+
+76.9 (10/13) 23.1 (3/13) 93.5 (116/124)
+
+Baseline (137)*
+
+After the
+
+(0.0975-0.5656)
+
+second
+
+jection
+
+ 
+
+4.500
+
+0.889
+
+4.000
+
+(0.414-38.649) (0.654-1.208) (0.353-57.306)
+
+0.9643
+(0.8788-0.9902)
+
+8.276; P = .004 0.1429 (0.0257-0.5131)
+
+33.1 (1/3) 66.7 (2/3) 90.0 (54/60) 10.0 (6/60)
+
+At 4 wk (63)*
+
+NLR, Negative likelihood ratio; NR, nonresponders; OMA, omalizumab; PLR, positive likelihood ratio; R, responders.
+
+For the calculations in the tab!
+
+ 
+
+ 
+
+presence of eosinopenia (test) is considered as a predictive marker of nonresponse (outcome).
+
+ 
+
+*The number of the patients assessed after the second omalizumab injection was less as compared to the number of patients assessed after the first omalizumab injection.
+
+KOLKHIRETAL 323
+
+patients with CSU and normal controls or patients with acute
+urticaria, but these studies were small and heterogeneous in their
+findings (see Table E4 in this article’s Online Repository at www.
+jaci-inpractice.org). We showed, for the first time, that eosinophils are reduced in the blood of 1 in 10 patients with CSU,
+which seems to be not random and more common than in the
+general population.
+
+Eosinopenia is associated with autoimmune CSU
+
+Our results suggest that eosinopenia is associated with type IIb
+autoimmune CSU (aiCSU) endotype associated with IgG—antiIgE/FceRI. First, eosinopenia as well as aiCSU *” are characterized
+by a high disease activity and low blood basophil counts. Second,
+we observed a strong association between low blood eosinophil
+counts and ASST and BHRA positivity. El-Azim and El-Azim**
+also reported lower blood eosinophil counts in ASST+ patients
+with CSU, although the difference did not reach statistical significance. Furthermore, in serial biopsies of ASST-induced wheals
+of patients with CSU, eosinophils appeared at 30 minutes and
+persisted at 48 hours. Eosinophil degranulation was seen at 2
+hours.*” However, in our study, some ASST+ patients with CSU
+had normal eosinophil counts, suggesting that not all patients with
+aiCSU are eosinopenic or eosinopenia is transient. Sabroe et al“
+observed significantly more activated eosinophils in wheals of
+more than 12-hour duration in patients with CSU without
+IgG—anti-IgE/FceRI than with these antibodies as assessed by
+BHRA. This indicates that eosinophil activation may occur earlier
+or persist for a shorter period in patients with autoantibodies. Of
+18 patients with CSU with IgG—anti-FceRI antibodies, eosinophil
+predominance in the lesional skin was seen in 72% (13 of 18) of
+patients as compared with 53% of patients with CSU without
+IgG—anti-FceRI antibodies."!
+
+Finally, eosinopenia was also associated with other features of
+aiCSU such as low total IgE levels and high IgG—anti-TPO
+levels.42° For example, elevated antithyroid antibodies were
+associated with BHRA positivity in patients with CSU.”
+
+ 
+
+ 
+
+Low blood eosinophil counts, in patients with CSU,
+are associated with poor treatment responses to
+sgAHs and omalizumab
+
+To our knowledge, our study is the first to show that patients
+with CSU with low blood eosinophil counts are more likely to be
+nonresponders to sgAHs or omalizumab than patients with CSU
+with normal or high blood eosinophil counts. Association between eosinopenia and response to sgAHs may be explained by
+the correlation of eosinophil counts with CSU activity and
+autoimmune markers. Many patients with severe and/or autoimmune urticaria generally have poor response to therapy with
+sgAHs.°** For example, in a study by Huilan et al,"
+antihistamine-resistant CSU was characterized by a higher disease activity, longer duration of wheals, and ASST positivity. In
+most studies,°“*“* but not all,“° ASST and BHRA positivity
+and/or basopenia were linked to a lack of response to
+antihistamines.
+The same correlations were seen between urticaria activity,
+ASST and BHRA positivity, and response and/or time to
+symptoms relief with omalizumab.°?"”*** Ferrer et al’” reported
+high baseline UAS7 and slow decrease of symptoms as a predictor of rapid symptoms return after omalizumab withdrawal.
+Positive BHRA and ASST predicted a slow response to
+omalizumab.*”**
+
+ 
+324 KOLKHIR ETAL
+
+We did not find a significant difference in eosinophil counts
+before and after omalizumab treatment, which is consistent with
+the data from another study.” Notably, high eosinophil counts
+were associated with maintenance of remission at 3 months after
+stopping omalizumab treatment.”
+
+To summarize, type IIb aiCSU, high disease activity, basopenia, and eosinopenia are linked and all associated with poor
+response to sgAHs and omalizumab in patients with CSU.
+
+In CSU, eosinopenia may be associated with the
+recruitment of eosinophils in the skin and/or their
+immunologic destruction in the blood
+
+Further studies are needed to explore the mechanisms of
+eosinopenia in patients with CSU. Low blood eosinophil counts
+may reflect their recruitment to the skin during active disease.
+Eosinophils are present in the lesional and nonlesional skin of
+patients with CSU.'*" For example, Fujisawa et al'* observed
+eosinophil infiltration in the wheals in 7 of 9 patients with severe
+CSU but not in the skin from normal subjects. Alternatively,
+eosinopenia in CSU may be due to the immunologic destruction
+of eosinophils in the blood. Interestingly, a single dose of the
+serum from a 45-year-old woman with episodic urticaria and
+complete eosinopenia was able to significantly suppress the
+eosinophil counts in monkeys for up to 12 hours. Furthermore,
+the patient’s serum showed a complement-dependent IgGrelated activity and was able to cytotoxically degranulate human
+eosinophil s2"
+
+ 
+
+Strengths and limitations
+
+Strengths of the present study include the use of a large cohort of
+patients with CSU from 2 European centers. The CSU definition,
+assessment of disease activity, and algorithm of treatment were
+based on the international guideline.' The limitations of our study
+are its retrospective, cross-sectional design, the univariate and
+descriptive nature of the analyses performed, and the lack of a
+control group. Causality cannot be established on the basis of the
+data derived from this study. Some of the patients with CSU in this
+study may have had diseases (eg, malignancy) that can cause eosinopenia and/or have been treated with cyclosporine or corticosteroids, which can influence eosinophil counts in the blood.’
+However, no significant difference was seen in eosinophil counts
+between patients treated with corticosteroids and patients who did
+not receive corticosteroids at the time of blood sampling (P > .05).
+
+ 
+
+ 
+
+CONCLUSIONS
+
+Taken together, eosinopenia is prevalent in patients with
+CSU, especially in female patients with type IIb aiCSU,
+concomitant basopenia, autoimmune thyroid disease, and/or
+high disease activity. We speculate that recruitment of eosinophils to the skin and/or immunologic destruction of eosinophils
+in the blood are relevant mechanisms of eosinopenia in patients
+with CSU. Future studies should test these hypotheses by
+addressing the following questions: (1) Does eosinopenia reverse
+with treatment or regression of urticarial lesions as basopenia
+does? (2) Can omalizumab decrease the number of eosinophils in
+CSU lesions? (3) Are there factors in the blood that can cause
+depletion of blood eosinophils?
+
+Our findings show that low blood eosinophil counts predict
+poor response to treatment with sgAHs and omalizumab and
+the combination of eosinopenia with basopenia may increase
+the diagnostic value. Eosinophil count is a cost-effective and
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+easy-to-perform parameter approved by current urticaria
+guidelines. It may help physicians to identify the right patients
+for choosing the next step in the chronic urticaria algorithm.'
+Further prospective and multicenter studies are needed to
+confirm eosinophils as a biomarker in the management of
+patients with CSU.
+
+Acknowledgment
+P. Kolkhir was supported by the “Russian Academic Excellence Project 5-100” and a GA2LEN stipend.
+
+REFERENCES
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria, Allergy 2018;73:1393-414.
+2. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune chronic spontaneous urticaria: what we know and what we do not
+know. J Allergy Clin Immunol 2017;139:1772-1781.e1.
+3. Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP, THI/TH2 cytokines and
+inflammatory cells in skin biopsy specimens from patients with chronic idio
+    
+
+ 
+
+pathic urticaria: comparison with the allergen-induced late-phase cutaneous
+reaction, J Allergy Clin Immunol 2002;109:694-700.
+
+4. Kay AB, Ying S, Ardelean E, Mlynek A, Kita H, Clark P, et al. Elevations in
+vascular markers and eosinophils in chronic spontaneous urticarial wheals with
+low-level persistence in uninvolved skin, Br J Dermatol 2014;171:505-11.
+
+5. Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic
+ordinary urticaria and healthy controls: diurnal variation, influence of loratadine
+and prednisolone and relationship to disease activity. Clin Exp Allergy 2003;33:
+337-41.
+
+6. Magen E, Mishal J, Zeldin Y, Schlesinger
+antihistamine-resistant chronic idiopathic urt
+32:460-6.
+
+7. Grattan CE, Walpole D, Francis DM, Niimi N, Dootson G, Edler S, et al, Flow
+cytometric analysis of basophil numbers in chronic urticaria: basopenia is
+related to serum histamine releasing activity. Clin Exp Allergy 1997;27:
+1417-24,
+
+8. Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes in chronic idiopathic urticaria in relation to disease activity and autoantibodies. J Invest Dermatol 2008;128:1956-63.
+
+9. Kay AB. The early history of the eosinophil. Clin Exp Allergy 2015:45:575-82.
+
+10. Weller PF, Spencer LA. Functions of tissue-resident eosinophils. Nat Rev
+Immunol 2017;17:746.
+
+11, Willebrand R, Voehringer D. Regulation of eosinophil development and survival. Curr Opin Hematol 2017;24:9-15.
+
+12. Asero R, Cugno M, Tedeschi A. Eosinophils in chronic urticaria: supporting or
+leading actors? World Allergy Organ J 2009;2:213-7.
+
+13. Marques RZ, Criado RF, Machado CD, Tamanini JM, Mello CV, Speyer C.
+Correlation between the histopathology of chronic urtic
+picture. An Bras Dermatol 2016;91:760-3.
+
+14, Fujisawa D, Kashiwakura J, Kita H, Kikukawa Y, Fujitani Y, SasakiSakamoto T, et al. Expression of Mas-related gene X2 on mast cells is upre
+   
+
+ 
+
+. Clinical and laboratory features of
+ria. Allergy Asthma Proc 2011;
+
+ 
+
+ 
+
+ 
+
+ 
+
+and its clinical
+
+ 
+
+gulated in the skin of patients with severe chronic urticaria. J Allergy Clin
+Immunol 2014;134:622-633.e9.
+
+15. Gangwar RS, Levi-Schaffer F, Eosinophils interaction with mast cells: the
+allergic effector unit. Methods Mol Biol 2014;1178:231-49.
+
+16. Puccetti A, Bason C, Simeoni S, Millo E, Tinazzi E, Beri R, et al. In chronic
+idiopathic urticaria autoantibodies against Fe epsilonRI/CD23 induce histamine
+release via eosinophil activation. Clin Exp Allergy 2005;35:1599-607.
+
+17. O'Donnell MC, Ackerman SJ, Gleich GJ, Thomas LL, Activation of basophil
+and mast cell histamine release by eosinophil granule major basic protein. J Exp
+Med 1983;157:1981-91.
+
+18. Cugno M, Marzano AV, Tedeschi A, Fanoni D, Venegoni L, Asero R.
+Expression of tissue factor by eosinophils in patients with chronic urticaria, Int
+Arch Allergy Immunol 2009;148:170-4,
+
+19. Moosbauer C, Morgenstern E, Cuvelier SL, Manukyan D, Bidzhekov K,
+Albrecht §, et al. Eosinophils are a major intrava
+storage and exposure. Blood 2007;109:995-1002.
+
+20. Dugina TN, Kiseleva EV, Glusa E, Strukoya SM. Activation of mast cells
+induced by agonists of proteinase-activated receptors under normal conditions
+and during acute inflammation in rats. Eur J Pharmacol 2003;471:141-7.
+
+    
+
+ 
+
+   
+
+ 
+
+cular location for tissue factor
+J ALLERGY CLIN IMMUNOL PRACT.
+VOLUME 8, NUMBER 1
+
+21.
+
+22.
+
+23.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31,
+
+32.
+
+33.
+
+34.
+35.
+
+36.
+
+37.
+
+Magerl M, Terhorst D, Metz M, Altrichter S, Zuberbier T, Maurer M, et al.
+Benefit of mepolizumab treatment in a patient with chronic spontaneous urticaria. J Dtsch Dermatol Ges 2018;16:477-8.
+
+Maurer M, Altrichter S, Metz M, Zuberbier T, Church MK, Bergmann KC.
+Benefit from reslizumab treatment in a patient with chronic spontaneous urticaria and cold urticaria. J Eur Acad Dermatol Venereol 2018;32:e1 12-3.
+Maurer M, Metz M, Bindslev-Jensen C, Bousquet J, Canonica GW,
+Church MK, et al. Definition, aims, and implementation of GA(2) LEN Urticaria Centers of Reference and Excellence, Allergy 2016;71:1210-8.
+
+. Kolkhir P, Altrichter S, Hawro T, Maurer M. C-reactive protein is linked to
+
+disease activity, impact, and response to treatment in patients with chronic
+spontaneous urticaria. Allergy 2018:73:940-8.
+
+Karakonstantis $, Kalemaki D, Tzagkarakis E, Lydakis C. Pitfalls in studies of
+eosinopenia and neutrophil-to-lymphocyte count ratio. Infect Dis (Lond) 2018;
+50:163-74.
+
+Shah AD, Denaxas 8, Nicholas 0, Hingorani AD, Hemingway H. Low eosinophil and low lymphocyte counts and the incidence of 12 cardiovascular diseases: a CALIBER cohort study, Open Heart 2016;3:¢000477.
+
+Pether NS, Brothwood JL, van Berkel C, Dunwoodie EH, Blake RL, Price CP,
+et al. Comparative diagnostic performance of the granulocyte and neutrophil
+counts. Pract Lab Med 2017;9:45-52.
+
+Stull D, McBride D, Tian H, Gimenez Arnau A, Maurer M, Marsland A, et al.
+Analysis of disease activity categories in chronic spontaneous/idiopathic urticaria. Br J Dermatol 2017;177:1093-101.
+
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CE. EAACIGA(2)LEN Task Force Consensus Report: the autologous
+serum skin test in urticaria, Allergy 2009;64:1256-68.
+
+Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A, Greaves MW.
+The autologous serum skin test: a screening test for autoantibodies in chronic
+idiopathic urticaria, Br J Dermatol 1999;140:446-52.
+
+Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, et al.
+EAACI Task Force Position Paper: evidence for autoimmune urticaria and
+proposal for defining diagnostic criteria. Allergy 2013;68:27-36.
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum
+autoreactivity predicts time to response to omalizumab therapy in chronic
+spontaneous urticaria, J Allergy Clin Immunol 2017;139:1059-1061.e1.
+Krause JR, Boggs DR. Search for eosinopenia in hospitalized patients with
+normal blood leukocyte concentration, Am J Hematol 1987;24:55-63.
+Freeman GL. Syndromes associated with eosinopenia. Allergy 1998;53:331-3.
+Juhlin L, Venge P. Total absence of eosinophils in a patient with chronic urticaria and vitiligo. Eur J Haematol 1988;40:368-70.
+
+Franklin W, Goetzl EJ. Total absence of eosinophils in a patient with an allergic
+disorder. Ann Intern Med 1981;94:352-3.
+
+Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CEH, et al.
+Classification of anti-FceRI and anti-IgE autoantibodies in chronic idiopathic
+
+ 
+
+38.
+
+39>
+
+41.
+
+42.
+
+43.
+
+45.
+
+47.
+
+48.
+
+49.
+
+50.
+
+KOLKHIRETAL 325
+
+urticaria and correlation with disease severity. J Allergy Clin Immunol 2002;
+110:492-9,
+
+ELAzim MA, El-Azim SA. Chronic autoimmune urticaria: frequency and association with immunological markers. J Investig Allergol Clin Immunol 2011;
+21:546-50.
+
+Grattan CE, Boon AP, Eady RA, Winkelmann RK. The pathology of the
+autologous serum skin test response in chronic urticaria resembles IgE-mediated
+late-phase reactions. Int Arch Allergy Appl Immunol 1990;93:198-204.
+
+. Sabroe RA, Poon E, Orchard GE, Lane D, Francis DM, Barr RM, et al.
+
+Cutaneous inflammatory cell infiltrate in chronic idiopathic urticaria: comparison of patients with and without anti-FceRI or anti-IgE autoantibodies. J Allergy
+Clin Immunol 1999;103:484-93.
+
+Rojanapremsuk T, Kasprowicz S, Schafer E, Story R, Clarke MS, Walls T, et al.
+Clinicopathologic findings in (anti-FcepsilonR lalpha) autoimmune-related
+chronic urticaria. J Cutan Pathol 2015;42:329-32.
+
+Cho CB, Stutes SA, Altrich ML, Ardoin SP, Phillips G, Ogbogu PU. Autoantibodies in chronic idiopathic urticaria and nonurticarial systemic autoimmune
+disorders. Ann Allergy Asthma Immunol 201351 10:29-33.
+
+Iqbal K, Bhargava K, Skov PS, Falkencrone S, Grattan CE. A positive serum
+basophil histamine release assay is a marker for ciclosporin-responsiveness in
+patients with chronic spontaneous urticaria, Clin Transl Allergy 2012;2:19.
+
+. Huilan Z, Bihua L, Runxiang L, Jiayan L, Luyang L, Zhenjie L. Features of
+
+antihistamine-resistant chronic urticaria and chronic urticaria during exacerbation, Indian J Dermatol 2015;60:323.
+
+Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et al.
+Autologous whole blood injections to patients with chronic urticaria and a
+positive autologous serum skin test: a placebo-controlled trial. Dermatology
+2006;212:150-9.
+
+. Ye YM, Park JW, Kim SH, Ban GY, Kim JH, Shin YS, et al. Prognostic factors
+
+for chronic spontaneous urticaria: a 6-month prospective observational study.
+Allergy Asthma Immunol Res 2016;8:115-23.
+
+Ferrer M, Gimenez-Arnau A, Saldana D, Janssens N, Balp MM, Khalil S, et al.
+Predicting chronic spontaneous urticaria symptom return after omalizumab
+treatment discontinuation; exploratory analysis. J Allergy Clin Immunol Pract
+2018;6:1191-1197.e5.
+
+Nettis E, Cegolon L, Di Leo E, Lodi Rizzini F, Detoraki A, Canonica GW, et al.
+Omalizumab chronic spontaneous urticaria: efficacy, safety, predictors of
+treatment outcome, and time to response. Ann Allergy Asthma Immunol 2018;
+121:474-8.
+
+Cildag S, Senturk T. The effect of omalizumab treatment on IgE and other
+immunoglobulin levels in patients with chronic spontaneous urticaria and its
+association with treatment response. Postepy Dermatol Alergol 2018;35:516-9.
+Shin B, Kwon HS, Park S, Yoon SY, Kim TB, Cho Y, et al. Blood immunoglobulin E and eosinophil levels predict treatment response to omalizumab in
+refractory chronic urticaria. Allergy 2013;68:36.
+325.e1 KOLKHIR ETAL J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+ONLINE REPOSITORY
+
+100 : i
+High CSU activity
+80 ™ Moderate CSU activity
+® Low CSU activity
+60
+40
+20
+
+AECs low AECs low AECs normal AECs normal
+ABCs normal ABCs low ABCs low ABCs normal
+n=42 n=43 n=72 n=682
+
+Proportion of patients in %
+
+°
+
+FIGURE E1. Differences in CSU activity between subpopulations of patients with low or normal/high blood eosinophil and basophil
+counts. ABC, Absolute basophil count; AEC, absolute eosinophil count.
+
+CSU activity ASST BHRA TotallgE Basophils IgG-anti-TPO
+P=.006 P<.001 P=.001 P<.001 P<.001 P=.001
+
+100
+High CSU activity,
+high IgG-anti-TPO,
+positive ASST,
+
+8 = positive BHRA,
+low total IgE
+
+i or low basophils
+Low CSU activity,
+low IgG-anti-TPO,
+
+4 o negative ASST,
+negative BHRA,
+normal/high total IgE
+
+2 or normal/high basophils
+
+NOL N L N e NOL
+
+L N L N
+
+Absolute eosinophil counts
+FIGURE E2. Differences in CSU characteristics and laboratory parameters between patients with low and normal or high eosinophil
+counts. L, Low blood eosinophil counts; V, normal or high blood eosinophil counts.
+
+ 
+
+Proportion of patients in %
+o Oo Oo o
+
+°
+J ALLERGY CLIN IMMUNOL PRACT KOLKHIRETAL 325.e2
+VOLUME 8, NUMBER 1
+
+TABLE E1. Differences in absolute blood eosinophil and basophil counts between subpopulations of patients with CSU
+
+ 
+
+Blood eosinophil No.of pationts: Blood basophil No.of patients:
+
+Parameter counts, x10°/L, median P value* counts, x10°/L, median P value*
+Sex
+
+Female 0.14 1249 0.02 1242
+
+Male 0.17 001 0.02 682
+Angioedema
+
+Present 0.14 1183 0.02 1175
+
+Absent 0.15 lll 0.02 146
+Autoimmune diseases
+
+Present 0.13 1028 0.01 1019
+
+Absent 0.15 .009 0.02 <.001
+Allergic diseases
+
+Present 0.17 1040 0.02 1033
+
+Absent 0.14 .007 0.02 349
+CSU activity
+
+High 0.12 848 0.01 840
+
+Moderate 0.17 007+ 0.02 <.001+
+
+Low 0.15 001: 0.02 02.
+
+-1308 002:
+
+ASST
+
+Positive 0.12 1082 0.01 1072
+
+Negative 0.16 <.001 0.02 <.001
+BHRA
+
+Positive 0.08 170 0.01 170
+
+Negative 0.16 <.001 0.02 <.001
+Blood basophil or eosinophils counts, x 10°/L
+
+Normal 0.16 1244 0.02 1244
+
+Low 0.08 <.001 0.01 <.001
+Leukocyte counts, x 10°/L
+
+High 0.15 1247 0.02 1239
+
+Low or normal 0.15 -960 0.02 075
+Thrombocyte counts, x 10°/L
+
+High 0.15 1247 0.03 1240
+
+Low or normal 0.15 927 0.02 162
+CRP, mg/L
+
+High 0.14 1125 0.01 1117
+
+Normal, <5 mg/L 0.16 016 0.02 <.001
+D-dimer, ng/mL
+
+High 0.13 274 0.02 273
+
+Low or normal, <500 ng/mL. 0.15 395 0.02 .056
+IgG-anti-TPO, kU/L
+
+High 0.12 1022 0.01 1014
+
+Low or normal, <34 kU/L 0.15 001 0.02 <.001
+Total IgE, KU/L
+
+Normal or high 0.17 1050 0.02 1043
+
+Low, <S0 kU/L 0.11 <.001 0.01 <.001
+Total IgM, mg/dL
+
+High 0.15 600 0.02 597
+
+Low or normal 0.15 O27 0.02 650
+
+CRP, C-reactive protein.
+*Mann-Whitney U test; statistically significant correlations are in boldface.
+
++Comparisons of blood eosinophil or basophil counts between patients with CSU with high CSU activity and those with low CSU activity.
+Comparisons of blood eosinophil or basophil counts between patients with CSU with high CSU activity and those with moderate CSU activity
+§Comparisons of blood eosinophil or basophil counts between patients with CSU with low CSU activity and those with moderate CSU activity.
+325.e3 KOLKHIR ETAL
+
+TABLE E2. Correlation between blood eosinophil counts and
+
+other laboratory markers
+
+Parameter
+Clinical parameter
+Age
+
+8
+Duration of CSU
+UAS day
+
+UAS7
+
+Blood cell counts
+White blood cell counts
+
+Neutrophil counts
+Basophil counts
+Thrombocyte counts
+Erythrocyte counts
+Hemoglobin
+
+Complement and coagulation
+Complement component C3
+
+Complement component C4
+Fibrinogen
+D-dimer
+
+Micronutrients
+Ferritin
+
+Interleukins and inflammatory markers
+C-reactive protein
+
+IL-6
+ESR
+TNF
+
+Immunoglobulins
+IgA
+
+IgG
+IgM
+
+IgE
+
+Spearman rho.
+No. of patients with CSU
+
+—.030
+1246
+035
+1182
+
+—.139*
+723
+—.089*
+849
+
+-126*
+1248
+—.052
+1229
+396"
+1244
+.154*
+1247
+000
+1248
+.020
+1245
+
+051
+946
+063
+947
+.025
+877
+—.132+
+277
+
+—.074
+46
+
+—.071}
+1126
+= 522
+
+ay)
+
+—.007
+
+813
+
+—.034
+
+BS
+
+.076
+545
+027
+505
+—.086}
+600
+.275*
+1058
+
+(continued)
+
+J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+TABLE E2. (Continued)
+
+Spearman rho.
+No. of patients with CSU
+
+Parameter
+Autoantibodies
+IgG-anti-TPO — 067+
+1022
+IgG-anti-TG —.133
+174
+IgE-anti-TPO —.068
+427
+Mediators
+Eosinophil cationic protein 148
+55
+
+ESR, Erythrocyte sedimentation rate; TG, thyroglobulin; TPO, thyroperoxidase;
+UAS, urticaria activity score.
+
+*Correlation is significant at the .01 level (2-tailed); statistically significant correlation is indicated in boldface.
+
+*Correlation is significant at the .05 level (2-tailed).
+TABLE E3. Responsiveness to therapy with omalizumab in CSU patients with basopenia
+
+Patients with
+
+Patients with CSU with
+CSU with normal or high
+Response to basopenia, % (n/total) basophil counts, % (n/total) 2 value;
+omalizumab ——————. —- — ___. significance
+assessed No. of patients R NR R NR level (72 test)
+After the Baseline (147) 50.0 (4/8) 50.0 (4/8) 89.2 (124/139) 10.8 (15/139) 10.333; P = .001
+
+first injection
+After 4 wk (96) 33.3 (2/6) 66.7 (4/6) 90.0 (81/90) 10.0 (9/90) 15.428; P < .001
+
+After the Baseline (137) 75.0 (6/8) 25.0 (2/8) 93.0 (120/129) 7.0 (9/129) 3.314; P = .06
+second
+injection
+After 4 wk (87) 40.0 (2/5) 60.0 (3/5) 93.9 (77/82) 6.1 (5/82) 16.398; P < .001
+
+NLR, Negative likelihood ratio; NR, nonresponder; PLR, positive likelihood ratio; R, responder.
+For the calculations in the table, presence of basopenia (test) is considered as a predictive marker of nonresponse (outcome).
+
+Sensitivity (95% Cl)
+0.2105
+(0.085 1-0.4333)
+0.3077
+(0.1268-0.5763)
+0.1818
+(0.0514-0.477)
+
+0.3750
+(0.1368-0.6943)
+
+Specificity (95% Cl)
+0.9688
+(0.9224-0.9878)
+0.9759
+(0.9163-0.9934)
+0.9524
+(0.9-0.978)
+
+0.9747
+(0.9123-0.993)
+
+PLR (95% Cl)
+6.737
+(1.837-24.706)
+12.769
+(2.595-62.838)
+3.818
+(0.872-16.721)
+
+14.813
+(2.888- 75.961)
+
+Diagnostic
+odds ratio
+NLR (95% Cl) (95% Cl)
+0.815 8.267
+(0.645-1.03)  (1.871-36.529)
+0.709 18.000
+(0.493-1.021) (2.882-112.408)
+0.859 4.444
+
+(0.648-1.138) (0.782-25.265)
+
+0.641 23.100
+(0.374-1.098) (3.111-171.516)
+
+L YSN ‘8 SINMOA
+
+4L9Ved TONNWII NITO ADYSTIV &
+
+TW Ld YIH 10>
+
+ve'GZE
+325.e5
+
+KOLKHIR ET AL
+
+J ALLERGY CLIN IMMUNOL PRACT
+JANUARY 2020
+
+TABLE E4. Comparison of blood eosinophil counts between patients with CSU and HCs or AU patients
+
+Significant difference in
+
+blood eosinophil counts
+
+between patients with
+CSU and HCs/AU patients
+
+Patients
+Reference Year withCSU,n HCs,n_ AU patients, n HC AU Age (y) Country
+Lee et al’! 2017 57* 3159 567 No No 4-13 Korea
+Wardhana et al’? 2017 25 -+ 27 - No 14-65 Bali
+Uysal et al!* 2016 val - 138 - No 4-13 Turkey
+Woo et al’ 2015 72 73 26 Higher in CSU Higher in CSU 8-84 Korea
+Chang et al’? 2013 6l* - 104 - No 1-17 Taiwan
+Du Toit et al’ 2006 80" 50 - No - 1-19 South Africa
+Marciniak et al"’ 2006 50 30 - No - 5-70 Poland
+Garmendia et al®* 2004 32 32 = No = 32 4 12 Venezuela
+Grattan et al"? 2003 u 10 - Higher in HC - 24-50 United Kingdom
+Kim et al” 1997 18 79 - No - 14-75 Korea
+Lorenzo et al’!! 1996 25 10 15 Higher in symptomatic CSU Higher in AU - Italy
+Toyoda et al'!? 1996 30 17 a No a 18-45 United States
+
+ 
+
+AU, Acute urticaria; HC, healthy control.
+*Some patients could have inducible urticaria.
++Dashes represent not done or no data.
+
+REFERENCES
+
+El.
+
+E2.
+
+E3.
+
+ES.
+
+E6.
+
+Lee SJ, Ha EK, Jee HM, Lee KS, Lee SW, Kim MA, et al
+factors of urticaria with a focus on chronic urticaria in children, Allergy Asthma
+Immunol Res 2017;9:212-9.
+
+Wardhana M, Suryawati N, Ariana A. The effect of psychological stress on creactive protein and peripheral blood cells count in chronic idiopathic urticaria,
+Bali Med J 2017;6:198-203.
+
+Uysal P, Avcil S, Erge D, High-dose anti-histamine use and risk factors in
+children with urticaria. Turk Pediatri Ars 2016;51:198-203.
+
+Prevalence and risk
+
+. Woo YR, Jung KE, Koo DW, Lee JS. Vitamin D as a marker for disease severity
+
+ 
+
+in chronic urtic:
+423-30.
+Chang KL, Yang YH, Yu HH, Lee JH, Wang LC, Chiang BL. Analysis of seram
+total IgE, specific IgE and eosinophils in children with acute and chronic urticaria. J Microbiol Immunol Infect 2013;46:53-8.
+
+Du Toit G, Prescott R, Lawrence P, Johar A, Brown G, Weinberg EG, et al.
+Autoantibodies to the high-affinity IgE receptor in children with chronic
+urticaria, Ann Allergy Asthma Immunol 2006;96:341-4.
+
+and its possible role in pathogenesis. Ann Dermatol 2015;27:
+
+ 
+
+Ey,
+
+E8.
+
+E9.
+
+E10.
+
+Ell.
+
+E12.
+
+Marciniak A, Wegner J, Czamecka-Operacz M, Jenerowicz D. The problem of
+eosinophilia in chronic urticaria, Postepy Dermatologii I Alergologii 2006;23:5-11.
+Garmendia JV, Zabaleta M, Blanca I, Bianco NE, De Sanctis JB. Total and
+biolo;
+
+ 
+
+  
+
+cally active serum-soluble CD154 in patients with chronic idiopathic
+urticaria, Allergy Asthma Proc 2004;25:121-5.
+
+Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic
+ordinary urticaria and healthy controls: diurnal variation, influence of loratadine
+
+    
+
+and prednisolone and relationship to disease activity. Clin Exp Allergy 2003;33:
+337-41.
+Kim TY, Park HJ, Kim CW. Eosinophil cationic protein (ECP) level and its
+correlation with eosinophil number or IgE level of peripheral blood in patients
+with various skin diseases. J Dermatol Sci 1997;15:89-94.
+Lorenzo GD, Mansueto P, Melluso M, Candore G, Cigna D, Pellitteri ME,
+et al. Blood eosinophils and serum eosinophil cationic protein in patients with
+acute and chronic urticaria. Mediators Inflamm 1996;5:113-5.
+Toyoda M, Maruyama T, Morohashi M, Bhawan J, Free eosinophil granules in
+urticaria: a correlation with the duration of wheals. Am J Dermatopathol 1996;
+18:49-57.
+
+ 
+
+ 
+

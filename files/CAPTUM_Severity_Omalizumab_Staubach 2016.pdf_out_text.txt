@@ -1,0 +1,1152 @@
+ 
+
+Allergy
+
+EUROPEAN JOURNAL OF ALLERGY 2
+AND CLINICAL IMMUNOLOGY
+
+ 
+
+ORIGINAL ARTICLE
+
+Allergy
+
+EXPERIMENTA LERGY AND IMMUNOLOGY
+
+Effect of omalizumab on angioedema in H,-antihistamineresistant chronic spontaneous urticaria patients: results
+from X-ACT, a randomized controlled trial
+
+P. Staubach'*, M. Metz?*, N. Chapman-Rothe’, C. Sieder®, M. Brautigam®, J. Canvin* &
+
+M. Maurer?
+
+'Hautklinik und Poliklinik, Universitatsmedizin der Johannes Gutenberg-Universitat Mainz, Mainz; ?Allergie-Centrum-Charité, Klinik far
+Dermatologie, Venerologie und Allergologie, Charité - Universitatsmedizin Berlin, Berlin; Novartis Pharma GmbH, Nurnberg, Germany;
+
+*Novartis Pharma AG, Basel, Switzerland
+
+ 
+
+To cite this article:
+
+Staubach P, Metz M, Chapman-Rothe N, Sieder C, Braéutigam M, Canvin J, Maurer M. Effect of omalizumab on angioedema in
+
+H,-antihistamine-resistant chronic spontaneous urticaria patients: results from X-ACT, a randomized controlled trial. Allergy 2016; DOI: 10.1111/all.12870
+
+Keywords
+
+angioedema; chronic spontaneous urticaria;
+chronic urticaria quality of life questionnaire;
+omalizumab; quality of life.
+
+Correspondence
+
+Marcus Maurer, MD, Department of
+Dermatology and Allergy, Allergie-CentrumCharité, Charité-Universitatsmedizin Berlin,
+Charitéplatz 1, 10117 Berlin, Germany.
+Tel.: +49 30 450518043
+
+Fax: +49 30 450518972
+
+E-mail: marcus.maurer@charite.de
+
+*Contributed equally to the manuscript.
+Accepted for publication 26 February 2016
+DOI:10.1111/all.12870
+
+Edited by: Werner Aberer
+
+Abstract
+
+Background: Chronic spontaneous urticaria (CSU) severely impacts quality of life
+(QoL), especially in patients with wheals and angioedema. Omalizumab is
+approved as add-on therapy for CSU patients; however, its effect on patients
+who are double-positive for wheals and angioedema has not been systematically
+studied.
+
+Objective: The primary objective was to evaluate the efficacy of omalizumab vs
+placebo at week 28 using the Chronic Urticaria Quality of Life (CU-Q2o0L) questionnaire. Number of angioedema-burdened days, time interval between successive angioedema episodes, disease activity, angioedema-specific and overall QoL
+impairment were secondary objectives.
+
+Methods: X-ACT was a phase II, randomized, double-blind study conducted in
+24 centres (Germany), which selectively included CSU patients with angioedema
+and wheals. Patients were randomized (1 : 1) to omalizumab 300 mg or placebo
+(every 4 weeks up to week 24) (ClinicalTrials.gov number: NCT01723072).
+Results: Of the 91 patients randomized to omalizumab (n = 44) or placebo
+(n = 47) at baseline, 68 completed the 28-week treatment phase (omalizumab, 35;
+placebo, 33). Omalizumab was superior to placebo in improving CU-Q2oL scores
+at week 28 (P < 0.001). There was a threefold improvement in angioedema-burdened days/week with omalizumab (0.3) vs placebo (1.1). The median time to first
+recurrence of angioedema was 57-63 days with omalizumab and <5 days with
+placebo. Omalizumab _ significantly improved angioedema-specific QoL
+(P < 0.001). The adverse events reported are in line with the established safety
+profile of omalizumab.
+
+Conclusion: Omalizumab was an effective treatment option for patients with
+moderate-to-severe CSU symptoms and angioedema unresponsive to high doses
+of antihistamine treatment.
+
+ 
+
+Abbreviations
+
+AAS, angioedema activity score; AE, adverse event; AE-QoL, angioedema quality of life questionnaire; AH, antihistamine; ancova, analysis of
+covariance; BL, baseline; Cl, confidence interval; CSU, chronic spontaneous urticaria; CU-Q2oL, chronic urticaria quality of life questionnaire;
+DLQI, dermatology life quality index; FAS, full analysis set; FUP, follow-up; IgE, immunoglobulin E; LOCF, last observation carried forward;
+LS, least squares; LTA, leukotriene antagonist; Ns, nonsedating; nsH1-AH, nonsedating H1 receptor antihistamine; PP, per-protocol
+population; P-value, probability value; QoL, quality of life; SAE, serious adverse event; SD, standard deviation; UAS, urticaria activity score;
+UAS7, weekly urticaria activity score.
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Effect of omalizumab on angioedema
+
+Chronic spontaneous urticaria (CSU) is a disabling condition
+with an estimated prevalence of 0.5% to 1% in the European
+population (1). CSU, also previously referred to as chronic
+idiopathic urticaria, is characterized by persistent itchy hives
+and/or angioedema that recur for more than 6 weeks and a
+duration of several years (1, 2). Angioedema is the rapid
+swelling of subcutaneous, mucosa and submucosal tissue that
+can appear anywhere on the body, including the face, and is
+very frequently associated with urticaria (1, 2). Various independent studies have demonstrated that quality of life (QoL)
+is severely affected in patients with CSU, primarily because
+the symptoms impair daily living and social interactions. The
+two major causes of this impairment are (i) the itch associated with wheals and (ii) angioedema, which can be very
+painful and is present in up to 50% of patients (3). In addition, many CSU patients develop psychosomatic or psychiatric conditions such as anxiety, depression and somatoform
+disorders, which add to their QoL impairment (4-6). QoL in
+CSU patients has been shown to be at least as poor as or
+worse than that in patients with other chronic skin disorders,
+including psoriasis (7).
+
+Omalizumab, an IgE-specific humanized monoclonal antibody, is approved for the treatment of CSU (in patients
+212 years of age) and has been recommended as an add-on
+therapy by the current EACCI/GA?LEN/EDF/WAO urticaria guideline for patients who show insufficient response to
+up to four times the approved dose of second-generation (sg)
+H,-antihistamines (7, 8). While the efficacy of omalizumab in
+CSU patients is well established (9-13), the effects of omalizumab on disease-specific and symptom-specific QoL impairment have remained largely uninvestigated. In addition, no
+omalizumab trial has specifically focussed on CSU patients
+suffering from wheals and angioedema, who form a large
+subpopulation of CSU.
+
+Therefore, through the X-ACT (Xolair Effects on Angioedema in Chronic Spontaneous Urticaria Treatment) study,
+we assessed the impact of omalizumab on the QoL of CSU
+patients with angioedema and wheals refractory to high doses
+of H,-antihistamines and evaluated in detail the effects of
+omalizumab treatment on angioedema and impairment of
+angioedema-specific QoL. The primary objective was to evaluate the efficacy of omalizumab vs placebo at week 28 by use
+of the Chronic Urticaria Quality of Life (CU-Q:o0L) questionnaire. Number of angioedema-burdened days, time interval between successive angioedema episodes, disease activity,
+angioedema-specific and overall QoL impairment were secondary objectives.
+
+Methodology
+Study design and patients
+
+X-ACT was a double-blind, placebo-controlled, randomized, multicentre study with a 28-week treatment period
+and an 8-week follow-up. The study was conducted
+between January 2013 and May 2014 in 24 centres in Germany. Patients with CSU aged 18-75 years, with wheals
+and at least four occurrences of angioedema in the last
+
+Staubach et al.
+
+6 months, who were symptomatic despite high-dose sg H,antihistamine treatment (two to four times the approved
+dose), were eligible to participate in the study. Inclusion
+was limited to patients with weekly Urticaria Activity
+Score (UAS7) of =14 and a Chronic Urticaria Quality of
+Life Questionnaire (CU-Qo0L) score 230 at baseline
+(Appendix Protocol).
+
+The key exclusion criteria were as follows: patients with
+non-urticaria-associated angioedema (e.g. Cl-inhibitor deficiency), receiving Hy,-antihistamines at greater than four
+times the approved dose within 3 days prior to day — 14;
+patients with serious psychological disturbances, metabolic
+and pathological conditions, history of malignancy or hypersensitivity to omalizumab; or treatment with omalizumab
+within the previous 6 months. Systemic corticosteroids,
+hydroxychloroquine, methotrexate, cyclophosphamide or
+intravenous immunoglobulin were not allowed 30 days prior
+to day — 14; use of H>-antihistamines or leukotriene antagonists (montelukast or zafirlukast) was not allowed 7 days
+prior to day — 14. Pregnant women and/or women who were
+breastfeeding were excluded from the study (Appendix).
+Angioedema in CSU patients, as diagnosed in accordance
+with the EACCI/GA?LEN/EDF/WAO urticaria guideline,
+excludes ACE/inflammatory drugs as the probable reason for
+angioedema. All cases of angioedema associated with Clinhibitor deficiency were excluded; hence, for all included
+patients, there were normal Cl-inhibitor levels at screening.
+
+The study protocol was approved by an independent ethics
+committee or institutional review board for all study centres
+in Germany. The study was designed and conducted in accordance with the International Conference on Harmonisation
+(ICH) Harmonised Tripartite Guidelines for Good Clinical
+Practice. All patients provided written informed consent prior
+to study initiation (ClinicalTrials.gov number: NCT01723072;
+EudraCT number: 2011-004254-25).
+
+Randomization and masking
+
+After a 2-week screening period, patients were randomly
+assigned (1: 1) to either omalizumab or placebo groups by
+protocol. A validated automated system was used for the
+assignment of treatment arms to randomization numbers in
+the specified ratio.
+
+During the treatment phase (day | to day 197), two subcutaneous injections of omalizumab (150mg x 2) or
+placebo were administered every 4 weeks until week 24
+(seven doses of two injections each, adding up to 14 injections) as add-on therapy to the daily intake of high doses
+(two to four times the approved dose) of sg Hy-antihistamines. This was followed by an 8-week follow-up period
+(day 198 to day 253). The use of concomitant treatment
+with sg H,-antihistamines was defined during the screening
+phase for each individual patient and was administered on
+a daily basis throughout the treatment and follow-up
+phases. Additional rescue medication was provided [three
+tablets of clemastine per day (maximum 3 days per week)
+and 15mg _ betamethasone in case of life-threatening
+angioedema development].
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Staubach et al.
+
+Outcomes
+
+The primary endpoint was the mean change from baseline to
+week 28 of the CU-Q:oL total scores. Key secondary endpoints were the number of angioedema-burdened days per
+week, number and size of angioedema episodes, time interval
+between successive angioedema episodes, disease activity and
+angioedema-specific and overall QoL impairment.
+
+The efficacy outcomes were measured using the following:
+(i) CU-Q30L — this questionnaire measures various aspects of
+QoL (scale: 0-100; high scores indicate low QoL) that are
+specific to chronic urticaria (14, 15); (ii) Angioedema Quality
+of Life Questionnaire (AE-QoL) — this symptom-specific QoL
+questionnaire measures four dimensions with a total of 17
+items (16), and the lower the score, the better the QoL (scale:
+0-100); (iii) Dermatology Life Quality Index (DLQI) — this
+validated tool measures overall QoL related to the skin (17);
+it consists of 10 items, measuring six dimensions of healthrelated QoL, and the lower the score, the better the QoL
+(scale: 0-30); (iv) number of angioedema-burdened days —
+this assessment was based on records from the patient’s daily
+diary [i.e. first question of the Angioedema Activity Score
+(AAS) assessment] per week, where patient reported the
+number of angioedema suffering as well as the severity of the
+episode; (v) time to first recurrence of angioedema episode —
+first angioedema episode after last injection of the study
+drug; (vi) size of angioedema — acute swelling episodes were
+measured using a paper-based patient daily dairy for both
+placebo and omalizumab groups; (vii) AAS — this symptomspecific score is based on data recorded by patients with the
+help of a daily diary; it consists of the daily question ‘Have
+you had a swelling episode in the last 24 h?’ and five additional questions if a swelling episode had occurred (week
+sum score: 0-105); higher scores represent severe disease
+activity (18); and (viii) UAS7 — this diary-based validated
+tool assesses the CSU symptoms of itch (severity) and hives
+(numbers) over a period of 7 days (19); higher scores indicate
+severe disease activity (scale: 0-42).
+
+Statistical analysis
+
+All efficacy results presented here are based on the full analysis set (FAS), that is all randomized subjects who received at
+least one dose of study drug. Subjects were analysed according to the treatment to which they were randomized. For
+patients who discontinued the trial early, the last observed
+value [last observation carried forward (LOCF)] was used for
+the primary endpoint.
+
+The primary analysis was performed comparing treatments
+with respect to the primary efficacy variable in an analysis of
+covariance (ANCovA) model with the factors treatment, centre
+and baseline score as covariates. The raw and the adjusted
+(least square, LS) group means were presented. Additionally,
+two-sided 95% confidence intervals (CI) and the P-value
+from the F-test were provided. The secondary endpoints,
+time to first angioedema episode and time to first recurrence
+were graphically displayed as Kaplan—Meier plots; patients
+without episodes/recurrence were censored at their last study
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+
+Effect of omalizumab on angioedema
+
+visit. DLQI, AAS and UAS7 were analysed analogously.
+Number of angioedema-burdened days, AE-QoL and DLQI
+categories were analysed descriptively. Sensitivity analyses
+were carried out using nonparametric methods.
+
+Results
+Study population
+
+A total of 133 patients were screened, of whom 91 were randomized (42 patients failed the screening); 68 patients (omalizumab, 35; placebo, 33) completed the 28-week treatment
+phase, and 23 patients discontinued (omalizumab, nine; placebo, 14) (Fig. 1). Overall, 35 of the 44 patients in the omalizumab group (79.5%) and 29 of the 47 patients in the
+placebo group (61.7%) received all seven doses as planned in
+the protocol (Table S1), and 33 (75.0%) patients in the omalizumab group and 26 (55.3%) in the placebo group completed the follow-up period. There were no relevant
+imbalances between the study groups with respect to demographic and baseline disease characteristics, except for the
+number of swelling episodes, which was lower in the omalizumab group (231 attacks in 44 patients) than in the placebo
+group (325 attacks in 47 patients). The mean (SD) age was
+42.9 (12.3) years and 69.2% of patients were female
+(Table 1). Of the patients who discontinued, two withdrew
+consent with no further information, one withdrew consent
+after 1 month as the study medication did not seem to work,
+two withdrew consent as they did not experience an effect
+after 2 months of treatment, one experienced a pelvic fracture, one moved to another country, one attempted suicide
+due to personal problems, and one wanted to try another
+treatment prohibited by the protocol.
+
+All enrolled patients had a history of angioedema with
+approximately 60% experiencing daily or weekly angioedema
+episodes. Approximately 85% of the study population experienced one or more episodes of periorbital or perioral angioedema and 67% reported angioedema of their hands.
+Moreover, at baseline, 67% of patients were at least
+occasionally afraid of a life-threatening swelling episode. Furthermore, 49% of patients were occasionally, often or very
+often afraid that ‘they could suffocate due to a swelling episode’. Similarly, only 13% of enrolled patients stated at baseline that they ‘were not’ or ‘just a little’ worried about their
+health and 54% stated that they were ‘a lot’ or ‘very much’
+worried about their current health status. Baseline DLQI
+scores indicated a large impact in approximately 80% of the
+study population. Majority of the patients (90.1%) had been
+treated with two or more different second-generation H)antihistamines, and 29% had received corticosteroids during
+the 12 months prior to the beginning of the study.
+
+Efficacy
+
+Omalizumab was significantly superior to placebo in reducing
+the CU-Q,oL total score from week 4 onwards over the
+28 weeks of treatment (P < 0.001 at all measurement points,
+Fig. 2). The treatment group difference (omalizumab minus
+Effect of omalizumab on angioedema
+
+placebo, LS mean [95% CI]) at week 4 and week 28 was
+—20.7 points [—29.0, —12.5] and —21.5 points [—30.9, —12.1],
+respectively (P < 0.001). At week 28, the improvement in the
+mean total CU-Q,oL total score was greater in the omalizumab compared with the placebo group (60% vs 20%,
+respectively, P < 0.001). At the end of the follow-up period
+(week 36; 12 weeks after the last injection of study medication), the mean total CU-Q,oL score had increased (Figure Sl); however, on average, the absolute change still
+showed a treatment effect with omalizumab (—23.9 + 23.0)
+compared with placebo (—14.7 + 19) (P < 0.001). Angioedema-specific QoL, as assessed by the AE-QoL, showed significant improvement in patients on omalizumab vs placebo
+at week 4 as well as at week 28 (—26.5 vs —10.3 and —41.4
+vs —24.2, respectively) (P < 0.001). Omalizumab was also
+superior to placebo in reducing the DLQI total score over
+28 weeks of treatment (—10.5 vs —5.6, P< 0.001). Here,
+again, superiority was reached by the week 4 and was maintained throughout the treatment period. In patients receiving
+omalizumab, there was no significant difference in the change
+in CU-Q,oL total scores from baseline to week 28 between
+patients with BMI <25 or BMI>25 (—33.25, BMI< 25 vs
+—34.56, BMI >25; P = 0.2328).
+
+Staubach et al.
+
+The mean number of angioedema-burdened days in the
+omalizumab group (14.6 + 19.5 days; median, 9 days) during
+the 28-week treatment period was lower than that in the placebo group [49.5 + 50.8 days; median, 30 days (Fig. 3A)];
+this corresponds to a median of 0.3 angioedema-burdened
+days per week in the omalizumab vs 1.1 days in the placebo
+group, a threefold improvement with omalizumab. During
+the follow-up period, the mean number of angioedema-burdened days was lower in omalizumab (n = 33, 5.8 + 9.1,
+median 2.0 days) compared with that in the placebo group
+(n = 30, 12.8 + 16.2, median 7.5 days).
+
+In the omalizumab group, the estimated probability for the
+first angioedema event was 0.705 at week 4, 0.756 at week 28
+(the end of the treatment period) and 0.892 at week 36 (the
+end of the follow-up period). In the placebo group, the probability for the first event was 0.957 at week 4 and 0.979 at
+week 28 and week 36. The median time to first angioedema
+episode was 4 days in the omalizumab group and <2 days in
+the placebo group (Fig. 3B).
+
+The median time to first recurrence of an angioedema episode (after the last injection of study drug) was 57-63 days
+in the omalizumab group as compared to <5 days in the
+placebo group. In the omalizumab group, the cumulative
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+     
+   
+
+ 
+
+  
+     
+   
+
+ 
+
+  
+
+Screened
+N= 133
+Excluded’, n = 42 lg
+¥
+Randomised (1:1)
+N=91
+Omalizumab Placebo
+n= 44 (100%) n= 47 (100%)
+Discontinued treatment period, Discontinued treatment period,
+n=9 (20.5%) n=14 (29.8%)
+Withdrawal of consent (n = 7) Withdrawal of consent (n = 11)
+© Other (n = 2) © Other (n = 3)
+y y
+
+ 
+
+Completed treatment period,
+n= 35 (79.5%)
+
+ 
+
+ 
+
+ 
+
+Completed treatment period,
+n= 33 (70.2%)
+
+ 
+
+ 
+
+ 
+
+Discontinued follow-up period,
+N=2 (4.5%) —
+© Other (n = 2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+y
+
+ 
+
+Discontinued follow-up period,
+n=7 (14.9%)
+¢ Withdrawal of consent (n = 2)
+
+ 
+
+medication after week 24 (n = 5)
+
+ 
+
+ 
+
+ 
+
+| * Need of corticosteroid rescue
+
+ 
+
+Completed study,
+
+n= 33 (75.0%)
+
+ 
+
+ 
+
+ 
+
+Completed study,
+
+n= 26 (55.3%)
+
+ 
+
+ 
+
+Figure 1 Patient disposition. “The major reason for screening failure was patients not meeting the severity criteria (n = 24; 57.1%).
+
+All randomized and treated patients (n = 91) were included in the
+analysis (full analysis set).
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Staubach et al.
+
+Table 1 Demographic and baseline characteristics
+
+ 
+
+Omalizumab Placebo
+
+Characteristics n=44 n=47
+
+Age (Years/Range) 44.9/20-73 41.1/20-61
+
+Age groups, <65 years 41 (93.2) 47 (100.0)
+n(%) >65 years 3 (6.8) 0 (0.0)
+
+Gender, Male 14 (31.8) 14 (29.8)
+n(%) Female 30 (68.2) 33 (70.2)
+
+Race, n (%) Caucasian 42 (95.5) 46 (97.9)
+
+Asian 1 (2:3) 1 (2.1)
+Other 1 (2.3) 0 (0.0)
+
+Body <18.5 0 (0.0) 0 (0.0)
+mass 18.5-25 20 (45.5) 12 (25.5)
+index (kg/m?),  >25 24 (54.5) 35 (74.5)
+n(%)
+
+Smoking Never 18 (40.9) 13 (27.7)
+status, n (%) smoker
+
+Ex-smoker 7 (15.9) 16 (34.0)
+Current 19 (43.2) 18 (38.3)
+smoker
+
+Acute swelling episode 231 325
+
+Frequency Daily 3 (6.8) 6 (12.8)
+of prior Weekly 21 (47.7) 24 (51.1)
+angioedema >6 episodes/year 19 (43.2) 14 (29.8)
+episodes, <6 episodes/year 1 (2.3) 3 (6.4)
+n(%)
+
+Duration of <24h 25 (56.8) 25 (53.2)
+symptoms of >24h 19 (43.2) 22 (46.8)
+angioedema,
+
+n(%)
+
+Location of prior  Eyes/lids/ 36 (81.8) 41 (87.2)
+angioedema periorbital
+(any), n (%) Lips/perioral 37 (84.1) 41 (87.2)
+
+Mouth/laryngeal 22 (50.0) 28 (59.6)
+Trunk 10 (22.7) 20 (42.6)
+Arms/legs 24 (54.5) 28 (59.6)
+Hands 27 (61.4) 34 (72.3)
+
+Duration of Mean + SD 84+ 9.3 74+ 88
+disease Median 5.0 5.0
+before Range 0-40 0-41
+baseline
+(years)
+
+Quality of life scores at baseline (Mean + SD)
+
+CU-Qz0L 65.44+13.6 66.1 +17.2
+
+DLOl 14.6 + 5.7 16.6 + 7.3
+
+AE-Q20L 66.2+18.7 59.94 19.2
+
+Activity scores at baseline (Mean + SD)
+
+UAS7 26.5 + 8.2 27.9487
+
+AAS 22.54 206 28.1 + 24.1
+
+SD, standard deviation.
+
+estimated probability for the first angioedema event (within
+91 days of follow-up) was 0.650, whereas it was 0.844 in the
+placebo group (Figure 82).
+
+The ratios of small, medium and large swelling attacks
+were similar in both groups before treatment, with 63.2%
+and 50.8% small swellings (<10 cm), 23.4% and 30.5%
+medium swellings (10-20 cm) and 8.2% and 14.2% large
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+
+Effect of omalizumab on angioedema
+
+swellings (20 cm) in the omalizumab and placebo group,
+respectively. During the last 4 weeks of treatment, this distribution had virtually not changed in the placebo group,
+whereas no medium or large swellings occurred in the
+omalizumab-treated group (Fig. 4).
+
+Omalizumab significantly reduced AAS scores as early as
+4 weeks after the start of treatment (baseline) and over the
+entire treatment period compared with placebo (P < 0.001;
+Fig. 5A). At week 28, the mean change from baseline in
+AAS scores was —20.6 (+21.5) for omalizumab and —10.8
+(+£21.3) for placebo (P = 0.036; 95% CI, —18.9, —0.7). Omalizumab was significantly superior to placebo in reducing the
+UAS7 total score over 28 weeks of treatment (Fig. 5B). At
+week 28, the mean change from baseline of UAS7 was —16.8
+(+14.8) for the omalizumab group and —6.5 (+£13.4) for the
+placebo group (Diff. = 10.3; 95% CI -16.2, —3.9;
+P = 0.002). By the end of weeks 12 and 28, the number of
+patients showing complete response (UAS7 = 0) was higher
+in the omalizumab group (week 12: 18 of 44; week 28: 22 of
+44) than in the placebo group (week 12: 3 of 47; week 28: 5
+of 47).
+
+Patients were analysed for the effects of omalizumab treatment on weekly itch score and weekly wheal score; at week
+12, omalizumab (—8.3 + 7.58) was more effective in reducing
+weekly itch score vs placebo (—2.2 + 8.99). In omalizumab
+group, weekly wheal score was also reduced compared with
+placebo (—8.1 + 9.32 vs —2.1 + 9.43).
+
+Safety
+
+During treatment weeks 1 through 12, 30 (68.2%) of 44
+patients and 34 (72.3%) of 47 patients reported one or more
+AE in the omalizumab and placebo groups, respectively. Six
+patients experienced serious adverse events (SAEs) in the
+study: four (9.1%) in the omalizumab group and two (4.3%)
+in the placebo group. None of the SAEs were suspected to
+be clinically related to the study treatment and no death
+occurred during the study (Table $2). Seven patients (15.9%)
+in the omalizumab group and 17 patients (36.2%) in the placebo group required systemic corticosteroid administration
+during the study.
+
+Discussions
+
+X-ACT is the first study to specifically evaluate omalizumab
+treatment efficacy in patients with CSU whose symptoms of
+angioedema are not controlled by high doses (four times the
+approved dose) of second-generation H,-antihistamines. This
+represents a large subgroup amongst patients with CSU who
+are severely affected, as demonstrated by their CU-Q,oL,
+AE-QoL and DLQI scores. Our findings show that
+omalizumab can statistically improve QoL in this patient
+population.
+
+The frequency of angioedema episodes in our study population at baseline was high and unexpected. Published literature estimates that patients with angioedema comprise up to
+50% of the overall population of patients with CSU (18).
+However, information on the frequency and impact of
+Effect of omalizumab on angioedema
+
+Treatment
+
+Staubach et al.
+
+Follow up
+
+ 
+
+-20
+
+Change in CU-Q,OL score
+
+ 
+
+   
+
+ 
+
+ 
+
+qi
+40 +
+0 4 2 20 36
++ t t t t 4 t 1
+Week |
+
+——®—— Omalizumab ——-O—— Placebo
+
+Figure 2 Change in CU-Qz0L total scores from baseline. CU-QzoL,
+Chronic Urticaria Quality of Life Questionnaire. Arrows. indicate
+omalizumab/placebo administration. The values represented are for
+the full analysis set, using analysis of covariance. Last observation
+
+angioedema in these patients is limited. At the start of the
+study, when patients were asked whether they ‘were afraid of
+a life-threatening swelling episode’, 67% of them replied that
+this was the case ‘occasionally’, ‘often’ or ‘very often’. Of
+more concern was the observation that 49% of the patients
+said they were ‘occasionally’, ‘often’ or ‘very often’ afraid
+that ‘they could suffocate due to a swelling episode’, emphasizing the gravity of disease burden. The disease severity was
+also shown by the mean CU-Q,o0L total score of >50 at
+screening.
+
+Results from the X-ACT study confirm the rapid onset
+of action and efficacy of omalizumab 300 mg in CSU
+patients (also in angioedema affected patients), similar to
+previous findings from clinical studies (10, 11) as well as
+real-life survey (20). In the phase III study, GLACIAL,
+CU-Q,oL was an exploratory endpoint and the scores were
+only available for a subset of patients (11); at week 12,
+the difference in change from baseline between omalizumab
+300 mg (—29.3) and placebo (—16.3) was —13.4. In comparison, the difference at week 12 between omalizumab
+300 mg (—34.2) and placebo (—12.5) was —22.2 in the XACT study. Both the results were statistically significant,
+favouring omalizumab.
+
+There was a significant improvement in AE-QoL with omalizumab, again from week 4 onwards, consistent with DLQI
+scores. Improvements in the DLQI scores in our study population were also consistent with that in the ASTERIA and GLACIAL studies (10-12). Now, with the results of the X-ACT
+study, it may be interesting to look at these different populations and probe more into the disease expression in CSU.
+
+Angioedema imparts a serious burden on the QoL of CSU
+patients. Previous studies have shown the positive effect of
+omalizumab in reducing the number of angioedema-burdened
+
+carried forward (LOCF) was used for missing values. ancova model:
+variable = baseline, centre, treatment. * indicates P < 0.05 (95% Cl
+at week 28 = —30.9, —12.1).
+
+days, measured as ‘angioedema-free days’ (10, 11). In the XACT study, this was measured as angioedema-burdened
+days, and hence, a direct comparison between the studies
+becomes difficult. In the X-ACT study, we also measured the
+time to recurrence of angioedema episodes as this is an
+important aspect of determining the QoL with any treatment.
+The estimated probability of recurrence of angioedema episodes with placebo was faster than with omalizumab
+(< 5 days vs 57-63 days). These results are in alignment with
+the results of other secondary endpoints. It is also of clinical
+significance to note the reduction in the size of the angioedema swelling with omalizumab, even when an event
+occurred, suggesting this as an additional parameter in evaluating efficacy in clinical studies. X-ACT study showed that
+the omalizumab 300 mg treatment not only changes the
+number of angioedema attacks, but also reduces the swelling
+size and episodes in these second-generation H,-antihistamine
+refractory patients.
+
+In earlier studies, the decrease in severity of CSU directly
+correlates with the improvement in QoL; a similar correlation
+was observed between CSU disease severity and QoL
+improvement in our study. The improvement in AAS scores
+with omalizumab was twofold when compared with placebo,
+and the improvement in UAS7 scores in the omalizumab
+group (—16.8 points) at week 28 was close to 3 times that of
+the placebo group (—6.5 points). The mean change from
+baseline UAS7 score in our study seems to be slightly less,
+comparable to the results of the ASTERIA I (—20.8 at week
+12) (12), ASTERIA II (—21.7 at week 12) (10) and GLACIAL (—19.0 at week 12)!! studies. However, when the placebo response is also considered together with actual UAS7,
+the results seem to be comparable. In the GLACIAL study,
+the UAS7 at week 12 with omalizumab was —19.0 (baseline,
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Staubach et al.
+
+Effect of omalizumab on angioedema
+
+ 
+
+ 
+
+ 
+
+ 
+
+x Treatment ; Follow up
+4] 7
+x 1
+1
+ti 1
+B44 | | ®
+2 ® d 1
+os a 1
+3 y & & 1
+3 1
+o f: q@)
+& 2 q B : (
+z D a D %
+5 ) ey . . D
+a y 4 p
+E Ts! Ll
+3!
+3 \
+:
+04 !
+2-1 1 4 8 12 20 24 2B 32 36
+t t t t t
+Week \
+1
+——®— Omalizumab ——©—— Placebo y
+B 100
+
+ 
+
+ 
+
+a
+i)
+
+Patients (in%)
+Ree
+ooo l6c8
+
+3
+
+Treatment
+
+  
+    
+      
+
+—— Placebo
+—— Omalizmmab
+
+Follow-up
+
+ 
+
+ 
+
+0
+0 28 56 84 112
+Numbers at Risk:
+Placebo 47 2 2 z 2
+Omalizumab 44 12 11 10 10
+
+Figure 3 (A) Number of angioedema-burdened days over time.
+Arrows indicate omalizumab/placebo administration. Arithmetic
+means are displayed. Imputation means that if for five or six days
+angioedema burden was assessed, no angioedema was assumed
+for days where an angioedema burden assessment was missing.
+
+31.2) and that of placebo was —8.5 (baseline, 30.2), which
+was similar to that in the X-ACT study at week 12 with
+omalizumab at —16.4 (baseline, 26.5) and with placebo at
+—4.4 (baseline, 27.9).
+
+The event pattern and the intensity of the AEs reported in
+the omalizumab group are in line with its established safety
+profile and do not indicate any new concerns or undue safety
+risks with omalizumab in the treatment of patients with CSU
+and frequent angioedema episodes who remain symptomatic
+despite high doses of H,-antihistamines.
+
+Our study had limitations. This study was conducted in a
+specific population of CSU patients suffering from angioe
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+
+ 
+
+140 168 196 224 252 280
+Days
+
+2 2 2 1 1 0
+
+10 10 9 6 3 0
+
+(B) Time to first angioedema episode: Kaplan-Meier estimates.
+Kaplan-Meier graph demonstrates the probability of incidence of
+time to first angioedema episode at each time point. Over the 28week period, more patients with omalizumab did not experience
+the incidence of angioedema.
+
+dema episodes, and the typical itchy hive symptoms. Therefore, for the existing but small patient population presenting
+only with angioedema (without hives), no valuable data could
+be generated. The sample size of 91 patients could be considered small (only 33 and 26 patients in the omalizumab and placebo groups completed the study), although this was
+adequately powered for the planned statistical analyses.
+Because this was the first study that specifically looked at treatment efficacy in the population of patients with angioedema
+(refractory to high doses of H,-antihistamines), interpretation
+of these results may form the basis for future studies in the so
+far hardly described ‘angioedema only’ subpopulation.
+Effect of omalizumab on angioedema
+
+End of treatment
+(wee k 25 to 28)
+
+Screen ing
+(wee k-2 to-1)
+
+Omalizumab Omalizumab
+
+Staubach et al.
+
+End of follow up
+(wee k 33 to 36)
+
+Omalizumab
+
+HE,
+
+46 (14.2%)
+oo Foy
+°
+
+>20cm
+
+Size of individual swelling episode
+<10cm_ 10-20 cm
+
+12 (5.2%)
+
+unknown
+
+Total episodes
+
+ 
+
+8 (5.5%) 19 (10.3%)
+
+31 (100.0%)
+
+Figure 4 Size of angioedema before, during and after omalizumab study treatment. Number of acute swelling episodes with the respective
+
+event documented, relative to the number of acute swelling episodes.
+
+The X-ACT study demonstrated omalizumab to be an
+effective treatment option for patients with moderate-tosevere CSU symptoms and angioedema burden who remain
+symptomatic despite high doses of H,-antihistamines. There
+was a rapid reduction in the number of angioedema-burdened days and in the size of involved areas. The time to first
+recurrence of angioedema was prolonged with omalizumab,
+corresponding to a significant improvement in the QoL. The
+results of the X-ACT study may pave the way to further
+investigate QoL in CSU patients with wheals and angioedema, as well as to explore treatment options to better
+manage this population.
+
+Acknowledgments
+
+We thank all the patients and investigators and clinical staff
+who participated in the study. We also thank Ajithkumar
+Vasudevan and Vibhuti Singh (Novartis Healthcare Pvt Ltd)
+for editorial assistance.
+
+Funding
+The study was funded by Novartis Pharma GmbH, Germany.
+
+Conflict of interest
+
+Nadine Rothe-Chapman, Matthias Braéutigam, Christian Sieder and Janice Canvin are employees of the study sponsor
+Novartis Pharma GmbH, Germany. Petra Staubach has
+
+received grants, personal fees and nonfinancial support from
+Novartis GmbH Germany. Martin Metz received honoraria as
+a speaker for Bayer Pharma, Dr. R. Pfleger, Essex Pharma,
+Merckle Recordati, Merck, Moxie, Novartis, LEO, Sanofi,
+Shire, UCB and Uriach. Marcus Maurer has received research
+funding and/or fees for consulting and/or lectures from Genentech, GSK, Faes Moxie, Novartis, MSD, UCB und Uriach.
+
+Author contributions
+
+All authors had a part in the study design and conduct of
+the study. Marcus Maurer was the principal investigator.
+Data analysis was performed by the sponsor. All authors
+were involved in the interpretation of the data for this manuscript and had full access to the data. The corresponding
+author had the full responsibility for deciding to submit the
+manuscript.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article:
+
+Figure S1 Time course of mean CU-Q;0L score up to week
+36.
+
+Figure S2 Kaplan—Meier estimates of time-to-first recurrence of angioedema episode (during follow-up period).
+
+Table S1 Duration of treatment and number of injections
+administered during the study (Safety Set)
+
+Table S2 Adverse events
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Staubach et al. Effect of omalizumab on angioedema
+
+A Treatment Follow up
+
+ 
+
+Score
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
++
+2-1 1 4 8 12 16 20 24 28 32 36
+t t t t t t \
+1
+Week ;
+——®— Omalizumab ——-O—— Placebo
+B Treatment i Follow up
+35 '
+1
+1
+1
+25 '
+20
+ro)
+a
+3 15
+n
+10
+] 1
+By) '
+1
+1
+1
+0 i
++
+2-1 1 4 8 12 16 20 24 28 32 36
+1
+t t t t t 1
+Week ‘
+——®— Omalizumab ——©@—— Placebo
+Figure 5 (A) AAS mean weekly scores. (B) Change in UAS7 total the last AAS week sum score assessed prior to Diary Week 1. Zero
+scores from baseline. AAS, Angioedema Activity Score; UAS, Urti- was imputed for missing AAS day sum scores. Last observation carcaria Activity Score. Values represent observed cases. Baseline was ried forward (LOCF) was used to calculate missing values for UAS7.
+References
+1. Maurer M, Weller K, Bindsley-Jensen C, 2. Greaves M. Chronic urticaria. J Allergy Clin tres-results of an expert survey. J Eur Acad
+Giménez-Arnau A, Bousquet PJ, Bousquet Immunol 2000;105:664-672. Dermatol Venereol 2013:27:e8-16.
+J et al. Unmet clinical needs in chronic 3. Weller K, Krause K, Ardelean E, Bréutigam 4. Staubach P, Eckhardt-Henn A, Dechene M,
+spontaneous urticaria. A GA?LEN task M, Maurer M. Selected urticaria patients Vonend A, Metz M, Mager! M et al. Quality
+force report. Allergy 2011;66:317-330. benefit from a referral to tertiary care cen- of life in patients with chronic urticaria is
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+Effect of omalizumab on angioedema
+
+10.
+
+differentially impaired and determined by
+psychiatric comorbidity. Br J Dermatol
+
+2006;154:294-298. IL.
+. Picardi A, Abeni D, Melchi CF, Puddu P,
+
+Pasquini P. Psychiatric morbidity in dermatological outpatients: an issue to be recognized. Br J Dermatol 2000;143:983-991.
+
+. Silvares MR, Fortes MR, Miot AH. Quality
+
+  
+
+of life in chronic urticari
+public university outpatient clinic, Botucatu
+(Brazil). Rev Assoc Med Bras 2011;57:5T7—
+582.
+
+. Zuberbier T, Aberer W, Asero R. The
+
+EAACI/GA(2) LEN/EDF/WAO Guideline
+for the definition, classification, diagnosis,
+and management of urticaria: the 2013 revi
+sion and update. Allergy 2014;69:868-887. 13,
+. McCormack PL. Omalizumab: a review of
+
+its use in patients with chronic spontaneous
+urticaria. Drugs 2014;74:1693-1699.
+
+. Saini S, Rosén KE, Hsieh HJ, Wong DA,
+
+Conner E, Kaplan A et al. A randomized,
+
+placebo-controlled, dose-ranging study of 14.
+
+single-dose omalizumab in patients with H,antihistamine-refractory chronic idiopathic
+urticaria. J Allergy Clin Immunol
+2011;128:567-573.
+
+Maurer M, Rosén KE, Hsieh HJ, Saini S,
+
+Grattan C, Gimenéz-Arnau A et al. Omal- 15.
+
+izumab for the treatment of chronic idio
+a survey ata 12;
+
+pathic or spontaneous urticaria. N Engl
+
+J Med 2013;368:924-935.
+
+Kaplan A, Ledford D, Ashby M, Canvin J,
+Zazzali JL, Conner E et al. Omalizumab in
+patients with symptomatic chronic idiopathi
+
+ 
+
+spontaneous urticaria despite standard combination therapy. J Allergy Clin
+Immunol 2013;132:101-109.
+
+Saini SS, Bindslev-Jensen C, Maurer M,
+Grob JJ, Biilbiil Baskan E, Bradley MS
+
+et al. Efficacy and safety of omalizumab in
+patients with chronic idiopathic/spontaneous
+urticaria who remain symptomatic on H,antihistamines: a randomized, placebo-controlled study. J Invest Dermatol
+2015;135:925.
+
+Maurer M, Altrichter S, Bieber T, Biedermann T, Briutigam M, Seyfried $ et al. Effiy and safety of omalizumab in patients
+with chronic urticaria who exhibit IgE
+
+ 
+
+against thyroperoxidase. J Allergy Clin
+Immunol 2011;128:202-209.
+
+Mlynek A, Magerl M, Hanna M, Lhachimi
+S, Baiardini 1, Canonica GW et al. The German version of the chronic urticaria qualityof-life questionnaire: factor analysis, validation, and initial clinical findings. Allergy
+2009:64:927-936.
+Baiardini I, Braido F, Bindsley-Jensen C,
+
+ 
+
+Bousquet PJ, Brzoza Z, Canonica GW et al.
+
+20.
+
+Staubach et al.
+
+Recommendations for assessing patientreported outcomes and health-related quality
+of life in patients with urticaria: a GA(2)
+LEN taskforce position paper. Allergy
+2011;66:840-844.
+
+. Weller K, Groffik A, Magerl M, Tohme N,
+
+Martus P, Krause K et al. Development and
+construct validation of the angioedema quality of life questionnaire. Allergy
+2012;67:1289-1298.
+
+. Finlay AY, Khan GK. Dermatology Life
+
+Quality Index (DLQI)-a
+measure for routine clinical use. Clin Exp
+Dermatol 1994;19:210-216.
+
+simple practical
+
+ 
+
+. Weller K, Groffik A, Magerl M, Tohme N,
+
+Martus P, Krause K et al. Development, validation, and initial results of the angioedema
+activity score. Allergy 2013;68:1185-1192.
+
+. Mlynek A, Zalewska-Janowska A, Martus P,
+
+Staubach P, Zuberbier T, Maurer M. How to
+assess disease activity in patients with chronic
+urticaria? Allergy 2008;63:777-780.
+Biiyiik6ztiirk S, Gelincik A, Demirtiirk M,
+Kocaturk E, Colakoglu B, Dal M. Omalizumab markedly improves urticaria activity
+scores and quality of life scores in
+
+chronic spontaneous urticarial patients: a
+real life survey. J Dermatol
+2012;39:439-442.
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+

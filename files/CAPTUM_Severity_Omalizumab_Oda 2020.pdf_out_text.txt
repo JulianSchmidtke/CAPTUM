@@ -1,0 +1,1732 @@
+Original Article
+
+Improved FceRI-Mediated CD203c Basophil
+Responsiveness Reflects Rapid Responses to
+Omalizumab in Chronic Spontaneous Urticaria
+
+Yoshiko Oda, MD, Atsushi Fukunaga, MD, PhD, Ken Washio, MD, PhD, Shinya Imamura, MD, Mayuko Mizuno, MD,
+Mayumi Hatakeyama, MD, PhD, Kanako Ogura, MD, PhD, and Chikako Nishigori, MD, PhD Kobe, Japan
+
+What is already known about this topic? Basophil functional abnormalities such as the low-responsiveness of basophils
+via high-affinity IgE receptor (FceRI) were reported in chronic spontaneous urticaria. Moreover, several studies reported
+increased FceRI-mediated histamine release after omalizumab treatment.
+
+What does this article add to our knowledge? Improvement of attenuated basophil responsiveness via FceRI stimu
+lation in chronic spontaneous urticaria is associated with rapid clinical effectiveness, and the mechanism of action of
+omalizumab might be due to improved responsiveness of newly circulating basophils.
+
+How does this study impact current management guidelines? Changes in basophil responsiveness via FceRI stimulation in some patients with chronic spontaneous urticaria before and after omalizumab treatment suggest the importance
+of basophil status as an action point of omalizumab treatment.
+
+ 
+
+BACKGROUND: Omalizumab is effective in patients with
+chronic spontaneous urticaria (CSU) although its mechanism of
+action is poorly understood. Several studies reported that
+decreased high-affinity IgE receptor (FceRI)-mediated histamine
+release and/or responsiveness was characteristic of basophils in
+patients with CSU. However, few studies have focused on the
+relationship between changes in basophil responsiveness via
+FceRI after omalizumab treatment and the therapeutic effect in
+patients with CSU.
+
+OBJECTIVE: To assess basophil responsiveness via FceRI
+stimulation, as well as FceRI expression and IgE binding on
+blood basophils from patients with CSU before and after
+omalizumab treatment and its possible association with the
+clinical response.
+
+METHODS: We analyzed 34 patients with CSU treated with
+omalizumab who were categorized as fast responders (FRs)
+
+(n = 20) and non or slow responders (N/SRs) (n = 14).
+
+Division of Dermatology, Department of Internal Related, Kobe University Graduate
+School of Medicine, Kobe, Japan
+
+This work was supported in part by a Grant-in-Aid for Scientific Research (C) and a
+Grant-in-Aid for Young Scientists (B) (ISPS KAKENHI Grant Numbers
+20K08651 and 16K19722) from the Ministry of Education, Culture, Sports,
+Science, and Technology, Japan (to AF and KW).
+
+Conflicts of interest: The authors declare that they have no relevant conflicts of
+interest.
+
+Received for publication February 4, 2020; revised July 30, 2020; accepted for
+publication August 20, 2020.
+
+Available online iil
+
+Corresponding author: Atsushi Fukunaga, MD, PhD, Division of Dermatology,
+Department of Internal Related, Kobe University Graduate School of Medicine, 75-1 Kusunoki-cho, Chuo-ku, Kobe 650-0017, Japan, E-mail: atsushi@med
+kobe
+
+ 
+
+.ac.jp.
+
+2213-2198
+© 2020 American Academy of Allergy, Asthma & Immunology
+https://doi.org/10.1016/j.jaip.2020.08.048
+
+CD203c expression induced by FceRI stimulation, and IgE and
+FceRI expressions on blood basophils from patients with CSU
+before and after omalizumab treatment were analyzed. Basophil
+responsiveness via FceRI stimulation was observed in vitro using
+basophils pretreated with omalizumab.
+
+RESULTS: FRs had increased CD203c responsiveness after
+treatment with omalizumab compared with N/SRs. This
+improvement of basophil responsiveness via FceRI stimulation
+in FRs was not observed in peripheral blood basophils
+preincubated with omalizumab in vitro, suggesting that
+omalizumab does not directly affect circulating pre-existing
+abnormal basophils.
+
+CONCLUSION: Increased basophil responsiveness via FceRI
+after omalizumab treatment is associated with the therapeutic
+effect and mechanism of action of omalizumab. © 2020
+American Academy of Allergy, Asthma & Immunology (J Allergy
+Clin Immunol Pract 2020;m:m-m)
+
+Key words: Chronic spontaneous urticaria; Omalizumab;
+
+CD203c; Basophil activation test
+
+Chronic spontaneous urticaria (CSU) is characterized by the
+spontaneous appearance of wheals, angioedema, or both for more
+than 6 weeks and is associated with known (autoreactivity) or
+unknown causes.’ Although the pathophysiology of CSU is
+unclear, basophils have been increasingly recognized as having
+critical roles and some investigators have described an association
+between disease pathophysiology and basophil function and
+number in CSU.
+
+Several reports documented that circulating basophils from
+patients with CSU released less histamine than healthy controls
+(HCs) when stimulated with anti-IgE antibody or anti—highaffinity IgE receptor (FceRI) antibody.” Furthermore, reduced
+CD63 expression on basophils after anti-FceRI stimulation was
+
+1
+2 ODA ETAL
+
+Abbreviations used
+ASST- Autologous Serum Skin Test
+CSU- Chronic spontaneous urticaria
+DLQI- Dermatology Life Quality Index
+EDTA- Ethylenediaminetetraacetic acid
+FceRI- High-affinity IgE receptor
+FR- Fast responder
+GR- Good responder
+HC- Healthy control
+MFI- Mean fluorescence intensity
+N/PR- Non or partial responder
+N/SR- Non or slow responder
+PBS- Phosphate-buffered saline
+Syk- Spleen tyrosine kinase
+UAS7- 7-day Urticaria Activity Score
+UAS- Urticaria Activity Score
+UCT- Urticaria Control Test
+
+reported in a subgroup of patients with CSU compared with HC
+basophils.° In our previous study,” basophils from patients with
+CSU had attenuated upregulation of the activation marker
+CD203c against IgE and FceRI antibodies compared with
+basophils from HCs, and the attenuated basophil responsiveness
+in patients with CSU was associated with the severity of disease
+and a relatively shorter disease duration. In addition, Huang
+et al® reported that basophil nonresponders (<10% of total
+histamine release to IgE) and basopenics (histamine concentrations <5 ng/mL blood leukocytes) have more severe, but shorter
+disease compared with responders.
+
+Patients with CSU have unique features related to basophil
+number as well as basophil function and responsiveness in the
+circulating blood. Rorsman’ first described a reduction of peripheral blood basophils in patients with CSU. Subsequently,
+basopenia was reported to be correlated with urticaria
+activity. ‘11 Purthermore, basophils were reported to be present
+in skin lesions of urticaria at levels higher than in nonlesion
+skin.'” These findings suggest that basopenia may reflect the
+recruitment of basophils to skin tissues. Although basophil
+migration was investigated in previous studies,'°'* the recruitment pathway remains unknown.
+
+Omalizumab is a recombinant humanized anti-IgE monoclonal antibody that selectively binds to the C3 domain of IgE,
+thereby blocking the binding of IgE to high-affinity receptors on
+effector cells and inhibiting IgE-mediated cellular responses.'”
+Omalizumab has been approved for use in patients with CSU
+who remain symptomatic despite H1 antihistamine treatment.
+Although omalizumab binds to free IgE, which lowers free IgE
+levels and causes FceRI receptors on basophils and mast cells to
+be internalized and degraded, the mechanism of action in CSU is
+not understood completely.'°’'” Several reports demonstrated
+changes in basophil number and function after treatment with
+omalizumab. Furthermore, the numbers of circulating blood
+basophils increased after omalizumab treatment’ ® in parallel with
+clinical improvement.'””?° With respect to basophil function,
+Gericke et al'® reported increased anti—IgE-induced histamine
+release from blood basophils of patients with CSU treated with
+omalizumab compared with baseline value. In contrast, it was
+reported that CD63-based basophil “releasability” by IL-3
+coincubation after stimulation with anti-IgE antibody was
+
+ 
+
+ 
+
+ 
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+decreased after omalizumab treatment compared with baseline
+values.*!
+
+Many reports have described pretreatment biomarkers to
+predict the efficacy of omalizumab in CSU. Palacios et al’?
+reported a lack of basophil CD203c upregulation in serum,
+which might reflect a lack of autoantibodies to IgE and/or FceRI
+but which correlated with a higher clinical response. Similarly,
+Deza et al” showed that a higher rate of positive Autologous
+Serum Skin Test (ASST) was associated with insufficient therapeutic effect. Gericke et al’ showed that a positive basophil
+histamine release assay or ASST as an indicator of serum
+autoreactivity was predictive of a slow response to treatment with
+omalizumab. In addition, baseline levels of basophil FceRI
+expression were significantly lower in nonresponders to
+omalizumab~’ and higher in fast responders (FRs) than in slow
+responders.’ Omalizumab responsiveness was also predicted by
+total serum IgE levels*® and changes in total serum IgE levels.””
+Furthermore, Altrichter et al?° observed that reduced serum IL31 was associated with omalizumab responses. However, few
+studies have focused on the relationship between baseline and/or
+altered basophil responsiveness via FceRI, as well as IgE and
+FceRI expression on basophils and the omalizumab therapeutic
+effect in patients with CSU.
+
+Therefore, the current study analyzed the expression of
+CD203c via FceRI stimulation, as well as IgE and FceRI
+expression on basophils from patients with CSU before and after
+omalizumab treatment and its possible association with the
+clinical response. Moreover, we examined these parameters as a
+potential predictor of responses to omalizumab therapy. In
+addition, we performed an in vitro study using FR basophils
+pretreated with omalizumab whether omalizumab could affect
+basophil reactivity in short-term incubation.
+
+ 
+
+MATERIAL AND METHODS
+Study population
+
+Thirty-four patients with CSU who remained symptomatic
+despite H1-antihistamines (even up to 2 times the recommended
+dose in Japan) and who were treated with omalizumab were enrolled
+at the Dermatological Institute of Kobe University Hospital. CSU
+was defined as recurrent wheals occurring for more than 6 weeks
+without an identifiable cause. Omalizumab 300 mg was injected
+
+ 
+
+subcutaneously at least 3 times at 4-week intervals. Clinical variables
+were evaluated using the Urticaria Control Test (UCT), which is an
+outcome instrument to retrospectively assess urticaria control with a
+recommended cutoff value of 12 for controlled disease.”? It was
+reported that the UCT has a strong correlation with the Dermatology Life Quality Index (DLQI)”? and 7-day Urticaria Activity
+Score (UAS7).°' UCT scores were measured at day 0, and on weeks
+4, 8, and 12 of treatment (ie, before the Ist, 2nd, 3rd, and 4th
+injections). Patients were categorized into FRs (n = 20) and non or
+slow responders (N/SRs) (n = 14) (Figure El, available in this
+article’s Online Repository at www.jaci-inpractice.org) (Table 1)
+based. on the following criteria: FRs with UCT scores >12 up on
+week 4 (Figure E2, A, available in this article’s Online Repository at
+www.jaci-inpractice.org); and N/SRs with UCT scores <12 up on
+week 4 (Figure E2, B, available in this article’s Online Repository at
+www.jaci-inpractice.org). UAS7 could be measured in some patients,
+
+ 
+
+and the data are presented in Figure E2, C and D (available in this
+article’s Online Repository at www.jaci-inpractice.org). In addition,
+we classified patients into good responders (GRs) (n = 26) and non
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+ODAETAL 3
+
+TABLE I. Demographic characteristics based on the rapid therapeutic effect of omalizumab
+
+Fast responders (n = 20)
+
+Age (y) 44.9444
+Female, n (%) 12 (63.1%)
+Disease duration (y) 2 (0.2-33)
+Total IgE (IU/mL) 126 (22.9-2535)
+Basophil counts (/\tL) 18.3 (0-118)
+
+ASST positive rate, n (%) 3/9 (33.3%)
+
+UCT 6.1428
+UAST 22.9 +21
+DLQI 7.0 (2-24)
+
+Non or slow responders (n = 14) P value
+
+$2.7 + 5.0. 29
+
+9 (64.2%) >.99
+
+3 (0.2-25) 83
+185 (3-4393) 89
+23 (0-98) Al
+4/6 (66.6%) 31
+5 E27. 54
+21.7434 16
+7.0 (2-17) -80
+
+ASST, Autologous Serum Skin Test; DLQI, Dermatology Life Quality Index; SD, standard deviation; UAS7, 7-day Urticaria Activity Score; UCT, Urticaria Control Test.
+Data are given as the mean + SD for age, UCT, and UAST; n (%) for sex, ASST positive rate; median (range) for disease duration, serum total IgE, basophil counts, and DLQI.
+Statistical differences between 2 groups were analyzed by the unpaired t-test for age, UCT, and UAS7; Fisher’s exact test for female and ASST positive rate; and the Mann
+Whitney U-test for disease duration, serum total IgE, basophil counts, and DLQI.
+
+or partial responders (N/PRs) (n = 7) based on UCT scores on week
+12 after treatment of omalizumab (Figure El and Table E1, available
+in this article’s Online Repository at www.jaci-inpractice.org): GRs
+with UCT scores >12 up on week 12 and N/PRs with UCT scores
+<12 on week 12. One patient followed up a clinical course up to 4
+weeks but could not follow up until 12 weeks. Therefore, this
+patient was excluded from the GRs versus N/PRs dataset. All study
+participants provided oral consent for this study after verbal and
+written explanations.
+
+Basophil activation test
+
+Whole blood was taken just before the first and second omalizumab administration using blood collection tubes containing ethylenediaminetetraacetic acid (EDTA), and assays were performed
+within 24 hours of blood sampling. The Allergenicity Kit (Beckman
+Coulter, Fullerton, CA) was modified and used for the quantification of basophil CD203c expression as previously described.” Basophils were stimulated with anti-IgE antibody (clone: E124-2-8D)
+(0.1 pg/mL) (Beckman Coulter), VioBlue-conjugated anti-IgE
+antibody (clone: MB10-5C4) (1.1 [ig/mL) (Miltenyi Biotec, Bergisch Gladbach, Germany), or biotinylated anti-FceRI antibody
+(clone: CRA1) (16 [lg/mL) (BioAcademia, Osaka, Japan). Basophils
+incubated with phosphate-buffered saline (PBS) were used as a
+negative control.
+
+Briefly, blood was stained with reagents consisting of CRTH2FITC, CD203c-PE, and CD3-PC7 to identify basophils, and
+
+were then mixed with the respective stimulant or PBS at 37°C for 15
+
+ 
+
+minutes. Biotinylated antibodies against CRA1 were then coupled
+with APC streptavidin (BD, Franklin Lakes, NJ) at 4°C for 30
+minutes. Erythrocytes were lysed, and after washing twice with PBS,
+cells were resuspended in 0.3 mL PBS 0.1% formaldehyde and
+evaluated 500 basophils by flow cytometry (FACS verse; BD
+Biosciences, San Jose, CA).
+
+Flow cytometry results were analyzed by FlowJo software
+(FlowJo, LLC, Ashland, OR). Results of antibody stimulation were
+expressed as a proportion of CD203c!"" basophils. The roportion
+of CD203c* basophils was determined using a threshold defined
+
+as the expression level above which only 5% of basophils in the
+
+ 
+
+negative control sample fluoresced.’* Changes in basophil responsiveness via FceRI stimulation after omalizumab treatment compared
+with before treatment were calculated as follows. The after/before
+treatment ratio of basophil CD203c responsiveness was defined as
+
+CD203c"8" basophil (%) stimulated with each antibody after
+
+ 
+
+treatment/CD203ci#" basophil (%) stimulated with each antibody
+before treatment.
+
+Measurement of IgE and FceRI levels on basophils
+Basophils were incubated with VioBlue-conjugated anti-IgE
+antibody (clone: MB10-5C4; Miltenyi Biotec) and biotinylated antiFceRI antibody (clone: CRA1; BioAcademia) and analyzed by flow
+cytometry using the same method as for IgE and FceRI levels on
+basophils and FlowJo analysis using the same method as for basophil
+activation after anti-lgE or CRA1 antibody stimulation. IgE and
+FceRI levels were evaluated as the mean fluorescence intensity
+(MFI). Changes in IgE and FceRI levels on basophils after omalizumab treatment compared with before treatment were calculated as
+follows: AIgE expression (AFceRI expression): IgE levels (FceRI
+
+levels) on basophils before treatment — after treatment.
+
+In vitro study using basophils pretreated with
+omalizumab
+
+Whole blood obtained from 2 patients with CSU before omalizumab administration using blood collection tubes containing
+EDTA was incubated for 1, 12, or 24 hours at room temperature
+with 30 [g/mL omalizumab (Novartis Pharma, Tokyo, Japan).*?
+Samples with/without omalizumab preincubation were measured
+for CD203c expression after stimulation with anti-IgE antibody
+(clone: E124-2-8D, MB10-5C4). Results of antibody stimulation
+were expressed as the proportion of CD203c"8" basophils and IgE
+
+ 
+
+levels on basophils were expressed as the MFI, and sequential
+changes were investigated.
+
+Serum total IgE levels and basophil counts
+
+Serum total IgE measured by the IgEradioimmunosorbent test. Numbers of blood basophils (/[1L) were
+assessed by an automated analyzer in the laboratory of the Kobe
+University Graduate School of Medicine.
+
+Changes in total serum IgE levels and basophil counts on baso
+levels were
+
+phils after omalizumab treatment compared with before treatment
+were calculated as follows: Atotal serum IgE (Abasophil counts):
+total serum levels (basophil counts) after treatment — before
+treatment.
+
+Statistical analysis
+
+The nonparametric Mann-Whitney U-test, unpaired ¢-test, and
+Fischer’s exact test were used to assess differences between GRs and
+N/PRs. The Kruskal-Wallis result with the Dunn test was used for
+
+comparing 3 groups of nonparametric variables.
+
+ 
+
+To assess
+4 ODAETAL
+
+Anti-IgE antibody (E124-2-8D) stimulation
+100: __p=82
+
+bh D w
+6 3 &
+
+CD203cti#* basophil (%)
+8
+
+ 
+
+Anti-FceRI antibody (CRA1) stimulation
+
+ia p=.25
+H| ° .
+5 ee .
+2 ® oe Lt
+a 4 °, .
+s e .
+& , 7
+8 —+.— .
+
+ 
+
+FIGURE 1. Comparison of the baseline proportion of CD203c"9"
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+Anti-IgE antibody (MB10-5C4) stimulation
+100: — p= 65
+
+ba ww
+Ss 6 &
+
+CD203chish basophil (%)
+eS
+8
+
+ 
+
+basophils between fast responders and non or slow responders. A, Anti
+
+IgE antibody (E124-2-8D) stimulation. B, Anti IgE antibody (MB10-5C4) stimulation. C, Anti-FceRI antibody (CRA1) stimulation.
+Statistical analyses were performed using the Mann-Whitney U-test. FceR/, High-affinity IgE receptor.
+
+correlations between 2 factors, adjusted 7, (Spearman’s rank correlation coefficient) values were calculated. All statistical analyses were
+carried out using GraphPad Prism 7 (GraphPad Software, San
+Diego, CA). Two-sided P values <.05 were considered statistically
+significant.
+
+RESULTS
+Study population
+
+Patients with CSU were categorized into 2 subgroups based
+on UCT scores 4 weeks after omalizumab treatment. Twenty of
+34 patients (58.8%) who achieved significant clinical improvement (UCT scores >12) were classified as FRs and the remaining
+14 (41.1%) who did not achieve significant clinical improvement
+(UCT scores <12) were classified as N/SRs (Figure E1, available
+in this article’s Online Repository at www.jaci-inpractice.org).
+The baseline clinical characteristics of these subgroups are
+described in Table I. They exhibited no significant differences
+regarding sex, age, disease duration, serum IgE levels, and
+basophil counts. In addition, there were no significant differences
+regarding the ASST positive rate in contrast to a previous
+study.** There were no differences among the 2 groups with
+respect to the baseline UCT, UAS7, or DLQI score. In addition,
+although we divided patients with CSU into GRs and N/PRs
+based on UCT scores on week 12 after treatment of omalizumab,
+
+ 
+
+there were no differences in serum IgE and ASST when
+comparing GRs and N/PRs (Table E1, available in this article’s
+Online Repository at www.jaci-inpractice.org). However, it was
+noted that 1 patient among N/PRs did not have data of total
+serum IgE before treatment and the patient was excluded from
+the GRs versus N/PRs dataset (Table E1, available in this article’s
+Online Repository at www.jaci-inpractice.org).
+Baseline FceRI
+stimulation
+Although several studies described biomarkers for therapeutic
+responses to omalizumab,””?*"°"* few studies have focused on
+basophil responsiveness via FceRI as a predictor of the thera
+basophil responsiveness via
+
+peutic response to omalizumab. Therefore, we analyzed the
+baseline expression of the activation marker CD203c with or
+without anti-IgE and/or FceRI stimulation in patients with CSU.
+The expression of CD203c on peripheral blood basophils from
+patients with CSU in the steady state without anti-IgE and/or
+FceRI stimulation was similar between FRs and N/SRs
+(Figure E3, available in this article’s Online Repository at www.
+jaci-inpractice.org). There were no differences in the percentage
+of CD203chish basophils stimulated with anti-IgE (E124-2-8D,
+MB-105C4) and FceRI (CRA1) antibody between groups
+(Figure 1). Thus, basophil responsiveness via FceRI stimuli did
+not predict the treatment response with omalizumab.
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+Anti-IgE antibody (E124-2-8D) stimulation
+p=.02
+
+64
+
+   
+ 
+
+after/before treatment ratio
+of basophil reactivity
+
+2
+
+pe
+64 eee
+32; .
+16
+
+after/before treatment ratio
+of basophil reactivity
+yh &
+
+P
+oe
+
+ 
+
+ODAETAL 5
+
+Anti-IgE antibody (MB10-5C4) stimulation
+p=.05
+
+after/before treatment ratio
+
+ 
+
+FIGURE 2. Comparison of the after/before treatment ratio of basophil CD203c responsiveness between fast responders and non or slow
+responders. A, Anti IgE antibody (E124-2-8D) stimulation. B, Anti IgE antibody (MB10-5C4) stimulation. C, Anti-FceRI antibody (CRA1)
+stimulation. The dotted line indicates no change (value = 1). Statistical analyses were performed using the Mann-Whitney U-test. FceR/,
+
+High-affinity IgE receptor.
+
+Furthermore, we classified patients with CSU into 2 groups
+based on the baseline proportion CD203cM" basophils after
+anti-IgE stimulation as in the previous report” (14 nonresponders
+[<10% CD203ch8" basophil] and 20 responders [>10%
+CD203chie" basophil]) (Figure E4, available in this article’s
+Online Repository at www.jaci-inpractice.org). However, there
+were no differences in fast or good effectiveness of omalizumab
+between nonresponders and responders.
+
+Improvement in basophil responsiveness via FceRI
+stimulation after omalizumab treatment
+
+It was previously demonstrated that blood basophil histamine
+release tended to increase with anti-IgE stimulation after
+omalizumab treatment compared with baseline.'® In this study,
+we compared CD203c responsiveness of basophils via FceRI
+stimulation with anti-IgE and FceRI antibody before and after
+omalizumab treatment. The percentage of CD203ch8* basophils
+stimulated with any antibody increased in many FRs but not in
+most N/SRs (Figure E5 and Table E2, available in this article’s
+Online Repository at www.jaci-inpractice.org). Therefore, we
+compared the after/before treatment ratio of basophil CD203c
+responsiveness via FceRI between FRs and N/SRs. When peripheral blood basophils were stimulated with 3 types of antibody, the after/before treatment ratio was significantly higher in
+FRs than in N/SRs (Figure 2; Figure E5, available in this article’s
+
+ 
+
+Online Repository at www.jaci-inpractice.org). Furthermore, the
+after/before ratio was around 1.5 to 2.0 for the anti-IgE antibody
+in FRs, but around 4 for the anti-FceRI antibody (Figure 2).
+These data suggest that omalizumab improved basophil responsiveness via FceRI in FRs but not in N/SRs and that the
+improvement effect was associated with the rapid therapeutic
+response of omalizumab. However, it was needed to note that
+FRs included a group with improved basophil responsiveness and
+a group with no improvement, and N/SRs included some patients with improved basophil responsiveness (Figure E5, available in this articles Online Repository at www.jaci-inpractice.
+org).
+
+Baseline IgE and FceRI levels of basophils
+
+Previous reports showed that the treatment effect of omalizumab may be predicted by serum IgE levels.°°*” We previously
+reported that serum IgE levels were strongly correlated with IgE
+or FceRI expression on basophils from patients with CSU’ and
+the correlations were also observed in overall participants of this
+study (Figure E6, available in this article’s Online Repository at
+www.jaci-inpractice.org). Therefore, we investigated whether
+baseline basophil IgE expression was associated with the therapeutic response. No significant difference in IgE and FceRI
+(CRA1) expression between FRs and N/SRs was observed
+(Figure 3, A and B). However, when patients with CSU were
+6 ODA ETAL
+
+IgE expression
+p= 46
+
+ 
+
+IgE expression
+p=.05
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+FceRI (CRA1) expression
+p=.74
+
+ 
+
+FceRI (CRA1) expression
+2000 pase
+
+ 
+
+D
+
+FIGURE 3. Comparison of baseline IgE and FceRI on basophils (MFI) between fast responders and non or slow responders (A, B) or good
+responders and non or partial responders (C, D). A, C, IgE expression. B, D, FceRI expression (CRA1). Statistical analyses were performed
+using the unpaired t-test (A, C) or the Mann-Whitney U-test (B, D). FceR/, High-affinity IgE receptor; MFI, mean fluorescence intensity.
+
+categorized into GRs and N/PRs using the UCT score 12 weeks
+after omalizumab treatment, IgE expression on basophils from
+GRs was higher than that from N/PRs, whereas there was no
+difference in serum IgE between GRs and N/PRs (Figure 3, G
+Table El, available in this article’s Online Repository at www.
+jaci-inpractice.org). However, it was noted that 1 patient
+among N/PRs did not have data of total serum IgE before
+treatment and the patient was excluded from the GRs versus N/
+PRs dataset (Table El, available in this article’s Online
+Repository at www.jaci-inpractice.org). In addition, there was no
+difference in FceRI (CRA1) expression between GRs and N/PRs
+(Figure 3, D).
+
+Changes in IgE and FceRI levels on basophils after
+omalizumab treatment
+
+It is widely accepted that omalizumab neutralizes free IgE and
+subsequently suppresses FceRI and surface IgE expression on
+circulating basophils.'’ Deza et al” reported that patients
+exhibiting significant clinical improvement had a marked
+reduction in the levels of basophil FceRI after 4 weeks. On the
+basis of these findings, we evaluated the association between
+changes in basophil FceRI and IgE levels after omalizumab
+treatment and the therapeutic effect. AlgE expression (IgE levels
+on basophils before treatment — after treatment) was not
+
+different between FRs and N/SRs (Figure 4, A). In contrast to a
+previous report, > there was no difference in AFceRI (CRA1)
+expression between the 2 groups (Figure 4, B). However, AlgE
+expression was higher in GRs than N/PRs (Figure 4, C), whereas
+there was no difference in AFceRI (CRA1) expression between
+the 2 groups (Figure 4, D). These data indicate a more efficient
+inhibition of IgE binding on basophils in GRs than in N/PRs
+after omalizumab administration.
+
+Changes in serum total IgE levels and basophil
+counts
+
+Low serum IgE levels that increased after the start of
+omalizumab treatment were associated with insufficient clinical
+responses.” In addition, Saini et al!’ showed that improved
+basopenia was associated with reduced clinical symptoms. Thus,
+we evaluated the potential association between changes in serum
+IgE levels and circulating basophil counts in the blood after
+treatment with omalizumab and the therapeutic effect. When
+patients with CSU were categorized into FRs and N/SRs, no
+differences in Aserum total IgE and Abasophil counts were
+observed between the groups (Figure 5, A and B). When patients
+with CSU were categorized into GRs and N/PRs, Aserum total
+IgE and Abasophil counts just tended to be higher with no
+significant difference (Figure 5, C and D). However, 3 patients
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+AIgE expression
+(Reduction of IgE expression on basophils)
+
+p=.28
+
+ 
+
+AlgE expression
+(Reduction of IgE expression on basophils)
+
+ODAETAL 7
+
+AFceRI (CRA1) expression
+(Reduction of FceRI expression on basophils)
+
+ 
+
+AFceRI (CRA1) expression
+(Reduction of FceRI expression on basophils)
+
+ 
+
+FIGURE 4. Comparison of changes in IgE or FceRI levels on basophils (MFI) between fast responders and non or slow responders (A, B) or
+good responders and non or partial responders (C, D). A, C, AlgE expression. B, D, AFceRI expression. Statistical analyses were performed
+using the unpaired t-test (A, C) or the Mann-Whitney U-test (B, D). FceR/, High-affinity IgE receptor; MF/, mean fluorescence intensity.
+
+among N/PRs did not have data of total serum IgE and basophil
+count either before or after treatment, and these patients were
+excluded from the GRs versus N/PRs dataset (Figure 5, C and
+D). Therefore, the number of samples in Figure 5, Cand D, was
+not sufficient for statistical analyses, and if more samples were
+added, significant differences could be detected as previously
+reported,'7°°°7
+
+Different effects of omalizumab on_ basophil
+responsiveness via FceRI stimulation in vivo and
+in vitro
+
+Finally, we investigated whether the responsiveness of basophils via FceRI improved before omalizumab administration by
+incubating basophils from patients with CSU with omalizumab
+in vitro to clarify the mechanism of action of omalizumab.
+Increased basophil responsiveness via FceRI after in vivo
+omalizumab treatment was observed for cells isolated from the 2
+FRs used in this study (Figure 6, A and B). However, improved
+basophil responsiveness via FceRI stimulation was not observed
+at any time despite pretreatment with omalizumab in vitro
+(Figure 6, C and D). These data suggest that pre-existing
+circulating basophils that exhibited low responsiveness via
+FceRI before omalizumab administration did not have improved
+function after in vitro omalizumab treatment.
+
+DISCUSSION
+
+Basophils have unique features and play a critical role in CSU.
+It was reported that basophils from patients with CSU released
+less histamine and/or exhibited low responsiveness when stimulated via FceRI compared with basophils from HCs.*’ We
+recently reported that the low responsiveness of basophils via
+FceRI reflected severe disease activity in CSU.” In addition to the
+functional abnormalities of basophils, basopenia was correlated
+with disease activity in CSU''! and the cutaneous lesion
+recruitment of basophils in CSU. Although omalizumab was
+effective in most patients with CSU who remained symptomatic
+despite H1 antihistamine treatment, its mechanism of action in
+CSU is poorly understood. In the current study, we focused on
+basophils as a predictive marker of the clinical effectiveness of
+omalizumab and as a component of the mechanism of action of
+omalizumab. We classified and compared patients with CSU into
+2 groups, FRs and N/SRs or GRs and N/PRs, based on the
+clinical efficacy of omalizumab 4 or 12 weeks after treatment
+with omalizumab.
+
+First, we focused on baseline parameters before omalizumab
+treatment as a pretreatment predictive marker of the clinical
+effectiveness of omalizumab. Baseline CD203c responsiveness
+after stimulation with anti-IgE and FceRI antibodies was not a
+useful pretreatment predictive marker, which is similar for the
+
+ 
+8 ODAETAL
+
+Atotal serum IgE
+(Increase of total serum IgE)
+p= 30
+800:
+600 .
+
+400:
+
+ 
+
+Atotal serum IgE
+(Increase of total serum IgE)
+
+p=.13
+800:
+
+  
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+Abasophil counts
+(Increase of circulating basophil counts)
+150: = 39
+100:
+
+50:
+
+ 
+
+Abasophil counts
+(Increase of circulating basophil counts)
+s p=.14
+101 °
+
+ 
+
+FIGURE 5. Comparison of changes in total serum IgE levels and circulating basophil counts between fast responders and non or slow
+responders (A, B) or good responders and non or partial responders (C, D). A, C, Atotal serum IgE; increase of total serum IgE. B, D,
+Abasophil counts; increase of circulating basophil counts. The dotted line indicates no change. Statistical analyses were performed using
+the Mann-Whitney U-test (A) or the unpaired ¢-test (B). Three patients among N/PRs did not have data of total serum IgE and basophil
+count either before or after treatment, and these patients were excluded from the GRs vs N/PRs dataset (C, D). GR, Good responder; N/
+
+PR, non or partial responder.
+
+CD63-based report from Alizadeh Aghdam et al“ (Figure 1).
+However, baseline IgE expression on basophils from GRs before
+omalizumab treatment was higher than that in basophils from N/
+PRs (Figure 3, C). This difference was not observed between FRs
+and N/SRs (Figure 3, A). These observations suggested that
+higher IgE expression on basophils might predict a significant
+therapeutic effect 12 weeks after omalizumab treatment, even if
+
+the therapeutic effect was insufficient 4 weeks after treatment. In
+
+contrast to previous reports, there were no differences in
+baseline FceRI expression on basophils between FRs and N/SRs
+before omalizumab treatment (Figure 3, B). This difference may
+be related to differences in the definition of treatment response.
+In addition, a good predictor of N/PRs was found on surface IgE
+(Figure 3, C), but not serum IgE (Table El, available in this
+article’s Online Repository at www.jaci-inpractice.org). Howeyer, serum IgE strongly correlated with surface IgE on basophils
+(Figure E6, available in this article’s Online Repository at www.
+jaci-inpractice.org). The difference of results between the
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+a « ,.26,27
+previous studies that serum IgE was a good baseline
+
+predictor of omalizumab treatment efficacy and this study may
+be dependent on the small number of samples in this study.
+Next, we investigated changes in basophil parameters and IgE
+after omalizumab treatment to determine their contribution to
+the mechanism of action of omalizumab in CSU. Regarding
+changes in basophil parameters, the after/before treatment ratios
+of basophil responsiveness (CD203c response) were significantly
+higher in FRs compared with N/SRs (Figure 2), suggesting that
+the improvement of low responsiveness in circulating basophils
+via FceRI was related to the rapid therapeutic effect of omalizumab. In addition, the after/before ratio was around 1.5 to 2.0
+for the anti-IgE antibody in FRs, but around 4 for the anti-FceRI
+antibody. It has been reported that during treatment with
+omalizumab, spleen tyrosine kinase (Syk) expression increases in
+peripheral blood basophils, offsetting the functional effects
+mediated by the drug-induced reduction in cell surface density of
+FceRI and its bound IgE.*” Basophils that recovered functionally
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+UCT
+
+—® PatientA
+
+  
+
+Patient B
+
+>
+s s
+se SS
+RS &
+Roa SS
+é g
+s gS
+é ¥
+
+Anti-IgE (E124-2-8D) stimulation
+
+—® Patient A
+gl +@ Patient B
+0:
+
+S
+
+ 
+
+ODAETAL 9
+
+Anti-IgE (E124-2-8D) stimulation
+
+100: —© Patient A
+
+  
+  
+
+-@- Patient B
+
+ 
+
+80
+
+60
+
+40
+
+20:
+
+CD203chis" basophil(%)
+
+Anti-IgE (MB10-5C4) stimulation
+
+> Patient A
+sm Patient B
+
+Rae s
+So oF
+
+€D203chs" basophil(%)
+sa
+
+ 
+
+FIGURE 6. Sequential changes in the parameters of /n vivo omalizumab treatment (on 4 weeks of treatment) (A, B) and jn vitro
+pretreatment basophils with omalizumab in fast responders (C, D). A, Urticaria Control Test (UCT). B, C, CD203c"" basophils (%)
+stimulated with anti-IgE antibody (E124-2-8D). D, CD203c"'9" basophils (%) stimulated with anti-IgE antibody (MB10-5C4).
+
+after omalizumab treatment might promote Syk signal more
+strongly when stimulated with anti-FceRI than when stimulated
+with anti-IgE.
+
+CD203c upregulation after anti-IgE stimulation was demonstrated to be earlier than CD63 upregulation. *° In addition, Ebo
+et al’ mentioned that upregulation of CD203c does not per se
+indicate histamine release and CD203c is not a degranulation
+marker like CD63. Thus, increased CD203c response to the IgE
+concentration after treatment of omalizumab observed in the
+current study does not mean an increase in histamine release.
+Alizadeh Aghdam et al” reported that when CD63 expression
+on basophils was used as a biomarker in the omalizumab
+responder, a significant increase after stimulation of the anti-IgE
+antibody was observed in nonresponders after omalizumab
+treatment, contrary to no increase in responders. This difference
+from our study might be due to differences in the markers between CD203c and CD63 or to the definition of responder and
+nonresponder. Indeed, Alizadeh Aghdam et al’ evaluated disease
+activity in 6 months. Contrary, we evaluate the effectiveness in 1
+month and 3 months.
+
+The reduction of IgE expression on basophils 4 weeks after
+omalizumab treatment was larger in GRs compared with N/
+PRs (Figure 4, C). Regarding the changes in serum IgE,
+increased serum IgE levels 4 weeks after omalizumab treatment
+tended to be higher in GRs than in N/PRs (Figure 5, C). These
+differences were not observed between FRs and N/SRs
+(Figures 4, A, and 5, A). Based on these results related to IgE,
+
+the larger reduction of IgE expression on basophils and the
+higher increase of serum IgE levels 4 weeks after omalizumab
+treatment suggested that good clinical responses were achieved
+12 weeks after omalizumab treatment, even if they were not
+achieved 4 weeks after treatment. Moreover, these data imply
+that omalizumab efficiently inhibited the binding of IgE to
+basophils by binding to free serum IgE in GRs compared with
+N/PRs, which was the cause of the increase in apparent serum
+IgE levels in GRs.
+
+Whether this improvement of basophil responsiveness by
+omalizumab treatment acts directly on low responsive circulating
+basophils before omalizumab treatment is an important issue
+related to the mechanism of action of omalizumab in CSU.
+Finally, we investigated whether omalizumab acted directly on
+circulating basophils in FRs before treatment in vitro. An
+improvement of basophil responsiveness via FceRI stimulation
+was not observed at any time despite im vitro omalizumab
+treatment (Figure 6, Cand D). These data indicate that in FRs,
+the functions of pre-existing basophils that exhibited low
+responsiveness via FceRI stimulation before omalizumab
+treatment could not be improved. In contrast, iv vivo treatment
+with omalizumab in these cases improved basophil responsiveness via FceRI stimulation and induced a rapid and good clinical
+response (Figure 6, A and B). These differences between in vitro
+and in vivo omalizumab treatment suggest that newly circulating
+basophils, possibly from skin tissue or bone marrow, maintained
+normal function in the blood under the state of low IgE binding
+
+ 
+10 ODAETAL
+
+to their surface by the efficient formation of an immune complex
+with omalizumab and serum IgE. Indeed, it was reported that the
+life span of mature basophils is approximately 60 to 70 hours.*®
+A recent review proposed that basophils in patients with CSU are
+mildly activated, persistently release a small amount of histamine,
+and are involved in the earliest stages of the cascade of CSU
+pathogenesis.”
+
+This study includes limitations about grouping. The main
+focus of this study was to observe differences in basophil
+responsiveness between FRs and other groups (N/SRs) at 4
+weeks after treatment. However, because we considered that
+the comparison of FRs and N/SRs alone was not enough to
+evaluate scientific fairly, we added the comparison data of GRs
+and N/PRs using another classification method. It would be
+ideal if the NRs could be independent for comparison, but the
+number of NRs is overwhelmingly small as in the existing reports and larger-scale research is needed for this comparison. In
+addition, we used only 1 concentration antibody to stimulate
+the basophils and might have missed a curve shift of basophil
+reactivity.
+
+In summary, improvement of attenuated basophil responsiveness via FceRI stimulation in patients with CSU was
+associated with the rapid clinical effectiveness of omalizumab.
+However, further research is needed to elucidate the role of
+basophils in the mechanism of action of omalizumab in CSU.
+Although this study had some limitations, including a small
+number of cases, it highlights the importance of basophil status
+as an action point of omalizumab in CSU.
+
+Acknowledgments
+We thank Edanz Group (www.edanzediting.com/ac) for
+editing a draft of this manuscript.
+
+REFERENCES
+
+1, Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACIGA*LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy 2018;73:1393-414.
+
+2. Greaves MW, Plummer VM, McLaughlan P, Stanworth DR. Serum and cell
+bound IgE in chronic urticaria. Clin Allergy 1974;4:265.
+
+3. Kern F, Lichtenstein LM. Defective histamine release in chronic urticaria. J Clin
+Invest 1976;57:1369-77.
+
+4, Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes in chronic idiopathic urticaria in relation to disease activity and autoantibodies, J Invest Dermatol 2008;128:1956-63.
+
+5, Vonakis BM, Vasagar K, Gibbons SP Jr, Gober L, Sterba PM, Chang H, et al.
+Basophil FcepsilonRI histamine release parallels expression of Src-homology 2containing inositol phosphatases in chronic idiopathic urticaria. J Allergy Clin
+Immunol 2007;119:441-8.
+
+6, Rauber MM, Pickert J, Holiangu L, Mébs C, Pfiitzner W. Functional and
+phenotypic analysis of basophils allows determining distinct subtypes in patients
+with chronic urticaria. Allergy 2017;72:1904-11.
+
+7. Oda Y, Fukunaga A, Washio K, Imamura S, Hatakeyama M, Ogura K, et al.
+Low responsiveness of basophils via FcepsilonRI reflects disease activity in
+
+ 
+
+ 
+
+chronic spontaneous urticaria, J Allergy Clin Immunol Pract 201957:
+2835-2844.e7.
+
+8. Huang AH, Chichester KL, Saini SS, Association of basophil parameters with
+disease severity and duration in chronic spontaneous urticaria (CSU). J Allergy
+Clin Immunol Pract 2020;8:793-795.c6.
+
+9. Rorsman H, Basophilic leucopenia in different forms of urticaria, Acta Allergol
+1962;17:168-84.
+
+10. Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in chronic
+ordinary urticaria and healthy controls: diurnal variation, influence of loratadine
+and prednisolone and relationship to disease activity. Clin Exp Allergy 2003;33:
+337-41.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27:
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+. Oliver ET, Sterba PM, Saini SS. Interval shifts in basophil measures correlate
+
+ 
+
+with disease activity in chronic spontaneous urticaria. Allergy 2015;70:601-3.
+
+. Kay AB, Ying S, Ardelean E, Mlynek A, Kita H, Clark P, et al. Elevations
+
+in vascular markers and eosinophils in chronic spontaneous urticarial weals
+with low-level persistence in uninvolved skin. Br J Dermatol 2014;171:
+505-11.
+
+. Oliver ET, Sterba PM, Devine K, Vonakis BM, Saini SS. Altered expression of
+
+chemoattractant receptor-homologous molecule expressed on T(H)2 cells on
+blood basophils and eosinophils in patients with chronic spontaneous urticaria,
+J Allergy Clin Immunol 2016;137:304-306.e1.
+
+. Nakashima C, Otsuka A, Kabashima K. Recent advancement in the mechanism
+
+of basophil activation. J Dermatol Sci 2018;91:3-8.
+
+. Easthope S, Jarvis B, Omalizumab. Drugs 2001:61:253-60.
+. MacGlashan D Jr, Xia HZ, Schwartz LB, Gong J. IgE-regulated loss, not IgE
+regulated synthesis, controls expression of FeepsilonRI in human basophils.
+J Leukoc Biol 2001;70:207-18.
+
+. Kaplan AP, Giménez-Arnau AM, Saini SS. Mechanisms of action that
+
+contribute to efficacy of omalizumab in chronic spontaneous urticaria. Allergy
+2017;72:519-33.
+
+. Gericke J, Ohanyan T, Church MK, Maurer M, Metz M. Omalizumab may not
+
+inhibit mast cell and basophil activation in vitro. J Eur Acad Dermatol Venereol
+2015;29:1832-6.
+
+Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosén K, Sterba PM, et al.
+Effect of omalizumab on blood basophil counts in patients with chronic
+idiopathic/spontaneous urticaria. J Invest Dermatol 2017;137:958-61.
+Kishimoto I, Kambe N, Ly NTM, Nguyen CTH, Okamoto H. Basophil count is
+a sensitive marker for clinical progression in a chronic spontaneous urticaria
+patient treated with omalizumab. Allergol Int 2019;68:388-90.
+
+Jérg L, Pecaric-Petkovic T, Reichenbach S, Coslovsky M, Stalder O,
+Pichler W, et al. Double-blind placebo-controlled trial of the effect of omalizumab on basophils in chronic urticaria patients. Clin Exp Allergy 2018:48:
+196-204.
+
+Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203cupregulating activity as an immunological marker to predict response to
+treatment with omalizumab in patients with symptomatic chronic urticaria.
+J Allergy Clin Immunol Pract 2016;4:529-30.
+
+Deza G, Bertolin-Colilla M, Pujol RM, Curto-Barredo L, Soto D, Garcia M,
+et al. Basophil FceRI expression in chronic spontaneous urticaria: a potential
+immunological predictor of response to omalizumab therapy. Acta Dermato
+Venereologica 2017;97:698-704.
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum
+autoreactivity predicts time to response to omalizumab therapy in chronic
+spontaneous urticaria. J Allergy Clin Immunol 2017;139:1059-1061.e1.
+
+Deza G, Bertolin-Colilla M, Sanchez S, Soto D, Pujol RM, Gimeno R, et al.
+Basophil FceRI expression is linked to time to omalizumab response in chronic
+spontaneous urticaria. J Allergy Clin Immunol 2018;141:2313-2316.el.
+Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L, et al. Serum
+IgE as an immunological marker to predict response to omalizumab treatment
+in symptomatic chronic urticaria. J Allergy Clin Immunol Pract 2018:6:
+1386-1388.e1.
+
+Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical response to
+omalizumab in chronic spontaneous urticaria patients is linked to and predicted
+by IgE levels and their change. Allergy 2018;73:705-12.
+
+Altrichter S, Hawro T, Hiinel K, Czaja K, Liischer B, Maurer M, et al. Successful omalizumab treatment in chronic spontaneous urticaria is associated with
+lowering of serum IL-31 levels. J Eur Acad Dermatol Venereol 2016;30:454-5.
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol 2014;133:
+1365-1372.e6.
+
+Ttakura A, Tani Y, Kaneko N, Hide M. Impact of chronic urticaria on quality of
+life and work in Japan: results of a real-world study. J Dermatol 2018;45:
+963-70.
+
+Nakatani S, Oda Y, Washio K, Fukunaga A, Nishigori C. The Urticaria Control
+Test and Urticaria Activity Score correlate with quality of life in adult Japanese
+patients with chronic spontaneous urticaria. Allergol Int 2018;68:279-81.
+
+De Week AL, Sanz ML, Gamboa PM, Aberer W, Bienvenu J, Blanca M, et al.
+Diagnostic tests based on human basophils: more potentials and perspectives
+than pitfalls. I]. Technical issues. J Investig Allergol Clin Immunol 2008;18:
+143-55.
+
+U.S. Food and Drug Administration. Omalizumab clinical pharmacologic
+review. Available from: http://www.fda.gov/downloads/Drugs/Development
+
+ 
+
+ 
+
+ 
+
+   
+TICLE IN PRESS
+
+J ALLERGY CLIN IMMUNOL PRACT.
+VOLUME i, NUMBER
+
+34.
+
+35.
+
+36.
+
+ApprovalProcess/DevelopmentResources/UCM393855.pdf. Accessed March
+5, 2020.
+
+Alizadeh Aghdam M, Knol EF, van den Elzen M, den Hartog Jager C, van OsMedendorp H, Knulst AC, et al. Response of FceRIL-bearing leucocytes to
+omalizumab in chronic spontaneous urticaria. Clin Exp Allergy 2020;50:
+364-71.
+
+MacGlashan DW Jr, Saini SS. Syk expression and IgE-mediated histamine
+release in basophils as biomarkers for predicting the clinical efficacy of
+omalizumab, J Allergy Clin Immunol 2017;139:1680-2.
+
+Hennersdorf F, Florian S, Jakob A, Baumgirtner K, Sonneck K, Nordheim A,
+et al. Identification of CD13, CD107a, and CD164 as novel basophilactivation
+
+37.
+
+38.
+
+39.
+
+ODAETAL 11
+
+markers and dissection of two response patterns in time kinetics of IgEdependent upregulation, Cell Res 2005;15:325-35.
+
+Ebo DG, Bridis CH, Mertens CH, Hagendorens MM, Stevens WJ, De
+Clerck LS. Analyzing histamine release by flow cytometry (HistaFlow): a novel
+instrument to study the degranulation patterns of basophils. J Immunol Methods
+2012:375:30-8.
+
+Siracusa MC, Comeau MR, Artis D. New insights into basophil biology:
+initiators, regulators, and effectors of type 2 inflammation. Ann NY Acad Sci
+2011;1217:166-77.
+
+Yanase Y, Takahagi S, Hide M. Chronic spontaneous urticaria and the extrinsic
+coagulation system. Allergol Int 2018;67:191-4.
+11.e1 ODA ET AL J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+ONLINE REPOSITORY
+
+Omalizumab
+Ist injection 2nd injection 3rd injection 4th injection
+(0 day) (4 weeks) (8 weeks) (12 weeks)
+
+ 
+
+vy ys.
+UCT - UCT | y
+
+UCT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(before injection) (before injection) (before injection) (before injection)
+> 12 <2
+Fast Non or slow
+responders responders
+Omalizumab
+Ist injection 2nd injection 3rd injection 4th injection
+y yy
+| | »
+UCT UCT UCT UCT
+>12 <12
+Good Non or partial
+responders responders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE E1. Definition of each responder to treatment. Fast responders: UCT scores > 12 increased at week 4. Non or slow responders:
+UCT scores < 12 increased at week 4. Good responders: UCT scores > 12 increased at week 12. Non or partial responders: UCT scores
+< 12 increased at week 12. UCT, Urticaria Control Test.
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+  
+
+ODA ET AL
+
+Fast responders Non or slow responders
+16:
+14
+7
+g b
+o
+- i=)
+s s
+Ss Ss
+oe &
+7 ~
+a &
+s ss
+¥ ba
+A B
+Fast responders Non or slow responders
+42
+42:
+36"
+36
+30"
+30:
+B 24
+<2 a
+© ae 5 1s
+12: 12
+6 6
+0 0:
+S S
+s s & x
+$ x s
+s NS Ry i
+& Ro < s
+og & 5S ns
+C ¢ S DB (e
+
+11.e2
+
+FIGURE E2. Changes in Urticaria Control Test scores (UCT) and Urticaria Activity Score 7 (UAS7). A, C, Fast responders. B, D, Non or
+
+slow responders. The dotted line indicates the cutoff value of 12.
+11.e3  ODAETAL
+
+CD203c expression (without stimulation)
+
+ 
+
+FIGURE E3. Comparison of basophil CD203c expression in the
+steady state without anti-lgE and/or FceRI stimulation (MFI)
+between fast responders and non or slow responders. Statistical
+analysis was performed using the unpaired t-test. FceR/, Highaffinity IgE receptor; MF/, mean fluorescence intensity.
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+J ALLERGY CLIN IMMUNOL PRACT ODA ETAL
+
+VOLUME Mf, NUMBER
+
+Patients with CSU
+(n= 34)
+
+ 
+
+Baseline basophil responsiveness to anti-IgE
+
+ 
+
+ 
+
+ 
+    
+ 
+  
+ 
+   
+    
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+< 10% = 10%
+Non-responders Responders
+(n=14) (n=20)
+One month after
+omalizumab treatment
+UCT 2 12 UCT <12 UCT = 12 UCT <12
+
+ 
+
+     
+  
+     
+    
+   
+      
+       
+ 
+ 
+ 
+  
+
+ 
+    
+  
+
+_ Non or slow
+
+   
+    
+  
+
+ 
+  
+  
+    
+  
+
+Fast : Non or slow _ Fast
+responders _Tesponders _ responders a responders :
+(a= 7) (ne) (n= 13) (0-7) 
+ 
+
+Three months after
+omalizumab treatment
+
+UCT = 12 UCT <12 UCT = 12 UCT < 12
+
+ 
+
+   
+ 
+
+   
+ 
+
+Non or Good Non or
+partial
+responders
+(n=4)
+
+Good
+responders
+(n=10)
+
+oe responders
+(n=16)
+
+ 
+
+ 
+
+11.64
+
+FIGURE E4. The response to treatment by classifying responders and nonresponders on baseline basophil reactivity. Nonresponders:
+<10% CD203c"%" basophil to anti-IgE stimulation. Responders: >10% CD203c"%" basophil to anti-IgE stimulation. CSU, Chronic
+
+spontaneous urticaria, UCT, Urticaria Control Test.
+11.e5 ODA ETAL J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+ 
+
+Fast responders Non or slow responders
+10 Anti-IgE antibody (E124-2-8D) stimulation ‘on Anti-IgE antibody (E124-2-8D) stimulation
+= = 80
+= =
+$
+i go
+& a
+2 4 0
+Ss 3
+a a 20:
+is) 8
+0:
+- =
+s s
+a e
+5 Ss
+A Be e
+Fast responders. Non or slow responders
+Anti-IgE antibody (MB10-5C4)) stimulation 100. Anti-IgE antibody (MB10-5C4)) stimulation
+S =
+& = 80
+2 2
+= Z 60
+5
+Fs 3
+2 % 40
+Fe
+3 e
+sg qQ
+S
+a B 20
+1S)
+0
+s s
+ee ee
+& eS
+i Rs
+$< a
+Cc D ss SS
+
+ 
+
+Non or slow responders
+Fast responders too Anti-FceRI antibody (CRA1) stimulation
+Anti-FceRI antibody (CRA1) stimulation
+
+100: SI
+= 80
+= 80 a
+a 2 60
+F| S
+& 60 4
+Z 2, 40:
+4 3
+Z° :
+20
+Z 2 5
+a
+1S} % 0
+s 5
+s ES & &
+& & - s
+s s & &
+& < of s
+a Roy ss r
+E § . F Ro Y
+
+FIGURE E5. Changes in CD203c"" basophils before and after treatment with omalizumab in fast responders (A, C, E) and non or slow
+responders (B, D, F). A, B, Anti-lgE antibody (E124-2-8D) stimulation. C, D, Anti-IlgE antibody (MB10-5C4) stimulation. E, F, Anti-FceRI
+antibody (CRA1) stimulation. FceR/, High-affinity IgE receptor.
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+5000 7
+«3004 . 1,= 0.64
+P<.001
+
+1000:
+
+serum total IgE (IU/ml)
+B
+iJ
+e
+
+wn
+=
+J
+
+ 
+
+0 5000 10000 15000 20000
+IgE expression
+
+1)
+Py
+nr
+Ss
+—)
+
+5000 r= 0.62
+Ss
+| 2 P<.001
+
+500:
+
+&
+
+5 2000
+
+|
+
+=» 1500 e
+2
+
+= 1000
+
+g
+
+=
+
+g
+
+ 
+
+0 5000 10000
+B FceRI (CRA1) expression
+
+FIGURE E6. Correlation of serum total IgE (IU/mL) and basophil
+IgE expression as mean fluorescence intensity in patients with
+chronic spontaneous urticaria. A, Basophil IgE expression. B,
+Basophil CRA1 receptor expression. Statistical analyses were
+performed using Spearman’s rank correlation coefficient.
+
+ODA ET AL
+
+11.06
+11.e7) ODAETAL
+
+TABLE E1. Demographic characteristics based on the good therapeutic effect of omalizumab
+
+Age (y)
+Female, n (%)
+Disease duration (y)
+Total IgE (U/mL)
+Basophil counts (/\tL)
+ASST positive rate, n (%)
+UCT
+UAST7
+DLQI
+
+Good responders (n 26)
+45.3 + 3.6
+18 (69%)
+3 (0.2-33)
+139.5 (22.9-4393)
+18 (0-98)
+5/12 (41%)
+6.12.8
+23.0 + 9.1
+7 (2-24)
+
+Non or partial responders (n
+
+594477
+3 (42%)
+
+4 (0.5-25)
+
+163.2 (3-505)
+28 (0-73)
+2/3 (66%)
+5.5 + 2.0
+
+19.6 + 12.4
+5.5 (2-14)
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2020
+
+P value
+08
+37
+61
+40
+AT
+56
+63
+AS
+ol
+
+ 
+
+ASST, Autologous Serum Skin Test; DLQ/, Dermatology Life Quality Index; GR, good responder; N/PR, non or partial responder; SD, standard deviation; UAS7, 7-day
+Urticaria Activity Score; UCT, Urticaria Control Test.
+Data are given as the mean + SD for age, UCT, and UAST; n (%) for sex, ASST positive rate; median (range) for disease duration, serum total IgE, basophil counts, and DLQI.
+Statistical differences between 2 groups were analyzed by the unpaired t-test for age, UCT, and UAS7; Fisher’s exact test for female and ASST positive rate; and the MannWhitney U-test for disease duration, serum total IgE, basophil counts, and DLQI.
+One patient among N/PRs did not have data of total serum IgE and basophil count before treatment and the patient was excluded from the GRs vs N/PRs dataset.
+J ALLERGY CLIN IMMUNOL PRACT ODAETAL 11.e8
+VOLUME Ml, NUMBER fi
+
+TABLE E2. Basophil responsiveness with stimulation before and after treatment with omalizumab in patients with chronic spontaneous
+urticaria
+
+ 
+
+   
+
+Stimulation (proportion of CD203: basophil)
+E antibody (%) (E124-2-8D) An |E antibody (%) (MB10-5C4) Anti-FceRI antibody (%) (CRA1)
+Total IgE Before After Before After Before After
+N Age Sex (IU/mL) treatment treatment treatment treatment treatment treatment
+Fast responders
+1 37 M 121 9.28 60 5.68 31.3 7.14 69.3
+2 20 F 131 233 7.23 2.14 11.5 3.37 35.9
+3 57 F 148 52.8 79.8 72.2 72.1 32.8 81.6
+4 17 M 111 44.6 34.6 54.3 10.8 49.1 57.9
+5 32 F 73 14.4 88.1 19.2 4L7 15 95.9
+6 49 iE 294 29.7 50.5 514 83.8 36.9 91.5
+7 35 M 216 87.1 94.2 88.1 95.1 70.4 97
+8 40 iE 193 10 95.4 14 93 1.82 94.7
+9 41 F 86.9 1.53 68 1.97 2.1 1.51 89.9
+10 58 iE 371 70 84.5 724 91.7 53.5 92.3
+ll 75 M 22.9 8.03 87.4 713 63.1 3.85 90.2
+12 39 M 17.1 714 72 69.6 78.1 4.99 86.4
+13 75 M 41.9 76.3 73 82.2 67 65.3 94.1
+14 45 in 88.8 5.13 93.9 3.37 86.4 1.43 85.9
+15 74 RF 282 56.3 S24. 37.7 44.3 30.1 45
+16 45 M 347 O17 85.7 O31 87.8 61.6 94.3
+17 21 F 2535 2.67 80.3 5.83 89.6 3.69 96.9
+18 74 in 81.5 26.5 54.1 26.2 25.6 13.2 83.7
+19 20 F n.d. 48.9 82.2 54.3 73.3 47.7 90.6
+20 59 18 n.d. 5.63 93.6 3.17 50 6.52 18.5
+Non or slow responders
+1 2) M n.d. 42 42.6 474 9.11 28.4 723
+2 73 M 265 80.1 88.7 84.9 52; 62.7 91.9
+3° 23) FE 295 34 66.6 45 Ei 39.3 85.3
+4 51 M 505 8.39 4.04 10.3 a7 13.4 11.9
+5 63 FE <5) 4.55 4.16 121 4.64 6.61 4.76
+6 49 M <3 4.35 5.53 11.6 6.86 745 7.26
+7 23) 1p 534 94.1 85.8 85.9 89.2 86.2 91.6
+8* 61 F 80.2 6.38 90.7 9.21 80 7.82 96.3
+o* 36 1p 1518 35 31.8 88 atl 85.6 60.1
+10 42 M 4392 8.37 6.52 27.6 64.1 22.3 54.6
+11l* 68 F 131 791 49.6 6.16 38.5 2.05 69.3
+12* 38 F 185 89.1 76.4 88.7 91.3 72 73.4
+13 54 F 84 0.76 6.25 1.67 8.33 3.28 225
+14 84 F 74 60.8 31.9 56.9 2.78 54.5 51.3
+
+FeeRI, High-affinity IgE receptor; FRs, fast responders (Urticaria Control Test [UCT] scores >12 up to the end of week 4 after starting treatment); N/SRs, non or slow responders (UCT scores <12 up to the end of week 4 after starting treatment).
+
+CD203c expression after antibody stimulation before and after treatment with omalizumab is described as CD203c"*" basophils (%).
+
+*Patients of the 14 N/SRs at 4 week who became good responders at week 12.
+

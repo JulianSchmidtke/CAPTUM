@@ -1,0 +1,1163 @@
+World Allergy Organization Journal 12 (2019) 100009
+
+ 
+
+Contents lists available at ScienceDirect
+
+World Allergy Organization Journal
+
+   
+
+ELSEVIE journal homepage: https://www.sciencedirect.com/journal/wao-journal
+
+ 
+
+Validation of the Turkish version of the Urticaria Control Test: Correlation
+with other tools and comparison between spontaneous and inducible ete)
+chronic urticaria
+
+Emek Kocatiirk®, Utkan Kiziltag*, Pelin Can*, Rabia Oztas Kara > Teoman Erdem °,
+Kiibra Kiziltag*, Nagihan Sahillioglu°, Asli Gelincik‘, Marcus Maurer“, Karsten Weller“
+
+* Okmeydani Training and Research Hospital Department of Dermatology, Istanbul, Turkey
+
+> Sakarya University Education and Research Hospital; Department of Dermatology, Adapazari, Turkey
+
+© Istanbul University Istanbul Faculty of Medicine Department of Internal Medicine Division of Allergy and Immunology, Istanbul, Turkey
+4 Dermatological Allergology, Department of Dermatology and Allergy, Charité — Universitatsmedizin Berlin, Germany
+
+ 
+
+ 
+
+ARTICLEINFO ABSTRACT
+Keywords: Background: The urticaria control test (UCT) is a questionnaire designed to determine if chronic urticaria (CU) is
+Chronic urticaria controlled or not and to aid therapeutic decision-making. It collects retrospective information about the symptoms
+
+Inducible urticaria
+
+and quality of life impairment over the last 4 weeks. The current study aimed to investigate the validity, reliability
+Urticaria control test (UCT)
+
+ee ae i . and sensitivity to change of the Turkish version of the UCT. We also evaluated its correlation with other tools and
+
+Minimal clinically important difference (MCID) . : : an . : :
+
+Reliability compared the ucT results of patients with chronic spontaneous urticaria (CSU) and patients with chronic
+
+Validity inducible urticaria (CINDU).
+
+Quality of life Methods: Following forward/backward translation and cognitive debriefing, the Turkish version of the UCT was
+
+Patient reported outcomes used in 81 CSU and 78 CINDU patients. Dermatology life quality index (DLQI), Chronic urticaria quality of life
+questionnaire (CU-Q2oL), urticaria activity score (UAS), patients' and physicians’ global assessment visual analog
+scores and Likert scales were used at baseline and after four weeks to assess quality of life impairment, disease
+activity and disease control. Statistical analysis to determine the validity and reliability of the Turkish version of
+the UCT as well as comparison between CINDU and CSU patients were performed.
+Results: Duration of disease was longer, disease control was poorer and severe complaints were more frequent in
+CINDU patients (duration of disease: 36.3 (24) + 49.1 vs 31.5 (9) + 67.9, p = .007, UCT baseline: 8.4 (8) + 3.4 vs
+10.4 (11) + 3.9, p = .001 and patient's global assessment Likert scale severe complaints: 6 vs 15, p < .001,
+respectively). The UCT showed excellent internal consistency for CSU and a minimally acceptable consistency for
+CINDU (Cronbach's « 0.89 for CSU versus 0.68 for CINDU). It showed strong correlation with CU-Q2oL but a
+moderate correlation with DLQI (r = —0.649, P < .001 and r = —0.545, P < .001, respectively). It was able to
+discriminate between patients with different disease control and was sensitive to detect changes in the disease
+control in both groups. The minimally important difference of the UCT was found to be 3.
+Conclusions: The Turkish version of the UCT is a valid and reliable tool for the management of CU patients and can
+be used both in CSU and CINDU patients to determine if the treatment is sufficient and if disease activity and
+quality of life impairment are under control or not.
+
+ 
+
+Introduction chronic inducible urticarias (CINDUs) and chronic spontaneous urticaria
+(CSU) depending on whether a specific trigger can be identified or not.’
+
+Chronic urticaria (CU) is a common skin disorder characterized by The clinical signs and symptoms of CU patients are unpredictable and
+recurrent pruritic hives (wheals) and/or angioedema that occur for more show waxing and waning. Thus, the clinical picture of a patient at the
+than 6 weeks affecting up to 1% of the total population. It is classified as time of presentation is only rarely representative of the actual current
+
+* Corresponding author. Okmeydan Egitim Arastirma Hastanesi, Dermatoloji Klinigi Dariilaceze Caddesi, 34800, Sisli, istanbul, Turkey.
+E-mail addresses: dremekozgur@gmail.com (E. Kocatiirk), utkancyp@hotmail.com (U. Kiziltag), pulkumen@gmail.com (P. Can), r.oztas.kara@gmail.com (R. Oztas
+Kara), teomanerdem@gmail.com (T. Erdem), kubracure@gmail.com (K. Kiziltag), nagehantarikci@hotmail.com (N. Sahillioglu), gelincikasli@hotmail.com
+(A. Gelincik), marcus.maurer@charite.de (M. Maurer), karsten.weller@charite.de (K. Weller).
+
+https://doi.org/10.1016/j.waojou.2018.11.007
+Received 21 August 2018; Received in revised form 26 October 2018; Accepted 28 November 2018
+1939-4551/© 2019 Published by Elsevier Inc. on behalf of World Allergy Organization. This is an open access article under the CC BY-NC-ND license (http://
+
+creativecommons.org/licenses/by-ne-nd/4.0/).
+E. Kocatiirk et al.
+
+disease status. This makes it difficult for physicians to estimate patients’
+disease activity and disease burden, and to adjust treatment accordingly.
+
+To overcome this obstacle, several patient-reported outcome (PRO)
+measures have been developed for CU patients in the recent years,
+including the Urticaria Activity Score (UAS),” “ the Angioedema Activity
+Score (AAS),° Chronic Urticaria Quality of Life questionnaire
+(CU-Q2oL),°'° the Angioedema Quality of Life Questionnaire,''!? the
+Urticaria Activity and Impact Measure,'* and the Urticaria Control Test
+(ucT).!* i Among these tools, UCT is the easiest and least
+time-consuming. It was specifically designed to retrospectively assess the
+level of disease control in CU patients and thereby aid to evaluate the
+control of various types of urticaria and decision of treatment change.!“
+In addition, it overcomes some of the limitations of the UAS and AAS.
+First, it is a retrospective instrument that works in all types of physician
+consultations (largely independently of patient compliance). Second, it is
+a tool for all types of chronic urticaria (not only for CSU), and third, it can
+also be used in urticaria patients with recurrent angioedema.
+
+The UCT includes four simple questions that assess the control of
+signs and symptoms of the disease, quality of life (QoL) impairment, efficacy of treatment and overall disease control, over the prior 4 weeks. It
+is completed by the patient and can be evaluated by both the patient and
+the physician. The questions are rated from 0 to 4, and the total score is
+calculated by summing the four individual question scores. The lowest
+UCT score possible is 0 (no control) and the highest score possible is 16
+(complete control). A score of >12 indicates well-controlled urticaria,
+while a score of <11 indicates poor disease control.!4
+
+The current study aimed to investigate the validity, reliability and
+sensitivity to change of the Turkish version of the UCT in both CSU and
+CINDU. We also compared the UCT results of patients with CSU and
+patients with CINDU.
+
+Methods
+Patients
+
+Turkish patients with CU (N = 159, 18-75 years, 67.9% females)
+attending the Urticaria Clinic of the Urticaria Centre of Reference and
+
+Excellence~’ at the Department of Dermatology Okmeydam Training and
+Research Hospital participated in this study. A total of 81 CSU and 78
+
+ 
+
+World Allergy Organization Journal 12 (2019) 100009
+
+CINDU patients were included and the subtypes of CINDU were symptomatic dermographism (56), cholinergic urticaria,’ cold urticaria,°
+aquagenic urticaria’ and mixed CINDU (eg; symptomatic dermographism
+plus cold urticaria in a patient).®
+
+All patients were assessed at three visits in 4-week intervals; baseline,
+1st and 2nd visit. The flow of the study and the questionnaires given are
+shown in Fig. 1. During each visit, the participants received appropriate
+treatment according to their disease activity and control as recommended by the EAACI/ GA2LEN/EDF/WAO guideline.’ The study was
+approved by the ethics committee of Okmeydani Training and Research
+Hospital and it was performed in line with institutional guidelines and
+regulations. Informed consent to be included in the study and consent to
+publish pseudonymized data were taken from the participants.
+
+Translation and linguistic validation of the Turkish UCT version
+
+To obtain a linguistically validated Turkish version of the UCT, a
+structured forward-backward translation was performed. The original
+English version of the UCT was independently translated into Turkish by
+two native Turkish speakers with a command of English language. Then,
+these two Turkish versions were reviewed for comprehensibility by dermatologists specialized in treating urticaria patients (Kocatiirk, Kiziltac,
+Can). After these dermatologists reached consensus, the final Turkish
+version was back-translated into German by two independent bilingual
+translators. The back-translated versions were then reviewed against the
+original by the original authors. Potential misconceptions or misinterpretations introduced in the translation process were discussed between the Turkish research team and the original authors. After consensus
+on the final Turkish version was achieved, the Turkish version of UCT was
+tested in 10 CU patients (cognitive debriefing interviews). Here, it was
+recognized that the patients were incapable of understanding the third
+question of the UCT “How often was the treatment for your urticaria in the
+last 4 weeks not enough to control your urticaria symptoms?” which was
+answered as “very often”, “often”, “sometimes”, “seldom” and “not at all”.
+This was attributed to the reverse nature of the question and then it was
+changed as “How successful was the treatment for your urticaria in controlling your urticaria symptoms in the last 4 weeks?” with the answers
+“not at all”, “a little”, “somewhat”, “well” and “very well”. Subsequently,
+the final Turkish version of UCT was used for this study.
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UASDS — Fig. 1. Study flow. Urticaria Activity Score 28 (UAS28),
+u Chronic Urticaria Quality of Life Questionnaire (CU-Q2oL),
+CUQol (DLAI) CUQol (DLAI) Physician's global assessment-visual analog scale (PhyGA-VAS),
+Patient's global assessment of disease severity-visual analog
+PATGA-VAS PATGA-VAS scale (PatGA-VAS), Patient's global assessment of disease
+severity - Likert scale (PatGA-LS), Physicians global assessment
+PATGA-LS PATGA-LS of disease control Likert-scale (PhyGA-LS), Patient's assessment
+PRVGAAVAS of treatment Response (Pat-ATR), Physician's assessment of
+yon PhyGA-VAS. treatment response (Phy-ATR), Patient's assessment of change
+PhyGA-LS PhyGA-Ls in disease activity (Pat-CDA), Patient's assessment of change in
+quality of life (Pat- CQoL).
+PAT-ATR PAT-ATR
+PHY-ATR PHY-ATR
+PAT-CDA PAT-CDA
+PAT-CQoL PAT-CQoL
+UAS28
+| 4 weeks | 4 weeks |
+Baseline 1st visit 2nd visit
+
+ 
+
+ 
+E. Kocatiirk et al.
+
+Clinical measures
+
+The weekly Urticaria Activity Score (UAS7): The UAS7 is a prospective
+diary-type tool to assess disease activity of CSU patients for one week.” “
+It is based on the once-daily assessment of itch intensity/severity and
+numbers of hives over a period of 7 days. It sums up the number of wheals
+and the intensity of pruritus on a four-point scale (0-3) with a minimum
+and maximum score of 0 and 6 points per day, respectively. The UAS7
+ranges from 0 to 42. The UAS28 is the sum of the UAS7 scores of 4
+consecutive weeks (range from 0 to 168).7°
+
+The validated Turkish version of the Chronic Urticaria Quality of Life
+Questionnaire (CU-Q2oL): The CU-Q2o0L was specifically designed for the
+assessment of health-related quality of life impairment in patients with
+CU, including the physical, psychosocial and practical aspects of this
+condition.°” A total of 23 questions were found to cover six key
+CU-specific domains: itch, swelling, impact on life activities, sleep
+problems, looks and limits. For each question, patients were asked to
+choose between five response options (scored 0-4) indicating the intensity of each item in the last two weeks. A total score across all questions was calculated and transformed into scores ranging from 0 to 100,
+with a score of 100 indicating the worst possible health related quality of
+life (HRQoL) impairment. Dermatology Life Quality Index (DLQI) was
+used for the CINDU patients since the CU-Q2oL was specifically designed
+for CSU patients.
+
+The Physician's global assessment of disease control - visual analog scale
+(PhyGA-VAS) is a physician evaluation instrument for assessing urticaria
+control during the last four weeks.!“ It is a 10-cm unmarked line which
+ranges between 0 cm (not at all under control) and 10 cm (completely
+under control).
+
+The Physician's global assessment of disease control - Likert-scale (PhyGALS) was used to assess disease control ona 5-point scale (1 complete control,
+2 good control, 3 moderate control, 4 little control, 5 no control).!4
+
+The Patient's global assessment of disease severity-visual analog scale
+(PatGA-VAS) was used to assess disease severity during the previous four
+weeks.'* The PatGA-VAS is an unmarked line anchored at the two ends
+with “no complaints” (0 cm) and “maximal complaints” (10 cm).
+
+The Patient's global assessment of disease severity - Likert scale (PatGALS) was used to assess disease severity during the previous four weeks.'*
+The PatGA-LS is a 5-point scale for assessing disease control (1 no complaints, 2 mild complaints, 3 moderate complaints 4 severe complaints)
+
+The Physician's assessment of treatment response (Phy-ATR) is a physician evaluation instrument for assessing a patient's response to treatment
+during the last four weeks.’ The physician evaluates the adequacy of
+treatment as sufficient or not sufficient (treatment sufficient = 0, treatment not sufficient = 1).
+
+The Patient's assessment of treatment response — Likert scale (Pat-ATR) is
+a patient evaluation instrument for assessing treatment during the last
+four weeks.’ The patient evaluates the adequacy of treatment as sufficient or not sufficient (treatment sufficient = 0, treatment not
+sufficient = 1).
+
+The Patient's assessment of change in disease activity — Likert scale (PatCDA) is a patient evaluation instrument for assessing change in disease
+activity during the last four weeks (Significant improvement = 0, mild
+improvement = 1, no change = 2, mild worsening = 3, significant
+worsening = 4).\4
+
+The Patient's assessment of change in quality of life — Likert scale (PatCQoL) is a patient evaluation instrument for assessing change in quality
+of life during the last four weeks (significant improvement = 0, mild
+improvement = 1, no change = 2, mild worsening = 3, significant
+worsening = 4).\4
+
+Assessment of the Turkish UCT consistency, validity, sensitivity to change,
+reliability, and screening accuracy
+
+Internal consistency: Cronbach's « coefficient was used to test the internal consistency of the Turkish UCT. We used the suggested guidelines
+
+World Allergy Organization Journal 12 (2019) 100009
+
+for interpretation of Cronbach's « coefficient: < 0.60 unacceptable,
+0.60-0.65 undesirable, 0.65-0.70 minimally acceptable, 0.70-0.80
+respectable, 0.80-0.90 excellent and >0.90 excessive consistency.”*
+
+Convergent validity assesses whether measures that should be related
+are related. The correlation between the Turkish version of UCT and CUQ2oL, DLQI, UAS28, PhyGA-VAS, PatGA-VAS, and PatGA-LS were evaluated by Pearson's correlation coefficient. Weak, moderate and strong
+correlations were defined as correlation coefficient values of <0.3,
+0.3-0.6, and >0.6 respectively. '“
+
+Known-groups validity measures the ability of the tool to discriminate
+between patients with different disease severity and disease control. The
+known-group validity of the Turkish UCT was explored by using the
+Kruskal Wallis test. The UAS28 scores of <6, 7-24, 25-64, >65 were used
+to classify the disease activity of the patients into none, mild, moderate
+and severe, respectively.“ To determine patients with different levels of
+disease control PatGA-LS and PhyGA-LS were used and patients with
+different levels of treatment responses were determined by using
+Pat-ATR and Phy-ATR.
+
+Sensitivity to change: All of the patients returned for a second visit. The
+changes in the UCT scores and UAS28, CU-Q2oL, DLQI, PatGA-VAS and
+PhyGA-VAS change scores between the two visits were calculated and the
+correlation between the changes in these variables was analysed
+(computing of rank correlation coefficient Spearman's rho).
+
+Test-retest reliability (intraclass correlation coefficient - ICC): To determine the UCT's test-retest reliability patients who had no change in the
+PatGA-LS scores (stable patients) during the four-week interval between
+the 1st and the 2nd visit were included in the analysis for test-retest
+reliability. UCT scores of patients with CINDU and CSU and total were
+compared between two visits by using Wilcoxon signed rank test. An ICC
+of 0.5-0.7 indicated moderate-to-good reproducibility while an ICC of
+greater than 0.7 was considered to demonstrate excellent
+reproducibility.“
+
+Screening accuracy (categorization): Screening accuracy (categorization) is the ability of UCT to categorize patients into suffering from
+poorly-controlled and well-controlled disease. ROC curve analysis and
+area under the curve (AUC) were used to determine screening accuracy of
+the UCT. PhyGA-LS was categorized into well-controlled and poorly
+controlled urticaria for ROC curve analysis. Good control or complete
+control were accepted as well-controlled urticaria whereas no control,
+little control, or moderate control were considered as poorly controlled
+urticaria. The cut off values for well-controlled urticaria versus poor
+controlled urticaria were determined for both visits. AUCs of 1, 0.9, 0.8,
+0.7, and 0.5 were defined as perfect, excellent, good, fair, and no better
+than chance, respectively.'°
+
+Minimal important difference (MID), minimal clinically important
+difference and smallest detectable change (SDC) of the Turkish UCT
+
+Anchor based, and distributional-criterion approaches were applied
+to calculate the MID which is the change in a score that can be considered
+clinically relevant.!° Anchor based methods include the mean change
+method and ROC curve analysis.”!°° A ROC curve analysis was applied
+and the Phy-GA-LS was used as an external anchor for the anchor-based
+methods. To use Phy-GA-LS as an anchor, the correlation between UCT
+score changes and Phy-GA-LS changes were determined (Spearman's
+correlation). At least good correlation (r ~ 0.5) should be determined in
+order to use the Phy-GA-LS as an anchor. Patients were classified into
+“improved” disease (>1st step improvement in Phy-GA-LS) and “not
+improved” disease (unchanged or worsened Phy-GA-LS) in order to
+determine the cut-off value of UCT changes. The ROC cut-off point was
+chosen by getting smallest sum of percentages of false positive and false
+negative classifications ([1-sensitivity] + [1-specificity]).?° The mean
+change approach was applied, and the mean UCT score improvement was
+determined in patients with a 1st step improvement in their Phy-GA-LS
+from 1st visit to 2nd.”'° Another method to calculate MID indirectly is
+the distributional-criterion approach which can be calculated by dividing
+E. Kocatiirk et al.
+
+World Allergy Organization Journal 12 (2019) 100009
+
+ 
+
+Table 1
+
+Demographic characteristics and comparison between CSU and CINDU.
+Total
+Mean (median)+SD
+
+Gender
+Female n (%)
+Age (years)
+
+108 (67.9%)
+39.1 (39) + 13.3
+
+Min-max 14-75
+Disease duration (mo) 33.8 (12) 4 59.3
+Min-max 2-480
+UAS28-Baseline
+Min-max
+UAS28-1st
+Min-max
+UCT-1st 9.5 (9) $3.8
+Min-max 1-16
+UCT-2nd 11.6 (12) + 3.3
+Min-max 2-16
+CU-Q2oL-Ist
+Min-max
+CU-Q2oL-2nd
+Min-max
+PatGA-VAS-1st 4.0 (4.5) + 2.8
+Min-max 0-10
+PatGA-VAS-2nd 3.1 (2) + 2.7
+Min-max 0-10
+PhyGA-VAS-1st 6.8 (6) + 5.6
+Min-max 17
+PhyGA-VAS-2nd 7.2 (8) +2.6
+Min-max 1-10
+
+Pat ATR-Ist n,% - treatment sufficient
+Pat ATR-2nd n,%- treatment sufficient
+PHY ATR-Ist n,%- treatment sufficient
+PHY ATR-2nd n,%-treatment sufficient
+DLQI-1st m (md+:SD)
+
+Min-max
+DLQI-2nd m (md::SD)
+
+Min-max
+
+82 (51.6%)
+105 (66%)
+71 (44.7%)
+106 (66.7%)
+
+Pearson Chi-Square, Mann-Whitney U.
+
+CcsU CINDU, P
+Mean (median)+SD Mean (median)+SD
+
+57 (70.4%) 51 (65.4%) 0.501
+40.5 (38) + 14 37.7 (39) + 12,5 0.328
+14-75 17-72
+31.5 (9) + 67.9 36.324 + 49.1 0.007
+2-480 2-240
+42.728 + 36.4 ~
+0-127
+34.3 (23) + 37.6 0-165
+10.4 (11) + 3.9 8.48 + 3.4 0.001
+1-16 1-16
+11,7 (12) + 3.4 11,412 + 3.2 0.379
+2-16 2-16
+22.7 (17.3) + 19.5.
+0-79.34
+18.5 (14.1) + 18.0
+0-73.90
+3.1 (2) + 2.7 4.95 +2.5 <0.001
+0-10 0-10
+2.5 (1.5) + 2.7 3.83 + 2.7 0.001
+0-9 0-10
+8.1 (8) + 7.4 5.55 + 2.2 <0.001
+2-7 1-10
+7.7 (Q)+2.4 6.6 (7.5) + 2.6 0.003
+1-10 1-10
+53 (65.4%) 29 (37.2%) <0.001
+55 (67.9%) 50 (64.1%) 0.613
+52 (64,2%) 19 (24,4%) <0.001
+56 (69.1%) 50 (64.1%) 0.501
+- 8.57 + 6.3
+
+0-24
+
+5.74 (4) +6.26
+
+0-27
+
+UAS28-Baseline: the 4-weekly UAS score before the 1st visit, UAS28, UAS28-1st: the 4-weekly UAS score between the 1st and 2nd visit, UCT-1st: Urticaria control test
+score at the 1st visit, UCT-2nd: Urticaria control test score at the 2nd visit, CU-Q2oL-1st: Chronic urticaria quality of life questionnaire score at the 1st visit, CU-Q2oL2nd: Chronic urticaria quality of life questionnaire score at the 2nd visit, PatGA-VAS-1st: Patient's global assessment of disease severity-visual analog scale at the 1st
+visit, PatGA-VAS-2nd: Patient's global assessment of disease severity-visual analog scale at the 2nd visit, PhyGA-VAS-1st: Physician's global assessment of disease control
+- visual analog scale at the 1st visit, PhyGA-VAS-2nd: Physician's global assessment of disease control - visual analog scale at the 2nd visit, DLQI-1st: Dermatology Life
+Quality Index Score at the 1st visit, DLQI-2nd: Dermatology Life Quality Index Score at the 2nd visit.
+
+the standard deviation (SD) of the baseline UCT scores was by peatey
+
+Besides the MID, the smallest detectable change of the UCT score was
+also calculated.”'° The SDC was analysed as 1.96 times the SD of the
+UCT's score changes between two visits in patients whose Phy-GA-LS was
+stable.
+
+Results
+Duration of disease, disease control and patients’ complaints
+
+Duration of disease was longer, disease control was poorer, severe complaints were more frequent in CINDU patients. The demographic characteristics of the patients and the scores of the instruments used through the
+study are shown in Table 1. The table shows significant differences between the two groups; CSU and CINDU. See also Table 4 for details of
+PatGA-LS, PhyGA-LS, Pat-ATR, Phy-ATR distributions between CSU and
+CINDU.
+
+The internal consistency for CSU and CINDU
+
+The UCT showed excellent internal consistency for CSU and a minimally
+acceptable internal consistency for CINDU. When calculated for the total
+patient population (both CSU and CINDU), the Cronbach's « was found
+0.81. But when analysed separately, the Cronbach's « was found 0.89
+versus 0.68 for CSU and CINDU patients respectively (Table 2).
+
+Correlations of UCT with other tools
+
+The UCT showed strong correlation with CU-Q2oL but a moderate correlation with DLQI. The UCT scores of the total patient population (CSU
+and CINDU) showed strong correlations with disease severity (PatGAVAS, PatGA-LS) and disease control (PhyGA-VAS, PhyGA-LS). UCT scores
+of CSU patients showed a strong negative correlation with disease
+
+ 
+
+Table 2
+Internal consistency of the Turkish UCT.
+Item Mean S.D N Cronbach's Alpha
+csU UCT-1 2.33 1,19 81 0.891
+UCT-2 2.73 1.17 81
+UCT-3 2.81 1.09 81
+UCT-4 2.70 0.98 81
+CINDU UCT-1 1.94 1.17 78 0.684
+UCT-2 2.10 1.21 78
+UCT-3 2.36 1.23 78
+UCT-4 2.03 1.16 78
+TOTAL UCT-1 2.14 1.19 159 0.817
+UCT-2 2.42 1.23 159
+UCT-3 2.59 1.18 159
+UCT-4 2.37 1,12 159
+
+ 
+
+Cronbach's « coefficient: < 0.60 unacceptable, 0.60-0.65 undesirable, 0.65-0.70
+minimally acceptable, 0.70-0.80 respectable, 0.80-0.90 excellent and >0.90
+excessive consistency.
+E. Kocatiirk et al.
+
+Table 3
+Convergent validity of UCT.
+
+World Allergy Organization Journal 12 (2019) 100009
+
+ 
+
+UCT Score Correlation Coefficient*
+csU UAS28-Baseline —0.662, P < .001
+CUQ2oL-1st —0.649, P < .001
+
+PatGA-VAS-1st
+PhyGA-VAS-1st
+PatGA-LS-1st
+PhyGA-LS-1st
+
+—0.756, P < .001
+0.708, P < .001
+
+—0.763, P < .001
+—0.733, P < .001
+
+CINDU DLOQI-1st —0.545, P < .001
+PatGA-VAS-1st —0.678, P < .001
+PhyGA-VAS-1st 0.624, P < .001
+PatGA-LS-1st —0.664, P < .001
+PhyGA-LS-1st —0.774, P < .001
+
+TOTAL PatGA-VAS-1st —0.741, P < .001
+
+PhyGA-VAS-1st
+PatGA-LS-1st
+PhyGA-LS-1st
+
+0.698, P < .001
+—0.737, P < .001
+—0.784, P < .001
+
+UAS28-Baseline: the 4-weekly UAS score before the 1st visit, UAS28, UAS28-1st:
+the 4-weekly UAS score between the 1st and 2nd visit, UCT-1st: Urticaria control
+test score at the 1st visit, UCT-2nd: Urticaria control test score at the 2nd visit,
+CU-Q2oL-1st: Chronic urticaria quality of life questionnaire score at the 1st visit,
+CU-Q2oL-2nd: Chronic urticaria quality of life questionnaire score at the 2nd
+visit, PatGA-VAS-1st: Patient's global assessment of disease severity-visual analog
+scale at the 1st visit, PatGA-VAS-2nd: Patient's global assessment of disease
+severity-visual analog scale at the 2nd visit, PhyGA-VAS-1st: Physician's global
+assessment of disease control - visual analog scale at the 1st visit, PhyGA-VAS2nd: Physician's global assessment of disease control - visual analog scale at
+the 2nd visit, DLQI-1st: Dermatology Life Quality Index Score at the 1st visit,
+DLQI-2nd: Dermatology Life Quality Index Score at the 2nd visit.
+
+* Pearson's correlation coefficient. Weak, moderate and strong correlations
+were defined as correlation coefficient values of <0.3, 0.3-0.6, and >0.6
+respectively.
+
+activity (UAS28) and with CU-Q2oL but UCT scores of CINDU patients
+showed a moderate negative correlation with DLQI (r = —0.649, P < .001
+and r = —0.545, P < .001, respectively) (Table 3).
+
+The known group validity for UCT
+
+The UCT showed similar known groups validity for CSU and CINDU patients. The UCT was able to discriminate between groups with different
+disease severity (demonstrated by PatGA-LS) and different levels of disease control (demonstrated by PhyGA-LS) (p = 0,000). Patients with
+different disease severity had different UCT scores. Even though there
+were slight differences between CSU and CINDU patients, the overall
+known groups validity was similar (Table 4). A higher number of CINDU
+patients rated their symptoms as severe complaints (PatGA-LS-1st 15 vs 6
+in CINDU and CSU, respectively).
+
+The sensitivity to change of the UCT
+
+The UCT was sensitive to detect changes in disease activity and quality of
+life. The correlations between change in UCT scores and UAS28, CUQ2oL, DLQI, PATGA-VAS and PhyGA-VAS change scores were statistically significant for both CSU and CINDU (p < .01).
+
+Change in UCT scores have a moderate correlation with PhyGA-VASchange (r = 0.573), strong correlations with PatGA-LS change
+(r = —0.632), PhyGA-LS change (r = —0.713) and PatGA-VAS change
+(—0.623) in total. Change in UCT scores have moderate correlations with
+UAS28 change (r = —0.598), CU-Q2oL change (r = —0.543) and PhyGAVAS change (r = 0.570), strong correlations with PatGA-VAS change
+(r = —0.633), PatGA-LS change (r = —0.689), PhyGA-LS change
+(r = —0.612) in the CSU group, while change in UCT scores have moderate correlations with DLQI change (r = —0.543), PatGA-LS change
+(r = —0.511), PatGA-VAS change (r = —0.556), PhyGA-VAS change
+(r = 0.523) and a strong correlation with PhyGA-LS change (r = —0.752)
+in CINDU patients.
+
+Table 4
+Known groups validity of the UCT (CSU and CINDU).
+N Mean sD Median Kruskal- P
+Vallis Test
+PatGA-LS-1st CSU
+No complaints 16 15.13 2.062 16.00 47.178 <0.001
+Mild complaints 34 11.09 2.690 12.00
+Moderate 25, 8.04 2.336 8.00
+complaints
+Severe 6 4.33 3.204 3.50
+complaints
+PatGA-LS-1st CINDU
+No complaints 3 13.67 1.155 13.00 34.226 <0.001
+Mild complaints 20 11.25 2.826 12.00
+Moderate 40 7.80 2.662 8.00
+complaints
+Severe 15 5.27 2.086 6.00
+complaints
+PHYGA-LS-1st CSU
+Complete 19 14.16 2.651 15.00 43.629 <0.001
+control
+Good control 34 11.24 2.742 12.00
+Moderate 23 7.65 2.367 7.00
+control
+Little control 2 7.00 1.414 7.00
+No control 3 1.67 0.577 2.00
+PHY-LS-1st CINDU
+Complete 1 16.00 16.00 49.100 <0.001
+control
+Good control 18 12.78 1.396 12.50
+Moderate 36 7.89 1.997 8.00
+control
+Little control 20 5.85 2.277 6
+No control 3 3.33 2.082 4
+UAS28-1st-R
+<6 14 14.79 2.517 16.00 34.281 0.000
+7-24 23 11.39 3.394 12.00
+25-64 19 9.63 3.804 10.00
+>65 25 7.76 2.454 8.00
+PAT-ATR-1st CSU
+Treatment 53 12.19 3.051 12.00 196.000 0.000
+sufficient
+Treatment not 28 7.14 3.147 7.00
+sufficient
+PAT-ATR-1st CINDU.
+Treatment not 49 6.53 2.399 6.00 87.500 0.000
+sufficient
+Treatment 29 11.62 2.321 12.00
+sufficient
+PHY-ATR-1st CSU
+Treatment 52 12.31 3.052 12.00 170.000 0.000
+sufficient
+Treatment not 29 7.10 2.920 7.00
+sufficient
+PHY-ATR-1st CINDU
+Treatment not 59 6.92 2.336 7.00 49.555 0.000
+sufficient
+Treatment 19 13.11 1.329 13.00
+sufficient
+
+ 
+
+Kruskal-Vallis.
+
+The reproducibility of the Turkish UCT
+
+The Turkish UCT showed excellent reproducibility. Seventy patients (34
+CSU patients and 36 CINDU patients) who had stable PatGA-LS scores
+during the four-week interval between the Ist and the 2nd visits were
+included into analysis of test-retest reliability. ICC of UCT in CSU and
+CINDU were analysed separately and also totally. The ICCs of UCT in
+patients with CSU and CINDU were 0.89 (95% confidence
+interval = 0.79-0.95) and 0.74 (95% confidence interval = 0.50-0.87),
+respectively, that demonstrated excellent reproducibility of both UCTs.
+ICC was 0.83 (95% confidence interval = 0.72-0.89) showing excellent
+reproducibility of Turkish UCT when it is determined totally.
+E. Kocatiirk et al.
+
+World Allergy Organization Journal 12 (2019) 100009
+
+ 
+
+Table 5
+
+Cut-off values for the UCT for screening patients for well controlled disease.
+Total PhyGA-LS
+UCT score Ast visit
+
+ 
+
+Well-controlled urticaria (n:72)
+
+Cut-off value
+
+Total PhyGA-LS
+
+UCT score 2nd visit
+
+ 
+
+Well-controlled urticaria (n:101)
+
+Cut-off value
+
+ 
+
+Sensitivity (%) Specificity (%) Sensitivity (%) Specificity (%)
+85-9 917 73.6 8.5-9 98 55.2
+
+9.5-10 84.7 85.1 9.5-10 98 69
+
+10.5-11 79.2 89.7 10.5-11 96 81
+
+11.5-12 70.8 95.4 11.5-12 93.1 91.4
+
+12.5-13 48.6 100 12.5-13 69.3 100
+
+13.5-14 33.3 100 13.5-14 47.5 100
+
+AUC (95% CI 0.925 (0.883-0.966)
+
+0.967 (0.943-0.992)
+
+ 
+
+Abbreviations: AUC (95% CI): area under the curve (95% confidence interval).
+
+ROC Curve
+
+ 
+
+Sensitivity
+
+ 
+
+ 
+
+ 
+
+0,0 T T T
+0,0 0,2 04 06 08 1,0
+
+1 - Specificity
+
+Fig. 2. ROC curve of first visit UCT. Area under the ROC curve for UCT
+score = 0.925 (95% CI, (0,883-0966).
+
+Screening accuracy (categorization)
+
+Seventy-two and 101 patients had well-controlled urticaria by using
+PhyGA-LS at 1st and 2nd visits, respectively. The AUCs on ROC analyses
+showed excellent accuracy of both visits of Turkish UCT (Table 5)
+(Fig. 2). UCT scores of >9,5 (sensitivity 84.7%, specificity 85.1%) and
+>11.5 (sensitivity 93.1%, specificity 91.4%) were found to be suitable
+cut off values to define well-controlled disease for the 1st and the 2nd
+visits, respectively. When the CSU and CINDU groups were analysed
+separately, UCT scores of >10.5 and > 11.5 were defined for CINDU
+patients, >8.5 and > 10.5 were defined for CSU patients for the 1st and
+2nd visits, respectively.
+
+Minimal important difference (MID) and smallest detectable change (SDC)
+of the UCT
+
+The mean UCT score change in cases of minimal improvement (1 step
+improvement in Phy-GA-LS) was found to be 4.2 + 3.0 points, while
+mean UCT score change in cases of an unchanged Phy-GA-LS was only
+0.6 + 2.2 points. This mean change method indicated that MID is 4, while
+the distributional-criterion approach determined MID as 1.9 (the SD of
+the baseline UCT scores (3.8) was divided by 2). The Phy-GA-LS change
+and UCT score change showed strong correlation (r = —0.713, p < .01).
+
+On the ROC curve analysis, UCT score change was determined by
+improved disease versus not improved disease. AUC was 0.896
+(0.841-950) (95% CI) and UCT change score that identifies improved
+disease was 2.5 (sensitivity 82.5%, specificity 87.5%). Sixty-seven patients had stable Phy-GA-LS between two visits and the SD of the UCT's
+score changes in patients with stable Phy-GA-LS was 2.2 and SDC was
+4.3.
+
+Discussion
+
+The UCT is a simple and easy to use patient-reported outcome (PRO)
+tool which was originally developed to determine disease control in CU
+patients.'“ The linguistic adaptation and validation studies have been
+performed in Thai, Arabic and Spanish.'*'”'® We performed the recommended steps for validation of PRO-tools rigorously for the Turkish
+UCT and we determined the reliability, validity, sensitivity to change and
+minimally important difference (MID) of the tool.?°
+
+We found that UCT scores were lower in the CINDU group at referral
+(8.4 in CINDU vs 10.4 in CSU, p = .001) and PhyGA-VAS was also lower
+in the CINDU group compared to CSU group (5.5 vs 8.1, p < .001).
+PatGA-VAS were higher (4.9 vs 3.1; p < .001) and Pat-ATR and Phy-ATR
+were lower in CINDU compared to CSU (29 vs 53, p < .001 and 19 vs 52,
+p < .001, respectively). Most of the CSU patients rated their disease activity as mild (34 patients) while most of the CINDU patients rated as
+moderate (40 patients), severe activity was rated by 6 of the CSU patients
+while 15 of CINDU patients rated themselves as severe. Nineteen patients
+with CSU reported complete control of urticaria while only one patient
+with CINDU reported complete control. These findings suggest a higher
+disease impact and poorer control of urticaria in CINDU patients which
+might be associated with the longer disease duration in these patients
+(36.3 vs 31.5 months in CINDU and CSU patients, respectively). Since we
+had to use different QoL measures to assess QoL impairment in CSU and
+CINDU patients we are not able to make a direct comparison between the
+QoL impairment of CSU and CINDU patients but we could get some information from the second question of UCT which provides information
+on how the disease impacted the quality of life of the patient. Twentyfour patients with CINDU while 13 patients with CSU reported to have
+their quality of life impairment as “much and very much effected” by
+urticaria which are in parallel to the findings of O'Donnell et al. and Poon
+et al. who described poorer quality of life in patients with delayed
+pressure urticaria and cholinergic urticaria and with Schoepke et al. who
+reported that quality of life significantly impaired in 44% and normal life
+not possible in 7% of symptomatic dermographism patients.”” *°
+
+The Turkish version of UCT showed excellent consistency for CSU
+which was higher than the original tool (Cronbach's « original versus
+Turkish 0.84 vs 0.89) and a minimally acceptable consistency for CINDU
+(Cronbach's « 0.89 vs 0.68). The reason for this might be the nature of
+CINDU that shows exaggeration with exposure to the specific trigger and
+moderation with avoidance which makes it hard to assess the disease
+E. Kocatiirk et al.
+
+activity without making the critical trigger threshold (CTT) measurement.!° It is unfortunate that by employing the short version of UCT, we
+missed the chance to ask the question of “How much, in the last 4 weeks,
+did you have to avoid physical exercise or stimuli such as heat, cold,
+pressure light or friction because of your urticaria?” to CINDU patients
+which is included in the long version of the UCT.'‘ By asking this
+question, maybe we could get a thorough assessment of the activity of the
+disease.
+
+The evaluation for the correlation between other tools revealed that
+the UCT showed strong negative correlations with the UAS28, CU-Q2oL,
+Pat-GA-VAS, Phy-GA-VAS and Pat-LS and a strong positive correlation
+with Phy-GA-LS which is because higher scores of the former tools are
+linked to higher disease activity and poor control. The DLQI showed a
+moderate negative correlation with the UCT. We believe this is again due
+to the difficulty to assess disease impact in CINDU patients and could also
+be linked to the differences in the period of assessment times which assesses the last 4 weeks in UCT and the last week for DLQI. Although a
+study from Japan showed good correlation with UCT and DLQI in CU,°°
+since DLQI is not a disease specific tool which is designed specifically for
+CINDU, it might not be able to show the real impact on QoL impairment
+of CINDU patients. As the CU-Q2oL has been reported to be more sensitive in comparison with DLQI to reflect QoL impairment in CSU, certain
+disease specific questionnaires are needed to assess QoL in patients with
+CINDU™'.
+
+UCT also showed to be sensitive to changes in disease activity in both
+CSU and CINDU patients. The test-retest reliability showed excellent
+reproducibility for both CSU and CINDU patients but there was a clear
+superiority for CSU patients (first visit UCT 12.4 vs 12.2 for CSU, 8.9 vs
+10.9 for CINDU, respectively). At baseline, the mean UCT scores of
+CINDU patients were lower than the CSU patients (8.4 vs 10.4, respectively) but after treatment, the total scores clearly increased at the follow
+up visit (11.7 for CSU and 11.4 for CINDU, respectively). The lower
+reproducibility of UCT for CINDU could be attributed to its changeability
+according to avoidance behaviours.
+
+Here we report that the UCT is also suited to determine changes in
+disease control over time and to assess treatment effects (that it is
+responsive to change). Our results demonstrate that changes in the UCT
+score strongly correlate with disease-specific assessments of changes in
+urticaria activity (UAS7) and HR-QoL (CU-Q2o0L), while the correlation
+with changes in the less-specific DLQI are less strong (but still good).
+Importantly, the change of UCT ratings from “poorly controlled’”’ to
+“well-controlled” was well in accordance with the change of the patients'
+self-assessment of treatment efficacy, with the physicians’ global assessment of the treatment response, and with the UAS7-based assessment of
+treatment response. This supports the appropriateness of the current UCT
+cut-off value of >12 points to detect patients with well-controlled
+urticaria.
+
+MID is the smallest change in a score that can be considered clinically
+relevant and the knowledge of the MID of an outcome measure is
+important for the interpretation of changes in its score by time or after
+treatment. By using the mean change method we found an MID of 4 and
+with the ROC curve analysis UCT change score that identifies improved
+disease was found 2.5. Like the other investigators'“'° we regarded an
+MID 3 points as the most appropriate for UCT score changes.
+
+We unfortunately have some limitations in this study; even though
+the test-retest reliability analysis should be done in patients without
+change in disease activity, since we could not keep patients without
+treatment for one month, we had to give treatment and the disease activities decreased. For this reason, test-retest reliability could only be
+performed in 34 CSU and 42 CINDU patients. And by using the long
+version of UCT we could have evaluated the avoidance behaviours of the
+CINDU patients and thoroughly assess the impact and activity of CINDU.
+Another point is using SF-36 instead of DLQI could be more effective in
+showing the QoL impairment in patients with CINDU because it has a
+physical functioning domain which measures the repercussion of
+possible physical limitations on daily activities such as taking a bath,
+
+World Allergy Organization Journal 12 (2019) 100009
+
+dressing, walking moderate distances, running, climbing stairs, carrying
+bags, bending over and kneeling.°”
+
+As a conclusion, the UCT is a valuable tool which aids in treatment
+decisions, allowing to assess whether the disease is controlled by two
+aspects; namely both in severity and quality of life impairment and the
+Turkish version of UCT is shown to be valid and reliable for both CSU and
+CINDU patients.
+
+Authors' contributions*
+
+Conceived and designed the study: Emek Kocatiirk and Karsten
+Weller.
+
+Data collection, patient inclusion and follow up: Emek Kocatiirk,
+Utkan Kiziltacg, Kiibra Kiziltac, Pelin Can, Nagihan Sahillioglu, Rabia
+Oztas Kara, Teoman Erdem, Asli Gelincik.
+
+Wrote the manuscript: Emek Kocatiirk and Utkan Kiziltac.
+
+Statistical analysis: Pelin Can.
+
+Critically reviewed and revised the manuscript: Marcus Maurer.
+
+Final language editing: Marcus Maurer, Emek Kocatiirk.
+
+Agreement with manuscript and conclusions: all.
+
+Designed the figures and tables: Pelin Can, Emek Kocatiirk.
+
+All authors read and approved the final manuscript.
+
+Conflicts of interest
+
+None of the authors have conflicts of interest regarding the content of
+this manuscript.
+
+Ethics approval and consent to participate
+
+Letter of ethical clearance was secured from ethical review board of
+Okmeydani Training and Research Hospital. Privacy and confidentiality
+of medical information was ensured. Informed consent of patients was
+obtained prior to inclusion.
+
+Funding
+
+There was no external source of funding obtained. All expenses
+related to this research work were covered by the authors.
+
+Availability of data and materials
+
+The datasets generated during the current study are available from
+the corresponding author on reasonable request.
+
+Acknowledgements
+Not applicable.
+List of abbreviations
+
+AAS Angioedema Activity Score
+
+AUC Area under the curve
+
+CINDU Chronic inducible urticaria
+
+CSU Chronic spontaneous urticaria
+
+CU Chronic urticaria
+
+CU-Q2oL Chronic Urticaria Quality of Life questionnaire
+
+DLQI Dermatology Life Quality Index
+HRQoL Health related quality of life
+ICC Intraclass correlation coefficient
+MID Minimal important difference
+
+Pat-ATR Patient's assessment of treatment response - Likert scale
+Pat-CDA Patient's assessment of change in disease activity — Likert scale
+Pat-CQoL Patient's assessment of change in quality of life — Likert scale
+PatGA-VAS Patient's global assessment of disease severity-visual analog scale
+PatGA-LS Patient's global assessment of disease severity - Likert scale
+E. Kocatiirk et al.
+
+PhyGA-VAS Physician's global assessment of disease control - visual analog
+scale
+
+PhyGA-LS Physician's global assessment of disease control - Likert-scale
+
+Phy-ATR Physician's assessment of treatment response
+
+PRO Patient-reported outcome
+QoL Quality of life
+
+SDC Smallest detectable change
+sD Standard deviation
+
+UAS Urticaria Activity Score
+UCT Urticaria Control Test
+References
+
+1, Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA7LEN/EDF/WAO guideline for
+the definition, classification, diagnosis and management of urticaria. The 2017
+revision and update. Allergy. 2018 May;73(5):1145~1146.
+
+2. Hawro T, Ohanyan T, Schoepke N, et al. The urticaria activity score-validity,
+reliability, and responsiveness. J Allergy Clin Immunol Pract. 2018 Jul~Aug:6(4):
+1185-1190.
+
+3. Hollis K, Proctor C, McBride D, et al. Comparison of urticaria activity score over 7
+days (UAS7) values obtained from once-daily and twice-daily versions: results from
+the ASSURE-CSU study. Am J Clin Dermatol. 2018;19:267-274,
+
+4, Hawro T, Ohanyan T, Schoepke N, et al. Comparison and interpretability of the
+available urticaria activity scores. Allergy. 2018;73:251-255.
+
+5. Weller K, Groffik A, Mager! M, et al. validation, and initial results of the angioedema
+activity score. Allergy. 2013;68:1185-1192.
+
+6. Baiardini I, Pasquali M, Braido F, et al. A new tool to evaluate the impact of chronic
+urticaria on quality of life: chronic urticaria quality of life questionnaire (CU-Q2oL).
+Allergy. 2005;60(8):1073-1078.
+
+7. Kocaturk E, Weller K, Martus P, et al. Turkish version of the chronic urticaria quality
+of life questionnaire: cultural adaptation, assessment of reliability and validity. Acta
+Derm Venereol. 2012;92(4):419-425.
+
+8. Kessel A, Graif Y, Vadasz Z, et al. Adaption and validation of the Israeli version of the
+chronic urticaria quality of life questionnaire (CU-Q2oL). Isr Med Assoc J. 2016;18:
+461-465.
+
+9. Brzoza Z, Badura-Brzoza K, Mlynek A, et al. Adaptation and initial results of the
+polish version of the GALEN chronic urticaria quality of life questionnaire (CUQoL). J Dermatol Sci. 2011;62:36-41.
+
+10. Mlynek A, Magerl M, Hanna M, et al. The German version of the chronic urticaria
+quality-of-life questionnaire (CU-Q2oL): factor analysis, validation and initial clinical
+findings. Allergy. 2009;64:927-936.
+
+11. Weller K, Groffik A, Mager! M, et al. Development and construct validation of the
+angioedema quality of life questionnaire (AE-QoL). Allergy. 2012;67:1289-1298.
+
+12. Weller K, Magerl M, Peveling-Oberhag A, Martus P, Staubach P, Maurer M.
+
+The Angioedema Quality of Life Questionnaire (AE-QoL) ~ assessment of
+sensitivity to change and minimal clinically important difference. Allergy. 2016;71:
+1203-1209.
+
+13. Maurer M, Mathias SD, Crosby RD, Rajput Y, Zazzali JL. Validity and responsiveness
+of the urticaria activity and impact measure (U-AIM), a new patient-reported tool.
+Allergy. 2018 Jun;120(6):641-647.
+
+14.
+
+15.
+
+16.
+
+5
+
+18.
+
+18.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31,
+
+32.
+
+World Allergy Organization Journal 12 (2019) 100009
+
+Weller K, Groffik A, Church MK, et al. Development and validation of the Urticaria
+Control Test: a patient-reported outcome instrument for assessing urticaria control.
+J Allergy Clin Immunol. 2014 May;133(5):1365-1372, 1372.e1-.
+
+Kulthanan K, Chularojanamontri L, Tuchinda P, Rujitharanawong C, Maurer M,
+Weller K. Validity, reliability and interpretability of the Thai version of the urticaria
+control test (UCT). Health Qual Life Outcomes. 2016;14:61.
+
+Ohanyan T, Schoepke N, Bolukbasi B, et al. Responsiveness and minimal important
+difference of the urticaria control test. J Allergy Clin Immunol. 2017;140:1710-1713.
+ell.
+
+Irani C, Hallit S, Weller K, Maurer M, El Haber C, Salameh P. Chronic urticaria in
+most patients is poorly controlled. Results of the development, validation, and real
+life application of the Arabic urticaria control test. Saudi Med J. 2017 Dec;38(12):
+1230-1236.
+
+Ortiz de Frutos FJ. Spanish version of the urticaria control test now available: good
+news for all. Actas Dermosifiliogr. 2015 Nov;106(9):697-698.
+
+Weller K, Siebenhaar F, Hawro T, Altrichter §, Schoepke N, Maurer M. Clinical
+measures of chronic urticaria. Immunol Allergy Clin. 2017 Feb;37(1):35-49.
+
+Weller K, Zuberbier T, Maurer M. Clinically relevant outcome measures for assessing
+disease activity, disease control and quality of life impairment in patients with
+chronic spontaneous urticaria and recurrent angioedema. Curr Opin Allergy Clin
+Immunol. 2015;15:220-226.
+
+Weller K, Zuberbier T, Maurer M. Chronic urticaria: tools to aid the diagnosis and
+assessment of disease status in daily practice. J Eur Acad Dermatol Venereol. 2015;S3:
+38-44,
+
+Maurer M, Metz M, Bindslev-Jensen C, et al. Definition, aims, and implementation of
+GA’LEN urticaria centers of reference and excellence. Allergy. 2016;71:1210-1218.
+Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How
+to assess disease activity in patients with chronic urticaria? Allergy. 2008;63:
+777-780.
+
+Streiner D, Norman G. Health Measurement Scales. second ed. Oxford: Oxford
+University Press; 1995:232-235.
+
+de Vet HC, Ostelo RWJG, Terwee CB, et al. Minimally important change determined
+by a visual method integrating an anchor-based and a distribution-based approach.
+Qual Life Res. 2007;16:131-142.
+
+Wild D, Grove A, Martin M, et al. ISPOR task force for translation and cultural
+adaptation. Principles of good practice for the translation and cultural adaptation
+process for patient-reported outcomes (PRO) measures: report of the ISPOR task
+force for translation and cultural adaptation. Value Health. 2005 Mar-Apr;8(2):
+94-104.
+
+O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of chronic
+urticaria on the quality of life. Br J Dermatol. 1997;136:197-201.
+
+Poon E, Seed PT, Greaves MW, Black AK. The extent and nature of disability in
+different urticarial conditions. Br J Dermatol. 1999;140:667-671.
+
+Schoepke N, Mlynek A, Weller K, Church MK, Maurer M. Symptomatic
+dermographism: an inadequately described disease. J Eur Acad Dermatol Venereol.
+2015 Apr;29(4):708-712.
+
+Itakura A, Tani Y, Kaneko N, Hide M. Impact of chronic urticaria on quality of life
+and work in Japan: results of a real-world study. J Dermatol. 2018 Jun 13.
+
+Weller K, Church MK, Kalogeromitros D, et al. Chronic spontaneous urticaria: how to
+assess quality of life in patients receiving treatment. Arch Dermatol. 2011;147(10):
+1221-1223.
+
+Ue AP, Souza PK, Rotta O, Furlani Wde J, Lima AR, Sabbag DS. Quality of life
+assessment in patients with chronic urticaria. An Bras Dermatol. 2011 Sep-Oct;86(5):
+897-904.
+
+ 
+

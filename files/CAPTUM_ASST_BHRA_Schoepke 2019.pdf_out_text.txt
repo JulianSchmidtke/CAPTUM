@@ -1,0 +1,1199 @@
+ResearchGate
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/333967346
+
+Biomarkers and clinical characteristics of autoimmune chronic spontaneous
+urticaria (aiCSU): Results of the PURIST Study
+
+Article in Allergy - June 2019
+
+DO}: 10.1111/all.13949
+
+CITATIONS READS
+18 278
+
+24 authors, including:
+
+Nicole Schoepke Thilo Jakob
+Charité Universitatsmedizin Berlin Justus Liebig University GieRen, Germany
+12 PUBLICATIONS 282 CITATIONS 454 PUBLICATIONS 9,770 CITATIONS
+SEE PROFILE SEE PROFILE
+George Konstantinou Per S Skov
+\) 424 General Military Training Hospital University of Southern Denmark
+88 PUBLICATIONS 1,878 CITATIONS 365 PUBLICATIONS 9,566 CITATIONS
+SEE PROFILE SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+poiea Hereditary Angioedema View project
+
+promt Psoriasis View project
+
+All content following this page was uploaded by Edward Knol on 04 July 2019,
+
+The user has requested enhancement of the downloaded file.
+DR. RICCARDO ASERO (Orcid ID : 0000-0002-8277-1700)
+
+PROF. MARTA FERRER (Orcid ID : 0000-0001-8495-1302)
+
+PROF. ANA M GIMENEZ ARNAU (Orcid ID : 0000-0001-9548-5423)
+
+DR. PETER SCHMID-GRENDELMEIER (Orcid ID : 0000-0003-3215-3370)
+
+PROF. GORDON SUSSMAN (Orcid ID : 0000-0002-2202-25 13)
+
+PROF. MARCUS MAURER (Orcid ID : 0000-0002-4121-481X)
+
+Article type —: Original Article: Atopic Dermatitis, Urticaria and Skin Disease
+Biomarkers and clinical characteristics of autoimmune chronic
+
+spontaneous urticaria (aiCSU): Results of the PURIST Study
+
+Short Title: Autoimmune Chronic Spontaneous Urticaria
+
+Nicole Schoepke', Riccardo Asero™*, André Ellrich'*, Marta Ferrer®*, Ana GimenezArnau**, Clive EH Grattan®*, Thilo Jakob®*, George N. Konstantinou”, Ulrike Raap™,
+Per Stahl Skov®*, Petra Staubach'**, Arno Kromminga''*, Ke Zhang'**, Carsten
+Bindslev-Jensen"’, Alvaro Daschner'*, Tamar Kinaciyan'®, Edward F. Knol’®,
+Michael Makris'”, Nadine Marrouche’®, Peter Schmid-Grendelmeier'’, Gordon
+
+Sussman”, Elias Toubi?’, Martin K. Church’, and Marcus Maurer’
+
+* These authors contributed equally
+
+‘Dept. of Dermatology and Allergy, Charité — Universitatsmedizin Berlin, Germany;
+Department of Allergology, Clinica San Carlo, Paderno Dugnano (MI), Italy;
+Department of Allergy and Clinical Immunology, Clinica Universidad de Navarra,
+
+Instituto de Investigacién Sanitaria de Navarra (IdiSNA), RETIC de Asma,
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/all.13949
+
+This article is protected by copyright. All rights reserved.
+Reacciones adversas y Alérgicas (ARADYAL), Pamplona, Spain; “Department of
+Dermatology, Hospital del Mar, IMIM, Universitat Autonoma Barcelona, Spain;
+5Guy's Hospital, London, United Kingdom; °Department of Dermatology and
+Allergology, University Medical Center Giessen and Marburg, Campus Giessen,
+Justus-Liebig University GieBen Germany and Allergy Research Group, Medical
+Center, University of Freiburg, Freiburg, Germany; ‘Department of Allergy and
+Clinical Immunology, 424 General Military Training Hospital, Thessaloniki, Greece;
+8University Clinic of Dermatology and Allergy, Dept. of Human Medicine and Health
+Sciences, University of Oldenburg, Germany; °RefLab ApS Copenhagen, Denmark
+and Odense Research Center of Anaphylaxis,ORCA, Odense, Denmark, Denmark;
+‘Department of Dermatology, University Medical Center Mainz, Germany;
+“'Bioagilytix Europe GmbH, Hamburg, Germany; Institute of Immunology, University
+of Kiel, Germany; ‘Division of Allergy, Immunology and Rheumatology, Department
+of Pediatrics, David Geffen School of Medicine at UCLA, Los Angeles, California,
+USA; '’Department of Dermatology and Allergy Centre, Odense University Hospital
+and University of Southern Denmark, Odense, Denmark; '4Servicio de Alergia.
+Instituto de Investigacion Sanitaria (IIS)- Hospital Universitario de la Princesa,
+Madrid, Spain; "Department of Dermatology, Medical University of Vienna, Vienna,
+Austria; ‘Departments of Immunology and Dermatology/Allergology, University
+Medical Center Utrecht, Utrecht, The Netherlands; '’Allergy Unit, 2" Dpt of
+Dermatology and Venereology, Medical School, National and Kapodistrian University
+of Athens, “Attikon” University Hospital, Athens, Greece; '8Department of
+Dermatology, Norfolk and Norwich University Hospital, Norwich, UK; ‘°Allergy Unit,
+Department of Dermatology, University Hospital, Zirich, Switzerland and Christine
+
+Kuhne Center for Allergy Research and Education CK-CARE, Davos, Switzerland;
+
+This article is protected by copyright. All rights reserved.
+2°Division of Allergy and Clinical Immunology, University of Toronto, Toronto (ON),
+
+Canada; *'Bnai-Zion Medical Center, Faculty of Medicine, Technion, Haifa, Israel.
+
+Corresponding author: Marcus Maurer, MD, Dept. of Dermatology and Allergy,
+Charité — Universitatsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany
+
+Phone: +49-30-450-518 043 Fax:+49-30-450-518 972
+
+Email: marcus.maurer @ charite.de
+
+Acknowledgements: We gratefully acknowledge the support of the urtikaria
+network e.V. (UNEV, www.urtikaria.net) and of the GA7LEN UCARE network
+(www.ga2len-ucare.com). We also thank Dr. Sabine Altrichter for helpful
+
+discussions.
+
+Conflict of Interest: All authors declare that they have no conflict of interest that
+
+would have affected the design, presentation or conclusions of this study.
+
+Abstract
+
+Background: Autoimmune chronic spontaneous urticaria (aiCSU) is an important
+subtype of chronic spontaneous urticaria (CSU) in which functional IgG
+autoantibodies to IgE or its high affinity receptor (FceRI) induce mast cell
+degranulation and subsequent symptom development. However, it has not been
+tightly characterized. This study aimed to better define the clinical and immunological
+
+features and to explore potential biomarkers of aiCSU.
+
+This article is protected by copyright. All rights reserved.
+Methods: This was a multinational, multicenter study of 182 CSU patients. The
+clinical features studied included: urticaria activity and impact (UAS7 and quality of
+life); autologous serum skin test (ASST); IgG-anti-FceRI and IgG-anti-IgE; |gG-antithyroperoxidase (IgG-anti-TPO); total serum IgE; and basophil reactivity (BASO)
+using the basophil activation test (BAT) and basophil histamine release assay
+
+(BHRA).
+
+Results: Of the 182 patients, 107 (569%) were ASST+, 46 (25%) were BASO+ and
+105 (58%) were IgG-anti-FceRI+/lgE+. Fifteen patients (8%) fulfilled all three criteria
+of aiCSU. aiCSU patients appeared more severe (UAS7 21 vs 9 P < 0.016) but
+showed no other clinical or demographic differences from non-aiCSU patients.
+aiCSU patients also had markedly lower total IgE levels (P<0.0001) and higher IgGanti-TPO levels (P<0.001). Of biomarkers, positive BAT and BHRA tests were 69%
+
+and 88% predictive of aiCSU, respectively.
+
+Conclusions: aiCSU is a relatively small but immunologically distinct subtype of
+CSU that cannot be identified by routine clinical parameters. Inclusion of BHRA or
+BAT in the diagnostic work up of CSU patients may aid identification of aiCSU
+
+patients, who may have a different prognosis and benefit from specific management.
+
+Keywords: Chronic spontaneous urticaria (CSU); autoimmune CSU (aiCSU);
+
+autologous serum skin test (ASST); IgG autoantibodies; basophil activation assays.
+
+This article is protected by copyright. All rights reserved.
+Abbreviations
+
+aaCSU Autoallergic CSU
+
+aiCSU Autoimmune CSU
+
+ASST Autologous Serum Skin Test
+
+BASO+ positive result in either the basophil activation test or basophil histamine
+
+release assay
+BAT Basophil Activation Test
+BHRA Basophil Histamine Release Assay
+
+CSU Chronic Spontaneous Urticaria
+FACS Fluorescence-activated cell sorting
+FITC Fluorescein isothiocyanate
+
+FSC Forward Scatter
+
+FceRI the high affinity receptor for IgE
+IgE Immunoglobulin E
+
+IgG Immunoglobulin G
+
+PE Phycoerythrin
+PBS Phosphate buffered saline
+
+PURIST Profiling Urticaria for the Identification of Subtypes
+
+RPMI Rosswell Park Memorial Institute (Buffer)
+
+SSC Side Scatter
+
+TPO Thyroperoxidase
+
+UCARE Urticaria Center of Reference and Excellence
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is defined by the EAACI/GA?LEN/EDF/WAO
+guideline for the definition, classification, diagnosis and management of urticaria (1)
+as the spontaneous appearance of wheals, angioedema, or both for > 6 weeks.
+
+However, the underlying basic pathomechanisms of CSU are still largely unclear.
+
+This article is protected by copyright. All rights reserved.
+The first suggestion that CSU may have an autoimmune basis came from Rorsman
+in 1962 (2), who suggested an antigen-antibody reaction as a potential cause of the
+observed peripheral blood basopenia. It has subsequently been proposed that this
+
+autoimmunity may have two possible forms, Type | and Type IIb (3-6).
+
+A possible role of IgE-mediated Type | autoimmunity, also referred to as autoallergy,
+was postulated following observations of IgE autoantibodies to thyroperoxidase (7).
+More recently, CSU patients have also been shown to have IgE against double
+stranded DNA (8), interleukin-24 (9), tissue factor, and thyroglobulin (10). This is
+supported by the high rate of CSU patients with elevated IgE levels (11) and the fast
+onset of the beneficial effects of omalizumab (anti-IgE) in many CSU patients (12
+16).
+
+The hypothesis for Type IIb autoimmunity in CSU was initiated by reports that
+autologous sera injected intradermally produced a wheal at the site of injection (17).
+This is the autologous serum skin test (ASST) (1, 6). Subsequent studies showed
+that IgG antibodies to the patient’s own IgE or its high affinity receptor (FceRI) were
+instrumental in causing basophil and mast cell degranulation in vitro and are
+believed to be directly relevant to urticaria pathogenesis (3, 18-21). This response
+
+has been reviewed in detail recently (5, 22-24)
+
+Autoimmune chronic spontaneous urticaria (aiCSU) is defined here by the presence
+of functional and relevant mast cell-degranulating IgG autoantibodies to IgE or its
+high affinity receptor Fc RI (6). The diagnostic criteria of aiCSU are 1) positive in
+
+vivo autoreactivity (a positive ASST) as evidence of serum factors capable of an
+
+This article is protected by copyright. All rights reserved.
+inflammatory wheal response; 2) positive in vitro basophil reactivity (BASO+) (by
+basophil histamine release assay (BHRA) or basophil activation test (BAT)) as
+evidence of serum factors causing histamine release, basophil activation or both;
+and, 3) a positive immunoassay for specific identification of IgG autoantibodies
+against Fe RI and/or anti-IgE (western blot or ELISA) (6). As of now, these criteria
+have not been applied together to define a specific subgroup of autoimmune CSU.
+Consequently, the clinical features and potential biomarkers of aiCSU remain
+
+unknown.
+
+The aim of the international, prospective Profiling Urticaria for the Identification of
+Subtypes (PURIST) study was to better define and characterize features of
+“autoimmune” CSU that could be used in routine clinical practice to define the illness.
+PURIST was designed, funded, implemented and performed by a global consortium
+of urticaria centers of excellence, most of which are now UCARE centers (25). Here,
+we present the first results of the PURIST study with a focus on the demographic,
+
+clinical, and immunological profile of aiCSU and possible predictors.
+
+Methods
+
+Patients
+
+A total of 182 chronic spontaneous urticaria (CSU) patients (134 female, median age
+44 years, range 18 to 76 years) from 12 collaborating centres were recruited into the
+study. Because we wanted a predominantly ASST+ population, the number of
+ASST- patients who were recruited was no more than 75 patients, determined by a
+power calculation of the likely number of CSU patients with evidence of autoimmune
+
+urticaria based on literature available at the time. Ethics approval was obtained in
+
+This article is protected by copyright. All rights reserved.
+each of the cooperating centres and the study followed Good Clinical Practice
+guidelines and the Declaration of Helsinki. All volunteers gave signed informed
+consent to be included in the study. Exclusion criteria included individuals less than
+18 years of age, pregnant or lactating females or women planning pregnancy during
+the time of the study. Mentally incapacitated persons or persons patients protected
+by the law were also excluded from the study. Also excluded were patients with
+urticarial vasculitis and CSU patients who had undergone or were undergoing
+treatment with anti-IgE (omalizumab). Further exclusion criteria included the use of
+immunosuppressive drugs for 3 months or corticosteroids for 1 month before the
+screening visit or during the course of the study. The use of tricyclic antidepressants,
+doxepin, leukotriene receptor antagonists (LTRAs), H2-antihistamines,
+sulphasalazine, dapsone, tranexamic acid, warfarin or heparin during the 4 weeks
+before the screening visit and during the course of the study was prohibited. The use
+of H;-antihistamines was allowed in case of high urticaria activity (UAS 2 6) or in
+case of an emergency during the baseline scoring for UAS7 over 2 weeks (see
+section on UAS7 and correction or antihistamines). However, no H,-antihistamines
+
+were allowed during the 3 days prior to the diagnostic visit.
+
+Autologous Serum Skin Test (ASST)
+
+The autologous serum skin test was performed as recommended by the 2009
+EAACI/GA°LEN task force consensus report on the autologous serum skin test in
+urticaria (26) and as previously described (27). Wheal responses were measured at
+30 min, and the ASST response was taken to be positive, when the red serum
+induced wheal had a diameter at least 1.5 mm greater than the negative control (28).
+
+This article is protected by copyright. All rights reserved.
+Basophil Histamine Release Assay (BHRA)
+
+The serum-induced BHRA was to detect autoantibodies in patients’ sera that are
+directed against IgE or high affinity IgE receptors (FceRl). The assay was performed
+by a single centre (RefLab, Copenhagen) as previously reported (14). Briefly, a buffy
+coat containing 1-2 % basophils was prepared from fresh blood from four individual
+donors. The buffy coats were mixed an equal volume of RPMI and stored overnight
+at 2-8 °C. with IL 3 in a final concentration of 1 ng/ml. The following day the buffy
+coats were centrifuged to remove plasma and RPMI, washed with physiological
+saline and subsequently exposed to low pH using a stripping buffer, pH 3.6 from
+RefLab, to partially remove IgE from the basophils. Finally, the IgE-stripped samples
+were resuspended in Pipes buffer from RefLab before incubation with patient sera.
+Patient sera, at dilutions of 20%, and stripped buffy coat cells were incubated in a
+total volume of 100 ul for 60 minutes at 37 °C. After centrifugation 25 pL
+supernatants were transferred to glass fibre coated microliter plates and histamine
+was measured according to RefLab instructions. Total histamine content was
+determined after lysis of cells with 7 % perchloric acid. The assay variation was < 7
+% and its sensitivity 5 ng histamine /ml. A positive BHRA result was when histamine
+
+release was above 16.5% (29).
+
+Basophil activation test (BAT)
+
+The BAT was performed using sera as previously described (30, 31). Briefly, blood
+from healthy donors was centrifuged and the buffy coat collected and resuspended
+in stimulation buffer containing 2 ng/ml IL-3. The cells were then stimulated with 50
+ul of patient sera. After 30 min at 37°C, the stimulation was stopped and the serum
+
+was eliminated by washing the samples with cold washing buffer (PBS, 2 mM
+
+This article is protected by copyright. All rights reserved.
+EDTA). Samples were labeled with anti-lgE FITC and anti-CD63 PE for 30 min at
+4°C. The erythrocytes were lysed for 10 min at room temperature, and the samples
+were washed twice prior to analyzing them in a FACSCanto II flow cytometer
+(FACScan). Data were analyzed with FlowJo Tree Star software (Ashland, OR,
+USA). In all cases, dead cells were eliminated based on their forward (FSC) and side
+scattering (SSC) profiles (30). The test, which was performed in a single center, was
+considered positive when more than 5% of the total basophils were CD63
+positive, the value of the 95" percentile of CD63+ cells induced by control sera as
+
+previously described (31).
+
+IgG-anti-FceRI
+
+IgG antibodies to FceRla in CSU and control sera were detected using ELISA.
+FceRla (50 ng/ml, Mybiosource, San Diego, CA) was used to coat ELISA plates
+(Corning 3690, Kennebunk, ME). Following blocking with 10% FBS-PBST, 1:100
+diluted CSU and healthy control sera, pre-incubated for one hour with and without
+100 ng/ml soluble FceRla, were added to the plate in parallel for a 2-hour incubation,
+AP-labeled goat-anti-human IgG (KPL, Gaithersburg, MD) was used as the
+secondary detecting reagent and a reduction of signal by more than 50% was
+
+considered to indicate the presence of IgG antibodies to FceRla.
+IgG-anti-IgE
+
+Anti-lgE antibodies were assessed by ELISA as described (27). Extinctions of >0.2
+
+at 490 nm were considered positive.
+
+This article is protected by copyright. All rights reserved.
+IgG-anti-thyroperoxidase (IgG-anti-TPO) and total serum IgE
+
+IgG-anti-TPO was measured by immunoassay (Elecsys, Roche Diagnostics)
+
+and total serum IgE by immunoassay (Immuno-CAP-Fluorescence-Assay, Thermo
+Scientific) or nephelometric analysis in each study centre using their own standard
+procedures. The cut off value that was used to determine a low IgE level was 40
+
+IU/ml.
+
+UAS7 and correction for intake of H;-antihistamines
+
+The seven-day once daily urticaria activity score (UAS7) including wheal number and
+itch severity scores were assessed as described by the 2017 revision and update of
+the EAACI/GA?LEN/EDF/WAO guideline for the definition, classification, diagnosis,
+and management of urticaria (1). The UAS7 was calculated as the sum score of 7
+days (minimum: 0, maximum: 42), using the following modification to minimize the
+influence of on demand antihistamine medication. Antihistamine on demand
+medication was restricted to days on which patients had high disease activity, as
+reflected by a maximum UAS value of 6 for that day. The UAS score for the following
+day was not counted towards the UAS7, i.e. the day was censored, unless high
+disease activity was documented for this day, i.e. UAS = 6. The UAS7 was
+calculated by adding the UAS of the 7 non-censored days closest to the time point of
+
+evaluation.
+
+This article is protected by copyright. All rights reserved.
+Quality of Life assessment
+
+Patients’ quality of life (QoL) was assessed using the Chronic Urticaria Quality of Life
+questionnaire (CU-Q20L) (32) validated in the local language as recommended by
+the 2017 EAACI/GA2LEN/EDF/WAO Guideline for the Definition, Classification,
+Diagnosis and Management of Urticaria (1). CU-Q2oL measures various aspects of
+
+QoL on a 0-100 scale with low scores indicating better QoL.
+
+Statistical Analyses
+
+Binominal variables were analyzed using Chi-square test. The numbers of patients
+within groups were compared using Fisher’s Exact test. Continuous variables were
+compared using Mann-Whitney test. Correlations were calculated using Spearman's
+rank correlation coefficient and tested using asymptotic t approximation. P < 0.05
+
+was considered to indicate statistical significance.
+
+Results
+
+Many CSU patients exhibit one or two, but not all three diagnostic criteria of
+
+aiCSU
+
+Of 182 CSU patients analyzed, 160 had at least one of the three criteria of aiCSU,
+107 had a positive ASST (ASST+, 59%), 46 had a positive result in either the
+basophil histamine release assay, the basophil activation test or both) (BASO+,
+25%), and 105 had positive serum levels of IgG-anti-Fce RI, lgG-anti-IgE or both)
+(IgG-anti-Fc RI+/lgE+, 58%). In total, 15 of 182 patients (8%) in the predefined
+
+PURIST population fulfilled all three criteria of aiCSU (Figure 1).
+
+This article is protected by copyright. All rights reserved.
+The demographic and clinical features of aiCSU are not unique
+
+Patients with aiCSU were demographically and clinically similar to CSU patients who
+had no criteria of aiCSU (non-aiCSU) and to CSU patients with one or two, but not all
+three, criteria of aiCSU (partial-aiCSU, Table 1). There were large ranges in median
+patient age and duration of disease in all groups of patients with only small
+differences between them. The majority of patients in all three groups were female.
+There was no significant difference between the percentage of patients with
+angioedema, 56% - 80%, in the different groups. Urticaria activity and impact as
+assessed by UAS7 and CU-Q2oL, respectively, were compared. Except for higher
+disease activity (UAS7) in aiCSU patients vs non-aiCSU patients (P = 0.016),
+scoring was similar in all groups (Table 1). Additional demographic and clinical
+parameters were assessed, but were also not specific for aiCSU (Supplemental
+
+Table 1).
+
+Patients with aiCSU exhibit a unique immunological profile
+
+Patients with aiCSU had markedly lower total IgE levels, i.e. 22 vs 102 and 108 IU/ml
+(P< 0.001 and P< 0.0001) and higher rates of low total IgE (< 40 IU/ml, P< 0.01 and
+P< 0.0001) compared with non-aiCSU and partial-aiCSU patients respectively (Table
+1). Also, IgG-anti-TPO levels were markedly higher in aiCSU (P < 0.01 and P <
+0.0001), and the rates of elevated IgG-anti-TPO were greater (P< 0.05 and P< 0.01)
+than in either non-aiCSU or partial-aiCSU patients. The proportions of patients, who
+had low IgE levels and elevated IgG-anti-TPO levels, were higher in aiCSU patients
+(41%) than in partial-aiCSU patients (9%) and non-aiCSU patients (0%).
+Furthermore, the mean ratio of |gG-anti-TPO levels to IgE levels in aiCSU patients
+
+was some 15 times greater than in partial-aiCSU patients (P < 0.0001) and some 35
+
+This article is protected by copyright. All rights reserved.
+times greater than in non-aiCSU patients (P = 0.025) (Figure 2). Patients with aiCSU
+also showed higher rates of basopenia in comparison to partial-aiCSU patients
+(P=0.035). The overall occurrence of autoimmune diseases, including vitiligo were
+
+found to be similar between groups (Table 1).
+
+The immunological profile of aiCSU patients is shared with BASO+ CSU
+patients, but not ASST+ or IgG-anti-FceRI+/IgE+ CSU patients
+
+Patients with aiCSU and BASO+ CSU patients had comparable levels of total IgE,
+which were markedly lower than those of ASST+ or IgG-anti-FceRI+/IgE+ patients
+(Table 2). aiCSU patients and BASO+ CSU patients also had comparable levels of
+serum IgG-anti-TPO, which were markedly higher than those of ASST+ and IgG antiFceRI+/lgE+ patients. Similar to aiCSU patients, levels of total IgE and of IgG-antiTPO were inversely correlated in BASO+ patients (r = -0.354, P = 0.03), which they
+were not in ASST+ or IgG-anti-FceRI+/lgE+ patients. Also, the rates of patients who
+had both, low IgE and elevated IgG-anti- TPO levels were similar in aiCSU patients
+(41%) and BASO+ CSU patients (39%) and higher than in ASST+ patients (18 %) or
+
+IgG-anti-FceRI+/IgE+ patients (19 %).
+
+Can a positive basophil reactivity assay predict aiCSU?
+
+From the data in Table 2 it was calculated that BASO+ was 100% predictive for
+aiCSU against non-aiCSU. In contrast, ASST+ and IgG-anti-FceRI+/IgE+ were only
+27% and 28% predictive for aiCSU against non-aiCSU, respectively. To investigate
+which individual basophil test was more predictive for aiCSU against non-aiCSU, the
+immunological profiles of the basophil histamine release assay (BHRA) and basophil
+
+activation test (BAT) were determined separately (Table 3). Calculations made from
+
+This article is protected by copyright. All rights reserved.
+these data showed that the predictive value of BHRA of 88% was higher than that of
+
+BAT of 69%. No tests were significantly predictive for aiCSU against partial-aiCSU.
+
+Discussion
+
+The results of the PURIST study, the first study to assess CSU patients with three
+criteria to define a subgroup of patients with aiCSU as tightly as possible, show that
+aiCSU is distinct from non-aiCSU in its immunological profile. Low IgE and elevated
+IgG-anti-TPO are key features of this immunological profile and inversely correlated
+in aiCSU patients. Basophil tests for serum autoreactivity are best at predicting
+
+aiCSU.
+
+This study, by design, included more ASST+ than ASST- patients, which is why 61%
+of our patients were ASST+. This is higher than the rate of ASST+ patients in the
+general population of CSU patients. In CSU patients tested consecutively at
+specialized urticaria centers, the average rate of ASST+ was 38%.(33) The ASST+
+rate is likely to be even lower in patients seen by general practitioners or specialists
+outside of urticaria centers. Despite the positive selection towards ASST-+ in the
+PURIST patient population, only 8% of patients had true aiCSU, i.e. fulfilled all three
+
+criteria of autoimmune CSU, ASST+, BASO+, and IgG-anti-Fc RI+/IlgE+.
+
+aiCSU patients did have higher disease activity as illustrated by a significantly higher
+UAS7, but did not show differences in disease duration, angioedema frequency,
+quality of life scores compared to CSU patients who do not have aiCSU. We
+identified a trend towards later onset of disease, higher female preponderance,
+
+shorter duration of disease and higher rates of angioedema, but these were not
+
+This article is protected by copyright. All rights reserved.
+statistically significant. Previous studies, in which one or two criteria of aiCSU were
+assessed in CSU patients, demonstrated higher urticaria activity and impact in these
+patients. For example, Sabroe and coworkers reported that ASST+ patients had
+more wheals, with a wider distribution, higher itch scores and more systemic
+symptoms, than ASST- patients.(34) Caproni and coworkers showed that the overall
+frequency of urticarial episodes during the week before skin testing and number of
+spontaneous wheals were greater in ASST+ patients.(35) In another study, ASST+
+and BAT+ CSU patients also had significantly higher UAS7 values than ASST- and
+BAT- CSU patients.(36) At present, we cannot explain why this is. Differences in how
+disease activity was assessed may be relevant. PURIST, unlike earlier studies, used
+a unique UAS7 assessment that allowed for measuring disease activity without
+regular antihistamines. Possibly the numbers of aiCSU patients in PURIST were too
+low to detect statistically different clinical features. What is clear though is that
+physicians cannot know from what they learn from their CSU patients’ history,
+whether they have aiCSU or not. This, however, may be important and helpful and
+
+could improve management and treatment decisions, as we discuss below.
+
+Importantly, aiCSU patients have low total IgE, (median 30 IU), and 2 of 3 aiCSU
+patients have total IgE of less than 40 IU/ml. Previous studies have shown that
+serum autoreactivity assessed by BAT, a feature of aiCSU, is inversely correlated to
+IgE levels (37) and that total IgE serum levels are significantly lower in BAT+ than
+BAT- CSU patients as well as in ASST+ vs ASST- CSU patients.(38) IgE levels in
+partial-aiCSU and non-aiCSU PURIST patients were more than three times higher,
+
+on average higher than 100 IU/ml (the upper limit of normal). Their IgE levels and
+
+This article is protected by copyright. All rights reserved.
+rates of elevated IgE were similar to those reported previously for CSU patients.(11,
+
+39)
+
+Our study does not provide an explanation for why patients with aiCSU have low
+levels of IgE, and this needs to be addressed by future studies. The non- and
+possibly also the partial-aiCSU PURIST patients may have type | autoallergic CSU
+(aaCSU). Their total IgE levels may be elevated, because they make IgE to
+autoallergens. The presence of IgE against autoallergens in CSU patients has
+recently been shown to be linked to elevated total IgE levels.(40) Is the fact that
+aiCSU patients have low IgE levels clinically relevant? Low IgE levels have been
+linked by several studies to lower rates of response to anti-IgE treatment with
+omalizumab in CSU patients,(15, 41-43) suggesting that aiCSU patients respond
+differently to omalizumab. In line with this, a positive BAT and/or ASST is linked to
+
+slower responses to omalizumab.(14)
+
+The other immunological marker that we identified in aiCSU patients, viz their high
+IgG-anti-TPO levels and >50% rate of IgG-anti-TPO elevation, is just as interesting
+and important. In a previous study, 31% of BHRA+ CSU patients were positive for
+thyroid autoantibodies (AAbs), compared with only 12% of BHRA- patients.(7) Ina
+recent systematic review, the frequency of elevated antithyroid AAbs varied from 4%
+to 37% in 24 studies on CSU patients, and two-thirds of these studies reported rates
+of increased antithyroid AAbs in 210% of CSU patients.(22) Taken together, these
+findings suggest that the increased rates of anti-thyroid AAb elevation and comorbid
+autoimmune thyroid diseases observed in the total CSU population is largely driven
+
+by the aiCSU subpopulation of CSU exhibiting these immunological features. The
+
+This article is protected by copyright. All rights reserved.
+ability to distinguish aiCSU patients from other CSU patients would facilitate targeted
+screening of this subpopulation for autoimmune comorbidities,(44) which this study
+
+found to be more common in aiCSU patients.
+
+Interestingly, the immunological profile of aiCSU patients is shared by BASO+ CSU
+patients but not ASST+ or IgG anti-FceRI/IgE+ CSU patients, and a positive BAT or
+BHRA predicts aiCSU. This is helpful information for clinical practice as both, the
+BAT and the BHRA, are relatively easy to perform and commercially available.
+Compared with performing the ASST and measuring autoreactivity by basophil
+testing and assessing IgG-anti-FceRI and IgG-anti-IgE to identify aiCSU patients, the
+BAT or the BHRA alone is almost as sensitive and specific. Although this was not the
+focus of this study and further analyses are needed, between the BAT and the
+
+BHRA, the BHRA showed the higher predictive value for aiCSU, almost 90%.
+
+The PURIST study and these first analyses of its results come with several strengths
+and limitations, and they raise some important questions that need further research.
+The strengths include the large size of the multicentric and international PURIST
+CSU patient population studied and that we assessed all of these patients for three
+diagnostic criteria predefined for the purpose of aiCSU as well as the use of the two
+different assays available to screen CSU patients for serum autoreactivity, the BAT
+and the BHRA. Among its limitations, some of the routine assays were not done by a
+central laboratory, but rather by the centers involved, which may have increased the
+heterogeneity of data. Another interesting question to answer now is to figure out the
+underlying cause or causes in the more than 90% of CSU patients who do not meet
+
+the combined criteria for aiCSU. Testing non-aiCSU and partial-aiCSU patients for
+
+This article is protected by copyright. All rights reserved.
+aaCSU, i.e. CSU due to IgE to autoallergens, should be an aim of future studies.
+Other questions raised by our results include whether the BHRA is truly better than
+the BAT in identifying aiCSU (and if so why) and why aiCSU patients have lower
+than normal IgE levels. In terms of the clinical implications of our findings, larger
+studies are needed to better define the distinct clinical features of aiCSU patients
+and their responsiveness to anti-IgE treatment and to cyclosporine. Previous studies
+have shown that partial-aiCSU patients respond less well to omalizumab, slower and
+
+less often,(15, 45) and better to cyclosporine.(46)
+
+In conclusion, the findings of this study show that aiCSU is a relatively small but
+immunologically quite distinct subgroup of CSU. The immunological profile of aiCSU
+patients suggests that they could benefit from specific management and treatment.
+Inclusion of the BHRA or the BAT in the diagnostic work up of CSU patients may
+
+allow for the identification of aiCSU patients in clinical practice.
+
+References
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACI/GA(2)LEN/EDF/WAO Guideline for the Definition, Classification,
+Diagnosis and Management of Urticaria. The 2017 Revision and Update. Allergy
+
+2018;73(7):1393-1414.
+
+2. Rorsman H. Basophilic leucopenia in different forms of urticaria. Acta Allergol
+
+1962;17:168-184.
+
+3. Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CE, et al.
+
+Classification of anti-FcepsilonRI and anti-IgE autoantibodies in chronic idiopathic
+
+This article is protected by copyright. All rights reserved.
+urticaria and correlation with disease severity. J Allergy Clin Immunol
+
+2002;110(3):492-499.
+
+4. Maurer M, Altrichter S, Schmetzer O, Scheffel J, Church MK, Metz M.
+
+Immunoglobulin E-Mediated Autoimmunity. Front Immunol 2018;9:689.
+
+5. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M.
+Autoimmune chronic spontaneous urticaria: What we know and what we do not
+
+know. J Allergy Clin Immunol 2017;139(6):1772-1781 e1771.
+
+6. Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, et al.
+EAACI taskforce position paper: evidence for autoimmune urticaria and proposal for
+
+defining diagnostic criteria. Allergy 2013;68(1):27-36.
+
+7. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE
+mediated autoallergy against thyroid peroxidase--a novel pathomechanism of
+
+chronic spontaneous urticaria? PLoS One 2011;6(4):e14794.
+
+8. Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T, Terui
+T, et al. Significantly high levels of anti-dsDNA immunoglobulin E in sera and the
+ability of dsDNA to induce the degranulation of basophils from chronic urticaria
+
+patients. Int Arch Allergy Immunol 2013;161 Suppl 2:154-158.
+
+9. Schmetizer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24
+is a common and specific autoantigen of IgE in patients with chronic spontaneous
+
+urticaria. J Allergy Clin Immunol 2018;142(3):876-882.
+
+This article is protected by copyright. All rights reserved.
+10. Cugno M, Asero R, Ferrucci S, Lorini M, Carbonelli V, Tedeschi A, et al.
+Elevated IgE to tissue factor and thyroglobulin are abated by omalizumab in chronic
+
+spontaneous urticaria. Allergy 2018;73(12):2408-2411.
+
+Tt: Staubach P, Vonend A, Burow G, Metz M, Magerl M, Maurer M. Patients with
+chronic urticaria exhibit increased rates of sensitisation to Candida albicans, but not
+
+to common moulds. Mycoses 2009;52(4):334-338.
+
+12. Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an effective and
+rapidly acting therapy in difficult-to-treat chronic urticaria: a retrospective clinical
+
+analysis. J Dermatol Sci 2014;73(1):57-62.
+
+13. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential
+pharmacologic mechanisms of omalizumab in patients with chronic spontaneous
+
+urticaria. J Allergy Clin Immunol 2015;135(2):337-342.
+
+14. Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum
+autoreactivity predicts time to response to omalizumab therapy in chronic
+
+spontaneous urticaria. J Allergy Clin Immunol 2017;139(3):1059-1061 €1051.
+
+15: Deza G, Bertolin-Colilla M, Sanchez S, Soto D, Pujol RM, Gimeno R, et al.
+Basophil FcvarepsilonRI expression is linked to time to omalizumab response in
+chronic spontaneous urticaria. J Allergy Clin Immunol 2018;141(6):2313-2316
+
+e2311.
+
+16. Sanchez J, Sanchez A, Cardona R. Causal Relationship Between Anti-TPO
+IgE and Chronic Urticaria by In Vitro and In Vivo Tests. Allergy Asthma Immunol Res
+
+2019;11(1):29-42.
+
+This article is protected by copyright. All rights reserved.
+17. Grattan CE, Wallington TB, Warin RP, Kennedy CT, Bradfield JW. A
+serological mediator in chronic idiopathic urticaria--a clinical, immunological and
+
+histological evaluation. Br J Dermatol 1986;114(5):583-590.
+
+18. Grattan CE, Boon AP, Eady RA, Winkelmann RK. The pathology of the
+autologous serum skin test response in chronic urticaria resembles IgE-mediated
+
+late-phase reactions. Int Arch Allergy App! Immunol 1990;93(2-3):198-204.
+
+19. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating
+histamine releasing autoantibodies with functional properties of anti-lgE in chronic
+
+urticaria. Clin Exp Allergy 1991;21(6):695-704.
+
+20. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW.
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine release
+
+in chronic urticaria. N Eng! J Med 1993;328(22):1599-1604.
+
+21. Grattan CE, Francis DM, Slater NG, Barlow RJ, Greaves MW.
+Plasmapheresis for severe, unremitting, | chronic urticaria. Lancet
+
+1992;339(8801):1078-1080.
+
+22. Kolkhir P, Metz M, Altrichter S, Maurer M. Comorbidity of chronic
+spontaneous urticaria and autoimmune thyroid diseases: A systematic review.
+
+Allergy 2017;72(10):1440-1460.
+
+23. Kolkhir P, Borzova E, Grattan C, Asero R, Pogorelov D, Maurer M.
+Autoimmune comorbidity in chronic spontaneous urticaria: A systematic review.
+
+Autoimmun Rev 2017;16(12):1196-1208.
+
+This article is protected by copyright. All rights reserved.
+24. Maurer M, Altrichter S, Metz M, Zuberbier T, Church MK, Bergmann KC.
+Benefit from reslizumab treatment in a patient with chronic spontaneous urticaria and
+
+cold urticaria. J Eur Acad Dermatol Venereol 2018;32(3):e112-e113.
+
+25. Maurer M, Metz M, Bindslev-Jensen C, Bousquet J, Canonica GW, Church
+MK, et al. Definition, aims, and implementation of GA(2) LEN Urticaria Centers of
+
+Reference and Excellence. Allergy 2016;71(8):1210-1218.
+
+26. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CE. EAACI/GA(2)LEN task force consensus report: the autologous serum
+
+skin test in urticaria. Allergy 2009;64(9):1256-1268.
+
+27. | Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et
+al. Autologous whole blood injections to patients with chronic urticaria and a positive
+autologous serum skin test: a placebo-controlled trial. Dermatology 2006;212(2):150
+159.
+
+28. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A, Greaves MW.
+The autologous serum skin test: a screening test for autoantibodies in chronic
+
+idiopathic urticaria. Br J Dermatol! 1999;140(3):446-452.
+
+29. Platzer MH, Grattan CE, Poulsen LK, Skov PS. Validation of basophil
+histamine release against the autologous serum skin test and outcome of seruminduced basophil histamine release studies in a large population of chronic urticaria
+
+patients. Allergy 2005;60(9):1152-1156.
+
+30. Sanz ML, Gamboa PM, Antepara |, Uasuf C, Vila L, Garcia-Aviles C, et al.
+
+Flow cytometric basophil activation test by detection of CD63 expression in patients
+
+This article is protected by copyright. All rights reserved.
+with immediate-type reactions to betalactam antibiotics. Clin Exp Allergy
+
+2002;32(2):277-286.
+
+31. Szegedi A, Irinyi B, Gal M, Hunyadi J, Danko K, Kiss E, et al. Significant
+correlation between the CD63 assay and the histamine release assay in chronic
+
+urticaria. Br J Dermatol 2006;155(1):67-75.
+
+32. Baiardini |, Braido F, Bindslev-Jensen C, Bousquet PJ, Brzoza Z, Canonica
+GW, et al. Recommendations for assessing patient-reported outcomes and healthrelated quality of life in patients with urticaria: a GA(2) LEN taskforce position paper.
+
+Allergy 201 1;66(7):840-844.
+
+33. Metz M, Gimenez-Arnau A, Borzova E, Grattan CE, Magerl M, Maurer M.
+Frequency and clinical implications of skin autoreactivity to serum versus plasma in
+
+patients with chronic urticaria. J Allergy Clin Immunol 2009;123(3):705-706.
+
+34. Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves MW. Chronic
+idiopathic urticaria: comparison of the clinical features of patients with and without
+anti-FcepsilonRI or anti-lgE autoantibodies. J Am Acad Dermatol! 1999;40(3):443
+450.
+
+35. Caproni M, Volpi W, Giomi B, Cardinali C, Antiga E, Melani L, et al. Chronic
+idiopathic and chronic autoimmune urticaria: clinical and immunopathological
+
+features of 68 subjects. Acta Derm Venereol 2004;84(4):288-290.
+
+36.  Curto-Barredo L, Yelamos J, Gimeno R, Mojal S, Pujol RM, Gimenez-Arnau
+A. Basophil Activation Test identifies the patients with Chronic Spontaneous Urticaria
+
+suffering the most active disease. Immun Inflamm Dis 2016;4(4):441-445.
+
+This article is protected by copyright. All rights reserved.
+37. Cho CB, Stutes SA, Altrich ML, Ardoin SP, Phillips G, Ogbogu PU.
+Autoantibodies in chronic idiopathic urticaria and nonurticarial systemic autoimmune
+
+disorders. Ann Allergy Asthma Immunol! 2013;110(1):29-33.
+
+38. | De Swerdt A, Van Den Keybus C, Kasran A, Cadot P, Neyens K, Coorevits L,
+et al. Detection of basophil-activating IgG autoantibodies in chronic idiopathic
+
+urticaria by induction of CD 63. J Allergy Clin Immunol 2005;116(3):662-667.
+
+39. Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M. The clinical response to
+omalizumab in chronic spontaneous urticaria patients is linked to and predicted by
+
+IgE levels and their change. Allergy 2018;73(3):705-712.
+
+40. Shin YS, Suh DH, Yang EM, Ye YM, Park HS. Serum Specific IgE to Thyroid
+Peroxidase Activates Basophils in Aspirin Intolerant Urticaria. J Korean Med Sci
+
+2015;30(6):705-709.
+
+41. Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L, et al. Serum
+IgE as an immunological marker to predict response to omalizumab treatment in
+symptomatic chronic urticaria. J Allergy Clin Immunol Pract 2018;6(4):1386-1388
+
+e1381.
+
+42. Weller K, Ohanyan T, Hawro T, Ellrich A, Sussman G, Koplowitz J, et al. Total
+IgE levels are linked to the response of chronic spontaneous urticaria patients to
+
+omalizumab. Allergy 2018;In Press.
+
+43.  Asero R, Ferrucci S, Casazza G, Marzano AV, Cugno M. Total IgE and atopic
+status in patients with severe chronic spontaneous urticaria unresponsive to
+
+omalizumab treatment. . Allergy 2019;In Press.
+
+This article is protected by copyright. All rights reserved.
+44. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O, Goldberg A.
+Chronic urticaria and autoimmunity: associations found in a large population study. J
+
+Allergy Clin Immunol 2012;129(5):1307-1313.
+
+45. Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203cupregulating activity as an immunological marker to predict response to treatment
+with omalizumab in patients with symptomatic chronic urticaria. J Allergy Clin
+
+Immunol Pract 2016;4(3):529-530.
+
+46. Iqbal K, Bhargava K, Skov PS, Falkencrone S, Grattan CE. A positive serum
+basophil histamine release assay is a marker for ciclosporin-responsiveness in
+
+patients with chronic spontaneous urticaria. Clin Trans! Allergy 2012;2(1):19.
+
+This article is protected by copyright. All rights reserved.
+Table 1. The demographic, clinical and immunological features of autoimmune
+
+chronic spontaneous urticaria (aiCSU), non-autoimmune chronic spontaneous
+
+urticaria (non-aiCSU) and partial-autoimmune chronic spontaneous urticaria (partial
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aiCSU).
+
+aiCSU non-aiCSU partial-aiCSU
+
+n=15 n=22 n=145
+
+Demographic features
+Age in years, median (range) 62 (19 - 74) 47 (27 - 76) 42 (18 - 74) *
+Gender = female, % (n) 87% (13) 64% (14) 75% (107)
+Clinical features
+CSU duration in months, median (range) 15 (3 - 482) 42 (7 - 360) 18 (1 - 360)
+Angioedema, % (n) 80% (12) 76% (16) 56% (79)
+UAS7, median (range) 21 (0 - 42) 9 (0-31) * 17 (0 - 42)
+CU-Q2oL, median (range) 26 (0 - 54) 25 (8 - 60) 28 (0 - 75)
+Immunological features
+Total IgE in TU/ml, median (range) 22 (0 - 132) 102 (23 - 1401) ***| 108 (2 - 909) ****
+Total IgE <40 IU/ml, % (n) 86% (12) 26% (5) ** 23% (32) ****
+IgG-anti-TPO in kU/I, median (range) 153 (6 - 868) 10 (0 - 211) ** 9 (O- 1121) ***
+IgG-anti-TPO positive, % (n) 62% (8) 17% (3) * 23% (27) **
+Basopenia, % (n) 30% (3) 7% (1) 6% (5) *
+Elevated CRP, % (n) 29% (4) 33% (6) 22% (28)
+History of AID, % (n) 14% (2) 15% (3) 14% (18)
+Vitiligo, % (n) T% (1) 0% (0) 3% (4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Demographic, clinical, and immunological features of patients who fulfill all three
+
+criteria of chronic autoimmune urticaria (aiCSU), patients with no criteria of aiCSU
+
+(non-aiCSU) and patients with one or two criteria of aiCSU (partial-aiCSU). Statistical
+
+significance of differences from aiCSU patients are indicated as **** P < 0.0001, ***
+
+P<0.001, ** P< 0.01, * P< 0.05, and no asterisk indicates no statistically significant
+
+difference. Abbreviations: TPO thyroperoxidase; AID autoimmune disease; CRP C
+reactive protein; CU-Q2oL chronic urticaria quality of life; UAS7 7 day urticaria
+
+activity score.
+
+This article is protected by copyright. All rights reserved.
+
+ 
+Table 2. Table showing that CSU patients who are positive in either the basophil
+
+histamine release assay or the basophil activation test (BASO+) have a similar
+
+immunological profile to those of autoimmune chronic spontaneous urticaria (aiCSU).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 IgG antiaiCSU BASO+ ASST+ 8
+FceRI+/IgE+
+n=15 n=46 n=107
+n=105
+
+Total IgE in IU/ml, median (range) 22 (0 - 132)**** 35 (0 — 655) **** 85 (0 — 643)** 110 (0 - 909)
+Total IgE <40 IU/ml, % (n) 86% (12)**** 61% (25) **** 36% (37)* 22% (21)*
+IgG-anti-TPO in kU/I, median (range) 153 (6 - 868)*** 70 (0 — 2444) #9 12 (0- 2444) 10 (0 - 868)
+TgG-anti-TPO positive, % (n) 62% (8) ** 55% (21) **** 31% (27) * 25% 21)
+Basopenia, % (n) 30% (3)* 21% (6)** 10% (7) 8% (5)
+Elevated CRP, % (n) 29% (4) 41% (16)** 23% (21) 19% (17) *
+History of AID, % (n) 14% (2) 33% (13) ** 12% (1) 11% (10)
+Vitiligo, % (n) 7% (1) 13% (5) 4% (4) 1% (1)
+
+ 
+
+ 
+
+Statistical significance of differences from patients who tested negative in each test used, i.e.
+aiCSU vs aiCSU- (partial-aiCSU or non-aiCSU), BASO+ vs BASO-, ASST+ vs ASST- and
+IgG anti-FceRI+/lgE+ vs IgG anti-FceRI+/IgE- are indicated as **** P < 0.0001, *** P< 0.001,
+™ P-<0.01, * P< 0.05. No asterisk indicates no statistically significant difference.
+Abbreviations: TPO thyroperoxidase; CRP C-reactive protein; AID autoimmune disease;
+aiCSU, autoimmune chronic spontaneous urticaria; BASO+ positive result in the basophil
+histamine release assay (BHRA) and/or the basophil histamine activation test (BAT); ASST+,
+positive result in the autologous serum skin test); IgG anti-FceRI+/IgE+, positive for serum
+
+levels of IgG anti-FceRI or IgG anti-lgE.
+
+This article is protected by copyright. All rights reserved.
+Table 3. Comparison of the individual profiles of Serum autoreactivity shown by
+
+basophil testing predicts autoimmune chronic spontaneous urticaria (aiCSU).
+
+ 
+
+BASO+
+n=46
+
+BHRA+
+n=20
+
+BAT+
+n=41
+
+ 
+
+Immunological features
+
+ 
+
+Total IgE in TU/ml, median (range)
+
+35 (0 — 655)*#*
+
+22 (3 — 220)*#**
+
+35 (0 — 655)###
+
+ 
+
+Total IgE <40 TU/ml, % (n)
+
+61% (25)
+
+84% (16)
+
+61% (22)****
+
+ 
+
+IgG-anti-TPO in kU/I, median (range)
+
+70 (0— 2444) ####
+
+ 
+
+281 (0 — 2444)****
+
+153 (0 — 2444) ****
+
+ 
+
+IgG-anti-TPO positive, % (n)
+
+55% (21) ***
+
+65% (13) *#
+
+58% (19) *#*
+
+ 
+
+Basopenia, % (n)
+
+21% (6)**
+
+31% (5)**
+
+22% (5)*
+
+ 
+
+Elevated CRP, % (n)
+
+41% (16)**
+
+28% (5)
+
+34% (14)*
+
+ 
+
+History of AID, % (n)
+
+33% (13)***
+
+35% (7)*
+
+35% (12) ***
+
+ 
+
+ 
+
+Vitiligo, % (n)
+
+ 
+
+13% (5)***
+
+ 
+
+20% (4
+
+ 
+
+15 % (5)*
+
+ 
+
+Statistical significance of differences from patients who tested negative in each test
+used, i.e. BASO+ vs BASO-, BHRA+ vs BHRA-, BAT+ vs BAT-, are indicated as **** P
+< 0.0001, *** P< 0.001, ** P< 0.01, * P< 0.05, and no asterisk indicates no statistically
+significant difference. Abbreviations: TPO thyroperoxidase; AID autoimmune disease;
+
+CRP C-reactive protein. BASO+, positive in either BHRA or BAT; BHRA+, positive in the
+
+basophil histamine release assay; BAT+, positive in the basophil activation test.
+
+This article is protected by copyright. All rights reserved.
+
+ 
+Figure Legends
+Figure 1. Venn diagram of the number of patients with constituent components of
+autoimmune chronic spontaneous urticaria (aiCSU). The diagram shows the
+numbers of 182 patients who were ASST positive (ASST+, n=107, 59%), positive in
+either the basophil histamine release assay or the basophil activation test (BASO+,
+n=46, 25%), positive for serum levels of IgG anti-FceRI or IgG anti-IgE (IgG antiFceRI+/IgE+, n=105, 58%), positive for all three criteria of aiCSU (n=15, 8%), ASST+
+and BASO+ (n=27, 15%), ASST+ and IgG anti-FceRI+/lgE+ (n=40, 22%) and
+
+BASO+ and IgG anti-FceRI+/IgE+ (n=4, 2%0.
+
+Figure 2. Ratios of serum IgG-anti-thyroperoxidase (TPO) to total serum IgE. The
+groups are autoimmune CSU (aiCSU, n=12), partial-aiCSU (n=12) and non-aiCSU
+
+(n=121).
+
+This article is protected by copyright. All rights reserved.
+Figure 1
+
+ 
+
+This article is protected by copyright. All rights reserved.
+Figure 2
+
+ 
+
+ 
+
+P< 0.0001
+I 1
+80 P= 0.025 n.s.
+wi
+2
+£ 60
+=
+°
+2
+fe)
+o
+ur
+a
+c
+Vy
+(6)
+2
+—
+[e)
+2
+=
+Co
+a
+Part- Non
+aiCSU
+
+aiCSU aiCSU
+
+This article is protected by copyright. All rights reserved.
+

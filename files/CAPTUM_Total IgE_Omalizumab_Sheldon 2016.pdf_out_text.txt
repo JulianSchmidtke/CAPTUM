@@ -1,0 +1,2712 @@
+Adv Ther (2016) 33:225-251
+DOI 10.1007/s12325-016-0287-8
+
+ORIGINAL RESEARCH
+
+@® CrossMark
+
+Pharmacokinetics, Pharmacodynamics, and Safety
+of MEDI4212, an Anti-[gE Monoclonal Antibody,
+in Subjects with Atopy: A Phase I Study
+
+Eric Sheldon - Martin Schwickart - Jing Li - Keunpyo Kim 
+Sarah Crouch * Shaista Parveen - Chris Kell - Claire Birrell
+
+To view enhanced content go to www.advancesintherapy.com
+Received: November 18, 2015 / Published online: February 3, 2016
+
+© Springer Healthcare 2016
+
+ABSTRACT
+
+Introduction: The
+omalizumab is currently licensed for the
+treatment of moderate to severe allergic
+
+anti-IgE therapy
+
+asthma and chronic idiopathic urticaria.
+
+Owing to limitations in the use _ of
+omalizumab, a need exists for optimized
+anti-IgE therapies to broaden clinical
+indications and patient populations, and to
+improve dosing schedules. The objective of
+this phase _ I, randomized, placebo/
+omalizumab-controlled, first-in-human,
+dose-escalation study was to evaluate the
+
+pharmacokinetics, pharmacodynamics, and
+
+ 
+
+Electronic supplementary material The online
+version of this article (doi:10.1007/s12325-016-0287-8)
+contains supplementary material, which is available to
+authorized users.
+
+E. Sheldon
+Miami Research Associates, South Miami, FL, USA
+
+M. Schwickart - J. Li
+MedImmune, Mountain View, CA, USA
+
+K. Kim
+MedImmune, Gaithersburg, MD, USA
+
+ 
+
+S. Crouch - S. Parveen - C. Kell - C. Birrell (2)
+MedImmune, Granta Park, Cambridge, UK
+e-mail: BirrellC@medimmune.com
+
+ 
+
+ 
+
+ 
+
+safety of the high-affinity, anti-IgE therapy
+
+MEDI4212 in non-Japanese and Japanese
+subjects with atopy and/or diagnostic
+IgE >30 IU/mL.
+
+Methods: Subjects with atopy and/or baseline
+IgE >301U/mL were randomized to a single
+dose of subcutaneous (5, 15, 60, 150, or
+300 mg) or intravenous (300mg) MEDI4212,
+subcutaneous omalizumab, or placebo.
+Following administration, pharmacokinetic,
+pharmacodynamic [IgE (free and total), and
+FceRI expression], and
+assessments were made.
+
+Results: MEDI4212 rapidly suppressed free
+serum IgE to a_ greater
+
+cellular safety
+
+extent than
+omalizumab; however, recovery of free IgE to
+baseline in MEDI4212-dosed subjects was rapid
+when compared with the slow and gradual
+recovery seen in omalizumab-dosed
+individuals. The loss of IgE suppression
+corresponded with a rapid decrease of serum
+MEDI4212. FceRI expression on dendritic cells
+and basophils was reduced following MEDI4212
+dosing. MEDI4212 was well tolerated by
+subjects; adverse events were generally of low
+severity and no subjects discontinued due to
+adverse events.
+
+4 Adis
+226
+
+Conclusions: The increased potency of
+MEDI4212 may be of clinical interest for
+individuals with high-diagnostic IgE levels
+where more extensive IgE suppression is
+required for clinical response. However, the
+modest duration of free IgE suppression below
+the target concentration noted with MEDI4212
+in this study suggests limited potential for
+dosing schedule advantages over omalizumab.
+Funding: MedImmune.
+
+Trial registration: ClinicalTrials.gov identifier,
+NCT01544348.
+
+Keywords: Antibody; Anti-IgE; Atopic;
+High-affinity; IgE; MEDI4212; Monoclonal;
+Omalizumab
+
+INTRODUCTION
+
+Atopy is a hypersensitivity syndrome defined as
+a propensity to rapidly generate
+immunoglobulin (Ig) E antibodies following
+exposure to minimal quantities of common
+allergens such as pollen, dust mites and certain
+foods [1]. Atopy presents clinically as allergic
+diseases such as allergic asthma, allergic
+rhino-conjunctivitis, and atopic dermatitis [2].
+Allergic diseases are among the most common
+health issues worldwide [3] and can markedly
+interfere with a patient’s quality of life [4].
+
+The role of IgE antibodies in allergic disease
+is well documented and clinically validated [5,
+6]. IgE released from B lymphocytes binds to
+and cross-links high-affinity IgE receptors,
+FceRI, on the surface of mast cells and
+basophils, triggering cellular activation and
+degranulation that drives inflammatory
+responses [5]. Increased serum IgE levels can
+provide a positive feedback loop of enhanced
+allergic sensitization [7]. T-helper type 2 cells
+can be stimulated by mast cells and basophils
+
+4 Adis
+
+Adv Ther (2016) 33:225-251
+
+that have undergone cellular activation in
+response to IgE [5]. Additionally, effector
+functions in monocytes and eosinophils can
+also be induced by IgE [8, 9], and IgE-mediated
+cross-linking of FceRI on plasmacytoid dendritic
+cells (pDC) can induce interleukin-10 secretion
+and inhibit interferon-« production [10, 11].
+Anti-IgE therapy inhibits binding of IgE to its
+receptors [6], and can downregulate FceRIla on
+human basophils [12, 13], mast cells [14], and
+dendritic cells [15]. Omalizumab is a humanized
+monoclonal antibody (mAb) against IgE which
+has been shown to reduce asthma exacerbation
+rates, emergency visit rates, and asthma
+symptoms compared with placebo in patients
+with moderate to severe allergic asthma [16, 17].
+Omalizumab is currently licensed for the
+reatment of moderate to severe and severe
+asthma [18], however, the use of omalizumab is
+restricted by upper limits in baseline IgE
+<7001U/mL (USA); <1500IU/mL (EU)], and
+patient weight [<60 kg for IgE >600-700 IU/mL
+(USA); <50 kg for IgE 1300-1500 IU/mL (EU)]
+18]. Additionally, while omalizumab is also
+effective at treating chronic idiopathic urticaria
+19], its efficacy and clinical benefit in other
+
+ 
+
+allergic conditions is not yet proven [2, 6]. There
+exists a need for optimized anti-IgE treatments,
+with greater potency for IgE suppression and less
+frequent dosing regimens than omalizumab,
+which can also be used in patients with higher
+baseline IgE levels and greater body weight.
+Pharmacokinetic (PK)/pharmacodynamics (PD)
+modeling data has demonstrated that anti-IgE
+mAbs with increased affinity may be beneficial
+for the treatment of patients whose IgE levels or
+body weight falls outside the dosing
+requirements for omalizumab [20]. As such,
+novel anti-IgE therapies with higher affinities
+for IgE are being widely studied to fulfill these
+needs [21, 22].
+Adv Ther (2016) 33:225-251
+
+MEDI4212 is a human mAb which targets
+the IgE pathway with high-affinity by
+selectively binding IgE and_ blocking its
+binding to FceRI and FceRII/CD23 (low-affinity
+IgE receptor) [23]. Pre-clinical ex vivo analysis
+demonstrated that MEDI4212 binds human IgE
+with an affinity of 1.95 pM (>100-fold greater
+than the affinity of omalizumab) and is more
+potent than omalizumab at preventing IgE
+binding to FceRI and suppressing endogenous
+IgE levels in human sera [23].
+
+The objectives of this first-in-human study
+were to assess the safety, tolerability,
+and PD of single
+ascending subcutaneous (SC) and intravenous
+(IV) doses of MEDI4212 in adult subjects with
+atopy and/or baseline IgE >30 IU/mL. The focus
+of the PK and PD assessments were to evaluate
+the effects of single SC and IV doses of
+MEDI4212 and omalizumab on serum IgE
+
+immunogenicity, PK,
+
+concentrations (free and total) and on FceRI
+receptor expression on basophils and dendritic
+cells, and how the effects of single doses of
+MEDI4212 compared with that of single doses
+of omalizumab.
+
+METHODS
+
+This was a phase I, randomized, placebo/
+omalizumab-controlled, first-in-human
+dose-escalation study (ClinicalTrials.gov
+identifier, NCT01544348) conducted at seven
+sites in the USA between January 24, 2012 and
+
+June 12, 2013.
+Subjects
+
+Eligible subjects were non-Japanese or Japanese
+men or women aged 18-60 years who were of
+non-childbearing potential with a current
+diagnosis of allergic rhinitis, allergic asthma,
+
+227
+
+or atopic dermatitis, and/or diagnostic IgE
+concentrations >30IU/mL (some
+subjects were deemed healthy).
+
+Japanese
+Inclusion
+criteria included a body weight of 45-150 kg
+(45-90 kg for omalizumab administration) and
+a forced expiration volume in 1s (FEV)
+of >80% of predicted value; study participants
+who did not have a diagnosis of asthma with
+FEV, <80% predicted were included if deemed
+free of lung Non-prohibited
+medications for the management of identified
+
+disease.
+
+comorbidities were permitted. Japanese subjects
+with serum IgE >30 IU/mL were included in the
+study to broaden the understanding of the
+effects of a single dose of MEDI4212 on safety,
+PK, and PD in Japanese subjects. Japanese
+subjects were born in Japan, had a valid
+Japanese passport, had not lived outside Japan
+for more than 5 years at the time of screening,
+and had parents (and both sets of grandparents)
+who were Japanese.
+
+Exclusion criteria included: exposure to an
+anti-IgE mAb within 12months prior to
+screening, hyper IgE syndrome, prior history of
+immune complex disease/type 3 hypersensitivity
+reactions, or prior infusion reaction to mAb
+administration. Prohibited medications included
+oral corticosteroids, medium-high-dose inhaled
+corticosteroids/long-acting beta2-agonists as
+defined in the Global Initiative for Asthma
+guidelines [24], immunosuppressives, and beta
+blockers. Subjects must not have received allergy
+immunotherapy within 7 days of investigational
+product administration.
+
+All procedures followed were in accordance
+with the ethical standards of the responsible
+committee on human _— experimentation
+(institutional and national) and with the
+Helsinki Declaration of 1964, as revised in
+2013. Informed consent was obtained from all
+patients for being included in the study.
+
+4 Adis
+228
+
+Study Design
+
+Subjects were screened within 28 days prior to
+dosing, and subjects were admitted to the study
+site 1 day prior to dosing (inpatient period; day
+0). Subjects were randomized to dose cohorts on
+day O using interactive web/voice-response
+systems. Subjects were pooled according to
+their screening diagnostic IgE concentrations
+as follows: Group) A,  30-7001U/mL
+(low-diagnostic IgE); Group B, >700-1200 IU/
+mL (high-diagnostic IgE); Group C,
+IgE >1200 IU/mL (high-diagnostic IgE); Group
+D, 30-500 IU/mL (low-diagnostic IgE); Group
+E, >700 IU/mL (high-diagnostic IgE); and Group
+F, >30 IU/mL (low-diagnostic IgE). Body weight
+of subjects were 45-150 kg (Groups A, B, and C),
+45-90 kg (Group D), and 45-150 kg (Groups E
+and F). Non-Japanese subjects from Groups A-E
+were randomized to cohorts 1-6 to receive a
+single dose of MEDI4212 (Fig. 1), omalizumab
+(Group D), or placebo (Fig. 1). Japanese subjects
+from Group F were randomized to cohorts 7-9
+to receive a single dose of MEDI4212 or placebo
+(Fig. 1). The numbers of subjects from Groups
+A-F who were randomized into each cohort are
+displayed in Fig. 1. Within cohorts 1-6, subjects
+were stratified by screening diagnostic IgE
+concentrations as follows: low-diagnostic IgE,
+30-700 IU/mL; high-diagnostic IgE, >700 IU/
+mL or >1200 IU/mL (Fig. 1). Subjects who were
+randomized to cohort 4a to receive MEDI4212
+150 mg SC or omalizumab 150 or 300 mg SC
+had a diagnostic IgE of 30-500 IU/mL (classified
+as low-diagnostic IgE). Japanese subjects in
+cohorts 7-9 had diagnostic IgE >30 IU/mL.
+Investigational product was administered on
+day 1. Within each dosing cohort, MEDI4212 was
+administered to the second subject 24 h after the
+first. After a further 24h, the remaining subjects
+within the cohort were administered MEDI4212.
+
+4 Adis
+
+Adv Ther (2016) 33:225-251
+
+Dose escalation to a new cohort was only initiated
+after at least 75% of subjects in the previous
+cohort had completed 7 days of follow-up without
+the occurrence of any significant safety events. For
+the two lowest dose cohorts a minimum of four
+subjects was required for dose escalation, and for
+the subsequent cohorts a minimum of seven
+subjects was required for dose escalation. If no
+safety concerns were identified, subjects were
+discharged on day 3 after completion of study
+procedures and were followed-up for 12 weeks
+after dosing.
+
+Assessments
+
+Assessments were made on days 0, 1 (pre-dose
+and post-dose), 2, 3, 5, 8, 15, 22, 29, 43, 57, and
+85. Assays used for PK, PD, and immunogenicity
+assessments were internally validated by
+MedImmune. For data analysis of PK/PD
+assessments, days-after-dosing was used rather
+than study day (ie., “study day 1” equals
+“O days after dosing”).
+
+Pharmacokinetics Assessments
+
+For SC MEDI4212, blood samples for PK
+assessment were taken on day 1 (pre-dose) and
+on all subsequent study visits; for ['V MEDI4212
+(cohort 6), blood samples were taken pre-dose,
+
+ 
+
+2h+ 15 min post-dose, and on all subsequent
+study visits.
+
+To measure MEDI4212, diluted serum
+samples, standard curve calibrators and quality
+control (QC) samples were
+
+microtiter plate wells coated with a mouse
+
+incubated in
+
+monoclonal MEDI4212 anti-idiotype antibody
+(clone IgE-023). After incubation and washing,
+bound MEDI4212 was detected with diluted
+horseradish peroxidase labeled anti-human
+IgGl (Southern Biotech, Birmingham, AL,
+USA).
+
+Plates were washed and
+Adv Ther (2016) 33:225-251
+
+D1
+
+229
+
+D85 D1 D85
+
+4 subjects from Groups A
+and 6 subjects from
+Group E per cohort D1
+
+Cohort 5 (300 mg SC)
+
+}—____t
+
+6 subjects from
+
+Cohort 4b (150 mg SC)
+Group E
+
+13 subjects from
+Group D
+
+4 subjects from
+Groups A, B, and C
+
+4 subjects from
+Group A per cohort
+
+Fig. 1 Study design and dose escalation. Subjects were
+randomized in a 3:1 (cohorts 1-3; cohorts 5 and 6) or 5:1
+ratio (cohort 4b; cohorts 5 and 6) to receive SC or IV
+MEDI4212 or placebo, or a 6:6:1 ratio to receive SC
+
+tetramethylbenzidine substrate was added to
+the plate, followed by sulfuric acid. The optical
+density was read on a Spectramax Plus 384 plate
+reader (Molecular Devices, Sunnyvale, CA,
+USA). The minimal required sample dilution
+was 1:20. The dynamic range of the assay
+ranged from 4.167 to 100 ng/mL. As such, the
+lower limit of quantitation was 84.34 ng/mL
+backcalculated to 100% serum.
+
+Omalizumab was measured by incubating
+diluted samples,
+calibrators and QC samples were incubated in
+biotinylated IgE-coated streptavidin SECTOR
+plate (Meso Scale Discovery, Rockville, MD,
+
+serum standard curve
+
+Cohort 4a (150 mg SC) |
+D
+
+1 D85
+
+D1 D85
+D1 D85
+
+Safety review
+
+}
+
+D85 D1 D85
+
+Cohort 8 (150 mg SC)
+
+D85 D1 D85
+
+For Cohorts 7-9:
+8 subjects from Group F
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Group IgE level Body weight
+A IgE 30-700 IU/mL
+B IgE >700-1,200 IU/mL} 45-150 kg
+Cc IgE >1,200 IU/mL
+D IgE 30-500 IU/mL 45-90 kg
+E IgE >700 IU/mL 45-150 kg
+F IgE 230 IU/mL
+
+ 
+
+MEDI4212, omalizumab or placebo. Japanese subjects
+(cohorts 7-9) were randomized in a 3:1 ratio to receive SC
+MEDI4212 or placebo. IV intravenous, SC subcutaneous
+
+USA). After incubation and washing, bound
+detected with diluted
+ruthenium-labeled IgE (MedImmune). Plates
+were washed and Meso Scale Diagnostics
+(MSD) Read buffer (Meso Scale Discovery) was
+added to the plate. Electrochemiluminescence
+
+omalizumab was
+
+(ECL) was read on an MSD Sector Imager (Meso
+Scale Discovery). The minimal required dilution
+was 1:20. The dynamic range of the assay
+ranged from 10.29 to 2500ng/mL. As such,
+the lower limit of quantitation was 205.76 ng/
+mL backcalculated to 100% serum.
+
+PK parameters calculated
+
+were using
+
+standard methodology by non-compartmental
+
+4 Adis
+230
+
+analysis using Phoenix WinNonlin (version 6.3,
+Certara LP, St Louis, MO, USA). PK parameters
+assessed included: terminal half-life (t,), time to
+
+maximum plasma _ concentration = (tmax),
+maximum observed plasma _ concentration
+(Gira) area under the plasma
+
+concentration-time curve from time 0 to
+infinity (AUCo ins), bioavailability (F), serum
+clearance (CL and CL/F), and volume of
+distribution (V, and V,/F). Subjects who had
+less than 3 samples from different PK
+timepoints at terminal elimination phase were
+excluded from the ty, calculation, as AUCo_ins,
+CL, CL/F, and V,, V,/F could not be determined
+through WinNonlin when the t, was not
+available.
+
+Immunogenicity
+
+Immunogenicity was assessed on days 1
+(pre-dose), 15, 43, and 85 using a validated
+ECL assay to detect anti-MEDI4212 antibodies
+in serum samples. A tiered approach to detected
+anti-drug antibody (ADA) screening/
+confirmation/titration assay was employed.
+This assay was a homogeneous double
+bridging assay. All samples including positive
+control and the negative control were diluted in
+buffer containing FceR1-Fc receptor and
+pre-incubated for approximately lh. A
+polyclonal antibody to MEDI4212 served as
+the positive control. The screening assay
+method utilized biotinylated and
+ruthenium-labeled MEDI4212 as the capture
+and detection reagents, respectively.
+Pre-incubated samples including positive and
+negative controls, biotinylated MEDI4212, and
+ruthenium-conjugated MEDI4212 were mixed
+and incubated at room temperature for
+approximately 2h. Antibody to IgE (clone
+#7E6.1, MedImmune) was also added to the
+mixture to block non-specific signals. The
+mixture was subsequently incubated on a
+
+4 Adis
+
+Adv Ther (2016) 33:225-251
+
+streptavidin coated MSD plate (Meso Scale
+ambient
+
+ 
+
+Discovery) for 1h+10min_ at
+temperature. The assay plates were washed
+before the addition of the 2X MSD Read Buffer
+T, and then read using an MSD Sector Imager
+(Meso Scale Discovery). In the confirmatory
+assay, screening-positive samples were tested
+with and without MEDI4212 for specificity.
+
+Pharmacodynamics Assessments
+The sampling frequency for free and total IgE
+was identical to PK assessments. Minimal
+concentration of free IgE post-dosing and
+suppression (IgE <24ng/mL,
+101U/mL) were reported.
+Maximum fold accumulation of total IgE after
+dosing was calculated.
+
+duration of
+equivalent to
+
+Measurement of free IgE concentration in
+human serum was as described in the paragraph
+below. Standard MSD bare 96-well plates were
+coated with 0.4 y1g/mL FCeR1lo-FC chimera
+(MedImmune). The plates were washed and
+then blocked with fetal bovine serum (FBS),
+then washed again prior to addition of reference
+standard, QC samples and serum test samples
+(neat or diluted in FBS). The samples were
+incubated for approximately 30min at room
+temperature, the plates were washed, and
+captured IgE was detected by
+ruthenium-labeled mouse anti-IgE antibody
+(clone 8C6.1, MedImmune). MSD Read Buffer
+T was added to the plate and the ECL signal for
+each plate well was measured by an MSD Sector
+
+addition
+
+Imager. The analytical range of the assay in
+undiluted samples was between 1.172 and
+150 ng/mL free IgE. Samples before dosing
+with MEDI4212 or omalizumab were measured
+diluted. Post-dose samples were measured
+undiluted or diluted at 1:10, 1:100 or 1:1000.
+If below the upper limit of quantitation,
+post-dose free IgE concentrations were
+
+reported from undiluted samples. If undiluted
+Adv Ther (2016) 33:225-251
+
+samples were above the upper limit of
+quantitation, the concentration was reported
+from the lowest dilution that was within the
+analytical range of the
+
+concentrations in this
+
+assay. Free IgE
+report are
+dilution-adjusted concentrations.
+Measurement of total IgE concentration in
+human serum was as described in the paragraph
+below. Standard MSD bare 96-well plates were
+coated with 2 g/mL of the mouse anti-human
+IgE clone 8C6.1 (MedImmune). To measure
+total IgE from individuals in the placebo group
+or individuals dosed with MEDI4212, reference
+standard, QC samples and test samples were
+diluted in I-Block buffer containing 20 pg/mL
+MEDI4212 and incubated for 1-3 h. To measure
+total IgE from dosed with
+omalizumab, reference standard, QC samples
+
+individuals
+
+and test samples were diluted in I-Block buffer
+containing 20 pg/mL
+incubated for 1-3h. Samples were incubated
+for approximately 60 min at room temperature,
+
+omalizumab = and
+
+plates were washed, and captured IgE was
+detected by addition of ruthenium-labeled
+mouse anti-IgE antibody clone 2C7.3
+(detection reagent, 2C7.3-TAG, MedImmune)
+for approximately 1h at room temperature.
+After washing, MSD Read Buffer T was added to
+the plate and the ECL signal for each plate well
+was measured by an MSD Sector Imager. The
+minimal required dilution was 1:9, and the
+lower limit of quantitation was 5.553 pg/mL in
+100% human serum.
+
+Surface expression of FceRIa on basophils
+and dendritic cells was measured in
+non-Japanese subjects from blood samples
+taken at screening and days 1 (pre-dose), 8, 29,
+and 85. FceRIa surface expression was analyzed
+in an identified subset of MEDI4212 subjects
+who achieved and maintained full IgE
+suppression (<1 IU/mL) from start of therapy
+through day 29 (28 days after dosing). Sample
+
+231
+
+testing was executed at Covance Laboratories
+(Indianapolis, IN) through a 4-color, 7-tube flow
+cytometric assay that evaluated expression
+levels of FceRIa on circulating pDCs (linl”,
+HLADR*t, CD123*), myeloid dendritic cells
+(mDC1; linl~, CD11c*t, CD1c*), and basophils
+(linl~, HLADR~, CD123*) in peripheral whole
+blood. Samples with cell counts <10 were
+excluded from analysis.
+
+Safety and Tolerability
+
+At all study visits, adverse events (AEs) and
+(SAEs) were recorded, and
+
+injection site was
+
+serious AEs
+examination of the
+performed. On day 1, vital signs were
+measured immediately after dosing and 1, 2, 4,
+6, 8, 12, and 24h post-dose. Laboratory
+parameters were measured at all study visits
+(except day 1 post-dose); electrocardiograms
+were recorded on days 1 (pre-dose), 2, 3, 5, 15,
+29, and 85. Physical
+performed on days —1, 29, 57, and 85, and
+
+examinations were
+
+FEV, was evaluated at screening and on day 1
+pre-dose.
+
+Statistical Methods
+
+The safety population included all subjects who
+investigational product; the PK
+population included all subjects who received
+investigational product and had sufficient
+
+received
+
+serum concentration measurements for
+computing PK parameters; and_ the
+immunogenicity population included all
+subjects who received investigational product
+(MEDI4212 or placebo) and had at least one
+valid post-dose immunogenicity test result.
+
+No formal sample size calculation was
+performed for this study. All PK and PD results
+are summarized descriptively. Correlations for
+
+FceRIa expression analyses were calculated
+
+4 Adis
+232
+
+using the Spearman rank order correlation
+(GraphPad Prism 6 for Windows®).
+
+Results are presented as individual subject
+data by the dose group across cohorts 1-6
+(non-Japanese subjects) and 7-9 (Japanese
+subjects). For PK and PD analyses, results from
+non-Japanese subjects (cohorts 1-6) are
+presented as dose group stratified by
+low-diagnostic IgE (30-700IU/mL) and
+high-diagnostic IgE (700-1200 IU/mL) levels.
+
+RESULTS
+
+A total of 295 subjects were screened for
+eligibility and of these, 86 were randomized
+into the study. Sixty-one non-Japanese subjects
+were randomized into cohorts 1-6 and 25
+Japanese subjects were randomized into
+cohorts 7-9 (Fig. 1).
+
+Of the 61 non-Japanese subjects, 60 were
+included in the safety and PK populations; one
+subject (60mg SC MEDI4212)
+consent before receipt of investigational
+product. A total of 54 subjects (MEDI4212 and
+placebo) immunogenicity
+
+withdrew
+
+entered the
+population. Of the 60 subjects in the safety
+and PK populations, 58 (96.6%) completed the
+study; one subject (150 mg SC MEDI4212)
+withdrew consent during the study and
+one subject (placebo group) was lost to
+follow-up.
+
+Of the 25 Japanese subjects, 24 were
+included for the safety, PK, and
+immunogenicity evaluation; one subject did
+not receive investigational product due to a
+spirometry measure that was deemed
+unacceptable by the investigator. Twenty
+Japanese subjects (83.3%) completed the
+study, with three subjects (placebo, 150mg
+SC, and 300mg SC MEDI4212 groups)
+withdrawing consent and one subject (300 mg
+SC MEDI4212) being lost to follow-up.
+
+4 Adis
+
+Adv Ther (2016) 33:225-251
+
+Demographics and_ baseline clinical
+characteristics for non-Japanese and Japanese
+subjects are given in Table 1. Japanese subjects
+had a median [minimum
+(min)—maximum(max)] body weight (68.8
+[58.0-96.2] kg vs 79.4 [55.3-117.9] kg) and a
+
+lower median (min-max) age (29.0 [21-57]
+
+lower
+
+years vs 43.5 [20-59] years) than non-Japanese
+subjects. Non-Japanese subjects were
+predominantly white (45/60, 75%) and male
+(40/60, 66.7%); Japanese subjects were mostly
+male (91.7%). Median (min-max) baseline FEV,
+percent predicted in cohorts 1-6 and 7-9 were
+86.5 (67.0-116.0)% and 99.5 (82.0-117.0)%,
+respectively. Five Japanese subjects had no
+significant findings in their medical history
+relating to atopic or allergic disease.
+
+Pharmacokinetics
+
+Individual serum concentrations following a
+single dose of MEDI4212 or omalizumab are
+presented in Fig. 2; mean serum concentrations
+over time are presented in Fig.S1 in the
+supplementary material. PK parameters are
+summarized in Table 2.
+
+Non-Japanese subjects with low-diagnostic
+IgE (30-700 IU/mL) tended to have a longer ty,
+and lower CL/F than those with high-diagnostic
+IgE (>700 IU/mL; Table 2a, b). Generally, t,, and
+CL/F increased with increasing dose. Median
+AUCo-_ing tended to increase with increasing
+dose, and median values tended to be greater
+in low-diagnostic IgE subjects compared with
+high-diagnostic IgE subjects at the same dose.
+The estimated bioavailability for 300mg SC
+MEDI4212 was 32.9% and 15.9% for subjects
+with low-diagnostic IgE and high-diagnostic
+IgE, respectively.
+
+For Japanese subjects, the CL/F appeared to
+be lower and exposures (AUCp_ins) appeared to
+be greater compared with non-Japanese subjects
+233
+
+Adv Ther (2016) 33:225-251
+
+(0°€97'S1-9'SH) O'PLIZ
+
+(6671) F8EST
+
+(VOF-T'6I) 9'2Z
+
+(TSEL-L'S07) I'S€Z
+(LS) 6:08
+
+(T6E-9'FE) ESE
+
+(9 199-L'LS€) 9°LE9
+(9:0€) #ZES
+
+(F0€-T'61) 8'LZ
+
+ 
+
+(T806€-L'19) €7ST7
+(0'80T) 8:ZzS
+
+(xew—urw) ueIpsyy
+2([%] AD) weour sEDUIODyy
+Jw /3u ‘uoMeNussu0s wMIas YB] 991-1
+
+(xew—urw) ueipayy
+
+ 
+
+(6S) 1'6z (SZ) ¥9E (6S) L’Sz 0's) TLZ (as) yee
+(41/84) INE
+(0'90T-0'2S) $06 (926-998) 788 (€S8-€'SS) 8S (8'S6-$'SS) GIL (xewr—urer) uerpoyy
+(SHI) 988 (6'S) 8°06 (S91) €99 (611) 6% (as) wesw
+(84) ayBiom Apog
+(CZ) 7 (00) 0 (00) 0 (E22) € ourze’y] 10 oruedstpy-uoN,
+(8°22) Z (0001) € (0001) € (Z7Z) 8 ouney 10 oruedstyy
+(%) “<Anrayyy
+(00) 0 (00) 0 (00) 0 (00) 0 308d POXTA]
+(6°88) 8 (0001) € (0001) € (818) 6 ary AN
+(VII) I (00) 0 (00) 0 (0'0) 0 uvopoury Ue LpY / Jeg
+(0'0) 0 (0'0) 0 (0'0) 0 (z81) Z ueisy
+(%) # 22°Y
+(8°22) Z (€€€) T (299) @ (¥9€) ¥ ar
+(%) u “Iapudy
+(64-1) OF (66-0€) O'% (Lb-1h) 09% (8S-07) 8h (xew—urur) werpayy
+(LOT) O'6€ (9°6) £04 (C€) Loy (WII) Shy (dis) uray
+(ds) sre9k Sy
+saalqns asourde{-uou :9-] sizoyod “y
+(6 = #) Os Sur 09 (€ = #) Os Sur st (€ = #) Os Sur¢
+
+ 
+
+sdnos3 71741 GaW
+
+(IL = 4) oqasryg
+
+ 
+
+(uonendod Arazes) sorastroasereyp JeoTUT]D suTPseq pur sorydesoursp aoo{qng {a Iqe J,
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+234
+
+ 
+
+(00S) € ($28) Z
+(00s) € (S71) T
+(00) 0 ($71) I
+(€€8) ¢ (00S) ¥
+(£91) T (S:Z€) €
+(00) 0 (00) 0
+(£99) & (0001) 8
+(86-27) St (0S-€Z) 0'8€
+
+(76) €6€ (9'8) O'8€
+
+('s2) 9
+(0°SZ) Z
+
+($7
+(0'sZ
+(S@I
+
+(00
+
+I
+9
+
+)
+)
+)1
+)
+
+0
+
+(0'SZ) 9
+
+(6S-¥7) Ot
+(OFT) €0F
+
+(00S) 9 ouney Jo oruedstpy-uony
+(0'0S) 9 ouney Jo stuedstpy
+(%) @ ‘Apruyay
+
+(00) 0 2081 Pox
+(€8S) Z ay
+(0'SZ) € uvuoUry URLyY peg
+(L91) Z ueisy
+
+(%) # ‘0Ry
+(£99) 8 arW
+(%) # “epureD
+(LS-¥2) OOF (xewr—urun) uerpayy
+(8°01) 66€ (as) wea
+
+(Cs) sivad ‘o8y
+
+sioofqns asauede{-uou :9-] s110yoo “y
+
+ 
+
+(8 = “) AI 3m 00€
+
+(8 = #) OS 3ur Q0E
+
+(ZI = 4) Os Sur ost
+
+ 
+
+(9 = #) qeumzyewo
+
+sdnoz3 71741GaW
+
+ 
+
+(0°9T1-0'29) O'F8 (0°%6-0'S8) 0°76
+(T'8T) £06 (o'r) 268
+
+(6S1OI-F'F7Z) 9186
+(709) 1'Z09
+
+(0°88961-S'08) S'TH7Z
+(GIFT) T6SZT
+
+(0°ST1-0°%6) 0°26
+(I'7Z1) €TOT
+
+(O9FL-6 10) 6 L6S
+(262) S'€9S
+
+(O'TOI-0'8Z) 016 (xew—urur) uerpoyy
+(TZ) 468 os) wea
+
+paripord 9% "Ada
+
+(CLL8¥-8'€9) S°7LZ (xew—urw) uerpayy
+
+(601) 7009 2([%] AD) WeeUT stIOUTONF)
+
+Jur/Bu ‘uonenus U0) uNIes YB] [eI0 J,
+
+ 
+
+(6 = %) Os Bur 09 (€ = #) OS 3m ST
+
+(€ = 4) Os Sars
+
+ 
+
+sdnox3 71741GaW
+
+(11 = #) oqeorg
+
+ 
+
+penunuos { 3quy
+
+4 Adis
+235
+
+Adv Ther (2016) 33:225-251
+
+ 
+
+(0S-7Z) $'Zz
+(TOT) TOE
+
+(9S-¥2) O'%
+(971) TIF
+
+(LS-@7)
+(091)
+
+Val
+Oo
+a)
+
+g
+
+oO
+
+(6h-1Z) 0°87
+(96) S'0€
+
+(xewi—urw) uerpayy
+
+(ds) ueeW
+sreak O8y
+
+saalqns asouedel :6-/ s1z0yod “g
+
+ 
+
+(9 = %) OS Sur 00E
+
+(9 = 4) Os 3 0ST
+
+(9 = 4) Os Sur 09
+
+ 
+
+sdnox3 71741GaW
+
+(9 = 4) oqaorg
+
+ 
+
+(O'10I-0'18) $98
+(ZZ) 8°88
+
+(8'L68-8'881) EFEE
+($79) 9ELE
+
+(£'678-0'89) G09E
+(S02) Z80€
+
+(LS€-¥7Z) $'S7
+(6%) £97
+
+(768-699) SEL
+(LL) L£SL
+
+(1'S6-S°9Z) L°S8
+(79) 648
+
+(9 1SS-0'%8) 76907
+(6€8) FH6IT
+
+(S96SZ-L’°SL) I'8h07
+(FIOI) 8'SFIT
+
+(LLE-0'CZ) T6Z
+(ZS) €0€
+
+(O'ZII-9°€9) 06
+(ELI) 7%
+
+(0°€0I-0'ZZ) 0'€6
+(LOT) €16
+
+(T79FL-OFTB) TILIZ
+(682) W9ETT
+
+(EFIE6-V TEL) O'SS8T
+(8°96) T101Z
+
+(9bF-9'IZ) TIT
+(€L) T6Z
+
+(GLII-€FZ) 8:08
+(8ST) 698
+
+(0°86-0°SZ) 0°68
+(99) €'S8
+
+(€°S99'€1-6°9Z1) T'8Z1T
+(VIS) SEIT
+
+(9°6F9'0I-S'9IT) 9°196
+(8°ZEI) 6°76
+
+(SPE-€7Z) 9°97
+(€€) 7LZ
+
+(866-199) L7Z
+(LTT) TLL
+
+(xewi—urw) uerpayy
+
+(as) we
+parrpard 9% TATA
+
+(xeul—urur) uerpayy
+
+2([%] AD) Ure sEADUIOS5)
+
+‘Jur/Bu ‘uonenuss.u0s was YB] [eI10 J,
+
+(xewi—urw) ueIpayy
+2([%] AD) UeaW SEMIUIODy
+qu /su “uolieIqUsDU0D umdas By Beane
+(xeul—urur) uerpayy
+(as) way
+(4/89) INE
+(xew—urur) uerpoyy
+(ds) weaWw
+(34) 1y810m Apog
+
+ 
+
+(9 = #) qeumzypewo
+
+(8 = #) AI Sar 0O€
+
+(8 = #) Os 8u OOE
+
+(ZI = #) OS 3m 0ST
+
+ 
+
+sdnox3 71741GaW
+
+penunuos | aquy
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+236
+
+asop-o1d T Aep UO UdyeI sUSWoINsPayy
+
+uoneiAsp prepuras Gg
+‘snosurinoqns Yg “WINWIXeW! xvid “UINUTTUTU “72 ‘snoudAeUI {7 ‘S [| Ul auINjOA uonendxa perro} TAT] Woes JO IWIIDYJIO 4) ‘Kopur sseur Apoq INI
+
+ 
+
+(F01-28) $66 (STI-Z8) 0°06 (FII-88) $86 (ZI1-¥8) 0901 (xewr—urur) uerpoyy
+(62) 8°96 (9'IT) 0°€6 (9°0T) TOOT (ETI) THOT (CIS) Ue
+
+% “porsipaid TATA
+(TLOFI-€07ZI1) 9FLT (8'€0b-6'F0T) 0°89T (TSHLE-€'99) EET (6 T9TI-7'€9) €'68E (xew—urur) uerpayy
+(ZIIT) TOZE (Z':0S) ¥'€61 (0°661) 1:07 ($88) 8°80€ e([%] AD) "eeu SENeUTODD
+
+qu /8u “uoreqU39U0d umnios Bq] [e20 LL
+(€SI9I-HSh) 8HHT (TOFE-7'F9) ELIT (FIb6E-6'8E) TTL (6SO0I-ZTI) 6'Z0r (xewr—urur) uerpoyy
+(6971) €797 (109) 6°9ST (9717) S'8hT (16) 6107 e([%] AD) Brew sENoUIOID
+
+qu /su “uoleiqUs.U05 tundos By so1T
+(7-07) GFZ (L@-@Z) €7@ (67-77) T'€Z (67-07) 1°77 (xewi—urur) uerpayy
+(vy) St (61) S¥ (0'€) 947 (FI) €% (as) ues
+
+(20/84) INE
+(96-19) TOL (18-99) LL (08-8$) 6:29 (12-6) 6°S9 (xewr—uyur) uerpoyy
+(FET) O'FL (€S) WEL (78) 8°89 (0's) 769 (as) wee
+
+(34) 1y810m Apog
+(0001) 9 (0001) 9 (0001) 9 (0001) 9 uvisy
+
+(%) U DRY
+(0°00T) 9 (0001) 9 (£99) % (0001) 9 rN
+
+(96) # pur
+
+ 
+
+(9 = #) Os Bur o0€ (9 = #) Os Sur ost (9 = #) Os Bur 09
+sdnoi3 717FIGAW (9 = #) ogooryg
+
+ 
+
+ 
+
+ponunuos { ayqey,
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+ 
+
+ 
+
+237
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-Japanese subjects
+
+c 5mg SC 15 mg SC 60 mg SC 150 mg SC 300 mg SC 300 mg IV Omalizumab
+8 1,000,000
+g ,
+€
+8
+3
+SS 100 pa nn cee PR cee, AN waa, POOR ASS
+§ ws
+E 1
+—
+5 O 14 28 42567084 142842567084 142842567084 1428 42567084 142842567084 142842567084 14 28 42 56 70 84
+e Japanese subjects
+
+©
+
+iC
+
+8 4,000,000 60 mg SC 150 mg SC 300 mg Si
+
+2 |
+
+5
+
+8
+
+£
+
+8
+
+8
+
+E 14 i
+
+5 0 14 28 42567084 142842567084 14 28 42 56 70 84
+
+o
+
+Time (day)
+
+ 
+
+Diagnostic free serum IgE concentration
+—® 30-700 IU/mL or 230 IU/mL = —®- >700—-1,200 IU/mL.
+
+—e 30-500 IU/mL
+
+—® >700 or >1,200 IU/mL
+
+ 
+
+ 
+
+Fig. 2 Individual serum concentrations following a single
+dose of MEDI4212. Individual serum concentrations in
+non-Japanese and Japanese subjects following a single dose
+of MEDI4212 (5 mg SC, 15 mg SC, 150 mg SC, 300 mg
+SC, or 300 mg IV) or omalizumab. Japanese subjects
+(diagnostic IgE concentration >30 IU/mL) received 60 mg
+
+with low-diagnostic IgE at the same dose
+(Table 2a, c).
+
+Pharmacodynamics
+
+Free and Total IgE Concentrations
+
+A rapid suppression in free IgE was observed in
+most MEDI4212-treated subjects (Fig. 3; Fig. S2
+in the supplementary material). In
+non-Japanese subjects with low-diagnostic IgE,
+MEDI4212 doses >60 mg suppressed free IgE
+below the lower limit of quantification
+(LLOQ; <1.172 ng/mL). MEDI4212 suppressed
+free IgE below the LLOQ at doses of 300 mg in
+subjects with high-diagnostic IgE levels
+(>700 IU/mL). In the high-diagnostic IgE
+group, 150 mg SC MEDI4212 did not suppress
+free IgE as judged by the group mean (Fig. S2);
+however, free IgE was suppressed to the LLOQ
+in three of five subjects and to 1.284 ng/mL in
+one individual. Only one individual displayed
+
+SC, 150 mg SC, or 300 mg SC MEDI4212. The LLOQ for
+MEDI4212 (83.34ng/mL) and omalizumab (205.76 ng/
+mL) are shown as a dotted line and measurements below the
+LLOQ are plotted at half of the LLOQ. JV intravenous,
+LLOQ lower limit of quantitation, SC subcutaneous
+
+insignificant suppression of free IgE; this subject
+had diagnostic IgE > 4000 IU/mL (MedImmune,
+data on file). MEDI4212 doses of 60mg
+suppressed free IgE below the LLOQ in
+subjects with diagnostic IgE of 700-1200 IU/
+mL. Omalizumab (150mg or 300mg SC)
+suppressed free IgE to a minimum of 5.23 ng/
+mL (Fig.3; Fig. S2). In Japanese subjects,
+MEDI4212 doses >150 mg rapidly suppressed
+free IgE below the LLOQ.
+
+The duration of free IgE suppression below
+24ng/mL (101U/mL) was dependent upon
+MEDI4212 dose and diagnostic IgE levels; a
+longer duration of free IgE suppression appeared
+to be associated with the high-dose/
+low-diagnostic IgE groups (Table 2).
+Low-diagnostic IgE subjects who were dosed
+with 300 mg IV MEDI4212 showed a median
+(min-max) duration of suppression of 56.0
+(42.0-56.0) days. (min-max)
+duration of suppression in omalizumab-treated
+
+The median
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+238
+
+ 
+
+ 
+
+(xewr—urur)
+(60S-#S€) 89% (Z09-¥9%) Lor (O€9€-OOIT) O9ET (098I-S88) OO€T — (006T-OTST) OTZT ON ueIpeyl
+(0°29) 0S (TZ) 1% (06€1) 0€0z (8€€) OZET (ON) OTZT ON (ds) ura
+Aep/TW T/T TO
+(000‘ZF8-000'06S) (000°949-000°664) (000°7ZZ-002'78) (000°691-00S‘08) (009°6€-00S'T¢) (ON-ON) (xew—urur)
+00S°%49 000°€09 000°17z 000°LIT 009°SE ON ueIpoy
+(000°FTT) 000‘T89 (009‘SZ) 000‘E8S (06°26) 000°%61 (00Z‘0€) 000‘07T (ON) 009‘S€ ON (ds) Bee
+Twp Bu Fn
+(000°6S1-008‘€8) (€1€-€T¢) (xew—urur)
+(00%97-008°ZT) 00061 000FOI (000°EZ-0Z9Z) 009‘ST (000°7I-O19F) O188 — (OTEF-OTZE) O9LE €1€ ueIpey
+(0F0F) 00907 (006‘8€) 000‘9TT (0692) O0F'ST (OSTE) 0098 (ON) 09Z¢ (ON) €T€ (ds) Bee
+qar/su yD
+(xewr—urw)
+(O°EI-T'#) TL (70-10) 70 (T¥-0'7) Th (0'Z-0'7) O'€ (0'F-0'Z) O'€ ~(0'7-0'Z) 07 ueIpey
+(Z€) 62 (10) 70 (TI) VE (02) S€ (ON) 0'€ (ON) 0% (ds) Bee
+skep oy
+(xeus—uyur)
+(06°91-0S'FT) 08ST (0701-249) 98°9 (IT'8-88'€) OL (O€ZI-SL'Z) E6L (66°€-96'€) 86°E ON ueIpayl
+(O'T) 08ST (S0°Z) ¥8'Z (6€7) SHS (0S'€) HZ (ON) 86°€ ON (as) wea
+skep “Aq
+v € € 9 qc I u
+eagouvavd IJIUTYOIVULAV YG
+sppao] AZ] oasouSerp-moy ‘s190{qns ssouvde{-uou :9-] s3s0yoD ‘y
+00S-0€ 002-0€ 002-0€ 00S-0€ 002-0€ 002-0€
+AI 8 QO€ OS Sur OE Os Bur OST Os 3ur09 OS SurcT
+qeumziyeuro sdnos3 ZIZ7HIGAW T/A 14°] AST
+
+uorssaiddns q8y] 9245 Jo uoTeInp pue siorowesed Snouryoovunreyd jo Areurung Zz aqquy,
+
+4 Adis
+ 
+
+239
+
+(00Z'81) 000FTT (OZZ€) 008‘0T (0027) 069% (ON) 00€T ($8S) O6€1 (ds) ue
+qu/Bu ey
+(T'I-Z'0) 70 (T¥-07) OF (0'b-0'2) 0% (O'I-O'T) OT (0°7-0'°%) O'7 = (Kew —urUT) UeIpayy
+(0) ¥0 (ZI) O€ (OI) s€ (ON) OT (00) 07 (as) Beal
+skep Wy
+(BES-FT'E) LOE (8'€-LYT) 99°7 (¥61-99T) 08'T ON (SE7-SET) SET — (XEWI—-uFUT) UeIPoYy
+(28'0) See (6'l) 997 (ON) 08° ON (ON) S€7z (as) era
+skep
+‘s ale] ¥ golt] ¥ I alt] € a
+
+Shaya: uvivd IIUTAOIVULAV GY
+
+sppas] q3] WnsouSerp-ysry ‘sialqns asourde(-uou :9-] sis0yoD “g
+
+ 
+
+ 
+
+ 
+
+Adv Ther (2016) 33:225-251
+
+ 
+
+00L< 00L< 00L< 00zI< 0071-002
+AI 301 OE OS Sur OE Os 3ur OST Os Bur 09 Os Bur 09
+sdnoz3 71741Ga WN T™/AI 149] a3]
+(xew—urur)
+(0'F8-0'IZ) 0'8Z (0'9S-0'7F) 0°9S (0°8Z-O'IZ) 0°8Z (O'F8-O'FT) OSE (0'8Z-0'F) O'FT + (0°Z-0'0) 0'0 ueIpay
+(F972) Fer (1'8) €1S (0%) LSz (I'¥2) LOE (U'Z1) €ST (O¥) €7 (as) ues
+S € € 9 € € u
+pole ‘uorsaaddns 37 aasf fo uomvang
+(xewi—urur)
+(00Z‘TI-O06€8) 00S‘0T (OL€Z-009F) OZIS (OOT‘8I-OTE6) 006'ZI ~(O0T‘9Z-060Z) DOT'ET (O00‘TT-0F98) 0086 ON ueIpoyy
+(0ZZI) OOT‘OT (OLEI) OF8S (0ZFr) 00S‘€T (OFLL) OOLFI (ON) 0786 ON (ds) Bee
+Te AA “A
+00S-0€ 002-0€ 00Z-0€ 00S-0€ 002-0€ 002-0€
+AI Sur 00€ OS Sur OE Os Sur OST Os 3ur09 OS Bur cT
+qeumzyeug sdnox3 717HIGaW — T/AI ‘P71 A3T
+
+penunuos 7 aqey,
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+240
+
+ 
+
+ 
+
+ 
+
+ 
+
+als] 9 9 s u
+siajauavand IgaUryomvULv yg,
+syalqns asourdel :6-Z s1z0yoo “>
+o¢z o¢z ocz
+Os Bur OE Os Bur OST Os Sur 09
+sdno33 71741GaW TH/AT 149] a1
+(087-017) O'1Z (O'FI-O'T) OFT (O'FI-0'0) OZ (07-00) 0°0 (O'Z-0'Z) OL — (XewW—uTt) UeIpoy
+(T'€) #2 (6S) O'OT (eS) v9 (tI) £0 (00) OZ (ais) Brow
+G=u G=u GS=u c=u c=u u
+slop uorssauddns qBz aasf fo uouvinqy
+(OIZh-09€7) 0167 (006°67-0S88) 0988 (0Z€6-0608) O€Z8 ON = (006°6Z-006'6Z) 00667 = (XeW—urUT) UeIpayy
+(€8Z) OIZE (00771) 006'ST (ON) 0€28 ON (ON) 006'6z (as) weep
+TH T/A"
+(€h9-€8h) LHS (06€S—-O0€Z) O8 TF (06€€-0SEE) OLEE ON (O€88-0€88) 08g (XeW—-uTW) UeIpsYy
+(Z'0L) 49S (09ST) 096¢ (ON) OZ€€ ON (ON) 0€88 (as) weal
+Aep/Tw A/T TO
+(000°%Z9-000'Z9F) 000'6FS — (000'DET-00Z'SS) D0G'TZ —(008'FF-00E'FF) 009th ON (0629-0629) 0629 (xew—urw) ueIpsyy
+(00S‘29) 000‘6ES (001‘6€) 006'S8 (ON) 009% ON (ON) 0629 (as) ueoW
+
+(000°ZF1-00'96) 000°F0T
+
+ 
+
+(00Z'F1-09ZS) 00€*
+
+4
+
+(0FSZ-087Z1) OL6r
+
+(OO€I-O0ET) OOET
+
+(010Z-0S8) OO€T
+
+Twp 8u ony
+
+(xeur—urur) uerpayy
+
+ 
+
+00L<
+AI 8ur QO€
+
+00L<
+OS Bur OOE
+
+00z<
+OS Sur OST
+
+00zI<
+Os Sur 09
+
+0071-002
+OS Sur 09
+
+ 
+
+sdnos3 71741GaW
+
+T!/ALI 149] AST
+penunuos 7 afquy,
+
+4 Adis
+241
+
+Adv Ther (2016) 33:225-251
+
+ 
+
+(6°%) 0°95
+v
+
+(006°E1-0SS9) OFLL
+(O€TE) 0076
+
+(O€ZI-Z8S) O€Z
+(LL¥) $88
+
+(000°91S-000‘FZT) O00T TF
+(000°ZET) 000'S6E
+
+(008°€€-000°7Z) 00967
+(O8TS) 00S‘8z
+
+(OF 01-96'S) LOZ
+
+(EST) T6E
+C
+
+(00F01T-OSTE) 0092
+(0997) 007Z
+
+(OPOI-T€S) 6SZ
+(261) OSZ
+
+(000°78Z-000SHT) 000'86T
+(0029S) 000°71Z
+
+(00981-0072) O0E‘ET
+(09€¥) 006'71
+
+(0°2-0'2) $°S
+(72) tS
+
+(0811-20) 719
+
+(S'ET) S'hZ
+9
+
+(006‘ZI-OZZ¥) 006‘0T
+(066F) 00S‘OT
+
+(0891-¥69) 007I
+(69€) O6IT
+
+(00%98-009‘S€) 000°0S
+(00$‘6T) 000°SS
+
+(007@°F1-0Z#Z) O8FS
+(0z#r) 0789
+
+(6€L-9L'F) LSS
+
+(ais) ues
+
+u
+
+op ‘uorssacddns q8q aasf fo uorving
+
+(xew—uru) uerpoyy
+(ds) wee
+
+Te lA "A
+(xewi—urw) ueIpayy
+(ds) weew
+
+Aep/ Te 87/1 TO
+(xew—urur) uepoyy
+(ds) wea
+
+Twp Bu OY
+(xewi—urw) ueIpoyy
+(ds) uw
+
+quyau 5
+(xew—urur) uerpoyy
+(as) wea
+
+skep OFM
+
+(xewi—urw) ueIpsyy
+
+ 
+
+(soz) LLL (787) 78°9 (ST'T) 68'S (iS) ues
+skep “hy
+o¢ce o¢ce oce
+OS Sur OOE OS Sur OST Os Bur 09
+
+ 
+
+sdnos3 71741GaW
+
+T™/AI 149] AST
+penunuos 7 aqey,
+
+4 Adis
+242 Adv Ther (2016) 33:225-251
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+es subjects (150 or 300mg SC) was 28.0
+zg (21.0-84.0) days, similar to that observed with
+aa Be 150 mg SC MEDI4212 in the low-diagnostic IgE
+e gs group (35.0 [14.0-84.0] days). The median
+Q 2 3 4 Be (min-max) duration of suppression tended to
+Fy & s 3 a3 be longer in duration in Japanese subjects
+2e|¢ a a ge compared with non-Japanese subjects at the
+mM) £5 Gi same dose: 28.0 (0.0-42.0), 28.0 (28.0-56.0),
+3 & e ~ = and 56.0 (28.0-84.0) days for the 60mg,
+dist z 150mg, and 300mg SC doses, respectively
+g & as 2 (Table 2).
+Bac ~ Total serum IgE was increased following
+oe S administration of MEDI4212 in all groups
+8 a3 5 3 (Fig. 3; Fig. $2). Accumulation of total IgE in
+EE Bus i: S omalizumab-treated subjects appeared similar
+S 4 s 2 ¢ 4 to the accumulation observed in
+9 PA g z 3 5 & MEDI4212-treated subjects (Fig. 3; Fig S2).
+% |g|fkeaz ‘&
+ge /f|eeeee.é
+ae % : 2 BO - Ea FceRI Receptor Expression
+iS) 3 se § 23 FceRI receptor expression was analyzed in 57
+£ g 3 3 228 non-Japanese subjects who had _ received
+< ge 3 ae 2 3 MEDI4212 (n=41), omalizumab (n=6) or
+2 a S é & 5 a iG placebo (n=10). The surface expression of
+28 £3 x es) & FceRla on mDCls, pDCs, and basophils at
+E S32 5 a 3 baseline showed _ statistically significant
+é & S Kg ae tee, correlations with diagnostic IgE levels, in
+g, eS zg Fa < 2 3 é 3 z iD which greater surface expression was
+Sly $ é g ‘ Bo Batc -5 associated with greater diagnostic IgE levels
+g 2 é 3 28 a a a5 8 (P<0.001; Fig. $3 in the supplementary
+a ég S\|ses | 2 = ic rs Fd material). The surface expression of FceRIa at
+ZISN| A g : 3 Fa a ~ 2 & ze baseline was highest in basophils and lowest in
+Be aE ‘s 3 ‘s zs pDCs (Fig. $3). Administration of MEDI4212
+s g BE 3 g 4 = g was associated with a downregulation of FceRla
+28 84 § ge & = receptor expression on mDCls, pDCs, and
+in ee E Be ae) 3 basophils (Fig. 4; Fig. S4 in the supplementary
+_ | 8 4 S38 & 2 3 material). From qualitative observations, the
+3 | E 3 a= £3% F:| oe decrease in FceRI expression tended to be
+s g 4 5 & 4 g 3 pa ‘S oT greatest for the low-diagnostic IgE group
+87 é, a 2 og ge BR receiving greater MEDI4212 doses. Decreases
+Py E 4 3 g 5 22 EB 2 € 3 in FceRIo receptor expression on mDC1s, pDCs,
+= cy = 2s on BS 26 and basophils were also observed following
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+@ Non-Japanese subjects
+
+5 mg SC 15mg SC 60 mg SC
+
+       
+
+243
+
+150 mg SC 300 mg SC 300 mg IV Omalizumab
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“0 14 28 42 56 7084 14 28 42 567084 14 28 42 56 70 84
+
+5mg SC 15mg SC 60 mg SC
+
+100,000
+10,000
+z 41,000
+
+ 
+
+(ngi
+Ss
+8
+
+14 28 42 56 70 840 14 28 42 56 70 84
+
+ 
+
+14 28 42 56 7084 14 28 42 56 70 84
+
+Time (day)
+
+150 mg SC
+
+300 mg SC 300 mg IV Omalizumab
+
+in onan
+
+ 
+
+ 
+
+10
+0 14 28 42 56 7084 14 28 42 56 7084 14 28 42 56 70 84
+
+Total IgE serum concentration Free IgE serum concentration
+
+b Japanese subjects
+
+60 mg SC
+
+(ng/mL)
+
+14 28 42 56 70 84
+
+14 28 42 56 7084 14 28 42 56 7084 14 28 42 56 70 84
+Time (day)
+
+150 mg SC 300 mg SC
+
+ 
+
+ 
+
+"0 14 28 42 56 70 84
+
+14 28 42 56 70 84
+
+14 28 42 56 70 84
+
+Time (day)
+
+150 mg SC 300 mg SC
+
+ 
+
+60 mg SC
+
+100,000
+— 10,000
+a
+E 1,000
+>
+= 100
+
+10+
+
+Total IgE serum concentration Free IgE serum concentration
+
+0 14 28 42 56 7084 14 28 42 56 70 84
+
+14 28 42 56 70 84
+
+Time (day)
+
+ 
+
+—e 30-500 IU/mL
+
+ 
+
+Diagnostic free serum IgE concentration
+
+—® 30-700 IU/mL or 230 IU/mL 9 —®- >700-1,200 IU/mL
+
+Target IgE
+
+© >700 or >1,200 IU/mL ee
+
+ 
+
+ 
+
+Fig. 3 Individual free and total serum IgE concentrations
+over time following a single dose of MEDI4212 or
+omalizumab. a Individual free and total serum IgE
+concentrations in non-Japanese subjects following a single
+dose of MEDI4212 (5 mg SC, 15 mg SC, 60 mg SC,
+150 mg SC, 300 mg SC, or 300 mg IV) or omalizumab.
+b Individual free and total serum IgE concentrations in
+Japanese subjects (diagnostic IgE concentration >30 IU/
+
+administration of a single dose of omalizumab
+(subjects with diagnostic IgE 30-500 IU/mL;
+Fig. 4). In omalizumab-treated subjects, the
+
+mL) following a single dose of MEDI4212 (60 mg SC,
+150 mg SC, or 300 mg SC). The LLOQ for free IgE
+(1.17 ng/mL) is shown as a dashed line and samples below
+the LLOQ are plotted at half of the LLOQ. On the graphs
+showing free IgE concentration over time the target free IgE
+concentration of 24ng/mL is shown as a dotted line.
+IV intravenous, LLOQ lower limit of quantitation,
+SC subcutaneous
+
+recovery of baseline FceRI expression levels
+appeared to be slower compared with the
+recovery in MEDI4212-treated subjects (Fig. 4).
+
+4 Adis
+ 
+
+ 
+
+  
+ 
+
+     
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+244 Adv Ther (2016) 33:225-251
+250 5 mg SC 15mg SC 0 mg SC 150 mg SC 300 mg SC 300 mg IV Omalizumab
+28 8417 28 8417 28
+g 300 mg SC 300 mg IV Omalizumab
+g
+&
+5 .
+; = |="
+8 .
+£ =
+s 28 8417 28 8417 28 84
+250 5 mg SC 15mg SC 60 mg SC 150 mg SC 300 mg SC 300 mg IV Omalizumab
+200 a
+150 Fs
+100. — a = 78
+C K= \ Zo ES a= Ni if
+0 j
+17 28 8417 28 8417 28 8417 28 8417 28 8417 28 8417 28 84
+
+Time (day)
+
+ 
+
+—e 30-500 IU/mL = —® 30-700 IU/mL
+
+ 
+
+Diagnostic free serum IgE concentration
+
+—®- >700-1,200 IU/mL = —®- >700 or >1,200 IU/mL
+
+ 
+
+Fig. 4 Downregulation of FceRI expression on mDCl,
+pDC, and basophils following a single dose of MEDI4212
+or omalizumab. Individual downregulation of expression on
+dendritic cells (pDC and mDC1) and basophils from
+non-Japanese subjects following administration of
+MEDI4212 (5 mg SC, 15 mg SC, 60 mg SC, 150 mg SC,
+
+300mg SC, or 300mg IV) or — omalizumab.
+
+In a subset of MEDI4212 subjects who
+achieved and maintained full IgE suppression
+(<1 IU/mL) through day 29 (28days after
+dosing; n=10), a_ statistically significant
+correlation was shown between the percentage
+FceRI remaining at day 29 on mDC1 and pDC,
+and diagnostic IgE levels (P=0.0217 and
+P=0.00381, respectively; Fig. $5). mDC1s,
+pDCs, and basophils from this subset of
+subjects strong
+between the remaining percentage of FceRIo
+
+also showed correlations
+expression at day 29 and baseline surface
+expression, but
+receptor expression levels at day 29 and
+
+diagnostic IgE levels were seen (MedImmune,
+
+no correlations between
+
+data on file). This subset consisted of subjects
+from cohorts 3-6. All but one subject had
+low-diagnostic IgE (30-700 IU/mL; 30-500 IU/
+
+4 Adis
+
+Downregulation was normalized to pre-dose values.
+Diagnostic IgE of subjects is displaye
+agnostic IgE 30-500IU/mL, gray; low-diagnostic IgE
+30-700 IU/mL, black; high-diagnostic IgE 700-1200 IU/
+mL, blue; high-diagnostic IgE >700 or >1200 IU/mL, red.
+IV’ intravenous, mDC1 myeloid dendritic cells, pbc
+plasmacytoid dendritic cells, SC subcutaneous
+
+ 
+
+as follows: low-di
+mL), the subject with high-diagnostic IgE
+(>700 IU/mL) had received a single dose of
+300 mg IV MEDI4212.
+
+Safety and Tolerability
+
+The primary objective of this study was to
+evaluate the safety and tolerability of SC and
+IV MEDI4212. In this study, a total of 39
+subjects reported >1 treatment-emergent AE
+(TEAE). The percentages of subjects
+reporting >1 TEAE were similar in the placebo
+(8/17, 47.1%) and MEDI4212 groups (29/61,
+47.5%). In the omalizumab group, 2/6 (33.3%)
+subjects reported >1 TEAE. Collectively, the
+percentage of subjects in MEDI4212-dosed
+groups who had>1 TEAE was greater in
+
+non-Japanese subjects (25/43, 58.1%) than
+Adv Ther (2016) 33:225-251
+
+Japanese subjects (4/18, 22.2%). TEAEs reported
+by >2% of non-Japanese and Japanese subjects
+in any treatment group are given in Table 3. The
+reported TEAEs (>10%
+
+non-Japanese — subjects
+
+most frequently
+incidence) from
+(cohorts 1-6) were upper respiratory tract
+infection and urticaria in MEDI4212-treated
+subjects and upper respiratory tract infection
+in placebo-treated subjects. The
+incidence of reported TEAEs was low in
+
+Japanese subjects; the frequently
+
+overall
+
+most
+reported TEAEs in Japanese subjects were back
+pain (MEDI4212-treated subjects) and upper
+respiratory tract infection (placebo-treated
+subjects).
+
+Across all subjects (cohorts 1-9), the majority
+of TEAEs were Grade 1 in severity. There were
+no deaths, Grade 4 (life-threatening) or
+treatment-emergent SAEs, and no
+discontinuations from the study as a result of
+an AE. Two non-Japanese subjects (placebo and
+300 mg IV MEDI4212) reported TEAEs of Grade 3
+severity (upper respiratory tract infection and
+asthma, respectively). Of those treated with
+omalizumab, two subjects (33.3%) reported one
+Grade 1 TEAE each (rash
+compression). A total of six subjects, all from
+the non-Japanese group, reported a total of 11
+TEAEs that were considered to be related to
+MEDI4212: injection-site pain, injection-site
+
+and nerve
+
+paresthesia, myalgia, dizziness, bronchospasm,
+dyspnea, pruritic rash, urticaria (reported by
+three subjects), and _ flushing. Of the
+MEDI4212-related TEAEs, three reported
+incidences of urticaria (two 150 mg SC subjects
+and one 300 mg IV subject) and one incidence of
+bronchospasm (300mg IV) were of Grade 2
+severity. During the study, there were no
+clinically relevant changes in _ laboratory
+parameters, vital signs, electrocardiogram, or
+
+spirometry measurements.
+
+245
+
+Immunogenicity
+
+Across cohorts 1-9, a total of 78 subjects
+(placebo and MEDI4212-treated) were tested
+for the presence of ADAs against MEDI4212.
+Only one sample tested positive for ADA; this
+sample was collected on day 1 before
+administration of MEDI4212 from a subject
+from __ the 150, mg SC  MEDI4212
+high-diagnostic IgE group. This subject was
+not excluded from PK/PD analyses as all
+samples collected post-dose from the subject
+tested negative for ADAs.
+
+DISCUSSION
+This randomized, double-blind, placebo/
+omalizumab-controlled, phase I _ study
+
+investigated the PK, PD, and safety data of
+single ascending doses of the high-affinity
+anti-IgE mAb, MEDI4212, in adult subjects
+with and without atopy who had diagnostic
+IgE concentrations >30 IU/mL.
+
+Following administration of MEDI4212,
+concentrations of free serum IgE were rapidly
+reduced below detectable concentrations
+(LLOQ, 1.172 ng/mL; 0.488 IU/mL)
+demonstrating that MEDI4212 potently and
+effectively suppresses free serum IgE. Increased
+concentrations of total IgE were observed
+suggesting that MEDI4212:IgE complexes were
+cleared more slowly than free IgE alone,
+consistent with results seen previously for
+omalizumab [22, 25, 26].
+
+The suppression of free serum IgE by
+MEDI4212 was greater than that observed for
+omalizumab; MEDI4212 doses >60 mg SC (in
+subjects with low-diagnostic IgE) or 300 mg SC
+(subjects with high-diagnostic IgE) suppressed
+free IgE below the LLOQ, whereas omalizumab
+(in our study) at doses of 150 or 300 mg SC
+
+4 Adis
+246
+
+Table 3 Summary of treatment-emergent adverse events (safety population)
+
+Adv Ther (2016) 33:225-251
+
+ 
+
+Assessment
+
+MEDI4212 groups
+
+ 
+
+60 mg 150 mg
+Sc SC
+(n= 9) (2 = 12)
+
+ 
+
+A. Cohorts 1-6: Non-Japanese subjects
+
+Total number of
+
+TEAEs
+>1 TEAE, 7» (%)
+
+TEAEs reported by >2% of subjects, 7 (%)
+
+Upper
+respiratory tract
+infection
+
+Urticaria
+Dizziness
+
+Nasal congestion
+Asthma
+Dermatitis
+Headache
+Myalgia
+Nasopharyngitis
+Diarrhea
+
+Rash
+
+Assessment
+
+SEeckeescEes S&S
+
+sceogeoe:eeeeees:
+
+co So
+
+Placebo (z = 6)
+
+3 (333) 8 (66.7)
+
+0 (0.0) (16.7)
+0 (0.0) 3 (25.0)
+1 (111) 0 (0.0)
+0 (0.0) 1 (8.3)
+0 (0.0) 1 (8.3)
+1 (11.1) 0 (0.0)
+1 (11.1) 0 (0.0)
+0 (0.0) 1 (8.3)
+0 (0.0) 0 (0.0)
+0 (0.0) 0 (0.0)
+0 (0.0) 0 (0.0)
+
+MEDI4212 groups
+
+Omalizumab
+300 mg 300 mg (x = 6)
+sc IV
+(n = 8) (2 = 8)
+9 21 2
+
+5 (62.5) 6 (75.0) 2 (33.3)
+
+2 (25.0)  1(12.5) 0 (0.0)
+0(0.0)  2(25.0) 0 (0.0)
+0 (0.0) 2 (25.0) 0 (0.0)
+2 (25.0) 0(00) 0 (0.0)
+0(0.0)  1(125) 0 (0.0)
+1 (12.5) 0 (0.0) 0 (0.0)
+0 (0.0) 1 (12.5) 0 (0.0)
+0(0.0)  0(00) 0 (0.0)
+0(0.0)  2(25.0) 0 (0.0)
+0(0.0)  0(00) 0 (0.0)
+0(0.0)  0(00)  1(167)
+
+ 
+
+60 mg SC (a = 6)
+
+150 mg SC (xn = 6) 300 mg SC (x = 6)
+
+ 
+
+B. Cohorts 7-9: Japanese subjects
+Total number of TEAEs
+
+>1 TEAE, x (%)
+Back pain
+
+Upper respiratory tract infection
+Injection-site bruising
+
+Musculoskeletal chest pain
+
+Pharyngitis
+
+Pulmonary congestion
+
+Dermoid cyst
+
+1
+
+1
+0
+0
+1
+0
+0
+0
+0
+
+3 2
+1 (16.7) 2 (33.3)
+1 (16.7) 1 (16.7)
+0 (0.0) 0 (0.0)
+0 (0.0) 0 (0.0)
+1 (16.7) 0 (0.0)
+1 (16.7) 0 (0.0)
+0 (0.0) 1 (16.7)
+0 (0.0) 0 (0.0)
+
+ 
+
+IV intravenous, SC subcutaneous, TEAE treatment-emergent adverse event
+TEAEs reported by >2% of subjects in cohorts 1-6 and cohorts 7-9, respectively, are shown ordered by frequency
+
+4 Adis
+Adv Ther (2016) 33:225-251
+
+suppressed free IgE to a minimum
+concentration of 5.23ng/mL. The 106-fold
+greater affinity of MEDI4212 for IgE compared
+with omalizumab [27] very likely translated into
+a greater suppression of free IgE by MEDI4212
+which is in
+published
+high-affinity anti-IgE mAbs _ were
+effective than omalizumab at reducing free
+serum IgE [21, 22].
+
+As in previous studies [21, 22], we observed
+
+agreement with previously
+results demonstrating that
+more
+
+that the duration of free IgE suppression by
+MEDI4212 appeared to be shorter in individuals
+with high baseline IgE levels. A similar duration
+of free IgE suppression was observed in
+omalizumab-treated subjects (150 or 300 mg
+SC) and subjects receiving 150mg SC
+MEDI4212. The median baseline diagnostic IgE
+level in MEDI4212-treated subjects tended to be
+greater than that of omalizumab-treated
+subjects. It appeared that the duration of free
+IgE suppression was similar for omalizumab and
+MEDI4212; however, the recovery of free IgE to
+baseline was faster in subjects receiving
+MEDI4212. than in those receiving
+PK/PD modeling — of
+omalizumab has demonstrated that there is a
+
+omalizumab. As
+
+relationship between free IgE suppression and
+clinical outcomes [28], these results indicate
+that although MEDI4212 is a potent suppressor
+of free IgE, the dosing frequency is likely to be
+similar to omalizumab as a result of the
+duration of suppression by MEDI4212 being
+comparable to that of omalizumab. The
+measured free IgE suppression of MEDI4212 in
+this study appears similar to QGEO31 [22];
+however, as MEDI4212 has a higher affinity
+than QGE031 (1.95 vs 139 pM, respectively),
+MEDI4212 might be a more complete IgE
+inhibitor. To accurately evaluate the affinity
+difference, it would be necessary to determine
+
+247
+
+the affinity of MEDI4212 and QGE031 with
+identical methodology.
+
+The recovery of free IgE levels in
+MEDI4212-treated subjects was associated with
+a rapid decrease of free MEDI4212, and PK
+analysis demonstrated that MEDI4212
+exhibited target-mediated drug disposition
+with fast elimination at all tested doses up to
+300 mg IV. Median ty, values for MEDI4212 of
+1.80-3.67 days (high-diagnostic IgE group) or
+3.98-7.93 days (low-diagnostic IgE group) were
+15.8 days for
+omalizumab. Shorter f,, values were observed
+in subjects who received the lowest SC doses of
+MEDI4212 and/or subjects who had highest
+diagnostic IgE,
+
+shorter compared’ with
+
+consistent with previously
+reported results [22]. The linear clearance of
+free MEDI4212 was 0.345 L/day, greater than
+the reported clearance of free omalizumab [26,
+29], and the estimated SC bioavailability for
+MEDI4212 was much lower than that of
+omalizumab. The lower bioavailability and
+faster clearance of MEDI4212 in subjects with
+higher diagnostic IgE levels could result from
+the greater binding affinity of MEDI4212 for IgE
+driving the formation of higher order
+complexes, or the formation of MEDI4212:IgE
+complexes in extravascular compartments.
+
+The duration of IgE suppression and
+MEDI4212 exposure were greater in Japanese
+subjects than in non-Japanese subjects. The
+small number of subjects, and lower baseline
+IgE levels and lower body weight of Japanese
+subjects may be contributing factors to the
+longer ty, smaller volume of distribution, and
+slower clearance observed in Japanese subjects
+compared with non-Japanese subjects.
+
+Several studies have demonstrated that there
+is a relationship between diagnostic IgE and
+FceRI expression; high IgE correlates with high
+expression of FceRI [15, 30]. In this study we
+
+4 Adis
+248
+
+have also demonstrated that surface expression
+levels of FceRIo. on MDC1s, pDCs, and basophils
+at baseline were strongly correlated with
+diagnostic IgE levels. Previous studies have
+demonstrated that suppression of free serum
+IgE is followed by a dose- and time-dependent
+suppression of FceRI on the surface of basophils
+[22]. As with omalizumab [12, 14], surface
+expression of FceRI was downregulated on
+mDCs, pDCs, and basophils in
+MEDI4212-treated subjects, and appeared to
+correlate with the reduction in free serum IgE.
+QGE031 most likely also reduces FceRI on mDCs
+
+and pDCs, although only reduction on
+basophils was reported [22]. Following
+MEDI4212 administration the — greatest
+
+percentage decreases in FceRI expression from
+baseline were observed in subjects who had
+high expression of FceRI« or high-diagnostic IgE
+at baseline. This is consistent with the
+recognized concept that FceRIa expression is
+regulated largely by IgE levels [13, 15, 31]. The
+degree of downregulation appeared similar in
+subjects dosed with omalizumab and
+MEDI4212, similar to results observed with the
+high-affinity IgE QGEO31 [22]. As surface FceRI
+expression is regulated by binding to IgE [32],
+and omalizumab is able to suppress more than
+90% baseline IgE, it is possible that the greater
+IgE suppression by MEDI4212 may not have
+translated into a measurable difference in FceRI
+down-regulation. Furthermore, low levels of
+FceRI receptor expression on the cell-surface
+may be maintained in a manner that is
+independent of the levels of free IgE [22].
+Results from this study have also
+demonstrated that the expression levels of the
+remaining FceRIla at day 29 (28days after
+MEDI4212 dosing) were not correlated with
+baseline IgE concentration, suggesting that
+FceRIa surface expression in the near-complete
+
+4 Adis
+
+Adv Ther (2016) 33:225-251
+
+suppression of IgE was similar in most
+individuals and independent from IgE levels
+before dosing with MEDI4212. This indicates
+that the upregulation of FceRIa as a result of
+long-term high IgE levels is fully reversible with
+anti-IgE therapy.
+
+In this study, reported AEs were of low
+severity (mostly Grade 1) and no post-dose
+ADAs were detected. The most frequently
+reported TEAE in non-Japanese subjects was
+upper respiratory tract infection, which is not
+an uncommon TEAE following administration
+of an anti-IgE [22, 33]. The most frequently
+reported TEAE in Japanese subjects, back pain,
+has also been observed in previous clinical trials
+of a high-affinity anti-IgE [22]. Thus, MEDI4212
+demonstrated an acceptable safety profile that is
+comparable to similar anti-[gE mAbs.
+
+Limitations of this study were that it was a
+single-dose study, and subjects were healthy or
+had mild disease. In addition, the small
+numbers of subjects in each dose group
+precluded statistical comparisons between dose
+groups. Moreover, only a limited number of
+subjects (n = 10) with near-complete
+suppression of IgE until day 29 (28 days after
+dosing) were identified for the FceRI subset
+analysis. Future studies with high-affinity IgE
+therapies might reveal a statistically significant
+difference.
+
+CONCLUSIONS
+
+This study demonstrated that the high-affinity
+anti-IgE mAb MEDI4212 rapidly reduced free
+serum IgE to a greater extent than omalizumab
+in subjects with diagnostic IgE >30 IU/mL.
+FceRI expression on the surface of dendritic
+cells and basophils was also downregulated
+following administration of MEDI4212, and
+was comparable to downregulation observed
+Adv Ther (2016) 33:225-251
+
+in omalizumab-treated subjects. PK analysis
+demonstrated that MEDI4212 was cleared
+rapidly, coinciding with a rapid recovery of
+free IgE to baseline levels. As such, MEDI4212
+would not provide appreciable benefit over the
+currently available therapy in terms of dosing
+intervals, as frequent dosing of MEDI4212
+would be required to maintain suppression of
+free IgE. The increased potency of MEDI4212 at
+suppressing free IgE compared with
+omalizumab may be of clinical interest in
+individuals for whom _  near-complete IgE
+suppression is required for clinical response
+(e.g., individuals with high-allergen specific
+IgE).
+
+ACKNOWLEDGMENTS
+
+Funding for this study and article processing
+charges were provided by MedImmune. All
+named authors meet the International
+Committee of Medical Journal Editors criteria
+for authorship for this manuscript, take
+responsibility for the integrity of the work as a
+whole, and have given final approval to the
+version to be published. Medical writing
+support was provided by Ruth Steer, PhD,
+QXV Communications (an Ashfield business,
+part of UDG Healthcare plc), Macclesfield, UK,
+which was fully funded by MedImmune.
+
+The authors thank the
+
+investigators at the study sites, as well as the
+
+would like to
+
+subjects who participated in this study. We would
+like to thank Dr. Chad Oh and Dr. Bing Wang for
+developing the study protocol and Dr. Meina
+Liang for bioanalytical support. We would also
+like to thank Dr. Virginia Litwin for validation of
+and testing samples with the flow cytometric
+method, and Slava Inyushin and Kemal Balic for
+help with analysis of the data.
+
+249
+
+Disclosures. Dr. Eric Sheldon has been a
+
+principal investigator for clinical _ trials
+sponsored by MedImmune.
+
+Drs. Birrell, Kell, Kim, Li and Schwickart, and
+Ms. Crouch and Parveen, are employees of
+
+MedImmune and own stock in AstraZeneca.
+
+Compliance with Ethics Guidelines. All
+procedures followed were in accordance with
+the ethical of the
+committee on human
+
+standards responsible
+
+experimentation
+(institutional and national) and with the
+Helsinki Declaration of 1964, as revised in
+2013. Informed consent was obtained from all
+patients for being included in the study.
+
+REFERENCES
+
+1. Thomsen SF. Atopic dermatitis: natural history,
+diagnosis, and treatment. ISRN Allergy.
+2014;2014:354250.
+
+2.  Velling P, Skowasch D, Pabst S, Jansen E, Tuleta I,
+Grohe C. Improvement of quality of life in patients
+with concomitant allergic asthma and _ atopic
+dermatitis: one year follow-up of omalizumab
+therapy. Eur J Med Res. 2011;16:407-10.
+
+3. Marth K, Focke-Tejkl M, Lupinek C, Valenta R,
+Niederberger V. Allergen peptides, recombinant
+allergens and hypoallergens for allergen-specific
+immunotherapy. Curr Treat Options Allergy.
+2014;1:91-106.
+
+4. Baiardini I, Braido F, Brandi S, Canonica GW.
+Allergic diseases and their impact on quality of
+life. Ann Allergy Asthma Immunol.
+2006;97:419-28.
+
+5. Gould HJ, Sutton BJ, Beavil AJ, et al. The biology of
+IgE and the basis of allergic disease. Annu Rev
+Immunol. 2003;21:579-628.
+
+6. Chang TW, Wu PC, Hsu CL, Hung AF. Anti-IgE
+antibodies for the treatment of IgE-mediated
+allergic diseases. Adv Immunol. 2007;93:63-119.
+
+7. Wu Lc, Zarrin AA. The production and regulation
+
+of IgE by the immune system. Nat Rev Immunol.
+2014;14:247-59.
+
+4 Adis
+250
+
+10.
+
+ds
+
+12.
+
+13.
+
+ 
+
+Gounni AS, Lamkhioued B, Ochiai K, et al.
+High-affinity IgE receptor on eosinophils is
+involved in defence against parasites. Nature.
+1994;367:183-6.
+
+Stone KD, Prussin C, Metcalfe DD. IgE, mast cells,
+basophils, and eosinophils. J Allergy Clin Immunol.
+2010;125:S73-80.
+
+Novak N, Allam JP, Hagemann T, et al.
+Characterization of FcepsilonRI-bearing CD123
+blood dendritic cell antigen-2 plasmacytoid
+dendritic cells in atopic dermatitis. J Allergy Clin
+Immunol. 2004;114:364-70.
+
+Schroeder JT, Bieneman AP, Xiao H, et al. TLR9- and
+FceRI-mediated responses expression dendritic cells
+by down-regulating receptor oppose one another in
+plasmacytoid. J Immunol. 2005;175:5724-31.
+
+MacGlashan DW Jr, Bochner BS, Adelman DC, et al.
+Down-regulation of Fc(epsilon)RI expression on
+human basophils during in vivo treatment of
+atopic patients with anti-IgE antibody. J Immunol.
+1997;158:1438-45.
+
+Saini SS, MacGlashan DW Jr, Sterbinsky SA, et al.
+Down-regulation of human basophil IgE and FC
+epsilon RI alpha surface densities and mediator
+release by anti-IgE-infusions is reversible in vitro
+and in vivo. J Immunol. 1999;162:5624-30.
+
+Beck LA, Marcotte GV, MacGlashan D, Togias A,
+Saini S. Omalizumab-induced reductions in mast
+cell Fce psilon RI expression and function. J Allergy
+Clin Immunol. 2004;114:527-30.
+
+Prussin C, Griffith DT, Boesel KM, Lin H, Foster B,
+Casale TB. Omalizumab treatment downregulates
+dendritic cell FcepsilonRI expression. J Allergy Clin
+Immunol. 2003;112:1147-54.
+
+Holgate S, Buhl R, Bousquet J, Smith N, Panahloo Z,
+Jimenez P. The use of omalizumab in the treatment
+of severe allergic asthma: a clinical experience
+update. Respir Med. 2009;103:1098-113.
+
+Humbert M, Busse W, Hanania NA, Lowe PJ,
+Canvin J, Erpenbeck VJ, Holgate S. Omalizumab
+in asthma: an update on recent developments.
+J Allergy Clin Immunol Pract. 2014;2:525-36.
+
+Novartis. Omalizumab EU product information.
+http://www.ema.europa.eu/docs/en_GB/document
+_library/EPAR_-_Product_Information/human/000
+606/WCS00057298.pdf. Accessed 5 Dec 2014.
+
+Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for
+the treatment of chronic idiopathic or spontaneous
+urticaria. N Engl J Med. 2013;368:924-35.
+
+4 Adis
+
+20.
+
+21,
+
+22;
+
+23.
+
+24.
+
+25.
+
+26.
+
+27,
+
+28.
+
+29.
+
+30.
+
+31.
+
+Adv Ther (2016) 33:225-251
+
+Mortensen DL, Prabhu S, Stefanich EG, et al. Effect
+of antigen binding affinity and effector function on
+the pharmacokinetics and pharmacodynamics of
+anti-IgE monoclonal antibodies. MAbs.
+2012;4:724-31.
+
+Putnam WS, Li J, Haggstrom J, et al. Use of
+quantitative pharmacology in the development of
+HAE1, a_ high-affinity anti-IgE monoclonal
+antibody. AAPS J. 2008;10:425-30.
+
+Arm JP, Bottoli I, Skerjanec A, et al.
+Pharmacokinetics, pharmacodynamics and safety
+of QGEO031 (ligelizumab), a novel high-affinity
+anti-IgE antibody, in atopic subjects. Clin Exp
+Allergy. 2014;44:1371-85.
+
+Cohen ES, Dobson CL, Kack H, et al. A novel
+IgE-neutralizing antibody for the treatment of
+severe uncontrolled asthma. MAbs. 2014;6:756-64.
+
+GINA Report. Global strategy for asthma
+management and prevention. 2007. http://www.
+ginasthma.org.
+
+Meno-Tetang GM, Lowe PJ. On the prediction of
+the human response: a recycled mechanistic
+pharmacokinetic/pharmacodynamic approach.
+Basic Clin Pharmacol Toxicol. 2005;96:182-92.
+
+Hayashi N, Tsukamoto Y, Sallas WM, Lowe PJ. A
+
+mechanism-based binding model for the
+population pharmacokinetics and
+pharmacodynamics of omalizumab. Br J Clin
+
+Pharmacol. 2007;63:548-61.
+
+Cohen ES, Dobson CL, Kack H, et al. A novel
+IgE-neutralizing antibody for the treatment of
+severe uncontrolled asthma. MAbs. 2014;6:756-64.
+
+Lowe PJ, Tannenbaum S, Gautier A, Jimenez P.
+
+Relationship between omalizumab
+pharmacokinetics, IgE pharmacodynamics and
+symptoms in patients with severe persistent
+
+allergic (IgE-mediated) Clin
+
+Pharmacol. 2009;68:61-76.
+
+asthma. Br J
+
+Lowe PJ, Renard D. Omalizumab decreases IgE
+production in patients with allergic (IgE-mediated)
+asthma; PKPD analysis of a biomarker, total IgE. Br J
+Clin Pharmacol. 2011;72:306-20.
+
+Malveaux FJ, Conroy MC, Adkinson NF Jr,
+Lichtenstein LM. IgE receptors on human
+basophils. Relationship to serum IgE
+concentration. J Clin Invest. 1978;62:176-81.
+
+Borkowski TA, Jouvin MH, Lin SY, Kinet JP.
+Minimal requirements for IgE-mediated regulation
+of surface Fe epsilon RI. J Immunol.
+2001;167:1290-6.
+Adv Ther (2016) 33:225-251 251
+
+32. MacGlashan D Jr, Xia HZ, Schwartz LB, Gong J. 33. Bang LM, Plosker GL. Omalizumab: a review of its
+IgE-regulated loss, not IgE-regulated synthesis, use in the management of allergic asthma. Treat
+controls expression of FcepsilonRI in human Respir Med. 2004;3:183-99.
+
+basophils. J Leukoc Biol. 2001;70:207-18.
+
+4 Adis
+

@@ -1,0 +1,1206 @@
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190 a
+https://doi.org/10.1186/s12955-019-1266-y Health and Quality
+
+of Life Outcomes
+
+ 
+
+EARCH Open
+
+ 
+
+Psychometric properties of the portuguese
+version of the chronic urticaria quality of
+life questionnaire (CU-Q,0L)
+
+Pedro Lopes Ferreira! ®, Margarida Goncalo?, José Alberto Ferreira, Ana Célia Costa*, Ana Todo-Bom?,
+Cristina Lopes Abreu®, Ana Rita Travassos’, Pedro Andrade®, llaria Baiardini? and Giorgio Walter Canonica!®""
+
+Check for
+updates
+
+ 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+Abstract
+
+Background: Chronic urticaria is defined as the appearance of urticarial lesions and/or angioedema during a period
+of more than six weeks. We aimed at developing the Portuguese version of the Chronic Urticaria Quality of Life
+Questionnaire (CU-Q30L) and at testing its reliability and the content, construct and criterion validity.
+
+Methods: The forward-backward approach to a linguistic equivalence was followed, after which a clinical review
+and a cognitive debriefing with patients were performed. The intraclass correlation coefficient checked test-retest
+reliability with patients filling the same questionnaire with one week apart and the Cronbach’s alpha indicator
+assessed the internal consistency. Construct validity was tested by an exploratory factor analysis and by hypothesis
+tests involving sociodemographic and clinical patient characteristics, including the urticaria control test (UCT). On
+the other hand, criterion validity was tested through correlations with the Short-Form Health Survey SF-36, EQ-5D-5
+L, and the Dermatology Quality of Life Index (DLQI).
+
+Results: A total of 162 patients from seven hospital units were included. The mean (standard deviation) age was
+42.6 (13.3) and 81.6% were female. CU-Q20L was entirely filled by all respondents. Internal consistency was 0.947 for
+the overall score, ranging from 0.661 (limits) to 0.899 (sleep problems) and the corresponding reproducibility
+indicator was 0.910, based on 23 patients and ranging from 0.711 (swelling) and 0.957 (looks). Exploratory factor
+analysis in general confirmed the original structure originally obtained by the authors. All CU-Q,0L dimensions were
+highly correlated with DLQI Index and differentiated well between males and females, and between different levels
+of wheals and pruritus. In addition, moderate negative correlations were found between Cu-Q,0L scores and the
+dimensions from SF-36 and EQ-5D-5 L.
+
+Conclusions: The satisfactory metric properties confirmed the cultural adaptation and validity of CU-Q,0L into
+Portuguese population, providing the clinicians with a valid tool to evaluate the impact of chronic urticaria on
+patient’s QoL and therefore adjust their treatment.
+
+Trial registration number: Not applicable.
+
+ 
+
+ 
+
+ 
+
+Keywords: Patient Reported Outcome Measures, Quality of life, Reproducibility of results, Chronic urticaria
+
+   
+
+ 
+
+* Correspondence: pedrof@fe.uc.pt
+
+‘Centre for Health Studies and Research and Faculty of Economics, University
+of Coimbra, Coimbra, Portugal
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+Background
+
+Every chronic illness produces a significant impact on
+patients’ life, affecting both physical and psychosocial
+domains. Chronic urticaria (CU) can be defined as the
+appearance of urticarial lesions (wheals) and/or angioedema during a period of more than six weeks [1-5].
+There are major problems regarding etiology, pathogenic
+mechanisms and pharmacological treatment of CU and
+its management ultimately aims at preserving the wellbeing and the quality of life of patients.
+
+In fact, chronic urticaria can lead to changes in sleep
+patterns, daytime sleepiness, ability to concentrate, altered
+perception of self-image, social isolation, psychological
+changes and even anxiety and depression [6]. It also yields
+relevant direct and indirect costs, including drugs, medical
+appointments, emergency visits, hospitalization, absenteeism and presenteeism [7].
+
+Few studies had addressed quality of life (QoL) in patients with chronic urticaria until 2005, when Baiardini
+et al. created the Chronic Urticaria Quality of Life Questionnaire (CU-Q,oL) [1], an Italian measure specifically
+designed for CU patients to express their perspectives.
+Until then the QoL of patients with CU was only measured
+through generic health status instruments such as the
+Short-Form Health Survey SF-36 [8] or the Nottingham
+Health Profile [9].
+
+Although generic instruments can be used in all diseases and populations, enabling an easier comparison of
+the impact of health states associated with various clinical conditions, they do not measure the precise burden
+of a particular disease, and they may not be enough sensitive to changes in health status. Specific instruments,
+on the other hand, are more sensitive to small differences in health and changes overtime, showing higher
+‘ace validity, thus better supporting therapeutic decisions. For instance, the dimension ‘looks’ is never
+addressed by generic instruments, in spite of being very
+meaningful for patients with chronic urticaria. Thereore, the cultural adaptation of the CU-Q,oL to the
+Portuguese reality was somehow urgent in order to
+know the effective impact of CU in patients and thereore allow providers and researchers to compare their
+results with those obtained in different countries and to
+articipate in international studies.
+
+There are no specific data for Portugal regarding the
+incidence and/or prevalence of chronic urticaria but,
+based on international data, it is estimated that CU
+affects up to 1% of the Portuguese population at any
+given time. Two thirds represent forms of chronic spontaneous urticaria [6, 10, 11], which can have a high impact on consumption of healthcare resources and direct
+and indirect costs. According to the single study concerning costs in Portugal, which is on agreement with
+international data, the average cost to treat a patient
+
+ 
+
+ 
+
+Page 2 of 12
+
+with severe chronic spontaneous urticaria is estimated to
+be 6234€ over five years, of which 4220€ correspond to
+National Health Service direct costs and the remaining
+2014€ to out-of-pocket indirect costs [12]. A systematic
+implementation of a valid and reliable measure of quality
+of life may alert doctors and patients to a timely approach to the impact of the situation.
+
+The aim of this study was to create a valid and reliable
+questionnaire in European Portuguese from the original
+CU-Q,oL, to measure the quality of life and the burden
+experienced by individuals with chronic urticaria. For
+this purpose, we (i) linguistically and culturally adapted
+the CU-Q,oL from Italian to Portuguese; (ii) assessed reliability, validity, interpretability and acceptance of the
+Portuguese version; and (iii) estimated the health-related
+quality life of a sample of patients with chronic urticaria.
+
+Methods
+
+Linguistic and cultural adaptation
+
+We followed the internationally defined methodology for
+the linguistic and cultural adaptation for the validation
+of outcome measures, as well as the author’s methodological proposal. Therefore, after the authors’ permission
+for the creation of a Portuguese version of the CU-Q.oL,
+we started with the translation of the Italian version to
+Portuguese and followed the recommendations proposed
+by the COSMIN checklist [13] and by the sequential approach [14].
+
+This phase included the elaboration of two local independent versions from two experienced bilingual Portuguese translators who, based on the original Italian
+questionnaire preformed forward translations into Portuguese. Both translations were merged in a reconciled
+version drawn up between the translators and the study
+team. Another local translator, bilingual Italian native
+speaker, a researcher in the University of Coimbra, who
+did not have any access to the original Italian version of
+the questionnaire, then back translated this merged version. This back-translation was finally compared with
+the original version to guarantee a semantic equivalence.
+
+We also asked a clinician to perform a scientific review
+of the final translation. This allergy hospital specialist
+was asked to look at both versions and comment. Three
+alternatives of answers were given to her: (i) if happy
+with the translation, it was only required to use a check
+sign to say it in the “comments section’; (ii) if terms
+should have substantial corrections to add, she should
+give a new proposal in the section “suggestions proposed”; and (iii) if assumed that there is more than one
+correct form to translate the sentence, she should include her suggestion on the section “possible alternative
+for further cognitive test”.
+
+Next, we ran a cognitive debriefing meeting with 10
+chronic urticarial patients. Our aim was to detect
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+whether the Portuguese version we had was acceptable
+by patients and whether its contents was understandable,
+no ambiguous, no redundant and easy to fill. This sample of actual patients approximately respected the agegender distribution of the target patient group, with only
+one exception: we forced to have patients from the lowest possible education level, as we assumed that if interpretation problems didn’t occur with this type of
+patients they won’t occur with patients with higher education level.
+
+At this phase, our main goal was to obtain a conceptual and linguistic version, equivalent to the Italian original. That is, a Portuguese version where the items
+would have the same meaning and content as the corresponding items in the original version.
+
+Study design
+
+This was an observational multicenter study aimed at
+validating a diagnostic scale and analyzing the healthrelated quality of life of a sample of patients. Dermatologists and imuno allergologists from seven dermatology
+and imuno-allergology departments of four Portuguese
+public hospitals from the areas of Lisbon, Coimbra and
+Oporto conducted the study during regular medical appointments. The National Data Protection Agency and
+the Ethics Committees of all hospitals approved the
+study and all participants gave their informed consent
+after previous information about the objective of this
+study, its benefits, potential risks and possible discomfort. There was, under no circumstances, any interference with the health professional decision regarding the
+best-suited medical approach to each patient.
+
+Participants
+We included consecutive patients from the different
+units who (i) had at least 18 years of age, (ii) suffered
+from chronic urticaria for at least six months, (iii) had
+capacity to give consent to participate in the study, and
+(iv) knew how to read, write and understand Portuguese.
+Excluded were (i) unstable patients or with uncontrolled
+symptoms and perceived by clinicians as not having ability to fill the measures, (ii) cognitively affected patients,
+or (iii) who did not understand Portuguese.
+
+After data collection, the information was registered in
+a digital device without any identification of patients.
+Data was analyzed and hypotheses were tested in
+order to demonstrate the reliability and validity of the
+Portuguese version of the CU-Q,oL.
+
+Measurement instruments
+
+In this study, health-related quality of life was measured
+through specific and generic instruments. Specific
+instruments included the Portuguese version of the CUQ,oL and the Dermatology Quality of Life Index
+
+Page 3 of 12
+
+(DLQI). Among the generic instruments we selected the
+generic health status measure SF-36 and the health preference quality of life EQ-5D-5 L. Sociodemographic and
+clinic data were also collected, including the measurement of the severity of the urticaria and its control by
+the Urticaria Control Test (UCT).
+
+e CU-Q,0L is the first disease-specific instrument
+designed to measure the quality of life of patients
+with chronic urticaria [1]. The authors of the
+initial Italian version had the goal to create a selfadministered, easy and fast answering measurement
+instrument to be filled without any assistance and to
+be able to capture the physical, psychosocial and
+practical aspects relevant to patients with chronic
+urticaria [ 1]. It was initially created by professionals
+and patients and consisted of 37 items with a recall
+period of two weeks; the items emerged from experts
+and researchers in immunology, dermatology and
+immuno-allergology, as well as a panel of 60 patients
+affected by CU. It was later reduced to 23 items
+corresponding to an overall impairment score and six
+dimensions: pruritus, swelling, impact on life activities,
+sleep problems, limits, and looks, as follows:
+
+ 
+
+Pruritus Sleep problems Looks
+1 pruritus 11 ease of falling asleep 19 medication adverse
+effects
+2 wheals 12 walking up during 20 bothersome
+the night
+Swelling 13 daytime tiredness 21 embarrassing in
+
+public
+
+3 eyes swelling 14 ability to concentrate 22 use of cosmetics
+
+4 lips swelling 15 nervousness 23 choice of clothes
+
+Impact on life Limits
+activities
+5 work 16 bad mood
+
+6 physical activities 17 limits in choosing food
+
+7 quality of sleep —- 18 sport
+8 free time
+9 social relations
+
+10 eating
+
+ 
+
+Answering the questionnaire, patients express how
+troubled they are, by scoring each item on a 5-point
+Likert-type scale from 0 (not at all) to 4 (extremely). For
+each dimension, the corresponding items are summed to
+obtain a score, which is converted to a scale from 0 to
+100 through a linear transformation. Similar procedure
+is applied to an overall score. Higher values always
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+correspond to higher QoL impairment, which means
+worse QoL [1].
+
+In its original version, this measure showed good values
+of convergent validity with SF-36, internal consistency
+with Cronbach alpha scores between 0.65 and 0.83, reliability with good Intraclass Correlation Coefficient (ICC)
+for four items and greater or equal to 0.75 for the other
+items and that is, standards of quality that ensure a good
+measuring tool to evaluate the burden in chronic urticaria
+patients. It has been translated and adapted in several languages, such as Brazilian-Portuguese [15], German [16],
+Greek [17], Israeri [18], Persian [19], Polish [20], Spanish
+(21], Thai [22], and Turkish [23].
+
+e DLQI is a dermatology-specific questionnaire with
+10 items [24] and assesses six different aspects that
+may affect the patients’ QoL: symptoms and feelings,
+daily activities, leisure activities, work or school,
+personal relationships, and treatment. Higher
+scores indicate a greater impairment in QoL [24].
+Each of the 10 questions is scored from 0 (not at
+all) to 3 (very much) and the overall DLQI score
+is calculated by summing up the scores from each
+question, resulting in a numeric score between 0
+and 30. Higher scores indicate a greater impairment
+in QoL. The impact of the DLQI scores on a patient’s
+life is as follows: 0 to 1 = no effect; 2 to 5 = small
+effect; 6 to 10 = moderate effect; 11 to 20 = very large
+effect; 21 to 30 = extremely large effect.
+
+e SF-36, with its 36 items, measures eight major
+health dimensions, all of them on a scale of 0-100,
+with the extreme anchors corresponding,
+respectively, to death and perfect health status
+[25, 26]. The effectiveness dimensions are physical
+function, role limitations due to physical or
+emotional problems, intensity and discomfort
+caused by pain, general health, vitality, social
+function, and mental health. Higher scores mean
+a better perceived health status.
+
+e EQ-5D-5L is a generic QoL instrument consisting
+of five dimensions of health (mobility, self-care, usual
+activities, pain/discomfort, and anxiety/depression)
+and a visual analogue scale (VAS) for rating health on
+the precise day. Weighted scoring produces an EQ5D-5 L index score [27]. The EuroQoL Group has
+approved the Portuguese version as well as the
+corresponding value set [28].
+
+e UCT isa patient-reported outcome instrument to
+retrospectively assess urticaria control [29]. Each
+item has five answer options (scored with 0 to 4
+points). Low scores indicate high disease activity and
+low disease control. Accordingly, the minimum and
+maximum UCT scores are, respectively, 0 and 16,
+with 16 points indicating complete disease control.
+
+ 
+
+Page 4 of 12
+
+The order of administration for the instruments was the
+following: first, we asked patients for clinical information
+regarding his/her chronic urticaria, before addressing their
+assessment of the urticaria control (UCT); next, we
+applied the preference quality of life measure EQ-5D-5L,
+followed by the DLQI, the CU-Q,oL and the SF-36; at last,
+we asked for sociodemographic variables.
+
+Reliability
+
+To address the reliability, we tested the intertemporal
+stability and the internal consistency. The former was
+tested using the ICC in a 1-week test-retest design with
+no clinical intervention during this week. A score
+smaller that 0.5 is considered weak, between 0.5 and
+0.75 moderate, between 0.75 and 0.9 good, and larger
+than 0.9 excellent [30].
+
+On the other hand, the internal consistency, representing
+the homogeneity among the individual items, was tested
+using the Cronbach’s alpha coefficient, which should have
+scores between 0.7 and 0.9 [31].
+
+The following two hypotheses were formulated:
+
+H1: The Portuguese version of the CU-QooL shows
+good internal consistency.
+
+H2: The Portuguese version of the CU-Q:o0L shows
+good intertemporal stability.
+
+Validity
+
+For a measure to be precise, it is essential that it
+measures/evaluates what it is supposed to measure. In
+what concerns the validity tests, we addressed the three
+strands of content, construct, and criterion (31, 32]. The
+content validity, measuring the relevance of the items,
+has already been tested through the cognitive interviews
+of 10 patients and with the reviews performed by
+clinicians during the linguistic and cultural adaptation
+phase.
+
+The construct validity addresses the ability of the
+instrument to measure theoretical concepts. Following
+some authors [31, 32], we used the two major ways to test
+the construct validity: structural validity and hypothesis
+testing. The structural validity was tested by using
+exploratory factor analyses. Hypotheses testing assumes
+the formulation of several hypotheses with known groups
+stratified by sociodemographic variables (sex, age, family
+status, employment status and education level) and some
+clinical variables (disease duration, angioedema, type and
+severity of urticaria, comorbidities, type of treatment, and
+control of urticaria). Student t-test and ANOVA were
+used to test the CU-Q:oL scores differences on these
+known groups.
+
+The following three hypotheses were formulated:
+
+Hg: Exploratory factor analysis replicates the original
+structure of CU-Q,oL.
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+Hy: CU-Q,oL is able to discriminate based on sociodemographic variables.
+
+H;: CU-Q,0L is able to discriminate based on clinical
+variables.
+
+To test the criterion validity we used bivariate
+statistical analyses (Pearson’s r correlation coefficients)
+between the dimensions of the Portuguese version of the
+CU-Q»oL and other measuring instruments. Correlations less than 0.3, between 0.3 and 0.5, and higher than
+0.5 were defined as weak, moderate and strong, respectively [33].
+
+These other instruments included the generic health
+status instrument SF-36, the generic quality of life instrument EuroQoL EQ-5D-5L and the dermatologyspecific instrument DLQI. We expected to evidence the
+similarities and differences between measured concepts.
+
+The following three hypotheses were formulated:
+
+H,: CU-Q,oL dimensions are correlated with the SF36 dimensions.
+
+Hz: CU-QooL dimensions are correlated with the EQ5D-5 L.
+
+Hg: CU-Q,0L dimensions are correlated with the
+DLQI dimensions.
+
+Taking into account that SF-36 is a generic health status
+measure, a priori we do not expect to have large correlations with CU-QjoL. On the other hand, some significant
+correlations are expected with both EQ-5D-5 L index and
+VAS. Finally, because DLQI is a dermatology-specific
+questionnaire we expect to have large correlations with
+CU-Q,oL.
+
+Statistical analysis
+
+Floor and ceiling effects were checked on overall CUQ,ol score and dimensions. These effects exist whenever
+more than 15% of the respondents lie, respectively, in
+the lowest and the highest possible score [31, 32].
+
+Results
+
+Linguistic and cultural adaptation
+
+During the forward-backward process, no major differences were found and, due to the layout of this
+questionnaire, some minor changes were produced in
+the Portuguese version after the comparison between
+the backward version and the original. Clinical review
+also yielded to minor changes in the Portuguese version. On the other hand, on the cognitive debriefing
+meeting, no understandability, ambiguity or redundancy errors were mentioned. Only the wording of
+some questions had to be changed in order to have a
+more colloquial questions. At the end of this process,
+a complete report was send to and approved by the
+authors of CU-Q,oL.
+
+Page 5 of 12
+
+Sample and reliability
+
+A total of 162 patients from seven units were
+included in this study. Table 1 presents the main
+sociodemographic and clinical characteristics.
+
+Mean (standard deviation) age was 42.6 (13.3), 81.6%
+were female, 63.1% were married, 70.1% were employed,
+and almost 35% had 5 to 9years of education. These
+patients suffered from the disease in average for the last
+5.6 years (median of 3 years). The main diagnosis was
+chronic spontaneous urticaria (83.3%) and the most
+frequent comorbidities were allergic rhinitis (26.5%),
+drug allergies (19.8%), and thyroid disorders (17.3%). A
+total of 81.5% of patients received antihistamines and
+22.8% were on omalizumab.
+
+Table 2 shows the distribution of the scores of CUQoL overall and dimensions’ scores, as well as reliability
+indicators.
+
+As presented in this table, pruritus has the highest
+score and no CU-Q,oL dimension showed ceiling effect.
+However, some dimensions showed important floor effect
+(e.g., limits and looks), possibly justified by taking into account the sample characteristics. Internal consistency of
+the overall score (Hj) was very good (0.947), with a small
+exception for the dimension ‘limits’ (0.661), and ICC
+showed a high reproducibility power, with a ICC for the
+overall score equal to 0.910, ranging from 0.711 (swelling)
+and 0.957 (looks) across dimensions.
+
+Validity
+Starting by the construct validity, in our case, to test the
+structural validity, we opt by performing the exploratory
+factor analysis with all the 23 items of the Cu-QooL.
+Using a principal component analysis with Varimax rotation with Kaiser normalization, we selected five factors,
+corresponding to 73.2% of variance explained. Table 3
+presents the major results from this factor analysis.
+Looking at the contents of these factors, we observed
+that the original two factors ‘pruritus’ and ‘swelling’
+appeared merged in one sole factor, and ‘sleep problems’
+original factor maintains in this new _ structure.
+Regarding the ‘impact on life activities’ factor, two items
+did not show together with the original ones, but with
+an acceptable rationale. They were the item 7 (quality of
+sleep) which followed the other items of the ‘sleep’
+factor, as well as item 16 (bad mood), and the item 10
+(eating) that appeared in the new factor ‘limits’ together
+with the item 17 (limits in choosing food) and the item
+23 (choice of clothes). The remaining items formed the
+‘looks’ factor also with item 18 (sport). At last, item 22
+(use of cosmetics) appeared in the domain ‘impact on
+life activities’ instead of in the domain ‘looks’ (H3).
+Another way to test the construct validity is to address the
+discriminative validations by looking at sociodemographic
+and clinical variables. Table 4 shows the different CU-Q,oL
+ 
+
+ 
+
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190 Page 6 of 12
+Table 1 Sample demographic and clinic characteristics (n = 162)
+Variable Value No %
+Gender Male 29 184
+Female 129 816
+Age (years) D5 45 28.7
+(25-45[ 44 28.0
+245 68 433
+Minimum — Maximum 18-79
+Mean + Standard deviation 42.6 +133
+Marital status Single 39 248
+Married 99 63.1
+Widowed/divorced/separated 19 12.1
+Years of education 0-4 19 123
+5-9 54 348
+10-12 36 232
+> 12 46 297
+Employment status Employed 110 70.1
+Retired 13 83
+Unemployed 18 115
+Other 16 10.2
+Duration of urticaria (years) Minimum — Maximum 0-49
+Mean + Standard deviation 5647.2
+Angioedema Yes 70 470
+No 79 53.0
+Type of urticaria Chronic spontaneous urticaria 135 83.3
+Physical urticaria - pressure 32 198
+Physical urticaria — cold contact 7A 43
+Physical urticaria - dermographic 18 Wl
+Physical urticaria — other 13 8.0
+Pruritus level (UAS7) None 30 19.0
+Light 53 B35
+Moderate 53 335
+Intense 22 13.9
+Number of wheals (last week) (UAS7) None 50 32.7
+< 20 54 353
+[20-50] 39 255
+> 50 10 6.5
+Comorbidities Allergic rhinitis 43 26.5
+Asthma 20 123
+Drug allergies 32 198
+Food allergies 7 10.5
+Atopic dermatitis 7 43
+Contact dermatitis 10 62
+Diabetes mellitus 12 74
+Thyroid disorders 28 173
+Peptic ulcer 6 37:
+ 
+
+ 
+
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190 Page 7 of 12
+
+Table 1 Sample demographic and clinic characteristics (n = 162) (Continued)
+
+Variable Value No %
+Depression 23 14.2
+Others 26 16.0
+
+Urticaria treatment None 7 43
+Anti-histaminic once a day oy 32.1
+Anti-histaminic more than once a day 80 494
+Omalizumab 37 228
+Other 21 13.0
+
+Urticaria control (UCT) Poorly controlled (UCT < 12) 134 82.7
+Well controlled (UCT 2 12) 28 173
+Minimum — Maximum 1-14
+Mean + Standard deviation 82428
+
+ 
+
+average scores for different sociodemographic and clinical
+variables.
+
+Regarding the sociodemographic variables and analyzing
+hypothesis Hy, in general, CU-QoL differentiated well between males and females, with females always having
+higher QoL impairment. However, it was not able to discriminate based on age or education.
+
+On the other hand, in what concerns clinical variables
+and hypothesis Hs, this measurement instrument also
+differentiated well between different levels of severity of
+pruritus and wheals, with most severe cases scored as
+poor health. In addition, the presence of angioedema
+and a poor urticarial control were perceived as higher
+QoL impairment.
+
+At last, Table 5 presents the correlations between CUQsoL overall and dimensions scores and the measurement of health status (SF-36), quality of life (EQ-5D-5
+L), and a dermatology-specific questionnaire (DLQI).
+
+As expected, looking at the correlations between CUQ,oL and SF-36 dimensions (hypothesis H¢), we notice
+moderate negative correlations, especially for the overall
+CU-QooL scores, for the ‘impact on life activities’ and
+‘limits’ dimensions (SF-36 physical dimensions) and for
+‘sleep problems’ dimension (SF-36 mental dimensions).
+In addition, when CU-Q:0L dimensions are correlated
+with both EQ-5D-5L index and VAS (hypothesis Hy),
+
+Table 2 Distribution and reliability scores for CU-Q 0L
+
+we showed moderate and large correlation, especially
+with the overall CU-Q,oL and with ‘impact on life activities’ dimension. At last, all CU-Q,oL dimensions are
+highly correlated with DLQI index (Hg).
+
+Discussion
+
+Cu-QooL is the first disease-specific measurement instrument to address the impact of chronic urticaria on
+QoL. To create the Portuguese version we have followed
+strict methodologies based on forward-backward translations, with content, construct and criterion validity, as
+well as reliability tests.
+
+The sample used to validate this version was formed
+by 162 chronic urticaria patients from seven centers
+dealing with urticaria patients from the main regions of
+Portugal, assuring good country coverage. Among them,
+23 patients participated in a test stability over time. The
+sample with a mean age of 42.6 and female predominance
+reflects the characteristics of the population attending the
+chronic urticaria clinics, including in Portugal [34, 35]. All
+patients considered the Portuguese version understandable
+and without ambiguity.
+
+Excellent reliability scores were found when performing
+the internal consistency and when over time stability was
+tested, even a little bit better than in other countries
+{15, 16, 20-23]. Some variability may be accepted due
+
+ 
+
+ 
+
+CU-Qo0L # of items Mean + sd Floor effect Ceiling effect Internal consistency a 1-week Test-retest ICC
+Overall score 23 254 +197 43 0.0 0.947 0.910
+Pruritus 2 40.6 + 288 154 56 0.829 0.818
+Swelling 2 15.6 + 228 0.0 13 0.796 0.711
+Impact on life activities 6 18.3 + 207 DTD. 06 0.869 0.862
+Sleep problems 5 3344255 119 06 0.899 0.866
+Limits 3 275 +239 18.8 19 0.661 0.929
+Looks 5 226 + 242 23.1 06 0.842 0.957
+
+ 
+
+sd standard deviation
+ 
+
+ 
+
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190 Page 8 of 12
+Table 3 Results from exploratory factor analysis on CU-Q20L data
+Domain Eigen value Items Factor 1 Factor 2 Factor 3 Factor 4 Factor 5
+Sleep problems 10.804 walking up during the night 834 143 068 (143 087
+daytime tiredness 828 214 101 D3 172
+ease of falling asleep ,807 118 271 063 129
+ability to concentrate 620 401 208 141 266
+nervousness 608 138 520 092 254
+quality of sleep 1536 439 141 501 023
+bad mood 444 214 441 119 362
+Impact on life activities 1.998 physical activities 195 837 207 091 1244
+use of cosmetics 154 758 410 -094 224
+free time 307 734 056 B45 212
+social relations (233 682 (247 344 182
+work 176 578 298 A74 ,071
+Looks 1.645 sport 217 159 ,807 295 030
+medication adverse effects 164 PTL 779 193 154
+embarrassing in public 201 318 ,707 085 269
+bothersome 101 134 576 -,031 503
+Pruritus & Swelling 1.308 lips swelling 015 ,050 014 836 210
+eyes swelling 133 ,001 (174 ,750 323
+wheals (232 312 (134 732 -,048
+pruritus 438 316 299 583 -057
+Limits 1.076 limits in choosing food 198 219 1229 198 {784
+eating 1234 301 135 306 712
+choice of clothes 192 (422 286 ,060 A64
+
+ 
+
+to the frequent changing of the disease activity over
+days/weeks and, consequently, with some variability in
+the interference on some aspects of the QoL.
+Exploratory factor analysis revealed a very similar
+structure comparable with the one presented by the
+authors on its original version and explaining 73.2% of
+the variance. The major discrepancy between the Italian
+and the Portuguese CU-Q:oL factor structures resides
+on the fact that ‘pruritus’ and ‘swelling’ domains did not
+appear as two individual domains, encompassing a
+‘symptoms’ domain. However, when comparing the
+structure proposed by the original authors and by the
+various countries’ culturally adapted versions, we also
+evidence some differences. In fact, while the Spanish
+(21] and the Turkish [23] versions retain the original
+scales, the German [16], the Greek [17], the Hebrew [18]
+and the Polish [20] versions show new six-scale structures, including dimensions as ‘functioning’ and ‘mental
+status’. Brazilian [15] version determined a three-scale
+structure formed by ‘sleep/mental status/eating’, ‘pruritus/impact on life activities’, and ‘swelling/limits/look’.”
+Construct validity known-groups tests also revealed
+the power of CU-Q:0L to be able to discriminate patients based on sociodemographic, namely with a higher
+
+impact on QoL in the female population which is usually
+described in other studies [1, 15, 16, 20, 22, 23], and certainly has to do with higher levels of pruritus and angioedema reported in this group of females (respectively
+42.5 and 17.8, compared to 33.6 and 8.2 in males).
+
+The item ‘looks’, encompasses particularly embarrassing
+situations in public, use of cosmetics and choice of
+clothes, has shown to have a more significant impact on
+women and may have contributed significantly for the
+difference of the burden of CU between genders. In
+addition, when evaluated by another instrument, the
+DLAQI, the impact of chronic spontaneous urticaria (CSU),
+as well as psoriasis and other chronic skin diseases is also
+significantly higher in females.
+
+Clinical variables associated with more severe disease
+were clearly correlated with a higher score in CU-Q,oL.
+Severity of pruritus and the number of wheals in the
+previous week, which together constitute one of the
+scores more frequently used to asses disease severity in
+Chronic Spontaneous Urticaria (CSU) (the UAS7 — urticaria activity score 7), as well as angioedema with unpredictable swellings that often occurs in exposed areas and
+that may affect functional activities of patient and his life
+within the society (speech, visual capacity, eating, walking
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+Page 9 of 12
+
+Table 4 Qol perception for different levels of sociodemographic and clinical variables
+
+ 
+
+ 
+
+Overall score Pruritus Swelling Activities Sleep Limits Looks
+Gender Female 276 425 178 196 35.5 207 255
+Male 16.8 336 82 13.8 22.9 18.1 10.5
+t 34 15 25 14 24 24 44
+Sig 0.001 0.136 0.013 0.180 0.016 0.019 < 0,001
+Age (years) < 35 26.0 44.2 15.0 21.2 297 265 25.2
+25-44 24.6 384 16.3 16.3 334 28.6 20.1
+245 253 394 153 174 34.9 27.0 222
+F 0.1 0.5 0.1 0.70 0.6 0.1 0.5
+Sig 0.943 0.586 0.960 0.496 0.562 0.906 0.611
+Years of education 0-4 16.6 319 83 99 246 178 12.0
+5-9 28.2 417 20.0 199 375 31.9 24.1
+10-12 25.2 437 14.6 19.1 325 Zi 20.9
+>12 25.6 388 144 19.2 316 263 26.2
+F 16 08 14 11 1.2 17 16
+Sig 0.196 0.517 0.230 0.335 0.297 0.176 0.190
+Severity of pruritus Absent 10.4 104 54 49 135 147 13.5
+Mild 18.8 29.2 8.0 10.9 29.6 21.0 173
+Moderate 333 S72: 23.1 271 425 328 265
+Severe 439 744 327 36.3 48.6 48.3 37.1
+F 243 64.6 115 20.0 145 12.9 57
+Sig < 0.001 < 0,001 < 0.001 < 0.001 < 0,001 < 0.001 0.001
+Severity of wheals Absent 13.7 21.0 67 63 225 158 134
+Mild 26.84 415 137 18.0 37.7 287 243
+Moderate 36.7 60.2 273 32.2 39.0 38.5 326
+Severe 40.8 65.0 26.2 33.7 53.0 49.2 285
+F 15.3 228 74 172 66 12 5.1
+Sig < 0.001 < 0,001 < 0.001 < 0.001 < 0,001 < 0.001 0.002
+Angioedema Yes 30.1 467 254 226 35.1 327 275
+No 204 33.1 74 13.1 30.3 232 18.0
+t 3.0 29 48 27 11 24 24
+Sig 0.003 0.004 < 0.001 < 0.001 0.259 0.017 0.018
+Urticaria control Poor 29.1 48.1 18.4 217 38.0 304 25.5
+Well TA 53 27 2.2 119 13.9 8.9
+t 10.1 146 6.1 93 77 46 5.2
+Sig < 0.001 < 0,001 < 0.001 < 0.001 < 0,001 < 0.001 < 0.001
+
+ 
+
+t: Student's t (2 alternatives); F: Fisher's F (3 or more alternatives)
+
+or manual tasks) were very significantly correlated with
+CU-Q.oL, as we might expect. Also, within the same
+sense, the study showed very good correlation between
+the score of the Cu-Q,oL and the UCT, that addresses
+questions like how severe were the symptoms and signs of
+CU (pruritus, wheals and swellings), how CU has interfered with the patient’s life, how much the treatment was
+able/unable to control the symptoms of CU, although
+UCT goes back to the previous four weeks [29].
+
+The lack of effect of age and education on patients’
+answers make us ensure that this measurement instrument
+may be used irrespective of these sociodemographic
+variables and that the burden of CSU is transversal to all
+ages and levels of education.
+
+Comparisons between CU-Q,oL with the scores from
+DLQI, SF-36 and EQ-5D-5 L in the same population of
+Portuguese patients showed expected results with very
+good correlations between similar aspects evaluated by
+Page 10 of 12
+
+190
+
+(2019) 17:
+
+Ferreira et al. Health and Quality of Life Outcomes
+
+ 
+
+ 
+
+ 
+
+anjen-d Bis ua!yje0d UONe|a10) UOSIead :
+L00'0> L00°0> L00'0> L000 > L000 > L000 > L000 > Bis
+2990 0890 S190 €/8'0 29¥0 91Z0 9rg'0 d lord
+L00'0> L00°0> L00'0> L000 > L000> L000 > L000 > BIS
+vly0- 91S0- s8v0- 99'0- gleo- 670 - €79'0- d SWA
+L00'0 > L00'0> L00'0> L000 > L000 > L00'0 > L000 > 51S
+70S'0- zeso- 9zs'0 - 169°0- 9se0- 9se0 — 9v9'0- 0 xapul 1S-dS-04
+Lo0'0> L00'0> L00'0> L00';0 > 1000 L000 > L000 > 51S
+cero - €€90- 9¢5'0 - vevo- LSTO- 9870 - 9ss'0- 0 AIEUWLUNS |eqUS\\)
+Lo0'0> L00°0 > L00°0> 1000 > 7000 L000 > L000 > 51S
+LIv0- €LE0- Olvo- vls‘0- L170- LEEO- S6r'0- d AleWUUNS |e0!SKYq
+Lo0'0> L00°0 > L00'0> L000 > L000 > L000 > L000 > 51S
+€0S'0- €890- s79'0- vly0- 6670 — oze0 - Z729'0- 0 yyeay jequsy
+L00'0> L00'0> L00'0> 1000 > L000 L00'°0 > 10010 > Bis
+€8r0- Z7850- 6150 9bS'0- Sh70- ZOE0- €85'0- d jeuonowwa ajoy
+Lo0'0> L00°0> L00'0> 1000 > L000 > L000 > 10010 > Bis
+16s'0- gs90- 8zs'0- LL9'0- 9670 — 19E0- 099'0- d uon>un4 |eD0s
+Lo0'0> L00°0> L00'0> L000 > 1000 L000 > 1000 > Bis
+88v0- v8S0- S6S0- 8sb'0- LETO- S7eO- 8S'0- d AWeUA,
+L00'0> L00°0> L00°0> L000 > L000 > L000 > 1000 > BIS
+Lov'0- ”05'0- L9v'0- 750 - €l70- 16€0- 0Ls°0 - d yyeaH |eaues
+Loo'0 > L00°0 > L00°0 > L000 > L000 > L000 > L000 > 51S
+Logo- \ze0- 6bb'0- ZLE0- 0970 - ZLEO- Lev0- d uled
+L000 > L00'0 > L00'0 > Lo0'0 > 6r00 L000 > L000 > 51S
+Seso- 9€5°0 ~ 60 - vaso - 8rl0- 2870 - €L5°0- 0 leaiskyd ajoy
+L00'0> L00'0> L00°0 > 10010 > L000 > L000 > L000 > 51S
+€s'0- 80S'0- err0- 7850 - 8ezo- e€€O- £850 — d uonuny |e1skyd 9€-4S
+soo] SMU] daa|s SalAnoy snyunid [eqo,
+
+ 
+
+ 
+
+lO1d pue 7 S-GS-O4 ‘97-45 seunseaw ay} pue UONdadied JOH UseMIaq UONe|aOD g ajqeL
+Ferreira et al. Health and Quality of Life Outcomes (2019) 17:190
+
+these different PROs further strengthening the validity
+of the measure obtained by the Portuguese version CUQooL.
+
+Also, in this study we could confirm that Portuguese
+results with the CU-Q:oL were in line with the results
+obtained by the original and the different versions translated in different languages and used in different populations [15-23], therefore confirming that the burden of
+CSU and its detrimental effect on the patients’ QoL is
+transversal to all populations of the world were these
+studies have been performed.
+
+The possible limitation we may have in this study is
+the sample size. Therefore, we plan to pursue the
+implementation of the Portuguese version of the CUQoL in regular medical appointments and, later, with a
+larger sample, to perform a confirmatory factor analysis
+to test the replication of the major findings.
+
+Conclusion
+
+Our study showed that the Portuguese version of the
+CU-Q,0L is semantically and culturally equivalent to the
+original Italian version. The good performance of the
+scale adapted into Portuguese, its short administration
+time and highly cost-effective administration make the
+Cu-Q,o0L a valid, reliable and useful tool for research
+and standard clinical practice.
+
+Abbreviations
+
+CSU: Chronic Spontaneous Urticaria; CU: Chronic Urticaria; CU-Q2oL: Chronic
+Urticaria Quality of Life Questionnaire; DLQI: Dermatology Quality of Life
+Index; ICC: Intraclasse Correlation Coefficient; QoL: Quality of Life; SF
+36: Short Form Health Survey; UAS/: Urticaria Activity Score 7; UCT: Urticaria
+Control Test
+
+Acknowledgements
+The authors would like to thank the patients who participated in this study.
+
+Authors’ contributions
+
+PLF and MG contributed to the study concept, participated in its design,
+coordination and drafted the manuscript. All authors read and approved the
+final manuscript.
+
+Funding
+
+This project was partly funded by a research grant from Novartis Farma.
+However, the authors were not in any way influenced by this funding. This
+has only been used for logistic purposes.
+
+Availability of data and materials
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+
+Ethics approval and consent to participate
+
+The National Data Protection Agency and the Ethics Committees of all four
+hospitals approved the study and all participants gave their previous
+informed consent to participate in the study. There was, under no
+circumstances, any interference with the health professional decision
+regarding the best-suited medical approach to each patient.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Page 11 of 12
+
+Author details
+
+‘Centre for Health Studies and Research and Faculty of Economics, University
+of Coimbra, Coimbra, Portugal. "Dermatology Department, University
+Hospital and Faculty of Medicine, University of Coimbra, Coimbra, Portugal.
+2immuno-allergology Department, Vila Nova de Gaia / Espinho Hospital
+Centre, Vila Nova de Gaia, Portugal. “Immuno-allergology Department,
+Lisbon-North Hospital Centre, Lisbon, Portugal. “Immuno-allergology
+Department, University Hospital and Faculty of Medicine, University of
+Coimbra, Coimbra, Portugal. "immuno-allergology Department, Matosinhos
+Health Local Unit, Matosinhos, Portugal. Dermatology Department,
+Lisbon-North Hospital Centre, Lisbon, Portugal. "Dermatology Department,
+Matosinhos Health Local Unit, Matosinhos, Portugal. °Department of
+Biomedical Sciences, Humanitas University, Milan, Italy. ‘Department of
+Biomedical Sciences, Humanitas University, Milan, Italy. "Personalized
+Medicine, Asthma and Allergy Clinic, Humanitas Research Hospital, Milan,
+
+Italy.
+
+Received: 3 January 2019 Accepted: 19 December 2019
+Published online: 30 December 2019
+
+References
+
+1
+
+Baiardini |, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, Braga M,
+Lombardi C, Fassio 0, Canonica GW. A new tool to evaluate the impact of
+chronic urticaria on quality of life: chronic urticaria quality of life
+questionnaire (CU-QoL). Allergy. 2005 Aug;60(8):1073-8.
+
+Greaves M. Chronic urticaria. J Allergy Clin Immunol. 2000 Apr;105(4):664-72.
+Magerl M, Altrichter S, Borzova E, Giménez-Arnau A, Grattan CE, Lawlor F,
+Mathelier-Fusade P, Meshkova RY, Zuberbier T, Metz M, Maurer M. The
+definition, diagnostic testing, and management of chronic inducible
+urticarias - the EAACI/GA(2) LEN/EDF/UNEV consensus recommendations
+2016 update and revision. Allergy. 2016;71:780-802.
+
+Zuberbier T. Urticaria. Allergy. 2003 Dec;58(12):1224-34.
+
+Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+Bernstein JA, Bindslev-Jensen C, Brzoza Z, Buense Bedrikow R, Canonica GW,
+Church MK, Craig T, Danilycheva IV, Dressler C, Ensina LF, Giménez-Arnau A,
+Godse K, Gongalo M, Grattan C, Hebert J, Hide M, Kaplan A, Kapp A,
+Katelaris CH, Kocattirk E, Kulthanan K, Larenas-Linnemann D, Leslie TA,
+Magerl M, Mathelier-Fusade P, Meshkova RY, Metz M, Nast A, Nettis E, OudeElberink H, Rosumeck S, Saini SS, Sanchez-Borges M, Schmid-Grendelmeier
+P, Staubach P, Sussman G, Toubi E, Vena GA, Vestergaard C, Wedi B, Werner
+RN, Zhao Z, Maurer M. The EAACI/GA7LEN/EDF/WAO Guideline for the
+Definition, Classification, Diagnosis and Management of Urticaria. The
+2017 Revision and Update. Allergy. 2018 Jul;73(7):1393-1414 Jan 15.
+doi: https://doi.org/10.1111/all.13397,
+
+Costa C, Gongalo M. Abordagem diagnéstica e terapéutica da urticaria
+crénica espontanea: recomendagdes em Portugal. Acta Medica Port. 2016
+Nov;29(11):763-81.
+
+Wedi B, Wieczorek D, Raap U, Kapp A. Urticaria. J Dtsch Dermatol Ges. 2014;
+12:997-1007.
+
+Baiardini |, Giardini A, Pasquali M, Dignetti P, Guerra L, Specchia C, Braido F,
+Majani G, Canonica GW. Quality of life and patients’ satisfaction in chronic
+urticaria and respiratory allergy. Allergy. 2003 Jul;58(7):621-3.
+
+O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of
+chronic urticaria on the quality of life. Br J Dermatol. 1997 Feb;136(2):197-201
+Gaig P, Olona M, Mufioz Lejarazu D, Caballero MT, Dominguez FJ,
+Echechipia S, Garcia Abujeta JL, Gonzalo MA, Lleonart R, Martinez Cocera C,
+Rodriguez A, Ferrer M. Epidemiology of urticaria in Spain. J Investig Allergol
+Clin Immunol. 2004;14:214-20.
+
+Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of
+urticaria: a representative cross-sectional population survey. Clin Exp
+Dermatol. 2010;35:869-73.
+
+Carrasco J, Costa C, Gongalo M, Guilherme M, Martins AR. Qual é 0 impacto
+economico da urticaria crénica espontanea grave em Portugal? A
+perspetiva do Servico Nacional de Satide e da Sociedade Portuguesa.
+Coimbra: SPAIC; 2015.
+
+Mokkink LB, Terwee CB, Patrick DL, Alonso J, Stratford PW, Knol DL, Bouter
+LM, de Vet HCW. The COSMIN checklist for assessing the methodological
+quality of studies on measurement properties of health status measurement
+instruments: an international Delphi study. Qual Life Res. 2010 May;19(4):
+539-49.
+Ferreira et al. Health and Quality of Life Outcomes
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+(2019) 17:190
+
+Acquadro C, Conway K, Hareendran A, Aaronson N. European regulatory
+issues and quality of life assessment (ERIQA) group. Literature review of
+methods to translate health-related quality of life questionnaires for use in
+multinational clinical trials. Value Health. 2008;1 1(3):509-21.
+
+Dias GA, Pires GV, Valle SO, Franca AT, Papi JA, Dortas SD Jr, Levy SA,
+Baiardini |, Canonica GW. Cross-cultural adaptation of the Brazilian
+Portuguese version of the chronic urticaria quality-of-life questionnaire - CU
+QaoL. Allergy. 2011 Nov;66(11):1487-93.
+Mlynek A, Mager! M, Hanna M, Lhachimi S, Baiardini |, Canonica GW, Brzoza
+
+Z, Kasperska-Zajac A, Rogala B, Zalewska-Janowska A, Zuberbier T, Maurer M.
+
+The German version of the chronic Urticaria quality-of-life questionnaire:
+factor analysis, validation, and initial clinical findings. Allergy. 2009 Jun;64(6):
+927-36.
+
+Koti |, Weller K, Makris M, Tiligada E, Psaltopoulou T, Papageorgiou C,
+Baiardini |, Panagiotakos D, Braido F, Maurer M. Disease activity only
+moderately correlates with quality of life impairment in patients with
+chronic spontaneous urticaria. Dermatol. 2013;226(4):371-9.
+
+Kessel A, Graif Y, Vadasz Z, Schichter-Konfino V, Almog M, Cohen S, Teplitski
+V, Stein N, Baiardini |, Maurer M, Toubi E. Adaptation and validation of the
+Israeli version of the chronic Urticaria quality of life questionnaire (CU-Q20L).
+Isr Med Assoc J. 2016 Aug;18(8):461-5.
+
+Tavakol M, Mohammadinejad P, Baiardini |, Braido F, Gharagozlou M,
+Aghamohammadi A, Nabavi M, Dabbaghzade A, Tavakol Z, Afarideh M,
+Rezaei N. The Persian version of the chronic urticaria quality of life
+questionnaire: factor analysis, validation, and initial clinical findings. Iran J
+Allergy Asthma Immunol. 2014 Aug;13(4):278-85.
+
+Brzoza Z, Badura-Brzoza K, Mlynek A, Mager! M, Baiardini |, Canonica GW,
+Weller K, Kocattirk E, Kalogeromitros D, Zalewska-Janowska A, Zuberbier T,
+Maurer M. Adaptation and initial results of the polish version of the
+GA(2)LEN chronic urticaria quality of life questionnaire (CU-Q(2)oL). J
+Dermatol Sci. 2011 Apr;62(1):36-41.
+
+Valero A, Herdman M, Bartra J, Ferrer M, Jauregui |, Davila |, del Cuvillo A,
+Montoro J, Mullol J, Sastre J, Canonica GW, Baiardini |. Adaptation and
+validation of the Spanish version of the chronic Urticaria quality of life
+questionnaire (CU-Q,0L). J Investig Allergol Clin Immunol. 2008;18(6):426-32.
+Kulthanan K, Chularojanamontri L, Tuchinda P, Rujitharanawong C, Baiardini
+|, Braido F. Minimal clinical important difference (MCID) of the Thai chronic
+Urticaria quality of life questionnaire (CU-Q20L). Asian Pac J Allergy
+Immunol. 2016 Jun;34(2):137-45.
+
+Kocattirk E, Weller K, Martus P, Aktas S, Kavala M, Sarigul S, Baiardini |,
+Canonica GW, Brzoza Z, Kalogeromitros D, Maurer M. Turkish version of the
+
+chronic urticaria quality of life questionnaire: cultural adaptation, assessment
+
+of reliability and validity. Acta Derm Venereol. 2012 Jul,92(4):419-25.
+
+Finlay AY, Khan GK. Dermatology life quality index (DLQI)--a simple practical
+measure for routine clinical use. Clin Exp Dermatol. 1994 May;19(3):210-6.
+Ferreira P. Creation of the Portuguese version of the MOS SF-36. Part
+linguistic and cultural adaptation. Acta Medica Port. 2000;13:55-66.
+Ware J, Sherbourne C. The MOS 36-item short-form health survey (SF-36).
+Conceptual framework and item selection. Med Care. 1992;30:473-83.
+Devlin N, Shah K, Feng Y, Mulhern B, van Hout B. Valuing health-related
+quality of life: an EQ-5D-5L value set for England. Health Econ. 2017:1-16.
+Ferreira PL, Antunes P, Ferreira LN, Pereira LN, Ramos-Goni LM. A hybrid
+modelling approach for eliciting health states preferences: the Portuguese
+EQ-5D-5L value set. Qual Life Res: 14 June 2019.
+
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, Martus P, Casale
+TB, Staubach P, Maurer M. Development and validation of the Urticaria
+Control Test: a patient-reported outcome instrument for assessing urticaria
+control. J Allergy Clin Immunol. 2014 May;133(5):1365-1372, 1372.e1-6.
+Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation
+coefficients for reliability research. J Chiropr Med. 2016 Jun;15(2):155-63.
+Terwee CB, Bot SD, de Boer MR, van der Windt DA, Knol DL, Dekker J,
+Bouter LM, de Vet HC. Quality criteria were proposed for measurement
+properties of health status questionnaires. J Clin Epidemiol. 2007 Jan;
+60(1):34-42.
+
+de Vet HC, Terwee CB, Mokkink LB, Knol DL. Measurement in medicine.
+Cambridge: Cambridge University Press; 2011.
+
+Cohen J. Statistical power analysis for the behavioural sciences. New York:
+Lawrence Erlbaum Associates; 1988.
+
+Costa C, Rosmaninho |, Guilherme A, Ferreira J, Antunes J, Pina A, Prates S,
+Marques JG, Azevedo F, Cunha AP, Brito C, Massa A, Sousa JT, Velho GC,
+Raposo |, Pinto GM, Sousa V, Martins AR. Chronic Urticaria in the real-life
+
+Page 12 of 12
+
+clinical practice setting in Portugal: baseline results from the noninterventional multicentre AWARE study. Acta Medica Port. 2019 Feb 28;
+32(2):133-40.
+
+35. Maurer M, Houghton K, Costa C, Dabove F, Ensina LF, Giménez-Arnau A,
+Guillet G, Konstantinou GN, Labrador-Horrillo M, Lapeere H, Meshkova R,
+Pastorello EA, Velasquez-Lopera M, Tamayo Quijano LM, Vestergaard C,
+Chapman-Rothe N. Differences in chronic spontaneous urticaria between
+Europe and Central/South America: results of the multi-center real world
+AWARE study. World Allergy Organ J. 2018 Nov 16;11(1):32. https://doi.org/
+10.1186/s40413-018-0216-1.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+ 
+
+Ready to submit your research? Choose BMC and benefit from:
+
+fast, convenient online submission
+
+thorough peer review by experienced researchers in your field
+
+© rapid publication on acceptance
+
+* support for research data, including large and complex data types
+
+* gold Open Access which fosters wider collaboration and increased citations
+* maximum visibility for your research: over 100M website views per year
+
+K BMC
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions
+
+ 
+
+ 
+

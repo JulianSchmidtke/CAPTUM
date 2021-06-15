@@ -1,0 +1,692 @@
+Allergy Asthma Immunol Res. 2020 Jul;12(4):599-607
+https://doi.org/10.4168/aair.2020.12.4.599
+
+PISSN 2092-7355-elSSN 2092-7363
+
+ 
+
+Original Article
+
+® Check for updates
+
+G OPEN ACCESS
+
+Health-Related Utility of EQ-5D in
+Korean Adults With Chronic Urticaria:
+Mapping From Urticaria Outcome
+Measures
+
+Min-Sang Lee ©,’ Jiwon Yoon @,? Jiwoong Kim @,? Yoo Seob Shin ®,'
+Hae-Sim Park @,' Hyun-Young Lee @,” Young-Min Ye @"
+
+"Department of Allergy and Clinical Immunology, Ajou University School of Medicine, Suwon, Korea
+°Clinical Trial Center, Ajou University Medical Center, Suwon, Korea
+
+ 
+
+Received: Dec 17, 2019
+Revised: Feb 17, 2020
+Accepted: Feb 18, 2020
+
+Correspondence to
+
+Young-Min Ye, MD, PhD
+
+Department of Allergy and Clinical
+Immunology, Ajou University School of
+Medicine, 164 World cup-ro, Yeongtong-gu,
+Suwon 16499, Korea.
+
+Tel: +82-31-219-5155
+
+Fax: +82-31-219-5154
+
+E-mail: yeQ9007@ajou.ac.kr
+
+Copyright © 2020 The Korean Academy of
+Asthma, Allergy and Clinical Immunology The Korean Academy of Pediatric Allergy and
+Respiratory Disease
+
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+
+ORCID iDs
+
+Min-Sang Lee @®
+https://orcid.org/0000-0001-8517-1789
+Jiwon Yoon @
+https://orcid.org/0000-0001-8537-2601
+Jiwoong Kin @
+https://orcid.org/0000-0002-5103-9453
+Yoo Seob Shin @
+https://orcid.org/0000-0002-9855-3185
+Hae-Sim Park®
+https://orcid.org/0000-0003-2614-0303
+
+https://e-aair.org
+
+ABSTRACT
+
+Purpose: A need for useful measures reflective of the socio-economic burden of chronic
+urticaria (CU) has arisen. To obtain utility estimates for CU, we investigated EuroQol-5Dimension (EQ-5D) indices according to urticaria control status and urticaria severity.
+Methods: In this prospective observational study, we administered patient-oriented
+questionnaires on EQ-5D and urticaria outcomes, including Urticaria Activity Score over 7
+days (UAS7), Urticaria Control Test (UCT), and CU-specific quality of life (CU-QOL). EQ-5D
+utility index scores were compared according to urticaria control status and disease severity.
+Conditional process analysis (CPA) was used to map EQ-5D utility scores from UAS7 and UCT.
+Results: Greater EQ-5D utility values were obtained in patients with better urticaria control
+(0.91 + 0.10 for well controlled CU, 0.84 + 0.12 for partly controlled, 0.77 + 0.14 for uncontrolled,
+P<0.001). According to CU severity, mean utility values were ranged from 0.746 (severe, UAS7
+
+2 28) to 0.860 (moderate), 0.878 (mild), and 0.953 (urticaria free). CPA suggested that UAS7
+
+was directly correlated with UCT (regression coefficient, -0.251; 95% confidence interval [CT],
+-0.278, -0.223; P< 0.001) and EQ-5D utility (-0.002; 95% CI, -0.003, -0.001; P= 0.007) after
+controlling for age, sex, urticaria duration, and combined allergic diseases.
+
+Conclusions: EQ-5D values increased with improvement in urticaria control and decreased
+with urticaria severity. A predictive model mapping EQ-5D utility from UAS7 and UCT scores
+suggested that EQ-5D can be useful for the pharmacoeconomic evaluation of individualized
+treatments for CU patients.
+
+Keywords: Chronic urticaria; control; severity; symptoms; quality of life; EQ-5D; utility index
+
+INTRODUCTION
+
+Urticaria is characterized by sudden onset of itchy wheals and/or angioedema.' Acute
+urticaria temporarily causes wheals for no longer than 6 weeks and appears upon exposure
+to food, drugs, infection, etc., remitting when the cause is eliminated.* However, in about
+50% of patients with chronic urticaria (CU), characterized by wheals for more than 6 weeks,
+the underlying cause is not identified, and its pathogenesis is not clearly established.' This
+
+599
+
+Allergy, Asthma &
+Immunology Research
+
+ssoudyutjux {5} hq poresouen
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+Hyun-Young Lee @ substantially impairs the health-related quality of life (HR-QoL) of CU patients. Due to
+
+ 
+
+https: //orcid.org/0000-0003-4169-8284 unpredictable exacerbation and difficulties in treatment,’ CU can negatively impact work
+Young-Min Ye ®
+
+and classroom productivity. Moreover, previous research has found that the prevalences of
+https://orcid.org/O000-0002-7517-1715
+
+anxiety and depression are higher in CU patients.*
+
+Disclosure
+There are no financial or other issues that In economic models for evaluating cost-effectiveness and reimbursement decisions, utility
+might lead to conflict of interest. measures are key parameters. The EuroQol 5-dimension (EQ-5D) Questionnaire is a well
+known preference-based instrument for assessing health in various diseases.° The 5-level
+version of EQ-5D (EQ-5D-5L) consists of 5 questions on mobility, self-care, daily activity,
+pain/discomfort, and anxiety/depression, and is reported as 1 of 5 levels for each question.®
+AEQ-5D-5L has recently been validated in the Korean population.’ However, no health state
+utilities for CU have been evaluated in Korea.
+
+Thus, to investigate the impact of CU on health, the EQ-5D-5L was assessed and analyzed
+according to control status and severity of urticaria in Korean adults.
+
+MATERIALS AND METHODS
+
+Study subjects
+
+This study was conducted as a prospective observational study through which to assess EQ-5D
+results and urticaria outcomes using patient-oriented questionnaires. In total, 416 observations
+were obtained from 163 CU patients (100 females and 63 males) enrolled to undergo EQ-5D
+assessment between January and June of 2018. In addition to demographic information on the
+patients, combined allergic diseases, urticaria severity, and control status were evaluated at
+each visit over the study period. All of the subjects provided written informed consent, and the
+study protocol was approved by the Institutional Review Board (IRB-MED-OBS-17-373).
+
+Measures
+
+EQ-5D-5L (0-1) and patient-oriented outcome measures of CU, including Urticaria Activity
+Score over 7 days (UAS7, 0-42), Urticaria Control Test (UCT, 0-16), and CU-specific quality
+of life (CU-QOL, 0-100), were assessed at each visit. The EQ-5D is a general measure of
+health outcomes utilized to depict the impact of different health states on quality of life.
+For the present study, EQ-5D index scores were generated using Korean population-based
+weights.’ The UAS is a validated daily symptom measure consisting of 2 components: itch
+severity score (0-6 for a day) and wheals score (0-6 for a day). The UAS7 is calculated by
+adding up UAS scores over 7 days.' The CU-QOL consists of 17 items covering 4 domains:
+urticaria symptoms, emotional distress, food and environmental distress, and stigma.*
+K-UCT is a Korean version of the UCT, which was developed originally in Germany as a tool
+to assess urticaria control status.°”° For each patient, physicians assessed urticaria control
+status at each visit according to definitions described in a previous study." In brief, patients
+who had no wheals or itching during the treatment were classified as well-controlled CU.
+Patients whose urticaria symptoms had improved from a prior visit but were not completely
+controlled, were deemed to have partly controlled CU. When wheals or hives did not improve
+at all with medication, patients were classified as having uncontrolled CU.
+
+Statistical analyses
+
+Categorical data were compared using the x? test. Welch's 2-sample f test was used to
+compare 2 groups of continuous data, while analysis of variance was used to compare more
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 600
+EQ-5D in Chronic Urticaria
+
+Allergy, Asthma &
+Immunology Research
+
+ 
+
+https://e-aair.org
+
+than 2 groups. The relationships between EQ-5D utility in CU patients and control status
+assessed by physicians, as well as UAS7, K-UCT, and CU-QOL, were evaluated by Pearson's
+correlation coefficient.
+
+To obtain a mapping algorithm for estimating EQ-5D index scores from the UAS7 and UCT,
+we applied conditional process analysis (CPA) using Hayes's PROCESS program (model 4).
+CPA is a regression-based, path analytic approach using bias-corrected bootstrap confidence
+intervals (CIs) to test the significance of both direct and indirect effects and the influence of
+moderating variables on these effects.” For the current study, we used moderated parallel
+mediation analyses to examine if the strength and direction of the direct and indirect effects
+of UAS7 on EQ-5D utility differed according to UCT scores and other covariates. Statistical
+analyses were conducted using IBM SPSS, version 25 for Windows (IBM SPSS Inc., Chicago,
+IL, USA).
+
+RESULTS
+
+Clinical characteristics of the study subjects
+
+In total, 416 cross-sectional observations from 163 patients were analyzed. Female patients
+totaled 100 (61.3%) individuals. The mean age and disease duration of all 163 patients
+
+were 42.30 + 12.25 and 3.79 + 4.65 years, respectively. At the initial visit, the proportions
+
+of patients who were assessed as having well controlled, partly controlled, or uncontrolled
+CU were 34.4%, 39.3%, or 26.4%, respectively. Allergic diseases, including asthma, allergic
+rhinoconjunctivitis, atopic dermatitis (AD), food allergy, and drug allergy, were noted in 93
+patients. The mean scores on CU-QOL, UAS/, and K-UCT at initial visits were 81.34 + 19.90,
+15.37 + 10.00, and 11.70 + 3.50, respectively (Table 1).
+
+Table 1. Baseline clinical characteristics of the study subjects
+
+ 
+
+Variables CU (n = 163)
+Female 100 (61.3)
+Duration (yr) 3.79 + 4.65
+Mean age (yr) 42.30 + 12.25
+Onset age (yr) 38.60 + 13.00
+Mean duration of CU (mon) 3.80 + 4.60
+Accompanying diseases 93 (57.1)
+Allergic conjunctivitis 17 (10.4)
+Atopic dermatitis 11 (6.7)
+Food allergy 28 (17.2)
+Drug allergy 25 (15.3)
+Asthma 2 (1.2)
+Allergic rhinitis 62 (38.0)
+Family history of allergic diseases 78 (47.9)
+Control status of CU assessed by physicians
+Well controlled 56 (34.4)
+Partly controlled 64 (39.3)
+Uncontrolled 43 (26.4)
+UAS7 (0-42) 15.37 + 10.00
+UCT (0-16) 11.70 + 3.50
+CU-QOL (0-100) 81.34 + 19.90
+
+ 
+
+Data are shown as mean + standard deviation or number (%).
+CU, chronic urticaria; UAS7, Urticaria Activity Score over 7 days; UCT, Urticaria Control Test; CU-QOL, chronic
+urticaria-specific quality of life.
+
+https://doi.org/10.4168/aair.2020.12.4.599 601
+EQ-5D in Chronic Urticaria
+
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+ 
+
+Table 2. Comparison of EQ-5D and urticaria outcome measures according to CU control states
+
+ 
+
+ 
+
+Outcomes Total (n = 416) Well controlled (n = 173) Partly controlled (n = 173) Uncontrolled (n = 70) Pvalue
+EQ-5D-SL 0.86 + 0.13 0.91 + 0.10 0.84 + 0.12 0.77 + 0.14 < 0.001
+CU-QOL 75.08 + 24.00 87.22 £17.11 70.39 + 23.71 56.64 + 23.98 < 0.001
+UAS7 17.51 + 10.40 10.65 + 9.13 20.39 + 7.18 27.36 + 8.41 < 0.001
+UCT 10.24 + 3.90 12.68 + 2.88 9.46 + 3.30 6.14 + 3.35 < 0.001
+
+ 
+
+Data are shown as mean + standard deviation.
+
+CU, chronic urticaria; EQ-5D, EuroQol 5-dimension; EQ-5D-5L, EuroQOL 5-dimension 5-level; CU-QOL, chronic urticaria-specific quality of life; UAS7, Urticaria
+Activity Score over 7 days; UCT, Urticaria Control Test.
+
+https://e-aair.org
+
+EQ-5D scores and disease control
+
+The overall mean scores for EQ-5D and urticaria outcome measures in the study subjects
+according to disease control are shown in Table 2. Scores for EQ-5D-5L, CU-QOL, UAS7,
+and UCT were 0.86 + 0.13, 75.08 + 24.00, 17.51 + 10.40, and 10.24 + 3.90, respectively. The
+461 observations were classified into 3 CU control states assessed by physicians: 173 showed
+well controlled CU, 173 partly controlled CU, and 70 uncontrolled CU. EQ-5D scores showed
+a marked difference according to the physician's assessment of urticaria control status (0.91
++ 0.10 for well controlled CU, 0.84 + 0.12 for partly controlled, 0.77 + 0.14 for uncontrolled;
+P< 0.001, Table 2). Both CU-QOL (87.22 + 17.11 vs. 70.39 + 23.71 vs. 56.64 + 23.98, P< 0.001)
+and UCT (12.68 + 2.88 vs. 9.46 + 3.30 vs. 6.14 + 3.35, P< 0.001) values were significantly
+higher in patients with well controlled CU than in those with partly and uncontrolled CU. In
+contrast, UAS7 scores were found to be lower with well, partly, and uncontrolled CU, in that
+order (10.65 + 9.13 vs. 20.39 + 7.18 vs. 27.36 + 8.41, P< 0.001).
+
+As a UCT score of 2 12 has been reported as a valid criterion for determining controlled CU,”
+we compared EQ-5D utility scores according to UCT scores > 12 or < 12. CU patients with
+UCT 2 12 showed significantly higher EQ-5D values than those with UCT < 12 (0.92 + 0.10
+
+vs. 0.81 + 0.10, P< 0.001, Table 3). Among the 5 subdomains of EQ-5D, the pain/discomfort
+(59.4%) and anxiety/depression (44.0%) domains were remarkably impaired in CU patients
+across all urticaria control states. The daily activities domain was also found to be impaired in
+119 (28.6%) patients with CU over the study period. Mobility and self-care domains, however,
+were generally preserved in CU patients. Patients with uncontrolled CU, defined as UCT < 12,
+were affected significantly in all 5 subdomains, compared to those with controlled CU (UCT
+212). The daily activities, anxiety/depression, and pain/discomfort domains were found to be
+markedly affected in 41.4%, 59.5%, and 76.7% of patients with uncontrolled CU, respectively.
+
+In comparison of EQ-5D utility according to urticaria severity as reflected in UAS7 scores,
+
+patients with greater UAS7 scores had lower EQ-5D utility (Fig. 1). In accordance with a
+recent report," we classified urticaria severity into 5 groups: 41 patients with UAS7 = 0, 40
+
+Table 3. Impairment in EQ-5D subdomains according to UCT levels
+
+ 
+
+ 
+
+Impairment (%) in EQ-5D subdomain _ Controlled CU (UCT > 12) Uncontrolled CU Pvalue
+(n= 184) (UCT < 12) (n = 939)
+EQ-5D-5L index score 0.92 + 0.10 0.81 + 0.10 < 0.001
+Domain 1: mobility 2 (1.1) 27 (11.6) < 0.001
+Domain 2: self-care fo) 6 (2.6) 0.036
+Domain 3: daily activities 23 (12.5) 96 (41.4) <0.001
+Domain 4: pain/discomfort 69 (37.5) 178 (76.7) < 0.001
+Domain 5: anxiety/depression 45 (24.5) 138 (59.5) < 0.001
+
+ 
+
+Data are shown as mean + standard deviation or number (%).
+EQ-5D, EuroQol 5-dimension; EQ-5D-5L, EuroQOL 5-dimension 5-level; CU, chronic urticaria; UCT, Urticaria
+Control Test.
+
+https://doi.org/10.4168/aair.2020.12.4.599 602
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+1.0}
+
+ 
+
+08+
+
+0.6+
+
+0.4 
+O.2
+ 
+
+ 
+
+UAS7 = 0 UAS7 = 1-6 UAS7 = 7-15 UAS7 = 16-27 UAS7 = 28-42
+(n=41) (n = 40) (n= 86) (n = 176) (n = 73)
+
+Fig. 1. Comparison of EQ-5D index scores according to UAS7 values.
+EQ-5D, EuroQOL 5-dimension; UAS?, Urticaria Activity Score over 7 days.
+
+with UAS7 = 1-6, 86 with UAS7 = 7-15, 176 with UAS7 = 16-27, and 73 with UAS7 = 28-42. The
+highest EQ-5D values were observed in patients with UAS7 = 0, while the lowest values were
+noted in those with UAS7 = 28-42.
+
+Fig. 2 depicts correlations between EQ-5D utility and outcome measures for CU. EQ-5D
+utility was positively correlated with CU-QOL (correlation coefficient, 0.63; P< 0.001) and
+UCT (0.58; P< 0.001), whereas a significantly negative correlation was found between EQ-5D
+and UAS7 (-0.47; P< 0.001).
+
+1.00
+0.75
+0.50
+0.25
+
+ 
+
+   
+
+EQ-5D
+utility index
+
+  
+
+r= 0.63* r=-0.47* r= 0.58"
+
+ 
+
+100
+
+50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.5 1.0 0 50 100 0 20 40 0 5 10 15
+
+Fig. 2. Correlations between EQ-5D utility and outcome measures for chronic urticaria.
+
+EQ-5D, EuroQOL 5-dimension; CU-QoL, CU-specific quality of life; UAS7, Urticaria Activity Score over 7 days; UCT,
+Urticaria Control Test.
+
+*p value < 0.001.
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 603
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+Table 4. A conditional process model for mapping EQ-5D derived from direct and indirect effects of UAS7 and UCT
+
+ 
+
+ 
+
+ 
+
+Effects UCT (M) EQ-5D (Y)
+Coeff. SE 95% Cl P value Coeff. SE 95% Cl Pvalue
+Direct effects
+UAS7 (X) -0.251 0.014 0.278, —0.223 < 0.001 -0.002 0.001 -0.003, -0.001 0.007
+UCT (M) * = = = 0.016 0.002 0.013, 0.019 < 0.001
+Age -0.013 0.012 -0.037, 0.011 0.280 0.000 0.000 -0.001, 0.001 0.411
+Female 0.161 0.309 —0.446, 0.768 0.602 —0.028 0.011 —0.049, -0.008 0.008
+Urticaria duration 0.008 0.032 -0.055, 0.071 0.801 0.001 0.001 -0.001, 0.003 0.295
+Allergic diseases -0.067 0.301 —0.657, 0.524 0.825 0.028 0.010 0.048, -0.008 0.007
+Indirect effects
+UAS x UCT = s = a -0.004 0.001 —0.005, —0.003 < 0.001
+
+ 
+
+EQ-5D, EuroQOL 5-dimension; UAS7, Urticaria Activity Score over 7 days; UCT, Urticaria Control Test; Coeff., regression coefficient; SE, standard error; Cl,
+confidence interval.
+
+ 
+
+ 
+
+ 
+
+ 
+
+emi
+(a Direct effect of X on Y= c!
+Indirect effect of X on Y through M; = aib;
+UcT Model summary: R? = 0.383, F = 42.29, P< 0.001
+(Mi)
+ai bi ey
+‘ v
+UAS7 c EQ-5D
+——————
+(*) ”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 3. Statistical diagram of a conditional process model for predicting EQ-5D utility.
+EQ-5D, EuroQOL 5-dimension; UAS?, Urticaria Activity Score over 7 days; UCT, Urticaria Control Test.
+
+Mapping EQ-5D utility scores from UAS7 and UCT
+
+We attempted to construct a model with which to predict EQ-5D utility for CU patients
+using UAS7 and UCT through CPA (Fig. 3). The moderated-mediation CPA results for the
+relationships among UAS7, UCT, and EQ-5D are provided in Table 3. The total effects model
+explained 38.28% of the variation in EQ-5D utility (F [6, 409] = 42.29, R? = 0.383, P< 0.001),
+incorporating UAS7 and the addition of mediating variables, including UCT, age, sex,
+urticarial duration, and combined allergic diseases, on EQ-5D.
+
+After controlling for age, sex, urticaria duration, and combined allergic diseases, UAS7 was
+directly correlated with UCT (regression coefficient, -0.251; 95% confidence interval [CI],
+~0.278, -0.223; P< 0.001) and EQ-5D utility (0.002; 95% CI, -0.003, -0.001; P= 0.007)
+(Table 4). Among covariates, age and urticaria duration were not associated with EQ-5D
+utility in CU patients, whereas female sex (-0.028; 95% CI, -0.049, -0.008; P= 0.008) and
+the presence of comorbid allergic diseases (-0.028; 95% CI, -0.048, -0.008; P= 0.007) had
+a negative impact on EQ-5D (Table 4). However, age, sex, urticaria duration, and comorbid
+allergic diseases were not found to have a direct relationship with UCT in CU patients. As
+expected, a significant indirect relationship mediated by changes in UCT was observed
+between UAS7 and EQ-5D ina conditional process model.
+
+DISCUSSION
+
+The present results, for the first time, demonstrate that Korean adults with CU experience
+substantially worse health outcomes as evaluated by EQ-5D-5L. Impaired HR-QoL in CU
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 604
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+patients was particularly associated with symptomatic discomfort, anxiety, and depression.
+
+ 
+
+Additionally, around one-third of cases was affected in their daily activities. Previous
+investigations from other countries have shown similar results to ours in that CU patients
+have higher odds of experiencing anxiety and sleep difficulties as well as impaired work
+productivity."
+
+The EQ-5D is a generic, standardized instrument used to measure health outcomes across
+
+a wide range of diseases.’ Through population-based validation studies, researchers can
+obtain a single utility scale of preference-based index scores varying from O (death) to 1 (full
+health).°” In the present study, the mean generic HR-QoL score in Korean adults with CU
+was estimated at 0.86 by the EQ-5D-5L. Scores did, however, differ according to urticaria
+control states and urticaria activity. Similar to a previous study measuring HR-QolL in chronic
+spontaneous urticaria (CSU) patients using the EQ-5D-3L, lower EQ-5D utility scores were
+observed in patients with higher UAS7 and lower UCT scores. We found that the mean
+EQ-5D utility score for well controlled CU was 0.91, whereas those for partly controlled and
+uncontrolled CU were 0.84 and 0.77, respectively. Hawe et al." reported mean utility scores
+of 0.86 for well controlled urticaria and 0.71 for severe urticaria. Because this previous study
+used pooled data from 3 phase 3 clinical trials of omalizumab for the treatment of patients
+with refractory CSU," the baseline health utility scores in their study subjects were, as would
+be expected, relatively lower than those in the present study population. Other explanations
+for this discrepancy may be related with regional, cultural, and ethnic differences between
+the study subjects. In addition, we used the EQ-5D-5L, which has been shown to provide
+measurement properties superior to those of the EQ-5D-3L,° which was used by Hawe et al.”
+
+The EQ-5D utility values in this study were in line with those reported in prior studies for
+patients with other immune-mediated chronic inflammatory skin diseases, such as AD”
+and psoriasis.” Although higher AD severity was correlated with poor EQ-5D utilities in
+both European and US patients, due to socio-demographic variations across countries,
+differences in HR-Qol for the same severity of the disease were noted." Subgroup analysis
+revealed that EQ-5D utility for severe AD with AD scores higher than 71 differed between
+European (0.42) and the US patients (0.56), even after adjusting for age, sex, smoking, body
+mass index, and disease duration.” Therefore, to assess the burden ofa specific disease and
+for pharmacoeconomic evaluation of disease-specific treatment, geographic and ethnic
+differences in a population should be considered. Nevertheless, health outcomes evaluated
+by EQ-5D-SL in patients with AD reflected better health outcomes in mild AD (0.88 + 0.16)
+than in moderate-to-severe AD (0.70 + 0.26), similar to the results in our study for health
+outcomes in CU patients (0.91 + 0.10 for mild CU, 0.75 + 0.20 for severe CU).
+
+Recent studies have directly compared health outcomes between CU and psoriasis, although
+they used a 12-item short-form survey instrument in which physical and mental component
+scores were calculated." They confirmed that HR-QolL in CU patients is similar to that in
+moderate psoriasis. Meanwhile, CU patients reported a significantly greater impact in the
+daily activities and physical discomfort domains than psoriasis, for which the self-perception
+and social functioning domains were more greatly impacted."
+
+As it can be difficult to collect data on the EQ-5D and HR-Qol in real-life practice, having a
+mapping algorithm available to transform CU-specific health outcomes into EQ-5D utility
+values may be very useful. In the present study, we confirmed that patient-oriented health
+outcomes, including UAS7 and UCT, as well as sex and combined allergic diseases were
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 605
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+significant determinants for EQ-5D utility values in adults with CU. CPA suggested that urticaria
+
+ 
+
+severity measured by UAS7 exerts direct and indirect effects on EQ-5D. From this, we derived a
+computational model with which to map scores from UAS7 and UCT to EQ-5D in CU patients.
+
+There are several limitations to the present study. Although we collected CU-specific outcome
+measures and assessed urticaria control status repeatedly within a 6-month period of study,
+our study may have excluded some patients who were experiencing itchy wheals but not
+receiving treatment. Thus, patients with uncontrolled CU comprised less than one-third of
+the well- or partly-controlled CU groups. Another limitation was that a cross-validation test
+in another sample or in half of the original sample was not performed as the sample size was
+considered insufficient. Also, as some differences in the weights assigned to different EQ-5D
+dimensions were found across countries, the current mapping algorithm for predicting EQ5D-5L utilities from UCT and UAS7 may not reflect the values of subjects in other countries.
+Last but not least, as CU is nota serious illness, very low levels of EQ-5D utility were not
+detected in the present study, thus our conditional process model would be limited in
+estimating lower end values.
+
+There has been no pharmacoeconomic evaluation of therapeutic modalities for CU patients,
+such as anti-immunoglobulin E antibody, in Asian countries, including Korea. Results of the
+present study can provide the basis for facilitating cost utility analyses of medications for CU
+treatment in Asian populations. Furthermore, we have proposed a computational model of
+EQ-5D utility driven only by UAS7 and UCT. While the use of utilities derived directly from
+administering EQ-5D-5L, would be preferred, considering that both UAS7 and UCT are
+frequently evaluated in daily practice for CU patients, even without further clinical trials, the
+mapping algorithms can be used to generate utility estimates in future pharmacoeconomic
+evaluations of various treatment options for CU patients.
+
+In conclusion, EQ-5D scores in CU were significantly associated with control status scores
+and disease activity. This study may be helpful for future modelling of quality-adjusted life
+years in pharmacoeconomic evaluation of CU.
+
+ACKNOWLEDGMENTS
+
+This study was supported by a grant from the National Research Foundation of Korea
+(NRE) funded by the Korea government (MSIP) (NRF-2018R1A2B6006199) and partly by
+a grant of the Korea Health Technology R&D Project through the Korea Health Industry
+Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of
+Korea (HI16C0992).
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, et al. The EAACI/GA*LEN/
+EDE/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy
+2018;73:1393-414.
+
+PUBMED | CROSSREF
+
+2. Ye YM, Jang GC, Choi SH, Lee J, Yoo HS, Park KH, et al. KAAACI Work Group report on the management
+of chronic urticaria. Allergy Asthma Respir Dis 2015;3:3-14.
+CROSSREF
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 606
+Allergy, Asthma & AAI R
+EQ-5D in Chronic Urticaria Immunology Research
+
+3. Baiardini I, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, et al. A new tool to evaluate the
+impact of chronic urticaria on quality of life: chronic urticaria quality of life questionnaire (CU-QoL).
+Allergy 2005;60:1073-8.
+
+PUBMED | CROSSREF
+
+ 
+
+4. Balp MM, VietriJ, Tian H, Isherwood G. The impact of chronic urticaria from the patient's perspective: a
+survey in five European countries. Patient 2015;8:551-8.
+PUBMED | CROSSREF
+5. Herdman M, Gudex C, Lloyd A, Janssen M, Kind P, Parkin D, et al. Development and preliminary testing
+of the new five-level version of EQ-5D (EQ-5D-5L). Qual Life Res 2011;20:1727-36.
+PUBMED | CROSSREF
+6. Janssen MF, Pickard AS, Golicki D, Gudex C, Niewada M, Scalone L, et al. Measurement properties of the
+EQ-SD-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study. Qual Life Res
+2013;22:1717-27.
+PUBMED | CROSSREF
+7. Kim SH, AhnJ, Ock M, Shin S, Park J, Luo N, et al. The EQ-5D-5L valuation study in Korea. Qual Life Res
+2016;25:1845-52.
+PUBMED | CROSSREF
+8. Choi WS, Lim ES, Ban GY, Kim JH, Shin YS, Park HS, et al. Disease-specific impairment of the quality of
+life in adult patients with chronic spontaneous urticaria. Korean J Intern Med 2018;33:185-92.
+PUBMED | CROSSREF
+9. Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development and validation of the
+Urticaria Control Test: a patient-reported outcome instrument for assessing urticaria control. J Allergy
+Clin Immunol 2014;133:1365-72, 1372.e11372.e6.
+PUBMED | CROSSREF
+10. Lee JH, Bae YJ, Lee SH, Kim SC, Lee HY, Ban GY, et al. Adaptation and validation of the Korean version
+of the Urticaria Control Test and its correlation with salivary cortisone. Allergy Asthma Immunol Res
+2019;11:55-67.
+PUBMED | CROSSREF
+11. Ye YM, Park JW, Kim SH, Ban GY, Kim JH, Shin YS, et al. Prognostic factors for chronic spontaneous
+urticaria: a 6-month prospective observational study. Allergy Asthma Immunol Res 2016;8:115-23.
+PUBMED | CROSSREF
+12. Hayes AF, Rockwood NJ. Regression-based statistical mediation and moderation analysis in clinical
+research: observations, recommendations, and implementation. Behav Res Ther 2017;98:39-57.
+PUBMED | CROSSREF
+13. Hawe E, McBride D, Balp MM, Tian H, Halliday A, Stull DE. EQ-5D utilities in chronic spontaneous/
+idiopathic urticaria. Pharmacoeconomics 2016;34:5217.
+PUBMED | CROSSREF
+14. Balp MM, Lopes da Silva N, Vietri J, Tian H, Ensina LF. The burden of chronic urticaria from Brazilian
+patients’ perspective. Dermatol Ther (Heidelb) 2017;7:535-45.
+PUBMED | CROSSREF
+15. Vietri J, Turner SJ, Tian H, Isherwood G, Balp MM, Gabriel S. Effect of chronic urticaria on US patients:
+analysis of the National Health and Wellness Survey. Ann Allergy Asthma Immunol 2015;115:306-11.
+PUBMED | CROSSREF
+16. Andersen L, Nyeland ME, Nyberg F. Higher self-reported severity of atopic dermatitis in adults is
+associated with poorer self-reported health-related quality of life in France, Germany, the U.K. and the
+U.S.A. BrJ Dermatol. Forthcoming 2019.
+PUBMED | CROSSREF
+
+ 
+
+17. Moller AH, Erntoft S, Vinding GR, Jemec GB. A systematic literature review to compare quality of life in
+psoriasis with other chronic diseases using EQ-5D-derived utility values. Patient Relat Outcome Meas
+2015;6:16777.
+
+PUBMED
+
+18. Mendelson MH, Bernstein JA, Gabriel S, Balp MM, Tian H, VietriJ, et al. Patient-reported impact of
+chronic urticaria compared with psoriasis in theUnited States. J Dermatolog Treat 2017;28:229-36.
+PUBMED | CROSSREF
+
+19. Itakura A, Tani Y, Kaneko N, Hide M. Impact of chronic urticaria on quality of life and work in Japan:
+results of a real-world study. J Dermatol 2018;45:963-70.
+
+PUBMED | CROSSREF
+
+https://e-aair.org https://doi.org/10.4168/aair.2020.12.4.599 607
+

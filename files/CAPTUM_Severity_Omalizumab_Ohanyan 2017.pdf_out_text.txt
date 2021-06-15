@@ -1,0 +1,1446 @@
+Accepted Manuscript
+
+Responsiveness and Minimal Important Difference of the Urticaria Control Test (UCT)
+
+Tatevik Ohanyan, MD, Nicole Schoepke, MD, Bediha Bolukbasi, MD, Martin Metz,
+MD, Tomasz Hawro, MD, Torsten Zuberbier, MD, Adriane Peveling-Oberhag, MD,
+Petra Staubach, MD, Marcus Maurer, MD, Karsten Weller, MD
+
+ 
+
+Pll: $0091-6749(17)30992-2
+DOI: 10.1016/j.jaci.2017.04.050
+Reference: YMAI 12873
+
+To appear in: — Journal of Allergy and Clinical Immunology
+
+Received Date: 27 July 2016
+Revised Date: 6 April 2017
+Accepted Date: 18 April 2017
+
+Please cite this article as: Ohanyan T, Schoepke N, Bolukbasi B, Metz M, Hawro T, Zuberbier T,
+Peveling-Oberhag A, Staubach P, Maurer M, Weller K, Responsiveness and Minimal Important
+Difference of the Urticaria Control Test (UCT), Journal of Allergy and Clinical Immunology (2017), doi:
+10.1016/j.jaci.2017.04.050.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+oO oN DD HO BP Ww NY PR
+
+ray
+oO
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21,
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31,
+32
+33
+34
+
+Responsiveness and Minimal Important Difference of the Urticaria Control Test
+(UCT)
+
+Tatevik Ohanyan’, MD, Nicole Schoepke’, MD, Bediha Bolukbasi', MD, Martin Metz’,
+MD, Tomasz Hawro', MD, Torsten Zuberbier', MD, Adriane Peveling-Oberhag’, MD,
+Petra Staubach’, MD, Marcus Maurer’, MD, Karsten Weller’, MD
+
+‘Department of Dermatology and Allergy, Allergie-Centrum-Charité, Charité Universitatsmedizin Berlin, Germany
+
+2Department of Dermatology, University Medical Center Mainz, Mainz, Germany
+
+Corresponding Author:
+
+Karsten Weller, M.D.
+Allergie-Centrum-Charité
+
+Department of Dermatology and Allergy
+Charité — Universitatsmedizin Berlin
+Charitéplatz 1
+
+D-10117 Berlin
+
+Germany
+
+Tel: +49-30-450-518438
+
+Fax: +49-30-450-518972
+
+E-mail: karsten.weller@charite.de
+35
+
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+
+59
+
+Funding:
+
+None
+
+Conflict of interest:
+Karsten Weller, Martin Metz and Marcus Maurer are scientific advisors for MOXIE,
+
+the company holding the copyright for the Urticaria Control Test.
+
+Short Summary
+This study demonstrates the responsiveness of the Urticaria Control Test (UCT).
+Changes of its score by 3 points or more reflect a clinically relevant change of
+
+disease control (minimal important difference).
+
+Keywords
+Urticaria, Urticaria Control Test, omalizumab, disease activity, quality of life, minimal
+
+important difference, responsiveness
+
+Abbreviations
+
+UCT, Urticaria Control Test; UAS, Urticaria Activity Score; DLQI, Dermatology Life
+Quality Index; CU-Qz0L, Chronic Urticaria Quality of Life Questionnaire; CSU, chronic
+spontaneous urticaria; ClndU, chronic inducible urticaria; MID, minimal important
+difference, PatGA, patients global assessment; PhyGA, physicians global
+assessment, HR-QoL, health-related quality of life; PRO, patient reported outcome;
+
+SD, standard deviation; SDC, smallest detectable change
+60
+
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+
+To the Editor:
+
+Chronic urticaria, is a frequent skin disease characterized by the sudden appearance
+of wheals, angioedema, or both for more than 6 weeks.’ It can be divided into chronic
+spontaneous urticaria (CSU) and chronic inducible urticaria.! Many affected patients
+
+t? > and the disease
+
+do not respond sufficiently to first and second line treatmen
+activity may also change considerably over time.* Therefore, most patients and their
+physicians have to repeatedly decide if the current treatment is sufficient or if an
+adjustment is needed. Moreover, the costs of the guideline-recommended therapies'
+increase with each level, and three out of the five treatment options are off-label (only
+H,-antihistamines in regular doses and omalizumab are currently licensed for CSU).
+Accordingly, a regular and standardized evaluation of disease control during the
+course of disease may help to guide treatment decisions, to back these decisions
+with a valid and reliable documentation, and to monitor treatment outcome. To enable
+this evaluation and documentation, we recently developed the Urticaria Control Test
+(UCT).4 However, the UCT’s responsiveness to changes in disease control, for
+example in response to treatment adjustment, as well as UCT score changes that
+can be considered clinically relevant, have not yet been sufficiently studied. To
+address these gaps, we here investigated the responsiveness of the UCT and its
+minimal important difference (MID).
+
+We investigated 65 consecutive adult patients with difficult-to-treat CSU, i.e. patients
+with insufficient responses to regular and increased doses of second-generation H,antihistamines. After an initial assessment of patient characteristics (see Table E1
+and Table E2 in this article’s Online Repository), all patients were asked to continue
+their current treatment (second-generation H1-antihistamines in up to four times the
+licensed dose) for 2 more weeks and to prospectively document their disease activity
+with the Urticaria Activity Score (UAS). At the end of the 2 weeks (baseline), the
+patients completed the UCT, the Chronic Urticaria Quality of Life Questionnaire (CUQ20L), the Dermatology Life Quality Index (DLQI), and they answered additional
+questions addressing the efficacy of their treatment and their current level of disease
+control (for details on the outcome tools and the handling of missing values see the
+Methods section in this article’s Online Repository). Subsequently, all patients
+received their first injection of omalizumab 300 mg and were asked to document their
+symptoms for another 4 weeks with the UAS. At the end of the 4 weeks (follow up),
+
+all patients were asked to complete the UCT, CUQ20L, and DLQI as well as the
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+additional questions for a second time. In addition, the treating physicians rated the
+response to treatment with omalizumab. After the first injection of omalizumab all
+patients continued their treatment with H1-antihistamines in up to four times the
+licensed dose, but were allowed to stop in case they reached complete symptom
+control.
+
+Four weeks after the initiation of omalizumab treatment, disease control, disease
+activity and health-related quality of life (HR-QoL) were improved as compared to
+baseline (see Table E2 and Fig. E1 in this article’s Online Repository). UCT score
+changes from baseline to follow up correlated strongly with changes of the UAS7 (r =
+-0.63) and CU-Qz0L total score (r = -0.71), and showed a good correlation with
+changes in DLQI scores (r = -0.49) (see Table 1a and Fig. E2 in this article’s Online
+Repository). Moreover, the UCT results also strongly correlated with changes in the
+patients’ self-evaluation of their treatment efficacy and with the physicians’ global
+assessment of the treatment response (see Table E3 and Table E4 in this article’s
+Online Repository). When treatment responses were categorized by changes in the
+UAS7, the current gold standard of disease activity assessment in CSU, 77% of
+‘complete responders’ were found to change from a UCT score of <12 points
+(indicating poorly controlled disease) at baseline to 212 points (indicating wellcontrolled disease) during omalizumab therapy. In contrast, this was only the case in
+20% of ‘partial responders’ and none of the ‘non-responders’ (Table 1b).
+
+The MID is the smallest change in a score that can be considered clinically relevant.
+In order to determine the UCT’s MID, anchor-based and distribution-criterion-based
+approaches were applied. During the anchor-based approaches, the patient’s global
+rating of their disease control (PatGA-disease control) was used as anchor. As
+expected, UCT scores were found to be increased with an improved PatGA-disease
+control at follow up (see Fig. E3 in this articles Online Repository) and the correlation
+between changes in both outcome measures was strong (r = 0.84, p<0.001, n=61),
+confirming that PatGA-disease control is an adequate anchor. The mean UCT score
+increase (SD) in case of the smallest possible improvement in the PatGA-disease
+control (improvements by one step on its Likert scale rating) was found to be 4.0 (SD
+2.6) points. In contrast, in case of an unchanged PatGA-disease control rating, the
+mean UCT score changed only by 1.3 (SD 1.9) points. Accordingly, the mean change
+method® © suggests a MID of 4 points.
+127
+128
+129
+130
+
+132
+133
+134
+135
+136
+
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151.
+152
+153
+154
+155
+156
+157
+158
+159
+160
+
+As second anchor-based method, a ROC curve analysis’ was applied (see Fig. E4
+in this article’s Online Repository). Here, the cut-off point for UCT score changes with
+the best balance of sensitivity and specificity for a meaningful improvement of
+disease control was found to be 3 points. In addition, at this cut-off point, the sum of
+the percentage of misclassified patients was lowest (Table 2). Accordingly, the ROC
+curve analysis suggests a MID of 3 points.
+
+For the distributional-criterion approach, the SD of the baseline UCT scores (3.2) was
+divided by two. ® Accordingly, a MID of 1.6 (2 points) is suggested by this (indirect)
+calculation.
+
+In addition to the MID, the smallest detectable change of the UCT score was
+calculated. For more information see the Results section in this article’s Online
+Repository.
+
+The UCT is a simple, valid and reliable PRO measure that was originally developed
+to determine disease control in CU patients and to guide treatment decisions.* Here
+we report, that the UCT is also suited to determine changes in disease control over
+time and to assess treatment effects (that it is responsive to change). Our results
+demonstrate that changes in the UCT score strongly correlate with disease-specific
+assessments of changes in urticaria activity (UAS7) and HR-QoL (CU-Qz20L), while
+the correlation with changes in the less-specific DLQI are less strong (but still good).
+Importantly, the change of UCT ratings from ‘poorly controlled’ to ‘well-controlled’,
+was well in accordance with the change of the patients’ self-assessment of treatment
+efficacy, with the physicians’ global assessment of the treatment response, and with
+the UAS7-based assessment of treatment response. This supports the
+appropriateness of the current UCT cut-off value of 212 points to detect patients with
+well-controlled urticaria.
+
+The knowledge of the MID of an outcome measure is important for the interpretation
+of changes in its score.° By applying two anchor-based approaches, the ‘mean
+change method’ and the ROC curve analysis, we found a MID for UCT score
+improvements of 4 and 3 points, respectively. The distribution-criterion based
+analysis suggested a MID of 2 points. In line with other authors, '° we prefer the direct
+and patient anchor-based approach over the indirect distributional-criterion approach.
+Moreover, we prefer the results from the ROC curve analysis over the ‘mean change
+method’ results, as the ROC curve analysis also includes subjects who did not
+
+improve in their disease control. Accordingly, we regard a MID of 3 points as most
+161 appropriate for UCT score changes. Supplemental discussion of this study including
+162 its limitations are provided in the Discussion section in this article’s Online
+163 Repository.
+
+164 In conclusion, the UCT is a suitable tool for assessing levels and changes of disease
+165 control in patients with chronic urticaria. The minimal important difference of the UCT,
+166 i.e. the minimal score change that mirrors a clinically relevant change of disease
+
+167 control for the individual patient, was found to be 3 points.
+
+168
+
+169 Tatevik Ohanyan, MD?
+170 Nicole Schoepke, MD?
+171 Bediha Bolukbasi, MD?
+172 Martin Metz, MD?
+173 Tomasz Hawro, MD?
+174 Torsten Zuberbier, MD?
+175 Adriane Peveling-Oberhag, MD?
+176 Petra Staubach, MD°
+177 Marcus Maurer, MD?
+178 Karsten Weller, MD?
+179
+
+180 From *the Department of Dermatology and Allergy, Allergie-Centrum-Charité, Charité
+181 - Universitatsmedizin Berlin, Germany; °the Department of Dermatology, University
+182. Medical Center Mainz, Mainz, Germany
+
+183
+184
+185
+
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+
+References
+
+10.
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDF/AWAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy 2014;69:868-87.
+
+Weller K, Schoepke N, Krause K, Ardelean E, Brautigam M, Maurer M.
+Selected urticaria patients benefit from a referral to tertiary care centres-results of an expert survey. J Eur Acad Dermatol Venereol 2013;27:e8-16.
+Weller K, Viehmann K, Brautigam M, Krause K, Siebenhaar F, Zuberbier T, et
+al. Management of chronic spontaneous urticaria in real life--in accordance
+with the guidelines? A cross-sectional physician-based survey study. J Eur
+Acad Dermatol Venereol 2013;27:43-50.
+
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al.
+Development and validation of the Urticaria Control Test: a patient-reported
+outcome instrument for assessing urticaria control. J Allergy Clin Immunol
+2014; 133:1365-72.
+
+Juniper EF, Guyatt GH, Willan A, Griffith LE. Determining a minimal important
+change in a disease-specific Quality of Life Questionnaire. J Clin Epidemiol
+1994:47:81-7.
+
+van der Roer N, Ostelo RW, Bekkering GE, van Tulder MW, de Vet HC.
+Minimal clinically important change for pain intensity, functional status, and
+general health status in patients with nonspecific low back pain. Spine (Phila
+Pa 1976) 2006;31:578-82.
+
+Deyo RA, Centor RM. Assessing the responsiveness of functional scales to
+clinical change: an analogy to diagnostic test performance. J Chronic Dis
+1986; 39:897-906.
+
+Norman GR, Sloan JA, Wyrwich KW. Interpretation of changes in healthrelated quality of life: the remarkable universality of half a standard deviation.
+Med Care 2003;41:582-92.
+
+De Vet HC, Terwee CB, Mokkink LB, Knol DL. Measurement in Medicine: a
+practical guide: Cambridge University Press; 2011, page 241-268.
+
+de Vet HC, Terwee CB. The minimal detectable change should not replace the
+minimal important difference. J Clin Epidemiol 2010;63:804-5.
+218
+
+219
+220
+221.
+
+223
+224
+225
+
+227
+228
+
+229
+230
+
+231
+232
+233
+234
+235
+236
+237
+
+238
+
+Table 1a — Changes* in the UCT score correlate with changes of the UAS7 score, the
+
+CU-Q,oL total score and the DLQI score.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UAS7 score CU-QzoL. DLQI score
+total score
+
+-0.631** -0.711** -0.490**
+UCT score p<0.001 p<0.001 p<0.001
+n=47 n=62 n=64
+
+0.639 0.592
+UAS7 score p<0.001 p<0.001
+n=44 n=46
+
+0.749
+eel sat p<0.001
+n=62
+
+CU-Q,0L — Chronic Urticaria Quality of Life Questionnaire; DLQI — Dermatology Life Quality Index; UAS7 —
+
+Urticaria Activity Score of 7 consecutive days, UCT — Urticaria Control Test
+*Changes from baseline to 4 weeks after the first omalizumab injection (300 mg);**The correlation coefficient
+is negative because in case of an improvement, the UCT score increases while the scores of the UAS7, CU-Q,oL,
+and the DLQI decrease
+
+Table 1b — Changes* in the UCT score related to the patients treatment response
+based on the UAS7.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. UCT score UCT score UCT score
+UCT score still detridrated t . dt ined
+<12 points eteriorated to improved to remaine
+<12 points 212 points 212 points
+(poorly controlled
+urticaria) (poorly controlled | (well-controlled (well-controlled
+urticaria) urticaria) urticaria)
+No 100% _ _ _
+response (n= 6)
+Partial 80% _ 20% _
+response (n = 12) (n= 3)
+Complete 14% _ 77% 9%
+response (n =5) (n = 27) (n = 3)
+UCT — Urticaria Control Test
+*Changes from baseline to 4 weeks after the first omalizumab injection (dose of 300 mg). **Response based on
+
+ 
+
+the UAS/ was defined as follows ‘no reponse’ (<30% improvement of the UAS7 at any time during the 4 weeks
+after the first omalizumab injection), ‘partial response’ (>30% improvement of the UAS7 at any time during the
+4 weeks after the first omalizumab injection without achievement of a UAS7 <6), ‘complete response’ (UAS7 <6
+at any time during the 4 weeks after the first omalizumab injection).
+239 Table 2 - Performance of UCT score changes at various cut-off values in screening for
+240 patients with an ‘improved or ‘not improved’ disease control
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+241
+Truly ‘improved’ Truly ‘not improved’
+Cut-off value* Sum of %
+(UCT score change) cs ces misclassified**
+n sensitivity n specificity
+2-1 50 100% 0 0% 100%
+20 49 98% 2 18% 84%
+21 47 94% 5 45% 61%
+22 46 92% 8 73% 35%
+23 43 86% 9 82% 32%
+24 39 78% 9 82% 40%
+25 37 74% 10 91% 35%
+26 28 56% 11 100% 44%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+242 UCT - Urticaria Control Test
+
+243  *For this analysis of cut-off values, change of urticaria control was categorized into ‘improved’ (rating of
+244 disease control was improved by at least one category from baseline to 4 weeks after initiation of omalizumab
+245 treatment) or ‘not improved’ (rating of disease control was unchanged or even worse 4 weeks after initiation of
+246 omalizumab). **Sum of % misclassified = (1-sensitivity) + (1-specificity)
+
+247
+
+248
+UCT score
+
+—_=
+oa
+
+  
+ 
+ 
+   
+
+= =
+> wo
+
+     
+    
+  
+
+134 4/65 40/65
+424 (6%) (62%)
+117 64/65 25165
+
+   
+ 
+
+_
+o
+
+(94%) (38%)
+
+   
+
+ort NM WO Hh OO N CO OO
+
+Before 4 weeks after
+omalizumab omalizumab
+ACCEPTED MANUSCRIPT
+
+a)
+
+UAS7 score change
+
+ 
+
+0 4 8 12 16
+
+UCT score change
+ACCEPTED MANUSCRIPT
+
+=
+S
+Oo
+1
+it}
+—
+
+i=]
+
+be |
+aBueyo asoos |e}0} 702D-ND
+
+-20
+
+So
+©
+
+ 
+
+-80
+
+UCT score change
+ACCEPTED MANUSCRIPT
+
+c)
+
+DLQI score change
+
+ 
+
+UCT score change
+UCT score change
+
+ 
+
+ 
+
+16
+14 5 12 4
+10 4
+8 4
+6 4
+44
+2 4
+-1.0
+n=1
+0
+| 1.3219 4.0426 7.02.6 11.6419 14.0428
+2 n=10 n=22 n=17 n=9 n=2
+One step No One step Two steps Threesteps Four steps
+worsened change improved improved improved improved
+
+ 
+
+Patients global assessment of disease control
+ACCEPTED MANUSCRIPT
+
+0.8
+0.6
+0.4
+0.2
+0
+0 0.2 0.4 0.6 0.8 1.0
+
+1-Specificity
+
+Sensitivity
+Online Repository
+
+Methods
+
+Patient population
+
+In this study, we recruited 65 consecutive adult patients with difficult-to-treat CSU, i.e.
+patients with insufficient responses to regular and increased doses of secondgeneration H,-antihistamines, who presented to the urticaria specialty clinic of the
+Department of Dermatology and Allergy, Charité -— Universitatsmedizin Berlin
+between March 2014 and July 2015 for the initiation of omalizumab therapy (Table
+E1). Our study population included CSU patients who also suffered from ClndU, but
+patients were excluded if ClndU was predominant. The study was approved by the
+responsible ethics committee of the Charité -—  Universitatsmedizin Berlin
+(EA1/178/16).
+
+Outcome tools
+
+Urticaria Control Test
+
+ 
+
+The UCT assesses the level of disease control in chronic urticaria patients during the
+last 4 weeks.’ It consists of four questions with 5 answer options each that are
+scored from 0 to 4. The UCT score is the sum of all four questions with a lowest and
+highest possible value of 0 (no control) and 16 (complete control), respectively. A
+score 212 indicates well-controlled urticaria, while a score of $11 points towards poor
+
+disease control.’ None of the included UCT scores had missing items.
+
+Urticaria Activity Score:
+
+ 
+
+The UAS is the current gold standard to measure disease activity in CSU patients.2“
+It is a simple scoring system based on the prospective, once-daily assessment of itch
+intensity and numbers of wheals on 4-point scales scored from 0 to 3 over a period of
+7 days (UAS7).? Accordingly, the minimum and maximum UAS7 score is 0 and 42,
+respectively. The UAS7 was calculated for the last 7 days of the baseline and the
+follow up period. In case <2 days of UAS7 documentation were missing, the missing
+daily scores were replaced by the mean daily scores of the remaining, available days
+
+of that week (in total, 13 daily scores were replaced in 10 patients in the baseline
+phase and 5 daily scores in 3 patients during the follow up phase). When >2 days
+were missing, the data were excluded from the analyses (data from 9 patients in the
+
+baseline phase and from 15 patients in the follow up phase).
+
+Chronic Urticaria Quality of Life Questionnaire
+
+ 
+
+The CU-Qz2oL is the first and currently only disease-specific health-related quality of
+life (HR-QoL) questionnaire for CSU patients.*’ It contains 23 questions and has a
+recall period of 2 weeks. All questions have 5 answer options that are scored from 0
+to 4. After summing up all available question scores, these are divided by the
+maximum possible score in that patient (depending on the number of questions
+answered by that patient) and subsequently multiplicated by 100. By applying this
+method, the total score is transferred to a 0-100 scale, which is done to limit the
+influence of missing items on the total score. Higher CU-Q.0L total score values
+indicate a higher HR-QoL impairment. The CU-Qz0L total score was not calculated in
+case >5 items within the questionnaire were left unanswered, which was the case in
+one patient at baseline and in three patients at follow up. In total, only 109 of 2.990
+
+CU-Qz0L items were missing (3.6%).
+
+Dermatology Life Quality Index
+
+ 
+
+The DLQI is the most widely used HR-QoL measure for dermatological disorders
+with a recall period of one week. It is a 10-item questionnaire that also has been
+specifically validated for the use in CSU.° The minimum and maximum DLQI score is
+0 and 30 points, respectively. Higher scores are indicative of a stronger HR-QoL
+impairment. The DLQI score was not computed when >1 item was left unanswered,
+which was the case in only one patient at baseline. In total, only 6 of 1.300 DLQI
+
+items were missing (0.5%).
+
+Patient’s Global Assessments
+
+ 
+
+All patients were asked, at baseline and follow up, to globally self-rate a) if their
+current CSU treatment during the past 4 weeks was ‘sufficient’ or ‘not sufficient’
+(PatGA-treatment) and b) how well their urticaria was overall under control during the
+past 4 weeks on a 5-point Likert scale with the answer options ‘not at all’, ‘hardly’,
+‘fair, ‘well’, and ‘completely’ (PatGA-disease control). PatGA-treatment was missing
+
+in 2 and 3 patients at baseline and follow up, respectively. PatGA-disease control
+was missing in 4 and 0 patients at baseline and follow up, respectively. Missing
+
+values were not replaced.
+
+Physician’s Global Assessment of treatment response
+
+ 
+
+The treating physicians were asked at follow up to globally rate the patients’
+response to omalizumab on a 3-point scale (PhyGA-treatment response) with the
+answer options ‘no response’ ($30% improvement), ‘partial response’ (>30% but
+<90% improvement), and ‘complete’ response (>90% improvement). PhyGA
+treatment response was missing in one patient and was not replaced.
+
+Data Analysis
+
+Responsiveness
+
+To assess the UCT’s responsivness, we computed the mean values of the UCT
+score, the UAS7, the CU-Q:oL total score, and the DLQI score at baseline and follow
+up as well as the mean changes of these values. The mean scores were expected to
+markedly improve in all scores, i.e. to increase in case of the UCT and to decrease in
+case of the other instruments’ scores, since omalizumab has been demonstrated to
+be an efficacious treatment in CSU in several randomized controlled trials.'°"®
+Subsequently, we computed the correlations between the UCT score changes and
+the respective changes in the other scores (Pearson correlation). Our interpretation
+of the correlation coefficients was as follows: r~0.3 weak correlation, r~0.5 good
+correlation, r~0.7 strong correlation. The UCT score changes were hypothesized to
+show at least good correlation with the changes of the UAS7, the CU-Q,oL total
+score, and the DLQI score. In addition, the UCT score changes were expected to
+show a higher correlation with the score changes of the two disease-specific
+measures UAS7 and CU-Q20L as compared to the less specific DLQI.
+
+In addition, we related the UCT scores and their changes to a) the PatGA-treatment,
+b) the PhyGA-treatment response, as well as c) the treatment response based on the
+UAS7 development from baseline to follow up. To this end, we first dichotomized the
+UCT results of the patients, based on the established cut-off value of 12 points’ into
+patients with ‘poorly controlled’ disease and patients with ‘well-controlled’ urticaria.
+Subsequently, we computed the proportions of patients with ‘poorly controlled’
+urticaria and ‘well-controlled’ urticaria who a) rated their treatment as ‘sufficient’ or
+
+‘not sufficient’ (PatGA-treatment), who b) were evaluated by the treating physicians
+(PhyGA-treatment response) as ‘non responders’, ‘partial responders’ or ‘complete
+responders’, and who c) were ‘non-responders’ ($30% improvement of the UAS7),
+‘partial responders’ (>30% improvement of the UAS7 without achievement of UAS7
+<6), and ‘complete responders’ (UAS7S6) based on UAS7 changes from baseline to
+
+follow up.
+
+Responsiveness and Minimal Important Difference
+
+ 
+
+Responsiveness is defined as the ability of an instrument to detect changes over time
+in the construct to be measured."” It is commonly reported through the minimal
+important difference (MID), also known as minimal important change. A change equal
+to or higher than the MID can be considered clinically relevant.
+
+In order to determine the MID of the UCT we applied two anchor-based approaches,
+a) the mean change method'® '® and b) receiver operating characteristic (ROC)
+curve analysis.”° For both analyses, the PatGA-disease control was used as external
+anchor. The mean change method was applied by computing the mean changes of
+UCT scores from baseline to follow up in patients exhibiting different PatGA-disease
+control ratings at these assessments. The MID in this approach is defined as the
+mean UCT score improvement in patients with a minimal but still perceivable change,
+i.e. patients with a one-step improvement in their PatGA-disease control rating from
+baseline to follow up.
+
+For the ROC curve analysis, patients were dichotomized into subjects with ‘improved’
+disease control (defined as at least one step improvement in their PatGA-disease
+control rating from baseline to follow up) and ‘not improved’ disease control (defined
+as an unchanged or worsened PatGA-disease control rating). Subsequently, the
+sensitivity and specificity of each possible cut-off point for UCT score changes
+indicating ‘improved disease control’ was computed. In addition, the sum of the
+percentage of misclassified patients was recorded. Before the ROC curve analysis
+was performed, we had defined that the correlation between the anchor (PatGAdisease control changes) and the UCT score changes should be at least good (r~0.5)
+in order to ensure the suitability of the anchor.
+
+As an alternative, indirect method to determine the MID, we applied a distributionalcriterion approach. In this approach, the baseline UCT’s SD is divided by two, based
+on reports that one-half of the SD of a PRO measure’s mean baseline score is a
+
+good approximation of the MID.”'
+Smallest Detectable Change
+
+ 
+
+The smallest detectable change (SDC) is the smallest change that can be considered
+a ‘real’ change with a 95% confidence." It is the smallest detectable change of a
+PRO tool’s score beyond the measurement error. The SDC is defined as 1.96 times
+the SD of the PROs score changes” between two independent assessments in
+stable, unchanged patients. Subjects with an identical PatGA-disease control rating
+at baseline and follow up were included for this analysis.
+
+Since the proportion of stable patients was rather small in the population studied, we
+decided to additionally determine the SDC in the population from the original UCT
+publication’ independently to ensure that the SDC results are accurate. Thirty-three
+patients were included because they exhibited an unchanged disease severity at two
+independent UCT assessments 4 weeks apart. These patients (22 females, 11
+males) had a mean age (SD) of 47.4 (SD 16.5) years and a mean disease duration
+(SD) of 111.3 (SD 149.4) months. In this population neither a defined intervention nor
+
+resistance to H1-antihistamines was a prerequisite for inclusion.
+
+Statistical analysis
+Statistical analyses were done using SPSS (IBM SPSS Statistics Version 22, IBM
+Corporation, Armonk, New York, USA). ps0.05 was considered as statistically
+
+significant.
+
+Results
+
+Additional data on the patient population
+
+All included patients had antihistamine-refractory CSU. The majority (77%) was
+female, and most subjects (82%) exhibited both, recurrent wheals and angioedema
+(Table E1).
+
+Additional results on the ability of the UCT to detect changes in response to
+treatment
+
+Four weeks after the initiation of omalizumab 300 mg treatment (follow up), the UCT
+scores increased by 5.8 (SD 4.3) points, the UAS7 dropped by 12.4 (SD 12.4) points,
+and the CU-Q2oL total scores and DLQI scores decreased by 19.2 (SD 15.1) and 7.5
+(SD 7.5) points, respectively, as compared to baseline (mean individual changes,
+Table E2).
+
+The UCT results strongly correlated with changes in the patients’ self-evaluation of
+their treatment efficacy (PatGA-treatment, Table E3): before initiation of omalizumab
+61 out of 65 patients (94%) had a UCT score <12 points indicating ‘poorly controlled’
+disease, while only 4 patients (6%) exhibited a UCT score 212 points, suggesting
+‘well-controlled’ disease (Fig. E1). The majority of patients (90%) with ‘poorly
+controlled disease’ at baseline (UCT score <12 points) also reported that their
+treatment was not sufficient. Four weeks after the first administration of omalizumab,
+the majority of patients (62%) exhibited a UCT score indicative of ‘well-controlled’
+urticaria (UCT score 212 points) and 93% of them indicated that their treatment was
+sufficient (Fig. E1, Table E3).
+
+In addition, the UCT results also correlated with the physicians global assessment of
+the patients treatment response: four weeks after the first omalizumab administration,
+the treating physicians rated 34 of 64 patients (53%) as ‘complete responders’, 19
+patients (30%) as ‘partial responders’ and 11 patients (17%) as ‘non-responders’
+(PhyGA-treatment response). While 88% of the ‘complete responders’ changed from
+a UCT score of <12 points at baseline to 212 points during omalizumab treatment,
+this was only the case in 17% of the ‘partial responders’ and 18% of the ‘non
+responders’ (Table E4).
+
+Additional results in the smallest detectable change (SDC) of the UCT score
+
+In this study, 10 patients exhibited a stable, unchanged PatGA-disease control rating
+at baseline and follow up. These patients had a mean change of their UCT score
+(SD) of 1.3 (SD 1.9) points (median: 1.0). The UCT score changes followed a normal
+distribution (p=0.13, Shapiro Wilk Test). Accordingly, the SDC of the UCT score is
+3.7 points (1.96*SD). Only 2 patients (20%) exhibited an improvement of their UCT
+score by 3 points or more, i.e. 80% are classified correctly as not meaningfully
+improved when a MID of 3 points is applied.
+
+In the independent patient sample from the original UCT publication’ 33 subjects
+exhibited a stable disease status between two UCT assessments 4 weeks apart. The
+mean difference (SD) between the first and the second UCT application was 0.5 (SD
+
+1.9) points (median: 0). Accordingly, based on this population, the SDC of the UCT
+score is 3.8 points. Only 5 patients with stable disease (15%) exhibited an
+improvement of their UCT score by 3 points or more, i.e. 85% are classified correctly
+as not meaningfully improved when a MID of 3 points is applied. Since the UCT score
+changes did not fulfil the criteria for normal distribution in this patient sample
+(p=0.018, Shapiro Wilk Test), we also investigated the performance of the calculated
+SDC in this population. Notably, only 3 patients (9%) reported a UCT score change of
+>3.8 points, suggesting the validity of the applied method of SDC calculation also in
+
+this sample.
+
+Discussion:
+
+Levels of MID and SDC
+
+As explained in the original article of this repository, we regard a MID of 3 points as
+most appropriate for UCT score changes. With this MID, at least 80% of patients with
+‘truly not improved’ disease control are correctly classified as not improved by the
+UCT. Moreover, a definition of the UCT’s MID to be 4 instead of 3 points, at least in
+our population, would go along with an unchanged specificity but a lower sensitivity
+of identifying subjects with ‘truly improved’ urticaria control. The proportion of
+misclassified patients would increase.
+
+The SDC of the UCT was found to be 4 points in this study, i.e. the smallest change
+of the UCT score beyond the measurement error. While the number of 10 patients for
+the SDC calculation was small, and its result might therefore be questioned, we were
+able to reproduce the same SDC value in a second, independent, and larger patient
+population from the original UCT validation study.’ It may appear confusing that the
+SDC with 4 points is slightly larger than the MID with 3 points. However, this is a wellknown phenomenon in clinimetrics. For most measurement instruments, the SDC is
+greater than the MID.” A major reason for this is that the criterion for the SDC
+computation (95% confidence) is very conservative, whereas the criteria for the MID
+
+need to be less rigorous.
+
+Study limitations
+Limitations of this study include 1) that the patient sample consisted only of Hi
+antihistamine-refractory and only of CSU patients, 2) that the data on the MID was
+obtained in patients that received only one type of treatment adjustment, known to
+have a large effect size, 3) that all patients were recruited in a specialized, tertiary
+referral center, and 4) that all included subjects were adults. Accordingly, we cannot
+fully exclude that the MID might be overestimated in this setting and that slightly
+different results might be obtained in other populations, e.g. patients with less-severe
+urticaria, patients with ClndU but not CSU, or children and adolescents. Further
+limitations of this study are that the populations to determine the SDC, as mentioned
+above, were small and that it may be questioned if the distributions of the UCT score
+changes are normal enough for the SDC calculations. Although, the SDC results
+were found to be similar in the two independent populations studied, the SDC of the
+
+UCT remains to be confirmed in future studies.
+
+Acknowledgments
+
+We thank all patients who made this study possible and the members of the urticaria
+speciality clinic Berlin for their help during this project, especially Nicole Klameth,
+Nadja Tampier, Max Spindler, and Hesna Goézllkaya. We also thank Robert F.
+Ofenloch from Department of Clinical and Social Medicine, University Hospital
+Heidelberg, Germany, for helpful discussions related to the SDC data. Finally, we
+thank the urticaria network e.V. (www.urtikaria.net) and the Urtikaria Netzwerk Berlin
+
+Brandenburg e.V. (www.urtikaria-netzwerk-bb.de) for supporting this work.
+References
+
+10.
+
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al.
+Development and validation of the Urticaria Control Test: a patient-reported
+outcome instrument for assessing urticaria control. J Allergy Clin Immunol
+2014;133:1365-72.
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDFAWAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy 2014;69:868-87.
+
+Weller K, Church MK, Kalogeromitros D, Krause K, Magerl M, Metz M, et al.
+Chronic spontaneous urticaria: how to assess quality of life in patients
+receiving treatment. Arch Dermatol 2011;147:1221-3.
+
+Baiardini |, Braido F, Bindslev-Jensen C, Bousquet PJ, Brzoza Z, Canonica
+GW, et al. Recommendations for assessing patient-reported outcomes and
+health-related quality of life in patients with urticaria: a GA(2) LEN taskforce
+position paper. Allergy 2011;66:840-4.
+
+Baiardini |, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, et al. A
+new tool to evaluate the impact of chronic urticaria on quality of life: chronic
+urticaria quality of life questionnaire (CU-QoL). Allergy 2005;60:1073-8.
+Mlynek A, Magerl M, Hanna M, Lhachimi S, Baiardini |, Canonica GW, et al.
+The German version of the Chronic Urticaria Quality-of-Life Questionnaire:
+factor analysis, validation, and initial clinical findings. Allergy 2009;64:927-36.
+Koti |, Weller K, Makris M, Tiligada E, Psaltopoulou T, Papageorgiou C, et al.
+Disease activity only moderately correlates with quality of life impairment in
+patients with chronic spontaneous urticaria. Dermatology 2013;226:371-9.
+Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)-a simple practical
+measure for routine clinical use. Clin Exp Dermatol 1994;19:210-6.
+
+Lennox RD, Leahy MJ. Validation of the Dermatology Life Quality Index as an
+outcome measure for urticaria-related quality of life. Ann Allergy Asthma
+Immunol 2004;93:142-6.
+
+Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, et
+al. Efficacy and safety of omalizumab in patients with chronic urticaria who
+exhibit IgE against thyroperoxidase. J Allergy Clin Immunol 2011;128:202-9
+ed.
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+Saini S, Rosen KE, Hsieh HJ, Wong DA, Conner E, Kaplan A, et al. A
+randomized, placebo-controlled, dose-ranging study of single-dose
+omalizumab in patients with H1-antihistamine-refractory chronic idiopathic
+urticaria. J Allergy Clin Immunol 2011;128:567-73 e1.
+
+Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, et al.
+Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N
+Engl J Med 2013;368:924-35.
+
+Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al.
+Omalizumab in patients with symptomatic chronic idiopathic/spontaneous
+urticaria despite standard combination therapy. J Allergy Clin Immunol
+2013;132:101-9.
+
+Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E, Bradley
+MS, et al. Efficacy and safety of omalizumab in patients with chronic
+idiopathic/spontaneous urticaria who remain symptomatic on H1
+antihistamines: a randomized, placebo-controlled study. J Invest Dermatol
+2015;135:67-75.
+
+Zhao ZT, Ji CM, Yu WJ, Meng L, Hawro T, Wei JF, et al. Omalizumab for the
+treatment of chronic spontaneous urticaria: A meta-analysis of randomized
+Clinical trials. J Allergy Clin Immunol 2016;137:1742-50.
+
+Staubach P, Metz M, Chapman-Rothe N, Sieder C, Brautigam M, Canvin J, et
+al. Effect of omalizumab on angioedema in H -antihistamine resistant chronic
+spontaneous urticaria patients: results from X-ACT, a randomised controlled
+trial. Allergy 2016;71:1135-44.
+
+Mokkink LB, Terwee CB, Patrick DL, Alonso J, Stratford PW, Knol DL, et al.
+The COSMIN_ study reached international consensus on _ taxonomy,
+terminology, and definitions of measurement properties for health-related
+patient-reported outcomes. J Clin Epidemiol 2010;63:737-45.
+
+Juniper EF, Guyatt GH, Willan A, Griffith LE. Determining a minimal important
+change in a disease-specific Quality of Life Questionnaire. J Clin Epidemiol
+1994:47:81-7.
+
+van der Roer N, Ostelo RW, Bekkering GE, van Tulder MW, de Vet HC.
+Minimal clinically important change for pain intensity, functional status, and
+general health status in patients with nonspecific low back pain. Spine (Phila
+Pa 1976) 2006;31:578-82.
+20.
+
+21.
+
+22.
+
+Deyo RA, Centor RM. Assessing the responsiveness of functional scales to
+clinical change: an analogy to diagnostic test performance. J Chronic Dis
+1986; 39:897-906.
+
+Norman GR, Sloan JA, Wyrwich KW. Interpretation of changes in healthrelated quality of life: the remarkable universality of half a standard deviation.
+Med Care 2003;41:582-92.
+
+De Vet HC, Terwee CB, Mokkink LB, Knol DL. Measurement in Medicine: a
+practical guide: Cambridge University Press; 2011, page 241-268.
+Table E1 - Baseline demographic data
+
+ 
+
+Number of patients
+
+65
+
+ 
+
+Age in years, mean (SD), range
+
+44.6 (SD 14.9), 22-74
+
+ 
+
+Gender ratio; female : male
+
+3.3 (77% : 23%)
+
+ 
+
+Disease duration in months, mean (SD), range
+
+73.1 (SD 97.0), 3-480
+
+ 
+
+Symptom pattern
+
+ 
+
+coo wheals without angioedema
+
+12 patients (18%)
+
+ 
+
+coo wheals and angioedema
+
+53 patients (82%)
+
+ 
+
+co angioedema without wheals
+
+0 patients (0%)
+
+ 
+
+Disease pattern
+
+ 
+
+co Only CSU
+
+29 patients (45%)
+
+ 
+
+coo CSU plus ClndU*
+
+32 patients (49%)
+
+ 
+
+ 
+
+coo Unknown if ClndU in addition to CSU
+
+ 
+
+4 patients (6%)
+
+ 
+
+ClndU — chronic inducible urticaria; CSU — chronic spontaneous urticaria
+
+*CIndU comprise: delayed pressure urticaria (n = 1), symptomatic dermographism (n = 7), cholinergic urticaria
+(n = 5), and cold urticaria (n = 1). Two patients had 2 different ClndUs in addition to their CSU
+
+ 
+Table E2 - Disease Control, disease activity and health-related quality of life improve
+during treatment with omalizumab
+
+ 
+
+Mean baseline
+scores (SD)
+(median, range)
+
+Mean Follow up
+scores* (SD)
+(median, range)
+
+Mean individual
+change (SD)
+(median, range)
+
+ 
+
+ 
+
+5.6 (SD 3.2) 11.4 (SD 4.2) ewe
+UCT score (6, 0-13) (12, 2-16) A.
+n=65 n=65 *y=0,006
+24.2 (SD 9.7) 12.0 (SD 11.5) ah en
+UAS7 score (25, 0-42) (9.5, 0-38) wha
+n=56 n=50 *=0.01
+
+ 
+
+CU-Q:0L total score
+
+38.7 (SD 15.9)
+(39.6, 1.7-68.7)
+
+19.2 (SD 15.9)
+(16.0, 0.0-53.4)
+
+-19.2 (SD 15.1)
+(-16.9, -67.0-7.4)
+
+ 
+
+ 
+
+‘ - n=62
+n=64 m= be *p<0.001
+12.7 (SD 7.5) 5.3 (SD 6.0) H nee
+DLQI score (11.5, 0-28) (3, 0-22) n=64
+n=64 n=65 168
+p=0.001
+
+ 
+
+ 
+
+ 
+
+ 
+
+CU-Q,0L — Chronic Urticaria Quality of Life Questionnaire; DLQ| — Dermatology Life Quality Index; UAS7 —
+Urticaria Activity Score of 7 consecutive days, UCT — Urticaria Control Test
+
+*4 weeks after baseline = 4 weeks after the first omalizumab injection (300 mg)
+
+**Comparison of the baseline scores vs. the follow up scores using the paired student’s t-test
+
+ 
+Table E3 — UCT results related to the PatGA-treatment**
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baseline Follow up*
+UCT score UCT score UCT score UCT score
+<12 points 212 points <12 points 212 points
+(poorly controlled (well controlled (poorly controlled (well controlled
+urticaria) urticaria) urticaria) urticaria)
+n total 94% 6% 38% 62%
+(n = 61) (n = 4) (n = 25) (n =40)
+Treatment 7% 50% 36% 93%
+sufficient (n= 4)' (n= 2) (n = 9)4 (n = 37)
+Treatment 90% 50% 56% 5%
+= =9)2 - = 9)\3
+sufficient (n = 55) (n = 2) (n = 14) (n = 2)
+no answer 3% _ 8% 3%
+available (n = 2) (n = 2) (n = 1)
+PatGA — Patient’s global assessment; UCT — Urticaria Control Test
+*4 weeks after the first omalizumab injection (dose of 300 mg); **Patients globally assessed if their treatment
+was sufficient during the last 4 weeks or not. 1UCT scores of 2, 7,8 and 9 points; °UCT scores of 12 and 13
+points; 3UCT scores of 12 points in both patients; “UCT scores ranged from 4-11 points.
+Table E4 — Changes” in the UCT score related to the PhyGA-treatment response™*.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F UCT score UCT score UCT score
+UCT score still ‘ ‘ :
+‘ deteriorated to improved to remained
+<12 points ; ‘ :
+<12 points 212 points 212 points
+(poorly controlled
+oer (poorly controlled | (well-controlled (well-controlled
+urticaria) hee a ae
+urticaria) urticaria) urticaria)
+No 82% _ 18% _
+response (n = 9) (n = 2)
+Partial 72% 6% 17% 6%
+response (n = 13) (n = 1) (n = 3) (n = 1)
+Complete 9% _ 88% 3%
+response (n = 3) (n = 30) (n= 1)
+PhyGA — Physician’s global assessment; UCT — Urticaria Control Test *Changes from baseline to 4 weeks after
+the first omalizumab injection (300 mg). **Physicians globally assessed the treatment response as ‘no
+response’ (<30% improvement of the disease), ‘partial response’ (>30% but less than 90% improvement of the
+disease), ‘complete response’ (>90% improvement of the disease).
+Figure legends:
+
+Figure E1 - UCT scores at baseline and 4 weeks after initiation of omalizumab
+treatment.
+
+Figure E2 - Changes* of the UCT score correlate with changes of the (a) UAS7 score,
+(b) the CU-Q,oL total score and (c) the DLQI score.
+
+*Changes from baseline to 4 weeks after the first omalizumab injection (300 mg)
+
+Figure E3 — UCT scores improve with improved urticaria control (based on the
+PatGA-disease control on a 5-point Likert scale with the answer options ‘not at
+all’, ‘a little’, ‘moderately’, ‘well’, ‘completely’).
+
+Figure E4 - ROC curve. Area under the ROC curve for UCT score change from
+baseline to 4 weeks after initiation of omalizumab 300 mg treatment: 0.91 (95%
+Cl, 0.82-0.99).
+

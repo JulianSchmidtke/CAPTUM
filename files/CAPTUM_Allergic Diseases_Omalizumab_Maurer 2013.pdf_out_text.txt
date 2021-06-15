@@ -1,0 +1,1360 @@
+From the Department of Dermatology
+and Allergy, Charité-Universitatsmedizin,
+Berlin (M.M.); Genentech, South San
+Francisco, CA (K.R., H.-J.H., S.A., R.D.);
+Johns Hopkins Asthma and Allergy Center, Baltimore (S.S.); the Department of
+Dermatology, Norfolk and Norwich University Hospital, Norwich (C.G.), and Novartis Pharmaceuticals, Horsham, West
+Sussex (J.C.) — both in the United Kingdom; the Department of Dermatology,
+Hospital del Mar, Universitat Autonoma,
+Barcelona (A.G.-A); Medical University of
+South Carolina, Charleston (A.K.); and
+Creighton University Medical Center, Omaha, NE (T.C.). Address reprint requests to
+Dr. Rosén at Genentech, 1 DNA Way,
+South San Francisco, CA 94080-4990, or
+at rosen.karin@gene.com.
+
+This article was published on February 24,
+2013, and updated on May 23, 2013, at
+NEJM.org.
+
+N Engl J Med 2013;368:924-35.
+DOI: 10.1056/NEJMoal1215372
+Copyright © 2013 Massachusetts Medical Society.
+
+924
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+| ORIGINAL ARTICLE |
+
+Omalizumab for the Treatment of Chronic
+Idiopathic or Spontaneous Urticaria
+
+ 
+
+Marcus Maurer, M.D., Karin Rosén, M.D., Ph.D., Hsin-Ju Hsieh, Ph.D.,
+Sarbjit Saini, M.D., Clive Grattan, M.D., Ana Gimenéz-Arnau, M.D., Ph.D.,
+Sunil Agarwal, M.D., Ramona Doyle, M.D., Janice Canvin, M.D.,
+Allen Kaplan, M.D., and Thomas Casale, M.D.
+
+ 
+
+ABSTRACT
+
+ 
+
+BACKGROUND
+
+Many patients with chronic idiopathic urticaria (also called chronic spontaneous
+urticaria) do not have a response to therapy with H,-antihistamines, even at high
+doses. In phase 2 trials, omalizumab, an anti-IgE monoclonal antibody that targets
+IgE and affects mast-cell and basophil function, has shown efficacy in such patients.
+
+METHODS
+
+In this phase 3, multicenter, randomized, double-blind study, we evaluated the efficacy and safety of omalizumab in patients with moderate-to-severe chronic idiopathic urticaria who remained symptomatic despite H,-antihistamine therapy (licensed doses). We randomly assigned 323 patients to receive three subcutaneous
+injections, spaced 4 weeks apart, of omalizumab at doses of 75 mg, 150 mg, or 300 mg
+or placebo, followed by a 16-week observation period. The primary efficacy outcome was the change from baseline in a weekly itch-severity score (ranging from 0 to
+21, with higher scores indicating more severe itching).
+
+RESULTS
+
+The baseline weekly itch-severity score was approximately 14 in all four study groups.
+At week 12, the mean (+SD) change from baseline in the weekly itch-severity score
+was —5.1£5.6 in the placebo group, —5.9+6.5 in the 75-mg group (P=0.46), —8.146.4
+in the 150-mg group (P=0.001), and —9.8+6.0 in the 300-mg group (P<0.001). Most
+prespecified secondary outcomes at week 12 showed similar dose-dependent ef
+fects. The frequency of adverse events was similar across groups. The frequency of
+serious adverse events was low, although the rate was higher in the 300-mg group
+(6%) than in the placebo group (3%) or in either the 75-mg or 150-mg group (1%
+for each).
+
+CONCLUSIONS
+
+Omalizumab diminished clinical symptoms and signs of chronic idiopathic urticaria
+in patients who had remained symptomatic despite the use of approved doses of
+H,-antihistamines. (Funded by Genentech and Novartis Pharma; ClinicalTrials.gov
+number, NCT01292473.)
+
+N ENGL) MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+\) HRONIC IDIOPATHIC URTICARIA (ALSO
+called chronic spontaneous urticaria) is
+4 defined as itchy hives that last for at least
+6 weeks, with or without angioedema, and that
+have no apparent external trigger.t The condition
+generally has a prolonged duration of 1 to 5 years
+(persisting for >5 years in 11 to 14% of patients)
+and has a detrimental effect on patients’ emotional and physical health-related quality of life.+5
+The impairment accompanying this disorder has
+been likened to that seen in patients with ischemic heart disease, with patients feeling a similar
+lack of energy, social isolation, and emotional
+upset as those with heart disease.° Nonsedating
+H,-antihistamines are the current mainstay for
+initial treatment and are the only agents licensed
+for use in patients with chronic idiopathic urticaria.*” However, a majority of patients do not
+have a response to H,-antihistamines, even when
+the drugs are administered at three to four times
+their licensed dose.**1°
+
+Treatment options for patients who do not
+have a response to H,-antihistamines include the
+use of H,-antihistamines, leukotriene-receptor antagonists, systemic glucocorticoids, cyclosporine,
+hydroxychloroquine, dapsone, methotrexate, sulfasalazine, and intravenous immune globulin.
+None of these agents have yet received regulatory approval for the treatment of chronic idiopathic urticaria. In addition, the data supporting
+the use of these drugs are limited, and long-term
+use of some of the agents can be associated with
+substantial side effects.
+
+Histamine release from cutaneous mast cells
+has long been associated with the pathogenesis
+of urticaria, whereas in patients with chronic
+idiopathic urticaria, basophils and IgE may also
+play an important role.1? Omalizumab, a recombinant humanized monoclonal antibody approved
+as add-on therapy for moderate-to-severe persistent allergic asthma,!3"* reduces the levels of
+free IgE and the high-affinity receptor for the Fc
+region of IgE (FceRI), both of which are essential in mast-cell and basophil activation.1>*¢ Studies have shown that omalizumab may suppress
+allergen-mediated skin reactions through its reduction of FceRI function in basophils and mast
+cells.1517 Initial evidence from two proof-ofconcept studies showed that omalizumab may
+
+be effective in patients with chronic idiopathic
+urticaria who remained symptomatic despite antihistamine treatment.**? Subsequent data from
+two phase 2, randomized, placebo-controlled
+multicenter studies involving a total of 139 patients corroborated these early findings, demonstrating that omalizumab, which has a known
+safety profile, has beneficial effects on symptoms
+in patients with chronic idiopathic urticaria who
+remain symptomatic despite the use of approved
+doses of H,-antihistamines.?°?7
+
+Here we report the results of the first of three
+phase 3 clinical trials in patients with chronic
+idiopathic urticaria in which we evaluated the
+effects of three doses of omalizumab as compared with placebo.
+
+ 
+
+METHODS
+
+ 
+
+STUDY DESIGN
+
+In this international, multicenter, randomized,
+double-blind, placebo-controlled study, we investigated the efficacy and safety of omalizumab
+over 28 weeks in adult and adolescent (212 years)
+patients with chronic idiopathic urticaria who had
+remained symptomatic despite the use of approved
+doses of H,-antihistamines. After a 2-week screening period, patients were randomly assigned to
+four groups in a 1:1:1:1 ratio to receive three subcutaneous injections of omalizumab (at doses of
+75 mg, 150 mg, or 300 mg) or placebo.
+
+We selected the doses for this study on the
+basis of the results of a previous phase 2 doseranging study.2° Doses were administered at
+4-week intervals, and to ensure that the blinding
+was maintained, each dose was administered by
+a qualified designated clinician who was not involved in the evaluation of the patient’s symptoms. This 12-week treatment period was followed by a 16-week follow-up period (for further
+details, see the Supplementary Appendix, available with the full text of this article at NEJM
+.org). Patients used an electronic handheld device to self-record data with a validated Urticaria
+Patient Daily Diary (UPDD)???3 (see the Supplementary Appendix). This electronic diary was
+stamped with the time and date to ensure that
+data were not included outside of each assessment period.
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+
+925
+926
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+Patients continued to receive stable doses of
+their prerandomization H,-antihistamine throughout the treatment period. During the follow-up
+period, patients were permitted to use a licensed
+dose of one additional H,-antihistamine. For the
+duration of the study, all patients were provided
+with diphenhydramine (25 mg) as rescue medication for itch relief (up to a maximum of three
+doses in 24 hours on the basis of local regulations).
+
+The study protocol, which is available at
+NEJM.org, was approved by the institutional review board or ethics committee at each study
+center or by a central institutional review board.
+The study was conducted in accordance with
+Food and Drug Administration regulations, Good
+Clinical Practice guidelines, and any other applicable laws of other countries. An independent
+data and safety monitoring committee oversaw
+the study conduct and reviewed blinded and
+unblinded safety data every 6 months (see the
+Supplementary Appendix).
+
+STUDY OVERSIGHT
+
+The study was sponsored by Genentech and Novartis Pharma, whose representatives were involved in data collection (along with the investigators) and in the interpretation and analysis of
+the data and who vouch for the accuracy and
+completeness of the data presented and for the
+fidelity of this report to the study protocol. Representatives of both companies were involved in
+the design of the study, with scientific advice obtained from external experts on chronic idiopathic urticaria. The authors wrote all drafts of
+the manuscript and made the decision to submit
+the manuscript for publication. Editorial support
+and assistance with incorporation of revisions was
+provided by a medical writer who was employed by
+Genentech. All authors and contributors were under nondisclosure agreements with Genentech.
+
+PATIENTS
+
+Patients were included in the study if they were
+between the ages of 12 and 75 years (between
+18 and 75 years in Germany) and met all the following criteria: a history of at least 6 months of
+chronic idiopathic urticaria, the presence of hives
+associated with itching for at least 8 consecutive
+weeks at any time before enrollment despite current use of H,-antihistamines, an urticaria activity score (UAS) during a 7-day period (UAS7) of
+
+16 or more (on a scale ranging from 0 to 42, with
+higher scores indicating greater activity and a minimally important difference [MID] of 9.5 to 10.5),?4
+a weekly itch-severity score of 8 or more (on a
+scale ranging from 0 to 21, with higher scores
+indicating more severe itching and an MID of >5)
+during the 7 days before randomization (week 0),
+a score of 4 or more on the UAS (ranging from 0
+to 6, with higher scores indicating greater activity) as assessed by a clinician on at least one of
+the screening-visit days, and receipt of a licensed
+dose of a second-generation H,-antihistamine
+(see the Supplementary Appendix) for chronic
+idiopathic urticaria for at least 3 consecutive
+days immediately preceding the screening visit
+14 days before randomization, and no missing
+electronic-diary entries for the 7 days before randomization.
+
+Exclusion criteria included a clearly defined
+underlying cause for chronic urticaria (e.g.,
+physical urticaria), routine administration (i.e.,
+daily or every other day for >5 consecutive days)
+of systemic glucocorticoids, hydroxychloroquine,
+methotrexate, cyclosporine, cyclophosphamide,
+or intravenous immune globulin within the previous 30 days for any indication, the use of any
+H,-antihistamine or leukotriene-receptor antagonist within 7 days preceding the screening visit
+14 days before randomization, the use of H,antihistamines at greater-than-licensed doses
+within 3 days preceding the screening visit
+14 days before randomization, a history of cancer, a weight of less than 20 kg, a known hypersensitivity to omalizumab, treatment with omalizumab within the previous year, or pregnancy.
+
+Before inclusion in the study, all patients or a
+parent or legal guardian (for those under the age
+of 18 years) provided written informed consent.
+
+ASSESSMENTS
+
+Patients recorded their outcomes in the electronic
+diary,?:?3 reporting every morning and evening
+the itch-severity score (with 0 indicating none, 1
+indicating mild, 2 indicating moderate, and 3 indicating severe), the number of hives (with 0 indicating none, 1 indicating 1 to 6, 2 indicating 7 to
+12, and 3 indicating >12, with an MID of 5.0 to
+5.5 for the weekly average), and scores for the
+size of the largest hive (with 0 indicating none, 1
+indicating <1.25 cm, 2 indicating 1.25 to 2.5 cm,
+and 3 indicating >2.5 cm, with an MID of 4.5 to
+5 for the weekly average). The patients reported
+
+N ENGL) MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+once daily on interference with sleep and daily
+activities (on a scale of 0 to 3, with higher scores
+indicating more interference on each measure),
+use of rescue medication as provided in 25-mg
+diphenhydramine tablets (0 to 9 tablets), the presence of angioedema (yes or no), angioedema management, and any contact with a health care provider (see the Supplementary Appendix for further
+details). Compliance with reporting in the electronic diary was evaluated throughout the study.
+
+Average daily scores (morning and evening assessments) for itch severity and the number of
+hives were totaled each week to derive the UAS7.7+
+Patients completed the Dermatology Life Quality
+Index (ranging from 0 to 30, with higher scores
+indicating a worse quality of life and an MID of
+2.24 to 3.10)?5¢ at baseline and at weeks 4, 12, and
+28, and the Chronic Urticaria Quality-of Life Questionnaire (ranging from 0 to 100, with higher
+scores indicating a worse quality of life) at baseline and at weeks 12 and 28.
+
+STUDY END POINTS
+
+The primary end point was the change from baseline to week 12 in the weekly itch-severity scores.
+The 12-week score was calculated as the sum of
+the averaged daily itch-severity score for the previous 7 days, and the baseline score was the sum
+of the daily itch-severity scores during the 7 days
+before randomization.
+
+Secondary end points, which were all evaluated at week 12, were changes from baseline in the
+UAS7 and in the score for the weekly number of
+hives,?* the time until a reduction from baseline
+of at least 5 points?3 in the weekly itch-severity
+score (the MID), the proportions of patients with
+a UAS7 of 6 or less (considered to represent improvement in disease), the number of patients
+with a weekly MID response in the itch-severity
+score, the change from baseline in the score for
+the size of the largest hive,?* the change from
+baseline in the overall score on the Dermatology
+Life Quality Index, and the proportion of angioedema-free days from week 4 to week 12 (see the
+Supplementary Appendix for further details).
+
+We conducted post hoc analyses of the proportion of patients who were free of hives or free
+of both hives and itching at week 12 (with the
+latter indicated by a UAS7 of 0) and 13 additional
+prespecified subgroup analyses for the primary
+end point. We assessed as exploratory end points
+changes from baseline in the use of rescue medi
+cation (diphenhydramine) and in the score on the
+Chronic Urticaria Quality-ofLife Questionnaire.
+Safety was evaluated by recording and monitoring the frequency and severity of treatmentemergent adverse events and serious adverse
+events. Verbatim descriptions of adverse events
+were coded with the use of the Medical Dictionary
+for Regulatory Activities (version 15.0) and analyzed
+with the use of appropriate thesaurus terms.
+
+STATISTICAL ANALYSIS
+
+In estimating the power for determining efficacy,
+we assumed a mean change from baseline to
+week 12 in the weekly itch-severity score of 9 points
+in the omalizumab group and a mean change of
+3.5 points in the placebo group, with a common
+standard deviation of 6 points. Assuming an early discontinuation rate of 15% by week 12, we
+determined that the enrollment of 300 patients
+(75 patients in each treatment group) would yield
+a power of approximately 98% to detect a difference in treatment effect in the primary end point
+at the 0.05 level for any omalizumab group.
+
+The efficacy analyses were conducted on the
+basis of data from the modified intention-to-treat
+population, which included all patients who had
+undergone randomization and who had received
+at least one dose of a study drug. The treatment
+group was defined according to the treatment the
+patient was assigned to receive, whereas the safety
+population was defined according to treatment
+actually received.
+
+For the primary end point, we analyzed differences between each of the omalizumab treatment groups and the placebo group using an
+analysis-of-covariance model stratified according
+to the estimated baseline weekly itch-severity
+score (<13 vs. >13) and baseline weight (<80 kg vs.
+280 kg). The strata were predefined on the basis
+of the medians reported in a phase 2 clinical
+study.?° Missing data at week 12 were imputed
+with the baseline score (baseline observation carried forward). (Additional details on the statistical
+methods, including analyses of the secondary end
+points, are provided in the Supplementary Appendix.)
+
+ 
+
+RESULTS
+
+ 
+
+STUDY POPULATION
+Of 466 patients who underwent screening, 146
+were excluded and 3 were rescreened. The most
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+
+927
+The NEW ENGLAND JOURNAL of MEDICINE
+
+ 
+
+ 
+
+ 
+
+ 
+
+466 Patients were screened
+
+ 
+
+ 
+
+ 
+
+ 
+
+146 (319%) Were excluded
+18 (12%) Had contraindications to diphenhydramine
+21 (149%) Had evidence of current drug or alcohol abuse
+9 (6%) Missed diary entries in 7 days before
+
+ 
+
+ 
+
+|____» randomization
+48 (33%) Had other unspecified reasons
+50 (349) Had other reasons
+3 (196) Were rescreened
+
+Y
+
+ 
+
+323 Underwent
+
+ 
+
+randomization
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Y Y ul i
+79 Were assigned to receive 82 Were assigned to receive 83 Were assigned to receive 79 Were assigned to receive
+placebo omalizumab, 75 mg omalizumab, 150 mg omalizumab, 300 mg
+t——>]| 1 Was not treated
+y hi ¥ ¥
+
+ 
+
+5 (6%) Withdrew from study
+1 (1%) Had adverse event
+1 (1%) Was lost to follow-up
+3 (4%) Withdrew or were
+withdrawn by guardian
+
+ 
+
+ 
+
+ 
+
+7 (9%) Withdrew from study
+
+1 (1%) Was lost to follow-up
+
+1 (196) Was withdrawn by
+physician
+
+4 (5%) Withdrew or were
+withdrawn by guardian
+
+1 (19) Had disease
+
+9 (11%) Withdrew from study
+1 (19) Had adverse event
+2 (2%) Were lost to follow-up
+3 (4%) Withdrew or were
+withdrawn by guardian
+3 (496) Had disease
+progression
+
+12 (15%) Withdrew from study
+
+)
+1 (1%) Had adverse event
+2 (3%) Were lost to follow-up
+3 (4%) Withdrew or were
+withdrawn by guardian
+6 (8%) Had disease
+progression
+
+ 
+
+progression
+
+|
+
+ 
+
+ 
+
+ 
+
+74 (94%) Completed study
+
+75 (91%) Completed study
+
+ 
+
+ 
+
+ 
+
+ 
+
+74 (89%) Completed study
+
+67 (85%) Completed study
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1. Enrollment and Outcomes.
+
+Among the 83 patients who were assigned to receive 150 mg of omalizumab, 1 patient decided not to receive the study medication and
+was therefore not included in the modified intention-to-treat population. Six patients who were assigned to receive 75 mg of omalizumab
+
+received at least 1 dose of 150 mg of omalizumab during the treatment period and were included in the group receiving 150 mg of omalizumab for the safety analysis.
+
+ 
+
+ 
+
+928
+
+frequent reasons for exclusion were evidence of
+current drug or alcohol abuse (14%), contraindications to the use of diphenhydramine (12%),
+and other reasons that were not specified (33%).
+Thus, 323 patients underwent randomization
+and received at least one dose of a study drug in
+addition to stable doses of their prerandomization H,-antihistamine (Fig. 1). The overall treatment discontinuation rate was 6%, and the overall study discontinuation rate was 10%, with no
+major differences in these measures among the
+
+study groups (see the Supplementary Appendix
+for further details).
+
+Baseline demographic and clinical characteristics were similar across the study groups (Table
+1). For the overall population, the mean (+SD) age
+was 42.5+13.7, women comprised 76% of patients, 85% were white, the mean body weight
+was 82.4+21.9 kg, and the mean body-mass index
+(the weight in kilograms divided by the square
+of the height in meters) was 29.8+7.3. The mean
+IgE level for patients at baseline was elevated:
+
+N ENGL) MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+
+Copyright © 2013 Massachusetts Medical
+
+Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+168.2+231.9 IU per milliliter (aormal range, 13 to
+127), with a median of 78 IU per milliliter. The
+mean time since the diagnosis of chronic idiopathic urticaria was 6.5+8.6 years, the mean
+number of previous medications for chronic idiopathic urticaria was 4.3+2.7 (Table S1 in the
+Supplementary Appendix), the mean in-clinic
+UAS was 5.3+£0.7, the mean UAS7 was 30.7+6.8,
+the weekly itch-severity score was 14.0+3.7, the
+weekly score for the number of hives was
+16.7+4.3, and the use of rescue medication was
+7.3£7.8 tablets per week. Angioedema was present during the week before randomization in 41%
+of patients.
+
+The mean rates of diary compliance were high
+(>97%) and did not differ significantly across all
+study groups during the treatment period (Table
+$2 in the Supplementary Appendix).
+
+EFFICACY
+
+Baseline weekly itch-severity scores were approximately 14 in all treatment groups (Table 1). The
+mean changes from baseline in weekly itch-severity scores at week 12 (primary end point) were significantly improved in the group receiving 150 mg
+of omalizumab (-8.1+6.4, P=0.001) and 300 mg
+of omalizumab (—9.8+6.0, P<0.001) but not in the
+group receiving 75 mg of omalizumab (-5.9+6.5,
+P=0.46), as compared with placebo (-5.1+5.6)
+(Table 2). The reductions from baseline in mean
+weekly itch-severity scores were dose-responsive
+with all three omalizumab doses and were better
+than the placebo responses at the time points
+before week 12 (Fig. 2A). After week 12 (followup period), the mean weekly itch-severity scores
+for all omalizumab groups increased to reach
+values similar to those in the placebo group and
+did not return to baseline values for the duration
+of follow-up. Sensitivity analyses for the primary
+end point that used different methods for handling missing data showed similar results to those
+of the primary analysis (Tables $3, S4, and S5 in
+the Supplementary Appendix).
+
+There was a significant difference between the
+group receiving either 150 mg or 300 mg of
+omalizumab and the placebo group with respect
+to all prespecified secondary end points (changes
+from baseline in UAS7 and the weekly score for
+the number of hives, the time to the MID in weekly itch-severity scores, the proportion of patients
+with a UAS7 of <6, the proportion of patients
+
+with the MID response in weekly itch-severity
+scores, the change from baseline in the score for
+the size of the largest hive, the change from
+baseline in the overall Dermatology Life Quality
+Index, and the proportion of angioedema-free
+days from weeks 4 to 12) (Table 2, and Table S6
+and Fig. $1 through S6 in the Supplementary
+Appendix), except for the difference in the number of angioedema-free days from week 4 to
+week 12, which reached significance only in the
+300-mg group. Similar to weekly itch-severity
+scores, the weekly score for the number of hives
+decreased with all three doses of omalizumab to
+a greater extent than with placebo throughout
+the 12-week treatment period, with the largest
+difference observed in the 300-mg group (Fig.
+2B). After week 12 (i.e., during the follow-up
+period), the mean weekly score for the number
+of hives for all omalizumab groups increased to
+reach values similar to those in the placebo
+group and did not return to baseline values for
+the duration of follow-up.
+
+The exploratory analysis of scores on the
+Chronic Urticaria Quality-of-Life Questionnaire
+showed similar results to those from the other
+end points that were assessed in this study (Fig.
+S7 in the Supplementary Appendix).
+
+In the post hoc analyses at week 12, the proportions of patients who were completely free of
+hives were 10% in the placebo group, 18% in the
+group receiving 75 mg of omalizumab, 23% in the
+group receiving 150 mg of omalizumab, and 53%
+in the group receiving 300 mg of omalizumab;
+among patients who were free of both hives and
+itching (i.e., a UAS7 score of 0), the proportions
+were 5%, 16%, 22%, and 44%, respectively (Fig. S8
+and S9 in the Supplementary Appendix).
+
+At baseline, the mean number of diphenhydramine tablets (25 mg) that patients were taking as
+rescue medication was 7.3+7.8. The mean changes from baseline in the weekly number of tablets
+were —2.346.1 in the group receiving 75 mg of
+omalizumab (P=0.91), -3.7£6.0 in the group
+receiving 150 mg of omalizumab (P=0.07), and
+—4.1+5.4 in the group receiving 300 mg of omalizumab (P=0.0D), as compared with -2.2+5.0 in
+the placebo group (Fig. S10 in the Supplementary Appendix).
+
+In prespecified subgroup analyses for the primary end point, no meaningful interpretation of
+results or definitive conclusions could be made
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+
+929
+930
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+because of the reduced sample sizes for these
+analyses (data not shown).
+
+SAFETY
+
+The percentages of patients with at least one adverse event were similar across the treatment
+groups: 61% in the placebo group, 59% in those
+receiving 75 mg of omalizumab, 67% in those
+receiving 150 mg of omalizumab, and 65% in
+those receiving 300 mg of omalizumab (Table 3,
+and Table S7 in the Supplementary Appendix).
+During the 28-week study period, there were reports of nine serious adverse events, with five
+reported in the group receiving 300 mg of omalizumab (6%), two in the placebo group (3%),
+and one each in the groups receiving 75 mg and
+150 mg of omalizumab (1% for each). Most of the
+adverse events were reported in the 150-mg and
+300-mg groups during the follow-up period, when
+no drug was being administered (Table 3, and Table
+S8 in the Supplementary Appendix). No deaths or
+episodes of anaphylactic shock were reported dur
+ing the study. There were no major imbalances in
+any of the system organ classes affected by adverse events, with the exception of headache, with
+more cases being reported in the group receiving
+150 mg of omalizumab than in the placebo group.
+(Additional details on safety information are provided in the Supplementary Appendix.)
+
+ 
+
+DISCUSSION
+
+ 
+
+In this study, we found that omalizumab administered as three doses of 150 mg or 300 mg at
+4-week intervals significantly reduced symptoms,
+as compared with placebo, in patients with chronic idiopathic urticaria who remained symptomatic
+despite the use of approved doses of H,-antihistamines. Significant and clinically meaningful effects were seen for patients receiving either 150 mg
+or 300 mg of omalizumab in the change from baseline in the weekly itch-severity score (primary end
+point) and all secondary end points at week 12,
+with the exception of the proportion of angioede
+ 
+
+ 
+
+ 
+
+Table 1. Baseline Characteristics of the Patients (Modified Intention-to-Treat Population).*
+Characteristic Placebo (N=79) Omalizumab
+75 mg 150 mg 300 mg
+(N=82) (N=82) (N=79)
+Demographic
+Age —yr 43.1412.5 39.7415.0 43.0+13.2 44.3413.7
+Age group — no. (%)
+12-17 yr 2.(3) 4 (5) 2 (2) 2(3)
+18-40 yr 30 (38) 42 (51) 32 (39) 31 (39)
+41-64 yr 44 (56) 31 (38) 45 (55) 39 (49)
+265 yr 3 (4) 5 (6) 3 (4) 7(9)
+Female sex —no. (%) 55 (70) 61 (74) 65 (79) 63 (80)
+Race — no. (%)}
+White 70 (89) 64 (78) 70 (85) 68 (86)
+Nonwhite 6 (8) 16 (20) 6 (7) 9 (11)
+Not available 3 (4) 2 (2) 6 (7) 23)
+Weight
+Mean — kg 84.3425.7 82.8421.2 82.4+20.7 80.3419.9
+<80 kg — no. (%) 1 (52) 43 (52) 41 (50) 41 (52)
+Body-mass index: 30.0+7.7 30.247.7 30.0+7.3 29.0+6.3
+Clinical
+Time since diagnosis of chronic idiopathic
+urticaria — yr
+Mean 7.2+10.7 $3475 7.248.9 6.147.3
+Median 33 2.5 3:9 3:5
+
+ 
+
+ 
+
+N ENGL) MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1. (Continued.)
+Characteristic Placebo (N=79) Omalizumab
+75 mg 150 mg 300 mg
+(N=82) (N=82) (N=79)
+Previous medications for chronic idiopathic 4442.9 4.142.1 4,543.2 4.342.5
+urticaria — no.
+In-clinic UAS4 5.340.7 5.440.8 5.340.7 5.3+0.7
+UAS7 | 31.0+6.6 30.746.9 31.447.0 29.5+6.9
+Weekly itch-severity score** +} 14.023.4 14.023.7 14.244.1 13.743.5
+Weekly score for no. of hives**: 17.044.2 16.844.2 17.144.1 15.844.6
+Overall score on Dermatology Life Quality Index§f 12.65.99] 12.6+6.5 13.0+6.1 12.746.4
+Presence of angioedema — no. (%)** 30 (38) 31 (38) 38 (46) 32 (41)
+Weekly no. of diphenhydramine tablets (25 mg) 7,147.7 7.849.0 7547.7 6.746.8
+as rescue medication**
+
+ 
+
+ 
+
+* Plus-minus values are means +SD. The modified intention-to-treat population included all patients who had undergone randomization and received at least one dose of a study drug. There were no significant differences among the
+groups at baseline. Percentages may not total 100 because of rounding.
+
+Race was self-reported.
+
+The body-mass index is the weight in kilograms divided by the square of the height in meters.
+
+Data are for 77 patients in the placebo group, 80 in the group assigned to receive 75 mg of omalizumab, 81 in the
+group assigned to receive 150 mg of omalizumab, and 76 in the group assigned to receive 300 mg of omalizumab.
+The urticaria activity score (UAS) ranges from 0 to 6, with higher scores indicating greater activity. This value was defined as the largest value among those obtained on screening visits on days 14 and 7 before randomization and on
+the day 1 visit.
+
+|| The UAS during a 7-day period (UAS7) ranges from 0 to 42, with higher scores indicating greater activity and a mini
+= Sat
+
+mally important difference (MID) of 9.5 to 10.5.
+
+   
+
+These values are based on data that were collected in a patient daily diary in the week before randomization.
+
+tT Daily scores for itch severity were 0 indicating none, 1 indicating mild, 2 indicating moderate, and 3 indicating severe,
+with weekly totals ranging from 0 to 21 and an MID of 5 or more points.
+
+ 
+
+212, and an MID of 5.0 to 5.5 for the weekly average.
+
+{ Daily scores for the number of hives were 0 indicating none, 1 indicating 1 to 6, 2 indicating 7 to 12, and 3 indicating
+
+§§ The Dermatology Life Quality Index ranges from 0 to 30, with higher scores indicating a worse quality of life and an MID
+
+of 2.24 to 3.10.
+
+44 This value was measured in 78 patients in the placebo group.
+
+ 
+
+ma-free days during week 4 through week 12 in
+the group receiving 150 mg of the drug. Furthermore, the safety profile for omalizumab was
+similar to that previously reported in omalizumabtreated patients with allergic asthma.131+7778
+However, the majority of serious adverse events
+occurred in the group receiving the highest dose
+(300 mg) of omalizumab.
+
+Omalizumab had an onset of effect within a
+week after initiation in this patient population
+(Fig. 2, and Fig. S1 in the Supplementary Appendix). The median time to MID response in the
+weekly itch-severity score was significantly shorter in the group receiving 300 mg of omalizumab
+(1 week) and in the group receiving 150 mg
+(2 weeks) than in the placebo group (4 weeks)
+(Table 2). The phase 2 studies also showed reductions in the UAS and UAS7 during the first
+week of omalizumab treatment.?°?+
+
+The duration of suppression in the weekly itchseverity score after week 12 was greater in patients
+receiving the higher doses (150 mg and 300 mg)
+of omalizumab. There did not appear to be a rebound increase in symptoms back to baseline
+during the course of the study once omalizumab
+had been discontinued. However, it is possible
+that some patients’ symptoms during follow-up
+may have remained under better control because
+they were allowed to take an additional H,-antihistamine during this period. In the placebo
+group, after an initial small reduction in the
+mean weekly itch-severity score during the first
+couple of weeks, scores remained unchanged for
+the remainder of the study period. The observation that symptoms gradually recur after discontinuation (as shown by the increase in mean
+itch-severity scores and scores for the number of
+hives after week 12) suggests that omalizumab
+
+ 
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+
+931
+The NEW ENGLAND JOURNAL of MEDICINE
+
+ 
+
+Table 2. Primary and Secondary Efficacy End Points (Modified Intention-to-Treat Population).*
+
+ 
+
+End Point Placebo (N=79) Omalizumab
+75 mg 150 mg 300 mg
+(N=82) (N=82) (N=79)
+
+Primary end point
+Itch-severity score
+
+Change from baseline to wk 12
+
+Mean -5.145.6 —5.946.5 -8.146.4 ~9.8+6.0
+Median (range) -4.0(-20.5t06.0) 6.5 (-21.0to 10.0) -8.5 (-21.0to5.1) 10.5 (-21.0 to 4.5)
+Least-squares mean difference for treatment vs. NA -0.7 (-2.5to 1.2)  -3.0 (-4.9to-1.2)¢ -4.8 (-6.5 to -3.1)§
+
+placebo (95% Cl) +
+Secondary end points
+Weekly no. of hives
+
+Change from baseline to week 12
+
+Mean -5.246.6 -7.247.0 —9.847.3 -12.047.6
+Median (range) -2.4(-19.5t05.5)  -6.5 (-21.0t08.5) -10.0 (-21.0to 3.0) -13.0 (-21.0 to 10.5)
+Least-squares mean difference for treatment vs. NA -2.0 (-4.1to-0.1) -4.5 (-6.7 to-2.4)§ -7.1 (-9.3 to -4.9)§
+placebo (95% Cl) 4
+Patients with UAST <6 at wk 12 — no. (%) 15 (19) 22 (27) 35 (43)+ 52 (66)§
+
+Overall score on Dermatology Life Quality Index(|
+
+Change from baseline to week 12
+
+Mean -6.147.5 7,547.2 -8.346.3 -10.246.8
+Median (range) -5.0 (-25.0t013.0)  -7.0 (-26.0to 11.0) -8.0 (-27.0to 6.0) -10.0 (-27.0 to 8.0)
+Least-squares mean difference for treatment vs. NA -1.7 (-3.8to 0.5) — -2.5 (-4.6 to -0.4) +} -3.8 (-5.9 to -1.7)§
+
+placebo (95% Cl) **
+
+Angioedema-free days from wk 4 through wk 12 —
+Et
+
+Mean 89.2+19.0 93.5414.9 91.6217.4 95.5414.5
+Median (range) 100.0 (15.4 to 100.0) 100.0 (30.4t0 100) 100.0 (14.3 to 100.0) 100 (17.9 to 100.0)§
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plus—minus values are means +SD. Missing scores for week 12 were imputed from baseline weekly scores. NA denotes not applicable.
+
++ Least-squares means were estimated with the use of an analysis of covariance (ANCOVA) model stratified according to the baseline weekly itch-severity score (<13 vs. =13) and baseline weight (<80 kg vs. =80 kg).
+
++ P<0.01 for the comparison with placebo.
+
+§ P<0.001 for the comparison with placebo.
+
+4 The ANCOVA model was stratified according to the baseline weekly number of hives (<median vs. =median) and baseline weight (<80 kg
+vs. 280 kg).
+
+|| The baseline score on the Dermatology Life Quality Index was obtained before administration of a study drug on day 1, and there was no
+
+imputation for missing scores for week 12.
+
+The ANCOVA model was stratified according to the baseline overall score on the Dermatology Life Quality Index (<median vs. =median)
+
+and baseline weight (<80 kg vs. =80 kg).
+
+{ P=0.02 for the comparison with placebo.
+
+Angioedema-free days were defined as the number of days for which the patient responded “no” to the angioedema question in the daily
+
+diary divided by the total number of days with a nonmissing diary entry starting at the week 4 visit and ending the day before the week 12
+
+visit. Patients who withdrew before the week 4 visit or who had missing responses for more than 40% of the daily diary entries between
+
+the week 4 and week 12 study visits were not included in this analysis.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2 (facing page). Mean Weekly Symptom Scores.
+
+Mean weekly symptom scores are shown for itch severity, with totals ranging from 0 to 21 and with higher scores indicating greater severity (Panel A), and the number of hives, with daily totals of 0 indicating none, 1 indicating 1 to 6 hives,
+2 indicating 7 to 12 hives, and 3 indicating more than 12 hives (for weekly totals of 0 to 21) (Panel B). Data are for
+patients in the modified intention-to-treat population (i.e., all patients who underwent randomization and received
+at least one dose of a study drug).
+
+ 
+
+ 
+
+ 
+
+932 N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+ 
+
+ 
+
+A Itch-Severity Score
+
+165 —e— Placebo
+—s=— Omalizumab, 75 mg
+—4— Omalizumab, 150 mg
+14
+
+—%— Omalizumab, 300 mg
+4 Omalizumab injection
+
+Mean (+SE) Weekly Itch-Severity Score
+
+ 
+
+ 
+
+ 
+
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28
+
+4 4 4 Week
+
+ 
+
+ 
+
+B Score for No. of Hives
+
+*y —e— Placebo
+—s=— Omalizumab, 75 mg
+16 —a— Omalizumab, 150 mg
+
+—%— Omalizumab, 300 mg
+4° Omalizumab injection
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mean (+SE) Weekly Score for No. of Hives
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T
+i} 2 4 6 8 10 12 14 16 18 20 22 24 26 28
+
+4 4 4 Week
+
+ 
+
+ 
+
+ 
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013 933
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+934
+
+  
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 3. Adverse Events (Safety Population).*
+Event Placebo (N=79) Omalizumab
+75 mg 150 mg 300 mg
+(N=76) (N=88) (N=79)
+no. of patients (%)
+At least one adverse event 48 (61) 45 (59) 59 (67) 51 (65)
+Any adverse event leading to discontinuation 0 3 (4) 2 (2) 0
+of study drug
+Early withdrawal from study due to an adverse 1 (1) 0 1 (1) 0
+event
+Any serious adverse event} 2 (3) 1(1) 1(1) 5 (6)
+Death 0 0 0 0
+Any adverse event suspected to be caused 3 (4) 7 (9) 8 (9) 7 (9)
+by study drug
+Any severe adverse event 7 (9) 4 (5) 5 (6) 6 (8)
+
+ 
+
+ 
+
+* The safety population was defined according to the treatment actually received. A complete list of adverse events is
+
+provided in Table S7 in the Supplementary Appendix.
+
+{The nine reported serious adverse events were pneumonia and hemorrhoids in one patient each in the placebo group;
+angioedema in one patient in the 75-mg group; angioedema and idiopathic urticaria in one patient in the 150-mg
+group; and melanoma in situ, nephrolithiasis, idiopathic urticaria, tonsillectomy, and melena in one patient each in the
+300-mg group. After a review of the hospital discharge summary after the database lock, it was determined that the patient with melena had no anemia; the cause of hospital admission was elective endoscopy for nonanemic melena. The
+patient underwent upper gastrointestinal endoscopy and colonoscopy, which revealed only diverticulosis with no other
+potential source of bleeding. Thus, it was determined that this patient had a nonserious event of nonanemic melena
+rather than a serious adverse event, as initially reported. Additional details about the serious adverse events are provid
+ed in Table S8 in the Supplementary Appendix.
+
+severe adverse event was defined as the occurrence of symptoms causing an inability to perform usual social and
+
+functional activities. A complete description of the severe adverse events is provided in the Safety section in the
+
+Supplementary Appendix.
+
+ 
+
+administered as three doses at 4-week intervals
+did not substantially modify the basic underlying
+disease process in this population during this time
+period (Fig. 2).
+
+The mechanism by which omalizumab works
+to improve urticaria has not been fully elucidated. It has been reported that patients with active
+chronic idiopathic urticaria have abnormal basophil function, including suppression of the highaffinity IgE receptor (FceRI) pathway (related to
+altered expression of Src homology 2-containing
+inositol phosphatase), blood basopenia, and recruitment of basophils to skin-lesion sites.1? In
+patients with chronic idiopathic urticaria in remission, blood basopenia and suppressed FceRI
+function revert toward normal.!? In previous
+studies, the binding of circulating IgE by omalizumab has been shown to lead to a reduction in
+free IgE within hours after administration and
+down-regulation of FceRI on blood basophils
+within 2 weeks; in mast cells, reduction in FceRI
+expression and degranulation typically occurs
+
+after 8 weeks.1529.3° This study was not designed
+to further elucidate the mechanism of action of
+omalizumab in patients with chronic idiopathic
+urticaria.
+
+In conclusion, during the initial 12 weeks of
+our study, omalizumab at doses of 150 mg and
+300 mg significantly improved outcomes as reported by patients with chronic idiopathic urticaria who remained symptomatic despite the use
+of approved doses of H,-antihistamines. The number of patients who were treated was too small
+to draw any definitive safety conclusions, but
+serious adverse events were more common in the
+group treated with the highest dose of omalizumab. Further work is needed before the exact role
+of omalizumab in the treatment of chronic idiopathic or spontaneous urticaria can be defined.
+
+Supported by Genentech and Novartis Pharma.
+
+Dr. Maurer reports receiving consulting fees from Uriach
+Pharma and UCB, advisory board fees from Uriach Pharma,
+lecture fees from Sanofi, Merck, FAES, Uriach Pharma, and
+
+Almirall, and grant support through his institution from Uriach
+Pharma; Dr. Rosén, being an employee of Genentech and having
+
+N ENGL) MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+OMALIZUMAB FOR CHRONIC IDIOPATHIC URTICARIA
+
+an equity interest in Roche; Drs. Hsieh and Doyle, being employees of and having an equity interest in Genentech; Dr. Saini, receiving consulting fees from Array, Kendle, MedImmune, Parmacyclics, and Regeneron; Dr. Gimenéz-Arnau, receiving payment
+for serving on advisory boards from Uriach Pharma, Almirall,
+Basilea, and Unilever, payment for expert testimony on Sara Lee
+products, lecture fees from Bayer-Intendis and Uriach Pharma,
+payment for the development of educational presentations from
+Menarini and GlaxoSmithKline, and grant support through her
+institution from Uriach Pharma, Bayer-Intendis, and Inescop; Dr.
+Agarwal, being an employee of and having an equity interest in
+Roche; Dr. Canvin, being an employee of and having an equity
+interest in Novartis; and Dr. Kaplan, receiving consulting fees
+from Sanofi-Aventis, lecture fees from Dyax and ViroPharma, and
+
+grant support through his institution from Dyax, CSL Behring,
+and Shire. No other potential conflict of interest relevant to this
+article was reported.
+
+Disclosure forms provided by the authors are available with
+the full text of this article at NEJM.org.
+
+We thank all the clinical staff and patients who participated
+in the study; Malcolm Greaves for his advice regarding the clinical
+development program; Dennis Wong and Ed Conner of Genentech for assisting in the design of the study; Jim Zazzali of
+Genentech for his work developing the electronic diary used by
+patients; Greg Spaniolo of Genentech for his advice regarding
+statistical analyses and graphical interpretations; and medical
+writer Helen Attisha of CircleScience for her assistance in the
+preparation of the manuscript.
+
+ 
+
+REFERENCES
+
+1. Greaves MW. Chronic urticaria. N Engl
+J Med 1995; 1767-72. [Erratum, N Engl
+J Med 1995;333:1091.]
+
+2. Gaig P, Olona M, Mufioz Lejarazu D,
+et al. Epidemiology of urticaria in Spain.
+J Investig Allergol Clin Immunol 2004;14:
+214-20.
+
+3. Toubi E, Kessel A, Avshovich N, et al.
+Clinical and laboratory parameters in predicting chronic urticaria duration: a prospective study of 139 patients. Allergy
+2004;59:869-73.
+
+4. Maurer M, Weller K, Bindslev-Jensen
+C, et al. Unmet clinical needs in chronic
+spontaneous urticaria: a GALEN task
+force report. Allergy 2011;66:317-30.
+
+5. Kang MJ, Kim HS, Kim HO, Park YM.
+The impact of chronic idiopathic urticaria
+on quality of life in Korean patients. Ann
+Dermatol 2009;21:226-9.
+
+6. O'Donnell BF, Lawlor F, Simpson J,
+Morgan M, Greaves MW. The impact of
+chronic urticaria on the quality of life. Br
+J Dermatol 1997;136:197-201.
+
+7. Zuberbier T, Asero R, Bindslev-Jensen
+C, et al. EAACI/GA(Q)LEN/EDF/WAO
+guideline: definition, classification and
+diagnosis of urticaria. Allergy 2009;64:
+1417-26.
+
+8. Staevska M, Popov TA, Kralimarkova
+T, et al. The effectiveness of levocetirizine
+and desloratadine in up to 4 times conventional doses in difficult-to-treat urticaria. J Allergy Clin Immunol 2010;125:
+676-82.
+
+9. Asero R. Chronic unremitting urticaria: is the use of antihistamines above
+the licensed dose effective? A preliminary
+study of cetirizine at licensed and abovelicensed doses. Clin Exp Dermatol 2007;
+32:34-8.
+
+10. Kaplan AP. Chronic urticaria and angioedema. N Engl J Med 2002;346:175-9.
+11. Zuberbier T, Asero R, Bindslev-Jensen
+C, et al. EAACI/GAQ@)LEN/EDE/WAO guideline: management of urticaria. Allergy
+2009;64:1427-43.
+
+ 
+
+    
+
+12. Vonakis BM, Saini SS. New concepts
+in chronic urticaria. Curr Opin Immunol
+2008;20:709-16.
+
+13. Novartis G. Xolair (omalizumab). January 2010 (package insert) (http://www
+-gene.com/patients/medicines/xolair).
+
+14. European Medicines Agency. Xolair
+summary of product characteristics (http:|/
+www.ema.europa.eu/docs/en_GB/
+document_library/EPAR_-_Product_
+Information/human/000606/
+WC500057298.pdf).
+
+15. Beck LA, Marcotte GV, MacGlashan
+D, Togias A, Saini $. Omalizumab-induced
+reductions in mast cell Fe epsilon RI expression and function. J Allergy Clin Immunol 2004;114:527-30.
+
+16. Saini SS, MacGlashan D. How IgE upregulates the allergic response. Curr Opin
+Immunol 2002;14:694-7.
+
+17. Ong YE, Menzies-Gow A, Barkans J, et
+al. Anti-IgE (omalizumab) inhibits latephase reactions and inflammatory cells
+after repeat skin allergen challenge. J Allergy Clin Immunol 2005;116:558-64.
+
+18. Gober LM, Sterba PM, Eckman JA,
+Saini SS. Effect of anti-IgE (omalizumab)
+in chronic idiopathic urticaria (CIU) patients. J Allergy Clin Immunol 2008;121:
+Suppl:S147. abstract.
+
+19. Kaplan AP, Joseph K, Maykut RJ, Geba
+GP, Zeldin RK. Treatment of chronic autoimmune urticaria with omalizumab. J Allergy Clin Immunol 2008;122:569-73.
+
+20. Saini S, Rosen KE, Hsieh HJ, et al. A
+randomized, placebo-controlled, doseranging study of single-dose omalizumab
+in patients with H1-antihistamine-refractory chronic idiopathic urticaria. J Allergy
+Clin Immunol 2011;128:567-73.
+
+21. Maurer M, Altrichter S, Bieber T, et al.
+Efficacy and safety of omalizumab in patients with chronic urticaria who exhibit
+IgE against thyroperoxidase. J Allergy Clin
+Immunol 2011;128(1):202.e5-209.e5.
+
+22. Mathias SD, Dreskin SC, Kaplan A,
+Saini SS, Spector S, Rosén KE. Develop
+ment of a daily diary for patients with
+chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol 2010;105:142-8.
+
+23. Mathias SD, Tschosik EA, Zazzali JL.
+Adaptation and validation of the Urticaria
+Patient Daily Diary for adolescents. Allergy Asthma Proc 2012;33:186-90.
+
+24. Mathias SD, Crosby RD, Zazzali JL,
+Maurer M, Saini SS. Evaluating the mini
+mally important difference of the urticaria activity score and other measures of
+disease activity in patients with chronic
+idiopathic urticaria. Ann Allergy Asthma
+Immunol 2012;108:20-4.
+
+25. Finlay AY, Khan GK. Dermatology
+Life Quality Index (DLQI) — a simple
+practical measure for routine clinical use.
+Clin Exp Dermatol 1994;19:210-6.
+
+26. Shikiar R, Harding G, Leahy M, Lennox RD. Minimal important difference
+(MID) of the Dermatology Life Quality Index (DLQI): results from patients with
+chronic idiopathic urticaria. Health Qual
+Life Outcomes 2005;3:36.
+
+27. Corren J, Casale TB, Lanier B, Buhl R,
+Holgate S, Jimenez P. Safety and tolerability of omalizumab. Clin Exp Allergy 2009;
+39:788-97.
+
+28. Busse W, Buhl R, Fernandez Vidaurre
+C, et al. Omalizumab and the risk of malignancy: results from a pooled analysis.
+J Allergy Clin Immunol 2012;129:983-9,
+29. Eckman JA, Sterba PM, Kelly D, et al.
+Effects of omalizumab on basophil and
+mast cell responses using an intranasal
+cat allergen challenge. J Allergy Clin Immunol 2010;125:889-95.
+
+30. MacGlashan DW Jr, Bochner BS, Adelman DC, et al. Down-regulation of
+Fe(epsilon)RI expression on human basophils during in vivo treatment of atopic
+patients with anti-IgE antibody. J Immunol 1997;158:1438-45.
+
+Copyright © 2013 Massachusetts Medical Society.
+
+ 
+
+N ENGLJ MED 368;10 NEJM.ORG MARCH 7, 2013
+
+The New England Journal of Medicine
+Downloaded from nejm.org on December 1, 2020. For personal use only. No other uses without permission.
+Copyright © 2013 Massachusetts Medical Society. All rights reserved.
+
+935
+

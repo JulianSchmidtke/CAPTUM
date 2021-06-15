@@ -1,0 +1,696 @@
+Allergology International xxx (2017) 1-5
+
+ 
+
+Contents lists available at ScienceDirect
+
+AWERGOLOGY
+
+Allergology International
+
+INTERNATIONAL
+
+ 
+
+journal homepage: http://www.elsevier.com/locate/alit
+
+ 
+
+ 
+
+Original Article
+
+Treatment and retreatment with omalizumab in chronic spontaneous
+urticaria: Real life experience with twenty-five patients
+
+Murat Tiirk’, Insu Yilmaz, Sakine Nazik Bahcecioglu
+
+Division of Allergy and Clinical Immunology, Department of Chest Diseases, Erciyes University School of Medicine, Kayseri, Turkey
+
+ 
+
+ARTICLE INFO ABSTRACT
+
+ 
+
+Article history:
+
+Received 21 February 2017
+Received in revised form
+15 April 2017
+
+Accepted 23 April 2017
+Available online xxx
+
+Background: Previous data have shown the high efficacy of omalizumab in chronic spontaneous urticaria
+(CSU). However, factors that may be effective on the response to therapy, relapse rates after drug
+discontinuation, and efficacy of retreatment remain unclear. This study aimed to determine the efficacy
+of omalizumab in CSU refractory to conventional therapy, to identify possible factors affecting treatment
+response and relapse, and also to evaluate the efficacy of retreatment on relapsed disease.
+
+Methods: The data of CSU patients treated with 300 mg/month omalizumab for at least 3 months were
+retrospectively analyzed. In order to evaluate the efficacy of treatment and retreatment, baseline and
+
+ 
+
+Abe gE ERED follow-up concomitant medication score (CMS) and urticaria activity score (UAS) were calculated.
+Management Possible factors affecting treatment response and relapse were identified.
+
+Omalizumab Results: Twenty-five patients were included. The median duration of omalizumab therapy was 6 (6—12)
+Retreatment months. Of the patients with baseline UAS 6 (5.5—6) and CMS 13 (10—15), 8 (32%) had complete response
+Urticaria (UAS = 0) and 2 (8%) were non-responders after 3 months of therapy. None of the complete responders
+
+were positive for IgG-anti-TPO. After discontinuation of omalizumab therapy, 11 (61%) patients experi
+enced relapse and 10 of them received retreatment with omalizumab. Half of the patients had complete
+
+response, and half had partial response (UAS = 1—4) after retreatment. No treatment related adverse
+
+events were documented.
+
+Conclusions: Omalizumab has high efficacy in both the treatment and retreatment of CSU; however,
+
+relapse rates after discontinuation are high. Autoimmune markers may be helpful in predicting treat
+ment response and relapse.
+
+Copyright © 2017, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+ 
+
+Abbreviations:
+
+ANA, anti-nuclear antibody;
+
+CMS, concomitant medication score;
+CRP, C-reactive protein; CSU, chronic
+spontaneous urticaria; ESR, erythroid
+sedimentation rate; Tg, thyroglobulin;
+TPO, thyroid peroxidase; UAS, urticaria
+activity score
+
+ 
+
+Introduction
+
+Chronic spontaneous urticaria (formerly called chronic idiopathic urticaria) (CSU) is a disease characterized by recurrent
+itching, wheals and/or angioedema that lasts for more than 6 weeks
+in the absence of a precipitating external factor. Since the disease
+may sometimes last for years,' it negatively affects the patients’
+quality of life and may cause socioeconomical problems. Nonsedating H1-antihistamines are the drug of choice for the firstline treatment and up to a four-fold dose increase is recommended if there is no improvement.” However, high dose antihistamines are ineffective in approximately half of the patients,’ and
+in these cases leukotriene receptor antagonists, cyclosporine A, H2
+* Corresponding author. Division of Allergy and Clinical Immunology, Department
+of Chest Diseases, Erciyes University School of Medicine, 38039 Melikgazi, Kayseri,
+Turkey.
+
+E-mail address: mrttrk@gmail.com (M. Tiirk).
+Peer review under responsibility of Japanese Society of Allergology.
+
+http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+antihistamines or systemic glucocorticoid combinations are also
+used in addition to H1-antihistamines.** Recently, studies on the
+high efficacy of omalizumab in patients that are refractory to conventional therapy have been reported. Use of omalizumab in CSU
+patients was approved both in the USA and the EU in 2014 and it
+became the first drug approved for use in patients refractory to H1antihistamines.°°
+
+Omalizumab (Xolair®, Novartis, Switzerland) is a monoclonal
+humanized IgG antibody that attaches to unbound IgE and prevents
+its attachment with the high or low-affinity receptors (FceRI and
+FceRII) on mast cells, basophils, eosinophils and lymphocytes. Thus
+it causes a decrease in free IgE levels and a down-regulation of
+receptors on cell membranes.’ Its mechanism of action in CSU is not
+fully understood. As a modification of allergic response is not aimed
+at it is in asthma, a fixed dose of the therapy is recommended. Even
+though the doses may differ among centers, the evidence-based
+highest efficient dose is 300 mg/4 weeks.°?
+
+Most previous studies including real life data are based on drug
+efficacy. Knowledge on the optimal duration of treatment and
+
+1323-8930/Copyright © 2017, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+
+licenses/by-nc-nd/4.0/).
+
+ 
+
+ 
+
+Please cite this article in press as: Tiirk M, et al., Treatment and retreatment with omalizumab in chronic spontaneous urticaria: Real life
+experience with twenty-five patients, Allergology International (2017), http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+ 
+
+ 
+2 M. Tiirk et al. / Allergology International xxx (2017) 1-5
+
+management after therapy discontinuation are not clear. Data on
+the possible effective factors on treatment response, relapse rates
+and retreatment efficacy are very limited. Thus in this study we
+aimed to establish efficacy of omalizumab in CSU refractory to
+conventional therapy, to identify factors that may be effective on
+therapeutic response and relapse, and to evaluate the efficacy of
+retreatment in relapsed cases.
+
+Methods
+
+This single-centered retrospective study evaluated the data of
+patients diagnosed with CSU that were treated with omalizumab
+from 2013 to 2016. The center is located within the university
+hospital and it is the only reference allergy-clinical immunology
+clinic in the city and the surrounding region.
+
+Patients who were treated with omalizumab without any break
+for at least 3 months were included. Omalizumab was administered
+300 mg/4 weeks to every patient at the outpatient clinic under
+surveillance. Concomitant medications were adjusted at monthly
+controls according to the clinical response. The baseline and followup concomitant medication scores (CMS) of patients were calculated retrospectively. Symptom scores were obtained from patient
+charts.
+
+The CMS of patients were calculated in a similar way to previous
+studies: antihistamines (regular dose, 2 points; 4 times the regular
+dose, 8 points), oral glucocorticoids (<11 mg, 5 points; 11—25 mg,
+10 points; >25 mg, 15 points), cyclosporine 3.0 mg/kg (8 points),
+hydroxychloroquine (6 points) and montelukast (2 points).'°
+Therapeutic efficacy was evaluated by urticaria activity score
+(UAS). According to this, at their monthly follow-up, patients were
+asked to score their symptoms categorically as wheals (none:
+0 points, <20 wheals: 1 points, 20—50 wheals: 2 points, >50
+wheals: 3 points) and pruritus (none: 0 point, mild: 1 point,
+moderate: 2 points, severe: 3 points), making up O—G points in
+total.?"!
+
+According to the responses to omalizumab, patients were
+grouped as follows: complete responders (UAS = 0 and no increase
+in symptoms during follow-up), partial responders (UAS = 1-4),
+and non-responders (UAS > 5 or gradually increasing UAS at
+follow-up). The patient characteristics of the complete and partial
+control groups were compared.
+
+In all patients with complete or partial response, discontinuation of omalizumab was tried at a time after 6 months. Retreatment
+was initiated if the recurred disease couldn't be controlled with
+concomitant medications. The characteristics of patients who were
+symptomatic and asymptomatic after discontinuation of omalizumab were compared. At the time of the study, 4 patients had not
+completed their 6 month-therapy and 1 patient was resistant to all
+therapies. Therapy discontinuation was not tried in these 5 patients
+and they were excluded from that comparison. Study design is
+summarized in Figure 1. Data related to other possible triggers and
+comorbidities such as serum total IgE, phadiatop and sIgE for food
+mix, vitamin B12, thyroid autoantibodies, eosinophil counts,
+rheumatological markers, fecal Helicobacter pylori antigen, C-reactive protein (CRP), erythroid sedimentation rate (ESR), antiendomysium and anti-gliadin autoantibodies were recorded
+retrospectively. Possible effects of these variables on clinical
+response were evaluated.
+
+Statistical analysis
+
+Data were analyzed using SPSS 17.0 (SPSS, Inc., Chicago, IL, USA).
+Parameters were expressed as median (25—75 interquartile range;
+IQR) unless stated otherwise. Chi-square, Mann—Whitney U and
+repeated measures ANOVA tests were used for comparing variables.
+
+ 
+
+ 
+
+Table 1
+Patient characteristics.
+Variables (N = 25) Median (IQR)
+Age 39 (31.8—49)
+Female gender; n (%) 18 (72)
+Comorbidities; n (%)
+Hypothyroidism 5 (20)
+Asthma 4 (16)
+Diabetes mellitus 2 (8)
+Rheumatologic disorders 1 (4)
+CRP; mg/L 3.4 (3.3-11.2)
+Eosinophil count; % 1.7 (0.9—2.8)
+Eosinophil count; cells/mL 130 (79-195)
+Total IgE; IU/mL 226 (56-340)
+ESR; mm/h 10 (4-20)
+ANA positivity; n (%) 6 (24)
+Phadiotop positivity; n (%) 9 (36)
+
+ 
+
+Food mix positivity; n (%) 1(4)
+
+ 
+
+IgG anti-TPO positivity; n (%) 7 (28)
+IgG anti-Tg positivity; n (%) 3 (12)
+Anti-endomysium positivity; n (n = 10) t)
+AGA-IgG positivity; n(n = 10) 1
+AGA-IgA positivity; n(n = 10) 1
+Fecal H. Pylori antigen positivity; n (n = 21) 11
+
+ 
+
+IQR, Interquartile range; CRP, C-reactive protein; ESR, erythrocyte sedimentation
+rate; ANA, Anti-nuclear antibody; TPO, Thyroid peroxidase; Tg, Thyroglobulin; AGA,
+Anti-gliadin antibody.
+
+Results
+
+Patient characteristics are listed in Table 1. The majority of patients were female (72%), young and had few comorbidities. IgE
+levels prior to therapy were slightly high. Seven patients (28%) were
+positive for anti thyroid peroxidase (IgG-anti-TPO) and 3 (12%)
+were positive for anti thyroglobulin (anti-Tg) autoantibodies. Six
+patients (24%) had anti-nuclear antibody (ANA), one of them also
+had SS-A and SS-B positivity. Nine patients (36%) were positive for
+at least one of ANA, IgG-anti-TPO and IgG-anti-Tg antibodies. Fecal
+H. pylori antigen was positive in 11 patients.
+
+Median time from appearance of urticaria symptoms to omalizumab therapy was 44 (15—72) months. Baseline median CMS was
+13 (10—15) and UAS was 6 (5.5—6). At the third and sixth months
+CMS and UAS had decreased to 2 (0O—6) and 1 (0-1), respectively
+(Table 2).
+
+During the first three months, all patients had improved CMS
+and UAS. After three months, 2 patients experienced worsened
+symptoms and increased need for concomitant medication. They
+were accepted as non-responders and omalizumab therapy was
+discontinued after the 6th month and 10th month. One patient's
+prior systemic steroid and cyclosporine treatments were stopped
+until the 3rd month, but systemic steroid therapy was restarted due
+to symptomatic worsening. However, since the symptoms were still
+better than they were before omalizumab treatment, she was
+accepted as a partial-responder and continued omalizumab treatment. The data of these three patients are given in Table 3.
+
+Fourteen (58%) patients had complete response at the end of
+their therapies. At the 3rd month, 8 patients (32%) had complete
+response. None of these complete-responders had IgG-anti-TPO
+autoantibody positivity when compared to partial-responders
+(p = 0.058). The time from first symptoms to omalizumab therapy was also markedly shorter in complete responders; however,
+the difference was not statistically significant [22 (7-51) months
+and 47 (18—80) months, respectively, p = 0.12]. Relapse ratios did
+not differ significantly between these two groups (p = 0.63)
+(Table 4). Fecal H. pylori antigen, phadiatop, ANA and IgG anti-Tg
+positivity, and CRP levels also did not differ between these
+groups. Non-responders were not included in statistical analyses
+since the number of patients was very low (n = 2).
+
+ 
+
+ 
+
+ 
+
+Please cite this article in press as: Tiirk M, et al., Treatment and retreatment with omalizumab in chronic spontaneous urticaria: Real life
+experience with twenty-five patients, Allergology International (2017), http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+ 
+
+ 
+M. Tiirk et al. / Allergology International xxx (2017) 1-5 3
+
+     
+
+Total 25 patients treated
+with omalizumab
+
+ 
+
+ 
+  
+ 
+
+Non-responders, n=2
+
+  
+
+Non-relapsed disease, n=7
+
+Complete responders, n=8
+
+Discontinuation of omalizumab, n=18
+
+Partial-responders, n=15
+
+Discontinuation was not tried due to:
+Resistance to all therapies ,n=1
+Had not completed 6-month therapy, n=4
+
+ 
+   
+
+ 
+
+ 
+
+Reinitiation, n=10
+
+Relapsed disease, n=11
+
+  
+   
+ 
+       
+
+Controlled with anti-histamines, n=1
+
+Fig. 1. Scheme of study design.
+
+ 
+
+Table 2
+
+Therapy management and overall responses to omalizumab treatment.
+Variables Median (IQR)
+Initial therapy period; months 6 (6-12)
+Discontinuation of omalizumab; n (%) 20 (80)
+Relapse after omalizumab discontinuation; n (%), n = 18' 1 (61)
+Retreatment with omalizumab; n (%), n = 18° 10 (56)
+
+Baseline 3rd month 6th month 9th month Pp
+n=25 n=25 n=21 n=10
+CMS  13(10-15) 2(0-6) 2 (0-6) 3 (0-7.3) <0.001
+UAS 6 (5.5—6) 1 (0-2) 1 (0-2) 1 (0-1.3) <0.001
+
+IQR, Interquartile range; CMS, Concomitant medication score; UAS, Urticaria activity
+score.
++ Non-responders are not included.
+
+Eleven patients experienced relapse and omalizumab was
+restarted in 10 of them since other medications were not effective
+enough. After the reinitiation of omalizumab, 5 of these patients
+had complete response and 5 had partial response (therapy duration changing between 1 and 5 months). Seven patients achieved
+remission after discontinuation. Time from the last omalizumab
+dose was a minimum of 8 weeks and a maximum of 18 months for
+these patients. When relapsed and non-relapsed patients were
+compared, ANA was negative in all non-relapsed patients but 4 of
+11 patients with relapse had positive ANA titers (p = 0.12) (Table 5).
+Distribution of genders, CRP levels, and fecal H. pylori antigen and
+phadiatop positivity were found similar between relapsed and nonrelapsed patients. Omalizumab was well-tolerated in all patients
+and no drug induced adverse effects were recorded.
+
+Discussion
+This study shows the high efficacy and tolerability of omalizu
+mab therapy in CSU patients refractory to combinations of high
+dose non-sedating H1-antihistamines combined with montelukast,
+
+systemic steroids or cyclosporine. Fifty-eight percent of patients
+had complete response at the end of their therapies. After therapy
+was discontinued at the 6th month, 11 patients (61%) experienced
+relapse and 10 of them (91%) received retreatment with omalizumab since they had become refractory to other medications. After
+reinitiation, half of these patients had complete and half had partial
+response in 1—5 months.
+
+The mechanism of action of omalizumab in CSU remains unclear. Even though a rapid clinical response from the very first day
+of administration has been shown, relapses after discontinuation
+suggest that the drug acts through a different mechanism than
+modifying the underlying disease.'? One of the possible mechanisms is the presence of autoimmunity in these patients. An IgG
+against FceRI or IgE, IgE against TPO or IgE against an unidentified
+autoantigen are considered to be effective in the pathogenesis.'*
+Nevertheless, at present no autoantibody alone can explain the
+whole pathogenesis. Even though the mechanism of action is not
+clear, the clinical efficacy of the drug in CSU has been shown in
+several placebo-controlled studies and studies presenting real life
+data.°'°'*~” Similarly, in our study, 32% of patients had complete
+and 60% had partial-response at the 3rd month. Only 2 patients
+were non-responders to omalizumab. A total of 513 flacons of the
+drug were administered and no drug-related systemic adverse effect was reported. Two previous studies on the therapeutic responses of CSU patients reported complete response rates at the
+end of treatment as 35.7% (5/14 patients) and 61.5% (8/13 patients).'*'° In a study of 68 CSU patients, Sussman et al. found that
+the complete response rate at any time during treatment was 69%.
+In the same study, treatment was discontinued in 5 patients since
+they became refractory to therapy.'° Our data show the high efficacy of 300 mg/month omalizumab in CSU. Since its mechanism o:
+action in CSU is not fully understood, which group of patients
+would most likely have a better response cannot be predicted.
+When evaluating factors on treatment response, Altrichter et al.
+found that patients with IgE-anti-TPO autoantibodies responde
+
+ 
+
+ 
+
+Please cite this article in press as: Tiirk M, et al., Treatment and retreatment with omalizumab in chronic spontaneous urticaria: Real life
+experience with twenty-five patients, Allergology International (2017), http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+ 
+
+ 
+4 M. Tiirk et al. / Allergology International xxx (2017) 1-5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 3
+Concomitant medications and treatment responses of non-responders (Number 1 and 3), and a partial responder patient who had high resistance to all therapies (Number 2).
+Baseline 3 6 9 10 12 15
+1 UAS 6 5 3 NA 5 Early clinical response was lost
+CMS 13 9 11 NA 15 after 9th month. Omalizumab
+was discontinued and cyclosporine
+was prescribed.
+CM AH4x1, AH2~x 1, AH2x1, NA AH4 x 1,
+DKT4mg DKT4mg ML, DKT ML, DKT 4 mg
+4mg
+2 UAS 6 2 3 2 2 2 2 Omalizumab was continued because
+CMS 18 4 8 11 11 13 11 of previous non responsiveness to
+CM AH4x1, AH1x1,ML AH4x1 AH 3 x 1, AH3 x 1, AH3 x 1, AH2 x 1, high dose systemic steroid and
+ML, CYC MPRD 8 mg MPRD 8 mg ML, MPRD 8mg ML,MPRD4mg__ cyclosporine therapies.
+3 UAS 4 3 5 Steroid and cyclosporine were not
+CMS 8 6 8 prescribed previously due to patient's
+CM AH4x1 AH3x1 AH4x1 age (60), DM and HT history. Initially
+
+partial responder to omalizumab, then
+became non-responder and therapy
+discontinued with joint decision.
+
+UAS, Urticaria activity score; CMS, Concomitant medication score; CM, Concomitant medications (AH, antihistamines; ML, montelukast; MPRD, methyl prednisolone; DKT,
+
+deflazacort; CYC, cyclosporine); HT, Hypertension; DM, Diabetes mellitus.
+
+ 
+
+ 
+
+ 
+
+Table 4 Table 5
+Comparison of patients with different responses after 3 months of omalizumab Comparison of relapsed and non-relapsed patients after omalizumab
+therapy. discontinuation.
+Variables Partial-responders Complete-responders p Variables Non-relapsed Relapsed p
+n=15 n=8 n=7 n=11
+Female gender; n (%) 11 (73) 5 (63) 0.59 Age 39 (33-43) 38 (31-47) 0.82
+Age 38 (30-48) 40.5 (34-54) 0.52 Eosinophil count; cells/mL 170 (120-190) 160 (68-233) 0.68
+Eosinophil count; cells/mL 130(100-190) 79 (60-185) 0.29 Total IgE; IU/mL 101 (37-308) 229 (54-371) 0.62
+Total IgE; Ul/mL 134.5 (38-275) 245 (91-393) 0.36 IgG anti-TPO positivity; n (%) 2 (29) 4 (36) 1
+IgG anti-TPO positivity; 6 (40) i) 0.058 ANA positivity; n (%) i) 4 (36) 0.12
+n(%) Time from diagnosis to 43 (12-53) 68 (17-88) 0.26
+Time from diagnosis to 47 (18-80) 22 (7-51) 0.12 omalizumab therapy; months
+omalizumab therapy; Duration of initial therapy; 6 (6-9) 8.5 (6-14) 0.32
+months months
+Duration of initial therapy; 8 (6—12) 6 (3.8-8.3) 0.2 Baseline CMS 1 (10-13) 13 (10-13) 0.43
+months 3rd month CMS 2 (0-4) 3 (0.5—5.5) 0.64
+Baseline CMS 3 (10-15) 13 (10.3-13) 0.45 Baseline UAS 6 (5-6) 6 0.62
+3rd month CMS 4 (2-6) 0 <0.001 3rd month UAS 1 (0-2) 2 (0-3) 0.33
+Baseline Uae g (62-8) O05 TPO, Thyroid peroxidase; ANA, Anti-nuclear antibody; CMS, Concomitant medicatd month UAS 222) Q 50.00) tion score; UAS, Urticaria activity score.
+Increased/stable symptoms 8/4 3/3 0.63 a , °
+
+after discontinuation of
+therapy (n = 18)
+
+TPO, Thyroid peroxidase; CMS, Concomitant medication score; UAS, Urticaria activity score.
+
+better to omalizumab and these patients also had markedly high
+levels of IgG-anti-TPO antibodies.'® This study also showed IgEanti-TPO positivity in 54% of CSU patients. Thirty-six percent of
+our patients were also positive for at least one type of IgG type
+autoantibody. Interestingly, none of the complete responders had
+IgG-anti-TPO positivity. Our results do not corroborate those of
+Altricher et al.; however, since our sample size was too small to
+prove this hypothesis, future studies are needed to assess whether
+this subset of patients has better response to omalizumab.
+
+The optimum duration of therapy and management of recurrent
+symptoms after discontinuation of omalizumab are still on debate.
+Previous studies reported a significant increase in symptoms after
+therapy.” In a study in which patients were followed up after
+omalizumab discontinuation, symptom scores increased up to 40
+weeks but they never reached the baseline values.'? In another
+study which evaluated omalizumab retreatment efficacy, which
+only included omalizumab reinitiated patients, Metz et al.
+demonstrated early relapse (2—8 weeks) in 23 and late relapse (4—7
+months) in 2 of 25 CSU patients whose treatment was discontinued
+due to complete response.”° All of these patients had a rapid and
+complete response from the very first dose after reinitiation. In a
+
+series of 51 CSU patients by the same researchers, after omalizumab
+therapy was discontinued, 12% of patients achieved complete
+remission in the 4—16 months follow-up period.” In our study,
+after omalizumab discontinuation, 11 patients (61%) reported
+worsened symptoms and 10 of them had to be retreated with
+omalizumab since they were refractory to high dose H1antihistamines and steroids. There are two possible explanations
+for the difference between our and Metz et al.'s relapse ratios. First
+of all, our study included an isolated patient group with CSU,
+whereas the previous study included both CSU and inducible urticaria patients. Secondly, in our study, at least 8 weeks had passed
+from the last dose of omalizumab in symptom-free patients; even
+so, any symptom that may develop during the long-term follow-up
+of these patients may change the results. Thus we may suggest that
+in this group of patients, the early symptom-free period may be
+misleading and long-term follow-up is needed.
+
+Since omalizumab acts through IgE, better response rates can be
+expected in patients with higher baseline total IgE levels. Kessel
+et al. showed a significant association between increased total IgE
+levels and disease severity.” Also, free IgE decrease was shown to
+be correlated with symptomatic reduction under omalizumab
+therapy.'’ In our study, total IgE levels of complete responders
+and relapsed patients were almost two-fold higher than partia
+responders and non-relapsed patients, respectively, but, this
+
+ 
+
+ 
+
+Please cite this article in press as: Tiirk M, et al., Treatment and retreatment with omalizumab in chronic spontaneous urticaria: Real life
+experience with twenty-five patients, Allergology International (2017), http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+ 
+
+ 
+M. Tiirk et al. / Allergology International xxx (2017) 1-5 5
+
+difference was not statistically significant. We ascribed this to our
+study's small sample.
+
+Interestingly, some partial-responders had complete response
+after reinitiation, while some complete-responders had partial
+response later. Based on these data, despite our small sample size,
+we may argue that reinitiation of omalizumab may be a safe option
+with variable efficacy.
+
+Finally, all non-relapsed patients were negative for ANA, but not
+for IgG-anti-TPO. This finding was not statistically significant when
+compared with relapsed patients; however, it may have clinical
+importance. In a large population study which compares ANA(+)
+and ANA(-—) CSU patients, ANA(+) patients were found to be more
+refractory to antihistamine therapy and needed four-fold standard
+licensed dose more.’ Also, after 2 months of standard licensed dose
+antihistamines, complete freedom from symptoms was reported to
+be higher in ANA(—) patients (61.7% vs 49.5%; p = 0.035). Similarly,
+Viswanathan et al. showed that the percentage of patients who were
+refractory to antihistamines was higher in ANA(+) CSU patients.”*
+Though speculative, ANA positivity may be a possible marker for
+omalizumab resistance and relapses after discontinuation.
+
+In conclusion, omalizumab seems to be an effective option for
+patients with refractory CSU. It is highly efficient in relapsed patients who previously responded well. Autoimmune markers may
+be helpful in predicting treatment responses and relapse and
+identifying the pathophysiology and possible subtypes of the disease may guide therapeutic decisions.
+
+Conflict of interest
+The authors have no conflict of interest to declare.
+
+Authors’ contributions
+
+MT, SNB and IY designed the study. MT and SNB collected data. MT and IY drafted
+the manuscript. MT performed the statistical analysis. MT, SNB and IY contributed to
+interpretation of the results. IY made the critical review. All authors read and
+approved the final manuscript.
+
+References
+
+1. Toubi E, Kessel A, Avshovich N, Bamberger E, Sabo E, Nusem D, et al. Clinical
+and laboratory parameters in predicting chronic urticaria duration: a prospective study of 139 patients. Allergy 2004;59:869—73.
+
+2. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA2LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis, and management of urticaria: the 2013 revision and update. Allergy
+2014;69:868—87.
+
+3. Kaplan AP. Treatment of chronic spontaneous urticaria. Allergy Asthma Immunol
+Res 2012;4:326—31.
+
+4. Kulthanan K, Tuchinda P, Chularojanamontri L, Chanyachailert P, Korkij W,
+Chunharas A, et al. Clinical practice guideline for diagnosis and management of
+urticaria. Asian Pac J Allergy Immunol 2016;34:190—200.
+
+5. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al. The diagnosis
+and management of acute and chronic urticaria: 2014 update. J Allergy Clin
+Immunol 2014;133:1270—7.
+
+6. Goldenberg MM. Pharmaceutical approval update. P T 2014;39:415—23.
+
+7. Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential
+pharmacologic mechanisms of omalizumab in patients with chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:337—42.
+
+8. Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Biilbiil Baskan E, Bradley MS,
+et al. Efficacy and safety of omalizumab in patients with chronic idiopathic/
+spontaneous urticaria who remain symptomatic on H1-antihistamines: a randomized, placebo-controlled study. J Invest Dermatol 2015;135:67—75.
+
+9. Maurer M, Rosén K, Hsieh HJ, Saini S, Grattan C, Gimenéz-Arnau A, et al.
+Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria.
+N Engl J Med 2013;368:924—35.
+
+10. Sussman G, Hébert J, Barron C, Bian J, Caron-Guay RM, Laflamme §, et al. Reallife experiences with omalizumab for the treatment of chronic urticaria. Ann
+Allergy Asthma Immunol 2014;112:170—4.
+
+11. Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M.
+How to assess disease activity in patients with chronic urticaria? Allergy
+2008;63:777—80.
+
+12. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: what we know and what we do not know.
+J Allergy Clin Immunol 2016. http://dx.doi.org/10.1016/j.jaci.2016.08.050.
+
+13. Kaplan AP, Giménez-Arnau AM, Saini SS. Mechanisms of action that contribute
+to efficacy of omalizumab in chronic spontaneous urticaria. Allergy 2017;72:
+519-33,
+
+14. Bongiorno MR, Crimi N, Corrao S, Allotta A, Arena A, Brusca I, et al. Omalizumab
+for the treatment of chronic spontaneous urticaria in clinical practice. Ann
+Allergy Asthma Immunol 2016;117:703—7.
+
+15. Biiyiikoztiirk S, Gelincik A, Demirtiirk M, Kocaturk E, Colakoglu B, Dal M.
+Omalizumab markedly improves urticaria activity scores and quality of life
+scores in chronic spontaneous urticaria patients: a real life survey. J Dermatol
+2012;39:439—42.
+
+16. Kulthanan K, Tuchinda P, Chularojanamontri L, Likitwattananurak C,
+Ungaksornpairote C. Omalizumab therapy for treatment of recalcitrant
+chronic spontaneous urticaria in an Asian population. J Dermatol Treat
+2017;28:160—5.
+
+17. Silva PM, Costa AC, Mendes A, Barbosa MP. Long-term efficacy of omalizumab
+in seven patients with treatment-resistant chronic spontaneous urticaria.
+Allergol Immunopathol 2015;43:168—73.
+
+18. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy against thyroid peroxidase — a novel pathomechanism of
+chronic spontaneous urticaria? PLoS One 2011;6:e14794.
+
+19. Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al. Omalizumab
+in patients with symptomatic chronic idiopathic/spontaneous urticaria despite
+standard combination. J Allergy Clin Immunol 2013;132:101—9.
+
+20. Metz M, Ohanyan T, Church MK, Maurer M. Retreatment with omalizumab
+results in rapid remission in chronic spontaneous and inducible urticaria. JAMA
+Dermatol 2014;150:288—90.
+
+21. Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an effective and
+rapidly acting therapy in difficult-to-treat chronic urticaria: a retrospective
+clinical analysis. J Dermatol Sci 2014;73:57—62.
+
+22. Kessel A, Helou W, Bamberger E, Sabo E, Nusem D, Panassof J, et al. Elevated
+serum total IgE—a potential marker for severe chronic urticaria. Int Arch Allergy
+Immunol 2010;153:288—93.
+
+23. Magen E, Waitman DA, Dickstein Y, Davidovich V, Kahan NR. Clinical-laboratory characteristics of ANA-positive chronic idiopathic urticaria. Allergy Asthma
+Proc 2015;36:138—44,
+
+24. Viswanathan RK, Biagtan MJ, Mathur SK. The role of autoimmune testing in
+chronic idiopathic urticaria. Ann Allergy Asthma Immunol 2012;108:337—41.
+
+ 
+
+ 
+
+Please cite this article in press as: Tiirk M, et al., Treatment and retreatment with omalizumab in chronic spontaneous urticaria: Real life
+experience with twenty-five patients, Allergology International (2017), http://dx.doi.org/10.1016/j.alit.2017.05.003
+
+ 
+
+ 
+

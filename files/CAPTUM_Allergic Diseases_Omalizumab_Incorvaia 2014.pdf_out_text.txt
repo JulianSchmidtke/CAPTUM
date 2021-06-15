@@ -1,0 +1,1544 @@
+Drug Design, Development and Therapy
+
+3
+
+Dove
+
+REVIEW
+
+Omalizumab, an anti-immunoglobulin E antibody:
+
+state of the art
+
+Cristoforo Incorvaia!'
+Marina Mauro?
+Marina Russello
+Chiara Formigoni?
+Gian Galeazzo RiarioSforza!
+
+Erminia Ridolo*
+
+'Allergy/Pulmonary Rehabilitation,
+Istituti Clinici di Perfezionamento
+Hospital, Milan, Italy; *Allergy Unit,
+3Scientific Library, Sant’Anna Hospital,
+Como, Italy; Department of Clinical
+and Experimental Medicine, University
+of Parma, Parma, Italy
+
+ 
+
+Correspondence: Cristoforo Incorvaia
+Allergy/Pulmonary Rehabilitation, ICP
+Hospital, Via Bignami |, 20126 Milan, Italy
+Tel +39 02 5799 3289
+
+Fax +39 02 5799 3759
+
+Email cristoforo.incorvaia@gmail.com
+
+This article was published in the following Dove Press journal:
+Drug Design, Development and Therapy
+
+7 February 2014
+
+Number of times this article has been viewed
+
+ 
+
+ 
+
+Abstract: A large number of trials show that the anti-immunoglobulin (Ig) E antibody omalizumab
+is very effective in patients with severe allergic asthma. This is acknowledged in consensus documents. The drug also has a good safety profile and a pharmacoeconomic advantage due to a
+reduction in the number of hospitalizations for asthma attacks. In recent years, some studies have
+shown that omalizumab is effective also in nonallergic asthma. Effects on the complex signaling
+mechanisms leading to activation of effector cells and to mediator release may account for this
+outcome. Indeed, omalizumab has been reported to be effective in a number of IgE-mediated
+and non-IgE-mediated disorders. Concerning the former, clinical efficacy has been observed in
+rhinitis, allergic bronchopulmonary aspergillosis, latex allergy, atopic dermatitis, allergic urticaria,
+and anaphylaxis. In addition, omalizumab has been demonstrated to be able to prevent systemic
+reactions to allergen immunotherapy, thus enabling completion of treatment in patients who
+otherwise would have to stop it. Concerning non-IgE-mediated disorders, omalizumab has been
+reported to be effective in nasal polyposis, autoimmune urticaria, chronic idiopathic urticaria,
+physical urticaria, idiopathic angioedema, and mastocytosis. Current indications for treatment
+with omalizumab are confined to severe allergic asthma. Consequently, any other prescription can
+only be off-label. However, it is reasonable to expect that the use of omalizumab will be approved
+for particularly important indications, such as anaphylaxis, in the near future.
+
+Keywords: hypersensitivity, immunoglobulin E, anti-IgE, omalizumab, asthma, atopic dermatitis, anaphylaxis, urticaria, mastocytosis
+
+ 
+
+Introduction
+
+Among the human antibodies, the immunoglobulin E (IgE) antibodies were the last
+class to be discovered, due to their very low blood concentrations.' Soon after their
+discovery, an in vitro test was introduced for measuring IgE that helped greatly to
+improve our understanding of allergic disease.’
+
+IgE plays a central role in the pathophysiology of allergic disease. Once IgE reaches
+the bloodstream, it binds to the high-affinity IgE receptor (FceRI) on the surface of
+mast cells and basophils and, upon contact with a specific allergen, induces the release
+of pharmacologically active mediators stored in the granules of these cells, resulting
+in clinical manifestations of type I hypersensitivity.’ The ability to treat IgE-mediated
+diseases with an anti-IgE antibody was theorized back in the 1970s with the experiments
+of Kohler and Milstein.* However, it took a long time to overcome the problems preventing use of anti-IgE antibodies in allergic subjects, such as humanization (from
+prototype mouse antibody), removal of anaphylactogenic potential (anti-IgE sera were
+used for decades to study the release of mediators of anaphylaxis from mast cells and
+
+ 
+
+submit your manuscript
+Dove
+
+http:
+
+Drug Design, Development and Therapy 2014:8 197-207 197
+
+CL® Ss) © 2014 Incorvaia et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution — Non Commercial (unported, v3.0)
+
+S—eeervamrrcam License. The fll terms of the License are available at hitp://creatvecommons.rglicensesby-nc/3.0/, Non-commercial uses ofthe work are permitted without any further
+permission from Dove Medical Press Limited, provided the work is properly attributed, Permissions beyond the scope ofthe License are administered by Dove Medical Press Limited. Information on
+how to request permission may be found at: http://w dovepress.com/permisions php
+Incorvaia et al
+
+Dove;
+
+ 
+
+basophils in vitro), and the risk of parasitic infections. The
+biological agent known as omalizumab finally proved to possess adequate characteristics for use in IgE-mediated allergies*® as a result of its particular mechanism of action. This
+mechanism can be summarized as follows: binding to free
+IgE, thus reducing cell-bound IgE; reduction in high affinity
+FceRI receptors; reduction in mediator release; and reduction
+in allergic inflammation (Figures | and 2). The ideal condition
+for treatment with omalizumab is severe allergic asthma not
+controlled by conventional drug treatment at doses ranging
+from a minimum of 75 mg up to 600 mg (1-4 injections)
+every 2 weeks, according to total IgE levels, which must
+not exceed 600 IU/mL and actually range between 30 and
+1,500 IU/mL. Recently, the drug has been approved for
+therapeutic use in children aged 6-12 years. Adult and
+adolescent patients with IgE below 76 IU/mL and children
+with IgE below 200 IU/mL must have reactivity (RAST) to
+a perennial allergen before starting therapy (Tables 1-3). At
+the recommended dosage, omalizumab achieved a significant reduction in free IgE within 24 to 48 hours of the first
+subcutaneous administration and a significant reduction in
+clinical symptoms within a week.’ A large number of controlled studies have demonstrated the efficacy and safety of
+omalizumab in allergic asthma. The present review assesses
+further studies of omalizumab in asthma and new indications,
+including nonallergic disorders.
+
+Regarding safety, the therapeutic use of omalizumab in
+clinical practice was at first restricted on account of the risk
+of anaphylactic reactions. This risk has been considerably
+reduced both by the introduction of a ready-to-use solution
+formulation of the drug and by experience following the
+
+ 
+
+Figure | Omalizumab inhibits more than 96% of immunoglobulin E (IgE) from
+binding to the high affinity receptor FceRI on mast cells and basophils.
+
+increase in exposed patient populations within the context of
+clinical studies and post-marketing surveillance initiatives.
+
+A study® analyzed the safety of omalizumab using
+data from completed clinical studies involving more than
+7,500 patients with asthma, rhinitis, or related conditions
+treated for up to one year and data from a study of patients
+with severe allergic asthma treated for up to 4 years, as well
+as post-marketing safety data for omalizumab. The drug
+showed a good safety and tolerability profile. The incidence
+of anaphylaxis was 0.14% in omalizumab-treated patients
+and 0.07% in control patients. Post-marketing data, based
+on estimated exposure of 57,300 patients (June 2003 to
+December 2006), showed that the frequency of anaphylaxis
+attributed to omalizumab use was estimated to be at least
+0.2%. The incidence of anaphylaxis in the controlled studies
+(investigator-reported) was rare (omalizumab 0.14% versus
+control 0.07%).
+
+This rate is similar to the incidence of anaphylactic
+reactions for other drugs, such as oral penicillins, aspirin,
+and nonsteroidal anti-inflammatory drugs,’ as well as to
+the incidence and prevalence of anaphylaxis reported in the
+general omalizumab-free population (about 0.05%-2%).!°"?
+Post-marketing data have also highlighted that anaphylaxis
+may occur not only after first administration of omalizumab, but also after subsequent administrations and after
+longer post-administration periods than those monitored in
+clinical trials.°
+
+At present, the most interesting aspect is the high number of publications reporting the efficacy of omalizumab
+in a number of different diseases, including, unexpectedly,
+diseases that hitherto have been considered to be non-IgEmediated. This phenomenon is such that there is a current
+
+ 
+
+trend of using omalizumab as a probe to assess the role of
+IgE in human disease.'* However, it must be taken into
+account that the identification of new therapeutic activity
+for omalizumab does not allow its therapeutic use in that
+specific condition (except off-label usage), because the only
+approved indication at this time is severe perennial allergic
+asthma not controlled by conventional therapy.
+
+Omalizumab in asthma
+
+In 2006, a systematic Cochrane review analyzed the efficacy
+of omalizumab in allergic asthma based on data obtained
+from 14 placebo-controlled studies including a total of
+3,143 patients. The results led the authors to draw the conclusion that omalizumab is effective. A significant number of
+patients were able to reduce their dose of inhaled steroids,
+which are the mainstay of asthma therapy, by more than 50%
+
+ 
+
+submit your manuscript
+
+198
+
+Dove;
+
+Drug Design, Development and Therapy 2014:8
+Dovepress
+
+Anti-IgE antibody omalizumab
+
+ 
+
+B lymphocyte Plasma cell
+
+Bronchoconstriction
+Exacerbation
+
+Improves
+allergic symptoms
+Flare Mexeanle) ter ite ary
+
+Figure 2 Mechanism of action of omalizumab.
+Abbreviation: IgE, immunoglobulin E.
+
+or even discontinue them completely, with an odds ratio of
+2.50 in both cases.'* Other trials were conducted in recent
+years and confirmed that omalizumab improves symptom
+control, reducing the frequency of asthma exacerbations
+and the need to use high doses of inhaled corticosteroids,
+thus fulfilling an important need in patients with moderate
+to severe asthma.' In particular, a recent trial by Busse et al
+demonstrated that omalizumab significantly reduces disease
+exacerbations and hospitalizations compared with placebo
+in inner city children with asthma.'*
+
+Useful information in terms of current practice is also
+provided by real-life studies, which are certainly different from the environment of controlled trials. A Belgian
+study of 158 asthmatic patients with frequent symptoms
+
+Table | Conversion from dose to number of vials, number of
+injections and total injection volume for each administration
+
+ 
+
+Dose Number of vials Number of Total injection
+(mg) 75 mg* 150 mg _ injections volume (mL)
+75 Is 0 I 0.6
+
+150 0 I I 1.2
+
+225 Ir I 2 1.8
+
+300 0 2 2. 24
+
+375 Is 2 3 3.0
+
+450 0 3 3 3.6
+
+525 Is 3 4 42
+
+600 0 4 4 48
+
+ 
+
+Notes: °0.6 mL =maximum delivered volume per vial (Xolair 75 mg).
+°1.2 mL =maximum delivered volume per vial (Xolair 150 mg). “Or use 0.6 mL from
+a 150 mg vial.
+
+Allergic
+rhinoconjunctivitis “ inflammation
+
+ 
+
+Reduces WES cells
+cell-bound ; Basophils
+IgE Activated monocytes
+Eosinophils
+Epithelial cells
+Dendritic cells
+
+Reduces
+high-affinity
+receptors
+
+Allergens
++ Pollen
+
++ Dander
+*HDM
+
+Reduces
+allergic
+inflammation releas terony
+
+HDM (Ce
+
+and exacerbations in the previous year, despite treatment
+with high doses of inhaled corticosteroids and long-acting
+B2-agonists, showed that treatment with omalizumab
+was associated with an absence of exacerbations in
+more than 65% of patients after one year, as well with
+improved quality of life in 84% of patients.'? The clinical benefit in real-life conditions, including a significant
+reduction in emergency department visits and hospitalizations, was confirmed in recent studies in adults'*?° and
+children.”!
+
+Further progress was made by conducting a placebocontrolled trial in 41 adult patients with severe, nonatopic,
+refractory asthma despite optimal treatment. The change
+in FceRI expression on blood basophils and plasmacytoid
+dendritic cells was evaluated after 16 weeks, along with
+the impact of omalizumab on lung function and clinical
+variables. Compared with placebo, treatment with omalizumab resulted in a statistically significant reduction in
+FceRI expression on basophils and plasmacytoid dendritic
+cells (P<0.001) and an overall increase in forced expiratory
+volume in one second compared with baseline. The authors
+concluded that omalizumab regulates FceRI expression
+negatively in patients with severe nonatopic asthma, as it
+does in severe atopic asthma.” This accounts for a possible
+role of IgE in nonatopic asthma. A potential explanation for
+this outcome was provided by Barnes, who suggested that
+asthmatic inflammation, which is characterized by a predominance of Th2 lymphocytes with the related cytokine profile,
+
+ 
+
+Drug Design, Development and Therapy 2014:8
+
+submit your manuscript
+
+199
+
+Dovepr
+Incorvaia et al
+
+Dove;
+
+ 
+
+Table 2 Administration every 4 weeks
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Body weight (kg)
+Baseline
+IgE >90- > 125(IU/mL) >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150
+230-100 75 75 75 150 150 150 150 150 300 300
+>100-200 150 150 150 300 300 300 300 300 450 600
+>200-300 150 150 225 300 300 450 450 450 600
+>300-400 225 225 300 450 450 450 600 600
+>400-500 225 300 450 450 600 600
+>500-600 300 300 450 600 600
+>600-700 300 450 600
+>700-800
+>800-900 Administration every 2 weeks
+>900—1000
+>1000—1 1000
+
+ 
+
+ 
+
+ 
+
+Note: Xolair doses (milligrams per dose) administered by subcutaneous injection every 4 weeks.
+
+Abbreviation: IgE, immunoglobulin E.
+
+by mast cell activation and eosinophilic infiltration can be
+triggered by superantigens. Such superantigens include
+Staphylococcus aureus antigens, which are able to activate
+production of polyclonal IgE (including specific IgE against
+the same superantigens) locally in the respiratory tract. On
+the other hand, the role of superantigens was previously
+suggested by Marone et al concerning allergic disorders
+in general.** Further support for these additional effects of
+omalizumab has been provided by studies showing that its
+action extends to the complex signaling mechanism, leading
+to activation of effector cells and release of mediators. In
+fact, treatment with omalizumab can modify the expression
+of Syk, a tyrosine kinase of central importance in the signaling mechanism, which leads to the final opening of calcium
+channels and degranulation,”> as well as to modulation of
+the FceRI-B/o ratio.”°
+
+Interestingly, the effectiveness of omalizumab was also
+recently reported in patients with severe occupational asthma
+caused by both high and low molecular weight compounds,
+with most treated patients being able to continue their activity
+at the same workplace.’
+
+An important step forward concerns a matter for which
+no information has been available, ie, duration of treatment.
+A follow-up study by Nopp et al showed that, after 6 years of
+treatment, most patients had (surprisingly, according to the
+authors) mild and stable asthma in the 3 ensuing years and
+at the same time showed downregulation of the sensitivity
+
+of basophils to specific allergens.** This supports the role of
+omalizumab as a therapeutic agent for nonspecific immunotherapy. In fact, omalizumab acts on IgE regardless of allergen
+specificity, while specific immunotherapy (SIT) acts exclusively
+on allergen-specific IgE. This was the first indication that a
+6-year course of treatment is adequate, as is the case for SIT,”
+but this finding must be confirmed by further studies.
+
+The fact that omalizumab continues to work after
+discontinuation indicates additional benefit in terms of
+cost-effectiveness, which, despite the high cost of the drug,
+was clearly demonstrated by recent studies.°°*? In particular, in the latest study, it was found that in the one year
+prior to omalizumab therapy the per-person rate of asthma
+exacerbations was 3.39 compared with 1.07 in the year of
+taking omalizumab. Using the pharmacoeconomic index
+of quality-adjusted life-years (QALYs), the discounted
+incremental lifetime additional costs for omalizumab were
+€55,865 for 1.46 additional QALYs, resulting in €38,371 per
+QALY. This supports the claim that the cost-effectiveness
+ratio related to achievement of fewer exacerbations in the
+omalizumab-treated asthma population is attractive.*> The
+outcome of the significant reduction in asthma exacerbations
+is in agreement with our current practice; in our patients,
+the mean numbers of emergency department visits and
+hospitalizations were found to be 5.6 and 3.2, respectively,
+before treatment compared with 1.2 and 0.8 after treatment
+with omalizumab.
+
+ 
+
+submit your manuscript
+
+200
+
+Dove;
+
+Drug Design, Development and Therapy 2014:8
+Dove
+
+Anti-IgE antibody omalizumab
+
+ 
+
+Table 3 Administration every 2 weeks
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Body weight (kg)
+
+Baseline
+
+IgE >90- | >125| (1U/mL) >20-25  >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150
+
+230-100 Administration every 4 weeks
+
+>100-200
+
+>200-300 375
+
+>300-400 450 525
+
+>400-500 375 375 525 600
+
+>500-600 375 450 450 600
+
+>600-700 225 375 450 450 525
+
+>700-800 225 225 300 375 450 450 525 600
+
+>800-900 225 225 300 375 450 525 600
+
+>900-1000 225 300 375 450 525 600
+
+>1000-1100 | 225 300 375 450 600
+
+>1 100-1200 300 300 450 525 600 Do not administer — data is unavailable
+
+for dose recommendation
+>1200-1300 | 300 375 450 525
+>1300-1500 | 300 375 525 600
+
+ 
+
+ 
+
+ 
+
+Note: Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks.
+
+Abbreviation: Ig, immunoglobulin E.
+
+The persistence of the effects of omalizumab may be
+related to the ability of the drug to curtail airway remodeling in
+patients with asthma. Ina study aimed at assessing the effects
+of omalizumab on airway wall thickness by computed tomography, treatment with omalizumab significantly (P<0.01)
+decreased the airway wall area (corrected for body surface
+area, WA/BSA), percentage wall area (WA%), wall thickness
+[(T)VBSA], and luminal area [(Ai)/BSA] of the right apical
+bronchial segments, whereas conventional therapy resulted in
+no change. A significant mean reduction in thickness of the
+reticular basement membrane and eosinophil infiltration in
+bronchial biopsies from patients with severe persistent allergic
+asthma was recorded after one year of omalizumab treatment
+using light microscopic image analysis.** This evidence suggests that omalizumab may have a role in modifying the course
+of the disease by curtailing airway remodeling during severe
+persistent allergic asthma.
+
+Further therapeutic activity
+of omalizumab: off-label indications
+
+Allergic rhinitis and nasal polyposis
+In view of the close relationship between allergic rhinitis
+and asthma, the efficacy of omalizumab in the treatment
+
+of concomitant rhinitis in patients with asthma was to be
+expected.***’ A parallel response of the two allergic reactions was shown, and in one trial the odds ratio for a positive
+effect on rhinitis corresponded to 3.56, ie, the probability was
+three and a half times higher in subjects with improvement
+of asthma compared with nonresponders.**
+
+The effect of omalizumab on nasal polyps is less obvious, because polyposis often occurs in nonallergic subjects.
+However, in nasal polyposis, local activation of polyclonal
+IgE similar to that reported previously for intrinsic asthma
+may occur. S. aureus, the enterotoxins of which act as
+superantigens, also plays an important role in this condition.
+Verbruggen et al proposed a “proof-of-concept” trial with
+omalizumab in nasal polyposis, which, in the event of a
+positive response, would pave the way for treatment of this
+disease using anti-IgE agents.*? The results of the trial are
+pending. However, favorable results are already available
+from a pilot study conducted in the US, which included
+a group treated with omalizumab and a control group.*°
+Collectively, this trial shows a direct relationship between
+severity of nasal polyposis and pretreatment total serum IgE
+levels, with no differences between the groups with regard
+to their total serum IgE levels, sinus computed tomography
+
+ 
+
+Drug Design, Development and Therapy 2014:8
+
+submit your manuscript
+
+201
+
+Dove;
+Incorvaia et al
+
+Dove;
+
+ 
+
+scores, and endoscopically determined nasal polyposis
+scores assessed preoperatively. Compared with preoperative
+values, nasal polyposis scores were significantly improved
+in the anti-[gE group, whereas the control group showed no
+significant improvement.
+
+Allergic bronchopulmonary aspergillosis
+Allergic bronchopulmonary aspergillosis is caused by an
+excessive response of Th2 lymphocytes to Aspergillus
+fumigatus, a ubiquitous mold. Allergic bronchopulmonary
+aspergillosis develops in a small proportion of patients with
+asthma, but patients with cystic fibrosis may also be affected,
+suggesting that intrinsic host defects play a major role in
+susceptibility to this disease.*! The efficacy of omalizumab
+has been demonstrated in case reports’? * and also in case
+series. 4’ The treatment was found to be efficacious with
+regard to clinical parameters for allergic bronchopulmonary
+aspergillosis and also had a steroid-sparing effect.
+
+Skin disorders
+
+The first skin disease in which omalizumab was assessed
+was atopic dermatitis. Several reports on limited case
+series were published initially,’ followed by a pilot study
+in 21 subjects.” In the pilot study, patients were stratified
+according to IgE level (very high, >700 IU/mL; high,
+186-700 IU/mL; normal, =185 IU/mL), with an average pretreatment level corresponding to 1,521 IU/mL. All patients
+showed significant improvement in their clinical scores for
+atopic dermatitis. In a placebo-controlled trial, omalizumab
+reduced free serum IgE levels, lowered surface IgE and FceRI
+expression on mononuclear cells, reduced the saturation of
+FceRI with IgE, increased the number of free FceRI, and
+lowered the number of IgE+, but not the number of FceRI+
+cells in skin.*° The in vivo relevance of these results is shown
+by the increased threshold allergen concentration required
+to trigger a type I hypersensitivity reaction on skin testing.
+Treatment with omalizumab led to improved atopy patch
+test results in individual patients, ie, an eczematous reaction
+upon epicutaneous allergen challenge. The interference with
+immediate and delayed skin tests implies that a therapeutic
+benefit for omalizumab would be seen in patients with acute
+rather than chronic forms of the disease.
+
+Urticaria is a skin disorder sustained by a number of
+mechanisms that do not usually include IgE mediation.
+Therefore, the positive results obtained in this condition were
+the most surprising: an initial report of complete resolution
+of a case of cold urticaria with omalizumab*' was followed
+by therapeutic success in urticaria caused by heat and
+
+delayed pressure,* as well as in solar and cholinergic*?
+urticaria. However, there are also negative reports in the lat
+ter two conditions.*°
+
+°7 One study also reported the efficacy
+of omalizumab in subjects with angioedema classified as
+idiopathic.**
+
+Within this context, omalizumab can be used as a probe to
+assess the relative importance of IgE-mediated mechanisms
+in the various clinical forms of urticaria/angioedema. From
+this point of view, the most important clinical application is
+chronic urticaria, including its idiopathic and autoimmune
+variants, which cover most cases. In a first report on three
+patients resistant to antihistamine therapy, one with low levels
+of total IgE, one with high levels, and one with high levels
+of both IgE antibodies and anti-IgE receptor antibodies,
+complete remission of urticaria was observed in two patients
+within a week and in the other within 6 weeks.* In a study
+of autoimmune urticaria not controlled by antihistamines,
+including 12 patients with positive autologous serum skin
+and histamine release tests, all patients received omalizumab
+following 4 weeks of treatment with placebo, and showed
+significant improvement in clinical scores (complete resolution in seven cases), a significant decrease in consumption
+of drugs used for symptomatic relief, and improvement
+in quality of life, with only one patient not responding to
+treatment.
+
+A recent multicenter, randomized, double-blind, Phase HI
+study evaluated the efficacy and safety of omalizumab ina
+large population of patients with moderate to severe chronic
+idiopathic urticaria, who remained symptomatic despite
+antihistamine therapy at the licensed doses; 323 patients
+received three doses of 75 mg, 150 mg, or 300 mg, or
+placebo at 4-week intervals, followed by a 16-week observation period. At week 12, the mean change from baseline
+in weekly itch severity score was —5.1£5.6 in the placebo
+group, —5.9+6.5 in the 75 mg group (P=0.46), —8.1+6.4 in
+the 150 mg group (P=0.001), and —9.8+6.0 in the 300 mg
+group (P<0.001). The rate of adverse events was similar
+across the groups. These findings show that omalizumab
+reduces clinical symptoms and signs of chronic idiopathic urticaria in patients resistant to approved doses of
+antihistamines.”!
+
+Mastocytosis is another skin disease with systemic effects
+that has stimulated research on the role of omalizumab in
+prophylaxis of this condition. The first two studies reporting
+clinical efficacy suggested to the authors that omalizumab
+might inhibit the alleged stimulation of survival and accumulation of mast cells by IgE° and downregulation of the
+FceRI receptor.® It is well known that mastocytosis is a risk
+
+ 
+
+submit your manuscript
+
+202
+
+Dove;
+
+Drug Design, Development and Therapy 2014:8
+Dove
+
+Anti-IgE antibody omalizumab
+
+ 
+
+factor for severe, life-threatening reactions to Hymenoptera
+stings and also for reactions to venom immunotherapy.”
+It was reported that omalizumab, albeit at high doses, is
+able to prevent the reactions to venom immunotherapy in
+patients with mastocytosis.°+°> Another report concerned a
+patient with indolent mastocytosis and a history of repeated
+anaphylactic episodes without any apparent cause. Following
+treatment with low doses of omalizumab (150 mg per month),
+the patient did not experience any further episodes of anaphylaxis, and showed a reduction in tryptase levels from
+25.4 to 14 ng/mL and a decrease in basophil activation, as
+indicated by a decrease in mean fluorescence intensity from
+120 to 22; such an index is correlated with a decrease in IgE,
+which occurs in all subjects given its biological role on the
+cell surface.”
+
+Food-related anaphylaxis
+
+In addition to its promising effects in mastocytosis, important effects were obtained for omalizumab in anaphylaxis
+induced by food, which is a major cause of fatal events
+related to hypersensitivity reactions.*’ A placebo-controlled
+trial tested the effects of anti-[gE therapy on reactions to
+peanuts, the dominant cause of food-related anaphylaxis in
+the US. Eighty-four patients were randomized to receive
+150, 300, or 450 mg of omalizumab or placebo. The 450 mg
+dose demonstrated superior efficacy, increasing the amount
+of peanut tolerated from 178 mg (approximately half a
+peanut) to 2.8 g (about nine peanuts), thereby removing
+the risk of anaphylaxis due to inadvertent consumption of
+small amounts.
+
+One of the most striking observations is the ability of
+omalizumab to prevent so-called idiopathic anaphylaxis
+(ie, caused by unidentified triggers).-”? Another clinical
+form of anaphylaxis successfully prevented by omalizumab
+is exercise-induced anaphylaxis,’! which is a clinical
+syndrome (presenting as food-dependent or nonfooddependent) in which anaphylaxis occurs in conjunction
+with physical exercise and for which the pathophysiology
+is still uncertain.”
+
+Food allergy
+
+Food hypersensitivity is associate:
+
+ 
+
+not only with anaphylaxis
+but also with a number of other clinical conditions. A recent
+study evaluated the efficacy of omalizumab in 22 patients
+receiving treatment for asthma who had concomitant food
+allergy.” The average concentration of total IgE was
+1,120 IU/mL and the culprit foods were fish, shellfish, eggs,
+peanuts, tree nuts, soy, and wheat. Clinical improvement in
+
+reactions was observed after the sixth dose of omalizumab,
+in particular in nine patients affected by angioedema with or
+without anaphylaxis, in eight patients with atopic dermatitis,
+in six patients with rhinosinusitis, and in three patients with
+urticaria. In another study of 14 patients with peanut allergy,
+clinical and cellular responses were assessed during treatment
+with omalizumab for 6 months. At baseline, all subjects
+underwent a double-blind, placebo-controlled oral food
+challenge and a skin prick test titration, with measurement
+of basophil histamine release in response to peanut exposure.
+Basophil histamine release was repeated at week 2 and then
+weekly until it decreased to less than 20% of baseline values.
+The oral food challenges and skin prick test titrations were
+repeated after reduction of basophil histamine release (or at
+week 8 if basophil histamine release did not decrease) and
+again at 6 months. Omalizumab induced a significant increase
+in the threshold dose for oral food challenge with peanuts
+causing allergic symptoms (from 80 to 6,500 mg, P<0.01);
+peanut-induced basophil histamine release was completely
+suppressed in five patients and reduced by ten-fold in nine
+patients; and after 6 months of treatment, a significant suppression in skin prick test titration was also observed. The
+fact that the clinical response to omalizumab occurred early
+during treatment when basophils, but not mast cells, were
+suppressed, suggests that basophils have a role in acute food
+reactions.”
+
+Another clinical form of food allergy involves the
+gastrointestinal system, and includes food allergy with
+gastrointestinal eosinophilia. A case series of patients with
+eosinophilic gastroenteritis showed that a 16-week course
+of omalizumab achieved not only a reduction in symptoms,
+but also a reduction in eosinophil counts, amounting to
+35%—45% in blood and to 60%—70% in the duodenum and
+antrum.” The same investigators performed a study aimed at
+determining whether anti-IgE therapy, by blocking facilitated
+antigen presentation in vivo, attenuates allergen-specific
+Th? cell responses, but no significant difference in indices
+of T cell function was detected.” Eosinophilic esophagitis
+is a disorder of increasing interest in which food allergens,
+as well as inhaled allergens, play a causative role.” In one
+report, two patients with multiple food allergies and eosinophilic esophagitis were treated with omalizumab and showed
+significant improvement in symptoms, despite negligible
+histologic and endoscopic responses.”
+
+Other disorders
+There are case reports describing the efficacy of omalizumab
+in other disorders, including both IgE-mediated diseases
+
+ 
+
+Drug Design, Development and Therapy 2014:8
+
+submit your manuscript
+
+203
+
+Dove;
+Incorvaia et al
+
+Dove;
+
+ 
+
+and disorders of unknown pathogenesis. Latex allergy is
+clearly an IgE-mediated condition and may be associated
+with a variety of clinical manifestations, including asthma,
+rhinitis, urticaria, dermatitis, and anaphylaxis.” In a placebocontrolled trial, 12 latex-allergic health care workers showed
+a reduction in conjunctival and cutaneous responses to latex
+after treatment with omalizumab.°
+
+Atopic keratoconjunctivitis is a severe ocular disorder that can cause blindness.*! In an open-label trial, six
+patients treated with omalizumab showed improvement in
+ocular symptoms.” This positive outcome is supported by
+a case report showing a marked reduction in the use of oral
+steroids.’ Hyper-IgE syndrome is reported as a possible
+further application; in one case report, treatment with 450 mg
+of omalizumab every 2 weeks produced complete resolution
+of skin manifestations in a 26-year-old woman.* Once again,
+omalizumab proved to be effective in disorders unrelated to
+IgE-mediated hypersensitivity, such as interstitial cystitis,**
+bullous pemphigoid,** chronic rhinosinusitis,*’ and aspirinexacerbated respiratory disease.**
+
+Combination of omalizumab
+and SIT
+
+It is easily understandable that the combination of SIT and
+omalizumab is “virtuous” in improving the tolerability
+profile and clinical results.’° These two aspects are obviously related to each other, because patients with adverse
+reactions to SIT are unlikely to have the same clinical
+benefit as those who tolerate the treatment. In fact, the
+cumulative dose received will inevitably be lower, and the
+concept of dose dependence regarding the effectiveness of
+SIT is not up for discussion.” A randomized, double-blind,
+placebo-controlled study of 248 patients treated with perennial allergens (house dust mite, cat and dog epithelium)
+confirmed these observations, showing that treatment
+with omalizumab was associated with significantly fewer
+asthmatic and systemic adverse reactions compared with
+placebo, and enabled achievement of the usual maintenance
+dose.°! Other studies have assessed safety in 221 children
+treated with SIT for seasonal allergy, also documenting an
+excellent tolerability profile (including local reactions to
+the vaccine) in patients treated with omalizumab” and the
+superior efficacy of SIT in 140 patients of any age with seasonal allergy.” In this case, the combination of omalizumab
+and SIT had significantly superior effects to SIT alone with
+regard to intensity of symptoms (P=0.004), and achieved
+better control of asthma (P=0.029) and improved quality
+of life (P=0.029).
+
+There are also studies of SIT with Hymenoptera venom.
+The effects of omalizumab in preventing adverse reactions
+to SIT in patients with mastocytosis have already been
+discussed, but another area of concern is the safety of
+SIT with bee venom, which is much less well tolerated
+than vespid venom.” Several case reports have shown
+the ability to prevent anaphylactic reactions to SIT with
+bee venom, thus enabling immunization of patients.°*°
+However, this was not possible in one case.”* The patient in
+question, who did not tolerate previous attempts with SIT
+and had a high level of specific IgE for bee venom, was
+treated with 300 mg of omalizumab at monthly intervals
+for 6 months, starting with a rush schedule 2 weeks after
+the last administration. It is possible that a higher dose of
+omalizumab or administration of the drug closer to initiation of SIT could be protective.
+
+On the whole, addition of omalizumab to SIT seems to
+be beneficial, but the cost of the drug is so high that this
+combination cannot be used routinely. However, use of
+omalizumab is warranted in patients with asthma that cannot
+be controlled by standard drug treatment (and thus excluded
+from SIT) and in patients unable to reach the maintenance
+dose of venom immunotherapy because of repeated adverse
+reactions.
+
+Conclusion
+
+An increasing number of omalizumab studies are providing new information on the role of IgE-mediated mechanisms in various diseases, which sometimes was totally
+unexpected because IgE was not known to be involved
+in their pathogenesis. However, at present, omalizumab
+is approved for therapeutic use only in allergic asthma
+not controlled by conventional therapy, so there is a
+discrepancy between the information available in new
+indications and actual applicability. Consequently, translating the new knowledge into actual treatment remains
+theoretical until the new indications are authorized. There
+is agreement among experts on some applications, such as
+anaphylaxis (both food-induced and idiopathic), chronic
+urticaria, and the combination of omalizumab with SIT
+in selected cases, which should all be considered to be
+
+new indications.°? '
+
+Moreover, further evaluation of the
+efficacy of omalizumab in larger patient populations in
+clinical practice in any disorder should include an assessment of the economic impact of this agent, given that
+this aspect is very important for the regulatory agencies
+responsible for scientific evaluation and authorization of
+
+medicinal products.
+
+ 
+
+submit your manuscript
+
+204
+
+Dove;
+
+Drug Design, Development and Therapy 2014:8
+Dove
+
+Anti-IgE antibody omalizumab
+
+ 
+
+Acknowledgment
+
+The authors thank Dr Donatella Tedeschi and Dr Alina Papetti
+from the Medical Department of Novartis Farma SpA, Origgio,
+Italy, for their cooperation and for providing figures | and 2.
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+ 
+
+References
+
+1. Bennich HH, Ishizaka K, Johansson SG, Rowe DS, Stanworth DF,
+Terry WD. Immunoglobulin E: a new class of human immunoglobulin.
+Immunology. 1968;15:323-324.
+
+2. Wide L, Bennich H, Johansson SG. Diagnosis of allergy by an in-vitro
+test for allergen antibodies. Lancet. 1967;2:1105—1107.
+
+3. Siraganian RP. Mechanisms of IgE-mediated hypersensitivity. In:
+Middleton E, Reed CE, Ellis EF, Adkinson NF, Yunginger JW,
+Busse WW, editors. Allergy. Principles and Practice. St Louis, MI:
+Mosby; 1993.
+
+4. Kohler G, Milstein C. Continuous cultures of fused cells secreting
+antibody of predefined specificity. Nature. 1975;256:495—497.
+
+5. Jardieu PM, Fick RBJ. IgE inhibition as a therapy for allergic disease.
+Int Arch Allergy Immunol. 1999;118:112-115.
+
+6. Schulman ES. Development of a monoclonal anti-immunoglobulin E
+antibody (omalizumab) for the treatment of allergic respiratory
+disorders. Am J Respir Crit Care Med. 2001;164:S6-S11.
+
+7. Milgrom H, Berger W, Najak A, et al. Treatment of childhood asthma
+with anti-immunoglobulin E antibody (omalizumab). Pediatrics.
+2001;108:E36.
+
+8. Corren J, Casale TB, Lanier B, Buhl R, Holgate S, Jimenez P.
+Safety and tolerability of omalizumab. Clin Exp Allergy. 2009;39:
+788-797.
+
+9. Hendeles L, Sorkness CA. Anti-immunoglobulin E therapy
+with omalizumab for asthma. Ann Pharmacother. 2007;41:
+1397-1410.
+
+10. De Bisschop MB, Bellou A. Anaphylaxis. Curr Opin Crit Care.
+2012;18:308-317.
+
+11. Simons A. Real-life effectiveness of omalizumab in patients with severe
+persistent allergic (IgE-mediated) asthma at a single UK hospital. Am
+J Respir Crit Care Med. 2010;181:A1336.
+
+12. Worm M, Babina M, Hompes S. Causes and risk factors for anaphylaxis.
+J Dtsch Dermatol Ges. 2013;11:44-50.
+
+13. Mauro M, Incorvaia C, Formigoni C, Elia R, Russello M,
+Pellegrino D. The anti-IgE antibody omalizumab as a probe to
+investigate the role of IgE in pathology. Panminerva Med. 2012;54:
+305-312.
+
+14. Walker S, Monteil M, Phelan K, Lasserson TJ, Walters EH. Anti-IgE
+for chronic asthma in adults and children. Cochrane Database Syst Rev.
+2006;2:CD003559.
+
+15. D’Amato G, Perticone M, Bucchioni E, Salzillo A, D’Amato M,
+Liccardi G. Treating moderate-to-severe allergic asthma with anti-IgE
+monoclonal antibody (omalizumab). An update. Eur Ann Allergy Clin
+Immunol. 2010;42:135—140.
+
+16. Busse WW, Morgan WJ, Gergen PJ, et al. Randomized trial of
+omalizumab (anti-IgE) for asthma in inner-city children. N Engl J Med.
+2011;364:1005-1015.
+
+17. Brusselle G, Michils A, Louis R, et al. Real-life effectiveness of omalizumab in patients with severe persistent allergic asthma: the PERSIST
+study. Respir Med. 2009;103:1633-1642.
+
+18. Cazzola M, Camiciottoli G, Bonavia M, et al. Italian real-life experience
+of omalizumab. Respir Med. 2010;104:1410-1416,
+
+19. Barnes N, Menzies-Gow A, Mansyr AH, et al. Effectiveness of omalizumab in severe allergic asthma: a retrospective UK real world study.
+J Asthma. 2013;50:529-536.
+
+20.
+
+Di..
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27,
+
+28.
+
+29,
+
+30.
+
+Je
+
+32!
+
+33.
+
+34.
+
+35.
+
+36.
+
+af.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+Grimaldi-Bensouda L, Zureik M, Aubier M, et al. Does omalizumab
+make a difference to the real-life treatment of asthma exacerbations?
+Results from a large cohort of patients with severe uncontrolled asthma.
+Chest. 2013;143:398-405.
+
+Deschildre A, Marguet C, Salleron J, et al. Add-on omalizumab in
+children with severe allergic asthma: a one year real life survey. Eur
+Respir J. March 21, 2013. [Epub ahead of print.]
+
+Garcia G, Magnan A, Chiron R, et al. A proof of concept randomized
+controlled trial of omalizumab in patients with severe difficult to control
+nonatopic asthma. Chest. 2013;144:411-419.
+
+Barnes PJ. Intrinsic asthma: not so different from allergic asthma but
+driven by superantigens? Clin Exp Allergy. 2009;39:1145—-1151.
+Marone G, Rossi FW, Detoraki A, et al. Role of superallergens in
+allergic disorders. Chem Immunol Allergy. 2007;93:195—213.
+Luskova P, Draber P. Modulation of the Fcepsilon receptor I signaling by tyrosine kinase inhibitors. Search for therapeutic targets
+of inflammatory and allergy diseases. Curr Pharm Des. 2004;10:
+1727-1737.
+
+Zaidi AK, Saini SS, Macglashan DW. Regulation of Syk kinase
+and FcRbeta expression in human basophils during treatment with
+omalizumab. J Allergy Clin Immunol. 2010;125:902-906.
+
+Lavaud F, Bonniaud P, Dalphin JC, et al. Usefulness of omalizumab in the
+patients with severe occupational asthma. Allergy. 2013;68: 813-815.
+Nopp A, Johansson SG, Adedoyin J, et al. After 6 years with Xolair;
+a 3-year withdrawal follow-up. Allergy. 2010;65:56-60.
+
+Incorvaia C, Masieri S, Scurati S, Soffia S, Puccinelli P, Frati F. The
+current role of sublingual immunotherapy in the treatment of allergic
+rhinitis in adults and children. J Asthma Allergy. 2011;4:13-17.
+Bahadori K, Quon BS, Doyle-Waters MM, Marra C, Fitzgerald JM.
+A systematic review of economic evaluations of therapy in asthma.
+J Asthma Allergy. 2010;3:33—-42.
+
+Campbell JD, Spackman DE, Sullivan SD. The costs and consequences
+of omalizumab in uncontrolled asthma from a USA payer perspective.
+Allergy. 2010;65:1141—1148.
+
+Menzella F, Facciolongo N, Piro R, et al. Clinical and pharmacoeconomic aspects of omalizumab: a 4-year follow-up. Ther Adv Respir
+Dis. 2012;6:87-95.
+
+van Nooten F, Stern S, Braunstahl GJ, Thompson C, Groot M,
+Brown RE. Cost-effectiveness of omalizumab for uncontrolled asthma
+in The Netherlands. J Med Econ. 2013;16:342-348.
+
+Hoshino M, Ohtawa J. Effects of adding omalizumab, an anti-immunoglobulin e antibody, on airway wall thickening in asthma. Respiration.
+2012;83:520-528.
+
+Riccio AM, Dal Negro RW, Micheletto C, et al. Omalizumab modulates
+bronchial reticular basement membrane thickness and eosinophil infilitration in severe persistent allergic asthma patients. Jnt J Immunopathol
+Pharmacol. 2012;25:475-484.
+
+Casale TB, Condemi J, LaForce C, et al. Effect of omalizumab on
+symptoms of seasonal allergic rhinitis: a randomized controlled trial.
+JAMA. 2001;286:2956-2967.
+
+Chervinsly P, Casale T, Townley R, et al. Omalizumab, and anti-IgE
+antibody, in the treatment of adults and adolescents with perennial
+allergic rhinitis. Ann Allergy Asthma Immunol. 2003;91:160—-167.
+Humbert M, Boulet LP, Niven RM, Panahloo Z, Blogg M, Ayre G.
+Omalizumab therapy: patients who achieve greatest benefit for their
+asthma experience greatest benefit for rhinitis. Allergy. 2009;64:
+81-84.
+
+Verbruggen K, Van Cauwenberge P, Bachert C. Anti-IgE for the treatment of allergic rhinitis — and eventually nasal polyps? Jnt Arch Allergy
+Immunol. 2009;148:87-98.
+
+Penn R, Mikula S. The role of anti-[gE immunoglobulin therapy in nasal
+polyposis: a pilot study. Am J Rhinol. 2007;21:428-432.
+
+Bains SN, Judson MA. Allergic bronchopulmonary aspergillosis. Clin
+Chest Med. 2012;33:265-281.
+
+ven der Ent CK, Hoekstra H, Rijkers GT. Successful treatment of allergic
+bronchopulmonary aspergillosis with recombinant anti-IgE antibody.
+Thorax. 2007;62:276-277.
+
+ 
+
+Drug Design, Development and Therapy 2014:8
+
+submit your manuscript
+
+205
+
+Dove;
+Incorvaia et al
+
+Dove;
+
+ 
+
+43. Kanu A, Patel K. Treatment of allergic bronchopulmonary
+aspergillosis (ABPA) with anti-IgE antibody (omalizumab). Pediatr
+Pulmonol. 2008;43:1249-1251.
+
+44. Lebecque P, Leonard A, Argaz M, Godding V, Pilette C. Omalizumab
+for exacerbations of allergic bronchopulmonary aspergillosis in patients
+with cystic fibrosis. BMJ Case Rep. 2009;2009:pii: ber07.2008.0379.
+
+45. Lebecque P, Leonard A, Piletre C. Omalizumab for treatment of ABPA
+exacerbations in CF patients. Pediatr Pulmonol. 2009;44:516.
+
+46. Collins J, Devos G, Hudes G, Rosenstreich D. Allergic bronchopulmonary
+aspergillosis treated successfully for one year with omalizumab.
+J Asthma Allergy. 2012;5:65—70.
+
+47. Wong R, Wong M, Robinson PD, Fitzgerald DA. Omalizumab in the
+management of steroid dependent allergic bronchopulmonary aspergillosis (ABPA) complicating cystic fibrosis. Paediatr Respir Rev.
+2013;14:22-24.
+
+48. Incorvaia C, Mauro M, Riario-Sforza GG, Frati F, Tarantini F, Caserini M.
+Current and future applications of the anti-IgE antibody omalizumab.
+Biologics. 2008;2:67-73.
+
+49. Sheinkopf LE, Rafi AW, Do LT, Katz RM, Klaustermeyer WB. Efficacy
+of omalizumab in the treatment of atopic dermatitis: a pilot study.
+Allergy Asthma Proc. 2008;29:530-537.
+
+50. Heil PM, Maurer D, Klein B, Hultsch T, Sting] G. Omalizumab therapy
+in atopic dermatitis: depletion of IgE does not improve the clinical
+course — randomized, placebo-controlled and double-blind pilot study.
+J Dtsch Dermatol Ges. 2010;8:990-998.
+
+51. Boyce JA. Successful treatment of cold-induced urticaria/anaphylaxis
+with anti-IgE. J Allergy Clin Immunol. 2006;117:1415-1418.
+
+52. Bullerkotte U, Wieczorek D, Kapp A, Wedi B. Effective treatment of
+refractory severe heat urticaria with omalizumab. Allergy. 2010;65:
+931-932.
+
+53. Bindslev-Jensen C, Skov PS. Efficacy of omalizumab in delayed pressure urticaria: a case report. Allergy. 2010;65:138-139.
+
+54. Giizelbey O, Ardelean E, Magerl M, Zuberbier T, Maurer M, Metz M.
+Successful treatment of solar urticaria with anti-immunoglobulin E
+therapy. Allergy. 2008;63:1563—1565.
+
+55. Metz M, Bergmann P, Zuberbier T, Maurer M. Successful treatment
+of cholinergic urticaria with anti-immunoglobulin E therapy. Allergy.
+2008;63:247-249.
+
+56. Waibel KH, Reese DA, Hamilton RG, Devillez RL. Partial improvement
+of solar urticaria after omalizumab. J Allergy Clin Immunol. 2010;125:
+490-491.
+
+57. Sabroe RA. Failure of omalizumab in cholinergic urticaria. Clin Exp
+Dermatol. 2010;35:127-129.
+
+58. Sands MF, Blume JW, Schwartz SA. Successful treatment of 3 patients
+with recurrent idiopathic angioedema with omalizumab. J Allergy Clin
+Immunol. 2007;120:979-981.
+
+59. Spector SL, Tan RA. Effect of omalizumab on patients with chronic
+urticaria. Ann Allergy Asthma Immunol. 2007;99:190—193.
+
+60. Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment
+of chronic autoimmune urticaria with omalizumab. J Allergy Clin
+Immunol. 2008;122:569-573.
+
+61. Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for the treatment of
+chronic idiopathic or spontaneous urticaria. N Engl J Med. 2013;368:
+924-935.
+
+62. Siebenhaar F, Kiihn W, Zuberbier T, Maurer M. Successful treatment
+of cutaneous mastocytosis and Meniere disease with anti-IgE therapy.
+J Allergy Clin Immunol. 2007;120:213-215.
+
+63. Carter MC, Robyn JA, Bressler PB, Walker JC, Shapiro GG, Metcalfe DD.
+Omalizumab for the treatment of unprovoked anaphylaxis in patients
+with systemic mastocytosis. J Allergy Clin Immunol. 2007;119:
+1550-1551.
+
+64. Rueff F, Dugas-Breit S, Przybilla B. Stinging Hymenoptera and
+mastocytosis. Curr Opin Allergy Clin Immunol. 2009;9:338-342.
+
+65. Kontou-Fili K, Fili CI. Prolonged high-dose omalizumab is required to
+control reactions to venom immunotherapy in mastocytosis. Allergy.
+2009;64:1384—1385.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+FAs
+
+2B
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+Douglass JA, Carroll K, Voskamp A, Bourke P, Wei A, O’Hehir RE.
+Omalizumab is effective in treating systemic mastocytosis in a non
+atopic patient. Allergy. 2010;65:926-927.
+
+Bock SA, Munoz-Furlong A, Sampson HA. Fatalities due to anaphylactic reactions to foods. J Allergy Clin Immunol. 2001;107:
+191-193.
+
+Leung DY, Sampson HA, Yunginger JW, et al. Effects of anti-IgE therapy
+in patients with peanut allergy. N Engl J Med. 2003;348:975—976.
+Jones JD, Marney SR Jr, Fahrenholz JM. Idiopathic anaphylaxis
+successfully treated with omalizumab. Ann Allergy Asthma Immunol.
+2008;101:550-551.
+
+Warrier P, Casale TB. Omalizumab in idiopathic anaphylaxis. Ann
+Allergy Asthma Immunol. 2009;102:257-258.
+
+Bray SM, Fajt ML, Petrov AA. Successful treatment of exercise-induced
+anaphylaxis with omalizumab. Ann Allergy Asthma Immunol. 2012;109:
+281-282.
+
+Robson-Ansley P, Toit GD. Pathophysiology, diagnosis and
+management of exercise-induced anaphylaxis. Curr Opin Allergy Clin
+Immunol. 2010;10:312-317.
+
+Rafi A, Do LT, Katz R, Sheinkopf LE, Simons CW, Klaustermeyer W.
+Effects of omalizumab in patients with food allergy. Allergy Asthma
+Proc. 2010;31:76-83.
+
+Savage JH, Courneya JP, Sterba PM, Macglashan DW, Saini SS, Wood RA.
+Kinetics of mast cell, basophil, and oral food challenge responses in
+omalizumab-treated adults with peanut allergy. J Allergy Clin Immunol.
+2012;130:1123-1129.
+
+Foroughi S, Foster B, Kim N, et al. Anti-IgE treatment of eosinophilassociated gastrointestinal disorders. J Allergy Clin Immunol. 2007;120:
+594-601.
+
+Foster B, Foroughi S, Yin Y, Prussin C. Effect of anti-IgE therapy
+on food allergen specific T cell responses in eosinophil associated
+gastrointestinal disorders. Clin Mol Allergy. 2011;9:7.
+
+Ridolo E, Montagni M, Olivieri E, Rogkakou A, De’ Angelis GL,
+Canonica GW. Eosinophilic esophagitis: which role for food and
+inhalant allergens? Asia Pac Allergy. 2012;2:237-241.
+
+Rocha R, Vitor AB, Trindade E, et al. Omalizumab in the treatment
+of eosinophilic esophagitis and food allergy. Eur J Pediatr. 2011;170:
+1471-1474.
+
+Cabanes N, Igea JM, de la Hoz B, et al. Latex allergy: position paper.
+J Investig Allergol Clin Immunol. 2012;22:313-330.
+
+Leynadier F, Doudou O, Gaouar H, et al. Effect of omalizumab in health
+care workers with occupational latex allergy. J Allergy Clin Immunol.
+2004;113:360-361.
+
+Calonge M, Herreras JM. Clinical grading of atopic keratoconjunctivitis.
+Curr Opin Allergy Clin Immunol. 2007;7:442-445.
+
+Williams PB, Sheppard JD Jr. Omalizumab: a future innovation
+for treatment of severe ocular allergy? Exp Opin Biol Ther. 2005;5:
+1603-1609.
+
+Taillé C, Doan S, Neukirch C, Aubier M. Omalizumab for severe atopic
+keratoconjunctivitis. BMJ Case Rep. 2010;2010:pii: ber0420102919.
+Bard S, Paravisini A, Avilés-Izquierdo JA, Fernandez-Cruz E, SanchezRamon S. Eczematous dermatitis in the setting of hyper-IgE syndrome
+successfully treated with omalizumab. Arch Dermatol. 2008;144:
+1662-1663.
+
+Lee J, Doggweiler-Wiygul R, Kim S, Hill BD, Yoo TJ. Is interstitial
+cystitis an allergic disorder? A case of interstitial cystitis treated
+successfully with anti-IgE. /nt J Urol. 2006;13:631-634.
+
+Fairley JA, Baum CL, Brandt DS, Messingham KA. Pathogenicity of
+IgE in autoimmunity: successful treatment of bullous pemphigoid with
+omalizumab. J Allergy Clin Immunol. 2009;123:704—705.
+
+Pinto JM, Mehta N, DiTineo M, Wang J, Baroody FM, Naclerio RM.
+A randomized, double-blind, placebo-controlled trial of anti-IgE for
+chronic rhinosinusitis. Rhinology. 2010;48:3 18-324.
+
+Bobolea I, Barranco P, Fiandor A, Cabafias R, Quirce S. Omalizumab:
+a potential new therapeutic approach for aspirin-exacerbated respiratory
+disease. J Investig Allergol Clin Immunol. 2010;20:448-449.
+
+ 
+
+submit your manuscript
+
+206
+
+Dove;
+
+Drug Design, Development and Therapy 2014:8
+Dove
+
+Anti-IgE antibody omalizumab
+
+ 
+
+89.
+
+90.
+
+91,
+
+92;
+
+‘93;
+
+94.
+
+95:
+
+Parks KW, Casale TB. Anti-immunoglobulin E monoclonal antibody
+administered with immunotherapy. Allergy Asthma Proc. 2006;
+27 Suppl 1:S33-S36.
+
+Incorvaia C, Frati F, Puccinelli P, Riario-Sforza GG, Dal Bo S. Dose
+dependence of efficacy and safety of subcutaneous immunotherapy.
+Monaldi Arch Chest Dis. 2006;65:41-43.
+
+Massanari M, Nelson H, Casale T, et al. Effect of pretreatment with
+omalizumab on the tolerability of specific immunotherapy in allergic
+asthma. J Allergy Clin Immunol. 2010;125:383-389.
+
+Kamin W, Kopp MV, Erdnuess F, Schauer U, Zielen S, Wahn U. Safety
+of anti-IgE treatment with omalizumab in children with seasonal allergic
+rhinitis undergoing specific immunotherapy simultaneously. Pediatr
+Allergy Immunol. 2010;21:160-165.
+
+Kopp MV, Hamelmann E, Zielen S, et al. Combination of omalizumab
+and specific immunotherapy is superior to immunotherapy in patients
+with seasonal allergic rhinoconjunctivitis and co-morbid seasonal
+allergic asthma. Clin Exp Allergy. 2009;39:271-279.
+
+Miller UR, Helbling A, Berchtold E. Immunotherapy with honeybee
+venom and yellow jacket venom is different regarding efficacy and
+safety. J Allergy Clin Immunol. 1992;89:529-534.
+
+Schulze J, Rose M, Zielen S. Beekeepers anaphylaxis: successful
+immunotherapy covered by omalizumab. Allergy. 2007;62:963—964.
+
+Drug Design, Development and Therapy
+Publish your work in this journal
+
+Drug Design, Development and Therapy is an international, peerreviewed open-access journal that spans the spectrum of drug design
+and development through to clinical applications. Clinical outcomes,
+patient safety, and programs for the development and effective, safe,
+and sustained use of medicines are a feature of the journal, which
+
+96.
+
+97.
+
+98.
+
+99:
+
+100.
+
+101.
+
+102.
+
+Rerinck HC, Rueff F, Przybilla B. Recurrent severe anaphylactic reactions to venom immunotherapy (VIT): omalizumab induces tolerance.
+J Allergy Clin Immunol. 2008;Suppl 29:111.
+
+Galera C, Soohun N, Zankar N, Caimmi S, Gallen C, Demoly P. Severe
+anaphylaxis to bee venom immunotherapy: efficacy of pretreatment
+and concurrent treatment with omalizumab. J Investig Allergol Clin
+Immunol. 2009;19:225—229.
+
+Soriano Gomis V, Gonzalez Delgado P, Niveiro Hernandez E. Failure
+of omalizumab treatment after recurrent systemic reactions to beevenom immunotherapy. J Investig Allergol Clin Immunol. 2008;18:
+225-226.
+
+Kopp MV. Omalizumab: and anti-IgE therapy in allergy. Curr Allergy
+Asthma Rep. 2011;11:101-116.
+
+Sanchez J, Ramirez R, Diez S, et al. Omalizumab beyond asthma.
+Allergol Immunopathol (Madr). 2012;40:306-315.
+
+Babu KS, Polosa R, Morjaria JB. Anti-[gE — emerging opportunities
+for omalizumab. Expert Opin Biol Ther. 2013;13:765—777.
+
+Shankar T, Petrov AA. Omalizumab and hypersensitivity reactions.
+Curr Opin Allergy Clin Immunol. 2013;13:19-24.
+
+Dove
+
+has also been accepted for indexing on PubMed Central. The manuscript management system is completely online and includes a very
+quick and fair peer-review system, which is all easy to use. Visit
+http://www.dovepress.com/testimonials.php to read real quotes from
+published authors.
+
+Submit your manuscript here: http://www.dovepress.com/drug-design-development-and-therapy-journal
+
+ 
+
+Drug Design, Development and Therapy 2014:8
+
+submit your manuscript
+
+Dove;
+
+207
+

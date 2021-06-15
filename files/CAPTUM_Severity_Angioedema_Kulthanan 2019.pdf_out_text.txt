@@ -1,0 +1,418 @@
+Research Article
+
+Angioedema Activity Score (AAS): A Valid and Reliable Tool to
+
+Use in Asian Patients
+
+Kanokvalai Kulthanan,! Leena Chularojanamontri,’ Chuda Rujitharanawong,'
+Puncharas Weerasubpong,' Karsten Weller,” and Marcus Maurer @
+
+"Department of Dermatology, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand
+Dermatological Allergology, Allergie-Centrum-Charité, Department of Dermatology and Allergy,
+
+Charité-Universitétsmedizin Berlin, Berlin, Germany
+
+Correspondence should be addressed to Marcus Maurer; marcus.maurer@charite.de
+
+Received 10 April 2019; Accepted 14 September 2019; Published 31 October 2019
+
+Academic Editor: Emiliano Antiga
+
+Copyright © 2019 Kanokvalai Kulthanan et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+
+The Angioedema Activity Score (AAS) is recommended by the EAACI/GA*LEN/EDF/WAO guidelines for urticaria as the
+standard measure for assessing disease activity in patients with recurrent angioedema (RAE). To date, it has been translated into 80
+languages for use in 52 countries, but it has not been formally validated in Asian patient populations. As RAE may be different in
+Asian and non-Asian patients, it is important to validate and characterize the reliability of tools to assess RAE disease activity in
+Asian patients. This study proposed to demonstrate the validity and reliability of the AAS in Asian patients. Accordingly, this
+study aimed to generate and validate the Thai version of the AAS and to characterize its reliability in Asian patients, specifically in
+Thailand. A structured translation was conducted with approval from the original authors. The Patient Global Assessment of
+Disease Activity (PGA-DA) was used as an instrument to compare with the Thai version of the AAS. In total, 86 patients with RAE
+participated in the study. Seventy-six (88%) patients had RAE with chronic spontaneous urticaria. The Thai AAS was found to bea
+valid and reliable instrument, with high convergent and known-groups validities, excellent internal consistency, and good testretest reliability. The validity and reliability of the AAS for assessing RAE disease activity in Asian patients have been demonstrated
+by our study, making it the first to do so. This will help promote the use of the AAS, in clinical trials and practice, in Asia. It will also
+facilitate the comparison of disease activity in patients with RAE inside and outside Asia in future studies. However, a limitation of
+this study was its small number of patients.
+
+1. Introduction
+
+Recurrent angioedema (RAE) is characterized by the repeated occurrence of nonpitting, skin-colored, or sometimes
+erythematous swellings of the skin or mucosa, often in the
+face [1, 2]. Having a valid and reliable patient-reported
+outcome (PRO) instrument to assess disease activity is
+important to manage RAE effectively [3]. The Angioedema
+Activity Score (AAS), which was developed in 2013 in
+German, is the first PRO measure to assess disease activity in
+patients with RAE [4]. The EAACI/GA?LEN/EDE/WAO
+guidelines for urticaria recommend the AAS as the standard
+measurement to assess and monitor the disease activity of
+
+patients with RAE [5]. It consists of 5 questions with 4
+answer options (scored 0-3) for each item, with a minimum
+score of 0 and a maximum score of 15 per day. Lower scores
+and higher scores represent low and high disease activity,
+respectively. The AAS7, AAS28, and AAS84 are the AASs
+that describe the disease activity of 7, 28, and 84 consecutive
+days, respectively [4, 6].
+
+The AAS has been translated and culturally adapted to 80
+languages for use in 52 countries [6]. However, it has not yet
+been formally validated in Asian patients with RAE. As RAE
+may be different in Asian and non-Asian patients, it is
+important to validate and characterize the reliability of tools
+to assess RAE disease activity in Asian patients. Accordingly,
+this study aimed to generate and validate the Thai version of
+the AAS and to characterize its reliability in Asian patients,
+specifically in Thailand.
+
+2. Materials and Methods
+
+The Thai version of the Angioedema Activity Score, the AAS,
+was generated following standard protocols as previously
+described [7]. In brief, the original AAS was first translated
+independently by two native Thai-speaking healthcare
+professionals and reviewed by two additional medical experts. A preliminary consensus Thai version was then
+backtranslated into German, and this version and the
+original were compared for discrepancies. Finally, a consensus version was created in collaboration with the authors
+of the original AAS [4]. All AAS items were easily translated,
+and the Thai AAS was successfully tested for clarity and
+comprehension in 10 adult RAE patients.
+
+In total, 86 adult patients with RAE who attended the
+Allergy Clinic/Urticaria Center of Reference and Excellence
+[8] of the Department of Dermatology, Siriraj Hospital, were
+included. Exclusion criteria were a lack of literacy skills and/
+or other concomitant dermatological or mental diseases. The
+Thai AAS28 values were compared to results obtained from
+the Patient Global Assessment of Disease Activity (PGADA). The PGA-DA is a self-administered questionnaire that
+contains one question to assess patient disease activity
+during a 28-day period. The following 5-point scale is used:
+0=absence, 1 = mild, 2 = moderate, 3 = severe, and 4= very
+severe disease activity [9].
+
+At baseline, informed consent was obtained, and the
+patients were informed about how to complete the Thai AAS
+and the PGA-DA. After the patients confirmed that they
+understood how to complete the questionnaires, they were
+asked to complete the AAS questionnaire for 28 consecutive
+days by themselves before their second visit. After 4 weeks, the
+AAS28 was collected and the patients were asked to complete
+the PGA-DA by themselves. A new AAS28 was then given to
+each patient to record the disease activity before the third visit.
+After an additional four weeks, the AAS28 was collected and
+the PGA-DA was once again completed by the patients.
+
+ 
+
+ 
+
+2.1. Validity
+
+(i) Convergent validity measures the relation of the Thai
+AAS with other standard instruments. The correlation between the Thai AAS and the PGA-DA was
+determined by Spearman’s correlation coefficient.
+Weak, moderate, and strong correlation was demonstrated as correlation coefficient values of <0.3,
+0.3-0.6, and >0.6, respectively [4, 10].
+
+(ii) Known-group validity measures the capacity of the
+AAS to discriminate across groups that are supposed
+to differ. Using the PGA-DA scores, patients were
+classified into five groups in this study: (i) “none”
+(score of 0), (ii) “mild severity” (score of 1), (iii)
+“moderate severity” (score of 2), (iv) “large severity”
+(score of 3), and (v) “very large severity” (score of 4).
+
+BioMed Research International
+
+The Kruskal-Wallis test was applied to investigate
+known-group validity [4, 10].
+
+2.2. Reliability
+
+(i) Internal consistency measures the uniformity of AAS
+items which can indicate whether it is appropriate to
+calculate a total score. Cronbach’s « reliability coefficient was used to analyze internal consistency that
+a values of >0.9, 0.7 < a< 0.9, and 0.6< a< 0.7 were
+regarded to indicate excellent, good, and acceptable
+reliability, respectively [4, 11].
+
+(ii) Test-retest reliability measures the consistency of the
+AAS across multiple administrations. Stable patients
+who have no change in PGA-DA during 4 weeks
+should demonstrate comparable AASs between two
+different visits. Intraclass correlation coefficient
+(ICC) values of <0.40, 0.4-0.75, and >0.75 are evidence of poor, average, and strong reliability, respectively [4, 11].
+
+This study was approved by the Siriraj Institutional
+Review Board, Faculty of Medicine, Siriraj Hospital (SI 271/
+2017). SPSS for Windows, Version 18.0 (SPSS Inc., Chicago,
+IL, USA), was used to analyze data. p values <0.05 were
+considered to indicate statistical significance.
+
+3. Results
+
+Of the 86 patients, 76 (88%) had RAE with concomitant
+wheals, while the remaining 10 (12%) had RAE only. Demographic data are detailed in Table 1. The convergent
+validity of the Thai AAS28, i.e., the correlation with the
+PGA-DA, was strong (Spearman’s correlation coefficient
+r=0.63; p< 0.0001). Using the PGA-DA scores, we then
+classified patients, in terms of their disease activity, into five
+groups: (i) “absence,” (ii) “mild,” (iii) “moderate,” (iv)
+“severe,” and (v) “very severe.” This was done to assess the
+known-group validity of the AAS28, in other words, its
+ability to discriminate between groups that are different. As
+determined by the use of the Kruskal-Wallis test, the Thai
+AAS28 reliably discriminated between patients with low,
+moderate, and high disease activity (p < 0.0001; Figure 1).
+
+Internal consistency measures the uniformity of the items
+of a PRO measure and indicates whether it is appropriate to
+calculate a total score. To determine the internal consistency
+of the Thai AAS, we used Cronbach’s « coefficient, for which a
+values of >0.9, 0.7 < a< 0.9, and 0.6 < a < 0.7 were regarded as
+indicating excellent, good, and acceptable consistency, respectively. Cronbach’s « value of the Thai AAS was 0.97,
+which indicates excellent internal consistency.
+
+Additionally, we determined the test-retest reliability of
+the Thai AAS, i.e., its consistency across multiple administrations. Stable patients who have no change in PGA-DA
+during 4 weeks should demonstrate comparable AASs at two
+different visits. Intraclass correlation coefficient (ICC) values
+of <0.40, 0.4-0.75, and >0.75 are evidence of poor, average,
+and strong reliability, respectively. In the current study, 44
+patients had no change in their PGA-DA scores between the
+
+ 
+BioMed Research International
+
+TaBLe 1: Demographic and clinical characteristics of patients with
+recurrent angioedema (RAE) (n= 86) as well as their response to
+treatment and disease activity, as assessed by the Thai Angioedema
+Activity Score 28 (AAS28) and Patient Global Assessment of
+Disease Activity (PGA-DA).
+
+ 
+
+ 
+
+ 
+
+Values
+Gender, n (%)
+Female 69 (80.2)
+Male 17 (19.8)
+Age, years
+
+Mean age (range) 38+ 15 (18-76)
+
+ 
+
+Diagnosis, n (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RAE without wheals 10 (11.6)
+RAE with wheals 76 (88.0)
+Range of scores (full score)
+Thai AAS28 0-228 (420)
+PGA-DA 0-3 (4)
+Mean scores + SD
+Thai AAS28 22.0+42.5
+PGA-DA 1.1221.0
+Treatment, n (%)
+H1-antihistamines 74 (86)
+H1-antihistamines + prednisolone 8 (9)
+H1-antihistamines + omalizumab 4 (5)
+Assessment of disease activity using the PGADA questionnaire, n (%)
+None 33 (38)
+Mild 24 (29)
+Moderate 21 (24)
+Severe 8 (9)
+Very severe 0 (0)
+250.00
+p value < 0.0001 °
+200.00 ¥ 7
+a +
+=<
+aa 150.00
+g
+& 100.00
+*
+son ;
+Ej
+0.00 =— == i
+No effect Small effect Moderate to
+(0) (1) very severe effect
+(2-4)
+
+RAE disease activity assessed by the PGA-DA
+
+Figure 1: The Thai version of the Angioedema Activity Score
+(AAS) questionnaire can differentiate patients with recurrent
+angioedema (RAE) who differ in their disease activity when
+assessed by the Patient Global Assessment of Disease Activity
+(PGA-DA). The asterisk and circle indicated the values of ASS
+scores which were out of 1.5 interquartile range in each group.
+
+two visits. The ICC value of their AAS28 scores was 0.72,
+which indicates average test-retest reliability.
+
+4. Discussion
+
+In order to improve the treatment of AE patients, all of the
+disease severity and impact on HRQoL in each patient need to
+be recognized by physicians. However, the validated patient
+report outcome instrument to determine disease severity in
+AE patients is very small in number. In 2013, the AAS was
+established by Weller et al. to be a specific tool to measure
+disease severity in AE patients [4]. As the AAS is easy to use in
+clinical practice, its application is recommended by the
+EAACI/GA’LEN/EDF/WAO guidelines for the management
+of urticaria [5]. The AAS has been designed in such a way that
+it is convenient to complete and its score is easy to interpret.
+Moreover, an advantage of the AAS is that it is independent of
+any previous presentations, making it suitable for application
+in the event of fluctuating attacks of AE.
+
+Our study demonstrated strong convergent and knowngroup validities. It illustrated that the higher the AAS is, the
+more severe the AE is in each patient. Moreover, the knowngroup validity of the AAS showed a statistically significant
+difference for each PGA-DA group. This confirms that the
+AAS is a valid instrument to evaluate disease severity for
+Asian patients with AE. Moreover, the reproducibility of the
+AAS was exhibited by excellent internal consistency and
+good test-retest reliability.
+
+Our study has limitations, namely, the relatively small
+number of patients and types of RAE investigated and the restricted range of AAS28 values in our patients. As for the latter,
+we only obtained values between 0 and 228 (mean: 22.0 + 42.5),
+even though the full range of the AAS28 is from 0 to 420.
+Similarly, in a recent study, RAE activity assessed by the AAS7
+(the use of the AAS for one week) showed a mean value of 23
+even though the AAS7 ranges from 0 to 105 [12]. This is because
+the maximum values of 105 for the AAS7 and 420 for the AAS28
+are “theoretical values.” To have a value of 420 in the AAS28, a
+patient would have to have severe angioedema attacks 24 hours a
+day for 28 days straight. Nevertheless, this study found the
+AAS28 to be a valid and reliable tool for measuring RAE activity
+in both Western and Asian patients.
+
+ 
+
+ 
+
+5. Conclusions
+
+In conclusion, this study is the first to demonstrate the
+validity and reliability of the AAS28 in Asian patients with
+RAE. This will help promote the use of the AAS, in clinical
+trials and practice, in Asia. It will also facilitate the comparison of disease activity in patients with RAE inside and
+outside Asia in future studies.
+
+Data Availability
+
+The data used to support the findings of this study are
+available from the corresponding author upon request.
+
+Conflicts of Interest
+
+Drs. Maurer and Weller report institutional research
+funding and personal fees for consulting from MOXIE, the
+AAS copyright holder. The other authors declare no conflicts
+of interest.
+
+Authors’ Contributions
+
+Karsten Weller and Marcus Maurer contributed equally to
+this work.
+Acknowledgments
+
+The authors gratefully acknowledge the patients that generously agreed to participate in this study and Orawan
+Supapueng, PhD, of the Division of Clinical Epidemiology,
+Department of Research and Development, Faculty of
+Medicine, Siriraj Hospital, for assistance with the statistical
+analysis. We acknowledge the support of the UCARE network (http://www.ga2len-ucare.net). This study was supported by intramural funding.
+
+References
+
+(1]
+
+ 
+
+ 
+
+{12]
+
+M. Maurer, M. Magerl, I. Ansotegui et al., “The international
+WAO/EAACI guideline for the management of hereditary
+angioedema-the 2017 revision and update,” Allergy, vol. 73,
+no. 8, pp. 1575-1596, 2018.
+M. Maurer, M. Magerl, I. Ansotegui et al., “The international
+WAO/EAACI guideline for the management of hereditary
+angioedema-the 2017 revision and update,” WAO Journal,
+vol. 11, no. 5, 2018.
+K. Weller, T. Zuberbier, and M. Maurer, “Clinically relevant
+outcome measures for assessing disease activity, disease
+control and quality of life impairment in patients with chronic
+spontaneous urticaria and recurrent angioedema,” Current
+Opinion in Allergy and Clinical Immunology, vol. 15, no. 3,
+pp. 220-226, 2015.
+
+K. Weller, A. Groffik, M. Magerl et al., “Development, validation, and initial results of the angioedema activity score,”
+Allergy, vol. 68, no. 9, pp. 1185-1192, 2013.
+
+T. Zuberbier, W. Aberer, R. Asero et al., “The EAACI/
+GA?LEN/EDE/WAO guideline for the definition, classification, diagnosis and management of urticaria,” Allergy, vol. 73,
+no. 7, pp. 1393-1414, 2018.
+
+MOXIE [Internet], Berlin, 2016, http://moxie-gmbh.de/
+medical-products/9/angioedema-quality-of-life-questionnaireae-gol-non-commercial-use.
+
+I. Baiardini, P. J. Bousquet, Z. Brzoza et al., “Recommendations for assessing patient-reported outcomes and healthrelated quality of life in clinical trials on allergy: a GA°LEN
+taskforce position paper,” Allergy, vol. 65, no. 3, pp. 290-295,
+2010.
+
+M. Maurer, M. Metz, C. Bindslev-Jensen et al., “Definition,
+aims, and implementation of GA’LEN urticaria centers of
+reference and excellence,” Allergy, vol. 71, no. 8, pp. 12101218, 2016.
+
+K. Weller, A. Groffik, M. K. Church et al., “Development and
+validation of the urticaria control test: a patient-reported
+outcome instrument for assessing urticaria control,” Journal
+of Allergy and Clinical Immunology, vol. 133, no. 5,
+pp. 1365-1372, 2014.
+
+J. C. Nunnaly and I. H. Bernstien, Psychometric Theory,
+McGraw-Hill, NewYork, NY, USA, 3rd edition, 1994.
+
+P.-A. Gourraud, C. Le Gall, E. Puzenat, F. Aubin,
+J.-P. Ortonne, and C. F. Paul, “Why statistics matter: limited
+inter-rater agreement prevents using the psoriasis area and
+severity index as a unique determinant of therapeutic decision
+in psoriasis,” Journal of Investigative Dermatology, vol. 132,
+no. 9, pp. 2171-2175, 2012.
+
+P. Staubach, M. Metz, N. Chapman-Rothe et al., “Omalizumab rapidly improves angioedema-related quality of life in
+adult patients with chronic spontaneous urticaria: X-ACT
+study data,” Allergy, vol. 73, no. 3, pp. 576-584, 2018.
+
+ 
+
+ 
+
+ 
+
+BioMed Research International
+

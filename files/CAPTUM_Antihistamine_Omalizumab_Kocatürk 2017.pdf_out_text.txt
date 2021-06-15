@@ -1,0 +1,1237 @@
+Journal of Dermatological Science 87 (2017) 60-69
+
+ 
+
+     
+
+Nas
+ELSEVIER
+
+  
+
+Journal of Dermatological Science
+
+Contents lists available at ScienceDirect
+
+Dermatological
+‘cience
+
+journal homepage: www.jdsjournal.com
+
+ 
+
+ 
+
+Management of chronic inducible urticaria according to the guidelines: ® en
+A prospective controlled study
+
+Emek Kocatiirk*"', Pelin Kuteyla Can!, Piril Etikan Akbas, Mehmet Copur,
+Ece Nur Degirmentepe, Kiibra Kiziltac, Ralfi Singer
+
+Okmeydami Training and Research Hospital, Department of Dermatology, Kaptanpasa Mah. Dariilaceze Cad. No: 27, 34384 Okmeydani, Sisli, Istanbul, Turkey
+
+ 
+
+ARTICLE INFO
+
+ABSTRACT
+
+ 
+
+Article history:
+Received 27 September 2016
+Accepted 23 February 2017
+
+ 
+
+Keywords:
+
+Chronic inducible urticaria
+Omalizumab
+
+Updosing antihistamines
+Urticaria control test
+Urticaria guidelines
+Inducible urticaria treatment
+Urticaria management
+
+Background: The recommended treatment approach in chronic inducible urticarias (CIndU) is the same as
+that for chronic spontaneous urticaria (CSU). But there is a lack of controlled trials assessing efficacy of
+available treatment options.
+Objective: We aimed to evaluate the efficacy of treatment algorithm recommended by the guidelines and
+comparison of treatment responses in CIndU vs CSU.
+Methods: This prospective parallel group controlled study included 70 CIndU and 66 CSU patients. The same
+treatment algorithm recommended by the European Academy of Allergology and Clinical Immunology/
+Global Allergy and Asthma European Network/European Dermatology Forum/World Allergy Organization
+(EAACI/GA7LEN/EDF/WAO) was implemented to both CSU and CIndU patients. Treatment responses of the
+groups were evaluated with urticaria control test (UCT) and dermatology life quality questionnaire (DLQI)
+scores at the 0, 4, 8, 12 and 24th weeks for CIndU and 0, 4, 12 and 24 weeks for CSU.
+Results: Fourteen patients (20,9%) with CIndU and 25 (37,9%) with CSU responded to standard doses of H1AHs which was significantly higher in the CSU group (p=0,031, p < 0,05). Patients with CIndU and CSU
+showed statistically similar responses to 2nd line treatments (combining or updosing AHs) (p=0,979;
+p> 0,05). Twenty-seven (40,3%) of CIndU patients and 21 (31,8%) of CSU patients were diagnosed as AHresistant urticaria. Omalizumab was administered to 15 CSU patients and 17 CIndU patients. Response rates
+to omalizumab were similar in both groups. Total response rates increased from 37,9% (n:25) to 68,2%
+(n:45) with the 2nd line treatments in CSU group while it increased from 20,9% (n:14) to 59,7% (n:40) in
+CIndU group. When omalizumab was introduced to AH-refractory cases as a 3rd line treatment, total
+response rates evaluated at the 12th week were 76,1% (n:51) in patients with CIndU and 83,3% (n:55) in CSU.
+Continuing omalizumab treatment for 24 weeks increased response rates in patients who were
+unresponsive at week 12.
+Conclusion: CIndU seem to be more resistant to standard doses of AHs and higher doses of AHs are required
+for the control of symptoms. The same guidelines for CSU may be implemented to patients with CIndU.
+© 2017 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights
+reserved.
+
+ 
+
+1. Introduction
+
+for longer than 6 weeks reproducibly induced by exposure to specific
+triggers like cold, heat, sustained local pressure, vibration, sunlight,
+
+Chronic inducible urticaria (CIndU) is a subgroup of chronic water, and increased body temperature [1,2]. CIndUs are classified
+urticaria (CU) which is characterized by wheals and/or angioedema into physical urticarias and otherinducible urticarias [1]. While
+
+Abbreviations: AHs, antihistamines; AU, aquagenic urticaria; BSACI, British Society for Allergy and Clinical Immunology; CholU, cholinergic urticaria; CIndU, chronic
+inducible urticaria; ColdU, cold urticaria; CSU, chronic spontaneous urticaria; CU, chronic urticaria; DLQI, dermatology life quality index; DPU, delayed pressure urticaria;
+EAACI, European Academy of Allergology and Clinical Immunology; EDF, European Dermatology Forum; fg-AHs, first generation H1 antihistamines; GA?LEN, Global Allergy
+and Asthma European Network; JTFPP, Joint Task Force on Practice Parameters; LTRA, leukotriene receptor antagonists; QoL, quality of life; SD, symptomatic dermographism;
+sg-AHs, second generation H1 antihistamines; SU, solar urticaria; UCT, urticaria control test; UNEV, urticaria network e.V; WAO, World Allergy Organization.
+
+* Corresponding author.
+
+E-mail addresses: dremekozgur@gmail.com (E. Kocatiirk), pulkumen@gmail.com (P.K. Can), drprletikan@hotmail.com (P.E. Akbas), copurr@hotmail.com (M. Copur),
+
+ecenuryksel@gmail.com (E.N. Degirmentepe), kubracure@gmail.com (K. Kiziltac), ralfisinger@yahoo.com (R. Singer).
+1 Both authors contributed equally and should be considered as first authors.
+
+http://dx.doi.org/10.1016/j.jdermsci.2017.02.283
+0923-1811/ © 2017 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+E. Kocatiirk et al./Journal of Dermatological Science 87 (2017) 60-69 61
+
+symptomatic dermographism (SD), heat and cold urticarias (ColdU),
+delayed pressure urticaria (DPU), solar urticaria (SU), and vibratory
+angioedema are in the group of physical urticarias, cholinergic
+urticaria (CholU), contact urticaria, and aquagenic urticaria (AU) are
+the other types of inducible urticarias | 1,3,4]. CIndUs occur alone but
+may also occur in combination with other types of inducible
+urticarias or chronic spontaneous urticaria (CSU) [2]. In rare cases
+two or more triggers may be required to induce urticaria [1].
+Diagnosis is made by exclusion of differential diagnosis i.e CSU with
+patient’s history and performing specific skin provocation testing
+[1,2,5]. Threshold testing of eliciting factors is also recommended
+which is important for assessing disease activity and treatment
+response [1,3]. It is also useful to determine the trigger threshold
+which the patient has to avoid [1,3,6]. There are no specific disease
+activity tools or quality of life (QoL) instruments for CIndU [2].
+Although chronic urticaria QoL questionnaire exists for CSU, there
+are no specific QoL instruments for SD, ColdU and CholU but these are
+under development. For now, the Dermatology Life Quality Index
+(DLQI) can be used for assessing QoL in patients with CIndU [1,2]. If
+threshold testing is not available, treatment response may be
+evaluated with Urticaria Control Test (UCT). UCT is areliable new tool
+for evaluating disease control in patients with CSU as well as CIndU
+over the past 4 weeks [2,7].
+
+Management of CIndU mainly aims to achieve complete
+symptom control and trigger avoidance [1]. But trigger avoidance
+is not always so simple. If avoidance of stimulus is not possible, the
+first step of treatment is second generation H1 antihistamines (sgAHs) to achieve complete symptom control [5,8]. If symptoms
+persist with standard dosing, the European Academy of Allergology
+and Clinical Immunology/Global Allergy and Asthma European
+Network/European Dermatology Forum/World Allergy Organization (EAACI/GA7LEN/EDF/WAO) Guideline recommends using the
+same treatment algorithm for both CSU and CIndU which is
+updosing of the sg-AHs up to 4-fold as a 2nd line treatment [5].
+While combining different H1-antihistamines (AHs) at the same
+time is not recommended by the EAACI/GA?LEN/EDF/WAO
+guideline, Joint Task Force on Practice Parameters (JTFPP) and
+British Society for Allergy and Clinical Immunology (BSACI)
+guideline recommends combining sg-AHs besides updosing them
+as the 2nd step of treatment. Although there are some treatment
+differences in AH-resistant cases between the guidelines, they all
+include omalizumab treatment as the next step [5,8,9].
+
+Recently the definition, diagnostic testing and management of
+CIndU; the EAACI/GA?LEN/EDF/UNEV (urticaria network e.V.)
+consensus recommendations 2016 update and revision has been
+published [1]. Even though this update gives valuable information
+on the diagnostic testing; treatment is based on primarily case
+series or uncontrolled studies instead of high level of evidence
+studies [1]. The reason for that is the lack of prospective controlled
+studies on the treatment of CIndU.
+
+In this study, we aimed to evaluate the efficacy of the treatment
+algorithm recommended by the guidelines and comparison of
+treatment responses in CIndU vs CSU.
+
+2. Materials and methods
+2.1. Patient selection and data collection
+
+This was a prospective, controlled, parallel group study which
+included 70 CIndU patients whose diagnosis were confirmed by
+provocation testing and 66 CSU patients over 16 years of age who
+were referred to our Urticaria Clinic from January 2015 to August
+2016. The patients who were on treatment other than standard
+doses of H1-AHs at the time of referral were excluded from the
+study, but three patients that were already on treatment with
+omalizumab were only taken to consideration for demographic
+
+evaluation but excluded from the treatment response evaluation.
+The study was approved by Okmeydani Training and Research
+Hospital Institutional Review Board (IRB protocol approval
+number: 48670771-514.10) and was conducted according to the
+Declaration of Helsinki. All patients has given informed consent.
+
+Sociodemographic characteristics including sex, age, disease
+duration, accompanying angioedema and diagnosis of the patients,
+the treatment that have been used for the last month were
+evaluated in both groups.
+
+The Turkish version of DLQI [10] and UCT were filled for CIndU
+patients prospectively. The Turkish validation of UCT has been
+performed by the author of this study (Kocaturk E) (the results
+have not been published yet). The forward and backward
+translation processes and cognitive debriefing of the Turkish
+version has been done and changes to the original tool has been
+made according to patients’ remarks. These changes have been
+endorsed by the creator of the original tool (Weller K). UCT has 4
+questions and each question has 5 answer options which are
+scored between 0 and 4 points. Total UCT scores were calculated by
+summing all 4 individual item scores (0-16 points). While a total
+score of 16 indicates complete disease control and 0 indicates no
+control, a score of >12 indicates well-controlled urticaria and a
+score of <12 points indicates poor controlled disease [7].
+
+2.2. Treatment design
+
+Patients on standard doses of H1-AHs at least for 2 weeks
+duration were included to the study. Treatment modality was
+determined prospectively according to the UCT scores of CIndU
+patients. UCT scores were assessed at the 1st visit and patients
+with UCT scores of >12 and <12 were accepted as responders and
+non-responders, respectively. Patients who had a UCT score of <12
+with standard doses of H1-AHs were treated either with
+combination of two different sg-AHs (combination group:
+levocetirizine 5 mg/day plus rupatadine 10 mg/day) or updosing
+sg-AHs up to 4-folds (updosing group: ebastine 40 mg/day). The
+patients with a UCT score of >12 continued with the standard
+doses of sg-AHs. At the 2nd visit (4 weeks after the 1st visit)
+patients with UCT scores of <12 in the combination group or
+updosing group underwent omalizumab treatment alone without
+AHs. The DLQI scores were also evaluated at the 1st and 2nd visits.
+Response to treatment with omalizumab was assessed at the
+following 4th, 8th, 12th and 24th weeks of the treatment.
+
+In order to compare the treatment responses of CSU and CIndU,
+UCT scores of CSU patients who underwent combination or
+updosing treatment and omalizumab treatment were retrospectively reviewed from patient charts. Side effects and compliance to
+treatment were noted.
+
+2.3. Statistical analysis
+
+Statistical analysis was performed with NCSS (Number Cruncher Statistical System) 2007 (Kaysville, Utah, USA). Differences in
+measured parameters (quantitative variables) between the groups
+were analysed with nonparametric Mann-Whitney U test or
+Kruskal-Wallis tests such as age, disease duration, mean scores of
+DLQI of subtypes of CIndUs at the referral. Means and mean
+changes in DLQI scores and UCT scores of CIndU and CSU groups
+were analysed with Mann-Whitney U test. Friedman Test and
+Wilcoxon test were used to compare the changes with skew
+distribution. The levels of significance values for differences in the
+median UCT and DLQI scores were calculated by Wilcoxon test. The
+comparison of the qualitative variables such as gender, accompanying angioedema, adverse effects and compliances as well as the
+comparison of response rates of treatment steps of CIndU and CSU
+were analysed with Pearson’s chi-square test, Fisher’s Exact test
+
+ 
+62 E. Kocatiirk et al. /Journal of Dermatological Science 87 (2017) 60-69
+
+and Yates’ Continuity Correction. All data were reported as mean
+value + standard deviation, median (25th-75th percentile), minimum, maximum, frequency and percentages. Statistical significance was achieved at p<0,05 and p<0,01. All analyses were
+performed by using nonparametric methods.
+
+3. Results
+3.1. Patients
+
+Seventy patients with CIndU (46 female and 24 male) and 66
+patients (46 female and 20 male) with CSU were included in the
+study. All demographic data are summarized in Table 1. Mean DLQI
+scores of subtypes of CIndU were compared at the time of referral
+and significant differences were observed between the subtypes
+(p=0,043; p<0,05, Kruskal Wallis Test). Mean scores of the DLQI
+were highest in patients with CholU (14,29 + 8,36), followed by
+combined CIndUs (11,00+6,78), SD (8,32 +6,44) and lowest in
+patients with ColdU (3,83 + 4,07). The difference was statistically
+significant only when the mean DLQI of CholU was compared with
+ColdU (p=0,022; p < 0,05) while other subtype comparisons were
+not statistically significant (p>0,05, Mann Whitney U Test).
+
+3.2. Responses to first line treatment: evaluation of the response to
+standard doses of AH
+
+The patients with CIndU were evaluated at the 1st visit by
+means of response to standard doses of H1-AHs and 3 patients who
+
+Table 1
+Demographic data of patients with CSU and CIndU.
+
+CIndU Subtypes (n=70)
+
+were already under treatment with omalizumab at baseline were
+excluded from the study. A total of 67 CIndU patients and 66 CSU
+patients were eligible for the analysis. The spectrum of treatments
+taken by the patients in both groups at 1st visit was shown in Fig. 1.
+
+UCT scores were calculated for each patient by the physician
+(Table 2). When the responses of subtypes of CIndU were
+evaluated, 21,3% (n: 10) of the patients with SD, and 50% (n:3)
+of the ColdU patients showed response to standard doses of H1AHs. While only one of the seven patients with CholU showed
+response, none of the patients with combined CIndU showed
+response to standard doses of H1-AHs. A patient with AU also did
+not achieve control with standard dose of an H1-AH.
+
+3.3. Evaluation of responses to second line treatment: updosing and
+combination of two different second generation antihistamines
+
+Fifty three patients (79,1%) with CIndU and 41 patients (62,1%)
+with CSU who did not achieve disease control (UCT < 12) with
+standard doses of H1-AHs underwent either combination of two
+different sg-AHs (levocetirizine 5 mg/day plus rupatadine 10 mg/
+day) or updosing of sg-AH (up to 4 times) (ebastine 40 mg/day)
+(n= 28 vs 25 in CIndU, n=7 vs 34 in CSU). There were no significant
+differences with regard to treatment responses to updosing of sgAH between the CSU and CindU patients (p=0,523; p> 0,05, Yates’
+Continuity Correction Test). Response rates to 2nd line treatments
+were similar between CIndU and CSU groups (p=0,979; p>0,05,
+Pearson x? test) (Table 2).
+
+ 
+
+CSU (n=66) CIndU overall Symptomatic Cholinergic urticaria Cold urticaria Aquagenic urticaria Combined inducible urticaria!
+(n=70) dermographism (n= 48;% (n=7;%10,0) (n=6; %8,6) (n=1;%1,4) (n=8; %11,4)
+68,6)
+Age
+Min-Max 17-77 (40,5) 17-58 (38,5) 17-56 (37,5) 17-50 (19) 31-56 (51,5) 43 28-58 (40,5)
+(Median)
+mean+SD 41,21 + 13,51 37,04411,78 36,58 + 10,82 25,14 + 11,94 46,67 + 10,86 43,00 42,25 + 10,83
+Gender n (%)
+Male 20 (30,3) 24 (34,3) 16 (33,3) 5 (71,4) 3 (50) 0(0) 0(0)
+Female 4G (69,7) 4G (65,7) 32 (66,7) 2 (28,6) 3 (50) 1 (100) 8 (100)
+Disease duration (months)
+Min-Max —-2-240(8) 2-240 (24) — 3-240 (19) 2-48 (12) 6-240 (18) 72 2-120 (36)
+(Median)
+mean+SD 21,76 +39,55 38,93+51,11 36,214+49,69 22,14 + 17,50 56,33 + 91,31 72,00 52,75 + 44,54
+Angioedema
+n (%) 39 (59,1) 8 (11,4) 4 (8,3) 2 (28,6) 0(0) 0(0) 2 (25,0)
+DLQI'' n:66 n: 67 n:47 n:7 n:6 m1 n:6
+at Ist
+visit
+Min-Max 0-24 (8) 0-23 (7) 3-24 (13 0-9(3) 9 3-21(9,50)
+(Median)
+mean+SD - 8,79 + 6,79 8,32 46,44 14,29 + 8,36 3,83 + 4,07 9 11,00 + 6,78
+uct" n:66 n: 67 n:47 n:7 né n1 n:6
+at 1st
+visit
+Min-Max 0-16 (8) 1-16 (8) 2-16 (8) 5-12 (7) 4-14 (10) 3 1-9 (6)
+(Median)
+mean+SD 9,12 +4,13 8,18 + 3,54 8,53 43,44 7,71 42,50 9,50 + 4,3 3 5,50 + 3,62
+
+CIndU, Chronic inducible urticaria CSU, Chronic spontaneous urticaria SD, standard deviation.
+
+' Five patients with symptomatic dermographism were associated with CSU, one patient had both symptomatic dermographism and cold urticaria and one patient had
+symptomatic dermographism, cold urticaria and cholinergic urticaria at the same time. One patient with cold urticaria also had CSU. There were no statistically significant
+differences between age and gender of patients with CIndU and CSU while disease duration was significantly longer and accompanying angioedema was lower in patients
+
+with CIndU than CSU (p < 0,01) (Mann Whitney U, Yates’ Continuity Correction Test).
+
+'' Three patients (one with symptomatic dermographism, two with combined CIndU) who has been using omalizumab at the beginning of study has been included for
+
+demographic data but not for DLQI and UCT scorings.
+E. Kocatiirk et al./Journal of Dermatological Science 87 (2017) 60-69 63
+
+ 
+
+Number of patients
+th
+
+m= CindU
+csU
+
+ 
+
+oO fe...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Desloratadine | Levocetirizine | Rupatadine | Hydroxyzine — Cetirizine Ebastine loratadine Fexofenadine | Pheniramine | Omalizumab
+maleate
+CindU| 3 26 n 2 B 9 3 0 ° [ 3
+csU 3 a 9 ° 10 pc ° cy 1 ] °
+
+ 
+
+ 
+
+CindU, Chronic inducible urticaria CSU, Chronic spontaneous urticaria
+
+Fig. 1. The spectrum of treatment taken by the patients in both groups at the time of referral.
+
+3.4, Evaluation of response to omalizumab treatment as the third line
+treatment
+
+Twenty-seven of 67 (40,3%) CIndU patients and 21 of 66 (31,8%)
+CSU patients were diagnosed as AH-resistant urticaria. But 15 CSU
+patients and 17 CIndU patients (10 patients with SD, 2 with CholU,
+2 with ColdU, 2 with combined CIndU and 1 with AU) were treated
+with omalizumab (150mg every 2 weeks or 300mg every 4
+weeks). The missing number of patients (10 of CIndU and 6 of CSU
+patients) is due to patients’ unwillingness for omalizumab therapy
+or quitting follow-up. Ten (58,8%) patients with CIndU gained well
+control of their symptoms at week 4 while 13 (76,5%) patients at
+week 8, 11 patients (64,7%) at week 12 responded to treatment. 13/
+15 patients in CSU group and 14/17 patients in CIndU group
+continued follow-up until 24th week of omalizumab treatment.
+Eleven (78,6%) patients in CIndU group responded to omalizumab
+treatment at week 24 (Fig. 2).
+
+While 6 of the 7 SD patients responded to omalizumab
+treatment, all patients with combined CIndU (n:2), one of two
+ColdU and one of two CholU patients and AU patient responded to
+treatment with omalizumab at week 24.
+
+ 
+
+Table 2
+Response rates of CIndU and CSU patients to 1st and 2nd line treatments.
+
+1st line treatment UCT at Ist visit
+Standard doses of AHs <12
+>12
+
+2nd line treatment UCT at 2nd visit
+
+Combination treatment <12
+>12
+Updosing treatment <12
+>12
+Response to 2nd line treatment <12
+>12
+
+Increases in the mean UCT scores and decreases in the mean
+DLQI scores between baseline and 4th, 8th, 12th and 24th weeks
+were significant in CIndU (Fig. 3,Tables 3 and 4).
+
+Patients with CSU showed similar response rates to omalizumab treatment as patients with CIndU (Fig. 4). Ten patients (66,7%)
+with CSU responded to treatment at week 12, while 11 (84,6%)
+responded at week 24. There were no significant differences
+observed between the means of UCT scores and mean changes in
+UCT scores from the baseline to week 12 and 24 between CIndU
+and CSU groups (p>0,05, Mann Whitney U Test) (Table 4). But
+continuing omalizumab treatment for 24 weeks increased the
+response rates in patients who were unresponsive at week 12
+(Fig. 5). When the response rates of CIndU patients were evaluated
+in detail; the mean DLQI scores of 17 patients with CIndU
+decreased from 12,12+8,05 to 4,18+4,39 (p:0,002; p<0,01,
+Wilcoxon Signed Ranks Test) while UCT scores increased significantly from 6,71+2,66 to 12,24+3,56 at week 12 (p: 0,001;
+p<0,01, Wilcoxon Signed Ranks Test). At follow up, since three
+patients left the study, we had 14 patients to evaluate the
+responses. We included the results of these 14 patients for 24 week
+response evaluation. The UCT scores statistically increased from
+
+CIndU (n=67) n% CSU (n=66) n%
+
+53 (79,1) 41 (62,1)
+14 (20,9) 25(37,9)
+
+CIndU (n=53) n (%) CSU (n=41) n (%)
+13 (46,4) 6 (85,7)
+
+15 (53,6) 1 (14,3)
+
+14 (56,0) 15 (44,1)
+
+11 (44,0) 19 (55,9)
+
+27(50,9) 21(51,2)
+
+26(49,1) 20(48,8)
+
+ 
+
+CIndU, Chronic inducible urticaria CSU, Chronic spontaneous urticaria.
+AHs, Antihistamines, UCT, Urticaria control test.
+
+Response to standard doses of AHs in CSU group was significantly higher than CIndU group (p=0,031, p< 0,05, Pearson x2 test).
+64
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+
+10
+
+30%
+20% 7
+10%
+
+E. Kocatiirk et al. /Journal of Dermatological Science 87 (2017) 60-69
+
+11
+13
+
+ 
+
+ 
+
+ 
+
+0%
+
+Baseline week 4
+
+week 8 week 12 week 24
+
+QUCT <12 UCT 212
+
+ClIndU, Chronic inducible urticaria
+
+Fig. 2. Response rates to omalizumab treatment in patients with CIndU at week 4, 8, 12 and 24.
+
+7,07 + 2,56 to 11,93 + 3,73 at week 12 (p:0,002; p <0,01) while it
+increased to 12,93+2,67 at week 24 (p:0,001; p<0,01), these
+increases were statistically significant between the baseline levels
+but there were no statistical significance between the mean UCT
+levels of week 12 and 24 (p:0,233; p>0,01 Wilcoxon Signed Ranks
+Test). The DLQI scores decreased significantly from 11,14 + 6,90 to
+levels 5,07 +4,34 at week 12 (p:0,008; p<0,01) and 2+2,18 at
+week 24 (p:0,001; p < 0,01). But no statistical difference observed
+between the levels of week 12 and 24 in terms of DLQI scores
+change (p:0,11; p>0,01 Wilcoxon Signed Ranks Test).
+
+3.5. Evaluation of total response rates of CIndU and CSU according to
+guidelines
+
+Total response rates increased from 37,9% (n:25) to 68,2% (n:45)
+with the 2nd line treatments in CSU group while it increased from
+20,9% (n:14) to 59,7% (n:40) in CIndU group. When omalizumab
+was introduced to AH-refractory cases as a 3rd line treatment, total
+response rates evaluated at the 12th week were 76,1% (n:51) in
+patients with CIndU and 83,3% (n:55) in CSU. At the 24th week
+
+ 
+
+18
+
+ 
+
+16
+
+ 
+
+14
+12
+
+ 
+
+ 
+
+10
+
+ 
+
+Mean
+
+iad
+
+ 
+
+ 
+
+ 
+
+ 
+
+oconNn RF OD
+
+ 
+
+week 4
+ni17
+
+Baseline
+ni17
+
+——UCT score
+
+week 8
+
+week 24
+n:14
+
+week 12
+ni17 ni17
+
+DLQI score
+
+ClndU, Chronic inducible urticaria UCT, Urticaria control test DLQI, dermatology
+
+life quality index
+
+Fig. 3. The mean UCT and DLQI scores of CIndU group were evaluated at baseline, and 4th, 8th, 12th and 24th weeks of the treatment. Increases in the mean UCT score and
+decreases in the mean DLQI score between baseline and 4th, 8th,12th and 24th weeks were significant (Wilcoxon Signed Ranks Test, p < 0,01).
+E. Kocatiirk et al./Journal of Dermatological Science 87 (2017) 60-69 65
+
+ 
+
+ 
+
+ 
+
+Table 3
+
+Mean UCT, DLQI scores of CIndU patients at baseline (week 0) and 4th, 8th and12th weeks of omalizumab treatment.
+CIndu-Omalizumab treated patients (n= 17) UCT Score Disease control DLQI Score
+
+Min-Max(Median) Mean + SD UCT < 12 n (%) UCT > 12 n (%) Min-Max (Median) Mean + SD
+
+Baseline 2-11 (5) 6,71 +2,66 17 (100) 0 (0) 2-27 (9) 12,12 + 8,05
+Week 4 5-15 (12) 11,59 + 2,90 7 (41,2) 10 (58,8) 0-23 (3) 5,82 + 6,80
+Week 8 8-16 (14) 13,12 42,64 4 (23,5) 13 (76,5) 0-14 (1) 3,00 + 4,06
+Week 12 2-16 (12) 12,24 + 3,56 6 (35,3) 11 (64,7) 0-11 (2) 4,18 + 4,39
+Pp ©0,001" °0,001" °0,001"
+0.-4. week <p: 0,001" “0,002” <p: 0,009"
+0.-8. week <p: 0,001" 0,001" <p: 0,001"
+0.-12.week <p: 0,001" 0,001" <p: 0,002
+
+CIndU, Chronic inducible urticaria UCT, Urticaria control test DLQI, dermatology life quality index SD, standard deviation.
+
+¢ Wilcoxon Signed Ranks Test.
+© Friedman Test.
+“ p<0,01.
+
+these rates reached to 80,6% (n:54) in CIndU and 87,9% (n:58) in
+CSU (Fig. 6).
+
+3.6. Side effects and compliance to treatments
+
+Side effects of standard dose of H1-AHs used at referral were
+questioned. Twenty-two (32,8%) patients with CIndU reported at
+least one side effect. While sedation was reported by 25,4% (n:17)
+of this 67 patients, gastric complaints and cognition impairment
+had been reported by 2 patients. Dizziness, headache, weight gain
+and nervousness were the other complaints reported. Sedation was
+mostly reported with the use of levocetirizine [47,1% (n:8)]. Fourtynine patients (73,1%) showed good compliance to standart doses of
+H1-AHs at referral. When the side effects were evaluated at the
+second visit, 9 (32,1%) patients taking combination of sg-AHs and 5
+(20%) patients taking updosed sg-AHs stated at least one side effect
+but there were no significant differences between the groups
+(p=0,491; p>0,05, Yates’ Continuity Correction Test). One of the
+patients reported flu-like symptoms after each injection of
+omalizumab. When the compliance to updosing (76%, n:19) and
+combination (75%, n:21) of sg-AHs compared, there were also no
+differences between the two groups (p>0,05, Yates’ Continuity
+Correction Test).
+
+4. Discussion
+
+Second-generation H1-AHs constitute the 1st line treatment in
+both CSU and ClIndU, but only 4-56% of CU patients respond to
+standard doses [5,8,9,11-15]. In a recent systematic review and
+meta-analysis, response rates to standard doses of AHs was
+
+reported in 38.6% (95% CI 34.7-42.7) of CSU patients [16]. Even
+though there is a lack of data in the literature showing the
+treatment responses, CIndU can be challenging to treat with the
+standard doses of AHs [17]. In this study we demonstrated that
+patients with CIndU respond poorer than patients with CSU to
+standard doses of sg-AHs (20,9% vs 37,9%). This is a common
+observation by urticaria experts but has not been reported
+elsewhere.
+
+When the standard doses of sg-AHs fails, second step in the
+EAACI/GA7LEN/EDF/WAO guideline is increasing the dosage up to 4
+folds [5]. In most cases of CIndU, updosing is required to prevent
+the symptoms [18]. Higher dosages of sg-AHs are superior to
+standard dosages and they are also safe to use [4].
+
+We wondered if responses to updosing would be different in the
+CIndU group than the CSU group and found that response rates to
+updosing in the CSU and CIndU groups were not significantly
+different from each other; even though the response rates to
+standard doses were very poor in the CIndU group. There are
+numerous studies showing efficacy of updosing in CSU [19-24], as
+well as different types of CIndU [25-30] but a comparison has not
+been performed between CSU and CIndU before.
+
+High doses of AHs have been reported to be effective in about
+45%-50% of patients with CSU [31], and response rates increase
+from 45% up to more than 60% with the updosing of sg-AHs [32]. A
+systematic review and meta-analysis showed that response rate to
+updosing sg-AHs was 63.2% (95% CI 57-69.6%) in CSU [16]. We
+determined that total response rates increased from 37,9% to 68,2%
+with the second step of the treatment in the CSU group while it
+increased from 20,9% to 59,7% in CIndU group. Increasing
+antihistamine doses whether with updosing or combination
+
+ 
+
+ 
+
+ 
+
+Table 4
+Comparison of means and mean changes in UCT scores of omalizumab treated CIndU and CSU groups at week 12 and 24.
+n=32 CIndU (n=17) CSU (n=15) p-value
+UCT score before omalizumab treatment (baseline, week 0) Min-Max(Median) 2-11 (5) 0-11 (6) 0,893
+Mean + SD 6,71 42,66 6,47 + 2,92
+UCT scores at week 12 Min-Max (Median) 2-16 (12) 3-16 (13) 0,715
+Mean + SD 12,24 + 3,56 12,60 + 3,37
+Mean change from baseline to week 12 in UCT score Min-Max (Median) —3- 13 (5) —5- 14 (5) 0,530
+Mean + SD 5,53 + 3,90 6,13 +4,50
+n=27 CIndU (n= 14) CSU (n=13)
+UCT score before omalizumab treatment (baseline, week 0) Min-Max (Median) 4-11 (6,5) 0-10 (6) 0,604
+Mean + SD 7,07 £2,56 6,08 + 2,84
+UCT scores at week 24 Min-Max (Median) 6-16 (13) 5-16 (15) 0,362
+Mean + SD 12,93 + 2,67 13,54 + 3,07
+Mean change from baseline to week 24 in UCT score Min-Max (Median) 1-11 (6) —3-14 (7) 0,223
+Mean + SD 5,86 + 3,39 7,46 + 4,23
+
+ 
+
+CIndU, Chronic inducible urticaria UCT, Chronic spontaneous urticaria Urticaria control test SD, standard deviation.
+66 E. Kocatiirk et al. /Journal of Dermatological Science 87 (2017) 60-69
+
+p= 1,000*
+
+64.7% on
+
+n14 n:10
+
+p= 1,000**
+
+78.6%
+
+n:11
+
+ 
+
+CIndU response at week 12, CSU response at week 12, CIndU response at week 24, CSU response at week 24,
+
+n:17 n:1S
+
+n:l4 n:13
+
+CindU, Chronic inducible urticaria CSU, Chronic spontaneous urticaria
+
+Fig. 4. Similar response rates to omalizumab in patients with CIndU and CSU at week 12 and 24 (‘Yates’ Continuity Correction Test, ‘Fisher exact test p> 0,05).
+
+showed an undisputed efficacy and increased quality of life in both
+groups; and this increase was very prominent in the CIndU group.
+
+Safety and drug interactions are the common concerns of the
+combination therapies or updosing of AHs although there are trials
+showing the safety of updosing AHs [19,20,28,29,33-35]. Ebastine
+was shown to be effective and safe at high doses in CSU [22] while
+
+20 mg doses of ebastine was shown to be effective and safe in the
+patients with SD [25]. We did not observe in our cohorts any side
+effects that were significantly different between combination and
+updosing of sg-AHs.
+
+About 30-50% of CU patients are refractory to AHs and require
+alternative treatments [31,36-38]. Third line treatment choices for
+
+UCT2 12
+
+78.6%
+
+|
+
+64.3%
+
+ 
+
+84.6%
+
+61.5%
+
+ 
+
+ 
+
+ClndU response at
+
+week 12, 1:14 week 24, n:14
+
+ClndU response at
+
+CSU response at
+week 24, n:13
+
+CSU response at
+week 12, 0:13
+
+ClIndU, Chronic inducible urticaria CSU, Chronic spontaneous urticaria
+
+Fig. 5. There was an increase in response rates when omalizumab treatment had been continued to 24th week in CIndU and CSU groups. But 13/15 patients in CSU group and
+14/17 patients in CIndU patients had continued follow-up until 24th week of omalizumab treatment.
+E. Kocatiirk et al./Journal of Dermatological Science 87 (2017) 60-69 67
+
+csuU
+
+=CIndU
+
+ 
+
+ 
+
+87.9%
+i reek 2.
+. Omalizumab at week 24 80.6%
+: ~
+B §3,3%
+Omalizumab at week 12 76.1%
+2
+E a ; 168.2%
+7g Combination of two sg-AHs’ Updosing e
+3 of sz AHs 4-fold 59.7%
+3
+wu
+
+ 
+
+line
+
+    
+
+Standard doses of AHs
+
+ 
+
+ 
+
+AHs, antihistamines sg-AHs, second generation antihistamines ClndU, Chronic
+
+inducible urticaria CSU, Chronic spontaneous urticaria
+
+Fig. 6. Total response rates of CIndU and CSU to 1st line, 2nd line and 3rd line therapies.
+
+refractory cases include short-term corticosteroids, add-on therapy with cyclosporine, LTRA or omalizumab in the EAACI/GA?LEN/
+EDF/WAO guideline [5]. In 2014, omalizumab was approved by the
+FDA for AH-refractory CSU patients [39,40] and it was recommended by JTFPP, EAACI/GA?LEN/EDF/WAO and BSACI guidelines
+due to its efficacy and safety [5,8,9]. Efficacy of omalizumab for CSU
+has been shown by placebo controlled clinical trials [39,40-45],
+while there are just case reports and case series in the literature for
+CIndU [11,17,46-50]. There are on-going trials evaluating the
+efficacy of omalizumab in different types of CIndU which have not
+been published yet [CUTEX (NCT01580592), UFO (NCT02169115),
+XOLUS (NCT02262130), CUN-OMAL-UCOL (NCT02012387)]. In the
+current study 40,3% of CIndU patients and 31,8% CSU patients were
+AH-refractory and were given omalizumab treatment.
+
+In a retrospective clinical analysis complete remission was
+achieved in 83% of CSU and 70% of CIndU patients by the
+administration of omalizumab. Patients with CIndU showed
+similar response rates with CSU patients to omalizumab [11].
+Another cohort showed that 90% of patients with CSU responded to
+treatment while 53% of CIndU had a complete or almost complete
+response to treatment [46]. In our study, 64,7% CIndU and 66,7%
+CSU patients responded to omalizumab at week 12 while these
+rates increased to 78,6% in CIndU and 84,6% in CSU at week 24. This
+shows that treatment responses to omalizumab was similar in the
+CSU and CIndU groups and continuing omalizumab treatment for
+24 weeks may increase response rates in patients who were
+unresponsive at week 12.
+
+In recent reports; DPU and SD were found to be more
+responsive while patients with ColdU and CholU seem to be less
+responsive to omalizumab treatment [11]. In a case series, three of
+five patients with DPU; two of five patients with ColdU; three of
+four patients with CholU and one of two patients with SD showed
+response, patient with SU had no response to treatment [46]. In our
+
+series, SD patients (6/7) and combined CIndU (2/2) showed the
+best response to treatment with omalizumab while one of two
+ColdU and CholU patients responded to omalizumab treatment at
+week 24. While a patient with AU did not respond to omalizumab
+treatment at week 12, same patient responded to treatment at
+week 24.
+
+Total response rates increased from 37,9% (n:25) to 68,2 (n:45)
+with the 2nd line treatments in CSU group while it increased from
+20,9% (n:14) to 59,7% (n:40) in CIndU group. When omalizumab
+was introduced to AH-refractory cases as a 3rd line treatment, total
+response rates evaluated at the 12th week were 76,1% (n:51) in
+patients with CIndU and 83,3% (n:55) in CSU. At the 24th week
+these rates reached to 80,6% (n:54) in CIndU, 87,9% (n:58) in CSU.
+
+These findings suggest that updosing/combining antihistamines as well as adding omalizumab markedly increases
+response rates in CIndU.
+
+5. Limitations of the study
+
+Limitations of our study are 1. The design of CIndU group is
+prospective while CSU is retrospective. 2. In the second step
+treatments, we used levocetirizine plus rupatadine as the
+combination of sg-AH group while we used ebastine four-folds
+as the updosing group. These treatment groups were not
+appropriate to compare, that is why a comparison of combination
+and updosing of antihistamines could not be carried out. 3. When
+the patients reached the third line treatment, 10 of 27 CIndU
+patients and 6 of 21 CSU patients could not be enrolled because of
+unwillingness of getting omalizumab or quitting follow-up, loss of
+5 more patients at the 24th week evaluation could have effected to
+total response rates. 4. Although omalizumab is recommended as
+an add-on therapy, we gave omalizumab alone without antihistamines. The reason for this was; at the beginning of our study we
+68
+
+E. Kocatiirk et al. /Journal of Dermatological Science 87 (2017) 60-69
+
+started omalizumab with antihistamines but we later realised that
+the patients quitted taking their antihistamines. Because of this we
+had to treat other consequent patients as the same way with the
+former patients. That is why we gave omalizumab alone without
+antihistamines. The response rates would be higher in Figs. 4 and 5
+if omalizumab and antihistamines were given together.
+
+6. Conclusion
+
+Although the response rates to first line treatment is lower than
+
+CSU, patients with CIndU showed similar response rates to 2nd and
+3rd line treatments as CSU patients. In conclusion, the same
+guidelines for CSU may be implemented to patients with CIndU.
+
+Funding sources
+
+None.
+This article has no funding source. This research did not receive
+
+any specific grant from funding agencies in the public, commercial,
+or not-for-profit sectors.
+
+Conflict of interest disclosure
+
+Dr. Emek Kocatiirk reports advisory board fees from Novartis.
+
+The other authors have no conflict of interest to declare.
+
+Acknowledgements
+
+None.
+
+References
+
+ 
+
+[10
+
+[1
+
+[12
+
+ 
+
+M. Magerl, S. Altrichter, E. Borzova, et al., The definition, diagnostic testing, and
+management of chronic inducible urticarias—the EAACI/GA2LEN/EDF/UNEV
+consensus recommendations 2016 update and revision, Allergy 71 (2016)
+780-802, doi:http://dx.doi.org/10.1111/all.12884.
+
+A.M. Giménez-Arnau, C. Grattan, T. Zuberbier, E. Toubi, An individualized
+diagnostic approach based on guidelines for chronic urticaria (CU), Jeadv 29
+(2015) 3-11, doi:http://dx.doi.org/10.1111/jdv.13196.
+
+M. Magerl, E. Borzova, A. Giménez-Arnau, et al., The definition and diagnostic
+testing of physical and cholinergic urticarias - EAACI/GA2LEN/EDF/UNEV
+consensus panel recommendations, Allergy 64 (2009) 1715-1721, doi:http://
+dx.doi.org/10.1111 /j.1398-9995.2009.02177-x.
+
+M. Maurer, M. Magerl, M. Metz, T. Zuberbier, Revisions to the international
+guidelines on the diagnosis and therapy of chronic urticaria, J. Dtsch. Dermatol.
+Ges. 11 (2013) 971-977, doi:http://dx.doi.org/10.1111/ddg.12194 (quiz 978).
+T. Zuberbier, W. Aberer, R. Asero, et al., The EAACI/GA2LEN/EDF/WAO Guideline
+for the definition, classification, diagnosis, and management of urticaria: the
+2013 revision and update, Allergy 69 (2014) 868-887, doi:http://dx.doi.org/
+10.1111 /all.12313.
+
+K. Weller, T. Zuberbier, M. Maurer, Chronic urticaria: tools to aid the diagnosis
+and assessment of disease status in daily practice, J. Eur. Acad. Dermatol.
+Venereol. 29 (2015) 38-44, doi:http://dx.doi.org/10.1111/jdv.13200.
+
+K. Weller, A. Groffik, M.K. Church, et al., Development and validation of the
+Urticaria Control Test: a patient-reported outcome instrument for assessing
+urticaria control, J. Allergy Clin. Immunol. 133 (2014) 1365-1372, doi:http://dx.
+doi.org/10.1016/j.jaci.2013.12.1076 e6.
+
+J.A. Bernstein, D.M. Lang, D.A. Khan, et al., The diagnosis and management of
+acute and chronic urticaria: 2014 update, J. Allergy Clin. Immunol. 133 (2014)
+1270-1277, doi:http://dx.doi.org/10.1016/j,jaci.2014.02.036.
+
+RJ. Powell, S.C. Leech, S. Till, P.AJ. Huber, S.M. Nasser, A.T. Clark, BSACI
+guideline for the management of chronic urticaria and angioedema, Clin. Exp.
+Allergy 45 (2015) 547-565, doi:http://dx.doi.org/10.1111/cea.12494.
+
+S. Oztiirkcan, AT. Ermertcan, E. Eser, M. Turhan Sahin, Cross validation of the
+Turkish version of dermatology life quality index, Int. J. Dermatol. 45 (2006)
+1300-1307, doi:http://dx.doi.org/10.1111 /j.1365-4632.2006.0288 1.x.
+
+M. Metz, T. Ohanyan, M.K. Church, M. Maurer, Omalizumab is an effective and
+rapidly acting therapy in difficult-to-treat chronic urticari retrospective
+clinical analysis, J. Dermatol. Sci. 73 (2014) 57-62, doi:http://dx.doi.org/
+10.1016/j.jdermsci.2013.08.011.
+
+A.P. Kaplan, S.L. Spector, S. Meeves, Y. Liao, S.T. Varghese, G. Georges, Oncedaily fexofenadine treatment for chronic idiopathic urticaria: a multicenter,
+randomized, double-blind, placebo-controlled study, Ann. Allergy Asthma
+Immunol. 94 (2005) 662-669, doi:http://dx.doi.org/10.1016/S1081-1206(10)
+61325-7.
+
+ 
+
+ 
+
+13
+
+14)
+
+15
+
+16]
+
+17
+
+18
+
+19
+
+20)
+
+21
+
+22
+
+23
+
+24
+
+25,
+
+26)
+
+27
+
+28
+
+29
+
+30]
+
+31
+
+32
+
+33
+
+34)
+
+35
+
+36)
+
+ 
+
+A. Gimenez-Arnau, R.M. Pujol, S. lanosi, et al., Rupatadine in the treatment of
+chronic idiopathic urticaria: a double-blind, randomized, placebo-controlled
+multicentre study, Allergy 62 (2007) 539-546, doi:http://dx.doi.org/10.1111/
+j.1398-9995.2007.01330.x.
+D.L. Breneman, Cetirizine versus hydroxyzine and placebo in chronic
+idiopathic urticaria, Ann. Pharmacother. 30 (1996) 1075-1079.
+T. Zuberbier, Pharmacological rationale for the treatment of chronic urticaria
+with second-generation non-sedating antihistamines at higher-than-standard
+doses, J. Eur. Acad. Dermatol. Venereol. 26 (2012) 9-18, doi:http://dx.doi.org/
+10.1111 /j.1468-3083.2011.04185.x.
+S. Guillén-Aguinaga, I. Jauregui Presa, E. Aguinaga-Ontoso, F. Guillén-Grima, M.
+Ferrer, Up-dosing non-sedating antihistamines in patients with chronic
+spontaneous urticaria: a systematic review and meta-analysis, Br. J. Dermatol.
+(2016), doi:http://dx.doi.org/10.1111/bjd.14768.
+M. Metz, S. Altrichter, E. Ardelean, et al., Anti-immunoglobulin E treatment of
+patients with recalcitrant physical urticaria, Int. Arch. Allergy Immunol. 154
+(2011) 177-180, doi:http://dx.doi.org/10.1159/000320233.
+M. Abajian, N. Schoepke, S. Altrichter, H.C.T. Zuberbier, M. Maurer, Physical
+urticarias and cholinergic urticaria, Immunol. Allergy Clin. North Am. 34
+(2014) 73-88, doi:http://dx.doi.org/10.1016/j.iac.2013.09.010.
+A. Gimenez-Arnau, I. Izquierdo, M. Maurer, The use of a responder analysis to
+identify clinically meaningful differences in chronic urticaria patients
+following placebo- controlled treatment with rupatadine 10 and 20 mg, J. Eur.
+Acad. Dermatol. Venereol. 23 (2009) 1088-1091, doi:http://dx.doi.org/10.1111/
+j.1468-3083.2009.03289.x.
+M. Staevska, T.A. Popov, T. Kralimarkova, et al., The effectiveness of
+levocetirizine and desloratadine in up to 4 times conventional doses in
+difficult-to-treat urticaria, J. Allergy Clin. Immunol. 125 (2010) 676-682, doi:
+http://dx.doi.org/10.1016/j.jaci.2009.11.047.
+HS. Nelson, R. Reynolds, J. Mason, Fexofenadine HCI is safe and effective for
+treatment of chronic idiopathic urticaria, Ann. Allergy Asthma Immunol. 84
+(2000) 517-522, doi:http://dx.doi.org/10.1016/S1081-1206(10)62515-X.
+K.V. Godse, Ebastine in chronic spontaneous urticaria in higher doses, Indian J.
+Dermatol. 56 (2011) 597-598, doi:http://dx.doi.org/10.4103/0019-5154.87168.
+I. Jauregui, M. Ferrer, J. Bartra, et al., Bilastine for the treatment of urticaria,
+Expert Opin. Pharmacother. 14 (2013) 1537-1544, doi:http://dx.doi.org/
+10.1517/14656566.2013.800044.
+Y. Kameyoshi, T. Tanaka, S. Mihara, S. Takahagi, N. Niimi, M. Hide, Increasing
+the dose of cetirizine may lead to better control of chronic idiopathic urticaria:
+an open study of 21 patients, Br. J. Dermatol. 157 (2007) 803-804, doi:http://
+dx.doi.org/10.1111 /j.1365-2133.2007.08060.x.
+M. Magerl, J. Schmolke, M. Metz, T. Zuberbier, F. Siebenhaar, M. Maurer,
+Prevention of signs and symptoms of dermographic urticaria by single-dose
+ebastine 20 mg, Clin. Exp. Dermatol. 34 (2009) 137-140, doi:http://dx.doi.org/
+10.1111 /j.1365-2230.2008.03097.x.
+M. Abajian, L. Curto-Barredo, K. Krause, et al., Rupatadine 20 mg and 40 mg are
+effective in reducing the symptoms of chronic cold urticaria, Acta Derm.
+Venereol. (2014) 56-59, doi:http://dx.doi.org/10.2340/00015555-2150.
+K. Krause, A. Spohr, T. Zuberbier, M.K. Church, M. Maurer, Up-dosing with
+bilastine results in improved effectiveness in cold contact urticaria, Allergy 68
+(2013) 921-928, doi:http://dx.doi.org/10.1111 /all.12171.
+F. Siebenhaar, F. Degener, T. Zuberbier, P. Martus, M. Maurer, High-dose
+desloratadine decreases wheal volume and improves cold provocation
+thresholds compared with standard-dose treatment in patients with acquired
+cold urticaria: a randomized, placebo-controlled, crossover study, J. Allergy
+Clin. Immunol. 123 (2009) 672-679, doi:http://dx.doi.org/10.1016/j.
+jaci.2008.12.008.
+M. Magerl, D. Pisarevskaja, P. Staubach, et al., Critical temperature threshold
+measurement for cold urticaria: a randomized controlled trial of H1antihistamine dose escalation, Br. J. Dermatol. 166 (2012) 1095-1099, doi:
+http://dx.doi.org/10.1111 /j.1365-2133,2012.10822.x.
+T. Zuberbier, C. Miinzberger, U. Haustein, et al., Double-blind crossover study of
+high-dose cetirizine in cholinergic urticaria, Dermatology 193 (1996) 324-327.
+AP. Kaplan, Treatment of chronic spontaneous urticaria, Allergy Asthma
+Immunol. Res. 4 (2012) 326-331, doi:http://dx.doi.org/10.4168/
+aair.2012.4.6.326.
+M. Sanchez-Borges, R. Asero, I,J. Ansotegui, et al., Diagnosis and treatment of
+urticaria and angioedema: a worldwide perspective, World Allergy Organ. J. 5
+(2012) 125-147, doi:http://dx.doi.org/10.1097/WOX.0b013e3182758d6c.
+I. Hindmarch, Z. Shamsi, S. Kimber, An evaluation of the effects of high-dose
+fexofenadine on the central nervous system: a double-blind placebocontrolled study in healthy volunteers, Clin. Exp. Allergy 32 (2002) 133-139.
+I. Hindmarch, Z. Shamsi, N. Stanley, D.B. Fairweather, A double-blind placebocontrolled investigation of the effects of fexofenadine, loratadine and
+promethazine on cognitive and psychomotor function, Br. J. Clin. Pharmacol.
+8 (1999) 200-206.
+C. Banfield, D. Padhi, P. Glue, J.M. Herron, P. Statkevich, M.B. Affrime,
+Electrocardiographic effects of multiple High doses of desloratadine, J. Allergy
+Clin. Immunol. 104 (2000) $383.
+M. Sanchez-Borges, I. Ansotegui, J. Jimenez, M. Rojo, C. Serrano, A. Yaiiez,
+Comparative efficacy of non-sedating antihistamine updosing in patients with
+chronic urticaria, World Allergy Organ. J. 7 (2014) 33, doi:http://dx.doi.org/
+10.1186/1939-4551-7-33.
+E. Shahar, R. Bergman, E. Guttman-Yassky, S. Pollack, Treatment of severe
+chronic idiopathic urticaria with oral mycophenolate mofetil in patients not
+ 
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+ 
+
+E. Kocatiirk et al./Journal of Dermatological Science 87 (2017) 60-69 69
+
+responding to antihistamines and/or corticosteroids, Int. J. Dermatol. 45
+(2006) 1224-1227, doi:http://dx.doi.org/10.1111/j.1365-4632.2006.02655.x.
+S. Mitchell, M.M. Balp, M. Samuel, D. McBride, M. Maurer, Systematic review of
+treatments for chronic spontaneous urticaria with inadequate response to
+licensed first-line treatments, Int. J. Dermatol. 54 (2015) 1088-1104, doi:
+http: //dx.doi.org/10.1111 /ijd.12727.
+
+ZT. Zhao, C.M. Ji, W.J. Yu, L. Meng, T. Hawro, J.F. Wei, M. Maurer, Omalizumab
+for the treatment of chronic spontaneous urticaria: a meta-analysis of
+randomized clinical trials, J. Allergy Clin. Immunol. (2016) 17-21, doi:http://dx.
+doi.org/10.1016/j.jaci.2015.12.1342.
+
+M. Hide, T. Hiragun, Japanese guidelines for diagnosis and treatment of
+urticaria in comparison with other countries, Allergol. Int. 61 (2012) 517-527,
+doi:http://dx.doi.org/10.2332/allergolint.12-RAI-0497.
+
+S.S. Saini, C. Bindslev-Jensen, M. Maurer, et al., Efficacy and safety of
+omalizumab in patients with chronic idiopathic/spontaneous urticaria who
+remain symptomatic on H1 antihistamines: a randomized, placebo-controlled
+study, J. Invest. Dermatol. 135 (2015) 67-75, doi:http://dx.doi.org/10.1038/
+jid.2014.306.
+
+S. Saini, KE. Rosen, HJ. Hsieh, et al., A randomized, placebo-controlled, doseranging study of single-dose omalizumab in patients with H1-antihistaminerefractory chronic idiopathic urticaria, J. Allergy Clin. Immunol. 128 (2011)
+567-573, doi:http://dx.doi.org/10.1016/j.jaci
+M. Maurer, K. Rosén, H,J. Hsieh, et al., Omalizumab for the treatment of chronic
+idiopathic or spontaneous urticaria, N. Engl. J. Med. 368 (2013) 924-935, doi:
+http://dx.doi.org/10.1056/NEJMoa1215372.
+
+ 
+
+ 
+
+ 
+
+ 
+
+44
+
+[45
+
+[46
+
+47
+
+48
+
+49
+
+50
+
+ 
+
+A. Kaplan, D. Ledford, M. Ashby, et al., Omalizumab in patients with
+symptomatic chronic idiopathic/spontaneous urticaria despite standard
+combination therapy, J. Allergy Clin. Immunol. 132 (2013) 101-109, doi:http://
+dx.doi.org/10.1016/j.jaci.2013.05.013.
+
+P. Staubach, M. Metz, N. Chapman-Rothe, et al., Effect of omalizumab on
+angioedema in H 1 —antihistamine-resistant chronic spontaneous urticaria
+patients: results from X-ACT, a randomized controlled trial, Allergy 71 (2016)
+1135-1144, doi:http://dx.doi.org/10.1111/all.12870.
+
+M.N. Ghazanfar, C. Sand, S.F. Thomsen, Effectiveness and safety of omalizumab
+in chronic spontaneous or inducible urticaria: evaluation of 154 patients, Br. J.
+Dermatol. 175 (2016) 404-406, doi:http://dx.doi.org/10.1111 /bjd.14540.
+
+M. Metz, T. Ohanyan, M.K. Church, M. Maurer, Retreatment with omalizumab
+results in rapid remission in chronic spontaneous and inducible urticaria,
+JAMA Dermatol. 150 (2014) 288-290, doi:http://dx.doi.org/10.1001/
+jamadermatol.2013.8705.
+
+J.A. Boyce, Successful treatment of cold-induced urticaria/anaphylaxis with
+anti-IgE, J. Allergy Clin. Immunol. 117 (2006) 1415-1418, doi:http://dx.doi.org/
+10.1016/j.jaci.2006.04.003.
+
+A. Rorie, S. Gierer, A case of aquagenic urticaria successfully treated with
+omalizumab, J. Allergy Clin. Immunol. Pract. 4 (2016) 547-548, doi:http://dx.
+doi.org/10.1016/j.jaip.2015.12.017.
+
+K. Krause, E. Ardelean, B. Kessler, et al., Antihistamine-resistant urticaria
+factitia successfully treated with anti-immunoglobulin E therapy, Allergy 65
+(2010) 1493-1494, doi:http://dx.doi.org/10.1111 /j.1398-9995.2010.02385.x.
+

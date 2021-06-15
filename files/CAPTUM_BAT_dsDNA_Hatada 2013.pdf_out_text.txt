@@ -1,0 +1,563 @@
+Original Paper
+
+International Archives of
+
+TQ 0: Int Arch Allergy Immunol 2013;161 (suppl 2):154-158
+DOI: 10.1159/000350388
+
+le
+Immunology
+
+ 
+
+Published online: May 29, 2013
+
+ 
+
+Significantly High Levels of Anti-dsDNA
+Immunoglobulin E in Sera and the Ability of
+dsDNA to Induce the Degranulation of Basophils
+
+from Chronic Urticaria Patients
+
+Yuko Hatada®® Jun-ichi Kashiwakura? Koremasa Hayama? >
+
+Daisuke Fujisawa” > Tomomi Sasaki-Sakamoto? Tadashi Terui® Chisei Ra?
+
+Yoshimichi Okayama?
+
+Departments of *Molecular Cell Immunology and Allergology, and »Dermatology, Nihon University School of
+
+Medicine, Tokyo, Japan
+
+Key Words
+Chronic urticaria - Mast cells - Autoreactive
+immunoglobulin E - Autologous serum skin test
+
+Abstract
+
+Background: Chronic urticaria (CU) appears to be of autoimmune origin in about half of all patients, since several autoreactive immunoglobulin Gs (IgGs), such as anti-FceRla and
+anti-IgE, are detected in the sera of such patients. However,
+whether autoreactive IgE is associated with CU remains unclear. In this study, we attempted to identify autoreactive IgE
+antibodies in sera from patients with CU. Methods: Sera
+were collected from 67 normal subjects, 85 patients with CU
+and 28 patients with atopic dermatitis (AD). An autologous
+serum skin test (ASST) was performed on 27 of the CU patients. Autoreactive IgE and IgG levels against self-antigens
+were measured using enzyme-linked immunosorbent assays. The basophils were activated with dsDNA, and the
+CD63 expression level was examined using a fluorescenceactivated cell sorter. Results: The anti-dsDNA IgE levels were
+significantly higher in patients with CU and AD than in normal subjects, but no differences in the anti-dsDNA IgG levels
+were seen. The levels of thioredoxin-, peroxiredoxin- and
+
+thyroglobulin-reactive IgE and IgG were not significantly
+higher in the CU patients than in the other 2 groups. There
+was no significant difference in the levels of anti-dsDNA IgE
+between ASST-positive and ASST-negative patients. The basophils from 2 out of 9 CU patients exhibited degranulation
+in response to dsDNA. Conclusions: Our data suggest that
+anti-dsDNA IgE is involved in the pathogenesis of some cas
+es of CU. Copyright © 2013 S. Karger AG, Basel
+
+Introduction
+
+Chronic urticaria (CU) is characterized by the occurrence of the spontaneous emergence of wheals and a flare
+reaction lasting for more than 6 weeks. Mast cell (MC)
+activation is believed to be involved in the pathogenesis
+of CU, since the tryptase level in sera from patients with
+CU is significantly higher than that in sera from patients
+with atopic dermatitis (AD) and normal subjects [1]. Recently, several studies have demonstrated that omalizu
+Y.H. and J.K. contributed equally to this work.
+
+ 
+
+© 2013S. Karger AG, Basel
+1018-2438/13/1616-0154$38.00/0
+
+KARGER
+
+E-Mail karger@karger.com
+www.karger.com/iaa
+
+Correspondence to: Drs. Yoshimichi Okayama and Jun-ichi Kashiwakura
+Department of Molecular Cell Immunology and Allergology
+
+Nihon University School of Medicine, 30-1 Oyaguchikami-cho, Itabashi
+Tokyo 173-8610 (Japan)
+
+E-Mail okayama.yoshimichi@ nihon-u.ac.jp or jkashiwakura @ rcai.riken.jp
+
+ 
+mab is useful for the treatment of CU patients [2, 3], suggesting that immunoglobulin E (IgE)-mediated MC activation is crucial to the development of this disorder.
+
+The in vivo autologous serum skin test (ASST) is the
+diagnostic gold standard for the detection of autoantibodies against FceRI or IgE itself, as well as other autoreactive serum components [4]. Approximately 40-45% of
+CU patients reportedly produce autoreactive IgG antibodies, such as anti-FceRIa and anti-IgE [5-7]. Purified
+anti-FceRIa and anti-IgE antibodies from patients with
+CU are capable of inducing histamine release from basophils [8]. So in a subpopulation of patients, CU appears
+to be of autoimmune origin. A broad spectrum of IgEbinding self-antigens is reportedly associated with atopic
+eczema. In CU patients, a significant increase in the serum level of one autoreactive IgE, anti-thyroid peroxidase
+IgE, has been reported, compared to the level in normal
+subjects [9]. However, whether other autoreactive IgEs
+are increased in CU patients and whether autoreactive
+IgE is associated with the symptoms of CU remain unknown. In this study, we attempted to identify which autoreactive IgE antibodies in sera from patients with CU
+are involved in the pathogenesis of CU.
+
+Materials and Methods
+
+Sera from Normal Subjects, CU Patients and AD Patients
+
+Human peripheral blood samples were obtained from normal
+subjects, CU patients and AD patients. Written informed consent
+was obtained from all participants and the study was approved by
+the Ethics Committee of the Nihon University School of Medicine.
+All studies involving human subjects were conducted in accordance with the guidelines of the World Medical Association’s Declaration of Helsinki.
+
+Reagents and Antibodies
+
+The following reagents were purchased from the indicated
+sources: double-stranded DNA (dsDNA) from calf thymus, thioredoxin, peroxiredoxin, thyroglobulin and calcium ionophore
+A23187 (Sigma-Aldrich, St. Louis, Mo., USA); PE-conjugated anti-CD63 (clone H5C6) and biotinylated anti-human IgE and IgG
+mAbs (BD Biosciences, San Diego, Calif., USA); streptavidin- HRP
+(R&D Systems, Minneapolis, Minn., USA); PE/Cy5-streptavidin
+(Biolegend, San Diego, Calif., USA); and purified or biotin-conjugated anti-FceRla mAb (clone CRA1; eBioscience, San Diego,
+Calif., USA).
+
+Enzyme-Linked Immunosorbent Assays for the Detection of
+
+Autoreactive Antibodies
+
+dsDNA, thioredoxin, peroxiredoxin and thyroglobulin (5 ug/
+ml) were coated in 96-well plates and left overnight at room temperature. After the wells were blocked with 1% BSA in PBS, sera
+from normal subjects, CU patients and AD patients (diluted 1:10
+and 1:100 for the detection of autoreactive IgE and IgG, respec
+ 
+
+The Role of Autoreactive IgE in CU
+
+tively) were added. Bound human IgE and IgG were detected using
+biotinylated anti-human IgE and IgG monoclonal antibodies
+(mAbs), followed by streptavidin-HRP. The color was developed,
+and the absorbance at 450 nm was measured.
+
+Autologous Serum Skin Test
+
+An ASST was performed according to an internationally approved protocol [10]. Briefly, 0.2 ml of autologous serum was injected intradermally (undiluted) into the volar aspect of both forearms. Histamine and normal saline were used as positive and negative controls, respectively. The results were evaluated at 30 min
+after injection and were considered positive if the wheal diameter
+exceeded the injection wheal by 1.5 mm and was accompanied by
+a flare reaction.
+
+Activation of Basophils
+
+Peripheral blood mononuclear cells were isolated from fresh
+heparinized peripheral blood using density gradient centrifugation and were resuspended in assay medium (HEPES buffer,
+1 mM CaCh, 1 mM MgCl and 0.025% BSA) to a final concentration of 10° cells/ml. The peripheral blood mononuclear cells were
+incubated with IL-3 (10 ng/ml; PeproTech EC Ltd., London, UK)
+for 30 min [11] and washed, then stimulated with dsDNA (1, or 10
+ug/ml), rabbit anti-IgE Ab (0.1 g/ml; DAKO Cytomation, Carpinteria, Calif., USA), or calcium ionophore A23187 (10-6 M) at
+37°C for 30 min. A flow cytometric analysis of the mononuclear
+cells was performed as described previously [12]. Biotin-conjugated anti-FceRIa mAb (clone CRA1) and PE-conjugated anti-CD63
+(clone H5C6) were used. PE/Cy5-streptavidin was used as a secondary antibody.
+
+ 
+
+ 
+
+Statistical Analysis
+
+Differences among the 3 groups of data were analyzed using
+nonparametric Steel-Dwass analysis and were considered significant at p < 0.05.
+
+Results
+
+Table 1 shows the characteristics of the study subjects.
+The CU patients, AD patients and normal control group
+were comprised of 85 subjects with a median and interquartile age range of 44.5 + 15.7 years, 28 with a median
+and interquartile age range of 41.9 + 15.5 years and 67
+with a median and interquartile age range of 34.6 + 8.7
+years, respectively. The durations of the disease in the CU
+and AD patients were 46.3 + 59.6 and 317.4 + 140.2
+months, respectively (median and interquartile range),
+and their total IgE levels were 307 + 318 and 4,646 + 4,267
+IU/ml, respectively (median and interquartile range).
+Ten (40%) CU patients had positive ASST results and 15
+(60%) had negative ASST results.
+
+To investigate which autoreactive IgE levels were increased, we measured the dsDNA-, thioredoxin-, peroxiredoxin-, and thyroglobulin-reactive IgE and IgG levels
+in the serum samples. In figure 1a, the anti-dsDNA IgE
+
+ 
+
+Int Arch Allergy Immunol 2013;161(suppl 2):154-158
+DOI: 10.1159/000350388
+
+155
+
+ 
+levels in the patients with CU and the patients with AD
+were significantly higher than that of the normal subjects. However, the anti-dsDNA IgG level in the CU patients was not significantly different from that in the AD
+patients and the normal subjects (fig. 1b). We observed
+no significant increases in the levels of thioredoxin-,
+peroxiredoxin- and thyroglobulin-reactive IgE and IgG
+in sera from the CU patients, compared to the levels in
+sera from AD patients and normal subjects (data not
+shown).
+
+To evaluate the correlation between the levels of antidsDNA IgE and the laboratory data, we compared the
+levels with the total IgE concentration, duration of the
+disease, sex of the subjects and the ASST results. No cor
+relation was observed between the levels of anti-dsDNA
+IgE and the total IgE levels (y = 1.2 x 10° ~ 312) + 0363,
+r’ = 0.00073), the duration of the disease (y = 9.0 x
+1075 (*~51) + 0.352, +2 — 9.0016) and the sex (0.35 + 0.02 vs.
+0.35 + 0.02, p = 0.87) of the CU patients. There was no
+significant difference in the levels of anti-dsDNA IgE between ASST-positive and ASST-negative patients (fig. 2).
+
+The ability of dsDNA to form cross links with receptor-bound anti-dsDNA IgE on the surface of basophils
+was analyzed by evaluating the upregulation of CD63 on
+FceRI*-gated cells using a fluorescence-activated cell
+sorter (fig. 3). The dsDNA was able to induce CD63 upregulation on basophils from 2 out of 9 patients with CU
+who tested positive for anti-dsDNA IgE but not from nor
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+le)
+
+8 reere)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AD
+
+ 
+
+ 
+
+Fig. 1. Serum anti-dsDNA IgE (a) and IgG (b) levels in CU patients
+(n = 85), AD patients (n = 28) and normal subjects (NS; n = 67)
+were measured using ELISAs. The dotted lines show the arbitrary
+cut-off values for dsDNA. The open circles show the values of in
+dividual patients. Black and gray circles indicate CU patients who
+have a complication of Hashimoto disease or AD, respectively.
+The lines to the right show the median and interquartile range
+in each group. * p < 0.01.
+
+Table 1. Characteristics of the CU patients, AD patients and normal subjects
+
+ 
+
+ 
+
+CU patients AD patients Normal subjects
+Number 85 28 67
+Women 64.7% (55/85) 53.6% (15/28) 61.2% (41/67)
+Age, years! 44.5+15.7 41.9+15.5 34.648.7
+Disease duration, months! 46.3+59.6 317.4+140.2 N.A.
+IgE, TU/ml! 3074318 4,646+4,267 N.D.
+Ratio of ASST-positive individuals 40% (10/25) N.A. N.A.
+
+ 
+
+' Data are shown as median and interquartile range. N.A. = Not applicable; N.D. = not determined.
+
+ 
+
+ 
+
+156 Int Arch Allergy Immunol 2013;161 (suppl 2):154-158
+
+DOI: 10.1159/000350388
+
+ 
+
+Hatada/Kashiwakura/Hayama/Fujisawa/
+Sasaki-Sakamoto/Terui/Ra/Okayama
+
+ 
+mal subjects, suggesting that dsDNA is able to aggregate
+FceRI, leading to the activation of basophils from patients
+with CU who tested positive for anti-dsDNA IgE.
+
+Discussion
+
+In this study, we observed that the anti-dsDNA IgE
+evels were significantly increased in patients with CU
+(fig. 1), but the thioredoxin-, peroxiredoxin- and thyroglobulin-reactive IgE levels were not. There was no significant difference in the levels of anti-dsDNA IgE beween ASST-positive and ASST-negative patients (fig. 2).
+The total IgE levels, the duration of the disease period
+and sex of the patients were not correlated with the antidsDNA IgE levels. dsDNA was able to induce the upreguation of CD63 expression on basophils from 2 out of 9
+patients with CU who were anti-dsDNA IgE positive, but
+not on basophils from all normal subjects (n = 3) (fig. 3).
+These data suggest that anti-dsDNA IgE may exacerbate
+wheals and flares in some cases of CU.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10-5
+[e)
+ns.
+0.84
+0.6 4
+°
+a
+© o4- & > °
+> + % 4A
+0.24 ~ fe) ~
+2°
+0 T T
+ASST-negative CU ASST-positive CU
+
+ 
+
+ 
+
+ 
+
+Fig. 2. No significant difference in levels of anti-dsDNA IgE between ASST-negative CU and ASST-positive patients. Serum antidsDNA IgE in CU patients with ASST-negative (n = 17) and ASSTpositive (n = 10) results were measured using an ELISA. The open
+circles show the values of individual patients. The lines to the right
+show the median and interquartile range for each group. The dotted line shows the arbitrary cut-off value for dsDNA. n.s = Not significant.
+
+ 
+
+dsDNA
+
+Anti-IgE
+1 ug/ml
+
+0.1 pg/ml
+
+Normal control
+
+Cell counts
+
+CU patient
+
+ 
+
+103 100 101 102
+
+FL2-H
+
+10! 102
+FL2-H
+
+10°
+
+ 
+
+A23187
+10m
+
+dsDNA
+10 ug/ml
+
+ 
+
+101 102 103
+FL2-H
+
+ 
+
+101 102
+FL2-H
+
+103
+
+101
+
+0 4
+10° 102
+
+FL2-H
+
+103
+
+10°
+
+103
+
+ 
+
+ 
+
+CD63
+
+ 
+
+Fig. 3. Activation of basophils by dsDNA. The numbers of activated basophils were analyzed based on the expression of CD63 on
+FceRI*-gated peripheral blood mononuclear cells after stimulation
+with anti-IgE, dsDNA or calcium ionophore A23187. Dotted lines
+
+ 
+
+The Role of Autoreactive IgE in CU
+
+ 
+
+indicate the expression of CD63 on unstimulated basophils. Solid
+lines indicate the expression of CD63 on basophils stimulated with
+anti-IgE, dsDNA or calcium ionophore. Results of 1 representative
+patient with CU and 1 normal control are shown.
+
+ 
+
+Int Arch Allergy Immunol 2013;161(suppl 2):154-158
+
+DOE: 10.1159/000350388
+——
+
+157
+
+ 
+The sera from ASST-negative CU patients are believed
+‘0 not contain molecules that induce the aggregation of
+FceRI, such as anti-IgE or anti-FceRla chain. Our data
+indicated that there was no significant relationship beween serum levels of anti-dsDNA IgE and autoantibodies against FceRI or IgE itself, which induce the aggregaion of FceRI. The dsDNA (1 and 10 ug/ml) was directly
+able to activate basophils from 2 out of 9 CU patients with
+anti-dsDNA IgE, indicating that anti-dsDNA IgE bound
+‘0 the FceRI of patients’ basophils. The concentrations of
+dsDNA (1 and 10 ug/ml) used in the study are experimenally used for stimulation of immune cells and other cells
+as a danger signal. A higher concentration (10 ug/ml) of
+dsDNA was less effective for degranulation than 1 ug/ml
+of dsDNA. It has been reported that degranulation of
+bone marrow-derived mast cells was significantly reduced at supraoptimal antigen levels due to SHIP activation [13]. We have not performed the experiments using
+basophils from AD patients in this study set. As we also
+observed that the anti-dsDNA IgE levels were significantly increased in patients with AD, there is a possibility that
+dsDNA may be directly able to activate basophils from
+some of AD patients with anti-dsDNA IgE. Our present
+data suggest that autoreactive IgE-mediated MC activation may be critical to the development of disease in some
+cases of CU.
+
+ 
+
+References
+
+P1 Ferrer M, Nunez-Cordoba JM, Luquin E, P5
+
+Grattan CE, De la Borbolla JM, Sanz ML,
+
+Schwartz LB: Serum total tryptase levels are
+
+increased in patients with active chronic urti
+caria. Clin Exp Allergy 2010;40:1760-1766. ad
+
+Kaplan AP, Joseph K, Maykut RJ, Geba GP,
+
+Zeldin RK: Treatment of chronic autoim
+mune urticaria with omalizumab. J Allergy
+
+Clin Immunol 2008; 122:569-573.
+
+P3 SainiS, Rosen KE, Hsieh HJ, WongDA,Con- 7
+ner E, Kaplan A, Spector S, Maurer M: A randomized, placebo-controlled, dose-ranging
+study of single-dose omalizumab in patients
+with H1-antihistamine-refractory chronic id
+m2
+
+2011;128:567-573.el.
+4 Zuberbier T, Asero R, Bindslev-Jensen C,
+Walter Canonica G, Church MK, Gimenez
+gala B, Saini S, Sanchez-Borges M, SchmidGrendelmeier P, Schunemann H, Staubach P,
+Vena GA, Wedi B, Maurer M: EAACI/GA(2)
+LEN/EDF/WAO guideline: definition, classification and diagnosis of urticaria. Allergy
+2009;64:1417-1426.
+
+ 
+
+158 Int Arch Allergy Immunol 2013;161 (suppl 2):154-158
+
+DOI: 10.1159/000350388
+
+Gruber BL, Baeza ML, Marchese MJ, Agnello
+V, Kaplan AP: Prevalence and functional role
+of anti-IgE autoantibodies in urticarial syndromes. J Invest Dermatol 1988;90:213-217.
+Hide M, Francis DM, Grattan CE, Hakimi J,
+Kochan JP, Greaves MW: Autoantibodies
+against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-1604.
+Fiebiger E, Tortorella D, Jouvin MH, Kinet JP,
+Ploegh HL: Cotranslational endoplasmic reticulum assembly of FceRI controls the formation of functional IgE-binding receptors.
+J Exp Med 2005;201:267-277.
+
+iopathic urticaria. J Allergy Clin Immunol P8 Tong LJ, Balakrishnan G, Kochan JP, Kinet
+JP, Kaplan AP: Assessment of autoimmunity
+in patients with chronic urticaria. J Allergy
+Clin Immunol 1997;99:461-465.
+
+Arnau A, Grattan CE, Kapp A, Merk HF, Ro- 9 Altrichter S, Peter HJ, Pisarevskaja D, Metz P13
+M, Martus P, Maurer M: IgE-mediated autoallergy against thyroid peroxidase - a novel
+pathomechanism of chronic spontaneous urticaria? PLoS One 2011;6:e14794.
+
+In summary, we detected significantly higher levels of
+anti-dsDNA IgE in patients with CU than in normal subjects. dsDNA directly activated basophils from CU patients with a high level of anti-dsDNA IgE, suggesting that
+anti-dsDNA IgE might be involved in the pathogenesis of
+CU in some cases.
+
+Acknowledgements
+
+This work was supported in part by Grants-in-Aid for Scientific Research from the Ministry of Education, Culture, Sports, Science and Technology of the Japanese Government [Project Nos.
+(C) 20591195 and (C) 23591470 awarded to Y.O. and (B) 22390202
+awarded to C.R.], the Nihon University Multidisciplinary Research Grant for 2010-2011 (awarded to Y.O.) and the Matching
+Fund Subsidy for Private Universities from the Ministry of Education, Culture, Sports, Science and Technology of the Japanese Government (awarded to C.R.). Jun-ichi Kashiwakura’s present address: Laboratory for Allergic Disease, RIKEN Center for Integrative Medical Sciences (IMS-RCAI), Kanagawa, Japan.
+
+Disclosure Statement
+
+The authors declare that no financial or other conflict of interest exists in relation to the content of this article.
+
+P10 Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan
+CE: EAACI/GA(2)LEN task force consensus
+report: the autologous serum skin test in urticaria. Allergy 2009;64:1256-1268.
+
+Gentinetta T, Pecaric-Petkovic T, Wan D,
+Falcone FH, Dahinden CA, Pichler WJ, Hausmann OV: Individual IL-3 priming is crucial
+for consistent in vitro activation of donor basophils in patients with chronic urticaria. J AlJergy Clin Immunol 2011;128:1227-1234
+e1225.
+
+Okumura S, Kashiwakura J, Tomita H, Matsumoto K, Nakajima T, Saito H, Okayama Y:
+Identification of specific gene expression profiles in human mast cells mediated by Tolllike receptor 4 and FceRI. Blood 2003;102:
+2547-2554.
+
+Gimborn K, Lessmann E, Kuppig S, Krystal
+G, Huber M: SHIP down-regulates FceR1induced degranulation at supraoptimal IgE
+or antigen levels. J Immunol 2005;174:507516.
+
+Pi
+
+P12
+
+ 
+
+Hatada/Kashiwakura/Hayama/Fujisawa/
+Sasaki-Sakamoto/Terui/Ra/Okayama
+
+ 
+

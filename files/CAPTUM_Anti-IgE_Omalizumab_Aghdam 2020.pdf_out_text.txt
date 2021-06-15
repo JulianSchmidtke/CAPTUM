@@ -1,0 +1,881 @@
+Received: 22 July 2019
+
+Revised: 31 December 2019
+
+Accepted: 3 January 2020
+
+ 
+
+DOI: 10.1111/cea.13566
+
+ORIGINAL ARTICLE
+
+Basic Mechanisms in Allergic Disease
+
+WILEY
+
+Response of FceRI-bearing leucocytes to omalizumab in
+chronic spontaneous urticaria
+
+Mehran Alizadeh Aghdam!@® | Edward F.Knol'?@® | Mignon van den Elzen* |
+Constance den Hartog Jager? | Harmieke van Os-Medendorp? | André C. Knulst* |
+Henny G. Otten? | Heike Réckmann'®
+
+‘Division Internal Medicine and
+Dermatology, Department Dermatology/
+Allergology, University Medical Center
+Utrecht, Utrecht, The Netherlands
+
+2Division of Laboratories, Pharmacy and
+Biomedical Genetics, Center of Translational
+Immunology, University Medical Center
+Utrecht, Utrecht, The Netherlands.
+
+Correspondence
+
+Heike R6ckmann, University Medical Center
+Utrecht, Postbus 85500, 3508 GA, Utrecht,
+The Netherlands.
+
+Email: h.rockmann@umcutrecht.nl
+
+Funding information
+Research grant by Novartis Pharma B.V.
+
+ 
+
+Abstract
+
+Background: The pathogenesis of chronic spontaneous urticaria (CSU) and the
+mechanism of action of omalizumab in CSU remain unclear.
+
+Objective: In this study, we assessed the responsiveness and FceRI expression of
+various subsets of leucocytes in patients with CSU treated with omalizumab.
+Methods: In this prospective cohort study, 30 patients were treated with 6 administrations of 300 mg omalizumab every 4 weeks, followed by a follow-up period of
+12 weeks. FceRI expression and the percentage of basophils, monocytes, and dendritic cell subsets were analysed before and during treatment, and after follow-up.
+In addition, anti-lgE- and C5a-induced basophil degranulation was measured. The
+results were correlated with disease activity and response to omalizumab.
+
+Results: In addition to a rapid and significant reduction in FceRI on basophils, we demonstrated a reduction in FceRI on plasmacytoid dendritic cells during omalizumab
+treatment, which persisted until 3 months after discontinuation. FceRI expression on
+basophils and its reduction did not correlate with the treatment response. Omalizumab
+led to an increased percentage of basophils in blood but not of the other FceRI-bearing
+leucocytes. Basophil responsiveness was differentially affected; anti-lgE-, but not
+C5a-induced basophil degranulation increased during the treatment. Apart from clinical non-responders showing a stronger increase in anti-lgE-induced basophil degranulation over a period time, no differences were found in omalizumab responders vs
+non-responders.
+
+Conclusions/Clinical Relevance: FceRI expression on basophils decreased rapidly,
+while anti-lgE-induced degranulation significantly increased due to omalizumab
+treatment in patients with CSU, persisting at least for 3 months after stopping the
+treatment. None of the markers were able to predict the effectiveness of treatment. Whether basophils play a role in omalizumab responsiveness in CSU remains
+
+unclear.
+
+ 
+
+Abbreviations: CSU, chronic spontaneous urticaria; mDC, myeloid dendritic cells; pDC, plasmacytoid dendritic cells; PRO, patient-reported outcomes; UAST, Urticaria Activity Score
+
+during 7 days.
+
+ 
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+
+provided the original work is properly cited.
+
+© 2020 The Authors. Clinical & Experimental Allergy published by John Wiley & Sons Ltd
+
+ 
+
+364 wileyonlinelibrary.com/journal/cea
+
+Clin Exp Allergy. 2020;50:364-371.
+ALIZADEH AGHDAM ert AL.
+
+ 
+
+KEYWORDS
+
+WI Ley
+
+basophil degranulation, FceRI, high-affinity IgE receptor, omalizumab, skin, therapy response,
+
+urticaria
+
+1 | INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) manifests as a skin disease
+with a sudden onset of weals, which last longer than 6 weeks. The
+disease duration ranges from 1 to 5 years or even longer in more
+severe cases.! Omalizumab is effective as a third-line treatment in
+a majority of CSU patients with insufficient response to a fourfold
+dose of antihistamines.” It is administered subcutaneously and
+reaches peak serum concentrations after an average of 7-8 days.
+Clearance of the monoclonal antibody is slow, with a terminal
+half-life of 19-22 days,* which allows for relatively long treatment
+intervals of 4 weeks. A rapid clinical response can be seen ina
+proportion of the patients after the first omalizumab dose administration; however, other patients require multiple doses to reach
+a well-controlled disease status.°
+
+Omalizumab is a humanized monoclonal antibody, which
+binds to the Ce3 domain of free IgE, thereby preventing it from
+binding to Fc epsilon RI (FceRI).° Depletion of free IgE by omalizumab leads to a down-regulation of the FceRI on mast cells ina
+majority of patients.”® Mast cells are considered to be the most
+important effector cells in CSU. In addition, a role for basophils
+has been suggested in certain urticaria phenotypes.’ Basophil
+numbers are inversely related to urticaria severity.°** An increased presence of basophils in the skin and decreased numbers
+in peripheral blood suggest that basophils are recruited to the
+affected skin sites.1? 4
+
+Recent studies investigating the response of skin mast cells to
+omalizumab in allergic patients showed down-regulation of FceRI
+expression after 1-2 months.'*?” Therefore, other cell types, such
+as basophils and dendritic cells, might account for the rapid clinical
+effect of omalizumab.'*”
+
+Decreased degranulation of basophils after stimulation via
+FceRI was demonstrated in patients with urticaria compared to that
+in healthy controls.?° It is not known if responses to other stimuli, such as C5a (which activates basophils via a G-protein-coupled
+pathway), are affected.7° Besides basophils and mast cells, other
+myeloid cells can also express FceRI on their surfaces.2? The presence of FceRI has been demonstrated on monocytes and different
+types of dendritic cells, more profoundly in patients with allergies
+than in healthy individuals. In allergic rhinitis patients, expression
+of FceRI on the different myeloid cells depended on serum IgE concentration, and treatment with omalizumab reduced the expression
+of FceRI on basophils, mast cells, and DCs.2244 Recently, Deza et al
+suggested that the baseline expression of basophil FceRI was a potential immunological predictor of responsiveness to omalizumab in
+urticaria. Furthermore, they found that patients who responded to
+omalizumab treatment had a rapid reduction in the levels of basophil
+
+FceRI during treatment. Given the potential role of FceRI-bearing
+
+leucocytes, in particular basophils, in the pathogenesis and/or
+treatment response to omalizumab, we evaluated the role of FceRI
+bearing cells in CSU patients treated with omalizumab.
+
+2 | METHODS
+2.1 | Design and population
+
+This monocentric exploratory prospective cohort study was performed in the University Medical Center Utrecht, the Netherlands,
+from 2015 until 2017. We included 30 patients according to the
+following criteria: age 2 18 years, active diagnosis of CSU (weekly
+urticaria activity score [UAS7]) 2 16, in-clinic UAS 2 4 on the day
+of the first omalizumab administration, and insufficient response
+to a four-times daily administration of antihistamines. Exclusion
+criteria were clearly defined underlying aetiology for chronic urticaria (eg chronic inducible urticaria [CINDU]), a history of malignancy, known hypersensitivity to omalizumab, and pregnancy.
+Routine administration of immunosuppressants, including prednisolone and cyclosporine A (CsA) was discontinued with washout
+periods of 3 months prior to treatment with omalizumab. If prednisolone was used as a rescue medication, a washout period of
+2 weeks was maintained.
+
+After a screening period of up to 2 weeks, eligible patients received six doses of 300 mg omalizumab every 4 weeks. After the last
+omalizumab administration, the patients were observed during a follow-up period of 3 months. The patients were kept on a treatment
+with fourfold dose of H1 antihistamines throughout the study period.
+Asarescue medication, patients were allowed to use prednisolone, up
+to 30 mg daily. All other CSU-related medications were discontinued.
+
+Disease activity was measured throughout the study using
+the UAS7.2° Treatment response is defined as a UAS < 6 at
+week 24 of treatment. Improvement by a minimal important difference (MID) is defined as a reduction in 10 UAS7 points.”¢ Alll the
+patients provided written informed consent, and the study was
+
+approved by the local ethics committee (protocol number 15-167).
+
+2.2 | Blood collection
+
+Blood samples were collected at the following time-points: at
+baseline (TO) and at different time-points after the first injection:
+6 hours (TO.25), 1 day (T1), 1 week (T7), 2 weeks (T14), 1 month
+(second dose, T28), 1 month and 2 hours (T28.08), 2 months (T56),
+3 months (T84), 4 months (T112), 5 months (T140) and 8 months
+(follow-up, T224). EDTA blood and gel-separated serum were
+
+placed on ice immediately after venipuncture. Blood was also
+ALIZADEH AGHDAM er AL.
+
+ 
+
+| WwiLEey
+
+collected from nine self-reported healthy controls for baseline
+analysis. All serum samples were allowed to coagulate for 60 minutes. Serum and plasma were obtained by centrifugation and
+stored at -80°C. Total IgE was determined using the ImmunoCap
+assay according the manufacturer's instructions (Thermo Fisher
+Scientific).
+
+2.3 | Leucocyte subset determination
+
+Leucocytes subsets were identified using an antibody panel containing CD45-PO (Life Technologies) for lymphocytes; CD123PerCPCy5.5 (BD Pharmingen), CD203c APC (Sony), HLA-DR-PB
+(Sony), and CD41-PE-Cy7 for basophils; and CD45-PO (Life
+Technologies) and CD14-APC-H7 (BD Pharmingen) for monocytes.
+To distinguish between the three different subsets of dendritic cells
+(DCs), an antibody panel containing HLA-DR-PE-CY7 (BioLegend),
+CD11c-PB (BioLegend), and CD123 PerCP Cy5.5 (BD Pharmingen)
+was used for plasmacytoid dendritic cells (pDCs). For two subsets of
+myeloid dendritic cells (mDCs), CD14-V500 (BD), HLA-DR-PE-CY7
+(BioLegend), CD1c-APC-Cy7 (BioLegend), and CD141-APC (Miltenyi)
+were used. Leucocyte subset quantities were depicted as the per
+centage of cells within the total leucocyte measures/numbers.
+
+2.4 | Quantification of FceRI expression
+
+Whole blood samples were divided into aliquots of 75 uL each to
+carry out staining of basophils, monocytes, dendritic cells (DC), or an
+isotype control. All the cells were stained for either FceRI (CRA-1, eBioscience) or an |gG2b isotype control (Sony) for 30 minutes at 4°C in
+the dark. Following washing, cells and QIFIKIT beads (Dako, Glostrup,
+Denmark) were simultaneously stained with a saturated solution of
+goat anti-mouse IgG FITC to determine the absolute FceRI expression, quantified as antibody binding capacity (ABC). The QUIFIKIT
+contains five bead populations with a distinct and known amount of
+monoclonal mouse antibody bound per microsphere bead. By constructing a calibration curve based on the fluorescence intensity of
+different populations plotted against their known antibody density,
+FceRI expression on different cell types can be interpolated based on
+their mean fluorescence intensity (MFI). The specific antibody binding capacity (SABC) is then calculated by subtracting the calculated
+ABC for corresponding isotype controls from the anti-FceRI ABC.
+
+2.5 | Basophil activation test
+
+Heparin anti-coagulated blood samples were stimulated for 30 minutes at 37°C with increasing concentrations of anti-IgE (0.03, 0.1,
+0.3, and 1 ug/mL) (Vector laboratories) or C5a (83 and 200 ng/mL)
+(R&D Systems) in RPMI-1640 medium (Gibco, Life Technologies) containing 1 ng/mL IL3 (R&D Systems). Leucocytes were stained with
+an antibody cocktail of CD45-PO (Life Technologies), CD123-FITC
+
+i Follow-up
+
+UAS7 score
+= wD ww
+foo] bh Oo
+
+=
+Ls)
+
+nll
+16 20 24 28 32
+Week
+
+ 
+
+FIGURE 1 Median values of UAS7 for responders and nonresponders improve during omalizumab treatment. Median values
+of UAS7 at baseline, during omalizumab treatment, and during
+follow-up are presented for responders and non-responders. At the
+start of week 20, the final dose of omalizumab was administered,
+which initiated the follow-up period after week 24 (dotted line).
+Subjects who restarted omalizumab during the follow-up period
+were excluded from data analysis. += Subjects with UAS7 > 6
+
+at week 24; n = 15 non-responders/partial responders; —eSubjects with UAS7 < 6 at week 24; n = 15 responders; __ Overall
+median + confidence interval
+
+(BioLegend), HLA-DR-PB (Sony), CD63-PE (Monosan), CD41 PECY7 (Beckman Coulter), or CD203c-APC (Sony). Basophils were
+defined as CD45* CD203c* CD123* and HLA-DR CD41. Basophil
+degranulation was quantified by determining the percentage of
+CD63-binding basophils. The threshold for basophil degranulation
+
+was set between degranulated and resting basophils.
+
+2.6 | Statistical analysis
+
+Differences in cell counts, basophil activation test (BAT) results, and
+FceRI density in time were analysed using Wilcoxon matched-pairs
+signed-rank tests. Analyses between different responder groups were
+performed using Mann-Whitney U tests. Correlation analysis was performed using Spearman's rank correlation or Pearson's correlation if
+appropriate. Regarding the UAS7 score, the difference between each
+time-point and baseline was tested using Wilcoxon matched-pairs
+signed-rank tests. Statistical analysis was performed using IBM SPSS
+Statistics version 21 or GraphPad Prism version 7.02. Graphs were
+plotted using Microsoft Visio 2010 or GraphPad Prism version 7.02.
+
+3 | RESULTS
+3.1 | Clinical efficacy of omalizumab
+
+Thirty patients (median age 42 years [range of 21-700; 73% female])
+with a median UAS7 score at baseline of 31.5 points were enrolled in
+ALIZADEH AGHDAM ert AL.
+
+ 
+
+the study. Patient characteristics (Table S1) corresponded with the
+CSU population in our clinic and current studies in literature.?”
+
+Figure 1 shows the weekly median values of UAS7; the patients
+were differentiated into omalizumab responders and non-responders.
+Fifteen patients (50%) showed a UAS7 score of six or lower (median
+O) at 4 weeks after the last omalizumab administration (24 weeks) and
+were defined as responders. Fourteen patients showed a UAS7 score
+of seven or higher (median 16) at week 24 and were defined as non-responders. The UAS7 score of one patient was missing at week 24 and
+was marked as non-responder based on the last known UAS7 score.
+
+Improvement by a minimal important difference (MID) of 10
+UAS7 points at week 24 was observed in 23 patients (76.6%), which
+included nine complete responders (UAS7 = 0). Due to worsening of
+the disease, 11 patients, of which 6 (55%) were presented as responders, restarted omalizumab treatment during follow-up. Subjects who
+restarted omalizumab during the follow-up period were excluded
+from the follow-up data analysis. In absolute numbers, the number
+of patients who were excluded was 1 in week 25, 2 in week 26, 3 in
+week 28, 4 in week 29, 9 in week 30, and 11 in week 32.
+
+3.2 | FceRI expression on basophils, pDCs and mDC
+CD1cs decreases during treatment
+
+In peripheral blood, we determined FceRI expression on basophils,
+monocytes, pDCs, and two subsets of mDCs (mDC CD141 and
+mDC CD1c) at specific time-points before, during, and after treatment. A large and significant difference in FceRI expression on
+basophils was found at T7 (P < .0001) and all other time-points, including after 3-month follow-up (T224) compared to that at baseline (TO) (Figure 2). Reduction in FceRI expression did not differ
+significantly between responder and non-responder groups. The
+decline in FceRI expression showed a weak correlation with the
+decline in UAS7 score, 1 week after baseline (r = .675, P = .008).A
+similar decline in FceRI expression after omalizumab treatment was
+observed for pDC and mDC CD1c (data not shown).
+
+Furthermore, FceRI expression on basophils at baseline did
+not differ between omalizumab responders and non-responders
+(P = .202), healthy controls and responders (P = .215), and healthy
+controls and non-responders (P = .682) (Figure 2A and B). Moreover,
+we did not find a statistical difference (P = .408) when comparing
+extremes response groups: complete responders (n = 9, all UAS7 = 0)
+to extremely poor responders (n = 7, UAS > 16; median UAS7 = 25).
+
+Total IgE (available for 28 of the 30 patients) did not differ significantly either between responders (n = 15, median: 170.0 kU/L) and
+non-responders (n = 13, median 81.9 kU/L; P = .387) or between patients with self-reported atopy (n = 15, median: 122.0) and without
+atopy (n = 13, median: 107.0, P = .467). In addition, no correlation
+was found between total IgE levels and baseline basophil FceRI expression (r = .081, P = .682). However, when removing one extreme
+outlier with a total IgE > 5000 kU/L, a moderate correlation between
+baseline total IgE and baseline basophil FceRI expression (r = .4,
+
+WI Ley
+
+= .037) was seen, which was comparable to that mentioned in a
+
+recent study.7°
+
+3.3 | Only basophils percentages increase, other
+FceRI-bearing leucocytes remain stable
+
+We measured percentages of basophils, monocytes, pDCs, mDCs
+(CD141) and mDCs (CD1c) at baseline (TO), several time-points
+during omalizumab treatment, and at 3-months follow-up (T224).
+Median percentage of basophils measured in blood showed an
+increase during omalizumab treatment (Figure 3) within 1 day
+(median: 0.18) compared with baseline (median: 0.13), reaching
+a maximum at 4 weeks. At follow-up, the median percentage of
+basophils (median: 0.24) was still higher compared with that of
+baseline. Healthy controls showed a higher percentage of basophils compared with CSU patients at baseline (P < .001). There
+was no difference in median percentage of basophils between
+non-responders and responders at any given time-point. However,
+we did notice a significantly faster increase in the percentage of
+basophils 1 week after the first omalizumab administration in the
+responder group compared with that of the non-responder group
+(P = .011, [Figure 3B]).
+
+There was no significant change in median percentages of the
+other analysed leucocytes, such as eosinophils, monocytes, pDCs,
+mDC CDC141*, and mDC CDic* after omalizumab treatment (data
+
+not shown).
+
+3.4 | Anti-lgE- but not C5a-induced basophil
+degranulation increases during omalizumab treatment
+
+A significant increase in anti-lgE-induced (1 t4g/mL) basophil activation was observed after 24 hours (P = .042), which was maintained for all the subsequent time-points (Figure 4). A similar
+pattern was seen after stimulation with suboptimal concentrations
+of anti-IgE (0.3, 0.1, and 0.03 pg/mL). A significant difference was
+not observed in baseline anti-lgE-induced basophil degranulation
+between responders and non-responders (P = .148). However, nonresponders showed a significantly stronger increase in anti-lgE-induced basophil activation at T28 compared with TO (P = .003) and
+at T224 compared with T28 (P = .049), while responders did not
+show a significant difference (P = .104 and P = .742, respectively)
+(Figure S1).
+
+Contrary to the anti-lgE-induced FceRI-mediated basophil degranulation, C5a-induced degranulation showed a significant reduction (Figure 4) after 1 month of treatment (P = .025) and at all
+subsequent time-points during treatment. This reduction in C5ainduced basophil degranulation returned to baseline levels during
+the follow-up period. Responders and non-responders showed a
+similar pattern of C5a-induced basophil degranulation. When baso
+phils were stimulated with a suboptimal concentration of 83 ng/mL,
+ALIZADEH AGHDAM er AL.
+
+ 
+
+8 | WILEY
+
+ 
+
+ 
+
+ 
+
+(A) P< .0001 P= .0046
+r F 1
+P<.0001
+400 000
+ee
+°
+200 000
+7so00L ** w °*
+75 000 °
+g
+rq °
+8 500007 ©
+irs ° : .
+° .
+e ca} ° ‘. e
+25.000 6
+0
+co 8 Gg 2
+oe 3 ° ee
+See ono & bb &
+0 20@.-..-. 80. % Oy & & a ©.
+28 5 * $$ € 8 8 @ g gs
+S f 2 ££ = = = F gi
+a oF @ 2 2 2 3
+S&S € § € 3 8 3 8
+Ss ££ = “8
+5s 5
+
+Days / weeks
+
+(B)
+
+400 000
+
+200 000
+
+   
+
+75 000 +
+75 000
+
+50 000
+
+FceRI
+
+25 000
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 2 Median FceRI expression on basophils decreases during omalizumab treatment. A, FceRI expression on basophils at various
+time-points. (Responder: 0, Non-responder: e)_Arrows indicate omalizumab administration. Counts expressed as a median of molecules per
+basophil. B, FceRI expression on basophils at selected time-points in healthy controls (HC) (grey box-plot), non-responders (dotted box-plot),
+
+and responders (white box-plot)
+
+a similar effect was observed as that with stimulation with an opti
+mal concentration of C5a of 200 ng/mL.
+
+4 | DISCUSSION
+In this study, the effect of omalizumab treatment in CSU on different
+FceRI-bearing leucocytes was investigated.
+
+A decline of FceRI on basophils was observed within 1 week
+after initiation and during omalizumab treatment, as shown in earlier studies.”® In this study, we present several important and novel
+findings. The decreased FceRI expression on basophils persisted up
+to 12 weeks after the last dose and was also detected on the mDC
+CD1c subset and pDCs. However, this decrease was not found on
+monocytes or on the mDC CDD141 subset. We also observed that
+the basophil responsiveness was differentially affected by omalizumab treatment, since anti-IgE-, but not C5a-induced basophil degranulation increased during the treatment.
+
+Another important finding was that we could not relate either
+the baseline expression or the decline of FceRI expression on basophils to the clinical effect of omalizumab. A recent study”’ suggested
+that baseline FceRI expression could predict omalizumab treatment response. In a study of Deza et al, non-responders showed
+significantly lower baseline levels of FceRI expression compared
+with healthy controls and responders. Furthermore, a decrease in
+FceRI expression was mainly observed in responders. In our study,
+we found a large overlap in the FceRI levels between healthy controls, responders, and non-responders, and no statistical difference
+was found among the three groups. Moreover, we did not find a
+
+statistical difference (P = .408), when complete responders (n = 9,
+
+median UAS7 = 0) were compared to extreme poor responders
+(n = 7, UAS > 16, median: 25). Moreover, the change in FceRI levels
+did not correlate with the change in urticaria activity (UAS7 scores)
+per patient. A possible explanation for the discrepancy between
+the two study results might be a difference in patient population.
+Although demographics between the two studies were fairly similar, patient-reported outcomes differed noticeably, since 81% of the
+patients in the study by Deza et al achieved a UAS7 score of <6 ora
+290% reduction in UAS7 vs only 50% in our study.
+
+The decreased FceRI expression levels persisted in patients for
+at least 3 months even after discontinuing the omalizumab treatment. Ina similar study, Jorg et al°° found that FceRI expression on
+basophils was decreased during omalizumab treatment and up to
+2 months after the last dose. These results suggest lasting effects of
+omalizumab, which might explain why a proportion of the patients
+show a beneficial effect even after long intervals.°+
+
+The median percentage of peripheral blood basophils showed
+a rapid and significant increase over time (Figure 3), which has
+been described previously during omalizumab and steroid treatment.’*152 None of the other leucocytes showed such a reaction to
+omalizumab treatment, which may support a prominent role of basophils. There was no difference between omalizumab responders
+and non-responders. However, a significantly stronger increase in
+the percentage of basophils was observed in responders compared
+with non-responders solely 1 week after the first administration of
+omalizumab.
+
+These findings point towards a possible compartmental shift,
+in which basophils remain in the circulating blood rather than migrate to the affected skin, as suggested by Grattan et al’? In our
+study, 4 of the 30 patients (1 responder, 3 non-responders) reported
+ 
+
+ALIZADEH AGHDAM erat. 369
+‘WILEY:
+
+ 
+
+  
+
+(A) (B)
+P< .0001 P= .040
+I l
+1.549
+P=.021
+°
+°
+% °
+1.0 4 ° ° ° ©
+° 6 , ° ° ° P=0.011
+PS ° e ° ° & g co OT
+
+= e bei e. & 0 e 2
+3 e 3 3 ry ® ° ° é ° e *
+
+9 054 0 & oe =
+; 2 04
+
+Fe
+¥ © 02
+
+” :
+Peo. g 00
+
+fa]
+
+02 r
+
+ 
+
+ 
+
+ 
+
+ 
+
+eo e « ¢ a “<2
+Ss €& 5 : §$ ¥ ¢ ¢g = 2 o
+3 eS 2 28 = gi s
+ao] KR + 2 © = No 2
+ne} Coad N wo st v= °
+3 S$ s 3S ° cS
+ne} ins
+
+—> d112/w16
+—> d140/w20
+
+t t
+
+Days / week
+
+=>
+—
+
+FIGURE 3 Percentage of basophils measured in a patient's sample increase during omalizumab treatment. A, Portion of basophils
+measured at various time-points. (Responder: ©, Non-responder: @). Arrows indicate omalizumab administration. B, Basophil percentage
+after 1 wk of omalizumab treatment compared to that at baseline in omalizumab non-responders (dotted box-plot) and responders (white
+box-plot) at week 24
+
+50
+prednisolone use at some time-points during the study period, which
+might have influenced the blood basophil numbers.
+An interesting new finding was that the degranulation of baso- 40
+
+phils was significantly increased after the cross-linking of FceRI to
+
+anti-lgE, despite the strongly diminished expression of FceRI on ba
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sophils by omalizumab. The low pre-treatment level of degranulation
+of the basophils might point towards a refractory state of basophils 2
+due to activation in CSU. The increase in degranulation was seen in 5
+both optimal and suboptimal concentrations of anti-IgE. x
+Simultaneously, we found that C5a-induced degranulation of the
+basophils was slightly decreased due to omalizumab treatment. This
+indicates that the observed increase in anti-lgE-induced degranulation was not an overall increase in intrinsic basophil sensitivity but
+was specific for the FceRI-selective activation routes. This can most
+probably be explained by the different stimulus-secretion pathways
+that are used by FceRI vs G-protein-coupled C5a receptors.°*4 Our 9 & at zt g NX 2 sg aq Bie BF
+findings are in line with a recently described study by MacGlashan 2 3 : 2 < < . NI 3
+and Saini on cat allergic individuals treated with omalizumab.°° This ° ° 3 5 = = 5 ve
+study described that an increased intrinsic basophil sensitivity was Days/weeks
+
+the underlying cause of increased IgE-mediated degranulation of
+FIGURE 4 Anti-lgE-induced basophil activation (1 ug/mL)
+
+increases and C5a-induced basophil activation (200 ng/mL)
+
+: . = 3 . decreases during omalizumab treatment. Basophils were stimulated
+this selective responsiveness of basophils changes after omalizumab with 1 pg/mL anti-IgE (-O-) or 200 ng/mL C5a (-A-) for 30 min,
+
+treatment is unclear; however, it does emphasize the important role and activation was determined as % cells with increased CD63
+of basophils in the mechanism of CSU. We speculate that it might expression by flow cytometry
+
+basophils, which was later suggested to be the result of an omal
+izumab-induced increased expression of Syk in basophils.2° Why
+ALIZADEH AGHDAM er AL.
+
+ 
+
+7 | WwiLEy
+
+be a reflection of the different maturation state of basophils due to
+decreased tissue inflammation, which in turn reduces the number
+of basophils in the skin and potentially leads to a lesser amount of
+basophil differentiation in the bone marrow.
+
+Neither anti-lgE- nor C5a-induced basophil activation was
+related to treatment response. However, increase in anti-lgE-mediated basophil activation was most apparent in samples from patients not responding to omalizumab (Figure $1). None of the other
+cellular responses showed a significant difference between responders and non-responders; therefore, we were not able to elucidate their role in the omalizumab treatment. These findings imply
+that the omalizumab-induced basophil changes might be responsible for the underlying clinical effects, but a yet unknown additional
+cellular effect could also play a role towards the favourable clinical
+response.
+
+Notably, both the decrease in FceRI expression on the cell surface of basophils, and the increase in anti-lgE-mediated basophil
+stimulation and decrease in C5a-mediated basophil stimulation continued for at least 3 months after discontinuation of omalizumab.
+Given the relative short lifespan of basophils, this suggests either a
+prolonged effect of omalizumab or involvement of a more complex
+(possibly intracellular) mechanism of action of omalizumab.
+
+Omalizumab induced a rapid and sustained decline of FceRI expression on the surface of basophils, pDCs, and mDC CD1c. Despite
+the diminished expression of FceRI on basophils by omalizumab, basophil degranulation was significantly increased after the cross-linking of FceRI to anti-lgE. However, none of the findings could predict
+the response of omalizumab treatment, and more research is therefore required. Our findings suggest that response to omalizumab
+in CSU patients may be partly explained by pathways involving a
+high-affinity IgE receptor of the basophils.
+
+ACKNOWLEDGEMENTS
+
+We thank Stefan Nierkens for helping in the design of this study. We
+also thank Rowena Melchers, Ton Peeters, Kevin van de Ven, and
+Gerard van Mierlo and colleagues from Sanquin for performing technical and laboratory analyses. Additionally, thanks to Ans Lebens,
+Ellen Kempers, Marieke Pronk, Digna de Bruin, Bregje Titulaer, and
+Thuy-My Le for conducting or supervising the study activities in the
+clinic.
+
+CONFLICT OF INTEREST
+
+M. van den Elzen received reimbursements to attend symposia and
+speaker's fees from Novartis Pharma B.V. to the institution. AC
+Knulst received funds for research and healthcare innovation from
+Novartis Pharma B.V. to the institution and was involved in the advisory board of Novartis Pharma B.V. H. R6ckmann received speaker's
+fees, and funds for research from Novartis Pharma B.V. to the insti
+tution. Remaining authors None declared.
+
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from
+
+the corresponding author upon reasonable request.
+
+ORCID
+
+Mehran Alizadeh Aghdam © https://orcid.
+org/0000-0003-3584-9250
+
+Edward F. Knol (iD) https://orcid.org/0000-0001-7368-9820
+Heike Réckmann © https://orcid.org/0000-0002-8565-2619
+
+REFERENCES
+
+1. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs
+in chronic spontaneous urticaria. A GA(2)LEN task force report.
+Allergy. 2011;66(3):317-330.
+
+2. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/EDF/
+WAO Guideline for the Definition, Classification, Diagnosis and
+Management of Urticaria. The 2017 Revision and Update. Allergy.
+2018;73:1145-1146.
+
+3. Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and management of acute and chronic urticaria: 2014 update. J Allergy Clin
+Immunol. 2014;133(5):1270-1277.
+
+4. Gimenez-Arnau AM. Omalizumab for treating chronic spontaneous
+urticaria: an expert review on efficacy and safety. Expert Opin Biol
+Ther. 2017;17(3):375-385.
+
+5. Casale TB, Win PH, Bernstein JA, et al. Omalizumab response in patients with chronic idiopathic urticaria: Insights from the XTENDCIU study. J Am Acad Dermatol. 2018;78(4):793-795.
+
+6. Pennington LF, Tarchevskaya S, Brigger D, et al. Structural basis of
+omalizumab therapy and omalizumab-mediated IgE exchange. Nat
+Commun. 2016;7:11610.
+
+7. Metz M, Staubach P, Bauer A, et al. Clinical efficacy of omalizumab in chronic spontaneous urticaria is associated with a reduction of FcepsilonRl-positive cells in the skin. Theranostics.
+2017;7(5):1266-1276.
+
+8. Kaplan AP, Gimenez-Arnau AM, Saini SS. Mechanisms of action that
+contribute to efficacy of omalizumab in chronic spontaneous urticaria. Allergy. 2017;72(4):519-533.
+
+9. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfutzner W.
+Functional and phenotypic analysis of basophils allows determining distinct subtypes in patients with chronic urticaria. Allergy.
+2017;72(12):1904-1911.
+
+10. Saini SS. Basophil responsiveness in chronic urticaria. Curr Allergy
+Asthma Rep. 2009;9(4):286-290.
+
+11. Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers
+in chronic ordinary urticaria and healthy controls: diurnal variation,
+influence of loratadine and prednisolone and relationship to disease
+activity. Clin Exp Allergy. 2003;33(3):337-341.
+
+12. YingS, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. TH1/TH2 cytokines and
+inflammatory cells in skin biopsy specimens from patients with chronic
+idiopathic urticaria: comparison with the allergen-induced late-phase
+cutaneous reaction. J Allergy Clin Immunol. 2002;109(4):694-700.
+
+13. Caproni M, Giomi B, Volpi W, et al. Chronic idiopathic urticaria: infiltrating cells and related cytokines in autologous serum-induced
+wheals. Clin Immunol. 2005;114(3):284-292.
+
+14. Oliver ET, Sterba PM, Saini SS. Interval shifts in basophil measures
+correlate with disease activity in chronic spontaneous urticaria.
+Allergy. 2015;70(5):601-603.
+
+15. Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S.
+Omalizumab-induced reductions in mast cell Fce psilon RI expression and function. J Allergy Clin Immunol. 2004;114(3):527-530.
+
+16. Savage JH, Courneya JP, Sterba PM, Macglashan DW, Saini SS,
+Wood RA. Kinetics of mast cell, basophil, and oral food challenge
+responses in omalizumab-treated adults with peanut allergy. J
+Allergy Clin Immunol. 2012;130(5):1123-1129.e2.
+
+17. Eckman JA, Sterba PM, Kelly D, et al. Effects of omalizumab on basophil and mast cell responses using an intranasal cat allergen challenge. J Allergy Clin Immunol. 2010;125(4):889-895.e7.
+ALIZADEH AGHDAM ert AL.
+
+ 
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+Metz M, OhanyanT, Church MK, Maurer M. Omalizumab is an effective and rapidly acting therapy in difficult-to-treat chronic urticaria:
+a retrospective clinical analysis. J Dermatol Sci. 2014;73(1):57-62.
+Kaplan A, Ferrer M, Bernstein JA, et al. Timing and duration of
+omalizumab response in patients with chronic idiopathic/spontaneous urticaria. J Allergy Clin Immunol. 2016;137(2):474-481.
+Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of basophils of patients with chronic urticaria to sera but hypo-responsiveness to other stimuli. Clin Exp Allergy. 2005;35(4):456-460.
+
+Beeren IM, De Bruin-Weller MS, Ra C, Kok |, Bruinzeel-Koomen
+CA, Knol EF. Expression of Fc(epsilon)RI on dendritic cell subsets
+in peripheral blood of patients with atopic dermatitis and allergic
+asthma. J Allergy Clin Immunol. 2005;116(1):228-229.
+
+MacGlashan DW Jr, Bochner BS, Adelman DC, et al. Downregulation of Fc(epsilon)RI expression on human basophils during in
+vivo treatment of atopic patients with anti-lgE antibody. J Immunol.
+1997;158(3):1438-1445.
+
+Prussin C, Griffith DT, Boesel KM, Lin H, Foster B, Casale TB.
+Omalizumab treatment downregulates dendritic cell FcepsilonRI
+expression. J Allergy Clin Immunol. 2003;112(6):1147-1154.
+
+Saini SS, Klion AD, Holland SM, Hamilton RG, Bochner BS,
+Macglashan DW Jr. The relationship between serum IgE and
+surface levels of FcepsilonR on human leukocytes in various diseases: correlation of expression with FcepsilonRI on basophils
+but not on monocytes or eosinophils. J Allergy Clin Immunol.
+2000;106(3):514-520.
+
+Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier
+T, Maurer M. How to assess disease activity in patients with chronic
+urticaria? Allergy. 2008;63(6):777-780.
+
+Mathias SD, Crosby RD, Rosen KE, Zazzali JL. The minimal important difference for measures of urticaria disease activity: Updated
+findings. Allergy Asthma Proc. 2015;36(5):394-398.
+
+Bernstein JA, Kavati A, Tharp MD, et al. Effectiveness of omalizumab in adolescent and adult patients with chronic idiopathic/
+spontaneous urticaria: a systematic review of ‘real-world’ evidence.
+Expert Opin Biol Ther. 2018;18(4):425-448.
+
+Deza G, March-Rodriguez A, Sanchez S, et al. Relevance of the basophil high-affinity IgE receptor in chronic Urticaria: clinical experience from a tertiary care institution. J Allergy Clin Immunol Pract.
+2019;7(5):1619-1626.e1.
+
+Deza G, Bertolin-Colilla M, Pujol RM, et al. Basophil FcepsilonRI
+expression in chronic spontaneous Urticaria: A potential
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+WILEY!
+
+immunological predictor of response to omalizumab therapy. Acta
+Derm Venereol. 2017;97(6):698-704.
+
+Jorg L, Pecaric-Petkovic T, Reichenbach S, et al. Double-blind placebo-controlled trial of the effect of omalizumab on basophils in
+chronic urticaria patients. Clin Exp Allergy. 2018;48(2):196-204.
+Niemeyer-van der Kolk T, van Maaren MS, van Doorn MBA.
+Personalized omalizumab treatment improves clinical benefit in
+patients with chronic spontaneous urticaria. J Allergy Clin Immunol.
+2018;142(6):1992-1994.
+
+Saini SS, Omachi TA, Trzaskoma B, et al. Effect of omalizumab on
+blood basophil counts in patients with chronic idiopathic/spontaneous urticaria. J Invest Dermatol. 2017;137(4):958-961.
+
+Knol EF, Koenderman L, Mul FP, Verhoeven AJ, Roos D. Differential
+activation of human basophils by anti-lgE and formyl-methionyl-leucyl-phenylalanine. Indications for protein kinase
+C-dependent and -independent activation pathways. Eur J Immunol.
+1991;21(4):881-885.
+
+Warner JA, Yancey KB, MacGlashan DW Jr. The effect of pertussis toxin on mediator release from human basophils. J Immunol.
+1987;139(1):161-165.
+
+Macglashan DW Jr, Saini SS. Omalizumab increases the intrinsic
+sensitivity of human basophils to IgE-mediated stimulation. J Allergy
+Clin Immunol. 2013;132(4):906-911.e4.
+
+MacGlashan DW Jr, Saini SS. Syk expression and IgE-mediated histamine release in basophils as biomarkers for predicting the clinical
+efficacy of omalizumab. J Allergy Clin Immunol. 2017;139(5):16801682.e10.
+
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the
+
+Supporting Information section.
+
+How to cite this article: Alizadeh Aghdam M, Knol EF, van
+den Elzen M, et al. Response of FceRI-bearing leucocytes to
+omalizumab in chronic spontaneous urticaria. Clin Exp Allergy.
+2020;50:364-371. https://doi.org/10.1111/cea.13566
+
+ 
+

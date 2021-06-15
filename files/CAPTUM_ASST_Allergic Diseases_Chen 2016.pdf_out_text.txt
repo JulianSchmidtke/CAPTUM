@@ -1,0 +1,672 @@
+Received Date: 13-Jan-2016
+Accepted Date: 18-Jul-2016
+Article Type: Original Article
+
+Basophil CD63 Expression in Chronic Spontaneous Urticaria:
+Correlation with Allergic Sensitization, Serum Autoreactivity and
+
+Basophil Reactivity
+
+Running title: Basophil CD63 in Chronic Spontaneous Urticaria
+
+Q. Chen’, Z. Zhai", J. Xu’, W. Chen,” S. Chen’, H. Zhong’, xX. Huang’, F. Hao’, Z. Song’*
+‘Department of Dermatology, Southwest Hospital, Third Military Medical University,
+Chongging, China
+
+*1ZZ Immunologie-Zentrum Zurich, Zurich, Switzerland
+
+3Department of Dermatology and Allergy, Technische Universitat Miuinchen, Munich,
+Germany
+
+‘The first and the second author contributed equally to this work.
+
+“Corresponding authors: Prof. Zhiqiang Song (zhiqiang.song@hotmail.com) and Prof. Fei Hao
+
+(haofei62@medmail.com.cn).
+
+The authors declare that they have no conflict of interests.
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/jdv.13912
+
+This article is protected by copyright. All rights reserved.
+Financial disclosure: 1. Natural Science Foundation Project of Chongqing,
+
+cstc2015jcyjA10118; 2. Clinical Research Funding of Southwest Hospital, SWH2013LC10.
+
+Abstract
+
+Background: The underlying causes and factors contributing to the disease severity of
+chronic spontaneous urticaria (CSU) are unknown.
+
+Objective: Given the important role of basophils in the pathogenesis of urticaria and that
+CD63 serves as a useful marker for basophil activation and detecting CD63 expression of
+basophils is a reliable tools for diagnosing allergy and hypersensitivity reactions to different
+allergens, the objective of this study was to investigate whether the level of basophil CD63
+expression is correlated with allergen sensitization, serum autoreactivity, and basophil
+reactivity in patients with CSU. Methods: Basophil-enriched leukocytes were separated from
+the blood of 64 patients with chronic urticaria (54 CSU patients and 10 symptomatic
+dermographism patients), 18 healthy control subjects, and 7 atopic donors without urticaria.
+Flow cytometry was then used to detect CD63 expression on the cell membrane of basophils
+from all samples. Analysis was also preformed on basophils incubated with sera from CSU
+patients with positive or negative autologous serum skin test (ASST).
+
+Results: CD63 expression was significantly higher in the basophils from patients with CSU
+than in those from patients with symptomatic dermographism and the healthy control group.
+The levels of CD63 expression in CSU patients with ASST+ and/or allergen sensitization were
+higher than those with ASST- and/or no allergen sensitization patients. Incubation with
+
+ASST+ serum resulted in an increased expression of CD63 in the basophils of ASST+ CSU
+
+This article is protected by copyright. All rights reserved.
+patients, whereas no such response was observed in healthy controls or ASST- CSU patients.
+Conclusion: The increased CD63 expression in basophils from CSU patients may correlate
+with allergen sensitization, autoreactivity of serum, and basophil reactivity. Our results
+
+suggest that CD63 may contribute new insight into the pathogenesis of CSU.
+
+Introduction
+
+Chronic urticaria is a common skin disease that can be classified into spontaneous and
+inducible forms according to the 2014 European Academy of Allergy and Clinical
+Immunology (EAACI) guidelines.’ Chronic spontaneous urticaria (CSU) is characterized by the
+spontaneous appearance of wheals and/or angioedema for more than 6 weeks, and
+symptomatic dermographism is characterized as wheals that can be induced by mechanical
+force. CSU and symptomatic dermographism are the most common subtypes of chronic
+urticaria worldwide, including in the Chinese population.” Although the pathogenesis of
+chronic urticaria has not yet been clearly defined, previous studies have demonstrated that
+mast cells and basophils play important roles in inducing the symptoms by releasing
+inflammatory mediators and cytokines upon activation.’ Basophils are the rarest type of
+leukocytes in human peripheral blood, making up less than 0.5% of the total white blood cell
+count in healthy individuals. Decreased basophil numbers in patients with CSU indicate their
+role in the activation and function of the cells.*°
+
+CD63 is a tetraspanin normally expressed only on the membrane of the lysosomes in the
+inactive basophils and mast cells. Upon activation, it moves to the surface of basophils along
+
+with degranulation.® Therefore, CD63 is deemed a specific and reliable surface activation
+
+This article is protected by copyright. All rights reserved.
+marker of basophils. The basophil activation test (BAT) by detection of basophil CD63
+expression with flow cytometry after induction of patient sera has proven to be a useful tool
+for detection of functional autoantibodies relevant to autoimmune reactions in chronic
+urticaria’ and the diagnosis of allergy and hypersensitivity reactions to different allergens.°°
+CD63 expression has also been shown to be higher in IgE-mediated immediate allergic
+diseases such as asthma, rhinitis, anaphylaxis and atopic dermatitis," but its role in chronic
+urticaria remains unclear. One study showed that both allergic subjects and CSU subjects
+had increased basophil CD63 expression when compared with non-allergic subjects.”
+
+In our previous study, we found that patients with a positive autologous serum skin test
+(ASST) and/or house dust mite sensitization had increased disease activity and a longer
+disease course compared to patients with a negative ASST and/or no allergen sensitization.”
+This suggests that there may be some subtle differences in the pathogenesis of CSU between
+ASST-positive and -negative patients, which may be relevant for determining a specific
+therapeutic schedule and prognosis judgment. The current study was focused on the
+activation status of circulating basophils in subtypes of chronic urticaria, in particular CSU
+patients showing different responses to ASST and skin prick test (SPT). By evaluating the
+expression of CD63 on the surface of basophils in patients with CSU and symptomatic
+dermographism, we aimed to explore the possible correlations among allergen sensitization,
+
+serum autoreactivity, and basophil reactivity.
+
+This article is protected by copyright. All rights reserved.
+Materials and Methods
+
+Subjects
+
+A total of 78 patients (30 males, 48 females; mean age, 36.82 years; age range, 5-77 years)
+with chronic urticaria who visited the dermatology clinic of Southwest Hospital (Chongqing,
+China) from April 2013 to March 2016 were randomly selected and enrolled in this study. All
+patients met the EAACI/GA2LEN/European Dermatology Forum guidelines on chronic
+urticaria (the disease duration between 6 weeks and 20 years) and provided fully informed
+consent. Among them, there were 68 patients with CSU (36 cases were ASST-positive and 32
+cases were ASST-negative, 9 cases with positive dermographism) and 10 patients solely with
+symptomatic dermographism. All of the patients were being treated with non-sedating oral
+H1-antihistamines and the treatment was stopped at least 3 days before blood sample
+collection. Eighteen sex- and age-matched healthy subjects without any type of urticaria and
+being negative to both the ASST and SPT were enrolled as the normal control group. In
+addition, 7 patients with atopic dermatitis and without any subtype of urticaria were
+enrolled as the atopic control group for reference The study protocol was approved by the
+ethical committee of the Southwest hospital of Third Military Medical University, Chongqing,
+
+China.
+
+SPT
+The SPT was performed by placing a drop of allergen solution (Allergopharma™ Skin Prick
+Testing Kits, Reinbeck, Germany) on the inner side of the forearm, as described previously.*°
+
+The allergens included the house dust mites Dermatophagoides farinae and
+
+This article is protected by copyright. All rights reserved.
+Dermatophagoides pteronyssinus, cockroach allergen, mugwort pollen, humulus pollen, fish
+(catfish), shrimp, crab, egg, cow milk, and peanut. Saline and histamine phosphate (10
+mg/mL) were used as negative and positive controls, respectively. Antihistamines were
+withdrawn at least 3 days before the test. The skin response was measured at 30 min after
+pricking, as previously described’. A patient with a postive SPT result to one or more
+
+. . wae . 8-12
+common allergens was considered to show allergic sensitization (atopy)” ~.
+
+ASST
+
+The ASST was performed according to established methods.*”™ In brief, 0.05 mL of sterile
+autologous serum was injected intradermally, with 0.05 mL of 10 g/mL histamine and
+normal saline as positive and negative control, respectively. Skin areas involved in a
+spontaneous wheal reaction during the previous 24 h were avoided. The wheal size was
+recorded at 30 min. The ASST was considered positive, when the wheal size diameter was at
+least 1.5 mm greater than that of the negative control. Positive ASST was indicated as serum
+
+autoreactivity in the present paper.
+
+Isolation of basophil-enriched leukocytes and serum collection
+
+A 10-mL peripheral blood sample was collected by venipuncture in a collection tube with
+ethylenediaminetetraacetic acid, centrifuged at 1600 rpm for 10 min, and then the
+supernatant was sucked off and the plasma was stored at -80°C for further use. To obtain
+the basophils, the same volume of free Ca** and Mg” D-Hanks’ phosphate buffered saline
+
+(PBS) was added after removing the supernatants, and blended. The liquids were then
+
+This article is protected by copyright. All rights reserved.
+carefully tiled beyond the Ficoll-Paque PREMIUM 1.084 separation medium (GE Healthcare,
+England) at a volume ratio of 2:1, and centrifuged at 1550 rpm for 30 min. The
+basophil-enriched leukocytes at the interlayer were sucked up, aspirated, and washed twice
+with free Ca’* and Mg”* D-Hanks’ PBS. The cells were resuspended and then the
+basophil-enriched leukocytes were isolated. Serum was collected with tubes without any
+
+anticoagulant.
+
+Stimulation of basophils
+
+To evaluate the responses of basophils to different types of triggering factors, the basophils
+were equally divided into six tubes. One tube of cells was used for detection of CD63
+expression immediately after basophil isolation. Three tubes of cells were incubated with
+sera from ASST-positive CSU patients, sera from ASST-negative CSU patients, and sera from
+healthy donors, respectively. The other two tubes of cells were incubated with free Ca** and
+free Mg”* D-Hanks’ PBS as the negative control, and with 10° mol/mL of the non-specific cell
+activator N-formyl-methionyl-leucyl-phenylalanine (BD FastImmune; Becton-Dickinson, San
+Jose, CA, USA) as the positive control, respectively. All tubes were incubated for 30 min at
+
+37°C. The reaction was stopped by cooling the tubes on ice.
+
+Detection of CD63 expression
+After the reaction was stopped, the cells were stained with 15 uL of CD63-FITC/CD123-PE/
+anti-HLA-DR-PerCP antibody cocktail (BD FastImmune; Becton-Dickinson, San Jose, CA, USA)
+
+and incubated for 30 min at 4°C. The samples were lysed, washed, and resuspended in 300
+
+This article is protected by copyright. All rights reserved.
+pL of 0.5% paraformaldehyde, and were then measured in a flow cytometer (FACScan;
+Becton-Dickinson Immunocytometry System, San Jose, CA, USA) within 1 h. For analysis, a
+first gate using the forward-scattered/side-scattered light characteristics of leukocytes was
+defined, and then CD63+ CD123+ HLA-DR-basophils were identified as described
+
+previously.*>*°
+
+Statistical analysis
+
+Statistical analysis was performed using the GraphPad Prism version 5.01 software
+(GraphPad Software Inc.: San Diego, CA, USA, 2007). The Mann-Whitney U-test or the
+Wilcoxon matched-pairs test was used, as appropriate, to determine significant differences
+between groups. All data are shown as medians and the difference was considered
+
+significant at a P-value of less than 0.05.
+
+Results
+
+CD63 expression is increased in CSU
+
+The expression of CD63 was detected on the cell membrane of basophils collected from
+subjects with CSU (n = 45), CSU with positive dermographism (n = 9), purely symptomatic
+dermographism (n = 10), and the normal controls (n = 18). As shown in Fig. 1, the mean
+percentage of CD63+ basophils was significantly higher in the CSU than in the symptomatic
+dermographism samples (both P < 0.05) and normal controls (both P < 0.001), and the
+expression level in the symptomatic dermographism samples was also significantly higher
+than that in the normal controls (P < 0.05). However, there was no significant difference
+
+between the CSU and CSU with positive dermographism samples (P = 0.70).
+
+This article is protected by copyright. All rights reserved.
+CD63 expression is increased in CSU patients with allergic
+sensitization
+
+CD63 expression was also compared among the atopic patients (n = 7), normal controls (n =
+11), and CSU patients with (n = 30) and without (n = 24) allergic sensitization. As shown in
+Fig. 2, CD63 expression of the atopic patients was significantly higher than that of the
+normal controls (P < 0.05). Furthermore, CD63 expression of the CSU with allergic
+sensitization patients was significantly higher than that of the other three groups (all P <
+0.01), and the CSU without allergic sensitization patients also showed higher CD63
+
+expression than the normal controls (P < 0.01).
+
+Higher CD63 expression in CSU is related to both allergen
+sensitization and serum autoreactivity
+
+We then divided the CSU patients into four groups according to the results of the ASST and
+SPT, as ASST+SPT+ (n = 16), ASST+SPT- (n = 13), ASST-SPT+ (n = 14), and ASST-SPT- (n = 11),
+for further analyses. As shown in Fig. 3, the CD63 expression levels of four subtypes of CSU
+patients were significantly higher than that of the normal controls (all P < 0.05). Furthermore,
+the CD63 expression of the ASST+SPT+, ASST-SPT+ and ASST+ SPT- groups were all
+
+significantly higher than that of the ASST-SPT- group (all P < 0.05).
+
+This article is protected by copyright. All rights reserved.
+Both serum autoreactivity and basophil reactivity contribute to the
+higher CD63 expression in CSU
+
+To further investigate the possible roles of sera autoreactivity and basophil reactivity on
+CD63 expression, the basophils of CSU patients (n = 22) and normal controls (n = 10) were
+incubated with ASST+ serum or ASST- serum, respectively. As shown in Fig. 4a, the basophils
+of CSU patients incubated with ASST+ serum showed significantly higher CD63+ expression
+than those incubated with ASST- serum (P < 0.05). Such differences could not be observed
+
+on the basophils collected from the normal controls (P = 0.4675) (Fig. 4b).
+
+Next, we divided the basophils of CSU patients into ASST+ basophils (basophils from ASST+
+patients, n = 11) and ASST- basophils (basophils from ASST- patients, n = 11) groups
+according to the patient’s response to the ASST. We found that CD63 expression of ASST+
+basophils was significantly higher when incubated with ASST+ serum than that incubated
+with ASST- serum (P < 0.05). There was no significant difference in CD63 expression between
+ASST- basophils incubated with ASST+ and with ASST- serum (P = 0.9658) (Fig. 4c). What’ s
+more, as shown in Fig. 4c, the ASST+ basophils expressed higher CD63 than ASST- basophils
+when they were both incubated with ASST+ serum (p < 0.01). We further to confirmed this
+by using the other 7 sets of sera to incubated one set of basophils, and we got similar results
+
+(data was not shown).
+
+This article is protected by copyright. All rights reserved.
+Discussion
+Our present study showed that CD63 expressions on the surface of circulating basophils are
+increased in CSU patients comparing to that in any of the other subtypes, which was in line
+
+1125, and the levels of CD63 expression in CSU patients with ASST+
+
+with earlier reports
+and/or allergen sensitization were higher than those with ASST- and/or no allergen
+sensitization patients.
+
+The allergic sensitization in chronic urticaria patients has been found to be higher than that
+
+12,13,18,19
+
+in healthy subjects. However, the significance of allergic sensitization in the
+
+13,18,19,20 é
+and there has been no experimental
+
+pathogenesis of CSU is still a matter of debate,
+study to directly address this question. In line with the findings of Vasagar et al, our results
+also showed a significant increase of CD63 expression on the surface of circulating basophils
+in both the CSU and atopic groups.’* CD63 expression in the CSU patients with allergic
+sensitization was significantly higher than that without sensitization. It has been proposed
+that a positive SPT to common allergens indicates allergic reaction or sensitization.”” Since
+CSU patients with SPT+ had a higher urticaria activity score than those with a SPT-,”” our
+results about a higher level of spontaneous basophil activation in CSU patients with allergic
+sensitization suggested that allergic sensitization may be an underlying factor contributing to
+the pathogenesis of CSU.
+
+In about half of CSU cases, a positive reaction to autologous serum test implying histamine
+releasing factors in serum, is found, which is termed as autoreactive chronic urticaria.
+
+Autoantibodies to either the a-chain of high-affinity IgE receptor (FceRla) or IgE itself in
+
+ASST-positive serum may be the main factor responsible for the spontaneous activation of
+
+This article is protected by copyright. All rights reserved.
+basophils in patients with CSU. Studies showed that sera from CSU patients with a positive
+ASST result could induce higher CD63 expression on the basophils of atopic donors in
+
+vitro.2* 76
+
+In our previous study, we observed that CSU patients that were positive for ASST
+had greater scores of disease activity and dermatology QoL index (DLQI), higher doses of
+total antihistamine medication required every month and higher frequencies of angioedema
+compared with patients with negative ASST.2,12 Present results indicated that both serum
+autoreactivity and basophil reactivity contribute to the higher CD63 expression in CSU.
+Further investigation is needed to see whether CD63 expression on basophils is correlated
+with the disease severity .
+
+Luquin et al.27 reported that basophils from chronic urticaria patients were
+hyper-responsive to serum either from healthy individuals or from patients with CSU. We
+found that basophils from CSU patients were hyper-responsive to sera from CSU patients
+with ASST+ but not to those with ASST-. And only basophils from ASST+ patients but not
+basophils from ASST- patients showed a significantly higher CD63 expression after
+incubation with ASST+ sera. These results imply that both histamine releasing factors in sera
+and the intrinsic potential of basophils may contribute to the expression of CD63 and
+basophil activation.
+
+It is unclear why ASST+ and ASST- basophils have different response to ASST+ serum. Human
+basophil reactivity can be modulated by different factors such as activation of
+immunoreceptor tyrosine-based inhibitory motifs by IgE/IgG/allergen complexes,
+downregulation of FceRla, inhibitors such as IgG and IgA immunocapture, and activators in
+
+the presence of priming cytokines IL3 and IL5.28 For a given immunological status, basophil
+
+This article is protected by copyright. All rights reserved.
+reactivity may also depend on the concentrations of the allergen and autoantibodies, affinity
+of the specific IgE to the allergen, inter-epitope distance, contact delay between the allergen
+and related membrane receptor-bound specific IgE, and intrinsic basophil reactivity.29-31
+
+In summary, our data showed higher but different CD63 expressions on the surface of
+circulating basophils from patients with different subtypes of chronic urticaria based on ASST
+and SPT response. The expression level of CD63 on basophils from CSU patients are
+correlated with allergic sensitization, serum autoreactivity and intrinsic potential of the
+
+basophil, which may provide new clues to understand the underlying pathogenesis of CU.
+
+Acknowledgements
+
+We thank Mr. Baiyu Zhong and Mrs. Xiaofang Zhou for the technical preparation of blood
+
+samples.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the
+definition, classification, diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy 2014;69:868-87.
+
+2. Zhong H, Song Z, Chen W, et al. Chronic urticaria in Chinese population: a hospital-based
+multicenter epidemiological study. Allergy 2014;69:359-64.
+
+3. Saini SS. Chronic spontaneous urticaria: etiology and pathogenesis. Immunol Allergy Clin
+North Am 2014;34:33-52.
+
+4. Passante E. Mast cell and basophil cell lines: a compendium. Methods Mol Biol 2014; 1192:
+101-13.
+
+5. Vonakis BM, Saini SS. Basophils and mast cells in chronic idiopathic urticaria. Curr Allergy
+Asthm R 2005;5:270-6.
+
+6. Knol EF, Mul FP, Jansen H, Calafat J,Roos D. Monitoring human basophil activation via
+CD63 monoclonal antibody 435. J Allergy Clin Immunol 1991;88:328-338.
+
+7. Gyimesi E, Sipka S, Danko K, et al. Basophil CD63 expression assay on highly sensitized
+atopic donor leucocytes-a useful method in chronic autoimmune urticaria. Br J Dermatol
+2004;151:388-96.
+
+8. Tammaro A, Narcisi A, Amodeo R, et al. CD63 cell expression detected by flow-cytometric
+
+This article is protected by copyright. All rights reserved.
+determination of basophil activation in allergic patients. Int J Immunopath Ph
+2012;25:1143-7.
+
+9. Hausmann OV, Gentinetta T, Bridts CH, Ebo DG. The basophil activation test in
+immediate-type drug allergy. /mmunol Allergy Clin 2009;29:555-66.
+
+10. Erdmann SM, Heussen N, Moll-Slodowy S, Merk HF, Sachs B. CD63 expression on
+basophils as a tool for the diagnosis of pollen-associated food allergy: sensitivity and
+specificity. Clin Exp Allergy 2003;33:607-14.
+
+11. Vasagar K, Vonakis BM, Gober LM, Viksman A, Gibbons SP, Jr., Saini SS. Evidence of in vivo
+basophil activation in chronic idiopathic urticaria. Clin Exp Allergy 2006;36:770-6.
+
+12. Song Z, Zhai Z, Zhong H, Zhou Z, Chen W, Hao F. Evaluation of autologous serum skin test
+and skin prick test reactivity to house dust mite in patients with chronic spontaneous
+urticaria. PloS one 2013;8:e64142.
+
+13. Kulthanan K, Jiamton S, Rutnin NO, Insawang M, Pinkaew S. Prevalence and relevance of
+the positivity of skin prick testing in patients with chronic urticaria. J Dermatol
+2008;35:330-5.
+
+14. Kulthanan K, Jiamton S, Gorvanich T, Pinkaew S. Autologous serum skin test in chronic
+idiopathic urticaria: prevalence, correlation and clinical implications. Asian Pac J Allergy
+Immunol 2006;24:201-6.
+
+15. De Swerdt A, Van Den Keybus C, Kasran A, et al. Detection of basophil-activating IgG
+autoantibodies in chronic idiopathic urticaria by induction of CD 63. J Allergy Clin Immunol
+2005;116:662-7.
+
+16. Chirumbolo S. Monitoring of CD63% in basophil activation test and suggested new
+parameters for allergy diagnosis. Inflamm Res 2012;61:171-6.
+
+17. Yocum MW, Khan DA. Assessment of patients who have experienced anaphylaxis: a
+3-year survey. Mayo Clin Proc 1994;69:16-23.
+
+18. Caliskaner Z, Ozturk S, Turan M, Karaayvaz M. Skin test positivity to aeroallergens in the
+patients with chronic urticaria without allergic respiratory disease. J Investig Allergol Clin
+Immunol 2004;14:50-4.
+
+19. Gecer E, Erdem T. Aeroallergen prick skin test and autologous serum skin test results in
+patients with chronic urticaria and their comparison. Ann Dermatol! 2012;24:472-4.
+
+20. Augey F, Gunera-Saad N, Bensaid B, Nosbaum A, Berard F, Nicolas JF. Chronic
+spontaneous urticaria is not an allergic disease. Eur J Dermatol 2011;21:349-53.
+
+21. Daschner A, Rodero M, De Frutos C, Valls A, Cuellar C. Chronic urticaria is associated with
+a differential helminth-arthropod-related atopy phenotype. J Dermatol! 2010;37:780-5.
+
+22. Ebo DG, Hagendorens MM, Bridts CH, Schuerwegh AJ, De Clerck LS, Stevens WJ. Flow
+cytometric analysis of in vitro activated basophils, specific IgE and skin tests in the diagnosis
+of pollen-associated food allergy. Cytometry B Clin Cytom 2005;64:28-33.
+
+23. Bidad K, Nawijn MC, van Oosterhout AJ, van der Heide S, Elberink JN. Basophil activation
+test in the diagnosis and monitoring of mastocytosis patients with wasp venom allergy on
+immunotherapy. Cytometry B Clin Cytom 2014;86:183-90.
+
+24. Ebo DG, Bridts CH, Hagendorens MM, Aerts NE, De Clerck LS, Stevens WJ. Basophil
+activation test by flow cytometry: present and future applications in allergology. Cytometry B
+Clin Cytom 2008;74:201-10.
+
+25. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in chronic
+
+This article is protected by copyright. All rights reserved.
+urticaria. J Allergy Clin Immunol 2001;107:1056-62.
+
+26. Altrich ML, Halsey JF, Altman LC. Comparison of the in vivo autologous skin test with in
+vitro diagnostic tests for diagnosis of chronic autoimmune urticaria. Allergy Asthma Proc
+2009;30:28-34.
+
+27. Frezzolini A, Provini A, Teofoli P, Pomponi D, De Pita O. Serum-induced basophil CD63
+expression by means of a tricolour flow cytometric method for the in vitro diagnosis of
+chronic urticaria. Allergy 2006;61:1071-7.
+
+28. Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of basophils of patients with
+chronic urticaria to sera but hypo-responsiveness to other stimuli. Clin Exp Allergy
+2005;35:456-60.
+
+29. Knol EF. Requirements for effective IgE cross-linking on mast cells and basophils. Mol
+Nutr Food Res 2006;50:620-4.
+
+30. Lourenco FD, Azor MH, Santos JC, et al. Activated status of basophils in chronic urticaria
+leads to interleukin-3 hyper-responsiveness and enhancement of histamine release induced
+by anti-IgE stimulus. Brit J Dermato! 2008;158:979-86.
+
+31. Sainte-Laudy J, Touraine F. Use of basophil sensitivity not reactivity as a good marker for
+allergy diagnosis. Inflamm Res 2009;58 Suppl 1:28-9.
+
+Figure 1 Comparison of basophil CD63 expression between chronic urticaria patients and
+normal controls. Peripheral blood samples from CU patients and healthy subjects were
+collected and basophil-enriched leukocytes were isolated. The CD63 expressions on
+basophils were measured in a flow cytometer by gating with CD63+ CD123+ HLA-DR-.
+
+Mann-Whitney test, *P < 0.05, **P < 0.01, ***P < 0.001.
+
+Figure 2 Different CD63 expressions on basophil among CSU patients with allergic
+sensitization, CSU patients without allergic sensitization, atopic patients, and normal
+controls
+
+Mann-Whitney test, *P < 0.05, **P < 0.01, ***P < 0.001.
+
+Figure 3. Comparison of basophil CD63 expression between different subtypes of CSU
+patients based on the allergen sensitization and serum autoreactivity.
+
+Mann-Whitney test, *P < 0.05, **P < 0.01, ***P < 0.001.
+
+This article is protected by copyright. All rights reserved.
+Figure 4 The impacts of sera histamine releasing factors and intrinsic potential of
+basophils on the CD63 expression. ASST: autologous serum skin test.
+
+(a) The basophils of CSU patients (n=22) were incubated with the mixed sera from five
+ASST+ CSU patients showed significantly higher CD63+ expression than those incubated
+with the mixed sera from five ASST- CSU patient. The experiment shown is representative
+of three experiments.
+
+(b) Basophil from the normal controls (n=10) incubated with ASST+ serum did not show and
+differences of CD63+ expressions compared to those incubated with ASST- serum. The
+experiment shown is representative of three experiments.
+
+(c) ASST+ basophils (basophils from patients with positive ASST, n = 11) and ASST- basophils
+were incubated with serum with ASST+ or ASST-, respectively. The CD63 expression of on
+ASST+ basophils were significantly higher when incubated with ASST+ serum than that
+when incubated with ASST- serum (P < 0.01), whereas there was no significant difference in
+CD63 expression between ASST- basophils incubated with ASST+ and with ASST- serum (P =
+
+0.9658).
+
+This article is protected by copyright. All rights reserved.
+lee)
+a
+*
+
+ 
+
+ 
+
+ 
+
+z % = ¥
+
+w= 60)
+
+a | 3 y
+
+2 40} 9
+
+a +4 
+2 oat, le
+
+B 20; eT, . Cw
+
+O on esr 44a M
+oi—se wie __¥
+
+A B Cc D
+
+A, CSU
+
+B, Symptomatic dermographism
+
+C, Normal controls
+
+D, CSU with positive dermographism
+
+fos]
+o
+
+D>
+o
+
+hm
+o
+
+CD63+ basophils (9%)
+L
+o
+
+ 
+
+Oo
+
+ 
+
+ 
+
+A, CSU with allergic sensitization
+
+B, CSU without allergic sensitization
+C, Atopic patients
+
+D, Normal controls
+
+This article is protected by copyright. All rights reserved.
+80
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g r
+@ 60 i —
+= i
+at or os
+B 40 rv
+rf ge? as i ©
+B 20{—e* me, aks >
+a vs a” - Mé RN
+0 ” w
+A B Cc D E
+A, ASST+ and SPT+ CSU
+B, ASST+ and SPT- CSU
+C, ASST- and SPT+ CSU
+D, ASST- and SPT- CSU
+E, Normal controls
+Z b _
+(a) 50 (b) 50 P= 0.4675
+a ES
+Al £ 40
+2 2
+a3 2 380
+77) wD
+Bo & 20
++ + ge
+= 10 S10) fee?
+(S) oO
+0
+ss ss
+Oe ~e
+A “ST SX
+SD
+¢ ¢ e
+(c) #
+50
+= a
+& 40 a
+#
+B30] 4,
+8 a ese ’
++ ee = se a "y,
+Bio; 2 te se
+oO -e - vry
+e uf
+0
+Serum feature ASST+ ASST- ASST+ ASSTBasophil feature ASST+ ASST+ ASST- ASST
+This article is protected by copyright. All rights reserved.
+(a) Allergen a
+
+ 
+  
+ 
+  
+
+ 
+
+*cD63 —5 th
+High level of |g
+spontaneous [33 )
+activation
+Atopic basophil Non-atopic basophil
+(b)
+
+Anti-FceRI
+
+High level of ig
+spontaneous [3 2
+activation
+
+ASST+ basophil ASST- basophil
+
+This article is protected by copyright. All rights reserved.
+

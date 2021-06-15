@@ -1,0 +1,829 @@
+Taylor & Francis
+Taylor & Francs Group
+
+Journal of Dermatological Treatment
+
+Dermatological
+Treatment
+
+ 
+
+ISSN: 0954-6634 (Print) 1471-1753 (Online) Journal homepage: https://www.tandfonline.com/loi/ijdt20
+
+ 
+
+Efficacy of autologous whole blood or serum
+therapy for chronic spontaneous urticaria: a
+systematic review and meta-analysis
+
+Hua-Ching Chang, Chih-Wei Sung & Ming-Hsiu Lin
+
+To cite this article: Hua-Ching Chang, Chih-Wei Sung & Ming-Hsiu Lin (2019) Efficacy of
+autologous whole blood or serum therapy for chronic spontaneous urticaria: a systematic
+review and meta-analysis, Journal of Dermatological Treatment, 30:8, 818-825, DOI:
+10.1080/09546634.2019.1572863
+
+ 
+
+To link to this article: https://doi.org/10.1080/09546634.2019.1572863
+
+ 
+
+ 
+
+a Published online: 24 Jun 2019.
+
+ 
+
+NJ
+(gy Submit your article to this journal @
+
+ 
+
+ili Article views: 140
+
+ 
+
+LS
+ey View related articles 4
+
+® View Crossmark data
+
+CrossMark
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallnformation?journalCode=ijdt20
+JOURNAL OF DERMATOLOGICAL TREATMENT
+2019, VOL. 30, NO. 8, 818-825
+https://doi.org/10.1080/09546634.2019.1572863
+
+ARTICLE
+
+ 
+
+Taylor & Francis
+
+Taylor & Francis Group
+
+® Check for updates
+
+Efficacy of autologous whole blood or serum therapy for chronic spontaneous
+
+urticaria: a systematic review and meta-analysis
+
+Hua-Ching Chang?, Chih-Wei Sung? and Ming-Hsiu Lin®* @
+
+Department of Dermatology, Taipei Medical University Hospital, Taipei, Taiwan; "Department of Emergency Medicine, National Taiwan
+University Hospital Hsin-Chu Branch, Hsinchu, Taiwan; ‘Department of Dermatology, School of Medicine, College of Medicine, Taipei Medical
+
+University, Taipei, Taiwan
+
+ABSTRACT
+
+Background: Chronic spontaneous urticaria (CSU) is chronic wheals without identifiable exogenous stimuli. Autologous whole blood (AWB) injection and autologous serum therapy (AST) are alternative therapies for CSU that induce tolerance to circulating histamine-releasing factors.
+
+Objective: We elucidated currently available evidence for the efficacy and safety of AWB therapy and
+AST for CSU.
+
+Methods: We systematically searched four databases for eligible studies to perform meta-analysis. The
+primary outcome was the efficacy of AST or AWB therapy, and the secondary outcome was improvement
+after intervention based on the autologous serum skin test (ASST) status of patients.
+
+Results: Eight clinical trials, including four randomized controlled trials and 529 CSU patients, were identified. AST was not more effective than the placebo treatment in alleviating CSU symptoms at the end of
+treatment (p =.161), and AWB injection was also not more effective in response rates than the placebo at
+the end of follow-up (p =.099). Furthermore, the efficacy of AST or AWB injection for CSU and the ASST
+status were not significantly related. No remarkable adverse events were recorded during therapy.
+Conclusions: Our meta-analysis suggested that AWB therapy and AST are not significantly more effective
+
+ARTICLE HISTORY
+Received 15 November 2018
+Accepted 10 January 2019
+
+KEYWORDS
+
+Autologous serum skin test;
+autologous serum therapy;
+autologous whole blood
+injection; chronic
+spontaneous urticaria;
+meta-analysis
+
+in alleviating CSU symptoms than the placebo treatment.
+
+Introduction
+
+Chronic urticaria is defined as the presence of urticarial symptoms, such as wheals or angioedema, for most days during a
+period exceeding 6weeks, and it can be further classified
+as chronic spontaneous urticaria (CSU) or chronic inducible urticaria (CIU). In contrast to CIU, which has defined triggers, CSU is
+independent of any exogenous stimuli (1). Chronic urticaria substantially lowers patients’ quality of life because of intense
+pruritus, sleep disturbances, and concerns about physical appearance (2).
+
+Release of histamine by mast cells and basophils is considered
+the final event in the pathophysiology of all types of urticaria,
+and autoimmunity is considered one of the most common initial
+causes of CSU (3). Two mechanisms of the pathogenesis of autoreactivity in CSU have been identified. The first mechanism, a type
+hypersensitivity reaction, represents autoallergy in which autoantigens crosslink immunoglobulin E (IgE) autoantibodies (AAbs) on
+mast cells and basophils. The second mechanism is a type Il
+hypersensitivity reaction in the presence of IgG AAbs against the
+a subunit of the high-affinity IgE receptor (FceRla), low-affinity IgE
+receptor (FceRIl), or IgE. Both autoimmunity-based mechanisms
+inally induce the release of vasoactive mediators, including histamine, from mast cells and basophils (3,4). In addition, the autologous serum skin test (ASST) through intradermal injection of a
+patient’s own serum is considered a screening test for autoimmune CSU (4).
+
+ 
+
+Based on strong evidence, nonsedating second-generation
+antihistamines are considered first-line treatment by most international guidelines (5). However, only approximately half of the
+treated patients exhibit an adequate therapeutic response even
+after receiving increased doses of an antihistamine drug or a combination of different antihistamine agents. Furthermore, these
+interventions may cause considerable sedation and adversely
+affect patients’ daily activities (6). For refractory patients, several
+immunosuppressants or biological agents may be considered.
+Furthermore, autochemotherapy, including autologous whole
+blood (AWB) injection or autologous serum therapy (AST), is used
+based on the pathophysiology of autoimmunity in CSU (7,8).
+Generally, AWB therapy or AST is administered through regular
+intramuscular injection of autologous venous blood for a fixed
+period. Autochemotherapy can induce tolerization or desensitization to circulating proinflammatory signals in CSU patients (9).
+
+Several studies have investigated the efficacy of AWB injection
+or AST for CSU, but the results are inconsistent. We, therefore,
+conducted a comprehensive systematic review and meta-analysis
+to elucidate the efficacy of AWB injection and AST.
+
+Materials and methods
+Search strategy
+
+In this study, the meta-analysis was conducted according to the
+guidelines of the Cochrane Collaboration, Preferred Reporting
+
+CONTACT Ming-Hsiu Lin @ living-white@yahoo.com.tw © Department of Dermatology, Taipei Medical University Hospital, No. 252, Wuxing St, Xinyi District,
+
+Taipei, Taiwan
+
+This article was originally published with errors, which have now been corrected in the online version. Please see Correction (http://dx.doi.org/[10.1080/
+
+09546634.2019.1669333)
+© 2019 Taylor & Francis Group, LLC
+Items for Systematic Reviews and Meta-Analyses (PRISMA) statement, and Meta-analysis Of Observational Studies in Epidemiology
+group (10-12). Databases including PubMed, Embase, the
+Cochrane Library, and Web of Science were systematically
+searched for all eligible studies before September 30 2018. The
+search strategy included the following keywords: ‘autologous
+whole blood injection’ or ‘autologous serum therapy’ combined
+with ‘chronic urticaria.’
+
+Initially, H. C. Chang screened the titles and abstracts of articles
+for topic correlation. Patient-based interventional studies were
+included if (a) the study population comprised patients with CSU,
+(b) the intervention was AST or AWB injection, (c) the comparator
+was a placebo drug or comparison was based on the ASST status,
+(d) definite measurements of disease outcomes as well as records
+of treatment side effects were reported, and (e) protocols of nonrandomized or randomized controlled trials (RCTs) were described
+in detail.
+
+ 
+
+Data extraction, outcome measurement, and bias assessment
+
+In this meta-analysis, two independent authors (H.C. Chang and
+C.W. Sung) conducted a literature review and extracted data from
+the eligible studies separately by using a standardized data
+extraction protocol. The following data were extracted: first
+author, year of publication, study design, duration of CSU, numbers of patients in the treatment (AST or AWB) and/or placebo
+groups, ASST status (if available), manners of intervention, outcome measurements, and duration of follow-up. The primary outcome was the efficacy of AST or AWB therapy in CSU patients.
+Currently, various scoring systems are used for the evaluation of
+activity of urticaria, including urticaria total severity score (TSS),
+urticaria activity score (UAS), urticaria activity score for 7 days
+(UAS7), and revised UAS. The patients were evaluated at the end
+of treatment and/or at the end of follow-up. The secondary outcome was an improvement after intervention based on the ASST
+status of the patients. The quality of RCTs and non-RCTs was independently evaluated by two authors by using the risk of bias 2.0
+(RoB 2.0) tool (13), and risk of bias in nonrandomized studies of
+interventions (ROBINS-I) tool, respectively (14). Discrepancies in
+the evaluations were resolved through objective discussion and
+coordination with a senior dermatologist (M.H. Lin).
+
+Statistical analysis
+
+Pooled effects were calculated using a random-effects model
+because of the heterogeneity of the included studies. Chisquared and /? tests were used to evaluate heterogeneity
+across the studies (7 <25%, low heterogeneity; P=25-50%,
+moderate heterogeneity; and /? >50%, high heterogeneity).
+Potential publication bias was examined using Begg’s funnel
+plot as well as Egger’s test (15). An asymmetric funnel plot and
+p<.05 suggested possible publication bias. Statistical analyses
+were performed using Comprehensive Meta-Analysis version 3.0
+(Biostat, Englewood, NJ).
+
+Results
+Major characteristics of selected studies
+
+In total, 403 studies from PubMed, Embase, the Cochrane
+Library, and Web of Science were initially included for identification. The PRISMA flow chart for the selection process is
+shown in Figure 1. Eventually, only eight studies were included
+in our meta-analysis after we excluded four studies during
+
+JOURNAL OF DERMATOLOGICAL TREATMENT © 819
+
+qualitative screening (ambiguous outcome definitions). The
+eight studies included four RCTs (three single-blind trials and
+one double-blind trial) and four non-RCTs. A total of 403
+patients received AST or AWB intervention, while 126 patients
+received the placebo. The dosage and therapy duration differed
+among the included studies. For AST, the dosage in most studies was 2.0-2.5ml weekly for 9weeks; however, the dose was
+doubled to 5ml in Kocatiirk’s study (16). For AWB therapy, the
+dosage was 5ml weekly for 7 weeks in two studies (17,18) and
+for 9weeks in one study (16), and the initial dose (in the first
+week) was 2.5ml. Additionally, the longest duration of followup differed in these studies, ranging from 12 to 25 weeks.
+Other detailed characteristics and demographic data of the
+eight included studies, from 2006 to 2017, are presented in
+Table 1 (16-23). The quality evaluation for the risk of bias of
+each included study is presented in Figure 2; none of the
+included studies had a high risk of bias.
+
+Meta-analysis of the efficacy of AWB injection or AST for CSU
+
+Figure 3(a) investigated the efficacy of AST at the end of the
+treatment compared with that of the placebo treatment. The
+pooled estimate did not reveal a significant difference in the
+reduction of TSS between the AST and placebo groups [standardized mean difference (SMD), 1.083; 95% confidence interval (Cl),
+—0.433 to 2.599; p=.161] at the end of treatment. However, at
+the end of follow-up, as shown in Figure 3(b), a significant difference in the reduction of TSS (from baseline) was observed
+between the AST and placebo groups (SMD: 0.545; 95% Cl:
+0.022-1.067; p=.041). Furthermore, considering the effect of the
+ASST status, the reduction in TSS after AST was analyzed between
+the ASST (+) and ASST (—) groups at the end of treatment or follow-up, as shown in Figure 4(a,b), respectively. The reduction in
+TSS (compared with the baseline) did not differ significantly
+between the ASST (+) and ASST (—) groups at the end of treatment (SMD: 4.956; 95% Cl: —5.053 to 14.966; p=.332) or at the
+end of follow-up (SMD: 0.312; 95% Cl: —0.601 to 1.224; p=.503).
+Figure 4(c) presents the outcome of urticaria evaluated on the
+basis of UAS7 after the final dose of AST or AWB injection, and
+the patients stratified according to their ASST status. Consistent
+with the result of TSS, we found that the SMDs in UAS7 were
+similar for the ASST (+) and ASST (—) groups (SMD, —0.446; 95%
+Cl: —0.960 to 0.069; p=.09).
+
+Figure 5(a) presents a comparison of responses in terms of
+revised UAS between the AWB injection and placebo groups. A
+response was defined as an improvement of >30% in clinical
+scores according to the definition provided in the originally
+included studies. The forest plot did not reveal significant
+improvement in urticaria after AWB injection [odds ratio (OR),
+2.033; 95% Cl: 0.876-4.717; p=.099] at the end of follow-up. At
+the end of follow-up after AWB therapy, the pooled estimate
+did not show a significant difference in the responses between
+the ASST (+) or ASST (—) groups (OR: 2.234; 95% Cl:
+0.623-8.015; p=.217) (Figure 5(b)). Not sufficient data for metaanalysis at the end of the final dose of AWB therapy
+were available.
+
+Safety and adverse events
+
+None of the patients suffered any serious adverse effects after
+AWB therapy or AST in our included studies. Only some transient
+local side effects, such as injection pain or soreness, minimal local
+bleeding, and bruising, were rarely reported (17-19,22,23).
+820 @) H-C. CHANG ET AL.
+
+Papers excluded (n=135)
+
+Papers excluded (n=248)
+-review or case reports
+-not direct related topics
+
+Papers excluded (n=8)
+-abstract without full text (n=6)
+-no evaluable data (n=2)
+
+5 Records from Pubmed (n=90)
+= Records from Embase (n=242)
+2 Records from Cochrane Library (n=21)
+5 Records from Web of Science (n=50)
+2 Total (n=403)
+-duplication
+2 Records screened
+5 by title and abstract
+8 (n=268)
+2 ,
+5 Full-text articles
+‘dD assessed for eligibility (n=20)
+i
+3
+3 Studies included in
+2 qualitative synthesis (n=12)
+
+Papers excluded (n=4)
+-outcome evaluations different
+from those included in the
+meta-analysis
+
+Studies included in
+quantitative synthesis (n=8)
+
+Figure 1. PRISMA study selection flow chart.
+
+Therefore, AWB injection and AST are relatively safe treatment for
+CSU patients.
+
+Assessment for heterogeneity and risk of publication bias
+
+Heterogeneity across studies was relatively low only in the metaanalysis for the efficacy of AWB therapy compared with the placebo and in the subanalysis between ASST (++) and ASST (—) CSU
+patients (Figure 5). No analysis for publication bias was performed
+because less than three studies were included in each meta-analysis in the current study.
+
+Discussion
+
+CSU is a common and debilitating disease that has severe negative effects on patients’ quality of life and socioeconomic status.
+
+ 
+
+CSU patients resistant to first-line antihistamine therapy should
+use therapy with a high risk of side effects, such as cyclosporine,
+methotrexate, and steroids or high-cost medications such as omalizumab (24). Beyond this alternative therapy, AWB injection or
+AST has been proposed as a strategy to induce tolerance to autoimmunity in CSU.
+
+This systematic review and meta-analysis investigated the efficacy and safety of AWB injection and AST for CSU. AST was not
+more effective than the placebo for CSU after weekly treatment
+for 9weeks, but a borderline significant reduction in TSS in the
+AST group was noted at the end of follow-up. Future studies with
+different treatment duration and prolonged follow-up are warranted to elucidate this discrepancy. AWB therapy was also not
+significantly superior to the placebo treatment in response rates
+at the end of follow-up after 4-6weeks of the final treatment.
+Furthermore, no significant difference in the efficacy of AST or
+JOURNAL OF DERMATOLOGICAL TREATMENT © 821
+
+ 
+
+ 
+
+ 
+
+ 
+
+“(skep Z 404
+sueaw /) a402s AYANIE eLeIUN :syf ‘2409s AyaAaS |e}0} eUeDIIUN “SSI ‘elU} paljoUod paziwopuel :]Dy ‘Uo!Dafu! poojg ajoyM snobojoyne :gMmy ‘Adesay) Was snobojoyne :1Sy ‘Jsa} UIs WNJas snobojoyne :|ssy¥
+LV6FVL6E
+87 -(-) Issv *C) Issv
+4296 105 LL (+) Lssv EEL FOSE
+SL SSL BUIZUN9IOAZ] Apjaam wz :1S¥ SuON 6€ SuON (+) Lssv¥ DY-UON (€Z) ‘Je 38 Yared
+faamZ 104 Apjaam (-) 1Ssv
+Tig Ua} 490M OL (+) Iss
+ve Zsvn eujwesiy-uy SL OY) Ul TUS “EMV 3uoN 6L 3uON 807+ vS DY-UON (ZL) Te 38 syNoIsHy,
+s9 :(-) Lssv
+4P2MOL 105 Le (+) Lss¥ €9L (-) ISs¥ wsz +(-) ssv
+vl zsvn Pamol|eion Apjaem 6¥/|WS0'0 : LSW 9UuON col 67 (+) Iss S77 (+) Lssv DY-UON (ZZ)1e 32 Wey
+€6°€ F(A) ES BSOLFLELE
+Ajyuow uayy roared roqare|\g
+pue 429M6 os'e ¥ (A) SVEL FO8'E
+ve SSL suUIZUNa) 404 Apjaam WwWs'Z :LS¥ SL SE OE FSV cLsv 1Dy pulig-2j6uis (Lz) Ie 38 UeIpeyzaujoqy
+996 F L78E
+ze :(-) Lssv ve +(-) Issv soqa2e|d
+SSL E96 405 St ‘CH)LSSV 02 (+) Lssv vLOLF9S6E 1u puliq
+ve swn eulzune> Apjaam Ww :1S¥ zs vS 3uON “LS -9jqnog (oz) 12 JoueUUeqqag
+EOELL FEBLS
+429M6G 105 6L :(-) Issv -) EL VL FLO6E
+Apjaam qs OL “)LSS¥ Ov (+) Lss¥ issv 2) Lssv
+UaY) 492M ISL 24) 6L °(+)LSSV 6% “€MV 0v'88+0L9S SOLLF9E6E
+OL SWN Pasinay aul peuajoxe4 Ul JWS'Z ‘aM 40 IS 62 O€ “1SV (+) Lssv (+) Lssv¥ 1Dy purig-aj6uis (OL) Te 4 yaNIeI0y
+(OZL-€) 8L (SS-ZL) vi
+€L -(-) Lssv x) Iss *C) Lssv
+4YeaMG 104 79 (+) LSS (veE-€) (v9-81L)
+St-1@ SSL SUIWeYSIY-UY Apjaam wz :1S¥ auoN SZ 87 (+) Iss¥ sz (+) Issv DDY-UON (61) 1e yfeleg
+OvFSSy
+yaamz 40} Apjaam 6 -(-)LSsv OL +(-) Issv 67 0€ -(-) LSsv +) Issv
+aulweysiy-ue Ws vay yaam OL C+) Iss €L (C+) Issv LE 60L OTF LC
+rah SWN Pasiney Bunyde-uoys SL OY) Ul TUS “EMV SZ & +) Lssv +) Lssv¥ 1Dy purlig-2|6uis (gL) Te yaypeqneis
+(2am) uonenjers Auessazau J! amv 40 Is (u) dnoi6 (u) dnoub (aGues 40 (e6ues 10 ubisap Apnis salpns
+dn-mo}|o} awo23no quawjeal Jo Jorojoud yuawjeas ogareld quawyeady as ¥) as ¥)
+jo uoneing 4OJ $8109 pauiquo) NSD Jo (uow) abe uray
+
+uoneinp uray!
+
+ 
+
+“sishjeue-eJ9UI JO} SAIPNYS PapNjrU! ay} JO SrAsHa}eIeYD DISeg “L aIqeL
+822 @)_H-C. CHANG ET AL.
+
+(a)
+
+Bias due to deviations from intended interventions
+
+oO
+a
+o
+o
+°
+2
+Qa
+c
+s
+8
+E
+3°
+cs
+c
+J
+g
+o
+r—
+£
+£
+£
+&
+oa
+f=
+‘3
+2
+oS
+o
+8
+a
+
+Bias due to missing outcome data
+Bias in measurement of the outcome
+Bias in selection of the reported result
+
+Overall bias
+
+Staubach et al.,
+
+2006
+
+Kocatiirk et al.,
+
+2012
+
+Debbarman et al.,
+2014
+
+Abolnezhadian et al.,
+2016
+
+ 
+
++ low risk of bias
+& some concerns
+io) high risk of bias
+
+(b) 2
+2
+iS =
+3 $
+$ 2
+Ss
+io 2
+£ = +
+3 S
+2 ¢ 8 8
+22s 2 3
+Ss
+2 § = 8 ¢
+Ss e 2 6
+= s — 5 a
+°° ° ° o
+P-¢ & &€ € 6 &
+= 5.hUS ® i i) o
+a} a ° c no on s
+= es s 3 D 5 23282 F ¢ >
+— on
+gs § 3 2 2 &
+° ° = T — a o 2 = a ic} ic} $ = 3
+2 > s 2 2 >. 8
+@ o s o o £ o a
+3s £ £ 3 3 £ £ F
+o a o n o o o oO
+= © & & 38 3 s&s >
+a a a a a a a fo}
+Bajaj et al.,
+2008
+Karn et al.,
+2017
+Kitsioulis et al.,
+2017
+Parekh et al.,
+2017
+
+ 
+
+no information
+
+low risk of bias
+
+moderate risk of bias
+
+serious risk of bias
+
+critical risk of bias
+
+Figure 2. Summary of risk of bias assessment for the included studies by using (a) risk of bias 2.0 tool for randomized controlled trials and (b) risk of bias in non
+randomized studies of interventions tool for nonrandomized controlled trials.
+
+AWB therapy for CSU was observed between the ASST (+) and
+ASST (—) patients. No remarkable adverse events were recorded
+during and after therapy.
+
+The ASST is the generally available test for the screening of
+AAbs against IgE or FceRI, and approximately one-third to onehalf of CSU patients exhibit a positive response to the ASST
+(25,26). However, the clinical relevance of these AAbs remains
+unclear, and the relationship between treatment efficacy and
+ASST response in CSU patients remain controversial (26,27). Our
+current results also did not show a significant difference in the
+clinical scores reduction or percentage of responders after AST or
+AWB therapy, respectively, between the ASST (+) and ASST (—)
+groups. However, some studies that were not included in final
+meta-analysis but they were in our initial qualitative synthesis
+indicated controversies regarding the ASST. Tseng et al. reported
+that ~88% of ASST (+) CSU patients and 25% of ASST (—) CSU
+patients showed significant improvement in the revised UAS after
+AWB therapy (28). Possible selection biases should be considered
+for this retrospective study. Nevertheless, in another study by You
+et al, a higher response rate (>30% improvement on average) or
+
+improvement in the UAS7 was observed in ASST (—) patients than
+in ASST (+) patients (40% vs. 28.5%) after AWB therapy; however,
+the difference was not significant (29). Further well-designed RCTs
+are required to elucidate the current results regarding the relationship between the ASST status and efficacy of autochemotherapy in CSU patients.
+
+Compared with a previous systematic review of a similar topic
+by Brewer (30), in this study, we not only included relatively
+recent studies but also analyzed the data from different viewpoints for meta-analysis. First, we enrolled four additional studies
+including one RCT published after 2014. Second, we categorized
+the results of most of our meta-analysis based on the original
+clinical scoring system instead of using a combination of response
+rates of different scores. Our method provided more specific information on the difference in the mean difference for all the participants and not only the responders. Moreover, because each
+scoring system consisted of different items and evaluations, individual analysis according to the original assessment may provide
+detailed information for clinical practitioners. Furthermore, we
+analyzed the efficacy of AST at the end treatment in addition to
+JOURNAL OF DERMATOLOGICAL TREATMENT © 823
+
+(a) Study name Statistics for each study Std diff in means and 95% Cl
+Std diff Standard Lower Upper
+inmeans error Variance limit limit | Z-Value p-Value
+Debbarman et al., 2014 1.842 0.227 0.051 1398 2286 8129 0.000
+Abolnezhadian et al., 2016 0.295 0.310 0.096 -0313 0.902 0951 0.342
+
+1.083 0.773 0.598 -0433 2599 1400 0.161
+
+Heterogeneity: Chi?= 16.235, df = 1 (P = 0.000), F = 93.841 % 4.00 2.00 0.00 2.00 4.00
+Placebo AST
+(b) Study name Statistics for each study Std diff in means and 95% Cl
+Std diff Standard Lower Upper
+inmeans error Variance limit limit Z-Value p-Value
+Debbarman et al., 2014 0.764 0.197 0.039 0378 1149 3883 0.000 ; a
+Abolnezhadian et al., 2016 0.220 0.309 0.096 -0.386 0827 0.713 0.476
+0.545 0.267 0.071 «0.022 1.067 2043 0.041 <>
+Heterogeneity: Chi?= 2.196, df = 1 (P = 0.138), F = 54.46% ~4.00 -2.00 0.00 2.00 4.00
+
+Placebo AST
+
+Figure 3. Meta-analysis of the standardized mean differences (SMDs) in the urticaria total severity scores (TSS) from baseline between the autologous serum therapy
+(AST) and placebo groups at the end of (a) treatment and (b) follow-up.
+
+(a) Study name Statistics for each study Std diff in means and 95% Cl
+Std diff Standard Lower Upper
+inmeans error Variance limit —‘ilimit + Z-Value p-Value
+Bajaj et al., 2008 10.097 0879 «0.773. 8374 11.820 11486 0.000 4a
+Debbarmanetal,2014 -0.117 0.282 (0.080 0.670 0.436 -0.414 0.679
+4956 5.107 -26.082 5.053 14966 0971 0.332
+Heterogeneity: Chi?= 122.409, df= 1 (P = 0.000), F = 99.183 % 16.00 8.00 0.00 8.00 16.00
+ASST(-) ASST(+)
+(b) Study name Statistics for each study Std diff in means and 95% Cl
+Std diff Standard Lower Upper
+inmeans error Variance limit limit Z-Value p-Value
+Debbarmanetal,2014 0.755 «= «0.291 (0.085 0.185 1.325 2.594 0.009 4+
+Parekh et al., 2017 0177 = 0.356 = 0.127 -0876 0522 -0497 0.620
+0312 0.465 «= 0.217 -0.601 1.224 0.670 0.503
+Heterogeneity: Chi?= 4.103, df= 1 (P = 0.043), F = 75.626 % 4.00 -2.00 0.00 2.00 4.00
+ASST(-) ASST(+)
+(c) Study name Statistics for each study Std diff in means and 95% Ci
+Std diff Standard Lower Upper
+inmeans error Variance limit ‘limit Z-Value p-Value
+Kam et al., 2017 0.603 0.210 0.044 -1.015 -0.191 -2869 0.004 a
+Kitsioulis et al, 2017 -0.008 ~=-«0.459—« «0.211 -0.908 0.893 -0.017 0.986
+0.446 0.263» 0.069 -0.960 0.069 -1.698 0.090
+Heterogeneity: Chi?= 1.388, df = 1 (P = 0.239), F = 27.953 % 4.00 -2.00 0.00 2.00 4.00
+ASST(+) ASST(-)
+
+Figure 4. (a) and (b) Meta-analysis of the SMDs in the urticaria TSS from baseline after AST between the autologous serum skin test (ASST)-positive (+) and ASSTnegative (—) groups at the end of (a) treatment and (b) follow-up. (c) Meta-analysis of the SMDs in the urticaria activity score for 7 days (UAS7) from baseline after
+autologous whole blood or serum therapy between the ASST (+) and ASST (—) groups at the end of treatment.
+824 @)_H-C. CHANG ET AL.
+
+(a) Study name Statistics for each study Odds ratio and 95% Cl
+Odds Lower Upper
+ratio limit limit Z-Value p-Value
+Staubach etal.,2006 2.765 0.859 8.907 1.704 0.088
+Kocaturk et al.,2012 1460 0.434 4910 0.612 0.541
+2.033 0.876 4.717 1.652 0.099
+Heterogeneity: Chi?= 0.552, df = 1 (P = 0.458), F = 0.000 % 0.01 0.1 4 10 100
+Placebo AWB
+(b) Study name Statistics for each study Odds ratio and 95% Cl
+Odds Lower Upper
+ratio —_ limit limit Z-Value p-Value
+Staubach etal.,2006 1.800 0.308 10.517 0.653 0.514
+Kocaturk et al, 2012 2.833 0.445 18.042 1.103 0.270
+2.234 0.623 8.015 1.233 0.217
+Heterogeneity: Chi?= 0.121, df= 1 (P = 0.728), F= 0.000 % 0.01 0.1 1 10 100
+ASST (-) ASST (+)
+
+Figure 5. Meta-analysis of responses in terms of improvement (>30%) in the revised UAS after AWB injection (a) between the treatment and placebo groups or (b)
+
+between the ASST (+) and ASST (—) groups at the end of follow-up.
+
+at the end of follow-up of each study, and this is highly compatible with the real-world clinical situation for immediate effects
+after one entire course of therapy. Consistent with conclusions
+made by Brewer, our study demonstrated that autochemotherapy
+including AST and AWB therapy was not statistically more effective in reducing symptoms than the placebo treatment at the end
+of follow-up.
+
+This systematic review and meta-analysis had some limitations.
+First, only two studies were included in each meta-analysis
+because of high divergence in the clinical scoring systems and
+evaluations of outcomes for urticaria in each study; moreover, the
+tisk of publication bias could not be assessed. Second, no metaanalysis was conducted for direct comparison of the efficacy
+between AWB therapy and AST for CSU, because sufficient assessable data were not available. Finally, high heterogeneity across
+studies existed in most of the current analysis.
+
+In conclusion, our meta-analysis suggested that AWB therapy
+and AST are not more effective in alleviating CSU symptoms than
+the placebo treatment, but these therapies were relatively safe
+and did not show remarkable adverse effects. The efficacy of AWB
+therapy and AST for CSU was also not significantly different
+between the ASST (+) and ASST (—) groups. Considering the low
+number of high-quality studies included in the meta-analysis and
+the high heterogeneity across these studies, additional welldesigned RCTs are essential to obtain more evidence to confirm
+our current conclusions.
+
+Acknowledgments
+
+We thank Dr. Kocatiirk (Department of Dermatology, Training and
+Research Hospital, Istanbul, Turkey) for providing original data
+from one report included in our meta-analysis.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the authors.
+
+ORCID
+Ming-Hsiu Lin (® http://orcid.org/0000-0003-3747-515X
+
+References
+
+1.
+
+10.
+
+Saini SS, Kaplan AP. Chronic spontaneous urticaria: the devil’s itch. J Allergy Clin Immunol Pract. 2018;6:1097-1106.
+Antia C, Baquerizo K, Korman A, et al. Urticaria: a comprehensive review: treatment of chronic urticaria, special populations, and disease outcomes. J Am Acad Dermatol. 2018;
+79:617-633.
+
+Asero R, Tedeschi A, Marzano AV, et al. Chronic urticaria:
+a focus on pathogenesis. F1000Res. 2017;6:1095.
+
+Kolkhir P, Church MK, Weller K, et al. Autoimmune chronic
+spontaneous urticaria: what we know and what we do not
+know. J Allergy Clin Immunol. 2017;139:1772-1781.e1.
+Shahzad Mustafa S, Sanchez-Borges M. Chronic urticaria:
+comparisons of US, European, and Asian Guidelines. Curr
+Allergy Asthma Rep. 2018;18:36.
+
+Greiwe J, Bernstein JA. Therapy of antihistamine-resistant
+chronic spontaneous urticaria. Expert Rev Clin Immunol.
+2017;13:311-318.
+
+Godse K, De A, Zawar V, et al. Consensus statement for the
+diagnosis and treatment of urticaria: a 2017 update. Indian
+J Dermatol. 2018;63:2-15.
+
+Chung W-H, Chu C-Y, Huang Y-H, et al. Taiwanese
+Dermatological Association consensus for the definition,
+classification, diagnosis, and management of urticaria.
+J Formos Med Assoc. 2016;115:968-980.
+
+Patil S, Sharma N, Godse K. Autologous serum therapy in
+chronic urticaria. Indian J Dermatol. 2013;58:225-226.
+Navarese EP, Kozinski M, Pafundi T, et al. Practical and
+updated guidelines on performing meta-analyses of nonrandomized studies in interventional cardiology. Cardiol J.
+2011;18:3-7.
+11.
+
+12.
+
+13.
+
+14,
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting
+items for systematic reviews and meta-analyses: the PRISMA
+statement. Ann Intern Med. 2009;151:264-269. w64.
+
+Stroup DF, Berlin JA, Morton SC, et al. Meta-analysis of
+observational studies in epidemiology: a proposal for
+reporting. Meta-analysis Of Observational Studies in
+Epidemiology (MOOSE) group. Jama. 2000;283:2008-2012.
+Higgins JPT, Sterne JAC, Savovié J, et al. Cochrane methods.
+In: Chandler J, McKenzie J, Boutron |, et al., editors.
+Cochrane Database Systematic Reviews. Vol. 10. London,
+England: Cochrane Library; (A revised tool for assessing risk
+of bias in randomized trials); 2016. p. 29-31.
+
+Sterne JA, Hernan MA, Reeves BC, et al. ROBINS-I: a tool for
+assessing risk of bias in non-randomised studies of interventions. Bmj. 2016;355:14919.
+
+Egger M, Davey Smith G, Schneider M, et al. Bias in metaanalysis detected by a simple, graphical test. Bmj. 1997;315:
+629-634.
+
+Kocaturk E, Aktas S, Turkoglu Z, et al. Autologous whole
+blood and autologous serum injections are equally effective
+as placebo injections in reducing disease activity in patients
+with chronic spontaneous urticaria: a placebo controlled,
+randomized, single-blind study. J Dermatolog Treat. 2012;
+23:465-471.
+
+Kitsioulis NA, Xepapadaki P, Roussaki-Schulze AV, et al.
+Effectiveness of autologous whole-blood injections in
+patients with refractory chronic spontaneous urticaria. Int
+Arch Allergy Immunol. 2017;172:161-166.
+
+Staubach P, Onnen K, Vonend A, et al. Autologous whole
+blood injections to patients with chronic urticaria and a
+positive autologous serum skin test: a placebo-controlled
+trial. Dermatology. 2006;212:150-159.
+
+Bajaj AK, Saraswat A, Upadhyay A, et al. Autologous serum
+therapy in chronic urticaria: old wine in a new bottle. Indian
+J Dermatol Venereol Leprol. 2008;74:109-113.
+
+20.
+
+21s
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29;
+
+30.
+
+JOURNAL OF DERMATOLOGICAL TREATMENT © 825
+
+Debbarman P, Sil A, Datta PK, et al. Autologous serum therapy in chronic urticaria: a promising complement to antihistamines. Indian J Dermatol. 2014;59:375-382.
+Abolnezhadian F, Alyasin S, Amin R, et al. The effect of
+autologous serum therapy on disease severity in patients
+with chronic urticaria. Iran J Allergy Asthma Immunol. 2016;
+15:328-333.
+
+Karn D, Kc S. Clinical outcome of autologous serum therapy
+in chronic idiopathic urticaria. J Nepal Health Res Council.
+2017;15:71-74.
+
+Parekh N, Bhatia K, Dayal S, et al. Evaluation of the utility of
+autologous serum skin test and the efficacy of autologous
+serum therapy in chronic spontaneous urticaria. Iran J
+Dermatol. 2017;20:43-49.
+
+Vena GA, Maurer M, Cassano N, et al. Alternative treatments
+for chronic spontaneous urticaria beyond the guideline algorithm. Curr Opin Allergy Clin Immunol. 2017;17:278-285.
+Vohra S, Sharma NL, Mahajan VK. Autologous serum skin
+test: methodology, interpretation and clinical applications.
+Indian J Dermatol Venereol Leprol. 2009;75:545-548.
+
+Antia C, Baquerizo K, Korman A, et al. Urticaria: a comprehensive review: epidemiology, diagnosis, and work-up. J Am
+Acad Dermatol. 2018;79:599-614.
+
+Konstantinou GN, Asero R, Maurer M, et al. EAACI/GA(2)LEN
+task force consensus report: the autologous serum skin test
+in urticaria. Allergy. 2009;64:1256-1268.
+
+Tseng JTP, Lee WR, Lin SS, et al. Autologous serum skin test
+and autologous whole blood injections to patients with
+chronic urticaria: a retrospective analysis. Dermatologica
+Sinica. 2009;27:27-36.
+
+You HS, Cho HH, Kim W5J, et al. Autologous whole blood
+injection for the treatment of antihistamine-resistant
+chronic spontaneous urticaria) Ann Dermatol. 2015;27:
+784-786.
+
+Brewer DD. A systematic review of autohemotherapy as a
+treatment for urticaria and eczema. Cureus. 2014;6:e233.
+

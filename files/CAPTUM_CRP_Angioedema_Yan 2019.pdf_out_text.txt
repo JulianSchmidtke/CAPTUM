@@ -1,0 +1,846 @@
+| ®
+Accepted: 7 January 2019 |
+
+Check for
+| updates
+
+Received: 28 October 2018 Revised: 18 December 2018
+
+ 
+
+DOI: 10.1111/exd.13874
+
+ 
+
+ORIGINAL ARTICLE
+
+ 
+
+WILEY [Eeeieiebenera ray
+
+C-reactive protein (CRP) rs3093059C predicts poor mizolastine
+response in chronic spontaneous urticaria patients with
+elevated serum CRP level
+
+Siyu Yan???@® | Wangging Chen*** | Cong Peng*? | Wu Zhu? |
+Mingliang Chen’*?@® | Jianglin Zhang'?? | Juan Su’? | Fangfang Li??? |
+Zhaogian Liu* | WeiZhang* | Qingling Li? | Jie Lit? | Xiang Chen???
+
+‘Department of Dermatology, Xiangya
+Hospital, Central South University,
+Changsha, China
+
+?Hunan Key Laboratory of Skin Cancer and
+Psoriasis, Xiangya Hospital, Central South
+University, Changsha, Hunan, China
+
+$Hunan Engineering Research Center of Skin
+Health and Disease, Changsha, Hunan, China
+
+“Institute of Clinical Pharmacology, Xiangya
+Hospital, Central South University,
+Changsha, China
+
+5Department of Pathology, Xiangya
+Hospital, Central South University,
+Changsha, China
+
+Correspondence
+
+Jie Liand Xiang Chen, Department of
+Dermatology, Xiangya Hospital, Central
+South University, Changsha, China.
+Emails: xylijie@csu.edu.cn;
+chenxiangck@126.com
+
+Funding information
+
+National Key Research, Grant/Award
+Number: 2016YFC095000; National Natural
+Science Foundations of China, Grant/
+Award Number: 81602399, 81225013,
+81430075 and 81673065; Key Technology
+Research and Development Program of
+Hunan Province, Grant/Award Number:
+2017SK2041; Natural Science Foundation
+of Hunan Province, Grant/Award Number:
+20165J3170
+
+1 | INTRODUCTION
+
+Due to the influence of the environment, ethnic and other unknown
+
+factors, the prevalence of allergic diseases has increased by nearly
+
+ 
+
+Abstract
+
+Chronic spontaneous urticaria (CSU) is a frequent disorder with recurrent itchy
+wheals and/or angioedema, and nearly 35% patients respond poorly to non-sedating
+H1 antihistamine treatment. CRP gene encodes the C-reactive protein, which is involved in the pathogenesis of CSU. To investigate the impacts of CRP polymorphisms
+on the susceptibility and therapeutic efficacy in the South Han CSU patients, we
+enrolled 145 CSU patients in our study. After 4-week non-sedating H1 antihistamine
+monotherapy treatment, more than 50% reduction of the severity score is considered as effective, or else non-effective. The CRP rs3093059T/C and rs2794521G/A
+genotypes of patients were determined by Sequenom MassARRAY. Functional studies including relative luciferase assay and $-hexosaminidase assay were conducted in
+HEK293T cells or RBL-2H3 cells to explore the function of variants. Forty (62.50%)
+CSU patients were effective when treated with mizolastine, and 55 (72.4%) patients
+were effective in the desloratadine group. We found that the patients carried with
+rs3093059TT genotype were significantly associated with good response (OR = 4.20,
+P = 0.015), had lower serum CRP, IL-6 and TNF-a levels than the CT/CC genotypes. In
+vitro, the rs3093059C allele exhibited significantly higher luciferase activity than
+wild allele (P < 0.001). From the B-hexosaminidase assay, we observed the inhibiting
+degranulation effects by mizolastine and this effect is weakened when with a higher
+dose CRP in RBL-2H3 cells. Our findings suggested that CSU patients carrying the
+
+rs3093059C allele may respond poorly to mizolastine with elevated serum CRP level.
+
+KEYWORDS
+antihistamine, chronic spontaneous urticaria, C-reactive protein, gene polymorphisms,
+mast cell
+
+It is reported that approximately 1%-1.5% of the whole world population suffer from urticaria and 15%-20% of them have chronic urticaria. Chronic urticaria is a common disorder with wheals, pruritus
+
+and occasional angioedema, lasting more than six weeks that occurs
+
+sevenfold compared to 10 years ago, including chronic urticaria.) almost daily.'*5! Chronic spontaneous urticaria (CSU) is the most
+
+ 
+
+240 | © 2019 John Wiley & Sons A/S.
+Published by John Wiley & Sons Ltd
+
+wileyonlinelibrary.com/journal/exd Experimental Dermatology. 2019;28:240-246.
+YAN ET AL.
+
+ 
+
+common type of chronic urticaria among the young people in China
+according to a multicentre hospital-based study, Due to the longterm recurrence, extensive lesions and pruritus, as well as unstable
+drug efficiency, the impact on the quality of CSU patients’ daily life
+is equal to ischaemic heart disease,!7 10] and the annual economic
+costs reached almost 10 000 Chinese yuan for each CSU patient.!11!
+Additionally, nearly 35% patients respond in vain on CSU therapy
+and efficacy varies between different patients."?! Therefore, we
+should take measures to optimize and achieve better clinical outcomes for CSU patients.
+
+Previous studies pointed out that mast cells and basophils play significant roles in the pathogenesis of CSU."34! For instance, it has been
+reported that the coagulation system and complement system participate in the mast cell activation in CSU patients, 15141 C-reactive protein
+(CRP), encoded by the CRP gene, is greatly increased during infection,
+acute injury and autoimmune-related diseases."7! CRP is regarded as
+an acute phase protein (APP) in the course of mast cell degranulation
+and complement system activation in the coagulation system, "8-24
+CRP is correlated with the disease severity of csu,221 Recently, studies showed that CRP polymorphisms affected the serum CRP level,
+and there was a positive association between CRP polymorphisms and
+disease disorders, such as HBV-related liver cancer and stroke.2324)
+Interestingly, in our previous study, serum CRP protein level in CSU patients is significantly correlated with the severity of csu.?5! However,
+the association between CRP gene polymorphisms and the risk of CSU
+has not been studied. Thus, we aimed to investigate whether CRP polymorphisms have impacts on susceptibility to CSU.
+
+The second-generation non-sedating H1 antihistamines are the
+first choice for the treatment of CSU.2¢27! Non-sedating H1 antihistamine drugs mizolastine, desloratadine and fexofenadine are
+widely used as H1-receptor antagonist. They can stabilize mast cell
+membranes and have anti-inflammatory effects, such as inhibiting
+the secretion of Th2 cytokines and the production of leukotriene.22!
+It is reported that gene variants also have an impact on treatment
+
+[29,30]
+
+outcomes. According to our previous studies, both C5AR
+
+rs11673309 and ORAI1 rs3741595 were associated with the efficacy
+
+[31,32] Among
+
+of the non-sedating H1 antihistamine desloratadine.!
+patients treated with levocetirizine, researchers observed that the
+elevated CRP level was associated with poor response and CRP polymorphisms affected the serum CRP level.'23:34] Based on these facts,
+we hope to investigate whether CRP polymorphisms may influence
+the therapeutic efficacy of non-sedating H1 antihistamines through
+
+affecting the level of CRP.
+
+2 | MATERIALS AND METHODS
+
+2.1 | Patient enrolment
+
+All patients enrolled in our study were outpatients of Xiangya
+Hospital from 2012 to 2013, diagnosed independently by two dermatologists according to the 2009 EAACI/GA(2)LEN guidelines. All
+the patients were treated with non-sedating H1 antihistamine mon
+otherapy. The inclusion and exclusion criteria for enrolment were
+
+241
+Experimental Dermatology BAYVAl Ley
+
+182.35] This study was approved
+
+the same as in our previous studies.’
+by the Ethics Committee of Xiangya Hospital and was registered on
+the Chinese Clinical Trial Registry online (the registration number is
+ChiCTR-OCH-14004518). Written informed consent was obtained
+from each patient.
+
+All patients were treated with non-sedating H1 antihistamine
+monotherapy for 4 weeks (mizolastine 10 mg/d, desloratadine 5 mg/d
+and fexofenadine 120 mg/d). The Dermatology Life Quality Index
+(DLQI) was used to assess the quality of life in CSU patients. The efficacy of the antihistamines was evaluated using the weekly urticaria activity score (UAS7) by two professional dermatologists independently,
+both at baseline and after antihistamine monotherapy for 4 weeks.
+Responders were defined as those patients who had an improvement
+
+in UAS7 scores above 50% after the 4-week treatment.8152:351
+
+2.2 | SNP genotyping
+
+Single nucleotide polymorphisms (SNPs) rs3093059 (-757C/T) and
+182794521 (-717G/A) locate in the promoter region of CRP gene and
+have already been discovered in the Asian population (http://asia.
+ensembl.org/Homo_sapiens/Transcript/Exons?db=core;g=ENSGO
+0000132693;r=1:159712289-159714589;t=ENST00000255030).
+Three web-based analysis software programs were used to predict the functional damage of the SNPs rs3093059(-757C/T)
+and = rs2794521(-717G/A).(http://genome.ucsc.edu/cgi-bin/hgVai;
+http://asia.ensembl.org/Tools/VEP;http://alggen.|si.upc.es/cgibin/
+promo_v3/promo/promoinit.cgi?dirDB=TF_8.3). Both of the SNPs
+rs3093059 and rs2794521 were located in the promoter region of
+the CRP gene which may be the transcription factor binding site for
+C/EBPa, Cutl1 and POU1F1a.
+
+Five millilitres of venous blood was obtained by venipuncture
+from chronic spontaneous urticaria patients. Genome DNA was extracted from the whole blood sample using a genome DNA isolation
+kit (Qiagen, Hilden, Germany) and then stored at -80°C for further
+analysis. All the samples were genotyped by the method of allelespecific matrix-assisted laser desorption/ionization time-of-flight
+mass spectrometry (Sequenom, Inc., San Diego, CA). Only when a
+95% positive rate of a genotype matching a SNP was certified.
+
+2.3 | Detection of serum levels of IL-6 and TNF-a
+by ELISA
+
+We detected the serum levels of cytokines, including IL-6 and
+TNF-a levels, in different rs3093059T/C and rs2794521G/A genotype carriers, according to the instructions of the ELISA kits (BD
+
+Biosciences, San Jose, CA).
+
+2.4 | Cell culture
+
+HEK 293T and RBL-2H3 cells (ATCC, Manassas, VA) were cultured in
+DMEM (Biological Industries, Israel) with 10% foetal bovine serum,
+100 U/mL penicillin and 100 mg/mL streptomycin at 37°C with 5%
+CO, in a humidified atmosphere.
+YAN ET AL.
+
+ 
+
+242
+2 | wy LE Yee er eihenr ro) tay
+
+2.5 | Cloning of expression plasmids, luciferase
+reporter assay
+
+The pGL3 vectors expressing CRP rs3093059T and rs3093059C alleles were constructed by PCR amplification using human genomic
+DNA as a template. The product size was 1128 bp, and the primers
+are shown in Table S1.
+
+Each of the PCR products of the rs3093059 wild-type T allele and
+mutant type C allele vector was sub-cloned separately into the KpnlXhol site of the pGL3-Basic luciferase reporter vector (Promega,
+Madison, WI). The expression plasmids were transfected into HEK
+293T using TurboFect reagent (Thermo Scientific, Rockford, IL).
+Then, the constructs (0.4 jg) were transfected into each well with
+pRL-TK (0.1 pg/well) plasmid for normalization of transfection efficiency differences in HEK 293T cells. After 24 hours of incubation,
+the cells were lysed by 1x PLB lysation and then stored at -80°C
+before use. The relative reporter gene level was analysed in a dualluciferase reporter assay according to the manufacturer's proce
+dures (Promega Corporation) and using a microplate system.
+
+2.6 | B-Hexosaminidase and cytokine release assay
+
+We indirectly evaluated the mast cell degranulation level via Bhexosaminidase release assay as previously described." RBL-2H3
+cells were preplanted into 24-well plates, and recombinant CRP at
+different concentrations (0, 1 or 10 jig/mL) with or without mizolastine (10°° mol/L) (Xi'an Janssen Pharmaceutical, Ltd, Xi'an, China) was
+added for 6 hours. After washing three times with HBSS, phorbol12-myristate-13-acetate (PMA) (100 nmol/L, Sigma, St. Louis, MO)
+and ionomycin (1 pmol/L, Sigma) were used to stimulate cell degranulation for 4 hours. Subsequently, cells and supernatant were collected to evaluate the p-hexosaminidase release ratio by microplate
+spectrophotometer at 405 nm, and the data were analysed by comparing the supernatant release rate to the total B-hexosaminidase.'3]
+Meanwhile, cytokines such as IL-6 and TNF-a in the supernatant
+were detected via ELISA according to the manufacturer’s instruc
+tions (BD Biosciences).
+
+2.7 | Statistical analysis
+
+The data were all analysed using SPSS version 22.0 (IBM SPSS,
+Chicago, IL), and the frequencies of alleles and genotypes and
+Hardy-Weinberg equilibrium were determined by chi-square test.
+The clinical data of two groups were analysed by independent t test,
+and the difference in CRP concentration between different genotypes was analysed by analysis of variance (ANOVA). Bonferroni correction was used to correct the significance after multiple-testing,
+and the corrected P values less than 0.025 (0.05/2) were considered
+significant in this study.
+
+The power of the sample size was calculated by G power (3.1.9.2
+version). In the responder and non-responder group treated with
+mizolastine, the power was analysed with the effect size being
+0.7697, the « error being 0.05, the total sample size being 64; then,
+
+the estimated power was 0.9998. Clinical characteristics, such as
+CRP and the baseline UAS7, were also analysed. The effect size
+ranged was 1.7356 in ANOVA test, the a error was 0.05, the total
+sample size was 145, and the power was 1.000.
+
+3 | RESULTS
+
+3.1 | Clinical characteristics of CSU patients
+
+We detected the clinical features and CRP rs3093059 and rs2794521
+genotypes of 145 enrolled CSU patients (55 males and 90 females with
+ages ranging from 18 to 66 years). The frequencies of CRP rs3093059
+and rs2794521 genotypes in 145 CSU patients were in Hardy-Weinberg
+equilibrium (P = 0.400 and 0.709, respectively), and the rate in groups
+treated with mizolastine and desloratadine was also in Hardy-Weinberg
+equilibrium (P = 0.252 and 0.977, respectively). There were no significant differences in age, duration of disease, or baseline DLQI score
+among rs3093059TT, rs3093059CT and rs3093059CC genotypes
+(P > 0.05) (Table S2). However, the serum CRP level was significantly
+higher in rs3093059CT heterozygotes and rs3093059CC homozygotes when compared with rs3093059TT homozygotes (4.9 + 6.9 mg/
+dL vs 11.1412.5mg/dL vs 2.5+3.4mg/dL, P= 0.001). We found
+significantly different levels of baseline UAS7, gender ratio among different rs3093059T/C genotypes (P = 0.011, 0.016, respectively). The
+same trend could be seen among rs2794521GG, rs2794521GA and
+1s2794521AA genotypes (Table $2). The detailed demographic information is shown in supplementary. No significant difference of the
+rs3093059 and rs2794521 alleles’ frequencies was found between
+the enrolled CSU patients and the data of South Han Chinese from the
+1000 Genomes Project regarding different (Table $3).
+
+3.2 | Antihistamine and anti-inflammatory effects
+of non-sedating H1 antihistamine monotherapy on
+CSU patients with different genotypes
+
+Among all the 145 patients, 98 (67.59%) of the enrolled CSU patients responded well, while the other 47 (32.41%) patients were
+non-responders. Among all the treated patients, 76 of 145 patients
+were treated with desloratadine (55 patients were effective and
+21 patients were no response), 64 were treated with mizolastine
+(40 were effective and 24 with no response), and five were treated
+with fexofenadine (three were effective and two with no response).
+There was no significant difference between the responder group
+and non-responder group regarding age, gender, duration of disease, CRP and baseline UAS7 and DLQI scores, even in the mizolastine and desloratadine-therapy group (Table $4). However, we found
+the whole non-sedating H1 antihistamine efficacy was different between rs3093059TT homozygotes and rs3093059CT/CC genotypes
+(Table 1, OR = 2.58, P = 0.011). We also observed a higher serum CRP
+level in rs3093059CT heterozygotes and rs3093059CC homozygotes
+than rs3093059TT genotype (P = 0.001). Serum IL-6 and TNF-a levels
+were significantly higher in rs3093059CC and CT carriers compared
+with those in rs3093059TT carriers (Figure 1A,B).
+ 
+
+YAN ET AL.
+A) B)
+¢ 150 783093059 mm TC+CC genotype ®)., 152794521 Ml GA+GG genotype
+7 MTT genotype zg (BAA genotype
+& 2 ns
+= 100 zB 100
+3 i
+4 6 2 0
+§ 2
+5 5
+° °
+(C) 183093059 (D) 182794521 M™—™ GA+GG genotype
+TF 1500 @@ TC+CC genotype 1000 ns __ MB AA genotype:
+eM TT genotype 800
+2 1000 3 oo.
+9 y
+d foo
+sao z
+§ — 200
+3 4
+° Bo
+
+ 
+
+FIGURE 1 Human serum IL-6 and TNF-a levels detected by
+ELISA in rs3093059 and rs2794521 genotypes (A-C), serum IL-6
+and TNF-« levels in rs3093059TT homozygotes and rs3093059TC
+heterozygous plus rs3093059 CC homozygotes; (B-D), serum
+
+IL-6 and TNF-a levels between rs2794521AA homozygotes and
+rs2794521AG heterozygous plus rs2794521GG homozygotes; data
+were presented as mean+SD. **P< 0.01
+
+Meanwhile, we observed a different efficacy between
+rs3093059TT homozygotes and rs3093059CC/CT genotypes in
+mizolastine-treated group (Table 1). The rs3093059CT heterozygotes and rs3093059CC homozygotes manifested a weaker response than rs3093059TT homozygotes after mizolastine therapy
+(OR = 4.20, P = 0.015), but this was not seen in patients treated
+with desloratadine monotherapy (Table 1). Additionally, patients
+carrying the C allele showed a poor response than those carrying
+the T allele (P = 0.012). The data of CSU patients treated with fexofenadine could not be analysed due to the small sample size. For
+1s2794521G/A, SNP showed no influence on the non-sedating H1
+antihistamines efficacy (P = 0.040, Table 1); thus, we did not explore
+its further mechanisms.
+
+3.3 | Relative luciferase activity of different
+rs3093059 alleles
+
+To investigate the mechanism of rs3093059T/C on the impact of
+
+non-sedating antihistamines efficacy, the luciferase reporter assay
+
+243
+Experimental Dermatology BAYVAl Ley
+
+was tested in in vitro experiments. We constructed luciferase reporter plasmids expressing rs3093059C, rs3093059T and transfected them into HEK293T cells. Constructs that expressing the
+rs3093059C allele exhibited significantly higher luciferase activity
+compared with rs3093059T allele (P < 0.001, Figure 2A). This result
+suggests that the CRP gene with the rs3093059C allele is more active than the rs3093059T, respectively.
+
+3.4 | B-Hexosaminidase release assay after
+stimulation with recombinant CRP
+
+After incubation with mizolastine and recombinant CRP at different concentrations, PMA and ionomycin-induced B-hexosaminidase
+release was measured. We found that the degranulation level in
+RBL-2H3 cells decreased with the mizolastine incubation (P < 0.001,
+Figure 2B) and this inhibition was attenuated by recombinant CRP at
+
+a higher dose on B-hexosaminidase release (Figure 2B).
+
+3.5 | Cytokine secretion from mizolastine-treated
+RBL-2H3 cells stimulated by recombinant CRP at
+different concentrations
+
+In RBL-2H3 cells, the degranulation level is elevated after the incubation of CRP alone and declined when added mizolastine. The
+degranulation of mast cell is accompanied with the release of cytokines and chemokines. Just like the degranulation inhibition, we
+found that the cytokines IL-6 and TNF-« secreted in the supernatant
+were also inhibited by mizolastine, and this inhibition was weakened
+by a higher concentration of recombinant CRP in RBL-2H3 cells.
+(Figure 2C,D).
+
+4 | DISCUSSION
+
+Our results suggest that CRP SNP rs3093059T may predict a good
+efficacy of non-sedating H1 antihistamines among CSU patients,
+especially mizolastine. Rs3093059T allele carriers took weaker promoter activity and lower TNF-a and IL-6 level. The inhibition ability
+
+TABLE 1. CRP rs3093059 and rs2794521 polymorphisms of different genotypes on non-sedating H1 antihistamines therapy in CSU
+
+patients (n = 145)?
+
+rs3093059
+
+Effectiveness TT CEn Ch P value*
+Total Responders (n,%) 68 (69.39) 3+27(30.61) 0.011
+
+Non-responders (n,%) 22 (46.81) 1+ 24 (53.19)
+Mizolastine Responders (n,%) 30(75.00) 0+10(25.00) 0.015
+
+Non-responders (n,%) 10(41.67) 1+ 13 (58.33)
+Desloratadine Responders (n,%) 37 (67.27) 3+15(32.72) 0.433
+
+Non-responders (n,%) 12 (57.14) 0+ 9 (42.86)
+
+rs2794521
+
+OR (95% Cl) AA GG+GA Pvalue* OR (95% Cl)
+
+2.58 (1.26-5.27) 60(61.23) 38 (38.77) 0.04 0.43 (0.19-0.96)
+37 (78.72) 10 (21.28)
+
+4.20 (1.42-12.39) 28(70.00) 1+11(30.00) 0.372 0.47 (0.13-1.66)
+20 (83.33) 0+4 (16.67)
+
+1.54 (0.55-4.33) 31(56.36) 2+22(43.64) 0.063 0.30 (0.09-1.02)
+17 (80.95) 0+4 (19.05)
+
+*Because of the limitation of sample size in fexofenadine group (n = 5), we did not analyse the data in the above table.
+
+“Corrected P value was 0.025.
+YAN ET AL.
+
+ 
+
+244
+4 | LE Yee er eihenr ro) tay
+
+of the mast cell degranulation by mizolastine is weakened with a
+higher CRP level.
+
+Studies indicated that not all CSU patients respond well to the
+H1 antihistamines, even at high doses.!7! Nearly 20% patients prescribing with up-dosing fexofenadine still responded poorly,42) The
+mechanisms underlying the inter-individual differences are still unclear. It is suggested that gene polymorphisms may have an impact
+on individual responsiveness to drugs. In a Korean study, the CRTH2
+gene mutant influenced the cAMP level and resulted in an elevation in calcium influx thus affecting the desloratadine doses in CSU
+patients.2% CRP is secreted by liver cells, and CRP can influences
+mast cell degranulation. Previous studies showed that CRP might
+predict non-sedating H1 antihistamine responsiveness, in which
+non-responders have a higher serum CRP level.'8738) A Tunisian CSU
+study showed there was a CRP high concentration remission after
+
+'89] Meanwhile, articles on the study of CRP
+
+desloratadine therapy.
+gene polymorphisms indicate that CRP genetic variants (such as
+rs1800947, rs1205 and rs3093059) are associated with disease, including stroke, Takayasu arteritis and HBV-related liver cancer 40-42]
+Thus, we investigate whether CRP gene polymorphisms influence
+drug therapy and disease risk. Our in vitro data and results suggest
+that the CRP gene polymorphism rs3093059T/C may be associated
+with the therapeutic efficacy of non-sedating H1 antihistamines in
+CSU patients. As we know, this is the first study to illustrate the influence of CRP genetic polymorphisms on the development of CSU
+and even the non-sedating H1 antihistamine efficacy.
+
+Among the CSU patients, we observed that patients carrying the
+1s3093059C allele had weaker responses to mizolastine than those
+harbouring the rs3093059T allele. Rs3093059C allele carriers had
+higher serum CRP, IL-6 and TNF-a levels compared with rs3093059T
+carries. TNF-a could mediate pro-inflammatory cytokines, and IL-6
+
+ 
+
+ 
+
+ 
+
+(A), ° - (B) oss
+az* g
+ef 3 080
+5? 3
+re aos
+2
+. a
+pL3-Basic + - _
+CRP TallolepGL3 — . _ Mizolastne  — + -« oo &
+CRP Callele-pGL3 — = * CRP (ygiml) 0 0 14 10 10
+() so (D) 2g 7
+Z Z 400 os
+PS 2 .
+2 100. Lan
+z =
+H 2 4
+2 50. = 200
+3 Ps
+ba = 100
+° ol
+Mizolastine  — + = | Mizolastine = -— + ae <= ¥
+CRP (ugimlL) 0 0 a8 10 10 CRP (ugiml) 0 0 14 10 10
+
+FIGURE 2 CRP relative luciferase activity in different allele
+constructs and mast cell activity after CRP stimulation on RBL-2H3
+cells. A, CRP dual-luciferase activity was tested after transfection
+with rs3093059T or rs3093059C allele into HEK 293T cell for 24 h;
+(B-D), B-hexosaminidase and cytokines release from RBL-2H3 cells
+after treated with recombinant CRP at different concentrations.
+Data were presented as mean+SD with four replicates. *P < 0.05;
+**P < 0.01; ***P < 0.001
+
+was representative Th2 cytokine.49! According to previous studies,
+IL-6 can induce the release of CRP and then aggravate cytokine release and augment humoral immune responses, which may suggest
+that the rs3093059T allele may improve the therapeutic efficacy
+of mizolastine by decreasing CRP levels.!"?! We suggest that CRP
+rs3093059T/C as well as serum CRP level would be taken as predictive markers of mizolastine efficacy.
+
+As non-sedating antihistamines including mizolastine could inhibit histamine release and cytokine secretion.2®! To further investigate the mechanism that why patients carrying rs3093059C allele
+lack more response to standard dose mizolastine, we conducted the
+in vitro study with B-HEX release assay which indirectly represent
+the level of mast cell degranulation. We found that the B-HEX release
+ratio showed a decrease when adding mizolastine. Furthermore, CRP
+dose-dependently attenuated the inhibiting effects of mizolastine on
+mast cell activation through increasing the release of B-HEX. Taken
+together, our findings suggested that patients carrying rs3093059C
+allele responded poorly to mizolastine may because of the weakened
+inhibition of mast cell activation with higher CRP concentration.
+
+Additionally, our previous studies have determined the genetic
+polymorphisms that are associated with the risks of CSU susceptibility. For instance, FCER1A rs2298805G, ORAI1 rs3741596A and
+rs12313209T increased the risks to CSU susceptibility.81°! CRP
+acted as an acute phase protein in inflammation.444°! In CSU, CRP
+may play a role in the complement system and coagulation, thus affecting tissue factor release and mediating mast cell activation. "17!
+However, we did not observe a correlation between rs3093059T/C
+and CSU susceptibility in our study, although the serum CRP level
+was different among different rs3093059 T/C genotypes. The association between rs2794521G/A and CSU susceptibility was also not
+significant. Since there is no report on the relationship between CRP
+gene polymorphisms and CSU susceptibility at home and abroad, we
+are temporarily unable to determine whether CRP polymorphisms
+are really associated with the onset of CSU. We need to expand the
+sample study to add more evidence to prove the relationship between CRP gene polymorphisms and CSU susceptibility.
+
+Our present study was first to investigate the association of CRP
+SNPs rs3093059, rs2794521 in CSU susceptibility and even nonsedating H1 antihistamine responses. Although we did not find any
+association between the CRP rs3093059T/C polymorphism and
+the risk of CSU, we found a relationship between this SNP and nonsedating H1 antihistamine mizolastine efficacy. However, due to the
+limitations of our sample size and single-centre study, our findings need
+to be further confirmed. Therefore, further multicentre and large sample size studies should be undertaken to confirm this hypothesis, and
+functional studies should be undertaken to explore the mechanism of
+non-sedating H1 antihistamines in inter-individual differences in CSU.
+
+In conclusion, CRP rs3093059T/C may be associated with the
+response to non-sedating H1 antihistamine mizolastine monotherapy. Patients carrying the rs3093059C allele may respond poorly to
+mizolastine with elevated serum CRP, TNF-« and IL-6 levels. These
+results may guide dermatologists in choosing individualized CSU pa
+tient therapy.
+YAN ET AL.
+
+ 
+
+ACKNOWLEDGEMENTS
+
+This study was funded by grants from the National Natural
+Science Foundation of China (Grant No. 81430075 to X.C; Grant
+No. 81673065 to J.L; and Grant No. 81602399 to QL. L.) and the
+National Key Research and Development Program of China (Grant
+No. 2016YFCO95000 to W.Z.); Natural Science Foundation of Hunan
+Province (Grant No. 2016JJ3170 to J.L.); and Key Research and
+Development Program of Hunan Province (Grant No. 2017SK2041
+to X.C.).
+
+CONFLICT OF INTEREST
+
+The authors have declared no conflicting interests.
+
+AUTHOR CONTRIBUTIONS
+
+Siyu Yan, Wangqing Chen performed the research; Xiang Chen,
+Jie Li and Wu Zhu contributed to the research study; Wei Zhang,
+Qingling Li and Zhaogqian Liu contributed essential reagents or tools;
+Cong Peng, Mingliang Chen Jiangling Zhang, Fangfang Li and Juan
+Su contributed to data collecting and analysing; Siyu Yan, Jie Li and
+Wangqing Chen wrote and revised the manuscript.
+
+ORCID
+
+siyu Yan © https://orcid.org/0000-0001-7029-6861
+Mingliang Chen © hitps://orcid.org/0000-0001-7677-107X
+
+REFERENCES
+
+[1] S. Radonjic-Hoesli, K. S. Hofmeier, S. Micaletto, P. SchmidGrendelmeier, A. Bircher, D. Simon, Clin Rev. Allergy Immunol.,
+2018, 54(1), 88.
+
+[2] M.A. Tejedor Alonso, M. Moro Moro, M. V. Mugica Garcia, Clin. Exp.
+Allergy. 2015, 45(6), 1027.
+
+[3] B. Wedi, D. Wieczorek, U. Raap, A. Kapp, J. Dtsch. Dermatol. Ges.
+2014, 12, 997.
+
+[4] T. Zuberbier, W. Aberer, R. Asero, C. Bindslev-Jensen, Z. Brzoza, G. W.
+Canonica, M. K. Church, L. F. Ensina, A. Gimenez-Arnau, K. Godse, M.
+Goncalo, C. Grattan, J. Hebert, M. Hide, A. Kaplan, A. Kapp, A. H. Abdul
+Latiff, P. Mathelier-Fusade, M. Metz, A. Nast, S. S. Saini, M. SanchezBorges, P. Schmid-Grendelmeier, F. E. Simons, P. Staubach, G. Sussman
+, E. Toubi , G. A. Vena , B. Wedi , X. J. Zhu, M. Maurer, Dermatology
+Section of the European Academy of Allergy and Clinical Immunology;
+Golbal Allergy and Asthma European Network; European Dermatology
+Forum; World Allergy Organization, Allergy. 2014, 69, 868.
+
+[5] J.A. Bernstein, D. M. Lang, D. A. Khan, T. Craig, D. Dreyfus, F. Hsieh,
+J. Sheikh, D. Weldon, B. Zuraw, D. |. Bernstein, J. Blessing-Moore,
+L. Cox, R. A. Nicklas, J. Oppenheimer, J. M. Portnoy, C. R. Randolph,
+D. E. Schuller, S. L. Spector, S. A. Tilles, D. Wallace, J. Allergy Clin.
+Immunol. 2014, 133(5), 1270.
+
+[6] H. Zhong, Z. Song, W. Chen, H. Li, L. He, T. Gao, H. Fang, Z. Guo,
+J. Xv, B. Yu, X. Gao, H. Xie, H. Gu, D. Luo, X. Chen, T. Lei, J. Gu, B.
+Cheng, Y. Duan, A. Xv, X. Zhu, F. Hao, Allergy 2014, 69, 359.
+
+[7] M. Maurer, K. Weller, C. Bindslev-Jensen, A. Gimenez-Arnau, P. J.
+Bousquet, J. Bousquet, G. W. Canonica, M. K. Church, K. V. Godse,
+
+ 
+
+10)
+
+11
+12)
+
+13)
+
+14]
+
+a5:
+
+16]
+
+17,
+
+18)
+
+19
+
+20
+21)
+
+[22
+
+23.
+
+(24,
+
+(25,
+
+26
+
+[27
+
+28.
+(29
+
+30)
+
+31
+
+33
+
+34]
+
+35.
+
+36
+
+ 
+
+245
+Experimental Dermatology BAYVAl Ley
+
+C. E. H. Grattan, M. W. Greaves, M. Hide, D. Kalogeromitros, A. P.
+Kaplan, S. S. Saini, X. J. Zhu, T. Zuberbier, Allergy 2011, 66, 317.
+
+M. Maurer, K. Rosen, H. J. Hsieh, S. Saini, C. Grattan, A. GimenezArnau, S. Agarwal, R. Doyle, J. Canvin, A. Kaplan, T. Casale, N. Engl.
+J. Med. 2013, 368, 924.
+
+M. Maurer, M. Abuzakouk, F. Berard, W. Canonica, H. Oude
+Elberink, A. Gimenez-Arnau, C. Grattan, K. Hollis, A. Knulst, J. P.
+Lacour, C. Lynde, A. Marsland, D. McBride, A. Nakonechna, de J.
+Ortiz Frutos, C. Proctor, G. Sussman, C. Sweeney, H. Tian, K. Weller,
+D. Wolin, M. M. Balp, Allergy. 2017, 72, 2005.
+
+Y. T. Cho, Y. C. Pao, C. Y. Chu, J. Eur. Acad. Dermatol. Venereol. 2016,
+30, 41.
+
+K.C. P. Wu, Z. K. Jabbar-Lopez, J. Invest. Dermatol. 2015, 135, 13.
+S. Guillen-Aguinaga, |. Jauregui Presa, E. Aguinaga-Ontoso, F.
+Guillen-Grima, M. Ferrer, Br. J. Dermatol.. 2016, 175(6), 1153.
+
+S. Jain, Dermatol. Res. Pract. 2014, 2014, 674709.
+
+A. P. Kaplan, Allergy. Asthma. Immunol. Res. 2017, 9, 477.
+
+M. Sanchez-Borges, F. Caballero-Fonseca, A. Capriles-Hulett, L.
+Gonzalez-Aveledo, M. Maurer, J. Eur. Acad. Dermatol. Venereol.
+2017, 31, 964.
+
+P. Kolkhir, G. Balakirski, H. F. Merk, O. Olisova, M. Maurer, Allergy
+2016, 71, 308.
+
+M. A. Ghaffari, S. Askari Sede, N. Rashtchizadeh, G.
+Mohammadzadeh, S. Majidi, Bioimpacts. 2014, 4(3), 133.
+
+A. Morita, T. Nakayama, N. Doba, S. Hinohara, M. Soma, Hypertens.
+Res. 2006, 29, 323.
+
+A. Kasperska-Zajac, J. Sztylc, E. Machura, G. Jop, Clin. Exp. Allergy
+2011, 41(10), 1386.
+
+P. G. Nazarov, A. P. Pronina, Life Sci. 2012, 91(21-22), 1053.
+
+L. Heimbach, Z. W. Li, P. Berkowitz, M. L. Zhao, N. Li, D. S.
+Rubenstein, L. A. Diaz, Z. Liu, J. Biol. Chem. 2011, 286(17), 15003.
+A. Tedeschi, R. Asero, M. Lorini, A. V. Marzano, M. Cugno, Clin. Exp.
+Allergy 2010, 40, 875.
+
+X. J. Lao, S. Ren, Y. Lu, D. M. Yang, X. Qin, S. Li, Int. J. Clin. Exp. Patho.
+2015, 8(12), 16055.
+
+S. Yan, W. Chen, J. Su, M. Chen, W. Zhu, J. Zhang, M. Yi, X. Chen, J.
+Li, Zhong Nan Da Xue Xue Bao Yi Xue Ban 2017, 42(2), 168.
+
+D. Kotlega, M. Bialecka, M. Kurzawski, M. Drozdzik, S. Ciecwiez,
+M. Golab-Janowska, P. Nowacki, Neurol. Neurochir. Pol. 2014, 48,
+30.
+
+M. Maurer, M. K. Church, M. Goncalo, G. Sussman, M. SanchezBorges, J. Eur. Acad. Dermatol. Venereol. 2015, 29(Suppl 3), 16.
+
+J. Sanchez, J. Zakzuk, R. Cardona, J. Allergy. Clin. Immunol. Pract.
+2018, 6(1), 177.
+
+J. P. Ortonne, Eur. J. Intern. Med. 2012, 23, 26.
+
+P. Losol, H. S. Yoo, H. S. Park, Allergy Asthma Immun. 2014, 6(1),
+13:
+
+N. S. Palikhe, S. H. Kim, Y. M. Ye, G. Y. Hur, B. Y. Cho, H. S. Park,
+Pharmacogenomics 2009, 10, 375.
+
+J. Li, A. Guo, W. Chen, L. Bin, Y. He, W. Zhu, C. Peng, S. Yan, M.
+Chen, J. Zhang, J. Su, M. Yi, Z. Liu, W. Zhang, W. Zeng, D. Y. Leung,
+X. Chen, J Allergy Clin. Immunol. 2017, 139(1386-1388), e1389.
+
+S. Y. Yan, W. Q. Chen, S. Wen, W. Zhu, A. Y. Guo, X. P. Chen, C.
+Zhang, M. L. Chen, J. L. Zhang, J. Su, Y. Zhao, Y. J. He, Z.Q. Liu, H. H.
+Zhou, W. Q. Zeng, J. Li, X. Chen, J. Dermatol. Sci. 2014, 76, 240.
+
+P. Kolkhir, D. Pogorelov, O. Olisova, Eur. Ann. Allergy Clin. Immunol.
+2017, 49(4), 189.
+
+M. A. Atwa, A. S. Emara, N. Youssef, N. M. Bayoumy, J. Eur. Acad.
+Dermatol. 2014, 28, 469.
+
+A. Guo, W. Zhu, C. Zhang, S. Wen, X. Chen, M. Chen, J. Zhang, J. Su,
+W. Chen, Y. Zhao, S. Yan, Y. He, Z. Liu, H. Zhou, X. Chen, J. Li, Arch.
+Dermatol. Res. 2015, 307(2), 183.
+
+R. Bahri, A. Custovic, P. Korosec, M. Tsoumani, M. Barron, J. Wu,
+R. Sayers, A. Weimann, M. Ruiz-Garcia, N. Patel, A. Robb, M. H.
+246
+oe | wy LE Yee er eihenr ro) tay
+
+37.
+
+38
+
+39)
+
+40
+
+41)
+
+42.
+
+43)
+
+ 
+
+44
+
+ 
+
+YAN ET AL.
+
+ 
+
+Shanji, S. Fontanella, M. Silar, E. N. C. Mills, A. Simpson, P. J. Turner,
+S. Bulfone-Paus, J. Allergy Clin. Immunol. 2018, 142, 485.
+
+H. Kong, Y. S. Qian, X. F. Tang, J. Zhang, P. J. Gao, Y. Zhang, D. L. Zhu,
+Hypertens. Res. 2012, 35(10), 1019.
+
+A. Gimenez-Arnau, I. Izquierdo, M. Maurer, J. Eur. Acad. Dermatol.
+Venereol. 2009, 23(9), 1088.
+
+A. Maouia, M. Youssef, N. Leban, J. Ben Chibani, A. N. Helal, A.
+Kassab, Cutan. Ocul. Toxicol. 2017, 36, 387.
+
+X. Lao, S. Ren, Y. Lu, D. Yang, X. Qin, S. Li, Int. J. Clin. Exp. Pathol.
+2015, 8(12), 16055.
+
+Z. Chen, D. Yu, Z. W. Xu, S. S. Li, X. F. Li, J. Li, X. Yang, Neurol. Res.
+2015, 37,979.
+
+A. M. Nair, R. Goel, M. Hindhumati, K. Shah, P. Chandana, V.
+Jayaseelan, K. Jayakanthan, G. Joseph, S. Danda, D. Danda, Int. J
+Rheum. Dis. 2018, 21, 732.
+
+Q. Chen, H. Zhong, W. C. Chen, Z. Zhai, Z. Zhou, Z. Song, F. Hao, J.
+Eur. Acad. Dermatol. Venereol. 2018, 32, 448.
+
+P. Navarro, O. de Dios, T. Gavela-Perez, L. Soriano-Guillen, C.
+Garces, Clin. Chem. Lab. Med. 2017, 55(11), 1690.
+
+[45] Z.Y. Liu, Z. D. Wang, L. Z. Li, X. F. Chu, Y. S. Zhu, J. M. Shi, X. J. Xie,
+L. Jin, Y. Wang, X. F. Wang, Age Ageing 2016, 45, 360.
+
+SUPPORTING INFORMATION
+
+Additional supporting information may be found online in the
+Supporting Information section at the end of the article.
+
+How to cite this article: Yan S, Chen W, Peng C, et al. C-reactive
+protein (CRP) rs3093059C predicts poor mizolastine response in
+chronic spontaneous urticaria patients with elevated serum
+CRP level. Exp Dermatol. 2019;28:240-246. https://doi.
+org/10.1111/exd.13874
+

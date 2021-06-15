@@ -1,0 +1,1399 @@
+Journal Pre-proof
+
+Identification of antigenic epitopes of thyroperoxidase, thyroglobulin and
+interleukin-24. Exploration of cross-reactivity with environmental
+allergens and possible role in urticaria and hypothyroidism
+
+Andres Sanchez, Jorge Sanchez
+
+PII:
+DOI:
+
+Reference:
+
+To appear in:
+
+Received Date:
+
+Revised Date:
+
+Accepted Date:
+
+ 
+
+$0165-2478(20)30003-1
+https://doi.org/10.1016/j.imlet.2020.02.003
+IMLET 6424
+
+Immunology Letters
+
+2 January 2020
+30 January 2020
+2 February 2020
+
+Please cite this article as: Sanchez A, Sanchez J, Identification of antigenic epitopes of
+thyroperoxidase, thyroglobulin and interleukin-24. Exploration of cross-reactivity with
+environmental allergens and possible role in urticaria and hypothyroidism, /mmunology
+Letters (2020), doi: https://doi.org/10.1016/j.imlet.2020.02.003
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as
+the addition of a cover page and metadata, and formatting for readability, but it is not yet the
+definitive version of record. This version will undergo additional copyediting, typesetting and
+review before it is published in its final form, but we are providing this version to give early
+visibility of the article. Please note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal
+
+pertain.
+
+© 2020 Published by Elsevier.
+Identification of antigenic epitopes of thyroperoxidase, thyroglobulin and
+interleukin-24. Exploration of cross-reactivity with environmental allergens
+
+and possible role in urticaria and hypothyroidism.
+
+Andres Sanchez
+
+Jorge Sanchez
+
+University of Antioquia, Calle 70 Clinica Leon XIII, 050010, Medellin.
+
+Email jotamsc@yahoo.com
+
+Graphical abstract
+
+Graphical abstract: Cross reactivity between environmental allergens and
+
+TPO, Tg and 124.
+
+Graphical abstract: Some lineal and conformational epitopes for human TPO, Tg
+and IL24 were proposed, however it seems there is not cross reactivity with
+
+environmental allergens.
+“Zz, = cots
+sF = = Derp2 Derp3
+‘ Mets Cant s Canta #
+hots aga MA a8
+bere
+rea
+omar Fae L4
+rags
+sora
+ors atv
+tors fee ,
+
+biota
+
+No epitopes in common
+wit (No Cross reactivitiy)
+
+Highlights
+
+- insilico analysis allowed to identify antigen patches of human proteins TPO,
+Tg and IL24.
+
+- These antigen patches could explain the autoreactive response in chronic
+urticaria and hypothyroidism.
+
+- There was no cross reactivity between the identified antigen patches and
+
+the tested environmental allergens.
+
+ABSTRACT
+Background: Human proteins such as interleukin-24 (IL24), thyroperoxidase
+(TPO) and thyroglobulin (Tg) are targets of IgE or IgG autoantibodies. Why these
+proteins are recognized by autoantibodies in some patients with chronic
+
+spontaneous urticaria (CSU) or hypothyroidism is unknown.
+
+Objective: Through in silico analysis, identify antigen patches of TPO, Tg and IL24
+and compare the sequences of these human proteins with some prevalent
+
+allergens.
+
+Methods: The amino acids sequences of IL24, thyroperoxidase and thyroglobulin
+were compared between them and with 22 environmental allergens. Phylogenetic
+studies and multiple pairing were carried out to explore the degree of protein
+identity and cover. The proteins without 3D structure reported in the database,
+were modeled by homology with “Swiss Modeller’ and compared through PYMOL.
+Residues conserved and accessible to the solvent (rASA> 0.25) were located in
+
+the 3D model to identify possible areas of cross-reactivity and antigen binding.
+
+Results: We build a 3D model of the TPO and thyroglobulin protein base on
+proteins closely related. Five epitopes for TPO, six for IL24 and six for thyroglobulin
+were predicted. The amino acid sequences of allergens from different sources
+(Dermatophagoides pteronyssinus, Blomia tropicalis, Betula verrucosa, Cynodon
+dactylon, Aspergillus fumigatus, Canis domesticus, Felis domesticus) were
+compared with human TPO, Tg and IL24. The cover and alignments between
+
+allergens and human proteins were low.
+Conclusion: We identify possible linear and conformational epitopes of TPO, Tg
+and IL24 that could be the target of IgE or IgG binding in patients with urticaria or
+hypothyroidism; These epitopes do not appear to be present among common
+environmental allergens, suggesting that autoreactivity to these human proteins
+
+are not by cross-reactivity.
+
+Keywords: Autoantibodies; Thyroperoxidase; Interleukin-24; Thyroglobulin;
+
+Urticaria; Hypothyroidism.
+
+1. INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is a disease characterized by the presence of
+hives and angioedema that significantly affects the quality of life (1, 2). Patients
+with urticaria have a higher frequency of self-reactive autoantibodies IgE and IgG
+than healthy subjects (3-7). Thyroperoxidase (TPO), interleukin 24 (IL24) and
+thyroglobulin (Tg) are some of the proteins that have been implicated in the
+pathogenesis of urticaria (8-10). The frequency of autoantibodies against these
+proteins is low in healthy subjects (8, 11) but Anti-Tg and anti-TPO antibodies are
+common in patients with thyroid carcinoma or Hashimoto's thyroiditis (12-14). Why
+these human proteins are recognized by specific autoantibodies in patients with
+
+urticaria or hypothyroidism is unknown.
+Similar to what has been observed in other diseases (15-19), it is possible that in
+CSU and hypothyroidism the recognition of human proteins by IgG or IgE
+
+autoantibodies can be by cross-reactivity with environmental allergens.
+
+This hypothesis is supported by some observations:
+
+1) Patients with urticaria have a higher frequency of atopy and some allergic
+diseases like asthma and rhinitis than the population without CSU (20, 21).
+
+2) Patients with urticaria have a higher frequency of hypothyroidism than the
+population without urticaria (22-24).
+
+3) A higher frequency of anti-TPO IgE is present in patients with CSU and
+hypothyroidism and the response against this human antigen can induce
+histamine release by basophils (10, 22).
+
+4) In some skin diseases like atopic dermatitis, IgE cross-reactivity have been
+detected between human antigens and proteins from pollen grains or fungus
+(25, 26).
+
+5) In some autoimmune diseases like thyroid disease, molecular mimicry has
+been detected between human antigens and some proteins from
+
+microorganisms (27-29)
+
+The identification of the antigenic epitopes of IL24, TPO and Tg and the search of
+antigenic patches with cross-reactivity between these human proteins and common
+
+environmental allergens, could help to evaluate this hypothesis.
+
+2. METHODS
+
+2.1 Selection of proteins and alignment
+The amino acids sequences of TPO, IL24 and Tg were compared with prevalent
+allergens (Table 1) (30-33). The sequences were obtained from the uniprot
+database (https://www.uniprot.org/). Sequences that were reported in the
+
+WHOA/IUIS Allergen Nomenclature Sub-Committee (http://Awww.allergen.org) and
+
+ 
+
+presented a complete sequence were used. All the allergens that fulfilled these
+criteria were chosen, independent of the source (e.g pollen, animal) where it came
+from. Due to the variety of origin and length of amino acids between the molecules
+studied, cover and identity values were used to establish the degree of relationship
+between them. Identity and cover values between the molecule used in this study
+was determined by using BLAST from NCBI and praline web server
+(http://www.ibi.vu.nl/). Parameters to perform alignment were set up to use
+BLOSUMB62 as exchange matrix and a conditional compositional score matrix
+adjustments. Not filter or Marking were used. Iterations used were 3 with an Evalue of 0.01. Based in previous observations (34-36), we considered proper
+
+homology when both the identity and cover value were greater than 40%.
+
+2.2 Phylogenetic analysis
+
+The program “Molecular Evolutionary Genetic Analysis” (MEGA) version X was
+used for the construction of the tree, using the method of reconstruction of
+Neighbor-Joining with support by Bootstrap with 1000 replications as a measure of
+reliability and robustness and a p — distance model, under the assumption of
+minimal or non-evolution in the topology (37, 38). This model uses a comparative
+matrix to find the similarity between the sequences. The matrix was constructed
+
+with all amino acid sequences of allergens chosen that were available in human
+proteins retrieved from Uniprot database and reported in WHO/IUIS Allergen
+
+ 
+
+Nomenclature Sub-Committee (http://www.allergen.org). Thus, the more positive
+identity values are found among the sequences, and they will be located in closer
+positions in the tree. All empty spaces were eliminated (full deletions). From the
+global comparison and the homologies, the sum of the length of branches (SBL)
+will be presented, which will determine the number of nodes and the position of the
+same, including the “clusters” of the evolutionarily closest sequences. The
+alignment for the phylogenetic analysis was carried out through the CLUSTAL W.
+
+program, which performs alignments.
+
+2.3 Construction of 3D models and epitope prediction
+
+The models of those proteins not reported in the protein data bank, were made by
+
+homology. The Swiss-model server (https://swissmodel.expasy.org/) was used
+
+ 
+
+(39). The quality of the models was analyzed by ProSA-web. The models were
+refined in Deep-View (energy minimization and rotamer replacements). Its quality
+was evaluated by several tools, including the Ramachandran graphs, WHATIF,
+QMEAN4 index and energy values (GROMOS96 force field). The relative values of
+the area of accessible solvent (r-ASA) were determined by ASA-view. The models
+were used to identify residues exposed on the surface and conserved in the
+different groups. Those preserved and the residues accessible to the solvent (rASA
+> 0.25) were located in the 3D model to identify pooled areas (>4 residues) and
+
+possible cross-reactivity. Ellipro (http://tools.iedb.org/ellipro/) tools were used to
+
+ 
+
+predict lineal and discontinues epitopes on TPO, IL24 and thyroglobulin. Residues
+with larger scores are associated with greater solvent accessibility. Only residues
+
+with a score >0,75 were selected.
+
+3. RESULTS
+
+3.1 Sequences alignments
+
+A total of 27 sequences including human TPO, Tg, two isoforms of IL24 (X1 and
+X5, due the different in length) and 22 prevalent allergens from seven different
+sources, were selected based on allergenic capacity reported (Table 1). The
+percentages of identity between the allergens Vs. TPO, IL24 and Tg are shown in
+Table 2. The cover between allergens and TPO was quite low, with a maximum
+cover and identity with Can f 3 (37% and 28.1% respectively). Most of the
+
+sequence’s alignments had a coverage less than 5%.
+
+The IL24 isoform X5 and Can f 1 show the highest match among the alignments
+(cover of 52% and an identity of 30.77%). For the case of the isoform X1, Asp f 5
+showed the greatest identity among the allergens (cover 31.2%, identity 23%)
+
+followed by Blo t 2 (cover 17%, Identity 29%) (Table 2).
+
+The thyroglobulin was the human antigen who show the lowest match with the
+allergens. Maximum cover of thyroglobulin was obtained with Can f 2 (8%), but the
+
+identity was 26.9%.
+
+3.2 Phylogenetic analysis
+
+The evolutionary history was inferred using the Neighbor-Joining method and
+involved a total of 27 amino acid sequences and is shows in the figure 1. The
+
+bootstrap consensus tree inferred from 1000 replicates is taken to represent the
+representation of the sequence similarity degree between the proteins analyzed.
+The percentage of replicate trees in which the associated taxa clustered together in
+the bootstrap test are shown next to the branches and all ambiguous positions
+were removed for each sequence pair (pairwise deletion option). There were a total
+of 2767 positions in the final dataset. The different molecules studied showed a
+very low relationship between them due to the protein diversity studied. In the
+analysis of the Neighbor-Joining method, the different molecules studied showed a
+very low relationship between them due to the protein diversity studied.
+Thyroglobulin and IL24 isoforms were grouped in a single clade while the TPO
+showed a slight relationship between Fel d 3 and Can f 5 and in the next branch
+Cyn d 1 and Asp f 1. Branches corresponding to partitions reproduced in less than
+50% bootstrap replicates are collapsed. The evolutionary distances were computed
+using the p-distance method and are in the units of the number of amino acid
+
+differences per site.
+3.3 Linear and discontinuous epitopes were predicted on TPO, IL24 and Tg
+
+We build a 3D model of the TPO and Tg protein using proteins closely related;
+Three closet homologue protein of TPO were found: Lactoperoxidase (48%),
+myeloperoxidase (47%), and eosinophil peroxidase (47%). Here, we used the
+myeloperoxidase as the structure modelling due its dimers forms. By using Ellipro
+server, three lineal and two discontinuous epitopes on TPO were predicted (Table
+3a). The first lineal epitope was located on a loops regions and the second and
+third lineal epitopes were located on a-helices (L1: 295 — 314; L2: 418 — 433; L3
+
+711 — 735), all with an area surface greater than 300 A. None of these sequences
+were conserved in the allergens studied (Figure 2a). Discontinuous epitopes 1 and
+2 are conformed by 31 and 55 amino acid residues, respectively, located between
+
+two a-helices (Figure 2b).
+
+The IL 24 structure was previously described and analyzed by X-Ray methods and
+reported in Uniprot by the code 6DF3 (40), three lineal and three discontinuous
+epitopes were predicted and all the linear patches are found in B-sheets (LE1: 42 —
+54; LE2: 218 — 229; LE3: 145 — 153) (Table 3b; Figure 3a). The first discontinuous
+epitope is located in a loop, between two antiparallel B sheets, with a total of 6
+residues. The other two patches are close located, DE2 is among to B-sheets and
+a loops with a total of 8 residues, meanwhile DE 3 cover more area and has part of
+
+3 antiparallel B-sheets with a total of 27 residues (Figure 3b).
+
+The model construction of the monomer Tg used the acetylcholinesterase as the
+template due it presented the greatest identity with a 36%. Four linear epitopes and
+two discontinuous epitopes were found in the thyroglobulin (Table 3c). Three of the
+linear epitopes are found in different alpha helices while only one is part of Bsheets structure (LE1: 2719 — 2731; LE2: 2522 — 2545; LE3: 2197 — 2228; LE4:
+2547 — 2579) (Figure 4). The first two discontinuous epitopes were excluded since
+they did not meet the conditions because one of them had only three residues and
+
+the other present a score <0.75.
+
+4. DISCUSSION
+
+10
+CSU is a disease with multiple triggers and mechanisms (3, 4, 41, 42). Different
+autoimmune mechanisms have been identified, being the IgG and IgE
+
+autoantibodies the most studied mechanisms (5, 43-46).
+
+It has been possible to detect autoantibodies against multiple human antigens in
+CSU (8-10, 15, 47), the most studied is the thyroperoxidase. In one recent study
+we demonstrated that thyroperoxidase could induce hives in patients with urticaria
+and anti-TPO IgE (10); It has also been observed that the suppression of anti- TPO
+IgE avoid hives (10, 48). The demonstration of this causal relationship, opened the
+possibility that other autoantibodies can do the same in this disease. Nevertheless,
+it is not Known why this auto-reactive response occurs. Some hypotheses could
+
+explain this self-response;
+
+1) Patients with CSU have an increased risk of developing autoimmune
+diseases possibly due to genes isoforms influencing the immune response,
+which would facilitate the recognition of autoantigens by clones of B
+lymphocytes with IgE or lgG receptors. This hypothesis is supported by
+epidemiological investigations that show a higher frequency of hypothyroidism in
+patients with CSU (15 to 30%) compared to subjects without CSU (5 to 7%). The
+high frequency of hypothyroidism is present in patients with CSU and anti-TPO IgE
+or anti-FceRla IgG. Mozena, et al., (49) investigated whether the high incidence of
+Hashimoto’s thyroiditis (HT), observed in patients with CSU could be explained by
+epitope cross-reactivity of anti-FceRla antibodies with thyroid proteins (TPO and
+Tg); they did not find that thyroid proteins could generate an inhibition of the
+
+response observed with anti-FceRla IgG, so they concluded that cross-reactivity
+
+11
+does not explain the increased prevalence of HT found in CSU patients with antiFceRla IgG. Nevertheless, they didn't compare the IgE response or the identity of
+the epitopes among thyroid proteins. The results of Mozena, et al, also indicate
+that IgG against TPO and Tg had no capacity to induce mast cell activation,
+however, other studies have shown that recognition of these antigens by IgE can
+lead to cell activation (9, 10). All these results suggest that the autoimmune
+response IgE and IgG in urticaria may have some points in common, but also
+differences in the recognized antigens. If there is a common epitope for the IgG
+response in HT and for the IgE response in CSU is unknown but, we identify some
+antigenic epitopes that could be recognized by both antibodies (IgG and IgE), and
+we believe that during an inflammatory process secondary to the recognition of
+self-proteins as occurs in these diseases, the formation of multiple B lymphocytes
+cell clones IgG and IgE is enhanced and this could explain the epidemiological
+
+relationship that has been found in both diseases.
+
+We identify some possible antigenic epitopes for both TPO and Tg; These epitopes
+did not share a common sequence, so they are unlikely to have cross-reactivity
+and possibly its formation is by independent mechanisms. As presented in Table 2,
+the identity and cover of these proteins and the IL24 was also low. No epitopes
+shared between IL24 and thyroid antigens were found, so cross reactivity is
+unlikely. There is still little information about the role of IL24 in hives; In one study,
+IgE-anti-IL24 was found in a large number of patients with CSU (90%), but the
+
+possible association with other autoimmune diseases has not been evaluated.
+
+12
+2) Human thyroperoxidase could share antigenic epitopes with prevalent
+
+allergens (e.g., house dust mites, pets, fungal spores or pollen).
+
+Epidemiological studies that show a higher prevalence of atopy in patients with
+CSU versus subjects without urticaria support this hypothesis (50-52). It is also
+supported in some studies with IgE skin diseases; In atopic dermatitis, human
+auto-antigens that have cross-reactivity with similar environmental allergens have
+been detected in patients with severe clinical conditions (25, 26). According with
+this hypothesis, first, the body would mount an IgE response to common allergenic
+sources such as mite proteins, dog epithelia, grains of pollen etc., subsequently,
+after a chronic inflammatory process these antibodies would recognize similar
+epitopes in humans previously unexposed and, through cross-reactivity, they would
+
+mount an autoreactive response.
+
+To explore this hypothesis, we compared the sequence of TPO, Tg and IL24 with
+multiple allergenic proteins. Proteins with a close phylogenetic relationship are
+more likely to share common segments in their sequence, however the
+phylogenetic relationship between the proteins studied was low. Through in-silico
+prediction analysis, we describe several epitopes in TPO, Tg and IL24 with
+antigenic potential that could be the targets for antibodies, however none of these
+epitopes seems to be present in the primary or tertiary structure of the allergens
+studied. Therefore, according to these results, cross-reactivity between exogenous
+allergens and endogenous antigens seems unlikely. The high prevalence of atopy
+in patients with CSU could then be due to other causes; for example, the polyclonal
+
+response that can be generated after a chronic inflammatory response may
+
+13
+boosting IgE response to different unrelated antigens. However, we cannot rule out
+that other allergenic proteins not included in this study could share cross-reactivity
+with TPO, Tg, IL24; for example, Helicobacter pylori or Toxocara canis have
+proteins capable of binding to IgE and IgG autoantibodies, and have been
+associated as possible triggers of chronic urticaria (53, 54). However, we were
+unable to explore this possibility since their proteins have not yet been reported in
+NCBI or Uniprot. In addition, we chose multiple frequent allergens but it is possible
+that other less prevalent allergens from mites, pets or fungi could have a greater
+
+identity with TPO, Tg or IL24.
+
+It is also necessary to note that our study has some weaknesses that could explain
+the lack of cross-reactivity between the auto-antigens and the allergens evaluated;
+In the case of TPO, we model its tertiary structure based on other homologous
+proteins since its tertiary structure is unknown, however in-silico constructions are
+not exact and it is possible that its natural form is different from what we propose.
+In the same direction, the antigen patches require further confirmation through
+studies in biological models. However, bioinformatic analyzes have many
+advantages to prioritize the resources of an investigation and serve in the initial
+evaluation of a hypothesis and as support in defining whether or not it is justified to
+
+perform in-vitro or ex-vivo analysis.
+
+In conclusion, through in-silico modeling we identify possible linear and
+conformational epitopes of TPO, Tg and IL24 that could be the target of IgE or IgG
+binding in patients with urticaria or hypothyroidism; These epitopes do not appear
+
+to be present among the major allergens from mites, common grass, dog, cat and
+
+14
+Aspergillus fumigatus, suggesting that they are by a specific reaction and not by
+
+cross-reactivity.
+
+REFERENCES
+
+de Arias-Cruz A, Gonzalez-Diaz SN, Macias-Weinmann A, lbarra-Chavez JA, Sanchez-Guerra D,
+Leal-Villarreal L, et al. [Quality of life in chronic urticaria and its relationship with economic impact
+and disease control in patients attended to at the University Hospital of Monterrey, Mexico]. Rev
+Alerg Mex. 2018;65(3):170-8.
+
+2. Maurer M, Houghton K, Costa C, Dabove F, Ensina LF, Giménez-Arnau A, et al. Differences
+in chronic spontaneous urticaria between Europe and Central/South America: results of the multicenter real world AWARE study. World Allergy Organ J. 2018;11(1):32.
+
+3. Sanchez Jorge J, Sanchez A, Cardona R. Prevalence of drugs as triggers of exacerbations in
+chronic urticaria. J Investig Allergol Clin Immunol. 2018:0.
+4. Sanchez J, Sanchez A, Cardona R. Dietary Habits in Patients with Chronic Spontaneous
+
+Urticaria: Evaluation of Food as Trigger of Symptoms Exacerbation. Dermatol Res Pract.
+2018;2018:6703052.
+
+5. Hide M, Francis DM, Grattan CE, HakimiJ, Kochan JP, Greaves MW. Autoantibodies against
+the high-affinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl J Med.
+1993;328(22):1599-604.
+
+6. Lee MF, Lin TM, Liu SW, Chen YH. A rapid method of detecting autoantibody against FceRla
+for chronic spontaneous urticaria. PLoS One. 2014;9(10):e109565.
+7. Ulambayar B, Chen YH, Ban GY, Lee JH, Jung CG, Yang EM, et al. Detection of circulating IgG
+
+autoantibody to FceRla in sera from chronic spontaneous urticaria patients. J Microbiol Immunol
+Infect. 2017.
+
+8. Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a common and
+specific autoantigen of IgE in patients with chronic spontaneous urticaria. J Allergy Clin Immunol.
+2017.
+
+9. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated autoallergy
+against thyroid peroxidase--a novel pathomechanism of chronic spontaneous urticaria? PLoS One.
+2011;6(4):e14794.
+
+10. Sanchez J, Sanchez A, Cardona R. Causal Relationship Between Anti-TPO IgE and Chronic
+Urticaria by. Allergy Asthma Immunol Res. 2019;11(1):29-42.
+
+11. Poindexter NJ, Walch ET, Chada S, Grimm EA. Cytokine induction of interleukin-24 in human
+peripheral blood mononuclear cells. J Leukoc Biol. 2005;78(3):745-52.
+
+12. Posselt RT, Coelho VN, Skare TL. Hashimoto thyroiditis, anti-thyroid antibodies and systemic
+lupus erythematosus. Int J Rheum Dis. 2018;21(1):186-93.
+
+13. Pereira WLCJ, Reiche EMV, Kallaur AP, Oliveira SR, Simao ANC, Lozovoy MAB, et al.
+Frequency of autoimmune disorders and autoantibodies in patients with neuromyelitis optica. Acta
+Neuropsychiatr. 2017;29(3):170-8.
+
+15
+14. Nakamura H, Usa T, Motomura M, Ichikawa T, Nakao K, Kawasaki E, et al. Prevalence of
+interrelated autoantibodies in thyroid diseases and autoimmune disorders. J Endocrinol Invest.
+2008;31(10):861-5.
+
+15. Maurer M, Altrichter S, Schmetzer O, Scheffel J, Church MK, Metz M. Immunoglobulin EMediated Autoimmunity. Front Immunol. 2018;9:689.
+
+16. Dema B, Pellefigues C, Hasni S, Gault N, Jiang C, Ricks TK, et al. Autoreactive IgE is prevalent
+in systemic lupus erythematosus and is associated with increased disease activity and nephritis.
+PLoS One. 2014;9(2):e90424.
+
+17. Valenta R, Natter S, Seiberler S, Wichlas S, Maurer D, Hess M, et al. Molecular
+characterization of an autoallergen, Hom s 1, identified by serum IgE from atopic dermatitis patients.
+J Invest Dermatol. 1998;111(6):1178-83.
+
+18. Fedorov AA, Ball T, Mahoney NM, Valenta R, Almo SC. The molecular basis for allergen crossreactivity: crystal structure and IgE-epitope mapping of birch pollen profilin. Structure.
+1997;5(1):33-45.
+
+19. Valenta R, Natter S, Seiberler S, Grote M. Isolation of cDNAs coding for IgE autoantigens: a
+link between atopy and autoimmunity. Int Arch Allergy Immunol. 1997;113(1-3):209-12.
+
+20. Chang KL, Yang YH, Yu HH, Lee JH, Wang LC, Chiang BL. Analysis of serum total IgE, specific
+IgE and eosinophils in children with acute and chronic urticaria. J Microbiol Immunol Infect.
+2013;46(1):53-8.
+
+21. Kulthanan K, Jiamton S, Rutnin NO, Insawang M, Pinkaew S. Prevalence and relevance of the
+positivity of skin prick testing in patients with chronic urticaria. J Dermatol. 2008;35(6):330-5.
+22. Kolkhir P, Metz M, Altrichter S, Maurer M. Comorbidity of chronic spontaneous urticaria and
+
+autoimmune thyroid diseases: A systematic review. Allergy. 2017;72(10):1440-60.
+
+23. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O, Goldberg A. Chronic urticaria and
+autoimmunity: associations found in a large population study. J Allergy Clin Immunol.
+2012;129(5):1307-13.
+
+24. Magen E, Mishal J. The effect of L-thyroxine treatment on chronic idiopathic urticaria and
+autoimmune thyroiditis. Int J Dermatol. 2012;51(1):94-7.
+25. Sanchez J, Sanchez A, Cardona R. Particular characteristics of atopic eczema in tropical
+
+environments. The Tropical Environment Control for Chronic Eczema and Molecular Assessment
+(TECCEMA) cohort study. An Bras Dermatol. 2017;92(2):177-83.
+
+26. Altrichter S, Kriehuber E, Moser J, Valenta R, Kopp T, Stingl G. Serum IgE autoantibodies
+target keratinocytes in patients with atopic dermatitis. J Invest Dermatol. 2008;128(9):2232-9.
+
+27. Sousa MeA, Parana R, Andrade LJ. SEQUENCE SIMILARITY BETWEEN THYROID SELF-PROTEIN
+AND HEPATITIS C VIRUS POLYPROTEIN: possible triggering mechanism of autoimmune thyroiditis.
+Arq Gastroenterol. 2016;53(3):185-91.
+
+28. Benvenga S, Guarneri F. Molecular mimicry and autoimmune thyroid disease. Rev Endocr
+Metab Disord. 2016;17(4):485-98.
+29. Benvenga S, Santarpia L, Trimarchi F, Guarneri F. Human thyroid autoantigens and proteins
+
+of Yersinia and Borrelia share amino acid sequence homology that includes binding motifs to HLADR molecules and T-cell receptor. Thyroid. 2006;16(3):225-36.
+
+30. Caraballo L, Zakzuk J, Lee BW, Acevedo N, Soh JY, Sanchez-Borges M, et al. Particularities of
+allergy in the Tropics. World Allergy Organ J. 2016;9:20.
+
+31. Nwaru BI, Suzuki S, Ekerljung L, Sjdlander S, Mincheva R, R6nmark EP, et al. Furry animal
+allergen component sensitization and clinical outcomes in adult asthma and rhinitis. J Allergy Clin
+Immunol Pract. 2018.
+
+32. Sanchez J, Diez S, Cardona R. [Frequency of sensitization to animals in a tropical area]. Rev
+Alerg Mex. 2014;61(2):81-9.
+
+16
+33. Sanchez J, Diez S, Cardona R. Sensibilizaci6n a aeroalergenos en pacientes alérgicos de
+Medellin, Colombia Revista Alergia México. 2012;59(3):139-47.
+
+34. Rost B. Twilight zone of protein sequence alignments. Protein Eng. 1999;12(2):85-94.
+
+35. Armano G, Milanesi L, Orro A. Multiple alignment through protein secondary-structure
+information. IEEE Trans Nanobioscience. 2005;4(3):207-11.
+
+36. Hong Y, Chintapalli SV, Ko KD, Bhardwaj G, Zhang Z, van Rossum D, et al. Predicting protein
+folds with fold-specific PSSM libraries. PLoS One. 2011;6(6):e20557.
+
+37. Gascuel O, Steel M. Neighbor-joining revealed. Mol Biol Evol. 2006;23(11):1997-2000.
+
+38. Studier JA, Keppler KJ. A note on the neighbor-joining algorithm of Saitou and Nei. Mol Biol
+Evol. 1988;5(6):729-31.
+
+39. Waterhouse A, Bertoni M, Bienert S, Studer G, Tauriello G, Gumienny R, et al. SWISSMODEL: homology modelling of protein structures and complexes. Nucleic Acids Res.
+2018;46(W1):W296-W303.
+
+40. Lubkowski J, Sonmez C, Smirnov SV, Anishkin A, Kotenko SV, Wlodawer A. Crystal Structure
+of the Labile Complex of IL-24 with the Extracellular Domains of IL-22R1 and IL-20R2. J Immunol.
+2018;201(7):2082-93.
+
+41. Sanchez J, Amaya E, Acevedo A, Celis A, Caraballo D, Cardona R. Prevalence of Inducible
+Urticaria in Patients with Chronic Spontaneous Urticaria: Associated Risk Factors. J Allergy Clin
+Immunol Pract. 2017;5(2):464-70.
+
+42. Grattan C. Autoimmune chronic spontaneous urticaria. J Allergy Clin Immunol.
+2018;141(3):1165-6.
+43. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating histamine releasing
+
+autoantibodies with functional properties of anti-lgE in chronic urticaria. Clin Exp Allergy.
+1991;21(6):695-704.
+
+44, Grattan CE. Histamine-releasing autoantibodies in chronic urticaria. Skin Pharmacol. 1991;4
+Suppl 1:64-70.
+45. Asero R, Marzano AV, Ferrucci S, Cugno M. D-Dimer Plasma Levels Parallel the Clinical
+
+Response to Omalizumab in Patients with Severe Chronic Spontaneous Urticaria. Int Arch Allergy
+Immunol. 2017;172(1):40-4.
+
+46. Auyeung P, Mittag D, Hodgkin PD, Harrison LC. Autoreactive T cells in chronic spontaneous
+urticaria target the IgE Fc receptor la subunit. J Allergy Clin Immunol. 2016;138(3):761-8.e4.
+
+47. Shin YS, Suh DH, Yang EM, Ye YM, Park HS. Serum Specific IgE to Thyroid Peroxidase
+Activates Basophils in Aspirin Intolerant Urticaria. J Korean Med Sci. 2015;30(6):705-9.
+
+48. Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, et al. Efficacy and
+safety of omalizumab in patients with chronic urticaria who exhibit IgE against thyroperoxidase. J
+Allergy Clin Immunol. 2011;128(1):202-9.e5.
+
+49. Mozena JD, Tifiana A, Negri J, Steinke JW, Borish L. Lack of a role for cross-reacting antithyroid antibodies in chronic idiopathic urticaria. J Invest Dermatol. 2010;130(7):1860-5.
+
+50. Maurer M, Metz M, Brehler R, Hillen U, Jakob T, Mahler V, et al. Omalizumab treatment in
+patients with chronic inducible urticaria: A systematic review of published evidence. J Allergy Clin
+Immunol. 2018;141(2):638-49.
+
+51. Weller K, Ohanyan T, Hawro T, Ellrich A, Sussman G, Koplowitz J, et al. Total IgE levels are
+linked to the response of chronic spontaneous urticaria patients to omalizumab. Allergy. 2018.
+52. Sanchez-Borges M, Capriles-Hulett A, Caballero-Fonseca F, Gonzdlez-Aveledo L. Biomarkers
+
+of treatment efficacy in patients with chronic spontaneous urticaria. Eur Ann Allergy Clin Immunol.
+2018;50(1):5-9.
+
+53. Burak Selek M, Baylan O, Kutlu A, Ozyurt M. Toxocara Canis IgG Seropositivity in Patients
+with Chronic Urticaria. Iran J Allergy Asthma Immunol. 2015;14(4):450-6.
+
+17
+54. Yoshimasu T, Furukawa F. Eradication therapy for urticaria with high titers of anti H. pylori
+IgG antibody. Allergol Int. 2014;63(1):37-40.
+
+TABLES AND FIGURES
+
+Figure 1. Phylogenetic relationship.
+
+Figure 1. In the analysis of the joining neighborhood methods, the branch
+represents the relationship among the proteins studied and the number beside
+represent the distant of the branch. The different molecules showed a very low
+relationship between them. Thyroglobulin and IL 24 isoforms were grouped in a
+single clade while the TPO showed a slight relationship between Fel d 3 and Can f
+
+5 and in the next branch Cyn d 1 and Asp f 1.
+
+18
+Journal Pre-proof
+
+ 
+
+Figure 2. Epitopes of the TPO.
+
+Figure 2. Lineal (Figure 2a) and discontinuous (Figure 2b) epitopes of the TPO.
+The patches present a score > 0.75, showing a high probability of antibody
+accessibility. The color blue, red and green represent the first, second and third
+
+parch, respectively.
+
+18
+Figure 2a
+
+ 
+
+LE 1: 295-314 ae aad
+Za ‘
+By€ x.
+Vet
+Re: ay (180
+ays sr
+my
+7 ee LE 3: 711-735
+
+Figure 2b
+
+DE 2: 55 residues
+
+ 
+
+DE 1: 31 residues
+
+Figure 3. Epitopes of the IL24.
+
+Figure 3. Lineal (Figure 3a) and discontinuous (Figure 3b) epitopes of the IL24.
+The patches present a score > 0.75, showing a high probability of antibody
+accessibility. The color blue, red and green represent the first, second and third
+
+parch, respectively.
+
+20
+Journal Pre-proof
+
+Figure 3a
+
+~ LE2 218-229
+
+ 
+
+LE 1: 42-548
+
+*DE3:.27 residues ~
+
+DE 1:6 residues
+
+  
+
+Figure 4. Epitopes of the thyroglobulin.
+
+Figure 4. Lineal epitopes of the thyroglobulin. The patches present a score > 0,75,
+showing a high probability of antibody accessibility. The color blue, red and green
+
+represent the first, second and third parch, respectively.
+
+21
+Journal Pre-proof
+
+LE 2: 2522-2545 *
+LE 4: 2719-2731.
+
+  
+
+UE 3: 2197-2228 *
+
+22
+Table 1. Comparison sequences.
+
+Table 1. Sequence of allergens used to compare with the sequences of TPO, IL-24 and Tg.
+
+Source/Allergen
+Dermatophagoides
+pteronyssinus
+Derp1
+Der p2
+Derp5
+Der p 10
+Blomia tropicalis
+Blot1
+Blo t 2.0101
+Blot5
+
+Entry
+Uniprot (3D
+Structure)
+
+P08176
+P49278
+P14004
+018416
+
+A1KXI0
+Q1iM2P1
+096870
+
+Codigo
+UNIPROT
+
+PEPT1_DERPT
+ALL2_DERPT
+ALL5_DERPT
+TPM_DERPT
+
+CYSP_BLOTA
+Q1M2P1_BLOTA
+ALL5_BLOTA
+
+GeneBank
+Nucleotide
+
+U11695
+AF276239
+$76337
+Y14906
+
+AF277840
+AAQ73483
+U59102
+
+GeneBank
+Protein
+
+AAB60215.1.
+AAF86462.1.
+AAB32841.1.
+
+CAA75141
+
+AAK58415
+AY288141
+
+AAD10850.1.
+
+Aminoacids
+
+320
+146
+132
+284
+
+221
+144
+134
+
+23
+Blo t 13
+Betula verrucosa
+Betv1
+Cynodon dactylon
+Cyndi
+Aspergillus
+fumigatus
+Asp f 1
+Asp f 2
+Asp f 3
+Asp f5
+Canis familiaris
+Can f1
+Can f 2
+Can f 3
+Can f 4
+Canf5
+Felis domesticus
+
+Feld 1
+
+Q17284
+P15494
+
+004701
+
+P67875
+P79017
+043099
+P46075
+
+018873
+018874
+P49822
+D7PBH4
+P09582
+
+P30438
+(chain 1)
+
+FABP_BLOTA = AY283294.1
+
+BEV1A_BETPN
+
+MPAC1_CYNDA
+
+RNMG_ASPFU
+ALL2_ASPFU
+PRX5_ASPFU
+ELM_ASPFU
+
+ALL1_CANLF
+ALL2_CANLF
+ALBU_CANLF
+D7PBH4_CANLF
+ESTA_CANLF
+
+FEL1A_FELCA;
+FEL1B_FELCA
+
+Z80099
+
+$83343
+
+M83781
+U56938
+U58050
+Z30424
+
+AFO27177
+AFO27178
+AB090854
+
+GU132996
+
+Y00751
+
+M74952
+(chain 1)
+
+AAC80579
+
+CAA33887
+
+AAB50734
+
+AABO7779
+AAC69357
+
+AAB95638
+CAA83015
+
+AAC48794
+AAC48795
+BAC10663
+ACY38525
+P09582
+
+AAC37318
+(chain 1)
+
+131
+
+160
+
+246
+
+176
+310
+168
+634
+
+174
+180
+608
+174
+260
+
+92;
+109
+
+24
+Feld 2
+Feld 3
+
+P30440
+(chain 2)
+P49064
+Q8WNR9
+
+ALBU_FELCA
+CYTA_FELCA
+
+M77341
+(chain 2)
+X84842
+
+AF238996
+
+AAC41616
+(chain 2)
+
+CAA59279
+
+AAL49391
+
+608
+98
+
+25
+Table 2. Pairwise aligments results.
+
+Table 2. Pairwise aligments results from TPO, IL-24, thyroglobulin and 22 allergens from differents sources (Fel d 1 have
+two isoforms). The cover and identity values were taken to establish the degree of relationship between the proteins. The
+
+results are expressed as a percentage.
+
+Source/Allergen TPO Thyroglobulin IL24 (X1) IL24 (X5)
+
+Identity Cover Identity Cover Identity Cover Identity Cover
+(%) — (%) (%) (%) (%) (%) (%) = (%)
+TPO 100 100 26,51 25 ND ND ND ND
+Thyroglobulin 26,51 25 100 100 20 17 ND ND
+IL24 (X1) ND ND 20 17 100 100 #100 6
+
+Human antigen
+
+26
+IL24 (X5)
+Dermatophagoides
+pteronyssinus
+Derp1
+Der p 2
+Derp5
+Der p 10
+Blomia Tropicalis
+Blot1
+Blo t 2.0101
+Blot5
+Blo t 13
+Betula verrucosa
+Betv1
+Cynodon dactylon
+Cyndi
+Aspergillus
+fumigatus
+Asp f 1
+Asp f 2
+
+ND
+
+ND
+37,50
+24,14
+28,07
+
+26,10
+ND
+41,67
+ND
+ND
+
+38,89
+
+42,86
+36
+
+ND
+
+11%
+ND
+1%
+ND
+
+ND
+
+17
+
+ND
+
+41,67
+50
+33,3
+35,29
+
+47,06
+50
+32,14
+41,67
+
+42,11
+
+44
+
+26,92
+ND
+
+ND
+
+oO ON N
+
+FON W
+
+ND
+
+100
+
+44
+22
+ND
+37
+
+50
+29
+ND
+ND
+ND
+
+26,86
+
+ND
+ND
+
+8
+23
+ND
+10
+
+17
+ND
+ND
+ND
+
+16
+
+ND
+ND
+
+100
+
+33,3
+ND
+ND
+ND
+
+25
+28,57
+ND
+ND
+40
+
+ND
+
+ND
+ND
+
+100
+
+ND
+ND
+ND
+
+31
+33
+ND
+ND
+
+ND
+
+ND
+ND
+
+27
+Asp f 3
+
+Asp f5
+Canis domesticus
+
+Can f1
+
+Can f 2
+
+Can f 3
+
+Can f 4
+Canf5
+Felis domesticus
+
+Feld 1
+
+Feld 2
+Feld 3
+
+35,71
+ND
+
+29,63
+50
+
+28,12
+
+ND
+17,65
+
+CHAIN
+1:50
+CHAIN
+2: ND
+28,12
+28,57
+
+ND
+
+37
+
+ND
+13
+
+CHAIN CHAIN 1: CHAIN
+
+V0, 32,4 1:4
+CHAIN CHAIN 2: CHAIN
+2;ND 56,25 2:2
+
+24 20.29 4
+
+9 5 2
+
+36,67
+42,11
+
+25,37
+26,92
+
+43,75
+
+23,81
+38,46
+
+NY £
+
+Wn D OF
+
+ND
+23
+
+ND
+31
+
+44
+
+ND
+40
+
+ND
+ND
+
+ND
+31,25
+
+ND
+13
+
+4
+
+ND
+9
+
+ND
+
+ND
+ND
+
+ND
+ND
+
+30,77
+ND
+
+ND
+
+ND
+26,67
+
+CHAIN
+1: ND
+CHAIN
+2: 50
+ND
+ND
+
+ND
+ND
+
+52
+ND
+
+ND
+
+ND
+23
+
+CHAIN
+1: ND
+CHAIN
+2:12
+ND
+ND
+
+28
+Table 3. Lineal and discontinuous epitopes from TPO, IL24, Tg.
+
+Table 3. Lineal and discontinuous epitopes from TPO (3a), IL24 (3b), Tg (3c). A total of 5 antigenic patches was predicted
+
+for TPO (table 3a), six for IL24 (table 3b) and six for Tg (table 3c). They contained more than three amino acids and a
+score >0.75 excluding the second discontinuous patch from TPO and discontinuous patches from Tg but given the low
+
+number of epitopes it was included.
+
+Table 3a Number
+Start End Peptide of Score
+TPO
+residues
+295 314 ACGTGDQGALFGNLSTANPR 20 0,838
+Lineal
+
+418 433 AAALKALNAHWSADAV 16 0,816
+
+29
+Continues
+
+711 735
+
+338 735
+
+137 732
+
+VGKFPEDFESCDSITGMNLEAWRET
+
+A:R338, A:R341, A:N342, A:W343, A:T344,
+
+A:S345, A:A346, A:E347, A:G348, A:L349,
+
+A:L350, A:A418, A:A419, A:A420, A:L421,
+
+A:K422, A:A423, A:L424, A:N425, A:A426,
+
+A:H427, A:W428, A:S429, A:A430, A:D431,
+
+A:A432, A:V433, A:E436, A:R733, A:E734,
+A:T735
+
+A:M137, A:L138, A:P139, A:P140, A:K141,
+
+A:C142, A:P143, A:N144, A:T145, A:C146,
+
+A:L147, A:A148, A:N149, A:K150, A:Y151,
+
+A:A157, A:C158, A:N159, A:N160, A:R161,
+A:D162, A:H163, A:P164, A:W166, A:Y470,
+A:E471, A:G472, A:Y473, A:D474, A:S475,
+
+A:T476, A:A477, A:G667, A:W669, A:F670,
+A:W671, A:W672, A:E673, A:N674, A:S675,
+A:H676, A:V677, A:F678, A:T679, A:D680,
+
+25
+
+31
+
+55
+
+0,784
+
+0,776
+
+0,714
+
+30
+A:A681, A:Q682, A:R683, A:R684, A:E685,
+A:N728, A:L729, A:E730, A:A731, A:W732
+
+Table 3b Number
+IL24 StartEnd Peptide of Score
+residues
+
+Lineal > 5g DSTPDTVYS 9 0,844
+
+31
+218 229 RVKTLPDRTWTG 12 0,841
+
+147 153 RAGDGHR 7 0,816
+L:R147, L:A148, L:G149, L:D150,
+147 152 L:G151, L:H152 6 0,865
+L:Q170, L:V171, L:N172, L:R173,
+170 178 —_L:T174, L:Y175, L:Q176, L:H178 8 0,785
+Continues L:1129, L:$130, L:K131, L:V132, L:R133,
+
+L:$134, L:F189, L:G190, L:L191, L:T192,
+L:P193, L:D194, L:T195, L:E196, L:F197, 27 «0.759
+L:R218, L:V219, L:K220, L:T221, L:L222, ’
+L:P223, L:D224, L:R225, L:T226,
+L:W227, L:T228, L:G229
+
+129 229
+
+Table 3c
+Tg Start End Peptide
+
+Number
+of Score
+residues
+27192731 SKYISSLKTSADG
+
+linesal 25222545 AVKQFEESRGRTSSKTAFYQALQN
+
+21972228 SVPSVPISTHGRLLGRSQAIQVGTSWKQVDQF
+2547 2579 LGGEDSDARVEAAATWYYSLEHSTDDYASFSRA
+26742676 A:F2674, A:S2675, A:R2676
+
+Continues
+2528 2530 A:E2528, A:S2529, A:R2530
+
+13
+
+24
+
+32
+
+33
+
+0,803
+0,792
+0,781
+0,769
+0.979
+
+0.883
+
+33
+Journal Pre-proof
+
+34
+

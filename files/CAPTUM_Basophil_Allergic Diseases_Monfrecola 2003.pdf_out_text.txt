@@ -1,0 +1,612 @@
+JEADV (2003) 17, 646-651
+
+ 
+
+RIGIN ICLE
+
+In vitro effects of ultraviolet A on histamine release from human
+
+basophils
+
+G Monfrecola,t* A de Paulis,+ E Prizio,t | Russo,t M Carfora,+ P Santoianni,t G Maronet
+Division of Dermatology, $Division of Clinical Immunology and Allergy, University of Naples ‘Federico II, Via S. Pansini, 5, 80131 Naples, Italy.
+* Corresponding author, Clinica Dermatologica, Universita di Napoli ‘Federico II, Via S. Pansini, 5, 80131 Napoli, Italy, tel./fax +39 081 7462455;
+
+E-mail: monfreco@unina.it
+
+ABSTRACT
+
+Background As long-wave ultraviolet (UV) radiation penetrates the dermis, connective tissue cellular components and circulating blood cells can be possible targets for solar UVA. Basophils, involved in the effector phase
+of the inflammatory response, play a part in skin diseases such as chronic urticaria, psoriasis, atopic dermatitis,
+fixed drug eruption, allergic contact dermatitis, urticaria pigmentosa, systemic sclerosis and bullous pemphigoid.
+Objective The evaluation of the in vitro effect of UVA on histamine release from human basophils.
+Methods Basophils from healthy human volunteers were irradiated, respectively, with UVA at doses of
+2.5, 5, 7.5, 10, 20 and 50 J/cm? and then incubated with an anti-IgE serum. A fluorimetric technique was
+employed to determine histamine release from samples: (i) incubated with 2% HClO, (complete lysis of
+basophils); (ii) irradiated with increasing doses of UVA; and (iii) unirradiated (controls).
+
+Results Histamine release was: 100% for HCIO, incubated basophils, 30% for unirradiated and anti-IgE
+incubated cells (controls) and 27%, 24%, 34%, 41%, 60% and 70% for basophils irradiated with UVA doses,
+respectively, of 2.5, 5, 7.5, 10, 20 and 50 J/cm? and incubated with anti-IgE. Histamine releasability from
+irradiated samples was statistically significant (P < 0.05), in comparison with controls, at UVA doses equal
+to 5, 10, 20 and 50 J/cm2.
+
+Conclusions UVA exerts, at least in vitro, a biphasic dose-dependent action on histamine release from
+human basophils incubated with an anti-IgE serum: at the lowest irradiation doses (< 5 J/cm?) it exerts an
+inhibitory effect and at the highest doses (2 10 J/cm?) histamine release increases significantly.
+
+Key words: basophils, histamine, ultraviolet A
+
+Received: 26 October 2001, accepted 9 July 2002
+
+ 
+
+Introduction
+
+Exposure to long-wave ultraviolet (UV) radiation (UVA =
+320-400 nm) has long been considered not to be a risk for
+human skin because the dose required to elicit erythema is
+about 1000 times larger than that needed to induce an identical
+reaction with UVB (290-320 nm). During the last decade a
+number of papers have been published showing that UVA can
+exert action on multiple skin components such as cell membranes and cytoskeleton;! moreover, it can cause photoageing
+and _photocarcinogenesis,2_ probably mediated by cellular
+chromophores absorbing long-wave UV.
+
+Regarding the weight of UVA on human skin it is important
+to consider that: (i) the amount of this waveband reaching the
+
+646
+
+Earth’s surface is 20 times greater than that of UVB; (ii) the percentage of UVA, compared with that of short-wave UV, is
+greater during the morning or afternoon hours; and (iii) many
+people expose their skin to large amounts of artificial UVA for
+cosmetic purposes.
+
+In mammals exposure to UVA radiation induces immunomodulation, although its effects are at the moment less defined and
+are more controversial than those of UVB.; It is well established
+that UVA causes the production of immunomodulatory cytokines
+in keratinocytes! and fibroblasts;> moreover, it affects several
+immunologically relevant epidermal and dermal cells such as
+Langerhans cells, T lymphocytes, natural killer cells and mast cells.3
+
+At the moment no data are available about the possible
+effects of UVA on other cells involved in the inflammatory
+
+© 2003 European Academy of Dermatology and Venereology
+In vitro effects of UVA on histamine release from human basophils 647
+
+ 
+
+response, such as basophils, which, together with eosinophils,
+are involved in the effector phase of allergic inflammation.
+After their release from the bone marrow, basophils circulate in
+the blood and normally are not found in human tissues. However,
+there is no increasing evidence that basophils are involved in
+hypersensitivity reactions in inflammed tissues.6 The fact that
+basophils migrate in the tissues (including the dermis) and that
+long-wave UV rays can penetrate the skin up to the dermis,
+prompted us to evaluate whether UVA could, in vitro, exert an
+action on histamine release from human basophils.
+
+Materials and methods
+
+Buffers
+
+PIPES [piperazine — N,N’-bis(2-ethanesulphonic acid)] buffer
+was made up of 25mm PIPES (pH 7.4), 110 mm NaCl and
+5 mm KCl, and PCG contained 1.0 mm CaCl, and 0.1%
+p-glucose in addition to PIPES; pH was titrated to 7.4 with
+NaOH. Phosphate-buffered saline contained (in g/L): NaCl,
+8.0; Na, HPO,-7H,0, 2.89; KH,PO,, 0.2 and KCl, 0.2 (pH 7.3).
+Anti-IgE was generously provided by Drs T. and K. Ishizaka (La
+Jolla Institute for Allergy and Immunology, La Jolla, CA).
+
+Preparation of peripheral blood leucocytes containing
+basophils and basophil enrichment
+
+ 
+
+The study protocol was approved by the Ethics Committee for
+Human Research of the School of Medicine of the University of
+Naples Federico II. Informed consent was obtained from eight
+healthy volunteers aged 16-58 years (mean age 32.3 + 0.9
+years), and venous blood was drawn into a final concentration
+of 0.008 m ethylenediamine tetraacetic acid and 1.1% Dextran
+70. Erythrocytes were allowed to settle for 90 min at 22 °C. The
+leucocyte-rich upper layer was drawn off, pelleted (200 xg,
+8 min, 4 °C) and washed twice in PIPES as previously described.7
+This preparation, generally containing about 0.5% basophils, is
+
+ 
+
+referred to in this paper as ‘basophils. Contaminating cells
+were lymphocytes, neutrophils, eosinophils, monocytes and
+platelets. Basophil-enriched preparations were obtained by
+a modification of the method described by De Boer and Roos.’
+In brief, buffy coat cell packs from healthy volunteers were
+reconstituted in phosphate-buffered saline containing 0.5 g/L
+human serum albumin and 3.42 g/L Na citrate and loaded on
+to a countercurrent elutriator (model J2—21, Beckman Instruments, Inc., Fullerton, CA, USA). Several fractions were collected,
+and fractions containing large numbers of basophils (> 15%)
+were further enriched by discontinuous Percoll gradients.?
+Basophils were further purified to near homogeneity (> 98%)
+by depleting B cells, monocytes, natural killer cells, dendritic
+cells, erythrocytes, platelet, neutrophils, eosinophils and T cells
+using a cocktail of hapten-conjugated CD3, CD7, CD14, CD15,
+CD16, CD36, CD45RA and anti-HLA-DR antibodies and
+
+MACS MicroBeads coupled to an antihapten monoclonal
+antibody. The magnetically labelled cells are depleted by
+retaining them on a MACS column in a magnetic field of the
+MidiMACS (Miltenyi Biotec, Bergisch Gladbach, Germany).
+Yields ranged from 3 to 10 x 106 basophils, with purity usually
+> 98%, as assessed by basophils staining with alcian blue and
+counting in a Spiers—Levy eosinophil counter.!°
+
+Ultraviolet A source and irradiation
+
+A bank of six fluorescent tubes (Philips TL09, 40 W) whose
+emission spectrum was between 315 and 400nm (peak:
+355 nm) was used. The irradiance was measured before each
+irradiation session by an UVAmeter (Spectrolyne mod, DM365H, Spectronics Corporation, Westbury, NY, USA). Samples
+from each of the eight volunteers were irradiated in plastic
+dishes (at a distance of 20 cm from the fluorescent tubes) with the
+following UVA doses: 2.5 J/cm2, 5 J/cm?, 7.5 J/cm?, 10 J/cm?,
+20 J/cm? and 50 J/cm?. To eliminate the wavelengths below
+320 nm, irradiations were applied through a 5-mm thick
+window.
+
+Histamine release assay
+
+Aliquots of 0.4 mL of the cell suspensions in PCG, containing
+approximately 5 x 104 basophils per tube, were placed in plastic
+dishes and warmed to 37 °C. Prewarmed aliquots (0.1 mL)
+of anti-IgE (10-! g/mL) were added and incubation was
+continued at 37 °C for 45 min. The reaction was stopped by
+centrifugation (1000 x g, 2 min, 22 °C), and the cell free
+supernatants were stored at —20 °C for the subsequent assay
+of histamine. Histamine was assayed with an automated
+fluorimetric technique.!! The total histamine content was
+assessed by lysis induced by incubating cells with 2% HClO,
+before centrifugation. In order to calculate histamine release
+as a percentage of total cellular histamine, the spontaneous
+release of histamine from basophils was subtracted from both
+numerator and denominator. All values are based on means
+of duplicate samples in which the histamine content differed
+by less than 10%. The anti-IgE used throughout the study
+was a portion from a single stock that had been stored at
+20°C.
+
+Statistical analysis
+
+The results obtained were graphically represented by means
+of histograms. The increasing UVA doses employed in our
+experiments were plotted against the corresponding percentage of histamine release induced by UVA. The results are
+mean + SEM. The significance of the difference in the effect of
+increasing UVA doses and controls was determined by statistical
+tests including the paired Student's f-test.!2 Differences were
+considered significant at P < 0.05.
+
+© 2003 European Academy of Dermatology and Venereology JEADV (2003) 17, 646-651
+648 Monfrecola et al.
+
+ 
+
+100
+
+*
+*
+505 *
+= *
+O74 T I J
+. 2.5 5 75 10 20 50
+
+U.S.
+
+ 
+
+Percent of histamine release
+
+ 
+
+ 
+
+ 
+
+ 
+
+UVA (J/cm?)
+
+fig. 1 Shows the percentage of histamine release from human basophils
+irradiated with increasing doses of ultraviolet A and then challenged with an
+optimal concentration of anti-IgE (10 ug/ml). Each bar represents the
+mean + SEM of histamine release (%), from samples coming from eight
+volunteers. *P < 0.05 compared with the release induced by anti-IgE alone.
+U.S. = unirradiated samples.
+
+Results
+
+Figure 1 shows the percentage of histamine release from human
+basophils stimulated with anti-IgE. The first histogram
+represents the percentage of histamine release from cells only
+incubated with anti-IgE, without UVA exposure (controls). In
+this case histamine release was equal to 30% if compared with
+100% (not shown in the figure) obtained after the complete
+lysis of basophils with HCIO, and consequent release of all
+the preformed mediator (histamine) contained into the
+cytoplasmatic granules.
+
+The second and third histograms represent the percentage
+of histamine release from basophils irradiated with UVA doses
+equal, respectively, to 2.5 J/cm? and 5 J/cm2, before incubation
+
+with anti-IgE. In both cases we observed a decrease of histamine
+release, respectively, to 27% and 24%, in comparison with 30%
+from unirradiated and anti-IgE stimulated cells (controls).
+
+Histograms from fourth to seventh represent the percentage of
+histamine release from basophils irradiated with UVA doses equal
+to 7.5 J/cm2, 10 J/cm2, 20 J/cm? and 50 J/cm2. In this case UVA
+exposure enhanced histamine release, respectively, to 34%, 41%,
+60% and 70%, always in comparison with unirradiated samples.
+
+In summary, at lowest irradiative doses (2.5 J/cm? and
+5 J/cm?) histamine release from basophils stimulated with antiIgE is inhibited. In particular, at 2.5 J/cm? the release is reduced
+(27%), but not significantly, whereas a statistically significant
+inhibitory effect (P < 0.05) occurs at 5 J/cm?, with a reduction of
+the mediator release to 24%. On the contrary, a dose-dependent
+histamine release was observed at higher UVA doses; in this
+case the differences with the release from unirradiated samples
+are significant (P < 0.05) for basophils irradiated, respectively,
+with doses of 10 J/cm2, 20 J/cm? and 50 J/cm? (fig. 1).
+
+Each histogram in the figure represents the mean + SEM of
+histamine release from eight volunteers; on the contrary Table 1
+reports data obtained from each of the eight volunteers. The
+columns of the table show the different experimental conditions in which basophils from eight volunteers were studied:
+unirradiated (only incubated with anti-IgE) and irradiated
+cells (with UVA doses equal to 2.5 J/cm2, 5 J/cm?, 7.5 J/cm?,
+10 J/cm?, 20 J/cm? and 50 J/cm2) before immunological activation. On the contrary, each bar of the table shows the results
+(% of histamine release) obtained from each of the eight volunteers.
+
+In the last bar the mean + SEM of histamine release from the
+eight volunteers are shown; such values are graphically reported
+by means of histograms in fig. 1.
+
+Discussion
+
+This present study demonstrates that, in vitro, UVA can exert a
+biphasic dose-dependent action on histamine release from
+
+Table 1 Each bar shows the percentage of histamine release (%) from each of the eight volunteers, in different experimental conditions. The first column
+reports percentage of histamine release from unirradiated cells, only incubated with anti-IgE (controls), while the other columns show the values obtained
+from cells irradiated with increasing doses of ultraviolet A (UVA) before immunological activation. For each experimental condition mean + SEM of histamine
+release (%) from the eight volunteers is reported in the last bar and is graphically represented in fig. 1
+
+ 
+
+ 
+
+UVA UVA UVA UVA UVA UVA
+Volunteers Anti-IgE 2.5 J/cm? + 5 J/em2 + 7-5 J/em2 + 10 J/cm? + 20 J/cm2 + 50 J/cm? +
+(no.) alone anti-IgE anti-IgE anti-IgE anti-IgE anti-IgE anti-IgE
+1 15.3 12.5 8.9 11.10 24.9 44.2 57-3
+2 34.6 32.6 29.1 39-75 45.3 63.4 79-9
+3 32.7 29.7 25 37-55 43.6 59-7 62
+4 26.7 23.7 21.2 31.35 38.2 54.7 63.8
+5 25.4 Be 20.1 30.35 35-4 57-3 69.8
+6 32.1 29.1 24.7 35.60 42.3 63.5 61.6
+7 42 39 35-4 48 54.25 70.9 84.6
+8 33 30 26.8 38.30 43.9 63.5 79-4
+Mean + SEM 30.225 +2.8 27.35 2.8 23.9 2.7 34 43.8 40.98 + 3.01 59.65 2.8 69.8 + 3.62
+
+ 
+
+© 2003 European Academy of Dermatology and Venereology JEADV (2003) 17, 646-651
+In vitro effects of UVA on histamine release from human basophils 649
+
+ 
+
+human basophils incubated with an anti-IgE serum. At the
+lowest irradiation doses UVA induces an inhibitory effect and
+the reduction of histamine release is significant (P < 0.05%)
+when basophils are irradiated with 5 J/cm2. Histamine release
+is nearly like the control after an UVA irradiation of 7.5 J/cm2,
+but it increases in a significant way (P < 0.05%) at doses of 10,
+20 and 50 J/cm2.
+
+The explanation of this phenomenon could reside in the
+human basophil structure and physiology® and on the UVA
+effects on cell membranes. Basophils contain round cytoplasmatic granules with a diameter up to 1.2 Um containing histamine, major basic protein, Charcot—Leyden crystal protein,
+FceRI subunits, interleukins 4 and 8, and RANTES (regulated
+upon activation normal T cell expressed and secreted). Histamine is stored at about 1—2 pg per cell. The release of histamine
+can be induced via cross-linking of IgE bound to FceRI receptors on cell membranes; other releasing stimuli are the anaphylatoxins C3a and C5a, some leucocyte products such as the
+so-called histamine-releasing factors, and the chemotactic
+tripeptide N-formyl-methionyl-leucyl-phenylalanine.
+
+FceRI is made of four subunits: one o chain, one B chain and
+two identical disulphide linked y chains. The o and the dimeric
+y chains are maintained as a complex in the plasma membrane
+through a combination of hydrophobic and electrostatic noncovalent interactions. The extracellular domain of « chain is
+necessary and sufficient to provide the receptor with highaffinity IgE binding. The B chain crosses the plasma membrane
+four times and has two intracellular tails. The two y chains associate through a disulphide bond. They have a very short extracellular part, a transmembrane part and a cytoplasmatic tail.
+Both B and y chains are involved in signal transduction. The
+initiation of signalling requires receptor clustering that is
+induced, in our experiments, by anti-IgE antibodies.
+
+The earliest events following receptor cross-linking are
+
+ 
+
+receptor tyrosine phosphorylation, which is detectable within a
+15-30-s period. Thereafter, activation of the sky and Btk tyrosine kinase begins, concomitantly with calcium mobilization.
+When FceRI is clustered on basophils, release of secretory
+granule contents and synthesis and release of arachidonic acid
+metabolites begin within 30—60 min. It is now well established
+that activating signals after cross-linking of antigen receptors
+involve 18 amino acid homologous motifs found in the cytoplasmatic tails of FceRI. These motifs become tyrosine phosphorylated by src family kinases when receptors are engaged by
+clustering antigens, resulting in the recruitment to the engaged
+receptors of both sre and syk/zap 70 family non-receptor tyrosine kinases. Downstream propagation of the activation signal
+is mediated by activation of these tyrosine kinases and the
+resulting phosphorylation of specific substrates.
+
+It has been demonstrated?.!3.!4 that damaging effects of UVA
+are mainly due to the generation of reactive oxygen species. In
+particular, single oxygen and hydroxyl radicals are involved in
+lipid peroxidation that occurs in cultured human fibroblasts
+
+ina dose-related fashion;}!5 the lipid peroxidation caused by UVA
+irradiation, damaging cell membranes, induces a decrease of
+membrane fluidity.! It is interesting to note that UVB is 10-100
+times more active than UVA regarding lipid peroxidation,
+whereas, the efficiency of short-wave UV regarding other biological effects (ie. erythema) is about 1000 times that of longwave UV. Considering the amounts of UVA (20 times more
+than that of UVB) reaching the Earth’s surface, there is no doubt
+that wavelengths between 320 and 400 nm can play an important
+art in cell membrane damage via lipid peroxidation.
+
+UVA doses less than 7.5 J/cm? could stabilize the cytolasmic or granular membranes of basophils or block/
+modify the degranulating chemical signals giving rise to an
+inhibitory effect on the histamine release. The increase of the
+ercentage of histamine release observed with the highest UVA
+doses could be ascribed to a marked dose-dependent damage of
+
+ 
+
+basophils cell membranes starting from 7.5 J/cm2. This observation is in agreement with data reported from Skoog et al.16
+who, using the application of fluorescein diacetate as an indicator, demonstrated that UVA causes damage of cultured human
+fibroblast plasma membranes with doses between 4 and
+8 J/cm2. The same authors reported that the membranes were
+damaged by the lipid peroxidation as evidenced by the accumulation of malondialdehyde and 4-hydroxyalkenals.
+
+‘Two days after the basophils have reached their mature morphology, they are released from the bone marrow into the blood
+and then move into the tissues, including the dermis, where
+they probably survive up to several weeks. As the quantity of
+transmitted UVA through fair Caucasian epidermis ranges
+from 10 to 50% of the irradiation dose,!7-!9 both circulating
+and dermal cells can be possible targets of long-wave UV.
+
+ 
+
+Therefore it is likely that, also in vivo, basophils can be influenced by longer wavelengths of the UV solar spectrum. Moseley
+et al.,2° measuring the daylight UVA in Glasgow from 1980 to
+1982, found UVA daily energy densities ranging from 4 J/cm?
+in December to an average of 69 J/cm? in June. Measurements
+of daily ambient UVA in Durham (UK; latitude 55°N) detected
+by Diffey in 19942! show a summer to winter ratio of about
+10: 1 with doses ranging from 70 to 150 J/cm? in the period
+between May and September. Obviously these values were
+affected by climatic variations such as clouds. The same author,
+using a questionnaire administered to 120 adults, has estimated
+that the daily solar UVA dose in British indoor workers ranges
+between 1 and 10 J/cm? on about half a year. However remarkable,
+these quantities are several times lower than those reached in
+sunny climates; therefore, it is likely that the histamine release
+of basophils of Caucasian people, living for instance in the
+Mediterranean area or in Australia, could be influenced during
+sun exposure in the summertime.
+
+In the same way, histamine release from basophils could be
+affected by the use of sunbeds as the commercial UV tanning
+equipment emits between 7 and 20 mW/cm2 (mean 13.5 mW/
+cm2) of UVA;22 this means that, after a tanning session lasting
+
+© 2003 European Academy of Dermatology and Venereology JEADV (2003) 17, 646-651
+650 Monfrecola et al.
+
+ 
+
+20 min, the skin receives between 8 and 24 J/cm2. Taking into
+account that 50% of the incident UVA is transmitted through
+the Caucasian epidermis,? we can infer that during a tanning
+session the dermal or circulating basophils could be irradiated
+with UVA doses ranging from 4 to 12 J/cm?.
+
+Basophils and mast cells, the only human cells that contain
+histamine and have high-affinity receptors for the Fc portion of
+IgE, are both involved in different phases of anaphylactic
+reactions. During the immediate phase, mast cells release histamine, eicosanoids and other chemotactic factors that attract
+basophils, eosinophils and neutrophils. These cells, present in
+the cellular infiltrate of the chronic allergic inflammation, are
+responsible for the late phase of the anaphylactic response.
+
+Several studies have shown that basophils play a part in
+skin diseases such as psoriasis,?3 atopic dermatitis,?4 urticaria
+pigmentosa,?5 allergic contact dermatitis,2° fixed drug
+eruption,27 chronic urticaria,?8 systemic sclerosis?? and bullous
+pemphigoid.
+
+Considering the large amounts of UVA in the solar spectrum
+or in the artificial UV sources of sunbeds our results, showing
+that in vitro long-wave UV at low doses inhibits and at high
+doses enhances the histamine release from basophils, could
+add useful data to explain the anti-inflammatory or the proinflammatory effects observed in vivo after UV irradiation of
+the intact or unhealthy skin.
+
+References
+
+Gaboriau F, Morliére P, Marquis I et al. Membrane damage induced
+in cultured human skin fibroblasts by UVA irradiation. Photochem
+Photobiol 1993; 58: 515-520.
+
+2 Black HS. Potential involvement of free radical reactions in
+ultraviolet light-mediated cutaneous damage. Photochem Photobiol
+1987; 46: 213-221.
+
+w
+
+Krutmann J. Ultraviolet Al radiation induced immunom
+odulation: high dose UVA 1 therapy of atopic dermatitis. In:
+Krutmann J, Elmets CA, editors. Photoimmunology. Blackwell
+Science, Cambridge, 1995: 246-256.
+
+4 Krutmann J, Grewe M. Involvement of cytokines, DNA damage,
+and reactive oxygen intermediates in ultraviolet radiation-induced
+modulation of intercellular adhesion molecule-1 expression.
+
+J Invest Dermatol 1995; 105: 67s—70s.
+
+Wlasheck M, Bolsen K, Hermann G et al. UVA-induced autocrine
+
+stimulation of fibroblast derived collagenase by IL-6: a possible
+
+w
+
+mechanism in dermal photodamage? J Invest Dermatol 1993;
+
+101: 164-168.
+6 Wardlaw AJ, Walsh GM, Symon FA. Mechanism of eosinophil and
+basophil migration. Allergy 1994; 49: 797-807.
+de Paulis A, Ciccarelli A, de Crescenzo G et al. Cyclosporin H is a
+
+NI
+
+potent and selective competitive antagonist of human basophil
+activation by n-formyl-methionyl-leucylalanine. J Allergy Clin
+Immunol 1996; 98: 152-164.
+
+0
+
+©
+
+10
+
+1
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+2
+
+22
+
+23
+
+24
+
+de Boer M, Roos D. Metabolic comparison between basophils
+
+and other leukocytes from human blood. J Immunol 1986; 136:
+3447-3454,
+
+Romagnani P, de Paulis A, Beltrame C et al. Tryptase-chymase
+double-positive human mast cells express the eotaxin receptor
+CCR3 and are attracted by CCR3-binding chemokines. Am J Pathol
+1999; 155: 1195-1204.
+
+de Paulis A, Cirillo R, Ciccarelli M et al. FK-506, a potent novel
+inhibitor of the release of proinflammatory mediators from human
+Fe*RI+ cells. J Immunol 1991; 146: 2374-2381.
+
+Siraganian RP. An automated continuous-flow system for the
+extraction and fluorometric analysis of histamine. Anal Biochem
+1974; 57: 383-394.
+
+Snedecor GW, Cochran WG. Statistical Methods. The lowa State
+University Press, Ames, IA, 1980.
+
+Tyrrell RM, Pidoux M. Singlet oxygen involvement in the
+inactivation of cultured human fibroblasts by UVA (334 nm,
+
+365 nm) and near-visible (405 nm) radiations. Photochem Photobiol
+1989; 49: 407-412.
+
+‘Tyrrell RM, Keyse SM. New trends in photobiology. The interaction
+of UVA radiation with cultured cells. Photochem Photobiol 1990; 4:
+349-361.
+
+Morliére P, Moysan A, Santus R et al. UVA-induced lipid
+peroxidation in cultured human fibroblasts. Biochim Biophys Acta
+1991; 1084: 261-268.
+
+Skoog M-L, Ollinger K, Skogh M. Microfluorometry using
+fluorescein diacetate reflects the integrity of the plasma membrane
+in UVA-irradiated cultured skin fibroblasts. Photodermatol
+Photoimmunol Photomed 1997; 13: 37-42.
+
+Morison WL. Basic Principles in Phototherapy and Photochemotherapy
+of Skin Disease. Praeger, New York, USA, 1983: 17-23.
+
+Bruls WAG. Optical properties of human epidermis. Thesis 1984:
+38-39.
+
+Kuusilehto A. Transmission of UVA radiation through
+
+epithelium of oral mucosa and skin in rat and man. Photodermatol
+Photoimmunol Photomed 2000; 16: 189-191.
+
+Moseley H, Davison M, Mackie RM. Measurement of daylight UVA.
+in Glasgow. Phys Med Biol 1983; 28(5): 589-597.
+
+Diffey B. Population exposure to solar UVA radiation. Eur J
+Dermatol 1996; 6(3): 221-222.
+
+Wright AL, Hart GC, Kernohan E, Twentyman G. Survey of the
+variation in ultraviolet outputs from ultraviolet a sunbeds in
+Bradford. Photodermatol Photoimmunol Photomed 1996; 12:
+12-16.
+
+Seneczko F, Kaszuba A. White blood cell picture of the peripheral
+blood of psoriatic patients treated with PUVA and cignoline. Pol
+Merkuriusz Lek 1997; 2(9): 165-171.
+
+Saini SS, Klion AD, Holland SM et al. The relationship between
+serum IgE and surface levels of FcepsilonR on human leukocytes in
+various diseases: correlation of expression with Fcepsilon RI on
+basophils but not on monocytes or eosinophils. J Allergy Clin
+Immunol 2000; 106(3): 514—520.
+
+© 2003 European Academy of Dermatology and Venereology JEADV (2003) 17, 646-651
+In vitro effects of UVA on histamine release from human basophils 651
+
+ 
+
+25 Nolte H, Soderberg U, Thestrup Pedersen K, Schiotz PO. 28 Grattan CE. Basophils in chronic urticaria. J Invest Dermatol Symp
+Histamine release from skin mast cells and basophils in patients Proc 2001; 6(2): 139-140.
+with urticaria pigmentosa. Acta Derm Venereol 1990; 70(2): 154— 29 Tedeschi A, Salmaso C, Milazzo N, Miadonna A. Reduced priming
+156. effect of interleukin 3 on IgE mediated basophil histamine release
+
+26 Katz SI. Mechanisms involved in allergic contact dermatitis. in patients with systemic sclerosis. J] Rheumatol 1998; 25(7):
+J Allergy Clin Immunol 1990; 86 (4 Part 2): 670-671. 1320-1324.
+
+27 Alanko K, Stubb S, Salo OP, Reitamo S. Suction blister fluid 30 Frezzolini A, Teofoli P, Cianchini G et al. Increased expression of
+histamine in fixed drug eruption. Acta Derm Venereol 1992; 72(2): eotaxin and its specific receptor CCR3 in bullous pemphigoid. Eur
+89-91. J Dermatol 2002; 12: 27-31.
+
+© 2003 European Academy of Dermatology and Venereology JEADV (2003) 17, 646-651
+

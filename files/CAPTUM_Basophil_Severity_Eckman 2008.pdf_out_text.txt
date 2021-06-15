@@ -1,0 +1,1074 @@
+ORIGINAL ARTICLE
+
+ 
+
+Basophil Phenotypes in Chronic Idiopathic Urticaria
+in Relation to Disease Activity and Autoantibodies
+
+John A. Eckman!, Robert G. Hamilton', Laura M. Gober', Patricia M. Sterba! and Sarbjit S. Saini!
+
+Potentially pathogenic IgG autoantibodies to IgE or its receptor, FceRla, have been detected in ~40% of chronic
+idiopathic urticaria (CIU) patients. CIU patients’ basophils display distinct altered FceRla-mediated degranulation. CIU patients with basophil histamine release in response to polyclonal goat anti-human IgE >10% are
+classified as CIU responders (CIU-R) and <10% are CIU non-responders (CIU-NR). We compared the presence
+of autoantibodies to basophil degranulation phenotypes and to disease status (active or inactive). Sera were
+collected from non-ClU subjects and CIU subjects who participated in a longitudinal study of disease severity
+and had defined basophil degranulation phenotypes. Immunoenzymetric assays (IEMA) quantified IgG antiFceRlo and anti-IgE. IgG anti-FceRla antibody was detected in 57% of CIU-R (n= 35), 55% of CIU-NR (n= 29), and
+57% of non-ClU subjects (n = 23), whereas IgG anti-lgE was present in 43% of CIU-R, 45% of CIU-NR, and 30% of
+non-ClU subjects. Both the autoantibody levels and the functional basophil phenotype remained stable in
+subjects with active disease (n=16), whereas there was an enhancement in basophil function as subjects
+evolved into a state of remission (n=6), which appears independent of the presence of autoantibody. IEMAs
+detected a similar frequency of autoantibodies in CIU-R, CIU-NR, and non-ClU subjects. Basophil function may
+be independent of IEMA-detected autoantibodies.
+
+Journal of Investigative Dermatology (2008) 128, 1956-1963; doi:10.1038/jid.2008.55; published online 20 March 2008
+
+INTRODUCTION
+
+Chronic idiopathic urticaria (CIU) is a clinical state that is
+defined by >6 weeks of hives with no identifiable cause
+(Greaves, 1995). Its prevalence is approximately 0.1% in the
+United States (Greaves, 2000). CIU has the greatest impact on
+the quality of life of any allergic disease (O’Donnell et al.,
+1997; Grob and Gaudy-Marqueste, 2006) and this impact is
+similar to that of coronary heart disease and severe atopic
+dermatitis (O’Donnell et al., 1997; Poon et al., 1999). The
+economic burden is comparable to that of other skin
+conditions such as bullous skin diseases and vitiligo, which
+require multiple medications, medical evaluations, work
+absences, and emergency department use (Bickers et al.,
+2006; Delong et al., 2008).
+
+Although the pathogenesis of the majority of cases is
+unknown, an autoimmune process has been proposed for a
+subset of CIU subjects (Kaplan, 2004). Approximately
+35-40% of patients with CIU are thought to possess IgG
+
+ 
+
+"Division of Allergy and Clinical Immunology, Department of Medicine,
+Johns Hopkins University School of Medicine, Baltimore, Maryland, USA
+
+Correspondence: Dr Sarbjit 5. Saini, Department of Medicine, Johns Hopkins
+Asthma and Allergy Center, 5501 Hopkins Bayview Circle, Baltimore,
+Maryland 21224, USA.
+
+E-mail: ssaini@jhmi.edu
+
+Abbreviations: CIU, chronic idiopathic urticaria; CIU-NR, CIU nonresponder; CIU-R, CIU responder; FMLP, N-formyl-met-leu-phe; HRA,
+histamine release activity; IEMA, immunoenzymetric assay; PBS-BSA,
+phosphate-buffered saline containing 1% BSA
+
+Received 8 November 2007; revised 24 January 2008; accepted 1 February
+2008; published online 20 March 2008
+
+1956 Journal of Investigative Dermatology (2008), Volume 128
+
+autoantibodies to the a-subunit of the high-affinity IgE
+receptor (FceRla) (Hide et al., 1993; Fiebiger et al., 1995;
+Zweiman et al., 1996; Tong et al., 1997) and approximately
+5-10% have naturally occurring IgG anti-lgE autoantibodies
+(Gruber et al., 1988; Grattan et al., 1991). These autoantibodies are thought to participate in the pathogenesis by
+directly activating skin mast cells in a complement-dependent manner to generate urticaria.
+Functional IgG autoantibodies have been demonstrated
+in vitro using the histamine release activity (HRA) assay
+(Hide et al., 1993; Fiebiger et al., 1995, 1998; Kikuchi and
+Kaplan, 2001; Soundararajan et al., 2005). The histaminereleasing activity factor has been localized to the IgG fraction
+of serum of CIU patients (Hide et al., 1993; Zweiman et al.,
+1996; Fiebiger et al., 1998; Kikuchi and Kaplan, 2001), and
+the specificity for the FceRla has been demonstrated in a
+limited number of samples (Hide et al., 1993; Kikuchi and
+Kaplan, 2001). ELISA and western blot analyses have been
+developed to measure IgG anti-FceRla, and the concordance
+with HRA has been poor (Fiebiger et a/., 1998; Kikuchi and
+Kaplan, 2001; Soundararajan et a/., 2005). Thus, defining the
+presence of autoantibodies in CIU serum is complicated by
+the lack of a ‘gold standard’ test that confirms the diagnosis
+of autoimmune urticaria (Sabroe and Greaves, 2006).
+Another line of investigation has shown that blood
+basophils from CIU subjects have altered IgE receptormediated degranulation (Greaves et al., 1974; Kern and
+Lichtenstein, 1976; Sabroe et al., 1998; Luquin et al., 2005;
+Vonakis et al., 2007) Recently, we reported that the ex vivo
+activation of basophils from CIU subjects with an optimal
+
+ 
+
+ 
+
+© 2008 The Society for Investigative Dermatology
+dose of polyclonal anti-IgE antibodies segregates them into
+two groups on the basis of degree of their histamine release:
+responders (CIU-R) and non-responders (CIU-NR) (Vonakis
+et al., 2007). CIU subjects with non-responder basophils
+showed depressed histamine release, whereas basophils of
+CIU subjects with a responder phenotype displayed histamine release similar to that of healthy control subjects
+(Vonakis et al., 2007). Basophil functional phenotype is
+stable on or off medication (Vonakis et al., 2007). Demographics of the groups have been published elsewhere
+(Baker et al., in press).
+
+Given the existence of basophil functional phenotypes, we
+examined the relationship of autoantibody presence and the
+basophil functional phenotype in CIU subjects with active
+and remissive CIU disease. In this study, we used a panel of
+analytically sensitive immunoenzymetric assays (IEMA) to
+measure IgG anti-FceRla and naturally occurring IgG anti-IgE
+autoantibodies in the serum of CIU subjects over time and in
+relation to their basophil phenotype (CIU-R and CIU-NR).
+
+ 
+
+RESULTS
+IgG anti-FceRla. in the sera from CIU and non-ClU subjects
+Sera collected from CIU subjects as part of basophil
+phenotyping studies (n= 73) were analyzed for the level of
+IgG anti-FceRla autoantibodies. Of these subjects, 64 had
+sufficient basophils present in their venous blood sample to
+allow characterization of their basophil histamine release
+profile as CIU-R (n= 35) or CIU-NR (n= 29). The remaining
+nine subjects were basopenic and labeled ‘’CIlU-unclassified’. Using the minimal detectable limit of 200ngmI~',
+57% of CIU-R subjects (n= 35) and 55% of CIU-NR subjects
+(n=29) had positive IgG anti-FceRla antibody levels (twotailed Fisher’s exact test, P=1.00), whereas 67% of
+ClU-unclassified subjects (n=9) had detectable antibody
+(two-tailed Fisher’s exact test CIU-R +CIU-NR versus CIUunclassified subjects, P=0.72) (Figure 1a). The latter result
+was shown to compare the presence of autoantibodies in the
+sera of CIU subjects with measurable basophil histamine
+content with that of CIU subjects with extremely low basophil
+histamine content. The average IgG anti-FceRlo antibody titers were significantly higher for the ClU-unclassified
+subjects (CIU-R: 330458 ng ml"! (SEM), CIU-NR: 322+
+50ngml~', and ClU-unclassified: 815 +262 ngml7!; twotailed ttest CIU-R + NR versus ClU-unclassified, P<0.001).
+
+For non-ClU subjects, 57% (n= 23) had detectable IgG
+anti-FceRla in their serum, which was not significantly
+different from CIU subjects (59%, n= 73) (two-tailed Fisher’s
+exact test, P=1.00). The mean concentration of IgG antiFceRla in CIU subjects versus non-ClU subjects was also
+not significantly different (CIU: 389ngml~!, non-CIU:
+304 ng mI“'; two-tailed t-test, P=0.38).
+
+ 
+
+ 
+
+IgG anti-IgE presence in the sera from CIU and non-CIU
+subjects
+
+The same sera were also analyzed for IgG anti-IgE antibodies.
+Forty-three percent of CIU-R subjects (n=35) and 45% of
+CIU-NR subjects (n=29) had detectable levels (two-tailed
+Fisher’s exact test, P=1.00), whereas 67% of unclassified
+
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIlU
+
+ 
+
+   
+
+°.
+
+e
+200 Hs
+
+ 
+
+*CIU-R  ¢CIU-NR_ «Unclassified = Non-ClU
+
+bom
+
+4,500
+
+ 
+
+4,000
+= 3,500
+
+3,000
+
+nd
+a
+3
+6
+
+2,000
+
+1,500 *
+
+Net IgG anti-IgE (ng mr
+
+o
+Ss
+6
+
+a
+
+es
+- .
+
+itiss BNR ae.
+
+¢ CIU-R e CIU-NR « Unclassified = Non-ClU
+
+500
+
+ 
+
+ 
+
+ 
+
+Figure 1. Autoantibody levels in CIU and non-ClU subjects. (a) IgG
+anti-FceRIa levels in CIU subjects and non-ClU subjects. (b) IgG anti-IgE
+levels in CIU and non-ClU subjects. CIU subjects are categorized based on
+basophil phenotype.
+
+subjects without a clear basophil functional category (n= 9)
+had detectable levels (two-tailed Fisher’s exact test CIUR+CIU-NR versus ClU-unclassified, P=0.29) (Figure 1b).
+The average IgG anti-lgE antibody titers were significantly
+higher for ClU-unclassified subjects (CIU-R: 267 + 63 ngml7'
+(SEM), CIU-NR: 197+422 ngml-', and ClU-unclassified:
+950+436ngml~'; two-tailed ttest CIU-R/NR versus
+ClU-unclassified, P<0.01).
+
+For non-ClU subjects, 30% (n= 23) had detectable IgG
+anti-IgE in their serum, which was not significantly different
+from CIU subjects (n= 73) (two-tailed Fisher’s exact test,
+P=0.24). The mean IgG anti-lgE concentration in CIU
+versus non-ClU subjects was not significantly different (CIU:
+322 ngml~', non-ClU: 339ng ml~'; two-tailed — ttest,
+P<0.91).
+
+The distributions of both antibodies in CIU and non-ClU
+subjects are shown in Tables 1 and 2. Notably, no correlation
+was seen between the degree of basophil IgE receptorstimulated response and the IgG anti-FceRla or IgG anti-lgE
+titers (data not shown).
+
+ 
+
+ 
+
+Specificity of the IgG anti-FceRlo IEMA
+
+Specificity of the anti-FceRla autoantibody assay was
+confirmed with a dose-dependent competitive inhibition
+using an overnight incubation of soluble FceRla with six sera
+containing the highest levels of IgG anti-FceRla detected in
+the study (Figure 2). The serum of each subject contained
+>400ng mI! of IgG anti-FceRla. antibody and was shown to
+
+www.jidonline.org 1957
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIU
+
+Table 1. Frequency of IgG autoantibodies in CIU
+(n=73)
+
+IgG anti-IgE-positive IgG anti-IgE-negative
+
+ 
+
+33 (45%) 40 (55%)
+IgG anti-FceRla-positive 23 (32%) 20 (27%)
+43 (59%)
+IgG anti-FceRla-negative 0 (14%) 20 (27%)
+
+30 (41%)
+
+ 
+
+ClU, chronic idiopathic urticaria.
+
+Table 2. Frequency of IgG autoantibodies in non-CIU
+subjects (n=23)
+
+IgG anti-IgE-positive IgG anti-IgE-negative
+13 (57%) 10 (43%)
+
+ 
+
+IgG anti-FceRla-positive
+7 (30%)
+
+6 (26%) 1 (4%)
+
+IgG anti-FceRla-negative
+6 (70%)
+
+7 (30%) 9 (39%)
+
+ 
+
+CIU, chronic idiopathic urticaria.
+
+ 
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+Net IgG anti-FceRl. chain (ng mi-')
+
+200
+
+ 
+
+ 
+
+ 
+
+0 75 150 300 600 1,200 2,400
+
+Preincubation dose of soluble FceRle (ng mi")
+
+Figure 2. Dose-dependent inhibition of detectable IgG anti-FceRla
+antibodies of six CIU subjects’ sera with increasing concentrations of soluble
+FeeRIa.
+
+contain FceRla-specific IgG antibody by demonstrating
+inhibition with 2,400ngml~' soluble FceRla. The mean
+inhibition for 39 subjects’ sera was 79% (SEM = 2%), with a
+maximum inhibition of 97% (data not shown).
+
+Correlation of basophil functional phenotype and
+IEMA-measured IgG anti-FceRlo and IgG anti-IgE antibody
+levels in subjects with persistent CIU disease
+
+Of the 64 CIU subjects with defined basophil phenotype,
+basophil functional profiles were measured repeatedly over
+time in 25 CIU subjects (CIU-R: n= 12 and CIU-NR: n= 13)
+with active disease (Figure 3a). In 12 subjects who were
+initially CIU-R, 31 of 33 (94%) subsequent basophil
+functional profile measurements repeated over time during
+active disease remained within the CIU-R group. In 13
+subjects who were initially CIU-NR, 20 of 21 (95%)
+
+1958 Journal of Investigative Dermatology (2008), Volume 128
+
+a 100
+90
+80
+70
+60
+50
+40
+30
+20
+
+ 
+
+% histamine release to 0.1 1g mi
+anti-IgE dose
+
+ 
+
+ny
+
+3 4 5 6 7
+Number of visits
+
+ 
+
+b _ 3,000
+
+mrt
+»
+a
+3
+8
+
+ng
+
+= 2,000
+
+oa
+os 6
+6.6
+
+HS
+
+ 
+
+500
+
+Net IgG anti-FceRla.
+
+ 
+
+ 
+
+2 3
+Number of visits
+
+cS
+
+ 
+
+c 800
+700
+600
+500
+400
+
+300
+
+Net IgG anti-IgE (ng mi~!)
+
+NII
+
+200
+
+100
+
+ 
+
+ 
+
+ 
+
+2 3 4
+Number of visits
+
+Figure 3. Basophil phenotypes and autoantibody levels during active
+disease. (a) Basophil histamine release to 0.1 jg ml~! anti-lgE over time in
+CIU subjects with active disease (CIU-R (red circles): n= 12; CIU-NR
+(blue triangles): n= 13). (b and ¢) IgG anti-FceRla levels (b) and IgG
+anti-IgE levels (c) over time in CIU subjects with active disease
+
+(CIU-R (red): n=7; CIU-NR (blue): n=9).
+
+subsequent basophil functional profile measurements
+repeated over time during active disease remained in the
+CIU-NR category. The time between visits is listed in Table 3.
+
+IgG anti-FceRla (Figure 3b) and IgG anti-IgE (Figure 3c)
+levels were determined over time in serum samples from 16
+(CIU-R: n=7 and CIU-NR: n= 9) of the 25 CIU subjects with
+active disease and established basophil functional profiles
+described above. In 16 subjects with persistent disease, 20 of
+23 (87%) repeated measurements showed no change in their
+IgG anti-FceRla antibody status, whereas 22 of 23 (96%) IgG
+anti-IgE antibody levels did not change statistically over time.
+Interestingly, the subject with the greatest change, a twofold
+increase in IgG anti-FceRla antibody level, had no detectable
+
+ 
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIlU
+
+Table 3. Time between visits in CIU subjects with active disease
+
+ 
+
+Visits 12 23 34 45 5-6 67
+CIU-R range in months (mean) 0.5-41.5 (10.5) 1-59 (12.2) 2-18.3 (7.6) 2-6 (3.2) 3.8-13 (8.4) 7.8 (7.8)
+CIU-NR range in months (mean) 1-23.8 (8.1) 0.5-6 (2.5) 2.6-8 (4.5) 17921129) = =
+
+ 
+
+CU, chronic idiopathic urticaria; CIU-R, CIU responders; CIU-NR, CIU non-responders.
+
+change in CIU severity as measured by a standardized
+disease status questionnaire (Baker et al., in press).
+
+Correlation of basophil functional phenotype and IgG
+
+anti-FceRla and IgG anti-IgE autoantibodies in subjects
+experiencing disease remission
+During the study period, six CIU subjects (CIU-R: n=1 and
+CIU-NR: n= 5) entered disease remission, defined by no hive
+symptoms or medication use for 2 months. In disease
+remission, the CIU-R donors’ basophils demonstrated heightened sensitivity to 0.01 pgml~' anti-IgE. Interestingly, the
+basophils of the five CIU-NR subjects who experienced
+disease remission demonstrated an increase in the magnitude
+of maximal histamine release in response to the optimal
+concentration of anti-IgE (0.1 ng ml~') (two-tailed ttest,
+P=0.03) (Figure 4a). In contrast to these dramatic shifts in
+basophil IgE receptor function, IEMA-measured IgG antiFceRla (Figure 4b) and IgG anti-IgE (Figure 4c) antibody levels
+did not exhibit any significant change in CIU subjects with
+disease remission. The range of time between active disease
+and disease remission was 6-54 months (mean = 20 months).
+
+ 
+
+DISCUSSION
+In this study, we demonstrate that the prevalence and
+quantitative levels of IgG anti-FceRla and anti-lgE in CIU
+subjects were similar to those measured in the serum of the
+non-CIU population. The specificity of the FceRla-specific
+autoantibody IEMA was also confirmed with ~ 80% soluble
+FceRla-specific inhibition for all antibody-positive samples
+bove 400ngml~'. Moreover, our data indicate that the
+attern of basophil functional phenotypes among CIU
+atients (CIU-R and CIU-NR) appears to be independent of
+oth the presence and the relative levels of these autontibodies. Among CIU subjects, both the basophil functional
+henotypes and the IgG anti-FceRla and anti-lgE autoantijody levels remain stable in subjects with persistent disease.
+Importantly, however, we noted a remarkable enhancement
+in basophil function as subjects evolved into a state of
+remission, which appears to be independent of the presence
+of an autoantibody.
+The observed shift in patterns of basophil histamine
+release with remission suggests that abnormal basophil
+function may be a primary feature of the pathogenesis
+associated with urticaria. These shifts observed in our study
+are consistent with the observation of Kern and Lichtenstein
+(1976), who also reported a dramatic increase in basophil
+responsiveness to anti-lgE in CIU patients who experienced
+remission. Although the level of autoantibodies was the
+
+STUY TDD YB
+
+ 
+
+ 
+
+ 
+
+% histamine release
+a
+
+ 
+
+=CIU-R active
+=CIU-NR active
+
+CIU-R remission
+CIU-NR remission
+
+ 
+
+ 
+
+—— es
+
+0 $n |
+
+ 
+
+ 
+
+ 
+
+ 
+
+Active Inactive
+Cc 1,400
+= 1,300
+1/200
+E 4/100
+2 1/000
+= 900
+800
+2 700
+= 600
+E 500
+400
+2 300
+% 200
+
+2 100 —
+0
+
+Active Inactive
+
+Figure 4. Basophil phenotypes and autoantibody levels in disease remission.
+(a) Basophil histamine release in CIU subjects (CIU-R: n=1, to 0.01 ngml"
+anti-IgE; CIU-NR: n=5, to 0.1 ugml—') with active disease who enter disease
+remission. (b and ¢) IgG anti-FceRla. levels (b) and IgG anti-IgE levels (c) over
+time in CIU subjects who enter disease remission.
+
+highest in select subjects with extreme basopenia, the
+measures of disease severity were not clearly elevated in
+these subjects. These findings may point to a primary
+abnormality in the basophil and/or unknown serological
+‘actors affecting basophils in CIU patients as more relevant to
+urticarial disease pathogenesis than the presence or level of
+either FceRla- or IgE-reactive autoantibodies as measured by
+IEMA.
+Historically, IgG anti-FceRla and IgG anti-IgE antibodies
+have been measured by ELISA or western blot analysis and
+then compared with mediator release results from the HRA
+assay. Although the HRA assay, in theory, can detect
+“functional” autoantibodies that crosslink the IgE-FceRla
+receptor complex, it depends on the unique characteristics of
+
+ 
+
+ 
+
+ 
+
+www.jidonline.org 1959
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIU
+
+the normal basophils that have been selected to perform the
+assay (Grattan et al., 1991; Hide et al., 1993; Zweiman et al.,
+1996; Kikuchi and Kaplan, 2001). In addition, this test has
+been limited by the behavior of the basophils from the
+various donors (MacGlashan, 1994; Zweiman et al., 1996)
+and a general lack of universal standardized reagents to
+permit reproducible and verifiable comparisons across
+aboratories. Our empirical data indicate extensive variability
+in the HRA assay (data not shown); therefore, we elected not
+to use the HRA assay in the present analysis. Previous studies
+have reported a poor correlation between the presence or
+relative levels of IgG anti-FceRla, as measured by western
+blot or ELISA, and the magnitude of histamine, as detected in
+the HRA assay (Fiebiger et a/., 1998; Kikuchi and Kaplan,
+2001; Soundararajan et al., 2005). We acknowledge that
+“non-functional” autoantibodies may exist. However, the
+western blot approach used in the largest study to date
+(Kikuchi and Kaplan, 2001) may not have been sufficiently
+sensitive to detect the lower concentrations of functional
+antibodies in the sera of CIU subjects. In the western blot
+study, the serum was diluted 1:500, in contrast to the 1:100
+dilution required for the ELISAs of autoantibodies. This
+higher-than-desired serum dilution may have prevented the
+detection of potentially non-functional antibodies with low
+avidity in non-ClU subjects. In addition, western blot
+measurements of IgG anti-IgE were not performed in these
+studies, which could explain some of the discrepancies that
+exist between previous analyses and our present results.
+Previous ELISAs reportedly detected autoantibodies regardless of the HRA result (Soundararajan et al., 2005). In another
+study, an ELISA was unable to detect ‘functional’ autoantibodies in some subjects with a positive HRA (Fiebiger
+et al., 1998). Neither study measured potentially functional,
+naturally occurring IgG anti-IgE antibodies that we were able
+to detect at similar frequencies in CIU and non-ClU
+populations. Although our IEMA does not differentiate
+between “functional” and ‘‘non-functional’” antibodies, we
+maximized the analytical sensitivity of our assays for both IgG
+anti-FceRla and IgG anti-lgE autoantibodies. However, we
+have provided the IgE receptor function of blood basophils
+obtained simultaneously with the serum sample analyzed for
+autoantibodies to detect evidence of functional autoantibodies on a cell commonly used in the HRA.
+
+Given the importance of precision and accuracy in
+diagnostic tests, the ability to run many samples in a single
+assay (in contrast to western blot analysis), and the inherent
+problems with HRA, we decided to focus in this study on an
+IEMA for the measurement of IgG anti-FceRla and IgG antiIgE in serum. The design of our IgG anti-FceRla assay is
+similar to the assay used by Fiebiger et al. (1998), with several
+important differences. First, we used a heterologous calibration curve that employed a humanized IgG anti-IgE antibody
+(omalizumab) to estimate the amount of autoantibody in each
+serum. This strategy contrasted with the use of the assay
+response (optical density) by others (Fiebiger et al., 1998),
+which is not always directly proportional to concentration.
+Second, we defined a “positive” autoantibody presence on
+the basis of the assay’s analytical sensitivity rather than a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1960 Journal of Investigative Dermatology (2008), Volume 128
+
+response level detected in non-ClU subjects. Using a different
+strategy for defining autoantibody-positive CIU subjects, we
+detected a higher prevalence of FceRla-reactive autoantibodies in normal subjects. Moreover, using Fiebiger’s
+“positive” criteria as the mean in non-ClU subjects plus 2.5
+times the SEM, IgG anti-FceRla would still have remained
+positive in 26% of our CIU subjects and 22% of our non-CIU
+subjects. Using these same criteria, IgG anti-IgE would have
+been positive in 7% of CIU subjects and 4% of non-ClU
+subjects. Thus, using either strategy for defining autoantibody-positive subjects, both CIU and non-ClU groups had
+similar frequencies of autoantibody positivity. An explanation
+or the detection of autoantibodies in non-CIU subjects in our
+study, in contrast to previously reported studies, may be a
+consequence of our assay’s heightened analytical sensitivity
+and our method of establishing the detection threshold based
+on each assay’s actual analytical sensitivity rather than simply
+using the levels of binding detected with sera from a non-ClU
+population. However, other groups have reported naturally
+occurring anti-lgE and anti-FceRla in non-CIU subjects
+(Quinti et al., 1986; Fiebiger et al., 1998; Horn et al.,
+1999). In addition, the autologous serum skin test, considered
+to reflect the presence of functional anti-lgE and anti-FceRlo,
+was positive in 35% of non-CIU subjects in one study
+(Guttman-Yassky et al., 2007).
+
+The limitations of our IEMA include the lack of a true
+autoantibody standard for determining the precise amount of
+antibody present. Nevertheless, a heterologous calibration
+curve has been successfully used to calibrate other antibody
+assays (Butler, 1991). Second, we did not measure the
+subclass distribution of the IgG antibodies. It was originally
+suggested by Fiebiger et al. (1998) that complement-activating IgG1 and IgG3 are present more frequently in CIU
+subjects than in non-ClU subjects. This observation was later
+supported by the lack of IgG2 antibodies in the sera of CIU
+subjects but evidence for IgG4 autoantibodies in sera from
+CIU subjects (Soundararajan et al., 2005). With no known
+subclass-specific standard for the antibodies of interest and
+different binding constants for the different subclass detection
+antibodies, the accurate detection of these subclasses remains
+challenging (Hamilton, 1987). Finally, because our assay
+does not differentiate potentially functional from non-functional autoantibodies, it is possible that there are still
+differences in the amount of functional antibodies between
+CIU and non-ClU subjects.
+
+In summary, these studies support the conclusion that
+altered basophil IgE receptor function is a reproducible
+finding in active CIU that appears to reflect disease remission.
+This basophil functional abnormality appears to be independent of autoantibody presence as measured by IEMA and
+suggests unknown serological factors or primary basophil
+abnormalities in the pathogenesis of CIU.
+
+ 
+
+ 
+
+ 
+
+MATERIALS AND METHODS
+
+Reagents
+
+Pharmaceutical grade omalizumab was purchased from Genentech
+(South San Francisco, CA) and reconstituted as recommended in the
+package insert. The 147mgml~' stock was further diluted
+with phosphate-buffered saline containing 1% BSA (PBS-BSA).
+Omalizumab was then coupled to Sepharose at 1mgml~' after
+activation with cyanogen bromide (Schellenberg and Adkinson,
+1975) and washed in PBS-BSA. Human serum (diluted 1:10, 0.1 ml)
+was added to 5% (vol/vol) omalizumab-Sepharose in PBS-BSA and
+rotated overnight at 23 °C to remove IgE for some assay analyses.
+
+Murine IgM anti-human IgE mAb (clone HP6061; Reimer, 1986;
+Hybridoma Reagent Laboratory, Baltimore, MD) was added to
+microtiter plates at 10 1g mI~' in PBS (pH 7.4) and used as a human
+IgE capture reagent. Streptavidin (Sigma-Aldrich, St Louis, MO) was
+added to microtiter plates at 204g ml~' in PBS (pH 7.4) to capture
+biotinylated human FceRla chain. Horseradish peroxidase-conjugated murine monoclonal anti-human IgG Fe (clone HP6043;
+Hamilton and Morrison, 1993; Hybridoma Reagent Laboratory)
+was used at 1 gml~! as the human IgG detection protein.
+
+A recombinant truncated form of the extracellular domain (amino
+acids 1-172) of the a-chain of the high-affinity human IgE receptor
+(FceRla; Heska Corporation, Fort Collins, CO) was produced in a
+baculovirus expression system and biotinylated as described
+previously (Stedman et al., 2001).
+
+Polyclonal IgE (JK, Baltimore, MD; diluted to 2ugml-' in
+PBS-BSA) was used as a source of human IgE.
+
+ 
+
+Human specimens
+
+After consent was obtained, whole blood for basophil and serology
+studies was collected from subjects with a physician-determined
+diagnosis of CIU (n= 73) as part of a longitudinal study (Gober et al.,
+2006; Baker et al., in press) or from non-ClU, healthy control
+subjects (9=23; 10 atopic and 13 non-atopic from history) using
+protocols approved by the Johns Hopkins Institutional Review Board
+(IRB) and the Western IRB and in adherence to the Declaration of
+Helsinki Principles.
+
+Basophil isolation and histamine release
+
+Basophil studies were performed as described previously (Vonakis
+et al., 2007). Briefly, venous blood was drawn into a syringe
+containing 5-10mm EDTA. Mixed leukocytes were obtained using
+dextran sedimentation with average basophil purity <1%. These
+cells were stimulated for histamine release with polyclonal goat antihuman IgE (0.01-3pgml~') or N-formyl-met-leu-phe (FMLP;
+Tpmol!~') for 45 minutes at 37°C. Histamine was quantified in
+cell-free supernatant using an automated fluorometric assay
+(Siraganian, 1975). Results were computed as the percentage of
+total histamine release in a total cell lysate of leukocyte aliquots
+after subtraction of the spontaneous histamine release.
+
+CIU subjects were grouped on the basis of their ability to release
+histamine after incubation of basophils with an optimal dose of antiIgE (0.1gml~') as described previously (Vonakis et al., 2007).
+Subjects with histamine release <10% were classified as CIU-NR,
+whereas subjects with histamine release >10% were classified as
+CIU-R. Subjects with total (complete) histamine release <5ngml~'
+were designated ClU-unclassified.
+
+ 
+
+Human IgG anti-FeeRlo IEMA
+
+Plate preparation. Streptavidin diluted in PBS was adsorbed
+(0.1 ml per well) onto the bottom six rows of a sterile flat-bottom
+polystyrene 96-well Bacti plate (Nalge-Nunc _ International,
+
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIlU
+
+Rochester, NY). Concurrent with the streptavidin-coating step, a
+murine IgM anti-human IgE Fe (clone HP6061P diluted in PBS;
+0.1 ml per well) was adsorbed onto the top two rows of each plate to
+establish a calibration curve. The plates were incubated 16-18 hours
+at 2-8 °C. This was followed by a buffer wash (PBS containing 0.05%
+Tween 20 and 0.01% thimerosal (PBS-Tween)). Unreacted sites were
+then blocked with PBS-BSA (0.3 ml per well) for 1 hour at 23°C.
+
+Unknown and calibration serum preparation. |gE-depleted test
+sera (diluted to 1:100 in PBS-BSA) were incubated for 3 hours at
+37°C with biotinylated FceRla (final concentration 60ngml~!) or
+PBS-BSA (sham control). For the calibration portion of the assay, 11
+twofold dilutions of omalizumab were prepared with human IgG
+anti-IgE Fe concentrations from 1ngml~! to 1 pgml-'.
+
+Antibody binding and detection. The blocked plate was washed
+five times with PBS-Tween and all wells in the top two calibration
+rows with bound mouse anti-human IgE Fc received polyclonal
+human IgE (2 pgml~! final IgE concentration, 0.1 ml per well). The
+bottom wells containing streptavidin received 0.1 ml PBS-BSA. After
+1h incubation, the whole plate was washed with PBS-Tween and the
+IgE-depleted sera of test subjects (0.1 ml per well, wit!
+biotin-FceRla) were added to their respective wells in the bottom of
+the plate coated with streptavidin. The omalizumab (1 ngml~! to
+1g ml~') was pipetted into replicate wells in the toy
+portion of the plate. The entire plate was incubated for 1h at 23°C.
+
+or without
+
+calibration
+
+Detection of bound human IgG. The entire plate was washed
+five times with PBS-Tween and peroxidase-conjugated mouse antihuman IgG (HP6043-HRP, 1gml~', 0.1 ml per well) was added
+to all wells. The plate was incubated for 1h at 23°C and then
+washed five times in PBS-Tween. 2,2'-azino-bis (3-ethylbenzthiazoline6-sulfonic acid) (ABTS) substrate (0.1 ml per well), containing 1 ul of
+H2O, per milliliter of ABTS, was pipetted into each well. After
+60-75 minutes, the plate was read in an ELISA plate reader (MR4000;
+Dynatech Technologies, McLean, VA) at 405nm. This calibration
+curve constructed with omalizumab binding to insolubilized human
+IgE was used to interpolate the level of IgG anti-FceRla in the test
+sera. Reproducibility was confirmed with interassay coefficients of
+variation <9% (n=8) of reference specimens analyzed on each
+plate.
+
+ 
+
+Competitive inhibition of anti-FceRlo assay
+
+To confirm specificity, a competitive inhibition format of the IgG
+anti-FceRla antibody IEMA was performed. Unlabeled soluble
+FceRla (serial dilutions from 75 ng ml~! to 2.4 pg ml “') was added
+to IgE-depleted sera containing IgG anti-FceRla. After an overnight
+incubation at 4°C, the specimens were analyzed in the IgG antiFceRla antibody IEMA at a final concentration of 1:100 as discussed
+above. Percentage inhibition of binding was computed.
+
+Human IgG anti-IgE immunoenzymetric assay
+
+Naturally occurring IgG anti-IgE in human sera was measured using
+a solid-phase IEMA as discussed previously (Lichtenstein et al.,
+1992). In brief, monoclonal murine IgM, anti-human IgE Fc in PBS
+(clone HP6061P) was absorbed onto sterile flat-bottom polystyrene
+96-well Bacti plates (0.1 ml per well; 16-18 hours at 2-8°C). The
+
+www.jidonline.org 1961
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIU
+
+plates were washed five times with PBS-Tween and subsequently
+blocked with PBS-BSA (0.3 ml per well). Two hours later, the plates
+were washed five times with PBS-Tween, and then polyclonal IgE
+(2pgml-! final IgE concentration, 0.1 ml per well) was added to
+each well. After a 1-hour incubation at 23°C, the plates were
+washed five times with PBS-Tween and sera of the subjects (non-IgE
+depleted) were added to the wells (0.1 ml per well, 1:100 final
+dilution). HP6043-HRP (1 pg ml-!, 0.1 ml per well) was then added,
+and the plates were incubated for 1h at 23°C. After an additional
+buffer wash, ABTS substrate (0.1 ml per well), containing 1 ul of
+H)O, per milliliter of ABTS, was added and processed as discussed
+for the IgG anti-FceRla assay. Adsorbance at 280nm for the
+unknown specimens was interpolated from the omalizumab heterologous calibration curve into estimates of IgG antibody bound as
+described above. Reproducibility was demonstrated with interassay
+coefficients of variation <20% (n=8) of reference curve dilutions
+analyzed on each plate.
+
+ 
+
+ 
+
+Minimal detectable concentration
+
+The minimal detectable concentration of IgG anti-FceRla and IgG
+anti-IgE antibodies was determined using a t-test to determine what
+human IgG anti-IgE (omalizumab) concentration was significantly
+different (>95% confidence) from the buffer blank (absence of
+antibody). The minimum detectable concentration was determined
+to be 200 ng mI" of IgG anti-human IgE. Values > 200 ngml~' were
+considered to be significantly detectable, or ‘‘positive’’.
+
+Statistical design
+
+Two-tailed Fisher’s exact test was used for nonparametric analysis,
+whereas two-tailed t-test was used for normally distributed data. A
+P-value less than 0.05 was considered significant. All error bars
+represent SEMs.
+
+ 
+
+CONFLICT OF INTEREST
+The authors state no conflict of interest.
+
+ACKNOWLEDGMENTS
+
+Dr Saini received support as a Cosner Scholar in translational research from
+Johns Hopkins University. The serology portion of this study was supported,
+in part, by Grant U19 Al 070412091 from the National Institutes of Health.
+
+ 
+
+REFERENCES
+
+Baker R, Vasagar K, Ohameje N, Gober L, Chen SC, Sterba PM, Saini SS.
+Basophil histamine release activity and disease severity in chronic
+idiopathic urticaria. Ann Allergy Asthma Immunol (in press)
+
+Bickers DR, Lim HW, Margolis D, Weinstock MA, Goodman C, Faulkner E
+et al. (2006) The burden of skin diseases: 2004 a joint project of the
+American Academy of Dermatology Association and the Society for
+Investigative Dermatology. J Am Acad Dermatol 55:490-500
+
+Butler J (1991) Immunochemistry of solid-phase immunoassay. lowa City:
+CRC Press
+
+Delong LK, Saini SS, Beck LA, Chen SC (2008) Annual direct and indirect
+costs of chronic idiopathic urticaria: a cost analysis of fifty nonimmunocompromised patients. Arch Dermatol 144:102-3
+
+Fiebiger E, Hammerschmid F, Sting! G, Maurer D (1998) Anti-FcepsilonRlalpha autoantibodies in autoimmune-mediated disorders. Identification of
+a structure-function relationship. J Clin Invest 101:243-51
+
+Fiebiger E, Maurer D, Holub H, Reininger B, Hartmann G, Woisetschlager M
+et al. (1995) Serum IgG autoantibodies directed against the alpha
+chain of Fe epsilon RI: a selective marker and pathogenetic factor
+
+1962 Journal of Investigative Dermatology (2008), Volume 128
+
+for a distinct subset of chronic urticaria patients? J Clin Invest 96:
+2606-12
+
+Gober LM, Sterba PM, Baker R, Vasagar K, Vonakis BM, Saini SS (2006)
+Longitudinal examination of basophil functional phenotypes and disease
+activity in chronic idiopathic urticaria (CIU). J Allergy Clin Immunol
+119:5312
+
+Grattan CE, Francis DM, Hide M, Greaves MW (1991) Detection of
+circulating histamine releasing autoantibodies with functional properties
+of anti-IgE in chronic urticaria. Clin Exp Allergy 21:695-704
+
+Greaves M (2000) Chronic urticaria. J Allergy Clin Immunol 105:664-72
+
+Greaves MW (1995) Chronic urticaria. N Engl J Med 332:1767-72
+
+Greaves MW, Plummer VM, McLaughlan P, Stanworth DR (1974) Serum and
+cell bound IgE in chronic urticaria. Clin Allergy 4:265-71
+
+Grob JJ, Gaudy-Marqueste C (2006) Urticaria and quality of life. Clin Rev
+Allergy Immunol 30:47-51
+
+Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP (1988) Prevalence
+and functional role of anti-IgE autoantibodies in urticarial syndromes.
+J Invest Dermatol 90:213-7
+
+Guttman-Yassky E, Bergman R, Maor C, Mamorsky M, Pollack $, Shahar E
+(2007) The autologous serum skin test in a cohort of chronic idiopathic
+urticaria patients compared to respiratory allergy patients and healthy
+individuals. J Fur Acad Dermatol Venereol 21:35-9
+
+Hamilton RG (1987) Human IgG subclass measurements in the clinical
+laboratory. Clin Chem 33:1707-25
+
+Hamilton RG, Morrison SL (1993) Epitope mapping of human immunoglobulin-specific murine monoclonal antibodies with domain-switched,
+deleted and point-mutated chimeric antibodies. J Immunol Methods
+158:107-22
+
+Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW.
+(1993) Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med
+328:1599-604
+
+Horn MP, Gerster T, Ochensberger B, Derer T, Kricek F, Jouvin MH et al.
+(1999) Human anti-FcepsilonRlalpha autoantibodies isolated from
+healthy donors cross-react with tetanus toxoid. Eur J Immunol
+29:1139-48
+
+Kaplan AP (2004) Chronic urticaria: pathogenesis and treatment. J Allergy
+Clin Immunol 114:465-74; quiz 475
+
+Kern F, Lichtenstein LM (1976) Defective histamine release in chronic
+urticaria. J Clin Invest 57:1369-77
+
+Kikuchi Y, Kaplan AP (2001) Mechanisms of autoimmune activation of
+basophils in chronic urticaria. J Allergy Clin Immunol 107:1056-62
+
+Lichtenstein LM, Kagey-Sobotka A, White JM, Hamilton RG (1992) Antihuman IgG causes basophil histamine release by acting on IgG4gE
+complexes bound to IgE receptors. J Immunol 148:3929-36
+
+Luquin E, Kaplan AP, Ferrer M (2005) Increased responsiveness of basophils of
+patients with chronic urticaria to sera but hypo-responsiveness to other
+stimuli. Clin Exp Allergy 35:456-60
+
+MacGlashan D Jr (1994) Signal transduction: mechanisms in basophils.
+J Allergy Clin Immunol 94:1146-51
+
+O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW (1997) The
+impact of chronic urticaria on the quality of life. Br J Dermatol
+136:197-201
+
+Poon E, Seed PT, Greaves MW, Kobza-Black A (1999) The extent and nature
+of disability in different urticarial conditions. Br J Dermatol 140:667-71
+
+Quinti |, Brozek C, Wood N, Geha RS, Leung DY (1986) Circulating IgG
+autoantibodies to IgE in atopic syndromes. J Allergy Clin Immunol
+77:586-94
+
+Reimer C (1986) Five hybridomas secreting monoclonal antibodies against
+human IgE. Monoclonal Antibody News 4:27
+
+Sabroe RA, Francis DM, Barr RM, Black AK, Greaves MW (1998) AntiFc(epsilon)RI auto antibodies and basophil histamine releasability in
+chronic idiopathic urticaria. J Allergy Clin Immunol 102:651-8
+
+Sabroe RA, Greaves MW (2006) Chronic idiopathic urticaria with functional
+autoantibodies: 12 years on. Br J Dermatol 154:813-9
+Schellenberg RR, Adkinson NF Jr (1975) Measurement of absolute amounts of
+antigen-specific human IgE by a radioallergosorbent test (RAST) elution
+technique. J Immunol 115:1577-83
+
+Siraganian RP (1975) Refinements in the automated fluorometric histamine
+analysis system. J Immunol Methods 7:283-90
+
+Soundararajan $, Kikuchi Y, Joseph K, Kaplan AP (2005) Functional
+assessment of pathogenic IgG subclasses in chronic autoimmune
+urticaria. J Allergy Clin Immunol 115:815-21
+
+Stedman K, Lee K, Hunter S, Rivoire B, McCall C, Wassom D (2001)
+Measurement of canine IgE using the alpha chain of the human high
+affinity IgE receptor. Vet Immunol Immunopathol 78:349-55
+
+JA Eckman et al.
+Basophil Phenotypes and Autoantibodies in CIlU
+
+Tong LJ, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP (1997) Assessment of
+autoimmunity in patients with chronic urticaria. J Allergy Clin Immunol
+99:461-5
+
+Vonakis BM, Vasagar K, Gibbons SP Jr, Gober L, Sterba PM,
+Chang H et al. (2007) Basophil FcepsilonRI histamine release
+parallels expression of  Src-homology —2-containing _ inositol
+phosphatases in chronic idiopathic urticaria. J Allergy Clin Immunol
+119:441-8
+
+Zweiman B, Valenzano M, Atkins PC, Tanus T, Getsy JA (1996) Characteristics of histamine-releasing activity in the sera of patients with chronic
+idiopathic urticaria. J Allergy Clin Immunol 98:89-98
+
+www.jidonline.org 1963
+

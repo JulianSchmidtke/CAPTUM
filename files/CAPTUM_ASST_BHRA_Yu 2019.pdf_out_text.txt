@@ -1,0 +1,1251 @@
+SDU<
+
+University of Southern Denmark
+
+Immunological effects and potential mechanisms of action of autologous serum therapy in
+chronic spontaneous urticaria
+
+Yu, L; Buttgereit, T; Stahl Skov, P; Schmetzer, O; Scheffel, J; Kocatiirk, E; Zawar, V; Magerl,
+M; Maurer, M
+
+Published in:
+Journal of the European Academy of Dermatology and Venereology
+
+DOI:
+10.1111/jdv.15640
+
+Publication date:
+2019
+
+Document version
+Accepted manuscript
+
+Citation for pulished version (APA):
+
+Yu, L., Buttgereit, T., Stahl Skov, P., Schmetzer, O., Scheffel, J., Kocatiirk, E., Zawar, V., Magerl, M., & Maurer,
+M. (2019). Immunological effects and potential mechanisms of action of autologous serum therapy in chronic
+spontaneous urticaria. Journal of the European Academy of Dermatology and Venereology, 33(9), 1747-1754.
+https://doi.org/10.111 1/jdv.15640
+
+Terms of use
+
+This work is brought to you by the University of Southern Denmark through the SDU Research Portal.
+Unless otherwise specified it has been shared according to the terms for self-archiving.
+
+If no other license is stated, these terms apply:
+
+* You may download this work for personal use only.
+* You may not further distribute the material or use it for any profit-making activity or commercial gain
+* You may freely distribute the URL identifying this open access version
+
+If you believe that this document breaches copyright please contact us providing details and we will investigate your claim.
+Please direct all enquiries to puresupport@bib.sdu.dk
+
+Download date: 04. Nov. 2020
+Check for
+updates
+
+PROF. MARCUS MAURER (Orcid ID : 0000-0002-4121-481X)
+
+Article type™™""Original Article
+
+Immunoldgical effects and potential mechanisms of action of autologous
+
+serum therapyiin chronic spontaneous urticaria
+
+Linan Yu 1, Thomas Buttgereit, MD 1, Per Stahl Skov, MD 2, Oliver Schmetzer, MD, PhD +,
+Joerg Scheffel, PhD 1, Emek Kocattirk, MD 3, Vijay Zawar, MD 4, Markus Magerl, MD ? and
+
+Marcus MaurereMD +
+
+1. “Depts of Dermatology and Allergy, Charité — Universitatsmedizin Berlin,
+Germany
+
+2. __Qdénse Research Center of Anaphylaxis, Odense, Denmark
+
+3. Dept. of Dermatology, Okmeydani Training and Research Hospital, Istanbul,
+
+Turkey
+
+4 (Dept. jof Dermatology, Godavari Foundation Medical College and Research
+
+Center, Nashik, India
+
+Corresponding author:
+Marcus MaurereMD
+Charité 4Universitatsmedizin Berlin
+
+Dept. of Dermatology and Allergy
+
+This is the author manuscript accepted for publication and has undergone full peer review but
+has not been through the copyediting, typesetting, pagination and proofreading process, which
+may lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.1111/]DV.15640
+
+ 
+
+This article is protected by copyright. All rights reserved
+Charitéplatz 1
+
+10117 Berlin, Germany
+
+ 
+
+Phone: +49-30-450-518 043
+
+Fax: #¥49-30-450-518 972
+
+Email: marcus.maurer@charite.de
+Abstract
+
+BACKGROUND® Autoimmune processes are considered to play a major role in the
+pathogenesis of chronic spontaneous urticaria (CSU). Very recently, interleukin 24 (IL-24) has
+been identifiedeas'an IgE-autoantigen in CSU. Some studies revealed that notably autologous
+serum skin *test(ASST)-positive CSU patients may benefit from autohemotherapy, however,
+
+the mechanisms of action remain unknown.
+
+We aimed tosinvestigate the immunological effects of autologous serum injections in ASST
+positive CSUspatients
+
+METHODS 66~.ASST-positive CSU patients were treated with weekly intramuscular
+autologous*serum injections for 8 weeks and followed up for 12 weeks. Urticaria Activity
+Score (UAS7) and Dermatology Life Quality Index (DLQI) were assessed. The ASST was done
+at baseline, week 9 and week 21. Serum samples (baseline, week 9, 13 and/or 21) were
+analysed for the\levels of IgE-anti-IL-24 and IgG-anti-IL-24 via ELISA and their ability to
+
+release histamine in basophils (BHRA).
+
+RESULTS Autologous serum therapy resulted in a substantial improvement in disease activity
+and quality ofslife after 8 and 20 weeks. 28% and 34% of patients turned ASST-negative in
+week 9 and 21, respectively, but there was no link between their response to treatment and
+changes of ASST results. Also, no significant or relevant changes in BHRA were observed. In
+contrastgautologous serum therapy significantly decreased IgE-anti-IL-24 serum levels, but
+
+not IgG-anti-IL-24 serum levels, in responders but not in non-responders.
+
+CONCLUSIONS Our findings suggest that the immunological effects of autologous serum
+therapy include a reduction in IgE-anti-IL24 autoantibodies, which may contribute to the
+
+pathogenesis of CSU.
+
+This article is protected by copyright. All rights reserved
+ASST = Autologous Serum Skin Test
+
+BHRA = Basophil Histamine Release Assay
+CSU = Chronic Spontaneous Urticaria
+DLQI = Dermatology Life Quality Index
+HRF = HistaminewRelease Factor
+
+IFN = Interferon
+
+IgE = Immunoglobulin E
+
+IgG = Immunoglobulin G
+
+IL-24 = Interleukin 24
+
+MCID = Minimal,Clinically Important Difference
+MID= Minimal Important Difference
+
+TGF = Transforming growth factor
+
+UAS7 = Weekly Urticaria Activity Score
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a common skin disease characterized by the
+spontaneous occurrence of itching and short-lived wheals, angioedema or both for longer
+than 6 weeks*2. The pathomechanisms of CSU have been studied for decades, but remain
+not fully understood. Nowadays, two types of autoimmune mechanisms are held to be
+relevant inmmany cases of CSU: Type | autoimmunity (also called autoallergy) with IgE
+autoantibodiés to autoantigens and Type IIb autoimmunity with IgG autoantibodies to IgE or
+its high affinitymeceptor, FceRI?->. The autologous serum skin test (ASST) is used as a
+
+nonspecific screening test to evaluate the presence of histamine-releasing factors in serum.
+
+As stated in the EAACI/GA?LEN/EDF/WAO guideline for urticariat, modern non-sedating
+
+antihistamines are the first-line treatment. If symptoms persist, up dosing to the four-fold
+
+This article is protected by copyright. All rights reserved
+dose is recommended. For antihistamine-resistant patients, omalizumab, a humanized antiIgE antibody and, if ineffective, ciclosporin A are recommended treatment options?®.
+However, In some countries, such as China, Germany, India, Iran, South Korea, Turkey,
+Mexico and the USA, autohemotherapy is also commonly used to treat antihistamineresistant patients with CSU’. As of now, the level of evidence in support of the efficacy of
+autohemotherapy in the treatment of patients with CSU is limited and the mechanisms of
+action are currently not well understood, which is why autohemotherapy as a treatment
+
+approach in GSU.is controversially discussed+3. (Supplemental Material)
+
+Interleukin 24 (IL¢24) is a member of the interleukin 10 family of cytokines. In humans, IL-24
+is expressed in the skin and immune system, including the thymus, spleen and peripheral
+blood leukocytes. Very recently, IL-24 was identified as a common, specific and functional
+
+autoantigen of IgE autoantibodies in CSU**.
+
+Our study ‘aimed to investigate the immunological effects and potential mechanisms of
+action of autologous serum injections in CSU patients. We analyzed serum reactivity before
+and after eight.weeks of autohemotherapy by autologous serum skin testing and basophil
+histamine-release assay. We also monitored the levels of IgE (and IgG) against IL-24. To
+assess changes®in serum autoreactivity and IgE-anti-IL-24 levels for their clinical relevance,
+we correlated them with changes in clinical outcome measures, i.e. the weekly urticaria
+activity scone (UAS7), the on demand use of antihistamines, and quality of life impairment
+(DLQI).
+
+Methods
+
+Patients and’autohemotherapy protocol
+
+ASST-positive patients (n=66, 18 years old or older) with CSU (duration > 6 weeks, UAS7 > 7
+at baseline) were treated with autologous serum injections (Supplemental Material) at the
+GA?LEN Urticaria Centers of Reference and Excellence? in Berlin, Germany (n=21) and
+Istanbul, Turkeys(A=33) as well as the Nashik Urticaria Clinic, India (n=12). The analyses of all
+available treatment outcomes, diaries, questionnaires and blood samples were approved by
+the ethics committee of the coordinating center of this study, the Department of
+
+Dermatology and Allergy at Charité — Universitatsmedizin Berlin.
+
+Assessment of disease activity and impact
+
+This article is protected by copyright. All rights reserved
+Disease activity was assessed by the UAS7. The use of on demand antihistamines (AHdemand) was documented and served as a surrogate marker for disease activity and burden
+of disease. Disease impact on quality of life was assessed with the Dermatology Life Quality
+Index (DLQI). UAS7 scores, AH-demand data and DLQI values were obtained by use of
+
+patient diary documentation (Supplemental Table).
+
+Calculation of UAS7
+
+Disease activity.was assessed by the UAS, a validated and widely accepted disease activity
+tool as recommended by the international urticaria guideline?” ®. The weekly UAS (UAS7,
+range 0-42) was calculated as sum of the daily values over 7 days.
+
+Responses to. autohemotherapy treatment were defined by the reduction of UAS7 compared
+to week 0.™€6ifiplete Response” (CR) was defined as a reduction of UAS7 equal or more
+than 90%, “Paftial Response” (PR) as a reduction between 90%-30% and “Non Response”
+(NR) as equal or less than 30% reduction in UAS7!”. The minimal important difference (MID)
+is the smallest change that can be considered to be clinically relevant. A change in the score
+that is equal.to.or greater than 11 points has been estimated for the UAS7 in patients with
+
+csu.
+
+Calculation of on-demand use of antihistamines
+
+A history of, beneficial effects of antihistaminic treatment was part of the inclusion criteria.
+The use of antihistamines was restricted to on-demand intake (AH-demand) during weeks 08, 12, and 20. At.all other times, patients were free to take antihistamines as on-demand or
+as prophylaxis™@é@tirizine was recommended for treatment, however, patients could decide
+to use other®non'sedating antihistamines according to their preference. The weekly AHdemand score was calculated as the sum of all antihistamine tablets (one point per tablet)
+
+used per week.
+
+Calculatiomof DLQI
+
+The DLQI consists of 10 questions across six domains: symptoms/feelings, daily activities,
+leisure, work/school, personal relationships and treatment?®. Each answer is scored from
+‘very much’ (3) to ‘not at all’ (0), and an overall score (0-30) is calculated by summing the
+
+individual domain scores. Higher scores indicate higher impairment of quality of life.
+
+This article is protected by copyright. All rights reserved
+The DLQI was applied in weeks 1, 9, 13, and 21 (Supplemental Table). A minimal clinically
+important difference (MCID) of 3-4 points has been estimated for the DLQI in patients with
+CcSU19. The MCID is the minimum change considered important by the patient and
+mandating a change in management. The proportion of patients whose change in DLQI from
+
+baseline reached an MCID of = 4 was assessed at week 9, 13, and 21.
+
+Autologous,Serum, Skin Test
+
+ASST was performed and assessed as reported earlier?°. (supplemental Material)
+
+Blood samples
+Blood samples were taken in week 0, 9, 13 and 21 (Supplemental Table). Samples were
+centrifuged™£5"Minutes at room temperature and 1300g, and serum and plasma were
+
+portioned if500puI Eppendorf microtubes and stored at -80°C.
+
+Basophil histamine release assay
+
+The BHRA was done as previously described’. (Supplemental Material)
+
+IgE-anti-IL-24.and IgG-anti-IL-24 measurement
+IgE-anti-IL-24 and IgG-anti-IL-24 serum levels were assessed by a site-directed IgE or IgG
+
+capture ELISA as reported recently**. (Supplemental Material)
+
+Statistical Analysis
+
+Statistical analysis'of the data was performed using the software GraphPad Prism 6.0 and
+IBM SPSS*Statisties 23. Data were analysed by calculating values for the mean and standard
+deviation (=SD). Paired and categorical data (e.g. data from the same patients obtained at
+different time points) were compared using the McNemar test. In the statistical tests, a p
+value < 0.05 wassconsidered as statistically significant.
+
+Results
+
+Autohemotherapy results in rapid, marked and sustained improvement in ASST-positive
+
+patients with CSU
+
+This article is protected by copyright. All rights reserved
+Autohemotherapy significantly reduced the mean + SD CSU disease activity as assessed by
+UAS7 from 23.3 + 8.1 before treatment to 14.8 + 11.3 at the end of the 8-week treatment
+period (-36 %, p < 0.0001). Disease activity was first significantly reduced, to 17.9 + 10.3,
+after 2 weeks of treatment (-23 %, p < 0.001). UAS7 values continued to decrease after the
+end of treatment, to 12.8 + 10.7 (-45 %, p < 0.0001) and 12.6 + 12.4 (-46 %, p < 0.0001) at
+
+week 12 and 20, respectively (Figure 1a+b+c+d).
+
+The use Of"6n"démand antihistamines was significantly decreased in week 8 of treatment
+(from 2.9 +'3-9°'t6"1.5 + 3.0 tablets per week, p < 0.05) and continued to decrease thereafter,
+to 1.4 + 3.1 tablets per week (p < 0.01, in week 20). Quality of life was significantly improved
+from 8.8 + 657 (atbaseline) to 6.3 + 6.1 (at week 9, p < 0.05), 6.0 + 6.7 (at week13, p < 0.01)
+and 5.1 + 6.4 (at week 21, p < 0.001) after the start of treatment as assessed by the DLQI
+(Figure 1le+f). Furthermore, UAS7 in week 0, 8, 12 and 20 showed correlation with DLQI in
+week 1, 9, 13 and 21, respectively (Spearman Test, p = 0.047, 0.0071, 0.0006 and < 0.0001)
+
+At the endsofsthe treatment phase (in week 8), the rate of complete response and partial
+response was 13% and 48 %, respectively. At the end of the follow up, in week 20, nearly
+two thirds of patients (67.4 %) showed complete or partial response to autologous serum
+
+therapy (Figure2a).
+
+After 8 weeks*of therapy with autologous serum, 35 % (15/43) of patients reached an MCID
+of = 4 in total DLQI score compared to baseline. The percentage increased steadily to 42%
+(19/45) in week 13 and 48% (20/42) in week 21. However, there was no significant
+
+difference comparing these timepoints (McNemar Test, p > 0.05) (Figure 2b).
+
+In ASST-positive GSU patients receiving treatment with autologous serum, there is no link
+between theifechange in disease activity in response to treatment and changes of ASST
+
+results
+
+After 8 weeks of treatment with autologous serum, 28 % (14/50, p < 0.001) of patients
+turned ASST-negative. In week 21, the ASST was negative in 34 % (17/50, p < 0.0001) of
+patients (Figure 3a). There was no significant difference comparing complete responders
+(CRs), partial responders (PRs) and non-responders (NRs) for their rates of patients who
+became ASST negative (Chi-square Test, p > 0.05). 40 % (2/5) and 54.5 % (6/11) of CRs, 22.2 %
+(4/18) and 30.8 % (4/13) of PRs, and 26.7 % (4/15) and 21.4 % (3/14) of NRs were ASST
+This article is protected by copyright. All rights reserved
+negative at week 9 and week 21, respectively (Figure 3b). There was also no significant
+difference when comparing patients who became ASST negative with patients who
+
+remained ASST positive for their rates of CR, PR and NR (Figure 3c).
+
+In addition, patients who experienced significant QoL (quality of life) improvement (MCID > 4)
+did not shoWedifferent rates of turning ASST-negative than those who did not improve in
+their QoL (MCID.< 4), Also, patients who showed a change in their ASST status did not differ
+in their ratés"6f’Showing marked QoL improvement as compared to patients who remained
+
+ASST positive.
+
+Serum autoreactivity and its changes during autohemotherapy as assessed by BHRA are not
+
+linked to themesponse to treatment
+
+Before the start of autohemotherapy, 5 of 41 patients were BHRA-positive, and these 5
+patients were similar in their treatment responses as compared to BHRA-negative patients.
+After 8 weeks.ofpweekly treatment with autologous serum injections, 4 of the 5 BHRApositive remained BHRA-positive, and the one patient who became BHRA-negative was a
+
+non-responder and did not achieve a significant QoL improvement in week 9.
+
+In ASST-positive CSU patients, autohemotherapy reduces serum levels of IgE-anti-IL-24, but
+
+not IgG-anti-IL-24
+
+Therapy with “autologous serum reduced the serum levels of IgE-anti-IL-24 by 18% and 22%,
+from 0.24 +.0.02 IU/ml (before treatment) to 0.20 + 0.03 IU/ml (at week 9, p < 0.001) and
+0.19 + 0.02sIU/mlig(at week 21, p < 0.001), respectively (Figure 4a). In contrast, serum levels
+
+of IgG-anti-Ik=24edid not change significantly (p > 0.05, Figure 4b).
+
+The reduction of IgE-anti-IL-24 in CSU patients treated with autologous serum is linked to the
+
+response to treatment, but not to changes in ASST status
+
+In complete and partial responders to autohemotherapy, but not in non-responders, the
+mean levels of IgE-anti-IL-24 declined significantly from week O to week 9 (p < 0.05) (Figure
+
+5). Moreover, the mean initial IgE-anti-IL-24 levels in complete and partial responders were
+
+This article is protected by copyright. All rights reserved
+higher compared to non-responders. There were no differences in serum levels of IgE-antiIL-24 or IgG-anti-IL-24 in patients who became ASST negative or not at any timepoints after
+
+autohemotherapy (Figure 6).
+
+Discussion
+
+Our study issonesof the first to explore the immunological effects and potential mechanisms
+of action of autohemotherapy in patients with CSU. Our findings suggest that autologous
+serum therapy has rapid, strong, and sustained beneficial clinical effects in ASST-positive CSU
+patients that are linked to the presence and changes of autoantibodies. Most importantly,
+high levels ‘of/IgE-anti-IL-24 before treatment and changes of IgE-anti-IL-24 in response to
+
+treatment are linked to the efficacy of autohemotherapy.
+
+In our study@aut6hemotherapy reduced disease activity by 36 % after 8 weekly injections,
+lead to sustaih€d"benefit at week 20 (46% reduction), and improved disease activity as early
+as after the second injection of autologous serum. Also, the on demand antihistamine
+consumption was significantly decreased by more than 50% as compared to baseline. These
+results are in lifepwith previous studies. For example, Majid et a/.22 showed a marked decline
+of diseaSe=activity after the first few injections of autologous serum. Staubach et al.
+reported a persistent treatment effect of autologous whole blood injections in ASST-positive
+CSU patients™and reduced disease activity as early as after four weekly treatments as
+assessed by the UAS7 and the use of on demand antihistamines. Our findings are also in
+
+agreement with previous studies by Chen et al.23, Godse et al.?4 and Abdallah et al.?9.
+
+CSU is known to have a substantial impact on patients’ quality of life. In our study, quality of
+life of our patients was improved after the last autologous serum injection and further
+improved thereafter. One third of the patients and almost the half of patients experienced
+significant quality of life improvement, i.e. a reduction of the DLQI by the minimal clinically
+important difference of 4 points, by the end of the treatment and follow up phase,
+respectively. These results confirm the findings of an earlier study by Panchami et al 2°.
+Taken together, our results and those of previous studies underline that autohemotherapy
+can have rapid, positive and persistent effects on disease activity and impact in patients with
+
+CSU, but they don’t provide an explanation for why this is®:%25-?7.
+
+This article is protected by copyright. All rights reserved
+10
+
+How does autohemotherapy work in CSU? CSU, in many patients is held to be an
+autoimmune disorder, linked to the presence of mast cell-degranulating autoantibodies,
+either IgE-autoantibodies directed to autoallergens (type | autoimmunity) or IgG
+autoantibodies to the high affinity IgE receptor or IgE itself (type Ilb autoimmunity)*. Our
+hypothesis was that autohemotherapy, in patients who benefit from this treatment, reduces
+the levels and/or effects of these mast cell-degranulating IgE and IgG autoantibodies. Our
+results strongly.suggest that autohemotherapy reduces the levels of IgE autoantibodies, but
+
+not the levels.or.effects of IgG autoantibodies.
+
+Two of our findings independently suggest that autologous serum therapy in CSU does not
+work by reducing \the levels or effects of mast cell-degranulating IgG autoantibodies. First,
+the ASST, a screening test for these autoantibodies, became negative in only one third of the
+treated patients at the end of the follow up phase, and this was not linked to the clinical
+response ofspatients. In other words, some patients (4/10 at week 9, 3/13 at week 21)
+without clini¢alebenefit became ASST-negative, and some patients (17/28 at week 9, 14/25
+at week 21) who had clinical benefit remained ASST-positive. The latter has been described
+previously by Mori and Hashimoto2’, who reported CSU remission in a ASST-positive patient
+treated with autologous whole blood injections, without changes in the patient’s ASST status.
+Second, sthe..BHRA, a more sensitive and specific test than the ASST for mast celldegranulating IgG autoantibodies to the high affinity IgE receptor, became negative in only
+one patient,andethis patient was a non responder. We did not have access to direct assays
+for measuring the\levels of IgG autoantibodies and their changes in our patients. But even if
+we had measured antibody levels and had found a reduction in response to autologous
+serum therapy, this would hardly be relevant pathomechanistically, as functional tests such
+as the ASSTland.the BHRA remained positive in the majority of patients and changes in the
+
+results of thes@fuinctional tests were not linked to treatment responses.
+
+Our results do.suggest that autohemotherapy works in CSU, at least in part, because of its
+effects ‘OfilgE autoantibodies. First, we found that our patients treated with
+autohemotherapy showed a significant reduction of their IgE-anti-IL-24 levels after 8 weekly
+injections with autologous serum, and their levels continued to drop thereafter. Second, the
+drop in IgE-anti-IL-24 was only significant in responders, but not non responders to
+
+autohemotherapy although statistical comparisons in the analysis are based on small patient
+
+This article is protected by copyright. All rights reserved
+11
+
+numbers in each response group. Taken together, these findings support the idea that IgEautoantibodies such as IgE-anti-IL-24 are one of the targets of the mechanisms of action of
+autohemotherapy in CSU. It would be interesting to extend analyses of autoreactive IgE to
+other autoallergens that have been described to be relevant targets of IgE in patients with
+
+CSU such as thyroperoxidase, tissue factor as well as dsDNA?93°,
+
+Our study 'has®several important strengths and limitations, and it points to interesting
+questions that need to be addressed by further studies. The limitations of our study include
+its uncontrolled.design and relatively small sample size. In retrospect, we should not have
+limited inclusionginto the study to ASST-positive patients. ASST positivity of our patient
+population/ for sure, has biased our study group towards type Ilb autoimmune CSU and
+against type | autoimmune CSU, in which autohemotherapy now has to be expected to be
+more effective than in type IIb autoimmune CSU. For sure, additional studies are required to
+investigate theseffect of autohemotherapy in ASST-negative patients and to explore the role
+in type | autoimmunity. This is especially true, since our studies of IgE-anti-IL24 serum levels
+were only performed on 15 of the patients included in this study, due to limited volumes of
+sera available. On the plus side, our patient population was fairly homogeneous, our study
+was a multicenter study, and our key outcomes included major pathogenic drivers of type |
+and typeailb.autoimmune CSU. Further studies are needed to better characterize the
+relevance and mechanisms of these effects of autohemotherapy. Are there any other
+functional lgExautoantibodies against autoantigens in autologous serum therapy? How is IgEanti-IL-24 reduced, by autohemotherapy, by effects on its production, its clearance, or both?
+Are other IgE autoantibodies and levels of total IgE also reduced by autohemotherapy in CSU
+patients, ASST-positive and ASST-negative patients? Are total IgE levels affected by
+
+autohemotherapy?
+
+In summary, our\study demonstrates that autohemotherapy can lead to clinical benefit in
+part by its effects.on levels of IgE autoantibodies in ASST-positive CSU patients. This supports
+the notidn.that specific and functional IgE autoantibodies contribute to the pathogenesis of
+CSU and suggests that these IgE autoantibodies represent a potential therapeutic target of
+
+autohemotherapy.
+
+Conflict of interest
+
+This article is protected by copyright. All rights reserved
+12
+
+Prof. Per Stahl Skov is in the scientific board of RefLab.
+
+Other authors have no conflicts of interest to declare.
+
+References
+
+10.
+
+Zuberbier T, Aberer W, Asero R, Latiff Abdul AR, Baker D, Ballmer-Weber B, et al.
+EAAGI/GAZEEN/EDF/WAO guideline: management of urticaria. Allergy. 2018;64:142743.
+
+Maurer M,\Metz M, Bindslev-Jensen C, Bousquet J, Canonica GW, Church MK, et al.
+Definition, aims, and implementation of GA2LEN Urticaria Centers of Reference and
+Excellence; Allergy Eur J Allergy Clin Immunol. 2016;71:1210-8.
+
+Church MK, Kolkhir P, Metz M, Maurer M. The role and relevance of mast cells in
+urticaria. Immunol Rev. 2018;282:232-47.
+
+Maurer M, Altrichter S, Schmetzer O, Scheffel J, Church MK, Metz M. Immunoglobulin
+E-mediatedjautoimmunity. Front Immunol. 2018;9:689.
+
+Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: What we know and what we do not know. J Allergy Clin
+Immunol#2017;139:1772-81.
+
+Maurer M, Church MK, Gongalo M, Sussman G, Sanchez-Borges M. Management and
+treatment of chronic urticaria (CU). J Eur Acad Dermatol Venereol. 2015;29:16-32.
+Sheikhi,A, Azarbeig M, Karimi H. Autohemotherapy in chronic urticaria: What could be
+the autoreactive factors and curative mechanisms? Ann Dermatol. 2014;26:526-7.
+You H, Cho'H, Kim W, Mun J, Song M, Kim H, et al. Autologous Whole Blood Injection
+forthe Treatment of Antihistamine-Resistant Chronic Spontaneous Urticaria. Ann
+Dermatol. 2015;27:784-6.
+
+Zhang W, Lang N. Effect on chronic urticaria and serum IL-4 and IgE in the patients
+treated with moving cupping therapy and autohemotherapy with acupaint inection.
+Zhohgguo Zhen Jiu. 2014;34:1185-8.
+
+Brewer DD. A Systematic Review of Autohemotherapy as a Treatment for Urticaria
+
+and Eczema. Cureus. 2014;6:1-19.
+
+This article is protected by copyright. All rights reserved
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+13
+
+Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et al.
+Autologous whole blood injections to patients with chronic urticaria and a positive
+autologous serum skin test: A placebo-controlled trial. Dermatology. 2006;212:150-9.
+Bajaj A, Saraswat A, Upadhyay A, Damisetty R, Dhar S. Autologous serum therapy in
+chronic urticaria: Old wine in a new bottle. Indian J Dermatol Venereol Leprol.
+2008;74:109-13.
+
+Kocatiirk.£,.Aktas S, Turkoglu Z, Kavala M, Zindanci |, Koc M, et al. Autologous whole
+bloodtand.autologous serum injections are equally effective as placebo injections in
+reducing disease activity in patients with chronic spontaneous urticaria: A placebo
+controlled, randomized, single-blind study. J Dermatolog Treat. 2012;23:465-71.
+SchmetzerO, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a
+common and specific autoantigen of IgE in patients with chronic spontaneous
+urticaria-J Allergy Clin Immunol. 2018;142(3):876-82.
+
+Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How
+to assess disease activity in patients with chronic urticaria? Allergy. 2008;63:777—80.
+Hawro. T, Ohanyan T, Schoepke N, Metz M, Peveling-Oberhag A, Staubach P, et al. The
+Urticaria’ Activity Score-Validity, Reliability, and Responsiveness. J Allergy Clin
+ImmunolePr. 2018;6:1185-90.
+
+Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an effective and rapidly
+acting therapy in difficult-to-treat chronic urticaria: A retrospective clinical analysis. J
+Dermatol Sci. 2014;73:57-62.
+
+Finlay,AY, Khan GK. Dermatology Life Quality Index (DLQI) - A simple practical measure
+for rowtine*clinical use. Clin Exp Dermatol. 1994;19:210-6.
+
+Mathias*SD} Crosby RD, Zazzali JL, Maurer M, Saini SS. Evaluating the minimally
+important difference of the urticaria activity score and other measures of disease
+activity in patients with chronic idiopathic urticaria. Ann Allergy Asthma Immunol.
+2012;108:20-4.
+
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan
+CEH. EAACI/GA2LEN task force consensus report: The autologous serum skin test in
+urticaria. Allergy. 2009;64:1256-68.
+
+Platzer MH, Grattan CEH, Poulsen LK, Skov PS. Validation of basophil histamine
+
+release against the autologous serum skin test and outcome of serum-induced
+
+This article is protected by copyright. All rights reserved
+22.
+
+23:
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+14
+
+basophil histamine release studies in a large population of chronic urticaria patients.
+Allergy. 2005;60:1152-6.
+
+Majid |, Shah S, Hassan A, Aleem S, Aziz K. How effective is autologous serum therapy
+in chronic autoimmune urticaria. Indian J Dermatol. 2015;60:102.
+
+Chen'S, Zhai Z-F, Song Z, Feng L, Huang X, Zhou X, et al. Autologous whole blood
+injections to patients with chronic spontaneous urticaria and positive autologous
+serum,skin.test: An efficacy evaluation. Chinese J Dermatol. 2012;45:470-3.
+Godse,KV,.Nadkarni N, Patil S, Mehta A. Subcutaneous Autologous Serum Therapy in
+Chronic Spontaneous Urticaria. Indian J Dermatol. 2017;62:505-7.
+
+Abdallah MA, Elzamk M, Sallam MA. Autologous serum injection versus autologous
+blood.in the treatment of chronic autoreactive urticaria. J Egypt Women Dermatol
+Soc. FO@3@ 26-31.
+
+Panchami'D, Debbarman P, Sil A, Datta PK, Bandyopadhyay D, Das NK. Autologous
+serum therapy in chronic urticaria: A promising complement to antihistamines. Indian
+J Dermatol Venereol Leprol. 2014;59:375-82.
+
+Kitsioulis NA, Xepapadaki P, Roussaki-Schulze AV, Papadopoulos N, Zafiriou E.
+Effectiveness of autologous whole-blood injections in patients with refractory chronic
+spontaneous urticaria. Int Arch Allergy Immunol. 2017;172:161-6.
+
+Mori O, Hashimoto T. Autologous whole blood intramuscular injection as a cure for
+chronic urticaria: report of a patient in whom intradermal injection of autologous
+serum continued to cause a weal-and-flare response. Br J Dermatol. 1999;140:1192—
+3.
+
+Altricht@rsy Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated
+autoallergy'against thyroid peroxidase - a novel pathomechanism of chronic
+spontaneous urticaria? PLoS One. 2011;6:e14794.
+
+Cugno M, Asero R, Ferrucci S, Lorini M, Carbonelli V, Tedeschi A, et al. Elevated IgE to
+tissue factor and thyroglobulin are abated by omalizumab in chronic spontaneous
+
+urticaria. Allergy. 2018;73:2408-11.
+
+Figure legends
+
+This article is protected by copyright. All rights reserved
+15
+
+Figure 1. Autologous serum therapy results in rapid, marked and sustained improvement
+
+in ASST-positive patients with CSU
+
+Effects of autologous serum therapy on disease activity (a, b, c), change of MID (d), use of on
+demand antihistamine medication (e) and quality of life impairment (f) in patients with
+chronic spontaneous urticaria (CSU) and a positive ASST. UAS7, on demand antihistamine
+use, and DLQLare shown for each patient and displayed as mean and standard deviation (SD).
+* p < 0.05, **"p"S"0.01, *** p < 0.001, **** p < 0.0001 (Wilcoxon Test) compared to week 0.
+N = 46, 46, 46°46, 49, and 33 for a, b, c, d, e and f.
+
+Figure 2. CSU patients treated with autologous serum therapy show high rates of
+
+responses and:clinically important quality of life improvement
+
+a) Distribution of patients with complete, partial and non response to treatment with
+autologous serum during the treatment phase (week 1-8) and the follow-up period (week 12
+and week 20),.Complete response = a reduction of UAS7 equal or more than 90 % compared
+to week 0. Partial response = a reduction of UAS7 between 90 %-30 % compared to week 0.
+
+Non response = a reduction of UAS7 equal or less than 30 % compared to week 0. N = 46.
+
+b) Rates ofspatients who reached or did not reach MCID 2 4 in DLQI after autologous serum
+therapy No significant difference was observed by McNemar Test (p > 0.05). MCID = Minimal
+
+clinically important difference. N = 43, 45 and 42, respectively.
+
+Figure 3. In ASST=positive CSU patients receiving treatment with autologous serum, there
+is no linksbetween their response to treatment and changes of ASST results.
+
+Comparison of changes in ASST (a) and proportions of ASST positive and negative patients in
+complete, partialland non responders at week 9 and 21 (b and c). At baseline (week 0), all
+patients were ASST-positive. *** p < 0.001, **** p < 0.0001 (McNemar Test). ASST +/- =
+Autologous.Serum Test Positive/ Negative. CR = Complete response, PR = Partial response,
+
+NR = Non response. N = 50, 38 and 38 in Figure 3a, 3b and 3c respectively.
+
+Figure 4. In ASST-positive CSU patients, autologous serum therapy reduces serum levels of
+
+IgE-anti-IL-24, but not IgG-anti-IL-24
+
+This article is protected by copyright. All rights reserved
+16
+
+Comparison of IgE-anti-IL-24 and IgG-anti-IL-24 serum levels before and after treatment with
+autologous serum. Data shown are from all patients with available data at the specific time
+points. The serum levels of IgE-anti-IL-24 (a) and IgG-anti-IL-24 (b) were measured via ELISA.
+Data are displayed as mean and standard deviation (SD). ** P < 0.01, *** P < 0.001
+
+(Wilcoxon Test); IL-24 = Interleukin 24. N = 15;
+
+Figure 5. The reduction of IgE-anti-IL-24 in CSU patients treated with autologous serum is
+
+linked to the,response to treatment
+
+Comparison OfslgE-anti-IL-24 and IgG-anti-IL-24 serum levels in different response groups
+before and after treatment. Data are displayed as mean and standard deviation (SD). Data
+shown aresfromeall patients with available data at the specific time points. Statistical
+comparisonsmwere done only for paired data available at baseline (week 0) and post
+treatment (week 9 or week 21). * P < 0.05(Wilcoxon Test). N= 13,9,9 for 5a, 5c and 7,5,4 for
+
+5b, 5d, respectively.
+
+Figure 6. Thesreduction of IgE-anti-IL-24 in CSU patients treated with autologous serum is
+
+not linked:to’ changes in ASST status.
+
+Comparison of IgE-anti-IL-24 and IgG-anti-IL-24 serum levels patients who become ASST
+negative with®patients who remain ASST positive after treatment. Data shown are from all
+patients with available data at the specific time points. Data are tested by Wilcoxon Test and
+displayed as mean and standard deviation (SD). N = 6, 10 for 6a, 6c and 14, 25 for 6b, 6d,
+
+respectively,
+
+Figures
+
+This article is protected by copyright. All rights reserved
+17
+
+a —
+
+tow
+
+    
+
+  
+
+  
+
+Treatment Follow-up
+a sore |
+o 20: ’
+£
+3
+10
+- _—— st si
+Jie Sot se
+£
+ry =
+GB
+< a
+a <
+2
+J
+o
+D>
+2
+S
+£
+(3)
+Week Week
+c d
+Ml UUAS7>7 MID<11
+2 miuas7so | 2 mm Mipe11
+3 fm ~UAS7=0 s
+Qa Qa
+x} x)
+- =
+o o
+2 2
+€ €
+Ss Ss
+z z
+Week
+e ** f —ee
+ae
+*
+*
+x
+o
+5
+a
+#2
+FI a
+F=I
+A a
+=
+=
+g
+2
+=
+=
+<
+Week Week
+Figure 1
+
+This article is protected by copyright. All rights reserved
+18
+
+a
+100
+
+Hi Complete Response
+SN Partial Response
+
+£ Mi Non Response
+
+2
+
+&
+
+a
+
+‘5 50
+
+€
+
+8
+
+o
+
+oO
+
+Week
+
+SS MCID<4
+mm MCID>=4
+
+Percent of patients
+
+ 
+
+Week
+
+Figure 2
+
+This article is protected by copyright. All rights reserved
+ 
+
+a kkk
+£
+=
+2
+a
+fe)
+2
+5
+2
+o
+a
+21
+b
+100:
+2
+Fy
+Zs
+o
+2.
+‘5 50
+=
+8
+C7
+oa
+CR PR NR CR PR NR
+Week 9 Week 21
+Cc
+2]
+c
+ee
+G
+2.
+—
+(2)
+~
+(
+[7
+2
+o
+oo
+ASST+ASST - ASST+ASST Week 9 Week 21
+Figure 3
+
+This article is protected by copyright. All rights reserved
+
+ 
+
+ASST Ml ASST+
+
+ASST Mm ASST+
+
+MCR
+SS PR
+me NR
+
+19
+a IgE-anti-IL24 b
+
+ 
+
+ 
+
+  
+
+0.4
+£ £
+2 2 03
+% S
+= =
+= = o2
+Ri 9
+i) S
+Figure 4
+a Complete and Partial Response b
+0.3:
+E E
+2 2
+st st
+5 §
+® ®
+Week
+c Complete and Partial Response d
+0.3: . e° 0.3:
+e
+= eo —
+= iS
+> "| 5
+= =
+S02 e S02
+5 ° e =
+2 g
+
+IgG-anti-IL24
+
+Non Response
+
+Week
+
+Non Response
+
+20
+
+ 
+
+ 
+
+ 
+
+Figure 5
+
+This article is protected by copyright. All rights reserved
+IgE-anti-IL-24 (IU/ml)
+
+IgG-anti-IL-24 (IU/ml)
+
+0.4
+
+0.3
+
+0.2:
+
+Week 9
+
+ASST 
+Week 9
+
+ASST 
+ASST +
+
+ASST +
+
+ 
+
+ 
+
+Figure 6
+
+IgE-anti-IL-24 (IU/ml)
+
+IgG-anti-IL-24 (IU/ml)
+
+2A.
+
+Week 21
+
+ 
+
+ASST - ASST +
+
+Week 21
+0.4
+0.3: e
+e.e
+0.2 te vole?
+Tee 2 eelgee®
+7 ee
+0.1
+
+ 
+
+ASST - ASST +
+
+This article is protected by copyright. All rights reserved
+UAS7
+
+oO
+
+Antihistamine tablets per week
+
+ 
+
+Hee
+
+Change of UAS7 from baseline
+
+Week
+
+Week
+
+jdv_15640_f1jpg
+
+This article is protected by copyright. All rights reserved
+
+Treatment
+
+Week
+
+Follow-up
+
+ 
+
+ 
+100
+Hi Complete Response
+SS Partial Response
+
+£7) Non Response
+
+5
+
+3
+
+Qa
+
+5 50
+
+€
+
+8
+
+o
+
+o
+
+0
+1 2 4 6 8 12 20
+Week
+
+SSN MCID<4
+mm MCcID=4
+
+Percent of patients
+
+ 
+
+jdv_15640_f2.jpg
+
+This article is protected by copyright. All rights reserved
+ 
+
+ 
+
+ASST 2 mm ASST+
+=
+a
+oa
+i)
+~
+©
+8
+o
+a
+
+Week
+b
+100:
+
+ASST 2 mm ASST+
+s
+[ss]
+Q
+So 5
+~
+=
+o
+2
+o
+o
+
+CR PR NR CR PR NR
+Week 9 Week 21
+c
+MCR
+L PR
+© @ NR
+o
+=
+o
+Q
+°
+Pos
+=
+3
+o
+o
+ASST+ASST - ASST+ASST Week 9 Week 21
+
+jdv_15640_f3.jpg
+
+This article is protected by copyright. All rights reserved
+a IgE-anti-IL24 b IgG-anti-IL24
+
+ 
+
+    
+      
+
+         
+
+SPeegitbats
+
+jdv_15640_f4,jpg
+
+Author Manus
+
+This article is protected by copyright. All rights reserved
+IgE-anti-IL-24 (Count)
+
+IgG-anti-IL-24 (Count)
+
+Complete and Partial Response
+
+ 
+
+Complete and Partial Response
+
+200!
+°
+
++t
+
+150
+
+  
+
+100
+
+Low
+
+IgE-anti-IL-24 (Count)
+
+a
+
+IgG-anti-IL-24 (Count)
+
+tt,
+
+Week
+
+  
+
+Non Response
+
+2000
+e
+e
+15001 +
+10001
+0 9 21
+Week
+
+jdv_15640_f5.jpg
+
+This article is protected by copyright. All rights reserved
+»
+
+IgE-anti-IL-24 (Count)
+
+°
+
+IgG-anti-IL-24 (Count)
+
+o
+
+ 
+
+Week 9
+=
+3
+Ss
+§
+2
+x
+=
+by
+Ww
+2
+ASST - ASST +
+Week 9 d
+2500!
+
+E
+20000: ° 3
+° oO
+x
+1501 rm te =
+° 3
+
+10000:
+
+ 
+
+ASST - ASST +
+
+jdv_15640_f6.jpg
+
+This article is protected by copyright. All rights reserved
+
+ASST 
+ASST 
+Week 21
+
+Week 21
+
+ 
+
+ASST +
+
+ 
+
+ASST +
+

@@ -1,0 +1,697 @@
+ORIGINAL ARTICLE
+
+ 
+
+Lack of a Role for Cross-Reacting Anti-Thyroid
+Antibodies in Chronic Idiopathic Urticaria
+
+Jonathan D. Mozena’”, Adrienne Tifiana'”, Julie Negri’, John W. Steinke’ and Larry Borish!
+
+The etiology of chronic idiopathic urticaria (CIU) is attributed to autoantibodies directed against the a-chain of
+the high-affinity IgE receptor (FceRla) or IgE on mast cells in 30-60% of patients. Approximately 30% of CIU
+patients have Hashimoto's thyroiditis (HT). We investigated the pathophysiologic relationship of anti-thyroid
+and anti-FceRla antibodies. Nine individuals with both CIU and HT underwent autologous serum skin testing
+(ASST) and sera were assayed for thyroid autoantibodies, thyroid-stimulating hormone, and anti-FceRla
+antibodies. Serum samples were studied for their ability to activate a human mast cell line (LUVA) as determined
+by cysteinyl leukotriene (CysLT) production. Experiments were performed to determine whether epitope crossreactivity could explain the high incidence of HT found in CIU patients. A significant proportion of CIU patients
+had a positive ASST (nine of six) and anti-FceRla antibodies (six of nine). Incubation of patient sera with FceRla,
+but not thyroglobulin or thyroid peroxidase, resulted in the decreased ability to detect anti-FceRla antibodies.
+Incubation with thyroid antigens did not inhibit CysLT production by mast cells. Epitopic cross-reactivity does
+not explain the increased prevalence of HT found in CIU patients. The frequent concurrence of HT and CIU
+likely reflects a genetic tendency toward autoimmune diseases.
+
+Journal of Investigative Dermatology (2010) 130, 1860-1865; doi:10.1038/jid.2010.35; published online 25 February 2010
+
+INTRODUCTION
+
+Chronic idiopathic urticaria (CIU) is defined as recurrent
+episodes of hives with erythema and pruritus occurring over
+a period of 6 weeks or longer (Sabroe et al., 1999). CIU is a
+common disorder with a prevalence of 0.1% in the general
+population (Charlesworth, 2002). In the 1980s, Grattan et al.
+(1986) reported the presence of a serum factor that induced
+a wheal and flare response following intradermal injection
+of autologous serum , thought to be reflective of the presence
+of autoantibodies that are capable of inducing mast cell
+(and basophil) degranulation. The autologous serum skin test
+(ASST) has since been regarded as a reliable in vivo test in
+predicting autoimmunity in CIU patients (Sabroe et al., 1999).
+Studies have demonstrated that 30-60% of CIU patients
+possess IgG autoantibodies directed against the «-subunit of the
+high-affinity IgE receptor (FceRla) on mast cells and basophils
+(Hide et al., 1993; Fiebiger et al., 1995; Ferrer et al., 1998). An
+additional 5-10% of CIU patients reportedly possess autoantibodies directed against IgE (Gruber et al., 1988). Previous studies
+
+ 
+
+ 
+
+ 
+
+‘Asthma and Allergic Disease Center, Carter Center for Immunology
+Research, University of Virginia, Charlottesville, Virginia, USA
+
+?These authors contributed equally to this work.
+
+Correspondence: Larry Borish, Asthma and Allergic Disease Center,
+University of Virginia, PO Box 801355, Charlottesville, Virginia 22908-1355,
+USA. E-mail: Ib4m@virginia.edu
+
+Abbreviations: ASST, autologous serum skin test; CIU, chronic idiopathic
+urticaria; CysLT, cysteinyl leukotriene; FceRIa, «-subunit of the high-affinity
+IgE receptor; HT, Hashimoto's thyroiditis; TA, thyroid autoantibodies; TG,
+thyroglobulin; TPO, thyroid peroxidase
+
+Received 14 July 2008; revised 12 January 2010; accepted 13 January 2010;
+published online 25 February 2010
+
+1860 Journal of Investigative Dermatology (2010), Volume 130
+
+have demonstrated that IgG from patients with CIU stimulates
+histamine release from donor basophils in vitro suggesting a
+pathogenic role for autoantibodies (Grattan et al., 1991).
+Basophil activation tests have been considered the ‘benchmark’
+diagnostic test to identify autoimmunity as the cause of hives in
+patients with CIU (Yasnowsky et al., 2006; Greaves and Tan,
+2007; Altrich et al., 2009). However, the main limitation to this
+approach is the inherent variability of basophils, which requires
+rigorous screening of basophils from numerous donors both
+to identify “releaser’’ basophils capable of FceRI-dependent
+activation (Lichtenstein and MacGlashan, 1986) and also to
+ensure that donor basophils do not spontaneously secrete high
+basal levels of histamine. In addition, although basophils in vitro
+provide useful diagnostic information, CIU is primarily a disease
+of cutaneous mast cells. As basophils are not the primary cellular
+target of CIU, a mast cell model is the more ideal framework to
+study CIU pathophysiology.
+We have developed an immortalized human mast cell line
+(LUVA) displaying high concentrations of FceRI (Steinke et al.,
+2009). These cells are useful in the study of immune mechanisms
+of mast cell-dependant disorders such as CIU, insofar as they
+degranulate and release arachidonic acid-metabolites in an
+FceRI-dependant manner. The LUVA cells are activated when
+incubated with CIU serum, and this activation correlates with
+the presence of a positive ASST (Tifiana A, Mozena J, Steinke J
+Screening for autoimmune mechanisms in chronic idiopathic
+urticaria (CIU) utilizing an immortalized human mast cell line
+(LUVA), abstract submitted to the American Academy of Allergy,
+Asthma and Immunology annual meeting, February 2010).
+Thyroid autoantibodies (TA) have a prevalence of
+~3-6% in the general population versus ~ 15-30% in CIU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© 2010 The Society for Investigative Dermatology
+patients (Leznoff and Sussman, 1989; Turktas et al., 1997;
+Verneuil et al., 2004; Palma-Carlos and Palma-Carlos, 2005;
+Cebeci et al., 2006). Although these studies establish the
+coincidental occurrence of TA and CIU, no current data exist
+to determine the basis for this linkage. The confluence of
+these two diseases could reflect an underlying genetic
+predisposition for the development of autoimmune illnesses.
+Alternatively, however, it is plausible that these diseases
+are pathogenically linked, possibly reflecting a shared
+epitope targeted by these different autoantibodies. Elucidation of the role that TA have in CIU may ultimately help in
+understanding the pathologic basis of this condition.
+
+We initiated the current studies to further study the
+relationship between the presence of anti-FceRl« antibodies
+and TA in patients with CIU. Specifically, we investigated
+whether the high incidence of Hashimoto's thyroiditis (HT),
+defined as the presence of antibodies to thyroglobulin (TG)
+and/or thyroid peroxidase (TPO), observed in patients with
+CIU could be explained by epitope cross-reactivity of antiFceRla antibodies with thyroid antigens.
+
+RESULTS
+
+Study population
+
+Twenty patients with CIU were enrolled in the study. The
+characteristics of patients enrolled into the study are
+presented in Table 1 and summarized in Table 2. The
+majority of patients with CIU and HT were females
+(17 females/3 males), with an average age of 38 + 13 years.
+
+ASST and anti-FceRla antibodies
+
+Thirteen of 20 subjects had a positive ASST. In addition, 12
+of 20 patients had positive anti-FceRla antibodies. Nine of
+20 patients had both a positive ASST and anti-FceRlo antibodies (Tables 1 and 2).
+
+Thyroiditis prevalence
+
+Nine of 20 subjects were selected for further study based on
+screening for the presence of either anti-TG or anti-TPO
+antibodies. Six of nine of these study patients required thyroid
+replacement therapy, the remainder had euthyroid HT (Table 1).
+
+Epitope sharing between FceRla and thyroid proteins
+Initially, a CIU patient who possessed anti-FceRla, anti-TPO, and
+anti-TG antibodies was evaluated for cross-reactivity regarding
+epitope binding. The ability to detect serum anti-FceRlo
+antibodies was inhibited in a dose-dependent manner with
+preincubation of the serum sample with increasing concentrations of soluble FceRla. However, neither recombinant TPO nor
+purified TG competed with binding to FceRla (Figure 1).
+Subsequently, four additional subjects with anti-FceRla,
+anti-TPO, and anti-TG antibodies were studied for epitope
+inding cross-reactivity using high concentrations of FceRla,
+TPO, and TG. The detection of anti-FceRla antibodies by
+ELISA was inhibited by an average of 93 11% when these
+patient sera were incubated with human recombinant
+FceRla (Table 3). However, the ability to detect anti-FceRla
+antibodies was not inhibited when sera from the same
+patients were incubated with TPO or TG (Table 3).
+
+ 
+
+JD Mozena et al.
+Thyroid Autoimmunity and CIU
+
+Functional epitope cross-reactivity
+
+As previously reported, serum obtained from CIU patients
+induced mast cell activation as demonstrated as cysteinyl
+leukotriene (CysLT) secretion (Tifiana et al., 2009). However,
+in CIU patients who possessed anti-FceRla, anti-TPO, and
+anti-TG antibodies, CysLT secretion by mast cells was not
+affected by preincubation with TPO or TG (Figure 2).
+
+Functional antibody-mediated mast cell activation
+
+As expected, incubation with anti-FceRla induced significant
+CysLT production. In contrast to TPO and TG, this effect was
+inhibited by preincubation with recombinant FceRla (>90%
+inhibition) (data not shown). However, incubation with either
+anti-TG or anti-TPO induced mast cell activation. In addition,
+incubation with TPO and TG did not interfere with activation
+of mast cells with anti-FceRla (Figure 2).
+
+DISCUSSION
+
+Consistent with many other autoimmune diseases and similar
+to what other investigators have reported (O'Donnell et al.,
+2005; Kulthanan et al., 2006), we found that CIU typically
+affects females in the third or fourth decade of life (Table 1).
+In support of an autoimmune etiology to CIU, an increased
+prevalence of HT in patients with CIU is well recognized with
+a reported range of ~ 15-30% (Leznoff and Sussman, 1989;
+Turktas et al., 1997; Verneuil et a/., 2004; Palma-Carlos and
+Palma-Carlos, 2005; Cebeci et al., 2006). In contrast, the
+prevalence of TA in healthy control populations is reported to
+be 3.3-5.5%. In our CIU population (Table 1), a slightly
+higher prevalence of TA was noted (45%).
+
+We confirmed the use of the ASST in demonstrating the
+presence of mast cell-activating function in the serum of CIU
+patients (Hide et a/., 1993; Toubi et al., 2004; Yasnowsky
+et al., 2006). However, a positive ASST was equally prevalent
+in patients who did not have TA (67 vs 64%). We also
+confirmed a high prevalence of anti-FceRl« antibodies in the
+serum of CIU patients as detected by ELISA (60%). However,
+similar to the ASST results, an equivalent proportion of CIU
+patients with and without TA had positive anti-FceRla
+antibodies (67 vs 55%, respectively). Therefore, the presence
+of TA does not predict the presence of an autoimmune
+“signature,’” specifically the presence of a positive ASST or
+anti-FceRl« antibodies. The possibility that a larger sample
+size could detect a CIU/HT autoantibody profile that
+correlated with the presence of anti-FceRla antibodies cannot
+be discounted.
+
+The mechanism by which HT is linked to CIU has not
+been elucidated. Concha et al. (2004) demonstrated that 2 of
+20 patients with CIU and HT possessed measurable IgE antithyroid antibodies, although this has not been confirmed
+(Tedeschi et al., 2001). We addressed the possibility that
+epitope binding cross-reactivity could explain the concomitant occurrence of these two autoimmune conditions.
+However, this was comprehensively ruled out. Neither antiTG nor anti-TPO antibodies are capable of inducing
+activation of connective tissue mast cells (Figure 2). In our
+patients with CIU who possessed anti-FceRla, TPO, and TG
+antibodies, the detection of anti-FceRla antibodies by ELISA
+
+ 
+
+ 
+
+www.jidonline.org 1861
+JD Mozena et al.
+Thyroid Autoimmunity and ClU
+
+Table 1. Characteristics of CIU population
+
+ 
+
+Patient Sex Age Thyroid replacement Anti-TPO antibodies Anti-TG antibodies ASST! Anti-FceRla. antibodies”
+
+Thyroiditis cohort
+1 B 56 No No Yes Negative Positive
+2 F 28 No No Yes Positive Positive
+3) Fe 45 Yes Yes No Positive Positive
+4 M 65 Yes No Yes) Positive Positive
+5 F 40 Yes Yes Yes Positive Positive
+6 IF Bo) Yes Yes Yes Negative Negative
+i F 61 Yes Yes Yes Negative Negative
+8 ip 21 Yes Ves Yes Positive Negative
+9 B 24 No No Yes Positive Positive
+
+Non-thyroiditis cohort
+10 F 32 = = = Positive Negative
+11 F 35 = = = Positive Positive
+12 F 61 — = = Positive Positive
+13 M Bo) = — — Negative Negative
+14 FP Dy, _ _ _— Positive Positive
+15 M 47 _ _ _— Negative Positive
+16 B 46 — = = Positive Negative
+17 IF 27 _— _ _— Positive Positive
+18 F 37 = = = Negative Negative
+19 iF oe} — = = Negative Positive
+20 F 25 = = = Positive Negative
+
+ 
+
+Abbreviations: ASST, autologous serum skin testing; CIU, chronic idiopathic urticaria; F, female; FceRlo, a-chain of the high-affinity IgE receptor; M, male;
+
+TG, thyroglobulin; TPO, thyroid peroxidase.
+
+‘Positive ASST defined as wheal >5 mm in diameter more than saline controls.
+
+?Positive anti-FceRle titer defined as >3.9 1g mI-!.
+
+Table 2. Summary of characteristics of CIU population
+Age (mean years + SD)
+
+Sex (4 female)
+
+ASST (# positive) Anti-FceRla antibodies (# positive)
+
+ 
+
+Thyroiditis cohort (n=9) 8/9
+Non-thyroiditis cohort (n=11) 9/11
+
+41416
+36410
+
+6/9 6/9
+7/11 6/11
+
+ 
+
+Abbreviations: ASST, autologous serum skin testing; CIU, chronic idiopathic urticaria; FceRla, a-chain of the high-affinity IgE receptor.
+
+was not inhibited by the addition of TG or TPO (Figure 1 and
+Table 3). Finally, when we investigated functional antibody
+cross-reactivity, we demonstrated that preincubation with
+these thyroid proteins did not decrease the capability of CIU
+serum to activate mast cells (Figure 2).
+
+It should be noted that our diagnostic assays for the
+presence of anti-FceRla antibodies might exaggerate their
+frequency. The recombinant FceRla we used was produced in
+a baculovirus cell line that has the machinery to decorate
+proteins with N-linked glycans thought to have a role in
+protein folding. Many humans possess pre-existing antibodies
+to this host cell line-specific glycosylation motif (Hancock
+
+1862 Journal of Investigative Dermatology (2010), Volume 130
+
+et al., 2007). As such, some of the CIU patients in whom we
+report anti-FceRla antibodies may, in fact, only have
+antibodies to this glycosylation motif. However, our studies
+(Figure 1) do demonstrate that this glycosylation motif does
+not interfere with the ability of soluble recombinant FceRla to
+capture IgE receptor-targeted antibodies. This latter observation validates our reporting the absence of cross-reacting
+functional antibodies.
+
+In summary, our data confirm the high prevalence of
+TA and anti-FceRlo antibodies in CIU. However, this phenomenon cannot be explained by the presence of a shared
+epitope recognized by these two different antibodies.
+An alternative explanation for the increased incidence of HT
+in CIU is that these conditions reflect a shared genetic predisposition toward the development of autoimmune disease.
+Along the same lines, autoimmune thyroid disease also has
+a tendency to occur concurrently with type 1 diabetes. This
+co-association has frequently been found to occur with
+patients who express HLA-DR3, suggesting that their etiology
+may involve common genetic factors (Levin et a/., 2004). This
+possibly reflects shared thymic-programmed mechanisms for
+developing self-tolerance. In summary, our data confirm the
+high prevalence of TA and anti-FceRla antibodies in CIU and
+strongly suggests that anti-thyroid and anti-FceRla antibodies
+do not share epitope specificity.
+
+MATERIALS AND METHODS
+
+Patient enrollment
+
+Patients with CIU were recruited from the outpatient adult allergy/
+immunology clinics at the University of Virginia. Subjects gave
+written informed consent under a protocol approved by the
+University of Virginia human institutional review board. The study
+was carried out in accordance with the Declaration of Helsinki
+principles. Subjects were diagnosed with CIU based on the presence
+of urticarial lesions of >6 weeks duration who had hives present
+at least 3 days per week. All patients had their blood screened
+for thyroid-stimulating hormone, free T, (if thyroid-stimulating
+hormone abnormal), anti-TPO antibody, and anti-TG antibody.
+Patients with significant elevation in circulating antibodies to either
+
+ 
+
+ 
+
+ 
+
+ 
+
+£ [FoeRlo] [TPO] ra]
+> 6 : :
+
+= s a a vas
+B5
+
+ra
+
+3
+
+B4
+
+3
+
+3 3
+
+8
+
+2
+
+£2
+
+&
+
+3
+
+a1
+
+&
+
+3 0
+
+& Serum alone
+
+ 
+
+Figure 1. Inhibition assay using recombinant FceRlo, TPO, and
+thyroglobulin. Serum from one patient who had anti-FceRla and TA was
+diluted 1:50 in PBS containing 0.05% sodium azide and incubated overnight
+at 37 °C with increasing concentrations of recombinant human FceRla,
+purified human TG, or recombinant human TPO. Titers of anti-FceRlo
+antibodies were measured using the methodology described.
+
+JD Mozena et al.
+Thyroid Autoimmunity and CIU
+
+TPO (>0.71Uml~!) or TG (>0.61Uml~!) were defined as having
+HT and invited to participate in further studies. Patients with a
+history of autoimmune disease (other than HT), chronic infection, or
+malignancy were excluded. Antihistamines were discontinued for
+a minimum of 5 days before skin testing. Patients on immunosuppressive medications (for example cyclosporine, plaquenil) were
+excluded, as were patients who had used corticosteroids within the
+previous 2 months.
+
+Anti-FceRla antibody assay
+
+Phosphate-buffered saline (PBS) with or without 200ngI-! of
+recombinant human FceRla (Heska, Fort Collins, CO) were incubated overnight and adsorbed onto sterile flat-bottomed Immulon
+2HB 96-well ELISA plates (Beckman Coulter, Fullerton, CA). The
+concentration of 200ng|~' FceRla was determined experimentally
+
+300
+250
+200
+150
+100
+
+50
+
+Cysteinyl leukotriene production(pg ml-")
+
+ 
+
+PBS Anti- Anti- Anti- Anti Anti Serum Serum Serum
+Alone TG TPO  FeeRlo FeeRla FoeRla +PBS +TG +TPO
++1G 4TPO
+
+Figure 2. Anti-FceRla functional assay. Comparison of CysLT production
+after: (a) activation with PBS, anti-thyroglobulin, and anti-TPO antibodies;
+(b) preincubation with thyroid antigens followed by activation with
+anti-FceRla; and (c) preincubation with thyroid antigens followed by
+activation with patient serum. (a ) LUVA mast cells were activated with PBS,
+anti-TG, or anti-TPO antibodies to evaluate if anti-thyroid antibodies caused
+mast cell activation. (b) Additional mast cells were preincubated with
+recombinant TPO or purified TG followed by activation with anti-Fc eRla. to
+determine if thyroid antigens interfere with activation of cells. (c) Sera from
+patients with positive anti-TG (n = 8) or anti-TPO (n =5) antibodies were
+diluted 1:20 and incubated with thyroid antigens overnight. This was followed
+by activation of LUVA mast cells to determine if preincubation with the
+thyroid antigens inhibited CysLT production. For all experiments, activation
+took place over 30 minutes at 37° C. Supernatants were collected and
+CysLT production quantified by ELISA as described. Results presented in
+panels a and b were from a single experiment with the LUVA cells and thus
+have no error bars, whereas in panel c the error bars represent the standard
+error of the mean.
+
+Table 3. Anti-FceRla inhibition assay with FceRlo, thyroid peroxidase, and thyroglobulin
+
+Serum incubated with
+recombinant FceRla
+
+Serum incubated with purified
+
+Serum incubated with recombinant
+
+thyroglobulin thyroid peroxidase
+
+ 
+
+% Inhibition of anti-FceRla antibody 93 11%
+
+detection (+ SD)
+
+17416 O212
+
+ 
+
+FceRla, a-chain of the high-affinity IgE receptor.
+*P<0.05.
+
+www.jidonline.org 1863
+JD Mozena et al.
+Thyroid Autoimmunity and CIU
+
+and found to yield comparable results to higher concentrations.
+The next day, wells were washed and blocked with 10% goat serum
+in PBS (pH 7.4; Sigma, St Louis, MO) for 4hours. After washing,
+plates were incubated with 100! human sera in duplicate diluted
+1:100 in PBS containing 5% goat serum at 4°C for 1 hour. Plates
+were rinsed before adding biotinylated anti-human IgG 1:10,000
+(Rockland Immunochemicals, Gilbertsville, PA) in 5% goat serum
+and incubated for 1 hour at 4 °C. After washing, 100 pl of horseradish
+peroxidase-conjugated streptavidin (Sigma) diluted 1:10,000 in PBS
+was incubated in wells for 20 minutes. The ELISA was developed
+with o-phenylenediamine dihydrochloride 0.4mgml~' (Sigma) in
+0.05% phosphate-citrate buffer with sodium perborate (Sigma) for
+~20 minutes before the reaction was terminated with 3 N sulfuric
+acid (after the optical density of the most concentrated portion of the
+standard curve was between 1.5 and 2.0 (see below)). Measured
+values were translated into antibody concentrations by logarithmic
+regression analysis using standardized human IgG (Sigma) directly
+adsorbed to the plate (comprising a linear range from 0 to
+
+ 
+
+1,000ngml~'). On the basis of preliminary testing performed in a
+large cohort of CIU patients (data not shown), a positive anti-FceRla
+assay was defined as a concentration of >3.9pgml~!.
+
+Autologous serum skin test
+ASST was performed using standard methodology (Sabroe et al.,
+1999). Blood was drawn into a glass tube, allowed to clot, and
+
+ 
+
+centrifuged at 5,000r.p.m. for 15 minutes to separate sera. Patient
+sera (50!) was injected intradermally into the ventral forearm and
+compared with saline and histamine controls. Skin tests were read
+after 30 minutes with wheals measuring >5mm in diameter more
+than saline defined as positive.
+
+Anti-FceRl« inhibition binding assay
+
+Inhibition assays were performed to determine whether a shared
+epitope recognized by both anti-FceRla and TA could explain the
+igh incidence of HT associated with CIU. Initially one serum
+sample from a subject who possessed anti-FceRl«, anti-TG, and antiTPO antibodies was diluted 1:50 in PBS and incubated overnight at
+37°C with either PBS, recombinant human FcsRla, human TG
+(Advanced Immunochemicals, Long Beach, CA), or recombinant
+
+ 
+
+uman TPO (Research Diagnostics, Flanders, NJ) at a range of
+concentrations and then assayed for the presence of anti-FceRla
+antibodies by ELISA as described. An experiment was then
+performed with four representative patients who also had all three
+classes of autoantibodies with high concentrations of recombinant
+uman FceRlx, TG, or TPO (at 65 pg ml~! each).
+
+ 
+
+Anti-FceRlo inhibition functional assay
+
+Serum was diluted 1:20 in PBS and incubated with PBS,
+recombinant TPO, or purified TG (65 pgml~' each) overnight as
+described for the binding assay. The next day, the serum samples
+were incubated with LUVA mast cells at 37°C for 30 minutes and
+supernatants collected. LUVA activation was determined as CysLT
+secretion as quantified by ELISA according to the manufacturer's
+instructions (Cayman Chemical, Ann Arbor, Ml).
+
+Anti-FceRla functional assay
+LUVA mast cells were incubated with PBS, and commercially
+available anti-TG (Sigma) and anti-TPO (Biodesign International,
+
+ 
+
+1864 Journal of Investigative Dermatology (2010), Volume 130
+
+Saco, ME) antibodies for 30 minutes at 37 °C and supernatants were
+collected. Similarly, LUVA mast cells
+recombinant anti-FceRla (Upstate, Lake Placid, NY) alone and
+anti-FceRla after preincubating with recombinant soluble FceRla
+(Heska) for In addition,
+preincubated with recombinant TPO and purified TG for 15 minutes
+followed by incubation with anti-FceRla for 15 minutes. LUVA
+activation was determined as CysLT secretion as described above.
+
+were incubated with
+
+15 minutes. LUVA mast cells were
+
+CONFLICTS OF INTEREST
+The authors state no conflict of interest.
+
+ACKNOWLEDGMENTS
+
+We thank Dr Donald Wassom of Heska Corporation for providing
+purified recombinant human FceRlx. We also thank Brandon Early BS,
+Lucy Goddard RN, and Elizabeth Kropf BS for their technical assistance.
+This study was supported by a grant from the National Institutes of Health
+grant Al01793.
+
+ 
+
+REFERENCES
+
+Altrich ML, Halsey JF, Altman L (2009) Comparison of the in vivo autologous
+skin test with in vitro diagnostic tests for diagnosis of chronic autoimmune urticaria. Allergy Asthma Proc 30:28-34
+
+Cebeci F, Tanrikut A, Topcu E et al. (2006) Association between chronic
+urticaria and thyroid autoimmunity. Eur J Immunol 16:402-5
+
+Charlesworth EN (2002) Urticaria and angioedema. Allergy Asthma Proc
+23:341-5
+
+Concha LB, Chang CC, Szema AM et al. (2004) IgE antithyroid antibodies in
+patients with Hashimoto's disease and chronic urticaria. Allergy Asthma
+Proc 25:293-6
+
+Ferrer M, Kinet JP, Kaplan AP (1998) Comparative studies of functional and
+binding assays for IgG anti-FceRl« (a-subunit) in chronic urticaria.
+J Allergy Clin Immunol 101:672-6
+
+Fiebiger E, Maurer D, Holub H et al. (1995) Serum IgG auto-antibodies
+directed against the « chain of FceRI: A selective marker and
+pathogenetic factor for a distinct subset of chronic urticaria patients?
+J Clin Invest 96:2606-12
+
+Grattan CE, Francis DM, Hide M et al. (1991) Detection of circulating
+histamine releasing auto-antibodies with functional properties of anti-IgE
+in chronic urticaria. Clin Exp Allergy 21:695
+
+Grattan CE, Wallington TB, Warin RP et al. (1986) A serological mediator in
+chronic idiopathic urticaria: a clinical immunological and histological
+evaluation. Br J Dermatol 114:583-90
+
+Greaves MW, Tan KT (2007) Chronic urticaria: recent advances. Clin Rev
+Allergy Immunol 33:134-43
+
+Gruber BL, Baeza M, Marchese M et al. (1988) Prevalence and functional role
+of anti-IgE auto-antibodies in urticarial syndromes. J Invest Dermatol
+90:213-7
+
+Hancock K, Someet Narang S, Pattabhi S et al. (2007) False positive reactivity
+of recombinant diagnostic glycoproteins produced in High Five™ insect
+cells: effect of glycosylation. J Immunol Methods 330:130-6
+
+Hide M, Francis DM, Grattan CE et al. (1993) Auto-antibodies against the high
+affinity IgE receptor as a cause of histamine release in chronic urticaria.
+N Eng J Med 328:1599-604
+
+Kulthanan K, Jiamton $, Gorvanich T et al. (2006) Autologous serum skin test
+in chronic idiopathic urticaria: prevalence, correlation and clinical
+implications. Asian Pac J Allergy Immunol 24:201-6
+
+Levin L, Ban Y, Concepcion E et al. (2004) Analysis of HLA genes in
+families with autoimmune diabetes and thyroiditis. Hum Immunol
+65:6407
+
+Leznoff A, Sussman A (1989) Syndrome of idiopathic chronic urticria and
+angioedema with thyroid autoimmunity: a study of 90 patients. J Allergy
+Clin Immunol 84:66-71
+Lichtenstein LM, MacGlashan DW (1986) The concept of basophil
+releasability. J Allergy Clin Immunol 77:291-4
+
+O'Donnell BF, Francis DM, Swana GT et al. (2005) Thyroid autoimmunity in
+chronic urticaria. Br J Dermatol 153:331-5
+
+Palma-Carlos AG, Palma-Carlos ML (2005) Chronic urticaria and thyroid
+auto-immunity. Allerg Immunol (Paris) 37:143-6
+
+Sabroe RA, Grattan CE, Francis DM et al. (1999) The autologous serum skin
+test: a screening test for auto-antibodies in chronic idiopathic urticaria.
+Br J Dermatol 140:446-52
+
+Steinke J, Borish L, Tifiana A et al. (2009) Development of an immortalized
+stem cell factor (SCF)-independent mast cell line displaying high
+concentrations of FceRI. J Allergy Clin Immunol 123:S213
+
+JD Mozena et al.
+Thyroid Autoimmunity and CIU
+
+Tedeschi A, Lorini M, Asero R (2001) Anti-thyroid peroxidase IgE in patients
+with chronic urticaria. J Allergy Clin Immunol 108:467-8
+
+Toubi E, Kessel A, Avshovich N et al. (2004) Clinical and laboratory
+parameters in predicting chronic urticaria duration: a prospective study
+of 139 patients. Allergy 59:869-73
+
+Turktas I, Gokcora N, Demirsoy $ et al. (1997) The association of chronic
+urticaria and angioedema with autoimmune thyroiditis. Int J Dermatol
+36:187-90
+
+Verneuil L, Leconte C, Ballet JJ et al. (2004) Association between chronic
+urticaria and thyroid autoimmunity: a prospective study involving 99
+patients. Dermatology 208:98-103
+
+Yasnowsky KM, Dreskin SC, Efaw B et al. (2006) Chronic urticaria sera increase
+basophil CD203c expression. J Allergy Clin Immunol 117:14304
+
+www.jidonline.org 1865
+

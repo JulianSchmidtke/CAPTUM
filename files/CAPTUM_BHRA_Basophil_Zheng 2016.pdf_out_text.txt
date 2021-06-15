@@ -1,0 +1,1705 @@
+Cell Biol Toxicol (2016) 32:217-228
+DOT 10.1007/s10565-016-9330-4
+
+ORIGINAL ARTICLE
+
+Upregulated expression of substance P in basophils
+of the patients with chronic spontaneous urticaria: induction
+of histamine release and basophil accumulation by substance P
+
+Wenjiao Zheng - Junling Wang - Wei Zhu Chiyan Xu - Shaoheng He
+
+Received: 29 March 2016 / Accepted: 19 April 2016 /Published online: 4 May 2016
+
+© Springer Science+Business Media Dordrecht 2016
+
+Abstract Human basophils have been implicated
+in the pathogenesis of chronic spontaneous urticaria (CSU), and substance P (SP) is a possible
+candidate as histamine-releasing factor in some
+patients with CSU. However, little is known of
+relationship between basophils and SP in CSU.
+In the present study, we investigated expression
+of SP and NKIR on basophils from patients with
+CSU, and influence of SP on basophil functions
+by using flow cytometry analysis, basophil challenge, and mouse sensitization model techniques.
+The results showed that plasma SP level and basophil numbers in CSU patients were higher than
+that in HC subject. The percentages of SP+ and
+NKIR+ basophils were markedly elevated in CSU
+blood in comparison with HC blood. Once added,
+SP induced up to 41.2 % net histamine release
+from basophils of CSU patients, which was comparable with that provoked by anti-IgE, and fMLP.
+It appeared that SP induced dramatic increase in
+blood basophil numbers of mice following peritoneal injection. Ovalbumin (OVA)-sensitized mice
+
+W. Zheng - J. Wang - S. He (24)
+
+Allergy and Clinical Immunology Research Centre, The First
+Affiliated Hospital of Jinzhou Medical University, No. 2,
+Section 5, Renmin Street, Guta District, Jinzhou, Liaoning
+121001, People’s Republic of China
+
+e-mail: shoahenghe@hotmail.com
+
+W. Zhu + C. Xu
+
+Allergy and Inflammation Research Institute, The Key
+Immunopathology Laboratory of Guangdong Province, Shantou
+University Medical College, Shantou 515031, China
+
+had much more SP+ and NKIR+ basophils in
+blood than non-sensitized mice. In conclusion, the
+elevated plasma concentration of SP, upregulated
+expression of SP and NKIR on basophils, and the
+ability of SP in induction of basophil degranulation and accumulation indicate strongly that SP is
+most likely a potent proinflammatory mediator,
+which contributes greatly to the pathogenesis of
+CSU through basophils. Inhibitors of SP and
+blockers of NKIR are likely useful agents for
+treatment of CSU.
+
+Keywords Anti-IgE - Basophil- NK1R - Substance PTSLP
+
+Abbreviations
+
+Cl Calcium Ionophore
+
+CSU Chronic spontaneous urticaria
+
+fMLP _N-Formyl-methionyl-leucyl-phenylalanine
+MFI Mean fluorescence intensity
+
+NKIR_ Neurokinin-1 receptor
+SP Substance P
+Introduction
+
+Chronic spontaneous urticaria (CSU) has no discernable
+external cause and comprises the majority of cases of
+chronic urticaria (Fraser and Robertson 2013). It is
+recognized to have an autoimmune cause including
+production of IgE autoantibodies against autoantigens,
+
+D Springer
+218
+
+which might chronically activate cutaneous mast cells
+and blood basophils (Chang et al. 2015). However, the
+exact physiopathology of CSU remains unknown
+(Ferrer 2015).
+
+SP, a neuropeptide belonging to the tachykinin family, is a pleiotropic peptide with specific neural activities
+and involved in immunomodulation (Sun and Bhatia
+2014). It is ubiquitous in human body produced by
+lymphocytes, macrophages (Weinstock 2015), eosinophils, and dendritic cells (O’Connor et al. 2004) and has
+been implicated in the pathogenesis of inflammation
+(Munoz and Covenas 2014). It was reported that SP is
+a possible candidate as histamine-releasing factor in
+some patients with chronic ordinary urticaria, particularly in those with evidence of a non-autoantibody circulating histamine-releasing factor (Tedeschi et al.
+2005). It can also act as a potent chemoattractant for
+human basophils via neurokinin (NK)-1 receptor
+(NK1R)-dependent mechanism in vitro (Cima et al.
+2010).
+
+NKIR is a receptor of SP found in the nervous
+system and in peripheral tissues (Garcia-Recio an
+Gascon 2015), and SP/NK-1 receptor complex has been
+recognized as an integral part of the microenvironment
+of inflammation and involved in the molecular bases o
+many human pathologies (Rosso et al. 2012).
+Involvement of NKIR was observed in intestinal
+fibrogenesis after chronic colitis (Koon et al. 2010),
+and activation of NK1R can enhance T cell IFN-y and
+IL-17 production and consequently amplify the proinflammatory response (Weinstock 2015).
+
+Since human basophils can infiltrate different skin
+lesions and have been implicated in the pathogenesis o:
+CSU (Borriello et al. 2014), and blood basophils o
+patients with CSU display increased surface expression
+of high affinity IgE receptor FceRI (Lourenco et al.
+2008), this cell type is likely to contribute to the pathogenesis of CSU. Therefore, the aim of the study is to
+investigate expression of SP and NKIR on basophils
+from patients with CSU and influence of SP on basophil
+functions.
+
+ 
+
+Materials and methods
+Reagents
+
+The following compounds were purchased from
+Sigma-Aldrich (St. Louis, MO, USA): calcium
+
+D Springer
+
+Cell Biol Toxicol (2016) 32:217—-228
+
+ionophore A23187, N-formyl-methionyl-leucyl-phenylalanine (f{MLP), substance P (SP), OVA (grade
+V), bovine serum albumin (BSA, fraction V),
+antimycin A, and 2-deoxy-p-glucose. Fetal calf
+serum (FCS, Hyclone), Dulbecco’s modified
+Eagle’s medium (DMEM), and antibiotics were
+from Gibco BRL (Grand Island, NY, USA).
+Histamine plate was from Abnova (Taipei,
+Taiwan). Goat anti-human IgE antibody (algE)
+was purchased from Serotec (Kidlington, Oxford,
+UK). PE-conjugated mouse anti-human CD123,
+PerCP-conjugated mouse anti-human HLA-DR,
+BV421-conjugated mouse anti-human CCR3,
+PerCP/Cy5.5-conjugated rabbit anti-mouse CD49b,
+and FITC-conjugated rabbit anti-mouse FceRla
+antibodies were purchased from Biolegend (San
+Diego, CA, USA). FITC-conjugated mouse antihuman SP antibody was purchased from Lifespan
+(Rochester, NY, USA), and SP ELISA kit (sensitivity: 8.04 pg/ml) was purchased from Abcam
+(Cambridge, MA, USA). APC-conjugated mouse
+anti-human NKIR, human IL-4, IL-10, and thymic
+stromal lymphopoietin (TSLP) ELISA kits were
+purchased from R&D Systems (Minneapolis,
+MN). Selective NKIR antagonist RP67580 was
+purchased from Tocris (Bristol, UK). PE conjugated anti-mouse NK1R antibody was purchased from
+Novus (Colorado, USA), and anti-mouse SP antibody was purchased from Fitzgerald (Birmingham,
+UK). Allergens for skin prick were supplied by
+ALK-Abellé, Inc. (Denmark). UniCAP-specific allergen test kits were from Pharmacia Diagnostics
+AB (Uppsala, Sweden). Most of the general
+chemicals such as salts and buffer components
+were of analytical grade.
+
+Patients and samples
+
+A total of 15 CSU and 15 healthy control (HC) subjects
+were recruited in the study. The diagnosing criteria of
+CSU (Zuberbier et al. 2014) were conformed to the ones
+published previously. The informed consent from each
+volunteer according to the declaration of Helsinki and
+agreement with the ethical committee of the First
+Affiliated Hospital of Jinzhou Medical University or
+General Hospital of Shenyang Military Area
+Command was obtained. The general characteristics of
+the patients and control subjects were summarized in
+Table 1. Blood from patients with CSU and HC subject
+Cell Biol Toxicol (2016) 32:217-228
+
+Table 1 The general characteristics of the patients and control
+subjects
+
+ 
+
+219
+
+HC CSU
+
+(n= 15) (n= 15)
+Age (years) 39 (18-60) 42 (14-68)
+Female/male 7/8 9/6
+Median age at onset (years) na 23 (7-54)
+Median disease duration (years) na 3.4 (0.5-20)
+Blood taken time after the first symptom of the latest attack (h) na 13 (4-22)
+Number of positive skin prick for dust mite 0 0
+Number of positive skin prick for artemisia 0 0
+Number of positive skin prick for ragweed 0 0
+Number of positive skin prick for cat fur 0 0
+Number of positive skin prick for dog fur 0 0
+Number of positive skin prick for crab 0 4
+Number of positive skin prick for egg 0 0
+Number of positive skin prick for fish 0 0
+
+was collected in the outpatient clinic. From each individual, 20 ml of peripheral blood was taken into an
+EDTA containing tube.
+
+Animals
+
+BALB/c male mice (18-22 g) were obtained from Vital
+River Laboratory Animal Technology Co. Ltd. (Beijing,
+China), Certificate No. 11400700056942/
+11400700056944/11400700056945/11400700056947.
+The animals were bred and reared under strict ethical
+conditions according to international recommendations.
+They were housed in the Animal Experimental Center
+of the First Affiliated Hospital of Jinzhou Medical
+University in a specific pathogen-free environment with
+free access to standard rodent chow and water at a
+constant temperature 23-28 °C and relative humidity
+of 60-75 %. The animal experiment procedures were
+approved by the Animal Care Committee at Jinzhou
+Medical University.
+
+Flow cytometric analysis of NK1R and SP expression
+in peripheral blood basophils
+
+To detect NKIR and SP expression in human
+basophilic granulocytes (CD123+HLA-DRCCR3 + cells), the following antibodies were added
+to testing tube PE-conjugated mouse anti-human
+CD123, PerCP-conjugated mouse anti-human
+
+HLA-DR, and BV421-conjugated mouse antihuman CCR3 before 100 ul of whole blood being
+added at room temperature for 15 min in the dark.
+Following ligation of red blood cells, white blood
+cells were fixed and permeabilized by using
+Cytofix/Cytoperm™ Fixation/Permeabilization Kit
+according to the manufacturer’s instructions.
+APC-conjugated mouse anti-human NKIR and
+FITC-conjugated mouse anti-human SP were added
+to testing tube and incubated at 4 °C for 30 min
+in the dark. Following washing with BD washing
+buffer, the cell pellets were resuspended in
+fluorescence-activated cell sorting (FACS)-flow solution and analyzed with FACSVerse flow
+cytometer (BD Biosciences, San Jose, CA). A total
+of 10,000 events were analyzed per population for
+each sample. Data were analyzed with CellQuest
+software (BD Immunocytometry systems).
+
+To detect SP and NKIR expression on mouse
+blood basophils, PerCP/Cy5.5-conjugated rabbit
+anti-mouse CD49b and FITC-conjugated rabbit antimouse FceRIa antibodies were added to test tubes
+before 100 tl of whole blood being added at room
+temperature for 15 min in the dark. Following ligation of red blood cells, white blood cells were fixed
+and permeabilized by using Cytofix/Cytoperm kit
+according to the manufacturer’s instructions. APCconjugated anti-mouse SP and PE-conjugated antimouse NKIR antibodies were then added
+
+D Springer
+220
+
+respectively to each tube for 30 min at 4 °C. A total
+of 50,000 events were analyzed for each sample.
+
+Basophil challenge and analysis of histamine release
+
+For basophil challenge, 20 ml of peripheral blood from
+healthy subjects or from patients with CSU was taken.
+Ligation of red blood cells was carried out before cell
+pellet being resuspended in HEPES-buffered salt solution (HBSS, pH 7.4) with CaCl, and MgCl, (complete
+HBSS), and 100 ul aliquots containing approximately
+1x 10° basophils were added to 50 tl of SP with or
+without selective NK1R antagonist RP67580 (25 uM),
+anti-IgE, Cl, and fMLP (in complete HBSS) in 96 well
+plate and incubated for 15 min at 37 °C. The reaction
+was terminated by the addition of 100 tl of ice-cold
+incomplete HBSS into each well, and the plates were
+centrifuged immediately (500xg, 10 min, 4 °C). For the
+measurement of total histamine concentration, the suspension in certain well was taken out and boiled for
+6 min. Supernatants were stored at —20 °C until histamine concentration was determined. Histamine was determined by ELISA kits (Yagci et al. 2013).
+
+For certain experiments, cells were preincubated with
+metabolic inhibitors 2-deoxy-pD-glucose (10 mM) and
+antimycin A (1 uM) or carrier alone for 30 min before
+adding secretagogues. Histamine release was expressed as
+a percentage of total cellular histamine levels and corrected
+for the spontaneous release measured in wells in which
+cells had been incubated with the HBSS diluent alone.
+
+Mouse peritoneal injection
+
+The procedure was adapted from that described previously (He et al. 1997). Briefly, various concentrations of
+SP (0.1, 1.0, 10, and 100 ng/ml), eotaxin (0.1, 1.0, 10,
+and 100 ng/ml), C3a (0.01, 0.1, and 1.0 pg/ml), and
+normal saline (NS) were injected in 0.5 ml volumes into
+the peritoneum of mice before their peritoneal lavage
+being collected for differential cell analysis. At 10 min
+and 3, 6, and 16 h following injection, animals were
+killed, and their blood was collected into heparinized
+tubes and centrifuged at 2000 rpm for 10 min at 4 °C.
+Cells were resuspended in 2.0 ml MEM, stained with
+0.1 % trypan blue, and enumerated using an Improved
+Neubauer hemocytometer (for total cell numbers).
+Cytocentrifuge preparations were made, air-dried, and
+stained with modified Wright’s stain. Differential cell
+counts were performed for a minimum of 500 cells. The
+
+D Springer
+
+Cell Biol Toxicol (2016) 32:217—-228
+
+results were expressed as absolute numbers of basophils
+per mouse blood.
+
+Mouse Sensitization and challenge
+
+Mice were sensitized on days 0, 7, 14, and 21 with a
+subcutaneous multipoint injection of 50 ug of OVA and
+1.5 mg of Al(OH); suspended in NS to a total volume of
+0.5 ml. Non-sensitized control animals received only the
+equal volume (0.5 ml) of NS on the same days. On day
+25, sensitized mice were challenged with intraperitoneal
+injection of 0.5 ml of 1 % OVA. At 3 h following
+injection, animal was killed and its blood was collected
+for analysis.
+
+Determination of levels of cytokines, SP, and sIgE
+
+Levels of IL-4, IL-17F, TSLP, and SP were determined
+by using ELISA kits according to the manufacturer’s
+instruction. Specific (s) IgE was determined by
+UniCAP kits.
+
+Statistical analysis
+
+Statistical analyses were performed by using SPSS software (Version 17.0, IBM Corporation). Data for expression of SP and NKIR on basophils are displayed as
+boxplots, which indicate the median, interquartile range,
+the largest and smallest values for the number of experiments indicated. Plasma levels of SP and cytokines are
+presented as scatter plots. Where Kruskal-Wallis analysis
+indicated significant differences between groups, for the
+pre-planned comparisons of interest, the paired Mann—
+Whitney U test was employed. Data for basophil histamine release and for basophil number in mouse blood
+were expressed as mean+SEM. Where analysis of variance indicated significant differences between groups
+with ANOVA, Student’s ¢ test was applied. Correlations
+were determined by using Spearman rank correlation.
+For all analyses, P<0.05 was taken as significant.
+
+Results
+
+Levels of SP in plasma of patients with CSU and its
+correlation with cytokines
+
+In order to ensure potential roles of SP in CSU,
+the most direct evidence is to examine its plasma
+Cell Biol Toxicol (2016) 32:217-228
+
+level. Using an ELISA kit, we observed that plasma SP level was approximately 3.5-fold higher
+than the level in plasma of HC subject (Fig. 1a).
+In contrast, IL-4 (Fig. 1b), IL-17F (Fig. 1c), and
+TSLP (Fig. 1d) levels in plasma of the same group
+of patients were lower than the levels in HC
+subjects. In fact, IL-4 in plasma of CSU group
+was not consistently detectable. While there were
+negative correlations between the level of SP and
+IL-17F (P<0.001) and TSLP (P<0.001) (Fig. 1f),
+positive correlation between the level of SP and
+absolute number of basophils (P<0.001) was observed in peripheral blood of CSU. In fact, the
+number of basophils in peripheral blood of CSU
+was clearly increased in comparison with that of
+HC subjects (Fig. le). Among the 15 CSU patients, only 4 of them showed mild positive sIgE
+test results, and all of the 4 were sensitive to crab
+(values between 0.35 and 0.7 ku/l) though a total
+of 20 specific allergens were tested.
+
+Fig. 1 Scatter plots of levels of
+substance P (SP, a), interleukin
+(IL)-4 (b), IL-17F (c), and thymic
+stromal lymphopoietin (TSLP, d)
+in the plasma of patients with
+chronic spontaneous urticaria
+(CSU) and healthy control (HC)
+subjects. Each symbol represents
+the value from one subject. The
+
+»
+
+2000.
+
+1500.
+
+1000
+
+SP (pg/ml)
+
+500
+
+221
+
+Expression of SP in peripheral blood basophils
+of patients with CSU
+
+In order to explore the potential source of increased
+plasma SP, we examined expression of SP in peripheral
+blood basophils. The results showed that percentage of
+SP+ basophils (Fig. 2g—i) and mean fluorescence intensity (MFI of SP in basophils (Fig. 2j, k) were markedly
+elevated in CSU blood in comparison with HC blood.
+
+Expression of NK1R in peripheral blood basophils
+of patients with CSU
+
+It is widely accepted that actions of SP are mainly
+through activation of its receptor NKIR (Garcia-Recio
+and Gascon 2015). However, expression of NKIR
+on basophils remains uninvestigated. In order to
+further understand actions of SP on basophils, we
+explored expression of NKIR in peripheral blood
+basophils. The results showed that percentage of
+
+s
+°
+
+P< 0,001 F004
+
+60
+50
+40
+30
+20
+10
+
+20
+
+oa
+
+15
+
+10
+
+IL-4 (pg/ml)
+
+n
+IL-17F (pg/ml)
+
+ 
+
+levels of IL-4 in majority of CSU
+patients are under the sensitivity
+of the assay. Median value is
+indicated with a horizontal line.
+P<0.05 was taken as statistically
+significant. The Spearman’s rho/
+correlation coefficient between
+plasma level of SP, IL-17F, TSLP,
+and basophil number in CSU
+patients (f). *P<0.05
+
+TSLP (pg/ml)
+
+f
+
+P<0.001
+
+40
+
+30
+
+20
+
+10
+
+  
+
+HC CSU
+
+Correlation between the plasma level of Substance P, IL-17F, TSLP and basophil
+
+number in patients with CSU (r value)
+
+ 
+
+SP IL-17F TSLP Basophil
+
+ 
+
+IL-17F
+TSLP
+
+Basophil
+
+SP
+
+1 -0.908* -0.947* 0.896*
+
+-0.908* 1 0.960* -0.754*
+
+-0.947* 0.960* 1 -0.811*
+
+0.896* -0.754* -0.811* 1
+
+ 
+
+D Springer
+222 Cell Biol Toxicol (2016) 32:217—-228
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a HC b CSU
+250K 250K
+200K
+4 a 200K
+¢) 150K 150K
+F 100K % 100K
+50K , Ae 50K Te
+FE a da Ot al
+2 314 5 5
+010° 10° 1) 10 010710°1)"10°
+Cc PE-CDI123 d PE-CDI123
+250K* 250K}
+200K: 200K |
++ 150K +
+§ 150K a DR. § 180K ra.
+z Z 100K}
+50Ki
+of cia
+2.93.4 5
+10°10 10
+e f PetCP-HLA-DR
+250K 250K
+4 200K < 200K
+ym 10k CCR3 + g, ISO CCR3 +
+2 100K. 2 |
+1 i
+2 45 =>
+010° 10710 10 =
+g BV421LCCR3 h = 20
+100K 100K 4 15
+«a S| sp+ a SP + Zz
+60K 0.282% ¢ 60K 1.61% 7 1.0
+B 40K] ses. ° 8 40K a
+20K 20K g 05
+3
+a 2 0.0
+4.5
+010” 10° 107 10 010” 10° 10° 10° ” HC csU
+FITC-SP FITC-SP
+j k
+Fe] P = 0.006
+B 10000 +
+i}
+g
+= 3000-4
+&
+Pe
+5 * 6000 4
+3 5
+= 4000-4
+2 7
+2 200-4 ml
+| co
+E 0
+2.3 4°55 = 7
+010 10 10 10 HC csu
+FITC-SP
+
+D Springer
+Cell Biol Toxicol (2016) 32:217-228
+
+<q Fig. 2 Flow cytometry analysis of the expression of substance P
+(SP) in peripheral blood basophils from patients with chronic
+spontaneous urticaria (CSU) and healthy control (HC) subjects.
+a, b, c, d, e, and f Representative graphs of the gating strategies of
+basophils. g, h Representative graphs of percentage of SP+
+basophils out of total basophils, and (i) median values of
+percentage of SP+ basophils from CSU and HC subjects. Each
+symbol represents the value from one subject. j Representative
+graph of mean fluorescent intensity (MFT) of SP+ basophils, and k
+median values (horizontal line) of MFI of SP+ basophils from
+CSU and HC subjects. Data are displayed as a boxplot for CSU
+(n= 15) and HC (n= 15), which indicate the median, interquartile
+range, and the largest and smallest values for the number of
+subjects indicated. P<0.05 was taken as statistically significant.
+FMO fluorescence minus one
+
+NKIR+ basophils (Fig. 3a—c) and MFI of NKIR
+in basophils (Fig. 3d, e) were markedly elevated in
+CSU blood in comparison with HC blood.
+
+Induction of histamine release from basophils by SP
+
+In order to understand actions of SP on basophils,
+we investigated influence of SP on histamine
+
+223
+
+release from basophils. The results showed that
+SP induced approximately up to 41.2 % net histamine release from basophils of CSU patients when
+1.0 uM SP was added to basophils for 15 min. In
+comparison, anti-IgE, Cl, and fMLP at the concentrations tested provoked up to 39.8, 35.2, and
+47.6 % release of histamine, respectively.
+RP67580 completely abolished SP-induced histamine release when it was preincubated with basophils for 30 min, indicating that SP-induced histamine release was mediated by NKIR (Fig. 4a). SP,
+anti-IgE, CI, and fMLP also provoked histamine
+release from basophils of HC subjects, though to
+much less degrees (Fig. 4b). The metabolic inhibitors abolished SP, anti-IgE, Cl, and f{MLP-induced
+histamine release, suggesting that histamine release
+induced by them was non-cytotoxic (Fig. 4a, b).
+
+Induction of elevated number of basophils in mouse
+blood
+
+In order to examine in vivo effect of SP on basophil
+accumulation, SP was injected into mouse peritoneum.
+The results showed that SP induced dramatic increase in
+number of basophils in blood of mice at 10 min (Fig. 5a)
+
+ 
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a b c
+= 40 P< 0.001
+= —
+NKIR+ 2 30 3
+< 4 27.8% es 2
+y oJ
+g g 0 Pa
+& wo °
+a
+g j
+0 ee ee ae
+010° 10° 10° 10 010° 10” 10° 10 He Cu
+APC-NKIR APC-NK1Rd e
+2 P=0.001
+= 500 ra
+A
+2 400
+a
+= = 300
+5 |
+fs] Z 200 =
+= 100
+= 0
+=
+0107 10° 10° 10° HC CSU
+
+APC-NKIR
+
+Fig. 3. Flow cytometry analysis of the expression of NKIR in
+peripheral blood basophils from patients with chronic spontaneous
+urticaria (CSU) and healthy control (HC) subjects. a, b Representative graphs of percentage of NK1R+ basophils in total basophils
+from HC subjects or CSU patients, and ¢ median values of percentage of NKIR+ basophils from CSU and HC subjects. Each
+symbol represents the value from one subject. d Representative
+
+graph of mean fluorescent intensity (MFI) of NK1R+ basophils,
+and e median values (horizontal line) of MFI of NK1R+ basophils
+from CSU and HC subjects. Data are displayed as a boxplot for
+CSU (n= 15) and HC (n= 15), which indicate the median, interquartile range, and the largest and smallest values for the number
+of subjects indicated. P< 0.05 was taken as statistically significant.
+MO fluorescence minus one
+
+D Springer
+224
+
+Fig. 4 Induction of histamine a
+release from basophils. In a,
+peripheral blood basophils from
+chronic spontaneous urticaria
+(CSU) subjects were challenged
+by various concentrations of
+substance P (SP) in the presence
+or absence of selective NKIR
+antagonist RP67580 (25 uM),
+anti-human IgE antibody (algE),
+calcium ionophore (CI), Nformy|-methionyl-leucy|
+60
+50-—
+
+40
+
+30
+
+20
+
+10
+
+Cell Biol Toxicol (2016) 32:217—-228
+
+ 
+
+rs
+
+ 
+
+pH
+HH
+
+ 
+
+ 
+
+ 
+
+HH «
+BH
+
+eH
+
+ 
+
+ 
+
+ 
+
+=e
+er
+He
+eh
+Ts
+
+ 
+
+ 
+
+mH «
+pH «
+=e
+eH ie
+Hs
+
+ 
+
+ 
+
+ 
+
+BH
+
++
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+phenylalanine (fMLP), and
+
+ae a a a
+
+O11 101002 Z 0.10.31
+
+0.10315 0.0101 1 3
+
+ 
+
+autoplasma with or without
+metabolic inhibitors 2-deoxy-Dglucose (10 mM) and antimycin
+A (1 uM) for 15 min. In b,
+basophils from healthy control
+(HC) subjects. Data are presented
+as mean + SE for six to eight b
+separate experiments. *P<0.05
+
+compared with the responses to
+
+spontaneous histamine release
+
+(paired Student’s ¢ test). “P< 0.05
+
+compared with the corresponding
+
+responses to CSU subjects.
+
+*P<0.05 compared with the
+
+corresponding stimulus alone
+
+group
+
+Histamine release from basophils of CSU subjects (%)
+
+Histamine release from basophils of HC subjects (%)
+
+and 3 (Fig. 5b), 6 (Fig. 5c), and 16 h (Fig. 5d) following
+injection. Approximately up to 8.0-fold increase in basophil number was observed at 10 min following injection. In comparison, eotaxin-elicited basophil accumulation occurred only at 10 min following injection. C3aprovoked basophil accumulation began at 3 h and lasted
+until at least 16 h. It appeared that C3a was more potent
+than SP in induction of basophil accumulation at the
+later time points (Fig. 5).
+
+Basophil number and expression of SP and NKIR
+in basophils of sensitized mice
+
+In order to investigate basophil number and expression
+of SP and NKIR in basophils under allergic conditions,
+mice were sensitized with OVA in the present study. The
+results showed that not only basophil number was markedly increased (Fig. 6a), but also percentage of SP+
+basophils (Fig. 6e, f) and MFI of SP in basophils
+(Fig. 6g, h) were elevated in blood of sensitized mice.
+
+D Springer
+
+5
+
+%
+SP (uM) alge
+
+ee Clam) + {MLP
+ae (a)
+
++
+
+=
+
+a
+
+5 uM)
+
+Autoplasma:
+
+ 
+
+Antimycin -—[}
+
+alge 1+ MI -—[a—+
+
+{MLP 1+ MI 4
+
+:
+5
+¢
+S
+g
+2
+2
+2
+z
+<
+
+30+
+25+ “4 ‘e
+
+“4 I |
+204 I |
+
+15-5
+
+ 
+
+ 
+
+ 
+
+ae
+HH
+
+105
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++
+4
+ao rh
+algE15 Clig fMLP 15
+
+(%) * MS GM >
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 TT
+
+ 
+
+Mr {ii
+
+110
+SP (uM)
+
+SP 10+
+D-Giu 10
+Antimycin 1]
+
+cl
+{MLP 1+
+
+It appeared that percentage of NK1R+ basophils
+(Fig. 7b, c) and MFI of NK1R (Fig. 7d, e) in basophils
+of mice were enhanced by OVA-sensitization.
+
+Discussion
+
+We observed clearly that plasma level of SP and expression of SP and NKIR on basophils were elevated in
+patients with CSU, suggesting strongly that SP contributes to the pathogenesis of CSU via basophils. Since SP
+is a potent proinflammatory mediator, our current observation should be important for understanding mechanism of CSU.
+
+It was reported previously that elevated level of SP
+was observed in plasma of patients with atopic dermatitis (Salomon and Baran 2008), but not in plasma of
+patients with psoriasis (Reich et al. 2007), suggesting
+that increased SP level in plasma may be associated with
+atopic conditions. Indeed, it was found that significantly
+Cell Biol Toxicol (2016) 32:217-228
+
+Fig. 5 Induction of basophil
+accumulation by substance P
+(SP), eotaxin, and complement
+C3a (C3a) in mouse blood. SP
+(ug/ml), eotaxin (ng/ml), and C3a
+(ug/ml) were injected into
+peritoneum of mice for 10 min (a)
+and 3 (b), 6 (c), and 16 h (d)
+before their peritoneal lavage
+fluid was collected. The values
+shown are mean + SEM for a
+group of 6—7 animals. *P<0.05
+compared with the corresponding
+NS group
+
+Es)
+
+Basophil number /ml PB
+
+ 
+
+°
+
+600
+
+500
+
+400
+
+300
+
+200
+
+Basophil number /ml PB
+
+100
+
+NS 0.1110 100 _0.1.1 10 100 0.010.11
+
+ 
+
+higher levels of SP were detected in atopic subjects than
+in chronic ordinary urticaria patients. However, three
+patients with positive autologous serum skin test and
+negative basophil histamine release showed very high
+substance P levels (Tedeschi et al. 2005). The discrimination between the present study and the above report
+may be due to the freshness of clinical specimen as our
+specimen had been collected within a month before
+measurement, but the overall SP concentrations in the
+previous reported study was relatively low. Another
+reason could be different assay being used as they used
+competitive enzyme immunoassay and our assay was
+ELISA. Obviously, more properly designed study is
+required for further addressing this issue.
+
+It has been widely accepted that approximately 35 to
+40 % of patients with CSU possess a circulating antibody directed to the alpha subunit of FeeRI (Kikuchi
+and Kaplan 2001), which is a high-affinity type I IgE
+receptor closely related to atopic conditions. Since
+FceRI receptors mainly express on mast cells and basophils and autoantibodies can activate basophils through
+IgE receptor (Chang et al. 2015), it implicates that
+
+ 
+
+ 
+
+ 
+
+NS 01110100 0.11 10100 0.010.111
+
+ 
+
+225
+
+10 min
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+Basophil number /ml PB
+
+200
+
+ 
+
+NS _0.1110100 0.1110 100 0.01 0.11
+Eotaxin = C3a sP Eotaxin C3a
+
+ 
+
+ 
+
+ 
+
+(ng/ml) (ng) (ug/ml) (ng/ml) (ng/ml) (ug/ml)
+
+Qa
+
+Basophil number /ml PB
+
+ 
+
+NS _0.1110 100 0.11 10 100 0.01 0.11
+
+ 
+
+ 
+
+ 
+
+Eotaxin C3a SP Fotaxin — C3a
+(ng/ml) (ng/ml) (ng/ml) (ng/ml) (ug/ml)
+
+basophils are likely involved in pathogenesis of CSU
+through IgE-mediated mechanism. While our experiments in the present study confirm that anti-human
+IgE and autoplasma can potently induce histamine release from blood basophils of patients with CSU, it was
+found for the first time that SP is also a potent stimulus
+for CSU basophil degranulation. A report that intradermal injection of SP caused a wheal and flare reaction,
+and basophil histamine release in atopic subjects (Louis
+and Radermecker 1991), and a finding that SP induced
+larger and longer wheals and flares in CSU (Borici-Mazi
+et al. 1999) may support our current observation. It is
+noticed that basophils from patients with CSU release
+much more histamine than basophils from HC subjects
+in response to IgE-mediated or non-IgE-mediated secretagogues, indicating further that basophils contribute to
+development of CSU. The potency of SP in induction of
+histamine release from basophils is comparable with
+that induced by Cl, fMLP, and anti-IgE. The metabolic
+inhibitors abolished SP-induced histamine release indicates that the action of SP is most likely a non-cytotoxic
+event. A report that SP caused a non-cytotoxic histamine
+
+D Springer
+226
+
+Cell Biol Toxicol (2016) 32:217—-228
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 6 Flow cytometric analysis a
+of expression of substance P (SP) 1000 P<0.001
+in basophils ge —
+(CD49b+FceRIa + cells) in blood EI 800 ne
+of OVA-sensitized or non- 5 600
+
+we : . 4
+sensitized mice. a Basophil |
+number in blood of OVA- & 400
+sensitized or non-sensitized mice. 2
+b, c The gating strategies of z 200 z=
+basophils. d, e Representative & 0
+graphs of SP+ basophils. f ie avi
+Change in percentage of SP+
+basophils. g The representative BD Non-sensitized C _ova-sensitized
+
+graph of mean fluorescence
+intensity (MFI) of SP on
+
+s
+10
+
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+basophils. h Change in the MFI of 3 z 10
+. 4 mS CD49b+FeeRIat
+SP on basophils. P<0.05 was & 2 wy) 3
+taken as statistically significant. ° Q a]
+FMO fluorescence minus one = eS
+= 100 P=0.001
+d e a a
+100K 100K 2 30
+80K &
+2 60
+4 SOK,
+g g i a
+EB 2 4K = 40
+g
+20K. & 20
+. . a
+010" 10 107 10° 0107 10° 10! 10° & 0 T T
+APC-SP APC-SP NS OVA
+Z P< 0.001
+_-.FMO = <0
+——
+"Ns 3 2500 4 Pa
+< \ OVA = 20004
+5 |\ AI
+fs} || a 1500 4
+= 1000-4 +
+fi % a
+Ne % 500-4
+3405 =
+010° 10 10° 10 = 0 T T
+APC-SP = NS OVA
+release from basophils may support our observation relatively large NK1R+ basophil population observed
+
+(Louis and Radermecker 1990). Taken together, increased level of SP observed in plasma of patients with
+CSU, and SP being a potent stimulus of CSU basophil
+degranulation, it is not difficult to understand the involvement of SP in the pathogenesis of CSU.
+Complete inhibition of SP-induced histamine release from basophils of CSU patients by selective
+NKIR antagonist suggests that SP-induced histamine
+release is via NKIR. Hence, whether NKIR expresses on basophils becomes an issue to be answered as it remains unavailable. Although only a
+small proportion of basophils expressing SP, a
+
+D Springer
+
+ 
+
+in CSU, but not in HC subject blood implicates the
+importance of NKIR in development of CSU.
+NKIR appears another basophil receptor contributing
+to CSU in addition to FceRI.
+
+It is unexpected that plasma level of SP was negatively correlated with the levels of IL-4, IL-17F, and
+TSLP in patients with CSU, which is most likely a
+consequence of increased SP level vs. decreased IL-4,
+IL-17F, and TSLP levels in CSU plasma. Since increased IL-4+ cells, and markedly elevated number of
+TSLP+ cells, were detected in lesional skin from CSU
+(Kay et al. 2015), we expect to see increased plasma
+Cell Biol Toxicol (2016) 32:217-228
+
+Fig. 7 Flow cytometric analysis a
+
+227
+
+30 P=0.048
+
+ 
+
+of expression of NKIR in
+peripheral blood basophils
+(CD49b+FceRIa + cells) of
+OVA-sensitized or non-sensitized 40K 1
+mice. a, b Representative graph of se
+NK1R+ basophils. ¢ Change in
+
+percentage of NK1R+ basophils.
+
+d, e The representative graph of
+
+mean fluorescence intensity
+
+(MFI) of NKIR and change in the
+
+MFI of NKIR on basophils, d
+respectively. P< 0.05 was taken
+
+as statistically significant. FMO
+
+fluorescence minus one
+
+100K 7
+80K 4
+
+60K 4
+
+SSC-A
+
+Count
+
+010
+
+concentrations of IL-4 and TSLP in the current study.
+This was obviously not the case. The report that TSLP
+was not elevated in CSU (Metz et al. 2013) may help to
+understand our observation that TSLP level decreased in
+CSU plasma. There is little information on relationship
+between plasma level IL-4 and CSU available; therefore, our observation that plasma IL-4 concentration
+decreased in CSU may help to understand role of IL-4
+in CSU. Concentration of IL-17F in CSU plasma has not
+been reported previously. Our observation of decreased
+concentration of IL-17F in CSU plasma suggests that
+this proinflammatory cytokine may not play a role in
+CSU. Similar observation on serum concentration of IL17 was reported previously, which suggested that IL-17
+may not be involved in chronic urticaria (Arshi et al.
+2014).
+
+Although more than a dozen of articles related to
+basophil activation playing a key role in CSU are published; few of them mentioned basophil number peripheral blood or skin tissue of CSU. Since basophil number
+is equally (if not more) important than basophil activation status in CSU, we reported here that basophil number in peripheral blood was markedly elevated in CSU.
+A study demonstrated that CSU subjects were associated with increased basophil numbers (total leukocyte
+histamine content) (Oliver et al. 2015) may support
+our observation.
+
+Induction of basophil accumulation in blood by SP
+proves further that SP is a causative factor of CSU. SP
+ 
+
+0107 10° 107 10°
+PE-NKIR
+
+   
+  
+
+100K
+
+a0 NKIR+
+1.2%
+
+ 
+
+60K.
+
+SSC-A
+
+40K
+
+ 
+
+  
+
+20K
+
+ 
+
+NKIR¢ basophils (%) ©
+
+0107 10° 104 10°
+
+PE-NKIR 0 T T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@o
+
+2500
+--.FMO
+
+—__.NS
+OVA
+
+ 
+
+2000 as
+
+1500
+
+H
+
+ 
+
+1000
+
+500
+
+MFI of NKIR in basophils
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+
+0 10" 10
+PE-NKIR NS
+
+ 
+
+9 T T
+OVA
+
+ 
+
+induced basophil accumulation in blood seems via a
+NKIR-dependent mechanism (Cima et al. 2010). The
+potency of SP in induction of basophil accumulation
+seems comparable to that induced by C3a, but greater
+than that induced by eotaxin. Obviously, the detailed
+mechanism behind SP-induced basophil accumulation
+requires further study. Apart from basophils, it is possible that SP was derived from other type of cells and
+bound to NK1R expressed on basophils, which also led
+to the increase of SP+ basophils, but we did not pursue
+this issue further in the present study.
+
+In conclusion, the elevated plasma concentration
+of SP, upregulated expression of SP and NKIR on
+basophils, increased blood basophil numbers in the
+patients with CSU, and the ability of SP in induction of basophil degranulation and accumulation
+indicate strongly that SP is most likely a potent
+proinflammatory mediator, which contributes greatly to the pathogenesis of CSU through basophils.
+Inhibitors of SP and blockers of NK1R are likely
+useful agents for treatment of CSU.
+
+Acknowledgments This project was sponsored by the grants
+from the “12th Five-Year” National Science and Technology
+Supporting Plan (2014BAI07B02), the National Natural Science
+Foundation of China (nos. 81172836, 81471592, and 81472016),
+Major Science and Technology Platform for Institution of Higher
+Education in Liaoning province (2014168), and the National Natural Science Foundation of Liaoning Province (2014022027,
+2014022019). Program for Liaoning Innovation Research Team
+
+D Springer
+228
+
+in Universities (LNIRT, LT2013017), Climbing Scholar Project
+for Institution of Higher Education in Liaoning province
+(2013222), Allergic Disease Translational Medicine Research
+Center of Liaoning Province (201341), Liaoning Provincial Engineering Research Center for Diagnosing & Treating Inflammatory
+Disease (20141093), Clinical Capability Construction Project for
+Liaoning Provincial Hospitals (LNCCC-A06-2014), and “12th
+Five-Year” public welfare industry special scientific research project (2015SQ00136).
+
+References
+
+Arshi S, Babaie D, Nabavi M, Tebianian M, Ghalehbaghi B, Jalali
+F, et al. Circulating level of CD4+ CD25+ FOXP3+ T cells in
+patients with chronic urticaria. Int J Dermatol. 2014;53:
+e561-6.
+
+Borici-Mazi R, Kouridakis 8, Kontou-Fili K. Cutaneous responses
+to substance P and calcitonin gene-related peptide in chronic
+urticaria: the effect of cetirizine and dimethindene. Allergy.
+1999;54:46-56.
+
+Borriello F, Granata F, Marone G. Basophils and skin disorders. J
+Invest Dermatol. 2014;134:1202-10.
+
+Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The
+potential pharmacologic mechanisms of omalizumab in patients with chronic spontaneous urticaria. J Allergy Clin
+Immunol. 2015;135:337-42.
+
+Cima K, Vogelsinger H, Kahler CM. Sensory neuropeptides are
+potent chemoattractants for human basophils in vitro. Regul
+Pept. 2010;160:42-8.
+
+Ferrer M. Immunological events in chronic spontaneous urticaria.
+Clin Transl Allergy. 2015;5:30.
+
+Fraser K, Robertson L. Chronic urticaria and autoimmunity. Skin
+Therapy Lett. 2013;18:5—9.
+
+Garcia-Recio S, Gascon P. Biological and pharmacological aspects
+of the NK1-receptor. Biomed Res Int. 2015;2015:495704.
+
+He S, Peng Q, Walls AF. Potent induction of a neutrophil and
+eosinophil-rich infiltrate in vivo by human mast cell tryptase:
+selective enhancement of eosinophil recruitment by histamine. J Immunol. 1997;159:6216-25.
+
+Kay AB, Clark P, Maurer M, Ying S. Elevations in T-helper-2initiating cytokines (interleukin-33, interleukin-25 and thymic stromal lymphopoietin) in lesional skin from chronic
+spontaneous (‘idiopathic’) urticaria. Br J Dermatol.
+2015;172:1294-302.
+
+Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of
+basophils in chronic urticaria. J Allergy Clin Immunol.
+2001;107:1056-62.
+
+Koon HW, Shih D, Karagiannides I, Zhao D, Fazelbhoy Z, Hing T,
+et al. Substance P modulates colitis-associated fibrosis. Am J
+Pathol. 2010;177:2300-9.
+
+D Springer
+
+Cell Biol Toxicol (2016) 32:217—-228
+
+Louis RE, Radermecker MF. Substance P-induced histamine release from human basophils, skin and lung fragments: effect
+of nedocromil sodium and theophylline. Int Arch Allergy
+Appl Immunol. 1990;92:329-33.
+
+Louis RE, Radermecker MF. Cutaneous and basophilic sensitivity
+to substance P and gastrin in non-atopic versus atopic subjects. Allergy. 1991;46:30-4.
+
+Lourenco FD, Azor MH, Santos JC, Prearo E, Maruta CW, Rivitti
+EA, et al. Activated status of basophils in chronic urticaria
+leads to interleukin-3 hyper-responsiveness and enhancement
+of histamine release induced by anti-IgE stimulus. Br J
+Dermatol. 2008;158:979-86.
+
+Metz M, Krull C, Maurer M. Histamine, TNF, CSa, IL-6, —9, -18,
+—31, -33, TSLP, neopterin, and VEGF are not elevated in
+chronic spontaneous urticaria. J Dermatol Sci. 2013;70:222-S.
+
+Munoz M, Covenas R. Involvement of substance P and the NK-1
+receptor in human pathology. Amino Acids. 2014;46:1727—
+50.
+
+O’Connor TM, O’Connell J, O’Brien DI, Goode T, Bredin CP,
+Shanahan F. The role of substance P in inflammatory disease.
+J Cell Physiol. 2004;201:167-80.
+
+Oliver ET, Sterba PM, Saini SS. Interval shifts in basophil measures correlate with disease activity in chronic spontaneous
+urticaria. Allergy. 2015;70:601-3.
+
+Reich A, Orda A, Wisnicka B, Szepietowski JC. Plasma concentration of selected neuropeptides in patients suffering from
+psoriasis. Exp Dermatol. 2007;16:421-8.
+
+Rosso M, Munoz M, Berger M. The role of neurokinin-1 receptor
+in the microenvironment of inflammation and cancer. Sci
+World J. 2012;2012:381434.
+
+Salomon J, Baran E. The role of selected neuropeptides in pathogenesis of atopic dermatitis. J Eur Acad Dermatol Venereol.
+2008;22:223-8.
+
+Sun J, Bhatia M. Substance P at the neuro-immune crosstalk in the
+modulation of inflammation, asthma and antimicrobial host
+defense. Inflamm Allergy Drug Targets. 2014;13:112-20.
+
+Tedeschi A, Lorini M, Asero R. No evidence of increased serum
+substance P levels in chronic urticaria patients with and
+without demonstrable circulating vasoactive factors. Clin
+Exp Dermatol. 2005;30:171-S.
+
+Weinstock JV. Substance P, and the regulation of inflammation in
+infections and inflammatory bowel disease. Acta Physiol
+(Oxf). 2015;213:453-61.
+
+Yagci M, Yegin ZA, Akyurek N, Kayhan H, Ozkurt ZN, Sucak
+GT, et al. TCTP/HRF pathway and angiogenesis: a feasible
+intercourse in chronic lymphocytic leukemia. Leuk Res.
+2013;37:665-70.
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z,
+Canonica GW, et al. The EAACI/GA(2) LEN/EDF/WAO
+Guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update.
+Allergy. 2014;69:868-87.
+

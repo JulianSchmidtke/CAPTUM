@@ -1,0 +1,871 @@
+Received Date: 06-Sep-2016
+Accepted Date: 10-Feb-2017
+Article Type: Original Article
+
+Chronic Urticaria in the Real-life Clinical Practice Setting in Sweden,
+Norway and Denmark: Baseline Results from the NonInterventional Multicentre AWARE Study
+
+SF Thomsen’, EC Pritzier’, cD Anderson?, N Vaugelade-Baust’, R Dodge’, A-K Dahlborn®,
+and C Vestergaard’
+
+‘Department of Dermatology, Bispebjerg Hospital & Department of Biomedical Sciences,
+University of Copenhagen, Denmark
+
+*Departement of Dermatology, Stavanger University Hospital; Norway
+
+3Divison of dermatology, Department of Clinical and Experimental Medicine, Linképing
+University, Sweden
+
+4Novartis Norge AS, Oslo, Norway
+
+Novartis Pharmaceutical A/S, Copenhagen, Denmark
+
+Novartis Sweden AB, Stockholm, Sweden
+
+’Department of Dermatology, Aarhus University Hospital, Aarhus, Denmark
+
+Running title: Scandinavian AWARE study: baseline characteristics
+
+Corresponding author: Simon Francis Thomsen, MD, PhD,
+Address:
+
+Department of Dermatology,
+
+Bispebjerg Hospital & Department of Biomedical Sciences,
+University of Copenhagen,
+
+Denmark.
+
+Tel: +45 26139838
+
+Fax: +45 35313113
+
+Email: simonfrancisthomsen@gmail.com
+
+Statement of Funding: The study was funded by Novartis Pharma AG.
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/jdv.14210
+
+This article is protected by copyright. All rights reserved.
+Conflict of interests:
+
+Simon Francis Thomsen has received research support, consultancy fees and lecture fees
+from Novartis. Christian Vestergaard has received consultancy fees and lecture fees from
+Novartis. Ellen Cathrine Pritzier has received consultancy fees and lecture fees from
+Novartis. Chris D Anderson has received consultancy fees and lecture fees from Novartis.
+Nicolas Vaugelade-Baust, Rikke Dodge, and Anna-Karin Dahlborn are employees of Novartis.
+
+Keywords: Chronic Urticaria, Angioedema, Comorbidities, Quality of Life, Pharmacological
+treatment.
+
+Abstract
+
+Background: Chronic urticaria (CU) is characterised by the recurrence of itchy hives and/or
+angioedema for more than six weeks. AWARE (A World-wide Antihistamine-Refractory
+Chronic Urticaria Patient Evaluation) is a multinational study designed to document the reallife treatment situation, burden of disease, and clinical resource usage of H1-antihistamine
+
+refractory CU patients.
+
+Objective: To examine baseline data from Scandinavian AWARE patients.
+
+Methods: AWARE is a prospective, non-interventional, multinational, umbrella design study,
+which includes adults (218 years) with a confirmed CU diagnosis (>2 months) that is
+refractory to H1-antihistamines. Baseline patient characteristics, disease activity (urticaria
+control test [UCT]), pharmacological treatment, comorbidities, and healthcare usage were
+documented by the treating physician. Quality of life (QoL; dermatology life quality index
+[DLQI]; chronic urticaria quality of life questionnaire [CU-Q.0L; Danish patients only]) and
+
+work productivity and activity impairment (WPAI) scores were also assessed.
+
+Results: Overall, 158 CU patients from seven centres in Denmark (n=80), Norway (n=50),
+
+and Sweden (n=28) were included in this baseline analysis. Mean age and BMI were 40.3
+
+This article is protected by copyright. All rights reserved.
+years and 26.5 kg/m’, respectively. The majority of patients were female (69.6%), had
+uncontrolled CU (75.6%; UCT score <12), and had a “spontaneous” component to their CU
+(61.4% CSU; 20.3% both CSU and chronic inducible urticaria). Common comorbidities
+included asthma (19.6%), allergic rhinitis (16.5%), and food allergies (8.2%). Overall, 60.1%
+of patients reported using treatments for CU including non-sedative H1-antihistamines
+(40.5%), corticosteroids (19%), montelukast (14.6%) and omalizumab (8.2%).
+Pharmacological treatment rates increased to 96.2% during the baseline visit. On average,
+patient QoL was moderately affected (mean DLQI score 7.7) and healthcare resource usage
+
+was high.
+
+Conclusion: Adult Scandinavian H1-antihistamine refractory CU patients reported high rates
+of healthcare usage and QoL impairment. Rates of pharmacological treatment use were low
+
+before study enrolment but increased to almost 100% during the baseline visit.
+
+Introduction
+
+Chronic urticaria (CU), which includes chronic spontaneous urticaria (CSU) and chronic
+inducible urticaria (ClIndU), is characterised by the recurrence of itchy hives and/or
+angioedema for more than six weeks.(1) CSU can be further divided into CSU due to
+unknown causes and CSU due to a known cause, e.g. proven autoimmune mediated CSU.(24) The symptoms of CSU develop without any specific physical or external triggers, whereas
+the symptoms of ClndU develop in response to specific triggers (e.g. heat urticaria, cold
+urticaria, delayed pressure urticaria, solar urticaria, symptomatic dermographism,
+cholinergic urticaria, vibratory urticaria, and aquagenic urticaria).(5) The estimated
+
+(4, 6-8)
+
+prevalence of CU is up to 1% in the general population, with females reported to be
+
+This article is protected by copyright. All rights reserved.
+affected approximately twice as often as males and the highest incidence between the ages
+
+of 20 and 40 years.(6, 9)
+
+International guidelines recommend a stepwise treatment approach to achieve symptom
+control in CU.(1, 10) These guidelines recommend initial treatment with labelled doses of
+second generation non-sedating H1-antihistamines (H1-AH). For patients with an
+inadequate treatment response within two weeks, up-titration of the H1-AH dose up to four
+times the labelled dose is recommended (high dose). If high dose continues to offer
+inadequate symptom relief after four weeks, guidelines recommend three add-on treatment
+options: montelukast, omalizumab, or cyclosporine.(1) However, the extent to which these
+
+guidelines are adhered to in patients from Scandinavian countries remains unclear.
+
+Patients with CU are reported to experience considerable disease burden and quality of life
+(QoL) impairment, which can include anxiety, economic burden, and increased healthcare
+use.(6-8, 11-14) The burden of disease in Scandinavian patients with H1-AH refractory CU
+remains unknown. Furthermore, there is no comprehensive Scandinavian CU patient
+database reviewing H1-AH refractory CU patients. As a result, very little is known regarding
+the demographics, disease characteristics and prevalence of comorbidities in Scandinavian
+
+patients.
+
+The AWARE (A World-wide Antihistamine-Refractory Chronic Urticaria Patient Evaluation)
+study is a multinational non-interventional study, which has been designed to document the
+real-life treatment situation, burden of disease, and use of clinical resources of patients with
+H1-AH refractory CU. This interim analysis examines the baseline demographics, disease
+characteristics, pharmacological treatment, and the extent of disease burden in
+
+Scandinavian CU patients who are refractory to H1-AHs.
+
+This article is protected by copyright. All rights reserved.
+Materials and methods
+
+These baseline data from Denmark, Sweden, and Norway were collected as part of the
+ongoing non-interventional, multinational, umbrella design AWARE study. This study is
+being conducted in accordance with the declaration of Helsinki, the principles of Good
+Clinical Practice, and national laws and regulations regarding clinical studies. Approval from
+the Institutional Review Board/Independent Ethics Committee/Research Ethics Board was
+obtained for each centre and all participating patients gave written informed consent before
+
+any data was recorded.
+
+Study patients
+
+Inclusion criteria were age 218 years, ability to provide informed consent, and a medically
+confirmed diagnosis of CU for more than 2 months, which is refractory to treatment with
+H1-AH (refractory disease was defined as evidence of failed labelled dose or up to 4-fold
+labelled dose of H1-AHs). Patients were excluded from the study if they were participating
+in any other clinical urticaria study or if it was unlikely they would be available for the full
+duration of the follow-up period of 24 months. A patient evaluation was performed at
+baseline (visit 1), which included demographic data collection, CU-related medical history
+(treatment, course of disease, diagnosis, and presence of angioedema), details of
+pharmacological treatment for CU, and existing comorbidities. Patients were also asked to
+indicate whether they had used any additional healthcare resources since their CU
+symptoms began and, if so, how frequently they had used each resource. During the
+baseline visit, patients’ pharmacological treatment was changed if deemed necessary by the
+
+treating physician.
+
+This article is protected by copyright. All rights reserved.
+Study objectives
+
+The overall primary objective of the worldwide AWARE study is correlation of patientreported outcomes (PROs: Dermatology Life Quality Index, DLQI; Chronic Urticaria Quality of
+Life questionnaire, CU-Q:,0L; CU specific Work Productivity and Activity Impairment, WPAICU; Urticaria Control Test, UCT and optional Urticaria Activity Score over 7 days, UAS7) with
+the treatment options used in patients with H1-AH refractory CU. The aim of this baseline
+evaluation is to document the disease characteristics, the pharmacological treatments used,
+and the burden of CU in patients treated in urticaria centres in the Scandinavian arm of the
+AWARE study. Furthermore, the influence of disease and patient characteristics on QoL was
+
+investigated.
+
+Patient reported outcomes
+
+Physicians had the option to assess patients using validated disease activity (UCT; UAS7),
+QoL (CU-Q,0L; DLQI) and work productivity (WPAI-CU) questionnaires. The UCT is a 4-item
+questionnaire for assessing CU disease activity retrospectively over the previous 4
+weeks.(15) Each item is rated on a Likert-type scale (0 = very often and 4 = not at all) and a
+total score is calculated (range, 0 to 16; higher scores indicate better disease control; scores
+212 are consistent with well-controlled disease). The UAS instrument includes two items:
+itch intensity (0 = no itch and 3 = severe itch) and number of hives (0 = none and 3 >50).(1)
+The sum of both items is calculated daily (UAS; range, 0-6) and the weekly score (UAS7;
+range, 0-42) is calculated based on seven consecutive days. The CU-Q20L questionnaire,
+which was only recorded in Danish patients, includes 23 questions relating to overall
+
+functioning (including work, physical, leisure and social activities), sleep,
+
+This article is protected by copyright. All rights reserved.
+itching/embarrassment, mental status, swelling/eating, and limits looks (limitations in
+choice of clothing or cosmetics used due to urticaria symptoms). Total scores range from 0
+to 100, with higher scores indicating worse QoL.(16) The DLQI is a 10-item questionnaire
+relating to patients’ symptoms and feelings, daily activities, leisure, work and school,
+personal relationships and treatment. Total DLQI scores range from 0-30, with higher scores
+indicating worse QoL.(17) The WPAI-CU evaluates work productivity and activity impairment
+due to chronic urticaria with the aid of six short questions relating to absenteeism (the
+percentage of work time missed due to urticaria), presenteeism (the percentage of
+impairment experienced while at work), overall work productivity (an overall work
+impairment estimate based on absenteeism and presenteeism) and overall activity
+impairment (the percentage of impairment in daily activities) over the previous 7 days.(18)
+Only employed patients respond to the work-related questions, whereas all patients
+
+respond to the activity-related questions.
+
+Data management and statistical analysis
+
+Documentation was performed by the treating physician exclusively online in the electronic
+case report form, with the exception of the patient questionnaires that were available as
+hardcopy forms. Data were analyzed primarily with descriptive methods using SAS® V 9.2
+(SAS Institute, Inc. Cary, North Carolina, US). Means and standard deviations (SD) were
+calculated for continuous variables and percentages and frequencies were calculated for
+
+categorial variables.
+
+Linear regression analysis, with stepwise backward elimination, was used to select patient
+
+characteristics that influence DLQI scores. Potential influencing factors examined were: age,
+
+This article is protected by copyright. All rights reserved.
+gender (male versus female), time since diagnosis, comorbidities (four variables: metabolic,
+atopic, autoimmune, and psychiatric disease), body mass index (BMI), current hives (yes or
+no), angioedema (yes or no), UCT score, sick leave (yes or no), and diagnostic group (CSU,
+CSU and ClndU, or ClndU). Bivariate analysis was used to illustrate and further evaluate the
+influence of each selected variable; p-values of respective statistical tests (ANOVA models
+and t-tests) are provided and values below 0.05 considered as statistically significant.
+However, these tests only have exploratory character and therefore no adjustment for
+
+multiple testing has been performed.
+
+Results
+
+Baseline demographics and disease characteristics
+
+Of 161 patients registered from 7 specialised urticaria centres across Norway (n = 50),
+Sweden (n = 28) and Denmark (n = 83), 158 CU patients met all the study criteria and were
+included in the final analysis population (two patients were excluded as they were
+registered after the cut-off date and one patient did not meet all the inclusion criteria). The
+mean patient age was 40.3 years, with the highest fraction (26.6%) of patients aged 35 to
+<45. The majority of patients were female and over 50% of patients were overweight (BMI
+
+>25; Table 1).
+
+Over 80% of patients with H1-AH refractory CU had a “spontaneous” component to their
+disease (61.4% CSU; 20.2% both CSU and ClndU; and 18.4% had ClndU only). The most
+common CindU subtypes were cold urticaria (18.4%), symptomatic dermographism (8.9%),
+
+and cholinergic urticaria (7.6%; Table 2). Overall, 85.4% had experienced hives within the
+
+This article is protected by copyright. All rights reserved.
+previous 6 months and for the majority of patients hives lasted less than 24 hours (94.8%).
+Angioedema had occurred in 32.9% of patients within the previous six months (Table 2);
+3.8% rated their angioedema as negligible, 53.8% as mild, 34.6% as moderate, and 7.7% as
+
+severe.
+
+Pharmacological treatment
+
+The most commonly reported treatments at the baseline visit included non-sedative H1-AH
+(any dose 40.5%: labelled dose, 12.7%; high dose, 29.1%; unknown dose, 3.2%),
+corticosteroids (19%), montelukast (14.6%), and omalizumab (8.2%). Denmark had the
+highest proportion of treated patients, followed by Norway and Sweden (Table 3). During
+the same visit, if deemed necessary by the physicians, the patient’s treatment was changed
+(reported as current treatment), with rates increasing to 96.2% for any treatment. Nonsedative H1-AH continued to be the most common treatment prescribed (any dose 87.3%;
+labelled dose, 8.2%; high dose, 76.6%; unknown, 4.4%), followed by omalizumab (42.4%),
+montelukast (12.7%) and corticosteroids (12.7%; Table 3). Overall, 100% of Norwegian
+patients were prescribed non-sedative H1-AHs (80%, Danish; 85.7%, Swedish). However,
+Danish patients were more commonly treated with omalizumab, montelukast, and
+
+cyclosporine compared with patients in Norway and Sweden (Table 3).
+
+Comorbidities
+
+The most commonly reported comorbidities were asthma (19.6%), allergic rhinitis (16.5%),
+food allergies (8.2%), and other eczema (7.6%; Table 4). Other common comorbidities (>5%)
+included atopic dermatitis, nut allergies, thyroid diseases including Hashimoto’s thyroiditis,
+obesity and hypertension. The proportion of patients with a diagnosis of anxiety (3.2%) or
+
+depression (4.4%) was low.
+
+This article is protected by copyright. All rights reserved.
+Burden of disease: disease activity, quality of life and work productivity
+
+The mean UCT score (+ SD) was 8.3 (4.8), indicating that on average patients’ urticaria was
+not sufficiently controlled; only 44/155 patients (24.4%) presented with well-controlled
+urticaria (UCT score 212). Norwegian patients had the lowest mean UCT scores at baseline
+and were therefore most affected by CU (Table 5). Patients rated their satisfaction with
+
+their treatment as 6.1 (mean) ona visual analogue scale (VAS).
+
+Overall, CU had a moderate effect on QoL, with a mean DLQI score of 7.7. Mean DLQI scores
+were higher in Norway (10.9) than Denmark (6.3) and Sweden (6.0), which indicates worse
+QoL. In addition to the DLQI score, the CU-Q,oL score was assessed in 77 Danish patients.
+The most severely affected subdomains of the CU-Q,oL were sleep (mean, 41.2),
+itching/embarrassment (mean, 35.7), and mental status (mean, 30.9). The least affected
+
+subdomain of the CU-Q20L was swelling/eating (mean, 14.7; Table 5).
+
+A total of 155 patients completed the WPAI questionnaire. Employed patients (n = 111)
+reported missing work during the past 7 days due to their CU, accounting for 3.7% (mean) of
+their work time (absenteeism). Overall, 20.6% of their work productivity time was lost due
+to CU (presenteeism) and total work productivity impairment accounted for 23.2% of their
+time. Outside the workplace, patients (n=155) reported activity impairment due to CU,
+accounting for 29.5% of their time (Table 6). Furthermore, 25.9% of patients reported sick
+
+leave, since urticaria symptoms began, due to urticaria (Table 6).
+
+Healthcare resource utilisation
+
+Rates of healthcare utilisation were high amongst these Scandinavian AWARE patients:
+72.5% had visited a general practitioner (GP), 68.6% had visited another dermatologist or
+
+allergist, 42.5% had visited specialised urticaria centres and 27.5% had visited an emergency
+
+This article is protected by copyright. All rights reserved.
+physician or the emergency room due to urticaria since their urticaria symptoms started.
+The frequency of visits to healthcare resources ranged from a mean number of visits of 1.0
+(pharmacy) to 10.5 (alternative practitioner). Other healthcare resource utilisation reported
+
+included, dentists, ear-nose-throat specialists, and hospitalisation (Table 7).
+
+Factors affecting DLQI scores
+
+Disease severity (UCT scores) was the most significant influencer of DLQI scores, whereby
+patients with better disease control (UCT scores 212) had lower mean DLQI scores than
+patients with UCT scores <12 (n=44; 2.52 versus 9.80, respectively; p <0.0001). Patients with
+sick leave had higher mean DLQI scores (10.11 [n=38]) than patients without sick leave (6.97
+[n=117]; p = 0.0088). Patients with ClndU had the highest mean DLQI scores and patients
+with CSU only had the lowest scores (ClndU, 11.38 [n=29]; ClndU and CSU, 7.65 [n=31]; CSU,
+6.65 [n=95]; p = 0.0022). No statistically significant association between DLQI outcomes and
+age, gender, BMI, time since diagnosis, comorbidities, current hives, and presence of
+
+angioedema was seen (data not shown).
+
+Discussion
+
+Here we present baseline disease characteristics and demographics from a study of 158 H1AH refractory CU patients who have been referred to specialised urticaria centres in
+Denmark, Sweden and Norway. The baseline characteristics of this Scandinavian patient
+cohort are generally consistent with previous publications.(6-9, 19) The majority of patients
+experienced hives that lasted for less than 24 hours and almost one third of patients
+
+reported experiencing angioedema, which is within the previously published range.(9, 19)
+
+This article is protected by copyright. All rights reserved.
+The mean patient age was 40.3, over two-thirds of patients were female, and over half of all
+patients in this cohort were overweight (BMI >25). An association between obesity and risk
+of urticaria has recently been suggested by Lapi and colleagues.[3] Similarly, CU patients
+from the EU (France, Germany, Italy, Spain, and the UK) had a significantly higher average
+
+BMI than the control population.[8]
+
+The most common diagnosis was CSU. However, these Scandinavian AWARE results provide
+new insight into the rates of co-occurrence of CSU and ClIndU (20.3%) in CU patients.
+Symptomatic dermographism has previously been reported to be the most common of the
+physical urticarias; however, in this patient cohort, rates were lower than previously
+reported.(20, 21) This may be due to selection bias, as patients with symptomatic
+dermographism may be referred to specialised clinics less frequently. The data also indicate
+that in this Scandinavian AWARE patient cohort, cold urticaria is the most commonly
+diagnosed ClndU subtype (18.4%). It has previously been suggested that cold urticaria is
+more common in colder climates,?” 72) but studies involving structured provocation have
+not been performed. It is also possible that due to the colder climate in Norway, Sweden
+and Denmark, patients with cold urticaria have more severe or more persistent symptoms
+than patients in warmer climates, and they are more likely to be referred to specialised
+centres for treatment. Future results from other countries involved in the AWARE study will
+provide further insight into any geographical or climate differences associated with the rates
+
+of specific CIndU subtypes.
+
+This article is protected by copyright. All rights reserved.
+Despite pharmacological therapies being recommended as the first line treatment for CU, in
+this study, only 60.1% of patients reported baseline treatment. These data suggest that a
+large proportion of patients are not receiving adequate pharmacological treatment.
+Moreover, only 40.5% of patients reported non-sedative H1-AH use at baseline. As patients
+did not specify why they were not receiving H1-AH treatment, we can only speculate that
+this may be due to two major factors: firstly, the referring medical practitioner may not have
+been up to date with the latest CU treatment guidelines and did not recommend the
+appropriate H1-AH treatment regimen after initial lack of response; secondly, patients were
+treated per the guidelines and stopped H1-AH treatment before the baseline visit due to
+
+lack of response.
+
+The rates of treatment increased to 96.2% at the first visit; the most commonly prescribed
+treatment continued to be non-sedative H1-AHs; however, 42.4% of patients were now
+treated with omalizumab. At baseline more Danish patients reported pharmacological
+treatment compared to Swedish and Norwegian patients. Furthermore, Danish patients had
+
+the highest rates of third-line treatments at baseline and at the end of the first visit.
+
+The most common comorbidities were atopic diseases: asthma, allergic rhinitis, food
+allergies, eczema and atopic dermatitis. The rates of the majority of these comorbidities
+were lower than previously reported in German CU patients (allergic rhinitis, 41.9%; atopic
+dermatitis, 18.9%; allergic asthma, 17.6%).(24) However, the German study was a crosssectional sample of 13,300 inhabitants of Berlin (n = 4053 respondents; n = 189 with
+confirmed current urticaria); therefore, the results are not directly compared to this AWARE
+patient cohort being treated at specialised urticaria centres. Similarly, the rates of
+
+psychiatric comorbidities were lower than recent estimates of major depression and general
+
+This article is protected by copyright. All rights reserved.
+anxiety disorder in the Swedish general population”>)
+
+and rates of depression were in line
+with reported estimates for Nordic countries — between 3.5% and 5% for depression.(26)
+These rates are lower than expected, as previous studies have reported higher rates of
+psychiatric disorders in CSU patients.(27) Furthermore, two recent studies in the US and EU
+have reported increased rates of both anxiety and depression in patients being treated for
+CU compared with matched comparisons.(7, 8) Inconsistencies in our data may be due to
+differences in the diagnostic criteria used, due to heterogeneous patient populations
+examined, or due to selection bias. The lack of matched patient controls makes it difficult to
+
+interpret this depression and anxiety data and further research is required to fully
+
+understand the link between psychological comorbidities and CU.
+
+The burden of CU is considerable; previous publications report that CU is associated with
+poor QoL, increased healthcare use, and increased absenteeism, presenteeism, and work
+impairment.(7, 8, 28-30) The mean UCT scores were lowest in the Norwegian patient cohort
+than in the Danish and Swedish cohorts; in line with this observation, DLQI scores were
+higher in the Norwegian patient group than in the other two groups, indicating lower QoL.
+However, the low patient numbers preclude drawing any further conclusions regarding why
+
+differences between the three countries might be seen.
+
+In this patient group, average DLQI scores indicate that patients were moderately affected
+by their CU and that poor disease control (UCT score <12) was associated with poor QoL,
+which is in line with previous CU studies.(16) Comorbidities, current hives, and presence of
+angioedema did not influence DLQI in these patients. CU-Q2o0L scores were only available for
+the Danish patients in this AWARE study. Our results indicate that sleep,
+
+itching/embarrassment, and mental status were the most severely affected subdomains of
+
+This article is protected by copyright. All rights reserved.
+patient QoL. Similarly, Mlynek and colleagues reported that sleep, itching/embarrassment,
+
+and mental status were the most affected subdomains in 157 German CU patients.(16)
+
+Healthcare resource utilisation was common in this patient cohort. Similarly, healthcare use
+in the previous 6 months was significantly higher in CU patients versus matched controls.(7,
+8) Furthermore, the rates of work absenteeism and presenteeism were high in this AWARE
+patient group and patients with sick leave reported significantly worse DLQI scores. Previous
+publications also suggest that mean levels of absenteeism, presenteeism, and overall work
+impairment is significantly higher in patients currently treated for CU than matched
+
+controls.(7, 8)
+
+This study has a number of strengths. We included patients from three countries with
+similar healthcare systems, which should allow for a good cross section of the CU patient
+population to have been examined. We also provide new insight into the disease burden
+and impact of CU in Scandinavian patients and the variables that influence health-related
+QoL. Furthermore, the patients included in this AWARE study were treated in specialised
+urticaria centres; this ensures that CU has been correctly diagnosed. Limitations of the study
+include the small sample size and potential for selection bias as patients were only recruited
+from specialised urticaria centres. Although access to the clinics is not dependent on private
+insurance, which should allow for all patients to access the highly specialised clinics, the
+recruitment may be biased towards patients with more severe CU. This may have led to
+overestimation of the rates of cold urticaria and other ClndUs, corticosteroid treatment,
+
+angioedema, and/or the extent of disease burden.
+
+Conclusions:
+
+This article is protected by copyright. All rights reserved.
+These data highlight the unmet treatment needs for adult H1-AH refractory CU patients in
+Scandinavia. A large proportion of patients are not treated even with the most basic
+pharmacological therapies. Additionally, patients have health-related QoL impairment, high
+usage of healthcare resources and impaired work productivity. These burdens are likely to
+be associated with an additional economic burden to society. Improved education and
+dissemination of knowledge and the guidelines is urgently required to improve patients
+
+care.
+
+Acknowledgements:
+
+Medical writing and editorial support was provided by Aine Abautret-Daly, PhD of Novartis
+
+Global Medical & Clinical Services, Dublin, Ireland. This service was supported by Novartis.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/EDF/WAO
+Guideline for the definition, classification, diagnosis, and management of urticaria:
+the 2013 revision and update. Allergy. 2014;69(7):868-87.
+
+2. Saini SS. Chronic spontaneous urticaria: etiology and pathogenesis. Immunol
+Allergy Clin North Am. 2014;34(1):33-52.
+3. Lapi F, Cassano N, Pegoraro V, et al. Epidemiology of chronic spontaneous
+
+urticaria: results from a nationwide, population-based study in Italy. Br J Dermatol.
+2016.
+
+4. Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy Clin Immunol.
+2003;3(5):363-8.
+
+5. Gimenez-Arnau AM, Grattan C, Zuberbier T, Toubi E. An individualized
+diagnostic approach based on guidelines for chronic urticaria (CU). J Eur Acad
+Dermatol Venereol. 2015;29 Suppl 3:3-11.
+
+6. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs in chronic
+spontaneous urticaria. A GA(2)LEN task force report. Allergy. 201 1;66(3):317-30.
+7. Vietri J, Turner SJ, Tian H, et al. Effect of chronic urticaria on US patients:
+
+analysis of the National Health and Wellness Survey. Annals of allergy, asthma &
+immunology : official publication of the American College of Allergy, Asthma, &
+Immunology. 2015.
+
+8. Balp MM, Vietri J, Tian H, Isherwood G. The Impact of Chronic Urticaria from
+the Patient's Perspective: A Survey in Five European Countries. Patient.
+2015;8(6):551-8.
+
+This article is protected by copyright. All rights reserved.
+9. Buss YA, Garrelfs UC, Sticherling M. Chronic urticaria--which clinical
+parameters are pathogenetically relevant? A retrospective investigation of 339
+patients. J Dtsch Dermatol Ges. 2007;5(1):22-9.
+
+10. Maurer M, Church MK, Goncalo M, Sussman G, Sanchez-Borges M.
+Management and treatment of chronic urticaria (CU). J Eur Acad Dermatol Venereol.
+2015;29 Suppl 3:16-32.
+
+11. | O'Donnell BF. Urticaria: impact on quality of life and economic cost. Immunol
+Allergy Clin North Am. 2014;34(1):89-104.
+
+12. O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The impact of
+chronic urticaria on the quality of life. Br J Dermatol. 1997;136(2):197-201.
+
+13. | Shalom G, Linder D, Comaneshter D, et al. Healthcare Services Utilization
+and Drug Use in Patients with Chronic Urticaria. J Invest Dermatol.
+2015;135(12):3187-9.
+
+14. Weldon D. Quality of life in patients with urticaria and angioedema: assessing
+burden of disease. Allergy and asthma proceedings : the official journal of regional
+and state allergy societies. 2014;35(1):4-9.
+
+15. | Weller K, Groffik A, Church MK, et al. Development and validation of the
+Urticaria Control Test: a patient-reported outcome instrument for assessing urticaria
+control. The Journal of allergy and clinical immunology. 2014;133(5):1365-72, 72 e16.
+
+16. Mlynek A, Magerl M, Hanna M, et al. The German version of the Chronic
+Urticaria Quality-of-Life Questionnaire: factor analysis, validation, and initial clinical
+findings. Allergy. 2009;64(6):927-36.
+
+17. Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple
+practical measure for routine clinical use. Clinical and experimental dermatology.
+1994; 19(3):210-6.
+
+18. Reilly MC, Zbrozek AS, Dukes EM. The validity and reproducibility of a work
+productivity and activity impairment instrument. Pharmacoeconomics. 1993;4(5):35365.
+
+19. | Sanchez-Borges M, Caballero-Fonseca F, Capriles-Hulett A. Subtypes of
+chronic urticaria in patients attending allergy clinics in Venezuela. Eur Ann Allergy
+Clin Immunol. 2014;46(6):210-5.
+
+20. Schoepke N, Mlynek A, Weller K, Church MK, Maurer M. Symptomatic
+dermographism: an inadequately described disease. J Eur Acad Dermatol Venereol.
+2015;29(4):708-12.
+
+21. Sanchez J, Amaya E, Acevedo A, et al. Prevalence of Inducible Urticaria in
+Patients With Chronic Spontaneous Urticaria: Associated Risk Factors. J Allergy Clin
+Immunol Pract. 2016.
+
+22. Hochstadter EF, Ben-Shoshan M. Cold-induced urticaria: challenges in
+diagnosis and management. BMJ Case Rep. 2013;2013.
+
+23. Katsarou-Katsari A, Makris M, Lagogianni E, et al. Clinical features and
+natural history of acquired cold urticaria in a tertiary referral hospital: a 10-year
+prospective study. J Eur Acad Dermatol Venereol. 2008;22(12):1405-11.
+
+24. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of
+urticaria: a representative cross-sectional population survey. Clinical and
+experimental dermatology. 2010;35(8):869-73.
+
+25. Johansson R, Carlbring P, Heedman A, Paxling B, Andersson G. Depression,
+anxiety and their comorbidity in the Swedish general population: point prevalence
+and the effect on health-related quality of life. PeerJ. 2013;1:e98.
+
+This article is protected by copyright. All rights reserved.
+26. _Vilhelmsson A. Depression and antidepressants: a nordic perspective. Front
+Public Health. 2013;1:30.
+
+27. Staubach P, Dechene M, Metz M, et al. High prevalence of mental disorders
+and emotional distress in patients with chronic spontaneous urticaria. Acta dermatovenereologica. 201 1;91(5):557-61.
+
+28. —Silvares MRC, Fortes MRP, Miot HA. Quality of life in chronic urticaria: a
+survey at a public university outpatient clinic, Botucatu (Brazil). Rev Assoc Med Bras.
+2011;57(5):577-82.
+
+29. Liu JB, Yao MZ, Si AL, Xiong LK, Zhou H. Life quality of Chinese patients with
+chronic urticaria as assessed by the dermatology life quality index. J Eur Acad
+Dermatol Venereol. 2012;26(10):1252-7.
+
+30. Jauregui I, Ortiz de Frutos FJ, Ferrer M, et al. Assessment of severity and
+quality of life in chronic urticaria. J Investig Allergol Clin Immunol. 2014;24(2):80-6.
+
+Tables
+Table 1: Patient demographics at baseline (analysis population)
+Table 2: Disease characteristics at baseline (analysis population)
+
+Table 3: Baseline treatment and treatment prescribed during the baseline visit (current
+
+treatment; analysis population)
+Table 4: Rates of comorbidities in patients with chronic urticaria
+Table 5: Patient reported outcomes at baseline
+
+Table 6: Sick leave and “Work productivity and activity impairment” in patients with CU
+
+ 
+
+Table 7: Additional healthcare utilisation due to urticaria since symptoms began
+
+This article is protected by copyright. All rights reserved.
+Table 1: Patient demographics at baseline (analysis population)
+
+Patient Demographics
+Age, mean (SD)*
+
+18 to <25 years
+
+25 to <35 years
+
+35 to <45 years
+
+45 to <55 years
+
+55 to <65 years
+
+65 to <75 years
+
+275 years
+Gender, f (%)°
+Height (m), mean (SD)
+Weight (kg), mean (SD)
+BMI (kg/m’), mean (SD)
+
+<18.5 kg/m*
+
+>18.5 to <25 kg/m’
+
+>25 to <30 kg/m”
+
+>30 to <40 kg/m”
+
+>40 kg/m*
+
+n (%)*
+40.3 (13.5)
+20 (12.7)
+37 (23.4)
+42 (26.6)
+33 (20.9)
+18 (11.4)
+8 (5.1)
+
+0 (0.0)
+110 (69.6)
+1.71 (0.09)
+77.7 (17.1)
+26.5 (5.0)
+1 (0.6)
+
+68 (43.0)
+58 (36.7)
+27 (17.1)
+4 (2.5)
+
+ 
+
+Data are based on N=158. *Data are presented as n (%) unless
+otherwise stated. “Mean age in Denmark, 42.1 years; Norway, 39.2
+years; and Sweden, 37.0 years. >Percentage females in Denmark,
+71.3%; Norway, 68.0%; and Sweden, 67.9%. BMI, body mass
+
+index; SD, standard deviation.
+
+This article is protected by copyright. All rights reserved.
+Table 2: Disease characteristics at baseline (analysis population)
+
+Disease characteristics n (%)*
+Diagnostic group
+CSU 97 (61.4)
+CindU 29 (18.4)
+CSU & CindU 32 (20.2)
+Years since diagnosis, mean (SD)? 6.4 (8.5)
+CSU, mean (SD) 5.4 (6.6)
+CindU, mean (SD) 11.9 (13.9)
+CSU and CindU, mean (SD) 4.3 (4.3)
+CindU Subtype”
+Cold Urticaria 29 (18.4%)
+Symptomatic dermographism 14 (8.9%)
+Cholinergic Urticaria 12 (7.6%)
+Delayed Pressure Urticaria 10 (6.3%)
+Heat Urticaria 3 (1.9%)
+Aquagenic Urticaria 1 (0.6%)
+Hives within the last 6 months 135 (85.4)
+Duration of hives‘
+<24 hours 128 (94.8)
+>24 hours 7 (5.2)
+
+Angioedema within the last 6 months 52 (32.9)
+
+‘Data are based on N=158, unless otherwise stated. *Data are presented as n_
+(%), unless otherwise stated. "Mean time since diagnosis (+ SD): Denmark,
+5.1 (7.0); Norway, 8.2 (10.5); and Sweden 6.6 (7.8) years. "No patients had a
+diagnosis of solar urticaria, vibratory angioedema or contact urticaria.
+“Includes patients with current wheals or wheals within the last 6 months
+(n=135). CindU, chronic inducible urticaria; CSU, chronic spontaneous
+urticaria; CU, chronic urticaria; and SD, standard deviation
+
+This article is protected by copyright. All rights reserved.
+Table 3: Baseline treatment and treatment prescribed during the baseline visit (current treatment; analysis population)
+
+ 
+
+ 
+
+Baseline treatment Current treatment
+
+Total Denmark Norway Sweden Total Denmark Norway Sweden
+
+(N=158) (N=80) _(N=50) (N=28) (N=158) (N=80) (N=50) _(N=28)
+Any treatment 95 (60.1) 59(73.8) 26 (52.0) 10 (35.7) 152 (96.2) 76(95.0) 50(100.0) 26 (92.9)
+Non-sedative H1-AH* 64 (40.5) 37 (46.3) 21 (42.0) 6 (21.4) 138 (87.3) 64(80.0) 50(100.0) 24 (85.7)
+Corticosteroid” 30(19.0) 25(31.3) 3(6.0) 2(7.1) 20(12.7) 11(13.8) 6(12.0)  3(10.7)
+Montelukast 23 (14.6) 20(25.0) 1(2.0) 2(7.1) 20 (12.7) 9(11.3) 0 (0.0) 11 (39.3)
+Omalizumab 13 (8.2) 12(15.0) 1(2.0) 0(0.0) 67 (42.4) 55(68.8) 10(20.0) 2 (7.1)
+H2-AH‘ 7 (4.4) 0 (0.0) 6 (12.0) 1(3.6) 12 (7.6) 0 (0.0) 6(12.0) 6 (21.4)
+Dapsone 6 (3.8) 5 (6.3) 0(0.0) 1(3.6) 1 (0.6) 1(1.3) 0 (0.0) 0 (0.0)
+Sedative H1-AH 5 (3.2) 2 (2.5) 1(2.0) 2(7.1) 4 (2.5) 2 (2.5) 0 (0.0) 2 (7.1)
+Ciclosporine 4 (2.5) 4 (5.0) 0(0.0) 0 (0.0) 1 (0.6) 1(1.3) 0 (0.0) 0 (0.0)
+Mycophenolat mofetil 2 (1.3) 2 (2.5) 0(0.0) 0 (0.0) (0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Hydroxychloroquine 1 (0.6) 1 (1.3) 0(0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Methotrexate 1(0.6) 1(1.3) 0(0.0) 0 (0.0) (0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+UVB-therapy 1(0.6) 1(1.3) 0(0.0) 0 (0.0) (0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Adrenaline® 0 (0.0) 0 (0.0) 0(0.0) 0 (0.0) 3 (1.9) 0 (0.0) 3 (6.0) 0 (0.0)
+Other® 9 (5.7) 9(11.3) _0(0.0) 0 (0.0) 1(0.6) 1(1.3) 0 (0.0) 0 (0.0)
+
+ 
+
+ 
+
+ 
+
+Data are presented as, n (%). *Patient's receiving one daily dose were recorded as “labelled dose” (12.7% at baseline, 8.2% after the first visit); patient's
+receiving more than one daily dose was recorded as “high dose” (29.1% at baseline, 76.6% after the first visit); patient's reporting “treatment as needed”
+were recorded as “unknown” (3.2% at baseline, 4.4% after the first visit). "Systemic corticosteroids including prednisolone; physicians were not required
+to specify whether oral or intramuscular corticosteroids had been prescribed, the reason or the duration of corticosteroid treatment. °H2-AH including
+cimetidine and ranitidine. “Three patients, with a risk/history of severe angioedema, were prescribed adrenalin in case of emergency. "Other" therapies
+were not specified by the treating physician. AH, antihistamine.
+
+This article is protected by copyright. All rights reserved.
+Table 4: Rates of comorbidities in patients with chronic uricaria
+
+Comorbidity n (%)
+Atopic disease
+Asthma 31 (19.6)
+Allergic rhinitis 26 (16.5)
+Atopic dermatitis 10 (6.3)
+Food allergy 13 (8.2)
+Other eczema 12 (7.6)
+Nut allergy 9 (5.7)
+Psychiatric disease
+Depression 7 (4.4)
+Anxiety 5 (3.2)
+Psychosomatic disease 0 (0.0)
+Autoimmune disease
+Thyroid disease® 8 (5.1)
+Type 1 diabetes 1 (0.6)
+Vitiligo 0 (0.0)
+Metabolic disease
+Obesity 11 (7.0)
+Hypertension 11 (7.0)
+Hyperlipidaemia 3 (1.9)
+Other comorbidities” 29 (18.4)
+
+Data are based on N=158. *Thyroid diseases: hypothyroidism,
+Hashimoto's thyroiditis, Grave's disease, myxoedema, and
+unspecified thyroid disease. "Other comorbidities reported were:
+back pain, wasp allergy, type 2 diabetes, omega-5 gliadin allergy,
+Borrelia infection, Multiple Sclerosis, hemochromatosis, Attentiondeficit/hyperactivity disorder, fibromyalgia, migraine, mononucleosis,
+psoriasis vulgaris, polycystic ovarian syndrome, irritable colon,
+mitral valve stenosis, tachycardia, gastric ulcer, gastritis, birch
+allergy, prostate hypertrophy, hip arthrosis, menorrhagia,
+cholecystectomy, and biliary colic.
+
+This article is protected by copyright. All rights reserved.
+Table 5: Patient reported outcomes at baseline
+n mean (SD)
+Patient Satisfaction with therapy (VAS) 98 6.1 (3.4)
+
+CU-Q,0L*
+Functioning 76 27.9 (27.2)
+Sleep 77 41.2 (29.6)
+Itching/Embarrassment 77 35.7 (28.6)
+Mental Status 76 30.9 (26.1)
+Swelling/Eating 76 14.7 (16.7)
+Limits Looks 77 28.7 (26.8)
+Total 77 29.6 (21.4)
+DLQI score” 155 7.7 (6.5)
+ucT?4 157 — 8.3 (4.8)
+UAS7 37 15.6 (11.5)
+
+@CU-Q,0L was only investigated in Danish patients (N = 80).
+’mean (+ SD) DLQI score in Denmark, Norway and Sweden
+were 6.3 (6.2), 10.9 (6.5), and 6.0 (5.1), respectively. °UCT
+score <12, n= 111; UCT score 212, n = 44. “mean (+ SD) UCT
+score in Denmark, Norway and Sweden were 8.7 (5.1), 6.9
+(4.2), and 9.6 (4.3), respectively. CU-Q20L, chronic urticaria
+quality of life questionnaire; DLQI, dermatology life quality
+index; SD, standard deviation; UAS7, urticaria activity score
+over 7 days; UCT, urticaria control test; and VAS, visual
+analogue score.
+
+Table 6: Sick leave and “Work productivity and activity impairment” in patients with chronic
+
+WPAI n=155
+Percentage presenteeism, mean (+ SD) 20.6 (22.6)?
+Percentage absenteeism, mean (+ SD) 3.7 (11.9)?
+Percentage total work productivity impairment, mean (+ SD) 23.2 (24.0)°
+Percentage total activity impairment, mean (+ SD) 29.5 (28.3)°
+Sick leave n=158
+Sick leave due to Urticaria, n (%) 41 (25.9)
+Duration of sick leave, mean weeks/year (+ SD) 3.8 (6.3)°
+
+WPAI values (range: 0 to 100%) are based on the 7 previous days; higher scores indicate lower
+productivity. *n=111 were in paid employment and answered questions relating to presenteeism,
+absenteeism and work productivity. ®n=155 provided responses for the percentage total activity
+
+impairment. Sick leave was based on patient recall since symptoms began. Based on n=20 (21
+patients missing data). WPAI, work productivity and activity impairment; SD, standard deviation.
+
+This article is protected by copyright. All rights reserved.
+Table 7: Additional healthcare utilization due to urticaria since symptoms began
+Number of patients with visits, n (%) Frequency of visits, mean (SD)
+
+ 
+
+ 
+
+GP/family physician 111 (72.5) 8.3 (14.0)°
+Further
+
+dermatologist/allergist 105 (68.6) 6.4 (7.8)°
+Specialised urticaria centres 65 (42.5) 8.4 (11.7)
+Emergency 42 (27.5) 2.5 (2.6
+physician/emergency room
+
+Hospitalisation 19 (12.4) 1.5 (0.9
+Dentist 4 (2.6) 1.5 (0.7)°
+Pharmacy 4 (2.6) 1.0 (0.0)"
+Ear-Nose-Throat specialist 2 (1.3) 3.5 (3.5
+Alternative practitioner 2 (1.3) 10.5 (13.4)
+Other healthcare resources _ 3 (2.0) 2.0 (0.0)°
+
+Data are based on N=153. *Frequency data missing for n=3. Frequency data missing for n=2. ‘Frequency data missing for
+n=1. GP, general practitioner.
+
+This article is protected by copyright. All rights reserved.
+

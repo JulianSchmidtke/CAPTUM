@@ -1,0 +1,896 @@
+ORIGINAL ARTICLE
+
+Allergy
+
+SKIN AND EYE DISEASES
+
+Coagulation/fibrinolysis and inflammation markers are
+associated with disease activity in patients with chronic
+
+urticaria
+
+S. Takahagi', S. Mihara’, K. lwamoto', S. Morioke', T. Okabe”, Y. Kameyoshi' & M. Hide’
+
+"Division of Molecular Medical Science, Department of Dermatology, Programs for Biomedical Research, Graduate School of Biomedical
+Sciences, Hiroshima University, Hiroshima, Japan; 7Department of Dermatology, National Hospital Organization Higashi-Hiroshima Medical
+
+Center, Higashi-Hiroshima, Japan
+
+ 
+
+To cite this article: Takahagi S, Mihara S, lwamoto K, Morioke S, Okabe T, Kameyoshi Y, Hide M. Coagulation/fibrinolysis and inflammation markers are
+
+associated with disease activity in patients with chronic urticaria. Allergy 2010; 65: 649-656.
+
+Keywords
+chronic urticaria; C-reactive protein; p-dimer;
+disease activity; fibrin degradation products.
+
+Correspondence
+
+Dr M. Hide, Division of Molecular Medical
+Science, Department of Dermatology,
+Programs for Biomedical Research,
+Graduate School of Biomedical Sciences,
+Hiroshima University, 1-2-3 Kasumi,
+Minami-ku, Hiroshima 734-8551, Japan.
+
+Accepted for publication 7 September 2009
+
+DOI:10.1111/).1398-9995.2009.02222.x
+
+Edited by: Thomas Bieber
+
+Abstract
+
+Background: The evaluation of disease severity and activity of chronic urticaria
+(CU) is essential for the adequate treatment of patients. However, there is no reliable biomarker for such evaluations. Recently, markers of blood coagulation and
+fibrinolysis have been revealed to be elevated in severe cases of CU. In this article,
+we studied the coagulation/fibrinolysis and inflammation markers and their relationship to disease activity in patients with CU.
+
+Methods: Plasma fibrin degradation products (FDP), p-dimer and serum C-reactive
+protein (CRP) were measured with the assessment of disease severity and skin reaction to autologous serum in 82 patients with CU and 37 patients with acute urticaria, idiopathic angioedema (AE) or inducible types of urticaria (IU).
+
+Results: The levels of FDP in patients with CU were significantly higher than those
+in patients with IU, but no other differences in FDP, p-dimer and CRP were
+observed among patients with different types of urticaria. These markers of patients
+with CU were well correlated with each other and significantly associated with
+disease severity of CU, but not with skin reactions to autologous serum. In 37
+patients with CU, levels of all these parameters reduced as their disease condition
+improved, while they increased when the disease became aggravated. Regarding
+FDP, this relationship was observed even if FDP concentrations were within normal
+range throughout the study.
+
+Conclusions: The measurement of plasma FDP, p-dimer and serum CRP may be
+useful for the assessment of disease activity of CU.
+
+Chronic urticaria (CU) is characterized by spontaneously
+appearing wheals and pruritus anywhere on the body over
+6 weeks or longer (1). As each wheal disappears within a few
+hours or a day, physicians may not directly observe wheals,
+which may seriously disrupt the daily life of patients. The
+EAACI/GA7LEN/EDF guideline recommends to evaluate
+the disease activity of urticaria as well as to classify subtypes
+of urticaria for its management (2). For the assessment of
+disease activity of CU, the guideline proposes a scoring
+system based on urticarial symptoms such as wheals and
+pruritus (2). However, it largely relies on subjective descriptions by patients, and may not be so accurate and quantitative. Therefore, reliable biomarkers for disease activity of
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S.
+
+CU should be of great value for proper management of this
+disease.
+
+Recently, Asero et al. have evaluated markers of blood
+coagulation associated with CU (3-5). They showed that
+plasma levels of prothorombin fragment 1 + 2 (PF, +2) and
+p-dimer in patients with CU were higher than those of normal controls and associated with disease severity (3, 5).
+PF, +» is generated from prothrombin together with thrombin. Once thrombin is produced, it acts on fibrinogen and
+generates fibrin, which is then stabilized by factor XII]a
+and is finally degraded by the plasmin pathway, fibrinolysis.
+The degradation of stabilized fibrin produces fibrin degradation products (FDP) and p-dimer. The activation of such a
+
+649
+Activity of chronic urticaria, and FDP, p-dimer and CRP
+
+coagulation cascade is initiated by the tissue factor (TF)VIla—Xa complex. Asero et al. showed the expression of TF
+by eosinophils in skin biopsy specimens of patients with CU,
+but none in normal controls (4, 6). They argued that the activation of the TF pathway triggered the activation of the
+blood clotting cascade, resulting in the production of thrombin and p-dimer in CU (4). The elevation of p-dimer levels
+reflects the formation and digestion of stable fibrin, namely
+the activation of both coagulation and fibrinolysis (7). On
+the other hand, the amount of FDP reflects the degradation
+of fibrinogen as well as that of stable fibrin, and therefore
+may increase even without the formation of stable fibrin (7).
+Thus, a profiling of FDP and p-dimer may reveal whether
+the activation of fibrinolysis involved in CU is ‘primary’
+without the formation of fibrin clot, or ‘secondary’ and a
+compensatory response to the increase of fibrin clot.
+
+In general, coagulation and inflammation are tightly
+related to each other (8). For instance, inflammatory cytokines, such as interleukin-6 (IL-6), induce the expression of
+TF (9), while TF-VHa complex binds to protease-activated
+receptor (PAR)-2 and up-regulates inflammatory responses
+(10). Therefore, it is feasible that the levels of C-reactive protein (CRP), a widely used marker of inflammatory responses,
+might be associated with disease activities of CU as well as
+markers of blood coagulation. In this study, we measured
+levels of FDP, p-dimer and CRP in patients with CU at various time points, and studied their relation to each other and
+disease activities.
+
+Methods
+Patients
+
+Eighty-two subjects (males : females = 22:60; mean age =
+39.5 years; range 4-80 years) with CU were studied retrospectively. Chronic urticaria (CU) was diagnosed on the basis of
+the appearance of spontaneous wheals anywhere on the body
+with or without angioedema for more than 6 weeks (1). We
+also enrolled six patients with acute urticaria (AU), 10
+patients with idiopathic angioedema without wheals (AE),
+and 21 patients with inducible types of urticaria (IU)
+{ie., four patients with mechanical urticaria, eight patients
+with cholinergic urticaria, one patient with nonsteroidal antiinflammatory drugs (NSAIDs)-induced urticaria, two patients
+with food-induced urticaria, four patients with food-dependent exercise-induced anaphylaxis (FDEIA) and two patients
+with solar urticaria]. They were diagnosed on the basis of
+clinical history and appropriate investigations, such as physical tests, skin prick tests and/or specific IgE determinations
+in their sera (1).
+
+Patients were treated with histamine H,-receptor antagonists (antihistamines) with or without histamine H»-receptor
+antagonists, leukotriene antagonists, corticosteroids, and/or
+immunosuppressive agents. Twenty-six out of 82 patients with
+CU were also treated with tranexamic acid, seven patients
+with warfarin, one patient with heparin and 12 patients with
+protease inhibitors. Three patients with angioedema and two
+
+ 
+
+650
+
+Takahagi et al.
+
+patients with IU were treated with both antihistamines and
+tranexamic acid. Patients complicated with diseases such as
+myocardial infarction, atrial fibrillation and thrombosis
+treated with anticoagulants or antiplatelet agents were not
+recruited to this study.
+
+This study was approved by the ethics committee at
+Hiroshima University Hospital. All subjects gave informed
+consent before participation.
+
+Assessment of disease activity of CU
+
+The disease severity of CU was assessed according to the
+mean number of wheals, which had appeared during a week
+before blood sampling as previously described (11): 1-10
+small (<3 cm in diameter) wheals = grade 1 (slight); 10-50
+small wheals or 1-10 large wheals = grade 2 (moderate);
+>50 small wheals or > 10 large wheals = grade 3 (severe).
+We considered that patients got better or worse if their severity grade had decreased or increased by the second visit.
+
+Measurement of plasma FDP, p-dimer and serum CRP.
+
+Na citrate-anticoagulated plasmas were obtained from blood
+collected by venipuncture of cubital vessels. The levels of
+plasma FDP and p-dimer were measured with Latex Immunoassay kits purchased from Sysmex co, Kobe, Japan. The
+level of serum CRP was measured by a Latex Agglutination
+Assay kit purchased from Eiken co, Tokyo, Japan. Normal
+ranges of FDP, p-dimer and CRP levels were determined
+as <3.3 pg/ml, <1.0 pg/ml and <0.2 mg/dl respectively,
+according to the 95% confidence intervals of healthy
+Japanese controls provided by respective manufacturers
+(FDP: 0.21-3.25 pg/ml; n = 124, v-dimer: 0.051-0.967 pg/
+ml; n = 92, CRP: 0.005-0.183 mg/dl; n = 478).
+
+Autologous serum skin test
+
+Autologous serum skin test was performed as previously
+described with a slight modification (12), with 50 ul of autologous serum, 20 yl of 10 ug/ml histamine and 50 il of 0.9%
+sterile saline. Fifty-two out of 64 patients who received autologous serum skin test (ASST) had not stopped antihistamines, as a result of the restriction by the ethics committee.
+Therefore, we determined the skin reaction as positive if the
+serum-induced flare diameter was = Smm than saline control
+or larger than the flare induced by histamine at 30 min (13).
+Although wheal diameter has well been established as a parameter to assess reactions in ASST (12), the margin of wheal
+becomes obscure under an administration of antihistamines.
+On the other hand, the margin of flare becomes clearer in
+spite of the reduction of its size by antihistamines.
+
+Statistics
+
+The statistical analysis was performed by GRAPHPAD PRISM
+and GRAPHPAD INSTAT (GraphPad Software, Inc., San Diego,
+USA). The statistical significance of difference among two
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S
+Takahagi et al
+
+groups was determined by the Mann-Whitney test or the
+Wilcoxon signed rank test. Comparisons of three or more
+groups were analysed by the Kruskal-Wallis test, followed
+by Dunn’s multiple comparison post hoc test. A P-value of
+<0.05 was considered significant.
+
+Results
+Plasma FDP, p-dimer and serum CRP in patients with CU
+
+Median concentrations of plasma FDP, p-dimer and serum
+CRP in patients with CU were within their normal ranges
+{median and interquartile range; 1.50 g/ml (0.95-3.00 pg/
+ml), 0.70 (0.40-1.65 ug/ml), 0.10 mg/dl (0.10-0.20 mg/dl)]
+(Fig. 1). However, the levels of FDP in 17 of 81 (21%)
+patients with CU exceeded the normal range, and 29 of 82
+(35%) patients including all 17 patients with elevated FDP
+levels showed the increase of plasma p-dimer. The CRP levels
+also increased beyond upper limit of the normal range in 17
+of 74 (23%) patients with CU, while those in 51 patients
+were below the detection limit, namely <0.2 mg/dl. These
+three parameters in patients with CU significantly correlated
+to each other (Fig. 2).
+
+Based on the scale of disease severity, 47 of 82 patients
+with CU were evaluated as severe, 15 as moderate and 20 as
+slight. Patients with severe urticaria displayed significantly
+higher levels of FDP, p-dimer and CRP than patients with
+moderate and slight disease (Fig. 3). Regarding responses to
+autologous sera, we could not find significant differences
+between the autologous serum skin test (ASST) positive
+group and the negative group in terms of the levels of FDP,
+p-dimer and CRP (Fig. S1).
+
+Some patients with AU, AE or IU also exhibited an elevation of FDP, p-dimer and CRP as patients with CU (Fig. 1).
+
+FDP
+20
+
+15
+
+S
+
+@
+3
+3
+&
+3
+a
+
+FDP (ug/ml)
+
+cU AU AE IU cu AU
+n=81 n=5 n=10 n=21 n=82
+
+Figure 1 Levels of plasma fibrin degradation products (FDP),
+o-dimer and serum C-reactive protein (CRP) in patients with chronic
+urticaria (CU) and patients with acute urticaria (AU), idiopathic
+angioedema (AE) or inducible types of urticaria (IU). Median concentrations of FDP, o-dimer and CRP in patients with CU were not
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S.
+
+D-dimer
+
+ 
+
+n=6 n=10
+
+Activity of chronic urticaria, and FDP, p-dimer and CRP.
+
+Levels of FDP in patients with IU were significantly lower
+than those in patients with CU, but otherwise, no difference
+was observed among patients with subtypes of urticaria.
+Inducible types of urticaria (IUs) of patients with high levels
+of FDP or p-dimer were mechanical urticaria, cholinergic
+urticaria, solar urticaria, and FDEIA.
+
+Relationship of clinical disease activity to FDP, p-dimer and
+CRP
+
+Levels of FDP, p-dimer and CRP of 37 patients with CU
+were measured with the evaluation of their disease severities
+before and after treatments in our hospital. The median
+duration between two visits was 29.0 days (interquartile
+range; 21.0-64.0 days).
+
+We observed a significant reduction of FDP, p-dimer and
+CRP levels when the disease severity improved (Fig. 4A),
+while these parameters significantly increased when the disease became worse (Fig. 4B). It is noteworthy that FDP
+levels increased and decreased in accordance with the exacerbation and relief of symptoms even within the normal range
+(Fig. 5).
+
+Discussion
+
+In this study, we have demonstrated that levels of FDP,
+p-dimer and CRP were elevated in patients with severe CU
+and that they might have been associated not only with
+disease ‘severity’ among patients, but also with disease ‘activity’ of CU in each patient.
+
+The levels of plasma p-dimer in 29 (35%) out of 82
+patients with CU were higher than the normal range, indicating the production and degradation of stable fibrin by the
+activation of coagulation and fibrinolysis in CU. This result
+
+CRP
+
+CRP (mg/dl)
+
+ 
+
+AE lu cu AU AE IU
+n=21 n=74 n=6
+
+significantly different from those in patients with AU, AE or IU,
+except for FDP in patients with IU which were significantly lower
+than those in patients with CU. (Horizontal solid lines and broken
+lines represent median values and upper limits of normal for parameters, respectively.).
+
+651
+Activity of chronic urticaria, and FDP, p-dimer and CRP
+
+      
+  
+
+ 
+
+ 
+
+15
+.
+E10
+7
+£
+4
+5 ° n=81
+y = 0.658x - 0.1947
+R2 = 0.9399
+P¢0.01
+0!
+0 5 10 15 20
+FDP (ug/ml)
+4
+. n=73
+3 y = 0.0785x + 0.1055
+= R2= 0.2424
+FE P<0.01
+B2 .
+1s}
+
+ 
+
+ 
+
+ 
+
+0 5 10 15 20
+FDP (ug/ml)
+
+Takahagi et al.
+
+4
+- n=74
+y = 0.1166x + 0.1359
+3 R2= 0.2255
+P<0.01
+
+5
+
+ 
+
+ 
+
+ 
+
+0 5 10 18
+D-dimer (ug/ml)
+
+Figure 2 Relationship among levels of plasma FDP, p-dimer and serum CRP in patients with CU. Regression analysis revealed that these
+
+three parameters correlated with each other.
+
+supports the suggestion by Asero et al. that the activation of
+coagulation is involved in the pathogenesis of CU (3-5).
+Although they reported that plasma from only two of 21
+(10%) patients with CU showed the increase of p-dimer level
+(4), our study revealed that 35% of patients with CU displayed elevated levels of p-dimer. However, the former study
+included only three patients with severe urticaria among 37
+total patients. On the other hand, urticaria in 47 out of 82
+patients in this study was severe. Moreover, levels of plasma
+p-dimer of patients with severe CU were significantly higher
+than those of patients with moderate/slight CU, in agreement
+with the finding by Asero et al. that levels of p-dimer correlated to disease severity of CU (5). Therefore, the difference
+of the levels of p-dimer between the two studies may be as a
+result of the difference of severity of urticaria in patients
+recruited in each study.
+
+Serum CRP levels were higher than the normal range in 17
+(23%) out of 74 patients with CU and significantly correlated
+with levels of FDP and p-dimer. Three (50%) of six patients
+with AU also showed an increased levels of CRP. The production of many acute-phase proteins, including CRP, was
+stimulated by interleukin-6 (IL-6), and Kasperska-Zajac et al.
+(14) reported that patients with CU showed higher levels of
+IL-6 than those in healthy controls. Moreover, Fujii et al.
+(15) showed the increase of both plasma IL-6 and serum
+CRP in patients with severe AU, who were refractory to
+antihistamines and required corticosteroids. Thus, certain
+
+ 
+
+652
+
+populations with severe idiopathic urticaria may show the
+increase of CRP caused by IL-6. The correlation between
+CRP and coagulation markers suggests an interrelation
+between inflammation and coagulation in the pathogenesis of
+CU. Cugno et al. reported that eosinophils expressed TF in
+patients with CU, which could be induced by IL-6 and act as
+an initiator of coagulation cascade (4, 6, 8).
+
+The assessment of disease ‘severity’ and ‘activity’ of CU
+are important processes in the management of CU. Various
+symptom-scoring systems have been employed to evaluate
+disease ‘activity’ in the time course of CU and several biomarkers have been suggested to reflect disease ‘severity’ of
+urticaria (16). Tedeschi et al. (17) reported that serum IL-18
+was associated with disease ‘severity’ in patients with ASSTpositive CU. Asero et al. revealed that PF, . and p-dimer
+correlated with disease ‘severity’ in patients with CU (5).
+They also found the association between disease ‘activity’
+and PF, +, and p-dimer in two followed-up patients, suggesting that coagulation markers may be useful for monitoring
+disease ‘activity’. In this study, we have demonstrated that
+levels of FDP, p-dimer and CRP significantly correlated with
+disease ‘activity’ in patients with CU in the course of individual patients. The increase of p-dimer was observed in 35%
+of patients with CU, whereas that of FDP and CRP was
+found in only 21% and 23% of patients respectively. In all
+patients with elevated FDP, levels of p-dimer were also
+higher than the normal range, suggesting that p-dimer is
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S
+Takahagi et al
+
+Activity of chronic urticaria, and FDP, p-dimer and CRP.
+
+D-dimer CRP
+20 15 4
+P¢0.01 P<0.01
+a |
+15 3
+=
+q 10
+=
+ie 2 S
+2 : >
+~~ 10 8 E2
+A 3
+R 5 Fe
+1S)
+5
+5 1
+0. 0 0
+
+ 
+
+Severe
+
+n=47
+
+Moderate/slight
+n=34
+
+Severe
+
+n=47
+
+Figure 3 Levels of plasma FDP, p-dimer and serum CRP in patients
+with severe CU and patients with moderate/slight CU. Patients with
+severe CU displayed higher levels of FDP, p-dimer and CRP than
+
+superior to FDP and CRP in terms of sensitivity. On the
+other hand, the level of FDP correlated well with disease
+‘activity’ even when it dropped within the normal range.
+Taken together, p-dimer may be the most sensitive biomarker
+to detect the abnormality of the coagulation in patients with
+CU, and FDP may be the most useful biomarker to evaluate
+disease ‘activity’ among these biomarkers.
+
+Our observation that the sensitivity of p-dimer to detect
+urticarial conditions is better than that of FDP, suggests
+that the increase of stable fibrin degradation (the ‘secondary’
+fibrinolysis) is more characteristic to CU than that of whole
+fibrinolysis. However, the better correlation of FDP levels to
+disease activities than levels of p-dimer suggests that the
+‘primary’ fibrinolysis rather than the formation of stable
+fibrin is more closely associated with the pathogenesis of
+CU. Asero etal. have suggested that the formation of
+thrombin by blood coagulation may induce dermal edema
+through an increase in vascular permeability and generate
+CSa leading to mast cell degranulation, which is critical in
+the pathomechanism of urticaria (18). However, it has not
+been clear whether the increase of coagulation and/or fibrinolysis are the primary cause of wheal formation or the
+secondary events by histamine release or other reactions of
+mast cells in CU. The former possibility is supported by
+findings that anticoagulants such as warfarin and heparin
+relieved symptoms of some patients in CU (19, 20). On the
+other hand, some patients with AU, AE or IU also exhibited an elevation of plasma FDP, p-dimer and serum CRP
+as did patients with CU. We could not find significant
+differences in levels of FDP and p-dimer among patients
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S.
+
+ 
+
+ 
+
+Severe
+
+n=43
+
+Moderate/slight
+
+Moderate/slight
+n=31
+
+n=35
+
+patients with moderate/slight CU. (Horizontal solid lines and broken
+lines represent median values and upper limits of normal for parameters respectively.).
+
+with CU, with AU and with AE. Fujii et al. also reported
+the elevation of plasma p-dimer in patients with severe
+AU (21). These observations suggest that the activation of
+coagulation cascade is rather a common phenomenon in
+urticaria than specific to CU, and therefore might be a
+secondary event caused by the activation of mast cells.
+However, levels of FDP and p-dimer were not correlated
+with plasma histamine concentrations in patients with CU
+(data not shown). Moreover, levels of FDP in patients with
+CU were significantly higher than those in patients with IU.
+Therefore, these parameters may be more closely associated
+with a condition that predisposes to spontaneous wheal
+formation than a transient condition or the sensitization to
+specific stimuli. We should keep in mind that levels of FDP,
+p-dimer and CRP might be directly affected by medications,
+such as tranexamic acid, warfarin and corticosteroids, which
+were administered to patients in this study. However,
+some patients showed increase of FDP, p-dimer and/or CRP
+without a change of such medications. Moreover, the administration of a drug to different patients resulted in either the
+increase or the decrease of FDP and/or p-dimer levels.
+Further studies without the use of these drugs may reveal
+more clear relationships between urticarial disease activities
+and these parameters.
+
+Regarding autoantibodies that activate mast cells in the
+pathogenesis of CU, we could not find any relationship
+between cutaneous responses to ASST and levels of FDP,
+p-dimer and CRP. Results of ASST performed in this study
+under the use of antihistamines might underestimate skin
+reactions to autoantibodies, as only 18 out of 64 (28.1%) were
+
+653
+Activity of chronic urticaria, and FDP, p-dimer and CRP
+
+FDP
+9,  P<0.01
+
+Bes)
+
+s q
+
+=
+
+$0 3
+
+a E
+
+[= ba
+a
+
+ 
+
+FDP (ug/ml)
+
+D-dimer (ug/ml)
+
+ 
+
+@ &
+
+n=27
+Figure 4 Relationship between disease activity of CU and levels of
+plasma FDP, o-dimer and serum CRP. A and B represent levels of
+FDP, p-dimer and CRP before and after a subsidence and an
+exacerbation of CU, respectively. Levels of FDP, o-dimer and CRP.
+
+determined as positive by this test. Moreover, no significant
+relationship was found between results of ASST and urticarial
+disease severities of the patients (Fisher’s exact test;
+P = 0.78), not as previously reported (22, 23). Indeed, the
+
+654
+
+ 
+
+D-dimer
+P<0.01
+
+ 
+
+Takahagi et al.
+
+D-dimer
+
+CRP (mg/dl)
+N
+
+ 
+
+CRP (mg/dl)
+
+ 
+
+were significantly reduced when the disease severity improved (A),
+while all parameters significantly increased when disease became
+worse (B). (Horizontal broken lines represent upper limits of normal
+for parameters)
+
+sensitivity and specificity of our method for ASST determined
+by basophil histamine release test in 17 patients with antihistamines were 67% (ASST+ patients/HRT+ patients = 6/9)
+and 38% (ASST-— patients/HRT- patients = 3/8), whereas
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S
+Takahagi et al
+
+D-dimer
+
+FDP (ng/ml)
+D-dimer (ug/ml)
+
+ 
+
+Figure 5 Relationship between disease activity of CU and levels of
+plasma FDP, p-dimer within their normal ranges. A and B represent
+levels of FDP, o-dimer before and after a subsidence and an exacerbation of CU respectively. FDP levels increased and decreased in
+
+those in 19 patients without antihistamines were 82%
+(ASST + patients/HRT+ patients = 9/11) and 50% (ASSTpatients/HRT- patients = 4/8) respectively. However, Asero
+et al. also reported that PF,,.2 and p-dimer levels were not
+associated with the histamine-releasing activity of patients’
+sera (5). Taken together, the activation of the coagulation cascade and histamine-releasing autoantibodies might independently contribute to the pathogenesis of CU.
+
+Finally, the measurement of FDP, p-dimer and CRP levels
+may be useful for the assessment of disease activity of CU.
+These biomarkers, in combination with symptom scores,
+would enable evaluation of the effectiveness of medicines
+and/or comparing results of various clinical or epidemiological studies. Further studies, especially concerning longer and
+detailed time courses of these parameters in relation to wheal
+formation, disease activities and mast cell activation, may
+reveal their role in the pathogenesis of urticaria.
+
+Acknowledgments
+We thank our clinical staff for assistance in collecting the
+
+peripheral blood, Dr Faiz Kermani for his review of the
+
+References
+
+1. Grattan CE, Humphreys F. Guidelines for 3. Asero R, Tedeschi A, Riboldi P, Cugno M.
+Plasma of patients with chronic urticaria
+
+evaluation and management of urticaria in
+
+  
+
+ 
+
+Activity of chronic urticaria, and FDP, p-dimer and CRP.
+
+D-dimer
+
+P= 0.149
+
+= ¢
+
+=
+
+2 2
+
+2 =
+
+A £ 0S
+a
+
+ 
+
+0.0
+& s
+ss ¥
+n=14
+
+ 
+
+accordance with an exacerbation and a relief of symptoms even
+within the normal range, whereas p-dimer levels shifted variously
+regardless of symptoms. (Horizontal broken lines represent upper
+limits of normal for parameters.).
+
+manuscript, and Dr. Yoshihiko Sakurai (Nara Medical University of Medicine, Japan) for helpful discussions.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article:
+
+Figure S1. Skin reactions to autologous sera and levels of
+plasma FDP, p-dimer and serum CRP in patients with CU.
+Patients with CU were classified into two groups by the
+response to autologous serum skin test (ASST). No significant differences in these parameters were found between
+ASST-positive group and -negative group. (ND, not done;
+ns, not significant; Horizontal solid lines and broken lines
+represent median values and upper limits of normal for parameters, respectively.).
+
+Please note: Wiley-Blackwell are not responsible for the
+content or functionality of any supporting materials supplied
+by the authors. Any queries (other than missing material)
+should be directed to the corresponding author for the
+article.
+
+the tissue factor pathway of blood
+coagulation in patients with chronic urti
+adults and children. Br J Dermatol 2007; shows signs of thrombin generation, and its caria. J Allergy Clin Immunol 2007;119:
+157:1116-1123. intradermal injection causes wheal-and-flare 705-710.
+2. Zuberbier T, Bindslev-Jensen C, Canonica reactions much more frequently than autolo- 5. Asero R, Tedeschi A, Riboldi P, Griffini S,
+
+W, Grattan CE, Greaves MW, Henz BM
+
+et al. EAACI/GA2LEN/EDF guideline: 117:1113-1117.
+
+definition, classification and diagnosis of 4. Asero R, Tedeschi A, Coppola R, Griffini S,
+Paparella P, Riboldi P et al. Activation of
+
+urticaria. Allergy 2006;61:316-320.
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S.
+
+gous serum, J Allergy Clin Immunol 2006;
+
+Bonanni E, Cugno M. Severe chronic
+urticaria is associated with elevated plasma
+levels of D-dimer. Allergy 2008:63:
+176-180.
+
+ 
+
+655
+Activity of chronic urticaria, and FDP, p-dimer and CRP
+
+6.
+
+10.
+
+656
+
+Cugno M, Marzano AV, Tedeschi A,
+Fanoni D, Venegoni L, Asero R. Expression
+of tissue factor by eosinophils in patients
+with chronic urticaria. Int Arch Allergy
+Immunol 2008;148:170-174.
+
+. Fareed J, Hoppensteadt DA, Leya F, Iqbal
+
+O, Wolf H, Bick R. Useful laboratory tests
+for studying thrombogenesis in acute cardiac
+syndromes. Clin Chem 1998;44(8 Pt 2):18451853.
+
+. Levi M, van der Poll T. Two-way interac
+tions between inflammation and coagulation.
+Trends Cardiovasc Med 2005;15:254-259.
+
+. Levi M, van der Poll T, ten Cate H, van
+
+Deventer SJ. The cytokine-mediated imbalance between coagulant and anticoagulant
+mechanisms in sepsis and endotoxaemia. Eur
+J Clin Invest 1997;27:3-9.
+
+Cunningham MA, Romas P, Hutchinson P,
+Holdsworth SR, Tipping PG. Tissue factor
+and factor VIIa receptor/ligand interactions
+induce proinflammatory effects in macrophages. Blood 1999:94:3413-3420.
+
+. Sabroe RA, Fiebiger E, Francis DM,
+
+Maurer D, Seed PT, Grattan CE et al. Classification of anti-FcepsilonRI and anti-IgE
+autoantibodies in chronic idiopathic urticaria and correlation with disease severity.
+J Allergy Clin Immunol 2002;110:492-499.
+
+12.
+
+Sabroe RA, Grattan CE, Francis DM,
+
+Barr RM, Kobza Black A, Greaves MW.
+The autologous serum skin test:
+screening test for autoantibodies in chronic
+
+ 
+
+idiopathic urticaria. Br J Dermatol 1999;
+140:446-452.
+
+. Hide M, Greaves M. Chronic urticaria as an
+
+autoimmune disease. New York: Springer
+Wien, 2005.
+
+._Kasperska-Zajac A, Brzoza Z, Rogala B.
+
+Plasma concentration of interleukin 6 (IL-6),
+and its relationship with circulating concentration of dehydroepiandrosterone sulfate
+(DHEA-S) in patients with chronic idiopathic urticaria. Cytokine 2007;39:142-146.
+
+. Fujii K, Konishi K, Kanno Y, Ohgou N.
+
+Acute urticaria with elevated circulating
+interleukin-6 is resistant to anti-histamine
+treatment. J Dermatol 2001;28:248-250.
+
+. Mlynek A, Zalewska-Janowska A, Martus
+
+P, Staubach P, Zuberbier T, Maurer M.
+disease activity in patients
+with chronic urticaria? Allergy 2008:63:
+777-180.
+
+How to ass
+
+  
+
+. Tedeschi A, Lorini M, Suli C, Asero R.
+
+Serum interleukin-18 in patients with
+chronic ordinary urticaria: association with
+disease activity. Clin Exp Dermatol
+2007;32:568-570.
+
+20.
+
+21;
+
+ry
+Ps)
+
+Takahagi et al.
+
+. Asero R, Riboldi P, Tedeschi A, Cugno M,
+
+  
+
+Meroni P. Chronic urticaria: a ase at a
+crossroad between autoimmunity and
+coagulation. Autoimmun Rey 2007;7:
+
+71-16.
+
+. Parslew R, Pryce D, Ashworth J, Friedmann
+
+PS. Warfarin treatment of chronic idiopathic
+urticaria and angio-oedema. Clin Exp Allergy
+2000;30: 1161-1165.
+
+Chua SL, Gibbs S. Chronic urticaria
+responding to subcutaneous heparin sodium.
+Br J Dermatol 2005;153:216-217.
+
+Fujii K, Usuki A, Kan-No Y, Ohgou N.
+Elevation of circulating thrombinantithrombin III complex and fibrin degradation products in urticaria: a laboratory
+finding unrelated to intravascular
+coagulopathy. J Dermatol 2008:35:
+
+308-310.
+
+. Toubi E, Kessel A, Avshovich N,
+
+Bamberger E, Sabo E, Nusem D et al.
+Clinical and laboratory parameters in
+predicting chronic urticaria duration: a
+prospective study of 139 patients. Allergy
+2004;59:869-873.
+
+. Fusari A, Colangelo C, Bonifazi F,
+
+Antonicelli L. The autologous serum skin
+test in the follow-up of patients with chronic
+urticaria. Allergy 2005:60:256-258.
+
+Allergy 65 (2010) 649-656 © 2009 John Wiley & Sons A/S
+

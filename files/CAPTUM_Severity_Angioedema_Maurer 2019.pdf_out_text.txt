@@ -1,0 +1,1327 @@
+The NEW ENGLAND JOURNAL of MEDICINE
+
+| ORIGINAL ARTICLE |
+
+Ligelizumab for Chronic Spontaneous
+Urticaria
+
+ 
+
+M. Maurer, A.M. Giménez-Arnau, G. Sussman, M. Metz, D.R. Baker, A. Bauer,
+J.A. Bernstein, R. Brehler, C.-Y. Chu, W.-H. Chung, |. Danilycheva, C. Grattan,
+J. Hébert, C. Katelaris, M. Makris, R. Meshkova, S. Savic, R. Sinclair, K. Sitz,
+P. Staubach, B. Wedi, J. Loffler, A. Barve, K. Kobayashi, E. Hua, T. Severin,
+and R. Janocha
+
+ 
+
+ABSTRACT
+
+ 
+
+BACKGROUND
+In the majority of patients with chronic spontaneous urticaria, most currently available therapies do not result in complete symptom control. Ligelizumab is a next
+generation high-affinity humanized monoclonal anti-IgE antibody. Data are limited
+regarding the dose-response relationship of ligelizumab and the efficacy and safety
+of ligelizumab as compared with omalizumab and placebo in patients who have
+moderate-to-severe chronic spontaneous urticaria that is inadequately controlled
+with H,-antihistamines at approved or increased doses, alone or in combination with
+H,-antihistamines or leukotriene-receptor antagonists.
+
+METHODS
+
+In a phase 2b dose-finding trial, we randomly assigned patients to receive ligelizumab at a dose of 24 mg, 72 mg, or 240 mg, omalizumab at a dose of 300 mg, or
+placebo, administered subcutaneously every 4 weeks for a period of 20 weeks, or a
+single 120-mg dose of ligelizumab. Disease symptoms of hives, itch, and angioedema
+were monitored by means of weekly activity scores. The main objective was to determine a dose-response relationship for the complete control of hives (indicated by a
+weekly hives-severity score of 0, on a scale from 0 to 21, with higher scores indicating
+greater severity); the primary end point of this response was assessed at week 12.
+Complete symptom control was indicated by a weekly urticaria activity score of 0 (on
+a scale from 0 to 42, with higher scores indicating greater severity). Safety was analyzed throughout the trial.
+
+RESULTS
+A total of 382 patients underwent randomization. At week 12, a total of 30%, 51%,
+and 42% of the patients treated with 24 mg, 72 mg, and 240 mg, respectively, of
+ligelizumab had complete control of hives, as compared with 26% of the patients in
+the omalizumab group and no patients in the placebo group. A dose-response relationship was established. At week 12, a total of 30%, 44%, and 40% of the patients
+treated with 24 mg, 72 mg, and 240 mg, respectively, of ligelizumab had complete
+control of symptoms, as compared with 26% of the patients in the omalizumab group
+and no patients in the placebo group. In this small and short trial, no safety concerns
+regarding ligelizumab or omalizumab emerged.
+
+CONCLUSIONS
+A higher percentage of patients had complete control of symptoms of chronic spontaneous urticaria with ligelizumab therapy of 72 mg or 240 mg than with omalizumab
+or placebo. (Funded by Novartis Pharma; ClinicalTrials.gov number, NCT02477332.)
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+The authors’ full names, academic degrees, and affiliations are listed in the
+Appendix. Address reprint requests to Dr.
+Maurer at the Department of Dermatology
+and Allergy, Charité—Universitatsmedizin
+Berlin, Charitéplatz 1, 10117 Berlin, Germany, or at marcus.maurer@charite.de.
+
+N Engl J Med 2019;381:1321-32.
+DOI: 10.1056/NEJMoal1900408
+Copyright © 2019 Massachusetts Medical Society.
+
+1321
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+A Quick Take is
+
+1322
+
+available at
+NEJM.org
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+g” “ HRONIC SPONTANEOUS URTICARIA IS A
+skin disorder that is characterized by the
+‘ occurrence of itchy wheals (hives), angioederna, or both for 6 weeks or more in the absence of specific external stimuli.!? Studies have
+indicated that chronic spontaneous urticaria has
+a prevalence of approximately 1 case per 200 persons in adult European populations.** Evidence
+suggests that chronic spontaneous urticaria has
+a long duration®’ and can have a negative effect
+on quality of life.** The pathogenesis of chronic
+spontaneous urticaria is not fully clear, but it is
+known to involve autoimmune mechanisms in
+most patients by means of IgG autoantibodies
+against the high-affinity receptor for the Fc region
+of IgE (FceRJ) or less frequently against IgE and
+IgE autoantigens.”?
+
+Standard first-line treatment of chronic spontaneous urticaria consists of nonsedating (secondgeneration) H,-antihistamines at locally approved
+doses, with escalation up to four times the approved dose used off-label as second-line treatment; even so, the disease is still uncontrolled in
+some patients.'"*"5 The revised guidelines regarding the treatment of urticaria from the European
+Academy of Allergology and Clinical Immunology (EAACD, the Global Allergy and Asthma
+European Network (GA*LEN), the European
+Dermatology Forum (EDF) and the World Allergy Organization (WAO)! recommend the use
+of omalizumab as add-on third-line therapy to
+H,-antihistamines. The goal of therapy, as noted
+in the current treatment guidelines, is complete control of the disease, yet some patients
+have symptoms that remain uncontrolled with
+the current standard of care.! To date, add-on
+therapy with omalizumab has been the most
+effective treatment in patients who continue to
+have symptoms while they are taking H,-antihistamines,’** but some patients do not have
+a response, and better treatment options are
+needed.'°
+
+Ligelizumab is a new high-affinity humanized
+monoclonal anti-IgE antibody that has previously
+shown dose-dependent and time-dependent suppression of free IgE, basophil FceRI, basophil
+surface IgE, and skin-prick test responses to allergen that was superior in extent and duration
+to that observed with omalizumab.” In a phase
+2b trial, we examined the efficacy and safety of
+ligelizumab as compared with omalizumab and
+
+N ENGLJ MED 381;14 NEJM.ORG
+
+placebo in patients with chronic spontaneous
+urticaria that was inadequately controlled with
+standard-of-care therapy including H,-antihistamines.
+
+ 
+
+METHODS
+
+ 
+
+TRIAL DESIGN AND OVERSIGHT
+
+This phase 2b, dose-finding, multicenter, randomized, double-blind, active-controlled and placebocontrolled trial was designed to establish a
+dose-response relationship for ligelizumab and
+to evaluate its efficacy and safety as compared
+with omalizumab and placebo (Fig. 1). The trial
+consisted of a screening period (days —14 to 1),
+a treatment period (days 1 to 140 [20 weeks]),
+and a follow-up period after the cessation of the
+trial regimens (days 141 to 309 [24 weeks]). Patients who remained in the follow-up period for
+at least 12 weeks and had active disease (defined
+as a mean weekly urticaria activity score [measured twice daily] of 212; scores range from 0 to
+42, with higher scores indicating greater severity; minimally important difference [MID], 9.5 to
+10.0 points)*”’ were eligible to enter an extension
+study (ClinicalTrials.gov number, NCT02649218)
+from week 32 onward. The trial protocol, with
+the statistical analysis plan, is available with the
+full text of this article at NEJM.org.
+
+This trial was designed and sponsored by
+Novartis Pharma. The institutional review board
+at each participating center approved the protocol. Patients provided written informed consent
+before any assessment was performed. Data were
+collected by the trial investigators according to
+Good Clinical Practice guidelines and were analyzed by the sponsor. The first draft of the
+manuscript was written by a medical writer paid
+by the sponsor, with critical input and approval
+from all authors. All the authors critically reviewed each manuscript draft, provided substantial input on the content, and made the decision
+to submit the manuscript for publication. The
+authors vouch for the accuracy and completeness
+of the data and for the fidelity of the trial to the
+protocol.
+
+PATIENTS
+
+Eligible patients were 18 to 75 years of age and
+had chronic spontaneous urticaria that was inadequately controlled with H,-antihistamines at
+
+OCTOBER 3, 2019
+
+The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Screening Treatment Phase Follow-up
+Primary
+end-point
+assessment
+Week 0 4 8 16
+Eligible to
+Rand " enroll in the
+andomization onan
+study at wk 32
+T T T
+-2 32 44
+Week
+Figure 1. Trial Design.
+The single 120-mg dose of ligelizumab was chosen in order to characterize the pharmacokinetics and pharmacodynamics of ligelizumab. Data from this group were used to assess the duration of response and to correlate this information with the concentration of drug in the serum at the time when symptoms reappeared. Patients who remained
+in the follow-up period for at least 12 weeks and had active disease (weekly urticaria activity score of =12 ona scale
+from 0 to 42, with higher scores indicating greater severity) could enter an extension study from week 32 onward.
+SD denotes single dose.
+
+ 
+
+ 
+
+ 
+
+approved or increased doses alone or in combination with H,-antihistamines or leukotrienereceptor antagonists. Key inclusion criteria were
+the following: mild-to-moderate chronic spontaneous urticaria, defined as a weekly urticaria
+activity score of at least 16 (disease activity categories are as follows: 0, symptom free; 1 to 6,
+well-controlled urticaria; 7 to 15, mild urticaria;
+16 to 27, moderate urticaria; and 28 to 42, severe
+urticaria”); a weekly hives-severity score of at
+least 8 (scores range from 0 to 21, with higher
+values indicating greater severity; MID, 5.0 to 5.5
+points)”’ during the 7 days before randomization
+(day 1); and an in-clinic urticaria activity score of
+at least 4 (scores range from 1 to 6, with higher
+values indicating greater severity; MID, not available) on at least one of the screening visit days.
+Key exclusion criteria were the following: previous exposure to omalizumab or ligelizumab,
+any other skin disease that is associated with
+chronic itching that might confound the trial
+evaluations and results, and a clearly defined
+underlying cause of chronic urticaria other than
+
+chronic spontaneous urticaria (e.g., inducible
+urticaria).
+
+The demographic and clinical characteristics
+of the patients and the disease activity were elicited or measured at baseline. The Chronic Urticaria Index (CU Index; Viracor-IBT Laboratories),
+an in vitro basophil histamine-release assay in
+which a serum sample obtained from a patient
+is mixed with donor basophils and the released
+histamine levels are measured by a quantitative
+enzyme immunoassay, was performed at baseline. A positive CU Index (scores range from 1 to
+50, with scores 210 representing a positive result) indicates that a patient has either an autoimmune basis for the urticaria or an alternative
+histamine-releasing factor that has been associated with greater disease severity than that in
+patients with a negative CU Index.**” The serum
+samples for this analysis were obtained centrally
+and analyzed by Viracor-IBT Laboratories. From
+the time that samples were obtained until analysis, they were kept frozen to ensure sample
+integrity.
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+1324
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+TRIAL PROCEDURES
+Patients were randomly assigned, in a 2:2:2:1:1:1
+ratio, to receive one of the following trial regimens: 240 mg of ligelizumab every 4 weeks, 72 mg
+of ligelizumab every 4 weeks, 300 mg of omalizumab every 4 weeks, 24 mg of ligelizumab every
+4 weeks, placebo every 4 weeks, or a single 120-mg
+dose of ligelizumab at week 0 followed by placebo
+every 4 weeks; the treatment period was 20 weeks
+(Fig. 1). The single 120-mg dose of ligelizumab
+was used to gain blinded washout information,
+to determine the level of ligelizumab in serum
+that was associated with the return of itch and
+hives symptoms, and to identify an appropriate
+administration interval for phase 3 trials.
+Adjustments to the doses of trial agents were
+not permitted. Nonsedating H,-antihistamines
+were used as background medication and as rescue medication as needed during the screening,
+treatment, and follow-up periods. This trial required concurrent use of H,-antihistamines (at
+locally approved doses or at increased doses up
+to four times the locally approved dose) alone
+or in combination with H,-antihistamines or
+leukotriene-receptor antagonists (montelukast,
+zafirlukast, or pranlukast) as background medication. It was recommended that patients continue taking a stable background medication
+throughout the trial, and patients were not permitted to switch their rescue medications.
+
+END-POINT MEASURES
+The main objective of the trial was to establish
+a dose-response relationship with respect to the
+achievement of complete hives response (weekly
+hives-severity score of 0) at week 12. Complete
+hives response was chosen as the primary end
+point because hives were considered to be a more
+objective symptom than itch and are specific to
+chronic spontaneous urticaria; itch is subjective
+and nonspecific and can be of different origins.
+We chose week 12 as the time point for the assessment of the primary end point because this
+was also the time point for the primary end
+point in phase 3 trials of omalizumab.°”°
+Secondary end points included the following:
+the efficacy of specific ligelizumab doses of 24 mg,
+72 mg, and 240 mg as compared with omalizumab at a dose of 300 mg with respect to the
+achievement of complete hives response at weeks
+12 and 20; the efficacy of ligelizumab at doses
+
+of 24 mg, 72 mg, and 240 mg as compared with
+placebo and with omalizumab at a dose of 300 mg
+in the mean change from baseline in the weekly
+hives-severity score, in the weekly itch-severity
+score (scores range from 0 to 21, with higher
+scores indicating greater severity; MID, 4.5 to
+5.0 points), in the weekly urticaria activity score,
+and in the weekly angioedema activity score
+(scores range from 0 to 105, with higher scores
+indicating greater severity; MID, not available);
+and the safety of ligelizumab as compared with
+placebo and with omalizumab at a dose of 300 mg
+during the 20 weeks of the treatment phase and
+24 weeks of follow-up.
+
+STATISTICAL ANALYSIS
+
+The null hypothesis of a constant dose-response
+curve for the primary efficacy end point was
+tested at a significance level of 5% against the
+one-sided alternative hypothesis of a nonconstant
+dose-response curve with the use of the multiple
+comparison procedure and modeling method,
+which indicates the potential dose-response relationship.*°*! The dose-response curve was modeled as a weighted average of prespecified model
+candidates with the use of bootstrap sampling.
+The dose-response model was derived from testing a range of ligelizumab doses, starting at 24 mg
+and then 72 mg and 240 mg, with placebo considered to be the zero dose. For the primary
+variable, patients who had data missing because
+of discontinuation before the week 12 assessment were considered not to have had a response,
+regardless of their last available assessment of
+the weekly hives-severity score.
+
+Since the statistical analysis plan did not include a provision for correcting for multiplicity
+when tests were conducted for secondary or other
+outcomes, results are reported as point estimates with 95% confidence intervals. This was
+a small and clinically nondirective trial. The widths
+of the confidence intervals have not been adjusted for multiplicity, so the intervals should
+not be used to infer any effects for secondary
+outcomes.
+
+ 
+
+RESULTS
+
+ 
+
+PARTICIPANTS
+A total of 574 patients were screened, of whom
+382 were randomily assigned to a trial group. A
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+total of 338 patients (88%) completed the treatment phase of the trial (Fig. $1 in the Supplementary Appendix, available at NEJM.org). There were
+no notable imbalances among the trial groups
+regarding the demographic and clinical characteristics of the patients at baseline (Table 1).
+
+PRIMARY END POINT
+
+The main objective of the trial was achieved, with
+ligelizumab showing a dose-response relationship with respect to the achievement of complete
+hives response (weekly hives-severity score of 0)
+at week 12 (primary end point) in patients with
+chronic spontaneous urticaria. The dose-response
+curve showed a steep dose-response relationship
+with a plateau starting close to the 72-mg dose
+of ligelizumab (Fig. 2A); no further improvement
+in response was noted with the 240-mg dose.
+
+SECONDARY END POINTS
+At week 12, a total of 30%, 51%, and 42% of the
+patients treated with 24 mg, 72 mg, and 240 mg,
+respectively, of ligelizumab had a complete hives
+response, as compared with 26% of the patients
+in the omalizumab group (Fig. 2B) and no patients in the placebo group. The response with
+the 72-mg dose of ligelizumab was maintained
+at week 20, with 51% of the patients having a
+response, as compared with 34% of those in the
+omalizumab group. A total of 45% of the patients in the group that received the 240-mg
+dose of ligelizumab had a response. The response
+regarding itch severity (weekly itch-severity score
+of 0) showed a pattern similar to that seen with
+the weekly hives-severity score. Details are provided in Figure S2 in the Supplementary Appendix.
+At week 12, a total of 30%, 44%, and 40% of
+patients treated with 24 mg, 72 mg, and 240 mg,
+respectively, of ligelizumab had complete control
+of symptoms (weekly urticaria activity score of 0),
+as compared with 26% of the patients in the
+omalizumab group and none of the patients in
+the placebo group (Fig. S2 in the Supplementary
+Appendix). At week 20, a response was observed
+in 39% of the patients who received the 72-mg
+dose of ligelizumab and in 40% of those who
+received the 240-mg dose, as compared with
+31% of those in the omalizumab group and 5%
+of those in the placebo group. After the end of
+the treatment phase, the median time to loss
+of response in patients who had had a response
+
+at week 20 was 3 weeks, 4 weeks, and 10.5 weeks
+among patients who received 24 mg, 72 mg, and
+240 mg, respectively, of ligelizumab, as compared
+with 4 weeks among patients in the omalizumab
+group and 1 week among those in the placebo
+group.
+
+The median (with interquartile ranges) and
+mean weekly hives-severity scores are shown in
+Figure 3. Patients in the groups that received the
+72-mg or 240-mg doses of ligelizumab had median weekly hives-severity scores close to 0 from
+weeks 12 to 20. The mean changes from baseline to week 32 in the weekly hives-severity
+score, itch-severity score, and urticaria activity
+score are shown in Figure S3 in the Supplementary Appendix. The single 120-mg dose of ligelizumab resulted in suppression of symptoms that
+was similar to that seen with the 72-mg and
+240-mg doses at week 4 and that lasted until
+week 8. At week 12, the mean changes from
+baseline in the angioedema activity score were
+-21.1, -37.6, and —27.3 among patients treated
+with 24 mg, 72 mg, and 240 mg, respectively,
+of ligelizumab, as compared with —23.1 in the
+omalizumab group and —23.6 in the placebo
+group (Fig. $3 in the Supplementary Appendix).
+
+SAFETY
+
+A higher proportion of adverse events that were
+considered by the investigators to be related to
+treatment was seen in the groups that received
+the 72-mg and 240-mg doses of ligelizumab
+than in the other groups (Table 2). These results
+were driven by mild or moderate injection-site
+reactions (in 4% of the patients in the 72-mg
+group and 7% of those in the 240-mg group) and
+by mild injection-site erythema (in 2% and 6%,
+respectively). All other adverse events that were
+considered to be possibly related to treatment
+during the trial were reported in three or fewer
+patients per group, with no meaningful differences among the trial groups. Serious adverse
+events were reported in 7%, 2%, and 2% of the
+patients treated with 24 mg, 72 mg, and 240 mg,
+respectively, of ligelizumab, as compared with
+4% of the patients treated with omalizumab and
+9% of those who received placebo.
+
+The most frequently reported adverse events
+(occurring in >10% of the patients overall) were
+viral upper respiratory tract infection (in 20%),
+upper respiratory tract infection (in 13%), and
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+The NEW ENGLAND JOURNAL of MEDICINE
+
+ 
+
+“Xapul] ND arnesau e yyIM squaijed ul yey} UeYy AqJaAas aseasip 40}e913 YUM payeldosse Uvaq Sey Jey} 10}9e} Bulseajas-aulWeysiy aAIjeuaye Ue JO BWedIN
+
+AY} JO} SIseq aUNWIUIOINe Ue JaYza sey quaijzed ayy yey} SayedIpu! (3jnsai aAlyisod e Suiuasaidas QT= Sas02s YUM ‘Og 0} T Woy aduel Sas0ds) Xapul (MD) BeIA DWUOIYD aalyisod y
+“ewuapao! sue asiom BuljedIpul Sas0Ds JaYysiy YIM ‘GOT O10 SulBues ajeds e& UO sep / Jo pouad e Jado AyAIIDe BWapac!sue sains
+
+“Bal YDIYM ‘asods AWAIIDe EWapao!sue Ajyaam ayy pue AeIg Ajleq Juaiyed BULA ay} YI 0} Bulpsodze paulUJajap SEM 9AM SNolAaid ayy JO} auljaseq Je ELapac!Bue jo adUasald
+“Auanas 4932313 Buljed!pul saiors 4dYBIY YIIM ‘Zp 0} Q WOY aBUeI Sa0Ig *saiods AydaAaS-SAAIY puke AjUAaAaS-YDI! AjaIM JY} JO ayIsoduod e n Apjaam ay
+*Kuanas sayea18 Bur
+
+0 Ayanas ay} ainseaw saiods AyJaAas-saaly pue AqWaAas-yo4! Apjaam ay
+‘doyeSysanul ayy Aq pauiwusajap 40 yualzed ayy Aq payodas sem arey
+“siaqjalu U! YSIay ayy jo asenbs ayy Aq papiaip swiesdo}!y Ul JY4SIaM ayy SI Xap! ssew-Apog ay
+
+“auljaseg ye squaljed ayy Jo soijsuayaeseYD [edIUI|> pue d14ydesZowap ayy Buipse8as sdnoud je ayy uowe saduejequ! ajqejou ou a1aMm asay| “GSF suka ase SanjeA snuIW—snid
+
+ 
+ 
+ 
+
+ 
+
+-JEDIPU! Sa1OIS J9YZIY YUM ‘TZ 0} 0 Wo BulBUeJ Sajers UO skep / Jo Pp
+
+ 
+
+iad eB sano ‘AjaAiydadsaJ ‘saaiy pue
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OCTOBER 3, 2019
+
+14 NEJM.ORG
+
+The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+N ENGLJ MED 381
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+
+ 
+
+Sullweysiyijue
+(zs) 812 (4s) ¥z (9s) ¥z (9s) 8% (8s) 6h 85) 6b (9s) vz “TH panoidde Ajje20] Jo asop parejersy
+(€v) vot (ev) Bt (br) 61 (br) ze (zy) 9¢ Zr) SE (ry) 61 aujweysiyijue-l} Jo asop panoidde Ajj2307
+uoljed paw punossy2eg
+(g€) spt (9€) st (€€) ot (6¢) €¢ (Ty) s¢ Be) ZE (z€) 91 (9%) ‘ou — xapu| e14e2 1347) D1UOAYD anisog
+6VZFL VE €9CF77E 6'v7F9'6E LUFT TE U82#8'7E O'S@F2'2b €91F0'°8Z aroos AAR eWapadiBue A)a2\A
+(gy) zat (ev) 81 (gs) sz (zs) by (94) 6€ 9) 6E (s'6¢) ZT 96) ‘OU — BUsapao|Bue Jo aduasaid
+vLFVOE 6 OFETE SOFTTE 6 LFE6Z ELFEOE CLFLTE UL¥9'8Z p2s098 Auanoe eLesiin Apjaan,
+VVFELT TvF8°ZT TVF9LT LyF9'91 TPFELT EvFTST SLOT Jarods Aqanas-santy ApjaaM\
+TvFUEL O'VF9'ET TvF9'€T ver Z1 EVFO'ET TvF9'€L Vers ZL §aroos Aqanas-you! Ap}aaAA
+0'00t‘rT-0 0688-0 0028-72 0'00L‘rI-0 O'08r£-0 O'%r6-0 0'0S0S-0 aBuey
+7L8 719 STIL 798 Tre O'LOT 788 ueIpa)
+14/1 — |ana| 331
+ak — eyediqin
+O9FE'Y SLFL'S SEFO'E SLATS OSFL'b vSF6'E OvFr'e snoauequods a1Uo4Yp Jo sisouselp aouis atu!)
+(€) zt (1 (a ¢€ (Dt (1) t (9°) € (Oe 2410
+(pz) €8z (pz) te (zz) te (62) 29 (92) s9 (g9) zs (pz) z€ SHUM,
+(sg (s) z 0 (9) 7 0 (az 0 pela
+(02) 92 (61) 8 (12) 6 (p0) (22) 6t (yz) 02 (61) 8 ueisy
+(>) 1 0 0 0 0 (1) t 0 uesyaUy aAneN
+£(96) ‘ou — aoey
+S9FELZ 69FS'LZ S9FYLZ 7 OFT8Z T9FELZ ULFS'8Z EOFELZ Lxepul ssew-Apog
+(sz) 982 (12) 0€ (zz) t€ (gz) 99 (62) £9 (ez) 19 (zz) t€ (%) ‘ou —xas ajewia4
+SUF ey Solty ty TILFH Sy Tels ly SO1F6 ty vULFE by volt yy 1k— aby
+(s8=N) (y8=N) (ev=N)
+Bw Ovz Bu 7, Bu Z
+(zge=N) (tv=N) (ev=N) (s8=N) aM ¢ Kiang ‘qeuinzya8r] aiysuay>ereYyD
+[eIoL asog a|8uis 3u-97T 0ga2e|d AM v Aang Bw 0OE
+‘qewinzie3t7 ‘qewinzijewo
+HIN) Snoaueyods >!U0IY> YUM SqUaljed JO SI1}SI4a}e4eYD [ED desZowag “T ajqe
+
+ 
+
+ 
+
+1326
+
+ 
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+ 
+
+ 
+
+A Dose-Response Curve for Ligelizumab vs. Omalizumab
+605
+
+Active comparator
+
+Percentage of Patients with Response
+
+ 
+
+ 
+
+ 
+
+T T T
+0 24 40 72 120 160 200 240
+
+Ligelizumab Dose (mg)
+
+ 
+
+B_ Response at Week 12
+End Point, According
+to Treatment Group Patients with Response Odds Ratio (95% Cl)
+no. /total no. (%)
+
+Weekly hives-severity score of 0 '
+Ligelizumab, 24 mg every 4 wk 13/43 (30) | 1.22 (0.54-2.74)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ligelizumab, 72 mg every 4 wk 43/84 (51) 1-4 2.90 (1.52-5.55)
+Ligelizumab, 240 mg every 4 wk 36/85 (42) ———_— 2.06 (1.08-3.95)
+Omalizumab, 300 mg every 4 wk 22/85 (26) :
+
+Weekly itch-severity score of 0 :
+Ligelizumab, 24 mg every 4 wk 17/43 (40) hb 1.54 (0.71-3.33)
+Ligelizumab, 72 mg every 4 wk 40/84 (48) : a 2.15 (1,144.06)
+Ligelizumab, 240 mg every 4 wk 36/85 (42) be 1.75 (0.92-3.31)
+Omalizumab, 300 mg every 4 wk 25/85 (29) q
+
+Weekly urticaria activity score of 0 ;
+Ligelizumab, 24 mg every 4 wk 13/43 (30) — 1.22 (0.54-2.75)
+Ligelizumab, 72 mg every 4 wk 37/84 (44) fae 2.19 (1.14-4.19)
+Ligelizumab, 240 mg every 4 wk 34/85 (40) 4 1.88 (0.98-3.61)
+Omalizumab, 300 mg every 4 wk 22/85 (26) '
+
+ol 10 10.0
+
+Omalizumab Better _Ligelizumab Better
+
+ 
+
+Figure 2. Dose-Response Curve for Hives-Severity Response at Week 12 and Forest Plot of the Odds Ratios
+for Response at Week 12.
+
+Panel A shows the dose-response curve with the median of 1000 bootstrap samples; the shaded area indicates the
+20th to 80th percentile. Dots with error bars represent point estimates and an asymptotic 60% confidence interval
+for each dose in observed data. The active comparator was omalizumab. The weekly hives-severity score measures
+the severity of hives over a period of 7 days on a scale ranging from 0 to 21, with higher scores indicating greater severity. One sample with an artificial response was created in the placebo group to achieve model fit. Panel B shows
+a forest plot of the odds ratios (ligelizumab vs. omalizumab) for response (defined as a score of 0 on each assessment) at week 12. The primary end point of complete hives response (weekly hives-severity score of 0) was assessed
+at week 12. Secondary end points included the weekly itch-severity and urticaria activity scores. The weekly itchseverity score measures the severity of itch over a period of 7 days on a scale ranging from 0 to 21, with higher
+scores indicating greater severity. The weekly urticaria activity score is a composite of the weekly itch-severity and
+hives-severity scores; the scale ranges from 0 to 42, with higher scores indicating greater severity. Missing data were
+imputed as no response. The statistical model used logistic regression with adjustment for background medication
+type and score on the Chronic Urticaria Index (CU Index); one patient was not included in the model because the
+patient did not have a CU Index score at baseline.
+
+ 
+
+ 
+
+ 
+
+ 
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+
+1327
+1328
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+ 
+
+ 
+
+A Ligelizumab, 24 mg Every 4 Wk
+
+ 
+
+B Ligelizumab, 72 mg Every 4 Wk
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i) 4 8 12 16 20 24 28 32
+Week
+
+» 2
+= 20+ 5 204
+8 g
+a a
+> >
+= 15 = 1s]
+3% a
+a a
+» 104 ® 104
+3 3
+z =
+= =
+= 55 = 3
+= =
+On TT T T T y 0- +
+0 4 8 12 16 20 24 28 32 0 4 8 12 16 20 24 28 32
+Week Week
+C Ligelizumab, 240 mg Every 4 Wk D Ligelizumab, 120-mg Single Dose
+» 2
+= 20- 5 204
+8 $
+a a
+> >
+=€ 154 2 154
+g S
+& a
+ide Al
+8 10+ g 105
+= =
+Eo ee
+2 35 = $+
+3 3
+= =
+0 0- + t T t
+i} 4 8 12 16 20 24 28 32 i) 4 8 12 16 20 24 28 32
+Week Week
+E Omalizumab, 300 mg Every 4 Wk F Placebo
+» 2
+= 20- 5 204
+8 g
+a a
+> >
+= 154 = 1s
+g $
+o a
+a a
+® 104 ® 104
+3 3
+= z
+pa po ot
+=> 3 => XH
+3 3
+= =
+0 T 1—t 0 T T T T y t
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of
+a
+co
+
+12 16 20 24 28 32
+Week
+
+ 
+
+ 
+
+Figure 3. Hives-Severity Scores from Baseline to Week 32, According to Trial Group.
+
+The horizontal lines within the boxes represent median values, the boxes represent interquartile ranges, and the
+vertical lines represent the data ranges. Colored lines represent mean values. The scale for the weekly hives-severity
+score ranges from 0 to 21, with higher scores indicating greater severity.
+
+ 
+
+ 
+
+ 
+
+headache (in 11%). Viral upper respiratory tract
+infection was reported more frequently in the
+placebo group (30%) than in the four groups that
+received ligelizumab (15 to 24%) or in the omalizumab group (20%). No deaths or anaphylaxis
+events were reported in any of the trial groups.
+
+ 
+
+DISCUSSION
+
+ 
+
+Most currently available therapies for chronic
+spontaneous urticaria do not result in complete
+
+control of symptoms in the majority of patients.
+The main objective of this trial was achieved,
+with a clear dose-response relationship being
+observed with ligelizumab in the achievement of
+complete hives response (weekly hives-severity
+score of 0) at week 12 (primary end point) in
+patients with chronic spontaneous urticaria. Our
+trial showed that 72 mg of ligelizumab, administered subcutaneously every 4 weeks, resulted in
+complete hives response in 51% of the patients,
+whereas 26% of the patients treated with omaliz
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+ 
+
+-dnoi8 Aue ul squaijed ayy yo %OT 3sea| 1e
+
+ 
+
+pa.ind90 Jey} aso) Se pauyap a1aM Sjuana asiaApe juanbay ysow ay]
+
+ 
+
+(11) ev
+(€1) 6r
+(02) 22
+
+(8
+(€) ot
+(91) ¢9
+(61) zz
+(28
+(s) st
+(2) 92
+(te) £11
+(oy) Zs
+(22) s6z
+
+(zg¢=N)
+[e101
+
+(21
+(tz) 6
+(yz) ot
+
+(2) 1
+0
+(pz) ot
+(rt) 9
+(3) z
+(ot) y
+(s) z
+(t€) €t
+(zs) 7
+(gg) 2€
+
+(<v=N)
+asog asuls 3w-9ZT
+‘qeuinzije3r7
+
+(oD) Z (pt) 2
+(rt) 9 (21) ot
+(o€) et (02) zt
+0 0
+(at 0
+(6) 7 (11) 6
+(gz) zt (8) ¢
+(s) z (2 z
+(6) + (y) €
+(91) Z (9) ¢
+(gz) 21 (sz) tz
+(s¢) st (ev) 9¢
+(62) ve (ez) 79
+
+(juaaad) squaiiod fo saquinu
+
+(ev=N) (s8=N)
+oqareld 4AM ¥ Atong Bu OOE
+‘qeuinz|jewo
+
+(8) z
+(21) ot
+(02) 21
+
+(9) ¢
+(9
+(22) 6t
+(82) oz
+(1
+(2)z
+(r) €
+(€€) 82
+(g¢) ze
+(rz) €9
+
+(sg=N)
+Bw vz
+
+(11) 6
+(3) Z
+(st) €t
+
+(az
+(p) €
+(st) €t
+(12) gt
+(Dt
+(az
+(9) s
+(z€) £2
+(z€) Te
+(sz) €9
+
+(y8=N)
+Bw 7
+
+(91) z
+(91) Z
+(91) z
+
+0
+0
+(61) 8
+(21) ¢
+0
+(Oe
+(6) +
+(z¢) 9t
+(¢¢) 91
+(¥) 9¢
+
+(¢y=N)
+Bw yz
+
+AM ¢ Mang ‘qeuinzija317
+
+ayrepeay
+
+uol}ayju! 49e13 Aioyesidsas addy
+
+uol}pajut 49e13 Aroyesidsas saddn jes,
+S]Uaha asiaApe juanbayy sop
+
+-U01qDa[U]
+
+ 
+
+euwaysiia a:
+
+uondeal ayis-uolpaluy
+
+ 
+
+ 
+
+UOD a}1S-UO!Te4}SIUILUPe 40 JaPAOSIP [eau
+quatyeasy 0} payejay Ajqissod yuana assaape auo 4sea| WW
+UO!JENU!JUODSIP 0} Bulpea| JUaAa asiaAPY
+quana assaApe Snoas auo {sea} IW
+a4anas
+ayesapow
+PIL
+Juana asiaApe auo ysea|
+
+aiqeuen
+
+ 
+
+ 
+
+*s]UaAq ASABAPY "7 B/GeL
+
+ 
+
+1329
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+1330
+
+The NEW ENGLAND JOURNAL of MEDICINE
+
+umab at a dose of 300 mg, which is the dose that
+has been considered to be effective in other
+studies,°*! had this response.
+
+The frequency of response according to the
+weekly urticaria activity score in the omalizumab
+group at week 12 was lower than in previous
+studies (34 to 44%).°*! An explanation for this
+finding may be that a higher percentage of patients in our trial had a positive CU Index (indicating an autoimmune type IIb component to
+their chronic spontaneous urticaria), had angioedema (Table 1), and had received treatment
+with elevated doses of H,-antihistamines or combination therapies. Previous studies have shown
+that a positive CU Index was associated with
+increased severity of chronic urticaria and that
+significantly more patients with refractory chronic urticaria had a positive CU Index than those
+who had had a response to H,-antihistamines.*””
+
+In the current trial, responses according to
+changes from baseline in the weekly hives-severity score, itch-severity score, and urticaria activity
+score were observed as early as week 4 after receipt of the 72-mg, 120-mg, and 240-mg doses
+of ligelizumab, thus indicating an onset of action within this time frame for ligelizumab. The
+suppression of symptomis after the single 120-mg
+dose of ligelizumab was maintained until week
+8, after which symptoms returned to the level
+observed with placebo. In contrast, a partial relapse of symptoms was noted with the 72-mg
+dose of ligelizumab toward the end of the
+4-week administration interval. These data suggest that although the 72-mg dose of ligelizumab
+led to rapid control of symptoms, a dose higher
+than 72 mg could potentially provide enough
+drug effect throughout the administration interval to minimize relapse of symptoms and offer
+sustained control of symptoms throughout the
+4-week administration interval. In support of
+this sustained treatment effect, the median time
+to loss of complete response in patients who had
+a weekly urticaria activity score of 0 at week 20
+(end of the treatment phase) was greatest in the
+group that was treated with 240 mg of ligelizumab (10.5 weeks) and was similar in the
+groups that received 72 mg of ligelizumab or
+300 mg of omalizumab (4 weeks). Previous stud
+ies of omalizumab have indicated that some patients have a return of symptoms within 4 weeks
+(i.e., before the administration of the next
+dose).>?* Future studies will be needed to determine the dose of ligelizumab that results in a
+sustained clinical response throughout the administration interval.
+
+The percentage of patients who had at least
+one adverse event was similar among the ligelizumab dose groups, the omalizumab group, and
+the placebo group. Adverse events were reported
+in 84%, 75%, and 74% of the patients who were
+treated with 24 mg, 72 mg, and 240 mg, respectively, of ligelizumab every 4 weeks and in 88%
+of the patients who received the single 120-mg
+dose of ligelizumab, 73% of those in the omalizumab group, and 79% of those in the placebo
+group. The higher incidence of injection-site reactions and injection-site erythema observed with
+ligelizumab at the doses of 72 mg and 240 mg
+than in the other groups may have been associated with differences in the administration volumes and compositions. The administration of
+the 240-mg dose of ligelizumab involved two
+injections of active drug (1.0 ml each), as compared with injections of one active drug (0.6 ml)
+and one placebo (0.6 ml) that were used for the
+72-mg dose. No cases of anaphylaxis were reported in this trial.
+
+In conclusion, in patients with moderate-tosevere chronic spontaneous urticaria, ligelizumab
+showed a clear dose-response relationship with
+regard to complete hives response (weekly hivesseverity score of 0) at week 12. Ligelizumab resulted in rapid and sustained symptom control
+in patients with chronic spontaneous urticaria.
+In this small trial, side effects or laboratory abnormalities were not dose-limiting. Larger and
+longer trials are needed to establish the clinical
+efficacy of ligelizumab in patients with chronic
+spontaneous urticaria and its comparative pro
+file with that of omalizumab.
+
+A data sharing statement provided by the authors is available
+with the full text of this article at NEJM.org.
+
+Supported by Novartis Pharma.
+
+Disclosure forms provided by the authors are available with
+the full text of this article at NEJM.org.
+
+We thank Martin Wallace, Ph.D., of Novartis Ireland, for providing medical writing assistance in accordance with Good Publication Practice guidelines (www.ismpp.org/gpp3).
+
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+The New England Journal of Medicine
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+APPENDIX
+The authors’ full names and academic degrees are as follows: Marcus Maurer, M.D., Ana M. Giménez-Arnau, M.D., Ph.D., Gordon
+Sussman, M.D., Martin Metz, M.D., Diane R. Baker, M.D., Andrea Bauer, M.D., Jonathan A. Bernstein, M.D., Randolf Brehler, M.D.,
+Chia-Yu Chu, M.D., Ph.D., Wen-Hung Chung, M.D., Inna Danilycheva, M.D., Clive Grattan, M.D., Jacques Hébert, M.D., Constance
+Katelaris, M.D., Ph.D., Michael Makris, M.D., Raisa Meshkova, M.D., D.Sc., Sinisa Savic, M.D., Ph.D., Rodney Sinclair, M.D., Karl Sitz,
+M.D., Petra Staubach, M.D., Bettina Wedi, M.D., Jiirgen Léffler, Ph.D., Avantika Barve, Ph.D., Kenneth Kobayashi, M.D., Eva Hua,
+M.Sc., Thomas Severin, M.D., and Reinhold Janocha, Ph.D.
+
+The authors’ affiliations are as follows: the Department of Dermatology and Allergy, Charité-Universitatsmedizin Berlin, Berlin (M.
+Maurer, M. Metz), the Department of Dermatology, University Allergy Center, University Hospital Carl Gustav Carus, Technical University Dresden, Dresden (A. Bauer), the Department of Dermatology, University Hospital Miinster, Miinster (R.B.), the Department of
+Dermatology, University Medical Center Mainz, Mainz (P.S.), and the Department of Dermatology and Allergy, Comprehensive Allergy
+Center, Hannover Medical School, Hannover (B.W.) — all in Germany; the Dermatology Department, Hospital del Mar-Institut Hospital del Mar d’Investigacions Médiques, Universitat Autonoma Barcelona, Barcelona (A.M.G.-A.); the Division of Allergy and Clinical
+Immunology, St. Michael’s Hospital and University of Toronto, Toronto (G.S.), Service d’Allergie, Centre Hospitalier Université Laval—
+Centre Hospitalier Universitaire de Québec, Quebec, QC JJ.H.), and the Department of Medicine, University of Ottawa, Ottawa (K.K.)
+— all in Canada; Baker Allergy Asthma and Dermatology Clinic, Portland, OR (D.R.B.); University of Cincinnati College of Medicine,
+Department of Internal Medicine, Division of Immunology, Rheumatology, and Allergy and Bernstein Clinical Research Center, Cincinnati (J.A.B.); the Department of Dermatology, National Taiwan University Hospital and National Taiwan University College of Medicine
+(C.-Y.C.), and the Department of Dermatology, Chang Gung Memorial Hospital (W.-H.C.), Taipei, Taiwan; the National Research
+Center—Institute of Immunology Federal Medical—Biological Agency of Russia, Moscow (1.D.), and the Department of Clinical Immunology and Allergology, Smolensk State Medical University, Smolensk (R.M.) — both in Russia; St. John’s Institute of Dermatology, Guy’s
+and St. Thomas’ Hospitals NHS Foundation Trust, London (C.G.), and the National Institute for Health Research—Leeds Biomedical
+Research Centre and Leeds Institute of Rheumatic and Musculoskeletal Medicine, and the Department of Clinical Immunology and
+Allergy, St. James’s University Hospital, Leeds (S.S.) — all in the United Kingdom; the School of Medicine, Western Sydney University,
+and the Immunology and Allergy Unit, Campbelltown Hospital, Campbelltown, NSW (C.K.), and Sinclair Dermatology and the Epworth
+Hospital, Melbourne, VIC (R.S.) — all in Australia; the Second Department of Dermatology and Venereology, Attikon University Hospital, Athens (M. Makris); Little Rock Allergy and Asthma Clinic, Little Rock, AR (K.S.); Novartis Pharma, Basel, Switzerland (J.L., T-S.,
+
+RJ.); Novartis Pharmaceuticals, East Hanover, NJ (A. Barve, K.K.); and Shanghai Novartis Trading, Shanghai, China (E.H.).
+
+ 
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, et al.
+The EAACI/GA LEN/EDE/WAO guideline
+for the definition, classification, diagnosis and management of urticaria. Allergy
+2018;73:1393-414.
+
+2. Grattan C. The urticarias: pathophysiology and management. Clin Med (Lond)
+2012;12:164-7.
+
+3. Gaig P, Olona M, Mufioz Lejarazu D,
+et al. Epidemiology of urticaria in Spain.
+J Investig Allergol Clin Immunol 2004;14:
+214-20.
+
+4. Raciborski F, Klak A, CzarneckaOperacz M, et al. Epidemiology of urticaria
+in Poland — nationally representative survey results. Postepy Dermatol Alergol
+2018;35:67-73.
+
+5. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of
+urticaria: a representative cross-sectional
+population survey. Clin Exp Dermatol
+2010;35:869-73.
+
+6. Maurer M, Weller K, Bindslev-Jensen
+C, et al. Unmet clinical needs in chronic
+spontaneous urticaria: a GALEN task force
+report. Allergy 2011;66:317-30.
+
+7. van der Valk PG, Moret G, Kiemeney
+LA. The natural history of chronic urticaria and angioedema in patients visiting
+a tertiary referral centre. Br J Dermatol
+2002;146:110-3.
+
+8. Maurer M, Abuzakouk M, Bérard F,
+et al. The burden of chronic spontaneous
+
+urticaria is substantial: real-world evidence from ASSURE-CSU. Allergy 2017;
+72:2005-16.
+
+9. Kaplan AP. Chronic urticaria — new
+concepts regarding pathogenesis and treatment. Curr Allergy Asthma Rep 2002;2:
+263-4.
+
+10. Sabroe RA, Greaves MW. Chronic idiopathic urticaria with functional autoantibodies: 12 years on. Br J Dermatol 2006;
+154:813-9.
+
+11. Kolkhir P. Autoimmune chronic spontaneous urticaria: what we know and
+what we do not know. J Allergy Clin Immunol 2017;139:1772-81.
+
+12. Schmetzer O, Lakin E, Topal FA, et al.
+IL-24 is a common and specific autoantigen of IgE in patients with chronic spontaneous urticaria. J Allergy Clin Immunol
+2018;142:876-82.
+
+13. Altrichter S, Peter HJ, Pisarevskaja D,
+Metz M, Martus P, Maurer M. IgE mediated autoallergy against thyroid peroxidase — a novel pathomechanism of
+chronic spontaneous urticaria? PLoS One
+2011;6(4):e14794.
+
+14. Kaplan AP. Chronic spontaneous urticaria: pathogenesis and treatment considerations. Allergy Asthma Immunol Res
+2017;9:477-82.
+
+15. Guillén-Aguinaga S, Jauregui Presa I,
+Aguinaga-Ontoso E, Guillén-Grima F,
+Ferrer M. Updosing nonsedating antihis
+tamines in patients with chronic spontaneous urticaria: a systematic review and
+meta-analysis. Br J Dermatol 2016;175:
+1153-65.
+
+16. Curto-Barredo L, Spertino J, FiguerasNart I, et al. Omalizumab updosing allows
+disease activity control in patients with
+refractory chronic spontaneous urticaria.
+Br J Dermatol 2018;179:210-2.
+
+17. Zhao ZT, Ji CM, Meng L, et al.
+Omalizumab for the treatment of chronic spontaneous urticaria: a meta-analysis of randomized clinical trials. J Allergy Clin Immunol 2016;137:1742-50.
+
+18. Maurer M, Kaplan A, Rosén K, et al.
+The XTEND-CIU study: long-term use of
+omalizumab in chronic idiopathic urticaria. J Allergy Clin Immunol 2018;141:1138-9,
+19. Kaplan A, Ledford D, Ashby M, et al.
+Omalizumab in patients with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin Immunol 2013;132:
+101-9.
+
+20. Maurer M, Rosén K, Hsieh H-J, et al.
+Omalizumab for the treatment of chronic
+idiopathic or spontaneous urticaria. N Engl
+J Med 2013;368:924-35.
+
+21. Saini SS, Bindsley-Jensen C, Maurer
+M, et al. Efficacy and safety of omalizumab in patients with chronic idiopathic]
+spontaneous urticaria who remain symptomatic on H1 antihistamines: a random
+N ENGLJ MED 381;14 NEJM.ORG OCTOBER 3, 2019
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+The New England Journal of Medicine
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+
+1331
+1332
+
+LIGELIZUMAB FOR CHRONIC SPONTANEOUS URTICARIA
+
+ized, placebo-controlled study. J Invest
+Dermatol 2015;135:67-75.
+
+22. Casale TB, Bernstein JA, Maurer M,
+etal. Similar efficacy with omalizumab in
+chronic idiopathic/spontaneous urticaria
+despite different background therapy.
+J Allergy Clin Immunol Pract 2015;3:74350.
+
+23. Arm JP, Bottoli I, Skerjanec A, et al.
+Pharmacokinetics, pharmacodynamics and
+safety of QGE031 (ligelizumab), a novel
+high-affinity anti-IgE antibody, in atopic
+subjects. Clin Exp Allergy 2014;44:1371-85.
+24. Hollis K, Proctor C, McBride D, et al.
+Comparison of Urticaria Activity Score
+over 7 days (UAS7) values obtained from
+once-daily and twice-daily versions: results from the ASSURE-CSU Study. Am J
+Clin Dermatol 2018;19:267-74.
+
+25. Hawro T, Ohanyan T, Schoepke N, et al.
+
+Comparison and interpretability of the
+available Urticaria Activity Scores. Allergy
+2018;73:251-5.
+
+26. Stull D, McBride D, Tian H, et al.
+Analysis of disease activity categories in
+chronic spontaneous/idiopathic urticaria.
+Br J Dermatol 2017;177:1093-101.
+
+27. Mathias SD, Crosby RD, Rosén KE,
+Zazzali JL. The minimal important difference for measures of urticaria disease activity: updated findings. Allergy Asthma
+Proc 2015;36:394-8.
+
+28. Biagtan MJ, Viswanathan RK, Evans
+MD, Mathur SK. Clinical utility of the
+Chronic Urticaria Index. J Allergy Clin
+Immunol 2011;127:1626-7.
+
+29. Viswanathan RK, Biagtan MJ, Mathur
+SK. The role of autoimmune testing in
+chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol 2012;108:337-41.
+
+30. Bretz F, Pinheiro JC, Branson M. Combining multiple comparisons and modeling techniques in dose-response studies.
+Biometrics 2005;61:738-48.
+
+31. Pinheiro J, Bornkamp B, Glimm E,
+Bretz F. Model-based dose finding under
+model uncertainty using general parametric models. Stat Med 2014;33:1646-61.
+32. Tiirk M, Kocatiirk E, Ciire K, Yilmaz I.
+Two-week intervals during omalizumab
+treatment may provide better symptom
+control in selected patients with chronic
+urticaria. J Allergy Clin Immunol Pract
+2018;6:1389-90.
+
+33. Larenas-Linnemann DES, Parisi CAS,
+Ritchie C, et al. Update on omalizumab
+for urticaria: what’s new in the literature
+from mechanisms to clinic. Curr Allergy
+Asthma Rep 2018;18(5):33.
+
+Copyright © 2019 Massachusetts Medical Society.
+
+ 
+
+ 
+
+ 
+
+ARTICLE METRICS NOW AVAILABLE
+
+Visit the article page at NEJM.org and click on Metrics to view comprehensive and
+cumulative article metrics compiled from multiple sources, including Altmetrics.
+
+NEJM.org/about-nejm/article-metrics.
+
+ 
+
+ 
+
+ 
+
+N ENGLJ MED 381;14 NEJM.ORG
+
+The New England Journal of Medicine
+
+OCTOBER 3, 2019
+
+Downloaded from nejm.org at UNIVERSITY OF LEEDS on October 28, 2019. For personal use only. No other uses without permission.
+
+Copyright © 2019 Massachusetts Medical Society. All rights reserved.
+

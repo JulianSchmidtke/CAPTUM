@@ -1,0 +1,824 @@
+PROFESSOR FRANZISKA RUEFF (Orcid ID : 0000-0001-7109-8031)
+
+Received Date : 27-Apr-2016
+Revised Date : 05-Oct-2016
+Accepted Date : 12-Jan-2017
+
+Article type —: Original Article-Epidemiology of Allergic Disease
+
+H1-antihistamine-refractory chronic spontaneous urticaria:
+It’s worse than we thought — first results of the multicenter
+real-life AWARE study
+
+Marcus Maurer’, Petra Staubach’, Ulrike Raap*, Grit Richter-Huhn*, Andrea
+Bauer’, Franziska Ruéff®, Thilo Jakob”®, Amir S. Yazdi°, Vera Mahler’°, Nicola
+Wagner", Undine Lippert'”, Uwe Hillen'?, Andreas Schwinn", Mario Pawlak’®,
+Norbert Behnke'®, Kamel Chaouche”’ and Nadine Chapman-Rothe™®
+
+‘Department of Dermatology and Allergy, Charité - Universitatsmedizin Berlin, Berlin, Germany;
+*Department of Dermatology, University Hospital Mainz, Mainz, Germany; *Department of
+Dermatology and Allergy, Hannover Medical School, Hannover, Germany; ‘Hautarztpraxis, Dresden,
+Germany; *Department of Dermatology. University Allergy Center, University Hospital Carl Gustav
+Carus, Technical University Dresden, Germany; ‘Department of Dermatology and Allergology,
+Ludwig-Maximilian University, Munich, Germany; ‘Department of Dermatology and Allergology,
+Justus Liebig University, University Medical Center Gief&en and Marburg, Gie&en, Germany;
+8Department of Dermatology, Medical Center - University of Freiburg, Freiburg, Germany;
+°Department of Dermatology, University of Tubingen, Tubingen, Germany; Department of
+Dermatology, University Hospital Erlangen, Erlangen, Germany; ‘Department of Dermatology,
+Clinical Centre Darmstadt, Darmstadt, Germany; Department of Dermatology, Venereology and
+Allergology, University Medical Center, Georg-August-University, Gottingen, Germany;
+Department of Dermatology, University Hospital of Essen, University of Duisburg-Essen, Essen,
+Germany; “Praxis fiir Dermatologie, Memmingen, Germany; ‘Hautarztpraxis, Heilbad Heiligenstadt,
+Germany; ‘Hautarztpraxis, Panketal, Germany; ‘’Novartis Pharma AG, Basel, Switzerland; ‘Novartis
+Pharma GmbH, Nurnberg, Germany
+
+*These authors have contributed equally to the manuscript
+
+Condensed title: CSU characteristics — results of the AWARE study
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/cea.12900
+
+This article is protected by copyright. All rights reserved.
+Corresponding author:
+Professor Marcus Maurer,
+
+Dpt. of Dermatology and Allergy,
+Allergie-Centrum-Charité,
+
+Charité - Universitatsmedizin Berlin,
+Charitéplatz 1, D-10117 Berlin,
+Germany
+
+Tel +49 30 450 518 043
+Fax +49 30 450 518 972
+
+Email: marcus.maurer @charite.de
+
+Abstract
+Background: Most data on chronic spontaneous urticaria (CSU) originate from highly
+
+selected patient populations treated at specialized centers. Little is known about CSU patient
+characteristics and the burden of CSU in routine clinical practice. AWARE (A World-wide
+Antihistamine-Refractory chronic urticaria patient Evaluation) is an ongoing global study
+
+designed to assess chronic urticaria in the real-life setting.
+
+Objective: To describe the baseline characteristics of the first 1,539 German AWARE
+
+patients with H1-antihistamine-refractory CSU.
+
+Methods: This prospective non-interventional study included patients (18 to 75 years) with a
+diagnosis of H1-antihistamine-refractory CSU for >2 months. Baseline demographic and
+disease characteristics, comorbidities, and pharmacological treatments were recorded.
+Quality of life (QoL) was assessed using the dermatology life quality index (DLQI), chronic
+urticaria QoL questionnaire (CU-Q20L), and angioedema QoL questionnaire (AE-QoL; in
+cases of angioedema). Previous healthcare resource utilization and sick leave data were
+collected retrospectively.
+
+Results: Between March and December 2014, 1,539 patients were assessed in 256 sites
+across Germany. The percentage of females, mean age, and mean body mass index was
+70%, 46.3 years, and 27 kg/m’, respectively. The mean UCT score was 7.9, 1 in 2 patients
+
+had angioedema, and the most frequent comorbidities were chronic inducible urticaria
+
+This article is protected by copyright. All rights reserved.
+(CIndU; 24%), allergic rhinitis (18.2%), hypertension (18.1%), asthma (12%), and depression
+(9.5%). Overall, 57.6% of patients were receiving at least one pharmacological treatment
+including second generation H1-antihistamines (46.3%), first generation H1-antihistamines
+(9.1%), and corticosteroids (15.8%). The mean DLQI, total CU-Qz0L, and total AE-QoL
+scores were 8.3, 36.2, and 46.8, respectively. CSU patients reported frequent use of
+healthcare resources, including emergency services (29.7%), general practitioners (71.9%),
+
+and additional allergists or dermatologists (50.7%).
+
+Conclusion & Clinical Relevance: This study reveals that German H1-antihistaminerefractory CSU patients have high rates of uncontrolled disease, angioedema, and comorbid
+
+ClndU, are undertreated, have impaired QoL, and rely heavily on healthcare resources.
+
+Introduction
+
+Chronic urticaria (CU), one of the most frequent skin disorders, is defined as the repeated
+occurrence of red, swollen, itchy and sometimes painful hives (wheals), and/or angioedema
+(swellings in the deeper layers of the skin), for more than 6 weeks [1, 2]. CU has an
+estimated worldwide prevalence of approximately 1% [3], which includes spontaneous and
+inducible types. In chronic spontaneous urticaria (CSU), the most common type of CU,
+symptoms occur without a specific trigger [1, 3]. In contrast, in chronic inducible urticaria
+(ClIndU), symptoms occur in response to specific stimuli, such as exposure to cold, heat or
+
+pressure [4]. Patients may suffer from CSU and CindU in parallel [2].
+
+Most previously published data on CSU patients originate from highly selected patient
+populations treated at specialized centers, which tend to treat patients who suffer from
+severe disease, and may not reflect the average patient [5, 6]. Thus, little is known about the
+burden of disease, the use of healthcare resources and the socio-economic burden of the
+majority of H1-antihistamine-refractory CSU patients treated by office-based physicians.
+
+Previous publications have shown that, despite the available S3-CU guidelines [1, 3, 7], in
+
+This article is protected by copyright. All rights reserved.
+routine clinical practice CU is perceived as hard to treat, cost intensive, time-consuming, and
+
+problematic [8].
+
+Many questions remain unanswered and need to be addressed in the broader H1antihistamine-refractory CSU population: What is the average disease activity? How
+frequently does angioedema occur in CSU patients? How often do CSU and ClndU occur in
+the same patient? Is the treatment of patients in line with the current guidelines? How are
+CSU patients affected in their daily lives, and what impact does CSU have on patient quality
+of life (QoL)? How do CSU patients use the available healthcare resources? These
+questions must be answered to improve the treatment and management of CSU patients in
+
+routine clinical practice.
+
+AWARE (A World-wide Antihistamine-Refractory chronic urticaria patient Evaluation) is an
+ongoing prospective non-interventional study (NIS) that assesses the therapy regimens,
+burden of disease and rates of healthcare resource utilization of H1-antihistamine-refractory
+CU patients treated by office-based dermatologists or specialized urticaria centers. Here, we
+report the baseline characteristics, disease activity, frequency of angioedema and other
+comorbidities, pharmacological treatment, QoL, and the rates of healthcare resource
+
+utilization of more than 1,500 German AWARE patients.
+
+Methods
+
+Patients and Study Design
+
+AWARE is an ongoing prospective NIS that will follow CU patients, who are refractory to at
+least the approved dose of one H1-antihistamine, for two years. The present study reports
+on German H1-antihistamine-refractory patients who were enrolled in urticaria centers and
+office-based dermatological practices between March 2014 and December 2014. Urticaria
+
+centers and office-based dermatologists were initially informed about the trial via a letter;
+
+This article is protected by copyright. All rights reserved.
+study sponsor Medical Scientific Experts also informed urticaria centers in person. Any
+center or dermatologist that indicated interest in participating was subsequently visited
+before beginning the trial. In Germany, 56% of office-based dermatologists (IMS OneKey,
+The Worldwide Healthcare Professional Database) and virtually all dermatologists at
+
+urticaria centers are also allergists or allergists in training.
+
+Patients who received a medically confirmed diagnosis of CSU that had been present for
+longer than 2 months, who were refractory to treatment with H1-antihistamines (evidence of
+failed labelled dose or up-to 4 fold labelled dose), 218 years and able to provide informed
+consent were eligible for inclusion in this study. Patients were excluded from the study if
+difficulties were anticipated with patient follow-up or if they were participating in a CU
+
+indication (or similar) clinical trial.
+
+Patients were informed about the study, and written consent was obtained from each patient
+at the first visit. During the first visit, demographic data (including height, weight, age, and
+gender), disease activity, comorbidities, current pharmacological treatment, satisfaction with
+current treatment (using a visual analog scale [VAS]), and health-related QoL were
+assessed. Patients also reported how frequently they had missed work (sick leave) and how
+frequently they had visited additional healthcare resources (including emergency services;
+hospitalizations; general practitioners; specialized urticaria centers; dermatologists;
+allergists; ear, nose, and throat specialists; dentists; and alternative practitioners) since their
+
+urticaria symptoms first appeared.
+
+Patient-reported outcomes
+
+Four patient-reported outcomes (PROs: urticaria control test [UCT], dermatology QoL index
+[DLQI], chronic urticaria QoL questionnaire [CU-Q,oL] and, for patients with angioedema,
+the angioedema QoL questionnaire [AE-QoL]) were offered and used to assess disease
+
+control and the impact of CSU on patients’ QoL. UCT is a new PRO tool, which
+
+This article is protected by copyright. All rights reserved.
+retrospectively assesses patients’ burden of disease over the previous four weeks. UCT
+consists of four questions that cover disease activity, QoL, disease control, and therapy. A
+UCT score of 212 points (range from 0 to 16 points) indicates that a patient’s urticaria is
+controlled and a score of <12 points indicates that the urticaria is uncontrolled [9]. The DLQI
+consists of 10 items covering six subdomains: symptoms and feelings, daily activities,
+leisure, work and school, personal relationships, and treatment. An overall DLQI score
+(range from 0 to 30 points) of 0-1, 2-5, 6-10, 11-20 and 21-30 indicates that CSU is having
+no effect, a small effect, a moderate effect, a very large effect, or an extremely large effect
+on a patient's QoL, respectively [10]. The CU-Q,0L is a self-administered 23-item
+questionnaire used to assess CSU-specific QoL. Using a 5-point Likert scale (1 = not at all; 5
+= very much) patients indicated how much CSU affects their overall functioning, sleep,
+itching/embarrassment, mental status, swelling/eating, and limits looks [11]. Finally, the AEQoL (developed for patients with angioedema) consists of 17 items covering four
+subdomains: functioning, fatigue/mood, fears/shame, and nutrition [12]. The total scores of
+the CU-Q.oL and AE-QoL questionnaires range of from O to 100, with higher scores
+
+reflecting greater impairment in QoL.
+
+Statistical Analysis
+
+Only descriptive methods were used for statistical analysis. Means, medians, standard
+deviation (SD), min and max are stated for quantitative and absolute and relative
+
+frequencies for categorical measurements.
+
+Ethical Approval
+
+Ethical approval for the AWARE study was obtained from Charité Ethikkommission in Berlin,
+Germany (September, 2013; approval number EA1/243/13) and from urticaria specialist
+
+centers where needed according to local regulations.
+
+This article is protected by copyright. All rights reserved.
+RESULTS
+
+Demographic characteristics and disease activity
+
+A total of 1,577 H1-antihistamine-refractory CSU patients were documented in 256 sites
+across Germany between March 2014 and December 2014; 1,539 patients met all the
+inclusion criteria (n = 38 were excluded; n = 19 patients were missing a core variable [age,
+gender, or time of diagnosis], n = 16 did not meet all inclusion criteria [n = 2 <18 years, n =
+10 were diagnosed <2 months, and n = 4 did not have evidence of being H1-antihistaminerefractory], n = 4 patients were participating in another CU trial, and difficulties with follow-up
+were anticipated for n = 3 patients) and were included in this analysis. This included patients
+who had CSU only (n = 1,170; 76% of total) and patients with CSU and ClndU concomitantly
+(n = 369; 24% of total). Overall, 73.9% and 26.1% of patients were treated by office-based
+dermatologists and urticaria hospital centers, respectively. Seventy percent of patients were
+female and the mean (SD) age was 46.3 (15.6) years, with a peak prevalence in patients
+aged 45 to <55 years (23.9%; 18 to <25 years, 9.0%; 25 to <35 years, 17.8%; 35 to <45,
+18.8%; 55 to <65 years, 17.4%; 65 to <75 years, 9.1%; 275 years, 4.0%). The mean (SD)
+time since CSU was diagnosed was 4.8 (7.2) years and the mean (SD) body mass index
+
+(BMI) was 27 (5.4) kg/m? (Table 1).
+
+The mean (SD) UCT score was 7.9 (4.3). Overall, 77.5% of patients scored <12 at baseline,
+indicating uncontrolled urticaria. Similarly, the VAS score for patient satisfaction with current
+
+therapy was low (mean, 5.4; SD, 3.1).
+
+Approximately 27% of patients reported sick leave due to urticaria. The mean (SD) duration
+of sick leave was 9.1 (11.7) weeks since symptoms first appeared. Additionally, for patients
+with angioedema, the mean (SD) duration of sick leave was 9.3 (8.7) weeks since symptoms
+
+first appeared.
+
+This article is protected by copyright. All rights reserved.
+Angioedema is frequent in H1-antihistamine-refractory CSU patients
+
+Overall, 55.2% of H1-antihistamine-refractory CSU patients were classified as having CSU
+without angioedema, 46.1% as having CSU with angioedema, and 2.9% as having
+angioedema without wheals. These percentages add up to slightly more than 100% due toa
+small number of cases when physicians classified a patient who exclusively develops
+angioedema but not wheals as both, “CSU with angioedema” and “angioedema without
+
+wheals”, which is in line with the guidelines.
+
+Angioedema had occurred during the previous 6 months in 43.4% of patients. The average
+intensity of angioedema during this time was rated as severe, moderate, mild, and negligible
+by 31.3%, 46.4%, 20.5%, and 1.8% of patients, respectively. The mean (SD) number of days
+with angioedema during the previous 6 months was 33.5 (64.0). In 90% of patients who had
+
+wheals and angioedema, the development of wheals and angioedema coincided.
+
+Inducible urticaria is a common comorbidity of H1-antihistamine-refractory
+
+CSU
+
+ClndU was the most common comorbidity of H1-antihistamine-refractory CSU, occurring in
+24% of CSU patients. ClndU was the secondary diagnosis for 86.4% of CSU patients with
+comorbid ClndU; only 11.1% had a primary diagnosis of ClndU. Symptomatic
+dermographism (12.3%), delayed pressure urticaria (6.1%) and heat urticaria (4.3%) were
+
+the most common types of ClndU reported.
+
+Other frequently reported comorbidities included allergic rhinitis (18.2%), hypertension
+(18.1%), asthma (12%), depression (9.5%), obesity (8.1%), food allergies (7.9%), atopic
+dermatitis (6.8%), Hashimoto's thyroiditis (5.9%), nut allergies (5.8%), and anxiety (4.7%;
+
+Table 2).
+
+This article is protected by copyright. All rights reserved.
+H1-antihistamine-refractory CSU patients are undertreated
+
+Only 57.6% of patients were receiving treatment for CSU at this baseline assessment
+(58.8% of patients with UCT scores <12 and 56.1% of patients with UCT scores 212): 46.3%
+of patients were receiving the recommended first line treatment for CSU, i.e. second
+generation H1-antihistamines, 9.1% were receiving first generation H1-antihistamines and
+
+15.8% were receiving corticosteroids (including prednisolone; Table 3).
+
+Rates of pharmacological treatments were usually higher in hospital center compared to
+local dermatologist treated patients: any treatment, 65.8% versus 54.7%, respectively;
+second generation H1-antihistamines, 55.9% versus 42.9%; ranitidine, 5.7% versus 1.1%;
+montelukast, 11.2% versus 1.0%; omalizumab, 6.0% versus 0.8%; and cyclosporine, 2.7%
+versus 0.9%. Rates of treatment with prednisolone (11.7% versus 11.6%, respectively),
+dapsone (2.2% versus 1.1%), and other corticosteroids (3.2% versus 4.6%) were similar in
+
+both treatment settings,
+
+CSU frequently leads to a marked impairment in QoL
+
+Analysis of PROs revealed that CSU negatively impacts patient QoL. The mean (SD) DLQI
+score was 8.3 (6.9; n = 1489), and for 32.8% of patients the symptoms of CSU had a very
+large or extremely large impact on their QoL. For a further 29.2%, symptoms had a
+
+moderate impact on QoL.
+
+The mean (SD) total score for the CU-Q,0L was 36.2 (20.1; n = 1468). The most severely
+impaired subdomains of the CU-Q,oL were itching/embarrassment (mean, 48.2; SD, 26.1),
+sleep (mean, 45.2; SD, 27.3) and mental status (mean, 41.4; SD, 26.5). Mean scores for
+overall functioning (mean, 32.2; SD, 25.8), swelling/eating (mean, 22.6; SD, 22.1) and limits
+
+looks (mean, 26.4; SD, 27.1) indicated lower levels of impairment (Figure 1A).
+
+In CSU patients with angioedema, the mean (SD) total AE-QoL score was 46.8 (22.2; n =
+
+612). The most severely impaired subdomains were ‘fears/shame’ and ‘fatigue/mood’ with a
+
+This article is protected by copyright. All rights reserved.
+mean (SD) score of 54.5 (27.1) and 46.0 (26.0), respectively. The overall functioning (mean,
+42.0; SD, 29.3) and nutrition (mean, 34.4; SD, 33.0) subdomains were less severely
+
+impacted (Figure 1B).
+
+H1-antihistamine-refractory CSU patients frequently use several healthcare
+
+resources
+
+H1-antihistamine-refractory CSU patients reported frequent use of healthcare resources:
+29.7% of CSU patients had visited emergency services, on average (SD) 3 times (6.4) since
+their CSU started; 30.3% reported hospitalization, on average (SD) 2.3 times (3.9); 71.9%
+had visited a general practitioner, on average (SD) 7.9 times (12.5); 50.7% had visited a
+dermatologist or allergist other than the study-enrolling dermatologist, on average (SD) 8.1
+times (24.6); and 32.5% of patients had visited specialized urticaria centers, on average
+(SD) 7.2 times (12.5). Patients also reported visiting ear, nose and throat specialists (35.3%
+of patients; 1.7 visits), dentists (85.7% of patients; 1.7 visits), alternative practitioners (4% of
+
+patients; 8.9 visits) and using other healthcare resources (19.7% of patients; 2.8 visits).
+
+Discussion
+
+The AWARE study will eventually present a comprehensive real-life data collection
+describing the impact of available CSU therapies over time and their impact on healthrelated QoL, as well as the economic burden of CSU patients. This initial analysis reveals
+that German H1-antihistamine-refractory CSU patients, treated by office-based
+dermatologists or urticaria centers, display high rates of angioedema and comorbid ClndUs,
+are undertreated, have impaired health-related QoL and frequently use multiple healthcare
+
+resources.
+
+This article is protected by copyright. All rights reserved.
+The demographic characteristics reported in this observational study are comparable to
+previously published expert [13, 14] and trial data [15-17]; a higher proportion of patients
+were female, and age and BMI values were similar to those in previous literature [15, 16, 1821]. Angioedema is a major burden for affected patients and can severely impact patient
+QoL [12]. The exact proportion of CSU patients who experience angioedema remains
+unclear, with previous publications reporting rates ranging from 33% [13] to 55% [15-18]. In
+this AWARE patient cohort, over 40% of patients experienced angioedema, of which 77.7%
+were rated to be of severe or moderate intensity. This data confirms that a high proportion of
+H1-antihistamine-refractory CSU patients experience angioedema, which is likely to have an
+
+additional negative impact on patient QoL.
+
+While previous literature suggests that CSU and ClndU can occur in parallel [2], the
+frequency of such an occurrence had until now remained largely unknown. This study
+indicates that approximately 25% of H1-antihistamine-refractory CSU patients have
+comorbid ClndU. Consistent with previous publications, other comorbidities in this patient
+population included asthma, allergic rhinitis, atopic dermatitis, allergies, and autoimmune
+
+diseases [13, 22-28].
+
+Patients with CSU and other dermatological conditions are often reported to have an
+increased risk of psychiatric comorbidities, with rates of depression and anxiety ranging
+between 11-21% and 25-30% in CSU patients, respectively [21, 29-33]. In this AWARE
+patient cohort, the rates of diagnosed anxiety (4.7%) and depression (9.5%) were only
+slightly higher than prevalence rates previously reported in the German population [31, 34,
+35]. A possible explanation for the lower rates of psychiatric comorbidities in this study may
+be that different definitions of depression or anxiety were used. Furthermore, only patients
+with an existing diagnosis of depression or anxiety were reported in this study, whereas
+other studies have used validated psychometric tests, which can reveal previously
+undiagnosed conditions [29]. The high proportion of CSU patients who are female and over
+
+40 years may also represent a confounding factor when comparing the prevalence of
+
+This article is protected by copyright. All rights reserved.
+psychiatric comorbidities in CSU patients to that of the general population [36]. The patient
+population may also differ from previously published CSU data, as patients were treated by
+
+office-based dermatologists or urticaria centers.
+
+The current urticaria guidelines recommend that physicians should aim for complete
+symptom control when treating CSU [1]. Second generation H1-antihistamines are
+recommended as the first-line treatment, increasing doses of second generation H1antihistamines as the second-line treatment, and finally the approved omalizumab and offlabel options ciclosporine A or montelukast as the third-line treatment [1]. These guidelines
+also recommend against the long-term use of corticosteroids or the use of first generation
+H1-antihistamines. In the current study, only 58% of patients were receiving pharmacological
+treatment for CSU at the time of baseline documentation, despite having been diagnosed
+with H1-antihistamine-refractory CSU for an average of 4.8 years and continuing to
+experience symptoms. Moreover, less than 50% of patients were receiving the
+recommended first-line treatment (second generation H1-antihistamines). Nearly 10% of
+patients were receiving first generation H1-antihistamines, which are not recommended for
+the treatment of CU. Furthermore, 15.8% were receiving corticosteroid treatment, which is
+only recommended for a short course (maximum 10 days) treatment if exacerbations
+demand it [1]. As it was unexpected that CSU-patients would be without any treatment, no
+item was included in the structured data acquisition on why they were not taking any
+medication at the time of enrollment. Therefore, we can only hypothesis that this is due to
+lack of efficacy with previous H1-antihistamine treatment or is a result of treating physicians
+
+avoiding off-label therapies.
+
+In line with low rates of treatment, approximately 75% of patients had uncontrolled urticaria
+(UCT score < 12), mean patient-reported satisfaction with current therapy was low (5.4
+points out of 10 using VAS), and CSU had a negative impact on the patients QoL. A high
+proportion of patients also reported absence from work due to uncontrolled CSU since
+
+symptoms first appeared, which further highlights the burden of CSU for patients. These high
+
+This article is protected by copyright. All rights reserved.
+rates of under treatment, high rates of non-recommended treatment usage, low levels of
+symptom control, and low levels of patient satisfaction highlight the need for improved
+
+patient care and adherence to the current S3-CU guidelines.
+
+In line with this above observation, healthcare resource usage was high in the AWARE
+population; roughly 30% of CSU patients had visited the emergency room and 30% required
+hospitalization since their symptoms first started. Increased rates of healthcare resource
+utilization have recently been reported for CU patients from the United States and Europe
+[19, 37]. In addition to the discomfort associated with these visits, the economic burden to
+
+the healthcare services is likely to be considerable.
+
+Limitations of the data are mainly driven through the nature of a NIS design. Data
+completeness and quality as well as questionnaires filled out by patients are highly
+dependent on the documentation accuracy of participating patients and physicians. As no
+control population was included in the study, rates of healthcare resource use and
+comorbidities can only be compared to previously reported rates. This somewhat limits the
+strength of conclusions, as confounding factors cannot be accounted for. However, the
+relatively large number of patients, from both specialized centers and office-based
+dermatologists, included in this assessment provides an unmatched insight into the baseline
+clinical characteristics of German adult patients with H1-antihistamine-refractory CSU.
+Prospectively, this NIS will also allow us to gather data on the efficacy of different therapy
+schedules used and their impact on the socio-economic burden of controlled versus
+
+uncontrolled CSU patients.
+
+In summary, the initial baseline analysis from the AWARE study reveals a high unmet need
+of H1-antihistamine-refractory CSU patients in specialized CU centers as well as the officebased dermatology space. The majority of CSU patients were undertreated, had
+uncontrolled urticaria and moderately or largely affected QoL. This study highlights the
+impact of CSU on patient QoL and the need for improved patient care and adherence to the
+
+latest treatment guidelines.
+
+This article is protected by copyright. All rights reserved.
+Statement of Contributions
+
+NCR, KC, MM, PS, UR, and GRH participated in the design of this study, interpretation of
+results and drafted the manuscript. VM, ASY, NW, FR, UL, UH, AB, TJ, MP, NB and AS
+contributed substantially to data generation and revised the manuscript. All authors
+
+approved the final version of the manuscript.
+
+Acknowledgements
+
+The authors thank the investigators who participated in this study, including Dr. Tobias
+Schadeck, Dr. Stefan Golsch, Dr. Alla Schuller, Dr. Udo Amann, Dr. Berardi Monica Quack,
+Dr. Alex Rothhaar, and Annette Herpich who contributed substantially to data generation.
+They also thank Aine Abautret-Daly and Gillian Brodie of Novartis Ireland Ltd. for providing
+writing and editorial assistance with this manuscript. The study was sponsored by Novartis
+
+Pharma GmbH.
+
+Conflicts of interest statement
+
+MM has acted as a paid consultant for Novartis and Genentech, has received honoraria for
+lectures from Novartis and has received research funding by Novartis to his department. PS
+has received fees for consulting, organizing education, funds for research, reimbursement
+for attending a symposium and fees for consulting from Novartis GmbH Germany. UR has
+received fees for consulting and funds for research from Novartis Pharma GmbH. AB is a
+member of the Novartis urticaria board, received reimbursement for attending a symposium,
+fees for organizing education, fees for speaking and funds for research. FR has received
+
+financial support for the organization of a training course, a speaker’s fee and has received
+
+This article is protected by copyright. All rights reserved.
+funding for research from Novartis. TJ has received speaker's honorarium, travel support
+and consulting fees from Novartis GmbH, Germany. ASY has received a fee for speaking at
+a symposium and members of his staff are funded by Novartis. VM reports reimbursements
+to the Department of Dermatology, for patient inclusion to the AWARE registry, from Novartis
+Pharma GmbH, during the conduct of this study; personal fees (speaker’s honoraria on the
+topic of urticaria and reimbursement for attending a symposium) and funds for research from
+Novartis Pharma GmbH, outside the submitted work. NW has acted as a paid speaker for
+company neutral medical education and the clinical center she is employed at has received
+funding for research carried out in this work. UL has received reimbursement for attending
+symposia, fees for speaking and consultation rom Novartis Pharmaceuticals. UH has
+received fees from Novartis for speaking, organizing education and consulting. KC and NCR
+are employees of Novartis Pharma AG Basal. NB, MP, AS, and GRH have no conflicts of
+
+interest to declare.
+
+References
+
+ls Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, et al. The
+EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management
+of urticaria: the 2013 revision and update. Allergy. 2014;69(7):868-87.
+
+2. Grattan C. The urticarias: pathophysiology and management. Clinical medicine.
+2012;12(2):164-7.
+3. Maurer M, Magerl M, Metz M, Zuberbier T. Revisions to the international guidelines on the
+
+diagnosis and therapy of chronic urticaria. Journal der Deutschen Dermatologischen Gesellschaft =
+Journal of the German Society of Dermatology : JDDG. 2013;11(10):971-8.
+
+4. Magerl M, Borzova E, Gimenez-Arnau A, Grattan CE, Lawlor F, Mathelier-Fusade P, et al. The
+definition and diagnostic testing of physical and cholinergic urticarias--EAACI/GA2LEN/EDF/UNEV
+consensus panel recommendations. Allergy. 2009;64(12):1715-21.
+
+5. Weller K, Schoepke N, Krause K, Ardelean E, Brautigam M, Maurer M. Selected urticaria
+patients benefit from a referral to tertiary care centres--results of an expert survey. Journal of the
+European Academy of Dermatology and Venereology : JEADV. 2013;27(1):e8-16.
+
+6. Weller K, Viehmann K, Brautigam M, Krause K, Siebenhaar F, Zuberbier T, et al. Management
+of chronic spontaneous urticaria in real life--in accordance with the guidelines? A cross-sectional
+physician-based survey study. Journal of the European Academy of Dermatology and Venereology :
+JEADV. 2013;27(1):43-50.
+
+Ts Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G, Church MK, Gimenez-Arnau AM,
+et al. EAACI/GA(2)LEN/EDF/WAO guideline: management of urticaria. Allergy. 2009;64(10):1427-43.
+
+This article is protected by copyright. All rights reserved.
+8. Weller K, Viehmann K, Brautigam M, Krause K, Siebenhaar F, Zuberbier T, et al. Costintensive, time-consuming, problematical? How physicians in private practice experience the care of
+urticaria patients. Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German
+Society of Dermatology : JDDG. 2012;10(5):341-7.
+
+9. Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development and
+validation of the Urticaria Control Test: a patient-reported outcome instrument for assessing
+urticaria control. The Journal of allergy and clinical immunology. 2014;133(5):1365-72, 72 e1-6.
+
+10. Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple practical measure for
+routine clinical use. Clinical and experimental dermatology. 1994;19(3):210-6.
+
+Tr. Mlynek A, Magerl M, Hanna M, Lhachimi S, Baiardini |, Canonica GW, et al. The German
+version of the Chronic Urticaria Quality-of-Life Questionnaire: factor analysis, validation, and initial
+clinical findings. Allergy. 2009;64(6):927-36.
+
+12. Weller K, Groffik A, Magerl M, Tohme N, Martus P, Krause K, et al. Development and
+construct validation of the angioedema quality of life questionnaire. Allergy. 2012;67(10):1289-98.
+13. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology of urticaria: a
+representative cross-sectional population survey. Clinical and experimental dermatology.
+2010;35(8):869-73.
+
+14. Kulthanan K, Jiamton S, Thumpimukvatana N, Pinkaew S. Chronic idiopathic urticaria:
+prevalence and clinical course. The Journal of dermatology. 2007;34(5):294-301.
+
+15. Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E, Bradley MS, et al. Efficacy
+and safety of omalizumab in patients with chronic idiopathic/spontaneous urticaria who remain
+symptomatic on H1 antihistamines: a randomized, placebo-controlled study. The Journal of
+investigative dermatology. 2015;135(1):67-75.
+
+16. Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy.
+The Journal of allergy and clinical immunology. 2013;132(1):101-9.
+
+17. Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, et al. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med. 2013;368(10):924-35.
+18. Sanchez-Borges M, Caballero-Fonseca F, Capriles-Hulett A. Subtypes of chronic urticaria in
+
+patients attending allergy clinics in Venezuela. Eur Ann Allergy Clin Immunol. 2014;46(6):210-5.
+
+19. Balp MM, Vietri J, Tian H, Isherwood G. The Impact of Chronic Urticaria from the Patient's
+Perspective: A Survey in Five European Countries. Patient. 2015;8(6):551-8.
+
+20. Maurer M, Church MK, Goncalo M, Sussman G, Sanchez-Borges M. Management and
+treatment of chronic urticaria (CU). Journal of the European Academy of Dermatology and
+Venereology : JEADV. 2015;29 Suppl 3:16-32.
+
+Pal Maurer M, Weller K, Bindslev-Jensen C, Gimenez-Arnau A, Bousquet PJ, Bousquet J, et al.
+Unmet clinical needs in chronic spontaneous urticaria. A GA(2)LEN task force report. Allergy.
+2011;66(3):317-30.
+
+22. Broder MS, Raimundo K, Antonova E, Chang E. Resource use and costs in an insured
+population of patients with chronic idiopathic/spontaneous urticaria. American journal of clinical
+dermatology. 2015;16(4):313-21.
+
+23. Zazzali JL, Broder MS, Chang E, Chiu MW, Hogan DJ. Cost, utilization, and patterns of
+medication use associated with chronic idiopathic urticaria. Annals of allergy, asthma & immunology
+: official publication of the American College of Allergy, Asthma, & Immunology. 2012;108(2):98-102.
+24. Ban GY, Kim MY, Yoo HS, Nahm DH, Ye YM, Shin YS, et al. Clinical features of elderly chronic
+urticaria. The Korean journal of internal medicine. 2014;29(6):800-6.
+
+25. Sugiyama A, Nishie H, Takeuchi S, Yoshinari M, Furue M. Hashimoto's disease is a frequent
+comorbidity and an exacerbating factor of chronic spontaneous urticaria. Allergologia et
+immunopathologia. 2015;43(3):249-53.
+
+This article is protected by copyright. All rights reserved.
+26. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O, Goldberg A. Chronic urticaria and
+autoimmunity: associations found in a large population study. The Journal of allergy and clinical
+immunology. 2012;129(5):1307-13.
+
+27. Sanchez Borges M, Tassinari S, Flores A. [Epidemiologic features in patients with
+antihistamine-resistant chronic urticaria]. Rev Alerg Mex. 2015;62(4):279-86.
+28. Verneuil L, Leconte C, Ballet JJ, Coffin C, Laroche D, Izard JP, et al. Association between
+
+chronic urticaria and thyroid autoimmunity: a prospective study involving 99 patients. Dermatology.
+2004;208(2):98-103.
+
+29. Staubach P, Eckhardt-Henn A, Dechene M, Vonend A, Metz M, Mager! M, et al. Quality of life
+in patients with chronic urticaria is differentially impaired and determined by psychiatric
+comorbidity. The British journal of dermatology. 2006;154(2):294-8.
+
+30. Picardi A, Abeni D, Melchi CF, Puddu P, Pasquini P. Psychiatric morbidity in dermatological
+outpatients: an issue to be recognized. The British journal of dermatology. 2000;143(5):983-91.
+
+31. Busch MA, Maske UE, Ryl L, Schlack R, Hapke U. [Prevalence of depressive symptoms and
+diagnosed depression among adults in Germany: results of the German Health Interview and
+Examination Survey for Adults (DEGS1)]. Bundesgesundheitsblatt, Gesundheitsforschung,
+Gesundheitsschutz. 2013;56(5-6):733-9.
+
+32. Staubach P, Dechene M, Metz M, Magerl M, Siebenhaar F, Weller K, et al. High prevalence of
+mental disorders and emotional distress in patients with chronic spontaneous urticaria. Acta
+dermato-venereologica. 2011;91(5):557-61.
+
+33. Uguz F, Engin B, Yilmaz E. Axis | and Axis II diagnoses in patients with chronic idiopathic
+urticaria. Journal of psychosomatic research. 2008;64(2):225-9.
+
+34. Wittchen HU, Krause P, Hoyer J, Beesdo K, Jacobi F, Hofler M, et al. [Prevalence and
+correlates of generalized anxiety disorders in primary care]. Fortschritte der Medizin Originalien.
+2001;119 Suppl 1:17-25.
+
+35. Jacobi F, Wittchen HU, Holting C, Hofler M, Pfister H, Muller N, et al. Prevalence, comorbidity and correlates of mental disorders in the general population: results from the German
+Health Interview and Examination Survey (GHS). Psychological medicine. 2004;34(4):597-611.
+
+36. Pratt LA, Brody DJ. Depression in the U.S. household population, 2009-2012. NCHS Data
+Brief. 2014(172):1-8.
+
+37: Vietri J, Turner SJ, Tian H, Isherwood G, Balp MM, Gabriel S. Effect of chronic urticaria on US
+patients: analysis of the National Health and Wellness Survey. Annals of allergy, asthma &
+immunology : official publication of the American College of Allergy, Asthma, & Immunology. 2015.
+
+Figure Legend
+
+Figure 1: Box and whisker plots of (A) CU-Qz20L scores (functioning, n = 1,433; sleep, n
+1,436; itching/embarrassment, n = 1,439; eating/swelling, n = 1,438; mental status, n =
+1,434; limits looks, n = 1,429; and total, n = 1,468) and (B) AE-QoL scores (functioning, n =
+592; fatigue/mood, n = 592; fears/shame, n = 593; nutrition, n = 594; and total, n = 612). The
+boxes represent the interquartile range (25th and 75th percentile) and the mid-lines
+represent the median. The bottom and top of the whiskers represents the minimum and
+
+maximum scores, respectively.
+
+This article is protected by copyright. All rights reserved.
+Tables
+
+Table 1: Baseline demographic and clinical characteristics of H1-antihistamine-refractory
+CSU patients
+
+ 
+
+Demographics
+
+Age (years) 46.3 + 15.6
+Female, n (%) 1078 (70)
+Height (m) 1.70 + 0.09
+Weight (kg) 78.2 17.5
+BMI (kg/m?) 27.0 + 5.4
+Time since diagnosis (years) 4.8+47.2
+Sick leave
+
+Patients, n (%) 411 (26.8)
+Duration (weeks) 9.1+11.7
+Duration due to AE (weeks) 9.3 + 8.7
+
+Satisfaction with current therapy*
+VAS score 5.4431
+
+Disease activity”
+UCT score 7.9 + 4.3°
+N = 1,539 patients with H1-antihistamine-refractory CSU. Data are
+
+ 
+
+presented as mean + SD, unless otherwise stated. AE, angioedema;
+BMI, body mass index; CSU, chronic spontaneous urticaria; SD,
+standard deviation; UCT, crticaria control test; VAS, visual analog
+scale score. *Data are from n = 1358. °Data are from n = 1,488.
+
+°77.5% of patients had uncontrolled chronic urticaria.
+
+This article is protected by copyright. All rights reserved.
+Table 2: Comorbidities in patients with H1-antihistamine-refractory CSU
+
+ 
+
+ 
+
+*Comorbidity n (%)
+
+CindU
+Any?” 369 (24)
+Symptomatic dermographism 189 (12.3)
+Delayed pressure urticaria 94 (6.1)
+Heat urticaria 66 (4.3)
+Cholinergic urticaria 60 (3.9)
+Cold urticaria 45 (2.9)
+
+Allergies
+Allergic Rhinitis 280 (18.2)
+Asthma 184 (12)
+Food allergy® 122 (7.9)
+Atopic dermatitis 104 (6.8)
+Nut allergy 90 (5.8)
+Other type of eczema 67 (4.4)
+
+Autoimmune disorders
+Hashimoto’s thyroiditis 91 (5.9)
+
+Psychosomatic disorders
+Depression 146 (9.5)
+Anxiety 72 (4.7)
+
+Other disorders
+
+Hypertension 279 (18.1)
+Obesity 124 (8.1)
+Hypercholesterolemia 70 (4.5)
+
+ 
+
+N = 1,539 patients with H1-antihistamine-refractory CSU. ClndU, Chronic
+Inducible Urticaria, CSU, chronic spontaneous urticaria.
+
+“Includes comorbidities that occurred in greater than 2.0% of patients.
+"Including: symptomatic dermographism (12.3%), delayed pressure urticaria
+(6.1%), heat urticaria (4.3%), cholinergic urticaria (3.9%), cold urticaria (2.9%),
+aquagenic urticaria (1.4%), light / solar urticaria (0.8%), and contact urticaria
+(0.7%). No patients reported vibratory urticaria / vibration induced
+
+angioedema. Treating physicians diagnosed ClndUs using the provocation
+
+This article is protected by copyright. All rights reserved.
+test which they deemed most appropriate. Overall, 36.8% of patients had been
+exposed to a dermographism test, 19.4% to a pressure test, 11.6% to a cold
+provocation test, 10.8% to a heat provocation test, 5.0% to a contact test, and
+4.3% to UV and/or visible light test. Prick testing (39.9%), oral provocation
+testing (3.8%), and epicutaneous testing (17.5%) were also reported.
+
+“Overall, 46 (3.0%) patients reported nut allergy only, 78 (5.1%) patients
+reported food allergies only, and 44 (2.9%) patients reported both nut and food
+
+allergies.
+
+Table 3: Treatment for CSU
+
+ 
+
+CSU treatment?
+
+ 
+
+n (%)
+
+Second generation H1-antihistamine® 712 (46.3)
+Corticosteroids° 244 (15.9)
+First generation H1-antihistamine 140 (9.1)
+Montelukast 56 (3.6)
+Omalizumab 33 (2.1)
+Ranitidine 35 (2.3)
+Dapsone 22 (1.4)
+Ciclosporine 21 (1.4)
+
+ 
+
+N = 1,539 patients with H1-antihistamine-refractory CSU. “Includes any treatment
+received by more than 0.5% of patients. Patients may have been receiving more than
+one treatment. 57.6% of patients (n = 886) were receiving any treatment for urticaria.
+"Overall, 388 (25.2%) patients reported using high dose, 381 (24.8%) patients reported
+using low dose, and/or 97 (6.3%) patients reported using unknown doses or as needed
+doses of second generation H1-antihistamines.
+
+“Corticosteroids refers to any corticosteroid, including prednisolone.
+
+This article is protected by copyright. All rights reserved.
+80
+
+70
+
+60
+
+50
+
+40
+
+CU-Q,oL scores
+
+30
+20
+
+10
+
+Functioning Sleep Itching/ Eating/ Mental Limits Total
+embarrassment swelling status looks
+
+80
+70
+60
+50
+
+40
+
+AE-QoL scores
+
+30
+20
+
+10
+
+Functioning Fatigue/Mood Fears/shame Nutrition Total
+
+This article is protected by copyright. All rights reserved.
+

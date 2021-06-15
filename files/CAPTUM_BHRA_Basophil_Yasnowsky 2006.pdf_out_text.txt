@@ -1,0 +1,759 @@
+a;
+w
+9
+Q
+w
+®
+Q
+a
+a
+a
+a
+=
+a
+zu
+Cy
+SS
+a
+a
+a
+
+al
+r
+°
+a
+cs
+o
+g
+ej
+<
+2
+®
+g
+=
+a
+EI
+a
+S
+
+ 
+
+Chronic urticaria sera increase basophil
+
+CD203c expression
+
+Karen M. Yasnowsky, MD, Stephen C. Dreskin, MD, PhD, Benjamin Efaw, BS,
+David Schoen, BS, P. K. Vedanthan, MD, Rafeul Alam, MD, PhD, and Ronald J.
+
+Harbeck, PhD Denver, Colo
+
+Background: Approximately 40% of patients with chronic
+idiopathic urticaria have antibodies to the a subunit of the
+high-affinity IgE receptor. CD203c is a basophil activation
+marker known to be upregulated by cross-linking of the
+FceRIa receptor and may serve as a useful marker to identify
+these patients.
+
+Objective: The primary objective was to assess the affect of
+sera from patients with chronic idiopathic urticaria on basophil
+CD203c expression. Secondary objectives were to correlate
+CD203c expression with basophil histamine release and size
+of the autologous serum skin test and to determine whether the
+mechanism is mediated by an IgG antibody.
+
+Methods: Sera were obtained from patients with chronic
+idiopathic urticaria and positive autologous serum skin test
+or negative autologous serum skin test and normal controls.
+Sera were incubated with donor whole blood. Activated
+basophils from whole blood were identified by flow cytometry
+on the basis of the presence of CD203c on high-expressing
+IgE positive cells.
+
+Results: Incubation of donor basophils with sera from
+patients with chronic idiopathic urticaria and positive
+autologous serum skin test demonstrated significant
+upregulation of CD203c. IgG depletion of representative sera
+from patients with chronic idiopathic urticaria resulted in
+significant decrease in CD203c expression on donor basophils.
+CD203c expression correlated with basophil histamine release
+and the size of the autologous serum skin test.
+
+Conclusion: Sera from patients with chronic idiopathic
+urticaria and positive autologous serum skin test significantly
+upregulate basophil CD203c and correlate with basophil
+histamine release.
+
+Clinical implications: This article describes an activation
+marker on basophils whose expression is increased by sera
+from patients with chronic idiopathic urticaria. (J Allergy Clin
+Immunol 2006;117:1430-4.)
+
+From the Department of Medicine, Division of Allergy and Clinical Immunology, University of Colorado Health Sciences Center and the National
+Jewish Medical and Research Center.
+
+Supported by the Clinical Reference Laboratories, National Jewish Medical
+and Research Center, Denver, Colo.
+
+Disclosure of potential conflict of interest: R. Harbeck and K. Yasnowsky have
+patent licensing arrangements pending. The rest of the authors have declared
+that they have no conflict of interest.
+
+Received for publication January 3, 2006; revised February 2, 2006; accepted
+for publication February 8, 2006.
+
+Available online April 27, 2006.
+
+Reprint requests: Ronald J. Harbeck, PhD, Division of Allergy and Clinical
+Immunology, National Jewish Medical and Research Center, 1400
+Jackson St, Denver, CO 80206. E-mail: harbeckr@njc.org.
+
+0091-6749/$32.00
+
+© 2006 American Academy of Allergy, Asthma and Immunology
+
+doi:10.1016/j.jaci.2006.02.016
+
+1430
+
+ 
+
+Key words: Chronic idiopathic urticaria, autoimmunity, autoantibodies, CD203c, basophils, autologous serum skin test, flow
+cytometry, basophil histamine release
+
+Chronic idiopathic urticaria (CU) is defined as recurrent
+hives occurring for at least 6 weeks. In the majority of
+cases, there is no identifiable trigger despite extensive
+evaluation for an underlying etiology. A subset of these
+patients is classified as having autoimmune urticaria
+defined by the presence of a functional IgG antibody to
+the a subunit of the high-affinity IgE receptor (FceRIa)
+or to IgE.' These antibodies trigger mast cell and basophil degranulation by the engagement of this receptor.
+Functional IgG antibody to the receptor has been identified in approximately 30% to 40% of patients with CU,
+and anti-IgE antibody has been identified in another 5%
+to 10% of patients. Nonfunctional antibodies to FceRI
+may be found in other autoimmune conditions.”
+
+Techniques to detect the autoantibody to FceRla
+include Western blot and ELISA, which are technically
+time-consuming and fail to identify antibodies with histamine releasing properties. Detection methods for functional antibodies include the autologous serum skin test
+(ASST) and basophil histamine release (BHR). The ASST
+involves an intradermal injection of the patient’s serum
+into the skin with observation for a wheal and flare
+reaction. ASST is approximately 70% sensitive and 80%
+specific compared with the BHR assay.°
+
+Recently, flow cytometry has been used to identify
+activated basophils in both allergic disease and CU. Two
+studies have been published demonstrating that sera of
+patients with CU and positive ASST induce higher
+expression of CD63 compared with skin test—negative
+chronic urticaria sera.*” CD63, a member of the transmembrane-4 superfamily, is a basophil and mast cell activation marker expressed as a result of the fusion between
+intracytoplasmic granules and the plasma membrane. It
+has been proposed that it rapidly appears on the basophil
+surface on the addition of anti-IgE, allergen, or IL-3.°”
+However, CD63 is not specific to basophils and mast cells
+but can be expressed on other cells present in the peripheral blood, such as monocytes and platelets.*
+
+CD203c (ectonucleotide pyrophosphatase/phosphodiesterase) is an ectoenzyme expressed only on basophils,
+mast cells, and their CD34* progenitor cells in the peripheral blood.* It has been described that CD203c may
+be a better basophil activation marker because of its
+J ALLERGY CLIN IMMUNOL
+VOLUME 117, NUMBER 6
+
+Abbreviations used
+ANA: Antinuclear antibody
+ASST: Autologous serum skin test
+BHR: Basophil histamine release
+
+CU: Chronic idiopathic urticaria
+FITC: Fluorescein isothiocyanate
+fMLP: f-Met-Leu-Phe
+PerCP: Peridinin-chlorophyll-protein complex
+
+specificity and potentially increased sensitivity in detecting IgE-mediated hypersensitivity.° CD203c is expressed
+on both resting and activated basophils and is upregulated
+in response to cross-linking of the FceRIa receptor.'°
+CD203c has been used to evaluate IgE-mediated hypersensitivity to latex and aeroallergens.”'! Upregulation of
+CD203c on peripheral blood basophils from patients
+with CU has also been described.'*
+
+In the current study, we sought to compare the effect
+of sera from ASST* and ASST patients with CU on
+basophil CD203c expression to normal control sera and
+to determine the correlation with BHR. In addition, IgG
+depletion of sera from ASST* individuals was performed
+to determine whether the mechanism of CD203c upregulation is IgG-mediated.
+
+METHODS
+Patients and controls
+
+Chronic idiopathic urticaria was defined as recurrent wheals
+occurring at least 3 times per week for more than 6 weeks without
+an identifiable cause. Patients were excluded if they had evidence of
+a known trigger or cause including physical urticaria, urticarial
+vasculitis, or allergic cause of their hives. Sera were obtained from
+32 patients with CU at the time of ASST and stored at —-80°C.
+Antihistamines were held for at least 48 hours before collection of
+sera. Eleven sera from healthy adult individuals were used as normal
+controls. Four sera with a high titer antinuclear antibody (ANA) >
+1:360, 3 with a history of active connective tissue disease, and the
+other with eosinophilic gastroenteritis were used for disease controls.
+The study was approved by the Institutional Review Board at the
+National Jewish Medical and Research Center.
+
+ASST
+
+The test was performed by injecting 0.05 cc of the patient’s own
+serum intradermally into the volar aspect of the forearm. Sterile saline
+and histamine were used as negative and positive controls, respectively. Wheal and flare reactions were measured at 30 minutes. A
+mean wheal diameter of 2 mm greater than or equal to the control was
+considered to be a positive ASST.
+
+Basophil donor
+
+‘Whole blood from 7 normal individuals was screened, and | donor
+was identified on the basis of the marked upregulation of CD203c on
+basophils (CD203c/IgE positive cells) in response to f-Met-Leu-Phe
+(fMLP) and anti-FceRIa antibody. The basophil donor was atopic
+and had a serum IgE level of 154 kU/L. The basophil donor provided
+informed consent and was bled <1 time per week.
+
+ 
+
+Yasnowsky et al 1431
+
+IgG depletion
+
+Selected patients’ and normal control patients’ sera were depleted
+of IgG using a protein G-Sepharose column (Sigma, St Louis, Mo).
+Pre and post IgG depletion levels were measured by nephelometry
+(Immage Immunochemistry System; Beckman Coulter, Fullerton,
+Calif). All sera had postdepletion levels of <33.3 mg/dL (the lowest
+level of detection by nephelometry). Dilution of sera passing through
+the column was accounted for by measuring serum albumin levels
+predepletion and postdepletion.
+
+Antibodies
+
+The following mAbs were used: phycoerythrin (PE)-conjugated
+antihuman CD203¢ (Beckman Coulter), peridinin-chlorophyll-protein complex (PerCP)-conjugated antihuman CD45 (BD Bioscience,
+San Jose, Calif), and fluorescein isothiocyanate (FITC)-conjugated
+antihuman IgE (Caltag, Burlingame, Calif).
+
+Measurement of CD203c surface expression
+
+The test was performed on heparinized blood within 3 to 4 hours
+after drawing the donor’s blood. Aliquots of the donor’s heparinized
+whole blood (200 L) were incubated for 10 minutes at 37°C with
+40 \xL sera from patients with CU or normal controls, or IgG-depleted
+sera. For controls, 40 «L basophil stimulation buffer (20 mM
+HEPES, 125 mM NaCl, 5 mM KCl, 2.5 mM CaCh, 1 mM MgCh,
+0.5 mM glucose, and 0.1% BSA, pH 7.4) was added to 200 tL of
+donor’s blood and used as the negative control, and 40 pL 2-~M
+fMLP (Sigma) and 40 wL of a 1:50 dilution of anti-FceRIa receptor
+antibody (Upstate, Charlottesville, Va) in Ca** and Mg** free PBS
+were used as positive controls. The reactions were stopped by placing
+the tubes on ice. Cells were then stained with PE-antihuman CD45,
+PerCP-antihuman CD203c, and FITC-antihuman IgE at 4°C in the
+dark for 30 minutes. Red cells were lysed with FACS Lysing
+Solution (Becton Dickinson, San Jose, Calif). The cells were then
+washed once with 2 mL PBS and fixed in 1% formaldehyde. The cells
+were then analyzed on a FACSCalibur flow cytometer (Becton
+Dickinson).
+
+Flow cytometry
+
+Basophils from whole blood were identified by the presence of
+CD203c on high-expressing IgE* cells (Fig 1, A and B). The data are
+expressed as the mean fluorescence intensity or the percentage of
+CD203c expression. Percent CD203c expression is defined as the percent of basophils expressing more CD203c than >99% of basophils
+incubated with buffer only. This was determined by defining an MI
+region on the histogram analysis (Fig 1, C).
+
+BHR
+
+Whole blood from the same donor for the CD203c assay was
+collected in a heparinized tube, and BHR was performed according
+to the manufacturer’s instructions (Beckman Coulter). For the BHR,
+whole blood was diluted 1:7 in the histamine release buffer. Stimuli
+(50 L) including patient sera, anti-FceRI (as a positive control), or
+histamine release buffer (as a negative control) were added to 100 pL
+blood and incubated at 37°C for 30 minutes. To determine total
+histamine, whole blood was diluted 1:20 in distilled water followed by
+2 rapid freeze-thaw cycles. Histamine concentrations in the supernatants of centrifuged blood were performed by ELISA (Beckman
+Coulter) according to the manufacturer’s instructions. Spontaneous
+histamine release was determined by the amount of histamine released
+by cells incubated with the histamine release buffer. Spontaneous
+release was <5% of total release. Positive histamine release was
+defined as >15% of total release.’
+
+eH
+a
+oo
+°
+8
+[ej
+E
+E
+o
+7
+:
+D
+:
+ae
+3B
+ms]
+3
+
+diseases, and anaphylaxis
+
+ 
+am
+a7
+$2
+q2
+3 &
+#8
+aa
+s“<
+eo
+oo
+23
+a3
+cat
+to
+Q
+
+XS.
+aa
+
+ 
+
+1432 Yasnowsky et al
+
+ 
+
+>
+3
+
+800
+
+Side Scatter
+
+ 
+
+ANTIKEFITC = 0
+
+ 
+
+Counts
+
+ 
+
+10° 10! 10? 103 104
+C0203 PE
+
+FIG 1. Basophil identification and expression of CD203c. A, Side
+scatter and CD45 staining. Gating region (boxed area) contained
+the basophils located between the monocytes and lymphocytes.
+B, Gated cells were selected by high IgE and high CD203c expressing cells. C, Histogram of CD203c expression after addition of
+buffer (shaded area) and after addition of serum from patient
+with CU and a positive ASST. M1 defines a region where <1%
+of the basophils express CD203c after incubation with buffer.
+PE, Phycoerythrin.
+
+ANA determination
+
+Antinuclear antibodies were detected by indirect immunofluorescence with HEp-2 cells (Bio-Rad Laboratories, Redmond, Wash).
+
+Statistics
+
+Significant differences between groups were analyzed by using a
+2-tailed unpaired ¢ test. Correlation was determined by using Pearson
+product moment correlation. Sensitivity, specificity, and negative and
+positive predictive value were also calculated.
+
+RESULTS
+Basophil CD203c expression
+
+CD203c expression was higher in basophils incubated
+with sera from patients with CU compared with normal
+control individuals (Fig 2). The mean percent basophil
+CD203c expression of 11 normal control individuals
+was —0.6% + 0.1% (SEM) versus 20% + 4% in 32 patients with CU (P = .002). Sera from patients with hightiter ANAs (disease controls) did not induce basophil
+CD203c expression. The mean values of the positive
+
+J ALLERGY CLIN IMMUNOL
+JUNE 2006
+
+% CD203c Expression
+
+ 
+
+& RS
+& a Ra
+&
+
+2 gS £ of
+OOP FO SP
+
+Stimuli
+
+FIG 2. The mean percent (+SEM) CD203c expression above
+baseline by sera from normal controls (N = 11), disease controls
+(N = 4), all patients with CU (N = 32), and positive controls, ie, fMLP
+and anti-FceRI.
+
+ 
+
+% CD203c Expression
+
+ 
+
+ASST +
+
+Controls
+
+ASST 
+FIG 3. Percent CD203c expression by normal individuals, patients
+with CU and negative ASST, and patients with CU and positive
+ASST. Horizontal bars represent means.
+
+controls fMLP and anti-FceRla were 34.5% + 14.6%
+and 41.9% + 9.4% (n = 4), respectively.
+
+CD203c expression was significantly higher after
+incubation of basophils with sera from ASST~ patients
+with CU than normal control sera (P < .001; Fig 3). The
+mean percent CD203c expression was 30% + 5 (SEM;
+n = 22) in basophils incubated with ASST CU sera versus -0.6% + 0.1% for normal control sera (n = 11). The
+range of percent CD203c expression in cells incubated
+with ASST* serum was —0.1% to 63.3%. Seventeen of
+22 ASST* sera (77%) resulted in basophil activation of
+greater than 5%. The range of percent basophil activation
+in cells incubated with normal control serum was —1.2% to
+0.0% compared with buffer control. CD203c expression
+was also significantly higher in basophils incubated with
+ASST* sera than with ASST~ sera (P = .006). The
+mean percent CD203c expression was 30% + 5% versus
+6% + 3%, respectively. The range of CD203c expression
+for basophils incubated with ASST” sera was 0.1% to
+24%. Eight of 10 ASST” sera resulted in CD203c expression of <5%, and the other 2 resulted in 22% and 24%
+expression. Incubation with ASST” sera also resulted in
+significantly higher CD203c expression than control sera
+(P = .04).
+
+BHR
+
+Basophil histamine release was performed in 10 patients with negative ASSTs and in 18 patients with
+positive ASST. All sera were not analyzed because of
+J ALLERGY CLIN IMMUNOL
+VOLUME 117, NUMBER 6
+
+ 
+
+< 7
+o
+
+32
+
+2 80
+
+Ee
+
+a 40
+
+W 30
+
+e
+
+g 2
+
+X10
+
+Oo 06
+
+S491 10 20 30 © 0 & 70 0 9
+
+% Total Histamine Release
+
+FIG 4. Correlation of CD203c expression with % total histamine
+release.
+
+insufficient quantity. In patients with negative ASST, 1 of
+10 (10%) had a positive BHR, and 4 of 18 (22%) patients
+with positive ASSTs had a negative BHR. The percent
+CD203c expression correlated with the percent histamine
+release (R = 0.6; P = .001; Fig 4). The sensitivity, specificity, positive predictive value, and negative predictive
+value were calculated by using the BHR assay as the
+gold standard to identify functional antibodies to the
+FceRIa receptor and by using >5% CD203c expression
+as the cutoff value for a positive test. With these criteria,
+CD203c expression demonstrated a sensitivity of 77%, a
+specificity of 82%, a positive predictive value of 83%,
+and a negative predictive value of 75%.
+
+Correlation between ASST
+and CD203c expression
+
+The mean diameter of the serum autologous skin test
+was compared with percent CD203c expression. Results
+demonstrated a significant correlation between the size
+of the ASST and CD203c expression (R = 0.5; P = .02;
+Fig 5).
+
+IgG depletion
+
+To determine if the mechanism of CD203c expression
+was mediated by an IgG antibody, 3 selected sera that
+induced basophil CD203c expression were depleted of
+IgG using a protein G Sepharose column. The mean
+percent CD203c expression before IgG depletion was
+30% + 9%. The mean percent CD203c expression after
+IgG depletion was 5% + 1%, suggesting that in these sera,
+CD203c expression may be triggered by an IgG antibody
+to FceRIa. There was no change from pre and post IgG
+depletion with 2 control sera: 0.2% + 0.4% (pre) and
+—0.1% + 0.02% (post; P = .5).
+
+DISCUSSION
+
+Results from this study demonstrate that the sera from
+patients with CU upregulate basophil CD203c expression.
+Sera from patients with positive ASST induced significantly higher CD203c expression compared with the sera
+from patients with negative ASST and from normal
+controls. Twenty percent of patients’ sera with negative
+ASSTs induced >5% basophil activation compared with
+buffer control. Seventy-seven percent of patients with
+positive ASSTs had >5% basophil activation. It is an
+
+Yasnowsky et al 1433
+
+ 
+
+os 88s SBS
+
+%CD203c Expression
+
+ 
+
+e
+14+ —__#__,—_—,
+J 2s so 75 10 125 180 175
+
+ASST Diameter (mm)
+
+-10
+
+FIG 5. Correlation of percent CD203c expression and ASST mean
+wheal diameter.
+
+interesting observation that the sera from ASST patients
+induced significantly higher CD203c expression than
+normal controls, although still significantly lower than
+ASST* patients. The 2 patients with negative autologous
+serum skin tests and sera inducing an elevation of CD203c
+of more than 5% may represent those patients with falsenegative ASST. However, on reanalyzing the data without
+the 2 outlying sera, ASST CU sera still induces CD203c
+expression, more so than controls. This finding suggests
+that there are other undefined serum factors present in
+CU sera that can upregulate CD203c.
+
+CD203c is known to be upregulated by cross-linking of
+FceRIa by transport of preformed CD203c molecules to
+the surface.'* The decline in CD203c expression after IgG
+depletion of representative sera is consistent with an IgGmediated mechanism. This experiment did not remove IgE
+from donor basophils, so the results do not differentiate
+between an IgG antibody to the FceRIa subunit or to IgE.
+
+In comparison with our results, Wedi et al* found
+increased CD63 expression in 70% of ASST* patients
+with CU and 45% of ASST” patients with CU, and in
+35% of controls. Gyimesi et al° found elevated CD63
+expression induced by 11 of 12 ASST* sera (92%) and
+3 of 18 (17%) ASST” sera. These results using CD63
+are similar to our findings with CD203c, although Wedi
+et al* had a higher percentage of normal controls inducing
+CD63 expression and Gyimesi et al° had a higher percentage of ASST* sera inducing CD63 expression.
+
+CD203c belongs to the type II transmembrane protein
+family and is a multifunctional ectoenzyme called ectonucleotide pyrophosphatase/phosphodiesterase 3 that
+catalyzes the cleavage of several molecules, including
+deoxynucleotides and nucleotide sugars. It also contains
+a somatomedin B-like domain and a cell adhesive motif,
+but their potential functions are unknown. Among leukocytes, CD203c appears to be selectively expressed on the
+basophil/mastocyte lineage. Boumiza et al? compared basophil activation tests using either CD63 or CD203c in the
+diagnosis of latex allergy and found that the sensitivity
+was considerably higher with CD203c (75%, compared
+with 50% with CD63). The authors speculate that the
+improved sensitivity may be a result of 2 factors. First,
+the recognition of basophils is superior with CD203c.
+Second, CD203c is expressed at a higher level in activated
+basophils compared with CD63. In sensitized patients,
+basophils increased their CD203c levels as much as 350%
+
+eH
+a
+oo
+°
+8
+[ej
+E
+E
+o
+7
+:
+D
+:
+ae
+3B
+ms]
+3
+
+diseases, and anaphylaxis
+
+ 
+a;
+w
+9
+Q
+w
+®
+Q
+a
+a
+a
+a
+=
+a
+zu
+Cy
+SS
+
+SIXxD|
+
+2160
+
+joupwap /AB.a]|p pooy
+
+ 
+
+1434 Yasnowsky et al
+
+above control values in response to allergens, whereas the
+increase in CD63 was below 100%. However, it should
+be pointed out that few comparative studies have been
+performed, and further studies are needed to establish
+the validity and superiority of these tests. The difference
+in response between CD203c and CD63 can be explained
+by their different mechanism of upregulation. For example, PGD2 is a strong inducer of CD203c expression.
+However, it does not stimulate CD63 expression.'> The
+kinetics of upregulation of CD203c is fast and peaks after
+5 to 15 minutes, whereas that of CD63 is slow and peaks
+after 20 to 40 minutes. '°
+
+It is also interesting to note that some recently identified
+surface markers follow the upregulation kinetics of either
+CD203c or CD63. Thus, the upregulation of CD13 and
+CD164 is fast and similar to that of CD203c. On the other
+hand, the surface increase of CD107a is slow and follows
+the kinetics of CD63.'°
+
+Our results indicate that donor basophil expression of
+CD203c is increased by incubation of donor basophils
+with sera from patients with chronic urticaria and is
+consistent with an IgG-mediated mechanism. Assessing
+basophil activation with CD203c may be a useful way to
+identify individuals with autoimmune urticaria.
+
+We thank Dr Donald MacGlashan, Jr, Johns Hopkins University,
+Asthma and Allergy Center, for his suggestion to use CD203¢ as a
+marker of human basophils.
+
+REFERENCES
+
+1. Kaplan AP. Chronic urticaria: pathogenesis and treatment. J Allergy Clin
+Immunol 2004;114:465-74.
+
+2. Fiebiger E, Hammerschmid F, Stingle G, Maurer D. Anti-FeepsilonRI
+alpha autoantibodies in autoimmune-mediated disorders: identification
+of a structure-function relationship. J Clin Invest 1998;101:243-51.
+
+3. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A, Greaves
+MW. The autologous serum skin test: a screening test for autoantibodies
+in chronic idiopathic urticaria, Br J Dermatol 1999;140:446-52.
+
+. Boumiza R, Monneret G, Foriss
+
+J ALLERGY CLIN IMMUNOL
+JUNE 2006
+
+. Wedi B, Novacovic V, Koerner M, Kapp A. Chronic urticaria serum
+
+induces histamine release, leukotriene production, and basophil CD63
+surface expression: inhibitory effects of anti-inflammatory drugs. J Allergy
+Clin Immunol 2000;105:552-60.
+
+. Gyimesi E, Sipka S, Danko K, Kiss E, Hidvegi B, Gal M, et al. Basophil
+
+CD63 expression assay on highly sensitized atopic donor leucocytes: a
+useful method in chronic urticaria. Br J Dermatol 2004;151:388-96.
+
+. Knol EF, Mul FPJ, Jansen H, Calafat J, Roos D. Monitoring human
+
+basophil activation via CD63 monoclonal antibody 435. J Allergy Clin
+Immunol 1991;88:328-38.
+
+. Ebo DG, Hagendorens MM, Bridts CH, Schuerwegh AJ, De Clerck LS,
+
+Stevens WJ. In vitro allergy diagnosis: should we follow the flow? Clin
+Exp Allergy 2004;34:332-9.
+
+. Buhring HJ, Streble A, Valent P. The basophil-specific ectoenzyme
+
+E-NPP3 (CD203c) as a marker for cell activation and allergy diagnosis.
+Int Arch Allergy Immunol 2004;133:317-29.
+
+t ME, Savoye J, Gutowski MC, Powell
+WS, et al. Marked improvement of the basophil activation test by detecting CD203c instead of CD63. Clin Exp Allergy 2002;33:259-65.
+
+   
+
+. Binder M, Fierlbeck G, King T, Valent P, Burhing HJ. Individual hyme
+noptera venom compounds induce upregulation of the basophil activation
+marker ectonucleotide pyrophosphatase/phosphodiesterase 3 (CD203c)
+in sensitized patients, Int Arch Allergy Immunol 2002;129:160-8.
+
+. Hauswirth AW, Natter S, Ghannadan M, Majlesi Y, Schernthaner GH,
+
+Sperr WR, et al. Recombinant allergens promote expression of CD203c
+on basophils in sensitized individuals. J Allergy Clin Immunol 2002;127:
+299-307.
+
+. Vasgar K, Vonakis BM, Viksman A, Gibbons S Jr, Saini S. Evidence of
+
+in vivo basophil activation in chronic idiopathic urticaria. J Allergy Clin
+Immunol 2003;113:S257.
+
+. Ferrer M, Nakazawa K, Kaplan A. Complement dependence of histamine
+
+release in chronic urticaria. J Allergy Clin Immunol 1999;104:169-72.
+
+. Burhing HJ, Seiffert M, Giesert C, Marxer A, Valent P, Kanz L, et al.
+
+The basophil activation marker defined by antibody 97A6 is identical
+with ecto-nucleotide _pyrophosphatase/phosphodiesterase 3 (E-NPP3;
+CD203c). Blood 2001;97:3303-5.
+
+. Monneret G, Boumiza R, Gravel S, Cossette C, Bienvenu J, Rokach J,
+
+et al. Effects of prostaglandin D(2) and 5-lipoxygenase products on
+the expression of CD203c and CD11b by basophils. J Pharmacol Exp
+Ther 2005;312:627-34.
+
+. Hennersdorf F, Florian S, Jakob A, Baumgartner K, Sonneck K,
+
+Nordheim A, et al. Identification of CD13, CD107a, and CD164 as
+novel basophil-activation markers and dissection of two response patterns in time kinetics of IgE-dependent upregulation, Cell Res 2005;
+15:325-35.
+

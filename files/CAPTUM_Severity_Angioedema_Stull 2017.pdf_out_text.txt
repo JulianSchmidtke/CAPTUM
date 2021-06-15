@@ -1,0 +1,1257 @@
+DR DOREEN MCBRIDE (Orcid ID : 0000-0002-2545-651X)
+
+Received Date : 30-Jun-2016
+Revised Date : 03-Mar-2017
+Accepted Date : 08-Mar-2017
+
+Article type —_: Original Article
+
+Analysis of Disease Activity Categories in Chronic Spontaneous/Idiopathic Urticaria
+
+Running Head
+
+Measuring Disease Activity in Chronic Spontaneous Urticaria
+
+Authors
+
+D. Stull,’ D. McBride,” H. Tian,° A. Gimenez Arnau,* M. Maurer,° A. Marsland,° M.-M. Balp,”
+
+S. Khalil,’ C. Grattan,®
+
+‘RTI Health Solutions, 200 Park Offices Drive, PO Box 12194, Research Triangle Park, NC
+
+27709-2194 USA. dstull@rti.org
+
+2 RTI Health Solutions, The Pavilion, Towers Business Park, Wilmslow Road, Didsbury,
+
+Manchester M20 2LS United Kingdom. dmcbride@rti.org
+3 Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA. haijun.tian@novartis.com
+
+* Department of Dermatology, Hospital del Mar and Universitat Autonoma, Barcelona, Spain.
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/bjd.15454
+
+This article is protected by copyright. All rights reserved.
+22505aga@comb.cat
+
+° Department of Dermatology and Allergy, Allergie-Centrum-Charité, Charité 
+Universitatsmedizin Berlin. Berlin, Germany. marcus.maurer@charite.de
+
+° Dermatology Department, Salford Royal Hospital and University of Manchester,
+
+Manchester, United Kingdom. alexander.marsland@manchester.ac.uk
+
+7 Novartis Pharma AG, GMA & HEOR, Novartis Campus, 4056 Basel, Switzerland. maria
+magdalena.balp@novartis.com
+
+8 Cutaneous Allergy, Guy’s Hospital, London United Kingdom. clive.e.grattan@gstt.nhs.uk
+
+Corresponding Author
+
+Donald E. Stull, PhD
+
+RTI Health Solutions
+
+200 Park Offices Drive
+
+PO Box 12194
+
+Research Triangle Park, NC 27709-2194 USA
+Telephone: +1.919.597.5158
+
+Fax: +1.919.541.7222
+
+E-mail: dstull@rti.org
+
+Funding Source
+
+This study was funded by Novartis Pharma AG.
+
+This article is protected by copyright. All rights reserved.
+Conflict of Interest
+
+Drs Stull and McBride are employed by RTI Health Solutions, which provides consulting and
+other research services to pharmaceutical, device, governmental, and non-government
+organisations. In their salaried positions, they work with a variety of companies and
+organisations. They receive no payment or honoraria directly from these organisations for
+services rendered. Dr Giménez-Arnau has received institutional grants and/or honoraria for
+consulting and lectures from Novartis, Uriach Pharma, Genentech, Menarini, GSK, MSD,
+and Almirall. Dr Grattan has received honoraria for consulting and lectures from Novartis,
+Sunpharma, and CSL Behring. Dr Marsland has received travel assistance to conferences
+and honoraria for consulting and lectures from Galderma, GSK, Novartis, and UCB Pharma.
+Dr Maurer has received institutional grants and/or honoraria for consulting and lectures from
+FAES, Genentech, Moxie, Novartis, and Uriach Pharma. Drs. Tian and Balp are employees
+
+of Novartis.
+
+All co-authors been involved in all aspects of the manuscript, with one exception: Dr Stull
+has responsibility for data analysis. However, results were shared with co-authors at each
+step, and their input was sought regarding discussion and implications of the results. Alll
+
+authors have approved the final version of this manuscript prior to submission.
+
+Suggested Reviewers
+
+Dr Riccardo Asero
+Ambulatorio di Allergologia
+Clinica San Carlo
+
+Via Ospedale, 21
+
+20037 Paderno Dugnano (M1), Italy
+
+This article is protected by copyright. All rights reserved.
+Telephone: +39 02 99038470
+Fax: +39 02 99038223
+
+E-mail: r.asero@libero.it
+
+Professor Gordon Sussman, MD, FRCP
+
+Professor of Medicine, Division Director Allergy and Immunology
+University of Toronto
+
+Medical Sciences Building
+
+1 King's College Cir
+
+Toronto, ON M5S 1A8 Canada
+
+Telephone: +1.416.944.8333
+
+Fax: +1.416.944.1582
+
+E-mail: gsussman@rogers.com
+What is already known about this topic?
+
+« Increased urticaria disease activity, as measured by the continuous twice-daily
+UAS7 1p score, impacts health-related quality of life and interferes with sleep and
+
+daily activity.
+What does this study add?
+
+= Categorising continuous UAS7+p activity scores into disease states defined by
+UAS77p score ranges can discriminate between different levels of disease activity,
+
+simplify clinical assessment, and facilitate evaluation of treatment efficacy.
+
+This article is protected by copyright. All rights reserved.
+ABSTRACT
+
+Background: Measurement of disease activity guides treatment of chronic spontaneous urticaria
+(CSU). A weekly Urticaria Activity Score—here, the average of twice-daily patient assessment of itch
+and hives scores summed over 1 week (UAS71p)—measures severity from 0 to 42. Insufficient
+evidence exists whether disease activity states, defined by categorical UAS7;p scores, correlate with
+
+other patient-reported outcomes and treatment response.
+
+Objective: To evaluate and compare categorical UAS7;p scores with selected measures of disease
+related quality of life and impact.
+
+Methods: Data from three randomised clinical trials of omalizumab in CSU were pooled. Continuous
+UAS7 p scores were categorised into five disease activity states: urticaria-free, well-controlled, mild,
+moderate, and severe urticaria. Total scores from the Dermatology Life Quality Index (DLQI); the
+Chronic Urticaria Quality of Life questionnaire (CU-Q,0L); and questions on sleep and daily activity
+interference, presence of angioedema, and diphenhydramine use were compared within categorised
+UAS7 ;p disease-state scores, using one-way analyses of variance for analysis at different time points
+
+and mixed-effects regressions for analysis of all data pooled.
+
+Results: Pooled analyses showed that categorical UAS7;p disease states accurately predicted
+differences among treated CSU patients with different levels of disease activity. A consistent pattern
+existed between categories, with higher-activity disease states associated with significantly higher
+impact and an increase in angioedema frequency. Results at different treatment time points were
+
+consistent.
+
+Conclusion: Categorical UAS71p disease states can discriminate between measures when considering
+the impact of urticaria activity. Using five categorical disease states could simplify clinical assessment
+
+and monitoring of treatment efficacy.
+
+This article is protected by copyright. All rights reserved.
+KEY WORDS
+
+Chronic urticaria, disease states, clinical assessment, health-related quality of life
+
+INTRODUCTION
+
+Chronic spontaneous (also known as idiopathic) urticaria (CSU) is defined as the occurrence of itchy
+wheals/hives, angioedema, or both for more than 6 weeks with or without known causes.’ CSU is
+known to have a substantial impact on the patient’s quality of life (QoL), including effects on daily
+living activities and work productivity, and by causing sleep disturbance, loss of energy, and
+
+emotional problems.”?
+
+Various types of patient-reported outcome (PRO) measures are used to assess CSU disease activity
+and its impact on daily activities and health-related quality of life (HRQoL).’ CSU activity is assessed
+based on the occurrence of signs (wheals/hives) and symptoms (pruritus/itch). Since the appearance
+of hives and the intensity of itch can change on a daily basis, assessment of both is best performed
+by patients with the daily Urticaria Activity Score (UAS), summed to a weekly score (UAS7).°® In
+addition, the impact of CSU on HRQoL can be measured with dermatological-specific measures such
+as Dermatology Life Quality Index (DLQI)’ and the urticaria-specific Chronic Urticaria Quality of Life
+
+Questionnaire (CU-Q,oL).®
+
+The UAS is recommended for routine clinical practice, however, it may be challenging to compare
+patients in terms of their disease activity using the UAS’s continuous scoring. It could be informative
+to know whether grouping the continuous score of the UAS7 into a smaller number of categories
+that would reflect different levels of CSU activity, or disease states, could discriminate among CSU
+patients with different levels of disease activity. Specifically, there is insufficient evidence as to
+whether disease states defined by categorical UAS7 scores correlate with CSU disease activity and
+
+response to treatment. If categorical UAS7 disease states could be shown to be informative as to the
+
+This article is protected by copyright. All rights reserved.
+impact of disease on patients’ life, QoL, and response to treatment, they could be an efficient tool
+for clinical practice. The purpose of this initial validation of these CSU activity categories was to
+describe categorical UAS7 scores in terms of DLQI and CU-Q,0L scores, as well as selected measures
+of disease activity and impact, and to assess whether a clear significant discrimination exists
+
+between the categories.
+
+METHODS
+
+Data
+
+Data for the analysis came from three randomised, double-blind, placebo-controlled phase 3 global
+clinical trials (ASTERIA I,° N = 319; ASTERIA II,"° N = 323; and GLACIAL," N = 336) evaluating the effect
+of omalizumab on symptoms of patients with inadequately controlled CSU. Figure 1 presents the
+treatment and follow-up periods of the trials, as well as the dosing regimens and timing of the PRO
+
+°° trials received licensed dose of
+
+data collection for the three trials. Patients in ASTERIA I° and |
+second-generation H, antihistamines as background therapy, whereas patients recruited into the
+GLACIAL study” received second-generation H, antihistamines (up to four times the licensed dose),
+H, blockers, and/or leukotriene receptor antagonists. Treatment was administered once every 4
+weeks for 24 weeks in ASTERIA |? and GLACIAL” and for 12 weeks in ASTERIA Il.”° All three trials had
+
+a follow-up period with no active treatment of 16 weeks. The studies conformed to the Declaration
+
+of Helsinki.’? All studies were ethically approved and all patients gave informed consent.
+
+Measures
+
+Three primary PRO measures, capturing signs and symptoms, dermatologic QoL, and disease-specific
+QoL, were used to obtain information on patients’ experiences with CSU in the clinical trials: the
+twice-daily version of the Urticaria Activity Score over 7 days (UAS77p)° as part of the Urticaria
+
+Patient Daily Diary (UPDD),”* the DLQI,”"* and the CU-Q,oL.®
+
+This article is protected by copyright. All rights reserved.
+UPDD
+
+The validated UPDD” contains the UAS assessed every 12 hours and daily activity interference, sleep
+interference, and presence of angioedema, all of which are assessed every 24 hours, as well as the
+
+use of rescue medication.
+
+UAS7,p Score
+
+In the UAS7;p version, patients record the morning and evening itch severity score (ISS) and hives
+scores. ISS is assessed each time as 0 = no itch, 1 = mild, 2 = moderate, and 3 = severe, and the
+number of hives are assessed as 0 = none, 1 = 1-6 hives; 2 = 7-12 hives, and 3 = > 12 hives. A daily
+UAS score is obtained from the sum of the average daily ISS and average daily hives score. The
+weekly UAS7;p score is obtained by summing the daily UAS scores over 7 days. Scores were reported
+at baseline and every 4 weeks until week 40 for ASTERIA |? and GLACIAL” and until week 28 for
+
+ASTERIA Il."°
+
+The UAS7;p score ranges from 0 to 42, with higher scores reflecting higher activity.® Scores were
+categorised into five disease states: urticaria-free (UAS71p = 0), well-controlled urticaria (UAS7+p = 16), mild activity urticaria (UAS77p = 7-15), moderate activity urticaria (UAS7;p = 16-27), and severe
+activity urticaria (UAS71p = 28-42).’° Two of these disease states (urticaria-free and well-controlled
+urticaria) were predefined endpoints for the clinical trials. Patients had to have a UAS7;p score of 16
+or higher to be included in the trials, so 16 was considered the lower threshold for the moderate
+disease state. In addition, a score of 28 and above was considered severely-active disease.*° The
+remaining UAS7;p scores (7-15) were used to define a mild urticaria disease state. All categorical
+
+ranges of scores were developed with expert input.’*””
+
+This article is protected by copyright. All rights reserved.
+Additional Questions in the UPDD
+
+Several additional questions collected in the UPDD were included to make comparisons among the
+UAS7;p disease states. In the diary, patients were asked to rate how much their hives and itch
+interfered with sleep and with daily activities during the previous 24 hours (0 = no interference;
+
+1 = mild, little interference; 2 = moderate, some interference; and 3 = substantial, severe
+interference). Patients were asked whether they had used antihistaminic rescue medications
+(number of diphenhydramine [DPH] 25-mg pills) during the previous 24 hours to control symptoms
+of their skin condition, such as hives or itch (0-3 pills). Finally, patients were asked about the
+presence of angioedema (yes or no) in the previous 24 hours. For the sleep, daily activities, and
+medication items, the mean of the sum of the daily scores for the 7 days prior to the study visit of
+interest was calculated (range: 0-21, with higher score indicating higher impact). For the presence of
+angioedema, patients were categorised as “yes” if they responded yes to the angioedema question
+on any of the 7 days prior to the visit of interest. The weekly mean scores on all items were used as
+comparison variables to test whether different UAS7;p disease states were characterised by different
+
+mean scores on these parameters’ comparison variables.
+
+DLQI
+
+The DLQI’ has a total score that ranges from 0 to 30, with higher scores reflecting worse HRQoL. The
+recall period for the DLQI is 1 week. DLQI data were collected at baseline and weeks 4, 12, 24, and
+40 for ASTERIA |? and GLACIAL" and at baseline and weeks 4, 12, and 28 for ASTERIA Il.”° The DLQI
+has been validated for use in patients with CSU.”"*"* Validated score ranges exist for the DLQI to
+explain the impact on dermatologic-related QoL: no effect: 0-1; small effect: 2-5; moderate effect: 6
+10; very large effect: 11-20; extremely large effect: 21-30.”
+
+This article is protected by copyright. All rights reserved.
+CU-Q2oL
+
+The CU-Q;0L is a disease-specific, 23-item PRO measure designed to assess HRQoOL in patients with
+csu.*”° The recall period is 2 weeks. Patients are asked how bothered they have been by each
+symptom in the previous 2 weeks. Each item is assessed on a 5-point scale ranging from 1 (never) to
+5 (very much). The total score is transformed to range from 0 to 100, with higher scores indicating
+worse HRQoL. CU-Q,oL data were collected at baseline and weeks 4, 12, 24, and 40 for ASTERIA I°
+
+and GLACIAL" and at baseline and weeks 4, 12, and 28 for ASTERIA II.’°
+
+Data Analyses
+
+Exploratory Analyses of Individual Trials at Different Time Points
+
+Initial analyses of data, by individual trial at different time points, were performed by simple
+descriptive statistics (means, standard deviations, proportions) for each of the measures detailed in
+the previous section. These analyses were conducted using available data at each time point, since
+they were exploratory in nature and the results were specific point estimates (e.g., means,
+proportions). The results of these analyses indicated a pattern: as UAS71p disease-state activity
+increased, the scores on the comparator variables, such as the DLQI and CU-Q;0L, became worse
+(Tables SI-1-SI-4). In addition, cross-tabulations of the UAS7;p disease states with the DLQI response
+categories, as well as with changes in DLQI effect sizes, were conducted and significance testing
+conducted with Pearson y’ (Tables SI-5 to SI-13). The means of continuous UAS7;p scores for each
+DLQI effect size then were examined using one-way analyses of variance with Bonferroni correction
+for multiple pairwise comparisons to see if adjacent DLQI effect sizes had significantly different mean
+UAS7+ scores (Tables SI-14 to SI-17). The number of patients in each subgroup was insufficient to
+provide robust summary statistics; however, because the patient population (Table 1) and study
+
+design (Fig. 1) were similar; data were pooled to increase sample size.
+
+This article is protected by copyright. All rights reserved.
+Pooled Data Analyses
+
+Comparison of UAS7;p Disease States on Comparator Variables at Different Time Points
+
+Trial data were pooled (all trials, all treatment arms) and assessed at baseline, 12 weeks, and end of
+study (week 40 for ASTERIA I? and GLACIAL" and week 28 for ASTERIA II"°). UAS71p disease states
+were compared on the following measures: DLQI total score; CU-Q,oL total score; sleep interference,
+activity interference, number of DPH pills, and the proportion of patients with angioedema in the
+previous 7 days. At 12 weeks, comparison of the proportion of angioedema-free days from weeks 4
+
+through 12 also was assessed.
+
+Mean scores of selected comparator variables for adjacent UAS7;p disease states were compared
+using one-way analyses of variance. Bonferroni correction for multiple comparisons helped guard
+against significant differences in mean scores for each comparator variable between UAS7;p disease
+states arising due to chance. To add to our conservative approach, comparisons for statistically
+significant differences were limited to adjacent disease states only, such that patients who were in
+the urticaria-free disease state (UAS77p = 0) were compared with those in the well-controlled
+urticaria disease state (UAS71p = 1-6); those in the well-controlled urticaria disease state (UAS77p = 1
+6) were compared with those in the mild urticaria disease state (UAS71p = 7-15), and so forth.
+
+Prediction of Outcomes by UAS7;p Disease States
+
+A second set of analyses was conducted in which all trials, all treatment arms, and all time points
+were pooled. The data were analysed using mixed-effects regressions models (linear mixed models
+across multiple time points with fixed effects for baseline covariates) to predict selected outcomes
+by UAS7;p disease states. UAS7;p disease states were used to predict, separately, the DLQI total
+score, the CU-Q;0L total score, sleep interference, activity interference, the number of DPH pills, and
+the number of days with angioedema. Trial and treatment arm were included in the models as fixed
+
+effects. Covariates included gender, age, and duration of disease. The health state of “urticaria-free”
+
+This article is protected by copyright. All rights reserved.
+(i.e., UAS7;p=0) was used as the reference category for each initial mixed-effects regression model
+predicting the selected outcome. Each analysis then used these regression estimates to calculate the
+marginal mean scores and standard errors for the selected outcome, for each UAS71p disease state,
+
+adjusted for the covariates in the model.
+
+For exploratory descriptive analyses, observed data were used. Predictive analyses were conducted
+on two datasets: first using the pooled trials datasets in which missing data were accounted for by
+applying multiple imputation method and secondly on the observed data, under the assumption that
+the missing data mechanism was missing at random. P-values of 0.05 or below were considered
+significant. All analyses were conducted using Stata (version 13.0 or higher; StataCorp, College
+
+Station, Texas).
+
+RESULTS
+
+Baseline Characteristics
+
+A total of 975 patients were available for analysis; 318 in ASTERIA I, 322 in ASTERIA II, and 335 in
+GLACIAL. The demographic and baseline characteristics of the study population are shown in Table
+1. The majority (72%-76%) were female, with a median age ranging from 41 to 44 years and a mean
+disease duration of approximately 7 years. The populations across the three trials were similar, with
+no significant differences found, except a greater proportion of patients presenting with baseline
+
+angioedema in GLACIAL" versus ASTERIA II."°
+
+Categorical UAS77p Disease States Distinguish Patients With Different
+
+QoL Impairments
+
+Pooled trial analyses confirmed that categorical UAS7;p disease states can accurately predict
+differences in QoL impairment. When all trials, all treatment arms, and all time points were pooled,
+
+the differences between each adjacent disease state were highly significant (P < 0.001) in the DLQI
+
+This article is protected by copyright. All rights reserved.
+and CU-Q,0L total scores (Fig. 2A and B; Table SI-18 in Supporting Information), with a 50% to 100%
+increase in HRQoL scores between improving UAS7;p disease states. We found similar results by
+pooled trial analyses at different time points, particularly after 12 weeks of treatment and at the
+study-end assessment, i.e., 16 weeks following end of treatment (Table SI-19 in Supporting
+Information). A consistent pattern was revealed: the greater the disease activity, the higher the
+
+impact on HRQoL, and this impact is independent of type and duration of treatment.
+
+Categorical UAS7;p Disease States Are Associated With Disease Impact
+
+on Daily Activities and Sleep
+
+The impact of disease activity on daily activities and interference with sleep was significantly
+different for each category band of UAS7;p disease states and doubled consistently between each
+subsequent increase in disease activity (Fig. 3A and B; Table SI-18 in Supporting Information). These
+differences were also consistently significant at different time points in treatment (Table SI-19 in
+Supporting Information), indicating that control of CSU activity allows patients to carry out their
+
+normal daily activities without sleep deprivation.
+
+Categorical UAS77p Disease States Reflect Use of On-Demand
+
+Antihistamine Medication
+
+The use of DPH rescue medication increased significantly as the categorical UAS71p disease activity
+increased (Fig. 4; Table SI-18 in Supporting Information). Patients in the severe urticaria score band
+(UAS77p = 28-42) required four times the number of DPH pills as those patients with well-controlled
+or no urticaria (UAS7;7p < 6). These results again were seen at different time points (Table SI-19 in
+Supporting Information); however, significance was not consistent, particularly between the lower
+activity disease states.
+
+This article is protected by copyright. All rights reserved.
+Higher UAS7;7p Disease States Are Linked to Higher Prevalence Rates of
+
+Reported Angioedema
+
+The pooled trial analyses showed that the higher categorical disease activity states are generally
+associated with significantly higher rates of reported days with angioedema when looking at data
+pooled across trials, time points, and all patients. These rates rise noticeably with a UAS7;p score
+greater than 15 (Fig. 5; Table SI-18 in Supporting Information). At different time points (e.g., weeks
+12 and 40), the pattern of increased rates of angioedema in higher categorical disease activity states
+
+also was seen, but most differences were non-significant (Table SI-19 in Supporting Information).
+
+Results using observed data are similar, both with all data pooled (Table SI-20 in Supporting
+
+Information) and at different time points (Table SI-21 in Supporting Information).
+
+DISCUSSION
+
+This study assessed whether patients with different categorical UAS7;p scores, reflecting different
+levels of CSU activity, have significantly different levels of HRQoL impairment, interference with daily
+activities and sleep, use of on-demand medications, and prevalence of angioedema. Our findings
+indicated that this is the case: patients with different categorical UAS7;p have significantly different
+disease impacts on their daily lives. Thus, these five UAS7;p disease states can significantly
+differentiate CSU patients in terms of the effects that CSU has on their lives. . Patients with lower
+UAS7 7p categories have better-controlled CSU, less angioedema, significantly better QoL, and
+experience less interference with daily activities and sleep. These analyses also showed that,
+irrespective of the treatment a patient receives, a patient with a specific disease activity, as
+measured by the five categorical UAS71p disease states, will have a particular HRQoL and that this
+
+HRQoL will be significantly different from that of a patient with another disease activity state.
+
+The results of the pooled analyses, where mixed-effects regressions were performed for all patients,
+
+This article is protected by copyright. All rights reserved.
+all treatment arms, and all time points, showed a consistent pattern: comparison variable scores
+were statistically significantly better (P < 0.05) for each improved UAS7;p disease state, with the
+
+majority of the tests significant at P < 0.001.
+
+Previous analyses have shown a near-perfect correlation between changes in signs and symptoms of
+CSU, as measured by the UAS7yp, and changes in the DLQI and CU-Q,oL over the same time period.”*
+These analyses provide further evidence of strength of these relationships, even when assessed in
+
+categorical activity states.
+
+This first empirical look at disease states in CSU measured by itch and hives also provided new
+evidence that angioedema should be considered when analysing CSU patients’ experiences and that
+angioedema increases with increased disease activity, particularly moderate to severe CSU activity.
+Because there was concern that comparisons among multiple UAS7yp disease states on multiple
+comparator variables would result in multiplicity and yield significant differences among disease
+states simply by chance, a limited number of selected variables were used for statistical
+comparisons, and only comparisons on the effects of urticaria between adjacent disease states were
+conducted. Mean scores on comparator variables were consistently worse for increasingly worse
+health states. Significance tests demonstrated the extent to which UAS71p disease states were
+statistically different on these selected variables and added confidence to the hypothesis that the
+
+UAS71p disease states can discriminate among patients in terms of their urticaria activity.
+
+Perhaps the main limitation of this study is in regards to the analyses at specific time points. With
+the exception of robust results at week 12, not all differences at other time points were statistically
+significant, most likely due to small sample sizes. However, when all data were pooled, consistent
+and significant differences were seen. Further analyses, including sensitivity analyses using bands
+based on different UAS77p scores and alternative anchor tools, such as visual analogue scores, to
+
+evaluate itch’ would lend additional support to these UAS71p disease states.
+
+This article is protected by copyright. All rights reserved.
+As noted earlier, the exploratory analyses made no adjustment for missing data. This was done
+intentionally, as using only available data allowed comparison of actual observed patient
+experiences by UAS7;p health states. For the predictive models using mixed-effects regressions,
+analyses were performed two ways: multiple imputation for missing data and using only available,
+observed data. Results were very similar and conclusions were the same in either case. The main
+difference in results was that there were more significant differences using the multiply imputed
+data. This is not surprising given the larger sample size that resulted from imputing data. Thus, as
+expected, using only available data is a more conservative approach which supports the UAS71p
+
+health states’ ability to discriminate between patient experiences with urticaria.
+
+One potential consideration of relevance to this research relates to the instruments used in
+measuring CSU. Some aspects of the psychometric properties of the DLQI (e.g., dimensionality and
+differential item function) have been criticised”; however, the DLQI has been validated for use in
+csu**?5 and a minimally important difference has been determined.’®”° The CU-Q,0L, a relatively
+recent addition to the study of HRQoL in CSU, is recommended as the disease-specific assessment
+tool by the international guidelines.” These disease states were obtained using the UAS77p. However,
+international guidelines’ also have a preference for use of a once-daily (UAS7op) version of UAS. The
+UAS7op° differs from the UAS7;,° in that the itch and hive assessment is conducted once every 24
+hours and in the number of hives included in the daily hive score. The daily itch and hives score
+ranges are the same (0-3) in both versions, as are the scoring and weekly ranges (0-42) (Table SI-20
+in Supporting Information), but differ in the number of 24-hour hives that compose the same daily
+hives score. Further studies examining the equivalency of the UAS7; scores with scores obtained
+
+with UAS7 op are ongoing.
+
+Overall, our results suggested that categorising continuous UAS7;p scores ranges into categorical
+UAS7;p disease states can discriminate between different levels of urticaria activity. Different levels
+
+of disease activity correlated with PROs. A pattern of greater consistently significant impact on
+
+This article is protected by copyright. All rights reserved.
+HRQOL, daily activities, sleep, and use of on-demand antihistamine treatment was seen with each
+higher UAS7;p category. Reducing the continuous UAS7;p score from 42 points to five categorical
+disease states, much like the DLQI scoring bands,*® could simplify clinical assessment and facilitate
+
+evaluation of treatment efficacy. Further research and analyses of these correlations is warranted.
+
+ACKNOWLEDGEMENTS
+
+The authors wish to thank Katherine Houghton, MSc. and Adrian Vickers, PhD of RTI Health Solutions
+
+for their invaluable statistical advice and support in these analyses.
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, et al.; European Academy of Allergy and Clinical Immunology;
+Global Allergy and Asthma European Network; European Dermatology Forum; World Allergy
+Organization. The EAACI/GA2LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis, and management of urticaria: the 2013 revision and update. Allergy 2014 Jul;
+
+69(7):868-87.
+
+2. O'Donnell BF, Lawlor F, Simpson J, et al. The impact of chronic urticaria on the quality of life. BrJ
+
+Dermatol 1997; 136(2):197-201.
+
+3. Staubach P, Eckhardt-Henn A, Dechene M, et al. Quality of life in patients with chronic urticaria
+is differentially impaired and determined by psychiatric comorbidity. Br J Dermatol 2006;
+
+154(2):294-8.
+
+4. Weller K, Church MK, Kalogeromitros D, et al. Chronic spontaneous urticaria—how to assess
+
+quality of life in patients on treatment. Arch Dermatol 2011; 147:1221-3.
+
+5. Mynek, A., Zalewska-Janowska, A., Martus, P., Staubach, P., Zuberbier, T., Maurer, M.: How to
+
+This article is protected by copyright. All rights reserved.
+10.
+
+11.
+
+12.
+
+13;
+
+assess disease activity in patients with chronic urticaria? Allergy 2008; 63:777-780.
+
+Mathias SD, Dreskin SC, Kaplan A, et al. Development of a daily diary for patients with chronic
+
+idiopathic urticaria. Ann Allergy Asthma Immunol 2010; 105(2):142-8.
+
+Finlay AY, Khan GK. Dermatology Life Quality Index (DLQ|)—a simple practical measure for
+
+routine clinical use. Clin Exp Dermatol 1994; 19(3):210-6.
+
+Baiardini |, Pasquali M, Braido F, et al. A new tool to evaluate the impact of chronic urticaria on
+quality of life: chronic urticaria quality of life questionnaire (CU-Q2oL). Allergy 2005 Aug;
+
+60(8):1073-8.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and safety of omalizumab in patients with
+chronic idiopathic/spontaneous urticaria who remain symptomatic on H1 antihistamines: a
+randomized, placebo-controlled study. J Invest Dermatol 2015; 135(1):67-75. doi:
+
+10.1038/jid.2014.306. Epub 2014 Jul 21.
+
+Maurer M, Rosén K, Hsieh HJ, et al. Omalizumab for the treatment of chronic idiopathic or
+
+spontaneous urticaria. N Engl J Med 2013; 368(10):924-35.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients with symptomatic chronic
+idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin Immunol
+
+2013; 132(1):101-9.
+
+World Medical Association. Declaration of Helsinki. Ethical principles for medical research
+involving human subjects. 2008. Available at:
+
+http://www.wma.net/en/30publications/10policies/b3/17c.pdf (last accessed 20 October 2015).
+
+Flood EM, Zazzali JL, Devlen J. Demonstrating measurement equivalence of the electronic and
+
+paper formats of the Urticaria Patient Daily Diary in patients with chronic idiopathic urticaria.
+
+This article is protected by copyright. All rights reserved.
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+Patient 2013; 6(3):225-31.
+
+Lennox RD, Leahy MJ. Validation of the Dermatology Life Quality Index as an outcome measure
+
+for urticaria-related quality of life. Ann Allergy Asthma Immunol 2004; 93(2):142-6.
+
+Khalil S, McBride D, Gimenez-Arnau A, et al. Weekly Urticaria Activity Score (UAS7) and
+Dermatology Life Quality Index (DLQI) in validation of chronic spontaneous urticaria (CSU/CIU)
+
+health states. J Allergy Clin Immunol 2015; 135(2):AB131.
+
+National Institute for Health and Care Excellence. NICE Technology Appraisal Guidance 339.
+Omalizumab for previously treated chronic spontaneous urticaria. 2015. Available at:
+https://www.nice.org.uk/guidance/ta339/resources/guidance-omalizumab-for-previously
+treated-chronic-spontaneous-urticaria-pdf (last accessed 27 September 2015).
+
+Giralt J, Santamaria E, Izquierdo I, et al. Evaluating the severity in chronic spontaneous urticaria
+patients treated with rupatadine by means a recent categorized health states classification of
+urticaria activity score. EAAC/ Online Library. 2015. Available at
+http://eaaci.multilearning.com/eaaci/2015/barcelona/104459/j.giralt.evaluating.the.severity.in.
+
+chronic.spontaneous.urticaria.patients.html?f=p6m3e814010424 (last accessed 30 May 2016).
+
+Shikiar R, Harding G, Leahy M, et al. Minimal important difference (MID) of the Dermatology Life
+Quality Index (DLQI): results from patients with chronic idiopathic urticaria. Health Qual Life
+
+Outcomes 2005; 3:36.
+
+Hongbo Y, Thomas CL, Harrison MA, et al. Translating the science of quality of life into practice:
+
+what do dermatology life quality index scores mean? J Invest Dermatol 2005 Oct; 125(4):659-64.
+
+Baiardini |, Braido F, Bindslev-Jensen C, et al. Recommendations for assessing patient-reported
+outcomes and health-related quality of life in patients with urticaria: A GALEN taskforce
+
+position paper. Allergy 2011; 66:840-4.
+
+This article is protected by copyright. All rights reserved.
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+Stull DE, McBride D, Houghton K, et al. Assessing changes in chronic spontaneous/idiopathic
+urticaria: comparisons of patient-reported outcomes using latent growth modeling. Adv Ther
+
+2016 Feb; 33(2):214-24.
+
+Majeski CJ, Johnson JA, Davison SN, Lauzon CJ. Itch Severity Scale: a self-report instrument for
+
+the measurement of pruritus severity. Br J Dermato! 2007 Apr; 156(4):667-73.
+
+Nijsten T. Dermatology Life Quality Index: time to move forward. J Invest Dermatol 2012; 132:11
+3.
+
+Basra MKA, Fenech R, Gatt RM, et al. The Dermatology Life Quality Index 1994-2007: a
+
+comprehensive review of validation data and clinical results. Br J Dermatol 2008; 159:997-1035.
+
+Finlay AY, Basra MKA, Piguet V, Salek S. DLQI: a paradigm shift to patient-centred outcomes. J
+
+Invest Dermatol 2012; 132:2464-5.
+
+Basra MK, Salek MS, Camilleri L, et al. Determining the minimal clinically important difference
+and responsiveness of the Dermatology Life Quality Index (DLQI): further data. Dermatology
+
+2015; 230(1):27-33.
+
+FIGURE LEGENDS
+
+Figure 1. Phase 3 Randomised, Double-Blind, Placebo-Controlled Trials of
+
+Omalizumab
+
+CU-Q,0L = Chronic Urticaria Quality of Life Questionnaire; DLQI = Dermatology Life Quality Index;
+
+UAS7 = Urticaria Activity Score, assessed twice daily, calculated over 7 days.
+
+Figure 2. Effect of CSU on Health-Related Quality of Life, by Categorical UAS77p
+
+Disease States
+
+This article is protected by copyright. All rights reserved.
+A: DLQI; B: CU-Q,0L. Both pooled data with multiple imputation of missing data; estimated marginal
+mean scores from mixed-effects regression analysis. Significance shown is based on comparison with
+
+the next-worst disease state.
+
+CSU = chronic spontaneous urticaria; CU-Q,0L = Chronic Urticaria Quality of Life Questionnaire;
+DLQI = Dermatology Life Quality Index; SE = standard error; UAS77p = Urticaria Activity Score for the
+
+past 7 days, assessed twice daily.
+
+Figure 3. CSU Interference With Daily Activities and Sleep, by Categorical UAS77p
+
+Disease States
+
+A: Interference with daily activities from UPDD; B: Interference with sleep from UPDD. Both pooled
+data with multiple imputation of missing data; mixed-effects regression analysis. Significance shown
+
+to the next-worst disease state.
+
+CSU = chronic spontaneous urticaria; SE = standard error; UAS77p = Urticaria Activity Score for the
+
+past 7 days, assessed twice daily; UPDD: Urticaria Patient Daily Diary.
+
+Figure 4. Effect of CSU on On-Demand Antihistamine Therapy in Previous 7 Days, by
+
+Categorical UAS77p Disease States
+
+Pooled data with multiple imputation of missing data mixed-effects regression analysis. Significance
+
+shown to the next-worst disease state.
+
+CSU = chronic spontaneous urticaria; DPH = diphenhydramine; SE = standard error;
+
+UAS7 7p = Urticaria Activity Score for the past 7 days, assessed twice daily.
+
+Figure 5. Angioedema in the Previous 7 Days, by Categorical UAS77p Disease States
+
+Pooled data with multiple imputation of missing data; mixed-effects regression analysis. Significance
+
+shown to the next-worst disease state.
+
+SE = standard error; UAS77p = Urticaria Activity Score for the past 7 days, assessed twice daily.
+
+This article is protected by copyright. All rights reserved.
+Table 1. Baseline Characteristics
+
+ASTERIA |
+Characteristic N = 318?
+Age (years)
+Mean (SD) 41.2 (14.5)
+Median 41.0
+Sex (% female) 72.6
+
+Duration of disease (years)
+Mean (SD) 6.9 (9.1)
+
+Median 3.7
+
+Previous number of CSU medications taken
+
+Mean (SD) 4.7 (2.8)
+Median 4.0
+
+Presence of angioedema”
+
+% yes 47.5
+
+ASTERIA IIN = 322°
+
+42.5 (13.7)
+42.0
+
+75.8
+
+6.5 (8.6)
+
+3.3
+
+4.3 (2.7)
+
+4.0
+
+40.7
+
+Weekly number of DPH (25-mg) tablets taken”*
+
+Mean (SD) 7.7 (8.3)
+Median 6.0
+UAS7;p score”
+
+Mean (SD) 31.1 (6.6)
+DLQI score
+
+Mean (SD) 13.4 (6.6)
+
+CU-Q,oL score
+
+7.3 (7.8)
+
+5.0
+
+30.7 (6.8)
+
+12.7 (6.2)
+
+This article is protected by copyright. All rights reserved.
+
+GLACIALN = 335?
+
+43.1 (14.1)
+44.0
+
+71.9
+
+7.4 (9.5)
+
+3.6
+
+6.0 (2.6)
+
+6.0
+
+53.1*
+
+7.7 (9.1)
+
+5.0
+
+30.9 (6.6)
+
+13.6 (6.7)
+ASTERIA |
+
+Characteristic N = 318° ASTERIA IIN = 3227. GLACIALN = 335°
+
+Mean (SD) 44.6 (18.7)° 42.7 (17.0)° 43.9 (17.1)°
+
+CSU = chronic spontaneous urticaria; CU-Q,0L = Chronic Urticaria Quality of Life Questionnaire;
+DLQI = Dermatology Life Quality Index; DPH = diphenhydramine; SD = standard deviation;
+UAS7 yp = Urticaria Activity Score for the past 7 days, assessed twice daily; UPDD = Urticaria Patient
+
+Daily Diary.
+* Includes patients from all treatment arms.
+° Based on data collected via the UPDD.
+
+° The clinical report form allowed for up to 3 pills per day or up to 21 pills in the prior 7 days. However,
+a small number of patients reported values outside this range. Across the three trials, 97.7% reported
+between 0 and 21 pills in the prior 7 days, while 2.3% reported between 22 and 63 pills taken in the
+
+prior 7 days.
+* ASTERIA I: n = 246; ASTERIA II: n = 280; GLACIAL: n = 323.
+
+*P<0.05 versus ASTERIA II.
+
+This article is protected by copyright. All rights reserved.
+4 8 12 16 20 24
+Baseline weeks weeks weeks weeks weeks weeks
+DLal DLQI DLQl
+CU-Q,oL CU-Q,oL CU-Q,oL
+UAS7 UAS7 UAS7 UAS7 UAS7 UAS7 UAS7
+
+yy Fy yy
+
+ASTERIA | — 24 week treatment>
+Omalizumab 75/150/300 mg/placebo
+
+DLal DLal DLal
+CU-Q,0L CU-Q,oL CU-Q,0L
+UAS7 —-UAS7_—s«UAS7~—sSUAS7-—s«UAS7_—sCUAS7_—sCUSAS7
+
+yy ¥
+
+ASTERIA Il —12 week treatment <4
+
+: 16-week follow-up
+Omalizumab 76/160/300 mg/placebo)
+
+DLal DLQI DLQI
+CU-Q,0L CU-Q,oL CU-Q,0L
+UAS7 ——-UAS7_—s«UAS7-—s«CUAS7-~—s«CUAS7-—s«AS7_—sCUSASS7
+
+Y Y Y Y Y Y
+
+GLACIAL — 24 week treatment S
+Omalizumab 300 mg/placebo
+
+This article is protected by copyright. All rights reserved.
+
+28 32 36 40
+
+ 
+
+ 
+
+ 
+
+ 
+
+weeks weeks weeks weeks
+DLal
+CU-Q,oL
+UAS7 UAS7 UAS7 UAS7
+16-week follow-up
+DLQl
+CU-Q,0L
+UAS7
+Y Monthly flat dosing
+@ Primary endpoint
+(12 week)
+DLQI
+CU-Q,oL
+UAS7 UAS7 UAS7 UAS7
+
+16-week follow-up
+>
+
+  
+   
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+  
+
+30
+o UAST+p = 0
+—
+9 25 [I UAS7;p = 1-6
+” UAS7 yp = 7-15
+S$ 2 BB UAS7,p = 16-27 P<0.001
+e HB VAS7,p = 28-42
+3 P<0.001 13.93
+S 15
+a P<0.001
+_ 8.93
+ul 10 P<0.001
+~ 4.90
+S 5 , 2.50
+s i
+= 0.29
+0
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+
+UAS7,p Disease State
+
+  
+   
+ 
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 —UAS7 yp =
+80 UAST rp = 1-6
+80-5 | GIUAS7;p = 7-15
+
+I UAS7,p = 16-27
+
+Ps<0.001
+WI UAS7,, = 28-42
+Ps0.001
+44.84
+P<0.001 J 31.48
+P<0.001
+| 19.54
+
+12.24
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+    
+ 
+
+Mean (SE) CU-Q,oL Total Score w
+a
+oO
+
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+
+UAS7;7p Disease State
+
+This article is protected by copyright. All rights reserved.
+>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21
+UAS7;p =0
+18 UAS7 yp = 1-6
+o TD P<0.001 —
+23 BUAS7,p = 7-15
+§ = 184 | MUAST yp = 16-27 ue
+es WUAS7,, = 28-42
+° P<0.001
+22" ~ |
+=e 8.38
+u 8 Ps<0.001 —
+=o 6 P<0,001 |
+cs ~~] 4.00
+os
+= 3 1.42
+0 0.00
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+UAS7,p Disease State
+B
+21
+
+    
+     
+  
+
+ 
+
+UAST yp = 0
+UAST yp = 1-6
+
+P< 0.001
+
+B UAS7,p = 7-15
+
+Bl UAS7,p = 16-27 13.00
+HB UAS7,, = 28-42 P<0.001 7]
+
+P<0.001 L 7.45
+P<0.001 , 7
+i” 3.46
+a 1.19
+0.00
+
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+
+UAS7,p Disease State
+
+ 
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+—s
+nN
+
+ 
+
+Mean (SE) Interference
+with Sleep
+o
+
+This article is protected by copyright. All rights reserved.
+Ny
+=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UAS7 yp = 0
+18 UAS7 4p = 1-6
+[BUAS7;p = 7-15
+154 | ML UAS7,5 = 16-27
+49 WUAS7,p = 28-42
+
+ 
+
+Mean (SE)
+Number of DPH Pills
+
+P< 0.001
+|
+P<0.001 8.57
+9 | E
+2.71
+
+ 
+
+6 Ps0.05 | 5.22
+3 1.75
+0.38
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+
+UAS7,p Disease State
+
+   
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e
+UAS7 yp =0
+6 UAS7;p = 1-6
+GB UAS7yp = 7-15
+
+ 
+
+ UAS7,p = 16-27
+HEUAS7,p = 28-42
+
+ 
+
+ 
+
+ 
+
+P< 0.05 P<0.001 T° 0.001 7
+— P<0.05 —| |.
+
+0.99 1.48
+
+   
+  
+  
+
+ 
+
+0.02 0.22 0.43
+
+ 
+
+Mean (SE) Number of Days With
+Angioedema in Previous 7 Days
+
+Urticaria-Free Well-Controlled Mild Moderate Severe
+Activity Activity Activity Activity
+
+UAS7,p Disease State
+
+This article is protected by copyright. All rights reserved.
+

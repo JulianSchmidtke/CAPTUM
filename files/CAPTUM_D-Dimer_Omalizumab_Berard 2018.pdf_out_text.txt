@@ -1,0 +1,1273 @@
+ 
+
+CLINICAL TRIAL
+
+BJD
+
+British Journal of Dermatology
+
+Omalizumab in patients with chronic spontaneous urticaria
+nonresponsive to H1-antihistamine treatment: results of the
+phase IV open-label SUNRISE study*
+
+F. Bérard,? M.C. Ferrier Le Bouedec,? L. Bouillet @,? Z. Reguiai@,* A. Barbaud @,° F. Cambazard,°
+B. Milpied @,” B. Pelvet,® I. Kasujee,? H. Gharbi® and J.P. Lacour (*°
+
+‘Clinical Immunology and Allergology, CH Lyon-Sud, Claude Bernard University Lyon I, France
+
+"Dermatology Department, CHU Clermont-Ferrand, France
+
+*Department of Internal Medicine, Grenoble Alpes University, La Tronche, France
+
+“Dermatology Department, Clinique Courlancy, Reims, France
+
+*Dermatology Department, Hospital Tenon, Paris, France
+
+“Dermatology Department, CHU Saint-Etienne, Saint-Etienne, France
+
+Dermatology Department, St. Andre Hospital, Bordeaux, France
+
+Novartis Pharma SAS, Rueil-Malmaison, France
+
+°Novartis Pharma AG, Basel, Switzerland
+
+‘Dermatology Department, University Hospital of Nice, France
+
+ermatol 2019; 180:12
+ 
+
+ 
+
+Correspondence
+Frédéric Bérard.
+
+E-mail: frederic.berard@chu-lyon.fr
+
+Accepted for publication
+17 June 2018
+
+Funding sources
+
+The study was funded by Novartis Pharma SAS,
+Rueil-Malmaison, France. The funder had a role
+in the study design, data collection, data analysis
+
+and manuscript preparation.
+
+Conflicts of interest
+
+The following conflicts of interest are declared:
+F.B.: AbbVie, Janssen, Novartis, Roche (grants/
+research support); AbbVie, Novartis, Sanofi
+(honoraria, advisory board, or consulting fees).
+M.C.F.le.B.: Novartis (congress registration fees
+and accommodation). L.B.: Novartis (consultant
+and lecturer). Z.R.: Novartis Pharma (investigator, speaker and advisory board member). A.B.:
+Sanofi, Novartis, Biogen, Genevrier, La Roche
+Posay (invitation to a congress or protocols or
+expert meetings or conferences). F.C.: Abbvie,
+Celgene, Janssen, LEO Pharma, Novartis, Pfizer
+(has performed clinical research and received
+honoraria). B.M.: Novartis (honoraria, advisory
+board). B.P., IK. and H.G.: Novartis Pharma
+(employees). J.P.L.: AbbVie, Boehringer, Celgene,
+Galderma, Janssen, Lilly, Merck, Novartis, Regeneron Pharmaceuticals Inc., Roche (grants/ research
+
+support); AbbVie, Celgene, Galderma, Lilly,
+
+56 British Journal of Dermatology (2019) 180, pp56-66
+
+Summary
+
+Background Omalizumab is approved as an add-on therapy for the treatment of
+chronic spontaneous urticaria (CSU) in patients with inadequate response to H1antihistamine treatment. The urticaria control test (UCT) is a reliable, concise
+tool developed as an alternative to the 7-day urticaria activity score (UAS7) — the
+standard for CSU disease activity assessment.
+
+Objectives This prospective, open-label, phase IV study evaluated the efficacy and
+safety of omalizumab in French adult patients with CSU nonresponsive to H1antihistamine treatment.
+
+Materials and
+
+methods Patients [n= 136; stratified 1:2 (with
+
+: without angioedema)] received omalizumab 300 mg subcutaneously
+
+angiooedema
+every 4 weeks for 12 weeks. Study assessments included UCT, UAS7, angiooedema activity score and p-dimer levels (exploratory objective).
+
+Results At Week 12, 74-6% of the patients achieved disease control [UCT score > 12
+(primary endpoint)] and 67:7% of patients showed well-controlled disease
+(UAS7 < 6). There was a strong negative correlation between UCT score and UAS7
+at Week 12 (Spearman’s correlation coefficient —0-839). Mean plasma p-dimer concentration was elevated at baseline (1002-1 ng mL~') and decreased notably at
+Week 8 (455 ng mL~'). Among the nine patients with a very high baseline p-dimer
+concentration (> 3000 ng mL~'), eight were responders (UAS7 < 6) at Week 12.
+Conclusions Omalizumab was efficacious in patients with CSU nonresponsive to
+
+ 
+
+H1-antihistamines. The UCT was a reliable tool for disease assessment and the
+scores correlated well with UAS7. This study does not support the usefulness of
+p-dimer to monitor long-term disease prognosis in adult urticaria; however, it
+
+may indicate patients who respond to omalizumab.
+
+ 
+
+What’s already known about this topic?
+
+e Omalizumab is recommended as the third-line treatment for chronic spontaneous
+urticaria (CSU), as an add-on to H1-antihistamines.
+
+ 
+
+© 2018 British Association of Dermatologists
+
+®
+
+Check for
+updates
+Novartis and Sanofi (honoraria, advisory board or
+
+consulting fees).
+*Plain language summary available online
+
+DOI 10.1111/bjd.16904
+
+Omalizumab in patients with antihistamine-resistant CSU, Bérard et al. 57
+
+ 
+
+The urticaria control test (UCT) is a recently validated tool for disease control
+assessment in patients with CSU.
+
+Elevated plasma levels of p-dimer observed in some patients with CSU suggests a
+potential role of p-dimer as a biomarker in CSU treatment response and prognosis.
+
+ 
+
+ 
+
+What does this study add?
+
+°
+with moderate-to-severe CSU.
+°
+°
+ment with omalizumab.
+e
+
+Omalizumab controlled symptoms and improved quality of life in French patients
+
+UCT was a reliable tool for the assessment of urticaria control.
+p-dimers are elevated in some patients with CSU and change in response to treat
+This study does not support the usefulness of p-dimer to monitor long-term disease prognosis in adult urticaria; however, it may indicate patients who respond to
+
+omalizumab.
+
+ 
+
+ 
+
+ 
+
+Chronic spontaneous urticaria (CSU) is characterized by the
+spontaneous occurrence of transient, itchy recurrent weals that
+persist for at least 6 weeks, with or without angioedema.'
+CSU has an estimated point prevalence of approximately 0-5—
+1%.* Its etiology and pathogenesis has not been completely
+understood and several causative factors, including autoimmune processes, have been hypothesized.** Recent evidence
+suggests a possible involvement of the coagulation cascade in
+the pathogenesis of CSU as elevated plasma levels of thrombin
+and p-dimer were observed in some patients.” ”
+
+CSU is a debilitating disease that can severely impact patients’
+quality of life (QoL).*” International guidelines recommend second-generation H1-antihistamines at licensed doses as first-line
+therapy and to progressively increase the dosage up to fourfold,
+in case of nonresponse.'° However, in about 10% of patients,
+H1-antihistamines fail to achieve symptom control even at higher
+doses and the patient requires additional medication.” Omalizumab, a humanized anti-immunoglobulin E (anti-IgE) monoclonal antibody, is recommended as the third-line treatment for
+CSU, as an add-on to H1-antihistamines. Omalizumab binds to
+the Fc region of free IgE and prevents it from binding to its highaffinity receptor (FceR1) on mast cells and basophils.'! The safety
+and efficacy of omalizumab in the treatment of CSU were established in three phase III studies in patients with H1-antihistamine-refractory moderate-to-severe CSU. earl
+
+In these pivotal studies, disease activity was assessed using
+the 7-day urticaria activity score (UAS7) as recommended by
+international guidelines.'° The UAS7 is a unified and simple
+score that combines daily weal count and pruritus intensity.
+Although UAS7 is a useful and widely used tool, it has some
+limitations in that it is prospective, does not cover angiooedema and is difficult to evaluate if the patient forgets to
+complete the diary on a daily basis.'°
+
+Hence, the urticaria control test (UCT), a reliable and brief
+tool, was developed to overcome the limitations of UAS7. The
+UCT is the first validated and reliable patient-reported outcome (PRO) tool that retrospectively measures disease control
+
+in patients with all types of chronic urticaria and through its
+
+© 2018 British Association of Dermatologists
+
+clear threshold of > 12 for well-controlled disease helps treatment decisions. Unlike UAS7, UCT has a 4-week recall period
+and is independent of any previous patient presentations.'*
+The SUNRISE study was conducted to evaluate the efficacy
+of subcutaneous (s.c.) omalizumab 300 mg every 4 weeks in
+French adult patients with CSU who had an inadequate
+response to H1-antihistamine treatment. The recently validated
+UCT was used to assess disease activity for the first time in
+this prospective clinical study. Additionally, the present study
+explored the relation between plasma p-dimer concentrations
+
+and disease activity in patients with CSU.
+
+Materials and methods
+
+Study design and participants
+
+SUNRISE (trial registration: EudraCT no. 2014-005424-97) was a
+prospective, open-label, single-arm, nonrandomized, multicentre
+(30 centres), phase IV study conducted in France. The study comprised a screening period, a 12-week treatment period and an
+extension period (Fig. 1). Patients included in the study were
+aged between 18 and 75 years and met all the following criteria
+prior to enrolment: a diagnosis of CSU for > 6 months with an
+inadequate response to nonsedating H1-antihistamines as evidenced by the presence of hives associated with itching for at
+least six consecutive weeks at any time before enrolment despite
+current use of H1-antihistamines; a UAS7 > 16 (equivalent to
+moderate-to-severe CSU symptoms) and a UCT score < 8. Exclusion criteria included body weight < 40 kg (minimum age at
+inclusion, 18 years); a clearly defined underlying cause for
+chronic urticaria (e.g. physical urticaria); use of any H2-antihistamine or leukotriene receptor antagonist within 7 days preceding
+the screening; presence of other diseases with similar signs of
+urticaria or angioedema; evidence of parasitic infection and concomitant use of ciclosporin or any other immunosuppressive
+agent within 30 days prior to screening. The detailed exclusion
+criteria and the list of prohibited medications are provided in
+
+Supplementary Appendix $1 (see Supporting Information).
+
+British Journal of Dermatology (2019) 180, pp56-66
+58 Omalizumab in patients with antihistamine-resistant CSU, Bérard et al.
+
+ 
+
+Primary and
+secondary
+
+objectives
+
+ 
+
+ 
+
+BL WO W4 Ws W16 w20 W...
+Day -7
+
+v1 v2 V3 V4 V6 V7 EOS
+
+Screening Treatment period Extension treatment period
+
+Secondary
+objectives
+
+ 
+
+<
+
+Omalizumab 300 mg s.c.
+
+every 4 weeks
+
+ 
+
+ 
+
+Omalizumab 300 mg s.c.
+every 4 weeks
+
+ 
+
+Patients with a UCT value 2 8 or a UAS7 score < 16 at 12 weeks
+or by an improvement > 10 of the UAS7 score between baseline and 12 weeks
+could be included in the extension treatment period
+until omalizumab is commercially available in France
+
+ 
+
+ 
+
+Fig 1. Study design. BL, baseline; EOS, end of study; s.c., subcutaneous; UAS7, 7-day urticaria activity score; UCT, urticaria control test; V, visit;
+
+W, week.
+
+Enrolled patients were stratified 1:2 (with
+
+without angioedema) to represent general CSU epi
+angiooedema :
+demiology. All patients received three s.c. injections of omalizumab 300 mg (two injections of 150 mg each in the
+deltoid region of the left and right arm or in the thigh) at 4week intervals at the study centre. Patients who had an adequate response to omalizumab at Week 12 (defined as
+UCT = 8 or a UAS7 < 16 at 12 weeks or an improvement
+> 10 points on the UAS7 between baseline and 12 weeks)
+were allowed to continue treatment during the extension period (up to commercial availability of omalizumab in France: 3
+Nov 2015).
+
+All patients provided written informed consent. The study
+protocol and all amendments were reviewed and approved by an
+Independent Ethics Committee. The study was conducted
+
+according to the ethical principles of the Declaration of Helsinki.
+
+Study objectives
+
+The primary objective of the study was to evaluate the proportion of patients with a UCT score > 12 (indicating a well-controlled urticaria) at Week 12. The secondary and exploratory
+objectives have been described in Supplementary Appendix $2
+(see Supporting Information).
+
+Study assessments
+
+All the PRO tools used by the patients were available in a
+French version. The use of the available French version of the
+UCT was permitted with fees to Moxie GmbH, Berlin, Germany, owners of the rights, for this study. The UCT was completed by the patients at baseline and prior to administration of
+the study drug at Weeks 4, 8 and 12. The UCT score was
+
+derived from four questions, each with five answer options
+
+British Journal of Dermatology (2019) 180, pp56-66
+
+(scored 0-4 points), where low points indicated high disease
+activity and poor disease control (see Supplementary
+Appendix $3, Supporting Information, for the UCT questionnaire). The minimum and maximum UCT scores were 0 and
+16, respectively, with 16 indicating complete disease control.
+Patients completed a diary that covered the UAS7 and angioedema activity score (AAS; in case of angioedema), once daily.
+The diary was given to patients on Day —7, and complete diary
+information was collected for the seven consecutive days prior
+to the baseline visit and at Weeks 4, 8 and 12. The QoL assessments were performed at baseline and prior to administration
+of the study drug at Weeks 4, 8 and 12. See Supplementary
+Appendix $4 for details on UAS7, AAS, Dermatology Life Quality Index (DLQI), chronic urticaria QoL (CU-QoL) and angioedema QoL (AE-QoL) assessments; see Supporting Information.
+
+The p-dimer concentration was determined at baseline and
+Weeks 4 and 8. Blood levels of prothrombin factors 1 and 2,
+hypersensitive C-reactive protein, and factors Va and XIla
+were also assessed. Safety assessments consisted of collecting
+all adverse events (AEs) and serious AEs along with their
+severity and relationship to the study drug.
+
+Statistical analysis
+
+The sample size was based on the proportion of patients with
+a UCT score = 12 for the full analysis set (FAS), assuming a
+mean UCT score of 14 with a SD of 3, which corresponds to
+an expected true proportion of 74-8% of patients achieving
+disease control at 12 weeks. Based on a 95% confidence interval (CI), 110 patients were needed to achieve a disease control
+success rate in the 66-6-82-9% range. Based on an assumption
+that 10% of patients would not contribute values to the primary evaluation, 126 patients were planned to be enrolled. All
+
+efficacy analyses were performed using a two-sided test at 5%
+
+© 2018 British Association of Dermatologists
+Omalizumab in patients with antihistamine-resistant CSU, Bérard ef al. 59
+
+significance level. The primary analysis variable was the pro
+portion of patients disease control (UCT
+
+score > 12).
+
+The proportion of patients achieving disease control at
+
+achieving
+
+Week 12 was calculated and presented with corresponding
+95% CIs using the Clopper-Pearson method (exact binomial).
+Success of disease control was considered to have been
+achieved if the observed proportion of patients achieving disease control at Week 12 fell within the 66-6-82-9% range.
+Missing UCT scores at Week 12 were imputed using the lastobservation-carried-forward method. The correlation between
+p-dimer concentration at baseline and the UCT score and
+UAS7 at Week 8 was presented using Spearman’s rank correlation coefficient and scatter plots. The FAS, which included all
+patients who provided signed informed consent and received
+at least one dose of omalizumab, was used to analyse the effi
+cacy and safety data.
+
+Results
+
+Of the 156 patients screened, 136 were enrolled and received
+at least one dose of omalizumab; 124 patients completed the
+core period of 12 weeks, and 12 patients discontinued the
+
+study (Fig. 2). The most common reason for discontinuation
+
+ 
+
+was protocol deviation (n = 6, 4:4%, Fig. 2). The mean (+
+SD) age of the study population was 44-4 + 12-7 years and
+women comprised 77-9% of this population (Table 1). The
+median (range) number of previous CSU medications was 2-0
+(1-5) (Table 2); the most frequent were H1-antihistamines
+and antileukotrienes. During the study, 50-7% of patients used
+at least one concomitant medication for CSU. The most common category of concomitant medications (taken by 59-6% of
+
+patients) was second-generation antihistamines (Table 3).
+
+Urticaria control test score and 7-day urticaria activity
+score
+
+The primary endpoint of disease control (UCT score > 12 at
+Week 12) was achieved by 74:6% (95% CI 66-4-81:7) of
+
+Screened
+N= 156 Reasons for screening failure (n = 20)
+* Failure to meet criteria (n = 16)
+Vv * Other (n = 3)
+Included and treated + Lost to follow-up (n= 1)
+N= 136 Reasons for discontinuation (n = 12)
+———> *° Protocol deviation (n = 6)
+Lack of efficacy (n = 3)
+
+Vv .
+Completed Week 12 + Consent withdrawal (n = 2)
+N= 124 + Adverse event (n = 1)
+
+ 
+
+ 
+
+Vv
+Entered extension
+N=113
+
+ 
+
+Vv
+Still on omalizumab at EOS
+N= 105
+
+ 
+
+ 
+
+ 
+
+Fig 2. Patient disposition. EOS, end of study.
+
+© 2018 British Association of Dermatologists
+
+Table 1 Patient baseline demographic and clinical characteristics
+
+ 
+
+Study population
+Population characteristics (N = 136)
+Age, mean (SD), years 44-4 (12-7)
+Sex, female, n (%) 106 (77-9)
+BMI, mean (SD), kg m~* 26:5 (5-01)
+Duration since onset of CSU symptoms, 6-4 (7-9)
+mean (SD), years
+Duration since diagnosis of CSU, mean. 4-7 (6:2)
+(SD), years
+Patients with weals during the last 129 (94-9)
+6 months, n (%)
+Patients with angioedema during the last 83 (61-0)
+6 months, n (%)
+Duration of angioedema, mean (SD), h 19-6 (24-96)
+UAS7 score, mean (SD) 29-7 (6:98)
+UCT score, mean (SD) 3-3 (2-4)
+AE-Qol total score, mean (SD)* 57-9 (22-5)
+
+AE-QoL, angioedema quality of life; BMI, body mass index;
+CSU, chronic spontaneous urticaria; UAS7, 7-day urticaria activity score; UCT, urticaria control test. “Assessed in patients with
+
+angioedema.
+
+Table 2 Medication history at baseline
+
+ 
+
+ 
+
+Study population
+Prior CSU treatment (N = 136)*
+Previous number of CSU medications, 2:0 (1-0, 5-0)
+median (min, max)
+
+Previous medications taken:
+H1-antihistamines 1 x 34 (25-0)
+H1-antihistamines 2x 34 (25-0)
+H1-antihistamines 3 x 25 (18-4)
+H1-antihistamines 4 86 (63-2)
+H2-antihistamines S87)
+Antileukotriene 52 (38-2)
+Oral corticosteroids 26 (19-1)
+Doxepin 1 (0-7)
+Ciclosporin 6 (4-4)
+Methotrexate 3 (2:2)
+Hydroxychloroquine 1 (0-7)
+Dapsone 1 (0-7)
+Anti-IgE 4 (2-9)
+Colchicine 2 (1:5)
+Tranexamic acid 2 (1-5)
+
+ 
+
+CSU, chronic spontaneous urticaria; IgE, immunoglobulin E. *All
+values are n (%) unless otherwise specified. Percentages are based
+
+on the total number of patients in the full analysis set.
+
+patients (Fig. 3). There was a significant increase in the UCT
+score from baseline to Week 12, with a mean increase of
+9-6 + 4-95 points (P < 0-0001) indicating a better disease
+control (Fig. 4). The increase in the UCT score was comparable between patients with and without angioedema. A total of
+67:7% of patients (95% CI 58-8-75-7) achieved a UAS7 < 6
+at Week 12 (Fig. 3), with no major differences between
+
+patients with and without angioedema. There was a significant
+
+British Journal of Dermatology (2019) 180, pp56-66
+60 Omalizumab in patients with antihistamine-resistant CSU, Bérard ef al.
+
+improvement in UAS7 from baseline to Week 12
+(—22-9 + 11-67 points, P < 0-0001), signifying the efficacy
+
+of omalizumab treatment in patients with CSU. The decrease
+
+Table 3 Concomitant medications used for CSU during the study
+
+ 
+
+Study population
+
+ 
+
+(N = 136)
+Any concomitant medications for CSU, n (%) 69 (50-7)
+Second-generation H1-antihistamines 77 (56-6)
+First-generation H1-antihistamines 13 (9-6)
+Betamethasone 1 (0-7)
+Alprazolam 1 (0:7)
+Paracetamol 1 (0-7)
+Ibuprofen 1 (0-7)
+Hydroxychloroquine 1 (0-7)
+
+ 
+
+A patient with multiple occurrences within an ATC class is
+counted only once. A medication/therapy can appear with more
+than one ATC class. One patient might have taken more than
+one medication, ATC, anatomical therapeutic chemical; CSU,
+
+chronic spontaneous urticaria
+
+1004 (a)
+90
+80
+70 55-4%
+60
+50
+40
+30
+
+Patients with UCT 2 12
+
+20
+10
+
+67-2%
+
+in the UAS7 was comparable between patients with and without angioedema (Fig. 4).
+
+There was a strong negative correlation between the UCT
+score and UAS7 at Week 12 (Spearman’s correlation coefficient —0-839; Fig. 5a). Overall, in 87-3% of patients, both
+UCT score and UAS7 varied in a coherent and consistent manner (UCT = 12 and UAS7 < 6 or UCT < 12 and UAS7 > 6),
+
+reinforcing the association between the two scores (Fig. 5b).
+
+p-dimer and other biomarkers
+
+The mean plasma concentration of p-dimer was high at baseline
+[1002-1 ng mL~' (normal levels < 500 ng mL~')]'®'” and
+decreased notably with omalizumab treatment at Week 4
+(506-4 ng mL~') and Week 8 (455 ng mL” ') (Fig. 6). The
+reduction in plasma p-dimer levels with omalizumab was
+observed both in patients with and without angioedema at baseline (Fig. 6). There was a weak positive correlation of UCT
+score at Week 12 with baseline p-dimer concentration (Spear
+man’s correlation coefficient 0-059) and a weak negative
+
+74-6%
+
+ 
+
+Week 4
+
+100 4 (b)
+90
+80
+70
+
+52:0%
+
+60
+
+50
+
+40
+
+30
+
+Patients with UAS7 <6
+
+20
+10
+
+ 
+
+Week 8
+
+64-2%
+
+ 
+
+Week 12
+
+67-7%
+
+ 
+
+Week 4
+
+ 
+
+Week 8
+
+ 
+
+Week 12
+
+ 
+
+Fig 3. Proportion of patients with well-controlled urticaria at Week 12 (a) UCT score > 12 and (b) UAS7 < 6. UAS, 7-day urticaria activity score;
+
+UCT, urticaria control test. Error bars represent the confidence interval. UAS, 7-day urticaria activity score; UCT, urticaria control test.
+
+British Journal of Dermatology (2019) 180, pp56-66
+
+© 2018 British Association of Dermatologists
+Omalizumab in patients with antihistamine-resistant CSU, Bérard et al. 61
+
+ 
+
+UCT score, mean (SD)
+
+(a)
+
+12-9 (4-02)
+
+Mean
+difference
+9-6 (4:95)
+
+(P< 0-0001)
+
+3-3 (2:36)
+
+Total population
+(n= 134)
+
+(b)
+
+29-4 (7-14)
+
+Mean
+difference
+
+™ Baseline ™ Week 12
+
+13:1 (3-95)
+
+Mean
+difference
+10-1 (4-47)
+
+(P< 0:0001)
+
+3-0 (2:06)
+
+Patients with
+angioedema (n = 82)
+
+™ Baseline ™ Week 12
+
+29-7 (7-32)
+
+Mean
+difference
+
+12-9 (3-97)
+
+Mean
+difference
+9-3 (5:32)
+
+(P< 0-0001)
+
+3-6 (2:55)
+
+Patients without
+angioedema (n = 50)
+
+29-2 (6-72)
+
+Mean
+difference
+
+22:9 (11-67)
+(P< 0-0001)
+
+UAS7 score, mean (SD)
+
+6:5 (9:67)
+
+ 
+
+Total population
+(n= 127)
+
+Patients with
+angioedema (n = 79)
+
+ 
+
+23-1 (11-50)
+(P< 0-0001)
+
+22-7 (12:15)
+(P< 0:0001)
+
+6-6 (10-08)
+
+Patients without
+angioedema (n = 47)
+
+Fig 4. Change in UCT score and UAS7 depending on angioedema status from baseline to Week 12. (a) UCT; (b) UAS7. UAS7, 7-day urticaria
+
+activity score; UCT, urticaria control test. Error bars represent the SD.
+
+correlation of UAS7 at Week 12 with baseline p-dimer concentration (Spearman’s correlation coefficient —0-108) (Fig. 7).
+Ten patients had a very high baseline
+(> 3000 ng mL™'), in five of those the p-dimer levels were
+normalized with treatment at Week 8. At Week 12, eight
+patients had a UAS7 < 6 and seven of nine patients, who had a
+UCT score available at Week 12, achieved a UCT score > 12.
+
+No meaningful correlation with PROs was demonstrated for
+
+p-dimer _ level
+
+the other biomarkers.
+
+Quality of life
+
+There was a notable improvement in the Qol of patients with
+CSU after 12 weeks of omalizumab treatment. Although
+patients with angioedema had higher CU-QoL and DLQI
+scores at baseline than those without angioedema, the
+improvement in scores was similar in both groups at Week 12
+(Table 4) after treatment with omalizumab. The UCT score
+was negatively correlated with CU-QoL and DLQI scores at
+Week 12 (Table 5).
+
+© 2018 British Association of Dermatologists
+
+Angioedema-related assessments
+
+In patients with angioedema, the total AE-QoL score
+decreased and the AAS improved from baseline to Week 12
+with omalizumab (both P < 0-0001; Table 4). The UCT score
+was negatively correlated with AE-QoL and AAS at Week 12
+
+(Table 5).
+
+Safety
+
+The mean duration of exposure to omalizumab during the
+
+ 
+
+core treatment period was 11-93 + 1-72 (range 4-1—-14-1)
+weeks. Most patients (93-4%) received a total of three
+injections as the approved dose of 300 mg was administered s.c. every 4 weeks over a period of 3 months, and
+the mean cumulative dose was 869-12 + 122-63 mg. The
+mean duration of exposure to omalizumab was
+19-11 + 5-46 (range 4:1—29-1) weeks from baseline up to
+the end of the study. No death or episode of anaphylactic
+
+shock were reported during the study. A total of five
+
+British Journal of Dermatology (2019) 180, pp56-66
+62 Omalizumab in patients with antihistamine-resistant CSU, Bérard et al.
+
+ 
+
+s
+
+a109S 19M ues
+
+ 
+
+Mean UAS7 score
+a
+
+ 
+
+Inclusion W1 W2 W3 W4 WS W6 W7 W8& W9 W10 W11 W12
+
+(b) _,
+
+22:2
+
+10-3
+
+10
+L | =
+0 De!
+
+ 
+
+ 
+
+UCT 2 12 and UCT 2 12 and UCT < 12 and UCT < 12 and
+UAS7 <6 UAS7 >6 UAS7 <6 UAS7 >6
+
+ 
+
+ 
+
+Fig 5. Variations in UCT score and UAS7 and their correlation. (a) Improvement of disease control (UCT) vs. improvement of disease activity
+(UAS7); strong negative correlation between the UCT score and UAS7 at Week 12 (Spearman’s correlation coefficient —0-839). (b) Distribution
+of patients according to UCT score and UAS7 at Week 12. ***P < 0-0001 vs. baseline at all time points. UAS7, 7-day urticaria activity score;
+
+UCT, urticaria control test; W, week.
+
+ 
+
+1400 @ Total population (n = 114)
+
+@ Patients with angioedema (n = 75)
+1200, ® Patients without angioedema (n = 39)
+4000 | 1002: 1003°7 999-1
+
+800
+
+600
+
+400
+
+200
+
+Mean p-dimer concentration, ng mL-1
+
+ 
+
+ 
+
+Week 0 Week 4 Week 8
+
+ 
+
+ 
+
+ 
+
+Fig 6. Change in p-dimer concentration after 8 weeks of treatment with omalizumab.
+
+patients reported seven serious AEs which included pneumo- During the 12 weeks of treatment, 66-2% of patients expenia, cervical vertebral fracture, fractured sacrum, ligament rienced at least one AE and 36-8% of patients experienced
+sprain, obesity, bladder dilatation and pharyngeal oedema. at least one treatment-related AE. The most common
+
+British Journal of Dermatology (2019) 180, pp56-66 © 2018 British Association of Dermatologists
+Omalizumab in patients with antihistamine-resistant CSU,
+
+Bérard et al. 63
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) Spearman's correlation coefficient = 0-059
+18 4 t t
+© @ominmonan cammo0 0M oO ° i ° © 0°
+N 154 © © of ooo '
+~~ mo oD oO ° 1 fo}
+oO e@oo! ° ° d °
+@ 124 0 owo'oo ° 1 ° °
+= ° ‘ ° ° 4 °
+~ ' 0 ° ° '
+My 94 ° 'o '
+5 @;00 Q 1
+rs} A °o 0° # '
+a 4 °o | ° 1
+- Of H
+oO H t
+> 34 o 1 0 H
+io ° ° ° H
+04 H I
+T T T T T T t T T T T T
+0 500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500
+p-dimer at baseline
+© Omalizumab 300 mg (N = 136)
+(b) Spearman’s correlation coefficient = —0-108
+50 :
+nN e as
+x 40 4 °
+$ 35 4
+= x! a)
+Bo] oe fe ‘ |
+e 25 4 % 2 g
+8 204 om ' ° ° '
+n 154 0 e : a ° ° '
+n oo; 0 1 °
+<x 10+ H ° '
+° 1 1
+° Bf @ Gee So ' e 2
+& 8, ° ° !
+04 °o wot oOo@ ° ° 1 @o o 00
+T i T T T T t T T T T T T
+ie} 500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000
+
+p-dimer at baseline
+© Omalizumab 300 mg (N = 136)
+
+ 
+
+Fig 7. Correlation between p-dimer concentration and UCT score and UAS7 at baseline and Week 12. UAS7, 7-day urticaria activity score; UCT,
+
+urticaria control test. Vertical lines indicate the cut-off points. Normal p-dimer values < 500 ng mL~'. Of the 10 patients with very high p-dimer
+
+levels (> 3000 ng mL~') at baseline, one patient did not have UCT levels captured at Week 12.
+
+treatment-emergent AEs were headache (15-4%), asthenia
+(147%) and arthralgia (7-4%) (Table 6).
+
+Discussion
+
+The results of the SUNRISE study confirm the efficacy of omalizumab 300 mg s.c. in controlling the symptoms and in
+improving the QoL in French patients with moderate-to-severe
+CSU nonresponsive to Hl-antihistamine treatment. Indeed,
+two-thirds of our patients achieved a UAS7 < 6 at Week 12 of
+omalizumab treatment, indicative of well-controlled disease,
+
+© 2018 British Association of Dermatologists
+
+which is comparable with the data observed in the three pivotal studies (52-66% of patients with a UAS7 < 6).'* '*
+SUNRISE is the first prospective study that investigated the
+utility of the UCT in patients with CSU treated with omalizumab. Overall, 74-6% of patients in our study achieved a
+UCT score > 12 with omalizumab treatment. Our results confirm that the UCT is a reliable tool to measure disease control,
+consistent with the findings from a previous study from Thailand in 169 patients with chronic urticaria.'* Urticaria symptoms vary greatly from one day to another, and the disease
+
+condition at the time of presentation to the physician is rarely
+
+British Journal of Dermatology (2019) 180, pp56-66
+64 Omalizumab in patients with antihistamine-resistant CSU, Bérard ef al.
+
+Table 4 Change in QoL and angioedema assessment parameters after 12 weeks of treatment
+
+Change from baseline
+
+ 
+
+Baseline, Week 12,
+Variable mean (SD) mean (SD) at Week 12, mean (SD) P-value
+With angioedema, n = 83
+CU-QoL 68-9 (15-64) 32-5 (13-33) —36-4 (18-04) <0-0001
+DLQI 14-2 (5-39) 2-4 (3-95) y <0-0001
+AAS? 32-7 (27-21) 3-7 (10-40) —29-0 (28-02) < 0-0001
+AE-QolL (total score)* 57-88 (22:47) 16-4 (20-07) —41-48 (25-20) <0-0001
+Without angioedema, n = 51
+CU-QoL 62-4 (17:76) 33-3 (13-32) —29-1 (18-74) <0-0001
+DLQI 13-2 (6-67) 2:7 (5-12) y < 0-0001
+
+ 
+
+AAS, angioedema activity score; AE-QoL, angioedema QoL; CU-QoL, chronic urticaria QoL; DLQI, Dermatology Life Quality Index; QoL,
+
+quality of life. *Assessed in patients with angioedema. ’Absolute change from baseline at Week 12 was not calculated for DLQI
+
+Table 5 Correlation of UCT score with other scores
+
+ 
+
+Absolute values at Spearman's correlation
+
+ 
+
+Variable Week 12, mean (SD) coefficient vs. UCT
+ucT 12-9 (4-02) 1
+
+UAS7 6:5 (9-67) —0:839
+
+CU-QoL 32-8 (13-28) —0-800
+
+DLQI 25 (4-42) —0:894
+
+AAS* 3-7 (10-4) —0-615
+
+AE-QoL 16-4 (20-07) —0-666
+
+(total score)*
+
+ 
+
+AAS, angioedema activity score; AE-QoL, angioedema QoL; CUQoL, chronic urticaria QoL; DLQI, Dermatology Life Quality
+Index; QoL, quality of life; UAS7, 7-day urticaria activity score;
+UCT, urticaria control test. “Assessed in patients with angio
+oedema.
+
+representative of actual disease status.'” Therefore, it is important to have retrospective, easy-to-use PRO tools such as the
+UCT.
+
+Taken together, the UAS7 and UCT scores confirm the efficacy of omalizumab in these patients with moderate-to-severe
+CSU nonresponsive to H1-antihistamines. Interestingly, a significant negative correlation was observed between the UCT
+score and UAS7, with a consistent variation between the two
+scores in a majority of patients, reinforcing the correlation
+between the two.
+
+Another interesting finding is that omalizumab was equally
+efficacious in patients with or without angioedema as shown
+by the comparable change in UCT score and UAS7 in both
+groups at Week 12. Angioedema is fairly common in patients
+with CSU (33-67%); it adversely affects the patient’s QoL and
+is also associated with increased disease duration and worse
+prognosis.” In the present study, 61% of patients had angioedema at baseline with an increased AE-QoL total score, which
+significantly decreased at Week 12 along with the AAS. These
+results are in line with the findings of the X-ACT study, which
+showed the efficacy of omalizumab in patients with moderate
+to-severe CSU symptoms and angioedema nonresponsive to
+
+British Journal of Dermatology (2019) 180, pp56-66
+
+Table 6 Summary of treatment-emergent AEs up to Week 12 (safety
+set)
+
+Omalizumab 300 mg
+
+ 
+
+(N = 136)
+AEs n (%)
+Patients with at least one AE 90 (66-2)
+Patients with at least one serious AE 5 (3-7)
+Treatment discontinuation due to AE 3 (2-2)
+Arrhythmia 1 (0-7)
+Pneumonia 1 (0-7)
+Pharyngeal oedema 1 (0-7)
+Hypertension 1 (0-7)
+Death 0
+Treatment-emergent AEs experienced by > 3% of patients
+Headache 21 (15:4)
+Asthenia 20 (14-7)
+Arthralgia 10 (7-4)
+Weight increased 6 (44)
+Alopecia 5 (3-7)
+Nausea 5 (3-7)
+
+ 
+
+AEs were coded using MedDRA v18.1. AE, adverse event; MedDRA, Medical Dictionary for Regulatory Activities.
+
+high doses of antihistamine treatment.!” In addition, as
+expected, our patients had a severe QoL impairment at baseline as evidenced by the high CU-QoL, DLQI and AE-QoL
+scores. Treatment with omalizumab for 12 weeks resulted in a
+significant improvement of all QoL scores. Moreover, these
+scores negatively correlated with the UCT scores, further confirming the reliability of the UCT. Overall, these results from
+the SUNRISE study suggest that UCT can be used as an alternative to UAS7, for example, in new patients or in those who
+did not fill in their UAS7 before the consultation and in
+patients with angioedema whose disease activity cannot be
+measured by UAS7.
+
+Several pathways have been suggested to explain omalizumab’s mechanism of action in urticaria; however, the
+mechanism is not yet fully understood. The major effect of
+
+omalizumab in patients with CSU is considered to result from
+
+© 2018 British Association of Dermatologists
+Omalizumab in patients with antihistamine-resistant CSU, Bérard et al. 65
+
+the downregulation of high-affinity IgE receptors on mast cells
+and basophils, leading to a reduction in the release of inflammatory mediators from these cells.°?' The 2017 study by
+Deza et al. demonstrated downregulation of FceRI, a high-affinity IgE receptor, with omalizumab treatment.”” Other effects,
+including those on the coagulation cascade leading to a
+marked reduction in p-dimer plasma levels, have also been
+suggested.”"7? Furthermore, high p-dimer levels have been
+found to be associated with poor response to antihistamines
+and ciclosporin in patients with CSU.”
+
+Recently, Asero et al. observed elevated baseline p-dimer
+levels in 59% of patients with severe CSU, and a dramatic
+decrease in the levels in some patients who responded to
+omalizumab treatment, suggesting a possible effect of omalizumab on coagulation activation and fibrin degradation in a
+subset of patients with CSU.’ Consistent with the published
+literature, elevated baseline p-dimer levels were observed in
+patients from the SUNRISE study. A fast normalization in
+plasma p-dimer levels was observed with omalizumab as early
+as Week 4, with a further decrease until Week 8. There was
+no meaningful correlation between Week 12 UCT or UAS7
+scores and baseline p-dimer concentrations. However, in a
+small subset of patients (10 of 136) with very high baseline
+p-dimer levels (> 3000 ng mL™'), most had disease control at
+Week 12. Future studies may help us to better understand the
+link between p-dimer and clinical response with omalizumab.
+
+This study has some limitations including its open-label nature and lack of a control group. Although H1-antihistamine
+treatment was to be at a stable dose for the duration of the
+treatment period per protocol, patients had the option to
+decrease the dosage if needed. As any change in dose was not
+actively monitored, we cannot conclude on the adaptation of
+the Hl-antihistamine following improvement in urticaria.
+Moreover, the study was conducted only in France, possibly
+limiting the generalizability of the results. Overall, these data
+further confirm the efficacy of omalizumab in patients with
+CSU with inadequate response to H1-antihistamine treatment
+and highlight the reliability of the UCT as a disease control
+tool in these patients. Omalizumab was well tolerated, and the
+safety results were consistent with the established safety profile.
+
+The use of the UCT should be recommended in routine
+clinical practice in order to assess efficacy and response to any
+urticaria treatment. Results demonstrate that p-dimers are elevated in some patients and change in response to treatment.
+This study does not support the usefulness of p-dimer as a
+marker of disease activity in adult urticaria; however, it may
+represent a useful tool to indicate patients who respond to
+
+omalizumab.
+
+Acknowledgments
+
+The authors would like to thank all the investigators and
+patients who contributed to the successful conduct of this
+study, and Aafrin Khan and Lakshmi Venkatraman (Novartis
+Health Care Pvt. Ltd, Hyderabad, India) for providing medical
+
+© 2018 British Association of Dermatologists
+
+writing and editorial assistance. This research was funded by
+Novartis Pharma SAS, Rueil-Malmaison, France.
+
+References
+
+1 Marzano AV, Pigatto P, Cristaudo A et al. Management of chronic
+spontaneous urticaria: practical parameters. G Ital Dermatol Venereol
+2015; 150:237-46.
+
+Maurer M, Weller K, Bindslev-Jensen C et al. Unmet clinical needs
+
+N
+
+in chronic spontaneous urticaria. A GA(2)LEN task force report.
+Allergy 2011; 66:317—30.
+
+Farres MN, Refaat M, Melek NA et al. Activation of coagulation in
+chronic urticaria in relation to disease severity and activity. Allergol
+Immunopathol (Madr) 2015; 43:162-7.
+
+4 Di Lorenzo G, Leto-Barone MS, La Piana S et al. Chronic sponta
+w
+
+neous urticaria: an autoimmune disease? A revision of the literature. Clin Exp Med 2013; 13:159-64.
+
+Asero R, Tedeschi A, Riboldi P et al. Plasma of patients with
+chronic urticaria shows signs of thrombin generation, and its
+
+a
+
+intradermal injection causes wheal-and-flare reactions much more
+frequently than autologous serum. J Allergy Clin Immunol 2006;
+ata Wats Bi
+6 Takeda T, Sakurai Y, Takahagi $ et al. Increase of coagulation
+potential in chronic spontaneous urticaria. Allergy 2011; 66:428—
+33.
+Asero R, Marzano AV, Ferrucci $ et al. p-dimer plasma levels paral
+NI
+
+lel the clinical response to omalizumab in patients with severe
+chronic spontaneous urticaria. Int Arch Allergy Immunol 2017;
+172:40-4.
+
+Labrador-Horrillo M, Ferrer M. Profile of omalizumab in the treat
+co
+
+ment of chronic spontaneous urticaria. Drug Des Devel Ther 2015;
+9:4909-15.
+Asero R, Pinter E, Marra AM et al. Current challenges and contro
+©
+
+versies in the management of chronic spontaneous urticaria. Expert
+Rev Clin Immunol 2015; 11:1073-82.
+10 Zuberbier T, Aberer W, Asero R et al. The EAACI/GA(2) LEN/
+EDE/WAO guideline for the definition, classification, diagnosis,
+and management of urticaria: the 2013 revision and update. Allergy
+2014; 69:868-87.
+McCormack PL. Omalizumab: a review of its use in patients with
+
+chronic spontaneous urticaria. Drugs 2014; 74:1693-9.
+
+12 Saini SS, Bindslev-Jensen C, Maurer M et al. Efficacy and safety of
+omalizumab in patients with chronic idiopathic/spontaneous urticaria who remain symptomatic on H1 antihistamines: a randomized, placebo-controlled study. J Invest Dermatol 2015; 135:67—75.
+
+13 Maurer M, Rosen K, Hsieh HJ et al. Omalizumab for the treatment
+of chronic idiopathic or spontaneous urticaria. N Engl J Med 2013;
+368:924-35.
+
+14 Kaplan A, Ledford D, Ashby M et al. Omalizumab in patients with
+symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin Immunol 2013; 132:101-9.
+
+15 Weller K, Groffik A, Church MK et al. Development and validation
+of the urticaria control test: a patient-reported outcome instrument
+for assessing urticaria control. J Allergy Clin Immunol 2014;
+133:1365-72, 72.e1-6.
+
+16 Asero R, Tedeschi A, Coppola R et al. Activation of the tissue factor
+pathway of blood coagulation in patients with chronic urticaria. J
+Allergy Clin Immunol 2007; 119:705-10.
+
+17 Asero R. p-dimer: a biomarker for antihistamine-resistant chronic
+urticaria. J Allergy Clin Immunol 2013; 132:983-6.
+
+18 Kulthanan K, Chularojanamontri L, Tuchinda P et al. Validity, relia~
+bility and interpretability of the Thai version of the urticaria control test (UCT). Health Qual Life Outcomes 2016; 14:61.
+
+British Journal of Dermatology (2019) 180, pp56-66
+66 Omalizumab in patients with antihistamine-resistant CSU, Bérard et al.
+
+19 Staubach P, Metz M, Chapman-Rothe N et al. Effect of omalizumab elevated p-dimer: a pilot study. Int Arch Allergy Immunol 2010;
+on angioedema in H1-antihistamine-resistant chronic spontaneous 152:384-9.
+urticaria patients: results from X-ACT, a randomized controlled
+trial. Allergy 2016; 71:1135-44. . .
+20 Metz M, Staubach P, Bauer A et al. Clinical efficacy of omalizumab Supporting Information
+in chronic spontaneous urticaria is associated with a reduction of
+FceRI-positive cells in the skin, Theranostics 2017; 7:1266-76. : ae a :
+21 Chang TW, Chen C, Lin CJ et al, The potential pharmacdlogic version of this article at the publisher’s website:
+
+Additional Supporting Information may be found in the online
+
+mechanisms of omalizumab in patients with chronic spontaneous Appendix $1. Eligibility criteria.
+urticaria. J Allergy Clin Immunol 2015; 135:337-42. Appendix $2. Secondary and exploratory objectives.
+22 Deza G, Bertolin-Colilla M, Pujol RM et al. Basophil FceRI-expres- Appendix $3. Urticaria Control Test questionnaire.
+
+sion in chronic spontaneous urticaria: a potential immunological Appendix $4. Patient-reported outcome and quality-of-life
+predictor of response to omalizumab therapy. Acta Dermato-Venereol
+2017; 97:698-704.
+
+23 Asero R, Tedeschi A, Cugno M. Heparin and tranexamic acid ther
+assessment scores.
+
+apy may be effective in treatment-resistant chronic urticaria with
+
+British Journal of Dermatology (2019) 180, pp56-66 © 2018 British Association of Dermatologists
+

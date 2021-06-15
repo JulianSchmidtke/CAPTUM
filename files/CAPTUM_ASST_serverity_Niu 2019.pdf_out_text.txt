@@ -1,0 +1,1438 @@
+EXPERIMENTAL AND THERAPEUTIC MEDICINE 17: 2603-2613, 2019
+
+Association of positive and negative autologous serum skin test
+responses with clinical features of chronic spontaneous urticaria
+in Asian patients: A systematic review and meta-analysis
+
+XUE LI NIU", LILI ZHU’, MEI HUI SHI', YU JING ZHANG!, XING HUA GAO! and RUI QUN Ql!
+
+‘Department of Dermatology, No. | Hospital of China Medical University and Key Laboratory of Immunodermatology,
+
+Ministry of Health and Ministry of Education, Shenyang, Liaoning 110001; Department of Dermatology,
+
+The People's Hospital of Liaoning Province, Shenyang, Liaoning 110016, P.R. China
+
+Received March 11,2018; Accepted October 3, 2018
+
+DOI: 10.3892/etm.2019.7266
+
+Abstract. Previous studies on the correlation between positive
+autologous serum skin test (ASST) responses and the clinical
+features of patients with chronic spontaneous urticaria (CSU)
+have provided conflicting results. To evaluate the significance
+of ASST responses in CSU, a variety of databases were
+searched from inception to March 2018 to identify relevant
+studies on CSU. Data were analyzed with use of the Cochrane
+Collaboration's Review Manager 5.2. Multiple relevant factors
+of CSU were evaluated by calculating the weighted mean
+difference, odds ratio and 95% confidence interval. The results
+indicated that CSU cases with positive ASST responses had
+higher urticaria activity scores and higher levels of total serum
+immunoglobulin E than CSU cases with negative responses
+in the ASST. In addition, a positive ASST response was
+more likely to be accompanied with the presence of thyroid
+autoantibodies and angioedema. An increased prevalence of
+CSU was identified in females, who were more likely to have
+a positive response in the ASST. It was also indicated that a
+greater incidence of positive ASST responses was present in
+CSU patients as compared with that in healthy controls. No
+statistically significant differences were obtained between
+positive and negative ASST responses with regard to age and
+duration of disease. Based on these results, it was concluded
+
+ 
+
+Correspondence to: Professor Xing Hua Gao or Dr Rui Qun Qi,
+Department of Dermatology, No. 1 Hospital of China Medical
+University and Key Laboratory of Immunodermatology, Ministry
+of Health and Ministry of Education, ISSN Nanjing Road, Heping,
+Shenyang, Liaoning 110001, P.R. China
+
+E-mail: gaobarry@hotmail.com
+
+E-mail: xiaoqiliumin@163.com
+
+“Contributed equally
+
+Key words: autologous serum skin test, chronic urticaria,
+meta-analysis, angioedema, urticaria activity score
+
+that the ASST provides an effective means of predicting
+urticaria activity and recurrence in CSU patients.
+
+Introduction
+
+Chronic urticaria (CU), more commonly referred to as hives, is
+a frequently occurring condition that may persist for >6 weeks.
+CU is subdivided into chronic autoimmune urticaria (CAU),
+chronic spontaneous urticaria (CSU) and physical urticaria
+(PU), and CSU accounts for 35% of CU patients (1). The
+mechanisms of CSU are complex and may be triggered by
+drugs, physical stimuli, as part of inflammatory or inherited
+diseases, or may be idiopathic in nature. Over half of all CSU
+cases are thought to involve autoimmune mechanisms (2).
+The autologous serum skin test (ASST) provides an in vivo
+assay for diagnosing autoimmune urticaria. The ASST
+procedure consists of collecting an autologous serum sample
+from the CU patient, followed by injection of this sample into
+an area of normal skin. A positive response is indicated by
+the appearance of an erythematous papule within 30 min
+following injection (3).
+
+The ASST serves as an effective clinical screening tool
+and has become the established method for the detection of
+functional circulating auto-antibodies in patients with CU.
+The negative predictive value (NPV) of the ASST has been
+reported to be 82.5+14% (4). This means that in CU patients
+with a negative response to the ASST, no functional circulating auto-antibodies were present in their serum. However,
+a positive ASST response may occur in patients with allergic
+diseases and even in healthy controls. Therefore, to confirm
+the presence of an autoimmune disorders, a quantitative
+analysis is required (5). It has been reported that in cases with
+positive ASST responses, a higher urticaria activity score
+(UAS), longer disease durations, lower scores on quality of
+life questionnaires and increased potentials for accompanying
+angioedema were present (6,7).
+
+CU is a benign disease, has an autoimmune basis in 40%
+of cases (8) and is more prevalent in females. Immunoglobulin
+(IgE) has an indispensable role in the occurrence of CSU (9,10),
+with autoantibodies targeting high-affinity IgE receptors
+(FceRI) or IgE in patients with CSU (11). Thyroid disease is
+2604
+
+the most commonly reported autoimmune condition in patients
+with CSU. CSU patients with coexisting thyroid autoimmunity
+tend to have a more severe and prolonged course of their urticaria than those without thyroid autoimmunity. A recent study
+has indicated that 9.8% of CU patients had hypothyroidism,
+compared with 0.6% in the control group (12). CU and thyroid
+disease may be interlinked, and the latter may promote the
+occurrence of CU (13). Previous studies have produced controversial results about the associations between positive ASST
+responses and the clinical features of CSU. Therefore, the
+current meta-analysis was undertaken to clarify the association between ASST and CSU.
+
+Materials and methods
+
+Literature search. The PubMed, Embase, Medline, Ovid,
+Cochrane Library, China National Knowledge Infrastructure,
+China Biology Medicine and Wangfang databases, as well
+as the VIP Database for Chinese Technical Periodicals were
+searched to identify relevant studies involving ASST and
+clinical features of CSU. This search included the period from
+inception of the database until March 2018. The search strategy
+combined the following terms: ‘Autologous serum skin test’
+and ‘chronic spontaneous urticaria’. There was no restriction
+regarding language or the type of article. An additional manual
+search was performed by screening the references listed in key
+publications retrieved in this search.
+
+Inclusion and exclusion criteria. An overall literature search
+was performed and relevant studies were screened independently by two reviewers. Eligible studies were selected
+based on the following criteria: i) Study design: Prospective
+observational study. ii) Patients with clinically defined CU.
+iii) Information on responses to the ASST. iv) Information on
+at least one of the following parameters: Average age, duration
+of disease, UAS, angioedema, anti-thyroid antibodies, total
+serum IgE, erythrocyte sedimentation rate and allergic rhinitis.
+The exclusion criteria were as follows: i) Experiments on
+animal models; ii) cases lacking a definitive diagnosis of CU;
+iii) intervention trials; iv) reports lacking relevant/sufficient
+data; v) duplicate publications.
+
+Data extraction. Relevant data were extracted by two reviewers
+independently. Information included in the forms prepared by
+these reviewers comprised the following: First author's name,
+publication year, number of patients, mean age, duration of
+disease, results of ASST, UAS, angioedema, anti-thyroid
+antibodies, total serum IgE and allergic rhinitis.
+
+Assessment of study quality. Quality assessment of included
+studies was independently performed and crosschecked by
+two reviewers using the Newcastle-Ottawa scale (NOS), which
+assesses bias on a scale of up to nine stars; >6 stars on the NOS
+were regarded as indicative of a high quality.
+
+Statistical analysis. The meta-analysis was performed using
+Review Manager 5.2 (the Cochrane Institute, London, UK).
+The inverse-variance test was applied for continuous variables
+and the Mantel-Haenszel test for examination of dichotomous
+variables. The weighted mean difference (WMD) was used
+
+NIU et al: CLINICAL IMPLICATIONS OF AUTOLOGOUS SERUM SKIN TEST IN CHRONIC URTICARIA
+
+for continuous variables across studies that were measured
+on the same scale. Dichotomous variables were assessed by
+calculating the odds ratio (OR). All data were expressed as
+the WMD or OR along with their associated 95% confidence
+intervals (CI). Heterogeneity between studies was tested by
+using I? tests. P<0.1 or P>50% was considered to indicate a
+high degree of heterogeneity between studies. If a significant
+heterogeneity was present (P<0.1), the random effects model
+was selected for heterogeneous outcomes (P<0.05 or ?’=50%),
+otherwise, the fixed effects model was performed for homogeneous outcomes (P=0.05 and I?<50%). P<0.05 was considered
+to represent statistically significant differences.
+
+A sensitivity analysis was performed by removing studies
+one at a time to confirm the robustness of the results. Finally,
+publication bias in the analysis was determined using a funnel
+plot and Egger's regression test.
+
+Results
+
+Study characteristics. A total of 1,629 relevant studies were
+retrieved. After removal of duplicates by title, 851 articles were
+further screened. Following a careful review of these studies,
+the full text of 39 studies were assessed. Finally, 16 articles
+met the inclusion criteria and were included in the systematic
+review (6,7,14-27). The selection process for these studies is
+summarized in Fig. 1. A total of 2,554 patients, including
+1,284 with positive and 1,270 with negative ASST results were
+assessed. The characteristics of these patients are presented
+in Table I. The publication year ranged from 2005 to 2017. Of
+note, the search of all databases for eligible articles revealed
+that the region of all studies retrieved was Asia, including
+China, Thailand, Korea, India, Taiwan and Japan.
+
+Quality assessment of included studies. Detailed results
+regarding the quality assessment are summarized in Table I.
+All included studies were prospective observational studies.
+The present meta-analysis was restricted to studies with a low
+risk of bias (NOS =7), and the entire analysis was replicated
+following removal of the most influential study on the basis of
+its weight.
+
+Comparison of the influence of ASST responses on CSU cases
+and heathy controls. Of all studies reviewed, 6 provided data on
+ASST responses in heathy controls (15,19,21,23,25). Statistical
+analysis revealed a high degree of homogeneity across studies
+(P=0.18, P=34%). Meta-analysis using the fixed-effects model
+indicated that CSU cases were more frequently associated with
+positive ASST responses than the healthy controls (P<0.01,
+OR=17.16, 95% CI, 9.31-31.63; Fig. 2).
+
+Comparison of age, duration of disease and UAS in
+positive and negative ASST cases. Of all 16 studies,
+14 (6,7,14,18,20,24,26,27) and 10 (6,14,16,17,19,22,24,26,27)
+provided data on age and duration of disease, respectively,
+in the two groups. A significant heterogeneity was present
+across the studies (age: P<0.001, I?=95%; duration: P<0.001,
+*=83%), necessitating use of the random-effects model.
+The meta-analysis indicated that the two groups displayed
+no Statistically significant differences in age (P=0.96,
+WMD=0.11, 95% CI, -4.31 to 4.52; Fig. 3) and duration
+Table I. Characteristic and methodological quality of included studies.
+
+ 
+
+No. of subjects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. of -_ Duration Anti- No. of NOS
+
+First author Year Area samples Group Patients Controls Age (years) (months) UAS IgE (IU/ml) thyroid Angioedema males score (Refs.)
+
+Alpay A 2013 Japan 50 N 31 5 35.64+67.20 5 (31) 16 (31) 8 (19)
+N2 19 45 36.24+50.40 2 (19) 10 (19)
+
+BoonpiyathadT 2016 Thailand 28 N 78 32.60+8.30 6.16£7.26 3 (78) 9 a (14)
+N2 50 38.10+10.90 5.76+6.60 4 (50) 6
+
+Chen MC 2008 China 00 N 58 0 8.03+1.50 8 (25)
+N2 42 42 7.07+£1.50
+
+Kim JH 2016 Korea 38 NI 69 37.00£11.75  6.00423.63 9.0042.5 — 120.004296.20 6 8 (17)
+N2 69 41.00£13.25  5.50+59.63 10.00+2.50 113.00+247.50 21
+
+Krupashankar 2012 India 80 N 47 33.81412.04 21.70+30.65 8 (48) 24 (47) 9 7 (22)
+
+DS N2 33 37.58+14.36 17.42+18.63 5 (62) 9 (33) 7
+
+Kumar YH 2016 India 10 N 48 28.54+13.50 7 (47) 13 (48) 5 7 (20)
+N2 62 31.55+14.43 1 (33) 8 (62) 22
+
+Lee MF 2014 Taiwan 40 N 20 37.00+7.25 174.80+49.50 2 (18) 5 8 (18)
+N2- 20 46.60£15.00 129.10+16.60 1 (19) 0
+
+Li MM 2016 China 36 N 54 38.52+12.53 45.27465.67 7.6044.30 171.204331.10 9 (54) 0 ii (26)
+N2 82 36.60411.83 35.24+42.54 7.6043.90 143.904294.10 16 (82) 24
+
+Aktar S 2015 Japan 50 N 23 3 35.65+9.12 3.09+2.02 5 7 (15)
+N2 27 20 29.5949 .66 3.15+1.74 3
+
+Song ZQ 2013 China 862 N 399 35.50+8.80  21.23+10.62 4.20+0.70 8 (6)
+N2 463 23.5047.60  27.58418.63 3.80+0.50
+
+Sun WL 2005 China 82 NI 29 38.30£12.30 41.80+51.40 14.0742.25 8 (29) 16 (29) 6 7 (27)
+N2 53 33.70+14.40 32.60440.00 13.13+3.00 3 (53) 13 (53) 5
+
+Yadav S 2013 India 80 N 40 4 32.50+48.75 6.80+£1.20 8 (40) 7 (21)
+N2 40 40 33.00+8.75 6.20+1.40 6 (40)
+
+Yang SL 2016 China 79 N 43 0 39.23412.24 55.66438.10 14.6442.11 4 7 (24)
+N2 36 20 38.72+12.65 23.68+20.00 13.16+1.12 6
+
+Ye YM 2016 Korea 75 N 17 38.20+11.80 30.50+26.50 9.5044.10 238.304306.60 6 (17) 6 (17) 5 7 (16)
+N2 50 41.10412.40 13.00+89.50 10.10+3.60 250.20+390.70 9 (47) 21 (50) 9
+
+Zhong H 2014 China 390 N 261 34.70+£13.80 4.00+#1.30 91 (261) 71 ii (7)
+N2 129 32.30+15.30 3.40+1.60 16 (129) 51
+
+ 
+
+6107 “€197-€09T “LI ANIOIGAW OLLNAdVUFHL GNV TVLINAWIYadXxa
+
+so92
+2606
+
+Table I. Continued.
+
+ 
+
+NIU et al: CLINICAL IMPLICATIONS OF AUTOLOGOUS SERUM SKIN TEST IN CHRONIC URTICARIA
+
+No. of subjects
+
+No. of NOS
+
+Antithyroid Angioedema males
+
+Duration
+(months)
+
+No. of
+samples Group Patients Controls
+
+(Refs.)
+
+score
+
+AS IgE (U/ml)
+
+U.
+
+Age (years)
+
+Area
+
+Year
+
+First author
+
+ 
+
+(23)
+
+8
+
+25
+
+7.30+£2.00
+6.70+£1.70
+
+36.23415.14 34.40473.07
+
+34.94413.27  24.17413.17
+
+0
+30
+
+NI 67
+
+154
+
+2017 China
+
+Zhou PM
+
+37
+
+87
+
+N2
+
+ 
+
+Values are presented as number, mean + standard deviation or number of positive subjects (total number of subjects). N1, positive autologous serum skin test response; N2, negative autologous serum skin
+
+test response; UAS, urticaria activity score; Ig, immunoglobulin; NOS, Newcastle-Ottawa scale.
+
+ 
+
+   
+ 
+
+  
+ 
+  
+ 
+
+     
+      
+ 
+ 
+  
+  
+ 
+
+Records identified
+through database
+searching (n=1629)
+
+Additional records
+identified through other
+sources
+
+Records after duplicates
+removed (n=851)
+
+Records excluded due to being a
+
+Case report (n=53),
+
+Review (n=151),
+
+Animal model experiment (n=43) or
+Having no relevant theme (n=296)
+
+Records screened
+(n=308)
+
+  
+   
+ 
+    
+    
+  
+   
+
+Full-text articles
+assessed for eligibility
+(n=39)
+
+Full-text articles excluded, due to
+not providing original data of clinical
+features or laboratory test (n=156),
+not published in any journal (n=13),
+results of autologous serum
+
+skin test not included (n=93) or
+NOS score <5 stars (n=7)
+
+  
+ 
+
+Studies included in
+qualitative synthesis
+(n=16)
+
+ 
+
+ 
+
+Studies included in
+quantitative synthesis
+(meta-analysis)
+(n=16)
+
+ 
+
+Figure |. Flow diagram depicting the process of the selection of studies for
+the present meta-analysis. NOS, Newcastle-Ottawa scale.
+
+(P=0.08, WMD=5.48, 95% CI, -0.71 to 11.68; Fig. 4). A
+subgroup analysis regarding patient age was then performed,
+in which patients were stratified by region. Results from
+China and India indicated that the two groups exhibited
+no difference in age (China: P=0.15, WMD=3.95, 95% CI,
+-1.49 to 9.39; India: P=0.18, WMD=-1.88, 95% CI, -4.63 to
+0.87). Of note, the results from Korea, Thailand and Taiwan
+indicated that a positive ASST response was associated with
+younger age (Korea: P=0.04, WMD=-3.68, 95% CI, -7.21 to
+-0.16; Taiwan: P=0.01, WMD=-9.6, 95% CI, -16.9 to -2.30;
+Thailand: P=0.002, WMD=-5.50, 95% CI, -9.04 to -1.96),
+while the opposite result was obtained in Japan (P=0.02,
+WMD=6.06, 95% CI, 0.85-11.27; Fig. 3). Another subgroup
+analysis was performed with stratification by duration of
+disease (<30 vs. >30 months). It was revealed that in patients
+with a duration of disease of <30 months, the disease duration was not significantly associated with the result of the
+ASST (P=0.59, WMD=-1.52, 95% CI, -7.03 to 3.99), while
+in those with a duration of disease of >30 months, a positive
+ASST response was associated with a significantly increased
+duration of disease as compared with that in patients with a
+negative ASST response (P=0.002, WMD=15.93, 95% CI,
+56.64-26.22; Fig. 4).
+
+Atotalof11 studies provideddataonUAS (6,7,15,17,21,23,27).
+Statistically significant heterogeneity was present across these
+studies (P=0.01, I?=59%), again resulting in the use of the
+random-effects model. The meta-analysis revealed that the
+positive ASST response group had a higher UAS than that
+of the negative ASST response group (P<0.001, WMD=0.42,
+95% CI, 0.35-0.50; Fig. 5). Therefore, a subgroup analysis
+was performed based on the range of UAS as estimated by
+employing different guidelines, including European (28) and
+EXPERIMENTAL AND THERAPEUTIC MEDICINE 17: 2603-2613, 2019 2607
+
+ 
+
+Case Control Odds Ratio Odds Ratio
+
+ty
+
+   
+
+Aktar S 2015 23 «50 3 20 28.9% 4.83 [1.25, 18.57]
+Alpay A 2013 3150 5 50 23.7% 14.68 [4.96, 43.51]
+Chen MC 2008 58 100 0 42 3.7% 117.00 [7.00, 1954.88}
+Yadav $ 2013 40 80 4 40 33.3% 9.00 [2.93, 27.64]
+Yang SL 2016 43 79 0 20 4.5% 48.86 (2.86, 836.07)
+Zhou PM 2017 67 154 0 30 5.9% 47.06 (2.83, 783.51]
+Total (95% Cl) 513 202 100.0%  — 17.16 [9.31, 31.63]
+Total events 262 12
+
+Heterogeneity: Chi? = 7.55, df = 5 (P = 0.18); I? = 34%
+Test for overall effect: Z = 9.11 (P < 0.00001)
+
+0.01 0.1 1 10 100
+Favours [case] Favours [control]
+
+ 
+
+Figure 2. Probability of a positive autologous serum skin test response for subjects with chronic spontaneous urticaria vs. healthy controls. Blue square, weight
+of each study; black diamond, weighted mean difference; horizontal lines, 95% CI of each study; CI, confidence interval; M-H, Mantel-Haentzel; df, degrees
+of freedom.
+
+ASST+ ASST- Mean difference Mean difference
+Study or Subgroup Mean __SD__Total Mean SD _ Total Weight _IV, random, 95% Cl IV, random, 95% Cl
+3.2.1 China
+Li MM 2016 38.52 1253 54 36.6 11.83 82 7.3% 1.92 [-2.29, 6.13]
+Song ZQ 2013 35.5 88 399 235 76 463 7.8%  12.00[10.89, 13.11] z
+Sun WL 2005 38.3123 29 33.7 144 53 6.9% 4.60 [-1.32, 10.52]
+Yang SL 2016 39.23 12.24 43 38.72 12.65 36 7.0% 0.51 [-5.01, 6.03}
+Zhong H 2014 34.7 138 261 323 153 129 7.5% 2.40 [-0.73, 5.53]
+Zhou PM 2017 36.23 15.14 67 34.94 13.27 87 7.2% 1.29 [-3.28, 5.86) »
+Subtotal (95% Cl) 853 850 43.7% 3.95 [-1.49, 9.39]
+
+Heterogeneity: Tau2=41.39; Chi?=77.06, df=5 (P<0.00001); I?=94%
+Test for overall effect: Z=1.42 (P=0.15)
+
+ 
+
+3.2.2 Japan
+AktarS 2015 35.65 9.12 23 29.59 9.66 27) 7.1% 6.06 [0.85, 11.27]
+Subtotal (95% Cl) 23 27) 7.1% 6.06 [0.85, 11.27]
+
+Heterogeneity: Not applicable
+Test for overall effect: Z=2.28 (P=0.02)
+
+ 
+
+3.2.3 Korea
+
+Kim JH 2016 87 11.75 69 41 1325 69 7.3%  -4.00[-8.18, 0.18
+Ye YM 2016 382 11.8 17 41.1 124 50 6.7%
+
+Subtotal (95% Cl) 86 119 14.0%  -3.68 [-7.21, -0.16)
+
+Heterogeneity: Tau*=0.00: Chi?=0.08, df=1 (P=0.78); '=0%
+Test for overall effect: Z2=2.05 (P=0.04)
+
+3.2.4 India
+
+Krupashankar DS 2012 33.81 12.04 47 37.58 1436 33 68%  -3.77[-9.76,2.22
+Kumar YH 2016 28.54 135 48 31.55 14.43 62 7.1% -3.01[-8.25, 2.23)
+Yadav S 2013 325 875 40 33 875 40 7.4%  -0.50[-4.33, 3.33)
+Subtotal (95% Cl) 135 135 21.3%  — -1.88 [-4.63, 0.87;
+
+Heterogeneity: Tau*=0.00: Chi?=1.06, df=2 (P=0.59); I?=0%
+Test for overall effect: Z=1.34 (P=0.18)
+
+ 
+
+3.2.5 Taiwan
+Lee MF 2014 37° 7.25 420 466 15 20 6.5% -9.60 [-16.90, -2.30] Pal
+Subtotal (95% Cl) 20 20 6.5% -9.60 [-16.90, -2.30) 5
+Heterogeneity: Not applicable
+Test for overall effect: Z=2.58 (P=0.010)
+3.2.6 Thailand
+Boonpiyathad T 2016 326 83 78 381 109 50 7.5%  -5,50[-9.04, -1.96] ~
+Subtotal (95% Ci) 78 50 7.5%  _5,50 [-9.04, -1.96] 4
+Heterogeneity: Not applicable
+Test for overall effect: Z=3.05 (P=0.002)
+Total (95% Cl) 1195, 1201 100.0% 0.11 [-4.31, -4.52]
+ity: Tau’: - Chit=: = : Pet
+Heterogeneity: Tau*=64.87; Chi*=247.63. df=13 (P<0.00001); P=95% 100 50 0 50 100
+Test for overall effect: Z=0.05 (P=0.96) Favours [ASST+] Favours [ASST-]
+
+Test for subgroup differences: Chi?=22.57, df=5 (P=0.0004); P=77.8%
+
+Figure 3. Difference in age between chronic spontaneous urticaria cases with positive vs. negative ASST responses. Green square, weight of each study; black
+diamond, weighted mean difference; horizontal lines, 95% CI of each study; SD, standard deviation; IV, inverse variance; CI, confidence interval; ASST,
+autologous serum skin test; df, degrees of freedom.
+2608
+
+ASST+ ASSTStudy or Subgroup Mean SD Total Mean SD _ Total
+3.5.1 Durating < 30 months
+Boonpiyathad T 2016 616 7.26 78 5.76 66 50
+Kim JH 2016 6 2363 69 5.55963 69
+Krupashankar DS 2012 21.7 30.65 47 17.42 18.63 33
+Song ZQ 2013 21.23 10.62 399 27.58 18.63 463
+
+Subtotal (95% Cl) 593 615
+Heterogeneity: Tau2=19.96; Chi2=19.95, df=3 (P=0.0002); =85%
+Test for overall effect: Z=0.54 (P=0.59)
+
+3.5.2 Durating>30 months
+
+Alpay A 2013 35.64 67.2 31 36.24 504 19
+Li MM 2016 45.27 65.67 54 35.24 42.54 82
+Sun WL 2005 418 514 29 326 40 53
+Yang SL 2016 55.66 38.1 43 2368 20 36
+Ye YM 2016 30.5 265 17 13 89.5 50
+Zhou PM 2017 34.4 73.07 67 24.17 13.17 87
+Subtotal (95% Cl) 241 327
+
+Heterogeneity: Tau2=54.94; Chi?=7.60, df=5 (P=0.18); |?=34%
+Test for overall effect: Z=3.03 (P=0.002)
+
+Total (95% Cl) 834 942
+Heterogeneity: Tau*=48.51; Chi*=54.54, df=9 (P<0.00001); ’=83%
+Test for overall effect: Z=1.73 (P=0.08)
+
+Test for subgroup differences; Chi?=8.59, df=1 (P=0.003); |’=88.4%
+
+NIU et al: CLINICAL IMPLICATIONS OF AUTOLOGOUS SERUM SKIN TEST IN CHRONIC URTICARIA
+
+Mean difference Mean difference
+
+Weight IV, random, 95% Cl __IV, random, 95% Cl
+20.0% 0.40 [-2.04, 2.84] '
+
+9.2% 0.50 [-14.63, 15.63] —
+12.7% 4.28 [-6.55, 15.11] a at
+20.2%  -6.35 [-8.34, -4.36] .
+
+62.0%  -1.52[-7.03, 3.99] ©
+
+3.0% -0.60 [-33.36, 32.16) —}
+
+6.6% 10.03 [-9.76, 29.82] on ce
+
+5.9% 9.20 [-12.39, 30.79] —
+10.7% 31.98 [18.85, 45.11] ———
+
+4.0% 17.50 [-10.32, 45.32] ————
+
+7.7% 10.23 [-7.48, 27.94] tT
+38.0% 15.93 [5.64, 26.22] oS
+
+100.0% 5.48 [-0.71, 11.68] ®
+
+ 
+
+a a
+-100 -50 0 50 100
+Favours [ASST+] Favours [ASST-]
+
+Figure 4. Differences in duration of chronic spontaneous urticaria in cases with positive vs. negative ASST responses. Green square, weight of each study;
+black diamond, weighted mean difference; horizontal lines, 95% CI of each study; SD, standard deviation; IV, inverse variance; Cl, confidence interval; ASST,
+
+autologous serum skin test; df, degrees of freedom.
+
+Korean guidelines (29). The results of this subgroup analysis
+also indicated that the positive ASST response group had a
+higher UAS than the negative ASST response group [UAS
+(0-6): P<0.001, WMD=0.41, 95% CI, 0.33-0.49; UAS (0-9):
+P<0.001, WMD=0.77, 95% CI, 0.36-1.18; UAS (0-18): P=0.00,
+WMD2=1.18, 95% CI, 0.57-1.80]. However, the results of UAS
+of 0-12 was at the verge of statistical significance, however it
+was not statistically significant (P=0.05, WMD=0.60, 95% CI,
+0.00-1.20, and an inverse result was observed for UAS of 0-15
+(P=0.04, WMD=-0.73, 95% CI, -1.41 to -0.05). In addition,
+two studies provided the median and range of UAS but no
+standard deviation (SD) (25,27). The SD was then calculated
+using an established formula (30).
+
+Comparison of total serum IgE, angioedema and anti-thyroid
+autoantibodies in positive and negative ASST groups. Of all
+studies included in the present review, 4 (16-18,26) provided
+data on total serum IgE and 8 (16,18-22,26,27) on the presence
+of thyroid autoantibodies in the two groups. Statistical analysis
+indicated that a significant homogeneity was present across
+these studies (serum total IgE: P=0.78, I°=0%; anti-thyroid
+autoantibodies: P=0.38, ’'=7%). Meta-analysis using the
+fixed-effects model indicated that a positive ASST result was
+associated with higher levels of total serum IgE (P<0.001,
+WMD=41.99, 95% CI, 20.40 to 63.58; Fig. 6) and thyroid
+
+autoantibodies (P<0.01, OR=1.87, 95% CI, 1.19-2.94; Fig. 7)
+than a negative ASST result.
+
+Data from 7 studies provided information on angioedema
+in the two groups. As the results on angioedema displayed
+a Statistically significant heterogeneity across studies
+(P=0.03, I’=57%), it was necessary to use the random-effects
+model. Meta-analysis revealed that a positive ASST result
+was associated with a higher risk of angioedema than that
+of a negative ASST result (P=0.03, OR=1.92, 95% Cl,
+1.08-3.40; Fig. 8). Angioedema is a subjective index of
+urticaria and manifests in a relatively short-lived edema
+in the skin. The occurrence of angioedema is affected by
+inherited and environmental factors; furthermore, physical
+stimulators, including shock and pressure, may also induce
+angioedema (31). As a result, a substantial heterogeneity in
+angioedema data may be present.
+
+Sex differences among subjects with positive ASST responses.
+An included study demonstrated that females are more likely
+to have a positive ASST response as rates of ASST were
+78% and 22% in females and males, respectively (15). Of all
+studies included in the present review, 12 (7,14,18,20,22,24,27),
+which accounted for 1462 cases, contained 756 cases with positive responses to ASST. Of these 756 cases, 210 were males
+and 546 were females. Statistical analysis of positive ASST
+EXPERIMENTAL AND THERAPEUTIC MEDICINE 17: 2603-2613, 2019 2609
+
+             
+
+     
+
+ASST+ ASST
+Mean__SD__Total__Mean
+3.1.1 UAS(0-6)
+AktarS 2015 3.09 2.02 23° 3.15 1.74
+Song ZQ 2013 42 07 399 38 0.5
+Zhong H 2014 4 13 261 34° 16
+Subtotal (95% Cl) 683
+Heterogeneity: Chi?=2.19, df=2 (P=0.33); I?=9%
+Test for overall effect: Z=10.10 (P<0.00001)
+3.1.2 UAS(0-9)
+Chen MC 2008 8.03 1.5 58 7.07 1.5
+Yadav S 2013 68 12 40 62 14
+Subtotal (95% Cl) 98
+Heterogeneity: Chi?=0.73, df=1 (P=0.39); I?=0%
+Test for overall effect: 2=3.67 (P=0.0002)
+3.1.3 UAS(0-12)
+Zhou PM 2017 7.3 2 67 6.7 1.7
+Subtotal (95% Cl) 67
+Heterogeneity: Not applicable
+Test for overall effect: Z=1.97 (P=0.05)
+3.1.4 UAS(0-15)
+Kim JH 2016 9 25 69 10 25
+Li MM 2016 76 43 54 76 3.9
+Ye YM 2016 95 41 17 10.1 36
+Subtotal (95% Cl) 140
+Heterogeneity: Chi?=1.43, df=2 (P=0.49); I?=0%
+Test for overall effect: Z= 2.09 (P=0.04)
+3.1.5 UAS(O-18)
+Sun WL 2005 14.07 225 29 1313 3
+Yang SL 2016 14.64 211 43 13.36 1.12
+Subtotal (95% Cl) 72
+
+Heterogeneity: Chi?=0.24, df=1 (P=0.62); I?=0%
+Test for overall effect: Z=3.76 (P=0.0002)
+
+Total (95% Cl) 1060
+Heterogeneity: Chi?=24.56, df=10 (P=0.006); I?=59%
+Test for overall effect: Z=10.86 (P<0.00001)
+
+SD_Total
+
+27
+
+463 85.9% 0.40 [0.32, 0.48]
+
+129
+
+619 92.2% 0.41 [0.33, 0.49]
+
+8s8
+
+87
+87
+
+69
+82
+
+201
+
+53
+
+1078 100.0% 0.42 [0.35, 0.50]
+
+Test for subgroup differences; Chi?=19.98, df=4 (P=0.0005); |?=80.0%
+
+Weight
+
+Mean difference Mean difference
+IV, fixed, 95% Cl IV, fixed, 95% Cl
+
+0.5% -0.06 [-1.11, 0.99]
+
+5.8% 0.60 [0.28. 0.92]
+
+1.6% 0.96 [0.36, 1.56]
+1.8% 0.60 [0.03, 1.17]
+3.4% 0.77 (0.36, 1.18]
+
+1.6% 0.60 [0.00, 1.20]
+1.6% 0.60 [0.00, 1.20]
+
+0.8% -1.00 [-1.83. -017]
+0.3% 0.00 [-1.42, 1.42]
+0.1% -0.60 [-2.79. 1.59]
+1.2% -0.73 [-1.41, -0.05]
+
+0.4% 0.94 [-0.21, 2.09]
+1.1% 1.28 (0.55, 2.01]
+1.5% 1.18 (0.57, 1.80]
+
+ 
+
++ + + +
+-10 -5 0 5 10
+Favours [ASST+] Favours [ASST-]
+
+ 
+
+Figure 5. Differences in UAS in chronic spontaneous urticaria cases with positive vs. negative ASST responses. Green square, weight of each study; black
+diamond, weighted mean difference; horizontal lines, 95% CI of each study; SD, standard deviation; IV, inverse variance; CI, confidence interval; ASST,
+autologous serum skin test; df, degrees of freedom; UAS, urticaria activity scores.
+
+Study or ASST+ ASST
+Subgroup Mean SD Total Mean SD Total Weight
+
+Kim JH 2016 120 296.2 69 113 247.5 69
+Lee MF 2014 1748 495 20 129.1 16.6 20
+Li MM 2016 171.2 331.1 54 143.9 294.1 82
+Ye YM 2016 238.3 306.6 17 250.2 390.7 50
+
+Total (95% Cl) 160
+Heterogeneity: Chi?=1.08, df=3 (P=0.78); |?=0%
+Test for overall effect: Z=3.81 (P=0.0001)
+
+5.6%
+89.0%
+3.9%
+1.4%
+
+221 100.0%
+
+Mean difference Mean difference
+IV, fixed, 95% Cl IV, fixed, 95% Cl
+
+7.00 [-84.08, 98.08]
+45.70 (22.82, 68.58]
+27.30 [-81.56, 136.16]
+-11.90 [-193.48, 169.68]
+
+41.99 [20.40, 63.58]
+
+ 
+
+-100 -50 0 50 100
+Favours [ASST+] Favours [ASST-]
+
+Figure 6. Differences in serum total immunoglobulin E levels in chronic spontaneous urticaria cases with positive vs. negative ASST responses. Green square,
+weight of each study; black diamond, weighted mean difference; horizontal lines, 95% CI of each study; SD, standard deviation; IV, inverse variance; CI,
+confidence interval; ASST, autologous serum skin test; df, degrees of freedom.
+
+responses in CSU cases indicated that a statistically significant detailed results of the meta-analysis for the above indexes are
+homogeneity was present across studies (P=0.97, I’=0%), and _ presented in Table I.
+
+the fixed-effects model was therefore used. The meta-analysis
+
+revealed that females had a higher prevalence of positive ASST Sensitivity analysis. Studies that failed to satisfy the criterion
+responses (P<0.001, OR=0.63, 95% CI, 0.50-0.79; Fig. 9). The of high quality were excluded from the present review. In
+2610
+
+ASST+ ASST
+Study or Subgroup Events Total Events Total Weight
+Alpay A 2013 5 31 2 19 7.5%
+Krupashankar DS 2012.8 48 5 62 13.2%
+Kumar YH 2016 7 47 1 33 3.6%
+Lee MF 2014 2 18 1 19 3.1%
+Li MM 2016 9 54 16 «= 82 38.4%
+Sun WL 2005 8 29 3 53 5.6%
+Yadav S 2013 8 40 6 40 17.4%
+Ye YM 2016 6 17 9 47 11.2%
+Total (95% Cl) 284 355 100.0%
+Total events 53 43
+
+Heterogeneity: Chi?=7.50, df=7 (P=0.38); |?=7%
+Test for overall effect: Z=2.72 (P=0.006)
+
+Figure 7. Probability of the presence of anti-thyroid antibodies in chronic spontaneous urticaria cas'
+
+NIU et al: CLINICAL IMPLICATIONS OF AUTOLOGOUS SERUM SKIN TEST IN CHRONIC URTICARIA
+
+Odds ratio
+MH, fixed, 95% Cl
+1.63 [0.28, 9.41]
+2.28 [0.69, 7.48]
+5.60 [0.65, 47.89]
+2.25 [0.19, 27.22]
+0.82 [0.34, 2.03]
+6.35 [1.53, 26.30]
+1.42 [0.44, 4.53]
+2.30 [0.67, 7.89]
+
+Odds ratio
+M-H, fixed, 95% Cl
+
+1.87 [1.19, 2.94]
+
+ 
+
+0.01 0.1 1
+
+Favours [ASST+]
+
+10 100
+Favours [ASST-]
+
+ 
+
+s with positive vs. negative ASST responses. Blue square,
+
+weight of each study; black diamond, weighted mean difference; horizontal lines, 95% CI of each study; M-H, Mantel-Haentzel; CI, confidence interval; ASST,
+
+autologous serum skin test; df, degrees of freedom.
+
+ASST+ ASST
+Odds ratio Odds ratio
+
+Study or Subgroup Events Total Events Total Weight M-H, random, 95% Cl M-H, random, 95% Cl
+Alpay A 2013 163 10 19 12.8% 0.96 [0.31, 3.01]
+
+Boonpiyathad T 2016 3 78 4 50 9.0%
+Krupashankar DS 2012 24 47 9 33 15.1%
+Kumar YH 2016 13 48 8 62 14.8%
+Sun WL 2005 16 29 13 53 15.0%
+Ye YM 2016 6 17 21 50 12.8%
+Zhong H 2014 91 261 16 129 20.5%
+Total (95% Cl) 511 396 100.0%
+Total events 169 81
+
+Heterogeneity: Tau*=0.33; Chi#=14.12, df=6 (P=0.03); |?=57%
+Test for overall effect: Z=2.23 (P=0.03)
+
+ 
+
+0.46 (0.10, 2.15]
+
+2.78 [1.07, 7.24] —.—
+2.51 [0.94, 6.67] ‘
+3.79 [1.45, 9.92] —_——
+0.75 (0.24, 2.36] ——
+
++
+
+3.78 [2.11, 6.77]
+
+1.92 [1.08, 3.40]
+
+ 
+
+Ht
+0.01 0.1 1 10 100
+Favours [ASST+] Favours [ASST-]
+
+Figure 8. Probability of angioedema in chronic spontaneous urticaria cases with positive vs. negative ASST responses. Blue square, weight of each study;
+black diamond, weighted mean difference; horizontal lines, 95% CI of each study; M-H, Mantel-Haentzel; CI, confidence interval; ASST, autologous serum
+
+skin test; df, degrees of freedom.
+
+addition, a sensitivity analysis was applied for each index
+involving ASST comparisons. The sensitivity analysis
+demonstrated that the results obtained using the random- and
+fixed-effects models were in accordance with each study
+included in the review. These results suggested that no individual studies significantly affected the pooled results. This
+indicated that the meta-analysis performed provided reliable
+results.
+
+Detection of publication bias. An analysis of publication bias
+was performed by using Egger's regression test. The results
+indicated that no publication bias was present regarding the
+UAS and sex differences among patients with positive ASST
+responses (UAS: Z=-2.18, P=0.06; sex differences among
+patients with positive ASST response: Z=-0.73, P=0.48).
+However, publication bias was present with regard to age
+and duration of CSU (age: Z=-3.93, P=0.002; duration of
+CSU: Z=4.23, P=0.003). Although the above results revealed
+that studies included in the present review displayed an
+
+inconformity in publication bias, the funnel plots had typical
+shapes, and the funnel plot of anti-thyroid autoantibodies is
+presented in Fig. 10.
+
+Discussion
+
+To the best of our knowledge, the present study is the first
+systematic review comparing ASST responses in patients
+with CSU. The results obtained by the meta-analysis suggest
+that cases with positive ASST responses had higher UAS
+and higher levels of serum total IgE than those of cases with
+negative ASST responses. In addition, cases with positive
+responses to ASST were more likely to have accompanying
+angioedema and were positive for thyroid autoantibodies. CSU
+was more prevalent in females, who were also more likely to
+exhibit a positive response to ASST. It was also confirmed
+that a greater incidence of ASST was present in CSU patients
+as compared with that in heathy controls. No statistically
+significant differences were present between cases with
+EXPERIMENTAL AND THERAPEUTIC MEDICINE 17: 2603-2613, 2019
+
+Male
+
+Female
+
+—Study or Subgroup Events Total Events Total Weight
+
+Odds Ratio
+
+9)
+
+Odds Ratio
+
+2611
+
+ 
+
+Aktar S 2015 5 18 18 32 5.1%
+Boonpiyathad T 2016 19 35 59 93 8.0%
+Kim JH 2016 16 37 53 101 8.7%
+Krupashankar DS 2012 19 36 28 44 6.5%
+Kurmar YH 2016 15 37 33° 737.2%
+Lee MF 2014 5 15 15 25 4.1%
+Li MM 2016 10 34 44 102 8.4%
+Sun WL 2005 6 21 23 61 4.6%
+Yang SL 2016 14 30 29 49 6.4%
+Ye YM 2016 5 24 12 51 3.3%
+Zhong H 2014 71 «122 190 268 26.9%
+Zhou PM 2017 25 62 42 92 10.9%
+Total (95% Cl) 471 991 100.0%
+Total events 210 546
+
+Heterogeneity: Chi? = 3.88, df = 11 (P = 0.97); 7 = 0%
+Test for overall effect: Z = 3.96 (P < 0.0001)
+
+0.30 [0.09, 1.04]
+0.68 (0.31, 1.50]
+0.69 [0.32, 1.47]
+0.64 (0.26, 1.57]
+0.83 (0.37, 1.84]
+0.33 [0.09, 1.27]
+0.55 (0.24, 1.27]
+0.66 (0.22, 1.94]
+0.60 (0.24, 1.51]
+0.86 [0.26, 2.78]
+0.57 (0.37, 0.89]
+0.80 (0.42, 1.54]
+
+0.63 [0.50, 0.79]
+
+ 
+
+0.01 0.1 1 10
+
+Favours [male] Favours [female]
+
+100
+
+Figure 9. Probability of a positive autologous serum skin test response in males vs. females with chronic spontaneous urticaria. Blue square, weight of each
+study; black diamond, weighted mean difference; horizontal lines, 95% CI of each study; M-H, Mantel-Haentzel; CI, confidence interval; df, degrees of
+
+freedom.
+
+0 _SE (log[OR])
+
+ 
+
+ 
+
+ 
+
+0.27
+i toy
+0.44 i gho 5
+0.6 + i 0 *
+4 10 ' ‘
+08} : i
+1 4 ‘ + i + OR,
+0.01 0.1 1 10 100
+
+Figure 10. Funnel plot of studies on anti-thyroid autoantibodies for chronic
+spontaneous urticaria cases with positive and negative autologous serum skin
+test responses. OR, odds ratio; SE, standard error; log OR, logarithm of OR.
+
+positive vs. negative responses to ASST with regard to patient
+age and duration of disease.
+
+Angioedema, which is the clinical manifestation of urticaria, develops when urticaria is located within the subcutis.
+It is a syndrome characterized by a sudden and limited
+subcutaneous and/or submucous swelling. Angioedema in
+CU is caused by a non-specific histamine release from activated mast cells (32). The occurrence of angioedema in CU,
+while not an indication for disease severity, is associated
+with a longer duration of urticarial disease. Non-steroidal
+anti-inflammatory drugs and/or systemic corticotherapy are
+classic triggers of angioedema in CU (33). Mast cells may be
+activated primarily by IgE-dependent (allergen, anti-IgE) as
+well as by IgE-independent mechanisms (34). Increased levels
+of IgE are thought to provoke urticaria. Auto-antibodies for
+IgE and the a-chain of FceRI contribute to the occurrence of
+CU (35). It has been reported that one third of patients with
+
+CU have significantly elevated levels of total IgE and levels
+of serum total IgE are associated with disease severity and
+duration (36). The severity of CSU was also identified to be
+associated with a positive response in the ASST (37), which
+is in accordance with the results of the present meta-analysis.
+
+CSU is linked with thyroid diseases, which are the most
+commonly reported autoimmune condition in patients
+with CSU. Patients with thyroid dysfunction and CSU have
+a more severe and prolonged course of urticaria than those
+without thyroid dysfunction. A significantly greater number
+of anti-thyroid antibodies are present in CSU patients. Even
+in clinically euthyroid CSU patients, anti-thyroid antibodies
+remain present and are considered to be associated with CSU.
+Thyroid disease may worsen urticaria through activation of
+the complement system (2).
+
+CU is characterized by mast/basophil cell activation,
+which initiates an inflammatory response. Sex hormones
+modulate immune and inflammatory cell functions, including
+mast cell secretion. Of note, urticaria may be associated with
+certain diseases and conditions associated with hormonal
+changes, including endocrinopathy, the menstrual cycle, pregnancy, menopause and hormonal contraceptives or hormone
+replacement therapy. Dehydroepiandrosterone (DHEA) is a
+modulator of endocrine and immune functions and depletion
+of DHEA may lead to adverse events (38). Serum concentrations of DHEA sulfate in CSU patients are significantly lower
+than those in healthy subjects and are associated with positive
+responses to ASST (39). This is in accordance with the results
+of the present meta-analysis, which indicate a female predominance for CSU and a positive response in the ASST (6-8,15).
+
+Although the average NPV of the ASST was 92.8%, a
+negative ASST was identified as a significant determinant
+of urticaria remission and a negative ASST serves as a
+good predictor for achieving urticaria remission within
+2 years (8,14,40). A positive ASST response is a significant
+predictor of CSU in controls (14).
+
+While the studies included in the present meta-analyses
+were selected based on strict inclusion and exclusion criteria,
+certain unavoidable limitations and bias remain. As compared
+2612
+
+with a randomized controlled trial, the quality of observational studies is low, which represents a limitation of the
+present meta-analysis. However, all subjects enrolled in the
+present meta-analysis were patients with CU who voluntarily
+underwent an ASST. The major observational endpoints
+were UAS, serum total IgE and anti-thyroid autoantibodies,
+all of which are objective parameters. Furthermore, all
+of the studies included were on Asian populations, which
+is a cause of publication bias. Although ASST has a high
+specificity to test for functional autoantibodies, their absence
+has a high specificity for CU. According to the European
+expert consensus from 2009 (8), the value and meaning of
+the ASST remains to be fully established. Furthermore, skin
+testing requires the collection of venous blood and separation of serum prior to hypodermic injection. It is essential
+that failsafe precautions are taken to ensure that the patient's
+own serum is used for skin testing and aseptic procedures
+are required. Commercial ELISA is now sufficiently mature
+for testing for functional autoantibodies, including IgE. The
+dermatologists of developed countries may be more likely
+to identify anti-IgE antibodies using ELISA compared
+with certain Asian dermatologists. An additional source
+of potential bias may be differences within health care
+providers and hospitals regarding the techniques applied for
+detecting ASST and the conditions of the patients. Although
+all studies included in the present review involved comparisons of/within case groups with positive and negative ASST
+responses, inherent differences in researchers' approaches to,
+and interpretations of, CSU may exist. Finally, the limited
+sample size and resultant data available for the present
+meta-analyses may have affected the final results obtained.
+The conclusions require verification by subsequent studies
+and the resolution of remaining issues.
+
+In conclusion, the results of the present analyses of pooled
+data indicate that CSU patients with a positive ASST response
+have more severe clinical features and are more likely to have
+an accompanying autoimmunity condition as compared with
+those with a negative response to the ASST.
+
+Acknowledgements
+Not applicable.
+Funding
+
+The current study was supported by National Natural Science
+Foundation of China (grant nos. 81673070 and 81872538).
+
+Availability of data and materials
+
+All data generated or analyzed during this study are included
+in this published article.
+
+Authors' contributions
+
+XLN analyzed autologous serum skin test data of all involved
+studies and drafted the manuscript. LLZ searched the literature
+and collected the data associated with chronic urticaria. MHS
+and YJZ performed the statistical analysis. XHG and RQQ
+critically revised the manuscript for important intellectual
+
+NIU et al: CLINICAL IMPLICATIONS OF AUTOLOGOUS SERUM SKIN TEST IN CHRONIC URTICARIA
+
+content. All authors have read and approved the final version
+of the manuscript prior to submission.
+
+Ethics approval and consent to participate
+
+Not applicable.
+
+Patient consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors have no competing interests to declare.
+
+References
+
+1. Irinyi B, Széles G, Gyimesi E, Tumpek J, Herédi E, Dimitrios G,
+Adany R, Hunyadi J and Szegedi A: Clinical and laboratory examinations in the subgroups of chronic urticaria. Int Arch Allergy
+Immunol 144: 217-225, 2007.
+
+2. Fraser K and Robertson L: Chronic urticaria and autoimmunity.
+Skin Therapy Lett 18: 5-9, 2013.
+
+3. Al-Hamamy HR, Hameed AF and Abdulhadi AS: Autologous
+serum skin test as a diagnostic aid in chronic idiopathic urticaria.
+ISRN Dermatol 2013: 291524, 2013.
+
+4. Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza Black A and
+Greaves MW: The autologous serum skin test: A screening test for
+autoantibodies in chronic idiopathic urticaria. Br J Dermatol 140:
+446-452, 1999.
+
+5. Feng L, Song ZQ and Hao F: Application of autologous serum skin
+test in chronic urticaria: Current advances. J Clin Dermatol 08:
+508-510, 2011.
+
+6. Song Z, Zhai Z, Zhong H, Zhou Z, Chen W and Hao F: Evaluation
+of autologous serum skin test and skin prick test reactivity to house
+dust mite in patients with chronic spontaneous urticaria. PLoS
+One 8: 64142, 2013.
+
+7. Zhong H, Song Z, Chen W, Li H, He L, Gao T, Fang H, Guo Z,
+Xu J, Yu B, et al: Chronic urticaria in Chinese population: A
+hospital-based multicenter epidemiological study. Allergy 69:
+359-364, 2014.
+
+8. Konstantinou GN, Asero R, Maurer M, Sabroe RA,
+Schmid-Grendelmeier P and Grattan CE: EAACI/GA(2)LEN task
+force consensus report: The autologous serum skin test in urticaria.
+Allergy 64: 1256-1268, 2009.
+
+9. Auyeung P, Mittag D, Hodgkin PD and Harrison LC: Autoreactive
+T cells in chronic spontaneous urticaria target the IgE Fe receptor
+Ja subunit. J Allergy Clin Immunol 138: 761-768. e4, 2016.
+
+10. KulthananK,Nuchkull P, Ungaksornpairote C,ChularojanamontriL
+and Tuchinda P: Prevalence and clinical correlation of serum
+immunoglobulin E in patients with chronic spontaneous urticaria.
+Ann Allergy Asthma Immunol 116: 258-259. e2, 2016.
+
+11. Navines-Ferrer A, Serrano-Candelas E, Molina-Molina GJ and
+Martin M: IgE-related chronic diseases and Anti-IgE-based treatments. J Immunol Res 2016: 8163803, 2016.
+
+12. Confino-Cohen R, Chodick G, Shalev V, Leshno M, Kimhi O and
+Goldberg A: Chronic urticaria and autoimmunity: Associations
+found in a large population study. J Allergy Clin Immunol 129:
+1307-1313, 2012.
+
+13. Sugiyama A, Nishie H, Takeuchi S, Yoshinari M and Furue M:
+Hashimoto's disease is a frequent comorbidity and an exacerbating
+factor of chronic spontaneous urticaria. Allergol Immunopathol
+(Madr) 43: 249-253, 2015.
+
+14. Boonpiyathad T and Sangasapaviliya A: Autologous serum and
+plasma skin test to predict 2-year outcome in chronic spontaneous
+urticaria. Asia Pac Allergy 6: 226-235, 2016.
+
+15. Aktar S, Akdeniz N, Ozkol HU, Calka O and Karadag AS:
+The relation of autologous serum and plasma skin test
+results with urticarial activity score, sex and age in patients
+with chronic urticaria. Postepy Dermatol Alergol 32: 173-178, 2015.
+
+16. Ye YM, Park JW, Kim SH, Ban GY, Kim JH, Shin YS, Lee HY
+and Park HS; PRANA Group: Prognostic factors for chronic
+spontaneous urticaria: A 6-month prospective observational
+study. Allergy Asthma Immunol Res 8: 115-123, 2016.
+
+ 
+
+ 
+20.
+
+PAL
+
+22.
+
+23:
+
+24.
+
+25.
+
+26.
+
+Di,
+
+28.
+
+EXPERIMENTAL AND THERAPEUTIC MEDICINE 17: 2603-2613, 2019
+
+. Kim JH, Lee HY, Ban GY, Shin YS, Park HS and Ye YM: Serum
+
+clusterin as a prognostic marker of chronic spontaneous urticaria.
+Medicine (Baltimore) 95: e3688, 2016.
+
+. Lee MF, Lin TM, Liu SW and Chen YH: A rapid method of
+
+detecting autoantibody against FceRIa for chronic spontaneous
+urticaria. PLoS One 9: e109565, 2014.
+
+. Alpay A, Solak Tekin N, Tekin 10, Altinyazar HC, Koca R and
+
+Cinar S: Autologous serum skin test versus autologous plasma
+skin test in patients with chronic spontaneous urticaria. Dermatol
+Res Pract 2013: 267278, 2013.
+
+Kumar YH, Bhaskar S and Shankar K: Comparative study of
+positive versus negative autologous serum skin test in chronic
+spontaneous urticaria and its treatment outcome. N Am J Med
+Sci 8: 25-30, 2016.
+
+Yadav S, Kanwar A, Parsad D and Minz R: Chronic idiopathic
+urticaria and thyroid autoimmunity: Perplexing association.
+Indian J Dermatol 58: 325, 2013.
+
+Krupashankar DS, Shashikala K and Madala R: Clinical and
+investigative assessment of patients with positive versus negative
+autologous serum skin test: A study of 80 South Indian patients.
+Indian J Dermatol 57: 434-438, 2012.
+
+Zhou PM, Lu YH and Chen T, Huang J, Fang J, Liu P and Liu H:
+Analysis of autologous serum skin test results in 154 cases of
+patients with chronic spontaneous urticaria. Chin J Dermatov
+Integr Tradit and West Med 02: 135-137, 2017.
+
+Yang SL, Xie SX and Yin SC, Ou FX, Zhang YQ and Lai W:
+Analysis of the clinical value of autologous serum skin test in
+chronic urticaria. Chin J Health Lab Technol 21: 3158-3160, 2016.
+Chen MC, Li D, Guo Q and Zhai FQ: Investigation into the
+correlation of clinical features and autologous serum skin test of
+chronic urticaria. China Tropical Med 05: 736-738, 2008.
+
+Li MM, Guo ZP, Li JY, Xie XQ, Song Q, Ye YY and Chen SY:
+Autologous serum skin test and some laboratory test analysis
+in 136 patients with chronic urticaria. Chin J Leprosy and Skin
+Dis 10: 595-597, 2016.
+
+Sun WL and Bi ZG: Clinical features of chronic urticaria in
+patients with positive and negative autologous serum skin test.
+Chin J Dermatol 06: 342-344, 2005.
+
+Zuberbier T, Bindslev-Jensen C, Canonica W, Grattan CE,
+Greaves MW, Henz BM, Kapp A, Kozel MM, Maurer M,
+Merk HF, et al: EAACI/GA2LEN/EDF guideline: Definition,
+classification and diagnosis of urticaria. Allergy 61: 316-320,
+2006.
+
+29.
+
+30.
+
+31;
+32.
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+39.
+
+40.
+
+2613
+
+Ye YM, Park JW, Kim SH, Choi JH, Hur GY, Lee HY, Lee EH
+and Park HS: Clinical evaluation of the computerized chronic
+urticaria-specific quality of life questionnaire in Korean patients
+with chronic urticaria. Clin Exp Dermatol 37: 722-728, 2012
+Hou XW, Shi JP and Chen X: How to estimate the mean and
+standard deviation based on the median, range and sample size
+when conducting meta-analysis. Chin J Evid-based Med 15:
+484-487, 2015.
+Bork K: Angioedema. Immunol Allergy Clin North Am 34:
+23-31, 2014.
+Boccon-Gibod I and Bouillet L: Angioedema and urticaria. Ann
+Dermatol Venereol 141 (Suppl 3): S586-S595, 2014.
+
+Hacard F, Nosbaum A, Bensaid B, Nicolas JF, Augey F, Goujon C
+and Bérard F: Histaminergic angioedema and chronic urticaria.
+Presse Med 44: 37-42, 2015 (In French).
+
+Petra Al, Panagiotidou S, Stewart JM, Conti P and
+Theoharides TC: Spectrum of mast cell activation disorders.
+Expert Rey Clin Immunol 10: 729-739, 2014.
+
+Chang KL, Yang YH, Yu HH, Lee JH, Wang LC and Chiang BL:
+Analysis of serum total IgE, specific IgE and eosinophils in
+children with acute and chronic urticaria. J Microbiol Immunol
+Infect 46: 53-58, 2013.
+
+Kessel A, Helou W, Bamberger E, Sabo E, Nusem D, Panassof J
+and Toubi E: Elevated serum total IgE-a potential marker for
+severe chronic urticaria. Int Arch Allergy Immunol 153: 288-293,
+2010.
+
+Toubi E, Kessel A, Avshovich N, Bamberger E, Sabo E, Nusem D
+and Panasoff J: Clinical and laboratory parameters in predicting
+chronic urticaria duration: A prospective study of 139 patients.
+Allergy 59: 869-873, 2004.
+
+Kasperska-Zajac A, Brzoza Z and Rogala B: Sex hormones and
+urticaria. J Dermatol Sci 52: 79-86, 2008.
+
+Kasperska-Zajac A, Brzoza Z and Rogala B: Lower serum concentration of dehydroepiandrosterone sulphate in patients suffering
+from chronic idiopathic urticaria. Allergy 61: 1489-1490, 2006.
+Hizal M, Tiiziin B, Wolf R and Tiiziin Y: The relationship
+between Helicobacter pylori IgG antibody and autologous serum
+test in chronic urticaria. Int J Dermatol 39: 443-445, 2000.
+
+ 
+
+This work is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0
+International (CC BY-NC-ND 4.0) License.
+

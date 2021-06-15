@@ -1,0 +1,1341 @@
+Clin Drug Investig
+DOI 10.1007/s40261-015-0267-9
+
+ORIGINAL RESEARCH ARTICLE
+
+Omalizumab for Difficult-to-Treat Dermatological Conditions:
+Clinical and Immunological Features from a Retrospective
+
+Real-Life Experience
+
+Ciro Romano - Ausilia Sellitto - Umberto De Fanis - Antonella Balestrieri Alfonso Savoia - Salvatore Abbadessa « Corrado Astarita - Giacomo Lucivero
+
+© Springer International Publishing Switzerland 2015
+
+Abstract
+
+Background Omalizumab, a therapeutic monoclonal
+antibody specific for human IgE, has thus far been used as
+add-on therapy for moderate-to-severe allergic asthma in
+adults and children.
+
+Objective The objective of this study was to test omalizumab efficacy in other conditions in which the IgE-mast
+cell axis is supposed to play a role.
+
+Methods Nine patients with dermatological manifestations
+possibly related to activation of the IgE-mast cell axis (six
+chronic spontaneous urticaria and three atopic dermatitis
+patients) were administered off-label omalizumab because of
+refractoriness to standard therapy. All patients were subjected
+to strict clinical, laboratoristic, and imaging follow-up to
+monitor for possible adverse effects. In addition, to further
+
+ 
+
+ 
+
+C. Romano (DX) - A. Sellitto - U. De Fanis - G. Lucivero
+Division of Internal Medicine, Allergy and Clinical
+Immunology, Department of Medical and Surgical Sciences,
+Second University of Naples School of Medicine,
+
+80138 Naples, Italy
+
+e-mail: ciro.romano @unina2.it
+
+ 
+
+ 
+
+ 
+
+Present Address:
+A. Sellitto
+“San Giuseppe Moscati” Hospital, Aversa, CE, Italy
+
+Present Address:
+U. De Fanis
+Clinic Center, Naples, Italy
+
+A. Balestrieri - A. Savoia - C. Astarita
+
+Allergy Clinic, “F. Magrassi-A. Lanzara” Department of
+Clinical and Experimental Medicine and Surgery, Second
+University of Naples, Naples, Italy
+
+S. Abbadessa
+
+Immunopathology Unit, Department of Laboratory Medicine,
+Second University of Naples, Naples, Italy
+
+Published online: 13 January 2015
+
+assess the role of omalizumab on T cells, mast cells, and
+eosinophils, T-cell immune polarisation as well as eosinophil
+cationic protein and tryptase serum levels were determined
+before and during omalizumab administration.
+
+Results Therapy was effective in seven out of nine
+patients (six complete responses, one partial response, and
+two no responses). Interestingly, omalizumab appeared to
+induce lymphocyte polarisation toward a type 2 immune
+response and to be able to quench eosinophil-mediated
+inflammation, particularly in atopic dermatitis patients.
+Tryptase serum levels were generally low and remained
+unchanged during omalizumab treatment. Despite treatment
+spanning over several years in most of the patients, no
+adverse effects nor new ensuing medical conditions have
+thus far been observed (median follow-up: 42 months).
+Conclusions Off-label omalizumab was safe and effective in our patients. The novel immunologic features
+recorded in our patients add further complexity to the
+mechanism of action of omalizumab.
+
+Omalizumab can also be considered for refractory
+atopic dermatitis if total IgE levels fall within the
+range of neutralisation by the monoclonal antibody
+
+Novel mechanisms of action include modulation of
+type | vs. type 2 immune responses and quenching of
+eosinophil-mediated inflammation
+
+Dermatological conditions treated with omalizumab
+may be maintained in clinical control with very low
+doses, which may render this therapeutic strategy
+cost-effective with time
+
+4 Adis
+1 Introduction
+
+Omalizumab, a therapeutic monoclonal antibody specific
+for human IgE, has been in use for more than a decade as
+add-on therapy for moderate-to-severe allergic asthma in
+adults and children. Omalizumab is highly effective in
+asthma and is generally well-tolerated [1]. Its mechanism of
+action basically involves neutralisation of circulating free
+IgE, which consequently leads to reduction of mast cellbound IgE, down-regulation of high affinity IgE receptors
+(FceRI) and, eventually, prevention of mediator release [2,
+3]. Since the IgE-mast cell axis plays a role in many diseases other than asthma, it is conceivable that omalizumab
+may work as well in such settings. Indeed, in accordance
+with the single airway disease theory [4], omalizumab has
+also been shown to be effective in allergic rhinitis [5].
+Moreover, following a number of case reports and small
+series describing the beneficial effects of omalizumab in
+chronic spontaneous urticaria [6-12], results from phase II
+and III multicentre, randomized, placebo-controlled trials in
+this condition have been recently become available [13-16].
+Therefore, based on these studies, omalizumab has been
+granted marketing authorisation for chronic spontaneous
+urticaria by both the European Medicines Agency (EMA)
+and the US Food and Drug Administration (FDA) earlier
+this year, although it has yet to be prescribed for this indication in many countries, including Italy. However, since a
+significant proportion of chronic spontaneous urticaria
+patients do not apparently harbour circulating IgE with
+known allergen specificity and, in many cases, serum IgE in
+chronic spontaneous urticaria patients may be even low, a
+more complex mechanism of action has to be considered to
+explain efficacy of omalizumab in this peculiar dermatological condition. Following serum IgE neutralisation, the
+subsequent down-regulation of high affinity IgE receptors
+on mast cells has initially been claimed as the main effect
+conditioning efficacy of omalizumab in chronic spontaneous urticaria [17]. Moreover, since FceRI-bound IgE has
+been shown to sustain proliferation and survival of mast
+cells as well as to decrease the mediator release threshold
+[18, 19], it appeared obvious that omalizumab, by depleting
+free IgE, could interfere with all of these effects. Recently, a
+further mechanism of action has been proposed, based on
+the observation that a proportion of chronic spontaneous
+urticaria patients have circulating IgE specific for such
+autoantigens as thyroperoxidase and dsDNA [20, 21]; by
+lowering free IgE, down-regulating mast cell and basophil
+FceRL, and favouring sequestration of autoantigens by IgEomalizumab immunocomplexes, omalizumab may prevent
+mast cell degranulation in this subset of chronic urticaria.
+However, despite all these insights, the mechanism of
+action of omalizumab has yet to be completely elucidated
+
+ 
+
+4 Adis
+
+C. Romano et al.
+
+[22]. Clinical observation indeed suggests additional
+mechanisms of action, since omalizumab has frequently
+displayed a very rapid onset of action [6-16], full activity
+well beyond the half-life of the drug and/or at suboptimal
+doses for IgE neutralisation, and, finally, no inhibition of
+mast cell degranulation in vivo [9]. It has been frequently
+reported that, in contrast to asthma, chronic spontaneous
+urticaria patients do not apparently need their omalizumab
+dose and administration schedule be calculated based on
+body weight and serum total IgE concentration [6-16].
+Although beneficial effects have been reported in other
+conditions pathogenically characterised by proven or possible
+IgE involvement (i.e., atopic dermatitis, food allergy, specific
+immunotherapy, mastocytosis, anaphylaxis, etc.), scant evidence is currently available for other possible future indications [23, 24]. Here, we report our real-life experience with
+off-label omalizumab in dermatological conditions whose
+pathogenesis may suggest involvement of the IgE-mast cell
+axis, providing further clinical data on the efficacy and safety
+of omalizumab in these settings and adding new pieces to the
+complex puzzle of omalizumab mechanism of action.
+
+2 Patients, Materials, and Methods
+2.1 Patients
+
+Since 2008, nine patients (six suffering from chronic
+spontaneous urticaria and three with atopic dermatitis,
+diagnosed according to standard criteria [25, 26]) have
+been subjected thus far to off-label treatment with omalizumab. All patients had unsatisfactory control of their
+dermatological condition with standard therapy. Characteristics of the patients are summarised in Table 1. For all
+patients, laboratory and instrumental parameters were
+monitored before starting omalizumab and every three to
+6 months thereafter, as appropriate (Table 2). Complete
+response was defined as complete resolution of symptoms
+and signs of disease; partial response was defined as significant clinical improvement despite persistence of disease, using the urticaria activity score over 7 days (UAS7)
+[27] and the SCORAD (SCORing Atopic Dermatitis) index
+[26] for chronic spontaneous urticaria and atopic dermatitis, respectively; no response was considered in case of no
+benefit at all. All patients gave their informed consent prior
+to their inclusion in the study. The study was approved by
+the institutional ethics committee.
+
+2.2 Flow Cytometry
+
+Immunophenotyping and flow cytometric identification of
+circulating lymphocytes were performed before and during
+omalizumab therapy, according to standard protocols used
+Omalizumab for Urticaria and Atopic Dermatitis
+
+SYUOU Q= UOISSIWO1 9a1J-Snip :osuodsar a}9]dWI0d poureisng a
+
+asuodsar Aiojovjsnesun Joye syoom Z AioAo Sw QOE 01 dn parejeosy ,
+
+asuodsa ou yA ‘esuodsas yened yg ‘asuodsar ajajdwioo yD ‘snumjosoe) yeoidoy J) ‘snunpossound yeoidoy gi ‘ulsodsojah9 «> ‘uizueuuls 2D ‘s}stuosejue
+Jo\desar suaLoyNe] PY.LT ‘sploseys ¢ ‘sourureysiynue FY ‘a[qeordde jou yay ‘Aevsse aseofer ourureysty [Iydoseq pyHY ‘1Se) UrYs wNIes snosojomne FESy ‘sHueuep sidow Gy ‘euRoIN stUOIyS 9D
+
+ 
+
+or
+
+81
+
+(a4
+
+(a4
+
+Iv
+
+os
+
+v9
+
+OL
+
+8L
+
+(syjyuout)
+dn-moyjoy
+
+8I
+
+ow
+
+cy
+
++9
+
+8L
+
+(syjuour)
+quowneady
+
+9atjor
+uO OUT
+
+Aoeoy your
+Joy poyeurunts |
+
+(esdejar ur
+payjnsar Suredey 1
+sj}dwione) poyrpouruy,
+
+Aaseoyyout
+Jo} poyeurunta
+
+syoom g
+Axgad Bul (S|
+
+(asuodsar ayayduroo
+
+pourejsns) poyeurune |,
+syoom g AIOAO
+
+Sui (sy ‘Aysnorag
+gesuodsar ayo]duros
+poureisns yA
+
+jJjo parody) Apuern5
+
+SyooM g
+Arga2 Bul (ST
+
+ino peddoiq
+
+syoom g
+01 9 Aioaa BUI 0S]
+
+anpayos
+SOUBUaIUTeUL
+quoi
+
+UN
+
+(€1 01 9p Woy UMOp
+AVUODS) esuodsar
+ay9fdutos Ayieau
+
+0} SYUOU p ‘syoom 7
+
+UD ‘syoom 7
+
+Be)
+Aq pomoy[oy Yd “4 77
+
+(ey
+
+:xopul GVYOOS
+
+[entur) suo > ur
+Poaslyor YD ‘syoom 7
+
+WO “4 Bp
+syjuoU! 7
+UI OE 01 Og Woy
+pourpep A]moys
+xapul GVYOOS
+Ud ‘syaom 7
+
+UW “4 8P
+
+asuodsar jo adAy
+pur 0} owty,
+
+pSY9om p
+KIQAO (ST
+
+Syoom ZT
+AIoAo
+But OSp
+
+SOOM p
+
+AYOAd
+Sut OST
+syoom
+yp Arana
+Sw OOE
+SYIOM
+Aroao
+BW OE
+
+ 
+
+Syoom 7
+Aroao
+Sut QOS
+
+SYM J
+AYOAO
+Sur QOS
+
+SYoomM J
+AYOA9
+But QOE
+
+Syoom ZT
+AIQAD
+Sw Q0E
+
+a[npayos
+qeuinz1ewQ
+
+Le)
+‘VULT
+‘SHY
+
+HV ‘S
+
+‘OD ‘VULT
+‘S ‘HV
+
+S ‘HV
+
+OD ‘VaLT
+‘s ‘HY
+
+LD
+‘a ‘HV ‘S
+
+VaLlt
+‘Ss “HV
+
+SO ‘HV‘S
+Le)
+‘DO ‘WaLT
+‘Ss ‘HV
+
+Adesoyy
+SNOTACIg
+
+SANPSON
+
+VN
+
+aaneson
+
+oaneson
+
+oanesoNn
+
+VN
+
+oaneson
+
+VN
+
+oaneson
+
+VuHad
+/LSSV
+
+ON
+
+ON
+
+ON
+
+sok
+
+ON
+
+ON
+
+ON
+
+ON
+
+SHIPIOIAY)
+suNUTTO Ne
+jueyWOosU0_,
+
+sok
+
+sok
+
+ON
+
+SOX
+
+sox
+
+Sox
+
+ON
+
+sox
+
+Sok
+
+Adoye
+yuejWOsUO_D,
+
+LIT
+
+178
+
+col
+
+vil
+
+9s8
+
+LOT
+
+807‘OI
+
+Lss
+
+(an)
+asl
+[eo
+
+sieok p]
+
+sreok []
+
+syuoUl 6
+
+sreok ¢
+
+syjuoul ¢
+
+Aouejur
+souls
+
+sieok ¢
+
+Aouejur
+ours
+
+smeok €]
+
+asvasip Jo
+uoneing
+
+xog sy
+
+no 6
+dav 8
+no L
+no 9
+no g
+dav v
+no ©
+dav G
+no I
+aseasiq quaned
+
+ 
+
+syuoned jo sonsuajovey) T aqey
+
+4 Adis
+C. Romano et al.
+
+Table 2 Biochemical and instrumental investigations carried out in patients administered omalizumab*
+
+ 
+
+Standard biochemical profile”
+
+Complete blood count with differential
+
+Serum protein electrophoresis
+
+Serum immunoglobulin isotypes (IgG, IgA, IgM, IgE) and complement C3 and C4
+Serum specific IgE“*
+
+Circulating lymphocyte subsets
+
+Autoimmunity profile (RF, ANA, anti-dsDNA, AMA, ASMA, anti-ENA, ANCA, cryoglobulins)
+Cancer markers*
+
+HBsAg and HCVAb*
+
+Thyroid function screening’
+
+Stool examination for parasites®°
+
+Stool examination for Helicobacter pylori®°
+
+Urinanalysis
+
+ASST or basophil histamine release test*°
+
+ECG’
+
+Chest X-ray"
+
+Abdominal US scan"
+
+ 
+
+RF rheumatoid factor, ANA anti-nuclear antibodies, anti-dsDNA anti-double stranded DNA, AMA anti-mitochondrial antibodies, ASMA antismooth muscle antibodies, ENA extractable nuclear antigens, ANCA anti-neutrophil cytoplasmic antibodies, HBsAg hepatitis B surface antigen,
+HCVAb hepatitis C virus antibodies, ASST autologous serum skin test, ECG electrocardiogram, US ultrasound, CEA carcinoembryonic antigen,
+a-FP a-fetoprotein, CA cancer (carbohydrate) antigen
+
+* Repeated every 3-6 months, unless otherwise stated
+
+> Includes: erythrocyte sedimentation rate, C reactive protein, electrolytes, calcium, phosphorus, glucose, urea nitrogen, creatinine, total protein,
+triglycerids, cholesterol, aspartate aminotransferase, alanine aminotransferase, pseudocholinesterase, y-glutamyltranspeptidase, alkaline phosphatase, bilirubin, iron, ferritin, transferrin, uric acid, amylase, creatine kinase, lactate dehydrogenase
+
+© Tested allergens include those comprised in the ImmunoCAP® ISAC (Immuno Solid-phase Allergen Chip) microarray system (Phadia,
+Thermo Scientific) for the most recent patients; before availability of the multiplex ISAC test, patients were usually screened for the following
+allergens: house dust mite, grass pollen, wall pellitory, cypress, olive, birch, mugwort, cat and dog dander, latex, wheat, egg white, tomato, milk,
+
+soy, peanut, tree nut, apple, peach, Anisakis simplex
+
+4 Include: CEA, a-FP, CA19-9, CA125, CA15-3, CA50, B2-microglobulin, thymidine kinase
+
+© Only on admission
+
+* Includes: thyrotropin, free thyroxine, free triiodothyronine, anti-peroxidase and anti-thyroglobulin autoantibodies
+
+® Only for chronic urticaria patients
+
+5 Before starting omalizumab and at yearly intervals thereafter, if normal
+
+in our laboratory, as previously detailed [28, 29]. All
+fluorochrome-conjugated monoclonal antibodies were
+obtained from BD Biosciences (San Diego, CA, USA),
+unless otherwise stated. Apart from evaluation of standard
+lymphocyte subsets (T, B, NK, and NK-T cells), in order to
+investigate whether omalizumab could affect the relative
+balance between Thl/Tcl and Th2/Tc2 lymphocytes
+(mediators of type 1 and type 2 immune responses,
+respectively), immunophenotyping was also performed
+using very specific surface markers for the above T-cell
+subsets, namely CCRS5 (for Thl/Tcl cells) [30, 31] and
+CRTH2 (for Th2/Tc2 cells) [32-34]. To facilitate evaluation of omalizumab effects on type 1 and type 2 immune
+responses, the CCR5/CRTH2 ratio was used, as previously
+described [35, 36]; thus, an increasing CCR5/CRTH2 ratio
+was deemed indicative of a switch toward a predominant
+type 1 immune response, whereas a decreasing CCR5/
+
+4 Adis
+
+CRTH2 ratio was considered consistent with a prevailing
+type 2 immune response [35, 36]. The following cell
+membrane molecules were therefore investigated using
+specific fluorochrome-conjugated monoclonal antibodies:
+CD3, CD4, CD8, CD19, CD16, CD56, CCR5, CRTH2/
+CD294 (Miltenyi Biotec, Germany). Acquisition of data
+was carried out on a BD FACSCalibur flow cytometer (BD
+Biosciences); analysis of T-cell subsets was performed by
+gating on total CD3+ T lymphocytes using the WinMDI
+software version 2.9 (Joseph Trotter®, Scripps Research
+Institute, La Jolla, Ca, USA).
+
+2.3 Eosinophil Cationic Protein (ECP) and Tryptase
+Serum Levels
+
+To investigate the role of omalizumab on activated eosinophils and mast cells, their main secretion products, i.e.,
+Omalizumab for Urticaria and Atopic Dermatitis
+
+ 
+
+Fig. 1 Representative effect of omalizumab in a chronic urticaria
+patient (#6). Diffuse, scattered hives (a, ¢), occurring daily in the
+3 years prior to commencing omalizumab treatment. The patient had
+immediate benefit following the first injection of omalizumab;
+remission (b, d) was fully achieved within 2 weeks after the first
+administration of omalizumab
+
+ECP and tryptase, respectively, were measured in the
+serum of patients before and during omalizumab treatment
+using the ImmunoCAP® ECP and tryptase kits on a Phadia® 250 immunoassay analyser (Thermo Scientific),
+according to the manufacturer’s instructions.
+
+2.4 Omalizumab Schedule
+
+Patients were initially treated according to the schedule
+proposed for allergic asthma, i.e., based on body weight
+and total serum IgE concentrations. Omalizumab dose was
+increased in case of unsatisfactory response or slowly
+tapered off in case of remission, as previously detailed [9].
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+50 5 a
+a HL
+ath #3
+—+— #5
+so HE
+87
+—e— 49
+o 1 2 4 6 8 10 12 «16
+weeks
+60
+severe b
+ee
+40
+moderate 22
+30 i
+reas: 20
+mild
+10 [) remission
+0 16
+weeks
+
+Fig. 2 Time course of UAS7 (a) and SCORAD index (b) following
+omalizumab treatment. See text for details
+
+2.5 Follow-Up
+
+Patients were subjected to laboratory investigations quarterly for the first 2 years of omalizumab therapy, then every
+6 months. Patients were also subjected to imaging techniques before omalizumab treatment and at least yearly
+thereafter (Table 2). Clinically, the patients were evaluated
+on each injection day, i.e., every 2-4 weeks, depending on
+the individual administration schedule.
+
+3 Results
+3.1 Patients
+
+Overall, six of nine patients had a complete response
+(67 %), one patient had a partial response (11 %) and two
+patients (22 %) did not improve at all. The rate of complete
+response was 67 % both in chronic spontaneous urticaria
+(four of six patients) and in atopic dermatitis (two of three
+patients). In patients with chronic spontaneous urticaria,
+remission was obtained within a few days up to a couple of
+
+4 Adis
+ 
+
+mS
+
+weeks of the first drug injection, whereas atopic dermatitis
+patients had a progressive improvement over several weeks
+(Table 1). Specifically, chronic spontaneous urticaria
+patients #1, 3, 6 rapidly achieved a complete response
+
+4 Adis
+
+C. Romano et al.
+
+Fig. 3 Efficacy of omalizumab in atopic dermatitis. Patient #4:
+involvement of face, neck, and flexural regions of the upper limbs,
+with erythema, oedema, xerosis, excoriations, and lichenification,
+before initiating treatment with omalizumab (a). Four months after
+beginning omalizumab treatment, the patient had a complete response
+(b). No concomitant therapy with other systemic or topical drugs
+(e.g., steroids, cyclosporine, methotrexate, tacrolimus, pimecrolimus,
+etc.) was associated to omalizumab in this case. Complete remission
+was successfully maintained with low-dose omalizumab (150 mg
+every 6-8 weeks)
+
+(Table 1; Fig. 1); patient #5 needed shorter administration
+intervals to obtain and maintain a complete response
+(occurrence of episodes of hives around the end of the
+30-day cycle). Two patients (#7 and #9) did not respond at
+all to treatment with anti-IgE; interestingly, these two
+patients had the lowest levels of circulating IgE before
+starting therapy (6.3 and 21.7 kU/L, respectively, Table 1).
+The time course of UAS7 in chronic spontaneous urticaria
+patients is depicted in Fig. 2a. Among the atopic dermatitis
+patients (#2, 4, 8), it is noteworthy that the two patients (#4
+and #8) with pre-treatment circulating IgE levels within the
+range of neutralisation (<1,500 kU/L, depending on body
+weight) by currently available doses of omalizumab, both
+obtained a complete response, with progressive improvement over several months (Table 1; Figs. 2b, 3). Moreover,
+omalizumab was the only drug used for inducing and
+maintaining the clinical response. Patient #2, who was on
+cyclosporine and whose circulating IgE levels were well
+above the maximum threshold for neutralisation
+(10,208 kU/L) by the anti-IgE, could only partially benefit
+from omalizumab therapy (SCORAD down from 50 to 30,
+Fig. 2b). Thus, in our experience, too low or too high
+circulating IgE levels appeared to meaningfully affect the
+outcome of the clinical response to omalizumab.
+
+3.2 T Cell Polarisation
+
+Data on the effects of omalizumab on T-cell polarisation
+were available for six of the nine patients. Patient #2 was
+excluded from analysis because of concomitant treatment
+with cyclosporine. Intriguingly, omalizumab determined a
+progressive reduction in the CCR5/CRTH2 ratio in all the
+examined patients, suggesting polarisation toward a type 2
+immune response (Fig. 4). This novel finding adds further
+complexity to the mechanism of action hypothesised for
+omalizumab, making its effects even more pleiotropic than
+initially predicted.
+
+3.3 ECP and Tryptase Serum Levels
+
+ECP serum levels were found to be more elevated in
+patients with atopic dermatitis than in chronic spontaneous
+urticaria patients (Fig. 5), probably reflecting a more significant role for eosinophils in the pathogenesis of atopic
+Omalizumab for Urticaria and Atopic Dermatitis
+
+ 
+
+ 
+
+Fig. 4 Effect of omalizumab on 16
+T-cell polarisation. Omalizumab
+was associated with a 14
+
+decreasing CD3-++-CCR5+/
+CD3+CRTH2-+ ratio,
+
+ 
+
+12
+
+suggesting progressive
+polarization toward a type
+
+10
+
+—m— patient #1
+
+ 
+
+2 immune response. This was
+evident at least as early as
+
+eee patient #3
+
+ 
+
+4 weeks following initiation of
+omalizumab treatment and was
+further confirmed in the
+
+~—®@ patient#4
+4» patient#6
+
+ 
+
+following months
+
+= -patient#7
+
+ 
+
+ 
+
+CD3+CCR5+/CD3+CRTH2+
+©
+
+ 
+
+ 
+
+Before
+
+During omalizumab administration (months)
+
+omalizumab —_—_—_—____
+
+dermatitis with respect to chronic spontaneous urticaria.
+Overall, omalizumab determined a progressive decline in
+ECP serum levels, which was more pronounced in atopic
+dermatitis patients (Fig. 5b), as discussed above. Consistently, dermatitis flares were paralleled by elevations in
+ECP serum levels (Figure 5b). On the contrary, tryptase
+serum levels (ug/L) were generally low (mean + SD
+5.53 + 4.07 ug/L, median 4.58 g/L) before starting
+omalizumab and did not change during treatment
+(mean + SD 5.13 + 3.33 pg/L, median 4.71 pg/L, 16th
+week of therapy).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4 Follow-Up and Adverse Effects
+
+ 
+
+Mean + SD follow-up time at the time of this report was
+46.8 + 23.4 months (median 42 months, range
+10-78 months). No patients suffered from any type of
+infection, neither helminthic and/or parasitic. Cancer
+screening was negative in all patients during treatment and
+follow-up. No episodes of arterial thromboembolism were
+recorded. There was no induction of commonly searched
+autoantibodies. All patients reported pain at the injection
+site during administration.
+
+ 
+
+4 Discussion
+
+Our experience confirms the conceptual usefulness of
+omalizumab in diseases other than asthma where the IgEmast cell axis may be hypothesised to play a significant
+role. Moreover, the brilliant results obtained in patients
+with chronic spontaneous urticaria implicitly demonstrate
+that the IgE-mast cell axis is involved in most cases of
+chronic urticaria. Of note, only the patients with total IgE
+
+ 
+
+serum levels within the range of neutralisation with the
+currently available omalizumab schedules showed progressive improvement up to clinical remission; the patient
+(#2) with partial response had total IgE levels far beyond
+the neutralisation capability of full dose omalizumab; on
+the other hand, the worst responses in chronic spontaneous
+urticaria patients were observed in those subjects whose
+total IgE levels were very low (i.e., 6 and 23 kU/L,
+respectively). Atopy did not seem to “help” omalizumab
+do the perfect job; indeed, patient #3, who did not have
+apparent specific sensitisation to common allergens, had a
+good outcome; conversely, patient #9, who was atopic,
+turned out to be a nonresponder. Thus, in our experience,
+only pre-treatment serum total IgE levels appeared to
+influence the outcome, both in chronic spontaneous urticaria and atopic dermatitis patients (Table 1). Other interesting surfaced from our experience. First,
+omalizumab appeared to modify even the events upstream
+the IgE-mast cell axis, as the relative ratio between
+CRTH2+ and CCR5+ T lymphocytes, i.e., type 1 vs. type
+2 T cells, was shown to be progressively modified by
+treatment with the anti-IgE; specifically, this novel finding
+suggests omalizumab-driven T-cell polarisation towards a
+predominant type 2 immune response. The functional significance of this effect is not clear at the moment; if Th2/
+Tc2 lymphocytes and IgE are in mutual balance, IgE
+neutralisation may therefore result in an enhanced type 2
+immune polarisation, similar to what is typically observed
+in endocrine regulatory mechanisms [37]; alternatively, a
+type 2 immune response characterised by a significant
+secretion of the immunosuppressive cytokine IL-10, which
+may help dampen the inflammatory response in the skin,
+may be theorised to occur [38]. Finally, at least in atopic
+dermatitis patients, it may be hypothesised that type 1
+
+issues
+
+4 Adis
+C. Romano et al.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30 a
+25
+2
+g 20 === patient #1
+2
+a seeeee patient #3
+= B15 :
+o= = = patient#S
+a 7
+a. 7 i
+5 10 — patient #6
+KE}
+ee. ’. eer tmee.
+ise, aye OM esis
+0
+160 b
+140 120
+a
+o
+>
+@ es 100 seseee patient #2
+€ a
+Ss B 80 === patient #4
+=
+a> ——— patient #8
+a. 60
+a
+40
+20
+
+ 
+
+ 
+
+ 
+
+Before
+
+During omalizumab administration (months)
+
+SS
+
+Fig. 5 Behaviour of eosinophil cationic protein (ECP) serum levels
+in chronic urticaria (a) and atopic dermatitis (b) patients. In all
+patients, omalizumab treatment was associated with a reduction in
+ECP serum levels. Chronic urticaria patients displayed lower levels of
+ECP serum levels with respect to atopic dermatitis patients before
+starting treatment with omalizumab, suggesting a more significant
+role for activated eosinophils in the latter dermatological condition.
+This is also inferred by the observation of rising ECP levels during
+episodes of dermatitis flares (asterisks patient #2). Interestingly,
+
+immune responses progressively subside as the skin condition improves (possibly due to reduced infection-triggered immune responses, as infectious agents are known to
+induce type | immune responses and to cause increased
+morbidity in atopic dermatitis patients [39]). Studies
+focusing on the pattern of T cell cytokine secretion are
+currently ongoing in order to give a better interpretation to
+the immune polarisation effect mediated by omalizumab.
+
+Second, among the events occurring downstream the
+IgE-mast cell axis, omalizumab appeared to have a role in
+quenching the eosinophil-mediated inflammation. This was
+particularly evident in atopic dermatitis patients, where the
+
+4 Adis
+
+control of dermatitis by omalizumab in patient #2 was partial and
+complicated by flares, probably due to the very high pre-treatment
+IgE serum levels (10,208 kU/L), suggesting incomplete neutralisation
+of free circulating IgE by omalizumab. In this patient, cyclosporine
+was maintained during omalizumab administration; flares were
+observed during attempts at reducing cyclosporine dose. Patient #4
+had the lowest ECP serum levels among atopic dermatitis patients
+probably because of chronic steroid therapy continued up to the day
+before starting omalizumab
+
+clinical response was paralleled by a progressive decrease
+in ECP levels, a marker of eosinophil activation; consistently, dermatitis flares were associated with elevations in
+ECP serum levels. Indeed, eosinophils are just one of the
+multiple players (lymphocytes, monocytes/macrophages,
+Langerhans cells, keratinocytes, and mast cells) involved in
+the pathogenesis of the complex inflammatory process
+underlying the clinical manifestations of atopic dermatitis
+[40]. Based on our results, eosinophils appear to be
+important participators in the inflamed skin of atopic dermatitis patients. With due differences, our observations are
+in accordance with the findings described by Djukanovic
+Omalizumab for Urticaria and Atopic Dermatitis
+
+et al. [41] and Riccio et al. [42], who reported a reduced
+eosinophil infiltration in the bronchial mucosa of allergic
+asthma patients following institution of omalizumab
+treatment. Moreover, with regard to chronic urticaria, our
+data appear to confirm the pathogenic role of eosinophils
+hypothesised by Asero et al. [43]. Although tryptase serum
+levels appeared unmodified in all patients treated with
+omalizumab, this finding does not belittle the role of mast
+cells as effector cells. Indeed, among the numerous medical
+conditions characterised by mast cell degranulation, high
+tryptase serum levels can generally be found only in cases
+of massive degranulation (anaphylaxis) or secondary to an
+expanded mast cell burden (mastocytosis) [44]. Thus,
+tryptase serum levels cannot be used to monitor mast cell
+activity and response to omalizumab both in chronic
+spontaneous urticaria and atopic dermatitis.
+
+Third, most responder patients were maintained in
+complete remission with low-dose omalizumab, i.e., using
+suboptimal doses for fully effective total IgE neutralisation.
+These patients, although free from clinical manifestations,
+still displayed the in vivo mast cell response, suggesting
+availability of sufficient mast cell-bound IgE amenable to
+cross-linking by allergens on exposure (personal observations and [9]). These observations indicate that at least
+some of the positive effects exerted by omalizumab may be
+independent of circulating IgE neutralisation. The fact that
+our patients could be maintained in long-term remission
+with low-dose omalizumab may also have advantageous
+economic implications; in other words, the cost for maintaining these patients in remission may even turn out to be
+lower than the direct and indirect costs imposed on the
+national health agencies and governments by these ailments [45, 46], especially with the expected abatement of
+the costs of the monoclonal antibodies with time.
+
+Finally, the optimal safety profile of omalizumab is to be
+emphasised; the feared complications—infection (particularly, parasitic and helminthic), cancer, autoimmunity
+induction, and/or thrombosis/vascular accidents were not
+observed during our long-term follow-up, with pain at the
+injection site being the sole complaint reported by all patients.
+
+5 Conclusions
+
+Omalizumab was safe and effective both in chronic spontaneous urticaria and atopic dermatitis. In our experience,
+pre-treatment serum IgE levels appeared to affect the
+outcome of the clinical response, with too high or too low
+concentrations associated with incomplete or no responses,
+respectively. Omalizumab appeared to exert novel immunologic effects, both upstream (T-cell polarisation toward a
+type 2 immune response) and downstream (blunting of
+eosinophil-mediated inflammation) the IgE-mast cell axis.
+
+In addition, at least some of the beneficial effects induced
+by omalizumab may be independent of circulating IgE
+neutralisation. The possibility of maintaining the clinical
+response with very low doses of omalizumab may eventually turn out to be cost-effective, especially with the
+expected abatement of the costs of the monoclonal antibodies with time.
+
+Conflict of interest No sources of funding were used for the conduct of this study. The authors declare that they have no conflict of
+interest.
+
+References
+
+1. Humbert N, Beasley R, Ayres J, Slavin R, Hébert J, Bousquet J,
+et al. Benefits of omalizumab as add-on therapy in patients with
+severe persistent asthma who are inadequately controlled despite
+best available therapy (GINA 2002 step 4 treatment): INNOVATE. Allergy. 2005;60:309-16.
+
+2. Chang TW, Wu PC, Hsu CL, Hung AF. Anti-IgE antibodies for
+the treatment of IgE-mediated allergic diseases. Adv Immunol.
+2007;93:63-119.
+
+3. Chang TW, Shiung YY. Anti-[gE as a mast cell-stabilizing
+therapeutic agent. J Allergy Clin Immunol. 2006;117:1203-13.
+
+4. Brozek JL, Bousquet J, Baena-Cagnani CE, Bonini S, Canonica
+GW, Casale TB, et al. Allergic Rhinitis and its Impact on Asthma
+(ARIA) guidelines: 2010 revision. J Allergy Clin Immunol.
+2010;126:466-76.
+
+5. Tsabouri S, Tseretopoulou X, Priftis K, Ntzani EE. Omalizumab
+for the treatment of inadequately controlled allergic rhinitis: a
+systematic review and meta-analysis of randomized clinical trials.
+J Allergy Clin Immunol Pract. 2014;2:332-40.
+
+6. Spector SL, Tan RA. Effect of omalizumab on patients with
+chronic urticaria. Ann Allergy Asthma Immunol. 2007;99:190-3.
+
+7. Spector SL, Tan RA. Therapeutic alternatives for chronic urticaria: additional reports on omalizumab. Ann Allergy Asthma
+Immunol. 2008;101:647.
+
+8. Vestergaard C, Deleuran M. Two cases of severe refractory
+chronic idiopathic urticaria treated with omalizumab. Acta Derm
+Venereol. 2010;90:443-4.
+
+9. Romano C, Sellitto A, De Fanis U, Esposito G, Arbo P, Giunta R,
+Lucivero G. Maintenance of remission with low-dose omalizumab in long-lasting, refractory chronic urticaria. Ann Allergy
+Asthma Immunol. 2010;104:95—7.
+
+10. Iemoli E, Piconi S, Fusi A, Borgonovo L, Borelli M, Trabattoni
+D. Immunological effects of omalizumab in chronic urticaria: a
+case report. J Investig Allergol Clin Immunol. 2010;20:252—4.
+
+11. Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK. Treatment of chronic autoimmune urticaria with omalizumab.
+J Allergy Clin Immunol. 2008;122:569-73.
+
+12. Ferrer M, Gamboa P, Sanz ML, Goikoetxea MJ, Cabrera-Freitag
+P, Javaloyes G, et al. Omalizumab is effective in nonautoimmune
+urticaria. J Allergy Clin Immunol. 2011;127:1300-2.
+
+13. Saini S, Rosen KE, Hsieh HJ, Wong DA, Conner E, Kaplan A,
+et al. A randomized, placebo-controlled, dose-ranging study of
+single-dose omalizumab in patients with H1-antihistaminerefractory chronic idiopathic urticaria. J Allergy Clin Immunol.
+2011;128:567-73.
+
+14. Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M,
+Seyfried S, et al. Efficacy and safety of omalizumab in patients
+with chronic urticaria who exhibit IgE against thyroperoxidase.
+J Allergy Clin Immunol. 2011;128:202-9.
+
+4 Adis
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22)
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, GimenezArnau A, et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med. 2013;368:924—35.
+Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E,
+et al. Omalizumab in patients with symptomatic chronic idiopathic/spontaneous urticariadespite standard combination therapy. J Allergy Clin Immunol. 2013;132:101-9.
+
+Saavedra MC, Sur S. Down regulation of the high-affinity IgE
+receptor associated with successful treatment of chronic idiopathic urticaria with omalizumab. Clin Mol Allergy. 2011;9:2.
+Asai K, Kitaura J, Kawakami Y, Yamagata N, Tsai M, Carbone
+DP, et al. Regulation of mast cell survival by IgE. Immunity.
+2001;14:791-800.
+
+Kalesnikoff J, Huber M, Lam V, Damen JE, Zhang J, Siraganian
+RP, et al. Monomeric IgE stimulates signaling pathways in mast
+cells that lead to cytokine production and cell survival. Immunity.
+2001;14:801-11.
+
+Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer
+M. IgE mediated autoallergy against thyroid peroxidase—a novel
+pathomechanism of chronic spontaneous urticaria? PLoS One.
+2011;6:e14794.
+
+Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T, Terui T, et al. Significantly high levels of anti-dsDNA
+immunoglobulin E in sera and the ability of dsDNA to induce the
+degranulation of basophils from chronic urticaria patients. Int
+Arch Allergy Immunol. 2013;161(suppl 2):154-8.
+
+Chang TW, Chen C, Lin C-J, Metz M, Church MK, Maurer M.
+The potential pharmacologic mechanisms of omalizumab in
+patients with chronic spontaneous urticaria. J Allergy Clin
+Immunol. 2014. doi:10.1016/j.jaci.2014.04.036.
+
+ 
+
+. Morjaria JB, Polosa R. Off-label use of omalizumab in non
+asthma conditions: new opportunities. Expert Rev Respir Med.
+2009;3:299-308.
+
+Incorvaia C, Mauro M, Russello M, Formigoni C, Riario-Sforza
+GG, Ridolo E. Omalizumab, an anti-immunoglobulin E antibody:
+state of the art. Drug Des Devel Ther. 2014;8:197-207.
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z,
+Canonica GW, et al. The EAACI/GA(2) LEN/EDF/WAO
+guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy.
+2014;69:868-87.
+
+Eichenfield LF, Tom WL, Chamlin SL, Feldman SR, Hanifin JM,
+Simpson EL, et al. Guidelines of care for the management of
+atopic dermatitis: section 1. Diagnosis and assessment of atopic
+dermatitis. J Am Acad Dermatol. 2014;70:338-51.
+
+Jauregui I, Ortiz de Frutos FJ, Ferrer M, Giménez-Arnau A,
+Sastre J, Bartra J, et al. Assessment of severity and quality of life
+in chronic urticaria. J Investig Allergol Clin Immunol. 2014;24:
+80-6.
+
+Romano C, De Fanis U, Sellitto A, Chiurazzi F, Guastafierro S,
+Giunta R, et al. Induction of CD95 upregulation does not render
+chronic lymphocytic leukemia B-cells susceptible to CD95mediated apoptosis. Immunol Lett. 2005;97:131-9.
+
+Sellitto A, Galizia G, De Fanis U, Lieto E, Zamboli A, Orditura
+M, et al. Behavior of circulating CD4+-CD25+Foxp3+ regulatory T cells in colon cancer patients undergoing surgery. J Clin
+Immunol. 2011;31:1095-104.
+
+Loetscher P, Uguccioni M, Bordoli L, Baggiolini M, Moser B,
+Chizzolini C, et al. CCRS is characteristic of Thl lymphocytes.
+Nature. 1998;391:344—5.
+
+4 Adis
+
+32.
+
+33.
+
+40.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+C. Romano et al.
+
+. Qin S, Rottman JB, Myers P, Kassam N, Weinblatt M, Loetscher
+
+M, et al. The chemokine receptors CXCR3 and CCR5 mark
+subsets of T cells associated with certain inflammatory reactions.
+J Clin Invest. 1998;101:746-54.
+
+Nagata K, Tanaka K, Ogawa K, Kemmotsu K, Imai T, Yoshie O,
+et al. Selective expression of a novel surface molecule by human
+Th2 cells in vivo. J Immunol. 1999;162:1278-86.
+
+Cosmi L, Annunziato F, Iwasaki M, Galli G, Manetti R, Maggi E,
+et al. CRTH2 is the most reliable marker for the detection of
+circulating human type 2 Th and type 2 T cytotoxic cells in health
+and disease. Eur J Immunol. 2000;30:2972-9.
+
+. De Fanis U, Mori F, Kurnat RJ, Lee WK, Bova M, Adkinson NF,
+
+et al. GATA3 up-regulation associated with surface expression of
+CD294/CRTH2: a unique feature of human Th cells. Blood.
+2007;109:4343-50.
+
+. Boin F, De Fanis U, Bartlett SJ, Wigley FM, Rosen A, Casolaro
+
+V. T cell polarization identifies distinct clinical phenotypes in
+scleroderma lung disease. Arthritis Rheum. 2008;58:1165-74.
+
+. De Fanis U, Wang GC, Fedarko NS, Walston JD, Casolaro V,
+
+Leng SX. T-lymphocytes expressing CC chemokine receptor-5
+are increased in frail older adults. J Am Geriatr Soc. 2008;56:
+904-8.
+
+. Onoé K, Yanagawa Y, Minami K, Iijima N, Iwabuchi K. Th1 or
+
+Th2 balance regulated by interaction between dendritic cells and
+NKT cells. Immunol Res. 2007;38:319-32.
+
+. Iyengar SR, Hoyte EG, Loza A, Bonaccorso S, Chiang D, Umetsu
+
+DT, Nadeau KC. Immunologic effects of omalizumab in children
+with severe refractory atopic dermatitis: a randomized, placebocontrolled clinical trial. Int Arch Allergy Immunol. 2013;162:
+89-93.
+
+. Baker BS. The role of microorganisms in atopic dermatitis. Clin
+
+Exp Immunol. 2006;144:1-9.
+
+Furuta GT, Atkins FD, Lee NA, Lee JJ. Changing roles of
+eosinophils in health and disease. Ann Allergy Asthma Immunol.
+2014;113:3-8.
+
+Djukanovic R, Wilson SJ, Kraft M, Jarjour NN, Steel M, Chung
+KF, et al. Effects of treatment with anti-immunoglobulin E
+antibody omalizumab on airway inflammation in allergic asthma.
+Am J Respir Crit Care Med. 2004;170:583-93.
+
+Riccio AM, Dal Negro RW, Micheletto C, De Ferrari L, Folli C,
+Chiappori A, Canonica GW. Omalizumab modulates bronchial
+reticular basement membrane thickness and eosinophil infiltration
+in severe persistent allergic asthma patients. Int J Immunopathol
+Pharmacol. 2012;25:475-84.
+
+Asero R, Cugno M, Tedeschi A. Eosinophils in chronic urticaria:
+supporting or leading actors? World Allergy Organ J. 2009;2:
+213-7.
+
+Schwartz LB. Diagnostic value of tryptase in anaphylaxis and
+mastocytosis. Immunol Allergy Clin North Am. 2006;26:45 1-63.
+Delong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual
+direct and indirect health care costs of chronic idiopathic urticaria: a cost analysis of 50 nonimmunosuppressed patients. Arch
+Dermatol. 2008;144:35-9.
+
+Fowler JF, Duh MS, Rovba L, Buteau S, Pinheiro L, Lobo F,
+et al. The direct and indirect cost burden of atopic dermatitis: an
+employer-payer perspective. Manag Care Interface. 2007;20:
+26-32.
+

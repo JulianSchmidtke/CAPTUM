@@ -1,0 +1,556 @@
+ORIGINAL ICLE
+
+Asian Pacific Journal of
+Allergy and Immunology
+
+p»
+
+APJAI
+
+Risk factors of uncontrolled symptoms
+using the standard dose of second-generation
+H1 -antihistamines in chronic spontaneous urticaria children
+
+Vanlaya Koosakulchai, Araya Yuenyongviwat, Pasuree Sangsupawanich
+
+ 
+
+Abstract
+
+Background: A standard dose of second-generation H1 -antihistamines is recommended as the first-line treatment of
+chronic spontaneous urticaria (CSU), previous studies have found that approximately 20-50% of CSU children fail to control their symptoms and required step-up treatments.
+
+Objective: To evaluate the predictors of uncontrolled symptoms with first-line medication and describe the treatment
+outcomes of CSU children in the southern region of Thailand.
+
+Methods: This retrospective chart review of CSU patients, aged 2-18 years, who were initially treated with the standard
+dose of second-generation H1 -antihistamine at the Pediatric Allergy Clinic, Songkhlanagarind Hospital, from January
+2008 to July 2018. The data were collected at the initial visit (demographic data, onset of rash, frequency of urticaria,
+presence of angioedema, previous resolved CU, laboratory investigation results) and follow-up visits (treatment outcome,
+time to controlled urticaria).
+
+Results: The medical records of 192 CSU children were reviewed; their median age were 8.5 years and the mean frequency of rash was 4 days/week. Forty-seven children (24.4%) fail to controlled symptoms with a standard dose of second
+-generation H1 -antihistamines and a factor significantly associated was frequency of rash for more than 4 days per week
+(OR = 4.36, P < 0.001). The median time to controlled urticaria was 1.28 months.
+
+Conclusions: Most of CSU children in the southern region of Thailand experienced controlled symptoms with a standard
+dose of second-generation H1 -antihistamines, and the frequency of urticaria for more than 4 days per week was a factor
+associated with uncontrolled symptoms that regimen.
+
+Key words: chronic spontaneous urticaria, child, second-generation H1 -antihistamines, uncontrolled symptoms, risk
+factor
+
+ 
+
+ 
+
+ 
+
+From: Corresponding author:
+
+Division of Allergy and Immunology, Department of Pediatrics, Faculty Vanlaya Koosakulchai
+
+of Medicine, Prince of Songkla University, Hat Yai, Songkhla, Thailand Division of Allergy and Immunology, Department of Pediatrics
+Faculty of Medicine, Prince of Songkla University
+15 Karnjanavanich Road, Hat Yai, Songkhla 90110, Thailand
+E-mail: windyfernny@gmail.com
+
+Introduction
+
+Chronic urticaria (CU) entails the presentation of urticarial rash at least twice a week for longer than 6 weeks.’ CU is
+classified as chronic spontaneous urticaria (CSU) and inducible urticaria; CSU constitutes the majority of cases of CU.??
+In the United Kingdom, the prevalence of CSU children
+has been reported at 0.1-0.3%,* while the prevalence of CSU
+children in Thailand is 13%.° CSU significantly affects the
+
+quality of life of children and is associated with socioeconomic
+burden.*
+
+There are several guidelines for the management of CSU;
+a standard dose of second-generation H1 -antihistamines is
+recommended as the first-line treatment in all of the guidelines. If the patient’s symptoms cannot be controlled within
+2-4 weeks, the options are up-dosing the second-generation
+
+ 
+\» Asian Pac J Allergy Immunol DOI 10.12932/AP-030619-0573
+
+ 
+
+APJAI
+
+H1 -antihistamine by 2-4 folds, adding another second-generation H1 -antihistamine, adding a first-generation antihistamine at bedtime, adding an H2 antihistamine or adding a
+leukotriene receptor antagonist. For cases resistant to these
+treatments, adding cyclosporine A or omalizumab is indicated”?
+
+Previous studies have found that approximately 20-50%
+of children and 70-80% of adult CSU patients fail to control
+their symptoms with a standard dose of second-generation H1
+-antihistamine.'*'? Some studies have reported an association
+between the presence of angioedema, drug allergy and family
+history of CSU and uncontrolled symptoms with the standard dose of antihistamine.'°'! However, there are limited data
+about predictors and treatment outcomes among children in
+Thailand, who cannot control their symptoms with a standard
+dose of second-generation H1 -antihistamines. The aim of this
+study was to evaluate the predictors of uncontrolled symptoms
+with a standard dose of second-generation H1 -antihistamines
+and describe the treatment outcomes of CSU children in the
+southern region of Thailand.
+
+Methods
+Study design and population
+
+The medical records of CSU patients, aged 2-18 years, who
+were diagnosed with chronic spontaneous urticaria and initially treated with the standard dose of second-generation H1
+-antihistamine (cetirizine, loratadine, levocetirizine, desloratadine, fexofenadine) at the Pediatric Allergy Clinic, Songkhlanagarind Hospital, from January 2008 to July 2018, were
+reviewed. The patients who had underlying diseases related
+to urticaria or angioedema such as maculopapular cutaneous mastocytosis, urticarial vasculitis, bradykinin-mediated
+angioedema or cryopyrin-associated periodic syndrome, and
+patients on immunosuppressive drugs were excluded.
+
+We calculated the sample size necessary to detect the risk
+factors of uncontrolled symptoms with a standard dose of
+second-generation H1 -antihistamines using the formula for
+testing two independent proportions (P1 - the proportion of
+patients who had angioedema = 0.45; P2 - the proportion of
+patients who did not have angioedema = 0.12, n2/n1 = 1)."
+The results indicated a required sample of at least 34 per group.
+Additionally, we calculated the sample size to detect the rate
+of uncontrolled symptoms with a standard dose second-generation H1 -antihistamines using the formula for estimating
+the infinite population proportion (P; rate of uncontrolled
+symptoms with a standard antihistamine dose = 0.185).”
+It was found that the overall sample size needed to be at least
+232.
+
+Data review from medical records
+
+The data were collected from the medical records at the
+initial visit consisted of demographic information (sex, age,
+weight, height, drug allergy, current medications, past history
+of atopy, and family history of atopy), onset of rash, frequency of urticaria (days/week), presence of angioedema, previous
+resolved CU, laboratory investigation results (CBC, ESR, ANA,
+anti-dsDNA, thyroid function test, skin prink test or sIgE to
+aeroallergens) and type of second-generation H1 -antihistamine
+
+drug. The data from medical records at follow-up visits were
+consisted of treatment outcome and time to controlled urticaria. The treatment outcome of the standard dose of second-generation H1 -antihistamines was evaluated 2-4 weeks after the
+start of treatment, and uncontrolled symptoms were defined as
+the presence of urticaria at least 2 days/week while on the same
+daily dose of antihistamine.
+
+Statistical analysis
+
+The data were recorded using Epidata and analyzed using
+the R statistical software. The demographic data are presented
+as mean+tstandard deviation or median (IQR) for continuous
+data, and number (%) for categorical data. The rate of uncontrolled symptoms was presented as number (%) for categorical data. The predictors for uncontrolled symptoms were analyzed using the chi-square and Fisher's exact tests for sample
+proportion comparisons and the T-test and Mann-Whitney U
+Test to compare the sample mean/medians. The strength of
+association was measured by means of odds ratios (OR) with
+95% confidence intervals (95% CI). A P value of less than 0.05
+was regarded as statistically significant. The categorical data
+concerning medications used to control urticaria are presented
+as number (%), while the time to control urticaria was tested by
+using the time-to-event analysis.
+
+Ethics statement
+
+This study was approved by the Human Research Committee of the Faculty of Medicine, Prince of Songkla University,
+Thailand.
+
+Results
+Demographic data
+
+The medical records of 192 CSU children were reviewed;
+their median age were 8.5 years (Table 1). The proportions of
+males and females were equal. The medium duration of urticaria before diagnosis was 4.5 months, and the mean frequency of urticaria was 4 days/week. Just under half of the children (46.9%) had angioedema. Seventy-two children (37.5%)
+
+Table 1. Baseline characteristics
+
+ 
+
+Age of diagnosis (years), mean (SD) 8.5 (3.7)
+Sex, male, n (%) 96 (50.0)
+Weight (kg), mean (SD) 31.3 (15.4)
+Height (cm), mean (SD) 128 (23.2)
+Duration of urticaria before diagnosis (months), median 4.5 (0.8,87)
+(IQR)
+
+Frequency of urticaria (days/week), mean (SD) 4.3 (2.0)
+Presence of angioedema, n (%) 90 (46.9)
+Previous resolved CU, n (%) 4(2.1)
+
+ 
+
+Abbreviation: SD, Standard deviation; IQR, Interquartile range; CU, Chronic urticaria; AEC, Absolute eosinophil count; ESR, Erythrocyte sedimentation
+rate; ANA, Antinuclear antibody; Anti-ds DNA, Anti-double stranded DNA
+antibody
+
+ 
+Risk factors of uncontrolled urticaria Sj»
+
+ 
+
+Table 1. (Continued)
+
+ 
+
+Personal history of atopy, n (%) 72 (37.5)
+- Asthma 32 (16.7)
+- Allergic rhinitis 28 (14.6)
+- Atopic dermatitis 4(2.1)
+- Food allergy 22 (11.5)
+Drug allergy, n (%) 19 (9.9)
+Family history of atopy, n (%) 47 (24.5)
+Family history of CU, n (%) 13 (6.8)
+
+Laboratory investigation
+
+- AEC (cell/mm#), median (IQR) 195 (0,1414)
+
+- ESR abnormal, n (%) 31 (20.4)
+- ANA positive, n (%) 13 (9)
+- Anti-ds DNA positive, n (%) 0 (0.0)
+- Thyroid function test abnormal, n (%) 6 (5.3)
+- Aeroallergen sensitization 39 (49.4)
+
+ 
+
+Abbreviation: SD, Standard deviation; IQR, Interquartile range; CU, Chronic urticaria, AEC, Absolute eosinophil count; ESR, Erythrocyte sedimentation
+rate; ANA, Antinuclear antibody; Anti-ds DNA, Anti-double stranded DNA
+antibody
+
+had a personal history of atopy, and asthma was the most
+common comorbidity. Approximately, one-fourth of the children had a family history of atopy. The laboratory investigations illustrated an absolute eosinophilic count (AEC) mean of
+195 cell/mm*. Moreover, an abnormal ESR (> 20 mm/h) was
+found in 31 children (21.4%) and a positive ANA in 13 children
+(9%); however, the anti-ds DNA test resulted negative in all
+of them and none of the children had autoimmune disease.
+Aeroallergen sensitization was evaluated in 113 children, and
+just under half of them (49.4%) had positive results. The thyroid function test was performed on 114 children. However,
+while 6 children had abnormal results as subclinical hypothyroid, none of the patient had autoimmune thyroiditis.
+
+APJAI
+
+Treatment outcome of chronic spontaneous urticaria in children
+
+All of the children were initially treated with a standard
+dose of second-generation H1 -antihistamines, which comprised cetirizine (52.6%), loratadine (40.6%), desloratadine
+(4.7%), fexofenadine (1.6%) and levocetirizine (0.5%). The
+mean follow-up duration after the initial treatment with a
+standard dose of second-generation H1 -antihistamines was
+1 month. The prevalence of controlled symptoms with a
+standard dose of second-generation H1 -antihistamines was
+75.6%. Forty-seven children whose symptoms were uncontrolled symptoms received step-up treatment, and five children were lost to follow up. Thirty-five children (18.2%) had
+their symptoms controlled with a double dose of second-generation H1- antihistamines. Six children achieved controlled
+symptoms with higher doses of antihistamine; a three-fold
+dosed in five persons and a four-fold doses in one person.
+Otherwise, one person's urticaria symptoms were controlled
+with a standard dose of second-generation H1- antihistamines
+combined with a dose of first-generation H1 -antihistamines
+at bedtime and an H2-antihistamine.
+
+Overall, the median time to controlled urticaria was 1.28
+months (1.08 months in the patients who experienced controlled symptoms with a standard dose of second-generation
+HI -antihistamines and 2.83 months in the patients who failed
+to have their symptoms controlled with this medication).
+
+Risk factors for uncontrolled symptoms with a standard dose of
+second-generation H1- antihistamines in chronic spontaneous
+urticaria patients
+
+The rate of uncontrolled symptoms with a standard dose
+of second-generation H1- antihistamines was 24.4% and the
+factors that might lead to uncontrolled symptoms are shown
+in Table 2. A factor significantly associated with uncontrolled
+symptoms with a standard dose of second-generation H1 -antihistamines was frequency of rash for more than 4 days per
+week (P < 0.01).
+
+However, the other risk factors such as presence of angioedema, previous resolved CU, personal or family history of atopy, drug allergy, and all of the laboratory investigation findings were not found to associate with uncontrolled
+symptoms with this step of treatment.
+
+Table 2. Risk factors associated with uncontrolled symptoms with a standard dose of second-generation H1 -antihistamines in
+
+CSU patients
+
+Uncontrolled
+with standard dose AH
+(N = 47)
+
+Characteristic
+
+ 
+
+Controlled
+with standard dose AH
+(N = 145)
+
+P value
+
+Sex, male, n (%) 24 (51.1) 71 (50.0) 1.00
+Age of onset of CSU (years), median (IQR) 8.9 (3.6,11.8) 7.7 (5,10.6) 0.67
+Frequency of urticaria, n (%) <0.01
+< 4 days/week 13 (27.7) 80 (56.3)
+> 4 days/week 34 (72.3) 62 (43.7)
+
+ 
+
+Abbreviation: AH, Antihistamine; CSU, Chronic spontaneous urticaria; CU, Chronic urticaria; AEC, Absolute eosinophil count; ESR, Erythrocyte sedimentation
+
+rate; ANA, Antinuclear antibody
+
+ 
+\» Asian Pac J Allergy Immunol DOI 10.12932/AP-030619-0573
+
+ 
+
+APJAI
+
+Table 2. (Continued)
+
+Characteristic
+
+ 
+
+Presence of angioedema, n (%)
+Previous resolved CU, n (%)
+Personal history of atopy, n (%)
+Drug allergy, n (%)
+Family history of atopy, n (%)
+Family history of CU, n (%)
+Laboratory investigation
+
+AEC (cell/mm#), median (IQR)
+
+ESR abnormal, n (%)
+
+ANA positive, n (%)
+
+Aeroallergen sensitization, n (%)
+
+Uncontrolled Controlled
+with standard dose AH _ with standard dose AH P value
+(Nery) (Nese)
+
+25 (53.2) 64 (45.1) 0.42
+C20) 3 (2.1) 1.00
+19 (40.4) 53 (37.3) 0.84
+7 (14.9) 12 (8.5) 0.26
+13 (27.7) 32 (22.5) 0.60
+3 (6.4) 9 (6.3) 1.00
+179 (101,285) 224 (138,399) 0.08
+3(7.9) 28 (24.6) 0.05
+5 (13.5) 8 (7.5) 0.32
+8 (42.1) 31 (51.7) 0.64
+0 (0) 6 (7.4) 0.18
+
+Thyroid function test abnormal, n (%)
+
+ 
+
+Abbreviation: AH, Antihistamine; CSU, Chronic spontaneous urticaria; CU, Chronic urticaria; AEC, Absolute eosinophil count; ESR, Erythrocyte sedimentation
+
+rate; ANA, Antinuclear antibody
+
+Multivariate analysis
+
+The multivariate analysis findings of the factors associated
+with uncontrolled symptoms with a standard dose of second
+-generation H1 -antihistamines are shown in Table 3. A significant association was found between; uncontrolled symptoms and a frequency of rash for more than 4 days per week
+(OR = 4.67; 95% CI 1.8-0.4, P < 0.001).
+
+Table 3. Multivariate logistic analysis of factors associated
+with uncontrolled symptoms with a standard dose of second
+-generation H1 -antihistamines in CSU patients
+
+Multivariated analysis
+
+ORa (95%CI) P value
+
+ 
+
+Frequency of urticaria > 4 days/week 4.36 (1.8,10.4) < 0.001
+Presence of angioedema 1.03 (0.4,2.5) 0.95
+Previous resolved CU 0.89 (0.1,11.9) 0.93
+Personal history of atopy 0.65 (0.2,2.15) 0.48
+Drug allergy 1.13 (0.3,4.2) 0.86
+Family history of CU 0.61 (0.05,7.8) 0.70
+Laboratory investigation
+
+AEC, median (IQR) 0.99 (0.99,1.00) 0.28
+
+ESR abnormal 0.62 (0.09,4.5) 0.64
+
+ 
+
+Abbreviation: ORa, Adjusted odds ratio; CI, Confidence interval; CSU, Chronic
+spontaneous urticaria; CU, Chronic urticaria; AEC, Absolute eosinophil count;
+ESR, Erythrocyte sedimentation rate
+
+Discussion
+
+This cohort study on 192 children with CSU showed a rate
+of 24.4% for uncontrolled symptoms with a standard dose
+of second-generation H1 -antihistamines and a risk factor
+associated with uncontrolled symptoms with this step of treatment was frequency of rash for more than 4 days per week.
+However, the other risk factors, namely the presence of angioedema, previous resolved CU, personal or family history of
+atopy, drug allergy and all of laboratory investigation findings,
+did not reveal any association with uncontrolled symptoms
+with a standard dose of second-generation H1 -antihistamines.
+Almost all of the children achieved controlled symptoms with
+an up-dosing to a double dose of a second-generation H1 -antihistamine drug, and the overall medium time to controlled
+symptoms was 1.28 months.
+
+According to the guidelines for the management of CSU,
+a standard dose of second-generation H1- antihistamines is
+recommended as the first-line treatment. If the patient’s symptoms are not controlled within 2-4 weeks, a step-up treatment
+is indicated. In Thailand, Chansakulporn et al.,'? performed
+a prospective study among 94 CSU children between 2003
+and 2009 at Siriraj Hospital, and the results indicated that
+18.5% of the patients did not have their symptoms controlled
+with a standard dose of antihistamines. This was similar to our
+study’s finding we found that 24.4% of our participants did
+not respond to the initial treatment. However, our proportion
+was lower than that of the study by Lee et al.,"° who performed
+an observational prospective study in Singapore in 98 CSU
+children and found that 50% of the patients failed to control their symptoms with a standard antihistamine dose. This
+might be explained by the difference in the patients’ severity
+of urticaria at baseline because this study enrolled patients
+who had daily or almost daily urticaria symptoms for at least
+6 weeks, while the medium frequency of urticaria in our study
+
+ 
+Risk factors of uncontrolled urticaria SP»
+
+ 
+
+was 4 days. When comparing our study with studies in adults,
+Marin-Cabanas et al.,'' who performed a cross-sectional study
+on 100 CSU adults, found 82% incidence of uncontrolled
+symptoms with a standard dose of antihistamine. Such a high
+rate of uncontrolled symptoms with the initial treatment in
+this study compared to our study might owe to the fact that
+this study had a higher rate of chronic autoimmune urticaria
+(positive ANA 12%, positive antithyroid antibody 20%) than
+our study (positive ANA 9%).
+
+Furthermore, previous studies have evaluated the risk factors associated with uncontrolled symptoms with a standard
+dose of second-generation H1 -antihistamines. Lee et al.,’°
+found that angioedema, drug allergy and family history of
+CSU were associated with uncontrolled symptoms. Likewise,
+Marin-Cabanas et al.,'’ who performed a cross-sectional study
+among 100 CSU adults, reported that the presence of angioedema was associated with a lack of response to treatment
+with a standard antihistamine dose. In Thailand, the data
+concerning the risk factors for uncontrolled symptoms with
+a standard dose of antihistamine are limited. In our study, we
+did not find any significant association between angioedema,
+drug allergy and family history of CSU and uncontrolled urticaria symptoms in childhood.
+
+According to our study, only the frequency of urticaria
+for more than 4 days per week was an associating factor. The
+activity scales that have been proposed to integrate symptom
+intensity and its impact on daily life such as the Urticaria
+Severity Score (USS) consist of 9 questions, and the number of days of urticaria is one of them. This indicates that the
+frequency of urticaria is associated with the severity of the
+disease, and it might affect the response to the initial treatment.
+
+Based on the results of our study, if the patent has urticaria more than 4 days/week for at least 6 weeks, the treatment
+should involve more than a standard dose of second-generation of H1 -antihistamines in order to control the patient’s
+symptoms early. However, we need further studies to confirm
+this hypothesis.
+
+The strengths of this study lie with its large sample size
+and low rate of loss to follow-up. There were some limitations in this study that are worth mentioning. Firstly, we did
+not evaluate disease severity using UAS scores. However, we
+employed an indirect assessment of the disease severity by
+evaluating the frequency of rash and the patient’s symptoms.
+Secondly, we did not perform ASST, which is used in the
+diagnosis of CAU; however, this test is not usually carried out
+in real practice because it is difficult to perform, and it does
+not change the treatment. Finally, we enrolled only patients
+who received a standard dose of second-generation H1 -antihistamines as an initial treatment. This might have introduced
+a selection bias since we did not enroll patients with a more
+severe disease that were referred to our hospital due to the
+initial treatment failure.
+
+In conclusion, most of our CSU patients experienced controlled symptoms with a standard dose of second-generation
+H1 -antihistamines, and the frequency of urticaria for more
+than 4 days per week was a factor associated with uncontrolled
+symptoms that regimen.
+
+APJAI
+
+Acknowledgements
+
+The authors gratefully acknowledge all of the Epidemiology
+staff from the Faculty of Medicine, Prince of Songkla University
+for assistance about the data analysis.
+
+Conflict of interest declaration
+
+The authors declare no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+
+References
+
+1. Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am Acad
+Dermatol. 2002;46:645-57.
+
+2. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber
+B, et al. The EAACI/GA*LEN/EDF/WAO guideline for the definition,
+classification, diagnosis and management of urticaria. Allergy. 2018;73:
+1393-414.
+
+3. Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M. Epidemiology
+of urticaria: a representative cross-sectional population survey. Clin Exp
+Dermatol. 2010;35:869-73.
+
+4. Khakoo G, Sofianou-Katsoulis A, Perkin MR, Lack G. Clinical features and
+natural history of physical urticaria in children. Pediatr Allergy Immunol.
+2008;19:363-6.
+
+5. Tuchinda M, Srimaruta N, Habanananda §, Vareenil J, Assatherawatts A.
+Urticaria in Thai children. Asian Pac J Allergy Immunol. 1986;4:41-5.
+
+6. O'Donnell BE. Urticaria: impact on quality of life and economic cost.
+Immunol Allergy Clin North Am. 2014;34:89-104.
+
+7. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al.
+‘The diagnosis and management of acute and chronic urticaria: 2014 update.
+J Allergy Clin Immunol. 2014;133:1270-7.
+
+8. Powell RJ, Leech SC, Till $, Huber PA, Nasser SM, Clark AT. BSACI
+guideline for the management of chronic urticaria and angioedema. Clin
+Exp Allergy. 2015;45:547-65.
+
+9. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica
+GW, et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision
+and update. Allergy. 2014;69:868-87.
+
+10. Lee XH, Ong LX, Cheong JY, Sultana R, Rao R, Lim HH, et al. A stepwise
+approach in the management of chronic spontaneous urticaria in children.
+Asia Pac Allergy. 2016;6:16-28.
+
+11. Marin-Cabafias I, Berbegal-de Gracia L, de Leén-Marrero F, Hispan P,
+Silvestre JE. Management of Chronic Spontaneous Urticaria in Routine
+Clinical Practice Following the EAACI/GA(2)LEN/EDF/WAO Guidelines.
+Actas Dermosifiliogr. 2017;108:346-53.
+
+12. Chansakulporn S$, Pongpreuksa S$, Sangacharoenkit P, Pacharn P,
+Visitsunthorn N, Vichyanond P, et al. The natural history of chronic
+urticaria in childhood: a prospective study. J Am Acad Dermatol. 2014;
+71:663-8.
+
+13. Chantbuddhiwet S$, Ruxrungtham K, Korkij W, Noppakun N. The Natural
+History of Chronic Urticaria: A Cross-sectional Retrospective Study at a
+Tertiary Care Center, Bangkok, Thailand. J Allergy Clin Immunol. 2009;
+123:S107.
+
+14. Curto-Barredo L, Archilla LR, Vives GR, Pujol RM, Gimenez-Arnau AM.
+Clinical Features of Chronic Spontaneous Urticaria that Predict Disease
+Prognosis and Refractoriness to Standard Treatment. Acta Derm Venereol.
+2018;98:641-7.
+
+ 
+

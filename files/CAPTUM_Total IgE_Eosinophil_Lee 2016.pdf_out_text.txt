@@ -1,0 +1,968 @@
+Received Date : 31-May-2016
+
+Revised Date : 24-Oct-2016
+
+Accepted Date : 28-Oct-2016
+
+Article type —: Original Article: Epidemiology and Genetics
+Handling AE: Marek Sanak
+
+Identification of Phenotypic Clusters of Non-steroidal Anti-inflammatory Drugs Exacerbated Respiratory
+
+Disease
+
+Hyun Young Lee, PhbD,! Young-Min Ye, PhD, MD,” Seung Hyun Kim, PhD,’ Ga Young Ban, MD,’ Su Chin
+
+Kim, ' JiHae Kim, MD,” YooSeob Shin, PhD, MD,” Hae-Sim Park, PhD, MD!”
+
+‘Department of Statistics, Clinical Trial Center, Ajou University Medical Center, Suwon, Korea
+
+Department of Allergy and Clinical Immunology, Ajou University School of Medicine, Suwon, Korea
+Short title: Phenotypic clusters in NERD
+
+Corresponding author
+
+Hae-Sim Park, M.D., Ph.D.; The conception and design of the study, drafting the article and revising it critically
+for important intellectual content.
+
+Professor, Dept. of Allergy & Clinical Immunology
+
+Ajou University Medical Center
+
+164, Worldcup-ro, Yeongtong-gu, Suwon 443-380, Korea
+
+TEL. +82 31 219 4411, 5150, FAX. +82 31 219 5154
+
+E-mail. hspark @ajou.ac.kr
+
+Author list
+
+*Hyun Young, Lee, PhD; The conception and design of the study, acquisition of data, analysis and
+interpretation of data, drafting the article and final approval of the version to be submitted.
+Biostatistician, Unit Manager
+
+Departments of Statistics,
+
+Clinical Trial Center,
+
+Ajou University Medical Center
+
+Worldcup-ro 164, Wonchon-dong, Yeongtong-gu, Suwon 443-380, Korea
+
+TEL.82-31-219-4273, FAX.82-3 1-219-4265
+
+E-mail. ajoustat @ gmail.com, lee @ajou.ac.kr
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/all.13075
+
+This article is protected by copyright. All rights reserved.
+*Young-Min Ye, PhD, MD;The conception and design of the study and acquisition of data
+Associate Prof.
+
+Dept.of Allergy & Clinical Immunology
+
+Ajou University School of Medicine
+
+Suwon, Korea
+
+E-mail.ye9007 @ajou.ac.kr youngmin. ye @ gmail.com
+
+TEL. 82-31-219-4262, FAX. 82-31-219-4265
+
+*Seung Hyun Kim, PhD; Acquisition of data, Analyze metabolomics
+Associate Professor
+
+Clinical Trial Center
+
+Dept.of Allergy & Clinical Immunology
+
+Ajou University School of Medicine
+
+TEL. 82-31-219-4264, FAX. 82-31-219-4265
+
+E-mail.kimsh @ajou.ac.kr
+
+Ga Young Ban, MD; Acquisition of data
+Assistant professor,
+
+Dept.of Allergy & Clinical Immunology
+Ajou University School of Medicine
+Suwon, Korea
+
+TEL.82-10-2868-5841
+
+E-mail.rkduddle @hanmail.net
+
+Su Chin Kim, BS; Acquisition of data
+
+Departments of Statistics,
+
+Clinical Trial Center,
+
+Ajou University Medical Center
+
+San 5, Wonchen-dong, Yeongtong-gu, Suwon 443-721, Korea
+TEL. 82-31-219-4273, FAX. 82-31-219-4468
+E-mail.ksj9846 @ gmail.com
+
+JiHae Kim, MD; Acquisition of data
+Assistant professor,
+
+Dept.of Allergy & Clinical Immunology
+Kyun Yang University School of Medicine
+Suwon, Korea
+
+TEL.82-10-8654-0858
+E-mail.coolsweety9 @naver.com
+
+Yu Seob Shin, PhD, MD; Acquisition of data
+
+Assistant Professor
+
+Dept.of Allergy & Clinical Immunology Ajou University School of Medicine
+TEL. 82-31-219-5155, FAX. 82-31-219-4265
+
+E-mail. sys93 @aumc.ac.kr
+
+*Lee HY, Ye YM, and Kim SH contributed equally as co-first authors.
+
+Acknowledgements of funding
+
+This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health
+Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea
+(Grant number; HI16C0992).
+
+This article is protected by copyright. All rights reserved.
+Abstract
+
+Background: Clinical presentation of non-steroidal anti-inflammatory drugs exacerbated respiratory disease
+
+(NERD) is found to be heterogeneous. This study classified phenotypic clusters to determine NERD subtypes.
+
+Methods: We performed 2-step cluster analysis using urticaria, chronic rhinosinusitis (CRS), and atopy, in a
+NERD cohort comprising 302 patients. Asthma exacerbation was defined as receiving at least 1 burst of
+intravenous steroid treatment and/or at least 2 bursts of oral steroid use (= 45 mg/3days) per year. The
+
+possession rate of anti-asthmatic medications was estimated during the follow-up period.
+
+Results: There were 4 subtypes; subtype 1 (NERD with CRS / atopy and no urticaria), subtype 2 (NERD with
+CRS and no urticaria / atopy), subtype 3 (NERD without CRS / urticaria), and subtype 4 (NERD with urticaria).
+Significant differences were found between the 4 subtypes in the female proportion, baseline FEV1%, serum
+total IgE level, and sputum/peripheral eosinophil count. A higher frequency of asthma exacerbations was noted
+in subtype 1 compared to subtype 3. The possession rates of medium to high dose ICS/LABA showed
+significant differences among the 4 subtypes. Metabolomic analysis showed that the 4 subtypes of NERD had a
+higher serum LTE4 level than those with aspirin-tolerant asthma. The patients with subtypes | and 3 had a
+
+higher urine LTE4 level than those with subtype 2.
+
+Conclusion: We found 4 distinct subtypes with different clinical/biochemical findings and asthma
+exacerbations in a NERD cohort. These findings suggest that stratified strategies by applying subtype
+
+classification may help achieve better outcomes in the management of NERD.
+
+Key words: Non-steroidal anti-inflammatory drugs exacerbated respiratory disease; cluster; stratified medicine.
+
+Introduction
+
+Non-steroidal anti-inflammatory drugs exacerbated respiratory disease (NERD), which is characterized by
+severe bronchoconstriction in response to aspirin and/or other non-steroidal anti-inflammatory drugs (NSAID),
+is a subtype of asthma with approximately 7% prevalence among adult asthmatics (1-4). Even without
+aspirin/NSAID ingestion, NERD presents as severe and chronic inflammation in the upper and lower airways
+requiring higher doses of inhaled corticosteroids (ICS) and oral corticosteroids (OCS), which represents poorly
+
+controlled asthma (5, 6). Management of NERD is diverse and more often includes a combination inhaler of
+
+This article is protected by copyright. All rights reserved.
+medium to high dose ICS/long acting beta)-agonists (LABA), leukotriene receptor antagonists (LTRA), and
+intranasal steroids for NERD patients with chronic rhinosinusitis (CRS) and aspirin desensitization (7). In
+addition, systemic steroids can be used to control clinical symptoms following asthma exacerbations and severe
+CRS cases. Considering that the prevalence of severe asthma is higher in NERD patients than in non-NERD
+patients (8-10), management of NERD patients have focused on reductions in asthma exacerbations,
+hospitalization, and high dose ICS/OCS requirement. The clinical features of NERD include middle-age onset,
+female predominance, and common comorbid conditions, including CRS (5-7). NERD patients present as
+moderate to severe asthma, in which eosinophils are activated in the upper and lower airway mucosae (11, 12).
+Compared to aspirin-tolerant asthma (ATA), NERD is less associated with atopy; however, atopy is often
+
+present in patients with NERD (7, 13, 14).
+
+The clinical courses of NERD are found to be variable (15). Drug responses to LTRA in NERD patients are
+inconsistent and almost same to aspirin tolerant patients (16), although overproduction of cysteinyl leukotrienes
+(Cys-LTs) is the major pathogenic mechanism of NERD (17). Through Th! and Th2 immune responses, the
+HLA allele of DPB1*0301 is associated with the NERD phenotype (18). NERD patients showed a greater
+decline in FEV1% after aspirin challenge, a lower methacholine PC, and a higher prevalence of CRS/nasal
+
+polyps and urticaria compared to ATA (19, 20).
+
+To the best of our knowledge, there has been a published report to demonstrate subphenotypes of NERD in a
+
+Polish cohort (21), where definite criteria to discriminate each subphenotype were not reported clearly. In this
+study, we aimed to classify the phenotypic clusters of NERD showing difference in terms of clinical features,
+inflammatory cells, and metabolomic profiles, as well as asthma exacerbations and anti-asthmatic medication
+
+requirements.
+
+Materials and Methods
+
+Study subjects
+
+A total of 302 adult patients with NERD, who were monitored for more than 1 year, were recruited between
+January 1996 and July 2013 at Ajou University Hospital, Suwon, South Korea. The mean follow-up time was
+7.2 5.2 years (min-max, | - 19 years). The diagnosis of NERD was based on a positive response to the lysine
+aspirin bronchoprovocation test (Lys-ASA BPT), which was performed according to the previously described
+
+This article is protected by copyright. All rights reserved.
+method (22). For metabolomic analysis, 94 ATA patients were enrolled as controls. ATA was defined if a
+patient had asthma, but showed negative results to Lys-ASA BPT, or denied any changes in upper and lower
+
+respiratory symptoms after ingestion of aspirin/NSAID.
+
+Initial data collected
+
+Atopy was defined as a positive skin test response (Allergen/Histamine ratio > 2+) to at least 1 common inhalant
+allergen among pollens, animal dander, mold, and house dust mites (Allergopharma, Reinbek, Germany). CRS
+was defined as an inflammatory condition involving the paranasal sinuses or nasal polyps that lasts 12 weeks or
+longer, with positive CT findings. Severe CRS was defined as >10 Lund-Mackay (LM) score on the basis of
+OMU-CT findings. Sixty two (20.5%) of 302 NERD patients had various kinds of urticaria. When urticaria was
+defined following the classification proposed by Kowalski et al (23), 28 (9.3%) had NSAIDs-exacerbated
+cutaneous disease (NECD), 15 (5.0%) had NSAIDs-induced urticaria-angioedema (NIUA), and 19 (6.3%) had
+other types of urticaria including physical urticaria or histories of urticaria induced by foods and others. Changes
+in FEV1% after Lys-ASA BPT were recorded up to 7 hours from pre-challenge FEV 1% at initial visit (24). The
+methacholine provocative concentration causing a 20% fall in FEV1% (PC) was also collected. The HLADPB1*0301 allele was analyzed by a high-resolution technique as previously described (25). The levels of
+serum total IgE and eosinophil cationic protein (ECP) were measured using the UniCAP system ( Thermo
+Fisher Scientific, Waltham, MA, USA). Sputum and peripheral blood were collected from the patients when
+they had a stable disease with regular medication. Induction and processing of sputum were performed as
+previously described (26, 27). In addition, peripheral eosinophils were isolated from red blood cells and
+granulocyte fractions by an eosinophil isolation kit and MACS column (MiltenylBiotec Inc., Auburn, CA, USA)
+(28). The proportions of eosinophils and neutrophils were determined by cell differential count. Serum periostin
+
+levels were measured using ELISA as previously described (29).
+
+Analysis of medication records
+
+During the follow-up period, electronic medical records were summarized each year from the first visit of each
+patient. Then, the records were condensed depending on the history of at least 1 systemic steroid treatment
+
+and/or at least 2 bursts of oral steroid use at a prednisone-equivalent dose of > 45 mg for 3 days to treat asthma
+
+This article is protected by copyright. All rights reserved.
+exacerbations per year. The possession rates of anti-asthmatic drugs, including ICS plus LABA and ICS alone,
+were the proportion of prescription days per year. High dose ICS was estimated to be more than 1000 mcg of
+fluticasone per day, and medium dose ICS were estimated to be between 500 and 999 mcg of fluticasone or
+
+equivalent doses per day.
+
+Measurement of leukotriene E4 (LTE4) metabolite in serum and urine
+
+Peripheral venous blood and urine were collected in the morning from stabilized patient who had been
+maintaining anti-asthmatic medications. They stopped leukotriene modifiers for at least 14 days prior to the
+measurement. Serum samples were extracted with 80% methanol, and urine samples were diluted 5 times with
+water. All the samples were mixed for 10 min and centrifuged at 18,341 g for 20 min at 4°C. Five microliters of
+each sample were injected into the column held at 40°C and eluted with 0.1% formic acid and 20 mM
+ammonium formate in water (solvent A), and 0.1% formic acid in methanol (solvent B) over 21 min. Each
+metabolite was eluted at a constant flow rate of 0.4 ml/min using the following gradient: 2% - 98% B from 0.1
+to 13 min, and 98% B held constant for 2 min followed by a return to 2% B from 15.1 to 17 min.
+Chromatographic separation of metabolites in serum and urine was performed with ACQUITY UPLC BEH
+C18, 2.1x50 mm, 1.7 pm (Waters, Milford, MA) analytical column using the Agilent 1290 Infinity II UHPLC
+
+system (Agilent Technologies, Santa Clara, CA).
+
+Each eluent was introduced into an Agilent 6530 quadrupole time-of-flight (Q-TOF) mass spectrometer. The
+overall quality of the analysis procedure was monitored using repetition of a pooled serum or urine sample. The
+following deuterated internal standards were used; leukotriene E4-d5 for LTE4 (Cayman Chemical Company,
+Ann Arbor, MI, USA). In urine samples, creatinine was quantified to normalize to the actual concentrations of
+each biomarker and 1, 3-dimethyl-2-imidazolidinone (Sigma-Aldrich, St. Louis, MO) and used as the internal
+standard for creatinine. The concentration of each biomarker was determined from the calibration curves using
+linear regression analysis. Correlation coefficients determined were > 0.99 for individual biomarkers. All
+
+chemicals were of HPLC grade.
+
+This article is protected by copyright. All rights reserved.
+Cluster analysis
+
+To classify phenotypic clusters in NERD, we performed 2-step cluster analysis (30). We considered 7
+parameters (clinical and genotypic criteria), including FEV1%, methacholine PCy), HLA-DPB1*0301 allele,
+total IgE, atopy, CRS, and urticaria at first visit day. In 2-step cluster analysis, a precluster was obtained at the
+first step according to the sequential clustering approach, and its subclusters were taken at the second step as
+input and then grouped them into the desired number of clusters with the Bayesian Information Criterion.
+Goodness of cluster solution measured a silhouette coefficient which is close to the maximum value 1. We
+selected 3 clinical criteria for phenotypic clusters, which had the highest quality (0.7 silhouette measure of
+cohesion and separation), as atopy, CRS, and urticaria. According to the importance, we obtained the decision
+
+tree using atopy, CRS, and urticaria and identified 4 phenotypic clusters as subtypes.
+
+Statistical analysis
+
+Clinical characteristics of the subtypes were examined by the Fisher exact test and ANOVA with Tukey using
+SPSS version 23.0 (IBM SPSS Statistics, IBM Corporation, Chicago, IL, USA). Pearson’s correlation was used
+for serological markers. The serum and urine levels of LTE4 were applied to a generalized linear model with log
+transformation. For repeated measurements from accumulated medication, a generalized estimating equation
+was applied to calculate odds ratio for asthma exacerbations and possession rate of anti-asthmatic drugs in
+individual subtypes. The forest plot presented odds ratio (OR) with 95% confidence intervals (CI). To verify
+granulocyte features between eosinophils and neutrophils, radar plots presented the relative position among the
+NERD subtypes with respect to the rate of eosinophilia and neutrophilia in peripheral blood and sputum. A P
+
+value of < 0.05 was considered significant.
+
+Results
+
+Phenotypic clusters of NERD
+
+Three nodes (importance: urticaria = 1.00, CRS = 0.77, and atopy = 0.57) were located on decision tree
+according to the relative importance (Fig. 1). Consequently, NERD was found to have 4 distinct subtypes:
+
+subtype 1 (NERD with CRS / atopy and no urticaria, n = 83, 27.5%), subtype 2 (NERD with CRS and no
+
+This article is protected by copyright. All rights reserved.
+urticaria / atopy, n = 84, 27.8%), subtype 3 (NERD without CRS / urticaria, n = 73, 24.2%), and subtype 4
+(NERD with urticaria, n = 62, 20.5%). Prevalence of CRS, atopy and urticaria were summarized in Table 1.
+Prevalence of severe CRS / nasal polyps was 47.0% / 65.1% in subtype 1, 34.5% / 64.3% in subtype 2 and
+27.4% / 35.5% in subtype 4, while no one in subtype 3 had CRS or nasal polyps. Table 1 summarizes the
+differences in clinical findings among the 4 subtypes. The mean age of asthma onset ranged from 40.30 + 14.81
+to 43.86 + 13.05 years, without significant differences among the 4 subtypes. The female proportions were
+found to be 53.0% in subtype 1, 73.8% in subtype 2, 64.4% in subtype 3, and 61.3% in subtype 4 (P = 0.047),
+showing that the female proportion was significantly higher in subtype 2 than in subtype 1 (P = 0.006). There
+was a significant difference in baseline FEV1% between subtypes 1, 2, 3, and 4 (P = 0.008), while asthma onset
+age, follow-up period, duration of asthma, FEV1% fall after Lys-ASA BPT, or methacholine PC) level were
+not significantly different among the 4 subtypes. No significant differences were noted in the prevalence of
+
+HLA-DPB1*0301 allele among the 4 subtypes (P = 0.241).
+
+Comparison of inflammatory and immunologic profiles among the 4 subtypes
+
+Table 2 presents the differences in immunologic and cellular markers among the 4 subtypes. Peripheral and
+sputum eosinophil counts were significantly different among the 4 subtypes (P < 0.001 and P = 0.040,
+respectively); higher peripheral serum and sputum eosinophil counts were noted in subtypes 1 and 2.
+Additionally, the prevalence of peripheral eosinophilia (> 400/uL) and sputum eosinophilia (> 3%) were higher
+in subtypes 1 and 2 (P < 0.001 and P = 0.033, respectively). However, there were no significant differences in
+sputum neutrophil counts. Fig. 2 illustrates a radar chart analyzing relative positions of peripheral and sputum
+eosinophilia/neutrophilia, in which subtypes | and 2 shows relatively higher peripheral/sputum eosinophilia
+than the other subtypes; however almost similar sputum neutrophilia was noted among subtypes 1, 2, and 3.
+There were significant differences in serum total IgE levels among 4 subtypes (P < 0.001). There were no
+significant differences in serum periostin levels among 4 subtypes (P = 0.769). However, a significant positive
+correlation between serum periostin levels and peripheral eosinophil counts was found in subtype 1, not in the
+remaining 3 subtypes (Pearson’s correlation; r = 0.265, P = 0.003 in total NERD patients, r = 0.514, P = 0.001
+in subtype 1, r = 0.074, P = 0.643 in subtype 2, r = 0.359, P = 0.072 in subtype 3, and r = 0.308, P = 0.213 in
+
+subtype 4; data not shown).
+
+This article is protected by copyright. All rights reserved.
+Comparison of serum and urine LTE4 metabolite levels
+
+Fig. 3 presents serum and urine LTE4 metabolite levels among 4 subtypes of NERD compared to ATA. In 4
+NERD subtypes and ATA, serum LTE4 levels were 19.72 + 12.35, 16.91 + 8.32, 22.93 + 23.78, 16.65 + 6.58,
+and 13.59 + 10.10 pg/ml, respectively, and urine LTE4 levels were 4.03 + 7.18, 0.82 + 1.35, 5.71 + 8.78, and
+2.25 + 2.37, 1.18 + 1.59 ng/mg creatinine, respectively. For statistical analysis, log transformation was used to
+normalize LTE4 levels. The serum LTE4 levels were significantly higher in all the subtype of NERD than in
+ATA (P < 0.001, P= 0.010, P = 0.004, and P = 0.021, in subtype 1, 2, 3 and 4 vs. ATA, respectively).
+Compared to ATA, a significantly higher urine LTE4 level was noted in subtype 1 (P = 0.038), while subtype 3
+tended to show a higher serum LTE4 level (P = 0.100). However, compared to subtype 2 in NERD subtypes,
+
+significantly higher urine LTE4 levels were noted in subtypes | and 3 (P = 0.017 and P = 0.035, respectively).
+
+Comparison of medication requirements and asthma exacerbations
+
+Fig. 4 depicts the risk of asthma exacerbation and anti-asthmatic medication use among the 4 subtypes. Subtype
+1 showed a higher asthma exacerbation rate than the remaining 3 subtypes (OR = 2.144 [1.112, 4.132]) with a
+statistically significant difference between subtypes 1 and 3 (P = 0.023). Asthma exacerbation frequency of
+subtype 2 tended to be higher that of subtype 3 (P = 0.114, OR = 1.746 [0.875, 3.484]). The possession rates of
+medium to high dose ICS/LABA were significantly higher in subtypes | and 2 than in subtypes 3 and 4. These
+trends remained unchanged even after high dose ICS/LABA was analyzed separately, which showed significant
+differences in comparison of subtype! vs. 3, subtype | vs. 4 and subtype 2 vs. 3. The possession rate of ICS
+monotherapy was significantly higher in subtype 3 (subtype | vs subtype 3, P = 0.035; subtype 3 vs subtype 4,
+P =0.042). In 4 NERD subtypes, mean value of the possession rates of each anti-asthmatics were 59.6 + 39.0%,
+50.0 + 39.1%, 35.5 + 37.9%, and 36.9 + 38.7% of ICS/LABA (medium to high dose); 15.7 + 32.7%, 9.5 +
+24.0%, 3.3 + 13.5%, and 4.9 + 19.2% of ICS/LABA (high dose); 7.3 + 19.5%, 7.7 + 20.5%, 15.1 + 28.8%, and
+7.5 + 18.3% of ICS monotherapy, in subtype 1, 2, 3 and 4, respectively. There were no significant differences in
+
+short-acting beta agonist use between the 4 subtypes (data not shown).
+
+This article is protected by copyright. All rights reserved.
+Discussion
+
+Several investigators have reported distinct subtypes of asthma using cluster analysis in a cohort of adult
+asthmatics, which suggests that asthma is a heterogeneous disease and that a stratified approach is needed for
+each subtype (21, 31). A recent report in a Polish NERD cohort has suggested that NERD has unique subphenotypes with heterogeneous clinical features using latent class analysis (21). However, in the present study,
+we identified 4 phenotypic clusters in NERD with applying 2-step cluster analysis using 3 representative
+phenotypes, including urticaria, CRS, and atopy. This is the first study to demonstrate the 4 distinct subtypes of
+NERD with specific clinical criteria and long term clinical courses. Each subtype showed distinct features in
+terms of the female proportion, the degree of eosinophilia, LTE4 metabolite levels, asthma exacerbation, and
+severity. It is well known that NERD occurs more commonly in females, especially in middle-aged women (7,
+11). In the present study, although the female proportion was higher in total NERD patients, it showed
+significant differences among the 4 subtypes; the highest female proportion was noted in subtype 2 (73.8%),
+followed by subtypes 3 (64.4%), and subtype 4 (61.3%). The male to female proportion was almost the same in
+subtype 1 (females, 53.0%). Anti-asthmatic drug requirements and asthma exacerbations were compared by
+analyzing all the electronic medical records for maximum 19 years, and significant differences were noted
+among the 4 subtypes. These findings suggest that 4 unique phenotypic clusters of NERD according to the
+presence of urticaria, CRS, and atopy can be applied in clinical practice to predict the clinical features and
+
+courses of individual NERD patients.
+
+It is widely accepted that eosinophils are a major inflammatory cell in upper (CRS/nasal polyps) and lower
+airways of NERD patients (32). Peripheral eosinophilia is found in more than 50% of NERD patients and
+correlated with the severity of CRS (33, 34). A high peripheral eosinophil count is associated with airflow
+restriction, severe symptoms, and frequent asthma exacerbations. ICS and intranasal steroids are used to control
+upper and lower airway inflammation (35, 36). Suppression of peripheral eosinophils has shown to improve
+asthma symptoms and to prevent asthma exacerbations (37). In the present study, the overall prevalence of CRS
+in NERD patients was 65.2%; all the subtype 1 or 2 patients had CRS, while none of the subtype 3 patients and
+48.4% of the subtype 4 patients had CRS. Moreover, mean peripheral and sputum eosinophil counts were
+higher in all the NERD patients, both of which were significantly higher in subtypes | and 2, indicating that
+subtypes! and 2 may represent the clinical phenotype of NERD as previously described by Samter’s triad (11).
+
+In subtype 1, all the patients were atopic; therefore, the allergen-Th2-driven pathway could be a major
+
+This article is protected by copyright. All rights reserved.
+mechanism for the activation of eosinophils. However, subtype 2 patients were all non-atopic, but had CRS with
+higher peripheral and sputum eosinophilia. A recent review has demonstrated that LTD, and PGD, triggered by
+respiratory infections or air pollutants could activate type 2 innate lymphoid cells (ILC2), subsequently leading
+to the activation of eosinophils (38), which suggests that ILC2-driven eosinophil activation may play a major
+role in the airway inflammation of subtype 2 of NERD. These findings indicate that mechanisms for eosinophil
+activation may vary according to the subtypes of NERD, which should be further investigated to better control
+the upper and lower airway inflammation of NERD. In the present study, the degree of sputum neutrophilia was
+similar among subtypes 1, 2 and 3. However, subtype 3 showed relatively lower peripheral and sputum
+eosinophil counts with similar sputum neutrophil counts compared to subtypes | and 2, and none of them had
+CRS. Since mechanisms for neutrophil activation are not completely understood in NERD, further studies on
+anti-IL17 antibody may be needed to control neutrophilic inflammation (39). Atopy is a predisposing factor for
+adult asthma and aspirin-induced urticaria (40). In the present study, the atopy rate and the total IgE level were
+higher in subtype 1 (100%) than in subtype 2. The atopy rates in subtypes 3 and 4 were 60.3% and 64.5%,
+respectively. These findings suggest that atopy may contribute to the induction of Th2-driven eosinophilic
+inflammation in subtypes 1, 3 and 4. Further investigations are needed to understand the mechanisms for
+
+eosinophil and neutrophil activations according to the each subtype of NERD.
+
+It is well known that NERD patients are significantly associated with acute/chronic urticaria (40, 41). In the
+present study, the overall prevalence of urticaria was 20.5%, in which NECD was found in 9.3% and NIUA was
+found in 4.9%, and none of patients in subtypes 1, 2 and 3 had urticaria. Moreover, lesser asthma severity and a
+lower frequency of asthma exacerbations were observed in subtype 4. As compared to the remaining 3 subtypes,
+subtype 4 patients had a lower peripheral eosinophil count and a lesser drug requirement with higher FEV1%
+value. These findings suggest that compared to the other subtypes, subtype 4 is a unique subtype of NERD.
+Considering that mast cells are a major effector cell in NECD, NIUA and other types of urticaria (40) and that
+atopy is a predisposing factor for both NECD and NIUA (42), these findings suggest that atopy could contribute
+
+to mast cell activation which may play a major role in urticaria development in subtype 4.
+
+It has been reported that NERD present with moderate to severe asthma (40, 41). Patients with a higher
+endoscopy score of the para-nasal sinuses, a lower lung function, a higher blood eosinophil count, and a more
+frequent OCS/ICS use suffer from more frequent asthma exacerbations (43). In the present study, although
+
+%fall of FEV1 after Lys-ASA BPT and PC) methacholine values were not significantly different among the 4
+
+This article is protected by copyright. All rights reserved.
+subtypes, the baseline FEV1% value was lower in subtypes 1, 2 and 3 compared to subtype 4. The frequency of
+asthma exacerbations and anti-asthmatic medication requirements, including medium to high dose ICS/LABA,
+were higher in subtype | and 2 patients. This may be associated with a significantly higher peripheral and
+sputum eosinophil counts, and higher prevalence of CRS in subtype | and 2 patients, because all the subtype |
+or 2 patients had CRS as a major comorbid condition which could have affected asthma exacerbations.
+Moreover, compared between subtype | and 2 patients, all the subtype | patients had atopy, which could have
+affected poor asthma control and frequent exacerbations. These findings suggest that clinical severity and
+courses differ between the 4 subtypes of NERD: subtype | and 2 patients could present with more severe
+clinical course due to frequent asthma exacerbations and require high dose anti asthmatic medications, including
+ICS and systemic steroids, to control their symptoms, while subtype 3 and 4 patients may have a less severe
+clinical course with less frequent asthma exacerbations and drug requirement. To reduce asthma exacerbation
+and minimize systemic steroid use in subtypes | and 2 patients, further interventions with applying biologics are
+
+needed to improve their control status,
+
+The present study compared 2 known biomarkers, serum periostin and HLA DPB1*0301, among the 4 subtypes
+of NERD. The serum periostin level is reported to be a significant serum biomarker predicting the phenotype of
+NERD compared to ATA (29). However, we could not find any significant differences among 4 subtypes. A
+significant correlation between the serum periostin level and the peripheral eosinophil count was noted only in
+subtype 1. The prevalence of HLA-DPB1*0301, which is a significant gene marker of NERD, did not
+significantly differ among the 4 subtypes, suggesting that serum periostin and HLA-DPB1*0301 may not be
+biomarkers differentiating the 4 subtypes of NERD. Next, we compared the serum and urine levels of LTE4
+metabolite levels. Compared to ATA, significantly higher serum LTE4 metabolite levels were noted in the 4
+subtypes of NERD, while no significant differences were noted among the 4 subtypes. However, significantly
+higher urine LTE4 metabolite levels were noted in subtypes | and 3 than in subtype 2, indicating that
+leukotriene overproduction, a key finding of NERD, is more prominent in subtypes | and 3. Previous studies
+have suggested that asthmatic patients having higher urinary LTE4 levels respond to leukotriene modifiers (7,
+17). Although sample size are not large enough to evaluate their clinical significance, these findings suggest that
+the serum LTE4 metabolite level may be a potential serum biomarker for differentiating NERD from ATA
+among asthmatic patients, while the urine LTE4 metabolite level may be a useful biomarker for differentiating
+subtypes 1 and 3 among NERD patients and that leukotriene modifiers may be more beneficial to control airway
+
+inflammation in these two subtypes. Stratified strategies can be employed in the management of NERD patients
+
+This article is protected by copyright. All rights reserved.
+on the basis of clinical, cellular, and biochemical measures, especially serum and urine LTE4 metabolite levels.
+Further studies on the pathogenic mechanisms for each subtype are needed to elucidate new targets for
+individual subtypes. The limitation of this study is smaller sample sizes for the measurement of serum and urine
+LTE4 metabolite levels, however, it was validated in a second cohort of asthma patients. In addition, this is the
+largest cohort of NERD comprising 302 NERD patients who were confirmed by positive L-ASA BPT result.
+This is the first study to compare all the clinical, cellular, and immunologic findings, as well as two biomarkers,
+the mean frequency of asthma exacerbation and anti-asthmatic medication requirements per a year among the 4
+
+subtypes of NERD for the follow up period of each group.
+
+In conclusion, we demonstrated the 4 distinct subtypes of NERD by applying 2-step cluster analysis. Each
+subtype showed different clinical/cellular/biochemical findings and asthma severity/exacerbation. It is
+concluded that stratified strategies according to subtype classification may help achieve better clinical outcomes
+
+in the management of NERD.
+
+References
+
+Ls JP Rajan, Wineinger NE, Stevenson DD, White AA. Prevalence of aspirin-exacerbated
+respiratory disease among asthmatic patients: A meta-analysis of the literature. J Allergy Clin
+Immunol 2015;135:676-681 e671.
+
+2. YJ Kim, Lim KH, Kim MY, Jo EJ, Lee SY, Lee SE, et al. Cross-reactivity to Acetaminophen
+and Celecoxib According to the Type of Nonsteroidal Anti-inflammatory Drug Hypersensitivity.
+Allergy Asthma Immunol Res 2014;6:156-162.
+
+3. M Kowalski, Asero R, Bavbek S, Blanca M, Blanca-Lopez N, Bochenek G, et al.
+Classification and practical approach to the diagnosis and management of hypersensitivity to
+nonsteroidal anti-inflammatory drugs. Allergy 2013;68:1219-1232.
+
+4. M Kowalski, Makowska J, Blanca M, Bavbek S, Bochenek G, Bousquet J, et al.
+Hypersensitivity to nonsteroidal anti-inflammatory drugs (NSAIDs)-classification, diagnosis and
+management: review of the EAACI/ENDA# and GA2LEN/HANNA. Allergy 2011;66:818-829.
+
+5: A Szezeklik, Nizankowska E, Duplaga M. Natural history of aspirin-induced asthma. AIANE
+Investigators. European Network on Aspirin-Induced Asthma. Eur Respir J 2000;16:432-436.
+
+6. LM Teran, Holgate ST, Park HS, Sampson AP. Aspirin exacerbated respiratory disease. J
+Allergy 2012;2012:473863.
+
+a NS Palikhe, Kim JH, Park HS. Update on recent advances in the management of aspirin
+exacerbated respiratory disease. Yonsei Med J 2009;50:744-750.
+
+This article is protected by copyright. All rights reserved.
+8. M Kowalski, Cieslak M, Pérez-Novo C, Makowska J, Bachert C. Clinical and immunological
+determinants of severe/refractory asthma (SRA): association with Staphylococcal
+superantigen-specific IgE antibodies. Allergy 2011;66:32-38.
+
+9: RA Simon. Treatment of patients with respiratory reactions to aspirin and nonsteroidal antiinflammatory drugs. Curr Allergy Asthma Rep 2004;4:139-143.
+
+10. AA White, Stevenson DD, Simon RA. The blocking effect of essential controller medications
+during aspirin challenges in patients with aspirin-exacerbated respiratory disease. Ann Allergy Asthma
+Immunol 2005;95:330-335.
+
+ink JH Choi, Kim JH, Park HS. Upper airways in aspirin-exacerbated respiratory disease. Curr
+Opin Allergy Clin Immunol 2015;15:21-26.
+
+12. GS Choi, Kim JH, Shin YS, Ye YM, Kim SH, Park HS. Eosinophil activation and novel
+mediators in the aspirin-induced nasal response in AERD. Clin Exp Allergy 2013;43:730-740.
+
+13. M Nabavi, Esmaeilzadeh H, Arshi S$, Bemanian MH, Fallahpour M, Bahrami A, et al. Aspirin
+hypersensitivity in patients with chronic rhinosinusitis and nasal polyposis: Frequency and
+contributing factors. American J of Rhinology & Allergy 2014;28:239-243.
+
+14. I Dona, Blanca-Lopez N, Cornejo-Garcia JA, Torres MJ, Laguna JJ, Fernandez J, et al.
+Characteristics of subjects experiencing hypersensitivity to non-steroidal anti-inflammatory drugs:
+patterns of response. Clin Exp Allergy 2011;41:86-95.
+
+15. JH Kim, Choi GS, Kim JE, Jin HJ, Ye YM, Kim SH, et al. Clinical course of patients with
+aspirin-exacerbated respiratory disease: can we predict the prognosis? Pharmacogenomics
+2014;15:449-457.
+
+16. L Mastalerz, Nizankowska E, Sanak M, Mejza F, Pierzchalska M, Bazan-Socha §S, et al.
+Clinical and genetic features underlying the response of patients with bronchial asthma to treatment
+with a leukotriene receptor antagonist. Eur J of Clin Inv 2002;32:949-955.
+
+17. Y Kanaoka, Boyce JA. Cysteinyl leukotrienes and their receptors; emerging concepts. Allergy
+Asthma Immunol Res 2014;6:288-295.
+
+18. S-M Park, Park JS, Park H-S, Park C-S. Unraveling the genetic basis of aspirin
+hypersensitivity in asthma beyond arachidonate pathways. Allergy Asthma Immunol Res 2013;5:258276.
+
+19. T-J Park, Kim J-H, Pasaje CF, Park B-L, Bae JS, Uh S-T, et al. Polymorphisms of ATF6B are
+potentially associated with FEV1 decline by aspirin provocation in asthmatics. Allergy Asthma
+Immunol Res 2014;6:142-148.
+
+20. HS Chang, Park J-S, Jang A-S, Park S-W, Uh S-T, Kim YH, et al. Diagnostic value of
+clinical parameters in the prediction of aspirin-exacerbated respiratory disease in asthma. Allergy
+Asthma Immunol Res 2011;3:256-264.
+
+21. G Bochenek, Kuschill-Dziurda J, Szafraniec K, Plutecka H, Szczeklik A, NizankowskaMogilnicka E. Certain subphenotypes of aspirin-exacerbated respiratory disease distinguished by
+latent class analysis. J Allergy Clin Immunol 2014;133:98-103 e101-106.
+
+22. HS Park. Early and late onset asthmatic responses following lysine-aspirin inhalation in
+aspirin-sensitive asthmatic patients. Clin Exp Allergy 1995;25:38-40.
+
+23. ML Kowalski, Makowska JS. Seven steps to the diagnosis of NSAIDs hypersensitivity: how
+to apply a new classification in real practice? Allergy Asthma Immunol Res 2015;7:312-320.
+
+This article is protected by copyright. All rights reserved.
+24. NS Palikhe, Kim S-H, Kim J-H, Losol P, Ye Y-M, Park H-S. Role of toll-like receptor 3
+variants in aspirin-exacerbated respiratory disease. Allergy Asthma Immunol Res2011;3:123-127.
+
+25. HY Lee, Lee JW, Lee KW, Park MH, Park HS. The HLA allele marker for differentiating
+ASA hypersensitivity phenotypes. Allergy 2009;64:1385-1387.
+
+26. GY Hur, Sheen SS, Kang YM, Koh DH, Park HJ, Ye YM, et al. Histamine release and
+inflammatory cell infiltration in airway Mucosa in methylene diphenyl diisocyanate (MDI)-induced
+occupational asthma. J Clin Immunol 2008;28:57 1-580.
+
+27. A-S Jang, Choi I-S, Park C-S. Immunohistochemically stained activated eosinophils in
+sputum in patients with asthma. Respiration 2000;67: 183-188.
+
+28. GY Ban, Pham D, Trinh T, Lee SI, Suh DH, Yang EM, et al. Autophagy mechanisms in
+sputum and peripheral blood cells of patients with severe asthma: a new therapeutic target. Clin Exp
+Allergy 2016;46:48-59.
+
+29. MA Kim, Izuhara K, Ohta S, Ono J, Yoon MK, Ban GY, et al. Association of serum periostin
+with aspirin-exacerbated respiratory disease. Ann Allergy Asthma Immunol 2014;113:314-320.
+
+30. J Tanton, Dodd LJ, Woodfield L, Mabhala M. Eating Behaviours of British University
+Students: A Cluster Analysis on a Neglected Issue. Adv Prev Med 2015;2015:639239.
+
+a1. WC Moore, Meyers DA, Wenzel SE, Teague WG, Li H, Li X, et al. Identification of asthma
+phenotypes using cluster analysis in the Severe Asthma Research Program. Am J Respir Crit Care
+Med 2010;181:315-323.
+
+32. SM Park, Park JS, Park HS, Park CS. Unraveling the genetic basis of aspirin hypersensitivity
+in asthma beyond arachidonate pathways. Allergy Asthma Immunol Res 2013;5:258-276.
+
+33. CR Fountain, Mudd PA, Ramakrishnan VR, Sillau SH, Kingdom TT, Katial RK.
+Characterization and treatment of patients with chronic rhinosinusitis and nasal polyps. Ann Allergy
+Asthma Immunol 2013;111:337-341.
+
+34. SA Poznanovic, Kingdom TT. Total IgE levels and peripheral eosinophilia: correlation with
+mucosal disease based on computed tomographic imaging of the paranasal sinus. Arch Otolaryngol
+Head Neck Surg 2007;133:701-704.
+
+35. MA Tosca, Silvestri M, Solari N, Rossi GA, Ciprandi G. Inflammation Markers and FEF2575: A Relevant Link in Children With Asthma. Allergy Asthma Immunol Res 2016;8:84-85.
+
+36. SH Lee. Mechanisms of Glucocorticoid Action in Chronic Rhinosinusitis. Allergy Asthma
+Immunol Res 2015;7:534-537.
+
+37. PA Wark, McDonald VM, Gibson PG. Adjusting prednisone using blood eosinophils reduces
+exacerbations and improves asthma control in difficult patients with asthma. Respirology 2015.
+
+38. BN Lambrecht, Hammad H. The immunology of asthma. Nat Immunol 2015;16:45-56.
+
+39. T Saitoh, Kusunoki T, Yao T, Kawano K, Kojima Y, Miyahara K, et al. Role of interleukin17A in the eosinophil accumulation and mucosal remodeling in chronic rhinosinusitis with nasal
+polyps associated with asthma. Int Arch Allergy Immunol 2010;151:8-16.
+
+40. P Losol, Yoo HS, Park HS. Molecular genetic mechanisms of chronic urticaria. Allergy
+Asthma Immunol Res 2014;6:13-21.
+
+41. A Romano, Torres MJ, Castells M, Sanz ML, Blanca M. Diagnosis and management of drug
+hypersensitivity reactions. J Allergy Clin Immunol 2011;127:S67-73.
+
+This article is protected by copyright. All rights reserved.
+42. M Sanchez-Borges, Capriles-Hulett A. Atopy is a risk factor for non-steroidal antiinflammatory drug sensitivity. Annals of Allergy, Asthma & Immunology 2000;84:101-106.
+
+43. JC de Groot, Amelink M, de Nijs SB, Plaat R, Reitsma BH, Storm H, et al. Risk Factors for
+Frequent Severe Exacerbations in Late-Onset Eosinophilic Asthma. Am J Respir Crit Care Med
+2015;192:899-902.
+
+Figure Legends
+
+Figure 1. Decision tree of the 4 NERD subtypes
+
+Figure 2. Radar chart comparing the degree of peripheral/sputum eosinophilia and neutrophilia in 4 NERD
+
+subtypes.
+
+Figure 3. Comparison of serum and urine LTE4 metabolite levels among 4 NERD subtypes and ATA patients.
+
+Figure 4. The forest plot of odds ratio for asthma exacerbations and the possession rate of anti-asthmatic
+
+medications.
+
+This article is protected by copyright. All rights reserved.
+Table 1.Comparision of clinical characteristics among the 4 subtypes of NERD
+
+ 
+
+ 
+
+ 
+
+Total Subtype 1 Subtype 2 Subtype 3 Subtype 4 P value
+(n=302) (n=83) (n=84) (n=73) (n=62) Overall Ivs2 Ivs3. Ivws4  Qvs3 2vs4. 3vs4
+Age ofasthma onset(y) «36.71 £1429 382621373 371621432 347421497 365521420 05520970 04900920 0.759 0.996. 0.909
+Age (yt) 42.45 414.00 43.644 13.02 438641305 40.304 14.81 41.48 415.41 0.327 1.000 0447» =««0.795—s«0387—Ss«742—s«é961
+Female (%) 191 63.25) 44 (53.01) 62.(73.81) 47 (64.38) 38 (61.29) ed
+Follow-up duration (yr) 7.22#5.15 8.22+5.24 7.53 #5.30 6.23 £5.29 6.57 # 4.46 0.085 0836 0.094 0248 0434 0.706 0.983
+Duration of asthma (yr) 6.21#6.18 6.20 + 5.84 7.28 #7.14 5.61 #5.45 5.47 £6.07 0335 ©0733 ~=S«0.948 = (0.922,-s«0400Ss«03968.—SS«0.999
+Urticaria (%) 62 (20.53%) /302 00%) /83 0. (0%)/84 0%)/73  62(100%)/62 —-<0.001 - - <0.001 - <0.001 — <0.001
+30 (48.39%) /
+CRS (%) 197 (65.23%) /302 83 (100%)/83  84.(100%)/84 00%) /73 <0.001 7 <0.001  <0.001 ~—-<0.001._-~—s <0.001._~—S <0.001
+Atopy (%) 167 (55.3%) /302  83(100%)/83 0. (0%) / 84 OMT)! ACEO) 001 -<0.001-—<0.001_<0.001_-—<0.001.-—<0.001_——0.722
+HLA DPB1*0301 (%) 53 (20.78)/255  17(22.37)/76 —19(25.00)/76 7 (12.07)/58 11 (24.44) 450.241 1.000 0.172 «0.826 ~——0.117 1.000 0.121
+FEV1% adivaetia fagg SSDS 22OR! BARA DRORY BNR TOL PEARS ISTE Ot 0.994 0.788 0.046 0.650 0.089 0.005
+FEV1% fall after Lys- 21.57#10.89/ 22.75 #11.96/ 21.93 £1154/ 21.28 +9.36/ 19.67 10.15/
+ate so * “) se “4 0509 0974 0875 0444 0.990 0.727 0.879
+Methacholine PCsp 9.49£26.29/244  5.80216.7/67 OOLS RB 21/ 1309S TIL 94981587 g.4g7 9.797 040908690916 1.000 0.887
+(mg/mL)
+
+ 
+
+Mean+standard deviation. Lys-ASA BPT, lysine-aspirin bronchoprovocation test; HLA, human leukocyte antigen; Methacholine PC, provocative concentration causing a 20% fall in FEV1%. All parameters were
+
+initial data.
+
+This article is protected by copyright. All rights reserved.
+Table 2.Comparision of immunologic and cellular profiles among the 4 subtypes of NERD
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Subtype 1 Subtype 2 Subtype 3 Subtype 4 P value
+
+(n=302) (n=83) (n=84) (n=73) (n=62) Overall Ivs.2 1vs.3  Ivs4 2vs3  2vs4 3vs.4
+Peripheral eosinophil count 407.88+42047/  486.674372.70/ 513.774544.31/ 342.17439246/ 245.12 + 242.54/
+ul) 335 a EB és 36 <0.001 0.977 0.154 0.004 0.068 ~=—-0.001_— 0.551
+Sputum eosinophil (%) 24.00 + 35.29/200 31.21 +37.55/61 28.23+38.59/56 13.52+28.60/46 18.70 +30.8637 0.040 0.967 0.049 0.314. 0.149 0.569 0.907
+Sputum neutrophil (%) 57.34 34.62/149 54.57 +35.73 /49 66.79 + 34.96/34 55.85 + 30.32/26 0.343 0.999 0.391 0.999 0.365. :0.994 0.618
+ona eosinophilia: (> 106 (38.55) / 275 43 (55.13) /78 34 (46.58) / 73 18 (27.69) / 65 11 (18.64)/59 —<0.001_--0.330-=Ss«0.001_~—s <0.001_~—«0.034—Ss«0.001_~—0.290
+Sputum eosinophilia (%, > 3%) 87 (43.50) / 200 34 (55.74) / 61 26 (46.43) / 56 13 (28.26) / 46 14 (37.84)/37 0.033. 0.357.006 = 0.099 0.069 0.522 0.480
+an neptrophilia (> 79 (53.02) / 149 24 (48.98) / 49 20 (50.00) / 40 23 (67.65) / 34 12 (46.15) / 26 0.278 1.000 0.117 1.000 0.159 0.805 0.118
+
+lo
+Foal 374.08 +511.63/ 571.66 + 731.08/ 212.55 +261.58/  354.58+397.65/ 345.54 440.71/ 9 yy) coool 0.036-:0.038.—=—«291.-«0384——«1.000
+8 298 83 82 71 62
+
+ECP (ug/L) 27.97 +35.20/208 29.60 + 31.32/61 30.82+36.58/66 23.68 +37.18/44 25.29+37.07/37 0.702 0.997 0.832 0.937 —0.728-~—«0.872—S«0.997
+Periostin (ng/mL) 83.97 + 37.77/124 85.15 + 40.39/38 82.71 + 34.95/42 79.27 37.80/26 91.22 + 40.31/18 0.769 0.992 0.930 0.944 0.984. 0.857 0.736
+
+ 
+
+Mean + standard deviation. ECP, eosinophil cationic protein
+
+This article is protected by copyright. All rights reserved.
+NERD (n=302)
+
+<a Importance=1.00
+
+No (n=240) Yes (n=62)
+
+Importance=0.77
+
+Yes (n=167) No (n=73)
+
+oR Importance=0.57
+
+Yes (n=83) No (n=84)
+
+Subtype |
+
+0.50
+
+Subtype 4 Subtype 2
+
+ 
+
+—o— Peripheral eosinophilia (>400)
+- A- Sputum eosinophilia (%, >3%)
+
+Subtype 3 —e— Sputum neutrophilia (%, 65%)
+
+This article is protected by copyright. All rights reserved.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+134 2
+i = 0504
+= 0.254
+B12] I 2°
+rs Fa
+A
+0.004
+: 5
+Lig i
+0.254
+: E
+5
+gt) i -0.505
+F gas
+09 r T Tr + T Tr T v r
+1 2 3 4 ATA 2 3 4 ATA
+(n=31) (n=25) (n=21) (n=17) (n=94) (n=10) (n=7) (n=8) (n=11) (n=37)
+NERD subtype NERD subtype
+Serum LTE4 Fd OR 95% Cl tod OR 95% Cl Urine LTES PP OR 95% Cl dl OR 95% C1
+Subtype 1 <0.001 1.260 (I.111, 1.429) 0.399 1.084 (0.933, 1.191) Subtype | 0.038 1.529 (1.023, 2.286) 0.017 2.115 (1.145, 3.909)
+Subtype2 0.010 1.196 (1.043, 1.371) Reference Subtype 2 0.171 0.723 (0.454, 1.151) Reference
+Subtype 3 0.004 1.243 (1.073, 1.439) 0.574 1.039 (0.909, 1,189) Subtype 3 0.100 1.446 (0.932, 2.244) 0.035 2.000 (1.049, 3.811)
+Subtype 4 0.021 1.207 (1.028, 1.416) 0.903 1.009 (0.875, 1.164) Subtype 4 0.196 1.291 (0.877, 1.902) 0.059 1.786 (0.978, 3.262)
+ATA Reference : ATA Reference :
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved.
+Subtype
+lvs2
+lvs3
+lvs4
+
+Asthma exacerbations
+2 vs 3
+2vs4
+3vs4
+lvs2
+lvs3
+
+ICS/LABA 4
+
+(medium to high dose) 3483
+
+2vs4
+3vs4
+l vs 2
+lvs3
+
+ICS/LABA liye 4
+
+(high dose) me
+
+2vs4
+3vs4
+lys2
+lvs3
+lvs4
+ICS alone
+2 vs 3
+2vs4
+
+3vs4
+
+-0.5 0 0.5
+Log odds ratio
+
+This article is protected by copyright. All rights reserved.
+
+P-value Odds ratio
+
+0.524
+0.023
+0.302
+0.114
+0.733
+0.187
+0.036
+<0.001
+<0.001
+0.004
+0.021
+0.826
+0.098
+<0.001
+0.003
+0.016
+0.110
+0.508
+0.823
+0.035
+0.902
+0.054
+0.914
+
+0.042
+
+1.228
+2.144
+1.372
+1.746
+1.118
+0.640
+1.101
+1.272
+1.255
+1.156
+1.140
+0.987
+1.064
+1132
+1.114
+1.064
+1.047
+0.984
+0.995
+0.925
+0.998
+0.929
+1.002
+
+1.078
+
+95% CI
+
+(0.653 , 2.311)
+
+(112
+
+(0.752
+
+(0.875 ,
+
+(0.590
+
+(0.330 ,
+
+(1.006
+(1.151
+(1.121
+(1.047
+(1.020
+(0.875
+
+>
+
+(0.989 ,
+
+(1.058
+(1.037
+(1.012
+(0.990
+(0.938
+(0.955
+(0.861
+(0.961
+(0.863
+(0.961
+(1.003
+
+>
+
+4.132)
+2.503)
+3.484)
+2.117)
+1.242)
+1.205)
+1.406)
+1.406)
+1.275)
+1.275)
+1.112)
+1.145)
+1.211)
+1.197)
+1.119)
+1.108)
+1.032)
+1.037)
+0.994)
+1,036)
+1.001)
+1.045)
+1.160)
+

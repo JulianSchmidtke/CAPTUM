@@ -1,0 +1,981 @@
+OZ0z/SO/11 Uo =361SH98A 4Z>IBE GAMA VOLPO NEIOPLASALL Mel POG EGHLONIAO AUN XOMAOUOINXPOHISEZaU TION ePNJOILUNOAZ Ae YH aGHuaua Aq jeUINof-puy woo my sjeuunoly:dyy Woy PapeqUMOG
+
+Medicine
+
+OBSERVATIONAL STUDY
+
+ 
+
+Loren |
+
+Serum Clusterin as a Prognostic Marker of Chronic
+Spontaneous Urticaria
+
+Ji-Hye Kim, MD, Hyung-Young Lee, PhD, Ga-Young Ban, MD, Yoo-Seob Shin, MD, PhD,
+Hae-Sim Park, MD, PhD, and Young-Min Ye, MD, PhD
+
+ 
+
+Abstract: A substantial proportion of patients with chronic spontaneous urticaria (CSU) are refractory to antihistamines. However,
+identifying the subpopulation whose urticaria is not completely controlled by antihistamines remains difficult. The response of autologous
+serum skin test (ASST), a clinical test for the detection of basophil
+histamine-releasing activity upon autoantibodies or autoreactive stimulation, has been suggested as a potential predictor in the control of
+urticaria. We sought to identify proteins that were differentially
+expressed in the sera of patients with positive and negative ASST
+results and to investigate their association with urticaria control.
+
+Proteomics analysis was performed using sera from 3 CSU patients
+with positive ASST results compared with those showing negative
+ASST results. Seven upregulated and 5 downregulated proteins were
+identified by matrix-assisted laser desorption/ionization time-of-flight
+mass spectrometry in the ASST-positive group compared with the
+ASST-negative group.
+
+Proteins that were differentially expressed according to the ASST
+results in CSU patients were classified into 6 groups: apolipoproteins,
+glycoproteins, modified albumin, haptoglobulin, plectin, and others.
+Among these, apolipoprotein J or clusterin was validated using an
+enzyme-linked immunosorbent assay. Clusterin levels in 69 ASSTpositive patients were significantly higher than those in 69 ASSTnegative patients and in 86 healthy controls (231.2+44.0 vs
+210.2 + 36.1 vs 118.7+71.9 wg/mL, P < 0.001). Furthermore, clusterin
+levels differed significantly between patients with responsive and
+refractory responses to antihistamine treatment within 3 months
+(231.0+39.1 vs 205.1+40.4 g/mL, P<0.001). ASST results and
+serum clusterin levels can predict 92.7% of CSU patients whose
+urticaria would be refractory to antihistamines. Serum clusterin can
+be a prognostic marker to determine the responsiveness to antihistamine
+treatment in patients with CSU.
+
+(Medicine 95(19):e3688)
+
+Abbreviations: ASST = autologous serum skin test, AUC = area
+under the curve, BSA = body surface area, C3 = complement 3,
+
+ 
+
+Editor: Daisuke Tokuhara.
+
+Received: November 11, 2015; revised: April 13, 2016; accepted: April 22,
+
+2016.
+
+From the Department of Allergy and Clinical Immunology, Ajou
+
+University School of Medicine, Suwon, Korea.
+
+Correspondence: Young-Min Ye, Department of Allergy and Clinical
+Immunology, Ajou University School of Medicine, 164 Worldcup-ro,
+Yeongtong-gu, Suwon 443-721, Korea (e-mail: ye9007@ajou.ac.kr).
+
+This work was supported by grants from the National Research Foundation
+of Korea, funded by the Korean Government (MSIP: NRF2012R1A5A2048183).
+
+The authors have no conflicts of interest to disclose.
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+This is an open-access article distributed under the terms of the Creative
+
+Commons Attribution-Non Commercial License 4.0 (CCBY-NC), where it
+
+is permissible to download, share, remix, transform, and buildup the work
+
+provided it is properly cited. The work cannot be used commercially.
+
+ISSN: 0025-7974
+
+DOI: 10.1097/MD.0000000000003688
+
+ 
+
+Medicine * Volume 95, Number 19, May 2016
+
+C4 = complement 4, CI = confidence interval, CSU = chronic
+spontaneous urticaria, ELISA = enzyme-linked immunosorbent
+assay, HIRA = histamine 1-receptor antagonist, IgE =
+immunoglobulin E, MALDI-TOF/TOF MS = matrix-assisted
+laser desorption/ionization time-of-flight mass spectrometry, NC
+= normal control, OR = odds ratio, ROC = receiver-operating
+characteristics, ROS = reactive oxygen species, UAS = urticaria
+activity score.
+
+INTRODUCTION
+
+hronic spontaneous urticaria (CSU) is a common skin
+
+disorder that negatively affects the quality of life in most
+patients; however, no specific trigger has been identified.
+Previous epidemiological studies have reported that CSU has
+a point prevalence of 0.1% to 1.0% in the general population.?*
+However, CSU seems to be increasing, with a recent questionnaire survey reporting a prevalence of 1.8%.4
+
+CSU displays heterogeneity in clinical phenotypes,
+causes, and therapeutic responses. CSU is defined as a persistent or recurrent condition of the skin in which various
+and mostly unidentified triggers lead to the degranulation
+of mast cells. In addition to IgE and antigen complexes, a
+variety of IgE-independent stimuli, including neuropeptides,
+complements, products of infectious agents, and oxidative
+stress, can activate mast cell degranulation and cytokine
+production.*°
+
+CSU is generally recognized as a nonserious disease, with
+an average duration of 2 to 5 years.° However, the severity
+of the disease is likely to correlate with its duration.*
+Recent international guidelines on the management of CSU
+recommend a stepwise treatment.'” After avoiding triggers,
+symptomatic pharmacological treatment with nonsedating
+antihistamines to reduce the effect of mast cell mediators is
+universally applied to all CSU patients.
+
+Angioedema, severe CSU, and antithyroid antibodies have
+been identified as factors associated with a longer duration of
+disease.°* A 6-month prospective observational study reported
+that a positive autologous serum skin test (ASST)—a clinical
+test for the detection of basophil histamine-releasing activity
+upon autoantibody or autoreactive stimulation—was a potential
+predictor for well-controlled CSU.° Considering that at least
+one-third of CSU patients are not satisfied with antihistamines
+alone, it is important for patients with CSU to relieve their
+disease activity with immediate application of an optimal
+treatment. However, to date, no reliable prognostic marker
+for guiding the optimal treatment for CSU patients at the
+appropriate time has been suggested.
+
+This study aimed to identify proteins that are differentially
+expressed in the sera between patients with positive and negative ASST results, and to validate their clinical utility for
+predicting therapeutic responses to antihistamines in patients
+with CSU.
+
+www.md-journal.com 11
+Kim et al
+
+Medicine * Volume 95, Number 19, May 2016
+
+ 
+
+MATERIALS AND METHODS
+Subjects
+
+We performed a hospital-based cross-sectional study on
+138 CSU patients (101 females, 37 males; median age, 39 years;
+range, 19-72 years) and 86 healthy controls (42 females;
+
+median age, 37.5 years; range, 27-66 years). Subjects > 19
+years and CSU patients having wheals and itching for at least 6
+weeks were recruited. Patients with other chronic skin diseases
+
+ 
+
+physically induced urticaria were excluded. All subjects submitted a written informed consent form at the time of their
+enrollment into the present study. Normal controls (NCs) had no
+previous history of inflammatory or allergic skin diseases
+or urticaria.
+
+Assessment of Urticaria Activity Scores and
+Therapeutic Responses
+
+The disease activity of CSU was sed using the UAS
+within the last week of the outpatient clinic visit, yielding a total
+score of 0 to 15.!° The UAS was determined by numbers,
+distribution range, mean diameter, and duration of wheals and
+intensity of pruritus within the last week of outpatient clinic
+
+sits. Patients having UAS scores > 13 at enrollment were
+classified as having severe CSU.
+
+Patients were categorized based on clinical response to
+antihistamines within 3 months after the enrolment as: responsive CSU was defined in patients whose urticaria symptoms
+responded well to antihistamines; patients in the refractory CSU
+group had persistent symptoms even with increasing antihistamines up to 4-fold.
+
+ 
+
+  
+
+Autologous Serum Skin Test
+
+Antihistamines were withdrawn for more than 5 days
+before collecting autologous sera. An ASST was performed
+according to the EAACI/GA2LEN task force consensus
+report.'' We defined a positive result when a wheal induced
+by 50L of autologous serum at 30 min after injection intradermally was more than 1.5mm greater than that induced by
+same volume of saline.
+
+Serum Proteomics Analysis
+
+To determine proteins that were differentially expressed
+among 3 patients with either positive or negative ASST results,
+we performed 2-dimensional electrophoresis on sera after
+completion of the ASST as described previously.'*"!> The
+relative abundance of the proteins was quantified in a sequential experiment from staining to analyzing densities of the
+stained gels. Coomassie Brilliant Blue G-250 (Bio-Rad, Hercules, CA)-stained gels were scanned using a GS-710 imaging
+densitometer (Bio-Rad) and then analyzed with Image Master
+Platinum 5 (GE Healthcare, Piscataway, NJ). Protein spots
+that increased more than 2-fold in ASST-positive patients
+compared with ASST-negative patients were selected for
+mass spectrometry (MS) analysis. Spots of interest were carefully excised from the gels and then digested With trypsin
+(Promega, Madison, NJ) as described previously.'? To identify
+the selected protein spots, matrix-assisted laser desorption/
+ionization time-of-flight MS (MALDI-TOF MS) was used.
+Conducting collision-induced dissociation method with atmospheric air as the collision gas, we fragmented peptide under
+MS/MS mode. We operated the instrument in reflectron mode
+and calibrated it using the 4800 calibration mixture (Applied
+
+ 
+
+2 | www. md-journal.com
+
+Biosystems, Foster city, CA, USA). Of course, each sample
+spectrum was further calibrated by trypsin autolysis peaks.
+Mascot and the Swiss-Prot and National Center for Biotechnology Information databases (http://www.matrixscience.
+com) were used for matching peptide and searching protein.
+
+ 
+
+Measurement of Clusterin in Sera From CSU
+Patients and NCs
+
+The serum levels of clusterin (R&D Systems, Minneapolis,
+MN) in patients with positive and negative ASST responses and
+NCs were measured using an enzyme-linked immunosorbent
+assay kit according to the manufacturer’s instructions. Total IgE
+and complement component (C3 and C4) levels were measured
+using ImmunoCAP (Thermo Fisher Scientific, Uppsala, Sweden) and immunoturbidometry, respectively.
+
+ 
+
+Statistical Analysis
+
+Data for continuous variables are shown as the median
+(minimum—maximum). Prevalence rates are shown as percentages. The Mann—Whitney U test and Tukey test were used for
+between-group comparisons of continuous variables. Categorical variables were compared using Fisher exact test. Spearman
+tho test was applied for correlation analysis. Receiver-operating
+characteristic (ROC) curves were analyzed to determine the
+optimal cutoff of serum clusterin levels used to diagnose CSU
+and to discriminate refractory CSU to antihistamine treatment,
+and the area under the curve (AUC) with a 95% confidence
+interval (CI) was computed. Logistic regression analysis was
+applied to identify predictors of refractory CSU. P values < 0.05
+were considered significant. All statistical analyses were
+performed using SPSS for Windows version 19 (SPSS,
+Chicago, IL).
+
+ 
+
+ 
+
+ 
+
+RESULTS
+
+Clinical Characteristics of Study Subjects
+
+Table 1 presents the clinical characteristics of patients with
+CSU and NCs. The median duration of urticaria in CSU patients
+at enrollment was 6 months (range, 1.5—240 months). The
+median UAS was 10 (range, 5—15). Of the 138 patients, 69
+(50.0%) had a positive ASST result at enrollment. The atopy
+rate was significantly increased in CSU patients compared with
+that in NCs (54.8% vs 39.5%, P= 0.028).
+
+Both complement 3 and 4 levels were significantly higher
+in ASST-negative patients than in those with a positive ASST
+result (129.8 vs 110.9mg/dL, P<0.001 for C3 and 31.3 vs
+27.7 mg/dL, P =0.027 for C4). In addition, the percentage of
+peripheral basophils (%) was significantly decreased in patients.
+with a negative ASST result compared with ASST-positive
+patients (0.46 vs 0.56, P=0.080). However, there was no
+significant difference in age, sex, UAS, urticaria duration, or
+total IgE levels between ASST-positive and -negative groups.
+
+Results of Serum Proteomics
+
+To investigate differential protein expression according to
+ASST results, sera from 3 subjects with a positive ASST and 3
+with a negative ASST were selected. More than 200 spots were
+identified in the gels, of which 19 were increased and 22 were
+decreased more than 2-fold after comparison of the mean
+expression level in each group (data not shown). Among them,
+7 upregulated (apolipoprotein E precursor, apolipoprotein
+J/clusterin, haptoglobulin, alpha-l-acid glycoprotein, dynein
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+Medicine * Volume 95, Number 19, May 2016
+
+Clusterin in Chronic Urticaria
+
+ 
+
+TABLE 1. Clinical Characteristics of Study Subjects
+
+ 
+
+ 
+
+ASST (+), ASST (—), P CSU, NC, P
+n=69 n=69 Value* n= 138 n=86 Value!
+
+Female 53 (76.8%) 48 (69.6%) 0.442 101 (73.2%) 42 (61.8%) 0.094
+Age, y* 37 (20-67) 41 (19-72) 0.128 39.0 (19-72) 37.5 (27-66) 0.093
+Atopy 40 (58.0%) 34 (51.5%) 0.492 74 (54.8%) 34 (39.5%) 0.028
+Allergic diseases 25 (36.2%) 19 (27.5%) 0.361 44 (31.9%)
+Asthma 5 (7.2%) 2 (2.9%) 0.441 7 (5.1%)
+Allergic rhinitis 24 (34.8%) 19 (27.5%) 0.462 43 (31.2%)
+Duration, mo! 6.0 (1.5—96) 5.5 (1.5—240) 0.439 6.0 (1.5—240)
+UASt 9 (5-15) 10 (5-15) 0.575 10 (5-15)
+Total IgE, kU/L* 120 (3-1188) 113 (12-1002) 0.538 117 G-1188)
+Complement 3, mg/dL* 110.94 (78-196) 129.83 (64-222) <0.001
+Complement 4, mg/dL? 27.66 (14-62) 31.33 (13-57) 0.027
+Peripheral basophil, % 0.562 0.458 0.080
+
+ 
+
+ASST =autologous serum skin test, CSU = chronic spontaneous urticarial, NC = normal control, UAS = urticaria activity score (0—15).
+_ Comparison between ASST-positive and -negative groups in CSU patients.
+
+‘Comparison between CSU patients and NCs.
+*Median (min—max).
+
+ 
+
+heavy chain 8, and 2 albumin-like proteins) and 5 downregulated (2 cleaved antichymotrypsins, plectin, polycomb protein
+SCMH1 isoform f, and alpha-1-8-glycoprotein) proteins were
+identified by MALDI-TOF/TOF MS in the ASST-positive
+group compared with the ASST-negative group (Figure 1,
+Table 2).
+
+Results of Immunoassay for Clusterin
+Immunoassays revealed that the median clusterin level in
+69 ASST-positive patients was significantly higher than that in
+69 ASST-negative patients (227.9 .g/mL vs 209.4 pg/mL,
+P=0.044). The median clusterin level in the NC group
+(133.2 g/mL) was significantly lower compared with ASSTpositive and-negative CSU groups (both P < 0.001) (Figure 2).
+The clusterin level had a significant negative correlation with
+the duration of urticaria (correlation coefficient =—0.272,
+
+ai
+
+ 
+
+Positive ASST
+
+P=0.001), but showed no correlation with age, atopy, or
+UAS. The clusterin level did not differ according to the results
+of antithyroid antibodies in the CSU group (188.1+49.2 in
+patients with positive antithyroid antibodies vs 205.3 + 29.5 in
+patients with negative antithyroid antibodies, P= 0.145). The
+clusterin level had a significant negative correlation with C3
+(correlation coefficient = —0.277, P=0.001), but not with C4
+(correlation coefficient = —0.158, P =0.072).
+
+Association Between Serum Clusterin Levels and
+the Responsiveness to Antihistamines
+
+We classified 83 (60.1%) patients into a responsive CSU
+group based on whether their urticaria symptoms had been
+sufficiently controlled with antihistamine treatment for
+3 months. On the other hand, 55 (39.9%) patients were classified into the refractory CSU group because additional treatment,
+
+ 
+
+Negative ASST
+
+FIGURE 1. Two-dimensional electrophoresis using sera from 3 chronic spontaneous urticaria (CSU) patients with positive ASST results
+compared with those with negative ASST results. Seven upregulated and 5 downregulated proteins were identified in the ASST-positive
+group compared with the ASST-negative group. #1 indicates clusterin. ASST = autologous serum skin test.
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.md-journal.com 13
+ 
+
+ 
+
+ 
+
+Kim et al Medicine * Volume 95, Number 19, May 2016
+TABLE 2. Proteins Identified by MALDI-TOF MS Analysis
+Peptide Mass, %
+
+No. Protein gi No. Score Match kDa pl Cov
+1 Clusterin 32891795 83 14 52,773 6.06 38
+2 Haptoglobulin 47124562 56 9 31,647 8.48 32
+a Mixture 1 226
+3-1 Apolipoprotein E precursor 4557325 134 22 36,246 5.65 59:
+3-2 Chain A, crustal structure of the 55669910 95 20 67,174 5.57 36
+
+Ga module complexed with
+
+serum albumin
+4 Alpha-1-acid glycoprotein 1 112877 72 8 23,725, 4.93 35
+5 Albumin-like 763431 83 15 53,416 5.69 28
+6 Dynein heavy chain 8, axonemal 332688227 91 61 542,071 5.81 18
+7 Immunoglobulin L-chain V-region 27552515 73 9: 23,050 6.70 52
+8 Chain A, crystal structure of an 146387531 84 12 26,489 7.22 43
+
+autoimmune complex between a
+
+human IgM rheumatoid factor and
+
+IgG1 Fc reveals a novel Fe epitope
+9 Growth inhibiting protein 25 46981961 160 23 32,857 5.71 71
+10 Plectin 1438506 73 19 64,921 5.38 42
+11 Polycomb protein SCMH1 isoform f 288557339 72 13 53,331 9.62 33
+12 Alpha-1-B-glycoprotein 69990 86 14 52,479 5.65 32
+
+ 
+
+Cov = coverage, gi No. = gelInfo identifier, MALDI-TOF MS = matrix-assisted laser desorption/ionization time-of-flight mass spectrometry, pI =
+
+isoelectric point.
+
+ 
+
+such as cyclosporine and/or antileukotrienes and/or systemic
+steroids and/or omalizumab, was prescribed to control their
+urticaria symptoms. As shown in Table 3, compared to responsive CSU patients, refractory CSU subjects were older, had
+more atopy, and longer duration of disease with more frequent
+angioedema and severe symptoms. The median level of
+
+ 
+
+ 
+
+ 
+
+ 
+
+P<0.001
+P=0.044 P<0.001
+400
+°
+300 4
+=
+ey
+3
+= 2004
+2
+3
+2
+(S)
+100 4 bs
+0
+ASST (+) ASST (-) NC
+ASST (+) ASST (-) NC
+n=69 n=69 n=86
+
+ 
+
+Median (min-Max) 227.6 (108.5-359.9) 209.4 (117.3-288.0) 133.2 (0.06-277.6)
+
+ 
+
+FIGURE 2. Serum clusterin levels in patients with chronic spontaneous urticaria and normal controls. P values were obtained by
+Tukey multiple comparison test. ASST (+) = positive result on the
+autologous serum skin test, ASST (—) = negative result on the
+autologous serum skin test.
+
+4 | www. md-journal.com
+
+clusterin in responsive CSU patients was significantly increased
+compared to refractory CSU cases (227.6 pg/mL vs 209.4 pg/
+mL, P <0.001, Figure 3).
+
+ROC curve analysis yielded 202 g/mL of serum clusterin
+as the optimal cutoff for discriminating the responsiveness to
+antihistamines in CSU patients (AUC 0.759, 95% CI 0.679—
+0.839, P<0.001). Using a clusterin level > 202 wg/mL as
+the cutoff value, the sensitivity for detecting responsive
+CSU patients was 84.3% (Table 4). However, with a relatively
+low specificity, 43.6% of patients whose urticaria was
+refractory to antihistamines had clusterin levels higher than
+202 pg/mL.
+
+Logistic regression analysis demonstrated that both UAS
+and clusterin levels were independent and significant determinants for identifying refractory patients (odds _ ratio
+[OR]= 1.335, 95% CI 1.153-1.546, P<0.001 and
+OR =0.985, 95% CI 0.974-0.995, P=0.005, respectively)
+(Table 4). However, age, sex, the presence of atopy, and
+urticaria duration had no significant association with the responsiveness to antihistamines in CSU patients.
+
+As the patients with refractory CSU had significantly
+higher UAS, we further analyzed the diagnostic accuracy of
+the combination of ASST results and serum clusterin levels for
+predicting the responsiveness to antihistamines according to
+urticaria severity (Table 5). Among severe CSU patients, 16
+were responsive to antihistamines. Of those, 11 satisfied the
+criteria combining ASST positivity and clusterin levels >
+202 pg/mL. Therefore, the sensitivity and specificity of the
+criteria to detect responsive patients were 68.8% and 90.9%,
+respectively, in the severe CSU group. With an AUC of 0.798, it
+was demonstrated to be statistically significant (P = 0.002).
+Regarding nonsevere CSU patients, the criteria showed a
+sensitivity of 62.3% and a specificity of 93.3% with an AUC
+of 0.778 (P < 0.001). If focused on the prediction of refractoriness to antihistamines, we could identify 92.3% of refractory
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+Medicine * Volume 95, Number 19, May 2016
+
+Clusterin in Chronic Urticaria
+
+ 
+
+TABLE 3. Comparison of Clinical Characteristics and Serum Clusterin Levels in Patients With Chronic Urticaria According to the
+
+Therapeutic Response to Antihistamines
+
+ 
+
+ 
+
+Responsive to HIRA, n=83 Refractory to HIRA, n=55 P Value
+
+Female 63 (75.9%) 38 (69.1%) 0.434
+Age, y" 38 (19-72) 41 (22-62) 0.435
+Atopy 38 (49.4%) 32 (56.1%) 0.486
+Allergic diseases 27 (32.5%) 17 (30.9%) 1.000
+Asthma 6 (7.2%) 1 (1.8%) 0.243
+Allergic rhinitis 26 (31.3%) 17 (30.9%) 1.000
+Duration, mo” 4.5 (1.5-96.0) 7.0 (1.5—240.0) 0.252
+Angioedema 16/52 (30.8%) 17/36 (47.2%) 0.125
+ASST 57 (68.7%) 12 (21.8%) <0.001
+UAS” 8 (5-15) 11 (6-15) <0.001
+UAS > 13 16 (19.3%) 22 (40.0%) 0.033
+G3 113.85 119.67 0.302
+C4 27.67 30.37 0.291
+Basophil, % 0.576 0.439 0.098
+Clusterin, pg/mL* 227.5 (117.3—359.9) 199.8 (108.5—309.8) <0.001
+Clusterin > 202 pg/mL 70 (84.3%) 24 (43.6%) <0.001
+
+ 
+
+ASST = autologous serum skin test, HIRA =histamine | receptor antagonist, antihistamines, UAS = urticaria activity score.
+P values were obtained by Fisher exact test and the Mann—Whitney U test.
+
+*Median (min—max).
+
+ 
+
+CSU patients based on negative ASST results or clusterin levels
+<202 wg/mL (Table 5).
+
+DISCUSSION
+To our knowledge, the present study is the first to demonstrate that serum clusterin was significantly associated with the
+ASST results and therapeutic response in CSU patients. CSU is
+characterized by chronic, recurrent, and short-lived itchy
+wheals with or without angioedema on skin lasting for at least
+6 weeks, caused by no apparent triggering factor.'* Infiltrating
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P<0.001
+400 7
+e
+300 4 T
+is
+Da
+2
+= 200 L_]
+2
+an
+2
+i) e
+100 ~——
+0
+Responsive to H1RA Refractory to H1RA
+Responsive to H1RA Refractory to H1RA
+n=83 n=55
+
+ 
+
+Median (min-Max) 227.6 (108.5-359.9) 209.4 (117.3-288.0)
+
+ 
+
+FIGURE 3. Comparison of serum clusterin levels between patients
+who were responsive and refractory to antihistamines. P values
+were calculated by the Mann-Whitney U test.
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+inflammatory cells, such as lymphocytes, neutrophils, and
+eosinophils, are commonly found in the skin of CSU patients.
+IgE-bound antigens, autoantibodies, stem cell factors, complement components, neuropeptides, chemokines, and cytokines
+lead to activation and degranulation of mast cells.* In particular,
+tissue-resident mast cells are exposed to an oxidative environment in the course of allergic and inflammatory reactions.*!°
+Frossi et al'® demonstrated that oxidative stimuli could trigger
+IL-4 and IL-6 production from mast cells and could potentiate
+FceRI stimulation. Mast cells generate intracellular reactive
+oxygen species (ROS) following the aggregation of FceRI and
+these ROS act as secondary messengers in the induction of
+several biological responses. Therefore, increased ROS may
+play an important role in the pathogenesis of CSU, resulting in
+the activation of inflammatory cells such as neutrophils and
+eosinophils. '7!*
+
+Previous studies have demonstrated that clusterin has a
+cytoprotective role against oxidants.'®°° Clusterin has been
+reported as a multifunctional protein to prevent protein aggregation, to induce apoptosis of inflammatory cells as well as to
+inhibit complement.?”?! In addition, clusterin as a sensor of
+oxidative and proteotoxic stress, it is implicated in numerous
+age-related diseases including neuro-degeneration, cardiovascular diseases, metabolic syndromes, inflammation, and cancer.” Owing to its chaperon-related property to inhibit protein
+aggregation and precipitation, clusterin seems to actively arbitrate in the pathogenesis of oxidative injury.2* According to
+these previous results, we can speculate that oxidative stress
+would be involved in perpetuating urticaria symptoms in CSU
+patients as shown in other allergic diseases. In addition, clusterin with an activity of chaperone, which inhibits stressinduced protein precipitation, and protects cells against cytotoxic agents, can prohibit inflammatory process induced by the
+oxidative injury in patients with CSU. In a consistent context,
+we found out that CSU patients presenting higher levels of
+serum clusterin responded well to antihistamine treatment as
+compared to whom with lower clusterin levels.
+
+www.md-journal.com 15
+Kim et al
+
+Medicine * Volume 95, Number 19, May 2016
+
+ 
+
+TABLE 4. Logistic Regression Analysis for Predicting the
+Refractoriness to Antihistamines in Patients With Chronic
+Spontaneous Urticaria
+
+ 
+
+ 
+
+95% CI,
+Parameters OR Lower, Upper P Value
+Age 1.028 0.989, 1.069 0.165
+Male sex 1.067 0.434, 2.622 0.888
+Atopy 0.507 0.212, 1.212 0.507
+Urticaria duration 1.011 0.996, 1.027 0.153
+UAS 1.335 1.153, 1.546 <0.001
+Clusterin 0.985 0.974, 0.995 0.005
+
+ 
+
+Cl=confidence interval, OR= odds ratio, UAS = urticaria activity
+score.
+
+ 
+
+It has been firmly established that the major function of
+clusterin is to modulate the terminal complement cascade and to
+prevent cellular lysis by the membrane attack complex C5b-9."4
+Regarding complements cause activation, degranulation an
+chemotaxis of mast cells, their roles in the pathogenesis of CSU
+were also well known. Thus, increased clusterin levels woul
+lead to further inhibition of complement-mediated mast cell!
+activation in CSU patients.
+
+Similarly, we found that CSU patients with a positive
+ASST result had significantly higher levels of clusterin, an
+their urticaria symptoms were sufficiently responsive to antihistamines compared to ASST-negative patients.?> A study on
+autoimmunue myocarditis revealed that clusterin has a protective role in the development and progression of the disease, an
+that clusterin-deficient mice showed more severe disease, a
+higher titer of secondary antibodies against cardiac antigens an
+progression of acute inflammation to myocardial scarring. The
+authors hypothesized that the role of clusterin was to facilitate
+the disposal of bioactive cell debris and immune complexes.”°
+Although we could not measure every type of autoantibody in
+our study population, we found no significant difference
+in clusterin levels according to the presence of antithryoid
+(antimicrosomal and/or antithyroglobulin) antibodies.
+
+Clusterin has been identified within mast cells in hemangioma.””?* Tan et al?* reported that only a small proportion of
+mast cells express clusterin during the proliferative phase in the
+development of hemangioma. However, the proportion of mast
+cells positive for clusterin increases with the regression of
+
+ 
+
+ 
+
+hemangioma.”* Despite mast cells having an angiogenic effect
+by releasing histamine, tryptase, chymase, and heparin, a certain
+phenotype of mast cells appears to play a major role in the
+regression of hemangioma by producing IFNs, TGF-8, and
+clusterin.*” Consistent with this observation, clusterin has been
+considered a prominent marker of apoptotic cell loss in a variety
+of diseases.7*?° In the present study, proteomics analysis
+revealed increased clusterin in the sera of patients with positive
+ASST results compared with ASST-negative patients. Furthermore, the higher levels of clusterin together with the lower UAS
+were noted in patients responsive to antihistamine compared to
+those who were refractory to antihistamine. However, further
+investigation is required to determine whether mast cells
+expressing clusterin in the CSU are different with respect to
+disease activity or urticaria control status.
+
+The ASST is commonly used as an in vivo test to determine auto-reactivity in CSU.*° When the combination of a
+negative ASST result and a serum clusterin level < 202 wg/mL
+was applied, we could predict 92.3% of patients whose urticaria
+would not be controlled with antihistamine treatment.
+
+Several markers were studied as a diagnostic and/or prognostic marker in CSU. Complement proteins including C3
+and C4 as well as CRP are known to be associated with the
+severity of csu.2!? D-dimer was also suggested as a biomarker for antihistamine resistant-CSU patients in a previous
+study. Elevated p-dimer was observed in 18 of 23 patients
+having a poor response to antihistamines.**
+
+Although most of the studies on the relationship between
+oxidative stress and autoantibodies were performed in conditions
+including recurrent abortion, atherosclerosis, and autoimmune
+diseases, it is assumed that oxidative stress induces autoantibodies in allergic skin disease.” A positive ASST result implies
+the presence of autoantibodies or intrinsic inflammatory factors
+that enable degranulation of mast cells induced by oxidative
+stress, and this can explain the upregulation of clusterin in patients
+responsive to histamine 1-receptor antagonist (HRA). Although
+about a 3rd of CSU patients have a positivity on ASST; however,
+half of the ASST-positive sera cannot release histamine from
+donor basophils.? Additionally, ASST positivity was found not to
+be associated with disease activity or symptom duration in CSU
+patients through a recent meta-analysis.** Another study
+suggested that mast cells without FceRI cross-linking promote
+the proliferation and survival of mast cells, as activation of mast
+cells to store and synthesize inflammatory mediators and cytokines potentiated by IgE-FceRI.*> Therefore, we cannot simply
+conclude that the results of ASST implies whether the patients
+
+ 
+
+TABLE 5. Diagnostic Accuracy of the Combination of ASST Positivity and Serum Clusterin > 202 g/mL to Discriminate the
+Responsiveness of CSU to Antihistamine Treatment According to Urticaria Severity
+
+ 
+
+Severe CSU
+
+Nonsevere CSU
+
+ 
+
+ 
+
+ 
+
+ASST (+) and Responsive Refractory Responsive Refractory
+Clusterin > 202 g/mL to HIRA to HIRA to HIRA to HIRA
+
+Yes 11 (68.8%) 2 (9.1%) 38 (62.3%) 2 (6.7%)
+
+No 5 (31.3%) 20 (90.9%) 23 (37.7%) 28 (93.3%)
+AUC (95% CI) 0.798 (0.642—0.954) 0.778 (0.682—0.874)
+
+P value 0.002 <0.001
+
+ 
+
+ASST =autologous serum skin test, AUC=area under the curve, Cl=confidence interval, CSU=chronic spontaneous urticaria,
+
+HIRA =histamine 1 receptor antagonist, antihistamines.
+
+P values were obtained by Fisher exact test. Severe CSU was defined as having an urticaria activity score of 13 or higher at enrollment.
+
+ 
+
+6 | www. md-journal.com
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+Medicine * Volume 95, Number 19, May 2016
+
+Clusterin in Chronic Urticaria
+
+ 
+
+have autoantibodies to activate spontaneously IgE-FceRI pathway. There is an increasing demand on studies to explore
+potential serologic markers those are involved in mast cell
+degranulation or persistent skin inflammation. We found significant differences in CRP, complement, and clusterin levels
+between ASST-positive and -negative patients. In addition to
+these data, as we suggested in a previous study that patients with
+positive ASST may have serum factors that release histamine or
+vasodilators that are controlled effectively by antihistamine
+treatment, whereas patients with negative ASST may have higher
+levels of inflammatory mediators that perpetuate inflammation.
+This hypothesis is now supported by the observation that the
+ASST-negative group with lower clusterin levels had a poor
+response to antihistamine treatment.
+
+In conclusion, serum clusterin is increased in patients with
+a positive ASST result and has multiple functions in modulating
+the complement system, regressing angiogenesis, and cleaning
+bioactive cell debris. Therefore, serum clusterin may be a
+prognostic marker to determine the responsiveness to antihistamine in patients with CSU.
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/
+EDF/WAO Guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update. Allergy.
+2014;69:868-887.
+
+2. O'Donnell BF, Lawlor F, Simpson J, et al. The impact of chronic
+urticaria on the quality of life. Br J Dermatol. 1997;136:197-201.
+
+3. Greaves M. Chronic urticaria. J Allergy Clin Immunol. 2000;105:
+664-672.
+
+4. Gilfillan AM, Tkaczyk C. Integrated signalling pathways for mastcell activation. Nat Rev Immunol. 2006;6:218-230.
+
+5. Okayama Y. Oxidative stress in allergic and inflammatory skin
+diseases. Inflamm Allergy Drug Targets. 2005;4:517-519.
+
+6. Hiragun M, Hiragun T, Mihara S, et al. Prognosis of chronic
+spontaneous urticaria in 117 patients not controlled by a standard
+dose of antihistamine. Allergy. 2013;68:229-235.
+
+7. Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and
+management of acute and chronic urticaria: 2014 update. J Allergy
+Clin Immunol. 2014;133:1270-1277.
+
+8. Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory
+parameters in predicting chronic urticaria duration: a prospective
+study of 139 patients. Allergy. 2004;59:869-873.
+
+9. Ye Y-M, Park J-W, Kim S-H, et al. Prognostic factors for chronic
+spontaneous urticaria: a 6-month prospective observational study.
+Allergy Asthma Immunol Res. 2016;8:115-123.
+
+10. Ye YM, Jin HJ, Hwang EK, et al. Co-existence of chronic urticaria
+and metabolic syndrome: clinical implications. Acta Derm Venereol.
+2013;93:156-160.
+
+11. Konstantinou GN, Asero R, Maurer M, et al. EAACI/GA(2)LEN
+task force consensus report: the autologous serum skin test in
+urticaria. Allergy, 2009;64:1256-1268.
+
+12. Hur GY, Choi GS, Sheen SS, et al. Serum ferritin and transferrin
+levels as serologic markers of methylene diphenyl diisocyanateinduced occupational asthma. J Allergy Clin Immunol.
+2008;122:774-780.
+
+13. Choi GS, Shin SY, Kim JH, et al. Serum lactoferrin level as a
+serologic biomarker for allergic rhinitis. Clin Exp Allergy.
+2010;40:403-410.
+
+14. Greaves MW. Chronic urticaria. N Engl J Med. 1995;332:1767-1772.
+
+Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+20.
+
+21.
+
+22:
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32:
+
+33.
+
+34.
+
+35.
+
+. Bowler RP, Crapo JD. Oxidative stress in allergic respiratory
+
+diseases. J Allergy Clin Immunol. 2002;110:349-356.
+
+. Frossi B, De Carli M, Daniel KC, et al. Oxidative stress stimulates
+
+IL-4 and IL-6 production in mast cells by an APE/Ref-1-dependent
+pathway. Eur J Immunol. 2003;33:2168-2177.
+
+. Cassano N, Raho G, Filieri M, et al. Influence of desloratadine on
+
+oxidative stress markers in patients with chronic idiopathic urticaria.
+Int J Dermatol. 2006;45:394-396.
+
+. Wolfreys K, Oliveira DB. Alterations in intracellular reactive oxygen
+
+species generation and redox potential modulate mast cell function.
+Eur J Immunol. 1997;27:297-306.
+
+. Schwochau GB, Nath KA, Rosenberg ME. Clusterin protects against
+
+oxidative stress in vitro through aggregative and nonaggregative
+properties. Kidney Int. 1998;53:1647-1653.
+
+Ttahana Y, Piens M, Sumida T, et al. Regulation of clusterin
+expression in mammary epithelial cells. Exp Cell Res.
+2007;313:943-951.
+
+Poon S, Easterbrook-Smith SB, Rybchyn MS, et al. Clusterin is an
+ATP-independent chaperone with very broad substrate specificity
+that stabilizes stressed proteins in a folding-competent state.
+Biochemistry. 2000;39:15953-15960.
+
+Jones SE, Jomary C. Clusterin. Int J Biochem Cell Biol. 2002;34:
+427-431.
+
+ 
+
+Trougakos IP. The molecular chaperone apolipoprotein J/clusterin as
+a sensor of oxidative stress: implications in therapeutic approaches—
+a mini-review. Gerontology. 2013;59:514—523.
+Tschoppe J, French LE. Clusterin: modulation of complement
+function. Clin Exp Immunol. 1994;97:11-111.
+Yu Y, Blokhuis BR, Garssen J, et al. Non-IgE mediated mast cell
+activation. Eru J Pharmacol. 2015;778:33-43.
+
+McLaughlin L, Zhu G, Mistry M, et al. Apolipoprotein J/clusterin
+limits the severity of murine autoimmune myocarditis. J Clin Invest.
+2000;106:1105-1113.
+
+Hasan Q, Roger BM, Tan ST, et al. Clusterin/apoJ expression
+during the development of hemangioma. Hum Pathol. 2000;31:
+691-697.
+
+Tan ST, Wallis RA, He Y, et al. Mast cells and hemangioma. Plast
+Reconstr Surg. 2004;113:999-1011.
+
+Schjeide B-MM, Schnack C, Lambert J-C, et al. The role of
+clusterin, complement receptor 1, and phosphatidylinositol binding
+clathrin assembly protein in Alzheimer disease risk and cerebrospinal
+fluid biomarker levels. Arch Gen psychiatry. 2011;68:207-213.
+Konstantinou G, Asero R, Maurer M, et al. EAACI/GA2LEN task
+force consensus report: the autologous serum skin test in urticaria.
+Allergy. 2009;64: 1256-1268.
+
+Kasperska-Zajac A, Grzanka A, Machura E, et al. Increased serum
+complement C3 and C4 concentrations and their relation to severity
+of chronic spontaneous urticaria and CRP concentration. J Inflamm
+(Lond). 2013;10:1-5.
+
+Takahagi S, Mihara S, Iwamoto K, et al. Coagulation/fibrinolysis
+and inflammation markers are associated with disease activity in
+patients with chronic urticaria. Allergy. 2010;65:649-656.
+
+Asero R. D-dimer: a biomarker for antihistamine-resistant chronic
+urticaria. J Allergy Clin Immunol. 2013;132:983-986.
+
+Rabelo-Filardi R, Daltro-Oliveira R, Campos RA. Parameters
+associated with chronic spontaneous urticaria duration and severity:
+a systematic review. Int Arch Allergy Immunol. 2013;161:197-204.
+Chang TW, Chen C, Lin C-J, et al. The potential pharmacologic
+mechanisms of omalizumab in patients with chronic spontaneous
+urticaria. J Allergy Clin Immunol. 2015;135:337-342¢332.
+
+www.md-journal.com |7
+

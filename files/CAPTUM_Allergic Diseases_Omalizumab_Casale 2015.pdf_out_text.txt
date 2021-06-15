@@ -1,0 +1,1141 @@
+Original Article
+
+ 
+
+Similar Efficacy with Omalizumab in Chronic Idiopathic/
+Spontaneous Urticaria Despite Different Background
+
+Therapy
+
+Thomas B. Casale, MD*, Jonathan A. Bernstein, MD”, Marcus Maurer, MD‘°, Sarbjit S. Saini, MD°,
+
+Benjamin Trzaskoma, MS°, Hubert Chen, MD°, Clive E. Grattan, MA, MD, FRCP’, Ana Gimenéz-Arnau, MD, PhD®,
+Allen P. Kaplan, MD", and Karin Rosén, MD, PhD® Tampa, Fla; Cincinnati, Ohio; Berlin, Germany; Baltimore, Md; South San
+Francisco, Calif; Norwich, UK; Barcelona, Spain; and Charleston, SC
+
+What is already known about this topic? Omalizumab is safe and efficacious in the treatment of chronic idiopathic
+urticaria/chronic spontaneous urticaria (CIU/CSU). Different background therapies were used in the 3 phase III clinical
+
+trials in patients with refractory CIU/CSU.
+
+What does this article add to our knowledge? Findings from this post hoc analysis indicate similar efficacy with
+
+omalizumab 300 mg in patients with CIU/CSU regardless of the background therapy for urticaria. The safety profile was
+similar to that in allergic asthma.
+
+How does this study impact current management guidelines? The study results support the use of omalizumab in
+refractory patients with CIU/CSU without concerns for previous background therapies. No dose-related adverse effects
+and no new safety concerns have been identified with the pooled data set.
+
+ 
+
+BACKGROUND: Data from the 3 omalizumab pivotal trials in
+patients with chronic idiopathic urticaria/chronic spontaneous
+urticaria (CIU/CSU) represent the largest database of patients
+reported to date with refractory disease (omalizumab, n = 733;
+placebo, n = 242).
+
+OBJECTIVE: The objective of this study was to compare results
+from ASTERIA I and II, which included only approved doses of
+H, antihistamine as background therapy based on regulatory
+authority requirements, to those from GLACIAL, which
+
+"Department of Medicine, Division of Allergy and Immunology, University of South
+Florida, Tampa, Fla
+
+‘Department of Internal Medicine and Division of Immunology/Allergy Section,
+University of Cincinnati, Cincinnati, Ohio
+
+“Department of Dermatology and Allergy, Charité—Universititsmedizin, Berlin,
+Germany
+
+“Division of Allergy and Clinical Immunology, Johns Hopkins Asthma and Allergy
+Center, Baltimore, Md
+
+‘Genentech Inc., South San Francisco, Calif
+
+‘Department of Dermatology, Norfolk and Norwich University Hospital, Norwich,
+United Kingdom
+
+"Department of Dermatology, Institut Mar d’Investigacions Mediques, Universitat
+Autonoma, Barcelona, Spain
+
+"Department of Medicine, Division of Pulmonary and Critical Care and Allergy and
+Clinical Immunology, The Medical University of South Carolina, Charleston, SC
+
+This post hoc analysis and the ASTERIA I, ASTERIA II, and GLACIAL studies were
+designed and funded by Genentech, Inc., South San Francisco, Calif, and Novartis
+Pharma AG, Basel, Switzerland. Benjamin Trzaskoma, Hubert Chen, and Karin Rosén
+are employees of Genentech, Inc. and participated in study design, data analysis, and
+manuscript preparation. Support for third-party writing assistance for this manuscript
+was provided by Genentech, Inc., and Novartis Pharmaceuticals Corporation.
+
+Conflicts of interest: T, B. Casale has received research support and consultancy fees from
+Novartis and Genentech, J. A. Bemstein has received research support from Novartis;
+has received speakers fees from Novartis/Genentech. M. Maurer has received research
+and travel support, and consultancy fees from Novartis and Genentech. S. S. Saini has
+
+permitted higher doses of H,-antihistamines as well as other
+types of background therapy, in a post hoc analysis.
+METHODS: Efficacy data from the placebo, omalizumab 150mg, and omalizumab 300-mg treatment arms of ASTERIA I and
+II were pooled and analyzed (n = 162 and n = 160, respectively). The 300-mg treatment arm analyses were compared with
+the analysis of data from GLACIAL (n = 252) using analysis of
+covariance models. The key efficacy endpoint was change from
+baseline to week 12 in mean weekly itch severity score (ISS);
+
+received research support and consultancy fees from Genentech; has received consultancy fees from MedImmune; has received research support from the Immune
+Tolerance Network, Novartis, and AstraZeneca; and receives royalties from UpToDate.
+B, Trzaskoma and K. Rosen are employed by and has stock/stock options in Genentech.
+H. Chen is employed by Genentech and owns Roche stock options. C. E. Grattan has
+received consultancy fees from RTI Health Solutions, Genentech, and GlaxoSmithKline; has received lecture fees from Novartis; and is DSMB Chair for CSL
+Behring. A. Gimenéz-Arnau has received consultancy fees and fees for participation in
+review activities from Genentech; has received consultancy fees and research support
+from Novartis, Uriach Pharma, and Almirall; and has received lecture fees from Uriach,
+Menarini, Novartis, Almirall, and GlaxoSmithKline. A. P. Kaplan has received consultancy fees from Genentech; has received research support from Genentech, Dyax,
+and Shire; has received lecture fees from Dyax and Shire; and has a patent with Dyax.
+
+Received for publication January 21, 2015; revised April 7, 2015; accepted for
+publication April 23, 2015.
+
+Available online il
+
+Corresponding author: Karin Rosén, MD, PhD, Group Medical Director, Genentech,
+Inc., 1 DNA Way, South San Francisco, CA 94080. E-mail: rosen.karin@gene
+com.
+
+2213-2198
+
+© 2015 The Authors. Published by Elsevier Inc. on behalf of the American Academy
+of Allergy, Asthma & Immunology. This is an open access article under the CC
+BY-NC-ND license (hitp://creativecommons.org/licenses/by-ne-nd/4.0/).
+
+http://dx.doi.org/10.1016/j.jaip.2015.04.015
+2 CASALE ET AL
+
+Abbreviations used
+AE- Adverse event
+CI- Confidence interval
+CIU- Chronic idiopathic urticaria
+CSU- Chronic spontaneous urticaria
+CU- Chronic urticaria
+DLQI- Dermatology Life Quality Index
+AR- Hazard ratio
+HRQoL- Health-related quality of life
+
+IgE- Immunoglobulin E
+ISS- Itch severity score
+LTRA- Leukotriene receptor antagonist
+MID- Minimally important difference
+mlTT- Modified intention-to-treat
+NE- Not evaluated
+SAE- Serious adverse event
+
+SC- Subcutaneous
+UAS- Urticaria activity score
+UAS7- Urticaria activity score over 7 days
+
+ 
+
+other endpoints were also evaluated. Safety data were pooled
+from all 3 studies.
+
+RESULTS: Mean ISS was significantly reduced from baseline at
+week 12 in the pooled ASTERIA I and II omalizumab 150- and
+300-mg treatment arms and in the GLACIAL omalizumab 300mg arm. The weekly ISS reduction magnitude at week 12 was
+similar between the omalizumab 300-mg groups in the
+ASTERIA I and II pooled and GLACIAL studies. Similar treatment effect sizes were observed across multiple endpoints.
+Omalizumab was well tolerated and the adverse-event profile was
+similar regardless of background therapy for CIU/CSU. The
+overall safety profile was generally consistent with omalizumab
+therapy in allergic asthma.
+
+CONCLUSION: Omalizumab 300 mg was safe and effective in
+reducing CIU/CSU symptoms regardless of background
+therapy. © 2015 The Authors. Published by Elsevier Inc. on
+behalf of the American Academy of Allergy, Asthma &
+Immunology. This is an open access article under the CC BYNC-ND license (http://creativecommons.org/licenses/by-nc-nd/
+4.0/). (J Allergy Clin Immunol Pract 2015;m:m-m)
+
+ 
+
+Key words: Omalizumab; Urticaria; Chronic spontaneous;
+Chronic idiopathic; Itch; Hive; Pruritus; Wheal; Antihistamine
+
+Chronic idiopathic urticaria (CIU), also known as chronic
+spontaneous urticaria (CSU), is defined as wheals or angioedema
+that occurs together or separately on an intermittent or constant
+basis for at least 6 weeks with no apparent specific trigger.'
+Second-generation Hj-antihistamines are an effective first-line
+treatment in some patients with CIU/CSU.' An increase in Hyantihistamine dose up to 4-fold is considered second-line therapy.
+However, some patients with severe CIU/CSU continue to
+experience symptoms despite treatment with increased doses of
+H,-antihistamines.”* Third-line treatment options for patients
+who do not achieve complete control of their symptoms with
+increased dosages of H,-antihistamines have included short-term
+corticosteriods, add-on therapy with cyclosporine, a leukotriene
+receptor antagonist (LTRA), or omalizumab.'*°
+
+Omalizumab is a humanized monoclonal antibody to
+immunoglobulin E (IgE) that has been licensed for the treatment
+of moderate to severe allergic asthma in the United States since
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2015
+
+2003 and for severe allergic asthma in Europe since 2005.”°
+It was recently approved for the treatment of CIU/CSU in
+Europe and the United States.”” Omalizumab was studied in 3
+phase III, randomized, double-blind, placebo-controlled, clinical
+trials in patients with CIU/CSU. ASTERIA I’ and ASTERIA
+II'° evaluated the efficacy and safety of subcutaneous (SC)
+omalizumab 75 mg, 150 mg, and 300 mg every 4 weeks versus
+placebo in patients with CIU/CSU who remained symptomatic
+despite treatment with approved dosages of second-generation
+H,-antihistamines. GLACIAL'' evaluated the safety and efficacy of omalizumab 300 mg SC every 4 weeks versus placebo in
+patients who remained symptomatic despite treatment with up
+to 4 times the approved dose of second-generation H,-antihistamines and add-on H>-antagonists and/or LTRAs.
+
+The data from the phase III clinical program represent the
+largest database of patients reported to date with refractory CIU/
+CSU with nearly 1000 patients included (omalizumab, n = 733;
+placebo, n = 242). Guideline recommendations for the use of
+omalizumab cite a strong, high level of evidence to support its use
+in CIU/CSU." In this past hoc analysis, we compared the efficacy
+of omalizumab from the ASTERIA studies, which included only
+approved doses of H,-antihistamines as background therapy, with
+the efficacy of omalizumab from the GLACIAL study, which
+permitted higher doses of antihistamines as well as other types of
+background therapy. An evaluation of the pooled safety data and
+time to loss of response are also included.
+
+ 
+
+ 
+
+METHODS
+Study design
+ASTERIA I and ASTERIA II were multicenter, randomized,
+
+double-blind, placebo-controlled studies of omalizumab 75 mg
+(ASTERIA I, n = 77; ASTERIA II, n = 82), 150 mg (ASTERIA I,
+n = 80; ASTERIA II, n = 82), or 300 mg (ASTERIA I, n = 81;
+ASTERIA II, n = 79) versus placebo (ASTERIA I, n = 80;
+ASTERIA II, n = 79) administered SC every 4 weeks in patients
+who remained symptomatic despite treatment with approved doses
+of H,-antihistamines. These studies were similar in design except for
+the duration of treatment, which was 24 weeks and 12 weeks,
+respectively (Figure 1). Observational follow-up continued in both
+studies for 16 weeks after the last dose of omalizumab. The primary
+efficacy endpoint in both studies was change from baseline to week
+12 in weekly itch severity score (ISS), a component of the urticaria
+activity score over 7 days'~ (UAST7, daily ISS intensity ratings range
+from 0 [none] to 3 [intense and/or severe]; range 0-21). Both studies
+included the following secondary endpoints evaluated at week 12:
+change from baseline in UAS7, change from baseline in weekly
+
+ 
+
+number of hives score, time to minimally important difference
+(MID) response (>5-point reduction) in weekly ISS, proportion of
+patients with UAS7 <6 (well-controlled symptoms), proportion of
+patients who were weekly ISS MID responders, change from base
+ 
+
+line in weekly size of largest hive score, change from baseline in
+overall Dermatology Life Quality Index (DLQI), proportion of
+angioedema-free days from week 4 to week 12 of therapy, and
+proportion of patients with UAS7 = 0 (complete response). The
+proportion of patients with complete response was an ad hoc analysis
+for ASTERIA II. Time to loss of response (defined as a loss of UAS7
+<6) was included as a prespecified exploratory endpoint in both
+studies. GLACIAL was a 40-week (24 weeks of treatment and 16
+weeks of observational follow-up), multicenter, randomized, double
+blind, placebo-controlled study of omalizumab 300 mg (n = 252)
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+CIU/CSU Background J
+
+CASALE ET AL 3
+
+%
+1su suds
+
+ 
+
+Therapy
+
+Approved doses of
+H,-antihistamines
+
+ASTERIAI
+
+24-week treatment period
+Omalizumab 75, 150, 300 mg vs placebo
+
+16-week
+
+follow-up
+
+ 
+
+ 
+
+J} J J 0
+
+12-week treatment
+
+Approved doses of
+H,-antihistamines
+
+ASTERIA II
+
+period
+Omalizumab 75, 150,
+
+16-week
+follow-up
+
+300 mg vs placebo
+
+|
+
+ 
+
+%
+su urd
+
+ 
+
+Up to 4X approved dose of
+H,-antihistamine plus
+LTRA or H,-antihistamine,
+or all 3 in combination
+
+GLACIAL
+
+24-week treatment period
+Omalizumab 300 mg vs placebo
+
+16-week
+
+follow-up
+
+ 
+
+ 
+
+co) Efficacy endpoint, week 12
+
+J Every 4 weeks injection
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 1. Study designs. C/U, chronic idiopathic urticaria; CSU, chronic spontaneous urticaria; L TRA, leukotriene receptor antagonist.
+
+versus placebo (n = 83) SC every 4 weeks in patients who remained
+symptomatic despite treatment with up to 4 times the approved
+dosage of Hy-antihistamines and either Hb -antihistamines or
+LTRAs, or all 3 in combination (Figure 1). The primary objective of
+GLACIAL was to evaluate the safety of omalizumab versus placebo;
+efficacy was evaluated as a secondary objective. Secondary efficacy
+endpoints included the change from baseline in weekly ISS and the
+other 9 endpoints listed above from ASTERIA I and II and were
+evaluated at week 12. Time to loss of response was a prespecified
+exploratory endpoint in GLACIAL. Diphenhydramine 25 mg was
+allowed for itch relief in all 3 studies (up to a maximum of 3 doses or
+less in 24 hours based on local regulations). All 3 studies were
+conducted in accordance with US Food and Drug Administration
+regulations, the International Conference on Harmonisation E6
+Guideline for Good Clinical Practice, and any other applicable
+country laws. Institutional review board approval and informed
+consent was obtained from all research subjects. These trials are
+registered with Clinical 'rials.gov, number NCT01287117
+(ASTERIA I), number NCT01292473 (ASTERIA II), and number
+NCT01264939 (GLACIAL).
+
+Patients
+
+Patients were eligible for inclusion in these studies if they met the
+following criteria: age 12-75 years (18-75 years in Germany; per
+German regulatory requirements), diagnosis of CIU/CSU for >6
+months, presence of itch and hives for >8 consecutive weeks before
+enrollment despite concurrent H,-antihistamine treatment at
+approved doses (ASTERIA I and II) or presence of itch and hives for
+>6 consecutive weeks before enrollment despite treatment with H,antihistamines at up to 4 times the approved dose plus LTRAs or
+H)-antihistamines, or all 3 in combination (GLACIAL; baseline
+medication use previously reported’ '), UAS7 >16 (scale 0-42)
+and weekly ISS >8 (scale 0-21) for the 7 days before randomization,
+
+in-clinic physician-assessed UAS >4 (scale 0-6) on 1 or more of the
+screening visit days, treatment with an approved dose of an H,antihistamine (ASTERIA I and II) or with an H,-antihistamine up
+to 4 times the approved dose plus LTRAs or H2-antihistamines, or
+all 3 for 3 or more consecutive days immediately before day —14
+(GLACIAL), and no missing symptom diary (eDiary) entries in the
+7 days before randomization. Exclusion criteria for all 3 studies
+included clearly defined inducible trigger for chronic urticaria (eg,
+cold, pressure); presence of a disease with symptoms of urticaria or
+angioedema; or routine doses (daily or every other day for >5
+consecutive days) of systemic steroids, hydroxychloroquine, methotrexate, cyclosporine, cyclophosphamide, or intravenous immunoglobulin within 30 days before day —14, or treatment with
+omalizumab in prior year. The individual study publications provide
+more detailed discussion of exclusion criteria.”’'!
+
+Assessments
+
+Detailed descriptions of the assessments used in the studies have
+been published.”'' Briefly, patients completed a symptom diary
+each morning and evening that recorded scores (scale range: 1-3) for
+itch severity, the number of hives, and size of largest hive using a
+hand-held electronic device. The means of the morning and evening
+scores for itch severity and number of hives were summed to derive
+the UAS7 (total score range 0-42; higher score reflects greater disease
+activity). The weekly ISS is the sum of the daily ISS for 7 days (total
+score range 0-21; higher score reflects greater itch severity). Patients
+also recorded the presence of angioedema (yes/no) in the electronic
+diary. They completed the DLQI at baseline and weeks 4 and 12
+
+(score range 0-30; higher score represents greater impairment).
+
+ 
+
+ 
+
+Data analyses
+For the analyses of efficacy endpoints, data from the placebo,
+omalizumab 150-mg, and omalizumab 300-mg treatment arms of
+
+ASTERIA I and II were pooled and analyzed. The 300-mg treatment
+4 CASALE ET AL
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2015
+
+TABLE I. Patient characteristics at baseline*
+ASTERIA I/II GLACIAL"'
+Placebo Omalizumab 150 mg Omalizumab 300 mg Placebo Omalizumab 300 mg
+(n = 159) (n = 162) (n = 160) (n = 83) (n = 252)
+
+Age (y) 41.7 (14.2) 42.1 (13.6) 43.3 (13.4) 44.3 (14.7) 42.7 (13.9)
+Female sex, n (%) 107 (67.3) 129 (79.6) 123 (76.9) 55 (66.3) 186 (73.8)
+Race, n (%)
+
+White 134 (84.3) 133 (82.1) 142 (88.8) 5 (90.4) 223 (88.5)
+Weight (kg) 83.7 (23.2) 82.8 (22.5) 80.9 (19.7) 87.2 (25.2) 82.8 (21.5)
+
+<80 kg, n (%) 6 (47.8) 81 (50.0) 86 (53.8) 0 (48.2) 128 (50.8)
+Body mass index (kg/m?) 29.3 (7.0) 29.9 (7.5) 29.2 (6.6) 31.0 (9.6) 29.4 (7.1)
+Time since diagnosis of CIU/CSU* (y) 1 (10.1) 7.4 (9.0) 6.2 (7.6) 8 (11.2) 7.0 (8.8)
+Positive CU index test,i n (%) 8 (30.2) 43 (26.7) 39 (24.5) A (G2.5) 76 (30.4)
+No. of previous CIU/CSU 7 (4) 4.5 (4.0) 4.4 (4) 4 (6) 5.9 (6)
+
+medications, mean (median)
+
+Previous use of systemic steroids, n (%) 8 (42.8) 65 (40.1) 66 (41.3) 44 (53.0) 121 (48.0)
+Total IgE level; (U/mL), median (range) —_ 80.5 (1-1010) 71.0 (1-5000) 89.0 (1-2330) .0 (1-1230) 79.0 (1-3050)
+In-clinic UAS|| 3 (0.7) 5.3 (0.7) 5.3 (0.8) 5.2 (0.8) 5.2 (0.8)
+UAST§ -1 (6.6) 30.8 (7.1) 30.4 (6.4) .2 (6.7) 31.2 (6.6)
+Weekly ISS4 2 (3.5) 14.2 (4.0) 13.9 (3.4) 8 (3.6) 14.0 (3.6)
+
+>13, n (%) 99 (62.3) 100 (61.7) 95 (59.4) (0 (60.2) 154 (61.1)
+Weekly number of hives score§ 16.9 (4.3) 16.7 (4.4) 16.5 (4.3) 16.4 (4.6) 17.1 (4.2)
+Weekly size of largest hives score4] 15.3 (3.9) 15.2 (4.3) 15.1 (4.0) 15.2 (3.6) 15.1 (4.3)
+Overall DLQI score 3 (6.3) 13.3 (6.6) 12.9 (6.5) 13.0 (6.9) 13.8 (6.7)
+Angioedema present, n (%) 4] 4 (46.5) 76 (46.9) 66 (41.3) 1 (49.4) 137 (54.4)
+
+CIU/CSU, chronic idiopathic urticaria/chronic spontaneous urticaria; CU, chronic urticaria; DLOI, Dermatology Life Quality Index; /gE, immunoglobulin E; ISS, itch severity
+
+score; mITT, modified intention-to-treat; UAS, urticaria activity score; UAS7, urticaria activity score over 7 d.
+*Analyses are based on the mITT population. Data are presented as means (standard deviation) unless otherwise stated.
+
++ASTERIA I/II pooled: placebo, n = 155, omalizumab 150 mg, n = 159, omalizumab 300 mg, n = 15
+tASTERIA I/II pooled: omalizumab 150 mg, n = 161 and 300 mg, n = 159; GLACIAL: placebo, n =
+
+ 
+
+GLACIAL: placebo, n = 83; omalizumab 300 mg, n = 246.
+3; omalizumab 300 mg = 250.
+
+  
+ 
+
+§ASTERIA I/II pooled: placebo, n = 154, omalizumab 150 mg, n = 154, 300 mg, n = 152; GLACIAL: placebo, n = 82; omalizumab 300 mg, n = 244,
+\|Defined as the largest value from the day —14 screening visit, day —7 screening visit, and day 1 visit.
+Based on data collected in a patient daily diary in the 7 d before the first treatment date.
+
+arm analyses were compared with the analysis of data from the
+GLACIAL study. Data from the 75-mg arm of ASTERIA I and II
+were not evaluated in this pooled analysis because 75 mg was
+considered an ineffective dose in ASTERIA I (did not reach the primary endpoint) and this dose was not evaluated in the GLACIAL
+study. The results for the omalizumab 75-mg dose in patients with
+CIU/CSU reported separately.”'” For the primary
+endpoint, analysis of covariance models stratified by baseline weekly
+ISS (<13, >13) and baseline weight (<80, >80 kg) were used to
+generate the differences between each of the omalizumab groups and
+
+have been
+
+the placebo group in the least-squares means of the change from
+baseline in weekly ISS at week 12. Similar models were used for the
+e modified
+
+lomized pa
+other endpoints that measure
+
+intention-to-treat (mITT) po
+
+change from baseline. T!
+ulation included all ran
+tients who received at least 1 dose of study drug. Efficacy analyses were
+conducted using data from the mITT population, except for the
+analysis of proportion of angioedema-free days from week 4 to week
+12. For the evaluation of this endpoint, patients who withdrew before
+the week 4 visit or who had missing responses for more than 40% of
+the daily diary entries between the week 4 study visit and the week 12
+study visit were not included. In analyses of endpoints evaluating
+
+ 
+
+ 
+
+change from baseline to week 12, missing data at week 12 were
+imputed with the baseline observation carried forward, except for
+DLQI, for which no imputation was performed. Safety data in the
+form of adverse events (AEs) reported during week 1 to week 12 of
+3 studies. Safety data from the placebo
+
+ 
+
+ 
+
+ 
+
+treatment were pooled from all
+
+and omalizumab 150-mg and 300-mg arms of each study were
+summarized descriptively. Potential anaphylactic events were identified through an automated search of the AE database using a narrow
+search for terms representing core anaphylactic terms and a broad
+search that included signs and symptoms of anaphylaxis based on the
+Sampson criteria.’ Identified events with a temporal association with
+omalizumab administration were sent for external adjudication (see
+the Online Repository available at www jaci-inpractice.org for members of the Anaphylaxis Review Committee).
+
+RESULTS
+Efficacy
+
+The baseline demographic and disease characteristics for the
+ASTERIA I and II pooled populations and the GLACIAL
+population were generally similar, except for previous and current therapy for CIU/CSU, which were in accordance with the
+eligibility criteria in the studies. The median number of previous
+medications for CIU/CSU was higher in patients in GLACIAL
+than in the ASTERIA I and II pooled population (Table I). The
+mean weekly ISS was significantly reduced from baseline at week
+12 in the pooled ASTERIA I and II omalizumab 150- and 300mg treatment arms and in the GLACIAL omalizumab 300-mg
+arm (Table II). The magnitude of the reduction in weekly ISS
+at week 12 was similar between the omalizumab 300-mg groups
+in the ASTERIA I and II pooled and GLACIAL studies
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+TABLE II. Mean change from baseline in endpoints at week 12
+
+CASALE ET AL 5
+
+ASTERIA I/II GLACIAL'*
+Placebo Omalizumab Omalizumab Placebo Omalizumab
+Endpoint * (n = 159) 150 mg (n = 162) 300 mg (n = 160) (n = 83) 300 mg (n = 252)
+Primary/key efficacy endpoint
+Change from baseline to week 12 in weekly ISS —4.38 (5.44) —7.40 (6.39) —9.58 (5.83) —4.01 (5.87) —8.55 (6.01)
+P vs placebo = <.0001 <.0001 = <.0001
+Additional endpoints
+Change from baseline to week 12 in UAS7 —9.17 (11.56) — —16.18 (13.17) —21.24 (12.45) —8.50 (11.71) — —19.01 (13.15)
+P vs placebo 5 <.0001 <.0001 3 <.0001
+Change from baseline to week 12 in weekly —4.79 (6.57) —8.78 (7.23) —11.66 (7.40) —4.49 (6.33) —10.46 (7.74)
+no. of hives score
+P vs placebo <.0001 <.0001 <.0001
+Median (95% Cl) time to weekly ISS MID 4,0 (3.0, 5.0) 2.0 (NE, NE) 1.0 (1.0, 2.0) 5.0 (3.0, 7.0) 2.0 (1.0, 2.0)
+response up to week 12 (wk)}
+HR vs placebo (95% CI) - 1.53 (1.19, 1.96) 2.16 (1.68, 2.77) - 1.99 (1.47, 2.68)
+P vs placebo 0009 <.0001 <.0001
+Patients with weekly ISS MID response, n (%)+ 62 (42.1) 1.02 (63.0) 123 (76.9) 33 (39.8) 176 (69.8)
+P vs placebo - 0002 <.0001 - <.0001
+Change from baseline to week 12 in weekly —3.99 (5.48) —7A41 (6.71) —10.38 (6.93) —3.09 (5.46) —8.82 (7.23)
+size of largest hive score
+P vs placebo <.0001 <.0001 <.0001
+Change from baseline to week 12 in DLQI scorei —6.11 (6.89) —8.15 (6.74) —10.22 (7.01) —5.11 (7.53) —9.69 (6.85)
+P vs placebo - 0109 <.0001 - <.0001
+Proportion of angioedema-free days from 88.7 (19.1) 90.6 (19.0) 95.8 (12.9) 88.1 (18.9) 91.0 (21.0)
+week 4 to week 12%
+P vs placebo 5 -0301 <.0001 2 -0006
+
+CI, confidence interval; DLQI, Dermatology Quality of Life Index; HR, hazard ratio; ISS, itch severity score; MID, minimally important difference; NE, not evaluated; UAS7,
+
+urticaria activity score over 7 d.
+
+*Mean (standard deviation) based on modified intention-to-treat population unless otherwise noted.
++Minimally important difference response in weekly ISS was defined as >5-point reduction.
+
+tASTERIA I/II pooled: placebo, n = 131, omalizumab 150 mg, n = 133, 300 mg, n = 145; GLACIAL: placebo, n = 64; omalizumab 300 mg, n = 216.
+§ASTERIA MII pooled: placebo, n = 136, omalizumab 150 mg, n = 144, 300 mg, n = 148; GLACIAL: placebo, n = 68; omalizumab 300 mg, n = 224,
+
+(Table I). The results in the pooled ASTERIA I and II 150-mg
+group were consistent with the known dose response of omalizumab (Table II). The proportions of patients with wellcontrolled symptoms (UAS7 <6) and with complete symptom
+control (UAS7 = 0) were significantly greater than placebo in
+each of the omalizumab groups and were comparable in the 300mg treatment arms of the pooled ASTERIA I and II and
+GLACIAL populations (Figure 2). Compared with placebo, the
+duration of time to MID response was significantly shorter for
+patients in the omalizumab groups and a higher proportion of
+patients in the omalizumab groups were weekly ISS MID responders (>5-point reduction) at week 12 in both the pooled
+ASTERIA I and II and GLACIAL populations (Table II). Significant treatment differences for omalizumab compared with
+placebo were observed across the other efficacy endpoints, and
+the magnitude of the differences was comparable in the
+ASTERIA I and II pooled and GLACIAL 300-mg treatment
+arms (Table II).
+
+In terms of percentage change from baseline at week 12, the
+weekly ISS was reduced from baseline by an additional 38%
+and 36% over placebo in patients treated with 300-mg omalizumab in the pooled ASTERIA I and II and GLACIAL populations, respectively, and by an additional 25% over placebo in
+patients treated with 150-mg omalizumab in ASTERIA I and
+II (all P <.0001; Figure 3). Similar results were observed for
+
+ 
+
+ 
+
+percentage reductions from baseline in UAS7 and weekly number of hives score at week 12 compared with placebo (Figure 3).
+
+At week 12, the mean change in DLQI scores had improved
+from baseline by an additional 30% over placebo in the
+ASTERIA I and II populations and by an additional 50% in
+GLACIAL (both P <.0001; Figure 3). Percentage reductions in
+the selected endpoints were similar when ASTERIA I and II were
+evaluated separately (see Table E1 in this article’s Online Repository at www.jaci-inpractice.org).
+
+Safety
+
+Omalizumab 150 mg and 300 mg were well tolerated as addon therapy in patients with CIU/CSU who were symptomatic
+despite treatment with approved doses of H-antihistamines.
+Omalizumab 300 mg was also well tolerated in those who were
+taking standard combination therapies for CIU/CSU.
+
+Baseline characteristics for the patient safety population were
+similar (see Table E2 in this article’s Online Repository at www.
+jaci-inpractice.org). Overall, few patients discontinued treatment
+(4.0%) or the study (1.1%) because of an AE. The rates of
+treatment and study discontinuation as a result of an AE in the
+pooled dataset were 3.4% and 1.7% in the omalizumab 150-mg
+group, 3.6% and 1.2% in the 300-mg group, and 5.4% and
+1.7% in the placebo group. During the treatment period from
+week 1 to week 12, the proportions of patients with >1 AE were
+6 CASALE ET AL
+
+Patients with UAS7 <6
+
+ 
+
+  
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2015
+
+Patients with UAS7 =0
+
+ 
+
+   
+
+ 
+
+807 807
+704 70 4
+604 604
+x 504 3 504
+g 3
+§ 404 g 404
+& 304 & 304
+¥
+204 154 204 188
+12.0
+104 104 48
+0 n=159 0
+ASTERIA I/II GLACIAL ASTERIA I/II GLACIAL
+
+™@mm Placebo
+
+l= Omalizumab 150 mg
+@ Omalizumab 300 mg
+
+FIGURE 2. Proportion of responders by treatment group. *P <.0001. tP =.002. UAS7, urticaria activity score over 7 d. Results for the
+
+GLACIAL study from Kaplan et al.''
+
+similar in the omalizumab 150-mg and 300-mg groups, but
+higher than in the placebo group (Table III). During the 12week treatment period, the rate of serious AEs (SAEs) was low;
+the rate of SAEs was higher in the placebo group than in either of
+the omalizumab treatment groups (Table Il). SAEs reported in
+the placebo group included hemorrhoids, hypersensitivity,
+pneumonia, radius fracture, type 2 diabetes mellitus, hyperglycemia, cervical dysplasia, and chronic obstructive pulmonary
+disease. SAEs were hypertension reported in the omalizumab
+150-mg group and melena, retroperitoneal infection, pelvic abscess, angioedema, and tonsillectomy in the omalizumab 300-mg
+group.
+
+Most AEs were mild or moderate in severity; 6.2% of patients
+in the placebo group, 1.7% of patients in the omalizumab 150mg group, and 5.3% of patients in the omalizumab 300-mg
+group experienced a severe AE (Table III). From week 1 to
+week 12 of the treatment period, sinusitis (4.9% vs 2.1%), viral
+upper respiratory tract infection (0.5% vs 0%), arthralgia (2.9%
+vs 0.4%), headache (6.1% vs 2.9%), and cough (2.2% vs 1.2%)
+were more common in the omalizumab 300-mg group compared
+with the placebo group. Nasopharyngitis (9.1% vs 7.0%), viral
+upper respiratory tract infection (2.3% vs 0%), arthralgia (2.9%
+vs 0.4%), and headache (12.0% vs 2.9%) were more common in
+the omalizumab 150-mg group than in the placebo group. There
+was no evidence of dose-related AEs.
+
+The profile of AEs during the longer 24-week treatment
+period in ASTERIA I? and GLACIAL"! was similar to that
+observed for the pooled data during the 12-week treatment
+period, which suggested that there were no observable late-onset
+events or any change in the rate of AEs with increased duration
+of exposure. The AE profile observed in the pooled phase III
+studies was consistent with that known for omalizumab in patients with allergic asthma,'“'® with the exception of AEs specific to the respective indications (eg, urticaria, pruritus). There
+were no events of anaphylaxis related to omalizumab reported. In
+subanalyses, the AE profile was similar regardless of background
+therapy for CIU/CSU.
+
+Time to loss of response
+
+The median time to loss of response in patients who had
+achieved a UAS7 <6 (well controlled) at the end of the treatment
+period (week 12: ASTERIA I; week 24: ASTERIA I and
+GLACIAL) was similar in all 3 studies. Median time to loss of
+response for the 150-mg and 300-mg doses of omalizumab was 3
+weeks and 5 weeks, respectively, in both ASTERIA I and II. In
+GLACIAL, the median time to a loss of response was reported at
+7 weeks for omalizumab 300 mg. Placebo patients reported a
+median time to loss of response at 7 weeks in ASTERIA I, 6
+weeks in ASTERIA II, and 4.5 weeks for placebo-treated patients; this was most likely a reflection of the waxing and waning
+of the disease. No rebound effect following omalizumab
+discontinuation was noted.
+
+DISCUSSION
+
+Using data from the phase III studies for CIU, we sought to
+compare the efficacy, safety, and time to loss of response of
+omalizumab in patients with different background therapy.
+Despite differences in background therapy between studies,
+including triple therapy (Hy-antihistamines, H2-antagonists, and
+LTRAs), we observed similar treatment effect sizes across multiple endpoints. This suggests that background therapies in patients with refractory disease do not affect response to
+omalizumab (ie, patients with more intense background therapy
+respond at the same level as those with less intense background
+treatment).
+At baseline, mean DLQI scores were higher (ie, worse healthrelated quality of life [HRQoL]) than those observed in patients
+with atopic dermatitis, moderate to severe psoriasis, or psoriatic
+arthritis, '”?° which indicated considerable impact of CIU/CSU
+symptoms on HRQoL. Consistent treatment effects for omalizumab 300 mg versus placebo were observed across multiple
+
+ 
+
+efficacy endpoints in patients receiving different background
+therapies for CIU/CSU. After 12 weeks of treatment
+with omalizumab 300 mg, more than half of patients had
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+  
+
+CASALE ET AL 7
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+Weekly ISS Weekly UAS7
+80 « 80 .
+* 69.7 *
+5 70 . — 62.2 5 70 . 62.3
+3 80 51.9 3 Bo 52.8
+3 50 ZB 50
+: 40 30.9 2 40 29.6
+BS x E
+5 30 25.9 5 30 26.7
+2 20 i 8 2 LJ
+10 10
+0 n=159 i 0 n=159 I n=162! n=252|
+ASTERIA I/II GLACIAL ASTERIA I/II GLACIAL
+Weekly Number of Hives Score DLQI
+80 * 80 75.6 i
+70.4 i 727
+~ 70 ; - 70 ste
+& 60 & 60 ;
+& 50 3 50 45.5 :
+£ 40 £ 40 E
+= 30 = 30
+3 20 3 20 :
+= 3 :
+10 10
+0 0 n=131 n=133 n=145| H
+ASTERIA I/II GLACIAL ASTERIA I/II GLACIAL
+@l Placebo
+
+ME Omalizumab 150 mg
+ME Omalizumab 300 mg
+
+FIGURE 3. Percent reductions in key endpoints from baseline to week 12. *P <.0001. tP =.034. DLQ/, Dermatology Life Quality Index;
+
+/SS, itch severity score; UAS7, urticaria activity score over 7 d.
+
+well-controlled symptoms (UAS7 <6) and more than one third
+were completely itch- and hive-free (UAS7 = 0).
+
+The European/World Allergy Organization (EAACI/GA*
+LEN/EDF/WAO) published guidelines for the management of
+CIU/CSU suggest that omalizumab should be used as the third
+line of therapy (ie, on top of increased dosage up to 4-fold of
+modern second generation antihistamines) in the algorithm of
+treatment of urticaria (strong recommendation/high level evidence).' However, the US published guidelines for the management of CIU/CSU suggest that omalizumab should be used
+as the fourth step of therapy.”! Yet, there are limited to no robust
+clinical data that demonstrate incremental response rates for
+therapies other than omalizumab after using step 2 therapies.
+Whether or not omalizumab should also be considered as a thirdstep treatment in the United States (after up-dosing of second
+generation H,-antihistamines) remains to be determined. A
+systematic review of omalizumab in patients with CIU determined that the 300 mg dose has the most compelling data
+supporting its use.° The more recently published omalizumab
+phase III results, including this pooled analysis, will likely be of
+importance to include in such assessments.
+
+There were few serious AEs and the rate of serious AEs was
+lower in the omalizumab 300-mg group than in the placebo
+group. With the exception of urticaria-specific AEs, the most
+common AEs were consistent with those known for omalizumab
+in allergic asthma with no instances of anaphylaxis. Most AEs
+were mild to moderate in severity. Taken together with the efficacy results, the totality of the data suggests a favorable benefittisk profile for omalizumab in the treatment of CIU.
+
+The loss of response after discontinuation of therapy was similar
+despite the length of treatment received by the patient, which
+suggested that disease modification does not occur at these treatment durations. Rebound did not occur following omalizumab
+discontinuation. The return of symptoms on a consistent basis
+highlights the need for more prolonged therapy and a continued
+unmet need in this population of patients for disease modification.
+Treatment with omalizumab offers a fast onset of relief from
+symptoms for many patients with difficult-to-manage symptoms,
+yet the nature of the disease requires treatments that can reduce
+symptomatology on a chronic basis. Although efficacy over a 6month treatment period has been demonstrated, !' further
+studies that evaluate long-term treatment with omalizumab in
+CIU/CSU are needed to examine benefits with chronic therapy.
+
+On a practical level, the population of patients in the
+GLACIAL study, in which patients were taking multiple
+concomitant therapies for CIU/CSU, may be more reflective of
+patients with Hj-antihistamine-refractory CIU/CSU encountered
+in clinical practice. These patients with refractory symptoms
+continued the background therapies once they entered the trial
+and demonstrated similar responses to omalizumab as patients
+receiving less intense background treatment (ie, approved doses of
+H,-antihistamines) indicating that the response to omalizumab is
+not appreciably influenced by background therapies.
+
+Because the placebo-controlled period in the ASTERIA II
+study was 12 weeks, the current pooled analyses were limited to
+evaluating changes up to week 12. However, 2 of the 3 studies,
+ASTERIA I? and GLACIAL," also provide safety and efficacy
+
+information for the longer treatment period of 24 weeks.
+8 CASALE ET AL
+
+TABLE Ill. Patients with treatment-emergent adverse events
+during weeks 1 to 12 of treatment in ASTERIA |, ASTERIA II,
+and GLACIAL combined
+
+ 
+
+Omalizumab Omalizumab
+
+Placebo 150 mg 300 mg
+Adverse event, n (%) (n = 242) (n= 175) (n = 412)
+Any AE 103 (42.6) 96 (54.9) 210 (51.0)
+Serious AEs 8 (3.3) 1 (0.6) 5 (1.2)
+AEs by severity
+Mild 41 (16.9) 50 (28.6) 94 (22.8)
+Moderate 47 (19.4) 42 (24.0) 91 (22.1)
+Severe 15 (6.2) 3 (1.7) 22 (5.3)
+AEs with incidence >3%
+Infections and infestations 44 (18.2) 40 (22.9) 94 (22.8)
+Upper respiratory 30 (12.4) 23 (13.1) 63 (15.3)
+tract infections
+Nasopharyngitis 17 (7.0) 16 (9.1) 27 (6.6)
+Sinusitis 5 (2.1) 214) 20 (4.9)
+Upper respiratory 5 (2.1) 2 (1.1) 14 (3.4)
+tract infection
+Nervous system disorders 14 (5.8) 26 (14.9) 42 (10.2)
+Headache Te) 21 (12.0) 25 (6.1)
+Respiratory, thoracic, and 11 (4.5) DSA) 29 (7.0)
+mediastinal disorders
+Coughing and associated 3.2) 21) 12 (2.9)
+symptoms
+Cough 3 (1.2) 20.1) 9 (2.2)
+Skin and subcutaneous 23 (9.5) 12 (6.9) 45 (10.9)
+tissue disorders
+Urticarias 12 (5.0) 5 (2.9) 16 (3.9)
+Idiopathic urticaria 6 (2.5) 1 (0.6) 9 (2.2)
+
+AE, adverse event.
+
+Additional studies in real-world populations will provide additional information on the efficacy and safety of omalizumab. One
+limitation of the UAS7 is that non—urticaria-related itch is
+captured and this may result in underestimation of the rate of
+complete response (ie, UAS7 = 0) to omalizumab. The analyses
+were based on clinical studies with strict eligibility criteria, and,
+thus, the results may not be generalizable to all patients
+encountered in clinical practice. The indirect comparisons across
+different studies and the post hoc nature of the analyses are further
+limitations of note.
+
+In summary, the findings from this post hoc analysis indicate that
+omalizumab 300 mg had similar efficacy in CIU/CSU patients
+regardless of the background therapy for urticaria used in the trials,
+and the safety profile in CIU was generally similar to that in allergic
+asthma. There was no evidence of dose-related safety issues.
+
+Acknowledgments
+
+The authors would like to acknowledge former Novartis
+employee Janice Canvin for her invaluable contributions to the
+study design, data collection, and analysis, and interpretation of
+the results. Support for third-party writing assistance for this
+manuscript was provided by Genentech, Inc., and Novartis
+Pharma AG. Medical writing support for this manuscript was
+provided by Alison Gagnon and Charlotte Kenreigh of Excel
+Scientific Solutions and funded by Genentech, Inc., and
+Novartis Pharmaceuticals Corporation.
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2015
+
+REFERENCES
+
+1.
+
+20.
+
+21.
+
+. Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenéz-Arnau A, et al.
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACIGA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update.
+Allergy 2014;69:868-87.
+
+. Asero R. Chronic unremitting urticaria: is the use of antihistamines above the
+
+licensed dose effective? A preliminary study of cetirizine at licensed and abovelicensed doses. Clin Exp Dermatol 2007;32:34-8.
+
+ 
+
+. Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, et al.
+
+Efficacy and safety of omalizumab in patients with chronic urticaria who exhibit
+IgE against thyroperoxidase. J Allergy Clin Immunol 2011;128:202-209.e5.
+
+. Staevska M, Popov TA, Kralimarkova T, Lazarova C, Kraeva S, Popova D,
+
+et al. The effectiveness of levocetirizine and desloratadine in up to 4 times
+conventional doses in difficult-to-treat urticaria. J Allergy Clin Immunol 2010;
+125:676-82.
+
+ 
+
+. Khan DA. Alternative agents in refractory chronic urticaria: evidence and
+
+considerations on their selection and use. J Allergy Clin Immunol Pract 2013;1
+433-440.e1.
+
+. Urgert MC, van den Elzen MT, Knulst AC, Fedorowicz Z, van Zuuren EJ.
+
+Omalizumab in patients with chronic spontaneous urticaria: a systematic review and
+GRADE assessment. Br J Dermatol 2015. hitp:/dx.doi.org/10.1 11 1/bjd.13845.
+
+. Xolair (omalizumab) prescribing information; 2014. Available from: http://www.
+
+gene.com/gene/products/information/pdf/xolair-prescribing.pdf. Accessed
+May 27, 2015.
+
+. Summary of product characteristics (omalizumab [Xolair]); 2014. Available from:
+
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Infor
+mation/human/000606/WC500057298. pdf.
+
+. Saini SS, Bindsley-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E,
+
+ 
+
+Bradley MS, et al. Efficacy and safety of omalizumab in patients with chronic
+idiopathic/spontaneous urticaria who remain symptomatic on H_antihistamines: a randomized, placebo-controlled study. J Invest Dermatol 2015;135
+67-75.
+
+Omalizumab for the treatment of chronic idiopathic or spontaneous urtic
+N Engl J Med 2013;368:924-35,
+
+ 
+
+ 
+
+. Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, et al.
+
+Omalizumab in patients with symptomatic chronic idiopathic/spontaneous
+urticaria despite standard combination therapy. J Allergy Clin Immunol 2013;
+132:101-9.
+
+Mathias SD, Crosby RD, Zazzali JL, Maurer M, Saini SS. Evaluating the
+minimally important difference of the urtic: ctivity
+of disease activity in patients with chronic idiopathic urticaria. Ann Allergy
+Asthma Immunol 2012;108:20-4.
+
+   
+
+re and other measures
+
+ 
+
+. Sampson HA, Munoz-Furlong A, Campbell RL, Adkinson NF Jr, Bock SA,
+
+Branum A, et al, Second symposium on the definition and management of
+anaphylaxis: summary report—Second National Institute of Allergy and Infectious Disease/Food Allergy and Anaphylaxis Network symposium. J Allergy
+Clin Immunol 2006;117:391-7.
+
+. Busse W, Corren J, Lanier BQ, McAlary M, Fowler-Taylor A, Cioppa GD,
+
+et al. Omalizumab, anti-[gE recombinant humanized monoclonal antibody, for
+the treatment of severe allergic asthma. J Allergy Clin Immunol 2001;108:
+184-90.
+
+. Soler M, Matz J, Townley R, Buhl R, O’Brien J, Fox H, et al. The anti-IgE
+
+antibody omalizumab reduces exacerbations and steroid requirement in
+allergic asthmatics. Eur Respir J 2001;18:254-61.
+
+ 
+
+. Long A, Rahmaoui A, Rothman KJ, Guinan E, Eisner M, Bradley MS, et al.
+
+Incidence of malignancy in patients with moderate-to-severe asthma treated with
+or without omalizumab, J Allergy Clin Immunol 2014;134:560-567.e4.
+
+. Long AA, Fish JE, Rahmaoui A, Miller MK, Bradley MS, Taki HN, et al.
+
+Baseline characteristics of patients enrolled in EXCELS: a cohort study. Ann
+Allergy Asthma Immunol 2009;103:212-9.
+
+. Hanania NA, Alpan O, Hamilos DL, Condemi JJ, Reyes-Rivera I, Zhu J, et al.
+
+Omalizumab in severe allergic asthma inadequately controlled with standard
+therapy: a randomized trial. Ann Intern Med 2011;154:573-82.
+
+ 
+
+. Lundberg L, Johannesson M, Silverdahl M, Hermansson C, Lindberg M.
+
+Health-related quality of life in patients with psoriasis and atopic dermatitis
+measured with SF-36, DLQI and a subjective measure of disease activity. Acta
+Derm Venereol 2000;80:430-4.
+
+Norlin JM, Steen Carlsson K, Persson U, Schmitt-Egenolf M. Analysis of three
+outcome measures in moderate to severe psorias
+2450 patients. Br J Dermatol 2012;166:797-802.
+Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al. The
+diagnosis and management of acute and chronic urticaria: 2014 update.
+J Allergy Clin Immunol 2014;133:1270-7.
+
+ 
+
+: a registry-based study of
+J ALLERGY CLIN IMMUNOL PRACT CASALEETAL  8.e1
+VOLUME Ml, NUMBER fi
+
+TABLE E1. Percentage reductions from baseline in key endpoints at week 12 in ASTERIA | and ASTERIA II
+
+ASTERIA | ASTERIA Il
+Placebo Omalizumab Omalizumab Placebo Omalizumab Omalizumab
+
+Endpoint (n = 80) 150 mg (n = 80) 300 mg (n = 81) (n = 79) 150 mg (n = 82) 300 mg (n = 79)
+Weekly ISS* 25.5% (38.1) 47.7% (42.5) 66.6% (36.3) 36.2% (38.9) 56.0% (43.2) 70.6% (41.3)
+Difference vs placebo (95% CI) - 21.8% (9.7, 34.0): 40.5% (28.4, 52.6)t - 19.9% (6.6, 33.2) 34.5% (21.1, 48.0)t
+UAS7* 25.5% (38.5) 48.8% (41.4) 67.0% (36.6) 33.7% (39.2) 56.6% (40.1) 72.6% (40.6)
+Difference vs placebo (95% CI)* - 23.2% (11.1. 35.2)§ 40.8% (28.7, 52.9): - 23.0% (10.4, 35.6)§ 38.7% (25.9, 51.5)t
+Weekly no. of hives score* 25.0% (41.3) 50.2% (41.7) 67.0% (39.2) 31.3% (42.8) 57.3% (40.2) 73.8% (43.3)
+Difference vs placebo (95% CI)* - 24.8% (12.2, 37.4)i 41.3% (28.7, 54.0): - 26.3% (13.2, 39.4)t 42.1% (28.8, 55.3)t
+DLQI score*,|| 47.2% (41.1) 50.9% (72.5) 73.6% (40.6) 44.0% (54.1) 65.5% (36.4) 71.6% (34.0)
+Difference vs placebo (95% CI)* - 2.9% (15.3, 21.1)§ 26.2% (8.6, 43.8)§ - 22.1% (6.2, 37.9)§ 33.3% (17.6, 48.9)t
+
+ 
+
+CI, confidence interval; DLQJ, Dermatology Life Quality Index; ISS, itch severity score; UAS7, urticaria activity score over 7 days.
+*Mean (SD) percentage reduction from baseline to week 12.
+
+Treatment difference in least-squares means relative to placebo.
+
++P <.0001.
+
+§P <.05.
+
+\|Number of patients: ASTERIA I, placebo, n = 62, omalizumab 150 mg, n = 63 and 300 mg, n = 72; ASTERIA II, placebo, n = 69, omalizumab 150 mg, n = 70 and
+omalizumab 300 mg, n = 73.
+
+Not significant.
+
+TABLE E2. Patient characteristics at baseline (safety data) *
+ASTERIA I/II & GLACIAL
+
+Placebo Omalizumab 300 mg
+(n = 242) (n = 412)
+Age (y) 42.6 (14.4) 42.9 (13.7)
+Female sex, n (%) 162 (66.9) 309 (75.0)
+Race, n (%)
+White 209 (86.4) 365 (88.6)
+Weight (kg) 84.9 (23.9) 82.1 (20.9)
+<80 kg, n (%) 116 (47.9) 214 (51.9)
+Body mass index (kg/m?) 29.9 (8.0) 29.3 (6.9)
+Time since diagnosis of 7.7 (10.5) 6.7 (8.3)
+CIU/CSU (y)*
+Positive CU Index test, n (%) 75 (31.0) 115 (28.1)
+Number of previous CIU/CSU 5.3 (3.0) 5.3 (2.6)
+medications, mean (median)
+Previous use of systemic 112 (46.3) 187 (45.4)
+steroids, n (%)
+Total IgE level (IU/mL), 80.0 (1-1230) 79.0 (1-3050)
+median (range)t
+In-clinic UAS§ 5.3 (0.7) 5.2 (0.8)
+UAS7| 30.8 (6.6) 30.9 (6.5)
+Weekly ISS| 14.1 (3.5) 14.0 (3.5)
+>13, n (%) 149 (61.6) 249 (60.4)
+Weekly number of hives score|] 16.7 (4.4) 16.9 (4.2)
+Angioedema present, n (%)| 115 (47.5) 203 (49.3)
+
+CIU/CSU, chronic idiopathic urticaria/chronic spontaneous urticaria; CU, chronic
+urticaria; /SS, itch severity score; UAS, urticaria activity score; UAS7, urticaria
+activity score over 7 d.
+
+*Data are presented as means (standard deviation) unless otherwise stated.
++Number of patients: placebo, n = 238, omalizumab 300 mg, n = 403.
+
+$Placebo, n = 236; omalizumab 300 mg, n = 396.
+
+§Defined as the largest value from the day —14 screening visit, day —7 screening
+visit, and day 1 visit.
+
+\|Based on data collected in a patient daily diary in the 7 d before the first treatment
+date.
+

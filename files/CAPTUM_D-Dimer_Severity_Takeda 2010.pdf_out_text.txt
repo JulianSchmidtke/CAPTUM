@@ -1,0 +1,755 @@
+ORIGINAL ARTICLE
+
+Allergy
+
+SKIN AND EYE DISEASES
+
+Increase of coagulation potential in chronic spontaneous
+
+urticaria
+
+T. Takeda’, Y. Sakurai', S. Takahagi?, J. Kato’, K. Yoshida’”, A. Yoshioka’, M. Hide” & M. Shima’
+
+‘Department of Pediatrics, Nara Medical University School of Medicine, 840 Shijo-cho, Kashihara, Nara 634-8522, Japan; *Department of
+Dermatology, Programs for Biomedical Research, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan
+
+ 
+
+To cite this article: Takeda T, Sakurai Y, Takahagi S, Kato J, Yoshida K, Yoshioka A, Hide M, Shima M. Increase of coagulation potential in chronic spontaneous
+
+urticaria. Allergy 2011; 66: 428-433.
+
+Keywords
+
+chronic spontaneous urticaria; coagulation
+factor; hypercoagulative state; waveform
+analysis.
+
+Correspondence
+
+Yoshihiko Sakurai, Department of Pediatrics,
+Nara Medical University School of Medicine,
+Kashihara, Nara 634-8522, Japan.
+
+Tel.: +81-744-29-8881
+
+Fax: +81-744-24-9222
+
+E-mail: ysakurai@naramed-u.ac.jp
+
+*Present address: Division of Allergy,
+National Center for Child Health and
+Development, 2-10-1 Okura, Setagaya-ku,
+Tokyo157-8535, Japan.
+
+Accepted for publication 13 October 2010
+DOI:10.1111/).1398-9995.2010.02506.x
+
+Edited by: Hans-Uwe Simon
+
+Chronic spontaneous urticaria (CU) is a common skin disorder characterized by spontaneously appearing wheals and
+pruritus anywhere on the body for 6 weeks or longer (1). It
+severely impairs the quality of life of patients (2). In patients
+with urticaria, degranulation of cutaneous mast cells by a
+variety of reasons results in the release of histamine, which
+induces the activation of sensory nerves, vasodilatation, and
+extravasation of plasma from microvessels into the dermis.
+The administration of anti-histamines effectively suppresses
+symptoms of many patients with CU. Although IgG antibody to IgE and/or those to the high affinity IgE receptor
+plays a role in the mechanism for activation of cutaneous
+mast cells and blood basophils in CU (3, 4), the detailed
+mechanism of mast cell stimulation in CU remains to be fully
+elucidated and a substantial population of patients with CU
+is not sufficiently controlled with anti-histamines alone. On
+the other hand, beneficial effects of anticoagulants such as
+
+428
+
+Abstract
+
+Background: The pathogenesis of chronic spontaneous urticaria (CU) has recently
+been conceived to be associated with thrombin generation through the extrinsic
+coagulation pathway. However, little is known about the components of the intrinsic coagulation pathway potentially involved.
+
+Methods: To investigate the whole process of coagulation, both classical coagulation
+assays and a global coagulation test, the intrinsic coagulation pathway-dependent
+activated partial thromboplastin time (APTT) clot waveform analysis, were performed using plasma of 36 patients with CU who had various severities.
+
+Results: Classical coagulation assays revealed that levels of fibrinogen, D-dimer, and
+fibrin and fibrinogen degradation products (FDP), and positive rates of soluble
+fibrin monomer complex (SFMC) were significantly elevated in patients with CU,
+whereas the elevation of prothrombin fragment | + 2 was not statistically significant. On the other hand, all parameters of a global coagulation test, APTT clot
+waveform analysis, evidently showed a hypercoagulable pattern and were significantly correlated to disease severity of CU.
+
+Conclusions: CU is characterized by elevated blood coagulation potential with
+involvement of the intrinsic coagulation factors, which may contribute in vivo to the
+generation of fibrin even by small amounts of thrombin.
+
+heparin and warfarin have been reported in some patients
+with intractable urticaria (5-7), but the pharmacological
+mechanisms by which anticoagulants exert their effects in
+urticaria has long been unexplained.
+
+In recent years, a series of reports by Asero and his colleagues has shed light on the involvement of coagulation in
+the pathogenesis of CU. They described enhanced thrombin
+generation through the observation of high levels of prothrombin fragments | + 2 (PF1 + 2) in patients with CU
+(8). They argued that thrombin generation is accelerated by
+the increase of tissue factor (TF) expressed in dermal tissues
+via the activation of extrinsic coagulation (9). They advocated that the accelerated generation of thrombin would then
+activate mast cells and increase endothelial permeability (8).
+However, Kaplan and Greaves recently challenged this
+scenario on several points: (i) lack of evidence for thrombindependent activation of human mast cells, (ii) immediate
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S
+Takeda et al.
+
+inactivation of thrombin by plasma inhibitors, (iii) possible
+presence of yet to be defined plasma factor other than thrombin that leads to an increase in endothelial permeability (10).
+In this context, the extrinsic coagulation pathway evoked by
+activated factor VII (FVIla)-TF binding is known to be
+promptly attenuated due to a large amount of tissue factor
+pathway inhibitor (TFPI) in tissues (11). Therefore, the coactivation of the intrinsic pathway coagulation factors, especially factors VIII and IX, should be requisite to overcome
+the inhibition by TFPI and complete coagulation by full
+thrombin generation (i.e. thrombin burst).
+
+To elucidate a more detailed condition of coagulation in
+CU, including the involvement of the intrinsic coagulation
+pathway, it is fundamental to assess the whole process of
+coagulation. However, conventional assays for blood coagulation measure only a part of the coagulation process, such
+as the initiation time of clot formation, and do not necessarily reflect the overall coagulation process. Both prothrombin
+time (PT) and activated partial thromboplastin time (APTT)
+are useful to obtain information for only an early stage of
+clot formation. On the other hand, classical thrombin assays,
+such as prothrombin fragment | + 2 (PF1 + 2), estimate
+the amount of thrombin that has already been generated
+before blood collection. However, recently developed clot
+waveform analysis assesses the whole process of coagulation
+beyond the initiation time of clot formation through continuously charting the changes in light transmittance on standard
+coagulation assays such as APTT (12, 13). Data are mathematically processed to derive several unique parameters, such
+as to reflect hemorrhagic and thrombophilic conditions perceptively. In this study, we evaluated hemostatic profiles of
+plasma in patients with CU using APTT clot waveform analysis as well as classical coagulation assays in order to elucidate the precise involvement of coagulation in CU.
+
+Methods
+Patients and plasma samples
+
+We recruited 15 normal healthy individuals and 36 patients
+with CU of various severities. Mean + SD age of healthy
+individuals was 37.4 + 14.0 years (range 27-80) and that of
+CU patients was 47.0 + 18.0 years (range 9-76). No significant age differences were seen between these groups. All
+patients were diagnosed at Department of Dermatology,
+Hiroshima University Hospital on the basis of the appearance of spontaneous wheals anywhere on the body with or
+without angioedema for more than 6 weeks (1). All patients
+with CU whose severity was properly assessed and described
+in the medical record at the time of blood collection were
+divided into three groups using a clinical urticaria-severity
+score (1-3: mild, moderate, and severe, respectively) as
+described elsewhere (14, 15). According to this score, 10
+patients were evaluated as mild, 19 as moderate, and 7 as
+severe.
+
+Blood was drawn into evacuated anticoagulant tubes [nine
+volumes of blood to one volume of 3.8% (w/v) trisodium
+citrate solution]. After centrifugation for 15 min at 1500 g,
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S.
+
+Hypercoagulative state in chronic urticaria
+
+the platelet-poor plasma was stored at ~80°C and thawed at
+37°C immediately prior to performing the assays described.
+
+The study protocol conformed to the ethical guidelines of
+the Declaration of Helsinki, was approved by the Nara Medical University Hospital Ethical Committee and the Institutional Review Board at the Hiroshima University Hospital,
+and all subjects gave their informed consent before participation.
+
+Classical coagulation assays
+
+Among coagulation factors, fibrinogen and factors VII, VIII,
+and X clotting activities (FVII:C, FVII:C, and FX:C) were
+measured by a one-step clotting assay on a MDA-II Haemostasis System (bioMérieux, Lyon, France) using the respective
+factor-deficient plasma (Sysmex, Kobe, Japan), Thrombocheck Fib-L (Sysmex), Thrombocheck PT Plus (Sysmex), and
+Thrombocheck APTT-SLA (Sysmex). A standard curve was
+prepared using Verify Reference Plasma (bioMérieux) in
+serial doubling dilutions (1:10-1:1280) in 0.05 M imidazole
+saline buffer containing 0.05% sodium azide (pH 7.3). The
+Verify Reference Plasma is calibrated by the manufacturer
+against an International FVIII Standard (IRP-SSC1 or 2).
+Each test sample was diluted to 1:10 in imidazole saline
+buffer. Plasma von Willebrand factor antigen (VWF:Ag) level
+was determined by ELISA using double-antibody sandwich
+techniques (Dako, Glostrup, Denmark).
+
+Plasma FDP and D-dimer were measured by the latex
+agglutination method using Nanopia P-FDP (Daiichi Pure
+Chemicals, Tokyo, Japan), COBAS INTEGRA 700 (Roche
+Diagnostics, Tokyo, Japan), respectively. The plasma
+PFI + 2 levels were measured using an enzyme immunoassay (Enzygnost PFl + 2 micro, Dade Behring, Germany)
+according to the manufacturer’s instructions. Plasma soluble
+fibrin monomer complex (SFMC) was determined by the
+fibrin monomer-coated erythrocyte aggregation method using
+the FM test (Roche Diagnostics), which gave qualitative
+results.
+
+APTT clot waveform analysis
+
+APTT clot waveform analysis of the optical data obtained
+from the modified APTT assay was performed on the MDAII Haemostasis System as described previously (16). As with
+an APTT assay, the analysis is performed by adding to
+plasma a surface activator, phospholipids, and calcium ions
+to activate the intrinsic clotting system. Intrinsic coagulation
+potential of plasma is reflected in clot waveform. The
+obtained data were processed subsequently by export
+research tools (WIT/WET, bioMérieux, Fig. 1). The first
+derivative of the transmittance (d7/d/) reflects the coagulation velocity at each time point along the waveform plot of
+changes in light transmission, which in turn reflects the conversion of fibrinogen to a fibrin clot. Point ‘a’ marks the
+beginning of the recording by the instrument which occurs
+8 s after the addition of CaCl. The minimum value of the
+first derivative (Minl), defining the maximum velocity of
+change in light transmission achieved (point ‘c’), was calcu
+429
+Hypercoagulative state in chronic urticaria
+
+   
+  
+
+ 
+
+Transmittance
+aTidt Coagulation
+velocity
+d?T/dt
+
+ 
+   
+
+Coagulation
+acceleration
+
+Time (s)
+
+Figure 1 APTT clot waveform of normal plasma. The upper trace
+shows the recording of the changes in light transmittance (7)
+observed over time (t) during the performance of a normal diluted
+APTT. The middle trace shows the first derivative (d7/dt: Min1)
+derived from these transmittance data. The lower trace shows the
+second derivative (d?7/d?: Min2).
+
+lated as an indicator of the maximum velocity of coagulation.
+The second derivative of the transmittance data (d°T/d’’)
+reflects the acceleration of the reaction at any given time
+point. The minimum value of the second derivative (Min2),
+measured at point ‘b’, and the maximal value of the second
+derivative (Max2) at point ‘d’ were also calculated as an
+index of the maximum acceleration of the reaction achieved
+(16). Reduction in Clot Time and increase in |Min1|, Max2,
+and |Min2| shows a hypercoagulable state, whereas prolonged Clot Time and decreased |Minl|, Max2, and |Min2
+indicate a hypocoagulable state or bleeding tendency.
+
+Statistical analysis
+
+Data are presented as mean + SD. Statistical analysis of
+differences among two groups was determined by the Mann—
+Whitney test. The chi-square test or Fisher’s exact test was
+used to determine differences with respect to SFMC test. Correlations were calculated according to Spearman rank correlation coefficient. The level of significance was set at P < 0.05.
+All analyses were done using the GRAPHPAD PRISM (GraphPad
+Software, San Diego, CA, USA) and ystaT 2002 software
+package (Igaku Tosho Shuppan, Tokyo, Japan).
+
+Results
+Hemostatic profiles in the CU patients
+
+The results of classical coagulation assays; coagulation factors and coagulation activation markers, are shown in Fig. 2.
+Among coagulation factors, a significantly elevated level was
+observed in fibrinogen in the CU patient group (P < 0.05)
+(Fig. 2A). Among markers of activated coagulations, the
+levels of D-dimer and FDP and the positive rate of SFMC
+were higher in the CU patient group than in the control
+
+430
+
+Takeda et al.
+
+group (P < 0.05). The levels of PF1 + 2 levels in the CU
+group were also higher than those in control groups, but the
+difference was not statistically significant (Fig. 2B). On the
+other hand, all parameters in clot waveform analysis showed
+the hypercoagulable pattern in the CU patient group: significantly reduced Clot Time and elevated |Min1l|, Max2, and
+\Min2|: P < 0.05, P < 0.01, P < 0.001, P < 0.001, respectively (Fig. 2C).
+
+When patients were divided according to clinical severities
+of CU, they were significantly correlated to levels of D-dimer
+(P < 0.05) and PF1 + 2 (P < 0.01), and positive rates of
+SFMC (P < 0.05), but not to levels of FDP and coagulation
+factors (Fig. 3A and B). On the other hand, significant correlations were observed between disease severities and all
+parameters in clot waveform analysis, Clot Time, |Min1|,
+Max2, and |Min2) (P < 0.01) (Fig. 3C).
+
+Discussion
+
+In this study, we have demonstrated that increased coagulation potential is strongly associated with symptoms of CU by
+performing APTT clot waveform analysis in addition to
+assays for the levels of coagulation factors and markers of
+activated coagulations.
+
+We first evaluated hemostatic profiles using classical coagulation assays. Among coagulation factors in patients with
+CU, the level of fibrinogen was higher than that of healthy
+controls (Fig. 2A). However, no correlation was observed
+between the levels of any coagulation factors and disease
+severities of CU (Fig. 3A). Coagulation activation markers in
+CU, D-dimer, FDP, PF1 + 2, and positive rate of SFMC
+tend to be elevated and correlated with disease severities in
+patients with CU. However, the increase of PFI + 2 in
+patients with CU was not significant as compared with
+healthy controls, and levels of FDP were not significantly
+correlated with disease severities of CU (Figs 2B and 3B).
+
+On the other hand, all parameters in APTT clot waveform
+analysis showed significantly hypercoagulable patterns in
+patients with CU (Fig. 2C), and significantly correlated to
+disease severities of CU (Fig. 3C). It is known that the level
+of PF1 + 2, the level of D-dimer, and the positive rate of
+SFMC refiect the amount of thrombin actually generated,
+and the level of FDP reflects both the amount of actually
+generated thrombin and fibrinolytic activity. However, we do
+not have clear data to explain the discrepancy between the
+levels of actually activated coagulation markers and those of
+coagulability represented by global coagulation test parameters. Taking into account that any clinically thrombotic
+complications are not usually observed in association with
+CU, there may be an urticaria intrinsic mechanism that
+prevents the burst of thrombin formation, while it drives
+coagulation to produce a small amount of thrombin.
+
+Asero et al. (9) concluded that no activation of FXII was
+evident in CU. We also found that FXII activity measured by
+a one-step clotting assay was not elevated in CU patients
+recruited in this study (data not shown). These observations
+appear to suggest that the intrinsic coagulation pathway is
+not involved in CU, since FXII is essential as an initiator of
+
+ 
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S
+Takeda et al.
+
+  
+
+ 
+
+Hypercoagulative state in chronic urticaria
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Fibrinogen (me/d)) FVII:C (%) FVII:C (%) FX:C (%) VWE:Ag (%)
+800 2004 2504 300
+es 200 o
+3 J 200 *
+600 150 150 200
+150
+400 100 100 | 968
+100
+200 50 50 50
+0 0 0 0 0
+gs sO gs gs
+B D-dimer (ue/m) FDP (ue/mi) PF1+2 (pM) SFMC (positive rate)
+8 * 254 ri 10004 . 0.6 6
+3 . 20 800 .
+04
+02
+»»
+s °
+Cc Clottime(s) | Min2 |
+80 = . 1.0 po
+40 0.8 .
+Bs ] 06 .
+25 044 ee
+204 =
+0.2
+0 - 0 - 0.0 - 0.0 & © Ss © Ss o s c
+
+Figure 2 Hemostatic profiles in patients with CU. (A) Coagulation
+factors in healthy controls (Cont) and patients with CU (CU). (B)
+Coagulation activation markers in healthy controls (Cont) and
+patients with CU (CU). (C) Parameters of APTT clot waveform
+
+the intrinsic pathway in the model of classical coagulation
+cascade (contact system model). However, according to the
+recently proposed ‘cell based model’ of thrombin generation
+(17), the intrinsic pathway can be directly activated by a small
+amount of thrombin via factor XI (FXI) on an activated
+platelet membrane without the activation of FXII in vivo (18,
+19). Moreover, thrombin generated by the extrinsic coagulation pathway should be promptly inactivated by TFPI without the activation of the intrinsic pathway. Furthermore,
+APTT clot waveform analysis applied in this study is sensitive
+to intrinsic factors VIII and IX, which are essential to overcome TFPI-mediated inhibition of the extrinsic pathway (19).
+Although we did not measure individual activities of all intrinsic factors, the hypercoagulable pattern in APTT clot waveform analysis suggests a high potential of the intrinsic
+coagulation cascade. Thus, it is feasible that the state of
+hypercoagulability based on both intrinsic and extrinsic activation may play an important role in the pathogenesis of CU.
+The relation of mast cell activation and the state of hypercoagulability is a matter of discussion. Asero etal. (8)
+argued that thrombin activates skin mast cells via the activation of protease-activated receptor (PAR)-1 based on their
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S.
+
+analysis in healthy controls (Cont) and patients with CU (CU). Bars
+indicate means. * indicates P< 0.05, **P<0.01, ***P< 0.001
+(compared to healthy controls).
+
+observations of positive autologous plasma skin test in
+patients with CU. However, there has not been enough evidence to confirm thrombin-dependent activation of mast cells
+(10). In addition, thrombin formation is reduced by subcutaneously-injected histamine, which is released from activated
+mast cells in vivo (20). Moreover, heparin proteoglycans
+released from mast cells strongly inhibit interaction of platelets with collagen (21), an important physiological agonist
+for platelets. Therefore, mast cell activation should result in
+the inhibition of full platelet activation that is requisite for
+thrombin burst. In fact, the amount of thrombin generation
+observed in patients with CU in this study was small.
+
+In the hypercoagulable state, the activation of mast cells
+might be triggered or augmented by coagulation factors other
+than thrombin through the activation of PAR-2 rather than
+PAR-1. Recently, Wang et al. has mentioned that FVIIa may
+cause mast cell degranulation via PAR-2 activation in
+patients with CU (22). PAR-2 is cleaved by proteases with
+trypsin-like specificity but not by thrombin that cleaves
+PAR-1 and PAR-4. Moreover, as PAR-2 can be activated by
+tryptase (23), once mast cells are activated, mast cells may be
+further activated by tryptase secreted by activated mast cells.
+
+431
+    
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+  
+
+ 
+
+ 
+
+Hypercoagulative state in chronic urticaria Takeda et al.
+A Fibrinogen (me/an FVII:C (6) FVII:C (0) FX:C(%) VWF:Agi(%)
+800 200 250 200 * 300
+600 : 150 i 208 : 160
+
+a ee © : 200
+. yak 150 *.
+
+400 See 100 6. of . 100 be
+
+oH : io - 100 :
+
+200 50 50 50 :
+0 0 0 0 0
+
+0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3
+Severity Severity Severity Severity Severity
+B D-dimer (ug/m) FDP (ug/mi) PF1+2 (pM) SFMC (positive rate)
+8 25 1000 1.0
+7 P<0.05 . P<0.01 3 P<0.05
+20 800 0.8
+6 |
+3 15 . 600 . 0.6
+2 we 17, * 400 0.4
+1 to 5 200 0.2
+se ay .
+ty) a. ea () — 0 r 0.0
+o 12 8 o 14 0 1 2 8 o 1 2 3
+Severity Severity Severity Severity
+C — Clottime«) | Mint | Max2 | Min2|
+50 P<0.01 10 P<0.01 08 P<0.01 1.0 P<0.01
+06 08 .
+04 pe
+0.2
+0.0 7 0.0 T
+0 1 2 3 o 1 2 3
+Severity Severity Severity Severity
+
+Figure 3 Correlation with severities in patients with CU. (A) Correlation between severities and coagulation factors. (B) Correlation
+between severities and coagulation activation markers. (C) Correla
+It is noteworthy that the complex of FVIIa, activated FX
+(FXa), and TF may work more efficiently as a PAR-2 agonist than FVIIa only (24-26). Since extrinsic TF-FVIla complex is promptly attenuated by TFPI, FXa generated with
+help of intrinsic coagulation factors VIH and IX should be
+crucial for PAR-2 activation. Thus, a hypercoagulable state
+with low level of thrombin generation observed in CU may
+potently evoke or augment mast cell activation through
+PAR-2 cleavage by activated coagulation factors, and
+prevents a progress of excessive thrombin generation. The
+efficacy of several anti-coagulants, including nafamostat mesilate (27), heparin (6, 7) and warfarin (28, 29), reported in a
+few cases of CU support this possibility. We are currently
+studying if FVIIa actually induces histamine release from
+human skin mast cells in vitro. Further studies about longer
+and detailed time courses of hemostatic activities in patients
+with CU, in relation to wheal formation, disease activities,
+and mast cell activation should reveal their precise roles in
+the pathogenesis of urticaria.
+
+432
+
+tion between severities and parameters of APTT clot waveform
+analysis. Statistical significance is shown in each figure.
+
+Acknowledgements
+
+The authors appreciate the thoughtful and critical review of
+the manuscript by Dr Faiz Kermani. This work was partially
+supported by grants from the Kurozumi Medical Foundation
+and Mitsubishi Pharma Research Foundation to YS.
+
+Authorship
+
+T.T. and Y.S. designed the overall project, performed
+research, and wrote the manuscript; J.K. acquired data;
+S.T. and K.Y. acquired and interpreted data and drafted the
+manuscript; M.H. designed the overall project and wrote
+the manuscript; A.Y. and M.S. made critical revisions of the
+manuscript for important intellectual content.
+
+Conflicts of interest
+
+The authors declare no competing financial interests.
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S
+Takeda et al.
+
+References
+
+10.
+
+. Chua SL, Gibbs S. Chronic urtic
+
+Zuberbier T, Asero R, Bindslev-Jensen C,
+Walter Canonica G, Church MK, GimenezArnau A et al. EAACI/GA(2)LEN/EDF/
+WAO guideline: definition, classification and
+diagnosis of urticaria. Allergy 2009;64:14171426.
+
+ 
+
+. O'Donnell BF, Lawlor F, Simpson J, Mor
+gan M, Greaves MW. The impact of chronic
+urticaria on the quality of life. Br J Dermatol 1997;136:197-201.
+
+. Hide M, Francis DM, Grattan CE, Hakimi
+
+J, Kochan JP, Greaves MW. Autoantibodies
+against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-1604.
+
+. Kikuchi Y, Kaplan AP. Mechanisms of
+
+autoimmune activation of basophils in
+chronic urticaria. J Allergy Clin Immunol
+2001;107: 1056-1062.
+
+. Parslew R, Pryce D, Ashworth J, Friedmann
+
+PS. Warfarin treatment of chronic idiopathic
+urticaria and angio-oedema. Clin Exp Allergy
+2000;30: 1161-1165.
+
+ 
+
+ia
+responding to subcutaneous heparin sodium.
+Br J Dermatol 2005;153:216-217.
+
+. Asero R, Tedeschi A, Cugno M. Heparin
+
+and tranexamic acid therapy may be effective in treatment-resistant chronic urticaria
+with elevated D-dimer: a pilot study. Int
+Arch Allergy Immunol 2010;152:384-389.
+
+. Asero R, Tedeschi A, Riboldi P, Cugno M.
+
+Plasma of patients with chronic urticaria
+shows signs of thrombin generation, and its
+intradermal injection causes wheal-and-flare
+reactions much more frequently than autologous serum. J Allergy Clin Immunol 2006:
+117:1113-1117.
+
+. Asero R, Tedeschi A, Coppola R, Griffini S,
+
+Paparella P, Riboldi P et al. Activation of
+the tissue factor pathway of blood coagulation in patients with chronic urticaria. J
+Allergy Clin Immunol 2007;119:705-710.
+Kaplan AP, Greaves M. Pathogenesis of
+chronic urticaria. Clin Exp Allergy 2009;
+39:777-787.
+
+ 
+
+20.
+
+Allergy 66 (2011) 428-433 © 2010 John Wiley & Sons A/S.
+
+. Sabroe RA, Fiebiger E,
+
+. Crawley JT, Lane DA. The haemostatic role
+
+of tissue factor pathway inhibitor. Arterioscler Thromb Vase Biol 2008;28:233-242.
+
+. Downey C, Kazmi R, Toh CH. Novel and
+
+diagnostically applicable information from
+optical waveform analysis of blood coagulation in disseminated intravascular coagulation. Br J Haematol 1997;98:68-73.
+
+. Shima M. Understanding the hemostatic
+
+effects of recombinant factor VIIa by clot
+Semin Hematol 2004;
+
+ 
+
+wave form analysi
+41:125-131.
+
+ 
+
+ancis DM,
+Maurer D, Seed PT, Grattan CE et al. Classification of anti-FcepsilonRI and anti-IgE
+autoantibodies in chronic idiopathic urticaria and correlation with disease severity.
+J Allergy Clin Immunol 2002;110:492-499.
+
+. Takahagi S, Mihara S, Iwamoto K, Morioke
+
+S, Okabe T, Kameyoshi Y et al. Coagulation/fibrinolysis and inflammation markers
+are associated with disease activity in
+patients with chronic urticaria. Allergy
+2010;65:649--656.
+
+. Matsumoto T, Shima M, Takeyama M,
+
+Yoshida K, Tanaka I, Sakurai Y et al. The
+measurement of low levels of factor VIII or
+factor IX in hemophilia A and hemophilia B
+plasma by clot waveform analysis and
+thrombin generation assay. J Thromb
+Haemost 2006;4:377-384.
+
+. Roberts HR, Hoffman M, Monroe DM. A
+
+cell-based model of thrombin generation.
+Semin Thromb Hemost 2006;32(Suppl 1):
+32-38.
+
+. Schmaier AH. The elusive physiologic role
+
+of Factor XII. J Clin Invest 2008;118:3006—
+3009.
+
+. Broze GJ Jr. Tissue factor pathway inhibitor
+
+and the revised theory of coagulation. Annu
+Rev Med 1995;46:103-112.
+
+Kauhanen P, Kovanen PT, Reunala T, Lassila R. Effects of skin mast cells on bleeding
+time and coagulation activation at the site
+of platelet plug formation. Thromb Haemost
+1998;79:843-847.
+
+Hypercoagulative state in chronic urticaria
+
+Nv
+3
+
+. Lassila R, Lindstedt K, Kovanen PT. Native
+
+macromolecular heparin proteoglycans exocytosed from stimulated rat serosal mast
+cells strongly inhibit platelet-collagen interactions. Arterioscler Thromb Vasc Biol
+1997;17:3578-3587.
+
+. Wang F, Tang H, Xu JH, Kang KF. Activa
+tion of the blood coagulation cascade is
+involved in patients with chronic urticaria.
+J Allergy Clin Immunol 2009;123:
+972-973. author reply 973-974.
+
+. Molino M, Barnathan ES, Numerof R,
+
+Clark J, Dreyer M, Cumashi A et al. Interactions of mast cell tryptase with thrombin
+receptors and PAR-2. J Biol Chem 1997;
+272:4043-4049.
+
+. Camerer E, Huang W, Coughlin SR. Tissue
+
+factor- and factor X-dependent activation
+of protease-activated receptor 2 by factor
+Vila. Proc Natl Acad Sci USA 2000;97:
+5255-5260.
+
+. Riewald M, Ruf W. Mechanistic coupling of
+
+protease signaling and initiation of coagulation by tissue factor. Proc Natl Acad Sci
+USA 2001;98:7742-7747.
+
+. Jiang X, Bailly MA, Panetti TS, Cappello
+
+M, Konigsberg WH, Bromberg ME. Formation of tissue factor-factor VIa-factor Xa
+complex promotes cellular signaling and
+migration of human breast cancer cells.
+
+J Thromb Haemost 2004;2:93-101.
+
+. Takahagi S, Sindo H, Watanabe M, Ka
+meyoshi Y, Hide M. Refractory chronic
+urticaria treated effectively with the protease
+inhibitors, nafamostat mesilate and camostat
+mesilate. Acta Derm Venereol 2010;90:425—
+426.
+
+. Berth-Jones J, Hutchinson PE, Wicks AC,
+
+Mitchell VE. Chronic urticaria with angiooedema controlled by warfarin. BMJ 1988;
+297:1382-1383.
+
+. Barlow RJ, Greaves MW. Warfarin in the
+
+treatment of chronic urticaria/angio-edema.
+Br J Dermatol 1992;126:415-416.
+
+433
+

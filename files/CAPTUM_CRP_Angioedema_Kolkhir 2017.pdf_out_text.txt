@@ -1,0 +1,1003 @@
+DR. SABINE ALTRICHTER (Orcid ID : O000-0001-9955-385x)
+
+PROF. MARCUS MAURER (Orcid ID : 0000-0002-4121-481X)
+
+Article type —_: Original Article: Skin and Eye Diseases
+
+Target Journal: Allergy
+
+CRP is linked to disease activity, impact and response to treatment in patients
+
+with chronic spontaneous urticaria
+Pavel Kolkhir*?, Sabine Altrichter*', Tomasz Hawro', Marcus Maurer!
+
+‘Charité - Universitatsmedizin Berlin, Department of Dermatology and Allergology,
+
+Berlin, Germany
+
+21M. Sechenov First Moscow State Medical University, Division of Immune-mediated
+skin diseases, Department of Dermatology and Venereology, Moscow, Russian
+
+Federation
+
+*contributed equally
+
+Corresponding Author: Professor Marcus Maurer, Allergie-Centrum-Charité,
+Department of Dermatology and Allergy, Charité — Universitatsmedizin Berlin,
+Charitéplatz 1, D-10117 Berlin, Germany, Phone: +49-30-450-518042, Fax: +49-30450-518972, E-mail: marcus.maurer@charite.de
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+
+doi: 10.111 1/all.13352
+This article is protected by copyright. All rights reserved.
+Short title: CRP in chronic spontaneous urticaria
+
+Disclosure of potential conflict of interest: The authors declare that they have no
+
+relevant conflicts of interest in relation to this work.
+
+Keywords: chronic spontaneous urticaria, C-reactive protein, disease activity,
+
+antihistamines, marker
+
+Abbreviations:
+
+ASST: autologous serum skin test
+
+CRP +/-: elevated/normal levels of C-reactive protein
+
+CSU: Chronic Spontaneous Urticaria
+
+ESR +/-: elevated/normal levels of the erythrocyte sedimentation rate
+
+IQR: interquartile range
+
+NPV: negative predictive value
+
+PPV: positive predictive value
+
+sgAH: second generation antihistamines
+
+Abstract
+
+Background: Elevated levels of C-reactive protein (CRP), a sensitive marker of
+inflammation, have been consistently reported in chronic spontaneous urticaria.
+Here, we retrospectively analyzed data from 1,253 CSU patients from two centers to
+answer the following questions: 1) What is the prevalence of elevated levels of CRP
+in CSU? 2) Why do CSU patients show elevated levels of CRP? 3) Are elevated
+
+CRP levels relevant?
+
+This article is protected by copyright. All rights reserved.
+Methods: Serum levels of CRP were measured by the nephelometric method. We
+collected information regarding various laboratory tests including ESR, CBC with
+differential, D-dimer, fibrinogen, C3, C4, IL-6 etc. For most patients, we also
+collected data on age, gender, duration of CSU, presence of angioedema, activity
+(UAS at the time of blood sampling and for 7 days), quality of life (CU-Q2oL and/or
+DLQI), comorbidities and possible causes of CSU, and autologous serum skin test
+(ASST) response. The efficacy of second generation antihistamines was evaluated
+
+at the day of blood collecting.
+
+Results: One third of CSU patients had elevated levels of CRP. Higher levels of
+CRP were associated with ASST positivity (p=0.009) and arterial hypertension
+(p=0.005), but not with other possible causes or comorbidities of CSU. CRP
+correlated with urticaria activity (p<0.001), quality of life impairment (p=0.026),
+inflammatory and coagulation markers (p<0.001). CRP levels were significantly
+
+higher in non-responders to antihistamines as compared to responders (p<0.001).
+
+Conclusion: Elevated levels of CRP are common and relevant in CSU patients. The
+assessment of CRP levels may help to optimize the management of patients with
+CSU.
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a multifactorial mast cell-dependent
+inflammatory disease, characterized by recurrent itchy wheals and/or angioedema.
+Several immunological events have been described in CSU, including mast cell
+activation and degranulation, the activation of coagulation and acute phase response
+(1-4). In a recently published review, we identified several potential disease-related
+biomarkers including D-dimer, matrix metalloproteinase-9 and C-reactive protein
+(CRP) that can reflect these processes and are supported by strong evidence for
+distinguishing CSU patients from healthy controls (2). Elevated levels of CRP have
+been consistently reported in CSU patients (2, 5-7).
+
+CRP is produced by the liver during an inflammatory reaction and is a sensitive
+serum marker for inflammation. CRP is elevated in various disorders including
+
+infections, cancer, autoimmune, cardiovascular and gastrointestinal diseases (8-10).
+
+This article is protected by copyright. All rights reserved.
+Measuring CRP values has been proved useful in determining disease activity,
+prognosis or efficacy of treatment. For example, in Crohn's disease, acute
+pancreatitis (8) and psoriasis (11) high CRP levels indicate more active disease.
+Moreover, correlation between CRP and other inflammatory markers such as
+erythrocyte sedimentation rate (ESR) has been reported (10). ESR is another well
+known non-specific marker of inflammation. In contrast to ESR, CRP is not or less
+likely to be affected by other factors such as size, shape and number of red blood
+cells, female sex and pregnancy as is ESR (12). Furthermore, CRP levels respond
+more quickly to inflammatory processes. Also, false negative and false positive
+results are less common for CRP than ESR (12). Because of this, CRP is considered
+
+to be a better indicator of inflammation than ESR.
+
+According to the recently revised EAACI/GA7LEN/EDF/WAO guideline for urticaria,
+CRP assessment is recommended in all patients with chronic urticaria and may help
+in its diagnosis and differential diagnosis (1). Furthermore, CRP has been proposed
+as a possible biomarker of CSU activity/severity (2) and the response of CSU
+patients to treatment (7). Nevertheless, evidence and data in support of these
+recommendations are scarce and conflicting. Here, we analyzed data from a large
+international and multicentric cohort of CSU patients to answer the following
+questions: 1) What is the prevalence of elevated levels of CRP in CSU? 2) Why do
+
+CSU patients show elevated levels of CRP? 3) Are elevated CRP levels relevant?
+
+Materials and Methods
+Study population
+
+In this study, we retrospectively evaluated data from 1,253 CSU patients (Table 1)
+from the urticaria specialty clinics of the dermatological departments of Charité Universitatsmedizin Berlin, Germany (n=1,023) and |.M. Sechenov First Moscow
+State Medical University, Russia (n=230). We did not seek informed consent or
+ethical committee approval for our study because our analysis looked retrospectively
+at a large cohort of patients and we did not use identifiable patient information. All
+data were pseudonymized. Based on the current EAACI/GA*LEN/EDF/WAO
+
+guideline for urticaria, CSU was defined as persistent recurrent whealing,
+
+This article is protected by copyright. All rights reserved.
+angioedema, or both reoccurring for >6 weeks due to known or unknown causes (1).
+Patients with chronic inducible urticaria only and urticarial vasculitis were excluded.
+Less than 10% of the examined subjects had taken any oral corticosteroids or
+
+antidepressants within 4 weeks before the study.
+Blood collection and analysis
+
+Blood was drawn and analyzed for routine patient care. From the patients’ files, we
+collected information regarding the following laboratory tests (Suppl. Table 1): CRP;
+ESR; complete blood count (CBC) including: erythrocytes, leukocytes, neutrophils,
+basophils, eosinophils, thrombocytes, hemoglobin, hematocrit, red cell distribution
+width; D-dimer, fibrinogen; complement C3, C4; total serum iron, ferritin; interleukin 6
+(IL-6), tumor necrosis factor (TNF); total serum IgE; IgA, IgG, IgM; IgG-anti-TPO,
+IgG-anti-TG, IgE-anti-TPO; rheumafactor (RF); antinuclear antibodies (ANA);
+eosinophil cationic protein (ECP); and antistreptolysin O antibodies (ASLO). The
+methodologies were the same for most parameters from both centers and the normal
+/ reference ranges and units of measure were the same. Some parameters (for
+example, antinuclear antibodies) were calculated separately for both centers and
+were not combined due to different methodology. Some tests were performed only in
+
+one of the centers.
+CRP determination
+
+Serum CRP concentration was measured by the nephelometric method (BNproSpec, Dade-Behring, Marburg, Germany) in the local central laboratories of both
+
+involved centers. Elevated serum CRP was defined as 25.0 mg/L.
+Clinical parameter
+
+For most patients, we also collected data on age, gender, duration of CSU, presence
+of concomitant angioedema, comorbidities and possible causes of CSU (Table 2).
+Comorbidities were assessed if these diseases were in the past and ongoing and
+were grouped into 10 groups: 1) autoimmune diseases (such as Hashimoto's
+thyroiditis, Graves’ disease, rheumatoid arthritis, psoriasis, vitiligo, celiac disease,
+insulin-dependent diabetes mellitus, systemic lupus erythematosus, endometriosis,
+pernicious anemia, autoimmune hepatitis); 2) allergic diseases (including asthma,
+
+allergic rhinitis, allergic conjunctivitis, atopic dermatitis, contact dermatitis, food
+
+This article is protected by copyright. All rights reserved.
+allergy); 3) oncology (breast cancer, colon cancer, ovarian cancer, thyroid cancer,
+melanoma); 4) pulmonary diseases (including COPD and chronic bronchitis); 5)
+gastrointestinal diseases (gastritis, diverticulosis, Crohn’s disease, ulcerative colitis,
+gastrointestinal reflux disease); 6) thyroid diseases (hypo- and hyperthyroidism); 7)
+
+arterial hypertension; 8) depression; 9) anxiety; and 10) NSAIDs intolerance.
+
+Patients were grouped into possible causes of their disease after review of their
+patient chart and by a physician specialized in the treatment of urticaria. Patients
+were group into: 1) idiopathic urticaria (no underlying cause identified); 2)
+autoreactive urticaria (assessed by autologous serum skin test, ASST+); 3) CSU
+associated with underlying infection (including parasitic infection and bacterial
+infections, e.g. of the teeth, the tonsils); 4) CSU associated with food intolerance
+(assessed by anamnesis, histamine provocation and/or elimination diet). In some
+
+patients, more than one possible underlying cause was identified (Table 2).
+
+Disease activity was determined using the urticaria activity score (UAS) which was
+calculated as the sum of the itch and the hive score for 1 (UAS, minimum = 0;
+maximum = 6) and/or 7 consecutive days (UAS7, minimum = 0, maximum = 42)
+before blood analysis as follows: no wheals = 0, <20 wheals/24 h = 1, 20-50
+wheals/24 h = 2, >50 wheals/24 h = 3 and pruritus intensity: no = 0, mild = 1,
+moderate = 2, intense = 3 (1). UAS was measured in 752 CSU patients from both
+
+centers and UAS7 was calculated in 759 CSU patients from Berlin.
+
+Quality of life was assessed by use of the validated versions of Chronic Urticaria
+Quality of Life questionnaire (CU-Q2oL) (13, 14) and/or the Dermatology Quality of
+Life Index (DLQI) (15) at the time of blood sampling. The CU-Q2oL consists of 23
+items grouped into 6 quality of life dimensions, where patients have to indicate, ona
+Likert scale with multiple options (a range: from 1 — not at all to 5 — very much), how
+much they have been troubled by each problem, with higher percentage scores
+
+indicating better quality of life (13, 16).
+
+There are 10 items in the DLQI in six subsections: symptoms and feelings, daily
+activities, leisure, work and school, personal relationships and treatment. The
+questions in the form were replied as “not at all’, “a little’, “a lot” and “very much’,
+
+with scores of 0, 1, 2 and 3, respectively. The DLQI is calculated by summing the
+
+This article is protected by copyright. All rights reserved.
+score of each question resulting in a maximum of 30 and a minimum of 0. The higher
+
+the score, the more quality of life is impaired (15).
+
+Patient files were screened for ASST response. The ASST is a non-specific
+screening test that evaluates the presence of serum histamine-releasing factor of
+any type, including autoantibodies. The ASST is regarded positive if the serum wheal
+
+is 21.5 mm as compared to negative control (17).
+
+The efficacy of second generation antihistamines (sgAH) was evaluated at the day of
+blood collecting (only in Moscow patients). Patients were asked how much they
+suffered from CSU symptoms in the last four weeks (1 — very much, 2 — much, 3 —
+somewhat, 4 — a little, 5 — not at all), how often the treatment for CSU was not
+enough to control symptoms in the last four weeks (1 — very often, 2 — often, 3 —
+sometimes, 4 — seldom, 5 — not at all) and how they considered an overall efficacy of
+treatment (1 — not effective, 2 — poor response, 3 — good response, 4 — very good
+response). Patients were regarded unresponsive to sgAH when they chose options
+#1 and/or 2 for all three questions. If it was not the case, then CU-Q2oL scores were
+
+taken into account before making the decision.
+Statistical analysis
+
+Statistical analysis was performed using the Statistical Package for the Social
+Science (IBM SPSS version 22.0; IBM Corp, New York, USA). Baseline
+characteristics of cases were analyzed using descriptive statistics. The KolmogorovSmirnov test was used to evaluate the normal distribution of numerical variables.
+Because data were not distributed normally, non-parametric tests were used.
+Results are expressed as median and interquartile range (IQR). Correlations were
+assessed by Spearman’s rank test. Categorical variables were compared between
+groups by using the x2 test. The Mann-Whitney U-test was used for comparison
+between the groups. Sensitivity, specificity, positive and negative predictive values of
+CRP to predict non-response to therapy of CSU with sgAH were calculated. P values
+
+< 0.05 were considered significant.
+
+This article is protected by copyright. All rights reserved.
+Results
+
+One third of CSU patients have elevated levels of CRP
+
+Of the 1,019 CSU patients, 31% (n=313) had elevated levels of CRP (of 25 mg/L,
+Table 1). CRP levels were linked, albeit weakly, with the age of the total CSU patient
+population (Suppl. Table 2) and in the subgroup of patients with normal levels of
+CRP, but not in the patient subgroup with elevated CRP level (data not shown). The
+median CRP level of the patients with elevated levels was 10.6 mg/L (IQR: 6.4-16.6).
+Patients with elevated and normal CRP were comparable regarding their gender and
+
+presence of angioedema (Suppl. Table 3).
+
+Higher levels of CRP are associated with ASST positivity and arterial hypertension
+
+but not with other possible causes or comorbidities of CSU
+
+Of 1,253 CSU patients, 74% (n=923) were investigated for possible causes of CSU
+and 77% (n=967) for comorbid diseases, of which only autoreactive, i.e. ASSTpositive (ASST+) CSU and arterial hypertension were associated with high levels of
+CRP (Table 2).
+
+ASST+ CSU patients had significantly higher values of CRP than ASST-negative
+(ASST-) patients (p=0.009, Table 2). Vice versa, patients with elevated CRP levels
+(CRP+ patients) were significantly more frequently ASST+ than patients with normal
+CRP levels (CRP- patients) (34.5% vs 27.9%, x2=3.864, p=0.049).
+
+CSU patients with arterial hypertension had significantly higher CRP values as
+compared to patients with normal blood pressure. Vice versa, CRP+ CSU patients
+had significantly higher systolic blood pressure than CRP- CSU patients (Suppl.
+Table 3). Moreover, we found a weak, but statistically significant correlation between
+CRP levels and values of systolic and diastolic blood pressure (Table 3). This
+correlation was seen in the total CSU patient population and in CRP- patients, but
+
+not in CRP+ patients.
+
+CSU patients with food intolerance had significantly lower values of CRP as
+
+compared to patients without food intolerance (Table 2).
+
+This article is protected by copyright. All rights reserved.
+CRP is correlated with urticaria activity and impact
+
+CRP+ patients showed a slightly, but significantly shorter duration of disease and
+significantly higher disease activity (UAS and UAS7) as compared to CRP- patients
+(Suppl. Figure 1, Suppl. Table 3). CRP levels were highly correlated with urticaria
+activity (UAS, Table 3, Suppl. Table 2) and QoL impairment as assessed by CUQ2oL (Table 3). In line with these results, the CRP+ patients had significantly higher
+quality of life impairment as assessed by DLQI as compared to CRP- patients
+(Suppl. Table 3).
+
+CRP is associated with inflammatory and coagulation markers
+
+CRP levels were correlated with other inflammatory markers such as ESR, blood
+leukocyte/neutrophil counts (Figure 1), and IL-6 serum levels. Of the 825 CSU
+patients, 19% had elevated levels of ESR (ESR+), and 11% of the 768 CSU patients
+had both CRP and ESR levels elevated (CRP+/ESR+)(Table 1). Only one in 10
+patients was CRP-/ESR+, 20% were CRP+/ESR-, and more than half of the patients
+had normal values of both parameters (Table 1). Overall, CRP levels were more
+often elevated than ESR levels, and ESR+ was only detectable in one third of the
+CRP+ CSU patients (35% vs 57%, p<0.001).
+
+CRP+ patients had significantly higher rates of IL-6, ferritin, leukocyte, thrombocyte,
+neutrophil count and red cell distribution width and significantly lower hemoglobin,
+iron and basophil and eosinophil counts than CRP- patients (Suppl. Table 3). CRP
+also correlated with C3, C4, fibrinogen and D-dimer (Table 3, Figure 1), and CRP+
+patients had significantly higher values of these parameters than CRP- patients
+(Suppl. Table 3).
+
+CRP+ and CRP- patients did not differ in terms of erythrocyte count, hematocrit,
+tumor necrosis factor, total serum IgE, IgA, IgG, IgM, IgG-anti-TPO, IgG-anti-TG,
+IgE-anti-TPO, rheumafactor, antinuclear antibodies, eosinophil cationic protein, and
+
+antistreptolysin O antibodies.
+
+This article is protected by copyright. All rights reserved.
+CRP levels are associated with a poor response to second generation antihistamines
+
+Non-responsiveness to therapy with sgAH in CSU patients in standard and elevated
+doses (as defined by the criteria described in the Materials and Methods section)
+was associated with elevated CRP serum levels (Table 4). Elevated CRP levels
+allow to predict non-responsiveness to antihistamines in standard (p<0.001) or
+elevated doses (p=0.023) in CSU patients with moderate specificity and moderatelow sensitivity, positive predictive value (PPV) and negative predictive value (NPV)
+that are listed in Table 4.
+
+Discussion
+
+This study shows, to our knowledge for the first time in a large multicentric cohort of
+CSU patients, three important things: 1) CRP is linked to urticaria activity and with
+inflammatory and coagulation markers; 2) high CRP levels are connected to ASST
+positivity and arterial hypertension; 3) CRP levels are significantly higher in non
+responders to antihistamines as compared to responders.
+
+Our study confirms that elevated levels of CRP are common in patients with CSU.
+Almost one third of our patients had elevated CRP levels, which is largely in line with
+previous studies, where rates of elevated CRP in CSU have ranged from 17 to 23%
+(18, 19). In comparison, elevated ESR levels were notably less common in our CSU
+patients and in other studies (5), but not all (3). Most CSU patients with elevated
+CRP did not have correspondingly elevated ESR, which is in line with one other
+study (5).
+
+There is strong evidence that CSU patients have significantly higher levels of CRP
+compared to healthy controls (see Suppl. Table 4.1). Nevertheless, in other
+dermatological diseases such as bullous pemphigoid (20) and urticaria vasculitis (21)
+
+patients appear to have even higher levels of CRP than CSU patients.
+
+Why do CSU patient show elevated levels of CRP? Our study shows that elevated
+levels of CRP in a subpopulation of CSU patients are linked to CSU itself. In support
+of this, we observed that CRP and urticaria activity and severity markers are linked.
+
+Most previous studies (17 of 23; Suppl. Table 4.2) also found a significant
+
+This article is protected by copyright. All rights reserved.
+association between CSU activity/severity and blood levels of CRP. Moreover, CRP
+correlated with other proposed CSU activity markers, namely D-dimer, MMP-9 and
+IL-6 in most but not in all studies (Suppl. Table 4.4). This indicates that CRP levels
+reflect CSU activity and that CRP may serve as a biomarker to monitor CSU
+
+patients.
+
+Interestingly, CRP+ patients and CRP- patients did not differ in autoimmune
+markers, such as immunoglobulin subclasses, antinuclear, antithyroid or other
+autoimmune antibodies (see Suppl. Table 3), suggesting that it is not a concomitant
+autoimmune disease that triggers these elevated CRP levels. We also did not see a
+correlation of elevated CRP levels and suspected underlying infection. This is in line
+with one study, where elevated CRP levels were not associated with a history of
+
+recent infection or overt comorbid inflammatory disease (5).
+
+Furthermore, we did not find elevated CRP levels to be linked to possible causes of
+CSU, except for autoreactivity, as assessed by ASST. Autoreactivity in CSU patients
+was associated with elevated CRP, but not ESR. There are inconsistent results
+between previous studies in regard to the correlation between ASST positivity and
+high CRP levels (only 5 of 15 studies found such an association; Suppl. Table 4.3).
+However, many studies, where this association was not observed, were from the
+same authors and/or included less than 100 CSU patients. In CSU, autoreactivity
+may aggravate the course of the disease via CSU-specific autoantibodies and/or
+other still unknown factors. The known link between ASST positivity and higher UAS
+
+scores supports this hypothesis.
+
+There is strong evidence for decreased basophil counts in ASST+ CSU patients (2).
+In confirmation of earlier findings (22), we found that basophil counts are lower in
+CSU patients with elevated CRP compared to patients with normal CRP levels,
+indicating that ASST+, CRP+, basopenia and high disease activity may be
+
+interlinked and joint features of a CSU patient subgroup.
+
+Another argument that the main reason for elevated CRP levels is the CSU itself is
+the association between elevated CRP levels and shorter disease duration. This
+suggests that CRP levels may be higher during early CSU, which is in agreement
+
+with the current literature. CRP, in contrast to ESR, is recommended for monitoring
+
+This article is protected by copyright. All rights reserved.
+‘acute’ disease activity such as acute infection (eg, pneumonia, orbital cellulitis) (23).
+Furthermore, acute urticaria patients are likely to have higher CRP levels as
+compared to CSU patients (24). However, Kasperska-Zajac and co-workers did not
+observe a significant correlation between CSU duration and CRP levels (4), possibly
+
+because of the small number of CSU patients studied.
+
+CRP levels in CSU patients are associated with blood pressure, which raises the
+possibility that CSU, a chronic inflammatory disorder, can lead to the development of
+arterial hypertension. Arguments in support of this theory include the association
+between CSU and a higher risk of hypertension (25, 26) as reported by two recent
+population-based retrospective studies. Expectedly, we also noticed a correlation
+between age of CSU patients and blood pressure (data not shown). This can
+explain, at least in part, a correlation between CRP and the age of our patients, also
+seen in other studies (27) and in the general population (28), because increased age
+is associated with a significant increase in the prevalence of hypertension (29). For
+example, mean arterial pressure was not correlated with CRP levels in relatively
+young patients with acute urticaria (30). The association of CSU with the risk of
+hypertension may be possibly attributable to systemic low grade inflammation and
+
+alterations in the blood coagulation, fibrinolysis and complement systems.
+
+Are elevated CRP levels relevant for the management of CSU? sgAH are the first
+line therapy in acute and chronic urticaria (1). CSU patients with lower CRP levels
+showed better responses to treatment with sgAH than those with higher CRP levels
+in this and other studies, but not in all (Suppl. Table 4.5). Non-response rates for
+sgAH in other studies [46-60% (31, 32) for standard doses and up to 40% including
+up-dosing (32)] are similar to our findings. Interestingly, CRP levels were reported to
+be significantly decreased after treatment with antihistamines (33, 34) or steroids
+(35).
+
+CSU patients with elevated CRP levels were previously described to show high rates
+of response to oral cyclosporine therapy (22). This may be explained, at least in part,
+by the fact that 1) CRP is linked to ASST positivity and 2) ASST+ patients show
+higher rates of response to cyclosporine as compared to ASST- CSU. Reportedly, 4
+
+of 5 ASST+ CSU patients become ASST- in response to treatment with cyclosporine
+
+This article is protected by copyright. All rights reserved.
+(36, 37). Interestingly, CRP levels appear not to differ between responders and non
+responders to omalizumab treatment (38).
+
+In summary, we confirm that CRP levels are relevant for the management of CSU.
+The fact that high CRP levels predict poor responses to treatment with sgAHs may
+help physicians to identify patients who need a faster step up in their therapeutic
+
+regime (1), rather than prolonged sgAH treatment with little or no benefit.
+
+The limitations of this study include its retrospective design, that some, albeit very
+few patients used corticosteroids or other immunosuppressants at the time of blood
+
+sampling, and that CRP was measured only once in most patients.
+
+It is easy and inexpensive to measure CRP in CSU patients, and the current
+guideline for chronic urticaria management recommends to do so (1). Elevated levels
+of CRP may help to exclude autoinflammatory conditions, urticarial vasculitis and
+other differential diagnoses of CSU. Our findings show that they may also help to
+better manage CSU patients, as they reflect disease activity, predict subgroup
+allocation and indicate a risk of poor response to antihistamine treatment.
+Prospective studies are needed to test CRP for its use as a biomarker in the
+
+management of patients with CSU.
+
+Author Contributions: Pavel Kolkhir — the conception and design of the study,
+drafting the article, analysis and interpretation of data, final approval of the version to
+be submitted; Sabine Altrichter — the conception and design of the study, analysis
+and interpretation of data, drafting the article, final approval of the version to be
+submitted; Tomasz Hawro —- analysis and interpretation of data, revising the article
+critically for important intellectual content, final approval of the version to be
+submitted; Marcus Maurer - the conception and design of the study, revising the
+article critically for important intellectual content, final approval of the version to be
+
+submitted.
+
+This article is protected by copyright. All rights reserved.
+References
+
+1. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis, and management of urticaria: the 2013 revision and update. Allergy
+2014;69(7):868-887.
+
+2. Kolkhir P, Andre F, Church MK, Maurer M, Metz M. Potential blood
+biomarkers in chronic spontaneous urticaria. Clin Exp Allergy 2017;47(1):19-36.
+
+3. Triwongwaranat D, Kulthanan K, Chularojanamontri L, Pinkaew S. Correlation
+between plasma D-dimer levels and the severity of patients with chronic urticaria.
+Asia Pac Allergy 2013;3(2):100-105.
+
+4. Kasperska-Zajac A, Grzanka A, Jarzab J, Misiolek M, Wyszynska-Chlap M,
+Kasperski J, et al. The association between platelet count and acute phase response
+in chronic spontaneous urticaria. Biomed Res Int 2014;2014:650913.
+
+5. Lin R. Elevated C-Reactive Protein (CRP) Levels In Patients With Recurrent
+Urticaria and/or Angioedema. The Internet Journal of Asthma, Allergy and
+Immunology 2001;2(1):1-7.
+
+6. Magen E, Mishal J, Zeldin Y, Feldman V, Kidon M, Schlesinger M, et al.
+Increased mean platelet volume and C-reactive protein levels in patients with chronic
+urticaria with a positive autologous serum skin test. Am J Med Sci 2010;339(6):504508.
+
+7. Yan S, Chen W, Su J, Chen M, Zhu W, Zhang J, et al. [Association between C
+reactive protein and clinical characteristics in patients with chronic spontaneous
+urticaria]. Zhong Nan Da Xue Xue Bao Yi Xue Ban 2017;42(2):168-172.
+
+8. Vermeire S, Van Assche G, Rutgeerts P. The role of C-reactive protein as an
+inflammatory marker in gastrointestinal diseases. Nat Clin Pract Gastroenterol
+Hepato! 2005;2(12):580-586.
+
+9. Hage FG. C-reactive protein and hypertension. J Hum Hypertens
+2014;28(7):410-415.
+
+10. Kotulska A, Kopec-Medrek M, Grosicka A, Kubicka M, Kucharz EJ.
+Correlation between erythrocyte sedimentation rate and C-reactive protein level in
+
+patients with rheumatic diseases. Reumatologia 2015;53(5):243-246.
+
+This article is protected by copyright. All rights reserved.
+11. Farshchian M, Ansar A, Sobhan M, Hoseinpoor V. C-reactive protein serum
+level in patients with psoriasis before and after treatment with narrow-band ultraviolet
+B. Anais Brasileiros de Dermatologia 2016;91:580-583.
+
+12. Harrison M. Erythrocyte sedimentation rate and C-reactive protein. Aust
+Prescr 2015;38(3):93-94.
+
+13. Nekrasova E, Razvalayeva A, Malyuzhinskaya N. Russian verison of CUQ2oL questionnaire for estimation of quality of life of patients with chronic urticaria.
+Saratov Journal of Medical Scientific Research 2010;6(3):566-569.
+
+14. | Mlynek A, Mager! M, Hanna M, Lhachimi S, Baiardini 1, Canonica GW, et al.
+The German version of the Chronic Urticaria Quality-of-Life Questionnaire: factor
+analysis, validation, and initial clinical findings. Allergy 2009;64(6):927-936.
+
+15. Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple
+practical measure for routine clinical use. Clin Exp Dermatol 1994;19(3):210-216.
+16. Baiardini 1, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, et al. A
+new tool to evaluate the impact of chronic urticaria on quality of life: chronic urticaria
+quality of life questionnaire (CU-QoL). Allergy 2005;60(8):1073-1078.
+
+17. Konstantinou GN, Grattan CE. The autologous serum skin test may be used
+as a marker for histamine releasing autoantibodies in urticaria and is not relevant to
+other subject groups. Clin Exp Dermatol 2009;34(7):e473-474.
+
+18. | Takahagi S, Mihara S, lwamoto K, Morioke S, Okabe T, Kameyoshi Y, et al.
+Coagulation/fibrinolysis and inflammation markers are associated with disease
+activity in patients with chronic urticaria. Allergy 2010;65(5):649-656.
+
+19. Baek YS, Jeon J, Kim JH, Oh CH. Severity of acute and chronic urticaria
+correlates with D-dimer level, but not C-reactive protein or total IgE. Clin Exp
+Dermatol 2014;39(7):795-800.
+
+20. Cugno M, Tedeschi A, Borghi A, Bucciarelli P, Asero R, Venegoni L, et al.
+Activation of Blood Coagulation in Two Prototypic Autoimmune Skin Diseases: A
+Possible Link with Thrombotic Risk. PLoS One 2015;10(6):e0129456.
+
+21. Akarsu §, ilknur T, Ozbagcivan O, Fetil E. Accompanying conditions in
+patients with chronic spontaneous urticaria and urticarial vasculitis: Results of a
+retrospective study. TURKDERM 2015;49(1):18-24.
+
+22. Ohtsuka T. Response to oral cyclosporine therapy and high sensitivity-CRP
+level in chronic idiopathic urticaria. Int J Dermatol 2010;49(5):579-584.
+
+This article is protected by copyright. All rights reserved.
+23.  Litao MK, Kamat D. Erythrocyte sedimentation rate and C-reactive protein:
+how best to use them in clinical practice. Pediatr Ann 2014;43(10):417-420.
+
+24. LuT, Jiao X, SiM, He P, Zou J, Zhang §S, et al. The Correlation of Serums
+CCL11, CCL17, CCL26, and CCL27 and Disease Severity in Patients with Urticaria.
+Disease Markers 2016;2016. (Article ID 1381760):11.
+
+25. Chang HW, Cheng HM, Yen HR, Hsu CY, Lee YC, Chiang JH, et al.
+Association between chronic idiopathic urticaria and hypertension: A populationbased retrospective cohort study. Ann Allergy Asthma Immunol 2016;116(6):554558.
+
+26. Shalom G, Magen E, Babaev M, Tiosano §S, Vardy DA, Linder D, et al.
+Chronic Urticaria and the Metabolic Syndrome: a Cross-sectional Community-based
+Study of 11,261 Patients. J Eur Acad Dermatol Venereol. Epub Ahead of Print 2017.
+27. MagenE, Mishal J, Schlesinger M. Clinical and laboratory features of chronic
+idiopathic urticaria in the elderly. Int J Dermatol! 2013;52(11):1387-1391.
+
+28. Woloshin S, Schwartz LM. Distribution of C-reactive protein values in the
+United States. N Eng! J Med 2005;352(15):1611-1613.
+
+29. Anderson GH. Effect of age on hypertension: analysis of over 4,800 referred
+hypertensive patients. Saudi J Kidney Dis Transpl 1999;10(3):286-297.
+
+30. Lin RY, Trivino MR, Curry A, Pesola GR, Knight RJ, Lee HS, et al. Interleukin
+6 and C-reactive protein levels in patients with acute allergic reactions: an
+emergency department-based study. Ann Allergy Asthma Immunol 2001;87(5):412416.
+
+31. Nettis E, Pannofino A, D'Aprile C, Ferrannini A, Tursi A. Clinical and
+aetiological aspects in urticaria and angio-oedema. Br J Dermatol 2003;148(3):501506.
+
+32. Guillen-Aguinaga S, Jauregui Presa |, Aguinaga-Ontoso E, Guillen-Grima F,
+Ferrer M. Updosing nonsedating antihistamines in patients with chronic spontaneous
+urticaria: a systematic review and meta-analysis. Br J Dermatol 2016;175(6):11531165.
+
+33. | Maouia A, Youssef M, Leban N, Ben Chibani J, Helal AN, Kassab A. CRP
+relevance in clinical assessment of chronic spontaneous urticaria Tunisian patients.
+Cutaneous and Ocular Toxicology 2017:1-6.
+
+34. | Ohtsuka T. Different effect of oral cyclosporine therapy and oral antihistamine
+
+therapy on serum high-sensitivity C-reactive protein level and thymus and activation
+This article is protected by copyright. All rights reserved.
+regulated chemokine level in atopic dermatitis in older children and adulthood. Int J
+Dermatol 2015;54(6):648-655.
+
+35. | Grzanka A, Machura E, Mazur B, Misiolek M, Jochem J, Kasperski J, et al.
+Relationship between vitamin D status and the inflammatory state in patients with
+chronic spontaneous urticaria. J Inflamm (Lond) 2014;11(1):2.
+
+36. Di Gioacchino M, Di Stefano F, Cavallucci E, Verna N, Ramondo §S, Paolini F,
+et al. Treatment of chronic idiopathic urticaria and positive autologous serum skin
+test with cyclosporine: clinical and immunological evaluation. Allergy Asthma Proc
+2003;24(4):285-290.
+
+37. | Boubouka CD, Charissi C, Kouimintzis D, Kalogeromitros D, Stavropoulos
+PG, Katsarou A. Treatment of autoimmune urticaria with low-dose cyclosporin A: A
+one-year follow-up. Acta Derm Venereol 2011;91(1):50-54.
+
+38. Turk M, Yilmaz 1, Bahcecioglu SN. Treatment and retreatment with
+omalizumab in chronic spontaneous urticaria: Real life experience with twenty-five
+
+patients. Allergol Int. Epub ahead of print 2017.
+
+This article is protected by copyright. All rights reserved.
+Table 1. CSU patient characteristics
+
+[etn [moscow | Combined
+
+Number of CSU patients 1,023 230 1,253
+
+(n)
+16-77
+Age, years 13-105 (35.5, 28- 13-105
+
+(median, 1QR) (43, 31-53) 51) (42, 30-53)
+
+Gender, m:f 267:756 64:166 331:922
+Duration, years 0.1-53 0.2-43 0.1-53
+(median, IQR) (2, 1-7) (1, 0.5-6) (2, 1-7)
+Presence of angioedema, % 41.3 77.7 48.7
+(n/total) (366/887) (178/229) (544/1,116)
+ASST pos., % 25.1 61.4 29.7
+(n/total) (218/869) (78/127) (296/996)
+CRP+, % 29.1 40.1 30.7
+(n/total) (254/872) (59/147) (313/1,019)
+ESR+, % 20.9 12 18.9
+(n/total) (134/642) (22/183) (156/825)
+CRP+ ESR+, % 11.2 9.8 10.9
+(n/total) (70/625) (14/143) (84/768)
+CRP+ ESR-, % 18.1 30.8 20.4
+(n/total) (113/625) (44/143) (157/768)
+CRP-ESR+, % 9.4 2.8 8.2
+(n/total) (59/625) (4/143) (63/768)
+CRP-ESR-, % 61.2 56.6 60.4
+(n/total) (383/625) (81/143) (464/768)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++: elevated levels; -: normal values; IQR: interquartile range; ASST: autologous serum skin
+
+test
+
+This article is protected by copyright. All rights reserved.
+Table 2. Association between CRP levels and possible causes of CSU and comorbid
+
+diseases
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Possible cause of CSU n, patients p
+Idiopathic CSU 218 0.528
+CSU with known cause 705*
+Autoreactive CSU (ASST+) 237 0.009
+Non autoreactive CSU (ASST-) 665
+CSU due to food intolerance 365 0.003
+CSU without food intolerance 558
+CSU associated with underlying infection 209 0.332
+CSU without underlying infection 714
+Comorbidity n, patients p
+Autoimmune diseases 185 0.277
+Patients without autoimmune diseases 759
+Allergic diseases 158 0.099
+Patients without allergic diseases 790
+Arterial hypertension 110 0.005
+Patients without arterial hypertension 828
+Thyroid diseases 180 0.379
+Patients without thyroid diseases 787
+Depression 88 0.348
+Patients without depression 398
+Anxiety 137 0.217
+Patients without anxiety 336
+Oncology 15 0.341
+Patients without oncology 929
+Hepatitis 12 0.982
+Patients without hepatitis 7159
+Pulmonary diseases 59 0.634
+Patients without pulmonary diseases 774
+NSAIDs intolerance 46 0.330
+Patients without intolerance 877
+
+ 
+
+* Among patients with CSU of known cause, 73 patients had both food intolerance and
+positive ASST, 31 patients had both underlying infection and food intolerance, 28 patients
+
+were ASST+ and had underlying infection and 8 patients had positive ASST, food
+
+intolerance and underlying infection.
+
+This article is protected by copyright. All rights reserved.
+
+ 
+Table 3. Correlation of CRP with other CSU parameters and laboratory markers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRP
+Spearman’s Rho Berlin | Moscow | Combined
+Corr. Corr. Corr.
+N N N
+Clinical parameter Duration of CSU -0.059 -0.018 -0.064*
+812 146 958
+UAS day 0.169*** 0.239* 0.197***
+652 100 752
+UAS7 0.172*** - 759
+DLQI 0.043 0.216* 0.081
+420 94 514
+CU-Q2oL - -0.312** 100
+Systolic blood pressure 0.167*** = =
+559
+Diastolic blood pressure 0.132** 7 559
+Blood count White blood cell count 0.369** | 0.282** 0.359**
+866 138 1,004
+Neutrophil count 0.415** | 0.456** 0.424**
+844 85 925
+Basophil count -0.220** | -0.332** -0.242**
+845 74 919
+Eosinophil count -0.093** | -0.275* -0.111**
+852 77 929
+Thrombocyte count 0.216** | 0.204* 0.218**
+864 136 1,000
+Erythrocyte count 0.015 -0.194* -0.019
+866 140 1,006
+Hemoglobin -0.121** | -0.183* -0.132**
+866 143 1,009
+Hematocrit -0.067* -0.146 -0.077*
+865 126 991
+Red cell distribution width 0.253** 0.106 0.236**
+867 88 955
+Complement / Complement component C3 | 0.495** | 0.317* 0.488**
+Coagulation 815 46 861
+Complement component C4 | 0.397** 0.375* 0.395**
+816 45 861
+Fibrinogen 0.581** 0.372** 0.546**
+810 99 909
+D-Dimer - 0.502** 44
+Micronutrients Iron - -0.316** =
+80
+Interleukins IL-6 - 0.488** =
+44
+
+ 
+
+This article is protected by copyright. All rights reserved.
+
+*Correlation is significant at the 0.05 level (2-tailed)
+** Correlation is significant at the 0.01 level (2-tailed)
+
+ 
+Table 4. Responsiveness to therapy with antihistamines in CSU patients with normal
+
+and elevated CRP levels
+
+ 
+
+x2 value;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRP+ CRP- significance | Sensitivity | Specificity (05% (25%
+(n=55) | (n=86) level (95% Cl) | (95% Cl) Cl) Cl)
+(x2 test)
+
+Non-responders 36 30 12.59: 54.5% 74.7% 65.4% 65.1%
+to only standard (65.4%) | (34.9%) p< 0 001 (41.8- (63.3- (54.8- (58.1doses of sgAH : : : 66.9%) 84%) 74.8%) | 71.5%)
+
+Non-responders 9 9 9 9
+to standard or 18 14 5.17; 50.2% Go. B2-T%s | O31
+elevated doses | (32.7%) | (16.3%) |p = 0.02 (37.6- (56.4- | (24.5- | (77.2of sgAH . . , 73.6%) 74.8%) 42.1%) | 88.6%)
+
+ 
+
+sgAH: second generation antihistamines; NPV: negative predictive value; PPV: positive
+
+predictive value
+
+Figure 1. The correlation between CRP and inflammation and coagulation markers
+
+CRP (mgi/L)
+
+CRP (mg/L)
+
+C4 (mg/dl)
+
+ 
+
+CRP (mg/L)
+
+80
+
+60
+
+CRP (mg/L)
+
+Leukocytes (x10°/L)
+
+1000 2000
+
+ 
+
+120.488
+p=0.04
+
+3000 4000
+
+D-dimer (ng/mL)
+
+This article is protected by copyright. All rights reserved.
+
+ 
+
+5000
+
+ 
+

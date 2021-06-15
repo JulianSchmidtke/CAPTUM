@@ -1,0 +1,1796 @@
+ 
+
+EUROPEAN JOURNAL OF ALLERGY 2
+y AND CLINICAL IMMUNOLOGY
+
+ 
+
+POSITION PAPER
+
+Allergy
+
+EAACI taskforce position paper: evidence for autoimmune
+urticaria and proposal for defining diagnostic criteria
+
+G. N. Konstantinou', R. Asero”, M. Ferrer®, E. F. Knol*, M. Maurer®, U. Raap®,
+P. Schmid-Grendelmeier’, P. S. Skov® & C. E. H. Grattan®
+
+Department of Allergy and Clinical Immunology, 424 General Military Training Hospital, Thessaloniki, Greece; 2ambulatorio di Allergologia,
+Clinica San Carlo, Paderno Dugnano, Millan, Italy; Department of Allergy, Clinica Universidad de Navarra, Pamplona, Spain; *Department of
+Dermatology and Allergology, University Medical Center Utrecht, Utrecht, The Netherlands; "Department of Dermatology and Allergy,
+Charité — Universitatsmedizin Berlin, Berlin, Germany; (Department of Dermatology and Allergy, Hannover Medical School, Hannover,
+Germany; Allergy Unit, Department of Dermatology, University Hospital, Zurich, Switzerland; °Department of Dermatology, Odense
+University Hospital, Odense Area, Denmark; Department of Dermatology, St John’s Institute of Dermatology, London and Norfolk and
+
+Norwich University Hospital, Norwich, UK
+
+ 
+
+To cite this article: Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, Schmid-Grendelmeier P, Skov PS, Grattan CEH. EAACI taskforce position
+
+paper: evidence for autoimmune urticaria and proposal for defining diagnostic criteria. Allergy 2013; 68: 27-36.
+
+Keywords
+
+autoimmune urticaria; histamine release
+assay; autoreactivity; basophil activation
+marker; Witebsky’s postulates.
+
+Correspondence
+
+Clive E. H. Grattan, Department of
+Dermatology, St John's Institute of
+Dermatology, London and Norfolk and
+
+Norwich University Hospital, Norwich, UK.
+
+Tel.: +44 1603 288 265
+Fax: +44 1603 288 601
+E-mail: clive.grattan@nnuh.nhs.uk
+
+Accepted for publication 21 September
+2012
+
+DOI:10.1111/all.12056
+
+Edited by: Thomas Bieber
+
+Abbreviations
+
+Abstract
+
+An autoimmune subset of chronic spontaneous urticaria is increasingly being recognized internationally, based on laboratory and clinical evidence that has
+accrued over the last 20 years. This evidence has been reviewed by a taskforce of
+the Dermatology section of the European Academy of Allergy and Clinical
+Immunology. Functional autoantibodies in chronic urticaria (CU) patient sera
+have been demonstrated against IgE and FceRIo by basophil and mast cell histamine release assays and by basophil activation assays. Antibody specificity has
+been confirmed by immunoassay, but there is a poor correlation between functionality and immunoreactivity. Approximately 25% of CU patients have a positive basophil histamine release assay and show autoreactivity (a positive
+autologous serum skin test), whereas 50% are negative regarding both. Functionality of CU sera appears to be complement dependent on mast cells but not
+exclusively on basophils. Basophil activation by CU sera is predominantly
+restricted to IgG! and IgG3 subclasses. Circumstantial evidence for CU being an
+autoimmune disease comes from an observed association with other autoimmune
+diseases, a strong association between serum functionality and HLA-DR4 haplotype and the good response of CU patients to immunotherapies. It was proposed
+that a study should be undertaken to prospectively validate potentially relevant
+clinical criteria (from the history, examination and routinely available clinical
+investigations) against a new ‘gold standard’ for the diagnosis of ACU (positive
+autoreactivity, functional bioassay and immunoassay) to define preliminary criteria sets for the diagnosis of ACU based on clinical and laboratory features with
+highest individual sensitivity and specificity.
+
+The current nomenclature of urticaria endorses the use of a
+clinical rather than an aetiological classification to recognize
+that some patients with chronic spontaneous urticaria (syn.
+
+ACU, autoimmune chronic spontaneous urticaria; ASST, autologous
+serum skin test; BHRA, basophil histamine release assay;
+cyclosporin A, CsA; CIU, chronic idiopathic urticaria; CU, chronic
+spontaneous urticaria; ELISA, enzyme-linked immunosorbent assay;
+FceRI, high-affinity IgE receptor; MC, mast cell; MCHRA, mast cell
+histamine release assay; WB, Western blot.
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+chronic ordinary urticaria: CU) may have an autoimmune
+rather than idiopathic aetiology (1).
+
+An EAACTI taskforce panel was established in 2010 to
+review the laboratory and clinical evidence for CU being
+an autoimmune disease in a definable subset of patients
+by examining whether there is sufficient direct, indirect and
+
+27
+Defining and diagnosing autoimmune urticaria
+
+circumstantial evidence currently available to fulfil Witebsky’s postulates (2). A systematic review of the English language medical literature up to December 2011 was performed
+(for more details, see online repository). Critical evaluations
+included the definition of autoimmunity according to existing
+consensus reports and evaluation of common features of CU.
+Consensus was reached on information provided by each
+member of the panel at the meeting, followed by an in-depth
+review of the published data by all authors in serial revisions
+until the final document prior to submission.
+
+Evidence for the existence of functional autoantibodies
+in chronic spontaneous urticaria
+
+IgG and/or IgM antibodies against IgE were first identified
+by immunoassay in patients with CU, urticarial vasculitis
+and cold urticaria by Gruber and co-workers in 1988 (3).
+The serum of one patient with cold urticaria containing an
+IgM anti-IgE was shown to release histamine from healthy
+nonatopic donor basophils, but the possible relevance of this
+finding was not elaborated. IgG histamine—releasing autoantibodies with properties of anti-[gE were described 3 years
+later by Grattan et al. (4) in sera of CU patients. Most of
+the same sera were also shown to be vasoactive in vivo by
+eliciting a weal and flare response to autologous serum skin
+test (ASST), raising the possibility for the first time that some
+patients previously regarded as having idiopathic CU (CIU)
+might have an autoimmune disease. These initial findings
+were extended by the same group in 1993 (5), and importantly, novel functional autoantibodies with specificity
+against the high-affinity IgE receptor (FceRI) were identified
+by neutralization of the histamine-releasing activity of IgG
+prepared from CU sera with the soluble alpha chain of
+FceRI. These findings were confirmed by Fiebiger et al. (6)
+2 years later and in other centres (7-11).
+
+Data from these early studies suggested that almost 40%
+of the patients previously characterized as having CIU had
+circulating autoantibodies that might be implicated in urticaria pathogenesis (4, 5). Their functionality was defined by
+the release of histamine from healthy donor basophils or
+mast cells (MCs). An additional 5-10% have functional IgG
+anti-IgE autoantibodies. The ratio of functional anti-FceRIa
+to anti-IgE ranges from 3: 1 to 4: 1 (8, 12). The specificity
+of these autoantibodies has been confirmed by either Western
+blot (WB) (6, 8, 9, 12-15), ELISA (10, 16) or immunoenzymetric (17) assays. However, no clear correlation between
+binding and functional assays has been found.
+
+There is some evidence that other autoantibodies may be
+also involved in CU. Anti-FceRII/CD23 autoantibodies have
+been identified in CU sera that elicit MC degranulation indirectly, via major basic protein release from eosinophils,
+resulting in noncytotoxic degranulation (18). Antiendothelial
+cell autoantibodies were present in some CU sera although
+their biological significance is unclear (19). IgE autoantibodies against thyroid peroxidase were detected by ELISA in
+CU sera in one study (20), but not in another (21). These
+autoantibodies might, in theory, elicit MC degranulation by
+binding soluble thyroid antigens or other cross-reacting
+
+28
+
+Konstantinou et al.
+
+self-antigens. It is possible, if not likely, that other autoantibody systems exist that may be directly or indirectly relevant
+to weal formation or persistence in CU patients.
+
+A model of ‘conditional autoimmunity’ has been proposed
+on the premise that natural anti-FceRIa autoantibodies can
+be found in healthy subjects and may become pathogenic
+locally following a dynamic shift between FceRI occupancy
+by its natural ligand, IgE, and its unoccupied state. Removal
+of IgE from basophils resulted in their activation and MC
+mediator release by natural anti-FceRIx autoantibodies,
+while resensitization with IgE prevented this autoantibodydependent histamine release (22, 23). This finding may
+provide a model for cellular events in the skin that determine
+whether MC receptor activation, degranulation and weal formation occur as a result of exposure to anti-FceRIo. autoantibodies or not. There is evidence that IgE receptor
+occupancy is relevant in CU as most patients have antiFceRIa that will bind the «1 domain of the FceRI despite
+IgE sensitization. However, in a minority, the autoantibody
+competes with IgE for the receptor, binding to its «2 domain,
+and will not trigger histamine release from basophils that are
+already presensitized with IgE (24). Local heat or pressure
+from clothing contact often appears to induce weals in
+spontaneous urticaria and might, perhaps, promote the local
+conditions necessary for changes in IgE receptor occupancy
+resulting in MC degranulation.
+
+Although most of the studies have been conducted in
+adults, there is evidence that a similar percentage of children
+with CU have the same ‘functional’ autoantibodies (25, 26).
+
+Basophil and mast cell assays for functional
+autoantibodies in CU
+
+Histamine release assays
+
+Both blood basophils (5, 6, 8-10, 14) and cutaneous MCs (7,
+9) from healthy donors have been used in bioassays to evaluate CU sera containing anti-FceRI« or anti-IgE autoantibodies. Ex vivo activation of these cells currently provides the
+gold standard for the characterization of CU sera as being
+functional (i.e. having an effect on a target cell) or nonfunctional.
+
+After pooling available data from published studies (5, 7,
+12, 13, 25-56), among patients with CU, 32.5% (median,
+95% CI: 12-39.1%) have a positive whole serum-induced
+basophil histamine release assay (BHRA). Approximately
+25% of CU patients [median: 26.5% (95% CI: 10.3-32.8%)]
+have a positive ASST and a positive BHRA, 49.5% (median,
+95% CI: 23.9-66.2%) have a negative ASST and a negative
+BHRA, 15.8% (median, 95% CI: 1.6-64.1%) have a positive
+ASST and a negative BHRA, and 4.1% (median, 95% Cl: 0
+—11.5%) have a negative ASST and a positive BHRA.
+
+Only a few studies relate anti-FceRIo or anti-I[gE autoantibodies in CU patients’ sera detected by immunoassay to
+functional bioassay results (8, 9, 12-14). After pooling the
+available data from these studies, anti-FceRIx autoantibodies
+are found in 49.2% (range, 41.6-72%) of CU patients;
+26.4% (range, 20-52%) have both autoantibodies and a
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+Konstantinou et al.
+
+positive BHRA, while 16.5% (range, 0-22.7%) have a positive BHRA with undetectable levels of autoantibodies. The
+study by Sabroe et al. (12) concluded that CU patients can
+be classified into five subsets: 26% with histamine-releasing
+anti-FceRIa antibodies (group 1), 15% with immunoreactive
+nonfunctional anti-FceRIa antibodies (group 2), 9% with
+MC-specific histamine-releasing factors, 9% with functional
+anti-IgE antibodies and 41% with no identifiable factors
+(group 5). Using a panel of basophils and MCs from healthy
+donors increased the number of strongly positive ASST CU
+sera evoking significant histamine release to 95% (43) from
+the expected level of around 50% for all positive ASST CU
+sera tested on single or paired basophil donors. Isolation,
+culture and use of MCs is much more laborious, difficult to
+perform and hard to standardize than the BHRA. On the
+other hand, the human basophil secretory response to FceRIdependent stimuli varies widely. Basophils from 10% to 20%
+of unselected healthy individuals are nonreleasers to FceRIdependent stimuli (57, 58). Consequently, the BHRA is
+dependent on the individual characteristics of the healthy
+donors from whom they originate. Unfortunately, there has
+been no international standardization of this test to date
+including a lack of agreement on the positive threshold for
+the BHRA. Further research including the characterization
+of more suitable assay populations such as human MC lines
+(16, 59) is needed to standardize and improve this method.
+There seems to be a reasonably good concordance between
+basophil and MC histamine release in response to CU sera,
+suggesting a common pathway of cell activation (7, 9).
+
+Basophil activation marker expression
+
+Basophil activation tests have also been used to identify functional serum factors in CU patients. The induced basophil
+activation markers found to be most reliable for assessing
+functional activity in CU sera are CD63 (34, 35, 46, 60-63)
+and especially (64) CD203c (36, 62). Expression of CD63 has
+been closely related to basophil degranulation (65), while
+CD203c is upregulated after basophil activation independent
+of degranulation (66).
+
+CD203c expression on allogeneic basophils from a healthy
+donor was found to correlate significantly with histamine
+release from the same donor after stimulation with CU sera
+(36). In the same study, IgG depletion of three CU sera
+significantly reduced CD203c expression, suggesting an
+IgG-mediated basophil activation mechanism.
+
+Similarly, a CU serum positive for anti-FceRIo autoantibodies by WB induced significantly higher CD63 expression
+on basophils from highly IgE-sensitized donors as opposed
+to basophils from nonatopic donors, while this was not
+observed in a CU patient without these autoantibodies (46).
+Neither the presence of anti-FceRIo antibodies nor histamine-releasing activity of sera from CU patients was associated with consistent CD63 or CD203c expression on
+basophils from a healthy donor, although these data were
+based on a small sample size (62).
+
+CD63 expression correlated linearly with healthy donor
+basophil histamine release after activation with CU sera in
+
+ 
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+Defining and diagnosing autoimmune urticaria
+
+two studies (35, 67), whereas in another study, it was found
+that only 14 of 20 CU patients with positive ASST showed
+activity in CD63 expression of a healthy donor (60). CD63
+increase and degranulation are correlated after anti-IgE or
+formyl-methionyl-leucyl-phenylalanine (fMLP) _ stimulation
+(62). Both Frezzolini et al. (34) and Gyimesi et al. (46) concluded that sera from ASST-positive CU patients are able to
+significantly induce CD63 expression on basophils, providing
+a sensitivity up to 95.5%.
+
+Use of different methodologies appears to influence the
+outcome. A tricolour flow cytometry method (based on identification of CD63, CD123 (interleukin-3 receptor) and
+absence of HLA-DR-expression) may improve diagnostic
+performance by avoiding IgE labelling as it is known that
+FceRI expression may vary considerably between basophil
+donors (34). Elimination of in vitro activation (e.g. with IL-3)
+and use of washed leucocytes instead of whole blood may
+also explain sensitivity and specificity discrepancies (46).
+
+Influence of IgG subclass on histamine-releasing
+activity of FesRI autoantibodies
+
+The role of autoantibodies as a stimulus for MC degranulation is not straightforward as they may be nonfunctional as
+well as functional (10, 14, 68). This functionality may be
+attributable to the complement-fixing IgG, and IgG;
+antibody subclasses as there is evidence suggesting that IgG
+and IgG, (most commonly found in patients with other autoimmune cutaneous diseases) are less specific and more likely
+to be nonfunctional than IgG; and IgG3, which are found
+predominantly in CU (10). Anti-FceRIo autoantibodies have
+been detected by immunoassay in other autoimmune diseases
+(pemphigus vulgaris, dermatomyositis, systemic lupus erythematosus and bullous pemphigoid) (10), atopics (17) and even
+healthy individuals (17, 49). This may explain the lack of a
+significant correlation between the results of immunoassays
+and those of histamine release studies in CU. It may also
+account for the lack of correlation between the desensitization to anti-IgE-induced basophil histamine release observed
+in CU basophils and the detection of FceRI-specific autoantibodies in CU (69).
+
+ 
+
+The role of complement in mast cell and basophil
+degranulation
+
+Complement dependence has been shown for histamine
+release from healthy donor cutaneous MCs in response to
+IgG from CU patients (11). However, complement does not
+appear to be obligatory for CU serum-induced basophil
+release (4, 10, 68). The observation that CU serum histamine-releasing activity of basophils is thermostable at 56 °C
+argues against complement involvement (5, 7, 38, 70, 71),
+although reduction in heating-dependent histamine release
+(il, 30) and complement-augmented histamine-releasing
+activity of IgG from CU sera (72) have also been reported.
+Under certain circumstances, monovalent rather than
+bivalent cross-linking of these receptors by anti-FceRIa
+autoantibodies may occur (11), resulting in immune complex
+
+29
+Defining and diagnosing autoimmune urticaria
+
+formation and complement activation via the classical pathway (14, 72) with generation of CSa (11), followed by MC
+activation and histamine release (11, 14, 71) through binding
+of the CSa receptor (72). It has been proposed that histamine
+release due to C5a generation is primarily cutaneous rather
+than systemic because CS5a receptors are expressed only by
+skin MCs (73), a hypothesis that may explain why CU
+patients do not commonly experience respiratory symptoms.
+
+Evidence for intrinsic functional abnormalities of
+basophils and mast cells in CU
+
+Basophils from CU patients have been shown to exhibit
+increased spontaneous basal histamine release ex vivo compared with basophils of normal individuals (4, 74). Incubation of basophils of CU patients with heterologous sera from
+either healthy or CU patients resulted in enhanced histamine
+release (4, 74). Analogous to basophils, cultured peripheral
+blood MCs from CU patients have also been shown to exhibit increased basal histamine release compared with MCs
+from normal individuals (75). In another study, histamine
+release from skin MCs of CU patients stimulated by compound 48/80 in vivo using a skin chamber technique was
+higher than in normal control subjects (76). Incubation of
+basophils of patients with CU with heterologous sera from
+CU patients resulted in increased histamine release (74).
+Stored autologous sera taken during CU activity resulted in
+positive ASST during CU remission, while the ASST was
+negative if autologous serum was taken and tested during
+remission (77).
+
+However, in CU remission, direct (17, 78) or indirect (17)
+FceRI-mediated histamine release with anti-IgE reportedly
+increases in basophils, while cutaneous skin MC releasability
+appears to decrease (76, 79), at least to a nonimmunological
+stimulus like compound 48/80.
+
+Evidence for basophils and mast cells as targets of
+functional autoantibodies in lesional and uninvolved
+skin of CU
+
+Basophils
+
+Several studies have shown peripheral blood basopenia in
+patients with active CU (27, 80-82). Basophils are found in
+biopsies from CU lesions, ASST-induced weals and unaffected skin from CU patients (83, 84). In addition, blood
+basopenia is inversely related to the severity of urticaria (82).
+The last two observations suggest that basopenia may be
+attributed to basophil recruitment from the circulation into
+weals or to the destruction of basophils by circulating
+autoantibodies (27). CU patients with severe basopenia also
+have the highest level of autoantibodies by immunoenzymetric assay (17).
+
+Basophils from patients with active CU showed reduced
+histamine release when stimulated with anti-IgE or antiFceeRI autoantibodies (81). This suppression of histamine
+release is not evident with FceRI-independent stimuli, like
+compound 48/80, fMLP, monocyte chemoattractant protein
+30
+
+Konstantinou et al.
+
+1, bradykinin or calcium ionophore, pointing to an FceRI
+pathway-specific defect (15, 74, 78, 81). A desensitization
+process of the FceRI pathway via anti-FceRIx autoantibody
+activity has been proposed as a potential explanation of this
+observation (81). However, there was no clear relationship
+between histamine releasability of basophils from CU
+patients in response to anti-IgE stimulation and the presence
+of autoantibodies in their sera, as detected by immunoassay,
+suggesting that mechanisms other than FceRI-dependent
+immunological desensitization may also be important (15,
+17).
+
+Mast cells
+
+There is direct evidence from electron microscopy that MC
+degranulation occurs with an overall reduction in stainable
+MCs in positive ASST responses of CU patients (85). Similar
+changes have been shown after skin tests with the experimental MC degranulating agent, compound 48/80 (86). In addition, local tachyphylaxis has been demonstrated by
+reinjection of autologous serum at the same site (70). All
+these observations suggest that MC mediators are likely to
+be involved in the immediate weal and flare response to
+autologous serum. The cutaneous response provides an in
+vivo marker of serum-induced MC degranulation, which is
+supported by in vitro functional studies (4), although other
+influences, including hyper-responsiveness of MCs and the
+microvasculature, are likely. In fact, this hyper-responsiveness
+has been demonstrated with compound 48/80 and codeine
+sulphate in active CU, while the absolute number of MCs
+does not appear to increase (87). In CU remission, this
+hyper-releasability resolves for compound 48/80, but not for
+codeine (76, 79).
+
+Association with other autoimmune diseases
+
+Although there has been no systematic study of an association between CU and autoimmune diseases, there have
+been reports of CU patients with vitiligo, pernicious anaemia
+(88), rheumatoid arthritis (89), juvenile rheumatoid arthritis
+(90), type 1 diabetes mellitus (91, 92), Grave’s disease (91,
+93), coeliac disease (31, 94-96) and Raynaud’s phenomenon
+with anticentromere autoantibodies (97). There have also
+been many studies describing a high prevalence of IgG antithyroid antibodies ranging from 15% to 30%, and in particular Hashimoto’s thyroiditis, among patients with CU (50, 93,
+98-104). Positive thyroid antibodies are more frequent in CU
+patients with a positive BHRA than in those without (67,
+105). Positive thyroid antibodies are also found more often
+in ASST-positive CU patients than in ASST-negative CU
+patients (42, 67, 101, 106, 107), although this was not the
+case in all studies (31, 50, 53, 93). This increased incidence
+appears to reflect the involvement of common genetic factors
+in pathogenesis rather than shared epitope cross-specificity
+between IgG antithyroid and anti-FceRIa antibodies (16).
+Molecular mimicry of host structures by the saccharide
+portion of lipopolysaccharides (LPS) of Helicobacter
+pylori (HP) with the FceRI has been proposed (108). An
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+Konstantinou et al.
+
+association has been described in ASST-positive CU patients
+infected with HP and autoimmune thyroiditis (42).
+This might explain anti-FceRIa autoantibody formation in
+genetically predisposed individuals and provide an indirect
+aetiological explanation of autoimmunity initiation in CU.
+
+In addition, many CU patients reportedly have a nonorgan-specific increase in autoimmune markers such as rheumatoid factor and antinuclear antibodies (32, 109).
+
+The autoimmune basis of CU is further supported by the
+observation that p21Ras expression is increased, whereas the
+overall expression of the p21Ras stimulatory element hSOS1
+(son of sevenless homolog 1) is downregulated in peripheral
+blood mononuclear cells of patients with CU. This aberrant
+signalling through the p21Ras pathway has been also
+described in other autoimmune diseases, such as systemic
+lupus erythematosus and type I diabetes mellitus. The
+decreased hSOS1 expression was present only in ASST-positive patients (41).
+
+CD40L expression was higher on in vitro activated CD3 T
+lymphocytes from CU patients and the antiapoptosis marker
+Bcl-2 was expressed higher in severe than in moderate CU.
+This overexpression may be responsible for the polyclonal
+hyper-reactivity of B cells to produce anti-FceRI antibodies,
+in keeping with the concept of an autoimmune disorder. Evidence of T- and B-cell activation in CU emphasizes that CU
+should be regarded as an immune disorder (110). Total IgE
+was shown to be elevated in nonatopic CU patients as a possible marker of polyclonal B-cell activation (111).
+
+ 
+
+Genetic predisposition
+
+Immunogenetic studies have found a_ highly significant
+association between certain HLA class II molecules that are
+associated with autoimmune illnesses in general and CU in
+particular (29, 112, 113). The prevalence of DRB1*04 (DR4)
+and its genetically associated allele DQB1*0302 (DQ8) is
+markedly increased in CU patients as a whole and ASSTpositive CU patients alone compared with the healthy population. In particular, HLA-DR4 is strongly associated with
+increased BHRA activity and positive ASST responses (29,
+112), while HLA-DR4 and DQB1*0301/4 frequencies were
+significantly higher in ASST-positive CU patients than in
+ASST-negative CU patients. CU patients are more commonly
+HLA-Bw4 and HLA-DQ! positive (113).
+
+There was a higher frequency of CU in first-degree relatives of patients with CU than expected, and most of them
+had a positive ASST (114).
+
+Response of CU to immunotherapies
+
+Plasmapheresis (115) and intravenous immunoglobulin
+(IVIG) infusions (116) appeared to benefit severe CU patients
+with positive ASST and serum histamine-releasing activity in
+uncontrolled studies. In one patient who responded to
+plasmapheresis, the urticarial activity score mirrored the level
+of functional autoantibodies, whereas the peripheral blood
+basophil numbers showed an inverse relationship, thereby
+
+providing good anecdotal evidence for a pathogenetic
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+Defining and diagnosing autoimmune urticaria
+
+relationship between these clinical and laboratory parameters.
+Six weeks later, reaccumulation of the autoantibodies and
+recurrence of basopenia coincided with clinical relapse (115).
+However, the most studied immunosuppressive agent for CU
+to date is ciclosporin A (CsA) (117-121) giving an average
+dose- and duration-dependent response rate of 83.2% (range,
+51.7-100%). It is the only drug with a strong evidence for
+efficacy in CU. Patients with a positive serum BHRA
+responded better to CsA than those with a negative BHRA
+(117), while functional activity in serum was inhibited by
+treatment (117). This action can be explained by inhibition of
+either T-cell activation or T-cell-dependent antibody formation by B lymphocytes (122), while direct inhibition of basophil and MC histamine release has been also suggested as an
+explanation for the partial and temporary clinical improvement seen in some patients (123). Other immunosuppressive
+drugs used successfully in severe CU include mycophenolate
+mofetil (124), methotrexate (125) and cyclophosphamide
+(126, 127). It should not be forgotten that oral corticosteroids are the most widely used immunosuppressive and
+anti-inflammatory drug for CU worldwide (128), although an
+evidence base for their undoubted effectiveness is lacking.
+
+Reports of patients with spontaneous and inducible CU
+responding to treatment with anti-IgE (omalizumab) raise the
+question as to how it might work in CU. Following an initial
+rapid reduction in free IgE levels after treatment, there
+appears to be a decrease in FceRI function (129) and probably FceRI numbers on basophils (130) and MCs (131). In
+most cases, this results in a rapid clinical improvement
+accompanied by reversal of laboratory abnormalities (i.e.
+increased blood basophils and enhanced FceRI-dependent
+basophil histamine release) (132) similar to that observed in
+naturally recovered CU patients (17).
+
+Autoimmune urticaria: is it a real entity?
+
+According to the revisited Witebsky’s postulates (2) evidence
+in support of an autoimmune origin of a human disease is
+grouped in three categories: level 1: direct evidence from
+transfer of pathogenic antibodies or T cells, level 2: indirect
+evidence based on reproduction of the disease under question
+in experimental animal models and level 3: circumstantial evidence from clinical practice.
+
+Direct: The only direct in vivo proof of pathogenicity of
+humoral factors in CU comes from a report of intradermal
+injection of plasma from a CU patient with functional autoantibodies into a healthy volunteer producing a weal and
+flare reaction similar to the patient’s ASST response, while
+an ASST in the same healthy volunteer was negative (133).
+However, cross-species passive transfer of human CU
+patients with positive ASST responses to macaque monkeys
+(134) and guinea pigs (135) was not demonstrated.
+
+Another way to demonstrate the pathogenicity of an autoantibody is to demonstrate its action on the target organ or
+cell ex vivo or in vitro. This is the case with the release of
+histamine from healthy donor basophils (4) and MC (7) by
+IgG purified from CU sera and inhibition assays using the
+soluble FceRIa subunit (5). Positive BHRA activity data
+
+31
+Defining and diagnosing autoimmune urticaria
+
+provide direct evidence of a stimulatory effect of anti
+FeeRIa antibodies on the FceRI mimicking a receptor
+
+agonist.
+
+Indirect: Unfortunately, there are currently no experimental animal models of chronic urticaria. However, a mouse
+model expressing human FceRI (136) may be suitable for
+study. In another model, rats immunized with rat myeloma
+IgE, produced anti-IgE, which induced immediate skin test
+responses with the evidence of MC degranulation but only
+on intradermal injection (137).
+
+Circumstantial: There is a growing body of circumstantial
+evidence for CU being an autoimmune disease, as detailed in
+the previous sections.
+
+e Association with other autoimmune diseases.
+
+e Lymphocytic infiltration of target organ: T lymphocytes
+are found in the upper and mid-dermis with a perivascular distribution in spontaneous CU weals (84) and the
+ASST response (85).
+
+Statistical association with a particular MHC haplotype.
+Favourable response to immunosuppression.
+
+Consensus from the existing evidence
+
+The panel agreed that the evidence for autoimmune chronic
+spontaneous urticaria (ACU) being a distinct disease entity
+was persuasive although more evidence is required to meet
+the full Witebsky’s criteria, particularly the need for an animal model. It should be noted that a number of human diseases are frequently designated autoimmune even though
+they do not meet the previously described criteria (e.g. vitiligo, primary biliary cirrhosis, primary adrenal insufficiency,
+
+Addison’s disease).
+
+The main difficulties with identifying patients with ACU in
+clinical practice are as follows:
+
+e The lack of a characteristic clinical phenotype which
+would allow patients with ACU to be distinguished confidently from those with other aetiological patterns of CU
+(infection-related, pseudoallergic or idiopathic) on clinical
+grounds for clinicians without access to functional bioassays.
+
+e No single test is available that unequivocally demonstrates specific functional autoantibodies against FceRIa
+or receptor-bound IgE on skin MCs or basophils. Functionality itself is considered to be the key criterion for
+ACU definition. The panel considered whether the BHRA
+or the ASST could be adopted as the ‘gold-standard’ tests
+for functional autoantibodies to define ACU. Although
+clinical and laboratory characteristics of patients with
+positive BHRA and ASST have been reported, nearly all
+the publications relate to the use of whole sera rather
+than purified IgG. The panel recognized that neither test
+alone could be regarded as sufficiently robust to offer a
+secure platform for the validation of diagnostic criteria
+for ACU. The limitations of the individual tests used in
+
+32
+
+Konstantinou et al.
+
+the assessment of ACU are summarized in Box El (see
+online repository).
+
+Recommendations from the panel
+
+To overcome these limitations, the panel proposed that the
+‘gold standard’ for ACU diagnosis should be a combination
+of a positive bioassay, positive autoreactivity and a positive
+immunoassay. The details and referenced methodologies are
+summarized in Box 1.
+
+Protocols and methodologies currently recommended as
+best practice are presented in the online repository.
+
+In addition, it was agreed that the taskforce should prospectively validate potentially relevant clinical and laboratory
+criteria (from the history, examination and routinely available clinical investigations) to explore and identify potential
+surrogate parameters that can substitute for the combined
+major criteria of the newly adopted ‘gold standard’ (Box E2
+in online repository) before reconvening to define preliminary
+criteria sets for a diagnosis of ACU based on individual criteria with highest individual sensitivity and specificity.
+
+ 
+
+ 
+
+Summary Box 1 proposed gold standard for diagnosis
+of ACU
+
+A A positive bioassay (BHRA or basophil activation marker
+expression) to demonstrate functionality in vitro AND.
+
+B Positive autoreactivity (by means of a positive ASST) to
+demonstrate relevance in vivo to MC degranulation and
+vasopermeability AND.
+
+C A positive immunoassay for specific IgG autoantibodies
+against FeeRI« and/or anti-IgE (WB or ELISA) to demonstrate antibody specificity.
+
+ 
+
+Acknowledgment
+
+We are very grateful to Professor Jean-Francois Nicolas and
+Dr Elias Toubi for their helpful and constructive comments
+on the manuscript, which have contributed to its authority.
+
+Conflict of interest
+
+PSS is Consultant for RefLab, Denmark, that provides a
+commercial BHRA (HR-Urtikaria® test) but has no commercial interest in it. All the other authors do not have a financial relationship with a commercial entity that has an interest
+in the subject of this manuscript.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article found at: www.wileyonlinelibrary.com:
+
+Data S1. Online repository.
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+ 
+Konstantinou et al.
+
+References
+
+Ll.
+
+10.
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+Zuberbier T, Asero R, Bindslev-Jensen C,
+Walter Canonica G, Church MK, Gimenez-Arnau A et al. EAACI/GA(2)LEN/
+EDF/WAO guideline: definition, classification and diagnosis of urtic:
+2009:64: 1417-1426.
+
+ria, Allergy
+
+ 
+
+. Rose NR, Bona C. Defining criteria for
+
+autoimmune diseases (Witebsky’s postulates.
+revisited). Immunol Today 1993:14: 426—
+430.
+
+. Gruber BL, Baeza ML, Marchese MJ,
+
+Agnello V, Kaplan AP. Prevalence and
+functional role of anti-IgE autoantibodies
+in urticarial syndromes. J Invest Dermatol
+1988;90: 213-217.
+
+. Grattan CE, Francis DM, Hide M,
+
+Greaves MW. Detection of circulating
+histamine releasing autoantibodies with
+functional properties of anti-IgE in chronic
+urticaria. Clin Exp Allergy 1991;21: 695—
+704.
+
+. Hide M, Francis DM, Grattan CE, Hakimi
+
+J, Kochan JP, Greaves MW. Autoantibodies against the high-affinity IgE receptor as
+a cause of histamine release in chronic urti. N Engl J Med 1993;328: 1599-1604.
+
+cari
+
+ 
+
+. Fiebiger E, Maurer D, Holub H, Reininger
+
+B, Hartmann G, Woisetschlager M et al.
+Serum IgG autoantibodies directed against
+the alpha chain of Fe epsilon RI: a selective
+marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J
+Clin Invest 1995;96: 2606-2612.
+
+. Niimi N, Francis DM, Kermani F, O’Don
+nell BF, Hide M, Kobza-Black A et al.
+Dermal mast cell activation by autoantibodies against the high affinity IgE receptor
+in chronic urticaria. J Invest Dermatol
+1996;106: 1001-1006.
+
+. Tong LJ, Balakrishnan G, Kochan JP, Kinet
+
+JP, Kaplan AP. Assessment of autoimmunity in patients with chronic urticaria. J
+Allergy Clin Immunol 1997;99: 461-465.
+
+. Ferrer M, Kinet JP, Kaplan AP. Compara
+tive studies of functional and binding
+assays for IgG anti-Fe(epsilon)RIalpha
+(alpha-subunit) in chronic urticaria. J
+Allergy Clin Immunol 1998;101: 672-676.
+Fiebiger E, Hammerschmid F, Stingl G,
+Maurer D. Anti-FeepsilonRIalpha autoantibodies in autoimmune-mediated disorders.
+Identification of a structure-function relaInvest 1998;101: 243-251.
+
+ 
+
+tionship. J C
+
+. Ferrer M, Nakazawa K, Kaplan AP. Com
+plement dependence of histamine release in
+chronic urticaria. J Allergy Clin Immunol
+1999;104: 169-172.
+
+. Sabroe RA, Fiebiger E, Francis DM, Ma
+urer D, Seed PT, Grattan CE et al. Classification of anti-FeepsilonRI and anti-IgE
+autoantibodies in chronic idiopathic urti
+14.
+
+15.
+
+16.
+
+17:
+
+18.
+
+19.
+
+20
+
+ey
+Ps)
+
+Defining and diagnosing autoimmune urticaria
+
+caria and correlation with disease severity.
+J Allergy Clin Immunol 2002;110: 492-499.
+
+. Hidvegi B, Nagy E, Szabo T, Temesvari E,
+
+Marschalko M, Karpati S$ et al. Correlation
+between T-cell and mast cell activity in
+patients with chronic urticaria. Int Arch
+Allergy Immunol 2003-132: 177-182.
+Kikuchi Y, Kaplan AP. Mechanisms of
+autoimmune activation of basophils in
+chronic urticaria. J Allergy Clin Immunol
+2001;107: 1056-1062.
+
+Vonakis BM, Vasagar K, Gibbons SP Jr,
+Gober L, Sterba PM, Chang H et al. Basophil FcepsilonRI histamine release parallels
+expression of Src-homology 2-containing
+
+ 
+
+inositol phosphatases in chronic idiopathic
+urticaria. J Allergy Clin Immunol 2007;119:
+441-448.
+
+Mozena JD, Tinana A, Negri J, Steinke
+JW, Borish L. Lack of a role for cross
+ 
+
+reacting anti-thyroid antibodies in chronic
+idiopathic urticaria. J Invest Dermatol
+2010;130: 1860-1865.
+
+Eckman JA, Hamilton RG, Gober LM,
+Sterba PM, Saini SS. Basophil phenotypes
+in chronic idiopathic urticaria in relation to
+disease activity and autoantibodies. J Invest
+Dermatol 2008:128: 1956-1963.
+
+Puccetti A, Bason C, Simeoni S, Millo E,
+Tinazzi E, Beri R et al. In chronic idiopathic urticaria autoantibodies against Fe
+epsilonRII/CD23 induce histamine release
+via eosinophil activation. Clin Exp Allergy
+2005;35: 1599-1607.
+
+Grattan CE, D’Cruz DP, Francis DM,
+Whiston C, Hughes GR, Greaves MW. Antiendothelial cell antibodies in chronic urticaria. Clin Exp Rheumatol 1995;13: 272—
+273.
+
+. Altrichter S, Peter HJ, Pisarevskaja D,
+
+Metz M, Martus P, Maurer M. IgE mediated autoallergy against thyroid peroxidase
+—a novel pathomechanism of chronic spontaneous urticaria? PLoS One 2011:6:
+14794,
+
+. Tedeschi A, Lorini M, Asero R. Anti-thy
+roid peroxidase IgE in patients with chronic
+urticaria. J Allergy Clin Immunol 2001;108:
+467-468.
+
+. Horn MP, Pachlopnik JM, Vogel M, Dah
+inden M, Wurm F, Stadler BM et al. Conditional autoimmunity mediated by human
+natural anti-Fe(epsilon)RIalpha autoantibodies? Faseb J 2001;15: 2268-2274.
+
+. Miescher SM, Horn MP, Pachlopnik JM,
+
+Baldi L, Vogel M, Stadler BM. Natural
+anti-FeepsilonRlalpha autoantibodies isolated from healthy donors and chronic idiopathic urticaria patients reveal a restricted
+repertoire and autoreactivity on human basophils. Hum Antibodies 2001;10: 119-126.
+
+24.
+
+25:
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+we
+is)
+
+35.
+
+. De Swerdt A, Van Den Keybus C, Ka
+
+Hide M, Francis DM, Grattan CE, Barr
+RM, Winkelmann RK, Greaves MW. The
+pathogenesis of chronic idiopathic urticaria:
+new evidence suggests an auto-immune
+
+basis and implications for treatment. Clin
+Exp Allergy 1994;24: 624-627.
+
+Brunetti L, Francavilla R, Miniello VL,
+Platzer MH, Rizzi D, Lospalluti ML et al.
+High prevalence of autoimmune urticaria in
+
+ 
+
+ 
+
+children with chronic urticaria. J Allergy
+Clin Immunol 2004:114: 922-927.
+
+Du Toit G, Prescott R, Lawrence P, Johar
+A, Brown G, Weinberg EG et al. Autoantibodies to the high-affinity IgE receptor in
+children with chronic urticaria. Ann Allergy
+Asthma Immunol 2006;96: 341-344.
+
+Grattan CE, Walpole D, Francis DM, Niimi N, Dootson G, Edler $ et al. Flow cytometric analysis of basophil numbers in
+chronic urticaria: basopenia is related to
+serum histamine releasing activity. Clin Exp
+Allergy 1997;27: 1417-1424.
+
+Sabroe RA, Grattan CE, Francis DM, Barr
+RM, Kobza Black A, Greaves MW. The
+autologous serum skin test: a screening test
+
+ 
+
+for autoantibodies in chronic idiopathic
+urticaria. Br J Dermatol 1999;140: 446-452.
+O'Donnell BF, O'Neill CM, Francis DM,
+Niimi N, Barr RM, Barlow RJ et al.
+Human leucocyte antigen class II associations in chronic idiopathic urticaria. Br J
+Dermatol 1999;140: 853-858.
+
+Asero R, Tedeschi A, Lorini M, Salimbeni
+R, Zanoletti T, Miadonna A. Chronic urticaria: novel clinical and serological aspects.
+Clin Exp Allergy 2001;31: 1105-1110.
+
+. Caproni M, Volpi W, Giomi B, Cardinali
+
+C, Antiga E, Melani L et al. Chronic idiopathic and chronic autoimmune urticaria:
+clinical and immunopathological features of
+68 subjects. Acta Derm Venereol 2004:84:
+288-290.
+
+ 
+
+ran
+A, Cadot P, Neyens K, Coorevits L et al.
+Detection of basophil-activating IgG autoantibodies in chronic idiopathic urticaria
+by induction of CD 63. J Allergy Clin
+Immunol 2005;116: 662-667.
+
+. Tedeschi A, Lorini M, Asero R. No evi
+dence of increased serum substance P levels
+in chronic urticaria patients with and without demonstrable circulating vasoactive factors. Clin Exp Dermatol 2005;30: 171-175.
+
+. Frezzolini A, Provini A, Teofoli P, Pomp
+oni D, De Pita O. Serum-induced basophil
+CD63 expression by means of a tricolour
+flow cytometric method for the in vitro
+diagnosis of chronic urticaria. Allergy
+2006;61: 1071-1077.
+
+Szegedi A, Irinyi B, Gal M, Hunyadi J,
+Danko K, Kiss E et al. Significant correla
+ 
+
+33
+Defining and diagnosing autoimmune urticaria
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+34
+
+tion between the CD63 assay and the hista
+mine release assay in chronic urticaria. Br J
+
+Dermatol 2006;155: 67-75.
+
+Yasnowsky KM, Dreskin SC, Efaw B,
+Schoen D, Vedanthan PK, Alam R et al.
+Chronic urticaria sera increase basophil
+CD203c expression. J Allergy Clin Immunol
+2006;117: 1430-1434.
+
+Tedeschi A, Lorini M, Suli C, Asero R.
+Serum interleukin-18 in patients with
+chronic ordinary urticaria:
+disease activity. Clin Exp Dermatol 2007:32:
+568-570.
+
+Fagiolo U, Kricek F, Ruf C, Peserico A,
+Amadori A, Cancian M. Effects of comple
+ssociation with
+
+ 
+
+  
+
+ment inactivation and IgG depletion on
+skin reactivity to autologous serum in
+chronic idiopathic urticaria. J Allergy Clin
+Immunol 2000;106: 567-572.
+
+Piconi S, Trabattoni D, Iemoli E, Fusi ML,
+Villa ML, Milazzo F et al. Immune profiles
+
+ 
+
+of patients with chronic idiopathic urticaria. Int Arch Allergy Immunol 2002;128:
+59-66.
+
+Nettis E, Dambra P, D’Oronzio L, Cavallo
+E, Loria MP, Fanelli M et al. Reactivity to
+autologous serum skin test and clinical features in chronic idiopathic urticaria. Clin
+Exp Dermatol 2002;27: 29-31.
+Confino-Cohen R, Aharoni D, Goldberg
+A, Gurevitch I, Buchs A, Weiss M et al.
+Evidence for aberrant regulation of the
+p21Ras pathway in PBMCs of patients
+with chronic idiopathic urticaria. J Allergy
+Clin Immunol 2002:109: 349-356.
+
+Bakos N, Hillander M. Comparison of
+
+ 
+
+chronic autoimmune urticaria with chronic
+idiopathic urticaria. Int J Dermatol 2003;42:
+613-615.
+
+Asero R, Lorini M, Chong SU, Zuberbier T,
+Tedeschi A. Assessment of histamine-releasing activity of sera from patients with
+chronic urticaria showing positive autologous skin test on human basophils and mast
+cells. Clin Exp Allergy 2004:34: 1111-1114.
+Bagenstose SE, Levin L, Bernstein JA. The
+addition of zafirlukast to cetirizine
+improves the treatment of chronic urticaria
+in patients with positive autologous serum
+skin test results. J Allergy Clin Immunol
+2004;113: 134-140.
+
+Godse KV. Autologous serum skin test in
+chronic idiopathic urticaria. Indian J Dermatol Venereol Leprol 2004:70: 283-284.
+Gyimesi E, Sipka $, Danko K, Kiss E,
+Hidvegi B, Gal M et al. Basophil CD6
+expression assay on highly sensitized atopic
+
+ 
+
+donor leucocytes-a useful method in
+chronic autoimmune urticaria. Br J Dermatol 2004;151: 388-396.
+
+Reeves GE, Boyle MJ, Bonfield J, Dobson
+P, Loewenthal M. Impact of hydroxychloroquine therapy on chronic urticaria:
+
+48.
+
+49.
+
+50.
+
+Si.
+
+53.
+
+54,
+
+55.
+
+56.
+
+Oe.
+
+58.
+
+  
+
+chronic autoimmune urticaria study and
+evaluation. Intern Med J 2004;34: 182-186.
+Toubi E, Kessel A, Avshovich N, Bamberger E, Sabo E, Nusem D et al. Clinical and
+laboratory parameters in predicting chronic
+
+  
+
+urticaria duration: a prospective study of
+139 patients. Allergy 2004;59: 869-873.
+Pachlopnik JM, Horn MP, Fux M, Dahinden M, Mandallaz M, Schneeberger D
+
+et al. Natural anti-FcepsilonRIalpha autoantibodies may interfere with diagnostic
+tests for autoimmune urticaria. J Autoimmun 2004;22: 43-51.
+
+Fusari A, Colangelo C, Bonifazi F, Antonicelli L. The autologous serum skin test in
+the follow-up of patients with chronic urticaria. Allergy 2005:60: 256-258.
+
+Asero R, Tedeschi A, Riboldi P, Cugno M.
+Plasma of patients with chronic urticaria
+shows signs of thrombin generation, and its
+intradermal injection causes wheal-and-flare
+reactions much more frequently than autologous serum. J Allergy Clin Immunol
+2006;117: 1113-1117.
+
+. Garmendia JV, Zabaleta M, Aldrey O, Ri
+vera H, De Sanctis JB, Bianco NE et al.
+Immunophenotype characteristics of
+peripheral blood mononuclear leukocytes
+of chronic idiopathic urticaria patients.
+Invest Clin 2006:47: 361-369.
+
+Kulthanan K, Jiamton S, Gorvanich T,
+Pinkaew S. Autologous serum skin test in
+chronic idiopathic urticaria: prevalence,
+correlation and clinical implications. Asian
+Pac J Allergy Immunol 2006;24: 201-206.
+Staubach P, Onnen K, Vonend A, Metz M,
+Siebenhaar F, Tschentscher I et al. Autologous whole blood injections to patients
+with chronic urticaria and a positive autologous serum skin test: a placebo-controlled
+trial. Dermatology 2006;212: 150-159.
+Lourenco FD, Azor MH, Santos JC, Prearo E, Maruta CW, Rivitti EA et al. Activated status of basophils in chronic
+urticaria leads to interleukin-3 hyperresponsiveness and enhancement of
+histamine release induced by anti-IgE
+stimulus. Br J Dermatol 2008;158:
+979-986.
+
+Mamatha G, Balachandran C, Smitha P.
+Chronic idiopathic urtica
+
+ 
+
+Comparison
+of clinical features with positive autologous
+serum skin test. Indian J Dermatol Venereol
+Leprol 2008:74: 105-108.
+
+Nguyen KL, Gillis S, MacGlashan DW Jr.
+A comparative study of releasing and nonreleasing human basophils: nonreleasing ba
+ 
+
+ 
+
+sophils lack an early component of the
+signal transduction pathway that follows
+IgE cross-linking. J Allergy Clin Immunol
+1990;85: 1020-1029.
+
+Knol EF, Mul FP, Kuijpers TW, Verhoeven AJ, Roos D. Intracellular events in
+
+  
+
+59.
+
+60.
+
+61.
+
+62.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+Konstantinou et al.
+
+anti-IgE nonreleasing human basophils. J
+Allergy Clin Immunol 1992:90: 92-103.
+Laidlaw TM, Steinke JW, Tinana AM,
+Feng C, Xing W, Lam BK et al. Characterization of a novel human mast cell line that
+
+   
+
+responds to stem cell factor and expresses
+functional FeepsilonRI. J Allergy Clin
+Immunol 2011;127: 815-822 e815.
+
+Wedi B, Novacovie V, Koerner M, Kapp
+A. Chronic urticaria serum induces histamine release, leukotriene production, and
+basophil CD63 surface expression-inhibitory effects of anti-inflammatory drugs. J
+Allergy Clin Immunol 2000;105: 552-560.
+Ferrer M, Nunez-Cordoba JM, Luquin E,
+Grattan CE, De La Borbolla JM, Sanz ML
+et al. Serum total tryptase levels are
+increased in patients with active chronic
+urticaria. Clin Exp Allergy 2010;40: 17601766.
+
+Vasagar K, Vonakis BM, Gober LM, Viksman A, Gibbons SP Jr, Saini SS. Evidence
+of in vivo basophil activation in chronic
+idiopathic urticaria. Clin Exp Allergy
+2006;36: 770-776.
+
+3. Gentinetta T, Pecaric-Petkovie T, Wan D,
+
+Falcone FH, Dahinden CA, Pichler WJ et al.
+Individual IL-3 priming is crucial for consistent in vitro activation of donor basophils in
+
+ 
+
+patients with chronic urticaria. J Allergy Clin
+Immunol 2011;128: 1227-1234 e1225.
+Boumiza R, Monneret G, Forissier MF,
+Savoye J, Gutowski MC, Powell WS et al.
+Marked improvement of the basophil activation test by detecting CD203c instead of
+CD63. Clin Exp Allergy 2003;33: 259-265.
+Knol EF, Mul FP, Jansen H, Calafat J,
+Roos D. Monitoring human basophil activation via CD63 monoclonal antibody 435.
+J Allergy Clin Immunol 1991:88(3 Pt 1): 328
+—338.
+
+Buhring HJ, Seiffert M, Giesert C, Marxer
+A, Kanz L, Valent P et al. The basophil
+activation marker defined by antibody
+9746 is identical to the ectonucleotide pyrophosphatase/phosphodiesterase 3. Blood
+2001;97: 3303-3305.
+
+Altrich ML, Halsey JF, Altman LC. Comparison of the in vivo autologous skin test
+with in vitro diagnostic tests for diagnosis
+of chronic autoimmune urticaria. Allergy
+Asthma Proc 2009;30: 28-34.
+Soundararajan 8, Kikuchi Y, Joseph K,
+Kaplan AP. Functional assessment of path
+ 
+
+ogenic IgG subclasses in chronic autoimmune urticaria. J Allergy Clin Immunol
+2005;115: 815-821.
+
+Vonakis BM, Saini SS. New concepts in
+chronic urticaria. Curr Opin Immunol
+2008:20: 709-716.
+
+Grattan CE, Hamon CG, Cowan MA, Leeming RJ. Preliminary identification of a
+low molecular weight serological mediator
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+Konstantinou et al.
+
+71.
+
+72.
+
+73.
+
+74.
+
+TS;
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+
+in chronic idiopathic urticaria. Br J Dermatol 1988:119: 179-183.
+
+Zweiman B, Valenzano M, Atkins PC,
+Tanus T, Getsy JA. Characteristics of histamine-releasing activity in the sera of
+patients with chronic idiopathic urticaria. J
+Allergy Clin Immunol 1996;98: 89-98.
+Kikuchi Y, Kaplan AP. A role for CSa in
+augmenting IgG-dependent histamine
+release from basophils in chronic urticaria.
+J Allergy Clin Immunol 2002;109: 114-118.
+Fureder W, Agis H, Willheim M, Bankl
+HC, Maier U, Kishi K et al. Differential
+expression of complement receptors on
+human basophils and mast cells. Evidence
+for mast cell heterogeneity and CD88/C5aR
+expression on skin mast cells. J Immunol
+1995;155: 3152-3160.
+
+Luquin E, Kaplan AP, Ferrer M. Increased
+responsiveness of basophils of patients with
+chronic urtica
+
+ 
+
+‘ia to sera but hypo-responsiveness to other stimuli. Clin Exp Allergy
+2005:35: 456-460.
+
+Saini SS, Paterniti M, Vasagar K, Gibbons
+SP Jr, Sterba PM, Vonakis BM. Cultured
+peripheral blood mast cells from chronic
+idiopathic urticaria patients spontaneously
+degranulate upon IgE sensitization: relationship to expression of Syk and SHIP-2.
+Clin Immunol 2009;132: 342-348.
+
+Jacques P, Lavoie A, Bedard PM, Brunet
+C, Hebert J. Chronic idiopathic urticaria:
+profiles of skin mast cell histamine release
+during active disease and remission. J
+Allergy Clin Immunol 1992;89: 1139-1143.
+Grattan CE, Wallington TB, Warin RP,
+Kennedy CT, Bradfield JW. A serological
+mediator in chronic idiopathic urticaria—a
+clinical, immunological and histologic:
+evaluation. Br J Dermatol 1986;114: 583—
+590.
+
+Kern F, Lichtenstein LM. Defective hista. J Clin
+
+ 
+
+ 
+
+mine release in chronic urticar
+Invest 1976;57: 1369-1377.
+Cohen RW, Rosenstreich DL. Discrimination between urticaria-prone and other
+allergic patients by intradermal skin testing
+with codeine. J Allergy Clin Immunol
+1986:77: 802-807.
+
+Rorsman H. Basophilic leucopenia in different forms of urticaria. Acta Allergol
+1962:17: 168-184.
+
+Sabroe RA, Francis DM, Barr RM, Black
+AK, Greaves MW. Anti-Fe(episilon)RI auto
+antibodies and basophil histamine
+releasability in chronic idiopathic urticaria.
+J Allergy Clin Immunol 1998;102(4 Pt 1):
+651-658.
+
+Grattan CE, Dawn G, Gibbs $, Francis
+DM. Blood basophil numbers in chronic
+
+ 
+
+ordinary urticaria and healthy controls:
+diurnal variation, influence of loratadine
+and prednisolone and relationship to dis
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+OL.
+
+92.
+
+94.
+
+95.
+
+Defining and diagnosing autoimmune urticaria
+
+ease activity. Clin Exp Allergy 2003;33: 337
+341.
+
+. Caproni M, Giomi B, Volpi W, Melani L,
+
+Schincaglia E, Macchia D et al. Chronic
+idiopathic urticaria: infiltrating cells and
+related cytokines in autologous seruminduced wheals. Clin Immunol 2005;114:
+284-292.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB,
+Kaplan AP. TH1/TH2 cytokines and
+inflammatory cells in skin biopsy specimens
+from patients with chronic idiopathic urticaria: comparison with the allergen-induced
+late-phase cutaneous reaction. J Allergy
+Clin Immunol 2002;109: 694-700.
+
+Grattan CE, Boon AP, Eady RA, Winkelmann RK. The pathology of the autologous serum skin test response in chronic
+urticaria resembles IgE-mediated late-phase
+reactions. Int Arch Allergy Appl Immunol
+1990;93; 198-204.
+
+James MP, Kennedy AR, Eady RA. A
+microscopic study of inflammatory reactions in human skin induced by histamine
+and compound 48/80. J Invest Dermatol
+1982;78: 406-413.
+
+Smith CH, Kepley C, Schwartz LB, Lee
+TH. Mast cell number and phenotype in
+chronic idiopathic urticaria. J Allergy Clin
+Immunol 1995;96: 360-364.
+
+Sabroe RA, Seed PT, Francis DM, Barr
+RM, Black AK, Greaves MW. Chronic idi
+opathic urticaria: comparison of the clinical
+
+ 
+
+features of patients with and without antiFeepsilonRI or anti-IgE autoantibodies. J
+Am Acad Dermatol 1999;40: 443-450.
+Zuberbier T, Henz BM, Fiebiger E, Maurer
+D, Sting! G. Anti-FeepsilonRIalpha serum
+autoantibodies in different subtypes of urticaria. Allergy 2000;55: 951-954.
+
+Harris A, Twarog FJ, Geha RS. Chronic
+urticaria in childhood: natural course and
+etiology. Ann Allergy 1983;51(2 Pt 1): 161—
+165.
+
+Asero R, Orsatti A, Tedeschi A, Lorini M.
+Autoimmune chronic urticaria associated
+with type | diabetes and Graves’ disease. J
+Allergy Clin Immunol 2005;115: 1088-1089.
+Dalal I, Levine A, Somekh E, Mizrahi A,
+Hanukoglu A. Chronic urticaria in children: expanding the “autoimmune kaleidoscope”. Pediatrics 2000;106: 1139-1141.
+
+. Gaig P, Garcia-Ortega P, Enrique E, Ri
+ 
+
+chart C. Successful treatment of chronic
+
+ 
+ 
+
+idiopathic urticaria associated with thyroid
+autoimmunity. J Investig Allergol Clin
+Immunol 2000;10: 342-345.
+
+Gallo C, Vighi G, Schroeder J, Strozzi M,
+Scibilia J, Colafrancesco M et al. Chronic
+urticaria atopic dermatitis and celiac disease. Am J Gastroenterol 1992;87: 1684.
+Caminiti L, Passalacqua G, Magazzu G,
+Comisi F, Vita D, Barberio G et al.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+Chronic urticaria and associated coeliac
+disease in children: a case-control study.
+Pediatr Allergy Immunol 2005;16:
+
+428-432.
+
+Hautekeete ML, DeClerck LS, Stevens WJ.
+Chronic urticaria associated with coeliac
+disease. Lancet 1987;1: 157.
+
+Asero R, Lorini M, Tedeschi A. Assov
+tion of chronic urticaria with thyroid au
+ 
+
+toimmunity and Raynaud phenomenon
+with anticentromere antibodies. J Allergy
+Clin Immunol 2003;111: 1129-1130.
+
+Leznoff A, Josse RG, Denburg J, Dolovich
+J. Association of chronic urticaria and angioedema with thyroid autoimmunity. Arch
+Dermatol 1983;119: 636-640.
+
+Leznoff A, Sussman GL. Syndrome of idiopathic chronic urticaria and angioedema
+with thyroid autoimmunity: a study of 90
+patients. J Allergy Clin Immunol 1989:84:
+66-71.
+
+Turktas I, Gokcora N, Demirsoy S, Cakir
+N, Onal E. The association of chronic urticaria and angioedema with autoimmune thyroiditis. Int J Dermatol 1997;36: 187-190.
+O'Donnell BF, Francis DM, Swana GT,
+Seed PT. Kobza Black A, Greaves MW.
+Thyroid autoimmunity in chronic urticaria.
+Br J Dermatol 2005;153: 331-335.
+
+2. Verneuil L, Leconte C, Ballet JJ, Coffin C,
+
+Laroche D, Izard JP et al. Association
+between chronic urticaria and thyroid autoimmunity: a prospective study involving
+99 patients. Dermatology 2004;208: 98-103.
+Palma-Carlos AG, Palma-Carlos ML.
+Chronic urticaria and thyroid auto-immunity. Eur Ann Allergy Clin Immunol
+2005;37: 143-146.
+
+Cebeci F, Tanrikut A, Topeu E, Onsun N,
+Kurtulmus N, Uras AR. Ass i
+between chronic urti
+
+ 
+
+ion
+
+ 
+
+and thyroid autoimmunity. Eur J Dermatol 2006;16: 402—
+405.
+
+Kikuchi Y, Fann T, Kaplan AP. Antithyroid antibodies in chronic urticari
+gioedema. J Allergy Clin Immunol 2003;112:
+218.
+
+Asero R. Sex differences in the pathogene
+ 
+
+ria
+
+ 
+
+ 
+
+and an
+ 
+
+sis of chronic urticaria. J Allergy Clin
+Immunol 2003:111: 425-426.
+
+Magen E, Mishal J, Schlesinger M. Scharf
+S. Eradication of Helicobacter pylori infection equally improves chronic urticaria with
+positive and negative autologous serum.
+skin test. Helicobacter 2007;12: 567-571.
+Greaves MW. Chronic Idiopathic Urticaria
+(CIU) and Helicobacter pylori. Not
+Directly Causative, But Could There Be a
+Link?. Allergy Clin Immunol Int 2001;13:
+23-26.
+
+Ryhal B, DeMera RS, Shoenfeld Y, Peter
+JB, Gershwin ME. Are autoantibodies present in patients with subacute and chronic
+
+35
+Defining and diagnosing autoimmune urticaria
+
+110.
+
+1d.
+
+112.
+
+114.
+
+116.
+
+117.
+
+118.
+
+119.
+
+36
+
+3. Aydogan K, Ka
+
+urticaria? J Investig Allergol Clin Immunol
+2001;11: 16-20.
+
+Toubi E, Adir-Shani A, Kessel A, Shmuel
+Z, Sabo E, Hacham H. Immune aberra
+  
+
+tions in B and T lymphocytes derived from
+chronic urticaria patients. J Clin Immunol
+2000;20: 371-378.
+
+Kessel A, Helou W, Bamberger E, Sabo E,
+Nusem D, Panassof J et al. Elevated serum
+total IgE-a potential marker for severe
+chronic urticaria. Int Arch Allergy Immunol
+2010;153: 288-293.
+
+Oztas P, Onder M, Gonen S, Oztas MO,
+Soylemezoglu O. Is there any relationship
+between human leucocyte antigen class II
+and chronic urticaria? (chronic urticaria
+and HLA class Il). Yonsei Med J 2004:4!
+392-395.
+
+ 
+
+adogan SK, Akdag I, Tunali S. HLA class I and class II antigens in
+
+ 
+
+ 
+
+Turkish patients with chronic ordinary urticaria. Clin Exp Dermatol 2006;31: 424-429.
+Asero R. Chronic idiopathic urticaria: a
+family study. Ann Allergy Asthma Immunol
+2002;89: 195-196.
+
+5. Grattan CE, Francis DM, Slater NG, Bar
+low RJ, Greaves MW. Plasmapheresis for
+severe, unremitting, chronic urticaria. Lancet 1992;339: 1078-1080.
+
+O'Donnell BF, Barr RM, Black AK, Francis DM, Kermani F, Niimi N et al. Intravenous immunoglobulin in autoimmune
+chronic urticaria. Br J Dermatol 1998;138:
+101-106.
+
+Grattan CE, O'Donnell BF, Francis DM,
+Niimi N, Barlow RJ, Seed PT et al. Randomized double-blind study of cyclosporin
+in chronic ‘idiopathic’ urticaria. Br J Dermatol 2000;143: 365-372
+
+Toubi E, Blant A, Kessel A, Golan TD.
+Low-dose cyclosporin A in the treatment of
+severe chronic idiopathic urticaria. Allergy
+1997;52: 312-316.
+
+Di Gioacchino M, Di Stefano F, Cavallucci
+E, Verna N, Ramondo §, Paolini F et al.
+Treatment of chronic idiopathic urticaria
+
+120.
+
+123.
+
+127.
+
+128.
+
+and positive autologous serum skin test
+with cyclosporine: clinical and immunological evaluation. Allergy Asthma Proc
+2003:24: 285-290.
+
+Vena GA, Cassano N, Colombo D, Peruzzi
+E, Pigatto P. Cyclosporine in chronic idio
+ 
+
+pathic urticaria: a double-blind, randomized, placebo-controlled trial. J Am Acad
+Dermatol 2006;55: 705-709.
+
+. Kessel A, Toubi E. Cyclosporine-A in
+
+severe chronic urticaria: the option for
+long-term therapy. Allergy 2011;65: 1478—
+1482,
+
+2. Luo H, Chen H, Daloze P, Chang JY, St
+Louis G, Wu J. Inhibition of in vitro
+immunoglobulin production by rapamycin.
+Transplantation 1992;53: 1071-1076.
+Marsland AM, Soundararajan $, Joseph K,
+Kaplan AP. Effects of calcineurin inhibitors
+on an in vitro assay for chronic urticaria.
+Clin Exp Allergy 2005;35: 354-559.
+
+. Shahar E, Bergman R, Guttman-Yassky E,
+
+Pollack S. Treatment of severe chronic idiopathic urticaria with oral mycophenolate
+mofetil in patients not responding to antihistamines and/or corticosteroids. Int J
+Dermatol 2006;45: 1224-1227.
+
+. Perez A, Woods A, Grattan CE. Metho
+trexate
+
+ 
+
+a useful steroid-sparing agent in
+recalcitrant chronic urticaria. Br J Dermatol
+2010;162: 191-194.
+
+. Asero R. Oral cyclophosphamide in a case
+
+of cyclosporin and steroid-resistant chronic
+
+urticaria showing autoreactivity on autolo
+ 
+
+gous serum skin testing. Clin Exp Dermatol
+2005;30: 582-583.
+
+Bernstein JA, Garramone SM, Lower EG.
+Successful treatment of autoimmune
+
+ 
+
+chronic idiopathic urticaria with intravenous cyclophosphamide. Ann Allergy
+Asthma Immunol 2002;89: 212-214.
+
+Asero R, Tedeschi A. Usefulness of a short
+course of oral prednisone in antihistamine
+nt chronic urticaria: a retrospective
+
+   
+
+sis. J Investig Allergol Clin Immunol
+2010:20: 386-390.
+
+129.
+
+130.
+
+131.
+
+132.
+
+133;
+
+134.
+
+135.
+
+136.
+
+137.
+
+Konstantinou et al.
+
+Kaplan AP, Joseph K, Maykut RJ, Geba
+GP, Zeldin RK. Treatment of chronic autoimmune urticaria with omalizumab. J
+Allergy Clin Immunol 2008;122: 569-573.
+Beck LA, Marcotte GV, MacGlashan D,
+Togias A, Saini S. Omalizumab-induced
+reductions in mast cell Fee psilon RI
+expression and function. J Allergy Clin
+Immunol 2004;114: 527-530.
+
+Gomez G, Jogie-Brahim S, Shima M, Schwartz LB. Omalizumab reverses the phenotypic and functional effects of IgEenhanced Fe epsilonRI on human skin
+mast cells. J Jmmunol 2007;179: 1353-1361.
+Gober L, Sterba P, Eckman J, Saini S.
+Effect of anti-[gE (omalizumab) in chronic
+idiopathic urticaria patients. J Allergy Clin
+Immunol 2008;121: $147.
+
+Grattan CEH, Francis DM. Autoimmune
+Urticaria. In: James WD, Cockerell CJ,
+Dzubow LM, Paller AS, Yancey KB. editors. Advances in Dermatology. St Louis:
+Mosby Ine; 2000: 311-400.
+
+Grattan CE, Winkelmann RK, Zollman
+PE. Attempted passive transfer of a serum
+factor in chronic urticaria from human to
+monkey. Br J Dermatol 1989;120: 853-856.
+Grattan CE. Evaluation of a Proinflammatory Serological Mediator in Chronic Urticaria
+[MD Thesis], University of Cambridge,
+1996.
+
+Fung-Leung WP, De Sousa-Hitzler J, Ishaque A, Zhou L, Pang J, Ngo K et al.
+Transgenic mice expressing the human
+high-affinity immunoglobulin (Ig) E recep
+  
+
+tor alpha chain respond to human IgE in
+mast cell degranulation and in allergic reactions. J Exp Med 1996;183: 49-56.
+
+Jaffery G, Bell EB, Coleman JW. Induction
+of an auto-anti-IgE response in rats. IV.
+Effects on mast cell degranulation. Jmmunology 1993;78: 635-642.
+
+Allergy 68 (2013) 27-36 © 2012 John Wiley & Sons A/S
+

@@ -1,0 +1,1999 @@
+Atopic dermatitis and skin disease
+
+Expression of Mas-related gene X2 on mast cells is
+upregulated in the skin of patients with severe chronic
+
+urticaria
+
+Daisuke Fujisawa, MD,?” Jun-ichi Kashiwakura, PhD,‘ Hirohito Kita, MD, PhD,4 Yusuke Kikukawa, MSc,°
+Yasushi Fujitani, PhD,° Tomomi Sasaki-Sakamoto, BSc,? Kazumichi Kuroda, PhD,‘ Satoshi Nunomura, PhD,”
+Koremasa Hayama, MD, PhD,?” Tadashi Terui, MD, PhD,” Chisei Ra, MD, PhD,‘ and Yoshimichi Okayama, MD, PhD?
+
+Tokyo, Yokohama, and Fujisawa, Japan, and Rochester, Minn
+
+Background: Wheal reactions to intradermally injected
+neuropeptides, such as substance P (SP) and vasoactive
+intestinal peptide, are significantly larger and longer lasting in
+patients with chronic urticaria (CU) than in nonatopic control
+(NC) subjects. Mas-related gene X2 (MrgX2) has been identified
+as a receptor for basic neuropeptides, such as SP and vasoactive
+intestinal peptide. Mast cell (MC) responsiveness to eosinophil
+mediators contributes to the late-phase reaction of allergy.
+Objective: We sought to compare the frequency of MrgX2
+expression in skin MCs from patients with CU and NC subjects
+and to identify the receptor for basic eosinophil granule proteins
+on human skin MCs.
+
+Methods: MrgX2 expression was investigated by using
+immunofluorescence in skin tissues from NC subjects and
+patients with severe CU and on skin-derived cultured MCs.
+MrgX2 expression in human MCs was reduced by using a
+lentiviral small hairpin RNA silencing technique. Ca?* influx
+was measured in CHO cells transfected with MrgX2 in response
+to eosinophil granule proteins. Histamine and prostaglandin D2
+levels were measured by using enzyme immunoassays.
+
+Results: The number of MrgX2* skin MCs and the percentage
+of MrgX2* MCs in all MCs in patients with CU were
+significantly greater than those in NC subjects. Eosinophil
+
+From “the Allergy and Immunology Group, Research Institute of Medical Science, and
+the Departments of "Dermatology and ‘Microbiology, Nihon University School of
+Medicine, Tokyo; “the Laboratory for Allergic Disease, RCAI, RIKEN Center for Integrative Medical Sciences (IMS-RCAD, Yokohama; ‘the Mayo Clinic College of Medicine, Mayo Clinic, Rochester; and “the Pharmaceutical Research Division, Takeda
+Pharmaceutical Company, Fujisawa.
+
+Supported in part by Grants-in-Aid for Scientific Research from the Ministry of Education,
+Culture, Sports, Science, and Technology of the Japanese Government (Project no.
+[C] 23591470 to Y.O.), the Nihon University Multidisciplinary Research Grant for
+2013 (Sou 13-014 to Y.O.), and the National Institutes of Health (AI34486 to H.K.).
+
+Disclosure of potential conflict of interest: H. Kita has received research support from the
+National Institute of Allergy and Infectious Diseases (AI34486) and the National
+Heart, Lung, and Blood Institute (HL110539); has received payment for lectures
+from Novartis and AstraZeneca; and has received royalties from Immco Diagnostics.
+Y. Okayama has received research support from JSPS Kakenhi ({C]23591470).
+The rest of the authors declare that they have no relevant conflicts of interest.
+
+Received for publication November 1, 2013; revised February 26, 2014; accepted for
+publication May 1, 2014.
+
+Available online June 19, 2014.
+
+Corresponding author: Yoshimichi Okayama, MD, PhD, Allergy and Immunology
+Group, Research Institute of Medical Science, Nihon University School of Medicine,
+30-1 Oyaguchikami-machi, Itabashi-ku, Tokyo 173-8610, Japan. E-mail: okayama.
+yoshimichi @nihon-u.ac.jp.
+
+0091-6749/$36.00
+
+© 2014 American Academy of Allergy, Asthma & Immunology
+
+http://dx.doi.org/10.1016/),jaci.2014.05.004
+
+ 
+
+622
+
+infiltration in urticarial lesions was observed in 7 of 9 patients
+with CU. SP, major basic protein, and eosinophil peroxidase, but
+not eosinophil-derived neurotoxin, induced histamine release
+from human skin MCs through MrgX2.
+
+Conclusion: MrgX2 might be a new target molecule for the
+treatment of wheal reactions in patients with severe CU. (J
+Allergy Clin Immunol 2014;134:622-33.)
+
+Key words: Chronic urticaria, eosinophils, eosinophil granule
+proteins, eosinophil peroxidase, histamine, human skin mast cells,
+major basic protein, Mas-related gene X2, substance P
+
+Chronic urticaria (CU) is defined as the occurrence of systemic
+daily wheals for at least 6 weeks.' Mast cells (MCs) play a key
+role in the induction of wheal reactions through the release of a
+variety of vasoactive autacoid mediators and functionally diverse
+proteases, chemokines, and cytokines.” The condition is known to
+have an autoimmune basis in 30% to 50% of patients with CU
+because these patients exhibit autoantibodies against either the
+high-affinity IgE receptor FceRI or, less commonly, IgE.'* The
+remaining approximately 50% of patients with CU have truly
+“idiopathic” conditions.’
+
+Patients with CU reportedly exhibit enhanced wheal reactions
+compared with healthy control subjects, when some neuropeptides, such as substance P (SP) and vasoactive intestinal peptide
+(VIP), are intradermally injected.*° The mastocytoma cell line
+HMC-1, which does not express FceRI on its cell surface, is
+reportedly activated by sera from patients with CU,° suggesting
+that an FceRI-independent MC activation mechanism might be
+involved in the pathogenesis of CU. Human skin MCs, but not
+lung MCs, are activated by neuropeptides, such as SP, VIP, pituitary adenylate cyclase-activating polypeptide, and somatostatin,
+but not neurokinin-A or neurokinin-B, resulting in degranulation.”* Although the neurokinin-1 receptor (NK-1R) is a receptor
+for SP, SP-induced histamine release from human skin MCs is not
+blocked by an NK-1R-specific antagonist.’ Mas-related gene X2
+(MrgX2) is a member of the Mas-related gene family and is primarily expressed in human dorsal root ganglia, and a subgroup of
+these receptors (MrgX1-MrgX4) is expressed in human, but not
+murine, neurons.'°'' Recently, MrgX2 was found to be a receptor
+for basic peptides, including SP, VIP, cortistatin, somatostatin,
+and compound 48/80, in human cord blood (CB)-derived
+cultured MCs.'* An MrgX2-transfected, but not an MrgX1transfected, rat basophilic cell line (RBL-2H3) exhibited degranulation after activation with SP.'* Therefore we hypothesized that
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+Abbreviations used
+
+CB: Cord blood
+
+CU: Chronic urticaria
+: Eosinophil-derived neurotoxin
+: Eosinophil peroxidase
+: Iscove modified Dulbecco medium
+: Major basic protein
+: Mast cell
+: Mas-related gene X2
+: Nonatopic control
+
+: Neurokinin-1 receptor
+: Peripheral blood
+
+: Prostaglandin
+
+: Recombinant human
+
+: Stem cell factor
+
+: Small hairpin RNA
+
+: Substance P
+
+: Thymic stromal lymphopoietin
+: Urticaria Activity Score
+
+: Vasoactive intestinal peptide
+
+skin MCs express functional MrgX2 and that the number of
+MrgX2* MCs or the frequency of MrgX2 expression in skin MCs
+from patients with CU is likely to be increased.
+
+Cytokine production by MC activation induces a late-phase
+allergic reaction that occurs 6 to 9 hours after the acute allergic
+reaction and is characterized by tissue infiltration by inflammatory
+cells, mainly eosinophils, CD4* T cells, and neutrophils. '*'° In patients with CU, eosinophil infiltration is commonly observed.'*'”
+Studies showing the marked deposition of major basic protein
+(MBP) and eosinophil cationic protein in CU lesions'*”° have provided evidence that eosinophil granule proteins are released and
+could contribute to local inflammatory processes in patients with
+chronic idiopathic urticaria either directly or indirectly through other
+inflammatory cells. MBP activates human heart and lung MCs cocultured with lung fibroblasts.”'** Thus we hypothesized that
+MrgX2 is a receptor for basic eosinophil granule proteins.
+
+METHODS
+
+Ethical considerations
+
+The study was approved by the Ethics Committees of the Nihon University
+School of Medicine, and all subjects provided written informed consent in
+accordance with the Helsinki Declaration of the World Medical Association.
+
+Reagents
+
+The following antibodies were purchased from the indicated sources: antihuman MrgX2 mAb (clone 477533; R&D Systems, Minneapolis, Minn); antihuman MrgX2 polyclonal antibody (Abcam, Cambridge, United Kingdom);
+biotinylated anti-FceRIa mAb (clone CRA1; eBioscience, San Diego, Calif);
+anti-human NK-1IR polyclonal Ab (Novus Biologicals, Littleton, Colo);
+anti-human tryptase mAb (clone AAI; DakoCytomation, Carpinteria, Calif);
+anti-human chymase mAb (clone B7; Chemicon International, Temecula,
+Calif); biotinylated anti-human ECP polyclonal antibody (Bioss, Boston,
+ss); anti-PGP 9.5 mAb (clone 13C4/13CA, Abcam); anti-CD3-¢ mAb
+(clone 6B10.2; Santa Cruz Biotechnology, Dallas, Tex); and anti-von
+Willebrand factor mAb (clone MCA127T; AbD Serotec, Raleigh, NC).
+
+  
+ 
+
+Cell lines
+
+LAD? cells” were kindly provided by Dr Kirshenbaum (National Institute
+of Allergy and Infectious Diseases/National Institutes of Health, Bethesda,
+Md). Jurkat cells were purchased from ATCC (Manassas, Va).
+
+ 
+
+FUJISAWA ET AL 623
+
+Generation of CB-derived cultured MCs
+
+Human CB CD34* cells were obtained from RIKEN BioResource Center
+(Tsukuba, Ibaraki, Japan). Human CB CD34* cells were cultured in
+serum-free Iscove methylcellulose medium (Stem Cell Technologies,
+Vancouver, British Columbia, Canada) and Iscove modified Dulbecco
+medium (IMDM) containing recombinant human (rh) stem cell factor (SCF;
+PeproTech, London, United Kingdom) at 200 ng/mL, rhIL-6 (PeproTech) at
+50 ng/mL, and rhIL-3 (Intergen, Purchase, NY) at 1 ng/mL, as previously
+described.°* On day 42, methylcellulose was dissolved in PBS, and cells
+were resuspended and cultured in IMDM containing 0.1% BSA, 100 ng/mL.
+rhSCF, and 50 ng/mL rhIL-6. The purity of human MCs, as assessed by using
+metachromatic staining, was greater than 98%.
+
+Isolation, purification, and culture of human lung
+and skin MCs
+
+Macroscopically normal human lung or skin tissue was obtained during
+surgery. Skin tissues for the isolation and culture of MCs were obtained from
+healthy donors. Lung and skin cells were dispersed from chopped lung
+specimens and foreskin specimens by using an enzymatic procedure in IMDM
+containing 1.5 mg/mL collagenase (Sigma-Aldrich, St Louis, Mo), 0.75
+mg/mL hyaluronidase (Sigma-Aldrich), and 0.1% BSA at 37°C for 1 hour.’
+The dispersed cells were then centrifuged in lymphocyte separation medium
+(Organon Teknika, Durham, NC). Cells at the lymphocyte separation medium
+interface were collected and washed, as described previously.”’ Dispersed
+lung or skin cells were cultured in serum-free Iscove methylcellulose medium
+and IMDM supplemented with 200 ng/mL rhSCF and 50 ng/mL rhIL-6, as
+mentioned above.
+
+ 
+
+Flow cytometric analysis
+
+The expressions of MrgX2, FceRIa, and NK-1R on the cell surface were
+analyzed by using flow cytometric analysis. Briefly, MCs were collected and
+fixed with 4% paraformaldehyde for 20 minutes at 4°C. Then the MCs were
+treated with Human TruStain FcX (BioLegend, San Diego, Calif). The cells
+were washed and resuspended in 0.1% BSA-PBS. Unlabeled anti-MrgX2
+mAb, anti-NK-1R polyclonal antibody, or biotinylated anti-FceRIa mAb was
+added to the cell suspension, and the cells were incubated for 30 minutes at
+4°C. After washing, the cells, which were stained with anti-MrgX2 mAb, and
+anti-NK-1IR polyclonal antibody, were incubated with phycoerythrinconjugated goat anti-mouse IgG mAb (BD Bioscience, San Jose, Calif) and
+biotinylated goat anti-rabbit IgG (Vector Laboratories, Burlingame, Calif) for
+30 minutes at 4°C, respectively. Cells stained with biotinylated anti-FceRIa
+mAb and biotinylated goat anti-rabbit IgG were incubated with phycoerythrinconjugated streptavidin (BD Biosciences) for 30 minutes at 4°C. In some
+experiments intracellular staining was performed with the BD Cytofix/
+Cytoperm Kit (BD Biosciences). The expression on MCs was detected by
+using the FACSCalibur (BD Biosciences) and analyzed with FlowJo software
+(Tree Star, Ashland, Ore).
+
+Immunofluorescence analysis
+
+We studied 9 patients with CU (5S female and 4 male patients; age range,
+24-69 years) and 13 nonatopic control (NC) subjects (6 female and 7 male
+subjects; age range, 27-85 years). The characteristics of the patients with CU
+and NC subjects are summarized in Tables | and II. Patients with CU were
+treated with histamine H1 receptor antagonist and histamine H2 receptor
+antagonist, leukotriene receptor antagonist, cyclosporine, tranexamic acid,
+or betamethasone. Despite treatment, the wheal reactions occurred daily.
+The severity was determined based on Urticaria Activity Score 7 (UAS7)
+(Table I). The UAS7 is a patient-reported scoring system that captures the
+severity of pruritus and the number of hives during 1 week.”°*° The intensity
+of pruritus (range, 0 [none] to 3 [severe]) and the number of hives (range,
+0 [none] to 3 [>12 hives]) are recorded daily (maximum, 6 points per day).
+Scores are then summed for | week to represent the UAS7 (scale, 0-42).
+Severe CU was defined as a UAS7 of greater than 30. Patients also underwent
+an autologous serum skin test and blood tests, which included total IgE and
+624 FUJISAWA ET AL
+
+TABLE I. Characteristics of patients with CU
+
+Patient Duration ASST Serum
+
+ID Age (ly) Sex ofillness(mo) result IgE (IU/mL) UAS7 score
+1 24 M 7 = 130 35
+2 48 18 + 50 33
+3 63 M 3 aE 90 34
+4 69 F 8 +b 15 37
+5 32 F 47 = 705 32)
+6 44 F 20 = 381 32
+7 27 iF 15 = 67 36
+8 40 M 4 - 108 34
+9 59 iE 52 al 50 35
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+Positive for specific IgE Treatment Biopsy site
+Dermatophagoides HIRA, H2RA, LTRA Right upper arm
+farinae, house dust
+mite
+D farinae, house dust HIRA, H2RA Trunk
+mite
+None HIRA, CsA Right thigh
+None HIRA, H2RA, LTRA, Trunk
+CsA
+D farinae, house dust HIRA, H2RA Right upper arm
+mite
+None HIRA, H2RA, Left thigh
+tranexamic acid
+Cedar pollen HIRA, H2RA Right upper arm
+Cedar pollen, wormwood, H1IRA, H2RA Trunk
+cat dandruff, crab
+None HIRA, H2RA, Trunk
+betamethasone
+
+ASST, Autologous serum skin test; CsA, cyclosporin A; F, female; H/RA, histamine H1 receptor antagonist; H2RA, histamine H2 receptor antagonist; LTRA, leukotriene receptor
+
+antagonist; M, male.
+
+TABLE Il. Characteristics of NC subjects
+
+Subject ID Age (y) Sex Biopsy site
+1 iD A Trunk
+
+2 83 F Trunk
+
+3 72 M Trunk
+
+4 68 F Left thigh
+
+5 78 M Trunk
+
+6 82 F Trunk
+
+7 85 M Trunk
+
+8 64 F Right thigh
+
+9 85 isi Trunk
+
+10 76 M Trunk
+
+11 33 M Right forearm
+12 33 M Right forearm
+113} 27 M Left thigh
+
+F, Female; M, male.
+
+specific IgE titers against 33 common allergens (MAST33; SRL, Tokyo,
+Japan). Skin tissue sections were obtained by using punch biopsy specimens
+from wheal regions on the arms, legs, or trunks of 9 patients with CU. Skin
+specimens from the arms, legs, or trunks of NC subjects were obtained from
+macroscopically normal skin tissue from surplus skin grafts. Frozen skin
+tissue sections (4 ym) were prepared with a cryostat and fixed with 4%
+paraformaldehyde or periodate lysine paraformaldehyde (for staining with
+anti-PGP 9.5 mAb). The sections were then blocked with 2% nonfat
+skim milk in PBS for 1 hour at 37°C and then incubated with Alexa Fluor
+488-conjugated anti-human tryptase mAb, biotinylated anti-human MrgX2
+antibody, biotinylated anti-human ECP antibody, Alexa Fluor 488-conjugated
+anti-human PGP 9.5 mAb, Alexa Fluor 488-conjugated anti-CD3-¢ mAb,
+Alexa Fluor 488—conjugated anti-von Willebrand factor mAb, or biotinylated
+anti-chymase mAb overnight at 4°C. For a negative control, Alexa Fluor
+488-conjugated mouse IgG), biotinylated rabbit IgG, and biotinylated mouse
+IgG, were used in the experiment. After washing, the sections were incubated
+with Cy3-conjugated streptavidin (BioLegend) for 30 minutes at room
+temperature. LAD2 cells and peripheral blood (PB)-derived cultured MCs
+were fixed with 2% paraformaldehyde for 20 minutes at 4°C and then treated
+with Perm/Wash Buffer (BD Biosciences) for 5 minutes at room temperature.
+The cells were washed and resuspended in 0.1% BSA in PBS, incubated with
+anti-human MrgX2 antibody for 30 minutes at 4°C and washed, and then
+incubated with biotinylated goat anti-rabbit IgG antibody for 30 minutes
+
+at 4°C. After washing, the LAD2 cells and PB-derived cultured MCs
+were incubated with Cy3-conjugated streptavidin for 30 minutes at room temperature. The sections, LAD2 cells, and PB-derived cultured MCs were
+mounted with ProLong Gold Antifade Reagent with 4'-6-diamidino-2phenylindole dihydrochloride (Invitrogen, Carlsbad, Calif). A fluorescence
+microscope (IX71; Olympus, Tokyo Japan) was used. All immunostained
+sections were evaluated by 2 observers, who were blind to the clinical data
+of the patients.
+
+Purification of eosinophil granule basic proteins
+
+The 3 proteins, MBP, eosinophil peroxidase (EPO), and eosinophil-derived
+neurotoxin (EDN), which constitute the main basic proteins of the specific
+eosinophil granule, were purified to homogeneity from the eosinophils of
+patients with PB eosinophilia, as previously described.”
+
+MC activation
+
+MCs were suspended in HEPES buffer supplemented with 0.1% BSA and 1
+mmol/L CaCl, for histamine and prostaglandin (PG) D2 experiments. MCs
+were challenged by means of incubation with SP (Sigma-Aldrich), eosinophil
+cationic proteins (MBP, EPO, and EDN: 10-100 g/mL), or the calcium ionophore A23187 «o-® mol/L, Sigma-Aldrich) at 37°C for 30 minutes for measurement of histamine release and PGD, synthesis. After incubation, cell-free
+culture supernatants and cell pellets were harvested to measure mediator
+levels. In some experiments the MCs were pretreated with an NK-1R antagonist, CP-96345 (1, 3, and 10 jxmol/L; Sigma-Aldrich), for 30 minutes, and then
+the cells were activated with SP (3 mol/L) for 30 minutes. In some experiments skin MCs were pretreated with the histamine HI receptor antagonist
+olopatadine hydrochloride (10 pmol/L; Tocris Bioscience, Bristol, United
+Kingdom) or the histamine H2 receptor antagonist famotidine (10 jzmol/L;
+LKT Laboratories, St Paul, Minn) for 30 minutes or with dexamethasone
+(10 pmol/L; Cayman, Ann Arbor, Mich) for 16 hours before challenge with
+SP. The concentrations and incubation times for the drugs were determined
+based on previous reports. ”*
+
+Statistical analysis
+
+Differences in the numbers of skin MCs, MrgX2* MCs, and eosinophils
+and the percentage of MrgX2* MCs in all MCs between NC subjects and patients with CU were evaluated by using the Mann-Whitney U test. Differences
+among 3 independent in vitro experiments were analyzed by using the MannWhitney U test. Differences between 2 paired groups of in vitro experiments
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+were analyzed by using the unpaired Student f test. A P value of less than .05
+was considered significant.
+
+See the Methods section in this article’s Online Repository at www.
+jacionline.org for additional information about experimental protocols.
+
+RESULTS
+MrgX2 is expressed on the cell surface of
+skin-derived, but not lung-derived, cultured MCs
+To evaluate the expression profile of MrgX2 in human MCs, we
+developed CB-, skin-, and lung-derived cultured MCs and
+compared expression levels of MrgX2 among LAD2 cells and
+CB-, skin-, and lung-derived cultured MCs. Because LAD2 cells
+reportedly express MrgX2 mRNA,** the expression level of
+MrgX2 mRNA was designated as 1. In accordance with our
+previous report,** the expression level of MrgX2 mRNA in
+skin-derived cultured MCs was much higher than that in lungderived cultured MCs (Fig |, A). As shown in Fig |, B, MrgX2
+expression was detected on the cell surface of LAD2 cells and
+CB- and skin-derived, but not lung-derived, cultured MCs. An
+immunocytochemical analysis was performed with anti-MrgX2
+antibody to analyze the localization of MrgX2 in LAD2 cells.
+MrgX2 mainly appeared to be localized in the cytoplasm of
+LAD2 cells (Fig 1, C). Because SP-induced histamine release
+from human skin MCs is reportedly not blocked by an NK-1R—
+specific antagonist,’ NK-1R expression was analyzed on skinand lung-derived cultured MCs by using fluorescence-activated
+cell sorting. Neither skin-derived nor lung-derived cultured
+MCs expressed NK-1R on cell surfaces, but a positive control,
+Jurkat cells, expressed NK-1IR (Fig |, D).
+
+MrgX2 is expressed in MCs of patients with CU
+
+To evaluate the frequency of MrgX2* MCs in skin tissues, we
+performed immunofluorescence staining using anti-MrgX2 and
+anti-tryptase antibodies (Fig 2). We compared the expression of
+MrgX2 in skin MCs between NC subjects (Fig 2, A) and patients
+with CU (Fig 2, B). The numbers of skin MCs (tryptase-positive
+cells: green cells in Fig 2, A and B) were not significantly different
+in skin tissues from the NC subjects (316 + 251 cells/mm’, median and interquartile range) and patients with CU (256 + 35.2
+cells/mm”; Fig 2, D). However, the number of MrgX2* MCs (yellow cells in Fig 2, B-c) was significantly greater in skin tissues
+from patients with CU (116 + 19.0 cells/mm?) than in NC subjects (68.5 + 51.1 cells/mm?; Fig 2, E). MrgX2 in skin MCs
+from skin tissues appeared to be localized in cytoplasm, showing
+a pattern of localization similar to that of MrgX2 in LAD2 cells
+(Fig 1, C). The percentage of MrgX2* MCs in all the MCs in patients with CU (47.0% + 6.9%) was significantly higher than that
+in the NC subjects (21.6% + 7.8%; Fig 2, F).
+
+The average age of the patients with CU was 45.1 years (Table
+I). On the other hand, the average age of the NC subjects was 66.5
+years. To evaluate the effect of age on the number of MrgX2*
+MCs and the percentage of MrgX2* MCs in all MCs, we
+compared these values between patients with CU less than 50
+years of age and those greater than 50 years of age. As can be
+seen in Fig El in this article’s Online Repository at www.
+jacionline.org, no significant difference in the number of MrgX2*
+MCs and the percentage of MrgX2* MCs was seen in all the MCs
+between the 2 age groups. Furthermore, we compared the number
+of MrgX2* MCs and the percentage of MrgX2* MCs among all
+
+FUJISAWA ET AL 625
+
+MCs between NC subjects less than 35 years of age and those
+greater than 35 years of age. No significant difference in either
+parameter was observed between the 2 age groups (see Fig E2
+in this article’s Online Repository at www.jacionline.org).
+
+We calculated the distribution of the number of MrgX2* cells
+in skin tissues. The MrgX2~ nerve cells in patients with CU (see
+Fig E3 in this article’s Online Repository at www.jacionline.org)
+and the NC subjects (data not shown) accounted for about 12.8%
+and 13.3% of the MrgX2°* cells, respectively (mean of 2-3 donors, data not shown). Therefore the majority of MrgX2* cells
+in the skin were MCs. Because Allia et al” reported that lymphocytes and endothelial cells express MrgX2 protein in gastrointestinal ganglion cells based on a histochemical analysis, we
+performed dual staining of the skin specimens from patients
+with CU (n = 3 donors) with anti-MrgX2 antibody and anti—
+CD3-¢ mAb or anti-von Willebrand factor mAb. We could not
+find any MrgX2* lymphocytes or MrgX2* endothelial cells in
+our experiments (data not shown). No other cells, except for nerve
+cells and MCs, expressed MrgX2.
+
+Skin-derived cultured MCs were activated with SP
+through MrgX2 but not through NK-1R
+
+We hypothesized that skin MC activation induced by stimulation with SP occurs through MrgX2. Therefore to analyze the
+functions of MrgX2 in SP-induced MC activation, we knocke
+down the expression of MrgX2 on skin-derived cultured MCs
+using a lentiviral small hairpin RNA (shRNA) technique. In Fig 3,
+A, the MrgX2 expression level was reduced on skin-derive
+cultured MCs transduced with MrgX2 shRNA compared with
+nontransduced and nontargeted shRNA-transduced skin-derive
+cultured MCs. We observed a significant reduction in the cellsurface MrgX2 expression level on MrgX2 shRNA-transduce
+MCs compared with that seen in nontransduced and nontargete
+shRNA-transduced MCs (Fig 3, C). However, FceRI expression
+was not affected by the transduction of MrgX2 shRNA (Fig 3,
+B). We stimulated MCs with SP and analyzed the degranulation
+and PGD» production of skin-derived cultured MCs transduce
+with nontargeted shRNA and MrgX2 shRNA or without viral
+treatment. Both degranulation and PGD, production were significantly reduced in the skin-derived cultured MCs transduced with
+MrgX2 shRNA compared with that seen in nontransduced an
+nontargeted shRNA-transduced MCs (Fig 3, D).
+
+To investigate whether the SP-induced activation of skinderived cultured MCs occurs independently of NK-1R, we
+measured histamine release from MCs after stimulation with SP
+in the presence or absence of CP-96345, which is a specific
+inhibitor of human NK-1R. SP-induced histamine release was not
+inhibited in the presence of CP-96345 (Fig 3, E), indicating that
+SP-mediated skin-derived MC activation does not occur through
+NK-IR.
+
+ 
+
+Eosinophil infiltration and colocalization of MCs
+and eosinophils in urticarial regions of patients
+with CU
+
+In patients with CU, eosinophil infiltration and MC degranulation are commonly observed in the urticarial region.'"° We
+counted the number of eosinophils in the urticarial region and
+in skin from NC subjects (Fig 4, A, C, and £, and Tables | and
+I). No eosinophil infiltration was observed in skin from NC
+626 FUJISAWA ET AL J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+ 
+
+A B LAD2. CBMC_ __LMC
+10 3.5 23 1.0
+: ft
+2 g
+<Q i
+es = SMC Fibro
+Qo 4 5 3.9 0.8
+se
+= oO
+S52
+N.D.
+LAD2 CBMC LMC SNC Fibro MrgX2
+C a Lanz b Fibro
+
+Image
+MrgxX2 MrgX2
+(+DAPI)
+
+ 
+
+Mrgx2 1a
+
+(+DAPI) 9
+d_ Fibro : isotype control
+
+Image
+
+rabbit IgG] rabbit
+
+(+DAPI) | IgG
+
+  
+
+ 
+
+D
+SMC LMC Jurkat cells
+# 07 1.0 46
+|
+3
+(3)
+
+ 
+
+NK-1R
+
+FIG 1. Cell-surface expression of MrgX2 on skin-derived cultured MCs. A, MrgX2 mRNA expression levels
+of human MCs and fibroblasts. The expression level of MrgX2 mRNA in LAD2 cells was designated as 1. The
+data are shown as means + SEMs of 3 different donors (lung-derived cultured MCs [LMC], skin-derived
+cultured MCs [SMC], CB-derived cultured MCs [CBMC], and fibroblasts [Fibro]) and 3 different experiments
+(LAD2 cells). N.D., Not detected. B, Cell-surface expression levels of MrgX2 on human MCs and fibroblasts.
+Solid lines indicate histograms of cells treated with anti-MrgX2 mAb. Isotype immunoglobulin-treated MCs
+are shown as gray filled histograms. Right upper values indicate mean fluorescence intensity ratios. Data
+are representative of similar results obtained from 2 independent experiments. C, LAD2 cells were immunostained with anti-MrgX2 antibody (red, a). As controls, cells stained with rabbit IgG are shown (c). As a
+negative control, fibroblasts were immunostained with anti-MrgX2 antibody (b). The cells were stained
+with 4'-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue). Bar = 10 ym. D, Cell-surface expression
+levels of NK-1R on skin- and lung-derived cultured MCs and Jurkat cells. Solid lines indicate histograms
+of cells treated with anti-NK-1R antibody. Isotype immunoglobulin-treated MCs are shown as gray filled
+histograms. Right upper values indicate mean fluorescence intensity ratios. Data are representative of
+similar results obtained from 2 independent experiments.
+
+subjects. Eosinophil infiltration in the urticarial region was — with CU (Fig 4, A). There was a significant increase in the number
+observed in 7 of 9 patients with CU. The colocalization of MCs __ of eosinophils in the skin of patients with CU compared with that
+and eosinophils was observed in the urticarial region in patients _ seen in the NC subjects (Fig 4, E).
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+A NC Subject
+
+ 
+
+Tryptase MrgX2
+
+ 
+
+Merged
+
+(+Dapiy | mage
+
+ 
+
+D E
+500 = 160
+7 = 140
+is wo
+= 400 8 120
+ra +
+S 300 g 100
+Ss D> 80
+= 200 2 60
+ie = 40
+5 100 G
+z € 20
+0 20
+NC cu NC
+
+ 
+
+FUJISAWA ET AL 627
+
+B CU patient
+
+2)
+
+Vv
+
+ 
+
+a
+4
+
+CU patient
+(isotype control)
+
+   
+
+° a
+mn
+
+RK
+
+50 3
+
+Q
+oO
+
+o
+oOo Oo
+
+8
+sees
+HH
+
+% of MrgX2* MCs
+in all the MCs
+
+=
+fo}
+
+CU NC CU
+
+FIG 2. MrgX2 expression is significantly upregulated on human skin MCs of patients with CU. A and B,
+Representative images of MrgX2* MCs (tryptase-positive cells) in skin tissues from a patient with CU (Fig
+2, B) and an NC subject (Fig 2, A). Immunochemical staining of skin specimens with anti-tryptase mAb
+(green, a), anti-MrgX2 antibody (red, b), and 4’-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue,
+c). White arrows indicate tryptase-MrgX2 double-positive cells. Bar = 50 pm. C, As negative controls,
+skin specimens from patients with CU were stained with mouse IgG, or rabbit IgG. D-F, A comparison of
+numbers of MCs (Fig 2, D), numbers of MrgX2* MCs (Fig 2, £), and percentages of MrgX2* MCs among
+all MCs (Fig 2, F) in skin tissues from NC subjects and patients with CU. Triangles, squares, and circles
+indicate skin biopsy sites at the arms, legs, and trunk, respectively. Data are expressed as medians and
+
+interquartile ranges. ***P < .001. N.S., Not significant.
+
+MBP and EPO induced histamine release from
+skin-derived cultured MCs through MrgX2
+
+To investigate whether eosinophil granule proteins activate
+cells through MrgX2, we first established a system for measuring
+Ca?* influx using CHO cells transfected with MrgX2. In
+response to SP, CHO cells transfected with MrgX2, but not
+
+with vector alone, increased Ca?* influx (Fig 5, A). Using these
+MrgX2-transfected CHO cells, we measured the Ca?* influx in
+response to eosinophil granule proteins. MBP and EPO, but not
+EDN, induced Ca?” influx in a concentration-dependent manner
+(Fig 5, B). To analyze the functions of MrgX2 in MBP- and EPOinduced MC activation, we downregulated the expression of
+628 FUJISAWA ET AL J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+A Non- Non-targeted MrgX2 c
+transduced shRNA shRNA ES
+i=
+2 4.0 2.0 1.2 s
+S|, j ’ 3
+8 e
+oO oO
+>
+B MrgX2 =
+2
+{=f
+3 s
+E 2
+o
+[s)
+FceRla
+D
+O Non-transduced
+O Non-targeted shRNA
+= HM MrgX2 shRNA
+x
+= 80 kK = 15
+3 “ae 2
+g 60 7 S> 10
+2 BE
+2 S205
+A 8
+2 a 0
+x= 0 003 03 3 0 0.03 0.3 3
+Substance P (uM) Substance P (uM)
+e S B DMSO
+x m CP-96345
+& 80
+o
+© 60
+2 40
+& 20
+n
+2 0
+
+spon 0 1 3 10
+
+CP-96345 (uM)
+Substance P (3 uM)
+
+FIG 3. SP-induced histamine release and PGD> production from skin-derived cultured MCs through MrgX2
+but not through NK-1R. A and B, MrgX2 (Fig 3, A) and FceRla (Fig 3, B) expression on skin-derived cultured
+MCs with or without transduction of nontargeted shRNA or MrgX2 shRNA. Black lines indicate histograms
+of skin-derived cultured MCs treated with anti-MrgX2 or anti-FceRla mAb. Isotype immunoglobulin-treated
+MCs are shown as gray filled histograms. Right upper values indicate mean fluorescence intensity ratios. C,
+Statistical analysis of expression levels shown in Fig 3, A. Expression levels of MrgX2 shown on the vertical
+axis are mean fluorescence intensity (MFI) ratios (n = 3 donors). *P< .05. D, Effect of diminution of MrgX2
+on histamine release and PGD2 production from MCs in response to SP. Levels of histamine release and
+PGD» production of nontransduced, nontargeted shRNA-transduced and MrgX2 shRNA-transduced skinderived cultured MCs are shown as white, gray, and black bars, respectively. Three independent experiments were performed with 3 independent donors. Data are shown as means + SEMs. *P < .05 and
+**P < .01, respectively. E, Histamine release from skin-derived cultured MCs stimulated with SP in the
+absence or presence of CP-96345. Data are representative of similar results obtained from 2 independent
+experiments with 2 different donors. DMSO, Dimethyl sulfoxide.
+
+MrgX2 on skin-derived MCs using a lentiviral siRNA technique. and EPO was significantly reduced in the skin-derived MCs
+Both MBP and EPO, but not EDN, induced histamine release —_ transduced with MrgX2 shRNA compared with that seen in nonfrom skin-derived MCs (Fig 5, C). Histamine release by MBP __ transduced and nontargeted shRNA-transduced MCs (Fig 5, C).
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+>
+
+CU patient
+
+Q
+
+NC Subject
+
+ 
+
+E KK
+
+140
+120
+100
+80
+60
+40
+20
+
+ 
+
+Number of eosinophils/mm?
+
+fo}
+
+NC CU
+
+ 
+
+FUJISAWA ET AL 629
+
+CU patient
+(isotype control)
+
+ 
+
+NC Subject
+(isotype control)
+
+ 
+
+Tryptase | ECP
+
+ 
+
+Merged
+(+DAPI)
+
+Image
+
+FIG 4. Eosinophil infiltration and colocalization of MCs and eosinophils in the urticarial region of patients
+with CU. Representative images of the colocalization of MCs and eosinophils in skin tissues from a patient
+with CU are shown (A). Skin specimens from patients with CU (Fig 4, A) and NC subjects (C) were immunostained with anti-tryptase mAb (green), anti-ECP antibody (red), and 4'-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue). Bar = 10 jm. As controls, skin specimens from patients with CU (B) and NC
+subjects (D) were stained with mouse IgG, or rabbit IgG. A comparison of the numbers of eosinophils in
+the skin tissues from NC subjects (n = 13) and patients with CU (n = 9) is shown (E). Data are expressed
+
+as medians and interquartile ranges. ***P < .001.
+
+DISCUSSION
+
+In this study we demonstrated that the number and percentage
+of MrgX2* MCs in patients with severe CU were significantly
+higher than those in NC subjects (Fig 2). The skin-derived
+cultured MCs expressed MrgX2 on the cell surface, whereas the
+lung-derived cultured MCs did not (Fig |). Histamine release
+
+from the skin-derived cultured MCs induced by SP was independent of the traditional SP receptor NK-1R (Figs 2 and 3). We
+further generated MrgX2-knockdown skin-derived cultured
+MCs using an shRNA technique (Fig 3, A and C) and demonstrated that MrgX2 is a responsible receptor for SP-induced histamine release and PGD, production in skin-derived cultured MCs.
+
+ 
+
+   
+630 FUJISAWA ET AL
+
+ 
+
+ 
+
+ 
+
+ 
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+ 
+
+ 
+
+A B
+100 100
+5 S
+= 80 . vo = 80 = Mock
+a rgX2 3] MrgxX2
+= 60 =60
+= =a
+8 40 S40 4
+BS x
+i 20 720
+[na a
+0 0
+0 10° 10% 107 10% 10° 104 Vehicle 10 30100 10 30100 10 30 100
+Substance P (M) MBP EPO EDN
+Conc. (ug/ml)
+Cc
+O Non-transduced
+120 O Non-targeted shRNA
+He MrgX2 shRNA
+—~ 100
+se
+3 80
+oO
+®
+[2
+> 60
+=
+€
+£ 40
+2
+=
+20
+0
+spon 10 30 10 30 10 30 (10M)
+MBP EPO EDN A23187
+
+Conc.(ug/ml)
+
+FIG 5. MBP and EPO induced histamine release through MrgX2. A, SP induced an intracellular Ca?* increase through MrgX2. CHO cells transfected with MrgX2 or vector alone (Mock) were incubated with
+10°° to 10°* mol/L SP, and intracellular Ca”* levels were measured. Data are shown as the relative fluorescent unit (RFU; percentage of intracellular Ca** increase by 1 mol/L of the calcium ionophore A23187). B,
+MBP and EPO induced intracellular Ca?" increase through MrgX2. CHO cells transfected with MrgX2 or vector alone (Mock) were incubated with 10, 30, and 100 g/mL eosinophil granule proteins, and intracellular
+Ca?* levels were measured. Data were shown as the relative fluorescent unit (RFU; percentage of intracellular Ca?* increase by 1 mol/L of the calcium ionophore A23187). C, Effect of diminution of MrgX2 on histamine release from skin-derived cultured MCs in response to eosinophil granule proteins. Levels of
+histamine release of nontransduced, nontargeted shRNA-transduced, and MrgX2 shRNA-transduced
+skin-derived cultured MCs are shown as white, gray, and black bars, respectively. Three independent experiments were performed with 3 independent donors. Data are shown as means + SEMs. *P< .05.
+
+In patients with CU, eosinophil infiltration and colocalization of
+MCs and eosinophils in the urticarial region were observed (Fig
+4). Eosinophil granule proteins, including MBP and EPO,
+induced histamine release through MrgX2 (Fig 5). Taken
+together, these results suggest that MrgX2-mediated MC activation induced by stimulation with basic neuropeptides and eosinophil granule proteins might be involved in the pathogenesis of
+severe CU.
+
+The increased expression of MrgX2 in skin MCs of patients with
+severe CU was confirmed by counting the number of MrgX2*
+tryptase-positive cells by means of immunohistochemistry
+
+ 
+
+(Fig 2). Numbers of skin MCs were not significantly different in
+skin tissues from NC subjects and patients with severe CU (Fig
+2, D). This is in agreement with previous reports.'’*’ Because
+the density of MCs in the NC subjects varied, we examined the biopsy sites shown in Fig 2, D, to determine whether this variation
+might depend on the anatomic site of the biopsy specimen. We
+compared the density of MCs from biopsy specimens of the
+arms, legs, and trunks of NC subjects (see Fig E4, A, in this article’s
+Online Repository at www.jacionline.org). Fig 2, D, and Fig E4, A,
+clearly show that the density of the MCs did not depend on the biopsy site. Furthermore, we compared the density of the MCs from
+
+ 
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+trunk biopsy specimens between NC subjects (n = 8) and patients
+with CU (n = 4) and found no significant difference (see Fig E4, B).
+The density of the MCs from biopsy specimens taken from the
+trunks of NC subjects varied (see Fig E4, B), suggesting that the
+MC density seems to depend on the donor.
+
+To investigate whether MC phenotypes differ according to
+anatomic site, we compared the MC; phenotype (tryptase singlepositive MCs) and the MCrc phenotype (tryptase and chymase
+double-positive MCs) in skin biopsy specimens from the arms,
+legs, and trunks of NC subjects using an immunohistochemical
+technique (see Fig E5, A-C, in this article’s Online Repository
+at www.jacionline.org). We found that the percentages of the
+MC rc phenotype in skin biopsy specimens of the arms, legs,
+and trunks of NC subjects were 96.3%, 93.4%, and 92.1%, respectively (1 specimen from each donor). The percentage of the MCrc
+phenotype in the skin biopsy specimens of the arms, legs and
+trunks of patients with CU were 96.2%, 93.6%, and 95.2%,
+respectively (1 from each donor; see Fig E6, A-C, in this article’s
+Online Repository at www.jacionline.org), indicating that the MC
+phenotypes do not differ according to anatomic site, irrespective
+of whether the donors are NC subjects or patients with CU.
+Because patients were treated with a wide range of drugs, we
+examined the effect of the histamine H1 receptor antagonist
+olopatadine hydrochloride, the histamine H2 receptor antagonist
+amotidine, and dexamethasone on MrgX2 expression levels on
+uman skin MCs and a suboptimal concentration (0.3 mol/L) of
+SP-induced histamine release from skin MCs (see Fig E7, A and
+C, in this article’s Online Repository at www.jacionline.org).
+These drugs did not upregulate MrgX2 expression levels, and
+they did not affect SP-induced histamine release under our experimental conditions. However, we cannot exclude the possibility
+that the treatment might have influenced the results.
+
+Why does the expression of MrgX2 in skin MCs from patients
+with severe CU increase significantly? The mechanisms responsible for regulating the expression of MrgX2 have not been
+previously reported. Histamine is a neurotransmitter that can
+potentially be found in the same microenvironment as SP.
+Epithelial cells reportedly communicate directly with cutaneous
+sensory neurons through thymic stromal lymphopoietin (TSLP)
+to promote itching.** In addition, the epithelium-derived cytokine
+IL-33 directly stimulates human MCs to produce T};2-type cytokines.*? Thus we examined the effect of histamine, SP, TSLP,
+IL-33, and the simultaneous addition of TSLP and IL-33 on the
+MrgX2 expression level of skin MCs and found that these neurotransmitters and cytokines did not have any effect under our
+in vitro experimental conditions (see Fig E7, B). Further investigation is needed to clarify the regulatory mechanisms of
+MrgX2 expression.
+
+Although the distribution of age among the NC subjects tended
+to be relatively older than that of the patients with CU, there was
+no significant difference in the number and percentage of
+MrgX2* MCs between patients with CU less than 50 years of
+age and those greater than 50 years of age (see Fig E1). No significant differences in the number of MrgX2* MCs and the percentage of MrgX2* MCs among all MCs were observed between NC
+subjects less than 35 years of age and those older than 35 years
+(see Fig E2). Because the MrgX2* nerve cells accounted for
+12% to 13% of all MrgX2" cells in the skin of both NC subjects
+and patients with CU and the number of MCs was not significantly
+different between the NC subjects and the patients with CU, the
+increased expression of MrgX2 in the skin MCs of patients with
+
+ 
+
+ 
+
+FUJISAWA ET AL 631
+
+CU might explain the phenomena, accounting for the significantly
+larger and longer-lasting wheal reactions in response to intradermally injected basic neuropeptides, such as SP and VIP, in patients with CU than in NC subjects.*° Which molecules
+activate skin MCs when anti-FceRIa or anti-IgE autoantibodies
+are absent remains an unanswered question. Although various
+neuropeptides, such as SP, VIP,’ and calcitonin gene-related peptide,’ have been reportedly involved in the pathogenesis of CU,
+serum levels of SP are not increased."” The mean plasma SP levels
+of healthy subjects and patients with CU were 290 and 222
+pg/mL, respectively." Because MCs are located close to nerve
+fibers,*! the concentration of SP at the nerve ending in urticarial
+regions might be much higher than plasma concentrations.
+
+MrgX2 is reportedly a receptor for basic peptides, including SP,
+VIP, cortistatin, somatostatin, and compound 48/80, on human
+CB-derived cultured MCs.'**"* These basic peptides share little
+structural homology.'* The median effective concentration values
+of the ligands for the activation of MrgX2-expressing cells and
+human CB-derived cultured MCs are between 10~* and 10°°
+mol/L, which is considerably higher than those for the activation
+of typical G protein-coupled receptors, such as neuropeptide receptors.'* Pertussis toxin-sensitive G proteins seem to be
+involved in the activation of MrgX2-expressing cells and human
+CB-derived cultured MCs through basic secretagogues.'~
+A pertussis toxin-sensitive G; protein, Gj3, interacts with MBP
+to trigger human CB-derived cultured MCs.** Thus we hypothesized that this protein could serve as a receptor for basic eosinophil granule proteins.
+
+MBP and EPO, but not EDN, induced histamine release from
+human skin MCs through MrgX2. The highly cationic nature of
+the proteins might explain their interaction with MrgX2 because
+the isoelectric point values of MBP, the light chain of EPO, and
+the heavy chains of EPO, EDN, and SP are 10.9, 10.7, 10.8, 8.9,
+and 9.4, respectively.*“° Indeed, the proportion of strongly basic
+amino acids (arginine and lysine) of MBP, the light chain of EPO,
+and the heavy chain of EPO and EDN are 14.5%, 15.3%, 15.5%
+and 8.9%, respectively.’*“° Strongly basic amino acid residues
+might be required for the basic peptides or proteins to act as
+MrgX2 agonists.
+
+Variable degrees of eosinophils were present, and eosinophils
+are often activated in the urticarial region in patients with
+cu.'8°*? MBP can be measured in wheals, even when blood
+eosinophilia is not detected.'* We observed the colocalization
+of MCs and eosinophils in wheal regions. Intercellular
+MC-eosinophil communication through physical interactions
+reportedly takes place in the allergic response and exerts functional bidirectional changes on the cells, suggesting that this
+enhanced functional activity might critically contribute to the
+perpetuation of the inflammatory response in allergic conditions.“*°° Recent studies’! have suggested that activated eosinophils might play a potentially relevant role in the pathogenesis of
+CU in triggering the tissue factor pathway of the coagulation
+cascade and as a source of vascular endothelial growth factor.
+We further clarified the role of eosinophils in the pathogenesis
+of CU. Frigas et al™* originally described increased MBP concentrations (up to 100 g/mL) in sputum from patients with bronchial
+asthma. Ponikau et al°° reported that nasal secretions from patients with chronic rhinosinusitis contained MBP concentrations
+of up to 10 pg/mL. Nair et al”° reported that the EPO levels in
+sputum from asthmatic patients were as high as 10 wg/mL. The
+skin tissue concentrations of MBP and EPO might be even higher
+632 FUJISAWA ET AL
+
+than these concentrations in secretions (sputum and nasal secretions). Because eosinophils are recruited to sites of inflammation
+during the late or chronic phase of allergic reactions,'> skin MC
+responsiveness to MBP and EPO through MrgX2 might
+contribute to the late or chronic phase of wheal reactions in
+patients with CU.
+
+Lung MCs, which express almost the same amount of MrgX2
+mRNA as LAD? cells (Fig 1, A), do not display any surface protein (Fig 1, B). Lung MCs are not activated by SP.”* SP does not
+activate human adult PB-derived cultured MCs.”’ Because of the
+limited availability of human lung MCs, we used PB-derived
+cultured MCs to investigate the intracellular location of MrgX2
+protein, and human PB-derived cultured MCs were found to express MrgX2 mRNA abundantly (see Fig E8, A, in this article’s
+Online Repository at www.jacionline.org). We confirmed that
+PB-derived cultured MCs do not express MrgX2 on their cell surfaces (see Fig E8, B). However, using permeabilized MCs, we
+found that MrgX2 protein, which was recognized by an antiMrgX2 mAb, was expressed intracellularly (see Fig E8, B). We
+also confirmed the intracellular expression of MrgX2 protein,
+which was recognized by an anti-MrgX2 polyclonal antibody
+with an immunocytochemical technique (see Fig E8, C). These
+data indicate that MrgX2 is not located on the cell surfaces of
+PB-derived cultured MCs and that ligands cannot access the intracellular receptor.
+
+In summary, a significantly higher expression of MrgX2 was
+observed in skin MCs from patients with severe CU than from NC
+subjects. Human skin MCs express functional MrgX2, which
+induces rapid degranulation in response to not only SP but also
+MBP and EPO. Therefore the blockage of MrgX2 on human skin
+MCs might offer a novel approach to the prevention and treatment
+of severe CU.
+
+We thank the staffs of the Departments of Dermatology and Urology of
+Nihon University Hospital for supplying the human specimens and for their
+willing and capable assistance.
+
+Clinical im ations: The blockage of MrgX2 on human sk
+
+MCs might offer a novel approach to preventing and treating
+
+severe CU.
+
+ 
+
+REFERENCES
+1, Kaplan AP, Greaves M. Pathogenesis of chronic urticaria. Clin Exp Allergy 2009;
+39:777-87.
+
+2. Ferrer M, Nunez-Cordoba JM, Luquin E, Grattan CE, De la Borbolla JM, Sanz
+ML, et al. Serum total tryptase levels are increased in patients with active chronic
+urticaria, Clin Exp Allergy 2010;40:1760-6.
+
+3. Vonakis BM, Saini SS. New concepts in chronic urticaria. Curr Opin Immunol
+2008:20:709-16.
+
+4. Borici-Mazi R, Kouridakis $, Kontou-Fili K. Cutaneous responses to substance P
+and calcitonin gene-related peptide in chronic urticaria: the effect of cetirizine
+and dimethindene. Allergy 1999;54:46-56.
+
+5, Smith CH, Atkinson B, Morris RW, Hayes N, Foreman JC, Lee TH. Cutaneous
+responses to vasoactive intestinal polypeptide in chronic idiopathic urticaria. Lancet 1992;339:91-3.
+
+6. Bossi F, Frossi B, Radillo O, Cugno M, Tedeschi A, Riboldi P, et al. Mast cells
+are critically involved in serum-mediated vascular leakage in chronic urticaria
+beyond high-affinity IgE receptor stimulation. Allergy 2011;66:1538-45.
+
+7. Lowman MA, Benyon RC, Church MK. Characterization of neuropeptideinduced histamine release from human dispersed skin mast cells, Br J Pharmacol
+1988:95:121-30.
+
+8, Lowman MA, Rees PH, Benyon RC, Church MK. Human mast cell heterogeneity: histamine release from mast cells dispersed from skin, lung, adenoids, tonsils,
+and colon in response to IgE-dependent and nonimmunologic stimuli. J Allergy
+Clin Immunol 1988;81:590-7.
+
+ 
+
+ 
+
+ 
+
+10.
+
+Il.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23:
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31g
+
+32.
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+. Peachell PT, Columbo M, Kagey-Sobotka A, Lichtenstein LM, Marone G. Aden
+osine potentiates mediator release from human lung mast cells. Am Rev Respir
+Dis 1988;138:1143-S1.
+Dong X, Han S, Zylka MJ, Simon MI, Anderson DJ. A diverse family of GPCRs
+
+ 
+
+Proenkephalin A gene products activate a new family of sensory neuronspecific GPCRs. Nat Neurosci 2002;5:201-9.
+
+Tatemoto K, Nozaki Y, Tsuda R, Konno S, Tomura K, Furuno M, et al. Immunoglobulin E-independent activation of mast cell is mediated by Mrg receptors.
+Biochem Biophys Res Commun 2006;349:1322-8.
+
+Kashem SW, Subramanian H, Collington SJ, Magotti P, Lambris JD, Ali H. G
+protein coupled receptor specificity for C3a and compound 48/80-induced
+degranulation in human mast cells: roles of Mas-related genes MrgX1 and
+MrgX2. Eur J Pharmacol 2011;668:299-304.
+
+Lampinen M, Carlson M, Hakansson LD, Venge P, Cytokine-regulated
+eosinophils in disease. Allergy 2004;59:
+
+ 
+
+ 
+
+accumulation of
+793-805.
+Bousquet J, Jeffery PK, Busse WW, Johnson M, Vignola AM. Asthma. From
+bronchoconstriction to airways inflammation and remodeling. Am J Respir Crit
+Care Med 2000;161:1720-45.
+Haas N, Toppe E, Henz BM. Mic
+caria. Arch Dermatol 1998;134:41-6.
+
+Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. THI/TH2 cytokines and inflammatory cells in skin biopsy specimens from patients with chronic idiopathic
+urticaria: comparison with the allergen-induced late-phase cutaneous reaction.
+J Allergy Clin Immunol 2002;109:694-700.
+
+Peters MS, AL, Kephart GM, Gleich GJ.
+eosinophil granule major basic protein in chronic urticaria. J Invest Dermatol
+1983;81:39-43.
+
+Spry CJ, Tai PC, Barkans J. Tissue localization of human eosinophil cationic proteins in allergic diseases. Int Arch Allergy App! Immunol 1985;77:
+Juhlin L, Venge P. Eosinophilic cationic protein (ECP) in skin disorders. Acta
+Derm Venereol 1991;71:495-S01.
+
+Patella V, de Crescenzo G, Marino I, Genovese A, Adt M, Gleich GJ, et al. Eosinophil granule proteins activate human heart mast cells. J Immunol 1996;157:
+1219-25.
+
+Piliponsky AM, Gleich GJ, Na
+activation of human lung
+ophil major basic protein and modulated by the membrane form of stem cell fa
+tor. Blood 2003;101:1898-904.
+
+Kirshenbaum AS, Akin C, Wu Y, Rottem M, Goff JP, Beaven MA, et al. Characterization of novel stem cell factor responsive human mast cell lines LAD 1 and 2
+established from a patient with mast cell sarcoma/leukemia; activation following
+aggregation of FeepsilonRI or FegammaRI. Leuk Res 2003:27:677-82.
+Okumura S, Kashiwakura J, Tomita H, Matsumoto K, Nakajima T, Saito H, et al.
+Identification of specific gene expression profiles in human mast cells mediated
+by Toll-like receptor 4 and FcepsilonRI. Blood 2003;102:2547-54.
+
+Mathias SD, Dreskin SC, Kaplan A, Saini SS, Spector
+of a daily diary for patients with chronic idiopathic urticaria. Ann Allergy Asthma
+Immunol 2010;105:142-8.
+
+Mathias SD, Crosby RD, Zazzali JL, Maurer M, Saini SS. Evaluating the minimally important difference of the urticaria activi
+disease activity in patients with chronic idiopathic urticaria. Ann Allergy Asthma
+Immunol 2012;108:20-4.
+
+Gleich GJ, Loegering DA, Mann KG, Maldonado JE. Comparative properties of
+the Charcot-Leyden crystal protein and the major basic protein from human
+eosinophils. J Clin Invest 1976;57:633-40.
+
+Slifman NR, Loegering DA, McKean DJ, Gleich GJ. Ribonuclease activity associated with human eosinophil-derived neurotoxin and eosinophil cationic protein.
+J Immunol 1986;137:2913-7.
+
+Ten RM, Pease LR, McKean DJ, Bell MP, Gleich GJ. Molecular cloning of the
+human eosinophil peroxidase. Evidence for the existence of a peroxidase multigene family. J Exp Med 1989;169:1757-69.
+
+Ohsawa Y, Hirasawa N. The antagonism of histamine H1 and H4 receptors ameliorates chronic allergic dermatitis via anti-pruritic and anti-inflammatory effects
+in NC/Nga mice. Allergy 2012;67:1014-22.
+
+Forward NA, Furlong SJ, Yang Y, Lin TJ, Hoskin DW. Mast cells down-regulate
+CD4+CD25+ T regulatory cell suppressor function via histamine H1
+interaction. J Immunol 2009;183:3014-22.
+
+Okumura S, Sagara H, Fukuda T, Saito H, Okayama Y. FcepsilonRI-mediated
+amphiregulin production by human mast cells increases mucin gene expression
+in epithelial cells. J Allergy Clin Immunol 2005;115:272-9.
+
+inflammatory
+
+  
+
+ 
+
+copic morphology of different types of urti
+ 
+
+Schroeter Localization of
+
+ 
+
+ 
+
+ 
+
+ler A, Bar I, Levi-Schaffer F. Non-IgE-dependent
+ind cord blood-derived mast cells is induced by eosin
+   
+
+ 
+
+ 
+
+ 
+
+Rosen KE. Development
+
+ 
+
+ity score and other measures of
+
+ 
+
+receptor
+J ALLERGY CLIN IMMUNOL
+VOLUME 134, NUMBER 3
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+Subramanian H, Gupta K, Guo Q, Price R, Ali H. Mas-related gene X2 (MrgX2)
+is a novel G protein-coupled receptor for the antimicrobial peptide LL-37 in human mast cells: resistance to receptor phosphorylation, desensitization, and internalization. J Biol Chem 2011;286:44739-49.
+
+Kajiwara N, Sasaki T, Bradding P, Cruse G, Sagara H, Ohmori K, et al. Activation
+of human mast cells through the platelet-activating factor receptor. J Allergy Clin
+Immunol 2010;125:1137-45.
+
+Allia E, Tarabra E, Volante M, Cerrato M, Ghigo E, Muccioli G, et al. Expression
+of cortistatin and MrgX2, a specific cortistatin receptor, in human neuroendocrine
+tissues and related tumours. J Pathol 2005;207:336-45.
+
+Sabroe RA, Poon E, Orchard GE, Lane D, Francis DM, Barr RM, et al. Cutaneous
+inflammatory cell infiltrate in chronic idiopathic urticaria: comparison of patients
+with and without anti-FeepsilonRI or anti-IgE autoantibodies. J Allergy Clin Immunol 1999;103:484-93.
+
+Smith CH, Kepley C, Schwartz LB, Lee TH. Mast cell number and phenotype in
+chronic idiopathic urticaria, J Allergy Clin Immunol 1995;96:360-4.
+
+Wilson SR, The L, Batia LM, Beattie K, Katibah GE, McClain SP, et al. The
+epithelial cell-derived atopic dermatitis cytokine TSLP activates neurons to
+induce itch. Cell 2013;155:285-95.
+
+likura M, Suto H, Kajiwara N, Oboki K, Ohno T, Okayama Y, et al. IL-33 can
+promote survival, adhesion and cytokine production in human mast cells. Lab
+Invest 2007;87:971-8.
+
+Tedeschi A, Lorini M, Asero R. No evidence of increased serum substance P
+levels in chronic urticaria patients with and without demonstrable circulating
+vasoactive factors. Clin Exp Dermatol 2005;30:171-5.
+
+Iwasaki A, Inoue K, Hukuda S. Distribution of neuropeptide-containing nerve
+fibers in the synovium and adjacent bone of the rat knee joint. Clin Exp Rheumatol 1995;13:173-8.
+
+Subramanian H, Kashem SW, Collington SJ, Qu H, Lambris JD, Ali H. PMX-53
+as a dual CD88 antagonist and an agonist for Mas-related gene 2 (MrgX2) in
+human mast cells. Mol Pharmacol 2011;79:1005-13.
+
+Barker RL, Gleich GJ, Pease LR. Acidic precursor revealed in human eosinophil
+granule major basic protein cDNA. J Exp Med 1988;168:1493-8.
+
+Barker RL, Loegering DA, Ten RM, Hamann KJ, Pease LR, Gleich GJ. Eosinophil cationic protein CDNA. Comparison with other toxic cationic proteins and
+ribonucleases. J Immunol 1989;143:952-5.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+Sl.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+FUJISAWA ET AL 633
+
+Sakamaki K, Tomonaga M, Tsukui K, Nagata S. Molecular cloning and characterization of a chromosomal gene for human eosinophil peroxidase. J Biol Chem
+1989;264: 16828-36.
+
+Gleich GJ, Adolphson CR, Leiferman KM. The biology of the eosinophilic leukocyte. Annu Rev Med 1993:44:85-101.
+
+Natbony SF, Phillips ME, Elias JM, Godfrey HP, Kaplan AP. Histologic studies of
+chronic idiopathic urticaria, J Allergy Clin Immunol 1983;71:177-83.
+Minai-Fleminger Y, Elishmereni M, Vita F, Soranzo MR, Mankuta D, Zabucchi
+G, et al. Ultrastructural evidence for human mast cell-eosinophil interactions
+in vitro. Cell Tissue Res 2010;341:405-15.
+
+Elishmereni M, Alenius HT, Bradding P, Mizrahi S, Shikotra A, Minai-Fleminger
+Y, et al. Physical interactions between mast cells and eosinophils: a novel mechanism enhancing eosinophil survival in vitro, Allergy 2011;66:376-85.
+Elishmereni M, Bachelet I, Nissim Ben-Efraim AH, Mankuta D, Levi-Schaffer F.
+Interacting mast cells and eosinophils acquire an enhanced activation state
+in vitro, Allergy 2013;68:171-9.
+
+Cugno M, Marzano AV, Tedeschi A, Fanoni D, Venegoni L, Asero R. Expression
+of tissue factor by eosinophils in patients with chronic urticaria. Int Arch Allergy
+Immunol 2009;148:170-4.
+
+Tedeschi A, Asero R, Marzano AV, Lorini M, Fanoni D, Berti E, et al. Plasma
+levels and skin-eosinophil-expression of vascular endothelial growth factor in patients with chronic urticaria, Allergy 2009;64:1616-22.
+
+Marzano AV, Tedeschi A, Berti E, Fanoni D, Crosti C, Cugno M. Activation of
+coagulation in bullous pemphigoid and other eosinophil-related inflammatory
+skin diseases. Clin Exp Immunol 2011;165:44-50.
+
+Frigas E, Loegering DA, Solley GO, Farrow GM, Gleich GJ. Elevated levels of
+the eosinophil granule major basic protein in the sputum of patients with bronchial asthma, Mayo Clin Proc 1981;56:345-53.
+
+Ponikau JU, Sherris DA, Kephart GM, Kern EB, Congdon DJ, Adolphson CR,
+et al. Striking deposition of toxic eosinophil major basic protein in mucus: implications for chronic rhinosinusitis. J Allergy Clin Immunol 2005;116:362-9.
+Nair P, Ochkur SI, Protheroe C, Radford K, Efthimiadis A, Lee NA, et al. Eosinophil peroxidase in sputum represents a unique biomarker of airway eosinophilia.
+Allergy 2013;68:1177-84.
+
+Wang XS, Sam SW, Yip KH, Lau HY. Functional characterization of human mast
+cells cultured from adult peripheral blood. Int Immunopharmacol 2006;6:839-47.
+633.e1 FUJISAWA ET AL
+
+METHODS
+
+Generation of adult PB-derived cultured MCs
+Lineage-negative (CD4", CD8", CDI1b ', CD14", CD16, and CD19")
+mononuclear cells were selected from the PB mononuclear cells and cultured
+in serum-free Iscove methylcellulose medium (Stem Cell Technologies) and
+IMDM containing recombinant rhSCF (PeproTech) at 200 ng/mL, rhIL-6
+(PeproTech) at 50 ng/mL, and rhIL-3 (PeproTech) at | ng/mL, as previously
+described.”! On culture day 42, methylcellulose was dissolved in PBS, and the
+cells were resuspended and cultured in IMDM containing 100 ng/mL rhSCF
+and 50 ng/mL rhIL-6 with 2% FCS. Cultured MC numbers and purity were determined by counting after metachromatic staining with toluidine blue (Kimura
+stain)” or by means of tryptase staining (clone AA1; DakoCytomation).
+
+Fibroblasts
+
+Fresh samples of synovial tissues were obtained after total-knee arthroplasty at the Nihon University and after obtaining informed consent. Synovial
+fibroblasts were obtained after the culture of enzymatically dispersed synovial
+cells."
+
+RNA isolation and real-time quantitative RT-PCR
+Total cellular RNA was isolated from MCs, and PCR was performed, as
+previously described." The primers used were as follows: MrgX2
+sense primer (5'-GCCCATCTGGTATCGC-3’) and antisense primer
+(5'-GGGTTGGCACTGCTGTTAAGA-3') and NK-IR sense primer
+(5'-TCTTCTTCCTCCTGCCCTACATC-3’) and antisense primer (5'-AG
+CACCGGAAGGCATGCTTGAAGCCCA-3’; Invitrogen). Human genespecific primers and probe sets for TaqMan analysis for MrgX2 and
+glyceraldehyde-3-phosphate dehydrogenase were designed by using the
+Assays-on-Demand service (Applied Biosystems, Santa Clara, Calif).
+
+Lentivirus shRNA vector construction and gene
+
+transduction
+
+The lentiviral expression vector with the sense and antisense oligonucleotide sequences for the construction of MrgX2 shRNA (MISSION shRNA.
+plasmid DNA, catalog no. TRCN0000357642) was purchased from SigmaAldrich. The packaging vector (MISSION lentiviral packaging mix; SigmaAldrich) and the lentiviral expression vector (pLKO-puro) with MrgX2
+shRNA or the MISSION nontargeted shRNA control vector (Sigma-Aldrich)
+were cotransfected into 293T packaging cells with TransIT (TaKaRa Bio,
+Shiga, Japan), as previously described.'° After 6 hours, the culture supernatants were changed, and after 48 hours, the samples were centrifuged at
+3000 rpm for 10 minutes and filtered with a 0.45-j.m filter. The filtered supernatants were centrifuged at 9000 rpm overnight at 4°C, and the released virus
+was kept on ice for | hour. This step concentrated the supernatants from 220
+mL to | to 2 mL. The transduction of human skin-derived cultured MCs (1
+10°) was conducted by resuspending the cells in 100 j1L of concentrated viral
+supernatants. Three days after infection, the medium was changed to virusfree IMDM containing rhSCF (100 ng/mL), rhIL-6 (50 ng/mL), and BSA
+(0.1%) with puromycin (2 j.g/mL). Seven days after antibiotic selection, the
+virus-infected human skin-derived cultured MCs were used for the
+experiments.
+
+Measurement of intracellular Ca?* levels
+
+MrgX2 and vector alone-transfected CHO cells were incubated at 37°C for
+1 hour in HEPES-buffered HBSS (pH 7.4) containing 2.5 mmol/L probenecid
+and 4 wmol/L Fluo-3AM (Dojindo, Kumamoto, Japan). Next, the cells were
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+washed 4 times with the solution without Fluo-3AM. Intracellular Ca** concentrations were measured with the fluorometric imaging plate reader system
+FLIPR (Molecular Devices, Sunnyvale, Calif) both before and after SP, MBP,
+EPO, EDN, or calcium ionophore A23187 was added.
+
+Effect of drugs used for treatment,
+neurotransmitters, and cytokines on MrgX2
+
+expression levels on human skin MCs
+
+Human skin MCs were incubated with the histamine HI receptor
+antagonist olopatadine hydrochloride (10 jzmol/L; Tocris Bioscience, Bristol,
+United Kingdom), the histamine H2 receptor antagonist famotidine (10 mol/
+L; LKT Laboratories, St Paul, Minn), dexamethasone (10 mol/L; Cayman,
+Ann Arbor, Mich), histamine dihydrochloride (10 mol/L; Acros Organics,
+Geel, Belgium), SP (3 mol/L), rhIL-33 (30 ng/mL; PeproTech), rhTSLP (10
+ng/mL; PeproTech), or both rhIL-33 (30 ng/mL) and rhTSLP (10 ng/mL) for
+24 hours before flow cytometric analysis of MrgX2 expression levels on
+human skin MCs. The concentrations and incubation times for the drugs,
+neurotransmitters, and cytokines were determined based on previous
+
+reports." !!
+
+Histamine assay and de novo PGD,j synthesis assay
+
+Histamine release and de novo PGD; synthesis from MCs were measured
+with a Histamine EIA kit (Immunotech, MBL, Nagano, Japan) and a Prostaglandin D)-MOX EIA kit (Cayman).
+
+REFERENCES
+
+El. Okumura $, Kashiwakura J, Tomita H, Matsumoto K, Nakajima T, Saito H,
+et al. Identification of specific gene expression profiles in human mast cells
+mediated by Toll-like receptor 4 and FeepsilonRI. Blood 2003;102:2547-54.
+
+E2. Kimura I, Moritani Y, Tanizaki Y. Basophils in bronchial asthma with reference
+to reagin-type allergy, Clin Allergy 1973:3:195-202.
+
+E3. Lee H, Kashiwakura J, Matsuda A, Watanabe Y, Sakamoto-Sasaki T, Matsumoto K, et al. Activation of human synovial mast cells from rheumatoid arthritis,
+
+ 
+
+   
+
+ 
+
+ 
+
+  
+ 
+
+or osteoarthritis patients in response t
+
+ 
+
+gregated IgG through Fc gamma RI
+and Fe gamma RII, Arthritis Rheum 2013;65:109-19.
+
+E4. Okumura S, Sagara H, Fukuda T, Saito H, Okayama Y. FcepsilonRI-mediated
+amphiregulin production by human mast cells increases mucin gene expression
+
+al cells. J Allergy Clin Immunol 2005;115:272-9.
+
+Y, Kashiwakura JI, Matsuda A, Sasaki-S
+
+, et al, The interaction between Lyn and FeepsilonR beta is indispensable
+for FcepsilonRI-mediated human mast cell activation, Allergy 2012;67:1241-9.
+
+E6. Ohsawa Y, Hirasawa N, The antagonism of histamine HI and H4 receptors
+ameliorates chronic allergic dermatitis via anti-pruritic and anti-inflammatory
+effects in NC/Nga mice. Allergy 2012;67:1014-22.
+
+E7. Forward NA, Furlong SJ, Yang Y, Lin TJ, Hoskin DW. Mast cells down-regulate
+CD4+CD25+ T regulatory cell suppressor function via histamine HI receptor
+interaction. J Immunol 2009;183:3014-22.
+
+E8. Lowman MA, Benyon RC, Church MK. Characterization of neuropeptide
+  
+
+ 
+
+in epithe
+
+ 
+     
+
+moto T, Nunomura S, Yo
+   
+
+ 
+
+ 
+
+  
+
+induced histamine release from human dispersed skin mast cells. Br J Pharmacol 1988;95:121-30.
+E9. Lowman MA, Rees PH, Benyon RC, Church MK. Human mast cell heteroge
+neity: histamine release from mast cells dispersed from skin, lung, adenoids,
+
+ 
+
+tonsils, and colon in response to IgE-dependent and nonimmunologic stimuli.
+J Allergy Clin Immunol 1988;81:590-7.
+
+E10. Wilson SR, Thé L, Batia LM, Beattie K, Katibah GE, McClain SP, et al. The
+epithelial cell-derived atopic dermatitis cytokine TSLP activates neurons to
+induce itch. Cell 2013;155:285-95.
+
+E11. likura M, Suto H, Kajiwara N, Oboki K, Ohno T, Okayama Y, et al. IL-33 can
+promote survival, adhesion and cytokine production in human mast cells. Lab
+Invest 2007:87:971-8.
+
+ 
+
+ 
+J ALLERGY CLIN IMMUNOL FUJISAWA ET AL 633.e2
+VOLUME 134, NUMBER 3
+
+   
+
+A NS B c
+350 = : 60
+° E
+% 300 3 g 50
+‘ °
+E250] °F o& = 5 =» 10
+8 209] ° gy Rs
+= a S $3 30
+5 150 s Ss
+o = —=
+# 100 5 ie
+2 50 E “10
+z 0
+<50 yr 50 yr< <50 yr 50 yr< <50 yr 50 yr<
+CU CU CU
+
+FIG E1. Comparison of numbers of MCs (A), numbers of MrgX2* MCs (B), and percentages of MrgX2* MCs
+among all MCs (C) in skin tissues between patients with CU less than 50 years of age and those older than 50
+years. Triangles, squares, and circles indicate skin biopsy sites at the arms, legs, and trunks, respectively.
+Data are expressed as medians and interquartile ranges. N.S., Not significant.
+633.e3 FUJISAWA ET AL J ALLERGY CLIN IMMUNOL
+
+SEPTEMBER 2014
+
+>
+Lv)
+fe)
+
+ 
+
+N.S. N.S.
+« 100) % 30
+€
+« = sol : as} & 7
+E 8 (s) “st
+& = a = » 20} .
+s & 60 ne) co
+S x | ap Sz 15
+o = 40 a Ss
+2 rs) oq 10
+& 20 xe
+2 2 5
+Z 0 0
+35 yr< <35 yr 35 yr<  <35 yr 35 yr< = -<35 yr
+NC NC NC
+
+FIG E2. Comparison of numbers of MCs (A), numbers of MrgX2* MCs (B), and percentage of MrgX2* MCs
+among all MCs (C) in skin tissues between NC subjects less than 35 years of age and those older than 35
+years. Triangles, squares, and circles indicate skin biopsy sites at the arms, legs, and trunks, respectively.
+Data are expressed as medians and interquartile ranges. N.S., Not significant.
+J ALLERGY CLIN IMMUNOL FUJISAWA ET AL 633.e4
+VOLUME 134, NUMBER 3
+
+A , B CU patient
+CU patient (isotype control)
+
+a b
+"a i)
+c
+"4
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+PGP 9.5 | Mrgx2
+
+ 
+
+Merged Image
+(+DAPI)
+
+FIG E3. A, Immunochemical staining of skin specimens with anti-PGP 9.5 mAb (green, a), anti-MrgX2 antibody (red, b), and 4’-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue, c). White arrows indicate PGP
+9.5-MrgX2 double-positive cells. Bar = 30 um. B, As controls, skin specimens from patients with CU were
+stained with mouse IgG, and rabbit IgG. Bar = 50 pm.
+633.e5 FUJISAWA ET AL
+
+Ny wo B
+8 6 6
+6 6s 6
+
+Number of MCs/mm?
+3
+6
+
+arm
+
+FIG E4. Comparisons of numbers of MCs among anatomic sites for biopsy
+specimens. A, Comparison of numbers of MCs in skin tissues from the
+arms, legs, or trunks of NC subjects. B, Comparison of numbers of MCs
+in skin tissues from the trunks of NC subjects and patients with CU. N.S.,
+
+Not significant.
+
+leg
+
+ 
+
+trunk
+
+is]
+
+Number of MCs of trunks
+
+ 
+
+N.S.
+
+NC
+
+ofo
+
+CU
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+J ALLERGY CLIN IMMUNOL
+
+VOLUME 134, NUMBER 3
+
+Arm of NC Subject
+
+  
+
+Tryptase
+
+  
+ 
+ 
+
+Chymase
+
+Merged
+(+DAPI)
+
+  
+ 
+
+Tryptase
+
+  
+
+Chymase
+
+FUJISAWA ET AL 633.e6
+
+Leg of NC Subject
+
+   
+ 
+ 
+
+Tryptase
+
+ 
+
+Chymase
+
+Merged
+(+DAPI)
+
+    
+ 
+   
+   
+ 
+
+D Leg of NC Subject
+(isotype control)
+
+  
+
+Merged
+(+DAPI)
+
+FIG E5. Comparisons of MC phenotypes among anatomic sites for biopsy specimens from NC subjects.
+A-C, Representative images of tryptase-positive cells and chymase-positive cells in the skin tissues of
+arm (Fig E5, A), leg (Fig E5, B), and trunk (Fig E5, C) biopsy specimens from NC subjects are shown.
+Immunochemical staining of skin specimens with anti-tryptase mAb (green, a), anti-chymase mAb
+(red, b), and 4’-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue, c) is shown. White arrows indicate
+tryptase-chymase double-positive cells. Bar = 50 um. D, As negative controls, skin specimens from NC
+
+subjects were stained with mouse IgG).
+633.e7 FUJISAWA ET AL J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+A Arm of CU patient B Leg of CU patient
+
+  
+
+Tryptase | Chymase
+
+Tryptase Chymase
+
+ 
+ 
+     
+ 
+
+ 
+
+Merged
+(+DAPI)
+
+ 
+
+i=]
+
+Arm of CU patient
+(isotype control)
+
+   
+   
+ 
+
+  
+
+Merged
+(+DAPI)
+
+ 
+
+FIG E6. Comparisons of MC phenotypes among anatomic sites for biopsy specimens from patients with
+CU. A-C, Representative images of tryptase-positive cells and chymase-positive cells in skin tissues of arm
+(Fig E6, A), leg (Fig E6, B), and trunk (Fig E6, C) biopsy specimens from patients with CU are shown. Immunochemical staining of skin specimens with anti-tryptase mAb (green, a), anti-chymase mAb (red, b), and
+4'-6-diamidino-2-phenylindole dihydrochloride (DAPI; blue, c) is shown. White arrows indicate tryptasechymase double-positive cells. Bar = 50 .m. D, As negative controls, skin specimens from patients with
+CU were stained with mouse IgG.
+J ALLERGY CLIN IMMUNOL
+
+VOLUME 134, NUMBER 3
+
+donor 1 donor 2
+
+20 Le Medium
+
+alone
+
+ 
+
+ 
+
+ 
+
+ 
+
+n
+<
+Ss
+fo}
+ce)
+oD
+MS
+MrgX2
+Cc
+100 N.S.
+x
+@ 80 NS.
+8
+© 60 ANS.
+oO
+&
+E 40
+is
+2
+=
+
+ 
+
+7
+
+spon DMSO H1BA H2BA DEX
+
+A23187
+Substance P (0.3 1M) (10°°M)
+
+Cell counts
+
+donor 1
+2.0
+
+A
+
+1.9
+
+I
+
+   
+
+donor 2
+
+ 
+
+ 
+
+MrgX2
+
+1.2
+
+1.3
+
+1.3
+
+FUJISAWA ET AL 633.e8
+
+Medium
+alone
+
+Histamine
+
+Substance P
+
+FIG E7. Effect of drugs used for treatment (A) and neurotransmitters and cytokines (B) on MrgX2 expression
+levels on human skin MCs and effect of drugs used for treatment on SP-induced histamine release from skin
+MCs (C). Human skin MCs were incubated with olopatadine hydrochloride (H1RA; 10 j.mol/L), famotidine
+(H2RA; 10 mol/L), and dexamethasone (10 jzmol/L; Fig E7, A) or histamine dihydrochloride (10 mol/L),
+SP (3 pmol/L), rhIL-33 (30 ng/mL), rhTSLP (10 ng/mL), or both rhL-33 (30 ng/mL) and rhTSLP (10 ng/mL;
+Fig E7, B) for 24 hours before flow cytometric analysis of MrgX2 expression levels on human skin MCs. Right
+upper values indicate mean fluorescence intensity ratios. Fig E7, C, Skin MCs were pretreated with olopatadine hydrochloride (H1RA; 10 pmol/L) or famotidine (H2RA; 10 pmol/L) for 30 minutes or dexamethasone
+(10 pmol/L) for 16 hours before being challenged by a suboptimal concentration (0.3 pmol/L) of SP (n = 3
+donors). DEX, Dexamethasone; DMSO, dimethyl sulfoxide; H1RA, histamine H1 receptor antagonist; H2RA,
+histamine H2 receptor antagonist; N.S., not significant.
+633.e9 FUJISAWA ET AL
+
+>
+
+MrgX2* mRNA
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2014
+
+B Non permeabilized Permeabilized
+PBMC PBMC
+
+   
+
+o 8 cell surface intracellular
+3 6 2 1.0 2.0
+= =
+Cc FJ
+2 8
+a4 =
+5 S)
+5 2
+0 won w wot a at
+LAD2 PBMC Mrgx2
+a PBMC (permeabilized) b PBMC (non permeabilized)
+
+Image
+
+MrgX2 MrgX2
+(+DAPI)
+
+MrgX2 inage
+(+DAPI) 9
+
+c PBMC (permeabilized) d PBMC (non permeabilized)
+isotype control isotype control
+
+Image
+
+Rabbit | Rabbit
+IgG IgG
++DAPI
+
+Rabbit
+
+IgG Image
+(+DAPI)
+
+ 
+
+ 
+
+FIG E8. Cell-surface and intracellular expression of MrgX2 on human PB-derived cultured MCs. A, MrgX2
+mRNA expression levels of PB-derived MCs and LAD2 cells. The expression level of MrgX2 mRNA in
+LAD2 cells was designated as 1. Data are shown as means + SEMs of 3 different donors of PB-derived
+cultured MCs (PBMC) and 3 different experiments (LAD2 cells). B, Cell-surface and intracellular expression
+levels of MrgX2 on PB-derived cultured MCs. Solid lines indicate histograms of nonpermeabilized MCs (left
+panel) and permeabilized MCs (right panel) treated with anti-MrgX2 mAb. Isotype immunoglobulin-treated
+MCs are shown as gray filled histograms. Right upper values indicate mean fluorescence intensity ratios.
+Data are representative of similar results obtained from 2 independent experiments. C, Permeabilized PBderived cultured MCs were immunostained with anti-MrgX2 antibody (red, a). As controls, cells stained
+with rabbit IgG are shown (c). As controls, nonpermeabilized MCs were immunostained with anti-MrgX2
+antibody (b) or rabbit IgG (d). Cells were stained with 4'-6-diamidino-2-phenylindole dihydrochloride
+(DAPI; blue). Bar = 10 jum.
+

@@ -1,0 +1,1516 @@
+Original paper
+
+Analysis of the association of chronic spontaneous
+urticaria with interlekin-4, -10, transforming growth
+factor-B1, interferon-y, interleukin-17A and -23
+
+by autologous serum skin test
+
+Papatya Bayrak Degirmenci’, Cengiz Kirmaz’, Seda Vatansever’, Ece Onur’, Emine Nal’, Soner Erdin*, Beyhan Ozyurt®
+
+‘Allergy Immunology Department, Tepecik Training and Research Hospital, Izmir, Turkey
+
+?Division of Allergy Immunology, Department of Internal Medicine, Celal Bayar University, Manisa, Turkey
+
+3Department of Histology and Embryology, Faculty of Medicine, Celal Bayar University, Manisa, Turkey
+
+“Department of Biochemistry, Faculty of Medicine, Celal Bayar University, Manisa, Turkey
+
+‘Department of Public Health, Faculty of Medicine, Celal Bayar University, Manisa, Turkey
+Adv Dermatol Allergol 2016; XXXIV (1): 70-76
+DO!: https://doi.org/10.5114/pdia.2016.57679
+
+Abstract
+
+Aim: To contribute to the understanding of the pathogenesis of chronic spontaneous urticaria (CSU) by identifying
+its relationship with autoimmunity and cytokines using the autologous serum skin test (ASST) and peripheral blood
+mononuclear cell culture (PBMC) method.
+
+Material and methods: Interleukins (IL)-4, IL-10, transforming growth factor (TGF-1), interferon (IFN)-y, IL-17A, and
+IL-23 levels in cell supernatants obtained by the PBMC method were measured using ELISA. Disease activity was
+assessed by determining the urticaria activity score (UAS).
+
+Results: A total of 40 patients diagnosed with CSU participated in this study. Twenty patients had positive ASS
+results, and 20 had negative results. The control group included 20 healthy volunteers. We found that the IL-23
+(p = 0.01), IL-10 (p = 0.04) and IL-4 (p = 0.04) levels of the patient groups were significantly lower compared with
+those of the control group. The IL-23 (p = 0.009), IL-10 (p = 0.009), IL-4 (7 = 0.001), and IL-17 (p = 0.05) levels o
+the ASST(-) patient group were significantly lower compared with those of the control group. In addition, the IL-4
+(p = 0.03) and IFN-y (p = 0.05) levels of the ASST(+) patient group were significantly lower compared with those o'
+the control group, and the ASST(+) patients had a significantly higher UAS than the ASST(-) patients (p = 0.021).
+Conclusions: These results, when considered together with current reports in the literature, indicate that immune
+dysregulation occurs in the pathogenesis of CSU, causing cytokine imbalance.
+
+ 
+
+Key words: chronic spontaneous urticaria, cytokines, autologous serum skin test.
+
+Introduction An autoimmune etiology characterized by the presence
+
+Chronic spontaneous urticaria (CSU), also known as of histamine-releasing autoantibodies directed against
+chronic idiopathic urticaria (CIU), is characterized by the the subunit of high-affinity IgE receptor (FceRI) or IgE has
+spontaneous occurrence of wheals without an obvious been found in approximately 35—45% of CSU patients [4].
+stimulus that last for most days of the week for more These autoantibodies can be detected in vivo by the authan 6 weeks [1, 2]. tologous serum skin test (ASST) [5]. The sensitivity and
+
+The pathogenesis of CSU is unclear, and possible specificity of the ASST for autoantibody detection in pacauses include acute or chronic infection, pseudo-aller-_ tients with CSU is reported to be 80% at best compared
+gies to food and drugs, allergic reactions to medications, _ with the in vitro basophil histamine release assay [6]. The
+food, or insect stings and bites and autoreactivity, includ- ASST is an in vivo screening test for detecting histamineing autoimmunity mediated by functional autoantibod- releasing autoantibodies and other vasoactive factors,
+ies directed against immunoglobulin E (IgE) receptor [3]. and it has a high negative predictive value [7, 8].
+
+ 
+
+ 
+
+Address for correspondence: Dr. Papatya Bayrak Degirmenci MD, Fatih Sultan Mehmet Caddesi, Seyhan Sitesi No: 29/1, Cblok D: 10,
+Bornova, Izmir, Turkey, phone: +90 05416549994, e-mail: papatyabayrak@yahoo.com
+Received: 3.08.2015, accepted: 26.01.2016.
+
+70 Advances in Dermatology and Allergology 1, February / 2017
+Analysis of the association of chronic spontaneous urticaria with interlekin-4, -10, transforming growth factor-B1,
+interferon-y, interleukin-17A and -23 by autologous serum skin test
+
+ 
+
+Histamine-releasing autoantibo
+FceRI or IgE are detected in only one
+
+ies directed against
+-third of CSU cases,
+
+suggesting that other circulating mediators, including
+
+inducing IL-17 production and early neutrophil recruit
+ment.
+Dysregulation
+
+of the IL-23/IL-17 immune axis has
+
+cytokines, may be involved in its pat
+Most autoimmune and/or allergic
+
+ophysiology [9-11].
+iseases are caused
+
+by an imbalance between cytokines and T lymphocyte
+
+subgroups. The CSU shows both au
+gic disease characteristics [12]. The d
+
+oimmune and allertermination of the
+
+dominant cytokine pattern and T lymphocyte subgroup
+
+in CSU patients may be key to exp!
+
+cated immunopathogenesis.
+Various cytokines have been fou
+
+inflammatory processes associate
+
+aining this compli
+nd to be involved in
+with CSU. Thus, in
+
+our study we examined the levels of interleukin (IL)-4,
+
+IL-10, IL-17, IL-23, transforming grow
+terferon (IFN)-y which are associate
+
+ 
+
+h factor (TGF)-B, inwith T lymphocyte
+
+een linked to immunopathology and autoimmune in
+Aim
+The main objec
+
+he understanding
+ifying its relations
+
+blood mononuclea
+ondary ol
+he deve
+
+ 
+
+lopment o
+
+lammation [26, 27].
+
+subgroups and cytokines using the ASST and peripheral
+
+jective was to obtain results that contribute to
+
+ive of this study was to contribute to
+of the pathogenesis of CSU by idenip with autoimmunity, T lymphocyte
+
+r cell culture (PBMC) method. A sec
+ 
+
+new treatment approaches.
+
+subgroups.
+Interleukin-4 plays a central role in the differentiation
+of antigen-stimulated naive T cells into T helper (Th) 2
+cells, which are the main sources of IL-4 [13]. Interleukin-4 also suppresses Th] cell development and directs
+the switching of human B cells to IgE and IgG4 [14].
+Transforming growth factor B1 is a cytokine with diverse effects on cell function, differentiation, and proliferation. It also acts as an anti-inflammatory cytokine in the
+skin, mainly via the inhibition of mast cell survival and
+function, suppresses the expression of both FceRI and
+Ig-E on the mast cell surface, and attenuates mediator
+release from mast cells [15]. Transforming growth factor B
+is the amplifying cytokine in regulatory T (Treg) cells [16].
+Interleukin-10, another anti-inflammatory cytokine,
+exerts similar effects, such as the inhibition of FceR! exression on mast cells and the suppression of inflammatory mediator release. Interleukin-10 is mainly produced
+by Treg cells [17-19].
+nterferon-y is a multipotent cytokine that plays imortant roles in both the innate and adaptive immune
+responses. Interleukin-4, as well as IL-10, TGF-B, and glucocorticoids, negatively regulate the production of IFN-y.
+High levels of this cytokine are expressed by Th! cells,
+romoting the cytotoxic activities of other cells and inducing the apoptosis of epithelial cells in the skin and
+mucosa [20-22].
+nterleukin-17A is another proinflammatory cytokine
+that is mainly expressed by fibroblasts and Th17 cells.
+ts role in neutrophil recruitment is crucial for host protection against various extracellular pathogens, such as
+bacteria and fungi. It is also important in autoimmunity
+and inflammation [23, 24].
+nterleukin-23 is dispensable for the in vitro polarization of naive T cells into Th17 cells, which produce IL-17.
+Interleukin-23 plays important roles in the functioning
+and continuity of the Th17 subtype [25]. Interleukin-23
+may play a critical role in driving the early inflammatory immune response to pathogens or injury by directly
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Advances in Dermatology and Allergology 1, February / 2017
+
+Material and methods
+
+This prospective study was approved on 07/05/2012
+with decision number 2012/013 by the Ethical Board for
+Clinical Research at Celal Bayar University, Faculty of
+Medicine.
+
+Written informed consent was obtained from all paients. The participants of this study were patients with
+symptoms of chronic urticaria who had been treated at
+he Internal Diseases Allergy Immunology Clinic at Celal
+Bayar University. The patients’ medical histories were
+aken, and physical examination was performed. Routine
+clinical examinations related to chronic urticaria were
+erformed, including the following: liver function tests;
+determination of the complete blood count, erythrocyte
+sedimentation rate, serum free T4, T3, and thyroid-stimuating hormone (TSH) levels and anti-thyroglobulin (antiTG) and antimicrosomal antibody (anti-TPO) levels; an
+autoimmunity panel (ANA, anti-DNA, and RF); an infecion panel (HBsAg, antiHBs, antiHCV, a parasite stool test,
+and complete urine analysis); a skin prick test for food
+and inhalant allergens; and provocation tests for physical
+urticaria (an ice test for cold urticaria or skin scratching
+or dermographism). All patients had active urticaria at
+he time of the study and were being treated with H1 anihistamines. Long-acting antihistamines were stopped at
+7 days, and short-acting antihistamines were stopped at
+3 days before blood samples were collected for the ASST,
+PBMC and ELISA.
+
+The urticaria activity score (UAS) was used for the
+assessment of disease activity in all patients. It was calculated as recommended by the EAACI/GA2LEN/EDF/
+WAO Guidelines [28]. The weekly UAS was estimated according to the number of wheals and pruritus intensity,
+which appeared during the week before the day of blood
+sampling. The patients were asked to record 24-h selfevaluation scores for 7 days, using the following scoring
+scheme: no wheals = 0; < 20 wheals/24 h = 1; 20-50
+wheals/24 h = 2; and > 50 wheals/24 h = 3; and pruritus
+intensity: no = 0; mild = 1; moderate = 2; and severe = 3.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+71
+Papatya Bayrak Degirmenci, Cengiz Kirmaz, Seda Vatansever,
+
+Ece Onur, Emine Nal, Soner Erdin, Beyhan Ozyurt
+
+ 
+
+The weekly UAS was equal to the sum of the scores obtained on 7 consecutive days, with a minimum score of
+0 and a maximum score of 42. Consequently, this score
+was graded as follows: 0-14 (mild), 15-29 (moderate) or
+30-42 (severe).
+
+Autologous serum skin test
+
+A total of 10 cc of venous blood was collected from
+he patients into sterile plain tubes and left to coaguate for 30 min at room temperature. The blood was
+hen centrifuged for 15 min at 500 g, and the serum was
+eluted. A total of 50 ul of the serum was drawn into an
+insulin injector and injected into the volar face of the
+orearm intradermally. Ten microliters of histamine (Alergopharma, Germany) as a positive control and 50 pl of
+hysiological saline solution as a negative control (for the
+intracutaneous test; Allergopharma, Germany) were injected intradermally at 5 cm from the area that received
+he autologous serum injection. After 30 min, erythema
+and induration were evaluated. The widest diameter of
+induration and the diameter that was perpendicular to
+his diameter were measured. Erythema and induration
+were graded as recommended by the EAACI/GA2LEN/
+EDF/WAO Guidelines [7] as follows: grade 0: skin rash
+caused by physiological saline solution that is expected
+0 be light pink or skin-colored; grade 1: the formation of
+ink color caused by autologous serum, whereas the area
+where physiological saline solution was injected remains
+skin-colored; and grade 2: the formation of a histamineike red color caused by autologous serum, whereas the
+area where physiological saline solution was injected
+remains skin-colored. A positive test reaction was inicated when the erythema caused by the autologous
+serum was grade 2 and the diameter of induration was
+.5 mm greater than that of the induration caused by the
+hysiological saline solution. All ASSTs were performed
+y the same researcher.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Peripheral blood mononuclear cell culture method
+
+was collected from
+eral blood mononu
+A volume of 15 cc of venous blood
+each patient to culture PBMCs. Perip
+clear cells culture were prepared by standard Ficoll-Paque
+density gradient centrifugation [29]. Blood samples for
+PBMC cultures were poured into 50 ml tubes, and an
+equal volume of phosphate- buffered solution (PBS)
+was added. The tubes were centrifuged for 20 min at
+2300 rpm. Grey-white-colored cells that appeared at the
+junction of the PBS and Biocoll (L-6115, Biochrom) at the
+end of centrifugation were transferred into a new 15 ml
+tube, to which an equal volume of PBS was added. Then,
+the mixture was centrifuged for 10 min at 2000 rpm, the
+pellets were washed with 1 ml of PBS, and the tube was
+centrifuged at 1300 rpm for 5 min. The pellets were cultured in RPMI-1640 (BE12-167F, Lonza) medium containing 1% L-glutamine (BE17-605E, Lonza), 10% fetal bovine
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+72
+
+serum (S-0113, Biochrom) and 1% penicillin/streptomycin
+(DE17-602E, Lonza). Cells (3 x 106 cells/ml) were added
+to 6 wells of 24-well culture plates. Three of the wells
+were used as controls, to which only culture medium
+was added. Phytohemagglutinin (1%; M5030, Biochrom)
+was added to the culture medium in the remaining three
+wells, representing the study group. Cells in both the
+control and study groups were cultured for 48 h at 37°C
+and 5% CO, in air. Then, the culture media and cells were
+collected for both the control and study groups and centrifuged at 1000 rpm for 5 min. Supernatants from the
+control and study groups were stored at —20°C until cytokine measurements. To determine cell viability, the pellets were resuspended in 1 ml of culture medium. Forty
+microliters of sample was mixed with the same amount
+of trypan blue, and staining and non-staining cells were
+calculated. The percentages of stained cells were 1% and
+0.5% for the control and study groups, respectively.
+
+ 
+
+ 
+
+ 
+
+Cytokine measurements
+
+The IL-4, IL-10, TGF-B1, IFN-y, IL-17 and IL-23 levels in
+the cell supernatant from the PBMC were measured by
+ELISA.
+
+ 
+
+Cell culture IL-4 concentrations were assayed using an
+enzyme-linked immunosorbent assay (ELISA) kit from Biosource (Nivelles, Belgium) in duplicate, and the mean of
+the two measurements was used as the final result. The
+analytical sensitivity of IL-4 was 2 pg/ml, and the intraassay coefficients of variation were 3.0% for 47.9 pg/ml and
+2.9% for 119.3 pg/ml. The interassay coefficients of variation were 3.9% for 48.8 pg/ml and 4.4% for 119.1 pg/ml.
+
+Cell culture IL-10 concentrations were assayed using
+an ELISA kit from Biosource (Nivelles, Belgium) in duplicate, and the mean of the two measurements was used
+as the final result. The analytical sensitivity of IL-10 was
+1 pg/ml, and the intraassay coefficients of variation were
+2.9% for 57.6 pg/ml and 2.9% for 138 pg/ml. The interassay coefficients of variation were 2.9% for 55.7 pg/ml and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.8% for 140.3 pg/ml.
+Cell culture TGF-B1 concentrations were assayed
+using an ELISA kit from Biosource (Nivelles, Belgium)
+
+ 
+
+the mean of the two measurements
+inal result. The analytical sensitivity of
+TGF-B1 was 15.6 pg/ml, and the intraassay coefficients
+of variation were 5.5% for 183.9 pg/ml and 6.2% for
+1537 pg/ml. The interassay coefficients of variation were
+7.5% for 181.02 pg/ml and 7.9% for 1547.9 pg/ml.
+
+Cell culture IFN-y concentrations were assayed using
+an ELISA kit from Biosource (Nivelles, Belgium) in duplicate. The mean of the two measurements was used as
+the final result. The analytical sensitivity of IFN-y was
+173 pg/ml, and the intraassay coefficients of variation
+were 1.6% for 290 pg/ml and 2.9% for 9.6 pg/ml. The
+interassay coefficients of variation were 1.8% for 216 pg/
+ml and 5.9% for 104 pg/ml.
+
+in duplicate, an
+was used as the
+
+ 
+
+ 
+
+ 
+
+Advances in Dermatology and Allergology 1, February / 2017
+Analysis of the association of chronic spontaneous urticaria with interlekin-4, -10, transforming growth factor-B1,
+interferon-y, interleukin-17A and -23 by autologous serum skin test
+
+ 
+
+Cell culture IL-17A concentrations were assayed using
+an ELISA kit from RayBio (Norcross, Georgia, USA) in duplicate. The mean of the two measurements was used as the
+final result. The analytical sensitivity of IL-17 was 10 pg/ml,
+the intraassay coefficient of variation was < 10%, and the
+interassay coefficient of variation was < 12%.
+
+Cell culture IL-23 concentrations were assayed using
+an ELISA kit from Bender MedSystems (Vienna, Austria,
+Europe) in duplicate. The mean of the two measurements
+was used as the final result. The analytical sensitivity of
+IL-23 was 10 pg/ml, and the intraassay coefficients of
+variation were 3.8% for 414 pg/ml and 3.0% for 690 pg/
+ml. The interassay coefficients of variation were 3.7% for
+401 pg/ml and 7.3% for 675 pg/ml.
+
+Control group
+
+ 
+
+The control group comprised volunteers with similar ages and a similar gender distribution as the patient
+group who were students and staff of the Medical School
+and were not suffering from allergic complaints. These
+individuals underwent the same laboratory tests as the
+patients to exclude any inflammatory or autoimmune
+diseases. This group included 20 subjects with negative
+ASST results. A volume of 15 cc of venous blood was collected from the control group subjects to perform PBMC.
+
+Statistical analysis
+
+The values are expressed as the mean + standard
+deviation (SD). The Statistical Package for Social Sciences (SPSS) Version 16.0 (Chicago, IL, USA) was used for
+statistical analysis. To compare the total patient group
+with the control group, the independent samples T test
+was used. To compare the ASST(+) and ASST(-) patient
+groups and the control group, the Kruskal-Wallis test was
+performed. The Mann-Whitney U test was used to compare parameters between groups. For all tests, p-values
+of less than 0.5 were considered statistically significant.
+
+ 
+
+Results
+
+A total of 40 patients, including 29 (72.5%) females
+and 11 (27.5%) males who were diagnosed with CSU and
+were being treated at the Internal Diseases Allergy Immunology Clinic, participated in the study. The mean age
+of the patients was 38.2 +10.4 years (age range between
+19 and 56). Twenty patients had positive ASST results,
+and 20 had negative results. The control group included
+10 (50%) males and 10 (50%) females with a mean age
+of 36.5 +5.45 years (age range of between 18 and 58) and
+a total of 20 healthy subjects. The control group subjects
+had negative ASST results.
+
+According to the UAS, the percentage of CSU patients
+with mild, moderate and severe urticaria were 17.5%,
+52.5% and 30.0%, respectively. Among the ASST(+) patients, 3 (15%) had mild disease, 8 (40%) had moderate
+disease, and 9 (45%) had severe disease, whereas among
+
+ 
+
+ 
+
+Advances in Dermatology and Allergology 1, February / 2017
+
+the ASS
+had mo
+The ASS
+the ASS
+the pati
+
+(©) patients, 4 (20%) had mild disease, 13 (65%)
+erate disease, and 3 (15%) had severe disease.
+(+) patients had significantly higher UASs than
+(-) patients (p = 0.021). Correlation analysis of
+ent age, patient gender, UAS and cytokine level
+revealed no significant relationships.
+
+Comparison of the total patient group with the
+control group without considering the ASST results revealed that the IL-23 (p = 0.01), IL-10 (1p = 0.04) and IL-4
+(p = 0.01) levels in the patient group were significantly
+lower.
+
+e IL-4 level in the ASST(+) patient group was determined to be significantly higher than that of the ASST(-)
+patient group (pp = 0.04).
+The IL-23 (p = 0.009), IL-10 (p = 0.009), IL-4 (p = 0.001),
+and IL-17 (p = 0.05) levels in the ASST(-) patient group
+were significantly lower compared with those in the conrol group.
+e IL-4 (p = 0.03) and IFN-y (p = 0.05) levels in the
+ASST(+) patient group were significantly lower compared
+with those in the control group.
+The comparison of cytokine levels in the ASST(+)
+patient group, the ASST(-) patient group, the total paient group and the control group and the corresponding
+p-values are shown in Figure 1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion
+
+Only a small number of studies have examined the
+role of cytokines in the immunopathogenesis of CSU. In
+this study, the main objective was to contribute to the
+understanding of the pathogenesis of this condition by
+identifying its relationships with autoimmunity, T lymphocyte subgroups and cytokines by comparing patients
+suffering from CSU with healthy subjects. A secondary
+objective was to obtain results that could contribute to
+the development of new treatment approaches.
+
+Initially, to differentiate patients with an autoimmune
+etiology, the ASST was used rather than the basophi
+secretion test, which is expensive and difficult to apply.
+The ASST has a higher sensitivity and specificity, is less
+expensive and is very safe compared with the basophi
+istamine secretion test. The ASST is the best in vivo tes
+method, and its results are the most similar to those o
+he in vitro basophil histamine secretion test [7]. Addiionally, PBMCs were performed to determine the cytoines that were only secreted by T lymphocytes.
+
+A total of 20 ASST(-) and 20 ASST(+) subjects and
+40 CSU patients participated in this study, and PBMCs
+were performed to determine cytokine patterns. The
+L-4, IL-10, TGF-B, IFN-y, IL-17, and IL-23 levels in cell culure supernatants were measured by ELISA.
+
+The IL-4 level of the patient group was significantly
+ower than that of the control group. In addition, the IL-4
+evels of both the ASST(-) and ASST(+) patient groups
+were significantly lower compared with that of the control
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+73
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Papatya Bayrak Degirmenci, Cengiz Kirmaz, Seda Vatansever, Ece Onur, Emine Nal, Soner Erdin, Beyhan Ozyurt
+A 80 B 20 =pooy P= 0m Cc 20 ————___ p=0.03
+i peooet Sanur P= 0001.
+_, 60 _ 15 15
+Ee = =
+> > g .
+& 40 & 10 ee 2 10
+on oO p=081 + <= 8 . p=0.04+
+Gq a . a ¥ i we :
+= a = es 2 *
+20 5} 20 se 5} ¥ = - =
+= E = = =
+° 2 Ey 6 3 ‘ 0 E * 0
+Control Patients ASST(-) ASST(+) Control Patients ASST(-) ASST(+) Control Patients ASST(-) ASST(+)
+group group group
+500 5000.
+D p=0.99 E p=0.29 F 60
+Sao PHP
+400 4000. pew’, pros
+= = = 40
+E 300 pros = 3000 &
+zB & * - é a4
+S 200 = 2000: z ‘ >
+3 3 i : "| gs + — = = 20
+100 = ape Se 1000} = i b oe
+x 7 “ =
++ : : a
+0 3 0 0 :
+Control Patients ASST(-) ASST(+) Control Patients ASST(-) ASST(+) Control Patients ASST(-) ASST(+)
+group group group
+Figure 1 A-F. Comparison of cytokine levels of ASST(+) patient group, ASST(-) patient group, total patient group (patients),
+control group and p-values
+
+ 
+
+group. Cohen et al. have found that IL-4 levels in PBMC
+
+supernatants of CSU patients are significant
+pared with those of controls, similar to our
+Basophils are responsible for most of the sti
+secretion in leukocyte cell cultures. It has
+that basophils respond less to IgE-media
+unmediated stimulation in CSU patients [30,
+levels of IL-4 in CSU patients may be due to
+or functional defects in basophils. In both o
+conducted by Cohen et al. and in our stud
+counts of the patient groups an
+normal, and basophils disappeared during
+0 basophils, mast cells and lymphocytes
+cytokines, such as , that affect the cytokine
+CSU patients. As a consequence, the reduced
+ion that was observed in the CSU patients in
+was associated with lymphocytes rather than
+In accordance with thr
+erature, the IL-4 levels of the pa
+ower compared with those of
+However, other previous studies have re
+L-4 levels between patients and controls
+In the absence of IL-4, which is the maj
+h2 differentiation, the Th
+is expected to be dominant. However, in
+in the study conducted by Cohen et al., th
+crease in Th1-derived cytokines [30].
+Two studies have shown that local
+inflammation is dominan
+
+e
+3
+
+t
+
+ 
+
+ 
+
+sec
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+74
+
+e studi
+
+y, the basop
+control groups were
+PBMC. Simi
+
+rete ma
+lance
+L-4 sec
+this stu
+basophi
+
+ 
+
+ee different studies in the |
+tients in our study were
+he controls [29, 30, 3
+orted simi
+33, 34].
+
+jor cytokine
+- mediated immune response
+our study and
+ere was no in
+ly lower comindings [30].
+mulated IL-4
+een shown
+and |gE]. The low
+quantitative
+
+es
+il
+
+ar
+ny
+in
+re
+dy
+Si
+it
+2].
+ar
+
+ 
+
+or
+
+h2-mediated
+in skin biopsy samples from
+
+CIU patients [35, 36]. In our study, the Th2
+tokine IL-4, which is known to be abundant d
+inflammation, was detected in systemic circu
+nown that Th2-mediated inflammation and
+are predominant ina
+ation in diseases such as allergic rhinitis an
+By contrast, when thyroid cell cultures and
+
+mune thyroid patients,
+observed between Th
+37,38],
+
+significant differences
+and Th2-derived cyto
+
+ 
+
+in CSU pathogenesis, although IgE-mediated
+Th2-mediated inflammation and Th2-derive'
+lay roles in local inflammation, they do not p
+erable systemic roles.
+
+In our study, the IL-10 levels of the
+
+ 
+
+airways and in syste
+
+erived cyuring local
+ation. It is
+cytokines
+mic circud asthma.
+eripheral
+
+lood cell cultures have been performed for autoim
+have been
+ine levels
+
+The current literature and our findings indicate that
+
+reactions,
+cytokines
+lay consid
+ 
+
+atient groups
+
+were lower compared with those of the control group
+
+(p = 0.04). In terms of the ASST, the ILASST(-) patient group was significantly lower
+with that of the control group (p = 0.009). H
+two different studies, the IL-10 levels of CS
+
+10 level of the
+
+compared
+owever, in
+
+U patients have
+
+been found to be higher compared with those of controls,
+
+in contrast with our findings [32-36]. In t
+has been suggested that IL-10 levels may
+to control inflammation in these patien
+
+ese
+
+ 
+
+Ss be
+
+studies, it
+
+have increased
+
+cause it is
+
+an anti-inflammatory cytokine. However, Dos Santos et
+al. found that the IL-10 level of an ASST(+) patient group
+was higher compared with that of an ASST(-) patient
+
+Advances in Dermatology and Allergology 1, February / 2017
+Analysis of the association of chronic spontaneous urticaria with interlekin-4, -10, transforming growth factor-B1,
+interferon-y, interleukin-17A and -23 by autologous serum skin test
+
+ 
+
+group [38]. This finding suggests that autoantibodies in
+the sera of ASST(+) patients might affect PBMC results.
+
+However, further studies
+
+ave found that the IL-10 levels of CSU patients are lower com
+controls, similar to our findings [30,
+
+ared with those of
+32]. Interleukin-10 is
+
+produced by dendritic cells, natural killer cells, B lympho
+cytes and
+
+Th2-media
+
+ 
+
+naive Th cells to differentia
+the Th2
+
+tory cy’
+
+res
+
+ 
+
+Treg cell functioning.
+
+group was
+
+ 
+
+ 
+
+reg cells. It suppresses
+immune response and reduces cy
+T lymphocytes by deactivating macrophages.
+ed inflammation while inhibiting most of the
+functions of Th1 cells and macrophages. The
+e into Th2 by suppressing IL-12
+secretion from antigen presenting cells, but i
+
+In our study, the IFN-y level of
+lower than that of the control group (p = 0.05).
+n addition, the mean IFN-y levels o
+
+he antigen-specific
+‘okine synthesis by
+t can control
+
+IL-10 allows
+
+suppresses
+
+onse in some cases resulting in proinflammaokine and chemokine suppression.
+used the PBMC method in our study, we know that the
+IL-10 level was directly associated wit!
+sion, the fact that IL-10 production was decreased in CSU
+patients supports the hypothesis that there is insufficient
+
+Because we
+
+ 
+
+Treg cells. In conclu
+he ASST(+) patient
+
+ 
+
+the patient groups
+
+were lower than that of the control group, although this
+reduction was not statistically significant. Although three
+
+studies in
+of CSU
+ference
+
+he literature have found that the IFN-y levels
+patients are low, similar to our findings, no difbetween patient and control groups has been
+
+observed in another study [29, 30, 38]. The low levels of
+
+IL-4 and IFN-y secretion ol
+our study might indicate
+insufficien
+Whi
+ence
+groups in our study, t
+was lower. In a study coni
+levels of both patient and
+
+ 
+
+ 
+
+vious reports in the litera
+that IL-10 and TGF-B leve
+port the notions that
+that
+
+ 
+
+ 
+
+In addition, a number of s
+the development of autoimay cri
+29, 30]. However, the characterisroles of these cells have
+ients. It is possible that
+Treg cells and that these defi0 inhibit the ongoing inflam
+Treg cells appear to contro
+mune diseases and also pI
+asthma and allergies
+tics and
+CSU pa
+intrinsic abnormalities in
+cient cells may be unable
+
+ 
+
+ 
+
+served in the CSU patients in
+hat Thl and Th2 functions are
+in these patients.
+e there was not a sta
+in the TGF-B level between the patient and control
+e mean TGF-B level of the patients
+ucte
+control groups were similar, in
+agreement with our findings
+ure
+sare
+Treg cells
+here is a defect in Treg cel
+
+istically significant differ
+by Chen et al., the TGF-B
+
+29]. Taken together, pre
+and our findings showing
+
+iow in CSU patients supare the source of IL-10 and
+s in these patients.
+
+ 
+
+udies have indicated that
+ical roles in controlling
+
+not yet been defined in
+ese patients may have
+
+ 
+
+mation. Taken together, these findings indicate a generalized downregulation of both Thl and Th2 cytokine
+production in CSU patients.
+
+In our study, the
+significantly lower than tha’
+particularly the ASST) pa’
+
+ 
+
+ 
+
+Advances in Dermatology and Allergology 1, February / 2017
+
+IL-23 levels o
+of the control group (p = 0.01),
+ient group (p = 0.009).
+
+ 
+
+the patient group were
+
+The IL-17 was significantly lower in the ASST(-) pa
+ound t
+
+concen
+(TNF)-a
+ared wi
+
+ 
+
+Dascl
+
+in CSU
+
+Anisakis
+
+without
+gested
+consum
+
+ 
+
+to our findings.
+Because the
+
+patient groups in
+
+Th17-dominant immune res:
+
+CSU pat!
+
+ogy of inflamma
+
+contact
+
+described, indica
+issue inflamma
+
+verify w
+
+ient group compared with the control group (p = 0.05).
+n addition, the mean IL-17 leve
+lower than that of the control group, although this finding was statistically insignificant. Dos Santos et al. have
+
+of the patient group was
+
+at the IL-17 level of CU patients is higher than
+
+hat of controls, in contrast wit
+In another study, Atwa et al. have found that serum
+
+rations of IL-17, IL-23 a
+are significantly high
+ith healthy control sub
+
+ner et al. have found
+atients with and with
+
+a history of urticaria [4
+at the IL-17 level is
+tion during the in
+
+our study, it
+
+ory skin
+ypersensitivity and
+ing that i
+ion [41]. TI
+
+ 
+
+esis an
+
+ower in
+
+control
+
+ients.
+
+hose of
+
+ 
+
+cytokine
+not
+
+kine
+
+er numb
+
+In terms of t
+L-17A, and IL-23
+
+unctions were insufficien
+
+To date, few s
+he cytokine profi
+study, the mean IL-4, IL-10,
+evels of the patient groups were lower compare
+
+revious reports in the li
+Thi7 and Treg cell functions are sup
+cient in CSU patients and that immune dysregu
+occurs as part of the pa
+
+The pathophysiology
+een well defined. Al
+of CSU patients and in Thi, Th2, Th17 and Treg ce
+levels in the serum and skin of t
+be important in the pathophysiology of this condi
+However, there is a need for further studies of a larg
+the extent of t
+e ASST, the
+levels in
+
+ 
+
+ 
+
+the ASS
+
+group suggests that
+
+or
+
+udies
+
+ 
+
+ 
+
+simplex A compared
+
+ave been carried out to
+es in PBMCs from CSU patients.
+FN-y, TGF-B, IL-17A, and
+
+our findings [38].
+
+nd tumor necrosis factor
+er in CSU patients comjects [39].
+
+lower serum IL-17 levels
+out sensitization against
+with those in patients
+0]. The authors have sugiminished because of its
+
+ 
+
+ 
+
+lammatory process, similar
+
+L-23 and IL-17A levels were low in the
+
+can be asserted that the
+
+onse is not very effective in
+ogenesis. A possible role of IL-17A in the patholisorders, such as psoriasis,
+atopic dermatitis, has
+is an important mediator of
+us, it might be relevant to
+ether Th17 cells are involved in CSU pathogeneir involvement.
+
+een
+
+ 
+
+fact that the IL-4, IL-10,
+
+articular were significantly
+©) patient group compared wit
+
+the
+Th2, Th17 and Treg cell
+suppressed in these pa
+efine
+nour
+IL-23
+with
+
+the control group. These findings, in addition to
+
+ 
+
+imbalance.
+of CS
+
+ 
+
+er of patients.
+
+Conflict of interest
+
+ 
+
+erature, indicate that Th
+
+hogenesis of CSU, resul
+
+erations int
+
+a IMD;
+ressed or insuffiation
+ing in
+
+ 
+
+ 
+
+it has
+profile
+(cytoSs may
+ion.
+
+Uis complex, and
+e cytokine
+
+ 
+
+ese patien
+
+ 
+
+The authors declare no conflict of interest.
+
+75
+Papatya Bayrak Degirmenci, Cengiz Kirmaz, Seda Vatansever, Ece Onur, Emine Nal, Soner Erdin, Beyhan Ozyurt
+
+ 
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+76
+
+References
+
+. Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am
+
+Acad Dermatol 2002; 146: 645-57.
+
+. Kaplan AP. Chronic urticaria: pathogenesis and treatment.
+
+J Allergy Clin Immunol 2004; 114: 465-74.
+
+. Greaves MW. Chronic idiopathic urticaria. Curr Opin Allergy
+
+Clin Immunol 2003; 3: 363-8.
+
+. Sabroe RA, Fiebiger E, Francis DM, et al. Classification of
+
+anti-FcepsilonRI and anti-IgE autoantibodies in chronic idiopatic urticaria and correlation with disease severity. J Allergy
+Clin Immunol 2000; 110: 492-9.
+
+. Sabroe RA, Grattan CE, Francis DM, et al. The autologous
+
+serum skin test: a screening test for antibodies in chronic
+idiopatic urticaria. Br J Dermatol 1999; 140: 446-52.
+
+. Sabroe RA, Greaves MW. Chronic idiopathic urticaria with
+
+functional autoantibodies: 12 years on. Br J Dermatol 2006;
+154: 813-9.
+
+. Konstantinou G, Asero R, Maurer M, et al. EAACI/GA(2)LEN
+
+task force consensus report: the autologous serum skin test
+in urticaria. Allergy 2009; 64: 1256-68.
+
+. Taskapan O, Kutlu A, Karabudak O. Evaluation of autologous
+
+serum skin test results in patients with chronic idiopatic urticaria, allergic/nonallergic asthma or rhinitis and healthy
+people. Clin Exp Dermatol 2008; 33: 754-8.
+
+. Boguniewicz M. The autoimmune nature of chronic urticaria.
+
+Allergy Asthma Proc 2008; 29: 433-8.
+
+Elias J, Boss E, Kaplan AP Studies of the cellular infiltrate of
+chronic idiopathic urticaria: prominence of T-lymphocytes,
+monocytes, and mast cells. J Allergy Clin Immunol 1986; 78:
+914-8.
+Ying S, Kikuchi Y, Meng Q, et al. TH1/TH2 cytokines and inflammatory cells in skin biopsy specimens from patients
+with chronic idiopathic urticaria: comparison with the allergen-induced late-phase cutaneous reaction. J Allergy Clin
+Immunol 2002; 109: 694-700.
+
+O’Shea JJ, Ma A, Lipsky PR Cytokines and autoimmunity. Nat
+Rev Immunol 2002; 2: 37-45.
+
+Nelms K, Keegan AD, Zamorano J, et al. The IL-4 receptor:
+signaling mechanisms and biologic functions. Annu Rev Immunol 1999; 17: 701-38.
+
+Paul WE, Zhu J. How are T(H)2-type immune responses initiated and amplified? Nat Rev Immunol 2010; 10: 225-35.
+
+Li MO, Flavell RA. TGF-beta: a master of all T cell trades. Cell
+2008; 134: 392-404.
+
+Konkel JE, Chen W. Balancing acts: the role of TGF-beta in the
+mucosal immune system. Trends Mol Med 2011; 17: 668-76.
+Commins S, Steinke JW, Borish L. The extended IL-10 superfamily: IL-10, IL-19, IL-20, IL-22, IL-24, IL-26, IL-28, and IL-29.
+J Allergy Clin Immunol 2008; 121: 1108-11.
+
+Murray PJ. The primary mechanism of the IL-10-regulated
+anti-inflammatory response is to selectively inhibit transcription. Proc Natl Acad Sci U S A 2005; 102: 8686-91.
+
+Jutel M, Akdis M, Budak F, et al. IL-10 and TGF-beta cooperate in the regulatory T cell response to mucosal allergens
+in normal immunity and specific immunotherapy. Eur J Immunol 2003; 33: 1205-14.
+
+Akkoc T, de Koning PJ, Ruckert B, et al. Increased activationinduced cell death of high IFN-gamma-producing T(H)1 cells
+as a mechanism of T(H)2 predominance in atopic diseases.
+J Allergy Clin Immunol 2008; 121: 652-8.
+
+Okamura H, Tsutsi H, Komatsu T, et al. Cloning of a new cytokine that induces IFN-gamma production by T cells. Nature
+1995; 378: 88-91.
+
+Arican O, Aral M, Sasmaz S, et al. Serum levels of TNF-alpha,
+IFN-gamma, IL-6, IL-8, IL-12, IL-17, and IL-18 in patients with
+active psoriasis and correlation with disease severity. Mediators Inflamm 2005; 2005: 273-9.
+
+ 
+
+ 
+
+ 
+
+23:
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29:
+
+30.
+
+31.
+
+32,
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+Bettelli E, Korn T, Oukka M, et al. Induction and effector
+functions of Th17 cells. Nature 2008; 453: 1051-7.
+
+Miossec P, Korn T, Kuchroo VK. Interleukin-17 and type 17
+helper T cells. N Engl) Med 2009; 361: 888-98.
+
+Kastelein RA, Hunter CA, Cua DJ. Discovery and biology of
+IL-23 and IL-27: related but functionally distinct regulators of
+inflammation. Annu Rev Immunol 2007; 25: 221-42.
+Beadling C, Slifka MK. Regulation of innate and adaptive immune responses by the related cytokines IL-12, IL-23, and
+IL-27. Arch Immunol Ther Exp (Warsz) 2006; 54: 15-24.
+McGeachy MJ, Cua DJ. The link between IL-23 and Th17 cellmediated immune pathologies. Semin Immunol 2007; 19:
+372-6.
+
+Zuberbier T, Asero R, Bindslev-Jensen C, et al. Dermatology
+Section of the European Academy of Allergology and Clinical
+Immunology; Global Allergy and Asthma European Network;
+European Dermatology Forum; World Allergy Organization.
+EAACI/GA(2)LEN/EDF/WAO guideline: definition, classification and diagnosis of urticaria. Allergy 2009; 64: 1417-26.
+Chen WC, Chiang BL, Liu HE, et al. Defective functions of circulating CD4+CD25+ and CD4+CD25-T cells in patients with
+chronic ordinary urticaria. J Dermatol Sci 2008; 51: 121-30.
+Confino-Cohen R, Aharoni D, Goldberg A, et al. Evidence
+for aberrant regulation of the p21Ras pathway in PBMCs of
+patients with chronic idiopathic urticaria. J Allergy Clin Immunol 2002; 109: 349-56.
+
+Claveau J, Lavoie A, Brunet C, et al. Comparison of histamine
+releasing factor recovered from skin and peripheral blood
+mononuclear cells of patients with chronic urticaria. Ann
+Allergy Asthma Immunol 1996; 77: 475-9.
+
+Irinyi B, Aleksza M, Antal-Szalmas P, et al. Cytokine production of CD4+ and CD8+ peripheral T lymphocytes in patients
+with chronic idiopathic urticaria. Acta Derm Venereol 2002;
+82: 249-53.
+
+Piconi S, Trabattoni D, lemoli E, et al. Immune profiles of
+patients with chronic idiopathic urticaria. Int Arch Allergy
+Immunol 2002; 128: 59-66.
+
+Caproni M, Cardinali C, Giomi B, et al. Serological detection
+of eotaxin, IL-4, IL-13, IFN-gamma, MIP-lalpha, TARC and
+IP-10 in chronic autoimmune urticaria and chronic idiopathic
+urticaria. J) Dermatol Sci 2004; 36: 57-9.
+
+Caproni M, Giomi B, Volpi W, et al. Chronic idiopathic urticaria: infiltrating cells and related cytokines in autologous
+serum-induced wheals. Clin Immunol 2005; 114: 284-92.
+Ying S, Kikuchi Y, Meng Q, et al. Th1/Th2 cytokines and inflammatory cells in skin biopsy specimens from patients
+with chronic idiopathic urticaria: comparison with the allergen-induced late-phase cutaneous reaction. J Allergy Clin
+Immunol 2002; 109: 694-700.
+
+Guo J, Rapoport B, McLachlan SM. Balance of Th1/Th2 cytokines in thyroid autoantibody synthesis in vitro. Autoimmunity 1999; 30: 1-9.
+Dos Santos JC, Azor MH, Nojima VY, et al. Increased circulating pro-inflammatory cytokines and imbalanced regulatory
+T-cell cytokines production in chronic idiopathic urticaria. Int
+Immunopharmacol 2008; 8: 1433-40.
+
+Atwa MA, Emara AS, Youssef N, et al. Serum concentration
+of IL-17, IL-23 and TNF-alpha among patients with chronic
+spontaneous urticaria: association with disease activity and
+autologous serum skin test. ] Eur Acad Dermatol Venereol
+2014; 28: 469-74.
+
+Daschner A, Rodero M, De Frutos C, et al. Different serum cytokine levels in chronic vs. acute Anisakis simplex sensitization-associated urticaria. Parasite Immunol 2011; 33: 357-62.
+van Beelen AJ, Teunissen MB, Kapsenberg ML, et al. Interleukin-17 in inflammatory skin disorders. Curr Opin Allergy Clin
+Immunol 2007; 7: 374-81.
+
+ 
+
+Advances in Dermatology and Allergology 1, February / 2017
+

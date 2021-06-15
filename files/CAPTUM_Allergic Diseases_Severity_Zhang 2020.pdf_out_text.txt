@@ -1,0 +1,1148 @@
+Received: 17 February 2020
+
+Revised: 18 February 2020
+
+Accepted: 18 February 2020
+
+ 
+
+DOI: 10.1111 /all.14238
+
+ORIGINAL ARTICLE
+
+Epidemiology and Genetics
+
+ 
+
+Allergy
+
+ 
+
+Clinical characteristics of 140 patients infected with SARSCoV-2 in Wuhan, China
+
+Jin-jin Zhang | Xiang Dong! | Yi-yuanCao* | Ya-dong Yuan® | Yi-bin Yang’ |
+You-qin Yan> | CezmiA.Akdis® | Ya-dong Gao!
+
+Department of Allergology, Zhongnan
+Hospital of Wuhan University, Wuhan, China
+
+2Department of Radiology, Zhongnan
+Hospital of Wuhan University, Wuhan, China
+
+3Department of Respiratory and Critical
+Care Medicine, Second Hospital of Hebei
+Medical University, Shijiazhuang, China
+
+“Department of Respiratory and Critical
+Care Medicine, Zhongnan Hospital of
+Wuhan University, Wuhan, China
+
+>Department of Infectious Disease, No. 7
+Hospital of Wuhan, Wuhan, China
+
+Swiss Institute of Allergy and Asthma
+Research (SIAF), University of Zurich, Davos,
+Switzerland
+
+Correspondence
+
+Ya-dong Gao, Department of Allergology,
+Zhongnan Hospital of Wuhan University,
+Wuhan 430071, Hubei, China.
+
+Email: gaoyadong@whu.edu.cn
+
+ 
+
+Abstract
+
+Background: Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been widely spread. We aim
+to investigate the clinical characteristic and allergy status of patients infected with
+SARS-CoV-2.
+
+Methods: Electronic medical records including demographics, clinical manifestation,
+comorbidities, laboratory data, and radiological materials of 140 hospitalized COVID19 patients, with confirmed result of SARS-CoV-2 viral infection, were extracted and
+analyzed.
+
+Results: An approximately 1:1 ratio of male (50.7%) and female COVID-19 patients
+was found, with an overall median age of 57.0 years. All patients were communityacquired cases. Fever (91.7%), cough (75.0%), fatigue (75.0%), and gastrointestinal
+symptoms (39.6%) were the most common clinical manifestations, whereas hypertension (30.0%) and diabetes mellitus (12.1%) were the most common comorbidities. Drug hypersensitivity (11.4%) and urticaria (1.4%) were self-reported by several
+patients. Asthma or other allergic diseases were not reported by any of the patients.
+Chronic obstructive pulmonary disease (COPD, 1.4%) patients and current smokers
+(1.4%) were rare. Bilateral ground-glass or patchy opacity (89.6%) was the most common sign of radiological finding. lymphopenia (75.4%) and eosinopenia (52.9%) were
+observed in most patients. Blood eosinophil counts correlate positively with lymphocyte counts in severe (r = .486, P < .001) and nonsevere (r = .469, P < .001) patients
+after hospital admission. Significantly higher levels of D-dimer, C-reactive protein,
+and procalcitonin were associated with severe patients compared to nonsevere patients (all P < .001).
+
+Conclusion: Detailed clinical investigation of 140 hospitalized COVID-19 cases suggests eosinopenia together with lymphopenia may be a potential indicator for diagnosis. Allergic diseases, asthma, and COPD are not risk factors for SARS-CoV-2
+infection. Older age, high number of comorbidities, and more prominent laboratory
+
+abnormalities were associated with severe patients.
+
+ 
+
+Jin-jin Zhang and Xiang Dong contributed equally to this work.
+
+“& WILEY
+
+®
+
+Check for
+updates
+
+ 
+
+ 
+
+Allergy. 2020;00:1-12.
+
+wileyonlinelibrary.com/journal/all
+
+ae
+
+ 
+E)
+
+ 
+
+ZHANG er aL.
+
+ 
+
+ 
+
+2lwy LEY—Allergy
+
+ 
+
+KEYWORDS
+
+allergy, COVID-19, eosinophil, risk factor, SARS-CoV-2
+
+1 | INTRODUCTION
+
+A novel member of human coronavirus, newly identified in
+Wuhan, China, recently, now officially named as SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) by International
+Committee on Taxonomy of Viruses (ICTV) is a new strain of RNA
+viruses that has not been previously identified in humans. Studies
+have shown that the disease caused by SARS-CoV-2, recently
+named as COVID-19 (coronavirus disease 2019) by World Health
+Organization (WHO), could induce symptoms including fever, dry
+cough, dyspnea, fatigue, and lymphopenia in infected patients. In
+more severe cases, infections causing viral pneumonia may lead
+to severe acute respiratory syndrome (SARS) and even death.**
+Since the first report of COVID-19 in December 2019 in Wuhan,
+China, the outbreak of the disease is currently continuously evolving. Until February 16, 2020, the locations with confirmed SARSCoV-2 cases include 25 countries. Globally, 73 332 cases were
+confirmed, including 72 528 cases in China and 804 cases outside of China.° A total of 1870 patients have died from this viral
+infection.°
+
+It was established that the SARS-CoV-2 belongs to the beta-coronavirus 2b lineage in the phylogenetic tree. By examining
+the full-length genome of SARS-CoV-2, it was discovered that this
+novel virus shared 87.99% identity sequencing with the bat SARSlike coronavirus,° and it shared ~80% identity nucleotide with the
+original SARS epidemic virus.’ Based on the preliminary information
+of this novel virus, it is considered that SARS-CoV-2 is the third zoonotic human coronavirus of the century.® In addition, clinical evidences have suggested that this virus is transmissible from person to
+person.”?° Currently, it is still unclear about the origins and possible
+intermediate animal vectors of SARS-CoV-2, as well as the mechanism of this virus, that is, spreading between persons.
+
+Despite that many articles have established the clinical features of COVID-19 patients so far,** the allergy aspects and the
+information of the allergic disease-related laboratory findings of
+these patients have not been reported yet. Previous studies have
+discussed the possible relationship between viral infections, immune response, and allergy and asthma. Several types of viruses,
+such as rhinovirus (RVs) and respiratory syncytial virus (RSV), were
+
+the main focus of research,!**°
+
+whereas for coronavirus, and particularly COVID-19, there is no report in this context. It is generally
+established that allergy may increase the risk of virus-induced exacerbation of allergic diseases, such as asthma.'®*” Genetic predisposition, deficient antiviral response, impairment of immune
+cell function, damage of epithelium, and cytokine and chemokine
+response may contribute to the synergistical promotion of allergic
+disease exacerbation by allergen and virus, especially for respiratory tract allergy.®?° However, according to the hygiene hypothesis in the allergy field, respiratory infections during early life may
+
+play a protective role against the Th2-mediated allergic disease
+development.**
+
+The prevalence of chronic obstructive pulmonary disease
+(COPD) in people 240 years old was 13.7% in China according to a
+recent study.?? Respiratory tract virus infection is a common trigger
+for acute exacerbation of COPD.”° The prevalence of SARS-CoV-2
+infection in COPD patients is not clear. In addition, the influence
+of smoking behavior on the susceptibility to this virus has not been
+investigated.
+
+This research aims to investigate the clinical and laboratory characteristic of hospitalized COVID-19 patients, including differences
+between severe and nonsevere patients, and to reveal the relationship between SARS-CoV-2 infection, immune response, allergy, and
+clinical manifestations, with a special focus on asthma, COPD, and
+
+smoking behavior.
+
+2 | METHODS
+2.1 | Patients’ involvement and data collection
+
+All hospitalized patients (n = 242) (admission date from January
+16 to February 3, 2020) in No. 7 Hospital of Wuhan, clinically diagnosed as “viral pneumonia” based on their clinical symptoms
+(fever or respiratory symptoms) with typical changes in chest radiology, were preliminarily involved in this study. No. 7 Hospital of
+Wuhan is one of the designated hospitals for the hospitalization
+of patients with COVID-19 and has been entrusted by Zhongnan
+Hospital of Wuhan University since January 2020. The pharyngeal swab specimens of these patients were collected and used for
+SARS-CoV-2 detection. Patients absent of or with negative SARSCoV-2 test results were excluded from this study. All patients
+involved in this study were living in Wuhan during the outbreak
+period of COVID-19.
+
+Demographic information, clinical characteristics (included medical history, exposure history, comorbidities, surgery history, signs,
+and symptoms), chest computed tomographic (CT) scan or X-ray results, and laboratory findings of each patient were obtained from the
+electronic medical record system of No. 7 Hospital of Wuhan and
+analyzed by three independent researchers. The access was granted
+by the director of the hospital. Patients with smoking history, COPD,
+and allergic diseases (including asthma, allergic rhinitis, food allergy, atopic dermatitis, and urticaria) were identified. For patients
+with smoking history, the amount of smoking, the years of smoking
+history, and the years of smoking cessation were individually collected. This study was approved by the institutional ethics board of
+Zhongnan Hospital of Wuhan University (No. 2020028).
+
+The date of disease onset and hospital admission date, as well
+as the severity of COVID-19, were also recorded. The onset date
+ZHANG er AL.
+
+ 
+
+ 
+
+ 
+
+was defined as the day when any symptoms were noticed by the
+patients. Severity of COVID-19 was defined according to the diagnostic and treatment guideline for SARS-CoV-2 issued by Chinese
+National Health Committee (version 3-5). Severe COVID-19 was
+designated when the patients had one of the following criteria: (a)
+respiratory distress with respiratory frequency 230/min; (b) pulse
+oximeter oxygen saturation <93% at rest; and (c) oxygenation index
+(artery partial pressure of oxygen/inspired oxygen fraction, PaO,/
+FiO.) < 300 mm Hg.
+
+2.2 | Laboratory testing
+
+Patient pharyngeal swab specimens were collected for the SARSCoV-2 viral nucleic acid detection using real-time reverse transcriptase-polymerase chain reaction (RT-PCR) assay. The viral
+nucleic acid testing for all patients was performed by the clinical
+laboratory from Zhongnan Hospital of Wuhan University in Wuhan,
+which is the designated laboratory for SARS-CoV-2 test for patients
+in No. 7 Hospital of Wuhan. Detailed protocol was described somewhere else.°
+
+Medical laboratory finding results, including the numbers of
+leukocytes, lymphocytes, and eosinophils; percentages of lymphocyte and eosinophils; concentrations of D-dimer, C-reactive protein (CRP), procalcitonin (PCT), serum amyloid A (SAA), and serum
+creatine kinase; and detection of different pathogens (including
+Mycoplasma pneumoniae, Chlamydia pneumoniae, influenza A
+virus, influenza B virus, parainfluenza, Coxsackie virus group B,
+adenovirus, echovirus, respiratory syncytial virus, Epstein-Barr
+virus, and cytomegalovirus), were collected for each patient. All
+medical laboratory data were generated by the clinical laboratory
+of No. 7 Hospital of Wuhan. As disease progressed, the most updated secondary results for laboratory findings (included numbers
+and percentages of lymphocytes and eosinophils) during the hospital stay were also collected. The laboratory data for some patients were missing due to the absence of types of tests or delayed
+
+results.
+
+2.3 | Statistical analysis
+
+Categorical variables were summarized as frequencies and percentages, and continuous variables were described using median
+and interquartile ranges (IQR) values. To compare the continuous
+variables for data of different patient groups, two-tailed t test and
+Mann-Whitney test were used as appropriate. The frequencies
+of categorical variables were compared using the chi-square and
+Fisher's exact test as appropriate. Spearman's correlation test was
+used for calculation of correlation between different cell types.
+All statistical analyses and graphs were generated and plotted
+using GraphPad Prism version 7.00 software (GraphPad Software
+Inc). The tests with P value of <.05 were considered statistically
+
+significant.
+
+Allergy —-WI Ley?
+
+3 | RESULTS
+
+ 
+
+ 
+
+ 
+
+3.1 | Demographics and clinical characteristics
+
+A total of 140 patients diagnosed as COVID-19 were included in
+this study, with 82 patients categorized into nonsevere patients
+and 58 severe cases on admission. The median age for all patients
+was 57 years, ranging from 25 to 87 years old, and the majority
+(70%) of them were more than 50 years old. About half (50.7%)
+of patients were male. Since no patients had direct exposure history of Huanan wet markets or wildlife animals, we presumed all
+patients in this study were community-infected cases. The SARSCoV-2 clustered within 15 (10.7%) patients in this study, whose
+family members or friends were also infected with SARS-CoV-2.
+Three hospital workers were infected. Ninety (64.3%) patients had
+at least one underlying comorbidity, the most common of which
+were chronic diseases, such as hypertension (30%) and diabetes
+(12.1%). Only two COPD patients were identified. Sixteen patients
+had self-reported medical history of drug hypersensitivity, and
+drug types include penicillin, cephalosporins, and specific Chinese
+traditional medicines. Two patients reported chronic urticaria. No
+self-reported other allergic diseases (including asthma, allergic
+rhinitis, food allergy, atopic dermatitis, and other type 2 allergic
+diseases) were declared. Thirty-eight (27.1%) patients had surgery
+experience(s), such as C-section, cholecystectomy, and appendectomy. Interestingly, there were only 2 current smokers and 7 past
+smokers (Table 1).
+
+Symptoms of the patients on admission are shown in Table 2.
+The median interval from the onset of symptoms to hospital admission for all patients was 8 days (IQR, 6-11). The most commonly
+experienced symptoms were fever (91.7%), followed by cough
+(75%), fatigue (75%), and chest tightness or dyspnea (36.7%).
+39.6% of them complained about gastrointestinal symptoms, including nausea, diarrhea, poor appetite, abdominal pain, belching,
+
+and emesis.
+
+3.2 | Radiological and laboratory findings
+
+Of the 135 patients with chest CT scan on admission, the majority (134, 99.3%) had abnormal results, showing typical images
+that were bilateral multiple ground-glass opacities or consolidation (Table 2, Figures 1-3). The blood cell test result of patients
+on the day of hospital admission showed normal leukocytes in
+most of the patients (68.1%), with 12.3% increased and 19.6%
+decreased numbers. Lymphopenia was common in 75.4% of the
+patients (Table 3). Interestingly, more than half of these patients
+(52.9%) had eosinopenia (eosinophil counts < 0.02 x 10°/L). Other
+laboratory findings included higher concentration of C-reactive
+protein (91.9%), serum amyloid A (90.2%), and D-dimer (43.2%),
+while increased concentration of serum procalcitonin (34.7%) and
+creatine kinase (6.7%) was relatively less common in all patients.
+
+The results of secondary tests (median, 5 days after hospital
+EE) ZHANG er aL.
+EAACi
+
+  
+
+ 
+
+‘lwy LEY—Allergy
+
+TABLE 1 Demographics and baseline characteristics of patients with COVID-19
+
+ 
+
+Diseases severity
+
+ 
+
+All patients Nonsevere patients _ Severe patients
+(n = 140) (n = 82) (n = 58) P value
+Age—median (range) 57 (25-87) 51.5 (26-78) 64 (25-87) <.001
+Age-groups—No. (%)
+<30y 5 (3.6) 4(4.9) 1 (1.7) .002
+30-49 y 37 (26.4) 28 (34.1) 9 (15.5) 50-69 y 69 (49.3) 41 (50.0) 28 (48.3) a
+270y 29 (20.7) 9 (11.0) 20 (34.5) ©
+Sex—No. (%)
+Female 69 (49.3) 44 (53.7) 25 (43.1) 219
+Male 71 (50.7) 38 (46.3) 33 (56.9) =
+Exposure history—No. (%)
+Familiar/cluster infections 15 (10.7) 14 (13.4) 4 (6.9) 342
+Hospital staff 3 (2.1) 3 (3.7) 0(0) -267
+Comorbidity—No. (%) 90 (64.3) 44 (53.7) 46 (79.3) .002
+Hypertension 42 (30.0) 20 (24.4) 22 (37.9) .085
+Diabetes mellitus 17 (12.1) 9 (11.0) 8 (13.8) 615
+Fatty liver and abnormal liver function 8 (5.7) 4 (5.0) 4 (6.9) 718
+Chronic gastritis and gastric ulcer 7 (5.0) 5 (6.1) 2 (3.4) .700
+Coronary heart disease 7 (5.0) 3 (820)) 4 (6.9) 448
+Hyperlipidemia 7 (5.0) 5 (6.1) 2 (3.4) .700
+Cholelithiasis 6 (4.3) 2 (2.4) 4 (6.9) 262.
+Arrhythmia 5 (3.6) a2) 4 (6.9) .160
+Thyroid diseases 5 (3.6) 4 (1.2) 4 (6.9) .160
+Electrolyte imbalance 4(2.9) 0(0) 4 (6.9) .028
+Urolithiasis 3(21) 2 (2.4) 4(1:7) >.999
+Stroke 3 (2.1) a (152) 2 (3.4) .570
+Chronic renal insufficiency 2 (1.4) 0(0) 2 (3.4) .170
+Aorta sclerosis 2 (1.4) 1 (1.2) 1 (1.7) >999
+Secondary pulmonary tuberculosis 2 (1.4) 0 (0) 2 (3.4) .170
+COPD 2 (1.4) 0(0) 2 (3.4) 170
+Asthma and allergic diseases (self-reported)
+Asthma 0(0) 0(0) 0(0) Ey
+Allergic rhinitis 0 (0) 0(0) 0(0) Food allergy 0 (0) 0(0) 0(0) 2
+Atopic dermatitis 0(0) 0(0) 0(0) Drug hypersensitivity 16 (11.4) 10 (12.2) 6 (10.3) .735
+Urticaria 2 (1.4) 1 (1.2) 1(1.7) >999
+Surgery history—No. (%) 38 (27.1) 19 (23.2) 19 (32.8) .209
+Cesarean section—No./total female No. (%) 10/69 (14.5) 9/44 (20.5) 1/25 (4.0) .081
+Cholecystectomy 9 (6.4) 3 (3.7) 6 (10.3) 162
+Appendectomy 7 (5.0) 8(37) 4(6.9) 448
+Tumor surgery 6 (4.3) 3 (3.7) 3 (5.2) 692
+Osteoarticular surgery 5 (3.6) 2 (2.4) 35.2) 649
+Craniocerebral surgery 3 (2.1) 2 (2.4) 1 (1.7) >999
+
+(Continues)
+ 
+
+ZHANG er AL.
+
+_witeyté
+
+ 
+
+ 
+
+Allergy
+
+ 
+
+ 
+
+ 
+
+TABLE 1. (Continued)
+
+Diseases severity
+
+ 
+
+All patients Nonsevere patients Severe patients
+(n = 140) (n = 82) (n = 58) Pvalue
+Cardiac intervention 8 (24) 0(0) $ (5:2) 1069
+Ureterotomy 1 (0.7) 0 (0) 1 (1.7) 414
+Hysterectomy 1 (0.7) 0(0) 1 (1.7) 414
+Hemorrhoidectomy 1 (0.7) 0 (0) 41 (1.7) 414
+Varicose vein surgery 1 (0.7) 0 (0) 4 (1.7) 414
+Smokers—No. (%) 9 (6.4) 3 (3.7) 6 (10.3) 162
+Past smokers 7 (5.0) 3 (3.7) 4 (6.9) 448
+Current smokers 2 (1.4) 0(0) 2 (3.4) 170
+Smoking index
+<400 3 a 2 >.999
+2400 6 2 4
+
+Note: P values denoted the comparison between nonsevere and severe subgroups. Smoking Index = cigarettes smoked per day x years of smoking.
+Abbreviations: COPD, chronic obstructive pulmonary disease; COVID-19, coronavirus disease 2019; IQR, interquartile range.
+
+TABLE 2 Symptomatic and radiological characteristics of patients with COVID-19
+
+Diseases severity
+
+ 
+
+All Patients Nonsevere patients Severe patients P value
+Onset of symptom to hospital admission— 8 (6-11) 8 (5-11) 7 (6-12) 503
+median (IQR), days
+Signs and symptoms—No./total No. (%)
+
+Fever 110/120 (91.7) 59/67 (88.1) 51/53 (96.2) 182
+
+Cough 90/120 (75.0) 45/67 (67.2) 45/53 (84.9) .023
+
+Fatigue 90/120 (75.0) 51/67 (76.1) 39/53 (73.6) .750
+
+Chest tightness/dyspnea 44/120 (36.7) 20/67 (29.9) 24/53 (45.3) .082
+
+Gastrointestinal symptoms 55/139 (39.6) 31/82 (37.8) 24/57 (42.1) .610
+Nausea 24/139 (17.3) 19/82 (23.2) 5/57 (8.8) .027
+Diarrhea 18/139 (12.9) 9/82 (11.0) 9/57 (15.8) 406
+Anorexia 17/139 (12.2) 9/82 (11.0) 8/57 (14.0) 588
+Abdominal pain 8/139 (5.8) 2/82 (2.4) 6/57 (10.5) 1064
+Belching 7/139 (5.0) 4/82 (4.9) 3/57 (5.3) >.999
+Emesis 7/139 (5.0) 5/82 (6.1) 2/57 (3.5) .700
+
+Chest CT images—No./total No. (%)
+
+Abnormal 134/135 (99.3) 77/78 (98.7) 57/57 (100.0) >.999
+Bilateral lung 121/135 (89.6) 68/78 (87.2) 53/57 (93.0) Single lung—left 5/135 (3.7) 3/78 (3.8) 2/57 (3.5) Single lung—right 8/135 (5.9) 6/78 (7.7) 2/57 (3.5) #
+
+Normal 1/135 (0.7) 1/78 (1.3) 0/57 (0) =
+
+Note: P values denoted the comparison between nonsevere and severe subgroups.
+Abbreviations: COVID-19, coronavirus disease 2019; IQR, interquartile range.
+
+admission) showed decreased lymphocyte counts (median, 0.7 Besides SARS-CoV-2, other pathogens were also detected within
+vs 1.1, P = .001) were more common, and lymphocyte percent- some patients, including Mycoplasma pneumoniae (5, 8.6%), reage (median, 10.3 vs 22.1, P < .001) and the eosinophil percent- spiratory syncytial virus (1, 1.9%), and Epstein-Barr virus (1, 3.7%)
+age (median, 0.2 vs 0.8, P = .017) were lower in severe patients (Table 5). However, no clinical and radiological signs of superinfec
+(Table 4). tion caused by these pathogens were identified.
+  
+
+ZHANG er aL.
+
+ 
+
+ 
+
+ 
+
+FIGURE 1. Chest X-ray and CT images of a 67-y-old woman with onset of cough and sputum on January 1, 2020, and progressively
+developed dyspnea. A, Transverse CT scan image on January 9 showing multiple lobular and segmental consolidation combined with groundglass opacities diffusely distributed in bilateral lung field. B, Chest X-ray showing extended bilateral consolidation on January 12. C, The
+attenuation and the involvement of the consolidation decreased in chest X-ray of January 17 (D) CT scan on January 22 showing absorption
+of bilateral consolidation, scattered fibrous can be observed. The symptoms and dyspnea of the patient improved after treatment, and the
+patient was discharged on January 24
+
+3.3 | Characteristics of severe cases
+
+Severity was established based on respiratory functions on admission
+with one of the below criteria: respiratory frequency 2 30/min, oxygen saturation < 93% at rest, and oxygenation index < 300 mm Hg
+(see methods). Median age was 64 years in severe cases, compared
+to 51.5 years in nonsevere cases (P < .001). More comorbidities
+(79.3% vs 53.7%, P = .002), higher median values of leukocyte count
+(5.3 vs 4.5, P = .014), D-dimer (0.4 vs 0.2, P < .001), CRP (47.6 vs
+28.7, P < .001), PCT (0.1 vs 0.05, P < .001), and lower lymphocyte
+percentage (median, 0.7 vs 0.8, P = .048) were found in severe cases,
+compared to nonsevere cases. No difference was identified for the
+occurrence rates of most signs and symptoms between nonsevere
+and severe patients, and only two symptoms (cough and nausea)
+were more commonly experienced in severe group (P = .023 and
+0.027, respectively). Increased leukocyte number (P = .003), D-dimer
+(P = .004), and PCT (P = .004) were more commonly observed in
+severe patients (Tables 1-3).
+
+3.4 | Correlation between blood eosinophil and
+lymphocyte counts
+
+The absolute numbers of circulating eosinophils correlated positively with the numbers of lymphocytes for all 138 patients, both for
+the tests on the first day after hospital admission (r = .321, P < .001)
+
+and for the secondary tests on 3 or more days afterward (r = .479,
+P < .001). Same correlation was also found between the two cell
+types, when patients were separated to severe (r = .250, P = .066
+and r = .486, P < .001, respectively) and nonsevere groups (r = .369,
+P< 001 andr = .469, P < .001, respectively) (Figure 4). Although no
+significant correlations between the two cell types could be determined for the severe patients on the first day after hospital admission (r = .250, P = .066), this may be due to the extremely low values
+of eosinophils for the severe patients on that day.
+
+4 | DISCUSSION
+
+In this study including 140 community-infected COVID-19 patients,
+we found that most patients were middle- and old-aged, with almost
+1:1 male-female ratio. Fever (91.7%), cough (75.0%), and fatigue
+(75.0%) were the most common symptoms in COVID-19 patients.
+More than 1/3 of the patients had chest tightness or dyspnea and
+gastrointestinal symptoms such as nausea, diarrhea, and anorexia.
+Radiologically, CT scan or X-ray showed bilateral ground-glass and
+patchy opacity in 89.6% patients. Infection with SARS-CoV-2 was
+confirmed by RT-PCR in all patients, and other pathogens were
+rarely identified in these patients.
+
+The median age of all patients was 57 years old, which is
+close to the data reported by Wang et al® (56.0 years) and Chen
+et al’ (55.5 years), but older than that reported by Huang et al*
+   
+
+ 
+
+ZHANG er AL.
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 2 Chest X-ray and CT scan images of a 36-y-old man without history of smoking. The patient had fever, cough, and diarrhea on
+January 6, 2020. A-C, Transverse CT images on January 9. A, Bilateral multiple ground-glass opacities, most of them are irregular small round
+lesions scattered in the lung field in upper lobe. B, Bilateral multiple irregular ground-glass opacities and a wedge-shaped opacity located
+
+in the right upper lobe under the pleura. C, Bilateral multiple irregular ground-glass opacities and a small nodular opacity located in the left
+lower upper lobe under the pleura. D, The symptoms of the patient deteriorated on January 12, chest X-ray showing bilateral diffuse patchy
+and consolidation, so-called “white lung.” E, Chest X-ray after intubation and mechanical ventilation on January 13, the attenuation lowered
+down, leaving scattered small irregular consolidation. F, On January 20, bilateral lung lesions deteriorated, and bilateral costophrenic angles
+were not clearly displayed, suggesting pleural effusion. The patient died on January 21
+
+FIGURE 3 CT images of a 76-y-old
+man with smoking history for 20 y,
+
+1 pack/d, who has stopped smoking for
+20 y. The patient developed fever and
+cough during hospitalization for stasis
+dermatitis. The SARS-CoV-2-induced
+pneumonia was confirmed with RT-PCR
+with samples from throat swab. A-B,
+
+CT images after 3 d of symptoms onset.
+A, Diffuse small round low-attenuation
+lesions associate with ground-glass
+opacity on left upper lobe. B, An irregular
+consolidation in right middle lobe. C, D,
+CT images after 6 d of symptoms onset. C,
+The opacity on left upper lobe extended.
+D, New ground-glass opacity under pleura
+developed in right lower lobe
+
+ 
+
+(49.0 years). Severe patients were much older than nonsevere pa- our report, 90 (64.3%) patients had comorbidities and 38 (27.1%)
+tients and associated with higher frequency of comorbidities. In had surgery history. Hypertension (30%), diabetes mellitus (12.1%),
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 law LEY—Allergy 2 ZHANG er at.
+TABLE 3 Laboratory results of patients with COVID-19
+Disease severity
+Nonsevere patients Severe patients
+Laboratory parameters All patients (n = 138) (n = 82) (n = 56) P value
+Leukocytes (x10/L; normal range 3.5-9.5) 4.7 (3.7-6.7) 4.5 (3.5-5.9) 5.3 (4.0-9.0) .014
+Increased—No./total No. (%) 17/138 (12.3) 4/82 (4.9) 13/56 (23.2) .003
+Decreased—No./total No. (%) 27/138 (19.6) 18/82 (22.0) 9/56 (16.1) 513
+Lymphocytes (x10°/L; normal range 1.1-3.2) 0.8 (0.6-1.1) 0.8 (0.6-1.2) 0.7 (0.5-1.0) 048
+Decreased—No./total No. (%) 104/138 (75.4) 58/82 (70.7) 46/56 (82.1) 160
+Lymphocyte percentage (%, normal range 20-50) 16.9 (9.2-26.0) 20.0 (12.5-28.4) 12.7 (7.7-22.0) <.001
+Eosinophils (x10°/L; normal range 0.02-0.52) 0.01 (0.0-0.05) 0.02 (0.008-0.05) 0.01 (0.0-0.06) 451
+Decreased—No./total No. (%) 73/138 (52.9) 39/82 (47.6) 34/56 (60.7) 165
+Eosinophils percentage (%, normal range 0.4-8) 0.3 (0.0-1.0) 0.5 (0.08-1.0) 0.2 (0.0-0.8) 166
+D-Dimer (g/mL; normal range 0-0.243) 0.2 (0.1-0.5) 0.2 (0.1-0.3) 0.4 (0.2-2.4) <.001
+Increased—No./total No. (%) 35/81 (43.2) 12/43 (27.9) 23/38 (60.5) .004
+C-reactive protein (CRP) (mg/L; normal range 0-3) 34.2 (12.5-67.4) 28.7 (9.5-52.1) 47.6 (20.6-87.1) <.001
+Increased—No./total No. (%) 125/136 (91.9) 72/81 (88.9) 53/55 (96.4) 199
+Procalcitonin (PCT) (ng/mL; normal range 0-0.1) 0.07 (0.04-0.1) 0.05 (0.03-0.1) 0.1 (0.06-0.3) <.001
+Increased—No./total No. (%) 41/118 (34.7) 16/68 (23.5) 25/50 (50.0) .004
+Serum amyloid A (SAA) (mg/L; normal range 0-10) 92.53 (44.6-161.3) 91.5 (24.9-163.2) 108.4 (54.1-161.6) .600
+Increased—No./total No. (%) 46/51 (90.2) 29/34 (85.3) 17/17 (100.0) 156
+Serum Creatine Kinase (U/L; normal range 40-200) 72.5 (52.2-115) 83.0 (56.0-112.0) 66.0 (38.5-144.0) 192
+Increased—No./total No. (%) 4/60 (6.7) 1/35 (2.8) 3/25 (12.0) 298
+
+Note: Data are shown as median (IQR); COVID-19, coronavirus disease 2019; IQR, interquartile range; P values denoted the comparison between
+
+nonsevere and severe subgroups.
+
+TABLE 4 Secondary lymphocyte and eosinophil counts in patients with COVID-19
+
+Disease severity
+
+ 
+
+Nonsevere patients Severe patients
+
+Parameters All patients (n = 138) (n = 82) (n = 52) P value
+Days from the previous test—median (IQR), days 5 (3.0-7.3) 5 (4.0-10.0) 5 (3-7) Lymphocytes (x107/L; normal range 1.1-3.2) 0.9 (0.6-1.4) 1.1 (0.7-1.6) 0.7 (0.4-1.1) <.001
+Decreased—No./total No. (%) 71/118 (60.2) 31/66 (47.0) 40/52 (76.9) .001
+Lymphocyte percentage (%, normal range 20-50) 16.4 (8.1-26.4) 22.1 (13.5-29.5) 10.3 (4.3-16.6) <.001
+Eosinophils (x10°/L; normal range 0.02-0.52) 0.03 (0.0-0.08) 0.04 (0.01-0.08) 0.01 (0.0-0.09) 157,
+Decreased—No./total No. (%) 49/118 (41.5) 22/66 (33.3) 27/52 (51.9) .060
+Eosinophils percentage (%, normal range 0.4-8) 0.5 (0.0-1.45) 0.8 (0.2-1.8) 0.2 (0.0-0.9) .017
+
+Note: Data are shown as median (IQR); COVID-19, coronavirus disease 2019; IQR, interquartile range; P values denoted the comparison between
+
+nonsevere and severe subgroups.
+
+and cardiovascular diseases were the most common underlying
+diseases, consistent with other recent reports.?° The prevalence
+of hypertension and diabetes in China was 23.2%** and 10.9%°
+in adults, which was slightly lower than the data in this study; this
+may be due to the large ratio of elder COVID-19 patients in the
+series. In general, aged people are more susceptible to COVID-19
+and more likely to be severe than people younger than 50 years;
+this may be due to more health issues and comorbidities in this
+
+population.
+
+In the present study, 50.7% of the patients were male; the percentage is lower than that reported by Huang et al* and Chen et al?
+with a male predominance (73.0%), but similar to that reported by
+Wang et al? (54.3%). This may be related to the occupational risk
+factors for men in wet market, considering that 66.0% patients in
+Huang's report and 49% patients in Chen's report had Huanan wet
+market exposure history. No patient in our report had a history of
+Huanan wet market exposure, indicating the cause of community
+infection of SARS-CoV-2; therefore, the female-male ratio tends
+ZHANG er AL.
+
+ 
+
+ 
+
+ 
+
+TABLE 5 Pathogens identified in patients with COVID-19
+
+Patients—No./
+
+Pathogens identified Total No. (%)
+SARS-CoV-2 RT-PCR assay+ 128/140 (91.4)
+SARS-CoV-2 RT-PCR assay+ 12/140 (8.6)
+Mycoplasma pneumoniae lgM Ab+ 5/58 (8.6)
+Chlamydia pneumoniae IgM Ab+ 0/58 (0.0)
+Influenza A virus Ag+ 0/23 (0.0)
+Influenza B virus Ag+ 0/23 (0.0)
+Parainfluenza IgM Ab+ 0/50 (0.0)
+Coxsackie virus group B IgM Ab+ 0/49 (0.0)
+Adenovirus IgM Ab+ 0/48 (0.0)
+Echovirus IgM Ab+ 0/49 (0.0)
+RSV-IgM Ab+ 1/52 (1.9)
+EBV-IgM Ab+ (AU/mL; normal range 0-3) 1/27 (3.7)
+CMV-IgM Ab+ (AU/mL; normal range 0-0.42) 0/25 (0.0)
+
+Abbreviations: Ab, antibody; Ag, antigen; CMV, cytomegalovirus;
+COVID-19, coronavirus disease 2019; EBV, Epstein-Barr virus; IgM,
+immunoglobulin M; RSV, respiratory syncytial virus; RT-PCR, real-time
+polymerase chain reaction; SARS-CoV-2, severe acute respiratory
+syndrome coronavirus 2.
+
+to be approximately 1:1. This is lower than that observed in SARS
+coronavirus-infected patients, which had a female predominance
+(61.0%).?° In addition, there was no difference in the female-male
+ratio in severe patients.
+
+No asthmatic patient was identified in this report, and only a
+few patients had self-reported drug hypersensitivity and urticaria.
+Other allergies such as allergic rhinitis, atopic dermatitis, and food
+allergy were not reported. Given the prevalence of asthma in China
+was 4.2%?” and allergic rhinitis in Wuhan was 9.7%° in adults,
+asthma or allergy may not be the risk factor for the SARS-CoV-2
+infection. Many previous studies have investigated the association
+between virus infection and asthma, showing that respiratory tract
+viral infections are associated with asthma exacerbations. About
+62%-95% of children with acute wheezing episodes tested positive
+for respiratory viruses in both hospital and community settings;
+while the prevalence in adults was less, it was still in the range of
+41%-78%.2? Rhinoviruses (RVs) were the most frequently detected
+type of virus at all ages, whose infection could lead to more severe
+and longer-lasting lower respiratory tract symptoms. Virus-induced
+wheezing in infancy was often associated with asthma development
+in children.°° In addition to RV, other respiratory tract viruses, such
+as respiratory syncytial virus (RSV), influenza viruses (IfVs), coronaviruses (CoVs), human metapneumoviruses (HMPV5), parainfluenza viruses (PIVs), adenoviruses (AdVs), and bocaviruses (BoVs),
+had all been detected in subjects with asthma exacerbations.7°
+Nevertheless, findings about the association between asthma and
+coronaviruses were much less. CoV-OC43 and CoV-229E transmitted primarily during winter had been linked to asthma exacerbations in children and adults.°° In a literature systemic review
+
+with 63 studies included, the pooled prevalence of CoV infection
+
+ 
+
+2lwitey2
+
+during asthma exacerbations was 8.4% (95% Cl, 5.1%-13.6%), ranking below RV (42.1%, the highest), RSV, herpes simplex virus (HSV),
+enterovirus (EnV), and IfV, and followed by cytomegalovirus (CV),
+
+Allergy
+
+ 
+
+ 
+
+ 
+
+BoV, PIV, metapneumovirus (MpV), and AdV. In Asia, the five major
+viruses associated with asthma were RV, EnV, IfV, PIV, and RSV.°4
+Reported respiratory infection rates for CoV in children were usually from <1% to 9%, which varied between subtypes. In case-control studies, CoV was not more frequently presented in wheezing
+children in comparison with controls. Overall, CoV seemed to have
+a minor, if any, contribution to acute asthma exacerbations, and
+CoV infections were frequently co-infected with other viruses.2? As
+for the other two types of CoVs, SARS-CoV and MERS-CoV which
+could cause severe respiratory disease in human, most established
+studies with animal models were found less relevant to asthma.°*
+Intriguingly, a prospective clinical birth cohort study demonstrated
+that the number of early respiratory episodes was related to the risk
+of later development of asthma, irrespective of the virus type (eg,
+RV, RSV, and CoV), which indicated the specific viral trigger may not
+be a risk factor.°°
+
+On the other hand, it is also worth thinking whether allergic diseases could affect respiratory virus infections. A multicenter prospective study°* examined the effects of the presence of atopy,
+which was defined as positive skin prick tests to one or more allergens, on the course of disease in children hospitalized with viral
+pneumonia. In that study, atopy was found in 21.4% patients, while
+it showed there was no effect of atopic sensitization on the severity
+of viral pneumonia in children. In addition, pollen, type 2 response,
+respiratory viruses, and the tissue milieu such as the type 2 or type
+1 may all affect the development and severity of viral infections.1°*”
+Also, history of allergic diseases such as ever wheezing, atopic dermatitis, and food/drug allergy was associated with severe pneumonia.°* Taken together, virus infections have been associated with
+acute exacerbation of asthma, and allergy may not be a risk factor
+for virus infection. It is plausible that this concept may also apply to
+SARS-CoV-2; however, having no asthma patients and no respiratory
+allergies does not support this concept at least in this series of 140
+patients.
+
+Two (1.4%) patients had COPD in our report; the percentage is
+similar as that reported by Guan et al* (12/1099, 1.1%). In addition,
+only 9 (6.4%) patients had a history of smoking, and 7 of them
+were past smokers. It was reported that the prevalence of COPD
+in adults 240 years old was 13.7%,”? and 27.3% of adults in China
+
+were current cigarette smokers (data in 2018).°°
+
+The relationship
+between smoking and coronavirus infection is not clear, and the
+exact underlying causes of the lower incidence of COVID-19 in
+current smokers are still unknown. Previous study demonstrated
+that CoV was not frequently detected by RT-PCR in the exacerbation of COPD, as compared to other respiratory viruses such as RV,
+EnV, RSV, and IfV, indicating that coronavirus plays a minor role
+in the acute exacerbation of COPD.”° Although our study found
+that COPD and smoking populations were less likely to be infected
+with SARS-CoV-2, but the outcome of SARS-CoV-2 infection in
+
+smokers may be more severe.
+ZHANG er aL.
+
+ 
+
+© Lay LEY—Allergy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(A) All patients: 1st test (B) All patients: 2nd test FIGURE 4 Correlation between
+2.5 r=.321 3.0 r= 479 lymphocyte (LYM) and eosinophil (EOS)
+e: P<.001 P<.001 absolute numbers (x10°/L) in blood from
+» 2.0 o COVID-19-infected patients. A, C, E: in
+5 15 § admission; B, D, F: 2nd test after 3 or
+s S more days. Spearman's test was used to
+= 10 = evaluate the correlation
+a a
+0.5
+0.0 T r r T 1 0.0 r r r 1
+0.0 860.1 02 #03 04 085 0.0 8600.4 03 04 085
+EOS counts EOS counts
+(C) Severe: 1st test (D) Severe: 2nd test
+1.5 r= .250 2.54 r= 486
+P=.066 P<.001
+£10 2
+3 3
+° °
+& 6
+Fos 5
+0.0 T T T T 1 0.0 T T 1
+0.0 860.1 02 #03 04 085 0.0 0.1 0.2 0.3
+EOS counts EOS counts
+(E) Non-severe: 1st test (F) Non-severe: 2nd test
+2.5 r= 369 3.0 4 r= 469
+r P<.001 P<.001
+2 2
+€ =
+3 i
+° °
+8 8
+= =
+3 2
+0.0 + r
+0.0 860.1 02 #03 O04 05 0.0 8600.4 03 04 05
+
+EOS counts
+
+Smokers and COPD patients are more susceptible to the infection of Middle East respiratory syndrome coronavirus (MERS-CoV).
+Arecent study found that dipeptidy! peptidase IV (DPP4), the receptor for MERS-CoV, had a higher expression in smokers and COPD
+patients than in nonsmokers. In addition, the expression of DPP4
+was inversely correlated with lung function and diffusing capacity
+parameters.°°
+
+Angiotensin-converting enzyme 2 (ACE2) is abundantly expressed in airway epithelial cells and was identified as a receptor for
+SARS-CoV, which plays a crucial role in SARS-CoV-induced lung injury.°” ACE2 and other components of renin-angiotensin system are
+the core factors for the control of acute lung injury induced by SARS
+coronavirus. In vivo and in vitro studies demonstrated that ACE2 expression was downregulated once the disease process has been initiated.°® Thus, ACE2 may have double effects on SARS-induced lung
+injury.°? Initially, it acts as a receptor for the infection of SARS coronavirus, and then, its downregulation promotes lung injury. ACE2
+was also identified as the receptor for the novel SARS-CoV-2.*° The
+role of ACE2 in the pathogenesis of this new coronavirus-induced
+
+lung injury is still unknown. Therefore, further studies are required
+
+EOS counts
+
+to examine the expression of ACE2 in airway epithelia from COPD
+patients and current smokers.
+
+No significant difference was identified between the severe
+(7 days) and nonsevere patients (8 days), regarding the median days
+from symptom onset to hospital admission. Almost all patients
+(91.7%) had fever at onset of symptoms, consistent with that reported by Huang? and Wang,’ but much higher than that reported by
+Guan.* However, in Guan's study,* most patients (87.9%) developed
+fever during hospitalization. Therefore, fever was the most common
+symptom in patients with COVID-19. Cough was another common
+symptom in these patients. 75% patients in our report had cough; the
+number is similar as that reported by other studies.‘* The incidence
+of fatigue in this study was 75%, which is higher than that reported by
+Huang and Guan, but close to that reported by Wang. The incidence
+of gastrointestinal symptoms was 39.6% in our report, which is much
+higher than that reported by Huang and Guan, but similar as Wang's
+study. Radiologically, most common signs on CT scan were bilateral
+ground-glass or patchy opacity.’ This is consistent with what we observed in our report (Figures 1-3). The distribution of the opacity in
+
+the lung was not different between severe and nonsevere patients.
+ZHANG er AL.
+
+ 
+
+Lymphopenia was common in patients of our study (75.4%); this
+is consistent with other reports.°* Noticeably, the percentages, but
+not absolute counts of lymphocytes, were lower in severe patients
+when compared to nonsevere patients. This may be due to the increased total numbers of leukocytes in severe patients.
+
+Interestingly, decreased eosinophil counts were also common
+in these patients (52.9%). No significant difference in the ratio of
+patients with decreased eosinophil counts between severe and
+nonsevere patients was identified. There was a positive correlation between eosinophil and lymphocytes numbers, especially for
+the second test during hospitalization. Therefore, decreased eosinophil count may be used as an indicator of SARS-CoV-2 infection
+in suspected patients. In those patients with typical symptoms and
+radiological changes with and without lymphopenia, decreased eosinophils may be an important diagnostic clue.
+
+Other abnormal laboratory findings include increased level of
+serum CRP, SAA, PCT, D-dimer, and creatine kinase, indicating sustained inflammatory response and disturbed coagulation mechanism
+after infection with SARS-CoV-2. In addition, CRP, PCT, D-dimer
+concentration, and leukocyte counts were significantly higher in severe compared to nonsevere patients, which may represent more
+prominent inflammation in severe patients. Higher leukocyte count
+and PCT may also be due to secondary bacterial infection. More precautions should be taken in patients with high serum CK, which may
+be caused by direct effect of virus or indirect effect of hypoxia. In
+the present study, data in regard to the treatment and outcome of
+these patients were not finalized, since most of these patients are
+remaining hospitalized.
+
+In summary, the study established the clinical and laboratory
+characteristics of 140 community-infected COVID-19 patients,
+showing an approximately 1:1 female-male ratio. Low prevalence
+of smokers and no allergic diseases despite of drug hypersensitivity
+and urticaria was self-reported by any patients, indicating that allergic diseases and smoking history may not be the susceptible factors
+for COVID-19. The positive correlation of blood eosinophil and lymphocyte counts suggests that eosinopenia along with lymphopenia
+may be a useful indicator for diagnosing COVID-19 in those patients
+with typical symptoms and radiological changes. Larger sample population is needed to further investigate the relationship between
+SARS-CoV-2 infection and allergic diseases.
+
+ACKNOWLEDGMENTS
+
+We would like to acknowledge all the healthcare professionals
+who helped and took care of the patients with COVID-19 for their
+great effort, especially Jing Wan, Xuedong Fu, Yihui Ma, Yufeng
+Yuan, and Jun Lin from Zhongnan Hospital of Wuhan University,
+Jingmei Zhao from Handan Central Hospital of Hebei Province,
+and Qing Fang from General Hospital of Central Theater Command
+for their selfless dedication in the medical relief operation against
+SAR-CoV-2.
+
+CONFLICT OF INTEREST
+None of the authors have any conflict of interest to declare.
+
+ 
+
+Allergy 2)witey
+
+ 
+
+ 
+
+AUTHOR CONTRIBUTIONS
+
+Jinjin Zhang, Xiang Dong, and Yadong Gao collected and analyzed
+the data, and prepared the manuscript. Yiyuan Cao contributed to
+the collecting and interpretation of radiological materials. Yadong
+Yuan, Yibin Yang, and Youqin Yan were involved in the patient management and organization work. Yadong Gao and Cezmi A. Akdis
+
+designed the study and reviewed the manuscript.
+
+REFERENCES
+
+1. Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan,
+China: a descriptive study. Lancet. 2020;395(10223):507-513.
+
+2. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet.
+2020;395(10223):497-506.
+
+3. Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. JAMA. 2020. https://doi.org/10.1001/
+jama.2020.1585 [Epub ahead of print].
+
+4. Guan W, NiZ, HuY, et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020:2020.02.06.20020974.
+
+5. World Health Organization (WHO). Coronavirus disease (COVID2019) situation reports. https://www.who.int/emergencies/disea
+ses/novel-coronavirus-2019/situation-reports. Accessed February
+19, 2020.
+
+6. Tan WJ, Zhao X, Ma XJ, et al. Anovel coronavirus genome identified
+in a cluster of pneumonia cases—Wuhan, China 2019-2020. China
+CDC Weekly. 2020;2:61-62.
+
+7. Rambaut A. Preliminary Phylogenetic Analysis of 11 nCoV2019
+Genomes, 2020-01-19. http://virological.org/t/preliminary-phylo
+genetic-analysis-of-11-ncov2019-genomes-2020-01-19/329.
+Accessed February 12, 2020.
+
+8. Gralinski LE, Menachery VD. Return of the Coronavirus: 2019nCoV. Viruses. 2020;12(2):135.
+
+9. Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet.
+2020;395(10223):514-523.
+
+10. Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
+China, of novel coronavirus-infected pneumonia. N Engl J Med.
+2020. https://doi.org/10.1056/NEJMoa2001316 [Epub ahead of
+print].
+
+11. Jackson DJ, Evans MD, Gangnon RE, et al. Evidence for a causal
+relationship between allergic sensitization and rhinovirus wheezing
+in early life. Am J Respir Crit Care Med. 2012;185:281-285.
+
+12. Rubner FJ, Jackson DJ, Evans MD, et al. Early life rhinovirus wheezing, allergic sensitization, and asthma risk at adolescence. J Allergy
+Clin Immunol. 2017;139:501-507.
+
+13. Gavala ML, Bertics PJ, Gern JE. Rhinoviruses, allergic inflammation,
+and asthma. Immunol Rev. 2011;242:69-90.
+
+14. Baraldo S, Contoli M, Bazzan E, et al. Deficient antiviral immune
+responses in childhood: distinct roles of atopy and asthma. J Allergy
+Clin Immunol. 2012;130:1307-1314.
+
+15. Rowe RK, Gill MA. Asthma: the interplay between viral infections and allergic diseases. Immunol Allergy Clin North Am.
+2015;35:115-127.
+
+16. Gilles S, Blume C, Wimmer M, et al. Pollen exposure weakens innate defense against respiratory viruses. Allergy. 2019. https://doi.
+org/10.1111/all.14047 [Epub ahead of print].
+
+17. Wu YH, Lai AC, Chi PY, et al. Pulmonary IL-33 orchestrates innate
+immune cells to mediate RSV-evoked airway hyperreactivity and
+eosinophilia. Allergy. 2019. https://doi.org/10.1111/all.14091 [Epub
+ahead of print].
+2 | Wwitey—
+18.
+
+19
+20.
+24,
+22;
+23.
+
+24.
+
+25;
+26.
+27.
+28.
+29.
+
+30.
+
+31.
+
+ZHANG er aL.
+
+ 
+
+ 
+
+ 
+
+Gavala ML, Bashir H, Gern JE. Virus/allergen interactions in asthma.
+Curr Allergy Asthma Rep. 2013;13:298-307.
+
+Holt PG, Strickland DH, Sly PD. Virus infection and allergy in the
+development of asthma: what is the connection. Curr Opin Allergy
+Clin Immunol. 2012;12:151-157.
+
+Leino A, Lukkarinen M, Turunen R, et al. Pulmonary function and
+bronchial reactivity 4 years after the first virus-induced wheezing.
+Allergy. 2019;74:518-526.
+
+Svensson A, Nordstrém |, Rudin A, Bergstrém T, Eriksson K.
+Enveloped virus but not bacteria block IL-13 responses in human
+cord blood T cells in vitro. Scand J Immunol. 2012;75:409-418.
+Wang C, Xu J, Yang L, et al. Prevalence and risk factors of chronic
+obstructive pulmonary disease in China (the China Pulmonary
+Health [CPH] study): a national cross-sectional study. Lancet.
+2018;391:1706-1717.
+
+Kurai D, Saraya T, Ishii H, Takizawa H. Virus-induced exacerbations
+in asthma and COPD. Front Microbiol. 2013;4:293.
+
+Hu SS, Gao RL, Liu LS, et al. Summary of the 2018 report on cardiovascular diseases in China. Chin Circ J. 2019;34:209-220.
+
+Liu M, Liu SW, Wang LJ, et al. Burden of diabetes, hyperglycaemia
+in China from to 2016: Findings from the 1990 to 2016, global burden of disease study. Diabetes Metab. 2019;45:286-293.
+
+Booth CM, Matukas LM, Tomlinson GA, et al. Clinical features and
+short-term outcomes of 144 patients with SARS in the greater
+Toronto area. JAMA. 2003;289:2801-2809.
+
+Huang K, Yang T, Xu J, et al. Prevalence, risk factors, and management of asthma in China: a national cross-sectional study. Lancet.
+2019;394:407-418.
+
+Wang XD, Zheng M, Lou HF, et al. An increased prevalence of
+self-reported allergic rhinitis in major Chinese cities from 2005 to
+2011. Allergy. 2016;71:1170-1180.
+
+Papadopoulos NG, Christodoulou |, Rohde G, et al. Viruses and bacteria in acute asthma exacerbations-a GA*LEN-DARE systematic
+review. Allergy. 2011;66:458-468.
+
+Greenberg SB. Update on human rhinovirus and coronavirus infections. Semin Respir Crit Care Med. 2016;37:555-571.
+
+Zheng XY, Xu YJ, Guan WJ, Lin LF. Regional, age and respiratory-secretion-specific prevalence of respiratory viruses
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39,
+
+40.
+
+associated with asthma exacerbation: a literature review. Arch Virol.
+2018;163:845-853.
+
+Han M, Rajput C, Ishikawa T, Jarman CR, Lee J, Small HMB. Animal
+models of respiratory viral infection related to asthma. Viruses.
+2018;10(12):682.
+
+Bgnnelykke K, Vissing NH, Sevelsted A, Johnston SL, Bisgaard H.
+Association between respiratory infections in early life and later asthma
+is independent of virus type. J Allergy Clin Immunol. 2015;136:81-86.
+Erdem SB, Can D, Girit S, et al. Does atopy affect the course of viral
+pneumonia. Allergol Immunopathol. 2018;46:119-126.
+
+World Health Organization (WHO). WHO report on the global tobacco epidemic, 2019 (Country Profile: China). https://www.who.
+int/tobacco/surveillance/policy/country_profile/chn.pdf?ua=1.
+Accessed February 17, 2020.
+
+Seys L, Widagdo W, Verhamme FM, et al. DPP4, the middle east respiratory syndrome coronavirus receptor, is upregulated in lungs of
+smokers and chronic obstructive pulmonary disease patients. Clin
+Infect Dis. 2018;66:45-53.
+
+Kuba K, Imai Y, Rao S, et al. A crucial role of angiotensin converting
+enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat Med.
+2005;11:875-879.
+
+Kuba K, Imai Y, Rao S, Jiang C, Penninger JM. Lessons from SARS:
+control of acute lung failure by the SARS receptor ACE2. J Mol Med.
+2006;84:814-820.
+
+Kuba K, Imai Y, Penninger JM. Angiotensin-converting enzyme 2 in
+lung diseases. Curr Opin Pharmacol. 2006;6:271-276.
+
+Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from
+the ongoing Wuhan outbreak and modeling of its spike protein for
+risk of human transmission. Sci China Life Sci. 2020. https://doi.
+org/10.1007/s11427-020-1637-5 [Epub ahead of print].
+
+How to cite this article: Zhang J-J, Dong X, Cao Y-Y, et al.
+Clinical characteristics of 140 patients infected with
+SARS-CoV-2 in Wuhan, China. Allergy. 2020;00:1-12. https://
+doi.org/10.1111/all.14238
+
+ 
+

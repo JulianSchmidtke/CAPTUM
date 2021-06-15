@@ -1,0 +1,713 @@
+ORIGINAL ARTICLE
+
+    
+
+Korean J Intern Med 2018;33:185-192
+https://doi.org/10.3904/kjim.2015.195
+
+i.
+2KJIM
+
+Disease-specific impairment of the quality of life in
+adult patients with chronic spontaneous urticaria
+
+Won-Sun Choi, Eun-Soo Lim, Ga-Young Ban, Ji-Hye Kim, Yoo-Seob Shin, Hae-Sim Park, and
+
+Young-Min Ye
+
+Department of Allergy and Clinical
+Immunology, Ajou University School
+of Medicine, Suwon, Korea
+
+Received: June 29, 2015
+Revised : August 24, 2015
+Accepted: September 17, 2015
+
+Correspondence to
+
+Young-Min Ye, M.D.
+Department of Allergy and Clinical Immunology, Ajou University
+School of Medicine, 164 World
+cup-ro, Yeongtong-gu, Suwon
+16499, Korea
+
+Tel: +82-31-219-4262
+
+Fax: +82-31-219-4265
+
+E-mail: yegoo7@ajou.ac.kr
+
+Background/Aims: Chronic urticaria (CU) is a common skin disorder characterized by wheals and pruritus lasting more than 6 weeks. Due to its long duration and changeable symptoms, the quality of life (QOL) of patients with CU
+can be impaired substantially. We evaluated the CU-QOL, a previously validated
+CU-specific QOL measure, and investigated factors influencing QOL in chronic
+spontaneous urticaria (CSU) patients.
+
+Methods: A hospital-based cross-sectional study was performed on 390 adult
+patients diagnosed with CSU from March 2009 to December 2012 at the Allergy and Clinical Immunology Clinic at Ajou University Hospital. The CU-QOL
+questionnaire, urticaria activity score (UAS), combined angioedema, and serum
+total immunoglobulin E (IgE) levels were investigated.
+
+Results: The average CU-QOL score obtained from the questionnaire was 70.6
+(of 100 points). The CU-QOL scores correlated significantly with the UAS, particularly with the 15-point UAS (UAS-15; coefficient —0.532, p < 0.01) rather than
+the 6-point UAS (0.502, p < 0.01). The patients presenting with angioedema and
+urticaria had poorer scores in the urticaria symptom domain than those with urticaria alone (37.4 vs. 46.9, p = 0.004). Log-transformed serum total IgE levels correlated significantly with CU-QOL (-0.131, p < 0.05). Multivariate regression models indicated that severe CU (UAS-15 score = 13), log (total IgE), and the presence of
+angioedema were significant predictors of impaired CU-QOL (< 85 points).
+Conclusions: CU has a substantial negative impact on QOL. The assessment of
+UAS-15, total IgE, and the presence of angioedema can be useful to predict QOL
+of the patients with CSU.
+
+Keywords: Urticaria; Chronic; Quality of life; Angioedema; Immunoglobulin E
+
+ 
+
+INTRODUCTION
+
+tory taking. The course of AU is self-limited, by avoiding the offending factors, and is characterized by rapid
+
+Chronic urticaria (CU) is a common skin disorder, defined by recurrent wheals and pruritus, with or without
+angioedema for at least 6 weeks [1]. CU accounts for 25%
+of urticaria, and the prevalence of CU is 0.1% to 0.6% [2].
+In acute urticaria (AU) possible eliciting factors, such as
+drug or food, are often identified by detailed patient his
+Copyright © 2018 The Korean Association of Internal Medicine
+
+‘This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-ne/3.0/) which permits unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+responses to symptomatic treatment. However, about
+80% patients with CU, the underlying cause is not identified and its pathogenesis is not clearly established [1,3].
+These patients whose urticaria occurs without obvious
+extrinsic stimuli are diagnosed with chronic spontaneous urticaria (CSU).
+
+pISSN 1226-3303
+elSSN 2005-6648
+http://www. kjim.org
+KJIM~>
+
+Urticaria is a mast cell-driven disease and histamine
+is considered to be the key mediator. Degranulation of
+skin mast cells by heterogeneous activating signals results in sensory nerve activation, vasodilation, plasma
+extravasation, and cell recruitment to urticarial lesions
+B]. Many studies have shown that about 50% of CU is
+related to autoimmunity [2,3]. Elevated histamine releasability from skin mast cells and skin infiltration of
+blood basophils have also been noted in the pathogenesis of CU [3].
+
+Health-related quality of life (HR-QOL) in CU can be
+impaired substantially due to its unpredictable symp
+ 
+
+toms and long-term nature. In a previous study, the
+impairment of QOL in CU was comparable with that of
+patients with coronary artery disease awaiting coronary
+artery bypass grafting [4]. Additionally, recent studies
+have shown psychological stress and emotional disturbances to be common in patients with CU [5-7]. Ozkan et
+al. [8] showed that 60% of CU patients had a psychiatric
+diagnosis and their QOL was reduced.
+
+In most cases, the evaluation of CU has focused on
+clinical symptoms; however, understanding and dealing
+with QOL in CU patients is also necessary to improve
+patient management, address economic costs, and further clinical research. Recent guidelines recommended
+the use of the urticaria activity score (UAS) as a tool for
+assessing urticaria disease activity, and the CU-QOL
+questionnaire [9], which was the first measurement device developed in Italy to assess disease-specific QOL in
+patients with CU [2]. However, HR-QOL generally depends on the disease entity and social environment in
+which patients live. We developed a CU-specific QOL
+(CU-QOL) questionnaire as a validated tool, which considers Korean culture and language [10].
+
+This study was aimed at evaluating QOL impairment
+in CSU patients using our own CU-QOL questionnaire
+and the correlation between UAS and CU-QOL. Additionally, we sought to investigate possible predictors of
+impaired CU-QOL.
+
+METHODS
+Subjects
+
+We enrolled 390 adult patients with CSU who were followed in the Allergy and Clinical Immunology Clinic at
+
+186 www.kjim.org
+
+The Korean Journal of Internal Medicine Vol. 33, No. 1, January 2018
+
+Ajou University Hospital from March 2009 to December 2012. Inclusion criteria were age = 20 years old and
+suffering from urticaria symptoms (USs), such as wheals
+and itching, for more than 6 weeks. Patients with urticarial vasculitis, physically inducible urticaria, or other
+chronic skin diseases were excluded.
+
+Assessment of the QOL (CU-QOL) and UAS
+
+The QOL was assessed with the CU-QOL questionnaire
+(range, © to 100), which has been shown to be a reliable
+and valid instrument. It consists of 17 items in four categories: US, emotional distress (ED), stigma, and food/
+environmental distress (FE) [10].
+
+CU disease activity was assessed using the total UAS
+(UAS-15), which was measured using a combination of
+four characteristics of wheals: numbers (UAS-1: 0, no
+wheals; 1, < 20 wheals; 2, 21 to 50 wheals; 3, > 50 wheals),
+distribution range (UAS-2: 0, none; 1, < 25% of the body
+surface area [BSA]; 2, 25% to 50% of the BSA; 3, > 50% of
+the BSA), mean diameter (UAS-3: 0, no wheals; 1, < 1 cm;
+2, 1 to 3 cm; 3, >3 cm), and duration (UAS-4: o, no wheals;
+1, < 4 hours; 2, 4 to 12 hours; 3, > 12 hours), and pruritus
+according to intensity (UAS-5: 0, no pruritus; 1, mild; 2,
+moderate; 3, severe) within the last week for outpatient
+clinic visits, yielding a total score of 0 to 15 [10,11]. We
+also used the 6-point UAS (UAS-6), which is the sum of
+wheal numbers (UAS-1) and pruritus intensity (UAS-s)
+[2]. The presence of angioedema was also checked.
+
+Measurement of total immunoglobulin E
+
+Serum total immunoglobulin E (IgE) level was measured
+using the ImmunoCAP system (Pharmacia Diagnostics,
+Uppsala, Sweden) according to the manufacturer's instructions.
+
+Statistical analyses
+
+Data for continuous variable are shown as mean + SD
+or median values (minimum to maximum). Spearman’s
+tho was used for the correlation of the CU-QOL and
+UAS items. A multivariate analysis was used for linear
+regression to determine predictors that influenced CUQOL. Logistic regression was used to evaluate the effects
+of various factors on CU-QOL. p values < 0.05 were considered to indicate statistical significance. All statistical analyses were performed using the SPSS version 12
+(SPSS Inc., Chicago, IL, USA).
+
+https://doi.org/10.3904/kjim.2015.195
+Choi WS, et al. Predictors of CU-QOL impairment
+
+RESULTS
+
+Clinical characteristics of the study subjects and
+assessment of CU-QOL and UAS
+
+In total, 390 Korean patients with CSU were enrolled.
+There were 158 men (40.5%) and 232 women (59.5%) with
+a mean age of 40.8 + 10.6 years. The average CU duration was 32.6 + 52.1 months. Urticaria was accompanied
+by angioedema in 120 of 308 patients (39.0%). The mean
+UAS-15 was 10 (0 to 15) and UAS-6 was 4 (o to 6). Mean
+log (total IgE) was 2.1 + 0.5. The median CU-QOL score
+obtained from the questionnaire was 70.6 (0 to 98.5).
+Patients were stratified into four quartiles based on
+total CU-QOL scores (Fig. 1). Patients possessing total
+CU-QOL scores below the fourth quartile (0 to 85) were
+deemed to have CU-QOL impairment in this study.
+There were gradual and significant decreases in both
+UAS-15 and UAS-6 in the first through fourth quartiles
+but, otherwise, there were no significant differences in
+baseline demographic or clinical characteristics (Table
+1). Additionally, significant variability was noted in the
+each of the four domains, when patients were classified
+by the quartile distribution of CU-QOL. The US domain
+score was the lowest, at 43.7 (0 to 100) and the stigma domain score was as high as 100 (0 to 100) among the four
+
+Table 1. Assessment of the CU-QOL and UAS
+
+KJIM~
+
+domains of CU-QOL (Table 1).
+
+Correlation between CU-QOL and UAS
+
+The total CU-QOL and each of the four category scores
+correlated significantly with the UAS, both UAS-15 and
+UAS-6. UAS-15 had a higher correlation (coefficient
+—0.532, p < 0.01) than UAS-6 (-0.502, p < 0.01). Each category of UAS had a higher correlation with the US and ED
+
+1007]
+
+HB
+
+92.6 (86.8-98.5)
+
+804
+79.4 (72.1-85.3)
+604 i. (65.9-72.1)
+
+40-4 | 39.7 (0-54.4)
+
+20
+CU-QOL
+
+ 
+
+ 
+
+0 + T 1 T
+a @ QB re
+
+Figure 1. Interquartile distribution of chronic urticaria-specific quality of life (CU-QOL).
+
+ 
+
+ 
+
+ 
+
+Variable Total (n = 390) Qi (n = 103) Q2 (n = 98) Q3 (n= 94) Q4 (n = 95) pvalue
+Female sex 232 (59.5) 57 (55-3) 54 (55-1) 62 (66.0) 59 (62.1) 0.159"
+Age, yr 40. 8 +10.6 41.2111 39.995 39.5 £103 42.5 £11.2 0.135°
+Duration,mon 32.6452. 36.9 455.7 31.44 44.7 29.9 + 47.9 31.8 + 58.9 0.499”
+UAS-15 10 (0-15) 12 (0-15) 11 (0-15) 10 (0-15) 5 (0-15) <o.001?
+UAS-6 4 (0-6) 5 (0-6) 4 (0-6) 4 (0-6) 2. (0-6) <o.oo1”
+Angioedema 120/308 (39.0) 40 (44.0) 32 (38.6) 32 (41.0) 16 (28.6) 0.121°
+Log (total IgE) 21405 2.240.4 2140.5 2.0+0.6 2.0+0.6 0.143”
+CU-QOL 70.6 (0-98.5) 39-7 (0-54.4) 64.7 (55-9-72-1)  79.4(72.1-85.3) 92.6 (86.8-98.5) <o.oo1>
+US domain 43-7 (0-100) 18.7 (0-93.7) 31.2 (0-100) 56.2 (0-100) 93-7 (50-100) <0.001?
+ED domain 70.0 (0-100) 30.0 (o-60.0) 60.0 (30.0-100) 85.0 (35.0-100) —_ 95.0 (70.0-100) < 0.001?
+FE domain 75-0 (0-100) 33.3 (0-100) 66.7 (0-100) 83.3 (0-100) 91.7 (33.3-100) <o0.001"
+Stigma domain 100 (0-100) 65.0 (0-100) 95.0(60.0-100)  100(75.0-100) —_ 100 (85.0-100) <o.001?
+
+ 
+
+Values are presented as number (%), mean + SD, or median (minimum-maximum range).
+
+CU-QOL, chronic urticaria-specific quality of life; UAS, urticaria activity score; Q, quartiles of CU-QOL; Log (total IgE),
+log-transformed serum total immunoglobulin E levels; US, current urticaria symptoms; ED, emotional distress; FE, food and
+environmental distress; Stigma domain, disgrace.
+
+*Somers’ D.
+
+>Kruskal-Wallis test.
+
+https://doi.org/10.3904/kjimm.2015.195 www.kjim.org 187
+KIM
+
+Table 2. Correlation between CU-QOL and UAS
+
+The Korean Journal of Internal Medicine Vol. 33, No. 1, January 2018
+
+ 
+
+ 
+
+UAS-15 UAS-6 UAS-1 UAS-2 UAS-3 UAS-4 UAS-5
+
+Total CU-QOL 0.532" -0.502" —0.423° —0.487* -0.369* —0.404" -0.454°
+US domain —0.6237 0.605" —0.458" 0.552" -0.377" —0.498* -0.593"
+ED domain —0.460* 0.436" -0.388" —0.435" -0.332" 0.351" -0377"
+FE domain —0.209* -0.174" -0.141" -0.181" -0.155° 0.143" -0.161"
+Stigmadomain -o.161* ~0.120? —0.146* 0.156" -0.143* -0.100" —0.056
+UAS-15 0.905" 0.817" 0.832" 0.793" 0.800% 0.787"
+
+UAS-6 0.905" 0.883" 0.721" 0.645" 0.647" 0.8607
+
+ 
+
+CU-QOL, chronic urticaria-specific quality of life; UAS, urticaria activity score; UAS-15, total score of UAS including UAS-1,
+-2, -3, -4, and -5; UAS-6, total score of UAS-1 and -5; UAS-1, the quantity of wheals; UAS-2, distribution ranges of wheals; UAS-3,
+mean wheal diameters; UAS-4, duration of wheals; UAS-5, intensity of pruritus within the last 1 week for outpatient clinic visit;
+US, current urticaria symptoms; ED, emotional distress; FE, food and environmental distress; Stigma domain, disgrace.
+
+Significant (Spearman’s rho) at *p = 0.01 and °p = 0.05, respectively.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MUAS-15>13 MM LUAS-15 <13 I Angioedema (+) lm Angioedema (-)
+1207 p<0.001 p<0.001 p<0.001 p=0.001  p<0.001 120) p=0.030 p=0.001 = p=0.169 = p= 0.185 p= 0.215
+
+@ 1004 & 1004
+a a
+ra 4
+c Pa
+5 804 2 804
+$ 3
+§ 604 § 604
+a a
+fo) °
+oY 404 9 404
+3 3
+
+204 204
+
+0 T T T i T 0 T T i i T
+CU-QOL us ED FE Stigma CU-QOL us ED FE Stigma
+
+Figure 2. Comparison of chronic urticaria-specific quality
+of life (CU-QOL) between severe (urticaria activity score
+[UAS]-15 = 13) and non-severe CU (UAS-15 < 13). US, urticaria
+symptom domain; ED, emotional distress domain; FE, food
+and environmental stress domain.
+
+domains of CU-QOL than the FE and stigma domains.
+UAS-2 (wheal distribution) had the highest negative
+correlation with total CU-QOL scores and each of the
+domains except the US domain, which correlated more
+strongly with UAS-s, the intensity of pruritus (Table 2).
+
+Predictors of CU-QOL
+
+We classified severe and non-severe CU according to a
+UAS-15 score of = 13, a determinant of uncontrolled CU
+ina previous study [11]. Total CU-QOL scores decreased
+significantly in patients with severe CU (52.3 vs. 72.1, p
+< 0.001). Scores in each domain in CU-QOL were also
+significantly lower in severe CU than in non-severe CU
+
+188  www.kjim.org
+
+Figure 3. Comparison of chronic urticaria-specific quality
+of life (CU-QOL) according to the presence of angioedema.
+US, urticaria symptom domain; ED, emotional distress domain; FE, food and environmental stress domain.
+
+patients (Fig. 2).
+
+In comparing the CU-QOL scores according to the
+presence of angioedema, the US domain was significantly decreased in patients with angioedema compared
+with those with urticaria alone (37.4 vs. 46.9, p = 0.004).
+In contrast, there were no significant differences in total
+scores or the other three domains of CU-QOL between
+patients with and without angioedema (Fig. 3). Patients
+having angioedema also scored significantly higher values in both UAS-15 (10.0 + 4.1 vs. 8.9 + 4.4, p = 0.005) and
+UAS-6 (4.0 + 1.8 vs. 3.6 + 1.9, p = 0.025) when compared to
+those without angioedema.
+
+Log-transformed serum total IgE levels (log [total IgE})
+
+https://doi.org/10.3904/kjim.2015.195
+Choi WS, et al. Predictors of CU-QOL impairment
+
+KJIM~
+
+Table 3. Multivariate analysis for predicting impaired chronic urticaria-specific quality of life (< 85)
+
+ 
+
+ 
+
+Variable pvalue Odds ratio 95% CI
+
+Gender 0.963 1.017 0.508-2.033
+Age 0.764 0.996 0.968-1.024
+Urticaria duration 0.225 0.997 0.992-1.002
+UAS-15 = 13 < 0.001 9371 2..798-31.383
+Angioedema 0.047 1.978 1.010-3.873
+Log (total IgE) 0.035 1.961 1.049-3.666
+
+ 
+
+CI, confidence interval; UAS, urticaria activity score; Log (total IgE), log-transformed serum total immunoglobulin E levels (kU/L).
+
+were significantly correlated with total CU-QOL (coefficient —0.131, p < 0.05) and ED domain scores (-0.129, p <
+0.05). A significant correlation of log (total IgE) was also
+noted with UAS-15 (0.123, p = 0.031), but not with UAS6 (0.019, p = 0.735). Regarding each category of UAS-15,
+UAS-2 (distribution range of wheals, coefficient 0.136, p
+= 0.017) and UAS-3 (mean diameter of wheals, coefficient
+0.211, p < 0.001) correlated significantly with log (total
+IgE), while the three other categories were unrelated to
+IgE levels.
+
+A multivariate regression analysis revealed that severe
+CU (odds ratio [OR], 9.371; 95% confidence interval [CI],
+2.798 to 31.383; p < 0.001), log (total IgE) (OR, 1.961; 95% CI,
+1.049 to 3.666; p = 0.035) and the presence of angioedema
+(OR, 1.978; 95% CI, 1.010 to 3.873; p = 0.047) were significant predictors of CU-QOL impairment after adjusting
+for gender, age, and urticaria duration (Table 3).
+
+DISCUSSION
+
+Recently, concerns about the deterioration of QOL of
+patients with CU have been heightened. In addition to
+clinical symptoms, like pruritus, wheals, and angioedema, many other factors, including the unexpectedness
+of symptom occurrence, sleep disturbances, and changes in appearance, are major problems for patients with
+CU. Thus, we need a more integrated approach to understand the whole influence of CU on patients. In the
+same context, recent guidelines and many health authorities have recommended using CU-QOL measurements and other patient-reported outcomes, like the
+urticaria control test [12], as major parameters in clinical
+practice and research [2,13].
+
+The present study demonstrated substantial impair
+https://doi.org/10.3904/kjim.2015.195
+
+ment in disease-specific QOL among patients with CSU.
+When patients were stratified into four quartiles, based
+on total CU-QOL scores, each of the four different dimensions also varied significantly. The US domain,
+which reflects on physical symptoms, was the most impacted domain. However, significant reductions in the
+ED and FE domains also suggest that CSU patients do
+not suffer only from physical symptoms but also from
+impairment in their emotional well-being and daily or
+social activities. Thus, understanding QOL in CSU patients is important to improve patient management.
+
+In a previous study validating the CU-QOL in Korean patients, patients with CU as well as with physically
+inducible urticaria were enrolled. The main result from
+that study was that UAS, dermographism, and emotional stress were important predictors of CU-QOL in
+Korean CU patients [10]. The present study focused on
+measuring CU-QOL and exploring predictors of QOL
+impairment in patients with CSU. In addition to UAS15, the presence of angioedema and log (total IgE) were
+also identified as significant predictors of impaired CUQOL.
+
+Most studies have reported that about 30% to 50%
+of CU patients have angioedema [10,14,15]. Toubi et al.
+[15] reported that more patients with accompanying angioedema were still suffering from urticaria at up to 5
+years of follow-up compared with patients who exhibited only wheals (45% vs. 12%). We found a significant
+association between co-existing angioedema and poor
+scores in the US domain of CU-QOL and both UAS15 and UAS-6. Although neither UAS-15 nor UAS-6,
+nor CU-QOL, consider angioedema sufficiently, more
+prominent disease activity and a significant difference
+in a specific QOL domain were noted in patients having
+angioedema, indicating that CU-QOL was a more reli
+www.kjim.org 189
+KJIM~>
+
+able measurement for Korean patients with CU. However, additional impairment in QOL in patients with
+CSU presenting with angioedema was not evident in
+a prior study using a different QOL measurement [16].
+Thus, specific instruments to measure angioedema activity and angioedema-related QOL impairment in CU
+patients with recurrent angioedema with or without
+wheals have been proposed [17,18].
+
+Omalizumab (anti-IgE) is currently recommended
+for CU patients resistant to antihistamines, based on
+demonstrated efficacy and safety in recent clinical trials
+[19-21]. The importance of serum IgE levels in CU patients is increasingly recognized due to the clinical benefit of omalizumab, although it was effective in patients
+with CU regardless of IgE levels. Kessel et al. [22] reported that total serum IgE levels are frequently elevated in
+CU patients and these are significantly related to disease
+severity and duration. Increasing evidence suggests that
+autoreactivity including not only IgG autoantibodies
+against IgE and/or FceRI but also IgE antibodies to endogenous antigens, in patients with CSU plays an important role [23]. The IgE-occupied mast cells become
+more sensitive due to a decreased threshold for degran
+ 
+
+ulation as well as those cells can store more mediators as
+compared with mast cells without IgE engagement [23].
+A significant correlation between total IgE levels and urticaria disease activity was shown in the present study.
+However, log (total IgE) showed a significant correlation
+with UAS-15, but not with UAS-6. Log (total IgE) was associated significantly with the distribution range and
+mean diameter of wheals in CU patients, whereas we
+found no significant correlation between total IgE levels
+and the numbers of wheals and the intensity of pruri
+ 
+
+tus. UAS-6 does not consider other factors of urticaria
+disease activity, except wheal numbers and pruritus intensity. A sequential assessment of wheal numbers and
+pruritus every day for a week (UAS-7) has been adopted
+in recent guidelines and clinical research [2,19]. Despite
+a wider range (0 to 42) of scores in UAS-7 compared with
+UAS-6 (0 to 6), both UAS-7 and UAS-6 are limited in the
+evaluation of wheal numbers and pruritus. However, our
+results suggest that a more comprehensive assessment
+of the disease activity is appropriate for understanding
+the clinical characteristics of CU and for identifying major drivers of QOL impairment in CSU patients. We also
+
+ 
+
+found that log-transformed serum total IgE levels in pa
+190 www.kjim.org
+
+The Korean Journal of Internal Medicine Vol. 33, No. 1, January 2018
+
+tients with CSU correlated significantly with total CUQOL scores and the ED domain. This relationship may
+be explained by the effect of IgE antibodies on the extent
+of mast cell activation and degranulation [19,22]. Checking the serum total IgE levels can be useful to predict
+urticaria severity and CU-QOL in patients with CSU.
+
+Based on previous studies, the UAS, which combines
+wheal numbers and pruritus intensity, correlated significantly with QOL impairment, as measured using
+the Dermatology Life Quality Index in CU patients [24].
+The present study showed the total CU-QOL scores and
+all individual domains correlated significantly with the
+UAS, and particularly well with the UAS-15, including
+duration, size, and distribution of wheals, when compared with the UAS-6. Of the five categories of UAS-15,
+UAS-2, which scores the distribution range of wheals,
+showed the strongest correlation with CU-QOL, but it
+is not included in UAS-6. Although the assessment of
+UAS-15 requires more time than UAS-6, UAS-15 is a
+more detailed and enhanced tool, and our results support that it is more suitable for the evaluation of impairment of CU-QOL.
+
+We defined ‘severe’ CU as a UAS-15 score of 13 or more,
+as used previously [11]. A multivariate logistic regression
+demonstrated that severe CU was a significant and independent predictor of impaired CU-QOL, and it also correlated significantly with each domain factor. Regarding
+more severe CU leading to more frequently uncontrolled CU [11] and to a higher socio-economic burden
+[25], careful consideration of how serious QOL impairment is caused by CU is needed, particularly in patients
+with severe CU. We attempted to identify predictors of
+impaired CU-QOL in CSU patients. There have been
+many studies investigating QOL impairment in patients
+with CSU, but clinical interpretation according to QOL
+score is rare. A multivariate analysis showed that severe
+CU, log (total IgE), and the presence of angioedema are
+significant predictors of impaired CU-QOL in Korean
+adults with CU.
+
+In conclusion, physicians need to pay more attention
+to CU-QOL impairment in CSU patients for a better
+understanding of the disease burden in individual patients. Additionally, the assessment of patients in more
+comprehensive ways, including UAS-15, total IgE, and
+the presence of angioedema, to identify major determinants of CU-QOL is necessary.
+
+https://doi.org/10.3904/kjim.2015.195
+Choi WS, et al. Predictors of CU-QOL impairment
+
+KEY MESSAGE
+
+1. Chronic spontaneous urticaria (CSU) has a substantial negative impact on quality of life (QOL)
+of patients.
+
+2. Severe chronic urticaria (CU), log (total immunoglobulin E), and the presence of angioedema
+are important predictors of impaired CU-QOL
+in Korean adults with CSU.
+
+Conflict of interest
+No potential conflict of interest relevant to this article
+was reported.
+
+Acknowledgments
+
+This work was supported by a Medical Research Center
+program (NRF-2012R1A5A2048183) through the National
+Research Foundation of Korea.
+
+REFERENCES
+
+1. Ye YM, Jang GC, Choi SH, et al. KAAACI Work Group
+report on the management of chronic urticaria. Allergy
+Asthma Respir Dis 201533:3-14.
+
+2. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)
+LEN/EDF/WAO guideline for the definition, classification, diagnosis, and management of urticaria: the 2013
+revision and update. Allergy 2014;69:868-887.
+
+3. Saini SS. Chronic spontaneous urticaria: etiology and
+pathogenesis. Immunol Allergy Clin North Am 2014;34:3352.
+
+4. O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves
+
+ 
+
+MW. The impact of chronic urticaria on the quality of
+life. Br J Dermatol 1997;136:197-201.
+
+5. Engin B, Uguz F, Yilmaz E, Ozdemir M, Mevlitoglu I. The
+levels of depression, anxiety and quality of life in patients
+with chronic idiopathic urticaria. J Eur Acad Dermatol
+Venereol 2008;22:36-40.
+
+6. Hashiro M, Okumura M. Anxiety, depression and psychosomatic symptoms in patients with atopic dermatitis:
+comparison with normal controls and among groups of
+different degrees of severity. J Dermatol Sci 1997;14:63-67.
+
+7. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clin
+ical needs in chronic spontaneous urticaria: a GA(2)LEN
+
+https://doi.org/10.3904/kjim.2015.195
+
+10.
+
+11.
+
+12.
+
+3B.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+KJIM~
+
+task force report. Allergy 2011;66:317-330.
+
+Ozkan M, Oflaz SB, Kocaman N, et al. Psychiatric morbidity and quality of life in patients with chronic idiopathic
+urticaria. Ann Allergy Asthma Immunol 2007;99:29-33.
+Baiardini I, Pasquali M, Braido F, et al. A new tool to
+evaluate the impact of chronic urticaria on quality of life:
+chronic urticaria quality of life questionnaire (CU-QolL).
+Allergy 2005;60:1073-1078.
+
+Ye YM, Park JW, Kim SH, et al. Clinical evaluation of the
+computerized chronic urticaria-specific quality of life
+questionnaire in Korean patients with chronic urticaria.
+Clin Exp Dermatol 2012;37:722-728.
+
+Ye YM, Jin HJ, Hwang EK, et al. Co-existence of chronic
+urticaria and metabolic syndrome: clinical implications.
+Acta Derm Venereol 2013;93:156-160.
+
+Weller K, Groffik A, Church MK, et al. Development and
+validation of the urticaria control test: a patient-reported
+outcome instrument for assessing urticaria control. J Allergy Clin Immunol 2014;133:1365-1372.
+
+Baiardini I, Bousquet PJ, Brzoza Z, et al. Recommendations for assessing patient-reported outcomes and
+health-related quality of life in clinical trials on allergy: a
+GA(2)LEN taskforce position paper. Allergy 2010;65:290295.
+
+Zuberbier T, Balke M, Worm M, Edenharter G, Maurer M.
+Epidemiology of urticaria: a representative cross-sectional population survey. Clin Exp Dermatol 2010;35:869-873.
+Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory parameters in predicting chronic urticaria duration:
+a prospective study of 139 patients. Allergy 2004;59:869873.
+
+Poon E, Seed PT, Greaves MW, Kobza-Black A. The extent
+and nature of disability in different urticarial conditions.
+Br J Dermatol 1999;140:667-671.
+
+Weller K, Groffik A, Magerl M, et al. Development and
+construct validation of the angioedema quality of life
+questionnaire. Allergy 2012;67:1289-1298.
+
+Weller K, Groffik A, Mager] M, et al. Development, validation, and initial results of the angioedema activity score.
+Allergy 2013;68:1185-1192.
+
+Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria.
+N Engl J Med 2013;368:924-935.
+
+Kaplan AP. Treatment of chronic spontaneous urticaria.
+Allergy Asthma Immunol Res 2012;4:326-331.
+
+Nam YH, Kim JH, Jin Hj, et al. Effects of omalizumab
+
+www.kjim.org 191
+KJIM~>
+
+22.
+
+23.
+
+192
+
+treatment in patients with refractory chronic urticaria.
+Allergy Asthma Immunol Res 2012;4:357-361.
+
+Kessel A, Helou W, Bamberger E, et al. Elevated serum
+total IgE: a potential marker for severe chronic urticaria.
+Int Arch Allergy Immunol 2010;153:288-293.
+
+Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer
+M. The potential pharmacologic mechanisms of omali
+zumab in patients with chronic spontaneous urticaria. J
+
+www.kjim.org
+
+24.
+
+25.
+
+The Korean Journal of Internal Medicine Vol. 33, No. 1, January 2018
+
+Allergy Clin Immunol 2015;135:337-342.
+
+Mlynek A, Zalewska-Janowska A, Martus P, Staubach P,
+Zuberbier T, Maurer M. How to assess disease activity in
+patients with chronic urticaria? Allergy 2008;63:777-780.
+O'Donnell BF. Urticaria: impact on quality of life and economic cost. Immunol Allergy Clin North Am 2014;34:89104.
+
+https://doi.org/10.3904/kjim.2015.195
+

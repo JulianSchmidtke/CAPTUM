@@ -1,0 +1,569 @@
+Ann Allergy Asthma Immunol 108 (2012) 98-102
+
+ 
+
+Contents lists available at SciVerse ScienceDirect
+
+   
+
+ELSEVIER
+
+ 
+
+ 
+
+Cost, utilization, and patterns of medication use associated with chronic
+idiopathic urticaria
+
+James L. Zazzali, PhD, MPH *; Michael S. Broder, MD, MSHS *; Eunice Chang, PhD‘;
+Melvin W. Chiu, MD #; and Daniel J. Hogan, MD §
+
+* Genentech, Inc., South San Francisco, California
+
+¥ Partnership for Health Analytic Research, Beverly Hills, California
+
++ Division of Dermatology, Department of Medicine, David Geffen School of Medicine at the University of California, Los Angeles
+
+§ Clinical Professor of Internal Medicine (Dermatology), NOVA Southeastern University College of Osteopathic Medicine, Fort Lauderdale, Florida
+
+ 
+
+ 
+
+ARTICLE INFO ABSTRACT
+Article history: Background: The literature on chronic idiopathic urticaria (CIU) lacks large-scale population-based studies.
+Received for publication June 30, 2011. Objective: To characterize an insured population with CIU, including their demographic characteristics and
+
+Received in revised form October 31, 2011.
+Accepted for publication October 31, 2011.
+
+comorbidities.
+Methods: We conducted a cross-sectional analysis using insurance claims. We included patients with 1
+outpatient claim with an International Classification of Diseases, 9‘" Edition, Clinical Modification (ICD-9-CM)
+code for idiopathic, other specified, or unspecified urticaria (ICD-9-CM 708.1, 708.8, or 708.9) and either (1)
+another of these claims 6 or more weeks later; (2) a claim for angioedema (ICD-9-CM 995.1) 6 or more weeks
+from the urticaria diagnosis; or (3) overlapping claims for 2 prescription medications commonly used for CIU.
+Results: We identified 6,019 patients who had claims consistent with CIU. The mean age was 36 years.
+Fifty-six percent of patients had primary care physicians as their usual source of care, 14% had allergists, and
+5% had dermatologists. Allergic rhinitis was diagnosed in 48%, asthma in 21%, other allergy in 19%, and atopic
+dermatitis in 8%. Sixty-seven percent of patients used prescription antihistamines, 54% used oral corticosteroids (OCSs), 24% used montelukast, and 9% used oral doxepin. Antihistamine users received a mean of 152
+days of prescription antihistamines, OCS users 30 days of OCSs, montelukast users 190 days of montelukast,
+and oral doxepin users 94 days of doxepin.
+Conclusions: Primary care physicians managed most patients with CIU. Antihistamines were the most
+common treatment for CIU, although OCSs were frequently prescribed. Thirty days of OCS supply among
+users may represent multiple steroid bursts each year. Given the known risks of OCSs, identifying other CIU
+treatments with more favorable safety profiles may be beneficial.
+
+© 2012 American College of Allergy, Asthma & Immunology. Published by Elsevier Inc. All rights reserved.
+
+ 
+
+Introduction toms, from localized urticaria to life-threatening angioedema, may be
+treated by a variety of specialists. No consensus guidelines exist in the
+United States (although a British guideline has been published),' and
+treatment may vary widely across geographic regions.
+
+The literature on CIU contains a variety of investigations of underlying biologic mechanisms and small studies of treatments, but the
+epidemiology, treatment patterns, and burden of CIU have not been
+well described. The primary objective of this study was to characterize
+an insured population with CIU and, specifically, to describe these
+patients’ demographic characteristics and common comorbidities and
+to identify the types of physician specialists who cared for them. The
+study also characterized the frequency of various treatments used for
+CIU and calculated the cost of care for this condition.
+
+Chronic urticaria is a frustrating condition for caregivers and
+affected patients. Urticaria is not a single disease but a reaction
+pattern that includes cutaneous mast cell degranulation and extravasation of plasma into the dermis. Urticaria is characterized by
+hives or wheals. In many patients, an extensive workup does not
+uncover a cause. Chronic idiopathic urticaria (CIU) is a diagnosis
+that requires wheals and pruritus to be present for 6 or more weeks
+with no obvious cause. The pathogenesis of this condition is not well
+understood, but many patients appear to have underlying autoimmune abnormalities. Patients presenting with a spectrum of symp
+Reprints: James Zazzali, PhD, 1 DNA Way, Genentech, Inc., South San Francisco, CA, Methods
+
+94080-4990; E-mail: zazzali.james@gene.com.
+
+Disclosures: The work described in this manuscript was funded by Genentech, Inc. Data source and patients
+
+The following authors are employed by the sponsor: James Zazzali. Michael S. . a . Lo. . .
+Broder and Eunice Chang are employees of PHAR, LLC, which was paid by Genentech This was a descriptive, cross-sectional statistical analysis using a
+for its involvement in this research. Health Insurance Portability and Accountability Act-compliant
+
+1081-1206/12/$36.00 - see front matter © 2012 American College of Allergy, Asthma & Immunology. Published by Elsevier Inc. All rights reserved.
+doi:10.1016/j.anai.2011.10.018
+J.L. Zazzali et al. / Ann Allergy Asthma Immunol 108 (2012) 98-102 99
+
+commercial health care claims database. The data in the Ingenix
+Lab/Rx database are derived from claims for inpatient admissions,
+outpatient medical encounters, prescription drugs, and enrollment data on just over 10 million commercially insured individuals from every major region of the United States. Data on
+over-the-counter (OTC) medications are not available. The study
+was exempt from review by a human subjects protection committee because the database did not contain protected health
+information.
+
+The International Classification of Diseases, Ninth Revision, Clinical
+Modification (ICD-9-CM) code 708 refers to urticaria. There is no
+specific ICD-9-CM code for CIU; it may be coded as 708.1 (idiopathic), 708.8 (other specified), or 708.9 (unspecified). The study
+included patients who were continuously enrolled from July 1,
+2007 through June 30, 2008 and had at least 1 outpatient ICD-9-CM
+code of 708.1, 708.8, or 708.9 combined with (1) asecond such code
+6 or more weeks later; (2) an ICD-9-CM code of 995.1 for angioedema at least 6 weeks from the urticaria diagnosis; or (3) a90-day
+or longer period of an overlapping supply of a prescription antihistamine and a second prescription medication commonly used
+to treat CIU (a second antihistamine, montelukast, cyclosporine,
+methotrexate, or oral corticosteroids [OCSs]). We did not include
+the codes for allergic urticaria (708.0), urticaria attributable to
+heat or cold (708.2), dermatographic urticaria (708.3), vibratory
+urticaria (708.4), or cholinergic urticaria (708.5) in the algorithm
+under the assumption, supported by the 2 authors who treat CIU
+(M.W.C., D.J.H.), that these would not be used to code idiopathic
+urticaria.
+
+Variables
+
+Patient demographic characteristics included age, sex, and geographic region; race/ethnicity was not reported in the database. We
+categorized “usual-care” physician specialty and “urticaria-care”
+physician specialty to describe the physicians who treated the
+study subjects. These specialties were identified using a previously
+validated method in which all evaluation and management service
+claims are reviewed, and the specialty listed on the plurality of
+these claims is defined as the usual-care specialty.* A similar
+method, but only including visits at which urticaria was coded, was
+used to identify the “urticaria-care” specialty. This was the specialty providing most of the evaluation and management services
+related to urticaria. We used the Charlson index, a validated claimsbased measure of comorbidities, to characterize the burden of
+comorbid conditions.* The Healthcare Cost and Utilization Project
+Chronic Condition Indicator was used to count chronic conditions.*° We identified several specific conditions that may be seen
+in conjunction with CIU, including atopic dermatitis (ICD-9-CM:
+691.8), vasculitis and allergic purpura (ICD-9-CM: 287.0), allergic
+rhinitis (ICD-9-CM: 477.xx), asthma (ICD-9-CM: 493.xx), and other
+allergy (ICD-9-CM: 995.3, V15.x).
+
+Claims do not associate a diagnosis with prescriptions, and no
+medications are specifically approved to treat CIU. To characterize treatment patterns, we identified 12 groups of prescription
+medications often used to treat CIU. These groups included 2
+categories of antihistamines: nonsedating (cetirizine HCl, desloratadine, fexofenadine HCl, levocetirizine dihydrochloride, and
+loratadine) and all other prescription antihistamines (as noted,
+the database did not contain information on OTC antihistamines). Additional medication categories were OCSs, oral doxepin, montelukast, cyclosporine, methotrexate, H2 blockers,
+dapsone, sulfasalazine, and omalizumab.
+
+We reported use of these drugs individually and in combination.
+Total and ClU-related charges were also reported. Total health
+service use included inpatient hospitalizations, emergency department (ED) visits, and physician office visits for all diagnoses during
+the 1-year period. Charges related to CIU included inpatient claims
+
+with a primary diagnosis of urticaria and outpatient claims with a
+primary or secondary diagnosis of urticaria. Urticaria-related pharmacy costs included any of the 12 groups of prescription medications used to treat CIU.
+
+Statistical analysis
+
+Descriptive statistics were reported for all measures. All data
+transformations and statistical analyses were performed using SAS
+version 9.2 (Cary, North Carolina). Means and standard deviations
+were reported for continuous variables; counts and percentages for
+categorical variables.
+
+Results
+
+A total of 7,555,991 individuals in the database met the 1-year
+continuous enrollment criteria, and 79,672 had at least 1 claim
+consistent with urticaria. Of these, 6,019 met the inclusion criteria,
+a prevalence rate of 1 per 1,255 (0.08%) enrollees. Having a second
+urticaria claim 6 or more weeks later was the most common reason
+or inclusion (n = 4,950), followed by an angioedema diagnosis 6 or
+more weeks distant from the urticaria claim (n = 1,255) and overlapping fills for prescription medications used to treat CIU (n =
+1,008); 1,194 met more than one criteria.
+
+The mean age of the 6,019 patients in the final study cohort was
+36.0 years, and 66.7% (4,013) were female. The study population
+ad a median of 2 chronic conditions identified in their claims and
+a median Charlson comorbidity index of 0, indicating relatively few
+serious concomitant conditions. Forty-eight percent of the group
+ad allergic rhinitis, 21.2% had asthma, and 18.5% had other allergies in their claims. Atopic dermatitis affected 7.8%, and 0.3% were
+affected by vasculitis or allergic purpura. Anxiety and depression
+also were common, with both being identified in 9.4% of the popuation (Table 1).
+
+Primary care (internal and family medicine) was the specialty of
+the usual-care physician for most (56.4%) of the patients, followed
+by allergy/immunology (13.9% of patients) and dermatology (5.4%).
+For 24.3%, the specialty of the usual-care physician was either
+unknown (3.8%) or was one of a variety of other specialties (20.5%),
+each constituting 2% or less of the total. In contrast, the specialty
+providing the most urticaria care was allergy/immunology in 42.7%
+of cases, primary care in 33.0%, dermatology in 13.3%, and other or
+unknown in 11.0% (Table 2).
+
+Ten patterns described the use of prescription medications by
+82% of the subjects; no data were available on OTC antihistamines. The most common pattern, seen in 16.8% of patients, was
+the combination of a prescription nonsedating antihistamine
+with at least 1 course of OCSs. Prescription nonsedating antihis
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1
+
+Characteristics of 6,019 patients with chronic idiopathic urticaria
+
+Characteristic N= 6,019
+
+Age, mean + SD, y 36.0 + 19.6
+
+Female, no. (%) 4,013 (66.7)
+
+Charlson comorbidity index
+Mean + SD OF S12
+Median 0
+
+Number of chronic conditions
+Mean + SD 2.742.0
+Median 2
+
+Specific comorbid conditions, no. (%)
+Allergic rhinitis 2,882 (47.9)
+Asthma 1,274 (21.2)
+Allergy? 1,115 (18.5)
+Anxiety 565 (9.4)
+Depression 565 (9.4)
+Atopic dermatitis 468 (7.8)
+Vasculitis and allergic purpura 20(0.3)
+
+ 
+
+‘Includes allergy to agents other than medications and allergy, unspecified.
+100 J.L. Zazzali et al. / Ann Allergy Asthma Immunol 108 (2012) 98-102
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 2 Table 4
+Specialty of usual-care and urticaria-care physician Prescription medications and days supplied for urticaria patients
+Specialty No. (%) of Patients N = 6,019 Any Use of Listed Medication N=6,019
+Specialty of Usual-Care Specialty a Urticaria-Care No. (%) using prescription antihistamines? 4,009 (66.6)
+Physician® Physician Nonsedating 3,851 (64.0)
+Dermatology 324 (5.4) 799 (13.3) (est LENGE)
+Allergy/immunology 836 (13.9) 2,571 (42.7) Mean = SD days of supply among users 152.2 + 128.1
+Primary care‘ 3,397 (56.4) 1,986 (33.0) No. (%) using oral corticosteroids 3,235 (53.7)
+Other/unknown® 1,462 (24.3) 663 (11.0) Mean + SD days of supply among users 29,7 + 52.2
+No. (%) using montelukast 1,451 (24.1)
+Specialty providing the plurality of evaluation and management services. Mean = SD days of supply among users 190.1 + 128.3
+Specialty providing the plurality of evaluation and management services at which No. (%) with any use of doxepin 541 (9.0)
+a diagnosis of urticaria was recorded. Mean = SD days of supply among users 935 = 1027
+“Internal or family medicine. No. (%) with any use of H2 blockers 406 (6.7)
+Patients for whom usual-care specialty accounted for =2% or less of the total or for Mean + SD days of supply among users 89.1+97.9
+whom a specialist could not be assigned because of missing information. No. (%) with any use of cyclosporine 69 (1.1)
+Mean = SD days of supply among users 137.4+111.1
+No. (%) with any use of methotrexate 44 (0.7)
+tamines (without OCSs) were used in 16.0%. The OCSs were Mean = SD days of supply among users 173.7 = 113.5
+
+the only prescription medication used in 11.6% of patients. Prescription nonsedating antihistamines plus montelukast, with
+(8.7%) and without (6.3%) OCSs, were the next most common
+patterns. Fifteen and a half percent of patients filled none of the
+12 categories of prescription medications during the study year
+(Table 3).
+
+Prescription antihistamines were used by 66.6% of the study
+group, with 64.0% using prescription nonsedating antihistamines
+and 7.9% using sedating prescription ones. Oral corticosteroids
+were the next most common medication (53.7% of patients), followed by montelukast (24.1%). Nine percent used oral doxepin, and
+6.7% used H2 blockers. Less-common medications included cyclosporine (1.1% of patients) and methotrexate (0.7%). Of medications
+used by more than 1% of patients, montelukast had the greatest
+mean days supplied (190 days), followed by prescription antihistamines (152 days), oral doxepin (which is also a highly potent antihistamine; 94 days), H2 blockers (89 days), and OCS (30 days)
+(Table 4). Considering doxepin to be an antihistamine would raise
+the proportion treated with a prescription antihistamine to 68.1%,
+and considering H2 blockers as antihistamines would raise it to
+69.5% (not shown).
+
+Patients with CIU were frequent users of office-based care, with
+amedian of 11 visits per year (mean + SD, 14.5 + 12.6). A median of
+2 visits (mean + SD, 3.1 + 2.8) was urticaria related. Few CIU
+patients were hospitalized (mean + SD, 0.4 + 2.3) or went to the ED
+(mean + SD, 0.5 = 3.0 visits) during the year. During the year of
+observation, 9.5% of patients had a skin biopsy, and 16.8% had a test
+for antithyroid antibodies. The mean total annual charge for all
+health care per patient was $15,848 (median, $7,041), of which
+$1,762 (median, $1,298) was urticaria related. Medical claims
+(which do not include charges for prescription drugs) accounted for
+
+ 
+
+ 
+
+ 
+
+Table 3
+
+Most frequent patterns of prescription urticaria medication use
+
+Medication No. (%)
+
+N=6,019
+
+Nonsedating antihistamine + oral corticosteroid 1,009 (16.8)
+
+Nonsedating antihistamine 963 (16.0)
+
+No use of selected medications 935 (15.5)
+
+Oral corticosteroid 699 (11.6)
+
+Nonsedating antihistamine + oral corticosteroid + 522 (8.7)
+montelukast
+
+Nonsedating antihistamine + montelukast 381 (6.3)
+
+Nonsedating antihistamine + doxepin + oral 153 (2.5)
+corticosteroid
+
+Oral corticosteroid + montelukast 100 (1.7)
+
+Nonsedating antihistamine + other antihistamine + 100 (1.7)
+oral corticosteroid
+
+Nonsedating antihistamine + doxepin + oral 81(1.3)
+
+corticosteroid + montelukast
+
+ 
+
+ 
+
+*Data on OTC medications were not available in the database.
+
+most of the charges, with a mean of $13,426 (median, $5,135) total
+and $1,252 (median, $700) for urticaria-related care. Prescription
+charges for urticaria-related medications were $510 (median,
+$243) (Table 5).
+
+We conducted 2 sensitivity analyses. In the first we examined
+the extent to which our results reflected the single year in which
+we conducted the analysis. We compared the demographic characteristics of our study population with the characteristics of a
+population drawn from a study time frame exactly 1 year earlier.
+Mean age differed by less than 1 year, and the proportion of
+females was identical. The proportion cared for by each of the
+listed physician specialties differed by less than 1 percentage
+point.
+
+To determine the extent to which our algorithms for identifying patients with CIU impacted our findings, we looked separately at all outcomes for patients meeting different inclusion
+criteria. For patients meeting the 3 different sets of inclusion
+criteria, the median number of office visits was 11 for those with
+2 diagnoses of ICD-9-CM 708.1, 708.8, or 708.9 at least 6 weeks
+apart and for those with 1 diagnosis and angioedema, whereas
+patients who qualified by having 1 diagnosis and 2 prescription
+medications had a median of 13 visits. Urticaria-related visits
+varied from a median of 1 in the group with 2 prescription
+medications to 3 in both other groups. Total charges varied from
+a mean of $14,810 in the group identified on the basis of 2
+
+ 
+
+Table 5
+Annual health service use and cost of care for 6,019 patients with urticaria
+
+ 
+
+Variable Total N = 6,019 Urticaria related
+
+ 
+
+Office visits
+
+Mean + SD 14.5 + 12.6 3.09 + 2.81
+Median 11 2
+ED visits or inpatient admissions
+Mean + SD 09239 0.03 + 0.47
+ED visits
+Mean = SD 0.5 + 3.0 0.02 + 0.42
+Inpatient admissions
+Mean = SD 0.4223 0.01 + 0.20
+Total health care charges ($)
+Mean + SD 15,848 + 30,607 1,762 2,353
+Median 7,041 1,298
+Total medical charges ($)
+Mean + SD 13,426 + 29,290 W252 225257,
+Median 5,135) 700
+Total prescription medication
+charges? ($)
+Mean + SD 2,422 + 3,844 510 + 681
+Median 1,264 243
+
+ 
+
+*Data on OTC medications were not available in the database.
+J.L. Zazzali et al. / Ann Allergy Asthma Immunol 108 (2012) 98-102 101
+
+urticaria diagnoses to $20,611 in those with 2 prescription medications. The range of values for the other outcomes was similar
+to those reported here.
+
+Discussion
+
+In this claims-based study, we identified a group of patients apt
+to have CIU, we described their common comorbidities, and we
+characterized their patterns of health service use. Just over 6,000
+patients out of 7.5 million met our criteria, giving an estimated
+prevalence of 0.08%. Patients meeting our criteria had a mean age
+of 36 years, and two-thirds were female. Allergic rhinitis,
+asthma, and other allergies were common in our sample, as were
+anxiety and depression. Allergists were the most common provider of urticaria care, followed by primary care physicians and
+dermatologists. Most patients used both prescription nonsedating antihistamines and OCSs. Study patients were frequent users
+of outpatient care and prescription medications beyond those
+used for CIU, despite their relatively young age and lack of other
+chronic illnesses. Their total annual charges were $15,848, with
+$1,762 directly related to urticaria. Medications to treat urticaria
+cost $510/year on average.
+
+Our findings are generally consistent with prior research. Because of the variability in diagnosis, the prevalence of CIU has been
+difficult to establish. Published lifetime prevalence figures of 0.1%
+to 0.5% and a typical disease duration of 4 to 5 years are consistent
+with our 1-year period prevalence estimate of 0.08%.°” A US study
+of 50 nonimmunosuppressed patients with CIU reported a mean
+age of 43 years, with 74% female.® A study of 139 patients with
+chronic urticaria in Israel reported a mean age of 41 years, with 63%
+female,° whereas a Turkish study of 953 patients reported a mean
+age of 37 years with 68% female.'° Our study identified patients
+with evidence of atopy in somewhat higher numbers than has been
+reported. 10 One element of the patient identification algorithm
+involved the use of antihistamines, which may have led to the
+inclusion of patients who took these agents for atopic conditions
+rather than for CIU. We found no prior research on the distribution
+of specialists caring for patients with CIU, but several other studies
+used populations of patients in specialty care rather than all insured patients.
+
+DeLong and colleagues® studied the medical records of 50 patients attending allergy and dermatology clinics and reported on
+treatment patterns and cost. In that study, 72% used nonsedating
+antihistamines and 28% used OCSs, compared with our estimates of
+64% and 54%, respectively. These investigators found that 8% used
+no medications in the preceding study (compared with 15.5% in our
+study) and that 46% used sedating antihistamines (compared with
+8% in our study).
+
+Several potential explanations exist for these differences. The
+dramatically higher rate of OCS use in our study may be explained by our inclusion of patients who received most of their
+care from primary care physicians in community practice rather
+than specialists in an academic setting. Furthermore, insurance
+claims do not link prescriptions with diagnoses, so some of the
+OCS prescriptions we identified may have been for conditions
+other than CIU.
+
+Over-the-counter treatments were not available in our claims
+dataset because they are not reimbursed by insurance, leaving
+no record in claims to be analyzed. Combined with the wide
+availability of OTC antihistamines, this is a significant confounder and likely explains the lower rate of antihistamine use
+in this study compared with others. We were unable to address
+this problem within the confines of the dataset, and privacy rules
+made it impossible for us to contact the individuals we studied to
+ascertain their OTC antihistamine use. Although surveys and
+reviews of medical records are likely to be more reliable than
+studies of health insurance claims to estimate the proportion of
+
+ 
+
+patients using antihistamines overall, our estimate of prescription antihistamine use should be reliable.
+
+Using 2005 prices, DeLong and colleagues calculated mean direct costs of care for CIU at $2,047 annually.* We reported a mean
+total annual urticaria-related charge of $1,762 using care between
+2007 and 2008. De Long also reported medication costs using average wholesale prices and found a mean annual direct cost of
+$1,280° compared with our mean total annual medication cost of
+$510. The database we used reports actual charges, and our lower
+estimates of cost for medical care and for prescription drugs may be
+explained by the tendency of the average wholesale price to overestimate actual costs.'! Adjusting for the 10% rise in the consumer
+price index from 2005 to 2008, the differences between the two
+studies would be slightly larger.
+
+Managing CIU is a complex and difficult task. Although searching for and removing potential inciting factors may be the best first
+step, such a search is often fruitless. Symptomatic, nonpharmacologic measures also may be useful for some patients. Experts have
+recommended that initial pharmacologic therapy begin with
+oral antihistamines in the nonsedating category with the addition of a second antihistamine, either sedating or nonsedating, if
+an inadequate response results.'* Our study suggests that this
+initial recommendation is commonly followed. Experts also suggest H2 blockers and “steroid-sparing” treatments, including
+leukotriene receptor antagonists, as further treatment. Our
+study suggests that patients are more commonly treated with
+OCSs than with corticosteroid-sparing drugs (eg, leukotriene
+receptor antagonists).
+
+The most serious limitation of this study was our inability to
+confirm the diagnosis of CIU by review of medical records. In the
+absence of medical record confirmation, and lacking an ICD-9-CM
+code specifically for CIU, we were forced to use a variety of algorithms to identify likely CIU patients. Although these algorithms
+likely included some patients who did not have CIU and excluded
+others who did, our observed prevalence was consistent with published prevalence estimates. In a sensitivity analysis examining the
+impact of using different algorithms to identify patients, we did
+find variability, although the direction and magnitude of outcomes
+were similar across all groups.
+
+A confirmatory analysis of the medical records of patients
+whose claims we analyzed would be the best way to test the
+sensitivity and specificity of our algorithm, but such an analysis was
+beyond the scope of the current project. Even if our algorithm were
+accurate, claims are generated for billing purposes, not for research,
+and consequently they lack important clinical details, including
+laboratory or allergen test results, use of OTC medications, and
+information on the study subjects’ environment and behavior. Finally, claims are subject to errors such as under- or overcoding of
+conditions.
+
+This large population-based study of commercially insured
+individual confirms prior estimates of the approximate proportion of the population diagnosed with CIU. The study suggests
+that many such patients are managed by primary care physicians
+and that although antihistamines are the most common pharmacologic treatment, use of OCSs is quite common. Although patients with CIU are relatively young and otherwise healthy, their
+health care charges are substantial, with approximately $1,700
+per year related directly to care and treatment of urticaria.
+
+ 
+
+References
+
+[1] Powell RJ, Du Toit GL, Siddique N, et al. BSACI guidelines for the management of
+chronic urticaria and angio-oedema. Clin Exp Allergy. 2007;37:631-650.
+
+[2] O'Malley AS, Pham HH, Schrag D, Wu B, Bach PB. Potentially avoidable hospitalizations for COPD and pneumonia: the role of physician and practice characteristics. Med Care 2007;45:562-570.
+
+[3] Deyo RA, Cherkin DC, Ciol MA. Adapting a clinical comorbidity index for use with
+ICD-9-CM administrative databases. J Clin Epidemiol 1992;45:613-619.
+102 J.L. Zazzali et al. / Ann Allergy Asthma Immunol 108 (2012) 98-102
+
+[4] Chronic Condition Indicator (CCI) for ICD-9-CM. Summary and Downloading
+
+Information. Oct 2009. Agency for Health Care Policy and Research, Rockville,
+
+MD. Available at: http://www.hcup-us.ahrq.gov/toolssoftware/chronic/chronic.
+
+jsp. Accessed November 8, 2011.
+
+Hwang W, Heller W, Ireys H, Anderson G. Out-of-pocket medical spending for
+
+care of chronic conditions. Health Aff. (Millwood) 2001 ;20:267-278.
+
+Greaves M. Chronic idiopathic urticaria. Curr Opin Allergy Clin Immunol. 2003;3:
+
+363-386.
+
+[7] Greaves M. Chronic urticaria. J Allergy Clin Immunol 2000; 105:664 -672.
+
+[8] DeLong L, Culler SD, Saini SS, Beck LA, Chen SC. Annual direct and indirect health
+care costs of chronic idiopathic urticaria: a cost analysis of 50 nonimmunosuppressed patients. Arch Dermatol. 2008; 144:35-39.
+
+[5
+
+[6
+
+[9] Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory parameters in
+predicting chronic urticaria duration: a prospective study of 139 patients. Allergy. 2004;59:869 - 873.
+
+[10] Isik S, Karakaya G, Celikel S, Demir AU, Kalyoncu AF. Association
+between asthma, rhinitis and NSAID hypersensitivity in chronic urticaria
+patients and prevalence rates. Int Arch Allergy Immunol. 2009;150:299 306.
+
+[11] Hay JW, Smeeding J, Carroll NV, et al. Good research practices for measuring
+drug costs in cost effectiveness analyses: issues and recommendations. Value
+Health. 2010;13:3-7.
+
+[12] Grattan CE, Sabroe RA, Greaves MW. Chronic urticaria. J Am Acad Dermatol.
+2002;46:645-657.
+

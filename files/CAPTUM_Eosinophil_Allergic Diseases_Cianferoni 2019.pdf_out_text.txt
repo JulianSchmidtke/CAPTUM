@@ -1,0 +1,1767 @@
+REVIEW ARTICLE
+
+Send Orders for Reprints to reprints@benthamscience.net
+
+Current Pediatric Reviews, 2020, 16, 00-00
+
+Non-IgE Mediated Food Allergy
+
+Antonella Cianferoni!”
+
+‘Division of Allergy and Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, University of
+
+Pennsylvania School of Medicine, Philadelphia, PA 19104, USA
+
+ 
+
+ARTICLE HISTORY
+
+ 
+
+Received: July 24, 2019
+Revised: September 24, 2019
+Accepted: September 24, 2019
+
+DOL:
+10.2174/1573396315666191031103714
+
+Abstract: Food allergies, defined as an immune response to food proteins, affect as many as 8% of
+young children and 2% of adults in western countries, and their prevalence appears to be rising like
+all allergic diseases. In addition to well-recognized urticaria and anaphylaxis triggered by IgE antibody—mediated immune responses, there is an increasing recognition of cell-mediated disorders,
+such as eosinophilic esophagitis and food protein—induced enterocolitis. Non-IgE-Mediated gastrointestinal food allergies are a heterogeneous group of food allergies in which there is an immune
+reaction against food but the primary pathogenesis is not a production of IgE and activation of mast
+cells and basophils.
+
+Those diseases tend to affect mainly the gastrointestinal tract and can present as acute (FPIES) or
+chronic reaction, such as Eosinophilic Esophagitis (EoE), Food Protein-Induced Allergic Proctocolitis (FPIAP). The role of food allergy in Non-EoE gastrointestinal Eosinophilic disorders (NonEoE EGID) is poorly understood.
+
+In some diseases like EoE, T cell seems to play a major role in initiating the immunological reaction against food, however, in FPIES and FPIAP, the mechanism of sensitization is not clear.
+
+Diagnosis requires food challenges and/or endoscopies in most of the patients, as there are no validated biomarkers that can be used for monitoring or diagnosis of Non-IgE mediated food allergies.
+
+The treatment of Non-IgE food allergy is dependent on diet (FPIES, and EoE) and/or use of drugs
+
+1
+
+(i.e. steroids, PPI) in EoE and Non-EoE EGID.
+
+Non-IgE mediated food allergies are being being investigated.
+
+Keywords: Food Allergy, IgE, non-IgE.
+
+1. INTRODUCTION
+
+Reactions to foods have been reported for more than two
+thousand years [1], however, in the last decade, there has
+been a steady increase in the diagnosis of food allergies (FA)
+due to an increase in atopic conditions as well as to increase
+public awareness. Recent estimates suggest that one in the
+four adults have FA in the western world, however, FA
+which is diagnosed by testing, such as oral food challenge
+(OFC) has a much lower prevalence, closer to 8% in young
+children and less than 4% in adults. It is difficult to estimate
+FA in the general population because FA is poorly understood and people have adverse reactions to various foods. In
+the present paper, we will review the definition, prevalence,
+clinical presentation and management of the emerging
+
+ 
+
+*Address correspondence to this author at the University of Pennsylvania,
+Perelman School of Medicine, Medical Director Food Allergy Immunotherapy Program, Division of Allergy and Immunology, The Children’s Hospital of Philadelphia, ABR 1216H, 3615 Civic Center Boulevard, Philadelphia, PA 19104, USA; Tel: 2672941952; Fax: 215 590 4529; E-mail: cianferonia@email.chop.edu
+
+1573-3963/20 $65.00+.00
+
+gastrointestinal Non-IgE mediated FA that has different
+pathogenesis and clinical manifestation compared to the
+classical FA. The most common Non-IgE mediated FA is
+present as delayed reactions to foods and can be chronic in
+nature like Eosinophilic Esophagitis (EoE), Non-EoE Eosinophilic Gastrointestinal Diseases (Non-EoE EGID), Food
+Protein-Induced Proctocolitis (FPIAP) or acute such as Food
+Protein-Induced Enterocolitis (FPIES) (Fig. 1).
+
+2. DEFINITION
+
+Adverse food reactions are defined as an abnormal response related to the ingestion of a food. They can be classified as food intolerance or food allergy based on the pathophysiological mechanism of the reaction [2]. Food intolerance are the adverse responses to a food, that are due to the
+inherent properties of the food (i.e. toxic contaminant, pharmacologic active component such as caffeine, alcohol) or
+abnormal response of the host (i.e. lack of enzymes such as
+lactase in lactose intolerance or metabolic disorders, food
+aversion due to psychological issues). Food intolerance reactions tend to be dose-dependent and are not consistently re
+© 2020 Bentham Science Publishers
+2 Current Pediatric Reviews, 2020, Vol. 16, No. 0
+
+Adverse food
+
+reaction
+
+Antonella Cianferoni
+
+  
+  
+
+Food
+Intolerance
+
+Food Host
+characteristics characteristics
+
+Pharmacologic
+(caffeine,
+tyramine
+
+Metabolic
+(lactase or
+fructase
+deficiency)
+
+Oral allergy
+syndrome
+
+Toxin
+(bacterial,
+sgombroid
+
+Psychological
+fish poisoning)
+
+(panic
+disorder)
+
+IgE-mediated
+
+Anaphylaxis
+Urticaria
+
+Angioedema
+
+Acute rhinitis
+Acute Asthma
+
+Food Allergy
+
+ 
+    
+
+Non-lgE
+mediated
+
+ 
+
+  
+
+Contact
+dermatitis
+Atopic
+
+Dermatitis
+dermatis
+
+Herpetiformis
+Proctocolitis
+FPIES
+
+Celiac disease
+
+Eosinophilic
+Esophagitis
+Eosinophilic
+enteritis
+Heiner's
+Syndrome
+
+Fig. (1). Classification of adverse reactions to foods. (A higher resolution / colour version of this figure is available in the electronic copy of
+
+the article).
+
+producible. The vast majority of food allergic reactions reported by the general population are food intolerances [2].
+
+Food allergic reactions are pathological immunologic
+responses to food that occurs in a susceptible host. These
+reactions are reproducible each time the food is ingested *.
+Based on the immunological mechanism involved, food allergies may be further classified in a) IgE-mediated, which
+are mediated by antibodies belonging to the Immunoglobulin
+E (IgE) and are the best known and well-characterized food
+allergy reactions; b) Non-IgE, when the specific IgE to foods
+are not important and the cell compartment of the immune
+system is responsible for food allergy; c) mixed IgE cell mediated when both IgE and immune cells are involved in the
+reaction [1, 3-5].
+
+The most common food allergies in the United States and
+the western world are the IgE mediated food allergies, which
+have the highest prevalence in children below 3 years of age
+(6-8%) [2]. Recent studies report a significant increase in
+food allergy and food induced-anaphylaxis, with FA being
+the leading cause of anaphylaxis which is treated in hospital
+emergency departments in Western Europe and the United
+States [6, 7]. The most common foods involved in IgE mediated food allergy are milk, egg, peanuts, tree nuts, seafood,
+soy and wheat. Treatment for IgE mediated food allergies
+includes avoidance of the allergens, availability of rescue
+medications such as self-injectable epinephrine and oral immunotherapy. IgE-mediated classic food allergic reactions
+are immediate, reproducible, and are caused by food-specific
+IgE, which can readily be detected to confirm the Food allergy diagnosis [2]. IgE binds to IgE high-affinity receptors
+
+(Fc€RI) on basophils and mast cells, and upon exposure of
+the food, the specific food antigen gets recognized by 2 or
+more specific IgE bound to the Fc€RI with consequent
+crosslink of the receptor and activation of mast-cells to release histamine and other mediators that cause vasodilation
+and related hives, angioedema, low blood pressure and or
+smooth muscle constriction with consequent bronchospasm,
+diarrhea and vomiting [8].
+
+Non-IgE mediated food allergies (Non-IgE-FA) have
+been increasing worldwide. The most common Non-IgE-FA
+are Eosinophilic Esophagitis (EoE), Non-EoE eosinophilic
+gastrointestinal disorders (Non-EoE-EGID), Food proteininduced enterocolitis (FPIES) and Food Protein induced Allergic Proctocolitis (FPIAP). EoE, Non-EoE-EGID, FPIAP
+are chronic in nature whereas FPIES is an acute disease.
+
+The Non-IgE-FA are immunologic reactions to food and
+occur in the absence of demonstrable food-specific IgE antibody in the skin or serum, therefore, it can have several different pathogenetic mechanisms [9]. T cells may play a central role in EoE, however, the pathogenesis of FPIES and
+FPIAP is still less clear [10, 11].
+
+3. EOSINOPHILIC ESOPHAGITIS (EoE)
+
+EoE is a clinical-pathologic disease characterized by
+symptoms of esophageal dysfunction and eosinophilia affected the esophagus. EoE is as prevalent as Crohn’s disease
+in the US with the most recent estimate at 56.7/100,000 [12,
+13]. FA appears to play a role in over 90% of children and
+Non-IgE Mediated Food Allergy
+
+adults with EoE, as an elemental diet is able to induce clinicpathological remission in the majority of pa tients [14-17].
+
+In younger patients, EoE symptoms consist of a failure to
+thrive, feeding difficulties, gagging, vomiting, food refusal
+and appear to be related to inflammatory induced gastroesophageal dysfunction, whereas adolescents and adults develop dysphagia and food impaction due to reversible and
+irreversible fibrotic changes [10].
+
+Diagnosis is based on esophagoduodenoscopy (EGD)
+and the finding in at least of 1 biopsy positive of 15 eos/hpf
+[18-20]. Macroscopically, EGD can be normal or show signs
+of inflammation or fibrosis, such as Exudates, Rings,
+Erithema, Furrows, Stricture, which can be graded in the
+EREFS grading system [21]. Microscopically, besides eosinophilia, ancillary signs are the organization of eosinophils
+in abscesses, lymphocytosis, hypertrophy of the basilar
+membrane and fibrosis [22, 23]. The disease leads to the
+development of patches to with normal areas of mucosa
+mixed with inflamed ones therefore, at least 3 biopsies
+should be performed in different parts of the esophagus, (i.e.
+Distal, mid and proximal) even if the esophagus looks normal macroscopically. Indeed, false-negative biopsy rate is
+reduced when more biopsies are performed [25, 26]. EGD is
+the only available follow up tool to assess the efficacy of
+treatment. Serial EGDs are often necessary for proper EoE
+management because there are no available biomarkers or
+pathognomonic elements that can replace EGD for clinicpathologic diagnosis and monitoring [27].
+
+ 
+
+The individuals affected by EoE are mostly Caucasian,
+males and have a high rate of atopic co-morbidities (i.e. allergic rhinitis, asthma, IgE mediated food allergy and/or eczema) [28]. Other family members are often affected as genetics play a larger role in EoE compared to other atopic
+diseases [29]. For example, having a sibling affected by
+asthma doubles the chance of developing the same disease
+compared to the general population, but having a sibling
+affected by EoE increases the chances by about 40 times
+[30]. Identical twins have almost 800 times higher risk than
+the general population. It is therefore not surprising that
+many Single-nucleotide Polymorphisms (SNP) (-TGF-B [3133], CCL-26 (Eotaxin 3) [34]; Toll-like receptor 3 (TLR3)
+[35]; thymic stromal lymphopoietin (TSLP) at 5q22, Calpain
+14 (CAPN14) on chr2p23.1 and cllorf30/EMSY on
+chr11q13.5 [36-39] and genetic defects, such as the risk of
+connective tissue disorders such as Marfan’s syndrome, hypermobile Ehrlos Danlos’ Syndrome [40], autosomal dominant Hyper-IgE Syndrome, AD-HIES) [41] ; defects in
+PTEN, tumor suppressor lipid phosphatase and tensin homolog and a defect in the epithelial protease inhibitor
+SPINKS [42, 43]; dehydrogenase El and transketolase domain—containing 1 (DHTKD1) in DHTKD1 homolog oxoglutarate dehydrogenase-like (OGDHL) [44].
+
+However, the reason why multiple family members are
+affected by EoE might be because of common environmental
+risk factors. Fraternal twins have 5-10 times higher risk of
+developing EoE compared to siblings and only 40% of identical twins develop the disease suggesting that environmental
+factors may play a role. This also explains the rapid rise of
+disease in many western countries. Jensen et al. [45] found a
+positive association between EoE and several early-life fac
+Current Pediatric Reviews, 2020, Vol. 16, No.0 3
+
+tors such as maternal fever, preterm labor, cesarean delivery,
+antibiotic and acid suppressant use in infancy. The authors
+observed an inverse association between having a furry pet
+in infancy and EoE. The same data have been shown
+independently by other groups [46, 47]. Environmentrisk
+gene interaction has been examined in one study and there
+was an association between breast-feeding and SNP
+186736278 on CAPN14 and NICU admission and SNP
+1s17815905 on LOC283710/KLF 13 [45].
+
+Food allergens, mainly milk and wheat, but also egg,
+legumes, meats and soy have played a central role in EoE
+[10], probably by activating Th2 cells [48]. Recent advances
+in research have shown that a dysfunctional epithelium may
+play a central role in inducing a local and possibly systemic
+Th2 response against food and environmental allergens in
+genetically predisposed individuals [10, 49]. In patients who
+have active EoE, esophageal biopsy specimens have been
+consistently found to have greater number of T cells, invariant natural killer cells (INKTs), basophils and mast cells and
+increased expression of the Th2 prototypical cytokines such
+as IL-5, IL-4, and IL-13 [50, 51].
+
+Eosinophils are infiltrating cells in EoE biopsies and are
+able to secrete some Th2 cytokines, they appear to be the
+result of an initial Th2 inflammation but they do not initiate
+inflammation. Ant-IL-5 trails in both adults and children are
+able to reduce eosinophils from esophageal biopsies of EoE,
+but it does not reduce symptoms or other inflammatory
+changes in the tissue [10].
+
+Similarly, despite the high rate of atopic diseases and
+IgE-mediated FA, some evidence suggests that IgE doesn’t
+play a central role in EoE pathogenesis [52]. Indeed measurement of specific IgE to foods via a skin prick test or serum is not useful to establish the real food triggers in EoE
+[53, 54]. Oral immunotherapy, which is used to induce desensitization in IgE-mediated food allergy, can cause EoE in
+approximately 2-5% of desensitized patients, indicating a
+non-IgE mechanism in EoE pathogenesis [55, 56]. Similarly,
+patients that overcame IgE-FA can develop EoE once food
+dysmotility reintroduced in the diet [57]. Other evidence
+such as the ability of mice to develop EoE like disease in the
+absence of IgE, the lack of efficacy in clinical trials with
+anti-IgE suggests that IgE are not central in EOE pathogenesis [52, 58]. Another feature common to other atopic chronic
+diseases such as asthma, AD, and EoE is the remodeling, the
+by-product of chronic inflammation [10, 59]. Food impaction is due to inflammation-induced dysmotility or reversible
+or irreversible fibrosis, and it is the most common symptom
+of EoE in teenagers and adults [60, 61]. In patients who have
+untreated EoE, the development of strictures is a concern as
+a longer duration of EoE leads to the development of irreversible fibrotic strictures [60].
+
+In order to prevent long-lasting fibrosis and for the treatment of symptoms, there are three main clinically-accepted
+treatment strategies for EoE: Proton Pump Inhibitors (PPIs),
+Dietary elimination and corticosteroid treatment. Esophageal
+Dilation is an option in patients with irreversible fibrosis
+[62].
+
+PPIs are now considered the first drug to be used in the
+management of EoE based on the most recent guidelines [63,
+4 Current Pediatric Reviews, 2020, Vol. 16, No. 0
+
+ 
+
+Antonella Cianferoni
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1. 95% predictive values for prick skin test and specific IgE.
+Food Specific IgE (kU/L) Wheal Size
+Egg 7 (>2 yr) [141] 13 mm [142]
+Egg 2 (<2 yr) [143] 6 mm [143]
+Egg 17.5 (not previous exposed to eggs) [144] 5mm [144]
+Peanut 15 [145] 8 mm [145]
+Peanut 15 [141] 8 mm [146]
+Milk 32 [141] 12.5 mm [142]
+Milk None found [147] 6 mm [146]
+Soy, Wheat None [141, 147]
+
+ 
+
+ 
+
+ 
+
+ 
+
+64]. Many practitioners consider PPIs as a first-line therapy
+in EoE as they are easy to administer and have a very favorable risk-benefit ratio. Patients with EoE responsive to PPIs
+should be treated indefinitely with PPI as mono-therapy [63].
+A therapy with dietary exclusion or steroid should be performed only on those patients whose EoE doesn’t respond to
+PPI [63]. In a meta-analysis of 32 studies on PPI treatment in
+EoE, 50.5% (95% CI 42.2%-58.7%) patients had histologic
+improvement (to <15 eosinophils/hpf) with significant differences among different studies [65]. The dosage effective
+in EoE treatment is on the higher side with most physicians
+using 1-2 mg/kg in children and 40 mg of omeprazole (or
+equivalent dosages for other PPIs) once or twice a day. The
+mechanism of action of PPIs in EoE is not clear. PPIs are
+well-established inhibitors of gastric parietal H+/K+-ATPase
+and this effect may reduce acidic injury to the esophagus and
+cause epithelial healing. However, PPI show anti-cytokine
+effects at the level of the esophageal epithelium [66], by directly inhibiting epithelial STAT6, a key transcription factor
+for the secretion of pro-inflammatory chemokines (i.e. Eotaxin-3) and cytokines (i.e. Th2 cytokine) [67] (Table 1).
+
+As in all atopic diseases, steroids, both oral and topical
+are very effective in inducing EoE remission. Oral steroids
+can treat the disease clinically and histologically, however,
+they carry significant side effects if used long term and given
+the chronicity and life long duration of EoE, they are not
+recommended for long term treatment [68]. Systemic corticosteroids can, however, be used for emergency cases, such
+as severe dysphagia, hospitalization, and weight loss [27].
+
+ 
+
+Topical corticosteroids are effective in inducing EoE
+remission, although steroid resistance (as demonstrated by
+the lack of histological responsiveness and the failure to
+modify local esophageal gene expression) has been reported
+[69]. In Europe, oro-dispersible tablets of 1 mg Budesonide
+(Jorveza”) are approved for the treatment of EoE in adults.
+In the US, there are no topical steroids approved for EoE,
+therefore, steroids used for asthma, such as fluticasone or
+budesonide are the most common off label prescribed drugs.
+Patients are instructed to spray fluticasone from a metered
+dose without a spacer in the back of their mouth and swallow
+(not inhale) at the dose of 110 mcgX 2 puffs twice daily for
+children year< 8 years of age and 220 mcg X 2 puffs twice
+
+daily for children year>8 years of age. No food or drink is
+allowed 30 minutes after the medication is administered.
+
+Oral viscous budesonide has also been shown to be effective. Children under the age of 10 received | mg daily and
+those who were 10 or over received 2 mg/day. Viscous
+budesonide is obtained by mixing 1 mg _ Pulmicort
+RespuleTM (0.5mg or 1 mh budesonide/2 mL intended for
+nebulized administration) with 10 g (10 packets) of sucralose
+(SplendaTM) to create a volume of approximately 8mL [70,
+71]. No food or drink is allowed 30 minutes after the medication is administered.
+
+In a prospective randomized trial [26] in children and
+adults, the efficacy of Fluticasone by metered-dose inhaler in
+inducing histological and clinical remission ranges from 50
+to 90% as reported by different authors [69, 72-74]. Esophageal Candida overgrowth is a major side effect and is
+seen in approximately 15% of patients. Randomized control
+study in children and adults for the use of Oral viscous
+budesonide indicates 70-80% of responders [70, 71, 75]. A
+recent randomized trial to compare Fluticasone and viscous
+Budesonide for EoE treatments showed that viscous
+budesonide provided a significantly higher level of esophageal exposure to the therapeutic agent, which correlated with
+lower eosinophil counts [76]. Moreover, there is some evidence that budesonide can reverse esophageal fibrosis [77].
+Additional studies have documented their short-term safety,
+except for local fungal infections [27]. Oral dispersible tablets appear to have similar efficacy to viscous budesonide
+and are more favorable to patients [78].
+
+Based on such studies, topical corticosteroid therapy can
+be considered in all children and adults affected by EoE for
+both initial therapy and maintenance therapy. Currently,
+there are many unanswered question in topical steroids
+chronic use. In particular, there is no consensus regarding
+dosage, formulation, frequency and how to obtain remission
+using minimal steroid dosage. Long term side effects are an
+important concern , no study has been conducted regarding
+bone health in either adults or children for longer than 1
+year. Moderate high dose of topical steroids like the one
+used to treat EoE, is associated with significant reduction in
+growth in children [79, 80]. Adrenal suppression, for example, has been reported in some children using topical steroids
+Non-IgE Mediated Food Allergy
+
+for EoE, especially if they were using inhaled steroids for
+asthma and allergic rhinitis at the same time [81].
+
+FA has been shown globally to be the most common
+trigger of EoE, as numerous studies in both adults and children have demonstrated how dietary restriction therapies
+have been successfully used for EoE treatment [52-54, 68,
+82-86]. Elemental diets using amino-acid based formula as
+the sole source of nutrition are able to induce clinical and
+histological remission in the vast majority of patients with
+EoE [54, 68, 87]. This strategy is associated with a significant reduction in quality of life, tube feeding and it is extremely difficult to adhere to for longterm [88]. As such,
+single and multi-food elimination diets have been described
+in multiple clinical trials and observational studies were effective in inducing disease remission in 60-80% of the patients [52-54, 68, 82-86]. Various dietary strategies have
+been tried with comparable efficacies, with the more restrictive being able to induce a more rapid and frequent remission
+[88]. Examples of common diet used in EoE management
+are: 6-food (milk, wheat, egg, soy, peanut/treenut,
+fish/shellfish), 4-food (milk, wheat, egg, soy) ; to 2-food
+elimination (milk, wheat) or 1-food (milk) elimination diets
+with a recent prospective study showing benefit in 2-food
+elimination (milk, wheat) with step-wise additional restriction if clinically necessary compared to more restrictive approaches [52-54, 68, 82-86]. If more restrictive diets are chosen, once remission is achieved, it is important to do a sequential single food reintroduction followed by EGD in order to identify the trigger to find the least restrictive effective
+diet as those are more likely to be followed successfully long
+term [88]. Unfortunately at the moment, the diet is largely
+empirical as traditional allergy testing measurements of specific IgE to food via skin prick test, serum evaluation and
+atopy patch test have been shown to be less effective than
+the empiric method to find EoE food trigger [63, 89]. This is
+probably due to the fact that the role of IgE in food-induced
+EoE is minimal, if any [52] and to the lack of standardization
+of food atopy patch tests [89]. This empiric dietary approach
+is very undesirable as patients have to wait a long time and
+undergo multiple endoscopies before finding the allergen
+trigger [88]. Therefore, the development of allergen testing
+for food allergens with high specificity and sensitivity for
+use in EoE is a priority for many researchers working in the
+field.
+
+Recently, a specific CD154 induction in vitro of peripheral blood T cells to milk in patients with milk induced EoE,
+suggesting that this test could be used in the future to predict
+specific FA in patients with EoE, however further prospective study will be needed to confirm the clinical applicability
+of the test [48].
+
+In the future, more targeted therapy for EoE is going to
+be available as several novel treatments are under investigation. Antibodies that target only specific aspects of Th2 inflammation, such as anti-IgE and anti-IL5 have been tried
+with limited success [90-94]. On the other hand, antibodies
+which were able to block more broadly Th2 inflammation
+like anti chemoattractant receptor-homologous molecule on
+Th2 cells (CRTH2) (a prostaglandin D (2) (PGD (2)) receptor) [95], the anti-IL-4 anti-IL-13 (dupilumab) or anti-IL-13
+(RPC4046) have been shown to be more promising in small
+
+ 
+
+ 
+
+Current Pediatric Reviews, 2020, Vol. 16, No.0 5
+
+clinical trials [95-97]. Antibodies targeting Th2 pathway are
+very desirable as many patients with EoE have a number of
+atopic disorders including asthma or atopic dermatitis which
+are amenable to management with these biologic therapies
+and therefore, it remains important to understand their effects on the disease process in EoE.
+
+4. Non-EoE-EGID
+
+Eosinophilic Gastroenteritis (EGE), Eosinophilic Gastritis (EG), Eosinophilic Colitis (EC) are a group of very rare,
+ill-defined diseases characterized by eosinophilia limited to
+the gastrointestinal tract (esophagus, stomach, duodenum,
+ileus, colon) [98-100]. Differently from EoE, Non-EoEEGID are rarely responsive to dietary restriction with consistent success only in a minority of cases reported for those
+diseases limited to the stomach. Therefore, the role of food
+allergy in such diseases is less clear.
+
+EGE are characterized by the involvement of multiple
+locations, whereas in EG and EC, eosinophils are found only
+in the stomach/duodenum or colon. Eosinophilic ileitis exists
+but they are poorly characterized as biopsies of the ileum are
+rarely obtained [31, 101].
+
+The diagnosis of Non-EoE-EGID has based primarily on
+clinic pathological criteria, but the exact number of eosinophils considered pathologic has not been universally established, indeed differently from the esophagus in normal individuals eosinophils are commonly found in the lower gastrointestinal tract [98-100]. In a recent pediatric study, the
+authors defined as pathological > 50 eos/hpf in stomach or
+colon, 30/hpf for duodenum and ileum based on the fact that
+normal levels are between 10 to 50 eos/hpf (with the distal
+colon and stomach being the organ where the highest level of
+eosinophils is found in normal individuals and lower levels
+in duodenum, ileum and proximal colon) with a gradual distribution [102]. The eosinophilic infiltration can be limited to
+the superficial layer of the GI mucosa (mucosal EGE, EG,
+EC), they can involve only the serosal epithelium (serosal
+EGE, EG, EC) or can be deep and involve the muscular layer
+(mucolaris EGE, EG, EC).
+
+The type of inflammation responsible for EGE, EG and
+EC appears to be similar. It is not clear if EGE, EG and EC
+are different diseases or a spectrum of the same common
+pathological process however, they appear to be on a different spectrum then EoE [103]. A recent study, for example,
+showed that EoE and EG are different diseases as EG is diferent from EoE and it is appeared to be a systemic disorder
+associated with high levels of blood and gastrointestinal tract
+eosinophilia, Th2 immunity, and a conserved gastric transcriptome signature, with only 7% of patients with EG having a transcriptome that overlapped with EoE [103].
+
+ 
+
+ 
+
+ 
+
+In one of the largest published studies on 42 patients,
+Dellon et al. [104] found that only a minority of patients with
+EGE responded to treatment (35%; 15/42). Among those
+who responded about 47% responded to diet, 80% to steroids, and 7% mast cell stabilizer or anti-leukotrienes. In another study [101], 40% of EGE patients had spontaneous
+remission and the rest responded poorly to any treatment
+[101]. The value of the diets, both elemental and elimination
+ones is the object of some debate, and recent meta-analysis
+6 Current Pediatric Reviews, 2020, Vol. 16, No. 0
+
+on the use of diet in EGE shows no efficacy in the majority
+of cases [105].
+
+The oral steroids are the most effective treatment both in
+the short term and in the long term [101, 104, 106]. The use
+of the topical steroid budesonide used in capsule has had
+some sporadic success [101, 104, 106-111]. Patients with
+suspected predominantly ileal disease can use the budesonide granules in capsules for optimal ileal activity. These capsules controlled release budesonide in the ileum with very
+minimal gastric delivery [112]. If stomach is affected opening the capsule and drink them intact and after crashing them
+mixed with liquid can help the diseases. The starting dose for
+swallowed budesonide is typically 9-27 mg once daily [112].
+Case reports show that occasionally PPI and mast cell stabilizers are effective in EGE treatment [101, 104, 106, 113,
+114]. However, it is hard to tell as patients can have spontaneous remission and the effects in case reports maybe due to
+medication or spontaneous remission.
+
+ 
+
+In both pediatric and adult patients with EG diet (both
+elemental and SFED) have been reported to be more effective [102, 115]. However, diet often is effective after several
+days and most patients are treated initially with systemic
+steroids (0.5-1 mg/kg/day 5-14 days), which differently from
+EGE are very effective in inducing remissions. Once symptoms are controlled, steroids are typically tapered over a few
+weeks (2-4). Once remission is achieved, long term therapy
+can be done with diet or with the use of topical or swallowed
+steroids (Crashed granules from budesonide capsules as
+above described) [111].
+
+Recently, advances in biologics targeting cytokines and
+cells responsible for eosinophilic inflammation are being
+used in clinical trials to treat Non-EoE EGIDs. Antibodies
+specific Anti-IL-5 (mepolizumab, reslizumab, benralizumab), anti- IL-13 ( QAX576, RPC4046), anti-IL-4/IL-13
+(Dupilumab) , anti-integrin responsible for transmigration of
+lymphocytes (Vedolizumab), anti Eotaxin —‘1-2-3
+(GW766994), or able to induce apoptosis of Eosinophils
+such as anti-Siglec-8 (AK002) have been shown to reduce
+eosinophilic infiltrations and are currently being tried in several non-EoE-EGID cohorts [116].
+
+5. FOOD PROTEIN INDUCED ENTEROCOLITIS
+(FPIES)
+
+Initially described in the late ‘70s and early ’80s, food
+protein-induced enterocolitis syndrome (FPIES) [117, 118],
+FPIES has been increasingly recognized as an important
+‘ood allergy in infants and young children and the first international consensus guidelines were published in 2017 to improve diagnosis and management of FPIES [119]. Recent
+imited epidemiological studies show that FPIES is not as
+rare as previously thought, with an estimated prevalence
+between 0.34 to 0.7% in infancy [120, 121, 122]. Typically
+FPIES manifest acutely 1 to 4 hours (usually 2 hours) after
+‘ood ingestion and is characterized by profuse, repetitive
+vomiting, lethargy and pallor [119]. A minority of patients
+(20-50%) will develop diarrhea several hours later [120, 12328]. Recently, a form of chronic FPIES has been described
+in young infants due to soy or milk intake. In those infants
+symptoms manifests as chronic diarrhea, intermittent vomiting, failure to thrive, hypo-albuminemia and anemia. If the
+
+ 
+
+Antonella Cianferoni
+
+offending food is removed, symptoms improve rapidly
+within 72 hours, however, upon reintroduction classical
+FPIES with life threatening reaction ensues [129-132].
+
+The most common food reported as trigger of FPIEs are
+milk, rice followed by soy, oat, egg, poultry [119, 127]. It
+appears that the most common food allergens in FPIES differ
+within different geographical regions with milk being the
+most common foods in US and Israel and rice in Australia
+[119, 127]. Similarly, soy is a common trigger in the US, but
+rare in Australia and Israel where soy based formula are less
+used [119, 127]. However, every food including those rarely
+considered allergenic (i.e. sweet potatoes, squash, banana
+and avocado) have been described as culprits [119, 127,
+133]. Most patients are allergic to only 1-2 foods but multiple food allergies are not rare [119, 127, 133]. Typically,
+patients outgrow the disease by age 3 [119]. However, long
+lasting diseases into elementary school age have been described expecially among patients with multiple food triggers and those that develop IgE antibodies to FPIES food
+triggers [119, 134]. The natural history for more rare food
+triggers is largely unknown.
+
+ 
+
+The pathogenesis of FPIES is still not completely understood. Monocytes and lymphocytes have been shown to have
+a pan-activation during acute reactions [11]. However, the
+cell ultimately responsible of antigen recognition and reaction initiation is unknown and therefore no biomarker or in
+vitro testing are currently available for diagnosis of FPIES or
+its food allergy trigger [119].
+
+Acute FPIES reactions are treated with the use of IV fluids, ondasetron IV or IM may help to reduce severity based
+on limited studies. Epinephrine is used only IV in an intensive care setting to support blood pressure in case of prolonged reduced blood pressure irresponsive to fluid resuscitation. IV steroids may also be helpful in prolonged reactions
+associated with diarrhea [119, 135].
+
+The disease is currently treated long with diet, avoiding
+the known triggers, and its diagnosis is largely empirical
+based on history and open food challenges in protected clinical setting [119]. Skin prick tests, measurement of specific
+IgE in the blood and atopy patch tests are unreliable to predict food allergy triggers as IgE specific to food are absent in
+the vast majority of patients at diagnosis and Atopy patch
+test have poor sensitivity and specificity [119].
+
+Food challenges are indicated only if history is not consistent with suspected clinical triggers, or to assess the
+achieved tolerance [119, 135]. Food challenges to trigger
+foods may be dangerous and result in protracted vomiting
+and low blood pressure that may need vaso-pressure support,
+therefore, should be done only in a protected clinical environment and when necessary [136].
+
+6. FOOD PROTEIN-INDUCED ALLERGIC PROCTOCOLITIS (FPIAP)
+
+A form of Food protein Induced Allergic Proctocolitis
+(FPIAP) is a very common food allergy in infancy. Infants,
+bottle fed or breast fed, may present with bloody stools in the
+absence of any other symptoms. Removal of the products
+causing allergy, typically milk and or soy, from the diet either using hypoallergenic formulas or by restricting the diet
+Non-IgE Mediated Food Allergy
+
+in breastfed babies, induces a rapid remission in a few days
+[137]. Diets are largely empiric as skin prick test and atopy
+patch tests are not sensitive or specific in predicting triggers
+of FPIAP. Oral food challenges following a restricted diet
+are necessary to establish diet [138, 139]. If left untreated,
+the major risk of FPIAP is anemia, so severely restricted diet
+in breastfeeding moms are not indicated. Indeed is extremely
+rare that foods other than milk and soy are implicated; therefore, if there is not a prompt response to milk elimination at
+least a month should be waited before further restricting maternal diet [140]. FPIAP is, therefore, very different from
+chronic FPIES and the 2 forms should not be confused
+
+CONCLUSION
+
+Non-IgE-Mediated gastrointestinal food allergies are a
+heterogeneous group of food allergies in which there is an
+immune reaction against food but the primary pathogenesis
+is not a production of IgE and activation of mast cells and
+basophils.
+
+Those diseases tend to affect mainly the gastrointestinal
+tract and can present acutely (FPIES) or as chronic delayed
+reactions, such as EoE, FPIAP. The role of food allergy in
+Non-EoE EGID is poorly defined.
+
+In EoE, T cell seems to play a major role in initiating the
+immunological reaction against food, however, in FPIES and
+FPIAP, the mechanism of sensitization is less clear.
+
+Diagnosis requires food challenges and or endoscopies in
+most of the patients. None of the Non-IgE mediated food
+allergies have validated biomarkers.
+
+Treatment of Non-IgE FA relies on diet (FPIES, and
+EoE) or the use of steroids and PPI in EoE and Non-EoE
+EGID
+
+Non-IgE mediated food allergies are an object of intense
+investigation.
+
+LIST OF ABBREVIATIONS
+
+FA = Food Allergies
+
+TH2-T = _ Helper Cells Type 2
+
+FPIES = Food Protein-Induced Enterocolitis
+
+FPIAP) = __ Food Protein Induced Allergic Proctocolitis
+EoE = Eosinophilc Esophagitis
+
+EGID = Eosinophilic Gastrointestinal Diseases
+OFC = Oral Food Challenge
+
+CONSENT FOR PUBLICATION
+Not applicable.
+
+FUNDING
+
+None.
+
+CONFLICT OF INTEREST
+
+The authors declare no conflict of interest, financial or
+otherwise.
+
+Current Pediatric Reviews, 2020, Vol. 16, No.0 7
+
+ACKNOWLEDGEMENTS
+
+Declared none.
+
+REFERENCES
+
+1
+
+ 
+
+10.
+
+11
+
+12
+
+13
+
+15
+
+16
+
+ 
+
+17
+
+ 
+
+Sampson HA. Food allergy. Part 1: immunopathogenesis and clinical disorders. J Allergy Clin Immunol 1999; 103(5 Pt 1): 717-28.
+http://dx.doi.org/10.1016/S0091-6749(99)704 11-2] [PMID:
+10329801]
+
+Cianferoni A, Spergel JM. Food allergy: review, classification and
+diagnosis. Allergol Int 2009; 58(4): 457-66.
+http://dx.doi.org/10.2332/allergolint.09-RAI-0138] [PMID:
+19847094]
+
+Sampson HA. Food allergy. Part 2: diagnosis and management. J
+Allergy Clin Immunol 1999; 103(6): 981-9.
+http://dx.doi.org/10.1016/S0091-6749(99)70167-3] [PMID:
+10359874]
+
+Nowak-Wegrzyn A, Sampson HA. Adverse reactions to foods.
+Med Clin North Am 2006; 90(1): 97-127.
+http://dx.doi.org/10.1016/j.mena.2005.08.012] [PMID: 16310526]
+Lee LA, Burks AW. Food allergies: prevalence, molecular characterization, and treatment/prevention strategies. Annu Rev Nutr
+2006; 26: 539-65.
+http://dx.doi.org/10.1146/annurev.nutr.26.061505.111211] [PMID:
+16602930]
+
+Sheikh A, Hippisley-Cox J, Newton J, Fenty J. Trends in national
+incidence, lifetime prevalence and adrenaline prescribing for anaphylaxis in England. J R Soc Med 2008; 101(3): 139-43.
+http://dx.doi.org/10.1258/jrsm.2008.070306] [PMID: 18344471]
+Turner PJ, Gowland MH, Sharma V, et al. Increase in anaphylaxisrelated hospitalizations but no increase in fatalities: An analysis of
+United Kingdom national anaphylaxis data, 1992-2012. J Allergy
+Clin Immunol 2015; 135: 956-63 el.
+
+Cianferoni A, Muraro A. Food-induced anaphylaxis. Immunol
+Allergy Clin North Am 2012; 32(1): 165-95.
+[http://dx.doi.org/10.1016/j.iac.2011.10.002] [PMID: 22244239]
+Dellon ES, Gonsalves N, Hirano I, Furuta GT, Liacouras CA,
+Katzka DA. ACG clinical guideline: Evidenced based approach to
+the diagnosis and management of esophageal eosinophilia and
+eosinophilic esophagitis (EoE). Am J Gastroenterol 2013; 108(5):
+679-92.
+
+[http://dx.doi.org/10.1038/ajg.2013.71] [PMID: 23567357]
+Cianferoni A, Spergel J. Eosinophilic Esophagitis: A Comprehensive Review. Clin Rev Allergy Immunol 2016; 50(2): 159-74.
+[http://dx.doi.org/10.1007/s12016-015-8501-z] [PMID: 26194940]
+Goswami R, Blazquez AB, Kosoy R, Rahman A, Nowak-Wegrzyn
+A, Berin MC. Systemic innate immune activation in food proteininduced enterocolitis syndrome. J Allergy Clin Immunol 2017;
+139: 1885-96 e9.
+
+Dellon ES, Jensen ET, Martin CF, Shaheen NJ, Kappelman MD.
+Prevalence of Eosinophilic Esophagitis in the United States. Clin
+Gastroenterol Hepatol 2013.
+
+[PMID: 24035773]
+
+Liacouras CA, Furuta GT, Hirano I, et al. Eosinophilic esophagitis:
+updated consensus recommendations for children and adults. J Allergy Clin Immunol 2011; 128: 3-20.
+
+Markowitz JE, Spergel JM, Ruchelli E, Liacouras CA. Elemental
+diet is an effective treatment for eosinophilic esophagitis in children and adolescents. Am J Gastroenterol 2003; 98(4): 777-82.
+[http://dx.doi.org/10.1111/j.1572-0241.2003.07390.x] [PMID:
+12738455]
+
+Peterson KA, Byrne KR, Vinson LA, ef al. Elemental diet induces
+histologic response in adult eosinophilic esophagitis. Am J Gastroenterol 2013; 108(5): 759-66.
+[http://dx.doi.org/10.1038/ajg.2012.468] [PMID: 23381017]
+Warners MJ, Vlieg-Boerstra BJ, Verheij J, et al. Esophageal and
+Small Intestinal Mucosal Integrity in Eosinophilic Esophagitis and
+Response to an Elemental Diet. Am J Gastroenterol 2017; 112(7):
+1061-71.
+
+[http://dx.doi.org/10.1038/ajg.2017.107] [PMID: 28417991]
+Warners MJ, Vlieg-Boerstra BJ, Verheij J, et al. Elemental diet
+decreases inflammation and improves symptoms in adult eosinophilic oesophagitis patients. Aliment Pharmacol Ther 2017; 45(6):
+777-87.
+
+ 
+8 Current Pediatric Reviews, 2020, Vol. 16, No. 0
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27.
+
+28
+
+29
+
+30
+
+31
+
+32.
+
+33
+
+ 
+
+ 
+
+http://dx.doi.org/10.1111/apt.13953] [PMID: 28112427]
+
+Spergel JM, Andrews T, Brown-Whitehorn TF, Beausoleil JL,
+Liacouras CA. Treatment of eosinophilic esophagitis with specific
+food elimination diet directed by a combination of skin prick and
+patch tests. Ann Allergy Asthma Immunol 2005; 95(4): 336-43.
+http://dx.doi.org/10.1016/S1081-1206(10)61151-9] [PMID:
+16279563]
+
+Spergel JM, Brown-Whitehorn TF, Beausoleil JL, et al. 14 years of
+eosinophilic esophagitis: clinical features and prognosis. J Pediatr
+Gastroenterol Nutr 2009; 48(1): 30-6.
+http://dx.doi.org/10.1097/MPG.0b013e3 181788282] [PMID:
+19172120]
+
+Noel RJ, Putnam PE, Rothenberg ME. Eosinophilic esophagitis. N
+Engl J Med 2004; 351(9): 940-1.
+http://dx.doi.org/10.1056/NEJM2004082635 10924] [PMID:
+15329438]
+
+Hirano I, Moy N, Heckman MG, Thomas CS, Gonsalves N, Achem
+SR. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading
+system. Gut 2012.
+
+PMID: 22619364]
+
+Collins MH. Histopathologic features of eosinophilic esophagitis.
+Gastrointest Endosc Clin N Am 2008; 18(1): 59-71, viii-ix.
+http://dx.doi.org/10.1016/j.giec.2007.09.014] [PMID: 18061102]
+Collins MH, Martin LJ, Alexander ES, et al. Newly developed and
+validated eosinophilic esophagitis histology scoring system and
+evidence that it outperforms peak eosinophil count for disease diagnosis and monitoring. Dis Esophagus 2017; 30(3): 1-8.
+
+PMID: 26857345]
+
+Tringali A, Thomson M, Dumonceau JM, et al. Pediatric gastrointestinal endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) and European Society for Paediatric Gastroenterology Hepatology and Nutrition (ESPGHAN) Guideline Executive
+summary. Endoscopy 2017; 49(1): 83-91.
+
+PMID: 27617420]
+
+Gonsalves N, Policarpio-Nicolas M, Zhang Q, Rao MS, Hirano I.
+Histopathologic variability and endoscopic correlates in adults with
+eosinophilic esophagitis. Gastrointest Endosc 2006; 64(3): 313-9.
+http://dx.doi.org/10.1016/j.gie.2006.04.037] [PMID: 16923475]
+Schaefer ET, Fitzgerald JF, Molleston JP, et al. Comparison of oral
+prednisone and topical fluticasone in the treatment of eosinophilic
+esophagitis: a randomized trial in children. Clin Gastroenterol Hepatol 2008; 6(2): 165-73.
+http://dx.doi.org/10.1016/j.cgh.2007.1 1.008] [PMID: 18237866]
+Liacouras CA, Furuta GT, Hirano I, et al. Eosinophilic esophagitis:
+updated consensus recommendations for children and adults. J Allergy Clin Immunol 2011; 128(1): 3-20.c6.
+http://dx.doi.org/10.1016/j jaci.201 1.02.040] [PMID: 21477849]
+Furuta GT, Liacouras CA, Collins MH, et al. Eosinophilic esophagitis in children and adults: a systematic review and consensus
+recommendations for diagnosis and treatment. Gastroenterology
+2007; 133(4): 1342-63.
+http://dx.doi.org/10.1053/j.gastro.2007.08.017] [PMID: 17919504]
+Cianferoni A, Spergel JM. From genetics to treatment of eosinophilic esophagitis. Curr Opin Allergy Clin Immunol 2015; 15(5):
+417-25.
+
+http://dx.doi.org/10.1097/ACI.0000000000000200] [PMID:
+26258919]
+
+Lebowitz MD, Barbee R, Burrows B. Family concordance of IgE,
+atopy, and disease. J Allergy Clin Immunol 1984; 73(2): 259-64.
+http://dx.doi.org/10.1016/S009 1-6749(84)80017-2] [PMID:
+6699309]
+
+Aceves §S, Hirano I, Furuta GT, Collins MH. Eosinophilic gastrointestinal diseases--clinically diverse and histopathologically confounding. Semin Immunopathol 2012; 34(5): 715-31.
+http://dx.doi.org/10.1007/s00281-012-0324-x] [PMID: 22842863]
+Aceves SS, Ackerman SJ. Relationships between eosinophilic
+inflammation, tissue remodeling, and fibrosis in eosinophilic
+esophagitis. Immunol Allergy Clin North Am 2009; 29(1): 197211, xiii-xiv.
+
+http://dx.doi.org/10.1016/j.iac.2008.10.003] [PMID: 19141355]
+Aceves SS, Broide DH. Airway fibrosis and angiogenesis due to
+eosinophil trafficking in chronic asthma. Curr Mol Med 2008; 8(5):
+350-8.
+
+http://dx.doi.org/10.2174/156652408785161023] [PMID:
+18691061]
+
+ 
+
+ 
+
+ 
+
+ 
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50)
+
+Si
+
+ 
+
+Antonella Cianferoni
+
+Blanchard C, Wang N, Stringer KF, ef al. Eotaxin-3 and a uniquely
+conserved gene-expression profile in eosinophilic esophagitis. J
+Clin Invest 2006; 116(2): 536-47.
+http://dx.doi.org/10.1172/JCI26679] [PMID: 16453027]
+Avila-Castellano R, Garcia-Lozano JR, Cimbollek S$, Lucendo AJ,
+Bozada JM, Quiralte J. Genetic variations in the TLR3 locus are associated with eosinophilic esophagitis. United European Gastroenterol J 2018; 6(3): 349-57.
+
+http://dx.doi.org/10.1177/20506406 17732643] [PMID: 29774148]
+Sleiman PM, Wang ML, Cianferoni A, et al. GWAS identifies four
+novel eosinophilic esophagitis loci. Nat Commun 2014; 5: 5593.
+http://dx.doi.org/10.1038/ncomms6593] [PMID: 25407941]
+Kottyan LC, Davis BP, Sherrill JD, e¢ al. Genome-wide association
+analysis of eosinophilic esophagitis provides insight into the tissue
+specificity of this allergic disease. Nat Genet 2014; 46(8): 895-900.
+http://dx.doi.org/10.1038/ng.3033] [PMID: 25017104]
+
+Sherrill JD, Gao PS, Stucke EM, ef al. Variants of thymic stromal
+lymphopoietin and its receptor associate with eosinophilic esophagitis. J Allergy Clin Immunol 2010; 126: 160-5 e3.
+
+Rothenberg ME, Spergel JM, Sherrill JD, e¢ al. Common variants
+at 5q22 associate with pediatric eosinophilic esophagitis. Nat Genet
+2010; 42(4): 289-91.
+
+[http://dx.doi.org/10.1038/ng.547] [PMID: 20208534]
+
+Abonia JP, Wen T, Stucke EM, ef al. High prevalence of eosinophilic esophagitis in patients with inherited connective tissue disorders. J Allergy Clin Immunol 2013; 132(2): 378-86.
+[http://dx.doi.org/10.1016/j.jaci.2013.02.030] [PMID: 23608731]
+Arora M, Bagi P, Strongin A, ef a/. Gastrointestinal Manifestations
+of STAT3-Deficient Hyper-IgE Syndrome. J Clin Immunol 2017;
+37(7): 695-700.
+
+[http://dx.doi.org/10.1007/s10875-017-0429-z] [PMID: 28803389]
+Paluel-Marmont C, Bellon N, Barbet P, et al. Eosinophilic esophagitis and colonic mucosal eosinophilia in Netherton syndrome. J
+Allergy Clin Immunol 2017; 139: 2003-5.
+
+Henderson CJ, Ngeow J, Collins MH, et al. Increased prevalence of
+eosinophilic gastrointestinal disorders in pediatric PTEN hamartoma tumor syndromes. J Pediatr Gastroenterol Nutr 2014; 58(5):
+553-60.
+
+[http://dx.doi.org/10.1097/MPG.0000000000000253] [PMID:
+24345843]
+
+Sherrill JD, Ke K, Wang X, ef al. Whole-exome sequencing uncoyers oxidoreductases DHTKD1 and OGDHL as linkers between mitochondrial dysfunction and eosinophilic esophagitis. JCI Insight
+2018; 3(8): 3.
+
+[http://dx.doi.org/10.1172/jci.insight.99922] [PMID: 29669943]
+Jensen ET, Kuhl JT, Martin LJ, Langefeld CD, Dellon ES, Rothenberg ME. Early-life environmental exposures interact with genetic
+susceptibility variants in pediatric patients with eosinophilic esophagitis. J Allergy Clin Immunol 2018; 141: 632-7 e5.
+
+Radano MC, Yuan Q, Katz A, et al. Cesarean section and antibiotic
+use found to be associated with eosinophilic esophagitis. J Allergy
+Clin Immunol Pract 2014; 2: 475-7 el.
+
+Slae M, Persad R, Leung AJ, Gabr R, Brocks D, Huynh HQ. Role
+of Environmental Factors in the Development of Pediatric Eosinophilic Esophagitis. Dig Dis Sci 2015; 60(11): 3364-72.
+[http://dx.doi.org/10.1007/s10620-015-3740-7] [PMID: 26062820]
+Cianferoni A, Ruffner MA, Guzek R, et al. Elevated expression of
+activated TH2 cells and milk-specific TH2 cells in milk-induced
+eosinophilic esophagitis. Ann Allergy Asthma Immunol 2018; 120:
+177-83 e2.
+
+Cianferoni A, Spergel J. The importance of TSLP in allergic disease and its role as a potential therapeutic target. Expert Rev Clin
+Immunol 2014; 10(11): 1463-74.
+[http://dx.doi.org/10.1586/1744666X.2014.967684] [PMID:
+25340427]
+
+Ruffner MA, Kennedy K, Cianferoni A. Pathophysiology of eosinophilic esophagitis: recent advances and their clinical implications. Expert Rev Clin Immunol 2018; 1-13.
+
+[PMID: 30394139]
+
+Spergel JM, Aceves SS, Kliewer K, et al. New developments in
+patients with eosinophilic gastrointestinal diseases presented at the
+CEGIR/TIGERS Symposium at the 2018 American Academy of
+Allergy, Asthma & Immunology Meeting. J Allergy Clin Immunol
+2018; 142(1): 48-53.
+
+[http://dx.doi.org/10.1016/j.jaci.2018.05.005] [PMID: 29803797]
+
+ 
+Non-IgE Mediated Food Allergy
+
+52
+
+53.
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+ 
+
+68
+
+ 
+
+Simon D, Cianferoni A, Spergel JM, et al. Eosinophilic esophagitis
+is characterized by a non-IgE-mediated food hypersensitivity. Allergy 2016; 71(5): 611-20.
+
+[http://dx.doi.org/10.111 1/all.12846] [PMID: 26799684]
+
+Gonsalves N, Yang GY, Doerfler B, Ritz S, Ditto AM, Hirano I.
+Elimination diet effectively treats eosinophilic esophagitis in
+adults; food reintroduction identifies causative factors. Gastroenterology 2012; 142: 1451-9 el.
+
+Lucendo AJ. Meta-Analysis-Based Guidance for Dietary Management in Eosinophilic Esophagitis. Curr Gastroenterol Rep 2015;
+17(10): 464.
+
+[http://dx.doi.org/10.1007/s11894-015-0464-y] [PMID: 26292666]
+Petroni D, Spergel JM. Eosinophilic esophagitis and symptoms
+possibly related to eosinophilic esophagitis in oral immunotherapy.
+Ann Allergy Asthma Immunol 2018; 120: 237-40 e4.
+[http://dx.doi.org/10.1016/j.anai.2017.11.016]
+
+Lucendo AJ, Arias A, Tenias JM. Relation between eosinophilic
+esophagitis and oral immunotherapy for food allergy: a systematic
+review with meta-analysis. Ann Allergy Asthma Immunol 2014;
+113(6): 624-9.
+
+[http://dx.doi.org/10.1016/j.anai.2014.08.004] [PMID: 25216976]
+Maggadottir SM, Hill DA, Ruymann K, ef al. Resolution of acute
+IgE-mediated allergy with development of eosinophilic esophagitis
+triggered by the same food. J Allergy Clin Immunol 2014; 133:
+1487-9, 9 el.
+
+Ridolo E, De Angelis GL, Dall’aglio P. Eosinophilic esophagitis
+after specific oral tolerance induction for egg protein. Ann Allergy
+Asthma Immunol 2011; 106(1): 73-4.
+http://dx.doi.org/10.1016/j.anai.2010.10.010] [PMID: 21195949]
+Kasagi Y, Dods K, Wang JX, ef al. Fibrostenotic eosinophilic
+esophagitis might reflect epithelial lysyl oxidase induction by fibroblast-derived TNF-alpha. J Allergy Clin Immunol 2018.
+
+PMID: 30578874]
+
+Straumann A, Spichtin HP, Grize L, Bucher KA, Beglinger C,
+Simon HU. Natural history of primary eosinophilic esophagitis: a
+follow-up of 30 adult patients for up to 11.5 years. Gastroenterology 2003; 125(6): 1660-9.
+http://dx.doi.org/10.1053/j.gastro.2003.09.024] [PMID: 14724818]
+Spechler SJ, Konda V, Souza R. Can Eosinophilic Esophagitis
+Cause Achalasia and Other Esophageal Motility Disorders? Am J
+Gastroenterol 2018; 113(11): 1594-9.
+http://dx.doi.org/10.1038/s41395-018-0240-3] [PMID: 30315308]
+Liacouras CA, Furuta GT, Hirano I, et al. Eosinophilic esophagitis:
+updated consensus recommendations for children and adults. J Allergy Clin Immunol 2011; 128: 3-20.
+
+Dellon ES, Liacouras CA, Molina-Infante J, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis
+Gastroenterology.
+
+Spergel JM, Dellon ES, Liacouras CA, et al. Summary of the updated international consensus diagnostic criteria for eosinophilic
+esophagitis: AGREE conference. Ann Allergy Asthma Immunol
+2018; 121(3): 281-4.
+
+http://dx.doi.org/10.1016/j.anai.2018.05.035] [PMID: 30030146]
+Lucendo AJ, Arias A, Molina-Infante J. Efficacy of Proton Pump
+Inhibitor Drugs for Inducing Clinical and Histologic Remission in
+Patients With Symptomatic Esophageal Eosinophilia: A Systematic
+Review and Meta-Analysis. Clin Gastroenterol Hepatol 2016; 14:
+13-22 el.
+
+http://dx.doi.org/10.1016/j.cgh.2015.07.041]
+
+Wen T, Dellon ES, Moawad FJ, Furuta GT, Aceves SS, Rothenberg ME. Transcriptome analysis of proton pump _inhibitorresponsive esophageal eosinophilia reveals proton pump inhibitorreversible allergic inflammation. J Allergy Clin Immunol 2015;
+135(1): 187-97.
+
+http://dx.doi.org/10.1016/jjaci.2014.08.043] [PMID: 25441638]
+Zhang X, Cheng E, Huo X, et al. Omeprazole blocks STAT6 binding to the eotaxin-3 promoter in eosinophilic esophagitis cells.
+PLoS One 2012; 7(11)e50037
+http://dx.doi.org/10.1371/journal.pone.0050037] [PMID:
+23185525]
+
+Liacouras CA, Spergel JM, Ruchelli E, et al. Eosinophilic esophagitis: a 10-year experience in 381 children. Clin Gastroenterol Hepatol 2005; 3(12): 1198-206.
+http://dx.doi.org/10.1016/S1542-3565(05)00885-2] [PMID:
+16361045]
+
+ 
+
+ 
+
+ 
+
+69
+
+70.
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76.
+
+TE
+
+78
+
+79
+
+80.
+
+81
+
+82
+
+83
+
+84
+
+85
+
+ 
+
+Current Pediatric Reviews, 2020, Vol. 16, No.0 9
+
+Caldwell JM, Blanchard C, Collins MH, et al. Glucocorticoidregulated genes in eosinophilic esophagitis: a role for FKBP51. J
+Allergy Clin Immunol 2010; 125: 879-88 e8.
+
+Aceves SS, Bastian JF, Newbury RO, Dohil R. Oral viscous
+budesonide: A potential new therapy for eosinophilic esophagitis in
+children. Am J Gastroenterol 2007; 102(10): 2271-9.
+http://dx.doi.org/10.1111/j.1572-0241.2007.01379.x] [PMID:
+17581266]
+
+Dohil R, Newbury R, Fox L, Bastian J, Aceves S. Oral viscous
+budesonide is effective in children with eosinophilic esophagitis in
+a randomized, placebo-controlled trial. Gastroenterology 2010;
+139(2): 418-29.
+
+http://dx.doi.org/10.1053/j.gastro.2010.05.001] [PMID: 20457157]
+Konikoff MR, Noel RJ, Blanchard C, et a/. A randomized, doubleblind, placebo-controlled trial of fluticasone propionate for pediatric eosinophilic esophagitis. Gastroenterology 2006; 131(5): 138191.
+
+http://dx.doi.org/10.1053/j.gastro.2006.08.033] [PMID: 17101314]
+Noel RJ, Putnam PE, Collins MH, e¢ al. Clinical and immunopathologic effects of swallowed fluticasone for eosinophilic esophagitis. Clin Gastroenterol Hepatol 2004; 2(7): 568-75.
+http://dx.doi.org/10.1016/S1542-3565(04)00240-X] [PMID:
+15224281]
+
+Teitelbaum JE, Fox VL, Twarog FJ, et al. Eosinophilic esophagitis
+in children: immunopathological analysis and response to fluticasone propionate. Gastroenterology 2002; 122(5): 1216-25.
+http://dx.doi.org/10.1053/gast.2002.32998] [PMID: 11984507]
+Straumann A, Conus S, Degen L, et al. Budesonide is effective in
+adolescent and adult patients with active eosinophilic esophagitis.
+Gastroenterology 2010; 139: 1526-37, 37 el.
+http://dx.doi.org/10.1053/j.gastro.2010.07.048]
+
+Dellon ES, Sheikh A, Speck O, et a/. Viscous topical is more effective than nebulized steroid therapy for patients with eosinophilic
+esophagitis. Gastroenterology 2012; 143: 321-4 el.
+http://dx.doi.org/10.1053/j.gastro.2012.04.049]
+
+Aceves SS, Newbury RO, Chen D, et a/. Resolution of remodeling
+in eosinophilic esophagitis correlates with epithelial response to
+topical corticosteroids. Allergy 2010; 65(1): 109-16.
+http://dx.doi.org/10.1111/j.1398-9995.2009.02142.x] [PMID:
+19796194]
+
+Lucendo AJ, Miehlke S, Schlag C, ef al. International EOS-1 Study
+Group. Efficacy of Budesonide Orodispersible Tablets as Induction
+Therapy for Eosinophilic Esophagitis in a Randomized PlaceboControlled Trial. Gastroenterology 2019; 157(1): 74-86.e15.
+http://dx.doi.org/10.1053/j.gastro.2019.03.025] [PMID: 30922997]
+Kelly HW, Sternberg AL, Lescher R, et al. CAMP Research
+Group. Effect of inhaled glucocorticoids in childhood on adult
+height. N Engl J Med 2012; 367(10): 904-12.
+http://dx.doi.org/10.1056/NEJMoa1 203229] [PMID: 22938716]
+Turpeinen M, Pelkonen AS, Nikander K, ef a/. Bone mineral density in children treated with daily or periodical inhaled budesonide:
+the Helsinki Early Intervention Childhood Asthma study. Pediatr
+Res 2010; 68(2): 169-73.
+http://dx.doi.org/10.1203/PDR.0b013e3181¢e69e36] [PMID:
+20485203]
+
+Hsu S, Wood C, Pan Z, et al. Adrenal Insufficiency in Pediatric
+Eosinophilic Esophagitis Patients Treated with Swallowed Topical
+Steroids. Pediatr Allergy Immunol Pulmonol 2017; 30(3): 135-40.
+http://dx.doi.org/10.1089/ped.2017.0779] [PMID: 29062584]
+Spergel JM, Brown-Whitehorn TF, Cianferoni A, et al. Identification of causative foods in children with eosinophilic esophagitis
+treated with an elimination diet. J Allergy Clin Immunol 2012; 130:
+461-7 5.
+
+Kagalwalla AF, Sentongo TA, Ritz S, e¢ al. Effect of six-food
+elimination diet on clinical and histologic outcomes in eosinophilic
+esophagitis. Clin Gastroenterol Hepatol 2006; 4(9): 1097-102.
+[http://dx.doi.org/10.1016/j.cgh.2006.05.026] [PMID: 16860614]
+Lucendo AJ, Arias A, Gonzalez-Cervera J, et al. Empiric 6-food
+elimination diet induced and maintained prolonged remission in patients with adult eosinophilic esophagitis: a prospective study on
+the food cause of the disease. J Allergy Clin Immunol 2013;
+131(3): 797-804.
+
+[http://dx.doi.org/10.1016/j.jaci.2012.12.664] [PMID: 23375693]
+Molina-Infante J, Arias A, Alcedo J, et al. Step-up empiric elimination diet for pediatric and adult eosinophilic esophagitis: The 2-4-6
+study. J Allergy Clin Immunol 2018; 141(4): 1365-72.
+
+ 
+
+ 
+10 Current Pediatric Reviews, 2020, Vol. 16, No. 0
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92.
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+ 
+
+99
+
+100
+
+101
+
+102
+
+ 
+
+103
+
+ 
+
+[http://dx.doi.org/10.1016/j.jaci.2017.08.038] [PMID: 29074457]
+Molina-Infante J, Arias A, Barrio J, Rodriguez-Sanchez J, SanchezCazalilla M, Lucendo AJ. Four-food group elimination diet for
+adult eosinophilic esophagitis: A prospective multicenter study. J
+Allergy Clin Immunol 2014; 134: 1093-9 el.
+
+Kelly KJ, Lazenby AJ, Rowe PC, Yardley JH, Perman JA, Sampson HA. Eosinophilic esophagitis attributed to gastroesophageal reflux: improvement with an amino acid-based formula. Gastroenterology 1995; 109(5): 1503-12.
+http://dx.doi.org/10.1016/0016-5085(95)90637-1] [PMID:
+7557132]
+
+Cianferoni A, Shuker M, Brown-Whitehorn T, Hunter H, Venter C,
+Spergel JM. Food avoidance strategies in eosinophilic oesophagitis.
+Clin Exp Allergy 2019; 49(3): 269-84.
+http://dx.doi.org/10.1111/cea.13360] [PMID: 30714219]
+
+Spergel J, Aceves SS. Allergic components of eosinophilic esophagitis. J Allergy Clin Immunol 2018; 142(1): 1-8.
+http://dx.doi.org/10.1016/j jaci.2018.05.001] [PMID: 29980277]
+Clayton F, Fang JC, Gleich GJ, et al. Eosinophilic esophagitis in
+adults is associated with IgG4 and not mediated by IgE. Gastroenterology 2014; 147(3): 602-9.
+http://dx.doi.org/10.1053/j.gastro.2014.05.036] [PMID: 24907494]
+Conus S, Straumann A, Bettler E, Simon HU. Mepolizumab does
+not alter levels of eosinophils, T cells, and mast cells in the duodenal mucosa in eosinophilic esophagitis. J Allergy Clin Immunol
+2010; 126(1): 175-7.
+
+http://dx.doi.org/10.1016/j.jaci.2010.04.029] [PMID: 20542323]
+Straumann A, Conus S, Grzonka P, et al. Anti-interleukin-5 antibody treatment (mepolizumab) in active eosinophilic oesophagitis:
+A randomised, placebo-controlled, double-blind trial. Gut 2010;
+59(1): 21-30.
+
+http://dx.doi.org/10.1136/gut.2009.178558] [PMID: 19828470]
+Conus S, Straumann A, Simon HU. Anti-IL-5 (mepolizumab)
+therapy does not alter IL-5 receptor alpha levels in patients with
+eosinophilic esophagitis. J Allergy Clin Immunol 2009; 123: 70.
+Spergel JM, Rothenberg ME, Collins MH, e¢ a/. Reslizumab in
+children and adolescents with eosinophilic esophagitis: results of a
+double-blind, randomized, placebo-controlled trial. J Allergy Clin
+Immunol 2012; 129: 456-63, 63 el-3.
+
+Straumann A, Hoesli S, Bussmann Ch, ef a/. Anti-eosinophil activity and clinical efficacy of the CRTH2 antagonist OC000459 in
+eosinophilic esophagitis. Allergy 2013; 68(3): 375-85.
+[http://dx.doi.org/10.111 1/all.12096] [PMID: 23379537]
+
+Sastre J, Davila I. Dupilumab: A New Paradigm for the Treatment
+of Allergic Diseases. J Investig Allergol Clin Immunol 2018; 28(3):
+139-50.
+
+[http://dx.doi.org/10.18176/jiaci.0254] [PMID: 29939132]
+
+Hirano I, Collins MH, Assouline-Dayan Y, et al. RPC4046, a
+Monoclonal Antibody Against IL13, Reduces Histologic and Endoscopic Activity in Patients With Eosinophilic Esophagitis. Gastroenterology 2019; 156: 592-603 e10.
+
+Straumann A. Idiopathic eosinophilic gastrointestinal diseases in
+adults. Best Pract Res Clin Gastroenterol 2008; 22(3): 481-96.
+http://dx.doi.org/10.1016/j.bpg.2007.09.001] [PMID: 18492567]
+Furuta GT, Forbes D, Boey C, ef al. Eosinophilic Gastrointestinal
+Diseases Working Group. Eosinophilic gastrointestinal diseases
+(EGIDs). J Pediatr Gastroenterol Nutr 2008; 47(2): 234-8.
+http://dx.doi.org/10.1097/MPG.0b013e318181b1c¢3] [PMID:
+18664881]
+
+Mukkada VA, Furuta GT. Idiopathic eosinophilic disorders of the
+gastrointestinal tract in children. Best Pract Res Clin Gastroenterol
+2008; 22(3): 497-509.
+
+http://dx.doi.org/10.1016/j.bpg.2007.09.002] [PMID: 18492568]
+Pineton de Chambrun G, Gonzalez F, Canva JY, et al. Natural
+history of eosinophilic gastroenteritis. Clin Gastroenterol Hepatol
+2011; 9: 950-6 el.
+
+http://dx.doi.org/10.1016/j.cgh.2011.07.017]
+
+Ko HM, Morotti RA, Yershov O, Chehade M. Eosinophilic gastritis in children: clinicopathological correlation, disease course, and
+response to therapy. Am J Gastroenterol 2014; 109(8): 1277-85.
+http://dx.doi.org/10.1038/ajg.2014.166] [PMID: 24957155]
+Caldwell JM, Collins MH, Stucke EM, ef al. Histologic eosinophilic gastritis is a systemic disorder associated with blood and extragastric eosinophilia, TH2 immunity, and a unique gastric transcriptome. J Allergy Clin Immunol 2014; 134(5): 1114-24.
+http://dx.doi.org/10.1016/j.jaci.2014.07.026] [PMID: 25234644]
+
+ 
+
+ 
+
+ 
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+119
+
+120
+
+ 
+
+Antonella Cianferoni
+
+Reed C, Woosley JT, Dellon ES. Clinical characteristics, treatment
+outcomes, and resource utilization in children and adults with eosinophilic gastroenteritis. Dig Liver Dis 2015; 47(3): 197-201.
+http://dx.doi.org/10.1016/j.dld.2014.11.009] [PMID: 25547198]
+Lucendo AJ, Serrano-Montalban B, Arias A, Redondo O, Tenias
+JM. Systematic Review: The Efficacy of Dietary Treatment for Inducing Disease Remission in Eosinophilic Gastroenteritis. J Pediatr
+Gastroenterol Nutr 2015.
+http://dx.doi.org/10.1097/MPG.0000000000000766]
+
+Chen MJ, Chu CH, Lin SC, Shih SC, Wang TE. Eosinophilic gastroenteritis: clinical experience with 15 patients. World J Gastroenterol 2003; 9(12): 2813-6.
+http://dx.doi.org/10.3748/wjg.v9.i12.2813] [PMID: 14669340]
+Lombardi C, Salmi A, Passalacqua G. An adult case of eosinophilic
+pyloric stenosis maintained on remission with oral budesonide. Eur
+Ann Allergy Clin Immunol 2011; 43(1): 29-30.
+
+PMID: 21409859]
+
+Lombardi C, Salmi A, Savio A, Passalacqua G. Localized eosinophilic ileitis with mastocytosis successfully treated with oral
+budesonide. Allergy 2007; 62(11): 1343-5.
+http://dx.doi.org/10.1111/j.1398-9995.2007.01461.x] [PMID:
+17919149]
+
+Elsing C, Placke J, Gross-Weege W. Budesonide for the treatment
+of obstructive eosinophilic jejunitis. Z Gastroenterol 2007; 45(2):
+187-9.
+
+http://dx.doi.org/10.1055/s-2006-927138] [PMID: 17304405]
+Siewert E, Lammert F, Koppitz P, Schmidt T, Matern S. Eosinophilic gastroenteritis with severe protein-losing enteropathy: successful treatment with budesonide. Digestive and liver disease : Official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver 2006; 38: 55-9.
+http://dx.doi.org/10.1016/j.dld.2005.06.013]
+
+Tan AC, Kruimel JW, Naber TH. Eosinophilic gastroenteritis
+treated with non-enteric-coated budesonide tablets. Eur J Gastroenterol Hepatol 2001; 13(4): 425-7.
+http://dx.doi.org/10.1097/00042737-200104000-00021] [PMID:
+11338074]
+
+Kennedy K, Muir AB, Grossman A, et al. Modified oral entericcoated budesonide regimens to treat pediatric eosinophilic gastroenteritis, a single center experience. J Allergy Clin Immunol Pract
+2019; 7(6): 2059-61.
+
+http://dx.doi.org/10.1016/j.jaip.2019.01.053] [PMID: 30763733]
+Sherrill JD, Rothenberg ME. Genetic and epigenetic underpinnings
+of eosinophilic esophagitis. Gastroenterol Clin North Am 2014;
+43(2): 269-80.
+
+http://dx.doi.org/10.1016/j.gtc.2014.02.003] [PMID: 24813515]
+Van Dellen RG, Lewis JC. Oral administration of cromolyn in a
+patient with protein-losing enteropathy, food allergy, and eosinophilic gastroenteritis. Mayo Clin Proc 1994; 69(5): 441-4.
+http://dx.doi.org/10.1016/S0025-6196(12)61640-1] [PMID:
+8170195]
+
+Chang JY, Choung RS, Lee RM, et al. A shift in the clinical spectrum of eosinophilic gastroenteritis toward the mucosal disease
+type. Clin Gastroenterol Hepatol 2010; 8(8): 669-75.
+http://dx.doi.org/10.1016/j.cgh.2010.04.022] [PMID: 20451664]
+Wechsler JB, Hirano I. Biological therapies for eosinophilic gastrointestinal diseases. J Allergy Clin Immunol 2018; 142: 24-31 2.
+Powell GK. Milk- and soy-induced enterocolitis of infancy. Clinical features and standardization of challenge. J Pediatr 1978; 93(4):
+553-60.
+
+http://dx.doi.org/10.1016/S0022-3476(78)80887-7] [PMID:
+568171]
+
+Powell GK. Food protein-induced enterocolitis of infancy: differential diagnosis and management. Compr Ther 1986; 12(2): 28-37.
+PMID: 3956146]
+
+Nowak-Wegrzyn A, Chehade M, Groetch ME, et al. International
+consensus guidelines for the diagnosis and management of food
+protein-induced enterocolitis syndrome: Executive summaryWorkgroup Report of the Adverse Reactions to Foods Committee,
+American Academy of Allergy, Asthma & Immunology. The Journal of allergy and clinical immunology 2017; 139: 1111-26 e4.
+
+Katz Y, Goldberg MR, Rajuan N, Cohen A, Leshno M. The prevalence and natural course of food protein-induced enterocolitis syndrome to cow’s milk: a large-scale, prospective population-based
+study. J Allergy Clin Immunol 2011; 127(3): 647-53.e1, 3.
+[http://dx.doi.org/10.1016/j.jaci.2010.12.1105] [PMID: 21377033]
+
+ 
+
+ 
+Non-IgE Mediated Food Allergy
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127.
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+ 
+
+134
+
+ 
+
+Alonso SB, Ezquiaga JG, Berzal PT, et al. Food protein-induced
+enterocolitis syndrome: Increased prevalence of this great unknown-results of the PREVALE study. J Allergy Clin Immunol
+2018.
+
+PMID: 30244024]
+
+Nowak-Wegrzyn A, Warren CM, Brown-Whitehorn T, Cianferoni
+A, Schultz-Matney F, Gupta RS. Food protein-induced enterocolitis
+syndrome in the US population-based study. J Allergy Clin Immunol 2019.S0091-6749(19)30899-1
+
+http://dx.doi.org/10.1016/j jaci.2019.06.032] [PMID: 31288044]
+Nowak-Wegrzyn A, Sampson HA, Wood RA, Sicherer SH. Food
+protein-induced enterocolitis syndrome caused by solid food proteins. Pediatrics 2003; 111(4 Pt 1): 829-35.
+http://dx.doi.org/10.1542/peds.111.4.829] [PMID: 12671120]
+Hwang JB, Sohn SM, Kim AS. Prospective follow-up oral food
+challenge in food protein-induced enterocolitis syndrome. Arch Dis
+Child 2009; 94(6): 425-8.
+http://dx.doi.org/10.1136/ade.2008.143289] [PMID: 18829623]
+Mehr S, Kakakios A, Frith K, Kemp AS. Food protein-induced
+enterocolitis syndrome: 16-year experience. Pediatrics 2009;
+123(3): e459-64.
+
+http://dx.doi.org/10.1542/peds.2008-2029] [PMID: 19188266]
+Sopo SM, Giorgio V, Dello Iacono I, Novembre E, Mori F, Onesimo R. A multicentre retrospective study of 66 Italian children
+with food protein-induced enterocolitis syndrome: different management for different phenotypes. Clinical and experimental allergy
+: journal of the British Society for Allergy and Clinical Immunology 2012; 42: 1257-65.
+
+Ruffner MA, Ruymann K, Barni S, Cianferoni A, BrownWhitehorn T, Spergel JM. Food protein-induced enterocolitis syndrome: insights from review of a large referral population. J Allergy Clin Immunol Pract 2013; 1(4): 343-9.
+http://dx.doi.org/10.1016/.jaip.2013.05.011] [PMID: 24565539]
+Nomura I, Morita H, Ohya Y, Saito H, Matsumoto K. Non-IgEmediated gastrointestinal food allergies: distinct differences in
+clinical phenotype between Western countries and Japan. Curr Allergy Asthma Rep 2012; 12(4): 297-303.
+http://dx.doi.org/10.1007/s11882-012-0272-5] [PMID: 22644865]
+Ntoumpara M, Sotiriadou F, Fotoulaki M. Acute-on-chronic food
+protein-induced enterocolitis syndrome in an exclusively breast-fed
+infant. Clin Case Rep 2018; 7(1): 71-3.
+http://dx.doi.org/10.1002/ccr3.1905] [PMID: 30656011]
+
+Joshi SR, Bird JA. Cow’s milk-associated chronic food proteininduced enterocolitis syndrome exacerbated by extensively hydrolyzed formula. Ann Allergy Asthma Immunol 2018; 120(5): 532-3.
+http://dx.doi.org/10.1016/j.anai.2018.02.025] [PMID: 29481888]
+Weinberger T, Feuille E, Thompson C, Nowak-Wegrzyn A.
+Chronic food protein-induced enterocolitis syndrome: Characterization of clinical phenotype and literature review. Ann Allergy
+Asthma Immunol 2016; 117(3): 227-33.
+http://dx.doi.org/10.1016/j.anai.2016.03.004] [PMID: 27613454]
+Miceli Sopo S, Monaco S, Greco M, Scala G. Chronic food protein-induced enterocolitis syndrome caused by cow’s milk proteins
+passed through breast milk. Int Arch Allergy Immunol 2014;
+164(3): 207-9.
+
+http://dx.doi.org/10.1159/000365104] [PMID: 25034379]
+Blackman AC, Anvari S, Davis CM, Anagnostou A. Emerging
+triggers of food protein-induced enterocolitis syndrome: Lessons
+from a pediatric cohort of 74 children in the United States. Ann Allergy Asthma Immunol 2019; 122(4): 407-11.
+http://dx.doi.org/10.1016/j.anai.2019.01.022] [PMID: 30742916]
+Caubet JC, Ford LS, Sickles L, ef al. Clinical features and resolution of food protein-induced enterocolitis syndrome: 10-year experience. J Allergy Clin Immunol 2014; 134(2): 382-9.
+
+ 
+
+ 
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+ 
+
+ 
+
+144
+
+[145]
+
+[146]
+
+[147]
+
+Current Pediatric Reviews, 2020, Vol. 16, No.0 11
+
+http://dx.doi.org/10.1016/j.jaci.2014.04.008] [PMID: 24880634]
+Barasche J, Stollar F, Bergmann MM, Caubet JC. Severely Altered-Consciousness Status and Profuse Vomiting in Infants: Food
+Protein-Induced Enterocolitis Syndrome (FPIES), a Challenging
+Diagnosis. Pediatr Emerg Care 2018; 34(10): e187-9.
+
+PMID: 27741073]
+
+Wang KY, Lee J, Cianferoni A, et al. Food Protein-Induced Enterocolitis Syndrome Food Challenges: Experience from a Large
+Referral Center. J Allergy Clin Immunol Pract 2019; 7(2): 444-50.
+http://dx.doi.org/10.1016/j.jaip.2018.09.009] [PMID: 30243880]
+Nowak-Wegrzyn A, Katz Y, Mehr SS, Koletzko S. Non-IgEmediated gastrointestinal food allergy. J Allergy Clin Immunol
+2015; 135(5): 1114-24.
+http://dx.doi.org/10.1016/j.jaci.2015.03.025] [PMID: 25956013]
+Caglayan Sozmen S, Povesi Dascola C, Gioia E, Mastrorilli C,
+Rizzuti L, Caffarelli C. Diagnostic accuracy of patch test in children with food allergy. Pediatr Allergy Immunol 2015; 26(5): 41622.
+
+http://dx.doi.org/10.1111/pai.12377] [PMID: 25808316]
+
+Caffarelli C, Dondi A, Povesi Dascola C, Ricci G. Skin prick test to
+foods in childhood atopic eczema: pros and cons. Ital J Pediatr
+2013; 39: 48.
+
+http://dx.doi.org/10.1186/1824-7288-39-48] [PMID: 23902622]
+Miceli Sopo S, Monaco S, Bersani G, Romano A, Fantacci C.
+Proposal for management of the infant with suspected food proteininduced allergic proctocolitis. Pediatr Allergy Immunol 2018;
+29(2): 215-8.
+
+http://dx.doi.org/10.1111/pai.12844] [PMID: 29197125]
+
+Sampson HA. Utility of food-specific IgE concentrations in predicting symptomatic food allergy. J Allergy Clin Immunol 2001;
+107(5): 891-6.
+
+http://dx.doi.org/10.1067/mai.2001.114708] [PMID: 11344358]
+Verstege A, Mehl A, Rolinck-Werninghaus C, et al. The predictive
+value of the skin prick test weal size for the outcome of oral food
+challenges. Clin Exp Allergy 2005; 35(9): 1220-6.
+http://dx.doi.org/10.1111/j.1365-2222.2005.2324.x] [PMID:
+16164451]
+
+Boyano Martinez T, Garcia-Ara C, Diaz-Pena JM, Mujioz FM,
+Garcia Sanchez G, Esteban MM. Validity of specific IgE antibodies in children with egg allergy. Clin Exp Allergy 2001; 31(9):
+1464-9.
+
+http://dx.doi.org/10.1046/j.1365-2222.2001.01175.x] [PMID:
+11591198]
+
+Monti G, Muratore MC, Peltran A, et al. High incidence of adverse
+reactions to egg challenge on first known exposure in young atopic
+dermatitis children: predictive value of skin prick test and radioallergosorbent test to egg proteins. Clin Exp Allergy 2002; 32(10):
+1515-9.
+
+http://dx.doi.org/10.1046/j.1365-2745.2002.01454.x] [PMID:
+12372134]
+
+Roberts G, Lack G. Diagnosing peanut allergy with skin prick and
+specific IgE testing. J Allergy Clin Immunol 2005; 115(6): 1291-6.
+http://dx.doi.org/10.1016/j.jaci.2005.02.038] [PMID: 15940149]
+Sporik R, Hill DJ, Hosking CS. Specificity of allergen skin testing
+in predicting positive open food challenges to milk, egg and peanut
+in children. Clin Exp Allergy 2000; 30(11): 1540-6.
+http://dx.doi.org/10.1046/j.1365-2222.2000.00928.x] [PMID:
+11069561]
+
+Celik-Bilgili S, Mehl A, Verstege A, ef al. The predictive value of
+specific immunoglobulin E levels in serum for the outcome of oral
+food challenges. Clin Exp Allergy 2005; 35(3): 268-73.
+http://dx.doi.org/10.1111/j.1365-2222.2005.02150.x] [PMID:
+15784102]
+
+ 
+
+ 
+
+DISCLAIMER: The above article has been published in Epub (ahead of print) on the basis of the materials provided by the
+author. The Editorial Department reserves the right to make minor modifications for further improvement of the manuscript.
+

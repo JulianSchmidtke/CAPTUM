@@ -1,0 +1,321 @@
+Clinical Communications
+
+Elevated baseline D-dimer plasma
+levels are associated with a prompt
+response to omalizumab in patients
+with severe CSU
+
+Riccardo Asero, MD*, Angelo Valerio Marzano, MD»,
+Silvia Ferrucci, MD”, and Massimo Cugno, MD°
+
+Clinical Implications
+
+e D-dimer and prothrombin fragment F 1+2 are much
+more frequently elevated in patients with chronic
+
+spontaneous urticaria showing an early response to
+omalizumab than in late responders and nonresponders,
+suggesting that the activation of the coagulation cascade
+characterizes a specific subset of the disease.
+
+TO THE EDITOR:
+
+The coagulation cascade is activated via the extrinsic pathway
+in chronic spontaneous urticaria (CSU) with an intensity that
+parallels disease severity.'> In severe cases, the activation is
+intense enough to lead eventually to massive thrombin generation and to the detection of elevated D-dimer plasma levels. An
+elevated D-dimer plasma level has been found to be a viable
+biomarker in CSU, being associated both with a poor response to
+antihistamines’ and with a limited response to cyclosporine
+treatment.” The humanized monoclonal anti-lgE antibody
+omalizumab is an effective treatment for patients with severe
+CSU not responding to antihistamines at higher than licensed
+doses. However, a proportion of patients do not respond to antiIgE therapy, and the reasons for this are unclear. Interestingly,
+D-dimer plasma levels parallel the clinical response to omalizumab treatment, dropping in responders and remaining
+unchanged in nonresponders.” In this study, we assessed whether
+baseline D-dimer plasma levels are able to predict the clinical
+response to omalizumab.
+
+Seventy-four adults (mean age 49 years, range 15-78 years; M/
+F 26/48) with severe CSU unresponsive to second-generation
+antihistamines at up to 4 times licensed dose (urticaria activity
+score [UAS 7] > 30; mean disease duration 49 months; range
+2-540 months) were studied. We included all the patients submitted to omalizumab at our centers so far. All patients underwent a course of subcutaneous omalizumab 300 mg every 4
+weeks for at least 3 months. Based on the response to omalizumab, patients were classified as “early responders” (showing a
+dramatic reduction of UAS 7 to at least <14 as short as 3-7 days
+after the first administration), “late responders” (UAS 7 reduction to at least <20 only after 2-3 months of treatment), or
+“nonresponders” (symptoms remaining unchanged after 3 shots
+of the drug). Baseline D-dimer plasma levels were measured in
+all patients 1 to 7 days before the first dose of omalizumab by
+means of ELISA (Zymutest D-dimer; Hyphen BioMed,
+Neuville-sur-Oise, France). The intra- and interassay coefficients
+of variation (CVs) were 10% and 15%, respectively. Levels below
+500 ng/mL were regarded as normal. In 27 patients, we also
+
+ 
+
+ 
+
+ 
+
+ 
+
+measured baseline plasma levels of prothrombin fragment F 1+2
+by a sandwich ELISA (Enzygnost F112; Behring Diagnostics,
+Frankfurt, Germany). Intraassay and interassay CVs were 5%
+and 8%, respectively. The differences between groups were
+evaluated by Mann-Whitney nonparametric tests for independent samples; probability values of <.05 were considered. statistically significant. A receiver operating characteristic (ROC)
+curve analysis was performed. For statistical analysis, the SPSS
+statistical package, version 23.00 (IBM SPSS, Chicago, Ill) was
+used. All patients agreed with the treatment regimen and signed a
+written consent. The local review boards approved the study, and
+in view of its observational nature, a formal ethical committee
+approval was not requested.
+
+Overall, the rate of clinical response to omalizumab was 82%
+(61/74). Forty-eight (65%) patients were classified as early responders, 13 (18%) as late responders, and 13 (18%) as nonresponders. No difference in sex distribution and age and disease
+duration was found between the three subgroups. Baseline
+D-dimer plasma levels were elevated in 52 of 74 (70.3%) patients
+but with a different distribution in the 3 subgroups: 43 of 48
+(89.6%) in early responders, 7 of 13 (53.8%) in late responders,
+and 5 of 13 (38.5%) in nonresponders. Early responders showed
+significantly higher mean baseline D-dimer levels (mean 1536
+ng/mL, 95% confidence interval [CI] 968-2104 ng/mL) than
+both late responders (mean 705, 95% CI 362-1048) (P = .011)
+and nonresponders (mean 524 ng/mL, 95% CI 316-732 ng/mL)
+(P = .031) (Figure 1), whereas no difference was detected between the 2 latter subgroups. The same picture was observed in
+the 27 patients in whom baseline prothrombin fragment F 1+2
+was measured, with early responders showing significantly higher
+levels than both late responders and nonresponders (P = .024
+and P = .020, respectively), with the latter 2 groups that did not
+show any significant difference (Figure 2). A direct linear correlation was present between F 1+2 and D-dimer plasma levels
+(r = 0.809, P = .0001). According to the ROC curve analysis,
+the threshold value of plasma D-dimer that better discriminated
+between responders and late/nonresponders to omalizumab was
+475 ng/mL (sensitivity 91.5%, specificity 63.8%, positive predictive value 78.2%, negative predictive value 77.8%). The area
+under the curve was 0.714 (95% CI 0.587-0.842). In the
+responder group, we found an inverse correlation between
+baseline levels of D-dimer and time to response (r = —0.411,
+P = .007).
+
+The clinical response of patients with severe CSU to omalizumab administration is variable, with a majority of subjects
+showing a prompt disappearance of symptoms after as short as a
+ew days after the first shot, and the remaining responding slowly
+or not responding at all. To date no predictive marker exists for
+the outcome of this expensive treatment. D-dimer levels are
+requently elevated in patients with CSU not responding to
+antihistamines or cyclosporine and parallel the clinical response
+to omalizumab.”” In this study, elevated baseline D-dimer
+plasma levels were significantly associated with a prompt
+response to anti-IgE therapy, and the association between
+coagulation activation and early response to anti-IgE was
+confirmed by fragment F 1+2 data. These observations suggest
+that CSU might in effect include different diseases characterized
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2 CLINICAL COMMUNICATIONS
+
+ 
+
+ 
+
+ 
+
+P=0.011 P=0.031
+12000 + co co
+10000 4 °
+= 8000 4
+2
+= 6000 4 8
+£ °
+=
+a 4000 4 8
+2000 4 g
+ol
+Non Early Late
+responders responders responders
+
+FIGURE 1. Plasma levels of D-dimer at baseline in 74 patients
+with chronic spontaneous urticaria before omalizumab treatment
+subdivided into nonresponders (13), early responders (48), and
+late responders (13). The dashed line represents the upper limit of
+normal subjects.
+
+ 
+
+ 
+
+ 
+
+ 
+
+P=0.024 P=0.020
+> | I
+= 3000 °
+=
+&
+N
+ae
+2000 4
+Cc
+o
+iS
+a 8
+5 1000 4 8
+8
+2° — °
+s
+2 ° °
+« 8
+0 : 1 r
+Non Early Late
+responders responders _ responders
+
+FIGURE 2. Plasma levels of prothrombin fragment F 1+2 at
+baseline in 27 patients with chronic spontaneous urticaria before
+omalizumab treatment subdivided into nonresponders (4), early
+responders (17), and late responders (6). The dashed line
+represents the upper limit of normal subjects.
+
+by an identical clinical phenotype but different endotypes. This
+is most evident when we consider the clinically different responses to antihistamines, omalizumab, and cyclosporine. The
+activation of the coagulation cascade, demonstrated by high
+plasma levels of D-dimer, may be due to a crosstalk with
+inflammation that is frequently observed in patients with severe
+CSU.‘ However, inflammation is not always present in patients
+with CSU; in fact, approximately 30% of the patients included
+in this study (also with baseline UAS 7 > 30) had normal
+baseline D-dimer levels. In a recent study, a slow (“late”)
+response to omalizumab was associated with autoreactivity, as
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2017
+
+detected by positive autologous serum skin test and/or positive
+basophil histamine release assay." Notably, the proportion of
+“late responders” detected in that study is similar to that of patients showing autoantibodies to IgE or to the high-affinity IgE
+receptor (FceRI).” Interestingly, we found that late responders
+and nonresponders to omalizumab were similar in terms of the
+activation of the coagulation cascade. Thus, CSU associated with
+elevated D-dimer plasma levels might represent an endotype
+characterized by the activation of inflammation pathways that
+makes the patients more responsive to omalizumab treatment. It
+is apparently contradictory that patients with CSU are not reported to be at risk for thrombotic events despite an increased
+activation of the coagulation cascade. A possible explanation is
+that the activation of coagulation occurs extravascularly and can
+be efficiently counteracted by fibrinolysis. Several early
+responders to omalizumab treatment showed normal baseline Ddimer levels; however, it should be considered that D-dimer is
+much less sensitive than the prothrombin fragment F 1+2 in
+detecting the activation of coagulation cascade. In effect, only 1
+of 17 early responders showed an F 1+2 level within the normal
+range (Figure 2), suggesting that coagulation was activated in the
+large majority of early responders to omalizumab. Altogether, it
+seems possible to conclude that D-dimer appears to be a positive
+predictive marker for the clinical response to anti-IgE therapy,
+although its normality does not exclude it. In our series, sex, age,
+and duration of disease did not affect the clinical response to
+omalizumab. Although larger studies are needed to confirm our
+findings, in many cases, elevated D-dimer plasma levels seem to
+mark a subset of patients with CSU characterized by a severe
+disease that often do not respond to antihistamines or even
+cyclosporine, but frequently show a prompt and complete
+response to anti-IgE.
+
+ 
+
+“Ambulatorio di Allergologia, Clinica San Carlo, Paderno Dugnano, Italy
+
+‘Dipartimento di Fisiopatologia Medico-Chirurgica e dei Trapianti, Universita degli
+Studi di Milano, UOC Dermatologia, IRCCS Fondazione Ca Granda Ospedale
+Maggiore Policlinico, Milano, Italy
+
+“Dipartimento di Fisiopatologia Medico-Chirurgica e dei Trapianti, Universita degli
+Studi di Milano, Medicina Interna, IRCCS Fondazione Ca Granda Ospedale
+Maggiore Policlinico, Milano, Italy
+
+No funding was received for this work.
+
+Conflicts of interest: The authors declare that they have no relevant conflicts of
+interest.
+
+Received for publication June 5, 2017; revised July 5, 2017; accepted for publication
+July 13, 2017.
+
+Available online il
+
+Corresponding author: Riccardo Asero, MD, Ambulatorio di Allergologia, Clinica
+San Carlo, Via Ospedale 21, 20037 Paderno Dugnano (M1), Italy. E-mail: r-asero@
+libero.it.
+
+2213-2198
+
+© 2017 American Academy of Allergy, Asthma & Immunology
+
+hitp://dx.doi.org/10.1016/,jaip.2017.07.009
+
+REFERENCES
+
+1, Asero R, Tedeschi A, Coppola R, Griffini $, Paparella P, Riboldi P, et al
+Activation of the tissue factor pathway of blood coagulation in patients with
+chronic urticaria. J Allergy Clin Immunol 2007;119:705-10.
+
+2. Takeda T, Sakurai Y, Takahagi S, Kato J, Yoshida K, Yoshioka A, et al. Increase
+
+2011;66:
+
+ 
+
+of coagulation potential in chronic spontaneous urticaria. All
+428-33.
+
+3. Wang F, Tang H, Xu JH, Kang KF. Activation of the blood coagulation cascade
+
+. J Allergy Clin Immunol 2009;123
+
+ 
+
+involved in patients with chronic urtic
+972-3.
+
+Asero R, Tedeschi A, Riboldi P, Griffini S, Bonanni E, Cugno M. Severe chronic
+urticaria is associated with elevated plasma levels of D-dimer. Allergy 2008;63:
+176-80.
+
+ 
+
+  
+TICLE IN PRESS
+
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME i, NUMBER
+
+5. Asero R. D-dimer: a biomarker for antihistamine-resistant chronic urticaria.
+J Allergy Clin Immunol 2013;132:983-6.
+
+6. Asero R. Plasma D-dimer levels and clinical response to ciclosporin in severe
+chronic spontaneous urticaria. J Allergy Clin Immunol 2015;135:1401-3.
+
+7. Asero R, Marzano AV, Ferrucci S, Cugno M. D-dimer plasma levels parallel the
+clinical response to omalizumab in patients with severe chronic spontaneous
+urticaria. Int Arch Allergy Immunol 2017;172:40-4.
+
+CLINICAL COMMUNICATIONS 3
+
+. Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S$, Skov PS, et al.
+
+Serum autoreactivity predicts time to response to omalizumab therapy, in
+chronic spontaneous urticaria. J Allergy Clin Immunol 2017;139:
+1059-1061.e1.
+
+. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Auto
+antibodies against the high affinity IgE receptor as a cause of histamine release in
+chronic urticaria. N Engl J Med 1993:328:1599-604,
+

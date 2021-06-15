@@ -1,0 +1,848 @@
+Chronic urticaria in the real-life clinical practice setting in the UK: results
+
+from the non-interventional multicentre AWARE study
+
+S. Savic,! L. Leeman,” T. El-Shanawany,? R. Ellis,4 J.E. Gach,> S. Marinho,° S. Wahie,’
+R. Sargur,’ A.P. Bewley,’ A. Nakonechna,!° R. Randall,!! N. Fragkas,!! O. Somenzi!! and
+A. Marsland!2
+
+'St James’s University Hospital, Leeds, UK; ?University Hospitals Plymouth NHS Trust,
+Plymouth, UK; ?University Hospital of Wales, Cardiff; UK; (James Cook University Hospital,
+Middlesbrough, UK; °University Hospitals Coventry and Warwickshire, Coventry, UK;
+°Wythenshawe Hospital, Manchester University Foundation Trust and University of Manchester,
+Manchester, UK; “University Hospital of North Durham, Durham, UK; *Sheffield Teaching
+Hospitals, Sheffield, UK; °Barts Health NHS Trust, London, UK; !°Sheffield Teaching Hospitals,
+Sheffield, UK and University of Liverpool, Liverpool, UK; !'Novartis Pharmaceuticals UK Ltd,
+Camberley, Surrey, UK; '?Salford Royal Hospital, Salford, UK and University of Manchester,
+Manchester, UK
+
+Correspondence: Alexander Marsland
+Email: alexander.marsland@manchester.ac.uk
+
+Keywords: angioedema, chronic spontaneous urticaria, healthcare use, urticaria
+
+Disclosures: SS has received educational support and speaker fees and/or advisory fees from CSL,
+Novartis Takeda, Grifols and Sobi, as well as research grants from CSL and Sobi. LL has received
+educational support and speaker fees and/or advisory fees from CSL, Novartis and Takeda. TE-S
+has received educational support, research support, speaker fees and/or advisory fees from Allergy
+Therapeutics, Biotest, CSL, LFB, Mylan, Pharming, Shire and Novartis. RE is a director and
+shareholder of AMLo Biosciences and has received consultation fees from AbbVie. JEG received
+educational support from Novartis to attend dermatology meetings inclusive of registration fees,
+accommodation and travel expenses. SM received educational support and speaker fees from
+
+Allergy Therapeutics, Thermo Fisher, Mylan and Novartis. SW has received sponsorship to attend
+
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process, which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.1111/CED.14230
+
+This article is protected by copyright. All rights reserved
+
+Check for
+updates
+dermatology conferences, with travel, accommodation and meals paid for, from Janssen, AbbVie,
+Novartis and Almirall. RS has received consultation fees, speaker fees and assistance with
+conference travel from Novartis, CSL, Pharming and Shire. APB has received consultation fees
+from AbbVie, Almirall, Janssen, Leo Pharma, Novartis, Lilly, Galderma and UCB. AN has
+received speaker fees and/or advisory fees from Thermo Fisher and Novartis, and assistance with
+conference attendance from Allergy Therapeutics and ALK-Abellé. RR, NF and OS are
+employees of Novartis Pharmaceuticals UK Ltd. AM has received consultation fees, speaker fees
+and assistance with conference travel from Almirall, Galderma, MEDA, Novartis, Roche and
+
+Sanofi in the past 5 years.
+
+Running head: CU in the clinical practice setting in the UK
+
+This article is protected by copyright. All rights reserved
+Abstract
+
+Background. Chronic urticaria (CU) is a skin condition characterised by repeated occurrence of
+
+itchy wheals and/or angioedema for >6 weeks.
+Aim. To provide data demonstrating the real-life burden of CU in the UK.
+
+Methods. This UK subset of the worldwide, prospective, non-interventional AWARE study
+included patients aged 18—75 years diagnosed with H1-antihistamine (H1-AH)-refractory chronic
+spontaneous urticaria (CSU) for >2 months. Baseline characteristics, disease activity, treatments,
+comorbidities and healthcare resource use were documented. Quality of life, work productivity
+
+and activity impairment were assessed.
+
+Results. Baseline analysis included 252 UK patients. Mean age and body mass index were 45.0
+years and 29.0 kg/m?, respectively. Most patients were female (77.8%) and had moderate/severe
+disease activity (mean Urticaria Activity Score over 7 days, 18.4) and a ‘spontaneous’ component
+to their CU (73.4% CSU; 24.6% CSU and chronic inducible urticaria). Common comorbidities
+included depression/anxiety (24.6%), asthma (23.8%) and allergic rhinitis (12.7%). A previous
+treatment was recorded for 57.9% of patients. Mean Dermatology Life Quality Index score was
+9.5 and patients reported impairments in work productivity and activity. Healthcare resource use
+was high. Severity of CSU was associated with gender, obesity, anxiety and diagnosis. Only
+28.5% of patients completed all nine study visits, limiting analysis of long-term treatment patterns
+
+and disease impact.
+
+Conclusions. Adult H1-AH-refractory CU patients in the UK reported high rates of healthcare
+resource use and impairment in quality of life, work productivity and activity at baseline. The
+differing structures of UK healthcare may explain the high study discontinuation rates versus other
+
+countries.
+
+This article is protected by copyright. All rights reserved
+Introduction
+
+Chronic urticaria (CU) is a group of skin conditions that include chronic spontaneous urticaria
+(CSU) and chronic inducible urticaria (CIndU) characterised by the recurrence of itchy wheals
+and/or angioedema for >6 weeks, with (CIndU) or without (CSU) the need for provoking stimuli.!”
+4 The estimated worldwide prevalence of CU is up to 1% in the general population.* However,
+direct information on CSU prevalence in the general population is not available due to difficulties
+
+in classification, identification and diagnosis of CU.2
+
+The ASSURE study found considerable delay in diagnosis and specialist referral and inadequate
+knowledge about CSU among medical staff in primary and secondary care.‘ Incorrect and
+ineffective treatment patterns were identified, and poor compliance with guidelines resulted in
+unnecessary investigations and delayed treatments, highlighting many unmet needs in CSU.4
+Moreover, data on real-life consequences of CU are still limited and little is known about the
+disease burden, healthcare resource use and socioeconomic impact on H1-antihistamine (H1-AH)
+refractory CU patients treated by general practitioners.
+
+The non-interventional AWARE (A World-wide Antihistamine-Refractory chronic urticaria
+patient Evaluation) study collected data from a representative sample of CU patients across the
+world to document real-life treatment scenarios, burden of disease and use of clinical resources in
+patients with H1-AH-refractory CU.*° Our paper reports the UK-specific analysis of baseline
+demographics of patients with CU, disease characteristics in CSU patients refractory to H1-AHs,
+
+as well as healthcare use and impairment in quality of life (QoL), work productivity and activity.
+Methods
+
+UK data were collected as part of the non-interventional, multinational, umbrella-design AWARE
+study. Patients were enrolled between September 2014 and August 2017 from specialised
+secondary/tertiary dermatology and/or immunology centres across the UK (Salford, Poole,
+London, Manchester, Chester, Sheffield, Coventry and Warwickshire, Durham, Leeds, Cardiff,
+Plymouth, Kent and Canterbury, Lewisham, Belfast, Hull, Leicester, Middlesbrough and
+Liverpool). Centres were selected according to whether they routinely treat CU patients refractory
+
+to at least one H1-AH.
+
+This article is protected by copyright. All rights reserved
+Study objectives
+
+The overall primary objective of the worldwide AWARE study, designed before widespread use
+and approval of omalizumab, was correlation of patient-reported outcomes with treatment options
+in patients with H1-AH-refractory CU. The study was designed to give a 2-year clinical ‘snapshot’
+of patients with CU.
+
+This analysis reports baseline demographics of patients with CU in the UK and analysis of disease
+characteristics including disease activity/progression over 24 months in patients completing the
+
+study.
+Study population
+
+CU patients refractory to recommended H1-AH therapy were eligible for enrolment. Inclusion
+criteria included age >18 years, medically confirmed diagnosis of CU present for >2 months and
+refractory to treatment with at least one H1-AH (licensed dose). Patients were informed about the
+
+study and provided written consent.
+Study design
+
+Patients were observed for 2 years, with eight follow-up visits in quarterly intervals after the
+baseline visit (Visit 1) (Fig. 1). Variables assessed included demographic data (including height,
+weight, age and gender), disease activity, current angioedema or angioedema since last visit (skin
+examination and patient report), comorbidities, current pharmacological treatment, satisfaction
+with current treatment (visual analogue scale [VAS]) and health-related QoL. Patients also
+reported how frequently they had missed work (sick leave) and visited additional healthcare
+resources (including emergency services, hospitalisations, general practitioners, specialised
+urticaria centres, dermatologists, allergists, ear, nose and throat specialists, dentists and alternative
+
+practitioners) since their urticaria symptoms first appeared.
+Patient-reported outcomes
+
+Four patient-reported outcomes (Dermatology Life Quality Index [DLQI],!° Urticaria Activity
+
+Score over 7 days [UAS7],!! EuroQol five-dimensions instrument!? and Work Productivity and
+
+This article is protected by copyright. All rights reserved
+Activity Impairment questionnaire [WPAI]!*) were offered and used to assess disease control and
+
+impact of CSU on patients’ QoL.
+Statistical analysis
+
+Descriptive analyses were performed to gain an understanding of the qualitative and quantitative
+nature of the data collected and characteristics of the sample studied. Continuous variables were
+reported as mean (and standard deviation) or median, minimum and maximum, where appropriate.
+Categorical variables were reported as counts and proportion of the total study population, where
+
+appropriate.
+
+Multivariate analysis was performed using a model based on backward selection. Dependent
+variables were UAS7 or DLQI. All respective variables with <10% missing values and a
+
+frequency of >5% were used.
+Results
+Study population
+
+A total of 265 patients were registered from 21 centres across the UK — 252 patients with CU met
+all study criteria, of whom 126 were enrolled in a dermatology centre and 126 were enrolled in an
+immunology and allergy centre. The majority of CU patients included in the study were diagnosed
+with CSU (n=185; 73.4% [Table 1]). The number of patients with any CSU was 247. Overall,
+28.5% of all study patients completed the study. Reasons for discontinuation were lost to followup (72.1%), spontaneous remission of CU (20.3%), withdrawal of informed consent (6.4%),
+relocation (0.6%) and death (0.6%). When compared to patients who discontinued the study,
+patients who completed the study were older (mean age [SD] 50.02 years [15.01)] vs 43.6 years
+[15.08]; p=0.005) and tended to have more comorbidities such as atopic dermatitis (15.4% vs 5%;
+p=0.096) and food allergy (9.6% vs 3%; p=0.0375). Patients who remained in the study were also
+more likely to be on therapy, including “any treatment” (75% vs 53.5%; p=0.0051), omalizumab
+(7.7% vs 0.5%; p=0.0009) and ciclosporin (23.1% vs 7%; p=0.0007). Patient numbers per visit are
+
+shown in Fig. 1.
+
+This article is protected by copyright. All rights reserved
+Baseline demographics and disease characteristics
+
+Baseline demographics and disease characteristics for the overall population and according to
+enrolment centre specialty are presented in Table 1. Overall, 57.9% of patients reported using
+treatments for CU. Depression/anxiety disorder (24.6%), asthma (23.8%) and allergic rhinitis
+(12.7%) were the most frequently reported comorbidities. Asthma (p=0.0078), allergic rhinitis
+(p=0.0007), other type of eczema (p=0.0006), food allergy (p=0.0055) and obesity (p=0.0098)
+were more frequently reported in patients enrolled at immunology/allergy centres. Patients from
+immunology/allergy centres also reported more angioedema (p=0.0004) and angioedema of
+
+greater severity (p=0.0099) compared to patients enrolled at dermatology centres.
+Occurrence of itchy wheals and angioedema
+
+At baseline, wheals on presentation or in the preceding 6 months were reported in 79.4% of
+patients (Table 1). Individual lesions were reported as lasting for >24 hours for 40.7% of patients.
+Skin biopsy to look for evidence of vasculitis had been performed in 10.4% of cases. The
+frequency of flare-ups with wheals declined during the study period from 73.5% (Visit 5) to
+69.0% (Visit 9).
+
+Angioedema was reported by 55.9% of patients in the 6 months preceding the initial study visit,
+with 88.2% of these cases occurring in association with wheals, and 77.3% of these patients
+reporting moderate or severe angioedema intensity. According to disease activity (UAS7 0-15,
+16-27 and 28-42), average duration of angioedema (hours) at Visit 1 was 69.7 (range 5.0—72.0),
+34.3 (range 4.0-48.0) and 34.0 (range 8.5—48.0), respectively. Occurrence of reported angioedema
+decreased to 47.6% (Visit 5) and 27.3% (Visit 9) over the study period.
+
+Patient-reported outcomes
+
+At baseline, mean UAS7 was 18.4, with 42.9%, 26.7% and 30.4% of patients reporting mild
+(UAS7 0-15), moderate (UAS7 16-27) and severe (UAS7 28-42) disease severity, respectively.
+Mean DLQI score was 9.5, with 41.8% of patients reporting a large or extremely large impact on
+QoL (DLQI total score =11). Overall mean value of the VAS, assessing satisfaction with therapy,
+was 6.6 (VAS range: 0 [not at all satisfied] to 10 [very satisfied]). Percentage of work impairment
+as assessed by the WPAI was 28.8%.
+
+This article is protected by copyright. All rights reserved
+Mean total activity impairment was 34.1%, and 32.9% of patients reported at least one sick leave
+due to urticaria since time of diagnosis; cumulatively, patients were sick for an average of
+17.5 weeks. Changes in DLQI, VAS, WPAI and total activity impairment over the study period
+
+are presented in Table 2.
+Use of medical and clinical resources
+
+Use of medical and clinical resources at baseline and over the study period are presented in Table
+3. 33.8% of patients visited an emergency physician or accident and emergency (A&E)
+department, of whom 68.2% reported angioedema. 12.3% were hospitalised for CU symptoms at
+least once before enrolment into the study. 84.1% had visited a general practitioner, 41.0% had
+visited an additional dermatologist or allergist and 25.1% had visited a specialised urticaria centre
+
+(Table 3). The average number of visits was 7-13 before study enrolment.
+Multivariate analysis
+
+Severity of CSU (UAS7 score) was associated with gender (female), obesity, anxiety disorder and
+diagnosis (for both CSU and ClIndU). Analysis revealed significant positive correlations between
+UAS7 and gender (female) (p=0.0014). A positive correlation was observed for anxiety disorder,
+but this was not significant. There was a significant negative correlation between UAS7 and
+
+obesity (p=0.0166) and UAS7 and diagnosis for both CSU and CIndU (p=0.0245).
+
+QoL (DLQI score) was associated with gender (female), age, obesity, anxiety disorder and
+diagnosis (for both CSU and CIndU). Significant positive correlations were observed for gender
+(female) (p=0.0056) and anxiety disorder (p=0.0054). A negative correlation was observed for age
+(p=0.008). A trend for negative correlation of DLQI score for obesity was reported (p=0.0690).
+
+Discussion
+
+We present baseline disease characteristics and demographics from a study of 265 H1-AHrefractory CU patients referred to specialised urticaria centres in the UK. Notably, only 28.5% of
+patients completed all nine visits. This may be due to a large number of patients achieving
+remission and the nature of the UK healthcare system where availability and access to specialist
+secondary and tertiary care vary between regions, with patients largely managed within the
+
+primary care system. As such, the high rate of study discontinuation may be largely due to patients
+
+This article is protected by copyright. All rights reserved
+returning to primary care management following resolution of initial symptoms and associated
+problems. This is consistent with the most frequently stated reasons for early study discontinuation
+(lost to follow-up’ and ‘spontaneous remission of CU’), as well as the value of adequate
+knowledge of the importance of adherence to treatment guidelines in the management of CU,
+
+which would have been high in these specialised secondary and tertiary centres.
+
+The baseline characteristics reported in this study of UK patients are generally comparable with
+previously published literature, with the majority of patients being female, and similar reported
+mean age and body mass index.?.45-7-9.!4.15 Psychiatric comorbidities (depression/anxiety) were the
+most frequently reported comorbidities; this was unsurprising given the large psychological
+impact of CU. In the UK, a primary care physician may have a choice of referring a patient with
+suspected urticaria to an allergist/immunologist or a dermatologist. Differences were observed
+depending on the specialty of the recruiting physician (allergy/immunology vs dermatology), with
+patients at an allergy centre reporting a greater prevalence and intensity of angioedema, as well as
+a higher number of comorbidities. Prior medication history was relatively similar, although
+patients enrolled at a dermatology centre were more likely to have received sedative H1-AH.
+These findings partly reflect referral criteria/patterns in the UK since, for example, patients with
+angioedema are typically referred to immunology centres in the first instance. Coexistence of these
+two conditions in the same patient might imply to a referring physician that the urticaria may be
+
+allergic in origin and subsequently be more frequently referred to an allergist/immunologist.
+
+Previous publications report that CU is associated with poor QoL, increased healthcare use and
+increased absenteeism, presenteeism and work impairment.?*+!°!8 Consistent with this, a moderate
+impact (at least) of CU on QoL was reported, and impairments in work productivity and activity
+were reported in almost one third of patients. Angioedema was reported in >50% of patients, with
+>75% reporting at least moderate disease intensity, which is likely to have an additional negative
+impact on QoL, work productivity and activity. Furthermore, presence of wheals for >24 hours
+was reported in approximately 40% of patients. While these results may be due to patients overreporting the presence of symptoms, it is also indicative of the impact of disease patients with CU
+feel. The economic burden of CU in the UK was also evident, with a third of patients reporting
+A&E department attendance since symptom start, and a higher rate of A&E attendance in patients
+reporting angioedema. CSU should almost never require A&E attendance or admission since it is
+
+not life-threatening, and A&E attendance rates may reflect the difficulty some patients experience
+
+This article is protected by copyright. All rights reserved
+in seeing their primary care physician urgently and a general lack of understanding of the
+condition, highlighting the need to ensure patients are managed appropriately to optimise their
+
+QoL and reduce the socioeconomic burden of CU.
+
+The correlation between QoL and age (negative) and QoL and anxiety disorder (positive) provides
+an insight into the impact of CSU on younger patients and reflects the social, physical, emotional
+and psychological status. Although body mass index has been suggested as a risk factor for
+CSU,!>!° we found a significant negative correlation between disease severity and obesity. This is
+consistent with results in a French cohort reporting lack of association between obesity and severe
+CSU.” Additional research is required to investigate any causal relationship between obesity and
+
+CSU.
+
+One limitation is the potential for selection bias as patients were recruited from specialised
+urticaria centres, biasing recruitment towards patients with more severe CU. Additionally, high
+rates of study discontinuation limit analysis of disease activity, long-term treatment patterns and
+disease impact. Finally, patients may over-report certain symptoms based on current feelings of
+discomfort or misunderstanding of how to quantify the presence of symptoms. Further studies
+
+exploring management of patients within the UK healthcare system may provide further insight.
+Conclusion
+
+These data highlight the disease burden and impact of H1-AH-refractory CU on patients treated in
+specialised centres in the UK. Patients have impaired health-related QoL, high usage of healthcare
+resources and impaired work productivity. Further investigation into management of CU patients
+outside secondary and tertiary care is needed to ensure patients are managed appropriately to
+
+optimise their QoL and reduce the socioeconomic burden of CU.
+What is already known about this topic?
+
+e CU remains uncontrolled in approximately half of patients, despite the use of licensed
+
+doses of H1-AHs
+
+e Previous studies have established unmet needs in the treatment and management of
+
+patients with H1-AH-refractory CU, including delays in diagnosis and specialist referral,
+
+This article is protected by copyright. All rights reserved
+inadequate knowledge among medical staff, incorrect treatment patterns and poor
+
+compliance with guidelines and best practices
+What does this study add?
+
+e The study demonstrates the significant impairments in QoL and work productivity and
+
+high healthcare resource use in many patients with H1-AH-refractory CU in the UK
+
+e These findings suggest that patients presenting with both urticaria and angioedema were
+
+more frequently referred to an allergist/immunologist, rather than a dermatologist
+
+e The data reflect clinical practice for CU in the UK and demonstrate the disease burden and
+unmet needs of patients with CU, highlighting the need to ensure appropriate management
+
+to optimise patient QoL and reduce the socioeconomic burden of CU in the UK
+Acknowledgements
+
+The authors would like to acknowledge Suzannah August, Richard Azurdia, Lisa Devlin,
+Eva Domanne, Emilia Duarte-Williamson, Kevin McKenna, Anna Chapman, John Lear, Pavels
+
+Gordins and Karen Harman for their contributions to the generation of data.
+
+Medical writing assistance and editorial support, funded by Novartis Pharmaceuticals UK Ltd, was
+provided by Mei Lye and Rebecca Fletcher from Complete HealthVizion. The study was
+sponsored by Novartis Pharmaceuticals UK Ltd.
+
+This article is protected by copyright. All rights reserved
+References
+
+1 Zuberbier T, Aberer W, Asero R et al. The EAACI/GA?LEN/EDF/WAO Guideline for the
+Definition, Classification, Diagnosis and Management of Urticaria. The 2017 Revision and
+
+Update. Allergy 2018; 73: 1393-414.
+
+2 Maurer M, Weller K, Bindslev-Jensen C ef a/. Unmet clinical needs in chronic
+
+spontaneous urticaria. A GA?LEN task force report. Allergy 2011; 66: 317-30.
+
+3 Sanchez-Borges M, Asero R, Ansotegui IJ et al. Diagnosis and treatment of urticaria and
+
+angioedema: a worldwide perspective. World Allergy Organ J 2012; 5: 125-47.
+
+4 Maurer M, Abuzakouk M, Berard F et a/. The burden of chronic spontaneous urticaria is
+
+substantial: Real-world evidence from ASSURE-CSU. Allergy 2017; 72: 2005-16.
+
+5 Maurer M, Houghton K, Costa C et al. Differences in chronic spontaneous urticaria
+between Europe and Central/South America: results of the multi-center real world
+
+AWARE study. World Allergy Organ J 2018; 11: 32.
+
+6 Koti I, Weller K, Makris M et al. Disease activity only moderately correlates with quality
+of life impairment in patients with chronic spontaneous urticaria. Dermatology 2013; 226:
+371-9.
+
+a Maurer M, Raap U, Staubach P et al. Antihistamine-resistant chronic spontaneous
+
+urticaria: 1-year data from the AWARE study. Clin Exp Allergy 2019; 49: 655-62.
+
+8 Thomsen SF, Pritzier EC, Anderson CD et al. Chronic urticaria in the real-life clinical
+practice setting in Sweden, Norway and Denmark: baseline results from the noninterventional multicentre AWARE study. J Eur Acad Dermatol Venereol 2017; 31: 1048—
+55.
+
+This article is protected by copyright. All rights reserved
+Maurer M, Staubach P, Raap U et al. H1-antihistamine-refractory chronic spontaneous
+urticaria: it's worse than we thought - first results of the multicenter real-life AWARE
+
+study. Clin Exp Allergy 2017; 47: 684-92.
+
+Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple practical
+
+measure for routine clinical use. Clinical and Experimental Dermatology 1994; 19: 210-6.
+
+Mtynek A, Zalewska-Janowska A, Martus P et al. How to assess disease activity in
+
+patients with chronic urticaria? Allergy 2008; 63: 777-80.
+
+Balestroni G, Bertolotti G. [EuroQol-5D (EQ-5D): an instrument for measuring quality of
+life]. Monaldi Arch Chest Dis 2012; 78: 155-9.
+
+Reilly MC, Zbrozek AS, Dukes EM. The validity and reproducibility of a work
+
+productivity and activity impairment instrument. Pharmacoeconomics 1993; 4: 353-65.
+
+Costa AC, Rosmaninho I, Guilherme A ef a/. Chronic urticaria in the real-life clinical
+practice setting in Portugal: baseline results from the non-interventional multicentre
+
+AWARE study. Acta Med Port 2019; 32: 133-40.
+
+Lapi F, Cassano N, Pegoraro V et al. Epidemiology of chronic spontaneous urticaria:
+results from a nationwide, population-based study in Italy. Br J Dermatol 2016; 174: 996—
+1004.
+
+Mendelson MH, Bernstein JA, Gabriel S et al. Patient-reported impact of chronic urticaria
+compared with psoriasis in the United States. Journal of Dermatological Treatment 2017;
+
+28: 229-36.
+
+O'Donnell BF, Lawlor F, Simpson J et al. The impact of chronic urticaria on the quality of
+
+life. British Journal of Dermatology 1997; 136: 197-201.
+
+Vietri J, Tian H, Gabriel S et al. Economic burden of chronic spontaneous urticaria and
+
+psoriasis: patients perspective from Europe. Value in Health 2015; 18: A424—A5.
+
+This article is protected by copyright. All rights reserved
+19 Shalom G, Magen E, Babaev M et al. Chronic urticaria and the metabolic syndrome: a
+cross-sectional community-based study of 11 261 patients. J Eur Acad Dermatol Venereol
+
+2018; 32: 276-81.
+
+20 Soria A, Du-Thanh A, Amsler E et al. Obesity is not associated with severe chronic
+
+urticaria in a French cohort. J Eur Acad Dermatol Venereol 2018; 32: e247-e9.
+
+This article is protected by copyright. All rights reserved
+Table 1 Baseline demographics and disease characteristics, both overall and according to centre
+
+of specialty enrolment
+
+ 
+
+ 
+
+Allergy Dermatology All patients
+centre centre (N=252)
+(n=126) (n=126)
+Age (years), mean (SD) 43.8 (14.2) 46.1 (16.3) 45.0 (15.3)
+Sex, n (%)
+Male 25 (19.8) 31 (24.6) 56 (22.2)
+Female 101 (80.2) 95 (75.4) 196 (77.8)
+Diagnosis, n (%)
+CSU 90 (71.4) 95 (75.4) 185 (73.4)
+CIndU 1 (0.8) 4 (3.2) 5 (2.0)
+CSU + CIndU 35 (27.8) 27 (21.4) 62 (24.6)
+Duration of disease (years), mean (SD) 4.8 (7.1) 5.0 (7.9) 4.9 (7.5)
+Family-related history of urticaria, n (%) 11 (8.7) 6 (4.9) 17 (6.8)
+
+Systolic blood pressure (mmHG), mean (SD) 131.3(16.0) 127.5 (15.8) 129.6 (16.0)
+Diastolic blood pressure (mmHG), mean(SD) 81.2 (10.9) 77.3 (11.0) 79.5 (11.1)
+Body mass index (kg/m?), mean (SD) 30.1 (6.4) 27.6 (5.0) 29.0 (5.9)
+
+Prior medications, n (%)
+
+Any treatment 69 (54.8) 77 (61.1) 146 (57.9)
+Non-sedative H1-AH 53 (42.1) 51 (40.5) 104 (41.3)
+Sedative H1-AH 12 (9.5) 25 (19.8) 37 (14.7)
+
+This article is protected by copyright. All rights reserved
+Ciclosporin 15 (11.9) 11 (8.7) 26 (10.3)
+
+Corticosteroid 13 (10.3) 129.5) 25 (9.9)
+Montelukast 10 (7.9) 12 9.5) 22 (8.7)
+Omalizumab 5 (4.0) 0 5 (2.0)
+Other 26 (20.6) 28 (22.2) 54 (21.4)
+
+Comorbidities, n (%)
+
+Depression/anxiety 32 (25.4) 30 (23.8) 62 (24.6)
+Asthma 39 (31.0) 21 (16.7) 60 (23.8)
+Allergic rhinitis 25 (19.8) 7 (5.6) 32 (12.7)
+Hypertension 15 (11.9) 11 (8.7) 26 (10.3)
+Other type of eczema 20 (15.9) 4 (3.2) 24 (9.5)
+Atopic dermatitis 11 (8.7) 7 (5.6) 18 (7.1)
+Obesity 13 (10.3) 3 (2.4) 16 (6.3)
+Food allergy 10 (7.9) 1 (0.8) 11 (4.4)
+Type | diabetes 2 (1.6) 1 (0.8) 3 (1.2)
+Vitiligo 0 3 (2.4) 3 (1.2)
+Hashimoto thyroiditis 2 (1.6) 0 2 (0.8)
+Other psychosomatic disease 0 1 (0.8) 1 (0.4)
+Lupus erythematosus 0 0 0
+Hypertriglyceridaemia 0 0 0
+
+Other comorbidities 68 (54.0) 58 (46.0) 126 (50.0)
+
+This article is protected by copyright. All rights reserved
+Current wheals or wheals during the last 6 97 (78.2) 99 (80.5) 196 (79.4)*
+
+months, n (%)
+
+Wheals present for >24 hours 36 (38.3) 41 (43.2) 77 (40.7)
+Biopsy performed to rule out vasculitis 95) 11 (11.3) 20 (10.4)?
+Angioedema during the last 6 months, n (%) 83 (66.9) 55 (44.7) 138 (55.9)*
+
+Angioedema in relation to urticaria 68 (82.9) 52 (96.3) 120 (88.2)§
+
+Angioedema in relation to medical treatment 6 (7.3) 7 (13.0) 13 (9.6)§
+Hereditary angioedema 2 (2.4) 1 (1.9) 3 (2.2)8
+Based on an acquired C1 esterase inhibitor 0 0 0s
+deficiency
+
+Other common underlying cause 10 (12.2) 5 (9.3) 15 (11.0)8
+ACE inhibitors during the last 12 months 1 (1.2) 5 (9.4) 6 (4.5)9
+
+Average intensity of angioedema, n (%)
+
+Negligible 0 0 OF
+
+Mild 19 (23.5) 11 (21.6) 30 (22.7)#
+Moderate 33 (40.7) 33 (64.7) 66 (50.0)#
+Severe 29 (35.8) 7 (13.7) 36 (27.3)*
+
+Average duration of angioedema (hours), mean 39.2 (44.9) FLS (302) 51.2,(87-7)**
+(SD)
+
+ 
+
+ACE, angiotensin-converting enzyme; CIndU, chronic inducible urticaria; CSU, chronic
+spontaneous urticaria; H1-AH, H1-antihistamine; SD, standard deviation. *Based on n=247 (five
+patients missing data); ‘Based on n=189 (seven patients missing data); {Based on n=192 (four
+
+patients missing data); ‘Based on n=136 (two patients missing data); ‘Based on n=134 (four
+
+This article is protected by copyright. All rights reserved
+patients missing data); *Based on n=132 (six patients missing data); **Based on n=97 (41 patients
+
+missing data).
+
+Bold values indicate p<0.05, for comparison between patients enrolled in allergy versus
+
+dermatology centres.
+
+This article is protected by copyright. All rights reserved
+Table 2 Patient-reported outcomes
+
+ 
+
+ 
+
+ 
+
+Baseline Year 1 Year 2
+(Visit 1) (Visit 5) (Visit 9)
+N N N
+UAS7, mean (SD) 161 18.4 (13.2) 74 13.4 (12.3) 39 11.3 (10.7)
+VAS, mean (SD) 241 6.6 (3.1) 78 8.1 (2.1) 36 7.8 (2.6)
+WPAI score, mean (SD) 140 28.8 (27.4) 49 15.1 (20.9) 26 11.5 (17.7)
+EQ-SD score, mean (SD) 244 0.66 (0.36) 86 0.73 (0.31) 51 0.78 (0.26)
+Total activity impairment, mean (SD) 238 34.1 (31.2) 80 18.6 (25.9) 47 14.7 (22.2)
+DLQI score, mean (SD) 237 9.5 (8.0) 87 6.1 (7.0) 48 5.0 (6.3)
+Effect on patient’s life, n (%) 237 87 48
+No effect at all (0-1) 47 (19.8) 26 (29.9) 22 (45.8)
+Little effect (2-5) 46 (19.4) 26 (29.9) 10 (20.8)
+
+This article is protected by copyright. All rights reserved
+Moderate effect (6-10) 45 (19.0) 20 (23.0) 8 (16.7)
+
+Large effect (11-20) 73 (30.8) 10 (11.5) 6 (12.5)
+Extremely large effect (21-30) 26 (11.0) 5 (5.7) 2 (4.2)
+Sick leave, n (%) 252 3 (1.2) 92 5 (5.4) 51 1 (2.0)
+Duration of sick leave (weeks), mean (SD) 70 17.5 (61.9) 4 1.2 (1.9) 1 0.6 (-)
+Duration of sick leave due to angioedema 30 6.6 (18.9) 1 0.9 -) = =
+
+(weeks), mean (SD)
+
+ 
+
+DLQI, Dermatology Life Quality Index; EQ-5D, European Quality of Life — 5 Dimensions; SD, standard deviation; UAS7, Urticaria Activity Score
+over 7 days; VAS, visual analogue scale; WPAI, Work Productivity and Activity Impairment.
+
+This article is protected by copyright. All rights reserved
+Table 3 Use of medical and clinical resources
+
+ 
+
+ 
+
+n(%) Baseline Year 1 Year 2
+(Visit 1)* (Visit 5)* (Visit 9)?
+Visit to an emergency physician or A&E 66 (33.8) 2 (3.8) 2 (7.4)
+department
+Hospitalisation 24 (12.3) 2 (3.8) 1 (3.7)
+Visit to a specialised urticaria centre 49 (25.1) 7 (13.2) 2 (7.4)
+Visit to a GP/family physician 164 (84.1) 27 (50.9) 12 (44.4)
+Visit to an additional dermatologist/allergist 80 (41.0) 6 (11.3) 1 (3.7)
+Visit to an ENT specialist 6 (3.1) 3 (5.7) 0
+Visit to a dentist 56 (28.7) 33 (62.3) 16 (59.3)
+Visit to a pharmacy 53 (27.2) 7 (13.2) 3 (11.1)
+Visit to an alternative practitioner 14 (7.2) 2 (3.8) 3 (11.1)
+Use of other resources = 7 (13.2) 7 (25.9)
+
+ 
+
+A&E, accident and emergency; ENT, ear, nose and throat; GP, general practitioner. *Based on
+
+n=195 (57 patients missing data); ‘Based on n=53 (40 patients missing data); ‘Based on n=27 (25
+
+patients missing data).
+
+This article is protected by copyright. All rights reserved
+Figure legend
+Figure 1 Study design and patient disposition.
+
+ASST, autologous serum skin test*; DLQI, Dermatology Quality of Life Index; EQ-5D, EuroQol
+five-dimensions instrument; UAS7, Urticaria Activity Score over 7 days; VAS, visual analogue
+
+scale; WPAL work productivity and activity impairment.
+
+*Not part of routine clinical practice — only used occasionally.
+
+This article is protected by copyright. All rights reserved
+Figure 1
+
+ 
+
+¢ Demographic
+
+e Vital signs
+
+e Drug therapy
+
+° VAS
+
+e Angioedema
+episodes
+
+e Wheals
+
+e Healthcare
+use
+
+¢ Comorbidities
+
+ 
+
+ 
+
+e Drug therapy
+
+¢ VAS
+
+e Angioedema
+episodes
+
+¢ Healthcare
+
+ 
+
+e Drug therapy
+
+° VAS
+
+e Angioedema
+episodes
+
+e Wheals
+
+e Healthcare
+use
+
+© Comorhbidities
+
+ 
+
+ 
+
+e Drug therapy
+
+° VAS
+
+e Angioedema
+episodes
+
+e Healthcare
+
+ 
+
+ 
+
+e Drug therapy
+
+° VAS
+
+e Angioedema
+episodes
+
+e Wheals
+
+e Healthcare
+use
+
+¢ Comorbidities
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+° ASST use ¢ ASST use e ASST
+
+° DLQI ° DLAI ° DLAI ¢ DLQI ¢ DLAI ° DLQI ¢ DLAI ° DLQI ¢ DLQI
+
+° UAS7 ° UAS7 ¢ UAS7 ¢ UAS7 e UAS7 ° UAS7 e UAS7 ° UAS7 e UAS7
+
+° EQ-5D ¢ EQ-5D ° EQ-5D ¢ EQ-5D ¢ EQ-5D ° EQ-5D ¢ EQ-5D ° EQ-5D ¢ EQ-5D
+
+° WPAI ° WPAI ° WPAI ¢ WPAI ¢ WPAI ° WPAI ¢ WPAI ° WPAI ¢ WPAI
+Visit 1 Visit 2 Visit 3 Visit 4 Visit 5 Visit 6 Visit 7 Visit 8 Visit 9
+
+Baseline Month 3 Month 6 Month 9 Month 12 Month 15 Month 18 Month 21 Month 24
+
+N=252 N=166 N=119 N=112 N=93 N=72 N=64 N=57 N=52
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

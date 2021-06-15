@@ -1,0 +1,685 @@
+Received Date : 11-Jan-2016
+Revised Date : 27-Apr-2016
+Accepted Date : 10-May-2016
+Article type —_: Original
+
+Phenotypical characterization of children with hypersensitivity reactions to NSAIDs
+
+Authors: Cousin Mathias, MD!, Chiriac Anca, MD!”, Molinari Nicolas, PhD*, Demoly
+
+Pascal, PhD!”, Caimmi Davide, Mb!”
+
+Affiliations:
+
+" Unité dallergologie, Département de Pneumologie et Addictologie, Hépital Arnaud de
+Villeneuve, CHRU de Montpellier, France
+
+> Sorbonne Universités, UPMC Paris 06, UMR-S 1136, IPLESP, Equipe EPAR, F-75013
+Paris, France
+
+> Département de Statistiques, IMAG UMR5149 S, CHRU de Montpellier, Montpellier,
+
+France
+
+Running title: NSAIDs hypersensitivity in Pediatrics
+
+Corresponding Author: Davide Caimmi, Service d’allergologie, CHRU de Montpellier,
+H6pital Arnaud de Villeneuve, 371, Av. du Doyen Gaston Giraud, 34295 Montpellier CEDEX
+
+5, tel : +33630061134, fax : +33467330740, e-mail : davide.caimmi@ gmail.com
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.1111/pai.12596
+
+This article is protected by copyright. All rights reserved.
+Abstract
+
+Cousin M, Chiriac A, Molinari N, Demoly P, Caimmi D.
+
+Phenotypical characterization of children with hypersensitivity reactions to NSAIDs
+
+Pediatr Allergy Immunol
+
+Background. Non-steroidal anti-inflammatory drugs (NSAIDs) are the main cause of druginduced hypersensitivity in children. Many classifications have been proposed, focusing on
+adults. So far, no large study has deeply investigated a pediatric cohort. The aim of the
+present study was to describe a population of NSAID hypersensitive patients reporting a
+reaction during their childhood, and to verify if it is possible to classify pediatric patients,
+following the EAACI/ENDA classification.
+
+Methods. We conducted a historical-prospective study including patients evaluated from
+1996 to 2015 in the allergy unit of the Montpellier University Hospital. We included 635
+patients. For each patient, we recorded clinical manifestations and possible co-morbidities,
+and tried to identify possible risk factors.
+
+Results. NSAIDs hypersensitivity was diagnosed in 107 out of 635 patients (16.9%). In this
+group, 43 patients (40.2%) could not be classified following the ENDA recommendations.
+The main discrepancies were on the patients’ clinical manifestations and on their possible
+underlying diseases. We identified, on a multivariate analysis, some risk factors for NSAID
+hypersensitivity: chronic urticaria (OR 7.737, 3.375-18.296 95%CD), atopic status (OR 2.514,
+1.504-4.364 95%CD and allergic rhino-conjunctivitis (OR 1.799, 1.138-2.837 95%CI). On
+the basis of our results, we are proposing an adapted classification for NSAIDs
+hypersensitivity in children.
+
+Conclusions. The current ENDA classification does not seem to be adapted for pediatric
+patients; a modified version does. Our study could help allergists better understand the
+differences between adults and children in developing hypersensitivity reactions to NSAIDs
+but further large-scale prospective longitudinal analyses are required to validate this new
+classification.
+
+Key Words: drug hypersensitivity, NSAIDs, children, classification, drug allergy.
+
+The Authors have no conflict of interest to declare for the present paper.
+
+Introduction
+Non-steroidal anti-inflammatory drugs (NSAIDs) are widely used to treat fever and pain in
+
+children. Nevertheless, they are currently considered as the first cause of drug-induced
+
+This article is protected by copyright. All rights reserved.
+hypersensitivity (HS) reactions in children (1, 2). Two different mechanisms are able to elicit
+HS reactions: immunological mechanisms responsible for allergic HS reactions (such as IgE
+and T-cells mediated reactions); and non-immunologic ones (mainly due to cyclooxygenases
+inhibition). Several classifications have been proposed for NSAIDs HS, but no large study
+
+has so far tried to classify NSAIDs HS focusing only on a pediatric population.
+
+In 2001, Stevenson classified patients according to their clinical history but this classification
+did not take into account the reactions recorded during drug provocation tests (DPTs) (3).
+Thereafter, Quiralte proposed a classification with seven groups according to the patient’s
+underlying disease (4). The most recent NSAIDs HS classification highlighted five groups of
+patients, and has been published by the European Network for Drug Allergy (ENDA) group,
+an EAACI drug allergy Interest Group (5). This classification was based on the authors’
+expertise in hypersensitivity reactions to NSAIDs. The publication does not differentiate
+between age groups, and it has to be underlined that most of the expertise comes from
+adolescents and adults. Since its publication, clinical observations and literature data (6)
+reported that some patients diagnosed with NSAIDs HS could not be classified into the
+possible phenotypes described by the ENDA group (5). Moreover, while the Widal’s
+syndrome (or Samter’s triad) is used as a reference phenotype for the first group of the ENDA
+classification, ““NSAID’s-exacerbated respiratory disease”, it is known that such a syndrome
+has never been described before the age of 13 (7). In addition, a recent paper (1) reported that
+the association of cutaneous and respiratory symptoms is frequently observed in children with
+NSAIDs HS, which is a combination of different phenotypes proposed by the current
+
+classification, but is not highlighted as a single group.
+
+This article is protected by copyright. All rights reserved.
+Considering the hypothesis that HS phenotypes may differ between the adult and pediatric
+population, the aim of the present study was to describe a population of children with a
+diagnosis of NSAIDs HS, and to try to classify them on the basis of the current ENDA
+recommendation. We also tried to identify possible risk factors for NSAIDs HS in children,
+
+and to propose a pediatric version of the ENDA classification.
+
+Methods
+
+Patients included
+
+We conducted a historical-prospective study including all patients evaluated at the allergy
+unit of the University Hospital of Montpellier (France) for a clinical history of possible
+NSAIDs HS, which occurred during the pediatric age, from September 1996 to July 2015,
+and who underwent an oral DPT. Following the diagnostic work-up recommendations for
+NSAIDs HS (8), we classified patients on the basis of the clinical reaction reported and the
+one recorded at the time of the DPT; the different chemical classes of NSAIDs involved in
+their reaction; the presence of an underlying chronic disease (asthma, chronic urticaria,
+chronic rhinosinusitis, atopy as defined by the presence of at least one positive skin prick test
+to the common aeroallergens of Montpellier area); the delay of reaction; and the suspected
+
+HS mechanism.
+
+Clinical data were collected through the validated ENDA drug allergy questionnaire (9).
+DPTs were performed under strict hospital surveillance at least four weeks after the last
+patient’s HS reaction, according to the unit's protocol (5, 10). Patients had not been taking
+any H1-antihistamines or other drug possibly affecting the results of the test. Patients on Bblockers were asked to visit their specialist to stop the drug 2 days prior to the test.
+
+Administration was single-blinded and performed on the ward by a physician with full
+
+This article is protected by copyright. All rights reserved.
+resuscitation back up. In case of a possible positive DPT, another molecule would be tested to
+find a safe alternative for the patient, at least 4 to 6 weeks after the previous DPT. All data
+were collected in the Drug Allergy and Hypersensitivity Database (DAHD®) using FileMaker
+
+Pro 13 software.
+
+We excluded all patients who had experienced severe life-threatening skin reactions (toxic
+epidermal necrolysis and Stevens Johnson syndrome), drug-induced autoimmune diseases or
+severe organ involvements (such as cytopenias, hepatitis, DRESS-Drug Reaction with
+Eosinophilia and Systemic Symptoms), since DPTs are contra-indicated for such reactions.
+All patients refusing DPTs were excluded as well. Written consent was obtained before the
+
+test after informing the patients and the parents of children.
+
+Clinical data
+
+For each patient, we looked for the following possible clinical entities, occurring both at the
+time of the reaction and of the DPT: urticaria, angioedema (AO), maculopapular eruption,
+fixed drug eruption, rhinitis, conjunctivitis, bronchospasm (defined by dyspnea associated
+with cough and/or wheezing and/or a fall of 20% of the patient’s basal FEV1 value), ENTrelated dyspnea, psychogenic dyspnea (diagnosis per exclusionem), gastrointestinal signs,
+anaphylaxis. Anaphylaxis was defined as a rapid allergic response involving two different
+organs with or without associated hypotension (11). Laryngeal angioedema associated
+
+dyspnea was considered as a muco-cutaneous symptom.
+We tested children with the culprit drug and, in case of a positive DPT, patients were tested,
+at least 4 weeks after the previous DPT, with a different NSAID, belonging to another
+
+chemical subgroup. All together, 14 different NSAIDs have been tested, belonging to
+
+This article is protected by copyright. All rights reserved.
+different chemical subgroups: acetylsalicylic acid, celocoxib, diclofenac, etoricoxib,
+
+ibuprofen, ketoprofen, meloxicam, metamizole, niflumic acid, nimesulide, piroxicam,
+
+trofecoxib, tiaprofenic acid. Paracetamol/acetaminophen was included as well in the list of
+
+the 14 tested drugs.
+
+Patients’ classification
+
+In order to evaluate the accuracy of the ENDA classification (Table 1) in our pediatric cohort,
+
+we tried to attribute each patient to the different ENDA groups, numbered from | to 5:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+NSAIDs-exacerbated respiratory disease
+NSAIDs-exacerbated cutaneous disease
+
+NSAIDs-induced urticaria/angioedema
+Single-NSAID-induced urticaria/angioedema or anaphylaxis
+
+Single-NSAID-induced delayed reactions
+
+Whenever a phenotype did not strictly correspond to one of the 5 groups, the patient was
+
+classified as “divergent” according to the following criteria:
+
+the patient was included in the group that seemed the closest to his phenotype;
+
+we used a letter to highlight for which feature of the group the patient did not properly
+fit in the ENDA classification: A — clinical manifestations; B — delay of the reaction;
+C — underlying disease; D — cross-reactivity (for example, an asthmatic patient who
+developed urticaria to several NSAIDs was classified as 3C);
+
+a patient divergent for more than one feature of the group was considered as “not
+
+possible to classify”.
+
+This article is protected by copyright. All rights reserved.
+Statistical analysis
+
+Categorical data were expressed in frequencies and percent, continuous data in median and
+quartiles. To evaluate possible risk factors, we analyzed crude and adjusted odds ration, with
+a 95% confidence interval. A multivariate analysis was conducted using a logistic regression
+model to determine independent risk factors of NSAIDs, in which we included all variables
+associated with a p value below 0.20 in the univariate analysis. Then, a stepwise procedure
+allowed obtaining the final multivariate model. We considered as statistically significant a p
+value < 0.05.
+
+Results
+
+Patients’ characteristics, DPT and symptoms
+
+635 patients fulfilled our inclusion criteria. In 107 out of 635 (16.9%) a reaction was recorded
+through the DPT, and a diagnosis of NSAIDs HS was reached. 62 out of 107 patients were
+female (57.9%). The characteristics of the age distribution of our patients are shown in Table
+
+2.
+
+In the group of the 107 diagnosed patients, 77 (72.0%) were atopic and 47 (43.9%) were
+sensitized to house dust mites. We are missing these data in 8 patients, that were therefore
+considered as non-atopic nor sensitized to mites. Also, 19 patients (17.8%) suffered from
+chronic urticaria, 45 (42.1%) reported symptoms of allergic rhino-conjunctivitis, and 37
+(34.6%) were asthmatic. Two of the asthmatic patients, who were nevertheless adults at the
+time of their first DPT, presented with nasal polyposis as well. Other allergic diseases
+included atopic dermatitis (7 patients, 6.5%), food allergy (6 patients, 5.6%), chronic rhinosinusitis (2 patients, 1.9%), other drug allergies (2 patients, 1.9%), and hymenoptera venom
+
+allergy (1 patient, 0.9%).
+
+This article is protected by copyright. All rights reserved.
+On a multivariate analysis, four risk factors were highlighted for NSAIDs HS: urticaria
+(adjusted OR 7.737, 3.375-18.296, 95%CI, p-value <0.001), atopy (adjusted OR 2.514,
+1.504-4.364 95%CI, p-value <0.001), allergic rhino-conjunctivitis (adjusted OR 1.799, 1.1382.837 95%CI, p-value 0.011), and the age at the first reaction (adjusted OR 1.083, 1.033
+1.137 95%CI, p-value <0.001).
+
+In the group of the 107 patients, we ran a total of 192 DPT: 46 patients (43.0%) only took
+one, and they did not come back to find a safe alternative, 44 (41.1%) underwent 2 DPT, 12
+patients (11.2%) were tested for 3 different molecules, 3 (2.8%) for 4, and 2 patients (1.9%)
+
+came back 5 times to be tested.
+
+Overall clinical symptoms presented by patients during their reported reaction and during
+DPT were: urticaria/angioedema (104 patients, 97.2%), bronchospasm (33 patients, 30.8%),
+conjunctivitis (31 patients, 29.0%), anaphylaxis (27 patients, 25.2%), ENT-related dyspnea
+(27 patients, 25.2%), maculopapular eruption (11 patients, 10.3%), rhinitis (8 patients, 7.5%),
+
+and gastro-intestinal symptoms (1 patient, 0.9%).
+
+Classification of hypersensitive patients, according to the ENDA classification
+
+Among the 107 patients with NSAIDs HS, 43 patients (40.2%) could not be completely
+classified in the current ENDA classification and were divergent for one criterion, while 4
+patients (3.7%) were considered as “not possible to classify” (divergent for more than one
+
+criterion), as shown in Table 3.
+
+This article is protected by copyright. All rights reserved.
+Patients were divergent mainly for the feature A, “clinical manifestation” and C, “underlying
+disease”. No patient was divergent for the feature B, “delay of reaction”. No patient strictly
+corresponded to the group 1, “NSAIDs-exacerbated respiratory disease” of the ENDA
+
+classification (Table 3).
+
+Among the 22 patients belonging to the group 4, ‘“single-NSAID-induced
+urticaria/angioedema or anaphylaxis”, the main culprit drugs were
+paracetamol/acetaminophen (7 patients, 31.8% of the group) and ibuprofene (7 patients,
+31.8% of the group). All these patients had a negative DPT to at least one other NSAID. The
+
+rest of the results are shown in Table 3.
+
+New possible pediatric classification
+
+On the basis of our results, we proposed a new classification in three groups, strictly derived
+from the ENDA one. This classification remains focused on the pathophysiologic HS
+mechanism, but we also included, as a feature, the impact of risk factors (urticarial, atopy,
+allergic rhino-conjunctivitis, and age at first reaction). We excluded the presence of
+underlying diseases (which could occur later in life), and modified the possible clinical
+
+manifestations (Table 4).
+
+In this new classification, all our patients could be classified and no patient was divergent.
+We included 91 patients (85.1%) in the group I, “non-allergic NSAIDs hypersensitivity”, 15
+patients (14.0%) in the group II, “single NSAID-induced urticarial/angioedema/anaphylaxis”,
+and | patient (0.9%) in the group III, “single NSAID-induced delayed reactions”. The group I
+contains actually groups | through 3 of the ENDA classification, and it has to be considered
+
+as a transitory group, since patients may develop underlying chronic diseases throughout age.
+
+This article is protected by copyright. All rights reserved.
+Even though a recent paper did not highlight a correlation between NSAID-induced urticaria
+and evolution toward chronic urticaria (12), these data refer to adult patients over a 12-years
+follow-up, and might differ from what we might record in a strictly pediatric population.
+Therefore, so far, the evolution of the immune system and the possible appearance of chronic
+
+diseases seem not to allow, in children, a differentiation between the first 3 ENDA groups.
+
+Discussion
+
+Drug hypersensitivity is acquiring more and more importance in patients’ everyday life. The
+EAACT and the ENDA group in particular have proposed several protocols and tools to guide
+allergists to perform a correct diagnosis and a complete allergy work-up in patients presenting
+with a suspected hypersensitivity reaction to drugs. As for NSAIDs, a classification has been
+proposed in 2013, but it focused on adult populations. The fact that it is now clear that
+NSAIDs HS is a key issue in the pediatric population as well, made it imperative to evaluate
+
+the appropriateness of such a classification in this group of patients.
+
+To our knowledge, we described the largest pediatric cohort with a diagnosis of NSAIDs
+hypersensitivity. The first aspect highlighted by our results is that the ENDA classification
+did not allow us to classify more than 40% of the patients, and it seems therefore clear that
+
+the current recommendations are not suitable for the pediatric population.
+
+According to a recent pediatric study by Cavkaytar et al. (13), who analyzed a cohort of 30
+NSAIDs hypersensitive patients, phenotypes are different in children and adults and pediatric
+subjects cannot completely be classified in the latest classifications (5, 6). In the same study,
+27% of patients were diagnosed as NSAID hypersensitive and only one patient was classified
+
+in the group “NSAIDs-exacerbated respiratory disease” of ENDA classification (13). Our
+
+This article is protected by copyright. All rights reserved.
+results are similar to those highlighted by Cavkaytar et al: in fact, the main problem we found
+in our cohort was related to the first group proposed by ENDA, “NSAIDs-exacerbated
+respiratory disease”, since none of our patients could perfectly fit in this group. Indeed, this
+group was initially created for adults suffering from late onset asthma, which is frequently
+associated with chronic rhino-sinusitis and nasal polyposis and with a possible progression
+towards severe asthma (recurrent respiratory exacerbations and corticosteroid-dependence)
+
+(14, 15).
+
+Considering that NSAIDs HS, and drug HS in general, tends to persist over the years, we
+could speculate that the evolution of children’s immune system and the possible appearance
+of new and persistent underlying diseases make it difficult to include patients in this group,
+even though the same patients may belong to it once grown. Nevertheless, in a pediatric
+classification, it seems inappropriate to classify children according to their underlying
+
+disease.
+
+An interesting aspect of our results is that most of our patients (97.2%) reacted to NSAIDs
+presenting urticaria and/or angioedema as a symptom. Therefore, mucocutaneous symptoms
+are not specific during the pediatric age and not sufficient to differentiate and classify
+patients. Also, only very few patients (1.9%) presented isolated bronchospasm as a symptom,
+
+and such a result is confirmed by other authors (2, 16).
+
+In the literature, physical exercise is often considered as a risk factor to develop an HS
+reaction to NSAIDs; also, NSAIDs are known as a potential trigger for developing food
+allergy reactions (1). However, recent NSAIDs HS classification did not include these risk
+
+factors. We did not find a correlation between food allergy and NSAIDs HS, and we did not
+
+This article is protected by copyright. All rights reserved.
+have patients who presented a pediatric clinical history in which physical exercise was related
+to the appearance of HS symptoms after NSAID intake (data not shown). In the literature, a
+significant association has been found between house dust mites’ sensitization and NASIDs
+hypersensitivity (14). In our study, atopy (but not particularly house dust mites sensitization),
+urticaria, allergic rhino-conjunctivitis, and an early reaction in life were found as significant
+
+risk factors for hypersensitivity reactions to NSAIDs.
+
+Taking into account all of these considerations, we proposed a new classification for NSAIDs
+HS in children, in which we included the presence of the previously mentioned risk factors,
+and we neglected the presence of possible underlying chronic diseases. This classification
+could actually be a helpful tool to understand the mechanisms leading to the HS reaction and
+
+to guide allergists in their work-up.
+
+A limitation of this study was that we didn't perform any skin test for the patients who
+presented anaphylactic reaction or reaction to a single NSAID in their clinical history. Such
+data could help proving the possible IgE mediated mechanism. Nevertheless, skin tests are
+not standardized nor validated in clinical practice for NSAIDs and, more importantly, we
+preferred to use DPT as the gold standard to reach a diagnose of hypersensitivity reaction.
+Also, we did not test many patients with aspirin. This is due to the fact that such a drug is
+rarely prescribed in children, due to the risk of Reye’s syndrome, and, therefore, a clinical
+approach to NSAIDs hypersensitivity in children cannot focus on such molecule, which, on
+the other hand, is often administered in the adult population. Another possible limitation of
+the present study concerns the diagnosis of rhino-sinusitis and nasal polyposis. Indeed, these
+diagnoses are mostly done in adult patients and require endoscopic and/or imaging
+
+techniques. Therefore, we could not exclude an underestimation of these diseases, even
+
+This article is protected by copyright. All rights reserved.
+though, at least for nasal polyposis, such a diagnosis is rare during childhood and generally
+
+related to other diseases.
+
+In conclusion, during childhood every child is exposed at least once to a NSAID, and there
+
+are no alternative, on a routine base, to treat fever and/or pain. An accurate classification of
+
+NSAIDs hypersensitive patients could help better understand the pathology of these reactions
+
+and guide the management of these patients since their early age. We believe that our study
+
+could help allergists better understand the differences between adults and children in
+
+developing HS reactions to NSAIDs and could indicate a possible way to modify the present
+
+classification.
+
+Bibliography
+
+1.
+
+Blanca-Lopez,N, Cornejo-Garcia JA, Plaza-Serén MC et al. Hypersensitivity to
+nonsteroidal anti-inflammatory drugs in children and adolescents: cross-Intolerance
+reactions. J Investig Allergol Clin Immunol 2015: 25: 259-69.
+
+Liew WK, Chiang WC, Goh AE. Paediatric anaphylaxis in a Singaporean children
+cohort: changing food allergy triggers over time. Asia Pac Allergy 2013: 3: 29-34.
+Stevenson DD, Sanchez-Borges M, Szczeklik A. Classification of allergic and
+pseudoallergic reactions to drugs that inhibit cyclooxygenase enzymes. Ann Allergy
+Asthma Immunol 2001: 87: 177-80.
+
+Quiralte J, Blanco C, Delgado J et al. Challenge-based clinical patterns of 223
+Spanish patients with nonsteroidal anti-inflammatory-drug-induced-reactions. J
+
+Investig Allergol Clin Immunol 2007: 17: 182-8.
+
+. Kowalski ML, Asero R, Bavbek S et al. Classification and practical approach to the
+
+diagnosis and management of hypersensitivity to nonsteroidal anti-inflammatory
+
+This article is protected by copyright. All rights reserved.
+drugs. Allergy 2013: 68: 1219-32.
+
+6. Caimmi S, Caimmi D, Bousquet PJ, Demoly P. How can we better classify NSAID
+hypersensitivity reactions? — Validation from a large database. Int Arch Allergy
+Immunol 2012: 159: 306-12.
+
+7. Ameratunga R, Randall N, Dalziel S, Anderson BJ. Samter's triad in childhood: a
+warning for those prescribing NSAIDs. Pediatr Anesth 2013: 23: 757-9.
+
+8. Kowalski, M. L. and J. S. Makowska. Seven steps to the diagnosis of NSAIDs
+hypersensitivity: how to apply a new classification in real practice? Allergy Asthma
+Immunol Res 2015: 7: 312-20.
+
+9. Demoly P, Kropf R, Bircher A, Pichler WJ. Drug hypersensitivity: questionnaire.
+Allergy 1999: 54: 999-1003.
+
+10. Messaad D, Sahla H, Benahmed S, Godard P, Bousquet J, Demoly P. Drug
+provocation tests in patients with a history suggesting an immediate drug
+hypersensitivity reaction. Ann Intern Med 2004: 140: 1001-6.
+
+1
+
+any
+
+. Sampson HA, Mujfioz-Furlong A, Campbell RL. Second symposium on the definition
+and management of anaphylaxis: summary report-Second National Institute of
+Allergy and Infectious Disease/Food Allergy and Anaphylaxis Network symposium. J
+Allergy Clin Immunol 2006: 117: 391-7.
+
+12. Dofia I, Blanca-Lépez N, Torres MJ et al. NSAID-induced urticaria/angioedema does
+
+not evolve into chronic urticaria: a 12-year follow-up study. Allergy 2014: 69: 438-44.
+
+13. Cavkaytar O, Arik Yilmaz E, Karaatmaca et al. Different Phenotypes of Non-Steroidal
+
+Anti-Inflammatory Drug Hypersensitivity during Childhood. Int Arch Allergy
+Immunol 2015: 167: 211-21.
+14. Ayuso P, Blanca-Lépez N, Dojfia I et al. Advanced phenotyping in hypersensitivity
+
+drug reactions to NSAIDs. Clin Exp Allergy 2013: 43: 1097-109.
+
+This article is protected by copyright. All rights reserved.
+15. Berges-Gimeno MP, Simon RA, Stevenson DD. The natural history and clinical
+characteristics of aspirin-exacerbated respiratory disease. Ann Allergy Asthma
+Immunol 2002: 89: 474-8.
+
+16. Zambonino MA, Torres MJ, Mufioz C et al. Drug provocation tests in the diagnosis of
+hypersensitivity reactions to non-steroidal anti-inflammatory drugs in children.
+
+Pediatr Allergy Immunol 2013: 24: 151-9.
+
+This article is protected by copyright. All rights reserved.
+Table 1 — The ENDA classification adapted from [5], for the analysis of our cohort.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+delayed reactions
+
+ 
+
+eruption, SJS/TEN, nephritis)
+
+ 
+
+hours after exposure)
+
+ 
+
+chronic diseases
+
+ 
+
+A B C D
+Group Type of reaction Clinical manifestation Delay of reaction Underlying disease a
+number reactivity
+Bronchial obstruction, dyspnea Acute (usually
+1 NSAIDs-exacerbated and/or nasal immediate to several | Asthma/rhinosinusitis Yes
+respiratory disease i 3
+congestion/rhinorrhea hours after exposure)
+Acute (usually
+2 NBAIDs-exacerbated Urticaria and/or angioedema immediate to several | Chronic urticaria Yes
+cutaneous disease
+hours after exposure)
+* Acute (usually :
+3 NSAIDs vinduced Urticaria and/or angioedema immediate to several No underlying Yes
+urticaria/angioedema chronic diseases
+hours after exposure)
+Single-NSAID-induced Acute (usually No waden¥in
+4 urticaria/angioedema or Urticaria/angioedema/anaphylaxis | immediate to several won ying No
+chronic diseases
+anaphylaxis hours after exposure)
+f A Various symptoms and organs Delayed onset .
+5 Single-NSAID-induced involved (e.g., fixed drug (usually more than 24 Na indent ying No
+
+Legend: NSAIDs — Non Steroidal Anti-Inflammatory Drugs; SJS — Steven Johnson Syndrome; TEN — toxic epidermal necrolysis
+
+This article is protected by copyright. All rights reserved.
+
+ 
+Table 2 — Age distribution in our cohort.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Median age (25°- Overall population Hypersensitive
+75°) (N = 635) patients (N = 107)
+
+At the time of the
+first reaction (years) 9 (2-13) IL@y-ld5)
+At the time of the
+first DPT (years) 15 (10-24) 15 (11-22.5)
+Delay between the
+first reaction and the 3 (1-15) 2 (0-13)
+
+first DPT (years)
+
+ 
+
+ 
+
+ 
+
+Legend: DPT — Drug Provocation Test
+
+This article is protected by copyright. All rights reserved.
+Table 3 — Distribution of our patients according to the ENDA classification, and criteria for which our patients resulted divergent.
+
+Divergent patients, N (%)
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B Cc
+Patients Patients
+Group Gung included in the completely Clinical Delay of Underlying Crossnumber oup, N (%) belonging to the | manifestation | reaction disease reactivity
+BrouPy NW? | group, N (%)
+1 i respiratory 14 (13.1%) 0 (0.0%) 11(10.3%) | 0(0.0%) | 1(0.9%) | 2(1.9%)
+2 ee ni cutaneous 17 (15.9%) 12 (11.2%) 10.9%) | 0@.0%) | 210.9%) | 2.9%)
+NSAIDs-induced
+3 siilSearita ain boa 49 (45.8%) 35 (32.7%) 2 (1.9%) 0(0.0%) | 8(7.5%) | 4(3.7%)
+Single-NSAID-induced
+4 urtiearia/angioedema or anaphylaxis | _ 22 (20-6%) 16 (15.0%) 1 (0.9%) 0(0.0%) | 5(4.7%) | 0 (0.0%)
+5 Bingle-hip Ai Demaguced ictayed 1 (0.9%) 1 (0.9%) 0 (0.0%) 00.0%) | 0(0.0%) | 0 (0.0%)
+reactions
+Not possible to classify 4 (3.7%)
+
+ 
+
+ 
+
+Legend: NSAIDs — Non Steroidal Anti-Inflammatory Drugs.
+
+This article is protected by copyright. All rights reserved.
+Table 4 — New possible classification for NSAIDs hypersensitivity in the pediatric population, adapted from the current ENDA classification.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B Cc D
+Goi Type of reaction Clinical manifestation Delay of reaction Impact of risk Cros s Putative
+number factors reactivity mechanism
+Urticaria, angioedema,
+I Non-allergic NSAIDs dyspnea, rhinitis, Acute (usually immediate to Stron Yes COXx-1
+hypersensitivity (ENDA 1,2,3) | conjunctivitis, several hours after exposure) 8 : inhibition
+anaphylaxis
+Singie NS AID=induced Urticaria, angioedema, . IgEIl urticaria/angioedema or anaphylaxis Immediate (< | hour) Unknown No diated
+anaphylaxis (ENDA 4) phylaxis mediate
+Various symptoms and
+Single-NSAID-induced organs involved (e.g., Delayed onset (usually more Unkn N T-cells
+Ii delayed reactions (ENDA 5) fixed drug eruption, than 24 h after exposure) HSnOWE 9 mediated
+
+ 
+
+ 
+
+ 
+
+Legend
+
+ 
+
+SJS/TEN, nephritis)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: NSAIDs — Non Steroidal Anti-Inflammatory Drugs; COX-1 — Cyclooxygenase 1; SJS — Steven Johnson Syndrome; TEN — toxic epidermal necrolysis.
+
+This article is protected by copyright. All rights reserved.
+

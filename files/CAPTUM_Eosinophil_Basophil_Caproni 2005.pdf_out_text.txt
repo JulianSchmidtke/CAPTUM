@@ -1,0 +1,1418 @@
+ 
+
+Available online at www.sciencedirect.com
+
+ 
+
+   
+
+science @)oinecr- Clinical
+IMMUNOLOGY
+
+Clinical Immunology 114 (2005) 284—292
+
+Me
+ELSEVIER
+
+ 
+
+ 
+
+www.elsevier.com/locate/yclim
+
+Chronic idiopathic urticaria: infiltrating cells and related cytokines in
+autologous serum-induced wheals
+
+Marzia Caproni**, Barbara Giomi*, Walter Volpi*, Lucilla Melani*, Emiliano Schincaglia*,
+Donatella Macchia’, Mariangela Manfredi’, Alberino D’Agata®, Paolo Fabbri*
+
+“I Department of Dermatological Sciences, University of Florence, Via degli Alfani, 37, 50121 Florence Italy
+Department of Clinical Allergology and Immunology, Nuovo Ospedale San Giovanni di Dio, Florence, Italy
+“Department of Nuclear Medicine, University of Florence, Italy
+
+Received 1 October 2003; accepted with revision 13 October 2004
+Available online 23 December 2004
+
+ 
+
+Abstract
+
+The term chronic autoimmune urticaria (CAIU) is used for chronic urticaria in subjects who present a whealing response to the
+intradermal injection of autologous serum, suggesting the presence of pathogenic antibody activities.
+
+In this study, we examined 28 chronic urticaria subjects with positive autologous serum skin test (ASST), all of whom presented
+autologous serum-induced lesions at different evolutive stages. Punch biopsies were taken from lesional skin of six subjects at 10’, eight
+subjects at 30’, six subjects at 60’, and four subjects each at 24 and 48 h. Immunological studies focussed on infiltrating cell
+immunophenotype and related cytokines, chemokines and chemokine receptors, adhesion molecules. Immunohistochemical staining was
+performed to measure expression of CD3, CD4, CD8, tryptase, eosinophil cationic protein, myeloperoxidase, basophil granular protein, IL-4,
+IL-5, IL-8, CCR3 and CXCR3, ICAM-1, VCAM and ELAM. Control staining was done on unaffected skin from the patients and normal
+skin from four healthy donors.
+
+The main infiltrating population was represented by neutrophils, seen focally in both unaffected skin (P = 0.001) and healthy controls
+(P = 0.003). IFN-y and IL-5 were expressed focally in autologous wheals. Significant staining for IL-4 was seen at 30’. CCR3 and
+CXCR3 were expressed less in autologous wheals than in uninvolved skin (P < 0.0001; P = 0.002). Cellular adhesion molecules (CAMs)
+reached their highest expression at 30’ and 60’ in induced lesions, and they showed strong expression also in unaffected skin (ICAM-1: P <
+0.0001).
+
+Our data show that the immunoinflammatory features of ASST-induced wheals involve a prevalent role of lymphocytes (with a mixed
+Th1/Th2 response), with strong neutrophil infiltration and activity and involvement of the chemokine pathway. We interpreted the finding of
+inflammatory cells and mediator up-regulation in uninvolved CIU skin as a sign of prolonged and widespread “urticarial status”.
+© 2004 Elsevier Inc. All rights reserved.
+
+Keywords: Chronic autoimmune urticaria; Autologous serum-induced wheals; Th lymphocytes; Neutrophils; Basophils, Adhesion molecules
+
+ 
+
+Introduction Previous studies have clarified that chronic idiopathic
+
+urticaria (CIU) includes a heterogeneous subset (up to 46%
+
+Chronic urticaria (CU) is currently defined as the daily or
+almost daily occurrence of wheals for at least 6 weeks, and
+the term “idiopathic” urticaria (CIU) is used for CU cases in
+which neither signs of vasculitis nor causative drugs, foods,
+and/or physical factors can be individuated [1,2].
+
+* Corresponding author. Fax. +39 055 2758757.
+E-mail address: fabbri@unifi.it (P. Fabbri).
+
+1521-6616/$ - see front matter © 2004 Elsevier Inc. All rights reserved.
+doi:10.1016/j.clim.2004.10.007
+
+of cases) [2] that presents a previously unidentified serum
+factor, later discovered to be an antibody that most probably
+plays an important role in the pathogenesis of CIU. This
+antibody belongs to the IgG isotype and it reacts against the
+a-chain of the high affinity IgE receptor (FceRI) of
+basophils and mast cells, or alternatively against IgE itself
+[3]. Functional properties of antibodies are evidenced in
+vivo by the intradermal injection of autologous serum
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292 285
+
+(autologous serum skin test, ASST) [4], that is able to
+induce a wheal-and-flare response in patients with CIU;
+further evidence is seen in vitro with the release of histamine
+from basophils and mast cells elicited by addition of CIU
+patient serum [5-7].
+
+Since CIU has been hypothesized to have an autoimmune
+pathogenesis, the term chronic autoimmune urticaria
+(CAIU) has been proposed for CIU patients with positive
+ASST and in vitro assays. These subjects frequently present
+an increased incidence of autoimmune disorders (e.g.,
+thyroiditis) and more severe urticarial clinical features than
+normal CU patients [8].
+
+The literature includes several reports that contribute to
+better understanding the pathogenesis and effector mechanisms of CIU, focussed in turn on the different cellular
+populations that infiltrate urticarial lesions. Comprehensive
+review of the molecular immunopathology of CIU seems to
+indicate early activation of mast cells [9-11], followed by a
+lymphocyte and granulocyte cell-mediated hypersensitivity
+reaction with a ThO (or, alternatively, a mixed Th1/Th2)
+cytokine profile [12-19].
+
+However, the real advances in this field came with
+studies on the temporal evolution and changes of the wheal
+infiltrating cells. In particular, Grattan et al. [20] in 1990
+performed the first serial biopsies of autologous seruminduced wheals in CIU patients. Then, confirming mast cell
+degranulation by electron microscopy in early wheals, he
+demonstrated that, like T lymphocytes, perivascular neutrophils and eosinophils showed a tendency to increase from
+30 min to 2 h. At 24 h, CD4+ T cells significantly outnumbered CD8+ cells; at 48 h, the neutrophils were clearing, but
+the eosinophils and lymphocytes persisted.
+
+Also Sabroe et al. [2] sought to determine the timing of
+the inflammatory infiltrate in the wheals of CIU patients and
+to detect differences between patients with and without
+antibodies. These investigators found that eosinophil,
+neutrophil, and lymphocyte infiltration was more extensive
+in both “recent” and “established” wheals (less than 4 h and
+more than 12 h, respectively) than in uninvolved skin of
+CIU subjects with positive ASST. CIU subjects without
+antibodies had greater numbers of eosinophils in established
+wheals than those with antibodies, but the two groups
+presented no other significant difference, suggesting that
+eosinophil activation may occur later or be more persistent
+in urticaria subjects without antibodies [2].
+
+Similarly, in a previous study [21], we tried to find more
+specific information on the function of the inflammatory
+response in spontaneous wheals of CAIU subjects. We
+found similar tryptase staining in both CAIU subjects and
+healthy controls. Moreover, the lack of any significant
+differences between lesional and unaffected skin of CAIU
+subjects in the expression of T lymphocytes, adhesion
+molecules (ICAM-1 and VCAM-1), and chemokines (CChemokine Receptor 3, CCR3) seemed to indicate widespread immunological activation, involving not only
+lesional tissues, but possibly the entire skin immune system
+
+[21]. These findings recapitulate Natbony’s previously published conclusions [22].
+
+In the present study, we examined autologous seruminduced lesions at different evolutive stages to find further
+information about the pathological mechanisms of CAIU.
+We carried out thorough investigations of immunophenotype of infiltrating cells, related cytokines, chemokines and
+chemokine receptors, and adhesion molecules.
+
+Methods
+Patients
+
+The study comprised twenty eight patients (15 M, 13 F;
+age range 23-68; median age 42,08 years) diagnosed with
+chronic urticaria. All subjects had a disease duration of more
+than 3 months, with recurrent whealing at least twice a
+week. All the subjects presented a positive autologous
+serum skin test (ASST), as defined by Grattan et al. [23] and
+positive in vitro serum-evoked histamine release assays
+(HRA). HRA was performed on basophils of healthy donors
+as previously described [24]. Antihistamines were discontinued 1 week before skin testing in all cases and none of the
+subjects was taking other drugs. The exclusion criteria were
+negative response to ASST, predominant physical urticaria,
+allergic urticaria (IgE-mediated), urticaria-vasculitis, C,esterase inhibitor deficiency, drug or alcohol abuse, pregnancy, and lactation. Four age- and sex-matched healthy
+subjects were recruited as controls. Baseline investigations
+included search for circulating immunocomplexes (CIC)
+and organ and non-organ specific antibodies to evidence any
+autoimmune stigmata in our patients.
+
+Biopsies
+
+Six of the 28 patients with CIU and positive ASST were
+subjected to 4 mm punch biopsies taken from an autologous
+serum-induced wheal 10 min after development, the established baseline time. Bioptic specimens were taken from
+eight subjects at 30 min, from six at 60 min, and from four
+each at 24 and 48 h. Additional biopsies were taken from
+apparently uninvolved skin of four of the above subjects
+before the ASST was performed (¢ = 0). Finally, four control
+specimens were obtained from the healthy donors.
+
+The biopsies were performed under local ring anesthesia
+(without adrenaline) and covered in cryoprotectant (TissueTek, Miles INC, USA) before storage at —80°C.
+
+Immunohistochemistry
+
+Tissue specimens were cut into 5-um sections that were
+then stained with hematoxylin—eosin for routine immunohistochemical examination.
+
+The various types and titers of monoclonal antibodies
+(Mo Abs) used included MoAbs against tryptase at 1:50
+286 M. Caproni et al. / Clinical Immunology 114 (2005) 284-292
+
+(Dako Ltd., High Wycombe, UK) to detect mast cells. For
+the detection of human T lymphocytes, we used CD3 at
+1:20 pan-specific for T cells, CD4 at 1:50 specific for Thelper cells, CD8 at 1:20 specific for cytotoxic/suppressor T
+cells (Dako). Neutrophils stained with Mo Abs against
+myeloperoxidase (MPO) at 1:100 (Dako). Eosinophils were
+labeled with anti-EG1 at 1:150 and anti-EG2 at 1:300
+(Pharmacia and Upjon Diagnostics Ab, Uppsala, Sweden)
+that bind to the epitope of eosinophilic cation protein (ECP)
+in the non-secreted and secreted forms. BB1 at 1:10, a novel
+Mo Ab (the kind gift of Dr A.F. Walls, University of
+Southampton, United Kingdom) was used to find human
+basophil granular protein.
+
+We studied the cytokines in tissue specimens using Mo
+Abs anti-IL4 at 1:20, anti-IL-5 at 1:50, anti-IL8 at 1:100,
+anti-IFN-y at 1:100 (R&D Systems, Europe Ltd. Abingdon,
+UK). The Mo Abs for integrins used were ICAM-1 at 1:50
+(Immunotech, Marseille, France), V-CAM at 1:50 (R&D
+Systems), ELAM at 1:100 (Novocastra Laboratories Ltd.,
+Newcastle upon Tyne, UK). We also studied two chemokine
+receptors using antibodies against CCR3 at 1:50 and antiCXCR3 at 1:50 (R&D Systems).
+
+Frozen sections were air-dried and fixed in acetone
+(5 min) before staining. Immunolabeling was performed
+using rabbit anti-mouse bridging antibodies conjugated with
+alkaline phosphatase (1:10 dilution, 30 min) (Dako)
+followed by incubation with murine alkaline phosphatase
+anti-alkaline phosphatase (APAAP) complexes (1:30 dilution, 30 min) (Dako). Two independent observers did
+“blind” assessments of the histological sections. For
+quantitative analysis, we used the mean of the stained cells
+counted in three adjacent microscopic fields (250) of each
+section.
+
+Statistical analysis
+
+Results were expressed as mean + standard deviation
+(SD) of the mean. The first step consisted in comparing the
+mean of stained cells in autologous wheal sections and then
+calculating statistical differences between the mean numbers
+observed at different times. Later, we compared results from
+lesional, uninvolved and healthy skin. Statistical significance (P < 0.05) was assessed by Student’s f¢ test.
+
+Results
+Immunological profile
+
+Circulating anti-thyroid autoantibodies were detected in
+15 CIU subjects (7 had anti-thyreoglobulin and 10 antiperoxidase autoantibodies). Eight subjects had anti-nuclear
+autoantibodies with a titer of 1:40. Two CIU subjects had
+anti-gastric parietal cell antibodies, one anti-pancreatic
+islet, none had CIC, and 7 had anti-Helicobacter pylori
+antibodies.
+
+Table 1
+
+Time evolution of infiltrating process in autologous wheal, uninvolved skin of CIU patients and healthy control skin (mean + SD)
+
+ 
+
+Healthy skin
+
+Uninvolved skin
+
+Autologous wheal
+
+10
+
+MoAb
+
+ 
+
+70)
+
+po
+
+Pp)
+
+Pp
+
+me 60! pe 24h pe 48h
+
+30’
+
+I
+
+n=8
+
+(baseline)
+
+6
+26.7 + 14.1
+
+n=
+
+ 
+
+<0.0001
+
+<0.0001
+<0.0001
+
+40+ 2.0
+6.3 +13
+
+46+09
+
+0.6
+<0.0001
+
+30:7 2113
+44.9 + 13
+
+0.9
+
+26.6 + 16.8
+30.3 + 4.9
+12.3 + 5.8
+
+04
+
+20 + 10.5
+30.6 + 9.2
+
+0.4
+
+yi bac
+26:7 + 12.7
+
+0.8
+
+28.5417
+
+CD3
+CD4
+
+Lymphocytes
+
+<0.0001
+
+0.5 0.2 0.2
+
+0.5
+0.9
+0.5
+
+26.2 + 8.6
+
+22.6 + 10.4
+
+<0.0001
+
+0.01
+0.7
+
+22.9 + 0.9
+176 £17
+
+0.0002
+0.6
+
+23.7 + 6.0
+
+20.8 + 9.2
+
+0.3
+
+0.5
+
+7.0 + 2.0
+18.5 + 12
+75.6 + 2.0
+
+0.9
+0.8
+
+9.0 + 7.7
+20.6 + 9.0
+
+84.9 +31
+
+9.1476
+18.4 + 7.3
+49.1 + 7.2
+13:1 £°7.0
+16.0 + 9.0
+1.0439
+
+217 & TTS
+24.3 + 6.4
+
+8.7454
+
+cps
+Try
+
+0.5
+
+0.6
+
+19 + 13
+
+0.6
+
+Mast cells
+
+0.1
+
+0.003
+0.003
+0.001
+
+0.001
+04
+0.1
+
+13.7 + 8.9
+
+0.0001
+09
+
+9+ 26
+
+0.0001
+0.9
+
+0.0001
+0.
+
+16.8 + 11.1
+17.3 + 6.4
+
+0.02
+
+MPO
+EG1
+EG2
+BBI
+
+Neutrophils
+Eosinophils
+
+0.3
+
++01
+
+8.0 + 0.1
+19.3 + 5.0
+
+09
+
+0.1
+
+5449
+
+8t47
+43
+
+0.1
+
++01
+1.6+ 1.1
+
+3.3 £35,
+46+ 29
+
+0.0001
+
+0.8
+
+£28
+32 £ 1.2)
+
+28
+
+0.006
+0.8
+
+0.08
+
+0.06
+
+0.07
+
+0.03
+
+0.007
+
+0.8
+
+40+ 17
+
+6.6 + 2.2
+
+0.0002
+
+2.7
+
+=
+
+Basophils
+
+ 
+
+n: number of investigated patients.
+P\: comparison between 10’ and 30’.
+
+comparison between 10’ and 60’.
+
+comparison between 10’ and 24 h.
+P™: comparison between 10’ and 48 h.
+
+ 
+
+comparison between autologous wheals at 10’ and healthy control skin.
+
+comparison between autologous wheals at 10’ and uninvolved skin.
+: comparison between unaffected skin and healthy control skin.
+
+    
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292 287
+
+Histologic examination
+
+All biopsies from affected skin showed interstitial dermal
+edema, dilated venules with endothelial swelling and a
+perivascular and interstitial mixed-cell infiltrate in agreement with the original diagnosis of urticaria. We did not
+observe any signs of vasculitis-like endothelial degeneration, vessel necrosis, leukocytoclasia, fibrin deposition or
+erythrocyte extravasation.
+
+Cellular infiltrate
+
+In autologous wheals, lymphocytes (CD3+, CD4+,
+CD8+) were located mainly in the perivascular upper- and
+mid-dermis. No significant variations in mean numbers
+were evidenced at different time checks (Table 1, Fig. 1).
+The CD4/CD8 ratio was about 2:1 at all times.
+
+CIU subjects with positive ASST showed more numerous CD4- and CD8-positive cells in apparently uninvolved
+skin than in lesional skin. Induced lesions and unaffected
+skin showed significant differences in CD4 cells up to 60’
+and CD8 cells up to 24 h.
+
+On the other hand, skin from healthy donors showed
+lower T lymphocyte counts (Table 1). Statistical difference
+was always significant for CD4, and only at 48 h for CD8.
+
+In skin biopsies from autologous wheals, tryptasepositive (+) mast cells were detected in the upper- and
+mid-dermis with a prevalent perivascular and periadnexal
+pattern. The intensity of staining did not change remarkably
+in autologous serum-induced wheals at subsequent times of
+observation (Table 1). Mast cell mean counts were similar to
+those of unaffected skin of the same patients and normal
+control specimens (Table 1). Statistical analyses did not
+evidence any significant differences within a group at different times or between uninvolved patient skin and healthy
+controls.
+
+In autologous wheals, MPO+ neutrophil granulocytes,
+located in the upper perivascular dermis, increased progressively, representing at 60’ the major cellular population
+infiltrating autologous wheals (Fig. 1). The mean of MPO+
+cells at 60’ significantly outnumbered those at both 10’ and
+48 h (Table 1). Neutrophil infiltration was significantly
+lower in both unaffected CIU skin and specimens from
+healthy controls than in autologous wheals (Table 1).
+
+In lesional skin, eosinophils were located mainly in
+perivascular dermal sites. Eosinophil functional activity was
+studied by immunohistochemical markers EG1 and EG2
+that detect the intra- and extracellular isoform of ECP,
+respectively. We observed a progressive increase in EG1+
+cells from 10! to 60’ followed by decreases at 24 and 48 h,
+but this trend was not statistically significant (Table 1).
+EG1+ cells were poorly represented in uninvolved skin of
+urticaria subjects as well as in healthy donor specimens
+(Table 1).
+
+EG2 expression increased up to 48 h, but this increase
+was significant only after 24 h. EG2 staining was weak in
+
+samples of both uninvolved skin from CIU subjects and
+healthy controls.
+
+In autologous wheals, basophils were located predominantly in intra- and perivascular sites in the superficial
+dermis and showed prevalently intracellular staining. A
+statistically significant increase for BB1 was evident at 30’
+(Fig. 1), followed by a trend to slow decrease. Interestingly,
+we detected relevant amount of these cells also in unaffected
+skin of CIU subjects, but they were poorly represented in
+the skin of healthy controls.
+
+Cytokines, chemokines, and chemokine receptors
+
+In autologous wheals, IFN-y-positive cells showed
+focal dermal staining with constant mean counts at
+subsequent observations (Table 2). Staining in wheal
+specimens at 24 h was significantly different from that
+observed in uninvolved skin of urticaria subjects. Skin
+specimens from healthy controls did not show any IFN-y
+expression (Table 2).
+
+IL-4 staining, possibly attributable to activated T
+lymphocytes, mast cells, and basophils, increased in
+lesional skin within the first 30’ (Fig. 2), when it showed
+the highest expression, and then it started to decrease from
+the peak. However, this trend was not statistically
+significant (Table 2). Skin of healthy controls was negative
+for IL-4 expression, whereas uninvolved skin specimens
+from CIU subjects showed a low mean value that differed
+significantly from that of the autologous wheal at 10’
+(Table 2).
+
+In autologous wheals, focal perivascular staining for IL-5
+was detectable in the dermis from the time of 30’ (Fig. 2)
+and it started decreasing in the first hour thereafter (Table 2).
+In uninvolved skin, IL-5 was assessed at a mean value of
+3.6 + 4.0, significantly different from the 60’ count in
+lesional skin (Table 2). No reactivity for IL-5 protein was
+found in skin of healthy controls.
+
+IL-8, a monocyte-, neutrophil-, eosinophil-, and mast
+cell-related chemokine, was moderately expressed in epidermis and dermis with constant intensity in autologous
+wheals (Table 2). There was moderate IL-8 staining in
+uninvolved skin of affected subjects, but none in the skin
+sections of healthy controls. (Table 2).
+
+Chemokine receptor expression of lesional skin at
+different times (particularly CXCR3) was very similar to
+that of healthy control skin, except at 30’ when CXCR3
+showed a higher cell count in lesional skin. However, no
+significant difference was found between the 10’ and 30!
+values (Table 2), and when compared to uninvolved CIU
+skin, the difference was significant only at 10’. Otherwise,
+CCR3 staining was slighter than that in CXCR3 at the
+different times, but without significant variation (Table 2).
+Uninvolved skin showed a mean CCR3 expression of 14.1 +
+6.6 significantly different from that of the autologous wheal
+at 10’. No significant differences were observed between
+lesional skin and that of healthy controls.
+288
+
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292 289
+
+Cellular adhesion molecules (CAMs)
+
+In autologous wheals, ELAM expression was slightly but
+not significantly increased at 60/ (Table 2).
+
+In uninvolved CIU skin ELAM expression was assessed
+at a mean of 6.7 + 4.6, a value not significantly different
+from that of autologous wheals.
+
+The highest expression of ICAM-1 was reached at 30/
+but overall there was no significant difference in expression
+between autologous wheals and skin of healthy controls
+(Table 2). VCAM showed the highest expression at 48 h
+with statistically relevant increase compared to the 10’ value
+(Table 2). These CAMs were intensely expressed in
+uninvolved skin of urticaria subjects (Table 2).
+
+Discussion
+
+In this study, ASST-induced wheals of CIU subjects were
+sequentially biopsied at different times after their appearance and specimens were subjected to investigation of
+immunophenotype of infiltrating cells and related molecules. Our data describe evolutive stages of the wheal-andflare skin process and are compared to findings from both
+uninvolved skin of the same urticaria subjects and skin
+specimens from healthy donors. The aim of the study was to
+glean information about the pathogenesis and effector
+mechanisms of CIU, considered a model of dynamic
+inflammation.
+
+We note that ASST alone is not sufficient to define CIU
+as an autoimmune disease. However, ASST has often been
+chosen as an experimental model (2,20) because it has an
+effect very similar to that of the physiological stimulus that
+causes whealing in urticaria. Moreover, it is performed in
+vivo and in the very serum-donor subjects affected with
+CIU, which allows one to avoid the many biases involved in
+in vitro procedures.
+
+One must also consider that in the large population of skin
+test-positive subjects, different subsets can be distinguished
+on the basis of whealing persistence. In fact, in our series,
+only a minority of CIU subjects had long-lasting lesions (up
+to 24 and 48 h). We can suppose that several individual
+factors influence the duration of “idiopathic” urticaria
+wheals, for instance, the nature and functional properties of
+the “serum factor’ contained in CIU sera (anti-FceRI
+antibodies, anti-IgE antibodies, other histamine-releasing
+activities with different molecular characteristics). Other
+variables that may influence wheal duration are basophil
+releasability that varies largely from one subject [25] to
+another, and/or basophil concentration in lesional tissue.
+
+We detected in our specimens early participation of T
+lymphocytes, already present at 30’ and persisting until 48 h,
+which emphasizes their role in inflammatory response. As
+mentioned above, this finding reproduces that of Grattan,
+who also found a progressive increase in numbers of T cells
+after the first determination (30') up to 24 h. Since T cell
+numbers were significantly higher in uninvolved than in
+affected skin of CAIU subjects, one might suggest that a
+“latent” skin inflammation [26] extends to the entire surface
+of the skin and mucosae, lowering the reactive threshold to
+triggering stimuli. This “urticarial status” [25—28] could also
+explain the extreme spreading characteristic of CIU wheals.
+The principal difference between our investigation and that
+of Grattan regards the CD4/CD8 ratio, that was about 2:1 in
+our series, whereas in Grattan’s study CD8 cells outnumbered CD4 cells at all times, except at 24 h.
+
+In regard to mast cells, we did not observe significantly
+different numbers of these cells in autologous wheals,
+unaffected skin of the same subjects and healthy controls,
+contrary to the findings of increases in mast cell in CIU
+lesions reported in the literature [11,27]. Moreover, in our
+specimens, mast cell counts were constant at different times
+in autologous wheals, deduced from the lack of significant
+fluctuations in tryptase staining from 30’ to 48 h. This
+observation, however, is not incompatible with the predominant role of tryptase+ mast cells and related mediators in
+hive formation, but merely suggests that we should consider
+their activation to occur very early, as previously proposed
+[11,12]. We might speculate that involvement of mast cells,
+in particular their activation and degranulation, is predominant at the very onset of the induced lesion (when they
+would prime the immediate phase of inflammation), and that
+afterwards, they play a less important role as revealed by the
+lack of substantial differences in their numbers at different
+times.
+
+MPO staining, performed to quantify neutrophils, closely
+resembled the findings reported in the previous literature
+[20]. Neutrophils represented the main component of the
+cellular infiltrate, the most diffuse dermal neutrophilia
+appearing at 60’, with lower detectable staining at the other
+times. The hypothesis that neutrophil granulocytes might
+play an important role in the development of wheals,
+through the release of inflammatory mediators, is supported
+by the very weak MPO expression observed in both
+uninvolved skin of CIU subjects and healthy control skin.
+These cells, recruited only in those sites where a lymphocytic activation is already started, might leave blood vessels
+and accumulate exclusively in whealing skin.
+
+The reasons for the high chemoattraction of neutrophils
+in CIU lesional skin remain to be clarified, and may entail
+
+ 
+
+Fig. 1. CD4-positive T lymphocytes with mainly perivascular distribution in the upper and mid dermis of autologous serum-induced wheal at 60’; CD8
+expression in lesional skin at 60’; MPO staining at 30’ in a biopsy from autologous wheal; MPO staining at 60’ in a biopsy from autologous wheal; BB1
+specific staining in lesional skin (autologous wheal, 30’).
+
+Fig. 2. IL-4 expression in lesional skin (autologous wheal, 10’); IL-4 expression in lesional skin (autologous wheal, 30’); Focal perivascular staining for IL-5
+
+detectable in the dermis at 30’ in autologous wheal.
+290
+
+Table 2
+
+Timing of cytokine, chemokine and chemokine receptor, CAM expression in autologous wheal, uninvolved skin of CIU patients and healthy control skin (mean + SD)
+
+ 
+
+ya)
+
+Healthy skin
+
+N=4
+
+Uninvolved skin
+
+Autologous wheal
+
+MoAb
+
+ 
+
+po
+
+po
+
+n
+
+po
+
+=4
+
+48hn
+
+B
+
+=4
+
+p® 24hn
+
+60'n =6
+
+=g po
+
+30' n
+
+10'n=6
+
+ 
+
+0.002
+<0.0001
+
+0.002
+<0.0001
+
+negative*
+
+0.5
+
+13 + 1.5
+5.0 + 2.0
+3.6 + 4.0
+12.2 + 8.6
+
+0.7
+
+0.2
+
+2.0 + 1.2
+
+a
+2
+s
+
+a
+5
+s
+
+2&
+
+ee
+
+Vv
+
+3.6 + 0.5
+12.0 + 14.1
+
+0.7
+
+0.1
+<0.0001
+
+2.0 + 1.4
+
+0.5
+94
+
+Doh tb 34
+25.9 + 144
+10.0 + 7.8
+12.0 + 8.6
+
+1a 13
+15.9 + 7.8
+
+IFN-y
+negative*
+
+IL-4
+
+Cytokines
+
+negative*
+
+0.02
+
+10.0 + 4.1
+
++53
+
+0.004
+0.0002
+0.0004
+0.03
+
+0.8
+
+negative*
+
+0.004
+0.06
+
+0.0004
+0.2
+
+0.1
+
+Sek OF
+6.0 + 3.0
+
+6.6 + 7.0
+14.0+ 34
+
+43411
+
+9+ 2.9
+10.1 + 4.0
+20.0 + 7.6
+65428
+22.5 + 6.6
+8.0 + 3.4
+S550
+
+0.0006
+0.4
+
+IL-5
+
+0.0004
+0.1
+0.4
+0.1
+
+negative*
+
+90
+So
+
+8739
+26.0 + 14.3
+
+IL-8
+
+20.0 + 10.1
+
+0.002
+<0.0001
+
+47.5 + 15.0
+14.1 + 6.6
+33.5 + 9.8
+16.7 + 6.6
+
+15.6 + 3.0
+43411
+238 15
+
+s
+
+0.3
+
+33.0 + 16.7
+
+CXCR3
+CCR3
+
+Chemokines
+
+2 & 28
+
+5
+211 + 93:
+
+0.5
+
+ee
+=
+
+0.4
+0.1
+
+0.4
+0.5
+
+0.004
+0.004
+04
+
+<0.0001
+
+0.1
+
+0.7
+0.4
+
+0.6
+
+0.06
+
+16.3 + 8.4 27.8 + 10.3
+112 3.7
+
+ICAM-1
+
+CAMs
+
+48 0.1
+
+6.84
+
+0.001
+0.5
+
+0.03
+
+13.0 + 0.1
+
+0.3
+
+9342.8
+65449
+
+VCAM
+ELAM
+
+n: number of investigated patients.
+
+OF
+
+6.7 + 4.6
+
+0.2
+
+ 
+
+0.8
+
++
+
+wi
+
+ 
+
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292
+
+| purpose, a conventional mean value of 0.1 was chosen.
+
+comparison between 10’ and 30’.
+
+ 
+
+ 
+ 
+
+comparison between 10! and 60’.
+: comparison between 10! and 24 h.
+
+comparison between 10’ and 48 h.
+comparison between autologous wheal at 10’ and unaffected skin.
+
+: comparison between autologous wheal at 10’ and healthy control skin.
+
+P: comparison between unaffected skin and healthy control skin.
+
+ 
+
+simultaneous involvement of various mechanisms. Some of
+these mechanisms involve IL-8 that is important in chemotaxis, as well as in inducing shape change and degranulation
+of cells [28]. However, it seems unlikely that it is the only
+chemotactic molecule, especially since we found a similar
+expression of this chemokine also in unaffected CIU skin,
+where neutrophils are significantly less numerous. Thus,
+some other granulocyte chemoattractant and/or activating
+system might be sustained by other cytokines, such as IL-4
+(that acts by enhancing the respiratory burst and phagocytic
+properties [29]), mast cell-derived TNF-a and GM-CSF
+[30], complement fragment C5a [31], and by CXCR3.
+
+An effector role in the development of wheals can also be
+suggested for eosinophils, shown in lesional skin by EG1
+staining; this was remarkably similar to the neutrophil trend
+in both ASST-induced lesions and hive-spared skin.
+Eosinophil chemotaxis to lesional sites would be followed
+by secretion of eosinophil cationic protein (ECP), confirmed
+by the progressive increase of EG2.
+
+We have also demonstrated, using the well-defined
+phenotype marker BB1, that basophils are present, indeed,
+in autologous wheal biopsies at all times. Since basophils
+express their FceRI, it seems likely anti-FceRI autoantibodies can directly interact with these cells to activate them
+in situ. Moreover, the persistent staining for BB1 at 48 h
+might explain the prolongation of wheals characterizing the
+“autoimmune” subset of CIU patients.
+
+The cellular infiltration pattern has already been investigated by other authors, and the novelty of the present study
+consists in the immunohistochemical detection of cytokines
+and chemokines. To date, few studies [12,32,33] have been
+carried out to define the cytokine profile of the sera and/or
+tissues of CIU patients. The only available data consist in
+the serum increase of TNF-a and IL-10 in CIU subjects
+compared to healthy controls, despite similar IL-4 levels in
+the two groups, suggesting that an IgE-dependent mechanism might not be primarily involved in the etiopathogenesis of CIU.
+
+IL-4 plays a role in cutaneous mast cell degranulation
+and regulates the synthesis of IgE [34], and IL-5 is reported
+to exercise specific chemotactic activity on eosinophils and
+can induce the full pathway of eosinophil differentiation
+[35]. Moreover, as shown by Ying et al. [12], in addition to
+the prominent role of IL-4 and IL-5, also IFN-y is detected
+in skin biopsies from CIU subjects (although not in allergeninduced late-phase reactions). This finding suggests that
+there is a balance between Thl and Th2 cytokines in
+urticarial inflammation, with early involvement of Th2-like
+molecules (possibly derived from T helper lymphocytes,
+basophils and mast cells) and later participation of Thl
+activity, demonstrated by the significant increase of IFN-y at
+24h.
+
+We investigated CXCR3 and CCR3 expression as
+prototypes of a and B-chemokine families.
+
+Activated Th lymphocytes are the cellular source of these
+molecules that in turn exert a chemoattractant function on
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292 291
+
+the very leukocytes. Alpha-chemokines (CXC-) promote
+neutrophil attraction towards tissues, whereas B-chemokines
+(CC-) recall monocytes, lymphocytes, basophils, and
+eosinophils with variable selectivity [36,37]. Both CXCR3
+and CCR3 showed a peak at 30’ in autologous wheals,
+followed by a progressive decrease, suggesting that in early
+whealing such recruiting mechanisms might work to attract
+neutrophils, eosinophils, and basophils. CXCR3 receptor is
+involved in classical Thl responses, while CCR3 is
+primarily (although not exclusively) associated with Th2
+pattern. These findings further confirm the combined
+lymphocyte response. Moreover, the overlapping trend of
+IL-4 and CCR3 in autologous wheals would further support
+the proposed pathogenic role of basophils.
+
+In addition to chemokines, other key players in tissue
+localization of leukocytes are represented by cellular
+adhesion molecules (CAMs). CAMs are cell surface
+proteins that are important as mediators of close cell-cell
+and cell—matrix interaction. They possess unique specificity
+that allows them to interact selectively with ligands that may
+be other adhesion molecules or matrix proteins [35].
+
+Cassano et al. [27] have recently detected increased
+expression of ELAM and VCAM in unaffected skin of
+CIU patients compared to that of healthy controls. This
+finding indicates that non-lesional skin presents signs of
+latent inflammation, in agreement with previous [21,38]
+and present studies showing high levels of adhesion
+molecules in the uninvolved skin of patients with chronic
+urticaria.
+
+However, in addition to CAMs, also T cells, eosinophils, basophils, and chemokine receptors were often
+overexpressed in unaffected CIU skin compared to
+controls and lesional skin specimens. The observed upregulation of inflammatory cells, soluble mediators and
+adhesion molecules in uninvolved CIU skin could reinforce the hypothesis of minimal persistent inflammation in
+the apparently unaffected tissues. We suppose that,
+analogously to what has been demonstrated in pathologic
+atopy-related conditions like asthma and atopic dermatitis
+[39,40], in CIU, the repeated whealing episodes would
+modify the cutaneous microenvironment and the communication signals between the skin and the immune system.
+This, in turn, would lead to an inflammatory cell influx
+towards the entire skin surface to support chronic cycles of
+injury and inflammation.
+
+To conclude, our data all indicate the importance of
+neutrophil and basophil infiltration and activity in ASSTinduced wheals. However, the quantitatively limited eosinophilic infiltration suggests that these cells have less
+influence on autologous wheal than spontaneous lesions
+[21]. Despite CAM expression in uninvolved and possibly
+lesional CIU skin, it seems worth remarking that ASSTinduced wheals do not present higher levels of ELAM than
+unaffected CIU skin does: this finding seems to indicate the
+possible existence in CAIU of other “serum factors” whose
+main function is neutrophil recruitment.
+
+Altogether, our data on ASST-induced lesions evidence a
+specific kinetics of cellular infiltration, mostly sustained by
+T helper lymphocytes and neutrophils, with a mixed Th1/
+Th2 response. While there is no significant difference in the
+numbers of mast cells found in autologous wheals and
+healthy skin at any of the time points evaluated, we noticed
+that increased numbers of basophils are present at baseline
+(10’) in wheals compared to healthy skin, with additional
+recruitment at 30’.
+
+Finally, as reported previously [12], even uninvolved
+skin of CIU subjects presents an apparently latent inflammatory state characterized by a lymphocytic and granulocytic cellular infiltrate.
+
+References
+
+1] CE. Grattan, R.A. Sabroe, M.W. Greaves, Chronic urticaria, J. Am.
+Acad. Dermatol. 46 (5) (2002) 645-647.
+
+2] R.A. Sabroe, E. Poon, G.E. Orchard, D. Lane, D.M. Francis, M.R.
+Barr, M.M. Black, A.K. Black, M.W. Greaves, Cutaneous inflammatory cell infiltrate in chronic idiopathic urticaria: comparison of
+patients with and without anti-FceRI or anti-IgE autoantibodies,
+J. Allergy Clin. Immunol. 103 (3) (1999) 484-493.
+
+3] R.A. Sabroe, E. Fiebiger, D.M. Francis, D. Maurer, Classification of
+anti-FceRI and anti-IgE autoantibodies in chronic idiopathic urticaria
+and correlation with disease severity, J. Allergy Clin. Immunol. 110
+(3) (2002) 492-499.
+
+4] R.A. Sabroe, C.E.H. Grattan, D.M. Francis, R.M. Barr, A.K. Black,
+M.W. Greaves, The autologous serum skin test: a screening test for
+autoantibodies in chronic idiopathic urticaria, Br. J. Dermatol. 140
+(1999) 446-452.
+
+5] B.L. Gruber, M.L. Baeza, M.J. Marchese, Prevalence and functional
+role of anti-IgE autoantibodies in urticarial syndromes, J. Invest.
+Dermatol. 90 (1988) 213-217.
+
+6] C.E.H. Grattan, D.M. Francis, M. Hide, Detection of circulating
+histamine releasing autoantibodies with functional properties of antiIgE in chronic urticaria, Clin. Exp. Allergy 21 (1991) 695—704.
+
+7] Y. Kikuchi, A.P. Kaplan, Mechanisms of autoimmune activation of
+basophils in chronic urticaria, J. Allergy Clin. Immunol. 107 (6)
+(2001) 1056-1062.
+
+8] R.A. Sabroe, P.T. Seed, C. Stat, D.M. Francis, R.M. Barr, A.K. Black,
+M.W. Greaves, Chronic idiopathic urticaria: comparison of the clinical
+features of patients with and without anti-FceRI or anti-IgE autoantibodies, J. Am. Acad. Dermatol. 40 (3) (1999) 43—50.
+
+9] M. Ferrer, K. Nakazawa, A.P. Kaplan, Complement dependence of
+histamine release in chronic urticaria, J. Allergy Clin. Immunol. 104
+(1999) 169-172.
+
+10] A. Kaufman, D.L. Rosenstreich, Mast cell heterogeneity in chronic
+idiopathic urticaria, Ann. Allergy 65 (1990) 367—373.
+
+11] R.J. Barlow, E.L. Ross, D.M. McDonald, Mast cells and T lymphocytes
+in chronic urticaria, Clin. Exp. Allergy 25 (1995) 317—322.
+
+12] S. Ying, Y. Kikuchi, Q. Meng, Th1/Th2 cytokines and inflammatory
+cells in skin biopsy specimens from patients with chronic idiopathic
+urticaria: comparison with the allergen-induced late-phase cutaneous
+reaction, J. Allergy Clin. Immunol. 109 (2002) 694-700.
+
+13] B.M. Henz, T. Zuberbier, Urticaria. New developments and perspectives, Hautarzt 51 (2000) 302-308.
+
+14] J. Elias, E. Boss, A.P. Kaplan, Studies of the cellular infiltrate of
+chronic idiopathic urticaria: prominence of T lymphocytes, monocytes
+and mast cells, J. Allergy Clin. Immunol. 78 (1986) 914-918.
+
+15] Y.A. Mekori, R.C. Giorno, P. Anderson, Lymphocyte subpopulations
+in the skin of patients with chronic urticaria, J. Allergy Clin. Immunol.
+72 (1983) 681.
+
+ 
+
+ 
+
+ 
+292
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+ 
+
+21.
+
+ 
+
+M. Caproni et al. / Clinical Immunology 114 (2005) 284-292
+
+M.S. Peters, R.K. Winkelmann, Neutrophilic urticaria, Br. J.
+Dermatol. 113 (1985) 25-30.
+
+E. Toppe, N. Haas, B.M. Henz, Neutrophilic urticaria: clinical
+features, histological changes and possible mechanisms, Br. J.
+Dermatol. 138 (1995) 248-253.
+
+MSS. Peters, A.L. Schroeter, G.M. Kephart, Localization of eosinophil
+granule major basic protein in chronic urticaria, J. Invest. Dermatol.
+81 (1983) 39-43.
+
+L. Juhlin, P. Venge, Eosinophilic cation protein (ECP) in skin
+disorders, Acta Derm.-Venereol. 71 (1991) 495—501.
+
+C.E.H. Grattan, A.P. Boon, R.A.J. Eady, R.K. Winkelmann, The
+pathology of the autologous serum skin test response in chronic
+urticaria resembles IgE-mediated late-phase reactions, Int. Arch.
+Allergy Appl. Immunol. 93 (1990) 198-204.
+
+M. Caproni, W. Volpi, D. Macchia, B. Giomi, M. Manfredi, P. Campi,
+C. Cardinali, A. D’Agata, P. Fabbri, Infiltrating cells and related
+cytokines in lesional skin of patients with chronic idiopathic urticaria
+and positive autologous serum skin test, Exp. Dermatol. 12 (2003)
+621-628.
+
+S.F. Natbony, M.E. Phillips, J.M. Elias, Histologic studies of chronic
+idiopathic urticaria, J. Allergy Clin. Immunol. 71 (1983) 177-180.
+C.E.H. Grattan, T.B.W. Wallington, R.P. Warin, A serological
+mediator in chronic idiopathic urticaria: a clinical, immunological and histological evaluation, Br. J. Dermatol. 114 (1986)
+583-590.
+
+M. Caproni, W. Volpi, B. Giomi, C. Cardinali, E. Antiga, L. Melani,
+A. D’Agata, P. Fabbri, Chronic idiopathic urticaria and chronic
+autoimmune urticaria: clinical and immunopathological features of 68
+subjects, Acta Derm.-Venereol. 84 (2004) 288-290.
+
+C.E.H. Grattan, Basophils in chronic urticaria, J. Invest. Dermatol.
+(Symp. Proc.) 6 (2001) 139-140.
+
+A.P. Kaplan, Z. Horakova, S.I. Katz, Assessment of tissue fluid
+histamine levels in patients with urticaria, J. Allergy Clin. Immunol.
+61 (1978) 350-354.
+
+N. Cassano, R. Filotico, V. D’Argento, M. Filieri, C. Coviello,
+G.A. Vena, In vivo anti-inflammatory effects of fexofenadine in
+chronic idiopathic urticaria, J. Eur. Acad. Derm.-Venereol. 16 (4)
+(2002) 421-422.
+
+ 
+
+28
+
+29
+
+30)
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40)
+
+ 
+
+J. Willems, M. Joniau, S. Cinque, J. Van Damme, Human granulocyte
+chemotactic peptide (IL-8) as aspecific neutrophils degranulator:
+comparison with other monokines, Immunology 67 (1989) 540-542.
+H. Boey, R. Rosenbaum, J. Castracane, L. Borish, Interleukin-4 is a
+neutrophil activator, J. Allergy Clin. Immunol. 83 (1989) 978—984.
+
+W.E. Paul, R.A. Seder, M. Plaut, Lymphokine and cytokine
+production by FceRI cells, Adv. Immunol. 53 (1993) 1-29.
+
+Y. Kikuchi, A.P. Kaplan, A role of CSa in augmenting IgG-dependent
+histamine release from basophils in chronic urticaria, J. Allergy Clin.
+Immunol. 109 (2002) 14-118.
+
+S. Piconi, D. Trabattoni, E. Iemoli, M.L. Fusi, M.L. Villa, F. Milazzo,
+M. Clerici, Immune profile of patients with chronic idiopathic
+urticaria, Int. Arch. Allergy Immunol. 128 (2002) 59-66.
+
+B. Hermes, A.K. Prochazka, N. Haas, B.M. Henz, Upregulation of
+TNF-a and IL-3 expression in lesional and uninvolved skin in
+different types of urticaria, J. Allergy Clin. Immunol. 103 (1999)
+307-314.
+
+P. Fabbri, Le molecole del sistema immunitario, in: P. Fabbri (Ed.),
+Immunodermatologia, 2nd ed., ISED, Brescia, 2002.
+
+J.M. Wang, A. Rambaldi, A. Biondi, Recombinant human IL-5 is a
+selective eosinophil chemoattractant, Eur. J. Immunol. 19 (1989)
+701-705.
+
+A.D. Luster, Chemokines: chemotactic cytokines that mediate
+inflammation, N. Engl. J. Med. 338 (1988) 436-445.
+
+N.W. Schluger, W.N. Rom, Early responses to infections: chemokines as mediators of inflammations, Curr. Opin. Immunol. 9 (1997)
+504-508.
+
+N. Haas, D. Schadendorf, B.M. Henz, Differential endothelial
+adhesion molecule expression in early and late whealing reactions,
+Int. Arch, Allergy Immunol. 115 (3) (1998) 210-214.
+
+D.E. Davies, S.T. Holgate, Asthma: the importance of epithelial
+mesenchymal communication in pathogenesis. Inflammation and the
+airway epithelium in asthma, Int. J. Biochem. Cell Biol. 34 (2002)
+1520-1526.
+
+K. Jung, F. Linse, R. Heller, C. Moths, R. Goebel, C. Neumann,
+Adhesion molecules in atopic dermatitis: VCAM-1 and ICAM-1
+expression is increased in healthy appearing skin, Allergy 51 (1996)
+452-460.
+

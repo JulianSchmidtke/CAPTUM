@@ -1,0 +1,873 @@
+Disease burden in patients with asthma before initiating
+biologics: A retrospective cohort database study
+
+Hector Ortega, M.D.,' Beth Hahn, Ph.D.,? Josephine N. Tran, M.S.,° Chris Bell, M.S.,?
+Salman A. Shams, M.Sc.,° and Jean-Pierre Llanos, M.D.”
+
+ABSTRACT
+
+Background: Real-world data on the characteristics and burden of disease among patients with asthma before receiving
+asthma-specific biologics would improve the understanding of the use of these therapies in a clinical setting. Currently, limited
+data are available on the use of mepolizumab and omalizumab for the treatment of asthma.
+
+Objective: To determine the characteristics and disease burden among patients with asthma before initiating treatment with
+mepolizumab or omalizumab.
+
+Methods: This was a retrospective cohort analysis of commercial and Medicare Advantage Plan members from a medical
+claims database with a new claim for mepolizumab or omalizumab between January 1, 2015, and March 31, 2017 (GSK ID:
+HO-17-18283). Eligible patients had a diagnosis of asthma and continuous enrollment in the health plan, with clinical and
+pharmacy benefits for 12 months before initiating asthma-specific biologic treatment (baseline period), and no diagnosis of
+chronic idiopathic urticaria during the baseline period. Patient characteristics, exacerbations, and asthma-related health care
+resource utilization and costs were assessed during the baseline period.
+
+Results: Overall, 188 and 901 patients prescribed mepolizumab and omalizumab, respectively, were included. In the
+12 months before initiating asthma-specific biologic therapy, the patients prescribed mepolizumab were older, had higher blood
+eosinophil counts, more-frequent exacerbations (2.9 versus 2.0 exacerbations/year; p < 0.001), and more inhaled corticosteroid
+and systemic corticosteroid use compared with those prescribed omalizumab. Overall, asthma-related health-care resource
+utilization and costs were similar across both treatment cohorts, although patients prescribed mepolizumab had more pharmacy
+fills, higher pharmacy costs, and lower clinic costs compared with patients prescribed omalizumab (20.8 versus 16.9 fills, $4504
+versus $3102, and $1816 versus $2709, respectively; all p < 0.001).
+
+Conclusion: In the 12 months before initiating asthma-specific biologic therapy, the patients prescribed mepolizumab may
+have a greater disease burden than those prescribed omalizumab. Overall, health-care resource utilization and costs were
+
+broadly similar across both treatment cohorts.
+
+(Allergy Asthma Proc 40:146-153, 2019; doi: 10.2500/aap.2019.40.4220)
+
+f ~242 million people worldwide who live with
+asthma, 5%-10% are considered to have severe
+asthma.'’* Severe asthma comprises several distinct
+phenotypes that are heterogeneous in terms of clinical
+presentation and biomarker expression.°* Eosinophilic
+
+ 
+
+From Respiratory, U.S. Medical Affairs, GlaxoSmithKline (GSK), La Jolla, California, "Respiratory, U.S. Medical Affairs, GSK Research Triangle Park, North Carolina,
+and *Optum, Eden Prairie, Minnesota
+
+H. Ortega is now with Gossamer Bio, San Diego, California
+
+This study was funded by GSK (study identifier HO-17-18283)
+
+Editorial support (in the form of writing assistance, including development of the
+initial draft based on author direction, assembling tables and figures, collating and
+incorporating authors’ comments, grammatical editing, and referencing) was provided
+by Alex Lowe, Ph.D., Fishawack Indicia Ltd., United Kingdom, and was funded by
+GSK
+
+B. Hahn, C. Bell, J.-P. Llanos are employees of GSK and own stocks and/or shares. H.
+Ortega is a former employee of GSK and owns stocks and/or shares in GSK. J.N. Tran
+and S.A. Shams are employees of Optum and were funded by GSK to conduct the
+current study
+
+Supplemental data available at www.IngentaConnect.com
+
+Address correspondence to Beth Hahn, Ph.D., Respiratory, US Medical Affairs, GSK,
+Research Triangle Park, 5 Moore Drive, P.O. Box 13398, NC 27709
+
+E-mail address: Beth.a.hahn@gsk.com
+
+Copyright © 2019, OceanSide Publications, Inc., ULS.A.
+
+ 
+
+146
+
+asthma and allergic asthma represent two clinically
+recognized and often overlapping phenotypes. Although it is not easy to distinguish these phenotypes in
+clinical practice, severe eosinophilic asthma is generally characterized by late onset, eosinophilic inflammation, recurrent exacerbations, and elevated fractional
+exhaled nitric oxide levels. In contrast, severe allergic
+asthma is characterized by early onset, high serum
+immunoglobulin E, elevated fractional exhaled nitric
+oxide levels, and eosinophilic inflammation.”
+
+Despite aggressive treatment with high-dose inhaled
+corticosteroids (ICS) combined with long-acting controller medication(s) or chronic use of low-dose oral
+corticosteroids (OCS), some patients have severe
+asthma that remains uncontrolled and continue to experience asthma exacerbations. Both phenotypes are
+associated with high asthma-related health-care resource utilization (HCRU) and costs.°” The unmet
+therapeutic need in patients with severe asthma has
+driven a targeted approach toward molecules that contribute to asthma pathophysiology.” Mepolizumab is a
+humanized monoclonal antibody against interleukin-5
+
+May 2019, Vol. 40, No. 3
+that selectively inhibits eosinophilic inflammation and
+reduces eosinophil counts in sputum and blood.* It is
+indicated as an add-on maintenance treatment of severe asthma in patients =12 years of age and with an
+eosinophilic phenotype. Omalizumab is a recombinant
+humanized anti-immunoglobulin E antibody approved for use in patients =6 years of age with moderate-to-severe persistent allergic asthma.’ Both drugs
+have demonstrated efficacy in terms of reducing exacerbation rates and improving health-related quality of
+life.10-1 Although the patient populations for mepolizumab and omalizumab are partly distinct, there is an
+overlap in treatment eligibility. Indeed, the prospective, observational study, Identification and Description of sEvere Asthma patients in a cross-sectional
+study (IDEAL)'®, found that approximately one-third
+of patients who were eligible to use mepolizumab (i.e.,
+eosinophilic asthma) were also eligible for omalizumab
+(i.e., allergic asthma).
+
+It is important for health-care professionals and payers to gain a real-world understanding of the clinical
+characteristics and burden of disease among patients
+who use these asthma-specific biologic medications.
+This retrospective cohort study aimed to describe the
+clinical characteristics, frequency of asthma exacerbations, HCRU, and costs in patients with asthma during
+the 12-month period before initiating mepolizumab or
+omalizumab therapy for the treatment of asthma.
+
+ 
+
+METHODS
+
+Study Design
+
+This was a retrospective cohort analysis of patients in
+commercial and Medicare Advantage plans in the Optum Research Database (ORD, Optum, Eden Prairie,
+MN). The ORD contains medical and pharmacy claims
+with linked enrollment information from a large, geographically diverse U.S. health plan. For 2015, data that
+relate to ~13.5 million individuals with commercial
+health plans and who had both medical and pharmacy
+benefit coverage were available. Patients with a new
+claim for mepolizumab or omalizumab were identified
+between January 1, 2015, and March 31, 2017 (identification period). The index date was defined as the first
+prescription fill for these medications. Data on patients’ clinical characteristics, asthma exacerbations,
+and all-cause and asthma-related HCRU and costs
+were examined in the 12-month period before and
+including the index date (baseline period). This study
+used. de-identified retrospective claims data and, as
+such, did not require institutional review board review
+and approval or informed consent.
+
+Patients
+
+Eligible patients were either commercial or Medicare
+Advantage members with a new prescription fill for
+
+Allergy and Asthma Proceedings
+
+mepolizumab or omalizumab during the identification
+period; had one or more nondiagnostic medical claims
+with a diagnosis code for asthma (International Classification of Diseases, Ninth Revision, Clinical Modification
+[ICD-9-CM]'”: code 493.x; International Classification of
+Diseases, Tenth Revision, Clinical Modification [ICD-10CM]}*: code J45.x) in any position on the claim during
+the baseline period; and continuously enrolled with
+medical and pharmacy benefits during the baseline
+period. Patients with a diagnosis of chronic idiopathic
+urticaria (ICD-9-CM: code 708 or ICD-10-CM: code L50)
+in any position on the claim or a prescription fill for
+omalizumab in the 12 months before the index date
+were excluded from the analysis. Patients with a diagnosis code in any position during the baseline period
+for eosinophilic esophagitis, hypereosinophilic syndrome, or chronic obstructive pulmonary disease were
+not excluded from the analysis.
+
+End Points and Assessments
+
+End points assessed during the baseline period included patient demographic and clinical characteristics, asthma exacerbations, asthma-related medication
+use, and asthma-related and all-cause HCRU and costs.
+Patient demographics and clinical characteristics collected included age, gender, insurance type, peripheral
+blood eosinophil counts (based on the latest laboratory
+test result), and selected comorbidities. A pre-index
+Quan-Charlson comorbidity score was calculated based
+on the presence of diagnostic codes on medical claims in
+the ORD. Asthma-related medications used were also
+captured (see Supplemental Material).
+
+Asthma exacerbations (categorized as 0, 1, 2, and
+23 exacerbations) were defined as an asthma-related
+event that resulted in hospitalization (including an
+emergency department [ED] visit that resulted in asthma-related hospitalization within 1 day of the visit)
+with an asthma-related exacerbation diagnosis code
+(ICD-9-CM diagnosis: codes 493.02, 493.12, 493.92; ICD10-CM diagnosis: codes J4521, J4531, J4541, J4551,
+J45901) in any position; or an ED, urgent care, or ambulatory care visit, together with a prescription for
+systemic corticosteroid (SCS) or OCS use within 5 days.
+Exacerbation events that occurred within 14 days of
+each other were considered a single exacerbation episode.
+
+Baseline asthma-related and all-cause HCRU were
+calculated for ambulatory visits (clinics and outpatient
+or hospital outpatient or surgery visits), ED visits, inpatient admissions, and pharmacy fills. Asthma-related and all-cause health-care costs included the combined amounts paid by the health plan and the patient.
+Costs were calculated as the following: total costs;
+medical costs, including ambulatory visits (clinics and
+outpatient or hospital outpatient or surgery visits), ED
+
+147
+visits, inpatient stays, other medical costs; and pharmacy costs.
+
+Statistical Analysis
+
+Study end points were analyzed descriptively and
+stratified by cohort. Binary and categorical variables
+are presented as numbers and percentages. Continuous variables are presented as mean 32 + standard
+deviation (SD). Statistical comparisons were provided
+by using the appropriate tests (e.g., Student’s t-test,
+Mann-Whitney U test, 32 x* test) based on the distribution of the measure, with a significance level of
+=0.05. All analyses were performed by using SAS 9.4
+(SAS Institute Inc., Cary, NC). Costs were adjusted by
+using the annual medical care component of the consumer price index to reflect inflation to year 2016. In
+addition, a formula developed and owned by Optum
+was used to adjust the adjudicated cost amount on the
+claim based on a broad sample of claim experience that
+deals with the coordination of benefits from multiple
+payers’? All patients with cancer during the baseline
+period were excluded from HCRU and costs analyses
+because they were considered to be potential cost outliers.
+
+RESULTS
+
+Patient Characteristics
+
+Overall, 188 and 901 patients with a prescription
+fill for mepolizumab and omalizumab, respectively,
+met the inclusion criteria (Fig. 1). Patients prescribed
+mepolizumab were older than those prescribed
+omalizumab (mean age, 54.4 versus 50.4 years)
+(p < 0.001) (Table 1). There were no significant differences in gender, insurance, or comorbidity scores.
+Of the selected comorbidities in Table 1, a significantly lower proportion of patients prescribed
+mepolizumab versus omalizumab had allergic rhinitis (66.5% versus 78.0%; p < 0.001) and a higher
+proportion had nasal polyps (20.2% versus 11.3%;
+p < 0.001).
+
+Blood eosinophil results were available for 38.8%
+and 34.4% of the patients prescribed mepolizumab and
+omalizumab, respectively, in the baseline period (Table
+1). Among these patients, mepolizumab tended to be
+prescribed to patients with higher eosinophil counts. The
+majority of the patients (91.8%) prescribed mepolizumab
+had blood eosinophil counts = 150 cells/wL; 58.9% had
+eosinophil counts = 400 cells/L. In contrast, only 30% of
+the patients prescribed omalizumab had blood eosinophil counts = 400 cells/wL.
+
+Asthma Exacerbations in the 12 Months Before
+Asthma-Specific Biologic Use
+
+Patients prescribed mepolizumab had a higher mean +
+SD number of asthma exacerbations in the baseline
+
+148
+
+ 
+
+Commercial and Medicare Advantage health plan members with a
+new prescription fill for mepolizumab or omalizumab between
+January 1, 2015 and March 31, 2017
+N=4815
+
+ 
+
+Vv
+
+Continuously eligible for one year prior to
+Index (inclusive)
+N=2114
+
+ 
+
+ 
+
+v
+
+ 
+
+21 non-laboratory medical claim with diagnosis code
+for asthma during baseline period
+
+N=1298
+
+ 
+
+Vv
+
+No chronic idiopathic urticaria diagnosis in any position
+during the baseline period
+
+N=1089
+
+: .
+
+Mepolizumab cohort Omalizumab cohort
+N=188 N=901
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1. Patient inclusion. Baseline period is the 12-month
+period before and including the index date.
+
+period compared with those prescribed omalizumab
+(29 + 2.3 versus 2.0 + 2.0; p < 0.001) (Fig. 2). The
+proportion of patients who experienced more than three
+exacerbations was also significantly higher among patients prescribed mepolizumab versus omalizumab
+(31.4% versus 19.0%; p < 0.001). No significant differences in the mean + SD number of exacerbations that
+required hospitalizations were observed (Fig. 2).
+
+Medication Use in the 12 Months Before AsthmaSpecific Biologic Use
+
+During the baseline period, a significantly greater
+proportion of patients prescribed mepolizumab used
+ICS, either alone or with a long-acting B-agonist versus
+patients prescribed omalizumab (83.5% versus 72.0%;
+p = 0.001) (Table 2). Moreover, a greater proportion of
+patients prescribed mepolizumab compared with
+omalizumab used SCS (94.2% versus 84.1%; p < 0.001)
+for acute and chronic use, including use for = 60 days/y
+(53.7% versus 29.4%; p < 0.001).
+
+HCRU in the 12 Months Before Asthma-Specific
+Biologic Use
+
+All-cause and asthma-related HCRU were generally
+similar across cohorts, with few exceptions. Notably, a
+greater proportion of patients prescribed mepolizumab
+versus omalizumab had asthma-related outpatient,
+hospital outpatient, or surgery visits (58.0% versus
+48.4%; p = 0.017) and used asthma-related medications
+
+May 2019, Vol. 40, No. 3
+Table 1 Patient demographics and characteristics: Baseline period
+
+ 
+
+ 
+
+Demographic Mepolizumab Group Omalizumab Group p
+(N = 188) (N = 901)
+Age, mean + SD, y 544 +145 50.4 + 17.5 0.001
+Age group, no. (%) 0.011
+<18 y 2 (1.1) 64 (7.1)
+18-44 y 44 (23.4) 223 (24.8)
+45-64 y 95 (50.5) 428 (47.5)
+265 y 47 (25.0) 186 (20.6)
+Gender, no. (%) 0.477
+Female 121 (64.4) 555 (61.6)
+Male 67 (35.6) 346 (38.4)
+Insurance type, no. (%) 0.091
+Commercial 131 (69.7) 681 (75.6)
+Medicare 57 (30.3) 220 (24.4)
+Modified Quan-Charlson
+comorbidity score
+Mean + SD 1.56% 1 1.58 + 1.2 0.889
+By category, no. (%) 0.340
+12 149 (79.3) 734 (81.5) 0.482
+3-4 35 (18.6) 136 (15.1) 0.227
+25 4 (2.1) 31 (3.4) 0.353
+Selected comorbidities no. (%)
+COPD 73 (38.8) 314 (34.9) 0.300
+Allergic rhinitis 125 (66.5) 703 (78.0) <0.001
+GERD 79 (42.0) 330 (36.6) 0.165
+Nasal polyps 38 (20.2) 102 (11.3) <0.001
+Rhinosinusitis 102 (54.3) 478 (53.1) 0.764
+Hypereosinophilic syndrome 39 (20.7) 25 (2.8) <0.001
+Eosinophilic granulomatosis with 3 (1.6) 3 (0.3) 0.033
+polyangiitis
+Blood eosinophil counts, no. (%) <0.001
+Valid laboratory result in period 73 (38.8) 310 (34.4) 0.248
+<150 cells/pL 6 (8.2) 98 (31.6) <0.001
+2150 to <300 cells/L 14 (19.2) 68 (21.9) 0.605
+2300 to <400 cells/L 10 (13.7) 51 (16.5) 0.563
+=400 cells/uL 43 (58.9) 93 (30.0) <0.001
+No laboratory result in period 115 (61.2) 591 (65.6) 0.248
+
+ 
+
+Bold values indicate a statistically significant result (p < 0.05).
+SD = Standard deviation; COPD = chronic obstructive pulmonary disease; GERD = gastroesophageal reflux disease.
+
+(95.7% versus 90.5%; p = 0.020) (data not shown). In
+addition, the mean rate of asthma-related pharmacy fills
+was higher among patients prescribed mepolizumab versus omalizumab (20.8 versus 16.9 fills; p < 0.001) (Fig. 3),
+although the mean rate of all-cause pharmacy use was
+not significantly different between the two groups (Supplemental Table 1).
+
+Costs in the 12 Months Before Asthma-Specific
+Biologic Use
+
+Asthma-related medical costs were similar between
+the patients prescribed mepolizumab and those pre
+Allergy and Asthma Proceedings
+
+scribed omalizumab, although the patients prescribed
+mepolizumab had lower mean + SD clinic costs
+($1816 + $1932 versus $2709 + $2809; p < 0.001) and
+higher mean + SD pharmacy costs ($4504 + $5,146
+versus $3102 + $4108; p < 0.001) (Fig. 4) compared
+with those prescribed omalizumab. All-cause medical
+costs in the baseline period were similar for both cohorts, except for the cost of outpatient, hospital outpatient, or surgery visits, which were approximately double with mepolizumab versus omalizumab ($13,699 +
+$47,859 versus $6370 + $10,376; p = 0.038) (Supplemental Table 2).
+
+149
+ 
+
+ 
+
+p< 0.001
+
+a
+
+2
+
+Sg 2.9423
+
+3 37
+
+2
+
+Oo
+
+8
+
+a
+
+Ki 2.0+2.0
+
+6 25
+
+5
+
+2
+
+€
+
+e p=0.531
+
+§ 14
+
+o
+
+= 0.282066 0.25 +0.62
+Figure 2. Mean number + standard deviation of ex- 0 a |
+
+Exacerbation Exacerbations requiring hospitalization
+
+acerbations and exacerbations that required hospitalization in the baseline period.
+
+@ Mepolizumab (N=188) i Omalizumab (N=901)
+
+Table 2. Asthma medications received in the 12 months before asthma-specific biologic therapy: Baseline
+
+ 
+
+ 
+
+period
+Treatment Category* Mepolizumab Group, Omalizumab Group, Pp
+no. (%) (N = 188) no. (%) (N = 901)
+
+SABA 149 (79.3) 684 (75.9) 0.326
+SABA and/or inhaled anticholinergics 48 (25.5) *y (23.4) 0.536
+Inhaled anticholinergics 20 (10.6) 82 (9.1) 0.511
+LAMA 42 (22.3) Le (19.3) 0.344
+LABA 6 (3.2) 25 (2.8) 0.755
+ICS (with or without LABA) 157 (83.5) 649 (72.0) 0.001
+ICS/LABA or ICS + LABA (as single agents) 138 (73.4) oe (63.9) 0.013
+Mast cell stabilizers 1 (0.5) 11 (1.2) 0.410
+Leukotriene modifiers 127 (67.6) Oe (66.6) 0.799
+Methylxanthines 15 (8.0) 47 (5.2) 0.137
+SCs 177 (94.2) 758 (84.1) <0.001
+
+Ocs# 169 (89.9) 694 (77.0) <0.001
+
+OCS use for = 60 days/y 101 (53.7) 265 (29.4) <0.001
+
+ 
+
+Bold values indicate a statistically significant result (p < 0.05).
+long-acting anti-muscarinic antagonist; LABA =
+
+SABA = Short-acting B-agonist; LAMA =
+
+long-acting B-agonist; ICS =
+
+inhaled corticosteroid; SCS = systemic corticosteroid; OCS = oral corticosteroid.
+*Treatment categories are not mutually exclusive, and the patients may have received additional prescriptions for the same
+treatment in combination with another treatment. Medication use was defined as at least one claim for the indicated treatment
+
+in the 12 months before index (and including the index date).
+
+#Includes acute and chronic use.
+
+DISCUSSION
+
+In this retrospective cohort analysis, we assessed
+the disease burden among the patients prescribed
+mepolizumab or omalizumab for the treatment of
+asthma in the 12 months before initiating therapy.
+The patients prescribed mepolizumab had a greater
+disease burden, with significantly more asthma exacerbations and greater ICS, SCS and asthma-specific
+medication use compared with those prescribed
+omalizumab. Despite these differences, HCRU and
+costs in the 12 months before biologic use were
+similar between the treatment cohorts.
+
+150
+
+The real-world IDEAL study’? demonstrated that
+mepolizumab- and omalizumab-eligible populations
+have broadly similar demographics; however, patients
+eligible for mepolizumab tended to be older, had
+higher blood eosinophil counts, and had more frequent
+exacerbations in the past 12 months compared with
+patients who were eligible to use omalizumab. Consistent with the IDEAL cross-sectional study,’° our study
+suggests that, compared with patients prescribed
+omalizumab, those prescribed mepolizumab were
+older, had a lower prevalence of allergic rhinitis, and
+higher blood eosinophil counts. The difference in age
+
+May 2019, Vol. 40, No. 3
+Pharmacy fills
+
+ 
+
+16.89
+
+p-value for comparison
+
+ 
+
+0.001
+Ambulatory visits (outpatient/hospital EE 7.26
+outpatient/surgery and clinics) 700 0:899
+Outpatient/hospital outpatient/surgery ee 0.169
+Civics I £32 0788
+ED visits [j $47 0.887
+Inpatient stays | 3-29 0.641
+Inpatient days ie 0.705
+T T T T T 1
+0.00 5.00 10.00 15.00 20.00 25.00 30.00
+
+ll Mepolizumab (N=188)
+
+Mean number of events
+
+i Omalizumab (N=901)
+
+Figure 3. Mean asthma-related health-care resource utilization (HCRU) events (patients with cancer were excluded) in the baseline period.
+
+ED = emergency department.
+
+Total costs (medical + pharmacy costs)
+
+Mecical costs ES 5,
+Ambulatory visits (outpatient/hospital a
+
+outpatient/surgery and clinics)
+
+Outpatient/hospital outpatient/surgery gl 4ga4
+
+Clinics
+
+ED visits |] 174
+
+Inpatient stays (7:
+
+Other medical costs f 212
+
+ 
+
+4,504
+Pharmacy costs 3,102
+
+p value for comparison
+
+10,782
+10,037 0.538
+0.566
+0.220
+0.124
+<0.001
+0.920
+0.762
+0.419
+
+<0.001
+
+ 
+
+r T T T T T T T 1
+-1,000 1,000 3,000 5,000 7,000 9,000 11,000 13,000 15,000
+
+1 Mepolizumab (N=188)
+
+Mean cost (USD)
+
+I Omalizumab (N=901)
+
+Figure 4. Asthma-related costs (patients with cancer were excluded) during the baseline period. Costs were adjusted by using the annual
+medical care component of the Consumer Price Index to reflect inflation to year 2016 and adjusted by using a coordination of benefits to
+account for costs from multiple payers (From Ref. 19). ED = emergency department; SD = standard deviation.
+
+between the two groups likely reflects the treatment
+indications for omalizumab and mepolizumab;
+omalizumab is approved for use in patients =6 years of
+age who have moderate-to-severe allergic asthma,’
+whereas mepolizumab is approved for use in patients
+212 years of age with severe eosinophilic asthma,’
+which typically has a later onset than severe allergic
+asthma.**
+
+Our study also suggests that the patients prescribed
+mepolizumab have more severe disease than those
+prescribed omalizumab. In the 12 months before initi
+Allergy and Asthma Proceedings
+
+ating therapy, the patients prescribed mepolizumab
+had more frequent exacerbations, with 31.4% of patients who had more than three exacerbations compared with 19.0% of patients prescribed omalizumab.
+Although the mean number of exacerbations that required hospitalization was similar between the two
+groups, it is unclear whether the exacerbations that occurred in patients prescribed mepolizumab may have
+been more or less severe in nature. Patients prescribed
+mepolizumab also had greater use of ICS and SCS in the
+12 months before initiating therapy compared with those
+
+151
+prescribed omalizumab, which indicated that patients
+prescribed mepolizumab required more intensive treatment to control their symptoms. Previous studies demonstrated that asthma severity increases with age and
+that severe disease is often associated with more frequent
+exacerbations and medication use.””°
+
+Despite the differences in baseline characteristics and
+exacerbation frequency between patients prescribed
+mepolizumab and those prescribed omalizumab,
+HCRU and costs were generally similar between the
+two treatment cohorts, with total asthma-related costs
+of $10,782 and $10,037 per patient in the year before
+mepolizumab and omalizumab treatment, respectively. The only significant differences in HCRU and
+costs between the cohorts were pharmacy use and
+costs, which were greater among patients prescribed
+mepolizumab, and clinic costs, which were higher
+among patients prescribed omalizumab. Higher clinic
+costs may reflect that some patients with allergic
+asthma regularly attended clinics to receive allergy
+immunotherapy. Alternatively, patients with allergic
+asthma may have experienced a greater frequency of
+asthma symptoms or mild exacerbations that resulted
+in clinic visits, compared with patients with eosinophilic asthma who experienced more moderate-severe
+exacerbations. It should be noted that, although the
+additional costs of biologic therapies would be high,
+these would be expected to reduce the rate of exacerbations and, therefore, have a substantial impact on the
+associated HCRU and costs.
+
+In contrast to our results, a similar retrospective cohort study, which included patients from the U.S.based MarketScan™ Commercial Claims and Encounters Database (Truven Health Analytics, Ann Arbor,
+MI), found that asthma-related total costs were significantly higher in the 12 months before the patients
+were prescribed mepolizumab versus omalizumab
+($11,000 versus $7400 per patient; p < 0.001).7' Consistent with Llanos et al.,7' several previous studies demonstrated higher asthma-related HCRU and costs in
+patients with frequent exacerbations than those without,2072-23, Interestingly, we found that the higher frequency of exacerbations among patients prescribed
+mepolizumab versus omalizumab was associated with
+a higher number of pharmacy visits and fills but not
+with an increase in outpatient, ED, or inpatient visits.
+The discord between our results and previous studies
+in this respect may be due to demographic and clinical
+differences between the patient populations (e.g., age,
+incidence of comorbidities, or levels of maintenance
+combination therapy).'°''’'*?! In addition, the current
+study excluded patients with chronic idiopathic urticaria, which may have generated an omalizumab cohort with more-severe disease than in other studies in
+which this comorbidity was permitted.! Overall, the
+patients prescribed omalizumab in the current study
+
+152
+
+may represent a cluster of patients as identified in the
+Severe Asthma Research Program (NCT01606826) with
+severe disease, who are atopic, older, and have a high
+incidence of comorbidities and HCRU.*
+
+Although mepolizumab is indicated for the treatment of severe asthma with an eosinophilic phenotype,
+we found that <40% of patients included in this study
+had an eosinophil count recorded. It is possible that
+those patients with missing data on the eosinophil
+count may have been prescribed mepolizumab based
+on a historic blood eosinophil count that was not captured in the Optum database. Nonetheless, the low
+numbers of patients with an eosinophil count available
+limited the conclusions that could be drawn regarding
+overall blood eosinophil counts within either cohort. It
+is worth noting that >90% of the patients with data
+available and who were prescribed mepolizumab had
+a blood eosinophil count of =150 cells/uL in the
+12 months before receiving therapy. The 8% of patients
+who were prescribed mepolizumab but only had
+counts of <150 cells/wL captured in the database in the
+12 months before treatment may have had missing
+data within the payers data base or a historic blood
+eosinophil count of =300 cells/wL. Alternatively, these
+patients may have been prescribed mepolizumab for
+other reasons, e.g., its steroid-sparing ef ect.”4 Indeed,
+nearly half of the patients prescribed mepolizumab
+had OCS use for >60 days a year, which suggested
+chronic use and, consequently, potential depletion of
+blood eosinophils, which supported the notion that
+mepolizumab may have been prescribed for its steroidsparing effect.
+
+Other limitations of the study included the nature of
+the claims data source. The presence of a dispensed
+medication did not indicate that the medication was
+consumed or that it was taken as prescribed. Furthermore, details of medications received outside of an
+insurance claim were not captured for patients in the
+database. The provision of a diagnosis code on a medical encounter or outside claim may not be conclusive
+of a positive disease presence because the diagnosis
+code may be incorrectly coded or included as a ruleout criterion rather than actual disease. Also, results
+and conclusions may not be generalizable to other
+commercially insured populations in the United States.
+
+ 
+
+CONCLUSION
+
+This retrospective analysis demonstrates that patients prescribed mepolizumab had a higher disease
+burden in the 12 months before initiating therapy compared with those prescribed omalizumab, indicated by
+a higher exacerbation rate and a higher eosinophil
+count. These clinical characteristics are important considerations in the assessment of patients with asthma
+pre-biologic use. Interestingly, the differences ob
+May 2019, Vol. 40, No. 3
+served in the disease burden in the previous year did
+not translate into differences in HCRU and costs. Additional real-world studies are needed to further confirm these observations and expand on additional clinical features that may influence treatment selection.
+
+ACKNOWLEDGMENTS
+
+The authors thank the patients who participated in the current
+study.
+
+REFERENCES
+
+1. Global Burden of Disease Study 2013 Collaborators. Global,
+regional, and national incidence, prevalence, and years lived
+with disability for 301 acute and chronic diseases and injuries in
+188 countries, 1990-2013: a systematic analysis for the Global
+Burden of Disease Study 2013. Lancet. 2015; 386:743-800.
+
+2. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS
+guidelines on definition, evaluation and treatment of severe
+asthma. Eur Respir J. 2014; 43:343-373.
+
+3. Wenzel S. Severe asthma: from characteristics to phenotypes to
+endotypes. Clin Exp Allergy. 2012; 42:650—658.
+
+4. Moore WC, Meyers DA, Wenzel SE, et al. Identification of
+asthma phenotypes using cluster analysis in the Severe Asthma
+Research Program. Am J Respir Crit Care Med. 2010; 181:315—
+323.
+
+5. Braunstahl GJ, Deenstra M, Canvin J, et al. Healthcare utilization and indirect cost of treatment associated with severe allergic asthma in a real-world setting. Clin Transl Allergy. 2013;
+3(Supp! 1):P1.
+
+6. Kerkhof M, Tran TN, Soriano JB, et al. Healthcare resource use
+and costs of severe, uncontrolled eosinophilic asthma in the UK
+general population. Thorax. 2018; 73:116-124.
+
+7. Zeiger RS, Schatz M, Dalal AA, et al. Utilization and costs of
+severe uncontrolled asthma in a managed-care setting. J Allergy
+Clin Immunol Pract. 2016; 4:120-129.e3.
+
+8. GlaxoSmithKline. Mepolizumab (NUCALA) US prescribing
+information 2015 [cited]. Available from: https://www.
+gsksource.com/pharma/content/dam/GlaxoSmithKline/US/
+en/Prescribing_Information/Nucala/pdf/NUCALA-PI-PIL.PDF.
+Accessed 19 March 2019.
+
+9. Genentech. Omalizumab (XOLAIR) US prescribing information
+2016 [cited]. Available from: http://www.gene.com/download/
+pdf/xolair_prescribing.pdf. Accessed 19 March 2019.
+
+10. Hanania NA, Alpan O, Hamilos DL, et al. Omalizumab in
+severe allergic asthma inadequately controlled with standard
+therapy: a randomized trial. Ann Intern Med. 2011; 154:573-582.
+
+11. Humbert M, Beasley R, Ayres J, et al. Benefits of omalizumab as
+add-on therapy in patients with severe persistent asthma who
+are inadequately controlled despite best available therapy
+
+Allergy and Asthma Proceedings
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+2A,
+
+22;
+
+23.
+
+24.
+
+(GINA 2002 step 4 treatment): INNOVATE. Allergy. 2005; 60:
+309-316.
+
+Ortega HG, Liu MC, Pavord ID, et al. Mepolizumab treatment
+in patients with severe eosinophilic asthma. N Engl J Med. 2014;
+371:1198-1207.
+
+Pavord ID, Korn S, Howarth P, et al. Mepolizumab for severe
+eosinophilic asthma (DREAM): a multicentre, double-blind,
+placebo-controlled trial. Lancet. 2012; 380:651—659.
+
+Busse W, Corren J, Lanier BQ, et al. Omalizumab, anti-IgE
+recombinant humanized monoclonal antibody, for the treatment of severe allergic asthma. J Allergy Clin Immunol. 2001;
+108:184—190.
+
+Chupp GL, Bradford ES, Albers FC, et al. Efficacy of mepolizumab
+add-on therapy on health-related quality of life and markers of
+asthma control in severe eosinophilic asthma (MUSCA): a randomised, double-blind, placebo-controlled, parallel-group, multicentre, phase 3b trial. Lancet Respir Med. 2017; 5:390—400.
+Albers FC, Miillerova H, Gunsoy NB, et al. Biologic treatment
+eligibility for real-world patients with severe asthma: the
+IDEAL study. J Asthma. 2018; 55:152-160.
+
+National Center for Health Statistics. International classification
+of diseases, ninth revision, clinical modification (ICD-9-CM).
+https://www.cde.gov/nchs/icd/icd9cm.htm. Accessed 19
+March 2019.
+
+National Center for Health Statistics. International classification
+of diseases, tenth revision, clinical modification (ICD-10-CM).
+https:/ /www.cdc.gov/nchs/icd/icd10cm.htm#FY%202019%
+20release%200f%20ICD-10-CM. Accessed 19 March 2019.
+U.S. Department of Labor Bureau of Labor Statistics. Consumer
+Price Index. Medical Care. Series ID: CUURO000SAM. 2012 [cited].
+Available from: http://data.bls.gov/cgi-bin/surveymost?su.
+Accessed 19 March 2019.
+
+Suruki RY, Daugherty JB, Boudiaf N, Albers FC. The frequency
+of asthma exacerbations and healthcare utilization in patients
+with asthma from the UK and USA. BMC Pulm Med. 2017;
+17:74.
+
+Llanos JP, Bell CF, Packnett E, et al. Real-world characteristics
+and disease burden of patients with asthma prior to treatment
+initiation with mepolizumab or omalizumab: a retrospective
+cohort database study. J Asthma Allergy. 2019; 12:43-58.
+Chastek B, Korrer S, Nagar SP, et al. Economic burden of illness
+among patients with severe asthma in a managed care setting.
+J Manag Care Spec Pharm. 2016; 22:848-861.
+
+Ivanova JI, Bergman R, Birnbaum HG, Colice GL, Silverman
+RA, McLaurin K. Effect of asthma exacerbations on health care
+costs among asthmatic patients with moderate and severe persistent asthma. J Allergy Clin Immunol. 2012; 129:1229-1235.
+Bel EH, Wenzel SE, Thompson PJ, et al. Oral glucocorticoidsparing effect of mepolizumab in eosinophilic asthma. N Engl
+J Med. 2014; 371:1189-1197. oO
+
+153
+

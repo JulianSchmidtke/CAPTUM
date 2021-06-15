@@ -1,0 +1,1026 @@
+Received Date: 29-Sep-2016
+Accepted Date: 22-Nov-2016
+
+Article Type: Original Article
+
+Positive impact of omalizumab on angioedema and quality of life in patients
+with refractory chronic idiopathic/spontaneous urticaria: analyses according
+
+to the presence or absence of angioedema
+
+Running head: Omalizumab on QoL and angioedema in CIU/CSU
+
+M Maurer, MD*, H Sofen, MD, B Ortiz, MD°, F Kianifard, PhD°, S Gabriel, MSc°, JA
+
+Bernstein, MD*
+
+‘Department of Dermatology and Allergy, Charité - Universitatsmedizin Berlin,
+Germany; “Division of Dermatology, Department of Medicine, David Geffen School
+of Medicine, University of California, Los Angeles, CA, USA; Novartis
+Pharmaceuticals Corporation, East Hanover, NJ, USA; ‘Allergy Section, Division of
+Immunology, Department of Internal Medicine, College of Medicine, University of
+
+Cincinnati, Cincinnati, OH, USA
+
+Corresponding author:
+
+Prof. Dr. Marcus Maurer
+
+Department of Dermatology and Allergy
+
+Allergie-Centrum-Charité at the Charité - Universitatsmedizin Berlin
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.1111/jdv.14075
+
+This article is protected by copyright. All rights reserved.
+Charitéplatz 1, 10117 Berlin, Germany
+Tel: +49 30 450 518 043
+Fax: +49 30 450 518 972
+
+Email: marcus.maurer@charite.de
+
+Disclosures and funding information
+
+Marcus Maurer has received research funding and/or honoraria for lectures and/or
+consulting from Novartis Pharmaceuticals Corporation, Novartis Pharma AG, and
+Genentech, Inc. Jonathan Bernstein has served as principal investigator, consultant
+and speaker for Novartis Pharmaceuticals Corporation and Genentech, Inc. Howard
+Sofen has received honoraria for serving as a consultant, speaker and investigator
+for Novartis Pharmaceuticals Corporation and Genentech, Inc. Benjamin Ortiz and
+Farid Kianifard are employees and stockholders of Novartis Pharmaceuticals
+Corporation. Susan Gabriel was an employee of Novartis Pharmaceuticals
+Corporation at the time of this work. She is no longer employed at Novartis, but is
+
+still a Novartis stockholder.
+
+The ASTERIA |, ASTERIA II and GLACIAL studies were funded by Genentech, Inc.,
+
+South San Francisco, CA, USA, and Novartis Pharma AG, Basel, Switzerland.
+
+Some of the results within this manuscript relating to ASTERIA | and II were
+
+previously presented at the American Academy of Dermatology (AAD) Annual
+
+Meeting, March 20-24, 2015, San Francisco, CA, USA.
+
+This article is protected by copyright. All rights reserved.
+Medical writing and editorial support in the development of this manuscript were
+provided by Katy Tucker, PhD, and Christina Mackins-Crabtree, PhD, of Fishawack
+Communications, Oxford, UK, and statistical/programming support was provided by
+PPD Inc., NC, USA. This service was supported by Novartis Pharmaceuticals
+Corporation, East Hanover, NJ, USA and Genentech, Inc., South San Francisco, CA,
+
+USA.
+
+Abstract
+
+Background: Approximately 50% of patients with chronic idiopathic/spontaneous
+urticaria (CIU/CSU) report hives and angioedema; some experience hives/
+angioedema only.
+
+Objective: Assess omalizumab’s effect on angioedema and quality of life (QoL) in
+subgroups with refractory CIU/CSU: those with and without angioedema.
+
+Methods: Patients received omalizumab (75, 150 or 300 mg) or placebo every
+
+4 weeks for 12/24 weeks. Angioedema and QoL was assessed (Urticaria Patient
+Daily Diary and Dermatology Quality of Life Index [DLQI]). Subgroups were based on
+the presence/absence of baseline angioedema 7 days prior to randomization.
+Results: Patients with baseline angioedema randomized to omalizumab 300 mg had
+a greater reduction in mean weekly incidence of angioedema and mean number of
+days/week with angioedema versus placebo at 12- and 24-weeks. A 3.3- to 4.5-point
+greater mean reduction in DLQI score was achieved with omalizumab 300 mg
+treatment versus placebo, above the minimal clinically important difference
+
+threshold. Results with lower doses versus placebo were variable.
+
+This article is protected by copyright. All rights reserved.
+Conclusion: Compared with placebo, omalizumab 300 mg treatment over 12-24
+weeks resulted in marked reduction in incidence and number of days/week with
+
+angioedema accompanied by clinically relevant improvement in QoL.
+
+Keywords: angioedema; chronic idiopathic urticaria; chronic spontaneous urticaria; hives;
+
+omalizumab; quality of life
+
+Introduction
+
+Patients with chronic idiopathic/spontaneous urticaria (CIU/CSU) experience
+recurrent episodes of wheals (hives) and/or angioedema for at least 6 weeks.”
+Hives present as pruritic wheals of variable size with surrounding erythema.”
+Individual hives are transient, typically resolving within 24 hours of onset.”
+Angioedema is characterized by rapidly occurring swellings of the lower dermis and
+subcutis, and often involves mucous membranes.” The swellings may be
+erythematous or skin-colored, and sometimes painful, typically taking up to 72 hours
+
+to resolve.”
+
+Estimates of the proportion of patients with CIU/CSU experiencing both hives and
+angioedema, and those reporting either symptom in isolation vary: 33-67% of
+patients experience both symptoms; 29-65% experience hives only; and 1-13%
+experience angioedema only.’ In the latter group, hereditary angioedema due to C1inhibitor deficiency, angiotensin-converting enzyme inhibitor-mediated angioedema
+and other forms of bradykinin-mediated angioedema need to be excluded before
+
+confirming a diagnosis of CIU/CSU.*
+
+This article is protected by copyright. All rights reserved.
+The signs and symptoms of CIU/CSU have a detrimental impact on patients’ healthrelated quality of life (QoL).>’ In addition, the presence of angioedema in patients
+with CIU/CSU is associated with a prolonged disease duration, with a greater
+proportion remaining symptomatic beyond 1 year compared with those experiencing
+
+hives only (64-70% versus 43-48%, respectively).> ® °
+
+The current first-line therapy for patients with CIU/CSU is non-sedating secondgeneration H,-antihistamines.' H;-antihistamines provide complete symptomatic
+relief in <50% of all cases, so there remains an unmet need for a more targeted or
+optimal therapy in the majority of patients. Omalizumab, a humanized antiimmunoglobulin E monoclonal antibody, is approved by the US Food and Drug
+Administration (FDA) for the treatment of adults and adolescents (212 years of age)
+with CIU/CSU who remain symptomatic despite H,-antihistamine treatment.'°
+Approval of omalizumab in this indication was based on the efficacy and safety
+findings from three Phase III clinical studies (ASTERIA | [NCT01287117], ASTERIA
+Il [NCT01292473] and GLACIAL [NCT01264939]).'"'S In these studies, omalizumab
+300 mg and 150 mg was shown to significantly improve weekly itch severity score
+and change from baseline in urticaria activity score over 7 days (UAS7) to Week 12
+compared with placebo.’ Omalizumab 75 mg was also shown to significantly
+
+improve these efficacy variables in the ASTERIA | trial."
+
+Angioedema is more common in patients with CIU/CSU unresponsive to treatment
+with up to four-times the approved dose of H1-antihistamines compared with patients
+responsive to treatment (59% versus 29%, respectively). "4 In the Phase III studies,
+
+the efficacy of omalizumab on angioedema, specifically, the proportion of
+
+This article is protected by copyright. All rights reserved.
+angioedema-free days, and QoL, assessed using the Dermatology Life Quality Index
+(DLQI), were investigated as secondary efficacy outcomes.''* Analyses of data
+from the subgroup of patients with CIU/CSU who had angioedema at baseline in
+these trials provides an opportunity to further investigate patient-reported
+
+angioedema and QoL with omalizumab compared with placebo.
+
+Objective
+
+The objective of the current analysis of data from the Phase III studies was to
+investigate patient-reported angioedema and QoL (DLQI scores) during treatment
+with omalizumab versus placebo in those patients who had angioedema at baseline.
+All data refer to pooled analyses of ASTERIA I, ASTERIA II and GLACIAL, unless
+
+specifically stated.
+
+Methods
+
+Patients and study design
+
+ASTERIA I, ASTERIA II and GLACIAL were multicenter, randomized, double-blind,
+placebo-controlled studies of omalizumab in patients with CIU/CSU who remained
+symptomatic despite treatment with approved doses of H;-antihistamines (ASTERIA
+I/Il) or Hy-antihistamines (up to four-times approved dose), H2-receptor antagonists
+
+and/or leukotriene-receptor antagonists (GLACIAL).'"
+
+The full methodology of these trials has been published previously.'*"° Briefly, in all
+three studies, patients were aged 12-75 years (18-75 years in Germany), with a
+diagnosis of CIU/CSU for 26 months; presence of itch and hives for 28 consecutive
+
+weeks (>6 consecutive weeks in GLACIAL) prior to enrollment despite treatment; an
+
+This article is protected by copyright. All rights reserved.
+UAS7 216 and a weekly itch severity score (ISS) 28 for the 7 days before
+randomization; and an in-clinic urticaria activity score (UAS) 24 on at least one of the
+screening visits (Day -14, -7 or 1).'"' Patients were required to have received an
+approved dose of an H;-antihistamine (ASTERIA I/II) or an H,-antihistamine at up to
+four-times approved dose, and an H2-receptor antagonist and/or leukotriene-receptor
+antagonist (GLACIAL) for CIU/CSU for 23 consecutive days prior to Day -14
+screening visit, and documented current use at the initial screening visit.'""'* Patients
+were excluded from the study if they presented with a disease with urticaria or
+angioedema symptoms (other than CIU/CSU), including hereditary or acquired
+
+angioedema.'*"3
+
+Eligible patients received subcutaneous omalizumab (75, 150 or 300 mg) or placebo
+every 4 weeks for 24 weeks in ASTERIA | and 12 weeks in ASTERIA II."" 1? In
+GLACIAL, patients received subcutaneous omalizumab 300 mg or placebo every 4
+
+weeks for 24 weeks. ?
+
+All three studies were conducted in accordance with Good Clinical Practice
+guidelines, US FDA regulations and any other national applicable laws. All patients
+(or their parents/legal guardian if under 18 years of age) provided informed written
+
+consent before participation.
+
+Outcomes and statistical analysis
+In all three studies, the presence of angioedema was assessed at baseline and
+throughout the study using the Urticaria Patient Daily Diary (UPDD; component:
+
+angioedema — ‘yes’ or ‘no’). In the current retrospective analysis, patients were
+
+This article is protected by copyright. All rights reserved.
+subdivided according to whether or not they experienced angioedema at baseline,
+defined as the presence of angioedema on at least 1 day during the 7 days prior to,
+
+but not including, the day of first treatment.
+
+Baseline demographics and patient characteristics were summarized for the
+subgroup of patients with angioedema at baseline and the subgroup of patients
+
+without angioedema at baseline.
+
+For the subgroup of patients with angioedema at baseline, the number of days per
+week with angioedema and the proportion of patients who were angioedema-free
+each week were calculated from baseline to Week 12 (all 3 studies), and Week 24
+(ASTERIA | and GLACIAL [pooled]), based on information entered in the UPDD. The
+proportion of angioedema-free days was calculated from Week 4 to Week 12 for all
+three studies and from Week 4 to Week 24 for ASTERIA | and GLACIAL (pooled),
+and was analyzed using a stratified Wilcoxon rank-sum test, with baseline weight
+(<80 kg, 280 kg) as the stratification variable. Summary statistics included the mean
+(standard deviation; SD) number of days with angioedema with omalizumab or
+
+placebo, by week.
+
+The change from baseline to Week 12 (weekly; all 3 studies) and Week 24 (weekly;
+ASTERIA | and GLACIAL [pooled]) in the overall DLQI score was also calculated for
+patients with and without angioedema at baseline. Change from baseline in overall
+DLQI score was analyzed using an analysis of covariance (ANCOVA) model with
+baseline overall DLQI score as a covariate and baseline weight (<80 kg versus 280
+
+kg) as strata. P-values and 95% confidence intervals comparing the treatment
+
+This article is protected by copyright. All rights reserved.
+difference in least squares means with omalizumab relative to placebo were derived
+
+from the ANCOVA model.
+
+Efficacy analyses were based on the modified intent-to-treat population (observed
+data), which included all randomized patients who received at least one dose of
+
+study drug, with no imputation for missing scores.
+
+All statistical analyses were conducted using SAS, Version 9.2 (SAS Institute Inc,
+
+Cary, NC, USA).
+
+Results
+
+Patient characteristics and demographics
+
+Overall, 460 out of 975 patients (47.2%) in the pooled population experienced
+angioedema at baseline. The demographics of the subgroup with baseline
+
+angioedema were similar to the subgroup without baseline angioedema (Table 1).
+
+Positive results on the Chronic Urticaria Index™ test, as assessed by in vitro
+basophil histamine assay, were seen more frequently in patients with baseline
+
+angioedema compared with those without angioedema (38.4% vs 19.7%).
+
+By contrast, baseline clinical disease activities, including the size and number of
+hives, itch intensity and interference with sleep and daily activities, disease duration
+and QoL impairment were similar in patients with or without baseline angioedema
+(Table 1). There were no notable differences in previous CIU/CSU medications,
+which most commonly included steroids, H2-receptor antagonists, leukotriene
+receptor antagonists and immunosuppressants (Table 2). Prior medical conditions
+
+This article is protected by copyright. All rights reserved.
+occurred at similar frequencies in patients with or without angioedema and most
+
+commonly included a prior diagnosis of allergic rhinitis and asthma (Table 3).
+
+Number of days per week with angioedema
+
+The mean number of days per week with angioedema was reduced with omalizumab
+and placebo by Week 12 (Fig. 1A). At baseline, patients in the omalizumab 300-mg
+group experienced angioedema for a mean (SD) of 3.5 (2.2) days, falling to 0.8 (1.8)
+days by Week 12. Corresponding values for the omalizumab 150-mg, omalizumab
+75-mg, and placebo groups were: 3.6 (2.1) and 1.1 (1.9); 3.8 (2.1) and 1.3 (2.2); and
+
+3.1 (1.9) and 1.3 (1.8) days, respectively.
+
+A reduction in the mean number of days per week with angioedema (SD) was
+observed in the omalizumab 300-mg group at Week 24 (ASTERIA | and GLACIAL
+pooled; baseline, 3.5 [2.2]; Week 24, 0.6 [1.5]) and placebo group (baseline, 3.0
+[1.8]; Week 24: 1.0 [1.8]). Considering the omalizumab 150-mg and 75-mg groups
+(ASTERIA I only), the mean number of days per week with angioedema with
+omalizumab 150 mg at baseline was 3.7 (2.0) and at Week 24 was 0.4 (1.1), and
+with omalizumab 75 mg at baseline was 3.8 (2.3) and at Week 24 was 2.5 (2.8).
+
+(Fig. 1B).
+
+Angioedema-free patients each week
+
+A consistent reduction in the number of patients with angioedema was observed in
+the omalizumab groups compared with placebo. The proportion of patients with
+angioedema was reduced from 100% at baseline in all groups to 26.3% in the
+
+omalizumab 300-mg group, 34.5% in the omalizumab 150-mg group, 39.2% in the
+
+This article is protected by copyright. All rights reserved.
+omalizumab 75-mg group, and 47.8% in the placebo group at Week 12 of the study
+
+(Fig. 2).
+
+Proportion of angioedema-free days
+
+During Weeks 4 to 12, the mean (SD) proportion of angioedema-free days was
+higher in the omalizumab groups, significantly so with the 300-mg dose, than in the
+placebo group (Table 4). Results were similar for Weeks 4 to 24 in ASTERIA | and
+
+GLACIAL (pooled).
+
+QoL (DLQI) in patients with and without baseline angioedema
+
+Omalizumab treatment with 300 mg, but not 150 or 75 mg, significantly improved
+DLQI scores in patients with and without baseline angioedema compared with
+placebo (Fig. 3, Table 5). Patients with and without baseline angioedema showed
+similar improvement on DLQI scores in response to omalizumab treatment (Fig. 3,
+
+Table 5).
+
+Discussion
+
+In this post hoc analysis of pooled data from the pivotal clinical studies ASTERIA I,
+ASTERIA Il and GLACIAL for patients with angioedema at baseline, patient-reported
+angioedema was reduced and QoL significantly improved with omalizumab versus
+placebo, after 12 (all 3 studies) and 24 weeks (ASTERIA | and GLACIAL pooled) of
+treatment. The greatest clinical benefit in patients with baseline angioedema was
+observed in the omalizumab 300-mg and 150-mg groups. By contrast, omalizumab
+
+75 mg did not generally improve outcomes over placebo.
+
+This article is protected by copyright. All rights reserved.
+In all groups, patients had angioedema at baseline for about 3.5 days per week; after
+receiving monthly doses of omalizumab 300 mg and 150 mg for 12 weeks this had
+declined to 0.8 and 1.1 days per week, respectively, and was further reduced to 0.6
+and 0.4 days per week, respectively, by 24 weeks of treatment in the pooled
+ASTERIA | and GLACIAL analysis. The reduction of angioedema to around 0.5 days
+per week with omalizumab 150-300 mg exceeded that observed with placebo,
+where patients had angioedema for 1.3 and 1.0 days per week at Week 12 and
+
+Week 24, respectively, of the pooled analyses.
+
+In the subgroup of patients with baseline angioedema, the proportion of patients who
+continued to report angioedema declined in the placebo group throughout the study,
+and accounted for only 47.8% of patients at Week 12. The self-resolution and
+reduced recurrence of angioedema in a proportion of patients receiving placebo
+highlights the transient nature of angioedema episodes; however, a greater reduction
+in angioedema episodes was observed with omalizumab compared with placebo,
+with fewer patients reporting an angioedema episode each week with omalizumab
+300 mg throughout the 12-week pooled analysis. By Week 12, omalizumab 300 mg
+
+had reduced the proportion of patients with angioedema to 26.3%.
+
+Omalizumab 300 mg was the only dosing regimen that was more efficacious than
+placebo in improving the QoL for patients with baseline angioedema. In the pooled
+analyses, a 3.3- to 4.5-point greater reduction in DLQI score was achieved with 12—
+24 weeks of omalizumab 300 mg treatment versus placebo. The difference in
+change in DLQI score between the omalizumab 300 mg and placebo groups was
+
+above the previously defined minimal clinically important difference threshold of 2.2—
+
+This article is protected by copyright. All rights reserved.
+3.1 points, indicating a clinically meaningful benefit with omalizumab treatment; '®
+improvement in DLQI with omalizumab 300 mg was similar for patients without
+angioedema at baseline (2.6—3.6 points above that achieved with placebo). The
+observation that the benefits of omalizumab on QoL were similar in both subgroups
+of patients is perhaps not surprising if we consider that it is likely the emotional
+aspect i.e. fear/anxiety of a subsequent angioedema attack that has most impact on
+patient QoL. This emotional impact on QoL has been highlighted by results from
+studies utilizing the Angioedema Quality of Life Questionnaire, the first specific
+patient-reported outcome assessment of QoL in patients with recurrent angioedema,
+and in an European study assessing the real-world experience of patients with
+hereditary angioedema.'*'® Therefore, it would be of interest in future CIU/CSU
+subgroup analyses to investigate patients who have experienced angioedema
+versus those who have never experienced angioedema. In addition, studies on the
+minority of patients with CIU/CSU who have angioedema in isolation (i.e. in the
+
+absence of hives) are warranted.
+
+It is reassuring that the findings from this post hoc pooled analysis are consistent
+with the greater efficacy and improvement in QoL observed with omalizumab 300 mg
+compared with placebo observed during the individual trials.'"'*: '? Caution is
+warranted in the interpretation of the results from the ASTERIA | and GLACIAL
+pooled analysis for the omalizumab 75-mg and 150-mg groups as these dosing
+regimens were not included in the GLACIAL study.‘ Indeed, the highly fluctuating
+burden of angioedema (measured as days per week with angioedema) observed
+with omalizumab 75 mg in the 24-week ASTERIA | and GLACIAL pooled data are a
+
+notable exception to the overall observed benefit of omalizumab treatment in these
+
+This article is protected by copyright. All rights reserved.
+post hoc analyses, and may be a result of the small sample size in the omalizumab
+
+75-mg data set.
+
+Additional limitations of this study include the unavoidable subjectivity of patientreported outcomes. Patients were assessed for the presence or absence of
+angioedema during a baseline period defined as the 7 days prior to randomization.
+However, the transitory nature of angioedema episodes means that some patients
+could have been mis-classified as angioedema-free and later gone on to experience
+angioedema; likewise, patients with angioedema during the baseline period could
+have been experiencing a single, self-resolving episode without recurrence during
+the study period. Furthermore, facial wheals can be difficult to distinguish from
+angioedema, which may potentially increase the incidence of reported angioedema
+during the baseline assessment and therefore suggest a greater response with
+omalizumab than that actually achieved. Future studies of omalizumab on
+angioedema should try to account for this through measurements of the site, size,
+
+severity and duration of wheals.
+
+Omalizumab represents an important add-on treatment option for the approximately
+50% of CIU/CSU cases that remain symptomatic on H.-antihistamine therapy.? The
+observation that angioedema is more common in these patients compared with
+patients responsive to treatment highlights the importance of angioedema as a
+clinical marker of symptom burden in CIU/CSU."* The steady and consistently
+greater decline in incidence and number of days per week with angioedema with
+omalizumab 300 mg compared with placebo in these 12- and 24-week pooled
+
+analyses, accompanied by a clinically relevant improvement in QoL, is strongly
+
+This article is protected by copyright. All rights reserved.
+supportive of the benefit of omalizumab 300 mg in the treatment of recalcitrant
+
+CIU/CSU.
+
+Acknowledgment
+We dedicate this work to our esteemed colleague Dr Sheldon Spector (February 13,
+
+1939 to December 29, 2015).
+
+References
+
+1. Bernstein JA, Lang DM, Khan DA, et a/. The diagnosis and management of acute
+and chronic urticaria: 2014 update. J Allergy Clin Immunol. 2014;133(5):1270-7.
+
+2. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/EDF/WAO Guideline
+for the definition, classification, diagnosis, and management of urticaria: the 2013 revision
+and update. Allergy. 2014;69(7):868-87.
+
+3. Maurer M, Weller K, Bindslev-Jensen C, et a/. Unmet clinical needs in chronic
+spontaneous urticaria. A GA(2)LEN task force report. Allergy. 2011;66(3):317-30.
+4. Cicardi M, Aberer W, Banerji A, et al. Classification, diagnosis, and approach to
+
+treatment for angioedema: consensus report from the Hereditary Angioedema International
+Working Group. Allergy. 2014;69(5):602-16.
+
+5. Grob JJ, Gaudy-Marqueste C. Urticaria and quality of life. Clin Rev Allergy Immunol.
+2006;30(1):47-51.
+
+6. O'Donnell BF. Urticaria: impact on quality of life and economic cost. /mmunol Allergy
+Clin North Am. 2014;34(1):89-104.
+
+T. Turner S, Vietri J, Tian H, Isherwood G, Balp M-M. The burden of chronic hives from
+the US patients' perspective. Poster presented at: Academy of Managed Care Pharmacy
+26th Annual Meeting and Expo; April 1-4, 2014; Tampa, FL. 2014.
+
+8. Champion RH, Roberts SO, Carpenter RG, Roger JH. Urticaria and angio-oedema. A
+review of 554 patients. Br J Dermatol. 1969;81(8):588-97.
+
+9. Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory parameters in
+predicting chronic urticaria duration: a prospective study of 139 patients. Allergy.
+2004;59(8):869-73.
+
+10. Xolair® (omalizumab) US prescribing information. 2014. Available at:
+http:/Awww.gene.com/download/pdf/xolair_prescribing.pdf (last accessed 26 September
+2016).
+
+This article is protected by copyright. All rights reserved.
+11. Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and Safety of Omalizumab in
+Patients with Chronic Idiopathic/Spontaneous Urticaria Who Remain Symptomatic on H1Antihistamines: A Randomized, Placebo-Controlled Study. J Invest Dermatol. 2014.
+
+12. Maurer M, Rosen K, Hsieh HJ, et a/. Omalizumab for the treatment of chronic
+idiopathic or spontaneous urticaria. N Engl J Med. 2013;368(10):924-35.
+
+13. Kaplan A, Ledford D, Ashby M, et a/. Omalizumab in patients with symptomatic
+chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin
+Immunol. 2013;132(1):101-9.
+
+14. Magen E, Mishal J, Zeldin Y, Schlesinger M. Clinical and laboratory features of
+antihistamine-resistant chronic idiopathic urticaria. Allergy Asthma Proc. 2011;32(6):460-6.
+15. Shikiar R, Harding G, Leahy M, Lennox RD. Minimal important difference (MID) of
+the Dermatology Life Quality Index (DLQI): results from patients with chronic idiopathic
+urticaria. Health Qual Life Outcomes. 2005;3:36.
+
+16. Weller K, Groffik A, Magerl M, et a/. Development and construct validation of the
+angioedema quality of life questionnaire. Allergy. 2012;67(10):1289-98.
+
+17. Weller K, Magerl M, Peveling-Oberhag A, Martus P, Staubach P, Maurer M. The
+Angioedema Quality of Life Questionnaire (AE-QoL) - Assessment of Sensitivity to Change
+and Minimal Clinically Important Difference. Allergy. 2016;71(8):1203-9.
+
+18. Bygum A, Aygoren-Pursun E, Beusterien K, ef a/. Burden of Illness in Hereditary
+Angioedema: A Conceptual Model. Acta Derm Venereol. 2015;95(6):706-10.
+
+19. Zazzali JL, Kaplan A, Maurer M, et al. Angioedema in the omalizumab chronic
+idiopathic/spontaneous urticaria pivotal studies. Ann Allergy Asthma Immunol. 2016;pii:
+$1081-1206(16)30372-6.
+
+This article is protected by copyright. All rights reserved.
+Table 1: Baseline characteristics and demographics for ASTERIA I, ASTERIA II and
+GLACIAL (pooled) for the subgroup of patients with baseline angioedema and the subgroup
+
+of patients without baseline angioedema (all patients who received at least one dose of
+
+ 
+
+ 
+
+study drug).
+Patients with Patients without
+baseline baseline
+angioedema angioedema
+N=460 N=515
+
+Age, years, mean (SD) 42.7 (13.6) 41.9 (14.5)
+Gender (female), n (%) 331 (72.0) 385 (74.8)
+Race (White), n (%) 389 (84.6) 444 (86.2)
+BMI, kg/m?, mean (SD) 29.7 (7.3)° 29.6 (7.4)
+Positive CU Index™ test, n (%) 176 (38.4)° 101 (19.7)°
+Total IgE level, |U/mL, mean (SD) 164.3 (294.8)° 174.5 (320.8)!
+Duration of CIU/CSU, years, mean (SD) 7.5 (9.5)° 6.5 (8.7)
+In-clinic UAS,9 mean (SD) 5.4 (0.7) 5.2 (0.8)
+UAS7," mean (SD) 31.7 (6.5) 30.2 (6.7)
+Weekly ISS," mean (SD) 14.4 (3.6) 13.8 (3.6)
+Weekly no. of hives score," mean (SD) 17.3 (4.1) 16.4 (4.4)
+Weekly size of largest hive score," mean (SD) 15.9 (3.8) 14.6 (4.3)
+Weekly interference with sleep score," mean (SD) 12.5 (4.9) 11.4 (4.9)
+Weekly interference with daily activities score," mean 13.1 (4.5) 12.5 (4.5)
+
+(SD)
+
+This article is protected by copyright. All rights reserved.
+Overall DLQI score, mean (SD)
+MOS, mean (SD)
+Optimal sleep
+Short of breath
+Sleep adequacy
+Sleep disturbance
+Sleep problems Index |
+Sleep problems Index II
+Sleep quantity
+Snoring
+Somnolence
+CU-Q20L overall score
+
+EuroQoL-5D index score
+
+14.6 (6.7)!
+
+0.4 (0.5)'
+21.1 (25.4)!
+36.0 (23.3)™
+51.1 (24.6)"
+47.9 (18.3)"
+49.8 (18.9)"
+
+6.3 (1.5)!
+35.5 (32.1)°
+42.0 (22.5)™
+48.6 (18.0)°
+
+0.7 (0.3)™
+
+12.0 (6.1)
+
+0.4 (0.5)
+18.0 (24.9)*
+40.8 (24.2)!
+49.4 (24.0)
+44.5 (18.5)
+47.0 (18.7)!
+
+6.4 (1.3)
+33.7 (33.0)*
+38.9 (22.0)
+39.3 (16.0)?
+
+0.7 (0.2)
+
+ 
+
+BMI, body mass index; CIU/CSU, chronic idiopathic/spontaneous urticaria; CU, chronic
+
+urticaria; CU-Q,0L, Chronic Urticaria Quality of Life Questionnaire; DLQI, Dermatology Life
+
+Quality Index; EuroQoL-5D, European Quality of Life-5 Dimensions; IgE, immunoglobulin E;
+
+ISS, itch severity score; MOS, measures of sleep; SD, standard deviation; UAS, urticaria
+
+activity score; UAS7, urticaria activity score over 7 days; UPDD, Urticaria Patient Daily Diary.
+
+Pooled data from the placebo and omalizumab arms. *n=458; ’n=513; "n=450; *n=490;
+
+°n=448; 'n=508; 9Defined as largest value from Day -14 and Day -7 screening, and Day 1
+
+visits; "Based on information collected in the UPDD; 'n=455; in=514; ‘n=511; 'n=456; "n=457;
+
+"™M=513; °n=453; ’n=404; 9n=445; n=512.
+
+This article is protected by copyright. All rights reserved.
+Table 2: Previous medications for CIU/CSU for ASTERIA |, ASTERIA II and GLACIAL
+(pooled) for the subgroup of patients with baseline angioedema and the subgroup of patients
+
+without baseline angioedema (all patients who received at least one dose of study drug).
+
+ 
+
+Patients with Patients without
+
+ 
+
+baseline baseline
+angioedema angioedema
+N=460 N=515
+Any medication use 460 (100.0) 515 (100.0)
+Number previous CIU/CSU medications, mean (SD) 5.4 (2.9) 4.7 (2.7)
+Antihistamines, n (%) 460 (100.0) 514 (99.8)
+H,-receptor antagonist, n (%) 242 (52.6) 230 (44.7)
+Steroids, n (%) 220 (47.8) 226 (43.9)
+Leukotriene-receptor antagonist, n (%) 182 (39.6) 154 (29.9)
+Immunosupressants, n (%) 51 (11.1) 36 (7.0)
+Other, n (%) 240 (52.2) 248 (48.2)
+
+ 
+
+CIU/CSU, chronic idiopathic/spontaneous urticaria. Pooled data from the placebo and
+
+omalizumab groups. Previous medications for CIU/CSU presented in descending order for
+patients with baseline angioedema. Multiple uses of a specific medication per patient were
+counted once in the frequency for the medication. Similarly, multiple uses within a specific
+medication class per patient were counted once in the frequency for the medication class.
+
+Includes concomitant medications started at any time before first treatment date.
+
+This article is protected by copyright. All rights reserved.
+Table 3: Commonly reported prior medical conditions, in addition to CIU/CSU, for ASTERIA
+|, ASTERIA II and GLACIAL (pooled) for the subgroup of patients with baseline angioedema
+and the subgroup of patients without baseline angioedema (all patients who received at least
+
+one dose of study drug).
+
+ 
+
+Patients with Patients without
+
+ 
+
+baseline baseline
+angioedema angioedema
+N=460 N=515
+Allergic rhinitis, n (%) 199 (43.3) 229 (44.5)
+Asthma, n (%) 96 (20.9) 135 (26.2)
+Hypertension, n (%) 92 (20.0) 112 (21.7)
+Hypercholesterolema, n (%) 64 (13.9) 78 (15.1)
+
+ 
+
+CIU/CSU, chronic idiopathic/spontaneous urticaria. Pooled data from the placebo and
+omalizumab groups. Prior medical conditions (ever reported) occurring in more than 10% of
+patients in any subgroup included, and are ordered by descending frequency for patients
+
+with baseline angioedema.
+
+This article is protected by copyright. All rights reserved.
+Table 4. Proportion of angioedema-free days from A) Weeks 4 to 12 in ASTERIA I, ASTERIA II and GLACIAL (pooled) and B) Weeks 4 to 24 in
+
+ASTERIA | and GLACIAL (pooled) for patients with baseline angioedema
+
+ 
+
+Angioedema-free
+
+Treatment N? n? p-value
+days, mean % (SE)
+
+ 
+
+ASTERIA I, ASTERIA Il and GLACIAL (pooled) — Weeks 4 to 12
+
+ 
+
+ 
+
+ 
+
+ 
+
+PBO 115 94 78.6 (2.4)
+
+OMA 75 mg 66 54 79.0 (4.1) 0.1521
+OMA 150 mg 76 64 80.7 (3.0) 0.3154
+OMA 300 mg 203 180 85.9 (1.8) <0.0001
+
+ 
+
+ASTERIA I and GLACIAL (pooled) — Weeks 4 to 24
+
+ 
+
+ 
+
+ 
+
+ 
+
+PBO 85 66 81.4 (2.7)
+
+OMA 75 mg 35 33 68.0 (6.4) 0.3718
+OMA 150 mg 38 34 80.0 (4.3) 0.6121
+OMA 300 mg 171 147 86.9 (1.9) <0.0001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved.
+OMA, omalizumab; PBO, placebo; SE, standard error. Modified intent-to-treat population (all patients with baseline angioedema).
+
+P-values derived from stratified Wilcoxon rank-sum test, with baseline weight (<80 kg, 280 kg) as the stratification variable. "Number of patients
+
+with baseline angioedema; °number of patients with data between Weeks 4 to 12 or Weeks 4 to 24
+
+Table 5: LS mean differences in the change from baseline on the overall DLQI score with omalizumab vs placebo (95% Cl) at Week 12 in
+
+ASTERIA I, ASTERIA II and GLACIAL (pooled) and Week 24 in ASTERIA | and GLACIAL (pooled) for patients with and without baseline
+
+angioedema
+
+ 
+
+Patients with angioedema at baseline
+
+Patients without angioedema at baseline
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Treatment difference in Treatment difference in
+N? n? p-value N? n? p-value
+LS mean (95% Cl) LS mean (95% Cl)
+
+ASTERIA I, ASTERIA Il and GLACIAL (pooled) — 12 weeks
+PBO 115 87 127 108
+OMA 75 mg 66 50 -1.15 (-3.33 to 1.03) 0.2991 93 84 -1.09 (-2.76 to 0.58) 0.1982
+OMA 150 mg 76 55 -1.87 (-3.83 to 0.10) 0.0627 86 78 -2.47 (-4.19 to -0.75) 0.0052
+OMA 300 mg 203 169 -4.49 (-5.92 to -3.06) <0.0001 | 209 192 -3.57 (-4.76 to -2.38) <0.0001
+ASTERIA I and GLACIAL (pooled) — 24 weeks
+PBO 85 47 78 60
+
+ 
+
+This article is protected by copyright. All rights reserved.
+
+ 
+OMA 75 mg 35 23 2.41 (-1.20 to 6.03) 0.1868 42 36 -1.78 (-3.89 to 0.32) 0.0962
+
+ 
+
+OMA 150 mg 38 22 -0.35 (-3.83 to 3.13) 0.8427 42 33 -1.32 (-3.36 to 0.71) 0.1999
+
+ 
+
+OMA 300 mg 171 133 -3.32 (-5.27 to -1.36) 0.001 162 136 -2.64 (-3.98 to -1.29) 0.0001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cl, confidence interval; DLQI, Dermatology Life Quality Index; LS, least-squares; OMA, omalizumab; PBO, placebo. Modified intent-to-treat
+population (all patients with baseline angioedema). The LS mean was estimated using ANCOVA model with baseline overall DLQI score as
+covariate, and baseline weight (<80 kg versus 2 80 kg) as strata. P-value derived from ANCOVA model. “Number of patients with or without
+
+baseline angioedema; number of patients with data at Week 12 or Week 24
+
+This article is protected by copyright. All rights reserved.
+Figure 1: Number of days per week with angioedema in the baseline angioedema subgroup
+from baseline to A) Week 12 in ASTERIA I, ASTERIA II and GLACIAL (pooled) and B) to
+
+Week 24 in ASTERIA | and GLACIAL (pooled)*
+
+>
+
+—=— OMA 300 mg OMA 75 mg
+40 4 —— OMA 150 mg -°= PBO
+
+Mean number of days per
+week with angioedema
+
+ 
+
+ 
+
+a
+0123 45 6 7 8 9 10 11 12
+t t
+
+Week
+
+B
+45,5
+5 —= OMA 300 mg OMA 75 mg
+Qa 40 + —— OMA 150 mg -¢= PBO
+2 §
+$3
+2
+cs
+8 oO
+=e
+ae
+c@
+gs
+=
+
+ 
+
+ 
+
+ 
+
+Week
+
+OMA, omalizumab; PBO, placebo. *Modified intent-to-treat population (all patients with
+baseline angioedema). A) PBO, n=85—115; OMA 75 mg, n=49-66; OMA 150 mg, n=55-—76;
+OMA 300 mg, n=156—203. B) PBO, n=44—85; OMA 75 mg, n=22-35; OMA 150 mg, n=22—
+38; OMA 300 mg, n=122—171. Arrows indicate monthly dosing. Note that dosing was every 4
+
+weeks for 12 weeks in ASTERIA II. Error bars represent the standard error of the mean.
+
+This article is protected by copyright. All rights reserved.
+Figure 2: Proportion of patients with baseline angioedema who had angioedema each week
+
+from baseline to Week 12 in ASTERIA I, ASTERIA II and GLACIAL (pooled)*
+
+% patients with angioedema
+
+  
+ 
+      
+
+100
+90
+80
+70
+60
+50
+
+=e OMA 300 mg OMA 75 mg
+== OMA150mg -°- PBO
+
+2°
+me geet,
+
+Sage et OM =a = = 0
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0 123 4 5 86 7 8&8 9 10 TI 12
+t t t
+
+Week
+
+OMA, omalizumab; PBO, placebo. *Modified intent-to-treat population (all patients with
+
+baseline angioedema). PBO, n=40—115; OMA 75 mg, n=20-66; OMA 150 mg, n=19-76;
+
+OMA 300 mg, n=39-203. Arrows indicate monthly dosing.
+
+This article is protected by copyright. All rights reserved.
+Figure 3: Change from baseline at A) Week 12 in ASTERIA I, ASTERIA II and GLACIAL
+(pooled) and B) Week 24 in ASTERIA | and GLACIAL (pooled) on the overall DLQI score for
+
+patients with baseline angioedema*
+
+ 
+
+ 
+
+A PBO on 75 Sma OMA 150 mg OMA 300 mg
+Pry n=87 n=55 n=169
+os 0 T
+2 2
+
+oo
+
+gs 4
+
+GES 6
+
+a=%
+
+= 38 8
+
+© 2
+a -10 p=0.063
+
+Qe
+
+Og -12 0.0001
+© p<0!
+
+oO
+2 -14
+
+B PBO  OMA75mg a - mg OMA 300 mg
+gs n=47 n=23 n=133
+i] 0 :
+
+££ 2
+
+ot
+
+58 4
+
+8.2
+
+an wt
+
+ge. Ss
+
+pa |
+
+as g gs p= 4 187
+
+BOs
+
+os -10
+
+66 12 p=0.843
+& p=0.001
+gz -14
+
+DLQI, Dermatology Life Quality Index; OMA, omalizumab; PBO, placebo. *Modified intent-totreat population (all patients with baseline angioedema). P-value derived from ANCOVA
+
+model. Error bars represent the standard error of the mean.
+
+This article is protected by copyright. All rights reserved.
+

@@ -1,0 +1,1182 @@
+| Check for
+DOI: 10.1111/cea.13716 | updates
+
+Received: 9 January 2020 Revised: 15 July 2020 Accepted: 21 July 2020
+
+ 
+
+ 
+
+ORIGINAL ARTICLE
+Clinical Allergy
+
+WILEY
+
+Antihistamine-resistant chronic spontaneous urticaria remains
+undertreated: 2-year data from the AWARE study
+
+Marcus Maurer'® | Celia Costa? | AnaMaria Gimenez Arnau? | Gerard Guillet* |
+Moises Labrador-Horrillo”® | Hilde Lapeere’ | Raisa Meshkova® | Sinisa Savic?® |
+
+Nadine Chapman-Rothe’®
+
+Dermatological Allergology, Department of
+Dermatology, Venereology, and Allergology,
+Allergie-Centrum-Charité, Charité 
+Universitatsmedizin Berlin, Berlin, Germany
+
+2Servico de Imunoalergologia, Hospital de
+Santa Maria, Lisbon, Portugal
+
+’Dermatology Department, Hospital del
+Mar, Parc de Salut Mar, IMIM, Universitat
+Autonoma de Barcelona, Barcelona, Spain
+
+4Service de Dermato-allergologie, CHU
+Poitiers, Poitiers, France
+
+SAllergy Section, Hospital Vall d'Hebron,
+Vall d'Hebron Research Institute (VHIR),
+Universitat Autonoma de Barcelona,
+Barcelona, Spain
+
+SARADyAL Research Network
+(RD16/0006/0020), Instituto de Salud
+Carlos III (ISCIII), Madrid, Spain
+
+7Department of Dermatology, Ghent
+University Hospital, Ghent, Belgium
+®Allergy and Clinical Immunology, Smolensk
+State Medical University, Smolensk, Russia
+
+°National Institute for Health ResearchLeeds Biomedical Research Centre, Leeds
+Institute of Rheumatic and Musculoskeletal
+Medicine, St James's University Hospital,
+Leeds, UK
+
+‘Novartis Pharma AG, Basel, Switzerland
+
+Correspondence
+
+Marcus Maurer, Dermatological
+Allergology, Department of Dermatology,
+Venereology, and Allergology, Charité Universitatsmedizin Berlin, Charitéplatz 1,
+Berlin 10117, Germany.
+
+Email: marcus.maurer@charite.de
+
+Funding information
+The study was supported by Novartis
+Pharma AG.
+
+ 
+
+Abstract
+
+Background: Real-world evidence describing the benefits of recommended therapies and their impact on the quality of life (QoL) of chronic urticaria (CU) patients is
+limited.
+
+Objective: To investigate disease burden, current treatment schedule, and the use of
+clinical resources by patients with H,-antihistamine-refractory CU in Europe.
+Methods: AWARE (A World-wide Antihistamine-Refractory chronic urticaria patient
+Evaluation) is a global, prospective, non-interventional study in the real-world setting, sponsored by the manufacturer of omalizumab. Disease characteristics, pharmacological treatments, and health-related QoL of patients (N = 2727) 218 years of
+age diagnosed with H,-antihistamine-refractory chronic spontaneous urticaria (without inducible urticaria) for >2 months are reported here.
+
+Results: Of the 2727 patients included, 1232 (45.2%) and 1278 (46.9%) were
+successfully followed up for any assessment and for the key outcome, the urticaria control test (UCT) score, respectively, and patients with complete remission
+(14.1%) were excluded from analyses.The proportion of patients with uncontrolled
+CSU (UCT score <12) dropped from 78% (n/N = 1641/2104) at baseline to 28.7%
+(n/N = 269/936) after two years of participation in the AWARE study. In addition,
+the proportion of patients with no impact of CSU on their QoL (assessed by the
+Dermatological Life Quality Index) increased to 57% (n/N = 664/1164) from 18.7%
+(n/N = 491/2621) at baseline. Emergency room visits (2.4% [n/N = 7/296] vs 33.5%
+[n/N = 779/2322]) and hospital stays (1.7% [n/N = 5/296] vs 24.2% [n/N = 561/2322])
+reduced at Month 24 vs baseline. Overall, 23.2% (n/N = 26/112) patients on nonsedating H,-antihistamines (nsAH) and 41.9% (n/N = 44/105) patients on up-dosed
+nsAH had uncontrolled CSU (UCT <12) at Month 24. In omalizumab-treated patients,
+27.1% (n/N = 78/288) had uncontrolled CSU at Month 24.
+
+Conclusion: These data confirm improvements for most patients with CSU over a
+2-year follow-up period. Further studies are needed to understand the differences
+
+between guideline recommendations and reported management.
+
+KEYWORDS
+
+angioedema, chronic spontaneous urticaria, quality of life, urticaria
+
+ 
+
+1166 © 2020 John Wiley & Sons Ltd
+
+wileyonlinelibrary.com/journal/cea Clin Exp Allergy. 2020;50:1166-1175.
+MAURER ET AL.
+
+ 
+
+1 | INTRODUCTION
+
+Chronic urticaria (CU) is characterized by itching, burning or sometimes painful hives (wheals), and/or angioedema (swelling in the
+deeper layers of the skin) for at least 6 weeks.’ The estimated
+prevalence of CU varies from 0.1% in North America to 1.4% in the
+Asian population.” In patients with CU, symptoms may occur spontaneously without a definite trigger, known as chronic spontaneous
+urticaria (CSU), or in response to a specific trigger, known as chronic
+inducible urticaria (CIndU).?* About 20% of CU patients may experience CSU and CindU concurrently.°
+
+Chronic urticaria has a negative impact on the quality of life
+(QoL) and hampers work productivity and daily activities.“® The
+international guideline for urticaria (EAACI/GA2LEN/EDF/WAO)
+recommends a stepwise treatment approach to improve symptom control and reduce disease burden among patients with CU."
+Second-generation non-sedating H,-antihistamines (nsAH) at approved doses are the first-line therapy; however, up to 60% of patients do not respond adequately within 2-4 weeks of starting the
+treatment and require increased doses (upto 4-fold of the licensed
+dose), which is the second-line recommendation.” At the time
+the AWARE study was initiated, the EAACI/GA7LEN/EDF/WAO
+urticaria guideline recommended third-line add-on therapy with
+ciclosporin, leukotriene receptor agonists such as montelukast, or
+omalizumab, if no adequate response was achieved with higher than
+standard doses of H,-antihistamines; however, this recommendation
+was changed in the 2017 update and revision of this guideline.*?°
+The 2017 guideline provides a strong recommendation for the use
+of omalizumab as third-line add-on therapy to H,-antihistamines,
+if no adequate response is observed after 2-4 weeks (or earlier if
+symptoms are intolerable) of treatment with an up-dosed nsAH.
+Patients who remain inadequately controlled with omalizumab after
+6 months (or earlier if symptoms are intolerable) are recommended
+to receive add-on therapy with ciclosporin A as a fourth-line agent
+(off-label).
+
+Real-world evidence on the benefits of the recommended
+therapeutic medications and their impact on the QoL of CU patients in Europe is limited. Previous reports suggest that physicians show poor adherence to guidelines in the diagnosis and
+therapeutic management of CSU leading to an unmet need in the
+CU patient population."? Baseline findings of the AWARE study in
+Europe revealed that CU is largely uncontrolled, undertreated, and
+associated with a high healthcare resource use burden, and that
+it has a large effect on QoL, work, and activity.!? Furthermore,
+the majority of data on CU that is inadequately controlled with
+H,-antihistamines are limited to patient populations derived from
+specialized urticaria centres such as Urticaria Centers of Reference
+and Excellence (UCAREs),!? which may not represent the general
+CU population.**4* AWARE is a prospective, non-interventional
+study that examines real-world treatment patterns, burden of disease, and rates of healthcare resource utilization of patients with
+CU that is inadequately controlled with H,-antihistamines. Here,
+
+we report any changes in the treatment regimen, symptoms, and
+
+WILEY”
+
+health-related QoL (HR-QoL) throughout the 2-year period of
+the study with patients with CSU inadequately controlled by H,
+antihistamines in 12 European countries.
+
+2 | METHODS
+2.1 | Patients and study design
+
+AWARE was a multicentre, prospective, non-interventional study
+that followed patients with CU for 2 years, who were inadequately
+controlled with at least one approved dose of H,-antihistamine.*®
+This report focuses on patients enrolled in urticaria centres and
+office-based dermatological and allergological practices across 12
+European countries (Germany, Spain, the United Kingdom, Italy,
+Greece, Russia, France, Denmark, Belgium, Portugal, Norway, and
+Sweden) at 418 sites between March 2014 and October 2015.
+Patients were included if they had physician-confirmed CU for
+at least 2 months with inadequate response to standard-doses of H,antihistamine treatment. Patients were also required to be 218 years
+of age and be able to provide informed consent. Enrolled patients
+were followed up for at least 2 years. Patients were excluded from
+the study if urticaria was present for less than 2 months or due to
+unanticipated difficulties in the follow-up of the patient in the 2-year
+study period, or if they were simultaneously participating in any
+other clinical CU study. All patients met the following criteria: fulfilment of all inclusion criteria, no violation of any exclusion criteria, written informed consent prior to study enrolment, and all core
+baseline characteristics (gender, age, and diagnosis) available.
+Although patients with ClndU were also included in the AWARE
+study, this manuscript focuses on patients diagnosed with CSU (with
+or without angioedema). The study protocol was approved by the
+institutional review board of each participating centre. The trial was
+conducted in accordance with the Declaration of Helsinki and Good
+Clinical Practice (GCP) and in compliance with all federal, local, and
+regional requirements. AWARE was sponsored by the manufacturer
+
+of omalizumab.
+
+2.2 | Patient-reported outcome measures
+
+Patient-reported outcome (PRO) measures were used to assess disease activity, to measure the impact on the QoL as recommended
+by international guidelines and control CU.!° PROs included the
+7-day Urticaria Activity Score (UAS7; weekly diary for disease activity),°?® Dermatology Life Quality Index (DLQI; questionnaire for
+psychosocial effects of chronic skin disease),’? Chronic Urticaria
+QoL Questionnaire (CU-Q,oL),7° Angioedema QoL Questionnaire
+(AE-QoL),21? Urticaria Control Test (UCT; to assess urticaria control: UCT 212, poorly controlled disease: UCT <19) eet Work
+Productivity and Activity Impairment Questionnaire (WPAI),2° and
+monthly Angioedema Activity Score (AAS).2° Each patient was
+observed for a period of 2 years. After the baseline visit (Visit 1),
+ 
+
+18 | WILEY.
+
+2.3 | Statistical analysis
+
+3 | RESULTS
+
+MAURER Er AL.
+patients had eight follow-up visits in quarterly intervals. The various TABLE 1 Disposition and diagnostic groups
+treatment groups examined are presented in Figure S1. Disposition N(%)
+Enrolled patients 3741 (100)
+Included in the analysis 3683 (98.4)
+Excluded? 58 (1.6)
+All statistical analyses were performed on the analysis population Combined diagnostic categories”
+and assessed using descriptive statistics. Means, medians, standard CSU 2727 (74.0)
+deviation (SD), maximum, and minimum are stated for quantitative, CindU 196 (5.3)
+absolute, and relative frequencies for categorical measurements. CSU + CInDU 760 (20.6)
+Single diagnoses?
+CSU without angioedema, n (%) 1840 (50.0)
+CSU with angioedema, n (%) 1704 (46.3)
+
+3.1. | Demographics and clinical characteristics
+
+Patient disposition and diagnostic groups are shown in Table 1. Of
+the 3683 patients included in the analysis, 74.0% (n = 2727) had
+only CSU, 5.3% (196) had only ClndU, and 20.6% (n = 760) had
+concomitant CSU and ClndU. The mean + SD age of CSU patients
+was 46.7 + 15.7 years, and 70.9% (n = 1933) of patients were female (Table 2). The mean + SD for total duration of disease was
+4.7 +7.2 years. In all, 1589 (43.5%) patients discontinued the study.
+Lost to follow-up (62.9%) of patients was the main reasons for discontinuation, followed by withdrawal of informed consent (20.3%)
+and spontaneous remission of CU (14.1%). The total patients available for assessment at each visit are described in Table S1.
+
+3.2 | Symptom control (wheals and angioedema)
+after 2 years in AWARE
+
+At baseline, 89.4% (n/N = 2419/2706) of CSU patients experienced
+wheals (within the last 6 months before baseline). At Months 3 and
+24, 74.3% (n/N = 1529/2058) and 47.5% (n/N = 589/1241) of patients reported wheals (in the 3 previous months), respectively
+(Figure 1A). Correspondingly, the mean UAS7 score declined over
+the study period from 17.5 (+12.4) (N = 589) at baseline to 4.5 (+7.5)
+(N = 724) at Month 24.
+
+At baseline, 45.0% (n/N = 1219/2706) of CSU patients experienced angioedema during the last 6 months; this decreased to 25.8%
+(n/N = 526/2042) at month 3 and continued to improve across visits.
+At Month 24, 13.1% (n/N = 162/1232) of CSU patients experienced
+angioedema (Figure 1B). Substantial improvement in monthly mean
+(+SD) AAS (baseline: 122.9 + 111.3 [N = 116], Month 24:83.1 + 110.9
+[N = 42]) was observed (Figure 1D).
+
+3.3 | Disease control after 2 years in AWARE
+(UCT) at baseline, 78.0%
+
+(n/N = 1641/2104) of patients had poorly controlled CSU (UCT <12).
+At Month 3, 51.3% (n/N = 844/1645) had poorly controlled CSU
+
+In terms of urticaria control
+
+Abbreviations: ClndU, chronic inducible urticaria; CSU, chronic
+spontaneous urticaria.
+
+*Patients excluded from the analysis due to missing core variables or a
+violation of the inclusion/exclusion criteria.
+
+Percentage based on patients included in the analysis (N = 3683).
+
+(Figure 1C) and, the UCT score improved over time, and at Month
+24, 28.7% (n/N = 269/936) of CSU patients showed poor disease
+control.
+
+3.4 | HR-QoL over 2 years in AWARE
+
+Baseline DLQI scores indicated that merely 18.7% (n/N = 491/2621)
+of CSU patients experienced no impact on their QoL (DLQI band
+O-1) (Figure 2A). This markedly improved over the 2-year study period: 50.3% (n/N = 773/1538) of patients reached this goal after
+1 year and 57.0% (n/N = 664/1164) after 2 years. At Month 24,
+18.5% (n/N = 216/1164) of CSU patients experienced moderate to
+extremely large effect on their QoL compared to baseline (54.1%,
+n/N = 1419/2621). Substantial improvement in mean (+SD) CUQ,oL (baseline: 35.1 + 20.2 [N = 1928], Month 24:16.3 + 16.1 points
+[N = 824]) and AE-Qol (42.4 + 23.6 [N = 1178] to 22.7 + 19.7 points
+[N = 409]) was seen (Figure 2B-C).
+
+TABLE 2 Demographics and baseline disease characteristics
+
+CSU patients
+(N = 2727)
+Age (years), mean (SD) 46.7 (15.7)
+Sex, n (%)
+Male 794 (29.1)
+Female 1933 (70.9)
+Duration of disease (years), mean (SD) 4.7 (7.2)
+Family-related history of urticaria, n (%) 166 (6.1)
+Body mass index (kg/m?), mean (SD) 26.8 (5.4)
+
+Abbreviations: CSU, chronic spontaneous urticaria; SD, standard
+deviation.
+MAURER ET AL.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(A) Hives
+100) 99.4
+» 804 74.3
+c
+ES 7 59.6
+a |
+-? 47.5
+R
+oO 404
+ie)
+* 20 4
+0
+Baseline Month 3 Month 12 Month 24
+n= 2419 1529 936 589
+N= 2706 2058 1570 1241
+UCT groups
+(C)
+100 4
+2 804
+d 162.7]
+. 5; 71.3}
+& 60 4
+=
+8 40 4
+ie)
+xs 20 4
+pues 28.7
+0
+Baseline Month3 Month12 Month 24
+n= 2104 1645 1254 936
+N= 2727 2174 1647 1278
+
+mUCT<12 mUCT212
+
+WILEY”
+
+(B) Angioedema
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 4
+£2 80;
+Cc
+@
+& 604
+>
+a 45.0
+° 40 4
+S 25.8
+BS
+20 4 l 18.1 434
+; ies
+Baseline Month 3 Month 12 Month 24
+n= 1219 526 282 162
+N= 2706 2042 1555 1232
+(D) AAS
+240 5
+200 +
+oO 160 4
+oo” 122.9
+2 # 499 110.9 | 401.0
+2 8 83.1
+x £ 80 4
+40 +
+0
+Baseline Month 3 Month 12 Month 24
+n= 116 181 104 42
+N = 2727 2174 1647 1278
+
+FIGURE 1 Prevalence of (A) hives, (B) angioedema, (C) the proportion of patients with controlled (UCT 212) or uncontrolled (UCT <12)
+disease, and (D) monthly AAS among patients with CSU®. n, number of patients where a particular evaluation form was available at each
+visit; N, total number of patients at each visit. °The number of patients with evaluation at each visit varied because of the registry nature of
+AWARE. AAS, angioedema activity score; CSU, chronic spontaneous urticaria; UCT, urticaria control test [Colour figure can be viewed at
+
+wileyonlinelibrary.com]
+
+3.5 | Healthcare resource utilization over
+2 years of treatment
+
+Emergency room visits and hospital stays were frequent at baseline
+and reduced at the end of the study: emergency room visits (33.5%,
+n/N = 779/2322 at baseline down to 2.4%, n/N = 7/296 at Month
+24) and hospital stays (24.2%, n/N = 561/2322 at baseline down to
+1.7%, n/N = 5/296 at Month 24). General practitioners and additional
+visits to dermatologists/allergists were seen for CSU symptoms by
+65.0% (n/N = 1510/2322) and 53.1% (n/N = 1232/2322) patients
+at baseline, respectively. At Month 24, 22.3% (n/N = 66/296) and
+23.6% (n/N = 70/296) CSU patients were still consulting additional
+general practitioners and dermatologists/allergists.
+
+3.6 | Work productivity impairment over
+2 years of treatment
+
+Asubstantial improvement of total activity impairment measured by
+the WPAI was seen from 32.5 + 30.1% [N = 2437] at baseline down
+to 12.3 + 21.3% [N = 1069] at Month 24 in CSU patients. Similarly,
+impairment of total work productivity improved from 26.7 + 27.5%
+[N = 1321] down to 10.7 + 18.9% [N = 561] within 2 years. The
+CSU-induced impairment while working (presenteeism) reduced
+from 24.5 + 25.7% [N = 1331] at baseline to 9.4 + 17.4% [N = 562] at
+Month 24. The mean (+ SD) percentage of work time missed (absenteeism) due to CSU was also reduced from 7.3 + 19.7% [N = 1360] to
+2.1 + 10.0% [N = 714] at Month 24.
+MAURER ETAL.
+
+ 
+
+10 | WILEY.
+
+ 
+
+(A) DLQI
+100 6.9 2.8 1.2 1.0
+2 13.4 ae
+5 80 25:3
+& 60
+2
+re) 40
+° 20
+Bs:
+0
+Baseline Month 3 Month 12. Month 24
+n= 2621 1976 1538 1164
+N= 2727 2174 1647 1278
+
+@No effect (0-1)
+m= Moderate effect (6-10)
+mExtremely large (21-30)
+
+© Little effect (2-5)
+mLarge effect (11-20)
+
+(C) AE-QoL
+100 4
+
+42.4
+35.8
+28
+| 1
+0
+
+Baseline Month 3 Month 12 Month 24
+n= 1178 589 487 409
+N= 2727 2174 1647 1278
+
+for) ©
+oO oO
+L L
+
+(mean + SD)
+aN
+oO
+
+AE-Q,0L total score
+
+nN
+Oo
+L
+
+ 
+
+ 
+
+(B) Cu-Q,oL
+100 4
+
+36.1
+24.4
+c : .
+0
+
+Baseline Month 3 Month 12 Month 24
+
+= 1928 1488 1122 824
+= 2727 2174 1647 1278
+
+for) foe]
+oO Oo
+L L
+
+(mean + SD)
+b
+oO
+
+Cu-Q,oL total score
+
+N
+oO
+L
+
+ 
+
+ 
+
+Zs
+
+FIGURE 2 Qol measures: (A) DLQI, (B) CU-Q,oL, and (C) AE-QoL*. n, number of patients where a particular evaluation form was
+available at each visit; N, total number of patients at each visit. "The number of patients with evaluation at each visit varied because of the
+registry nature of AWARE. AAS, angioedema activity score; AE-QoL, angioedema quality of life questionnaire; CU-Q,oL, chronic urticaria
+quality of life questionnaire; DLQI, dermatology life quality index [Colour figure can be viewed at wileyonlinelibrary.com]
+
+3.7 | Treatment pattern over 2 years in
+AWARE study
+
+With regard to medication groups, 17.3% (n/N = 473/2727) of CSU
+patients were treated with approved doses of nsAH (Figure 3), and
+23.2% (n/N = 26/112) of these patients had poorly controlled disease
+(UCT < 12) at month 24. Overall, 22.3% (n/N = 609/2727) of CSU
+patients used up-dosed nsAH (Figure 3), and 41.9% (n/N = 44/105)
+of these patients had an uncontrolled form of the disease at Month
+24. While 32.3% (n/N = 881/2727) of CSU patients were treated
+with omalizumab (Figure 3), 27.1% (n/N = 78/288) of CSU patients
+had uncontrolled disease at Month 24. Of 945 CSU patients who
+received omalizumab during the study, only 34.4% (n = 325) continuously received the drug prior and during the course of study,
+3.1% (n = 29) had only received prior treatment, and 18.3% (n = 173)
+started treatment during the study (no prior treatment). 44.2% of
+
+patients underwent other treatment schemes.
+
+Other treatments, suchas ciclosporin and sedating antihistamines
+(sAH), were rarely used, and none of them were prescribed in more
+than 5% of patients (Figure 3). Interestingly, the non-recommended
+use of “on-demand” nsAH increased from 3.1% (n/N = 85/2727) before enrolment to 12.8% (n/N = 163/1278) at Month 24. The number of patients on “no treatment” was small throughout the study
+and decreased from 37.0% (n/N = 1008/2727) prior enrolment to
+17.9% (n/N = 229/1278) at Month 24. As shown in Figure 4, the majority of the patients requiring treatment due to poorly controlled
+disease at baseline, either continued to receive treatment with nsAH
+or received no treatment at all during subsequent visits.
+
+In some countries (Greece, Portugal, Belgium, Denmark, and
+Norway), patients were frequently escalated to up-dosed nsAH (between 12.8% [n/N = 10/78] in Belgium and 22.0% [n/N = 11/50]
+in Norway) and switched to third-line therapies at high rates (between 79.3% [n/N = 115/145] in Greece and 60.5% [n/N = 46/76]
+in Portugal) (Figure 5). Non-recommended therapies, such as
+MAURER ET AL.
+
+ 
+
+ 
+
+ 
+
+WILEY
+
+ 
+
+100 4 mNo treatment
+» Other
+90 4
+™Ciclosporin
+80 4
+Montelukast
+70 4 = Omalizumab
+= Combination sedative and non-sedative H1<S 604 antihistamines
+x
+o = Sedative H1-antihistamines
+= sp.
+g ™ On demand non-sedative H1-antihistamines
+=)
+8 40 4 m Up-dosed non-sedative H1-antihistamines
+= Approved non-sedative H1-antihistamines
+30 4
+20 4
+10 4
+0
+Prior treatment Baseline Month 3 Month 12 Month 24 Overall
+N= 2727 2727 2174 1647 1278 2727
+
+FIGURE 3 Numbers (and percentages) of patients receiving different treatments at each visit. N, total number of patients at each visit.
+CSU, chronic spontaneous urticaria. Other third-line treatment options (as defined in 2014 guidelines) were rarely used. Prior to AWARE
+enrolment, ciclosporin was prescribed in 2.6% (n = 71) of patients, which reduced to 0.3% (n = 4) at the end of the observational period.
+Similarly, montelukast was prescribed for 3.6% (n = 97) of patients with chronic urticaria before enrolment and prescriptions reduced to
+1.9% (n = 24) at Month 24 (Figure 4). The non-recommended sedative antihistamines were similarly rarely prescribed, with 4.1% before
+enrolment reduced to 3.0% (n = 38) after the 2 years of observational period [Colour figure can be viewed at wileyonlinelibrary.com]
+
+combination of nsAH and sAH, were rarely used and rates of patients reported as receiving “no treatment” were low to none.
+
+In Germany, the United Kingdom, Spain, and Sweden, patients
+were frequently up-dosed to nsAH, but a substantial amount of
+patients were either not up-dosed at all (Germany with 19.4%
+[n/N = 431/2226]) or escalated to off-label third-line therapies
+(montelukast: the United Kingdom 19.8% [n/N = 50/252] and
+Sweden 35.7% [n/N = 10/28]). Escalation to omalizumab varied in
+this group (United Kingdom 20.2% [n/N = 51/252], Sweden 25%
+[n/N = 7/28], Germany 30.9% [n/N = 687/2226], and Spain 44.7%
+[n/N = 122/273).
+
+In France, Italy, and Russia, relatively high rates of patients remained on approved doses of nsAH, despite the fact that they were inadequately controlled with them, with levels of 23.9% [n/N = 22/92],
+27.9% [n/N = 69/247], and 29.1% [n/N = 39/134], respectively.
+Likewise, up-dosing of nsAH was observed less frequently, with
+levels ranging between 14.1% [n/N = 13/92] in France and 17.4%
+[n/N = 43/247] in Italy. Up-dosing to omalizumab occurred in only
+14.2% [n/N = 19/134] (Russia) to 22.8% [n/N = 21/92] (France) of
+cases. The use of montelukast varied between 4.0% [n/N = 10/247]
+(Italy) and 20.9% [n/N = 28/134] (Russia). Additionally, the non-recommended combination of nsAH and sAH was chosen in 4.3%
+[n/N = 4/92] (France) up to 12.6% [n/N = 31/247] (Italy) of patients.
+
+4 | DISCUSSION
+The present study aims to prospectively collect real-world data to
+evaluate disease burden and treatment in CU patients inadequately
+treated with H1-antihistamine. The 2-year results from AWARE in
+Europe confirm that CSU remains undertreated. The baseline demographics and clinical characteristics of patients with CSU documented in the study, in general, are similar to the patient population
+included in omalizumab clinical trials.2”?” Concomitant angioedema
+was reported in almost half of enrolled CU patients within the last six
+months. At baseline, 89.4% and 45% of patients reported hives and
+angioedema, respectively. Although there was improvement in the
+disease condition over time, a substantial proportion of patients continued to have hives and/or angioedema after 2 years. Angioedema
+plays a significant role in the burden of CSU, with a negative impact
+on HR-QoL and is known to drive direct costs.° The frequency of
+CSU with comorbid ClndU has not been well-documented to date;
+however, in this broad observational study, the rate of comorbid
+ClndU in these patients with CSU inadequately controlled with H,antihistamines was 20.6%."
+
+At baseline, patients with CSU were undertreated and had high
+medical resource utilization. Also, 4 of 5 patients had poorly controlled CSU (UCT <12). Nearly 55% of CU patients had at least a
+MAURER ETAL.
+
+ 
+
+ 
+
+ 
+
+100.0 mNo treatment
+Other
+90.0
+=Ciclosporin
+80.0 = Montelukast
+70.0 = Omalizumab
+m Combination sedative and non-sedative H1= 60.0 antihistamines
+= .
+aa = Sedative H1-antihistamines
+=
+2 50.0 ™ On demand non-sedative H1-antihistamines
+a
+a = Up-dosed non-sedative H1-antihistamines
+© 40.0
+= Approved non-sedative H1-antihistamines
+30.0
+20.0
+10.0
+0.0
+<12 212 <12 212 <12 212 <12 212
+N= 1641 463 844 801 468 786 269 667
+Baseline Month 3 Month 12 Month 24
+
+FIGURE 4 Numbers (and percentages) of poorly controlled (UCT <12) well-controlled patients (UCT 212) receiving different treatments
+at each visit. N, total number of patients at each visit. CSU, chronic spontaneous urticaria [Colour figure can be viewed at wileyonlinelibrary.
+
+com]
+
+100 5
+
+ 
+
+40
+
+CU patients (%)
+
+1
+I
+I
+I
+I
+i
+I
+i
+I
+I
+I
+i
+I
+i
+I
+i
+I
+i
+I
+i
+I
+i
+I
+i
+I
+I
+I
+i
+I
+i
+I
+i
+I
+20 4 /
+!
+i
+I
+i
+i
+L
+
+  
+
+ 
+
+ 
+
+    
+
+ 
+
+™No treatment
+= Other
+mCiclosporin
+= Montelukast
+| Omalizumab
+
+™ Combination non-sedative and sedative
+H1-antihistamines
+
+= Sedative H1-antihistamines
+
+mOn demand non-sedative H1antihistamines
+
+mUp-dosed non-sedative H1antihistamines
+
+= Approved non-sedative H1antihistamines
+
+ 
+
+SWE
+
+GRC
+
+PRT
+
+BEL
+
+DNK NOR GER- UK RUS
+
+ESP
+
+FRA
+
+ITA
+
+n=145 n=76 n=78 n=82 n=50 n=2226n=252 n=28 n=273 n=92 n=247 n=134
+
+FIGURE 5. Treatment groups (current medication) by country based on escalation to third-line therapies (2014 EAACI/GA7LEN/EDF/
+WAO guidelines). Results reported for the entire CU population (N = 3683). CU, chronic urticaria. BEL, Belgium; DNK, Denmark; ESP, Spain;
+FRA, France; GER, Germany; GRC, Greece; ITA, Italy; NOR, Norway; PRT, Portugal; RUS, Russia; SWE, Sweden; UK, United Kingdom [Colour
+
+figure can be viewed at wileyonlinelibrary.com]
+MAURER ET AL.
+
+ 
+
+moderate, large, or extremely large impact on their QoL. The CUQ,oL score at baseline confirmed a moderate to high impact of urticaria on patients’ QoL.
+
+The most frequent medications reported prior enrolment were
+CU guideline-recommended nsAHs. According to the 2014 urticaria
+guidelines established at the time of the AWARE study,,° patients
+not responding to first-line (approved dose of nsAH) and second-line
+treatment (up-dosed nsAH) were to be prescribed third-line add-on
+therapy with omalizumab, montelukast, or ciclosporin. Since individual CSU patients differ in their responses to the recommended
+treatment algorithm, the focus of the present study was to evaluate the proportion of patients in different treatment groups and
+their corresponding UCT scores where available. Patients improved
+substantially over the 2-year observational period as evident by all
+investigated objectives, with more than 70% of patients with CSU
+achieving symptom control. A substantial proportion of patients
+had poorly controlled CSU after the two-year period, and after
+being seen by a specialist. As with a previous observational study by
+Curto-Barredo et al? where 32.4% and 17.3% of patients with CSU
+required medical care after 3 and 5 years, respectively, this AWARE
+study shows the necessity of long-term medical case in CSU.
+
+The burden of CSU on HR-QoL was evident from PROs with high
+DLQI and CU-Q,oL scores. Despite treatment and expert care, about
+one in five patients had moderate to extremely large effects on their
+HR-QolL after 2 years. Our results are in agreement with previous studies showing that CSU has a significant impact on QoL of patients, with
+a high rate of emotional burden and psychiatric comorbidities.°°°*
+Unsurprisingly, for a 2-year observation period, CSU patients showed
+high medical resource utilization, with multiple dermatologists and
+general practitioners being involved with patient care.
+
+Our results show that many patients after two years of expert
+care, either receive treatment that does not help them control
+their urticaria or receive no treatment at all. In this study, 23.2%
+of patients with CSU who remained uncontrolled (UCT < 12) with
+nsAH should ideally have at least received up-dosed nsAH in an
+attempt to improve symptoms. Similarly, 41.9% of patients whose
+symptoms were uncontrolled with up-dosed nsAH should have
+received further escalation to a third-line treatment option. Such
+differences in treatments may be attributed to clinicians who do
+not always follow urticaria treatment guidelines and may require
+better acceptance of the guidelines for treatment.°°°” A webbased survey of patients diagnosed with CU in Germany revealed
+that only 40% of symptomatic patients were under physician care,
+with the majority of them choosing to stop their consultations, as
+they felt doctors were unable to help them or that they knew how
+to treat the CU symptoms themselves.°° Similar results on survey
+of patients were reported in Italy.°°> The guidelines recommend
+omalizumab as an add-on treatment (to H,-antihistamines) and
+upon de-escalation patients should stop omalizumab and continue
+H,-antihistamines; however, there appears to be a persistence of
+omalizumab use in patients with withdrawal of other treatments.
+Omalizumab is shown to be safe and effective across randomized
+
+28,29,39 40-44
+
+placebo-controlled trials’ and several real-world studies,
+
+WILEY
+
+with a total patient exposure of 1,328,183 patient years (Novartis
+data on file, Dec 2019).
+
+The strength of this study as a reflection of real-world practice is also its main limitation. There were no pre-defined or randomized group assessments of patients, instead data describing
+the treatment strategy of a patient were assessed on an ongoing
+basis and could also vary during the study. The only inclusion criteria applied, next to the patient providing informed consent and
+age 218 years, were a medically confirmed diagnosis of CU with
+symptoms of more than 2 months and inadequate control with H,antihistamines. No explicit exclusion criteria apart from anticipated
+difficulties in the follow-up of the patient and simultaneous participation in any other clinical urticaria trial were applied. Number
+of patients available for assessment decreased over 2 years primarily due to loss of follow-up. The calculation of percentages
+was based on the valid data per parameter, excluding patients
+with missing values. Patients with complete remission of urticaria
+(14.1%) were also excluded from the analysis. Additional factors
+yielding a selection bias of patients cannot be completely ruled
+out. The observed frequent lack of treatment escalation might
+be related to variability in prescription practices across European
+countries, cost and/or availability of treatment, or tolerability issues—the present study did not systematically collect safety and
+tolerability data; therefore, these factors cannot be excluded. The
+European countries included in this study have unique healthcare
+systems and currently not all guideline-recommended therapies
+are available; for instance, omalizumab was not available in the UK
+during the study period or affordable for all patients with CSU.
+For example, certain countries experience specific reimbursement
+constraints that make it mandatory to stop third-line treatment
+(omalizumab) after a certain period of time. The countries may also
+have local guidelines that can differ from EAACI/GA7LEN/EDF/
+WAO guidelines. In addition, it is also likely that health economic
+factors in different countries might affect prescription practices.
+When interpreting subgroup analyses by country, it has to be
+considered that patient numbers per country varied significantly:
+from 28 patients in Sweden up to 2226 patients in Germany. The
+data obtained within this study were assessed using descriptive
+statistics and were not used for comparative analysis.
+
+The present data from a large patient population likely reflect the
+disease burden and treatment regimens of CU patients in Europe. The
+enormous variability observed in data reflecting healthcare utilization
+and treatment strategies between countries maybe seen as a result of
+different healthcare systems and health economic standards of participating countries. There is a need for improved patient care, physician
+education, and adherence to treatment guidelines for better management of CU. Further studies are needed to understand the differences
+
+between guideline recommendations and reported management.
+
+ACKNOWLEDGEMENTS
+
+The authors thank Sumeet Sood, PhD (Novartis Healthcare Pvt.
+Ltd, Hyderabad) and Martin Wallace, PhD (Novartis Ireland Ltd,
+Dublin) for editorial and medical writing support, which was funded
+MAURER ETAL.
+
+ 
+
+174 | WILEY.
+
+by Novartis Pharma AG, in accordance with the Good Publication
+Practice (GPP3) guidelines (http://www.ismpp.org/gpp3).
+
+CONFLICT OF INTEREST
+
+M. Maurer has received grant/research support and/or honoraria
+for consulting or lectures from Aralez, Allakos, FAES, Genentech,
+Merckle Recordati, Moxie, Novartis, Roche, Sanofi, MSD, UCB,
+Uriach. A. Giménez-Arnau has served as medical advisor for Uriach
+Pharma, Genentech, Novartis, FAES, GSK, Sanofi; received research
+grants supported by Uriach Pharma, Novartis, Grants from Instituto
+Carlos III-FEDER and involved in educational activities for Uriach
+Pharma, Novartis, Genentech, Menarini, LEO Pharma, GSK, MSD,
+Almirall and Sanofi. G. Guillet received a grant from Novartis for this
+study. M. Labrador-Horrillo has received fees for lectures and consulting from Novartis. H. Lapeere received fees for lectures and/or
+consulting from Novartis, Sanofi, Leo pharma and Janssen. S. Savic
+reports personal fees from Novartis; grants, personal fees and other
+from Sobi; grants and personal fees from CSL Behring; personal fees
+from Shire. N. Chapman-Rothe is an employee of Novartis. C. Costa
+
+and R. Meshkova report no conflict of interest.
+
+DATA AVAILABILITY STATEMENT
+
+The data sets generated during and/or analysed during the current
+study are not publicly available. Novartis is committed to sharing with
+qualified external researchers access to patient-level data and supporting clinical documents from eligible studies. These requests are
+reviewed and approved the basis of scientific merit. All data provided
+is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations. The data
+
+may be requested from the corresponding author of the manuscript.
+
+ORCID
+Marcus Maurer © https://orcid.org/O000-0002-4121-481X
+
+Sinisa Savic https://orcid.org/0000-0001-7910-0554
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/EDF/
+WAO guideline for the definition, classification, diagnosis and
+management of urticaria. The 2017 revision and update. Allergy.
+2018;73(7):1393-1414.
+
+2. Fricke J, Avila G, Keller T, et al. Prevalence of chronic urticaria in
+children and adults across the globe: systematic review with meta-analysis. Allergy. 2020;75(2):423-432.
+
+3. Dressler C, Werner RN, Eisert L, Zuberbier T, Nast A, Maurer M.
+Chronic inducible urticaria: a systematic review of treatment options. J Allergy Clin Immunol. 2018;141(5):1726-1734.
+
+4. Sanchez-Borges M, Asero R, Ansotegui IJ, et al. Diagnosis and treatment of urticaria and angioedema: a worldwide perspective. World
+Allergy Organ J. 2012;5(11):125-147.
+
+5. Curto-Barredo L, Riba Archilla L, Roura Vives G, Pujol RM, GimenezArnau AM. Clinical features of chronic spontaneous urticaria that
+predict disease prognosis and refractoriness to standard treatment.
+Acta Derm Venereol. 2018;98(7):641-647.
+
+6. Maurer M, Abuzakouk M, Berard F, et al. The burden of chronic
+spontaneous urticaria is substantial: Real-world evidence from
+ASSURE-CSU. Allergy. 2017;72(12):2005-2016.
+
+10.
+
+11,
+
+12;
+
+13.
+
+14,
+
+45;
+
+16.
+
+17:
+
+18.
+
+19)
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+Maurer M, Staubach P, Raap U, et al. H1-antihistamine-refractory
+chronic spontaneous urticaria: it's worse than we thought - first
+results of the multicenter real-life AWARE study. Clin Exp Allergy.
+2017;47(5):684-692.
+
+Sussman G, Abuzakouk M, Berard F, et al. Angioedema in chronic
+spontaneous urticaria is underdiagnosed and has a substantial impact: analyses from ASSURE-CSU. Allergy. 2018;73(8):1724-1734.
+Guillen-Aguinaga S, Jauregui Presa |, Aguinaga-Ontoso E, GuillenGrima F, Ferrer M. Updosing nonsedating antihistamines in patients
+with chronic spontaneous urticaria: a systematic review and meta-analysis. Br J Dermatol. 2016;175(6):1153-1165.
+
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/EDF/
+WAO guideline for the definition, classification, diagnosis, and
+management of urticaria: the 2013 revision and update. Allergy.
+2014;69(7):868-887.
+
+Weller K, Viehmann K, Brautigam M, et al. Management of chronic
+spontaneous urticaria in real life-in accordance with the guidelines?
+A cross-sectional physician-based survey study. J Eur Acad Dermatol
+Venereol. 2013;27(1):43-50.
+
+Maurer M, Houghton K, Costa C, et al. Differences in chronic spontaneous urticaria between Europe and Central/South America:
+results of the multi-center real world AWARE study. World Allergy
+Organ J. 2018;11(1):32.
+
+Maurer M, Metz M, Bindslev-Jensen C, et al. Definition, aims, and
+implementation of GA(2) LEN Urticaria Centers of Reference and
+Excellence. Allergy. 2016;71(8):1210-1218.
+
+Weller K, Schoepke N, Krause K, Ardelean E, Brautigam M, Maurer
+M. Selected urticaria patients benefit from a referral to tertiary care
+centres-results of an expert survey. J Eur Acad Dermatol Venereol.
+2013;27(1):e8-e16.
+
+Maurer M, Raap U, Staubach P, et al. Antihistamine-resistant
+chronic spontaneous urticaria: 1-year data from the AWARE study.
+Clin Exp Allergy. 2018;49(5):655-662.
+
+Hawro T, Ohanyan T, Schoepke N, et al. The Urticaria activity
+score-validity, reliability, and responsiveness. J Allergy Clin Immunol
+Pract. 2018;6(4):1185-90.e1.
+
+Hawro T, Ohanyan T, Schoepke N, et al. Comparison and interpretability of the available urticaria activity scores. Allergy.
+2018;73(1):251-255.
+
+Hollis K, Proctor C, McBride D, et al. Comparison of Urticaria
+Activity Score Over 7 Days (UAS7) values obtained from once-daily
+and twice-daily versions: results from the ASSURE-CSU study. Am J
+Clin Dermatol. 2018;19(2):267-274.
+
+Finlay AY, Kaplan AP, Beck LA, et al. Omalizumab substantially
+improves dermatology-related quality of life in patients with
+chronic spontaneous urticaria. J Eur Acad Dermatol Venereol.
+2017;31(10):1715-1721.
+
+Mlynek A, Magerl M, Hanna M, et al. The German version of the
+Chronic Urticaria Quality-of-Life Questionnaire: factor analysis, validation, and initial clinical findings. Allergy. 2009;64(6):
+927-936.
+
+Weller K, Groffik A, Magerl M, et al. Development and construct
+validation of the angioedema quality of life questionnaire. Allergy.
+2012;67(10):1289-1298.
+
+Weller K, Magerl M, Peveling-Oberhag A, Martus P, Staubach P,
+Maurer M. The Angioedema Quality of Life Questionnaire (AE-QoL)
+- assessment of sensitivity to change and minimal clinically important difference. Allergy. 2016;71(8):1203-1209.
+
+Ohanyan T, Schoepke N, Bolukbasi B, et al. Responsiveness and
+minimal important difference of the urticaria control test. J Allergy
+Clin Immunol. 2017;140(6):1710-1713.
+
+Weller K, Groffik A, Church MK, et al. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol.
+2014;133(5):1365-1372, 72.e1-6.
+MAURER ET AL.
+
+ 
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+Reilly MC, Zbrozek AS, Dukes EM. The validity and reproducibility of a work productivity and activity impairment instrument.
+Pharmacoeconomics. 1993;4(5):353-365.
+
+Weller K, Groffik A, Magerl M, et al. Development, validation,
+and initial results of the Angioedema Activity Score. Allergy.
+2013;68(9):1185-1192.
+
+Casale TB, Bernstein JA, Maurer M, et al. Similar efficacy with omalizumab in chronic idiopathic/spontaneous urticaria despite different
+background therapy. J Allergy Clin Immunol Pract. 2015;3(5):743-50.
+el.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria
+despite standard combination therapy. J Allergy Clin Immunol.
+2013;132(1):101-109.
+
+Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria. N Engl J Med.
+2013;368(10):924-935.
+
+Lewis V, Finlay AY. 10 years experience of the Dermatology
+Life Quality Index (DLQI). J Investig Dermatol Symp Proc.
+2004;9(2):169-180.
+
+Grob JJ, Revuz J, Ortonne JP, Auquier P, Lorette G. Comparative
+study of the impact of chronic urticaria, psoriasis and atopic dermatitis on the quality of life. Br J Dermatol. 2005;152(2):289-295.
+O'Donnell BF, Lawlor F, Simpson J, Morgan M, Greaves MW. The
+impact of chronic urticaria on the quality of life. Br J Dermatol.
+1997;136(2):197-201.
+
+Staubach P, Eckhardt-Henn A, DecheneM, et al. Quality of life in patients with chronic urticariais differentially impaired and determined
+by psychiatric comorbidity. Br J Dermatol. 2006;154(2):294-298.
+Engin B, Uguz F, Yilmaz E, Ozdemir M, Mevlitoglu |. The levels of
+depression, anxiety and quality of life in patients with chronic idiopathic urticaria. J Eur Acad Dermatol Venereol. 2008;22(1):36-40.
+Cappuccio A, Limonta T, Parodi A, et al. Living with chronic spontaneous urticaria in Italy: a narrative medicine project to improve the
+pathway of patient care. Acta Derm Venereol. 2017;97(1):81-85.
+Cherrez A, Maurer M, Weller K, Calderon JC, Simancas-Racines D,
+Cherrez Ol. Knowledge and management of chronic spontaneous
+urticaria in Latin America: a cross-sectional study in Ecuador. World
+Allergy Organ J. 2017;10(1):21.
+
+Maspero JF, Stigliano |, Bianculli P, Molinas JL, Ardusso LRF.
+Translating Chronic Urticarial Guidelines to Clinical Practice: a
+study assessing how allergists and dermatologists apply guidelines recommendations in Argentina. J Allergy Clin Immunol.
+2017;139(2):AB248.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+WILEY
+
+Maurer M, Staubach P, Raap U, Richter-Huhn G, Baier-Ebert
+M, Chapman-Rothe N. ATTENTUS, a German online survey of
+patients with chronic urticaria highlighting the burden of disease, unmet needs and real-life clinical practice. Br J Dermatol.
+2016;174(4):892-894.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and safety of
+omalizumab in patients with chronic idiopathic/spontaneous urticaria who remain symptomatic on H1 antihistamines: a randomized,
+placebo-controlled study. J Invest Dermatol. 2015;135(1):67-75.
+Labrador-Horrillo M, Valero A, Velasco M, et al. Efficacy of omalizumab in chronic spontaneous urticaria refractory to conventional
+therapy: analysis of 110 patients in real-life practice. Expert Opin
+Biol Ther. 2013;13(9):1225-1228.
+
+Thomsen SF, Pritzier EC, Anderson CD, et al. Chronic urticaria in the
+real-life clinical practice setting in Sweden, Norway and Denmark:
+baseline results from the non-interventional multicentre AWARE
+study. J Eur Acad Dermatol Venereol. 2017;31(6):1048-1055.
+
+Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an effective and rapidly acting therapy in difficult-to-treat chronic urticaria:
+a retrospective clinical analysis. J Dermatol Sci. 2014;73(1):57-62.
+Rottem M, Segal R, Kivity S, et al. Omalizumab therapy for chronic
+spontaneous urticaria: the Israeli experience. Israel Med Assoc J.
+2014;16(8):487-490.
+
+Sussman G, Hébert J, Barron C, et al. Real-life experiences with
+omalizumab for the treatment of chronic urticaria. Ann Allergy
+Asthma Immunol. 2014;112(2):170-174.
+
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the
+
+Supporting Information section.
+
+How to cite this article: Maurer M, Costa C, Gimenez Arnau A,
+et al. Antihistamine-resistant chronic spontaneous urticaria
+remains undertreated: 2-year data from the AWARE study. Clin
+Exp Allergy. 2020;50:1166-1175. https://doi.org/10.1111/
+cea.13716
+

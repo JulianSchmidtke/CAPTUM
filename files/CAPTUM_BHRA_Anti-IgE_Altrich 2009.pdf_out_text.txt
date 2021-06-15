@@ -1,0 +1,888 @@
+Comparison of the in vivo autologous skin test with in vitro
+diagnostic tests for diagnosis of chronic autoimmune
+urticaria
+
+Michelle L. Altrich, Ph.D.,* John F. Halsey, Ph.D.,* and Leonard C. Altman, M.D.#
+
+ABSTRACT
+
+Previous studies indicate that 30-50% of chronic urticaria patients have an autoimmune etiology. Clinical diagnosis of
+autoimmune urticaria is supported with the autologous serum skin test. The purpose of this study was to compare two
+laboratory tests for measurement of IgG autoantibodies to IgE or IgE receptors and compare the results with the autologous
+serum and plasma skin tests. We performed skin tests and two functional in vitro tests, basophil histamine release, and CD63
+up-regulation to detect autoantibodies relevant to autoimmune urticaria. Both sera and citrated plasma were evaluated in the
+autologous skin test and histamine release assay. Thyroid autoantibodies were also measured. Basophils were incubated with
+patient plasma, sera, buffer, or anti-IgE. The cells were analyzed for CD63 expression and the supernatants were recovered for
+histamine analysis. There was high correlation between CD63 up-regulation and histamine release assays, but histamine release
+was more sensitive. There was a high concordance between sera and citrated plasma for the skin test. Sera from chronic urticaria
+patients produced higher mean histamine release (23%) compared with citrated plasma (12%). Thirty-one percent of patients
+positive in the histamine release assay were also positive for thyroid autoantibodies. This compares with 12% who were negative
+in the histamine release assay. These data show that in vitro basophil histamine release can be used to measure antibodies to
+FceRI, FceRU/CD23, or IgE and identify patients with autoimmune urticaria.
+
+(Allergy Asthma Proc 30:28-34, 2009; doi: 10.2500/aap.2009.30.3185)
+
+Key words: Anti-FceR, autoantibodies, autoimmune, autologous skin test, basophil, CD63, chronic urticaria,
+histamine release test, in vivo test, thyroid autoantibodies
+
+hronic urticaria is a common skin disorder affect
+ing 0.1-1% of the general population. It is characterized by recurrent, transitory, pruritic erythematous wheals present for at least 6 weeks.” Although
+chronic urticaria is not life-threatening, it can adversely
+affect a patient’s quality of life. One report relates the
+stress from chronic urticaria as equivalent to that of a
+patient waiting for bypass surgery and indicates that
+chronic urticaria affects the quality of life in multiple
+areas including work, social life, home relationships,
+and_hobbies.** Although chronic urticaria primarily
+affects adults, recent reports document that it is also
+prevalent in children.*° Although the cause of urticaria
+is often unclear; multiple investigators have indicated
+
+ 
+
+From *IBT Laboratories, Lenexa, Kansas, and #Division of Allergy and Infectious
+Diseases, Department of Medicine, University of Washington and Northwest Asthma
+and Allergy Center, Seattle Washington
+
+Presented in part (poster presentations) at the 2007 meeting of the Western Society of
+Allergy, Asthma, and Immunology, Wailea, Hawaii, January 2007, the 2007 meeting
+of the American Academy of Allergy, Asthma, and Immunology, San Diego, California, February 2007 and the 2008 Combined Meeting on Allergy, Asthma, and
+Immunology, Puerta Vallarta, Mexico, January 2008
+
+Funding: IBT Laboratories
+
+All study participants provided informed consent
+
+Address correspondence and reprint requests to Michelle Altrich, Ph.D., IBT Laboratories, 11274 Renner Boulevard, Lenexa, KS 66219
+
+E-mail address: michellea@ibtlabs.com
+
+Copyright © 2009, OceanSide Publications, Inc., U.S.A.
+
+ 
+
+28
+
+an autoimmune etiology in 30-50% of chronic urticaria
+patients.”-'9 Recent evidence has also suggested that
+the basophils in patients with chronic urticaria may be
+disregulated.'4~'®
+
+The first reports of autoimmune chronic urticaria
+were indirect. In the 1960s there were reports that
+antibody-antigen interactions could cause basophil/
+mast cell degranulation.'” Moreover, an association between chronic urticaria and autoimmune thyroid disease has been recognized since the early 1980s.7°?!
+Specifically, it has been shown that a higher percentage
+of patients with chronic urticaria show autoantibodies
+against either thyroid peroxidase (TPO) or thyroglobulin (Tg)” than a normal healthy population. There is
+also evidence that HLA DRB4 class II alleles may predispose individuals to autoimmune chronic urticaria.?*
+
+The earliest direct evidence for autoimmune chronic
+urticaria comes from studies that showed that the injection of patient serum into the dermis of the skin
+caused a wheal and flare response. This in vivo test, the
+autologous serum skin test (ASST), was first used in
+the 1940s to diagnose autoimmune chronic urticaria.”*
+A later report found that this response was only detected if the disease was active.?°”° The active factor in
+the serum was shown to be heat stable at 56°C. Subsequent work identified the serum factor as an IgG autoantibody, which, in most cases, was directed against
+
+January-February 2009, Vol. 30, No. 1
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+the IgE receptor on cutaneous mast cells and less frequently to IgE itself.2”-3! A recent report by Asero ef al.
+suggested that the autologous plasma skin test (APST)
+was a more sensitive assay than the ASST for detecting
+autoantibodies in chronic urticaria. This report has
+not been confirmed by others.
+
+Detailed analysis has shown that the antireceptor
+autoantibodies bind to either the a2-subunit of the IgE
+receptor and compete with IgE for binding or to the
+al-subunit, in which case they are noncompetitive.
+Other studies have suggested that only IgG1 and IgG3.
+subclasses are responsible for autoimmune chronic urticaria and that complement activation is involved.
+IgG1 and IgG3 are efficient in activating the complement cascade leading to C5a generation and this peptide is a potent histamine releaser from mast cells.°°
+
+Performance of the ASST is time-consuming and requires an on-site laboratory to prepare the serum and
+experience performing immediate allergy skin testing.
+There is also a risk of injecting the wrong serum into a
+patient. Therefore, the availability of a commercial in
+vitro diagnostic test would facilitate the diagnosis of
+autoimmune chronic urticaria. In vitro assays for the
+diagnosis of autoimmune chronic urticaria have been
+used for several years but heretofore have only been
+available in research facilities. One obstacle that has
+slowed the development of routine clinical tests for
+autoimmune chronic urticaria is the lack of a gold
+standard test to establish positive and negative predictive values. Some consider the ASST to be that standard; and others feel the basophil histamine test should
+be considered the gold standard.
+
+These prior research studies used both donor mast
+cells and basophils to look for autoantibodies in patient
+sera. In addition, basophils from both atopic and
+nonatopic donors have been used and some reports
+indicate that basophils from atopic donors are more
+sensitive.°° Initial experiments used histamine release
+to measure the degree of basophil activation, hence, the
+presence of autoantibodies. More recently, up-regulation of basophil surface activation markers CD63 or
+CD208c has been used.°3°-°?
+
+In the current study we compared two in vivo and
+two in vitro diagnostic tests for autoimmune chronic
+urticaria. The in vivo autologous skin test compared
+both serum and citrated plasma, and the in vitro tests
+compared histamine release with CD63 up-regulation.
+We also evaluated thyroid function and antithyroid
+autoantibody levels in the same group of chronic urticaria patients.
+
+We found a high degree of concordance with serum
+and plasma in the autologous skin test, but a higher
+percentage of histamine release with serum. In vitro,
+histamine release and CD63 were both useful in the
+diagnosis of autoimmune chronic urticaria, but histamine release was more sensitive. Similar to other in
+ 
+
+Allergy and Asthma Proceedings
+
+vestigations, we found that chronic urticaria patients
+had a higher incidence of thyroid autoantibodies. This
+study indicates that serum and plasma are comparable
+for in vivo skin testing but serum is better than plasma
+for performing in vitro assays. Furthermore, in vitro
+basophil histamine release is a useful diagnostic test for
+confirming the diagnosis of autoimmune chronic urticaria.
+
+METHODS
+
+Patients and Controls
+
+One hundred one patients from an allergy practice
+who fit established criteria for chronic urticaria and 11
+healthy controls were selected for study. Patients had
+no identifiable trigger in any case. Patients had autologous skin testing performed and serum and plasma
+samples were taken for in vitro analysis. Controls were
+not skin tested but provided specimens for use in vitro.
+All study participants provided informed consent.
+
+Skin Testing
+
+To perform the ASST and APST, 50 wL of autologous
+serum (ASST) or plasma (APST) was injected intradermally into the patient’s forearm. Equal volumes of
+histamine (0.10 mg/mL; Hollister-Stier Laboratories,
+Spokane, WA) and saline served as the positive and
+negative controls. Immediately after injection the sizes
+of the wheal and flare in millimeters at each site were
+recorded. Measurements were made again after 15
+minutes, and in some individuals readings were also
+taken at 30 minutes. In preliminary studies skin tests
+were read at 15, 30, and 60 minutes. All positive reactions were observed within 30 minutes and longer
+observation did not alter the results. A positive result
+was defined as an increase in the wheal reaction size of
+>3 mm with no change or reduction in size of the
+saline control.
+
+In Vitro Autoimmune Chronic Urticaria Testing
+
+CD63 Up-Regulation. Sodium heparinized whole
+blood collected from a single nonatopic donor was
+used as a source of basophils throughout the study.
+Basophils were enriched by an initial slow 200 x g
+centrifugation; the plasma and buffy coat were removed and centrifuged at 500 x g. After the second
+centrifugation, the plasma was discarded. The enriched basophil preparation was diluted in stimulation
+buffer containing IL-3 (FLOW CAST kit; ALPCO, Salem, NH) and incubated with either patient sera, a
+buffer control, or anti-FceRIa (FLOW CAST kit) as a
+positive control for 30 minutes at 37°C. Cells were
+stained with anti-IgE fluorescein isothiocyanate and
+anti-CD63 phycoerythrin (FLOW CAST kit) and analyzed on the FC500 (Beckman Coulter, Fullerton, CA).
+
+29
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+Basal level of CD63 expression was determined with
+the negative control.
+
+Histamine Release. Enriched basophils prepared as
+described previously were diluted in stimulation
+buffer containing IL-3 and incubated with patient or
+control sera or plasma, buffer control, or anti-IgE (2
+g/mL; Beckman Coulter) as a positive control for 30
+minutes in a 37°C water bath. The cells were then
+centrifuged and the supernatants were recovered. Two
+aliquots of cells were lysed by three rounds of freeze
+and thaw for determination of total histamine content.
+Using a quantitative enzyme immunoassay (Beckman
+Coulter), the histamine released into the supernatant
+was measured and compared to the total histamine in
+the basophils to generate a percent histamine release.
+
+Thyroid Autoantibody Measurement
+
+Levels of serum antibodies against TPO and Tg were
+measured on the Immulite 2000 (Siemens, Los Angeles,
+CA). Normal reference values were based on manufacturer’s recommendation. Normal values are <35
+IU/mL for anti-TPO and <40 IU/mL for anti-Tg. Thyroid stimulating hormone (TSH) levels in serum were
+measured using the Rapid TSH kit (Siemens) also on
+the Immulite 2000. For this method the normal reference range is between 0.4 and 4.0 mIU/mL.
+
+Statistics
+
+Regression analysis was used to compare the CD63
+and histamine assays. Technologists who performed
+the in vitro assays were blinded to the skin test results.
+
+RESULTS
+
+Comparison between Histamine Release and CD63
+Up-Regulation
+
+A single donor was used for the studies illustrated in
+this article. The donor went through a qualification
+process before his basophils were selected for in vitro
+assays. Initially, donor basophils were incubated with
+a panel of control (nonchronic urticaria) sera and the
+positive control, anti-IgE. To qualify the donor’s basophils for testing, the cells had to show low percent
+histamine release and CD63 expression when incubated with control sera and high percent histamine
+release and CD63 expression in response to anti-IgE.
+
+A positive result in each test was based on the mean
+plus two standard deviations of a control population.
+For the histamine release assay the mean plus two
+standard deviations was 12.9% and 16.4% for CD63.
+Validation of the histamine release assay showed an
+intra-assay variability of 8% and an inter-assay variability of 5.3%. Sera from ASST* chronic urticaria (CU)
+patients (n = 24) produced a mean histamine release of
+28.4% compared with 9.5% with sera from ASST” CU
+
+30
+
+A 100
+
+90 ‘
+
+80
+g °
+3 fo ASST+ @
+e& 60 ASST- o
+
+trol
+
+g 0 $ o control
+E R
+g§ 40 €
+= 30 o
+x = Qo
+
+20 +
+
+2
+
+i ee:
+
+a A
+B 100
+
+90 + ry
+
+80 4
+5 ° ASST+ @
+2 704 asst- O
+3 co 4 control A
+Q °
+B 50) oO
+s °
+8 40 +
+oO 305 o
+xs ee
+
+20 4
+
+yg =] aA
+aa ®« =H =
+
+ 
+
+Figure 1. Autologous serum skin test—positive (ASST*) chronic
+urticaria patients show higher reactivity in basophil histamine
+release and CD63 up-regulation assays. Using donor basophils
+from a single atopic donor, sera from chronic urticaria patients
+(ASST* and ASST”) and normal controls were evaluated in the
+(A) histamine release assay and the (B) CD63 up-regulation assay (B).
+
+patients (1 = 7) and 4.8% with control sera (n = 11; Fig.
+1A). Similarly, ASST CU patient sera caused 21.4% of
+donor basophils to up-regulate CD63, compared with
+11.9% for ASST” CU sera and 9.0% for control sera
+(Fig. 1 B). In this study, 55% of ASST* CU and 14% of
+ASST” CU patients were positive in the histamine
+release assay; while 44% of ASST* CU and 14% of
+ASST” CU patients were positive in the CD63 assay.
+Although the correlation coefficient between the results of the two assays was low (7 = 0.54; Fig. 2), the
+concordance (positive versus negative) was higher
+(75%; Table 1). The histamine release assay showed
+higher sensitivity.
+
+Comparison between ASST and APST
+
+A recent report suggested that performing the autologous skin test with citrated plasma rather than serum
+resulted in a higher percentage of positive results.°* We
+evaluated 65 chronic urticaria patients with both the
+ASST and the APST. We found a very high 87.7%
+(57/65) correlation between the two methods of skin
+
+January-February 2009, Vol. 30, No. 1
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+60 ASST+ @
+ASST- O
+40 control &
+
+% Histamine release
+
+ 
+
+ 
+
+0 10 20 30 40 50 60 70 80 90 100
+% IgE+ CD63+ cells
+Figure 2. Comparison between histamine release and CD63 upregulation as in vitro diagnostic tests for autoimmune chronic
+urticaria. Donor basophils from a single atopic donor were incubated with sera from chronic urticaria patients autologous serum
+skin test (ASST* and ASST~) and normal controls and evaluated
+in the histamine release assay and the CD63 up-regulation assay.
+
+Table 1 Comparison between two in vitro assays
+
+CD63 Up-Regulation
+
+ 
+
+ 
+
+ 
+
+Positive Negative
+Histamine release
+Positive 28% 16%
+Negative 9% A7T%
+
+ 
+
+Table 2 Comparison between the ASST and APST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASST
+Positive Negative
+APST
+Positive 31 Vi
+Negative il 26
+n = 65.
+
+APST = autologous plasma skin test; ASST = autologous
+serum skin test.
+
+ 
+
+testing (Table 2). Thirty-one or 47.7% of patients were
+positive on both the ASST and the APST; 26 or 40% of
+patients were negative on both tests. Only 8 patients
+(12.3%) were positive on one test and negative on the
+other. This suggests that either serum or citrated
+plasma can be used in the autologous skin test.
+
+Comparison between Serum and Plasma in the
+Histamine Release Assay
+
+Using basophils from a single nonatopic donor, we
+extended our comparison between serum and citrated
+
+Allergy and Asthma Proceedings
+
+100
+
+ 
+
+— 80 Oo
+£ o
+8
+2
+ra)
+o
+8 }
+8 ‘ ASSTF®
+2 4 @ ASST-g
+5 Q
+a a ry
+= 0
+° ibd o
+rs wf”,
+
+ 
+
+0 20 40 60 80 100
+‘% Histamine release (serum)
+Figure 3. Sera from chronic urticaria patients’ causes higher levels
+of basophil histamine release compared with plasma. Using donor
+basophils from a single atopic donor, serum and plasma from
+chronic urticaria patients were used as stimulants in the histamine
+release assay (p < 0.01).
+
+plasma to the histamine release test. Serum induced a
+mean histamine release of 22.7%, and citrated plasma
+induced a mean histamine release of only 11.5% (p <
+0.01). This lower mean percentage of histamine release
+with citrated plasma also resulted in a lower percentage of samples that were scored positive; 41.5% of
+serum samples resulted in a positive result compared
+with only 20% with citrated plasma. Figure 3 is a
+graphic representation of these data. This indicates that
+functional autoantibodies can be detected with both
+serum and citrated plasma; however, serum is the better specimen and the only specimen accepted for clinical testing.
+
+Correlation between Autoimmune Thyroid Disease
+and Chronic Urticaria
+
+Previous studies have found a higher occurrence of
+autoimmune thyroid disease in chronic urticaria patients compared with healthy controls.”” In this study
+we measured the levels of anti-Tg, anti-TPO, and TSH
+in a subset of chronic urticaria patients. A greater percentage of patients that tested positive in the histamine
+release assay had thyroid autoantibodies (Table 3). The
+presence of these autoantibodies did not result in abnormal TSH levels in most patients. This indicates that
+patients remained euthyroid despite the presence of
+circulating thyroid autoantibodies. The same correlation held true when patients were grouped based on
+reactivity in the ASST (Table 3).
+
+31
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+ 
+
+Table 3. Thyroid status in HR* and HR™ and ASST* and ASST™ chronic urticaria patients
+
+ 
+
+ 
+
+HR* (n = 24) HR™ (n = 40) ASST* (n = 27) ASST™ (n =29)
+Anti-TPO 33.3% 10.0% 25.9% 13.8%
+Anti-Tg 20.8% 0.0% 18.5% 0.0%
+Abnormal TSH 4.2%* 5% 7A%* 3.4%
+
+ 
+
+*One patient had low TSH levels.
+
+ASST = autologous serum skin test; HR = histamine release; Tg = thyroglobulin; TPO = thyroid peroxidase; TSH = thyroid
+
+stimulating hormone.
+
+ 
+
+DISCUSSION
+
+Chronic urticaria is a difficult disease in which to
+establish the etiology. A major advance in recent years
+has been the recognition that 30-50% of chronic urticaria patients have an underlying autoimmune disease
+causing the disorder.” However, diagnosis of the
+autoimmune form has been limited to specialty clinics
+with in-house laboratories able to perform the autologous skin test and university research groups that are
+capable of performing in vitro testing to identify relevant autoantibodies. This has left a deficit in routine
+clinical practice. Here, we describe the standardization
+of the in vitro histamine release test for use in routine
+diagnostic testing. Also, we compared the use of serum
+and plasma for performing in vivo and in vitro tests and
+verified previous reports that document elevated thyroid autoantibodies in patients with chronic urticaria.
+
+Our results extend the findings of other groups indicating that in vitro functional tests can be used in the
+diagnosis of autoimmune chronic urticaria.'’!* Our
+results agree with others in the literature and an imperfect correlation between in vitro functional tests and
+the results of the ASST test. The reason for these differences is unclear. One explanation may be that the
+skin test measures the response of mast cells, whereas
+the in vitro assays use basophils.’ It is interesting to
+note that patients with chronic urticaria have involvement of skin mast cells but have less involvement of
+other tissue mast cells such as those in the lung and
+gastrointestinal tract.
+
+Both histamine release and CD63 up-regulation are
+useful assays to measure the activation of donor basophils. However, because of the availability of a standardized histamine ELISA, the ease of batching samples and a better concordance of histamine release and
+ASST results rather than CD63 up-regulation and
+ASST results, we have standardized the histamine
+ELISA for commercial use. In this study we also performed further analysis comparing citrated plasma
+and serum as specimens for use in the assay. Our data
+indicate that both specimens can induce histamine release from donor basophils; however, serum results in
+a higher percentage of positive results. The reason for
+this difference is not clear.
+
+ 
+
+ 
+
+32
+
+When comparing serum and citrated plasma in the in
+vivo autologous skin test we found a high 87.7% concordance between the matched sets of specimens. This
+is in contrast to a recent report from Asero et al. suggesting that the use of citrated plasma was more sensitive in detecting autoantibodies against IgE and/or
+IgE receptors.*? We have no clear explanation why
+there is a discrepancy between the Asero study and
+ours; however, our finding agrees with most of the
+published literature that used serum to perform this
+test. The presence of the citrate in the plasma may
+increase the threshold necessary for histamine release
+in the donor basophils. It appears that either serum or
+citrated plasma can be used in the skin test to diagnose
+autoimmune chronic urticaria.
+
+It may also be useful to evaluate all patients with
+chronic urticaria for thyroid function and thyroid-specific autoantibodies. Previous studies”* have shown a
+higher frequency of thyroid-specific autoantibodies in
+chronic urticaria patients when compared with the
+general population and our data show that a higher
+percentage of patients with autoimmune chronic urticaria, confirmed either with a skin or in vitro test, have
+thyroid antibodies than chronic urticaria patients with
+negative skin or histamine release tests. This does not
+suggest a cause and effect relationship between autoimmune chronic urticaria and autoimmune thyroid
+disease. It more likely suggests that individuals that
+are predisposed to one autoimmune disease are at risk
+of other types of autoimmune pathology. Although
+most patients with thyroid autoantibodies are euthyroid, there are isolated case reports of chronic urticaria
+patients improving with thyroxin treatment.°” Furthermore, the detection of thyroid autoantibodies may precede the development of hypothyroidism and this test
+can serve as a marker to be followed serially over time.
+
+Diagnosis of autoimmune chronic urticaria is important in clinical practice. First, it gives the patient peace
+of mind by understanding the etiology of their disease.
+Second, it should reduce the use of allergy skin tests to
+foods or aeroallergens that are often incorrectly identified as causal factors. In addition, by providing a
+mechanistic explanation it should eliminate unproven
+treatments such as rotation diets, food elimination tri
+January-February 2009, Vol. 30, No. 1
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+als, and preservative and dye-free diets. For the same
+reason, the test result may prevent patients from
+searching for treatments from alternative practitioners.
+Patients with chronic urticaria may require immunomodulatory therapy such as cyclosporine, methotrexate, or hydroxyc! hloroquine.**~*° These medications
+can be used if patients fail to respond to front-line
+treatment with non- or low-sedating antihistamines
+such as cetirizine, levocetirizine,’”** fexofenadine,*” loratadine,° desloratadine,*! or sedating antihistamine
+such as hydroxine or doxapim even at higher than
+recommended doses.** Cyclosporine has been studied
+extensively with chronic urticaria patients in combination with antihistamines. A double-blind study with
+ASST" patients found significant benefit with the use
+of 4 mg/kg of daily cyclosporine.*! Cyclosporine has
+also been shown to be effective in ASST* patients at
+doses of 2.5-5 mg/kg.*?4
+
+Methotrexate***> and hydroxychloroquine*® have
+also been shown to be effective in limited studies. In
+clinical practice, weekly pulse therapy with methotrexate has been beneficial in producing control and/or
+complete remission in ~70% of patients.’° The drug is
+given weekly starting at 7.5 mg the Ist week and 15 mg
+each week thereafter. Once control is complete, antihistamines should be gradually reduced and stopped,
+and if the patient is symptom free without antihistamines, methotrexate can be reduced by 2.5 mg weekly.
+Hydroxychloroquine has also been used with benefit,
+but controlled studies are lacking. The usual adult dose
+is 200 mg twice daily.
+
+Many physicians now recognize autoimmune urticaria as a distinct subgroup of chronic urticaria patients and exclude them from the “idiopathic” category. Practicing allergists report that the determination
+of an autoimmune etiology is clinically helpful because, as mentioned, it reduces the need for extensive
+testing in search of an exogenous cause and, ultimately, may reduce unnecessary laboratory testing. In
+addition, immunomodulatory drugs may be initiated
+sooner in chronic urticaria patients who are known to
+have an autoimmune process. For these reasons, a
+widely available in vitro test to identify the autoantibodies to FceRI, IgE, or FceRII/CD23 should be very
+useful to all physicians treating patients with chronic
+urticaria.
+
+ 
+
+REFERENCES
+1. Greaves M. Chronic urticaria. J Allergy Clin Immunol 105:664—
+672, 2000.
+
+2. Greaves MW, and Tan KT. Chronic urticaria: Recent advances.
+Clin Rev Allergy Immunol 33:134-143, 2007.
+
+3. O'Donnell BF, Lawlor F, Simpson J, et al. The impact of chronic
+urticaria on the quality of life. Br J] Dermatol 136:197-201, 1997.
+
+4. Weldon DR. Quality of life in patients with urticaria. Allergy
+Asthma Proc 27:96-99, 2006.
+
+Allergy and Asthma Proceedings
+
+10.
+
+Es,
+
+125
+
+13.
+
+14.
+
+45.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22,
+
+23.
+
+24.
+
+26.
+
+Brunetti L, Francavilla R, Miniello VL, et al. High prevalence of
+autoimmune urticaria in children with chronic urticaria. J Allergy Clin Immunol 114:922-927, 2004.
+
+Du Toit G, Prescott R, Lawrence P, et al. Autoantibodies to the
+high-affinity IgE receptor in children with chronic urticaria.
+Ann Allergy Asthma Immunol 96:341-344, 2006.
+
+Tong LJ, Balakrishnan G, Kochan JP, et al. Assessment of autoimmunity in patients with chronic urticaria. J Allergy Clin
+Immunol 99:461—465, 1997.
+
+Ferrer M, Kinet JP, and Kaplan AP. Comparative studies of
+functional and binding assays for IgG anti-FceRIa (a-subunit)
+in chronic urticaria. J Allergy Clin Immunol 101:672-676, 1998.
+Frieri M, and Madden J. Chronic steroid resistant urticaria. Ann
+Allergy 70:1, 1993.
+
+Puccetti A, Bason C, Simeoni S, et al. In chronic idiopathic
+urticaria autoantibodies against FceRII/CD23 induce histamine
+release via eosinophil activation. Clin Exp Allergy 35:1599—
+1607, 2005.
+
+Soundararajan S, Kikuchi Y, Joseph K, et al. Functional assessment of pathogenic IgG subclasses in chronic autoimmune urticaria. J Allergy Clin Immunol 115:815-821, 2005.
+
+Platzer MH, Grattan CEH, Poulsen LK, et al. Validation of
+basophil histamine release against the autologous serum skin
+test and outcome of serum-induced basophil histamine release
+studies in a large population of chronic urticaria patients. Allergy 60:1152-1156, 2005.
+
+Schocket AL. Chronic urticaria: Pathophysiology and etiology,
+or the what and why. Allergy Asthma Proc 27:90-95, 2006.
+Vonakis BM, Vasagar K, Gibbons SP Jr, et al. Basophil FceRI
+histamine release parallels expression of SH2-containing inositol phosphatases in chronic idiopathic urticaria. J Allergy Clin
+Immunol 119:441—448, 2007.
+
+Eckman JA, Hamilton, RG, Gober LM, et al. Basophil phenotypes in chronic idiopathic urticaria in relation to disease activity and autoantibodies. J Investig Dermatol 128:1956-1963,
+2008. (Advance online publication.)
+
+Brodell LA, and Beck LA. Differential diagnosis of chronic
+urticaria. Ann Allergy Asthma Immunol 100:181-188, 2008.
+Brodell LA, Beck LA, and Saini SS. Pathophysiology of chronic
+urticaria. Ann Allergy Asthma Immunol 100:291-297, 2008.
+Baker R, Vasagar K, Ohameje N, et al. Basophil histamine
+release activity and disease severity in chronic idiopathic urticaria. Ann Allergy Asthma Immunol 100:244-249, 2008.
+Rorsman H, Slatkin MW, Harber LC, et al. The basophil leukocyte in urticarial hypersensitivity to physical agents. J Invest
+Dermatol 39:493-499, 1962.
+
+Leznoff A, Josse RG, Denburg J, et al. Association of chronic
+urticaria and angioedema with thyroid autoimmunity. Arch
+Dermatol 119:636—640, 1983.
+
+Martinez S, Vanté I, Pacheco C, et al. Resolution of chronic
+urticaria and autoimmune markers following surgery in Hashimoto’s thyroiditis. Presented at the 2007 annual meeting of the
+American College of Allergy, Asthma, and Immunology. Arlington Heights, IL: ACAAI. Abstract P261.
+
+Zauli D, Grassi A, Ballardini G, et al. Thyroid autoimmunity in
+chronic idiopathic urticaria: implications for therapy. Am J Clin
+Dermatol 3:525-528, 2002.
+
+O'Donnell BF, O'Neill CM, Francis DM, et al. Human leucocyte
+antigen class II associations in chronic idiopathic urticaria. Br J
+Dermatol 140:853-858, 1999.
+
+Malmros H. Auto serum test (AST). Nordisk Med 29:150-151,
+1946.
+
+Grattan CEH, Wallington TB, Warin RP, et al. A serological
+mediator in chronic idiopathic urticaria-a clinical, immunological and histological evaluation. Br J Dermatol 114:583-590, 1986.
+Frieri M. Complement related diseases. Allergy Asthma Proc
+23:319-324, 2002.
+
+33
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+27.
+
+28.
+
+29:
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+‘85:
+
+36.
+
+37.
+
+38.
+
+39.
+
+34
+
+Marone G, Spadaro G, Palumbo C, et al. The anti-IgE/antiFceRla antibody network in allergic and autoimmune diseases.
+Clin Exp Allergy 29:17-27, 1999.
+
+Hide M, Francis DM, Grattan CEH, et al. Autoantibodies
+against the high-affinity IgE receptor as a cause of histamine
+release in chronic urticaria. N Engl J Med 328:1599-1604, 1993.
+Sabroe RA, and Greaves MW. Chronic idiopathic urticaria with
+functional autoantibodies: 12 years on. Br J Dermatol 154:813819, 2006.
+
+Kaplan AP. Chronic urticaria: Pathogenesis and treatment. J
+Allergy Clin Immunol 114:465—474, 2004.
+
+Fagiolo U, Kricek F, Ruf C, et al. Effects of complement inactivation and IgG depletion on skin reactivity to autologous serum
+in chronic idiopathic urticaria. J Allergy Clin Immunol 106:567—
+572, 2000.
+
+Asero R, Tedeschi A, Riboldi P, et al. Plasma of patients with
+chronic urticaria shows signs of thrombin generation, and its
+intradermal injection causes wheal-and-flare reactions much
+more frequently than autologous serum. J Allergy Clin Immunol 117:1113-1117, 2006.
+
+Fiebiger E, Hammerschmid F, Sting] G, et al. Anti-FceRIa autoantibodies in autoimmune-mediated disorders. J Clin Invest
+101:243-251, 1998.
+
+Asero R, Lorini M, Chong SU, et al. Assessment of histaminereleasing activity of sera from patients with chronic urticaria
+showing positive autologous skin test on human basophils and
+mast cells. Clin Exp Allergy 34:1111-1114, 2004.
+
+Gyimesi E, Sipka S, Danko K, et al. Basophil CD63 expression
+assay on highly sensitized atopic donor leucocytes—A useful
+method in chronic urticaria. Br J Dermatol 151:388-396, 2004.
+Yasnowsky KM, Dreskin SC, Efaw B, et al. Chronic urticaria
+sera increased basophil CD203c expression. J Allergy Clin Immunol 117:1430-1434, 2006.
+
+Wedi B, Novacovic V, Koerner M, et al. Chronic urticaria serum
+induces histamine release, leukotriene production, and basophil
+CD63 surface expression—Inhibitory effects of anti-inflammatory drugs. J Allergy Clin Immunol 105:552-560, 2000.
+
+De Swerdt A, Van Den Keybus C, Kasran A, et al. Detection of
+basophil-activating IgG autoantibodies in chronic urticaria by
+induction of CD63. J Allergy Clin Immunol 116:662-667, 2005.
+Altrich ML, Halsey JF, and Altman LC. Evaluation of functional
+assay for the diagnosis of autoimmune urticaria. J Allergy Clin
+Immunol 119:S199, 2007 (Abs).
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+Bangash SA, and Bahna SL. Resolution of Chronic urticaria and
+angioedema with Thyroxine. Allergy and Asthma Proc, 26:415—
+417, 2005.
+
+Grattan CEH, O’Donnell BF, Francis DM, et al. Randomized
+double blind study of cyclosporin in chronic idiopathic urticaria. Br J Dermatol 143:365-372, 2000.
+
+Barlow RJ, Kobza Black A, and Greaves MW. Treatment of
+severe, chronic urticaria with cyclosporine A. Eur J Dermatol
+3:273-275, 1993.
+
+Toubi E, Blant A, Kessel A, et al. Low-dose cyclosporin A in the
+treatment of severe chronic idiopathic urticaria. Allergy 52:312—
+316, 1997.
+
+Gach JE, Sabroe RA, Greaves MW, et al. Methotrexate-responsive chronic idiopathic urticaria: A report of two cases. Br J
+Dermatol 145:340-343, 2001.
+
+Altman L. Autoimmune urticaria. Pediatr Asthma Allergy Immunol 20:196-200, 2007.
+
+Reeves GEM, Boyle MJ, Bonfield J, et al. Impact of hydroxychloroquine therapy on chronic urticaria: Chronic autoimmune
+urticaria study and evaluation. Intern Med J 34:4:182-186, 2004.
+Garg G, and Thami GP. Comparative efficacy of cetirizine and
+levocetirizine in chronic idiopathic urticaria. ] Dermatolog Treat
+18:23-24, 2007.
+
+Dubuske LM. Levocetirizine: The latest treatment option for
+allergic rhinitis and chronic idiopathic urticaria. Allergy
+Asthma Proc 28:724-734, 2007.
+
+Spector SL, Shikiar R, Harding G, et al. The effect of fexofenadine hydrochloride on productivity and quality of life in patients with chronic idiopathic urticaria Cutis. 79:157-162, 2007.
+Pons-Guiraud A, Nekam K, Lahovsky J, et al. Emedastine difumarate versus loratadine in chronic idiopathic urticaria: A
+randomized, double-blind, controlled European multicentre
+clinical trial. Eur J Dermatol 16:649-654, 2006.
+
+DuBuske L. Desloratadine for chronic idiopathic urticaria: A
+review of clinical efficacy. Am J Clin Dermatol 8:271-283, 2007.
+Kaplan AP. Chronic urticaria: Pathogenesis and treatment. J
+Allergy Clin Immunol 114:465-474, 2007.
+
+Sands MF, Blume JW, and Schwartz SA. Successful treatment of
+3 patients with recurrent idiopathic angioedema with omalizamab. J Allergy Clin Immunol 120:979-981, 2007.
+
+Spector SL, and Tan RA. Effect of omalizumab on patients with
+chronic urticaria. Ann Allergy Asthma Immunol 99:190-193,
+2007. oO
+
+January-February 2009, Vol. 30, No. 1
+
+Delivered by Ingenta to: Guest User IP: 79.110.28.80 On: Wed, 06 Jul 2016 06:23:35
+Copyright (c) Oceanside Publications, Inc. All rights reserved.
+For permission to copy go to https://www.oceansidepubl.com/permission.htm
+

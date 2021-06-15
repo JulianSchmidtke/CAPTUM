@@ -1,0 +1,814 @@
+al A
+
+  
+
+[Downloaded free from http://www. idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Clinicoepidemiologic Features of Chronic Spontaneous Urticaria in
+Patients with Elevated Plasma D-Dimer Levels versus those without It:
+A Case-Control Cross-Sectional Study of 100 Indian Patients
+
+Abstract
+
+Background: Activated coagulation cascade is implicated in urticaria pathogenesis marked by
+high plasma D-dimer, a marker of fibrinolysis, levels correlating with high urticaria activity
+score (UAS) and poor therapeutic outcome. Methods: Quantitative plasma D-dimer levels and
+coagulation parameters in 100 (male:female ratio 1:3) Indian patients with chronic spontaneous
+urticaria and age- and gender-matched healthy controls were compared. The clinicoepidemiologic
+features of chronic urticaria were then compared among patients with normal (<0.2 mg/L) and
+elevated (20.3 mg/L) plasma D-dimer levels. Results: Plasma D-dimer in 23% patients and 4%
+controls and prothrombin time and activated partial thromboplastin time in 63% and 5% patients,
+respectively, were significantly higher compared with 58% and 1% of controls, respectively.
+About 18 of 72 (25%) patients with high UAS of >16-42 were compared with 5 of 28 (17.8%)
+patients with UAS7 of <15. Patients with elevated plasma D-dimer levels had significantly more
+systemic symptoms (86.9% vs. 81.8%) compared with patients with normal plasma D-dimer levels.
+Conclusion: A subset of patients with chronic urticaria have elevated plasma D-dimer levels and
+exhibit higher UAS7 and systemic symptoms that may influence long-term prognosis and therapeutic
+choices. Small number of patients, a cross-sectional nature of study, lack of treatment outcome
+measures, information on self-medication, and unavailability of specific parameters for coagulation
+pathway activation remain few limitations of this study.
+
+ikeywords: Activated partial thromboplastin time, angioedema, coagulation cascade, D-dimer,
+extrinsic coagulation pathway, prothrombin time, urticaria, urticaria activity score
+
+ 
+
+Introduction
+
+While urticaria affects 15%-20% of
+population at least once or more during
+a lifetime, the prevalence of chronic
+spontaneous urticaria characterized by
+continuous or recurrent urticarial wheals
+with or without angioedema for 6 weeks
+or more is estimated at 0.5%-1% in
+adults significantly affecting the quality
+of life."?] Women are affected more often
+than men, and most patients are between
+20 and 40 (mean 33 years) years of age."
+Recurrences are common for months or
+years in about 30% of patients.) Focal
+bacterial, viral and parasitic infections,
+foods, drugs, inhalants, systemic diseases,
+and stress are frequently implicated
+triggers.°"! However, its exact etiology
+remains obscure in several patients
+despite extensive investigations. The
+presence of IgG autoantibodies against
+
+ 
+
+This is an open access journal, and articles are
+distributed under the terms of the Creative Commons
+Attribution-NonCommercial-ShareAlike 4,0 License, which
+allows others to remix, tweak, and build upon the work
+non-commercially, as long as appropriate credit is given and the
+new creations are licensed under the identical terms.
+
+For reprints contact: reprints@medknow.com
+
+632
+
+epitopes expressed on the o-chain of
+high-affinity receptor of IgE (FceRI) in
+30%-40% or less commonly against IgE
+itself (in 5%-10% of patients) raises a
+possibility of activation of mast cells
+by allergens that bind to high-affinity
+receptor FceRI of specific IgE antibodies
+in a subset of patients with positive
+autologous serum skin test diagnosed with
+autoimmune urticaria./~*! Autoallergic mast
+cell activation too has been suggested
+as another possible pathomechanism of
+chronic spontaneous urticaria in patients
+expressing IgE antibodies against thyroid
+peroxidase.) However, a positive wheal
+and flare reaction even with IgG-depleted
+serum indicates possibility of mechanisms
+other than autoimmunity playing a role
+in chronic urticaria _ pathogenesis.!"")
+Recently, higher positivity of autologous
+plasma skin testing in 80% of patients
+
+ 
+
+How to cite this article: Chauhan S, Mahajan VK,
+Mehta KS, Yadav RS, Chauhan PS, Bhushan §S, et al.
+Clinicoepidemiologic features of chronic spontaneous
+urticaria in patients with elevated plasma D-dimer levels
+versus those without it: A case—control cross-sectional
+study of 100 Indian patients. Indian Dermatol Online
+J 2019;10:632-8.
+
+ 
+
+ 
+
+Received: December, 2018. Accepted: February, 2019.
+
+Shailja Chauhan,
+Vik K. Mahajan,
+Karaninder S
+
+Mehta
+
+ 
+
+Rajinder
+
+ 
+
+>ushpinde
+
+Chauhan,
+
+ 
+
+itya
+Vikas
+Anuj
+
+nL
+DI
+
+  
+
+Departments of Dermatology,
+Venereology and Leprosy
+and ' Biochemistry,
+
+Dr. R. P. Govt. Medical
+College, Kangra (Tanda),
+Himachal Pradesh, India
+
+Address for correspondence:
+Dr. Vikram K. Mahajan,
+Department of Dermatology,
+Venereology and Leprosy,
+
+Dr. R. P. Govt. Medical College,
+Kangra (Tanda) - 176 001,
+Himachal Pradesh, India.
+E-mail: vkm1@rediffmail.com
+
+Access this article online
+
+Website: www.idoj.in
+DOI: 10.4103/idoj.IDOJ_505_18
+Quick Response Code:
+
+ 
+
+ 
+
+ 
+
+ 
+
+© 2019 Indian Dermatology Online Journal | Published by Wolters Kluwer - Medknow
+[Downloaded free from http://www.idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Chauhan, et a/.: Chronic spontaneous urticaria and plasma D-dimer
+
+corresponding to the severity of disease compared with
+positive autologous serum skin testing (ASST) in 50%
+of patients suggests activation of coagulation pathway in
+the pathogenesis of chronic urticaria."'?'*! Low-affinity
+IgE receptor (FceRII) autoantibodies have been shown
+to activate eosinophils to cause mast cell degranulation
+through release of major basic protein.''4! Eosinophils
+express tissue factor and activate the extrinsic coagulation
+pathway resulting in conversion of prothrombin to
+thrombin by activated factor X generating PF, ,, during
+the process."5!°1 The thrombin thus generated causes
+urticaria by increasing vascular permeability and plasma
+extravasation followed by degranulation of skin mast
+cells.'""91 Thrombin also acts on fibrinogen to convert it
+into fibrin that is finally degraded by plasmin to produce
+fibrin degradation products and plasma D-dimer which
+can be a possible biomarker for disease severity both for
+acute and chronic urticaria. This appears plausible given
+that patients responding to omalizumab therapy too have
+shown a decrease in elevated plasma D-dimer levels
+parallel to clinical response when compared with that
+in nonresponders.”°*?! Furthermore, these patients also
+showed better therapeutic response to heparin, tranexamic
+acid, or cyclosporine than antihistamines alone.?°*4] We
+evaluated plasma D-dimer levels in Indian patients with
+chronic urticaria and their clinicoepidemiologic features.
+The knowledge will be useful for patients and clinicians
+alike for choice of treatment modalities in terms of need
+to recommend antihistamines in higher than recommended
+doses, addition of immunomodulator drugs, heparin,
+tranexamic acid, or use of omalizumab just on the basis
+of signs and symptoms alone for improved therapeutic
+outcome and long-term prognosis in patients with raised
+D-dimer levels.
+
+Materials and Methods
+
+One hundred patients (male: female ratio of 1:3) aged
+18-69 (mean + SD 36.12 + 10.9) years with chronic
+spontaneous urticaria not responding to recommended
+
+doses of antihistamines, and equal number of age- and
+gender-matched healthy adult controls not on any
+medication were studied between April 2016 and March
+2017. An episode of urticaria was defined as several
+days of urticarial signs and symptoms with intervening
+asymptomatic and urticaria-free days. Disease activity
+and severity grading were calculated on the basis of
+urticaria activity score (UAS) 7 [Table 1].!'?5! Patients with
+inducible urticaria, urticarial vasculitis, acute urticaria,
+systemic diseases (abnormal thyroid function, hepatorenal,
+hematological, infective or autoimmune disorders), or
+on medications (aspirin, clopidogrel, warfarin, heparin,
+antihistamines, corticosteroids, omalizumab) that could
+influence the course of urticaria or coagulation/fibrinolysis
+pathway, and pregnant/lactating women were excluded
+from the study after detailed clinical history/examination,
+provocation tests, and relevant investigations such as
+complete blood counts, thyroid and hepatorenal function
+tests, antithyroid peroxidase antibodies, fasting blood
+glucose estimation, HBsAg, and antistreptolysin O titer,
+tests for antinuclear antibody and rheumatoid factor,
+urinalysis, and stool microscopy for ova/cysts. Other
+laboratory tests in all patients with urticaria included
+C-reactive protein (CRP) and absolute eosinophil
+count (AEC), the possible biomarkers of inflammation and
+coagulation pathway and urticaria activity.
+
+Plasma D-dimer levels were estimated quantitatively in
+all patients and controls by immunometric flow through
+method using NycoCard test kits (Nycomed Pharma,
+Oslo, Norway) as per manufacturer’s instructions.
+Plasma D-dimer levels >0.3 mg/L were considered
+elevated (normal levels <0.2 mg/L as per manufacturer’s
+manual). Coagulation parameters such as_ thrombin
+time (TT), prothrombin time (PT), and activated partial
+thromboplastin time (aPTT) were assayed in all study
+subjects by the use of calcium thromboplastin to measure
+the clotting time of the patient’s plasma using STA
+Compact® and STA-R® Neoplastine kit marketed by
+
+Table 1; UAS7"! and severity grading"!
+
+ 
+
+ 
+
+Score Wheals Pruritus
+
+0 None None
+
+1 Mild (<20 wheals/24 h) Mild but not annoying
+
+2 Moderate (20-50 wheals/24 h) Moderate (troublesome but does not interfere with normal daily activity or sleep
+3 Intense (>50 wheals/24 h or Intense (severe pruritus, which is sufficiently troublesome to interfere with
+
+large confluent areas of wheals)
+
+normal daily activity or sleep)
+
+UAS7 is sum of UAS of 0-6 for each day over 7 consecutive days (maximum score 42)
+
+Severity grading
+0, Itch and hive-free and indicative of no symptoms of CSU
+16, Well-controlled urticaria
+7-15, Mild urticaria
+16-27, Moderate activity urticarial
+
+28-42, Severe activity urticaria
+UAS=Urticaria activity score; CSU=Chronic spontaneous urticaria
+
+Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019 633
+[Downloaded free from http://www.idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Chauhan, et al.: Chronic spontaneous urticaria and plasma D-dimer
+
+Diagnostica Stago (Asnieres, France) and comparing it
+with that of a normal standard.
+
+The patients were divided into two groups, Group A and
+Group B, for comparison of clinicoepidemiological features
+on the basis of patients with elevated and normal plasma
+D-dimer levels, respectively.
+
+Statistical analysis
+
+Median + interquartile range (IQR) was calculated in case of
+extreme values with wide and uneven distribution (outliers
+and non-normal data). Mann-Whitney U test was used
+to compare nonparametric and unevenly distributed data.
+
+Chi-square test and Student’s t-test were used for statistical
+analysis of the categorical and parametric data, respectively.
+A P value < 0.05 calculated at 5% level (95% confidence
+limit) was considered statistically significant.
+
+Results
+
+The baseline clinicodemographic and investigative data
+for D-dimer and coagulation profile of all patients and
+controls are shown in Table 2. The majority of [68 (68%)]
+patients were between 18 and 40 years of age with
+higher prevalence in women. The duration of urticaria
+was 6 weeks to 240 (median + IQR = 6+ 9) months and
+
+Table 2: Baseline characteristics of patients and controls
+
+ 
+
+ 
+
+ 
+
+Baseline characteristics No. of patients (%) n=100 No. of controls (%) n=100 P
+Gender Males (M) 25 25
+Females (F) 75 75
+M:F 13 133.
+Age (in years) Range 18-69 19-70
+Mean+SD 36.1410.9 38.3412.2 0.18
+18-30 37 30
+>30-40 31 29
+>40-50 23 29
+>51 9 12
+Duration of urticaria (in months) Range 1.5-240 Median+IQR 6+9 1.5-12 85 >12-25 7 >25-37 3 >37-48 1 248 4 Age at onset of urticaria (in years) Range 3-69 Mean+SD 33.53411.4 <10 2 >10-20 7 >20-30 36 >30-40 29 >40-50 19 >50-60 6 >60 1 D-dimer levels (normal <0.2 mg/L) 20.3 23 4 0.0001*
+PT (normal=11.4-13.7 s) >13.7 63 58
+$13.7 37 42
+Range 10.9-26.7 10.3-20.5 0.039*
+Mean+SD 15.00+2.92 14.27+1.93
+aPTT (normal=27.8-41.8 s) >41.8 5 1
+<41.8 95 99
+Range 19.2-42.5 19.3-42.0 0.039*
+Mean+SD 33.1545.25 31.66+4.90
+TT (normal=15-18 s) >18 8 6
+<18 92 94
+Range 15.1-19.1 3.5-20.3 <0.0001*
+Mean+SD 17.04+0.72 16.92+0.86
+SD=Standard deviation; IQR=Interquartile range; PT=Prothrombin time; aPTT=Activated partial thromboplastin time; TT=Thrombin time,
+Mann-Whitney U test was used to compare nonparametric and unevenly distributed data. Chi-square test and Student’s t-test were used for
+statistical analysis of the categorical and parametric data, respectively; *P<0.05 was considered statistically significant
+
+634
+
+Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019
+[Downloaded free from http://www.idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Chauhan, et al.: Chronic spontaneous urticaria and plasma D-dimer
+
+the majority [85 (85%)] of patients had urticaria for less
+than 12 months. The age at onset of urticaria ranged from
+3 to 69 (mean + SD = 33.5 + 11.4) years and 84 (84%)
+patients started having urticaria at 21-50 years. Only
+23 (23%) patients and 4 (4%) controls had elevated plasma
+D-dimer levels of 20.3 mg/L and the difference was
+statistically significant (P < 0.0001). The mean values for
+PT (15.00 + 2.92 vs. 14.27 + 1.93), aPTT (33.15 + 5.25 vs.
+31.66 + 4.90), and TT (17.04 + 0.72 vs. 16.92 + 0.86) were
+significantly higher in patients than controls (P < 0.05).
+
+Table 3 depicts comparative clinicoepidemiologic features
+of patients with elevated plasma D-dimer (Group A) and
+normal values (Group B) with no statistically significant
+difference in age, gender, age at onset, duration, and mean
+
+number (52.8 + 46.9 vs. 70 + 37.2 episodes per year) of
+recurrences of urticaria and/or angioedema. Eighteen of
+23 (78.3%) patients with higher UAS7 of >16-42 had
+significantly elevated plasma D-dimer levels compared with
+5 of 23 (21.7%) patients with UAS7 of <15 (P = 0.0001).
+
+Except for a statistically significant higher percentage, 19
+of 23 (82.6%) patients in Group A showing increased PT
+compared with 44 of 77 (57.1%) patients in Group B; the
+coagulation parameters did not differ significantly in both
+the groups [Table 4]. There was no statistically significant
+difference in CRP or AECs in patients in both the groups.
+
+Clinically, one or more additional systemic symptoms
+were present in 20 (86.9%) and 63 (81.8%) patients in
+Group A and Group B, respectively [Table 5]. General
+
+ 
+
+Table 3: Comparison of characteristics of urticaria patients in Group A and Group B
+Group A (D-dimer levels >0.3 mg/L) Group B (D-dimer levels <0.2 mg/L) Be
+No. of patients (%) n=23 No. of patients (%) n=77
+
+Characteristics of patients
+
+ 
+
+ 
+
+ 
+
+Gender Males (%) 5 (21.7) 20 (25.9)
+Females (%) 18 (78.3) 57 (74.1)
+Male: female 1:3.6 1:2:9'
+Age in years Range 24-55 18-69
+Mean age+SD 38.08+10.53 39.62+10.81 0.55
+Age at onset (in Range 20-55 3-68
+years) Mean+SD 36.52+9.42 32.64411.8 0.15
+<20 (4.3) 8 (10.4)
+>20-30 7 (30.4) 29 (37.7)
+>30-40 5 (21.7) 24 (31.2)
+>40-50 9 (39.3) 10 (12.9)
+>50-60 (4.3) 5 (6.5)
+>60 0 (1.3)
+Duration of Range 2-48 1.5-240
+urticaria Median+IQR 54 649 0.61
+(in months) <12 21 (91.4) 64 (83.1)
+>12-25 (4.3) 6 (7.8)
+>25-37 0 3 (3.9)
+>37-48 (4.3) 0
+248 0 4 (5.2)
+No. of previous 10-39 3 (13.0) 7 (9.1)
+episodes of 40-69 0 6 (7.8)
+urticaria 70-99 0 4(5.1)
+100-130 2 (40) 9 (11.7)
+Mean+SD 52.8+46.9 704£37.2 0.07
+No. of episodes 0 17 (73.9) 46 (59.7)
+of urticaria with 1-10 6 (26.1) 26 (33.8)
+angioedema 11-20 0 1 (1.3)
+21-30 0 2 (2.6)
+>30 0 2 (2.6)
+Mean+SD 1.340.81 1.7441.21 0.10
+UAS7 and Up to 15 (mild) 5 (21.7%) 23 (29.9) 0.44
+severity grading >16-42/(moderate to severe) 18 (78.3%) 54 (70.1) 0.44
+Mean+SD 5.48+1.50 5.2541.33 0.48
+
+SD=Standard deviation; IQR=Interquartile range; UAS=Urticaria activity score, MannWhitney U-test was used to compare nonparametric
+and unevenly distributed data. Chi-square test and Student’s t-test were used for statistical analysis of the categorical and parametric data,
+respectively; *P<0.05 was considered significant
+
+Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019 635
+[Downloaded free from http://www. idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Chauhan, et al.: Chronic spontaneous urticaria and plasma D-dimer
+
+Table 4: Coagulation profile and other laboratory parameters in Group A and Group B patients
+
+ 
+
+ 
+
+ 
+
+Laboratory parameters Group A (D-dimer levels >0.3 mg/L) Group B (D-dimer levels <0.2 mg/L) P
+No. of patients (%) n=23 No. of patients (%) n=77
+PT (normal=11.413.7 s) 213.7 19 (82.6) 44 (57.1) 0.03*
+<13.7 4 (17.4) 33 (42.9)
+Range 11.4-21.9 10.9-26.7
+Mean+SD 15.2942.71 14.9142.99 0.57
+aPTT (normal=27.841.8s)  >41.8 2 (8.7) 3 (3.9) 0.79
+<A1.8 21 (91.3) 74 (96.1)
+Range 21.1-42.5 19.2-42.1
+Mean+SD 33.6945.28 32.984+45.26 0.57
+TT (normal=15-18 s) >18 1 (4.5) 7 (9.1) 0.27
+<18 22 (95.5) 70 (90.9)
+Range 15.8-18.4 15.1-19.1
+Mean+SD 17.10+0.54 17.01+0.76 0.60
+AEC (normal=20-500 Range 70-540 20-870 0.94
+cells/mm’) Mean+SD 204.70+132.8 207.18+152.6
+Positive CRP Positive 2 (8.7%) 1 (1.3%) 0.70
+Negative 21 (91.3) 76 (98.70
+
+PT=Prothrombin time; SD=Standard deviation; aPTT=Activated partial thromboplastin time; TT=Thrombin time; AEC=Absolute eosinophil
+count; CRP=C-reactive protein, Mann-Whitney U test was used to compare nonparametric and unevenly distributed data. Chi-square test
+and Student’s ¢-test were used for statistical analysis of the categorical and parametric data, respectively; *P<0.05 was considered significant
+
+Table 5: Comparison of systemic symptoms in Group A and Group B patients
+
+ 
+
+Individual associated systemic symptoms Group A No. of patents (“%) n=23 Group B No. of patents (%) n=77 P*
+No. of symptomatic patients 20 (86.9) 63 (81.8) 0.0003*
+No. of symptoms
+1-3 18 (78.3) 58 (75.3) 4-5 2 (8.7) 5 (6.5) General symptoms (headache, malaise, 15 (65.2) 8 (10.4) 0.32
+lassitude, loss of concentration, feverish feel)
+Feeling of hot or cold 8 (34.7) 24 (31.1) 0.09
+Flushing 7 (30.4) 13 (16.8) 0.43
+Joint symptoms (pain, swelling) 5 (21.7) 13 (16.8) 0.28
+Gastrointestinal symptoms (nausea, vomiting, SQ17) 13 (16.8) 0.28
+diarrhea, indigestion, pain abdomen)
+Cardiorespiratory symptoms (syncope, 2 (8.6) 9 (11.6) 0.26
+
+palpitations, breathlessness/wheeze)
+Most patients had multiple symptoms. Mann-Whitney U test was used to compare nonparametric and unevenly distributed data. Chi-square test
+and Student’s f-test were used for statistical analysis of the categorical and parametric data, respectively; *P<0.05 was considered significant
+
+ 
+
+symptoms (malaise, loss of concentration, lassitude, An etiopathogenetic link between chronic urticaria and
+headache, feverish feel) in 15 (65.2%), gastrointestinal activation of extrinsic followed by intrinsic coagulation
+
+symptoms (nausea, vomiting, diarrhea, abdominal pain) in
+5 (21.7%), joint symptoms (pain, swelling) in 5 (21.7%),
+feeling of hot and cold in 8 (34.7%) and flushing in
+7 (30.4%) affected more patients in Group A compared
+with those in Group B. On the other hand, a higher
+percentage (11.6%) of patients in Group B experienced
+cardiorespiratory symptoms (syncope, palpitations,
+breathlessness/wheezing) compared with 8.6% patients in
+Group A.
+
+Discussion
+
+The demographic profile of the studied 100 patients is
+similar to what is described in dermatology literature.7)
+
+cascades has been suggested by many researchers.!!2!52791
+The significantly higher mean levels of PT, aPTT, and TT
+in patients indicates activation of extrinsic with intrinsic
+coagulation cascade in patients with chronic urticaria.
+Similarly, activation of coagulation pathway has been
+reported by other researchers marked by significantly
+higher levels of D-dimer, a marker of fibrinolysis, and
+plasma PF, , ,, marker of thrombin generation, in patients
+with chronic urticaria corresponding to disease severity
+and UAS."?+!5263°1 Increased levels of plasma D-dimer and
+factor VIIa in patients with active urticaria correlating
+with disease severity and fall in their levels observed after
+urticaria remission further reflects activation of coagulation
+
+636 Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019
+[Downloaded free from http://www.idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+Chauhan, et a/.: Chronic spontaneous urticaria and plasma D-dimer
+
+pathway in urticaria.°’°*! The higher plasma D-dimer levels
+in our 23% of patients compared with 4% of controls with
+a Statistically significant difference (P < 0.05) also gives
+credence to these observations.
+
+Urticaria is reportedly more severe in patients with higher
+plasma D-dimer levels and is seen to correspond with
+severe urticaria compared with mild disease. A positive
+correlation between disease severity and elevated plasma
+D-dimer levels in 48.3% of patients was observed as the
+levels decreased with reduced urticaria severity in three
+patients under follow-up in a_ study." Urticaria also
+appears resistant to antihistamines in patients with high
+plasma D-dimer levels and said to improve or show better
+therapeutic response to treatment with heparin or tranexamic
+acid, a plasminogen activation inhibitor." The significantly
+higher UAS7 of =16-46 in 18 of 72 (25%) patients with
+elevated plasma D-dimer levels and in greater percentage
+of patients, 78.3% in Group A, also reflects an association
+between disease severity and elevated plasma D-dimer
+levels. Similar observations have been made previously
+as well.!'53°1 Asero et ail.''’! observed moderate to severe
+disease activity in 75% and 38% of patients showing
+elevated and normal plasma D-dimer levels, respectively.
+Takahagi ef al.?! also observed above normal levels of
+plasma D-dimer in 35% of patients with chronic urticaria
+and its severity correlating with fibrin degradation products
+and plasma D-dimer levels. The systemic symptoms in
+our 86.9% of Group A patients were significantly higher
+compared with 81.8% of patients in Group B. Although
+the difference was not statistically significant, general
+symptoms of being unwell, gastrointestinal symptoms,
+feeling of hot and cold, flushing, and joint pains were more
+frequent in Group A patients, whereas cardiorespiratory
+symptoms were comparatively more frequent in Group B
+patients.
+
+Limitations
+
+Small number of patients, a cross-sectional nature of
+study, unavailability of specific parameters to determine
+coagulation pathway activation, and lack of information on
+self-medication are some of the limitations of this study.
+Treatment outcome measures were not part of the study.
+
+Conclusion
+
+It appears that a subset of patients with chronic spontaneous
+urticaria have coagulation cascade activation marked by
+elevated plasma D-dimer levels and exhibit a higher UAS
+and systemic symptoms. On the contrary, blood levels of
+eosinophils may not be elevated as was also observed in
+both the groups in this study, and positive CRP was found
+only in a minority of our patients as was also seen in a
+previous study suggesting a reduced sensitivity of these
+parameters.''°?) In light of our observations, we tend to
+agree with Farres ef a/.?7 that plasma D-dimer and PF, , ,
+may be useful for monitoring disease activity despite a
+
+weak correlation between UAS and plasma D-dimer levels.
+However, the exact role of D-dimer in predicting disease
+activity needs to be elucidated further after large systematic
+studies and long-term post treatment follow-up given that
+our 77% of patients also had normal levels.
+
+Acknowledgements
+
+The authors thank Mr. Sushant Sharma of Community
+Medicine (Biostatistics), Dr. R. P. Govt. Medical College,
+Kangra (Tanda), H.P. (India), for his help in statistical
+analysis of the data. His erudite association throughout the
+study is gratefully acknowledged. The authors also thank
+the patients/subjects who volunteered for the study.
+
+Financial support and sponsorship
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z,
+Canonica GW, et al. The EAACI/GALEN/EDF/WHO guidelines
+for the definition, classification, diagnosis and management of
+urticaria. Allergy 2014;69:868-87.
+
+2. Greaves M. Chronic urticaria.
+2000; 105:664-72.
+
+3. Deacock SJ. An approach to the patient with urticaria. Clin Exp
+Immunol 2008;153:151-61.
+
+4. Sachdeva S, Gupta V, Amin SS, Tahseen M. Chronic urticaria.
+Indian J Dermatol 2011;56:622-8.
+
+5. Kohli S, Mahajan VK, Rana BS, Mehta KS, Raina RK,
+Chauhan PS, ef al. Clinicoepidemiologic features of chronic
+urticaria in patients with subclinical Helicobacter pylori infection
+versus those without it: A cross sectional study of 150 patients.
+Int Arch Allergy Immunol 2018;175:114-20.
+
+6. Wedi B, Raap U, Wieczorek D, Kapp A. Urticaria and infections.
+Allergy Asthma Clin Immunol 2009;5:10.
+
+7. Sabroe RA, Greaves MW. Chronic idiopathic urticaria
+with functional autoantibodies: 12 years on. Br J Dermatol
+2006;154,813-9.
+
+8. Grattan CEH. Autoimmune urticaria. Immunol Allergy Clin N
+Am 2004;24:163-81.
+
+9. Riboldi P, Riccardo R, Tedeschi A, Gerosa M, Meroni PL.
+Chronic urticaria: New immunologic aspects. Isr Med Assoc J
+2002;4:872-3.
+
+10. Altrichter S, Peter H-J, Pisarevskaja D, Metz M, Martus P,
+Maurer M. IgE mediated autoallergy against thyroid
+peroxidase — A novel pathomechanism of chronic spontaneous
+urticaria? PLoS One 2011;6:e14794.
+
+11. Fagiolo U, Kricek F, Ruf C, Peserico A, Amadori A, Cancian M.
+Effects of complement inactivation and IgG depletion on skin
+reactivity to autologous serum in chronic idiopathic urticaria.
+J Allergy Clin Immunol 2000;106:567-72.
+
+12. Asero R, Tedeschi A, Riboldi P, Cugno M. Plasma of patients
+with chronic urticaria shows signs of thrombin generation, and
+its intradermal injection causes wheal-and-flare reactions much
+more frequently than autologous serum. J Allergy Clin Immunol
+2006;117:1113-7.
+
+13. Sajedi V, Movahedi M, Aghamohamadi A, Gharagozlou M,
+
+J Allergy Clin Immunol
+
+Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019 637
+[Downloaded free from http://www.idoj.in on Tuesday, December 8, 2020, IP: 253.127.84.177]
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22,
+
+23,
+
+638
+
+Chauhan, et a/.: Chronic spontaneous urticaria and plasma D-dimer
+
+Shafiei A, Soheili H, et al. Comparison between sensitivity of
+autologous skin serum test and autologous plasma skin test
+in patients with chronic idiopathic urticaria for detection of
+antibody against IgE or IgE receptor (FceRI). Iran J Allergy
+Asthma Immunol 201;110:111-7.
+
+Puccetti A, Bason C, Simeoni S, Millo E, Tinazzi E, Beri R,
+et al. In chronic idiopathic urticaria autoantibodies against
+Fe epsilonRII/CD23 induce histamine release via eosinophil
+activation. Clin Exp Allergy 2005;35:1599-607.
+
+Asero R, Tedeschi A, Coppola R, Griffini S, Paparella P,
+Riboldi P, et al. Activation of the tissue factor pathway of blood
+coagulation in patients with chronic urticaria. J Allergy Clin
+Immunol 2007;119:705-10.
+
+Cugno M, Marzano AV, Tedeschi A, Fanoni D, Venegoni L,
+Asero R. Expression of tissue factor by eosinophils in
+patients with chronic urticaria. Int Arch Allergy Immunol
+2009;148:170-14.
+
+Asero R, Tedeschi A, Marzano AV, Cugno M. Coagulation in
+urticaria. Curr Treat Options Allergy 2015;2:287-93.
+
+Huilan Z, Bihua L, Runxiang L, Jiayan L, Luyang L, Zhenjie L.
+Features of antihistamine-resistant chronic urticaria and chronic
+urticaria during exacerbation. Indian J Dermatol 2015;60:323.
+Yanase Y, Takahagi S, Hide M. Chronic spontaneous urticaria
+and the extrinsic coagulation system. Allergol Int 2018; 67:191-4.
+Asero R. Plasma D-dimer: A biomarker for antihistamine-resistant
+chronic urticaria. J Allergy Clin Immunol 2013;132:983-6.
+Asero R, Marzano AV, Ferrucci S, Cugno M. Plasma D-dimer
+plasma levels parallel the clinical response to omalizumab in
+patients with severe chronic spontaneous urticaria. Int Arch
+Allergy Immunol 2017;172:40-4.
+
+Asero R, Marzano AV, Ferrucci S, Cugno M. Elevated baseline
+D-dimer plasma levels are associated with a prompt response
+to omalizumab in patients with severe CSU. J Allergy Clin
+Immunol Pract 2017;5:1740-2.
+
+Asero R. Plasma D-dimer levels and clinical response to
+
+24.
+
+25,
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+ciclosporine in severe chronic spontaneous urticaria. J Allergy
+Clin Immunol 2015;135:1401-3.
+
+Asero R, Tedeschi A, Cugno M. Heparin and tranexamic acid
+therapy may be effective in treatment-resistant chronic urticarial
+with elevated plasma D-dimer: A pilot study. Int Arch Allergy
+Immunol 2010;152:384-9.
+
+Hollis K, Proctor C, McBride D, Balp M-M, McLeod L,
+Hunter S, ef al. Comparison of Urticaria Activity Score
+over 7 Days (UAS7) values obtained from once-daily and
+twice-daily versions: Results from the ASSURE-CSU study. Am
+J Clin Dermatol 2018;19:267-74.
+
+Baek YS, Jeon J, Kim H, Oh CH. Severity of acute and chronic
+urticaria correlates with plasma D-dimer level but not C-reactive
+protein or total IgE. Clin Exp Dermatol 2014;39:795-800.
+
+Farres MN, Refaat M, Melek NA, Ahmed EE, Shamseldine MG,
+Arafa NA. Activation of coagulation in chronic urticaria
+in relation to disease severity and activity. Allergol
+Immunopathol (Madr) 2015;43:162-7.
+
+Takeda T, Sakurai Y, Takahagi S, Kato J, Yoshida K, Yoshioka A,
+et al. Increase of coagulation potential in chronic spontaneous
+urticaria. Allergy 2011;66:428-33.
+
+Zhu H, Liang B, Li R, Li J, Lin L, Ma §, et al. Activation of
+coagulation, anti-coagulation, fibrinolysis and the complement
+system in patients with urticaria. Asian Pac J Allergy Immunol
+2013;31:43-50.
+
+Salem S, Ragab N, Hussein N. Evaluation of plasma D-dimer
+levels in chronic idiopathic urticaria (CIU). Internet J Dermatol
+2009;8:1.
+
+Triwongwarana D, Kulthanan K, Chularojanamontri  L,
+Pinkaew S. Correlation between plasma D-dimer levels and
+the severity of patients with chronic urticaria. Asia Pac Allergy
+2013;3:100-5.
+
+Takahagi S, Mihara S, Iwamoto K, Morioke S, Okabe T,
+Kameyoshi Y, e¢ al. Coagulation/fibrinolysis and inflammation
+markers are associated with disease activity in patients with
+chronic urticaria. Allergy 2010;65:649-56.
+
+Indian Dermatology Online Journal | Volume 10 | Issue 6 | November-December 2019
+

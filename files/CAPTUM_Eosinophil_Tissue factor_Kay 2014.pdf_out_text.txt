@@ -1,0 +1,799 @@
+CUTANEOUS BIOLOGY
+
+BJD
+
+British Journal of Dermatology
+
+Elevations in vascular markers and eosinophils in chronic
+spontaneous urticarial weals with low-level persistence in
+
+uninvolved skin
+
+A.B. Kay,’ S. Ying,” E. Ardelean,? A. Mlynek,? H. Kita,* P. Clark* and M. Maurer?
+
+"Leukocyte Biology Section, National Heart and Lung Institute, Imperial College, London SW7 2AZ, U.K.
+
+*Division of Asthma, Allergy and Lung Biology, King’s College London, Medical Research Council, and Asthma U.K. Centre in Allergic Mechanisms of Asthma,
+
+London SE1 9RT, U.K.
+
+*Department of Dermatology and Allergy, Allergie-~Centrum-Charité/ECARF, Charité—Universitdtsmedizin Berlin, Berlin, Germany
+‘Division of Allergic Diseases and Department of Medicine, Mayo Clinic, Rochester, MN, U.S.A
+
+Summary
+
+ 
+
+Correspondence
+A. Barry Kay.
+E-mail: a.b.kay@imperial.ac.uk
+
+Accepted for publication
+19 March 2014
+
+Funding sources
+
+This work was supported by the Imperial College
+Trust and the MRC-Asthma U.K. Centre in
+Allergic Mechanisms in Asthma, Imperial College
+and King’s College School of Medicine, London,
+UK.
+
+Conflicts of interest
+
+None declared.
+
+DOI 10.1111/bjd.12991
+
+© 2014 The Authors. British Journal of Dermatology
+
+Background In chronic spontaneous urticaria (CSU) mast cell activation together
+with inflammatory changes in the skin are well documented and may play an
+important role in mechanisms of tissue oedema.
+
+Objectives To confirm and extend these observations by measuring microvascular
+markers, leucocytes and mast cell numbers in lesional and uninvolved skin and
+to compare findings with a control group.
+
+Methods Paired biopsies (one from 4—8-h spontaneous weals and one from uninvolved skin) were taken from eight patients with CSU and nine control subjects
+and studied using immunohistochemistry and confocal microscopy using the lectin Ulex europaeus agglutinin 1 (UEA-1).
+
+Results Lesional skin in CSU contained significantly more CD31+ endothelial cells;
+CD31+ blood vessels, neutrophils, eosinophils, basophils and macrophages; and
+CD3+ T cells than nonlesional skin. Increased vascularity was confirmed by confocal imaging using the lectin UEA-1. Uninvolved skin from CSU contained sig
+ 
+
+nificantly more CD31+ endothelial cells, CD31+ blood vessels and eosinophils
+compared with the control subjects. There was a threefold increase in mast cell
+numbers when CSU was compared with controls but no difference was observed
+between lesional and uninvolved skin.
+
+Conclusions Increased vascular markers together with eosinophil and neutrophil
+infiltration are features of lesional skin in CSU and might contribute to tissue
+oedema. Eosinophils and microvascular changes persist in uninvolved skin,
+which, together with increased mast cells, suggests that nonlesional skin is
+primed for further wealing.
+
+ 
+
+What’s already known about this topic?
+
+e Farlier studies, mainly using conventional histology, showed increases in eosinophils and neutrophils in chronic urticaria weals.
+e There are conflicting reports on mast cell numbers.
+
+ 
+
+What does this study add?
+
+e Increases in vascularity, as well as eosinophil, neutrophil and basophil infiltration
+are features of lesional skin in chronic spontaneous urticaria.
+
+e Uninvolved skin may be primed as there were persisting vascular markers and eosinophils, as well as increases in mast cells.
+
+ 
+
+ 
+
+British Journal of Dermatology (2014) 171, pp505-511 505
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and
+
+distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+506 Inflammation and chronic spontaneous urticaria, A.B. Kay et al.
+
+Chronic spontaneous (‘idiopathic’) urticaria (CSU) is a common disease associated with recurrent weals and/or angiooedema believed to result from intermittent activation of skin
+mast cells by unknown mechanisms.' Wealing in patients with
+CSU affects the upper and mid-dermis and is characterized by
+a local or generalized red, raised, itchy rash with vasodilatation, increased blood flow and vascular permeability. Although
+functional autoantibodies against the high-affinity IgE receptor
+(FceR1) have been demonstrated in about one-third of
+patients with CSU, suggesting an autoimmune basis, the clinical significance of this finding still remains unclear.”
+
+Characteristically the lesions of CSU arise spontaneously, peak
+between 4 and 8 h, and generally resolve by 24 h. It is doubtful
+whether histamine alone can account for persistent wealing especially as antihistamines, even in high doses, are often ineffective,
+particularly in the severe form of the disease. In previous immunohistochemical studies, the presence of neutrophils and eosinophils in biopsies from urticarial weals was demonstrated.*” This
+raised the possibility that both neutrophil-dependent oedema,
+originally described by Wedmore and Williams,° and eosinophilmediated mast cell activation’ may be important mechanisms in
+vascular leakage in CSU. For example, mast cell-mediated neutrophil recruitment with vascular leakage through the NLRP3
+inflammasome was reported by Nakamura et al.* in a mouse
+model of urticaria. Earlier studies, using conventional histology,
+showed eosinophil and neutrophil infiltration in lesional, but not
+in uninvolved, skin in chronic urticaria.” For all these reasons it
+seemed important to confirm and extend these observations using
+immunohistochemical methods. In addition we have used two
+approaches to study changes in the microvasculature, ie. CD31
+staining and confocal microscopy using the lectin Ulex europaeus
+agglutinin 1 (UEA-1). Thus, although urticaria is by definition a
+vascular reaction, with dilatation of postcapillary venules, as far as
+we are aware new blood vessel formation in both involved and
+uninvolved CSU skin has not previously been reported.
+
+There are conflicting reports in the literature regarding the
+numbers of cutaneous mast cells in CSU. Early studies using
+morphological criteria alone reported that skin mast cells in
+CSU are increased up to tenfold,”''® whereas subsequent studies using a specific mast cell antitryptase antibody did not
+show this difference.'' For this reason we have also re-evaluated mast cell numbers in involved and uninvolved CSU skin
+as well as healthy control skin.
+
+Finally, we felt it important to determine whether uninvolved skin in CSU was ‘normal’ by determining whether
+inflammatory changes persisted in areas where there was no
+wealing. For this purpose we have compared inflammatory
+cell infiltration and cutaneous microvasculature in nonlesional
+CSU skin with healthy control skin.
+
+Materials and methods
+
+Patients and controls
+
+Eight patients (five female, three male) with chronic spontane
+ous urticaria (age range 32-71 years; mean 51 years) as
+
+British Journal of Dermatology (2014) 171, pp505-511
+
+defined by the EAACI/GA2LEN/EDE/WAO guidelines'? were
+recruited from the urticaria clinic of the Department of Dermatology and Allergy at Charité-Universitatsmedizin Berlin.
+The duration of disease ranged from 9 months to 14 years.
+On the screening day, subjects were assessed for their suitability to enter the study, and informed consent was obtained. On
+the study day, patients notified the clinical investigator as soon
+as they observed an urticarial lesion on the thigh, trunk or
+upper arm. Biopsies (either spindle-shaped or 4-mm punch)
+were then taken from the lesions and a comparable area of
+nonaffected skin (i.e. skin that was normal to the naked eye,
+had no evidence of wealing and was not pruritic). Biopsies
+were not taken from linear or asymmetrical weals. Skin biopsies were also taken from nine healthy subjects (five female
+and four male), aged between 56 and 76 years (mean
+59 years) who were recruited as controls.
+
+None of the patients or controls had a history of concurrent
+autoimmune, inflammatory (including osteoarthritis and
+asthma) or infectious disease. None had had anaphylactic episodes. Patients with physical urticarias or urticarial vasculitis
+were excluded. None had taken H, or H) selective antihistamines for the previous 3 days. Additional exclusion criteria
+included the current or recent (< 4 weeks) use of oral corticosteroids or a leucotriene receptor antagonist, or the current
+or recent (< 6 weeks) use of doxepin or other tricyclic antidepressants, or the current or recent (< 8 weeks) use of immunosuppressants (e.g. ciclosporin, azathioprine). One patient
+took a single dose of prednisolone 50 mg as a rescue medication 3 days before the biopsy. At the time of the study there
+was no presence of, or prior history of, malignancy. Patients
+with acute illness, which, in the opinion of the investigator,
+could pose a threat or harm to the volunteer or obscure interpretation of data, were excluded. Also excluded were drug
+and alcohol abuse, pregnancy and lactation. The study was
+approved by the ethics committee of the Charite-Universitatsmedizin Berlin and the NHS Health Research Authority,
+UK. (ref. 07/Q0411/41).
+
+Tissue preparation and immunohistochemistry
+
+Tissue biopsies were immediately fixed in 4% paraformaldehyde (BDH Chemicals Ltd, Dagenham, U.K.) in 0-1 mol L~'
+phosphate-buffered saline (PBS), pH 7-4, and washed in 15%
+PBS-buffered sucrose, embedded in optimum cutting temperature compound and snap-frozen in isopentane precooled in
+liquid nitrogen. Samples were air-freighted to London on dry
+ice and kept at —80 °C until use. Cryostat sections (6 Jim)
+were cut from the biopsies, mounted on 0-1% poly-1-lysinecoated slides, dried overnight at 37 °C, then stored with silica
+gel (VWR International Ltd, Lutterworth, U.K.) at —80 °C
+
+until used.
+
+Immunohistochemistry
+
+Antibody staining was detected by the alkaline phosphatase—
+
+antialkaline phosphatase (APAAP) method, as previously
+
+© 2014 The Authors. British Journal of Dermatology
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+described.'*'* Normal human serum (10%) was used to prevent nonspecific binding of the second- and third-layer antibodies. A mouse IgGl myeloma protein and a rabbit IgG
+protein were used as negative controls. Monoclonal antibodies
+against CD31, CD68, mast cell tryptase and neutrophil elastase
+were purchased from Dako Ltd (Ely, U.K.) and anti-CD3 from
+Becton Dickinson (Oxford, U.K.). Primary antibodies were
+detected with a secondary donkey antimouse antibody
+obtained from Jackson ImmunoResearch Laboratories Inc.
+(West Grove, PA, U.S.A.). APAAP was obtained from Dako
+Ltd. Positively stained cells were detected with Fast Red
+(Sigma, Poole, U.K.). Affinity-purified polyclonal antimajor
+basic protein (MBP) was obtained from Dr H. Kita (Mayo
+Clinic, Rochester, MN, U.S.A.) and antibasogranulin monoclonal (BB1) was a gift from Dr Andrew F. Walls (University of
+Southampton, Southampton, U.K.). Cells were counted in a
+blind fashion at x400 magnification on an Olympus BX40
+microscope (Olympus Imaging & Audio Ltd, Southend-on-Sea,
+U.K.) connected with a Zeiss Vision KS300 imaging system
+(Carl Zeiss, Gottingen, Germany) and total cells expressing
+phenotypic markers enumerated in two entire biopsy sections.
+CD31+ endothelial cells were counted as described.'? For
+CD31+ blood vessels, we used the methods of Hashimoto
+et al.,'* modified by Corrigan et al.'* Microvessels were identified as CD31+ vascular endothelium forming a round or
+spherical structure, which was considered a CD31+ blood vessel. The total number of vessels of entire sections were
+counted and divided by the total areas measured by the imaging system. Data were expressed as the total numbers of cells
+per unit area. The mean + SD entire cross-sectional area of the
+cutaneous biopsy sections was 4-2 + 0-4 mm’. The betweenobserver coefficients of variation for duplicate counts of all
+
+markers examined for cutaneous biopsies were 4-4—6-8%.
+
+Immunofluorescence staining for confocal microscopy
+
+Labelling of sections with the endothelial marker, UEA-1 lectin, was performed using a modification of a protocol used
+previously.'® Briefly, frozen sections were thawed at room
+temperature for 30 min, then permeabilized and blocked in
+0-1% saponin/5% human serum in PBS for 30 min at room
+temperature. Fluorescein isothiocyanate-conjugated UEA-1 lectin (Vector Laboratories, Peterborough, U.K.) was added to
+the sections for 2 h at room temperature in the dark. Slides
+in PBS 3 x 5 min,
+
+mounted on sections using VectaShield Hardset mounting
+
+were washed then coverslips were
+medium (Vector Laboratories), and stored at 4 °C. Sections
+were examined using a Leica SP2 confocal microscope system
+(Leica, Milton Keynes, U.K.) fitted with argon ion and 561nm diode lasers, and images were acquired using the Leica
+
+confocal software.
+
+Statistics
+
+Data were analysed with the aid of a commercially available
+
+statistical package (Minitab for Windows release 9.2; Minitab
+
+© 2014 The Authors. British Journal of Dermatology
+
+Inflammation and chronic spontaneous urticaria, A.B. Kay et al. 507
+
+Inc., Coventry, U.K.). Significant differences between paired
+data obtained from lesional and nonlesional biopsies were calculated using the Wilcoxon signed-rank test. The Mann—Whitney U-test (with Bonferroni’s correction) was used to
+compare variance between groups. For all tests P < 0-05 was
+
+considered significant.
+
+Results
+
+Chronic spontaneous urticaria weals showed significant
+increases in eosinophils, neutrophils, basophils,
+macrophages, T cells, endothelial cells and blood
+vessels
+
+There were significantly more MBP+ eosinophils (P = 0-01,
+approximate sixfold increase), elastase-positive neutrophils
+(P = 0-001, approximate 14-fold increase), BB1+ basophils
+(P = 0-04, approximate twofold increase) and CD68+ macrophages (P = 0-01, approximate 30% increase) in lesional compared with nonlesional skin of patients with CSU (Fig. 1).
+Similar results were obtained for CD3+ T cells (P = 0-011,
+approximate threefold increase, data not shown). Photomicrographic examples of MBP+, elastase-positive, BB1+ cells and
+CD68+ macrophages in involved and uninvolved skin of
+patients with CSU are shown in Figure 2. There were small
+but significant increases in CD31+ endothelial cells (P = 0-04,
+50% and CD31+ blood
+
+(P = 0-02, approximate 50% increase) when lesional was
+
+approximate increase) vessels
+compared with nonlesional skin (Fig. 3). Confocal microscopy
+using UEA-1 staining confirmed the increase in lesional vs.
+
+nonlesional blood vessels detected by CD31 staining (Fig. 4).
+
+Mast cell and eosinophil numbers, as well as blood
+vessels, are increased in nonlesional chronic
+spontaneous urticaria skin compared with the skin of
+control subjects
+
+There was an approximate threefold increase in the numbers
+of mast cells in nonlesional compared with control skin
+(P = 0:0006) (Fig. Sa). Photomicrographic examples of skin
+mast cells are shown in Figure 5b—d. There was also a significant increase in the numbers of MBP+ eosinophils (P = 0-02),
+but not neutrophils, basophils, T cells or macrophages, in
+nonlesional CSU skin compared with controls (Fig. 1, and
+data not shown). In addition CD31+ endothelial cells and
+CD31+ blood vessels were significantly elevated (P = 0-004
+and P = 0-007, respectively) when uninvolved skin was compared with controls (Fig. 3).
+
+There were no significant relationships between the duration of disease and the expression of vascular and inflamma
+tory markers.
+
+Discussion
+
+The novel findings in this study are firstly that in CSU, lesional
+skin has significantly more CD31+ endothelial cells and
+
+British Journal of Dermatology (2014) 171, pp505-511
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+508 Inflammation and chronic spontaneous urticaria, A.B. Kay et al.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) P=0-0006 (b) P=0-0009
+140 (_P=002  p=0.01 | 140 —P=06  P=0-001
+120 «120
+Ne =
+190 MBP* @ 100 Elastase*
+2 go | eosinophits = ap neutrophils
+2 3
+Be 6o 2 co
+= 3
+fH 40 s 40
+= 2
+20 i 20
+Bb
+° — saat °
+Control Nonlesional Lesional Control Nonlesional Lesional
+(c) Pa P=0-002 (d) P=0-05
+gE OOS PROGR. P=004 200 P=09 P=0-01
+Fig 1. The number of (a) major basic protein
+ag "8 7 © iso Gur (MBP)+ eosinophils, (b) elastase-positive
+5 basophils 3 macrophages neutrophils, (c) BBI+ basophils and (d)
+a
+= 2 CD68+ macrophages in paired lesional and
+a2 10 2 100
+a" s' + nonlesional skin biopsies compared with
+2 = controls. The Wilcoxon signed-rank test was
+a 2
+5 50 —t used to compare the differences between
+oO
+a lesional and nonlesional skin biopsies and the
+° — ath ° : Mann-Whitney U-test to compare the
+Control Nonlesional __Lesional Control Nonlesional Leslonal 5
+differences between groups.
+Eosinophils Neutrophils Pasophils Macrophages
+
+Lesional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig 2. Photomicrographs of (a, e) major basic protein (MBP)+ eosinophils, (b, f) elastase-positive neutrophils, (c, g) BBI+ basophils and (d, h)
+
+CD68+ macrophages in lesional and nonlesional skin from patients with chronic spontaneous urticaria. Original magnification: x 200; inset (c)
+and (g): x 1000.
+
+ 
+
+z
+6
+
+&
+3
+
+3
+Ss
+
+60
+
+40
+
+CD31*endothelial cells/mm”
+
+20
+
+P=0-002
+
+P=0004 = P=0-04
+a
+
+ 
+
+ 
+
+cD31*
+endothelial cells
+
+ 
+
+ 
+
+Control _Nonlesional
+
+Lesional
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b) P=0-005
+50 P=0007 _ P=0-02
+= a
+€
+= a0
+3s CD31* blood
+3 vessels
+S$ 30
+a]
+°
+8 ae
+$ 20 _
+2
+8 a o——_—_
+oo
+210
+Ej
+2
+
+Control Nonlesional
+
+Lesional
+
+ 
+
+British Journal of Dermatology (2014) 171, pp505-511
+
+Fig 3. The number of (a) CD31+ endothelial
+cells and (b) CD31+ blood vessels in lesional
+and nonlesional skin compared with controls;
+
+statistics were performed as in Fig. |
+
+© 2014 The Authors. British Journal of Dermatology
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+Fig 4. (a, b, d, e, g, h) Examples of lectin
+Ulex europaeus agglutinin | staining of blood
+vessels from three paired (3-1 and 3-2; 13-1
+and 13-2; 18-1 and 18-2) lesional and
+nonlesional chronic spontaneous urticaria skin
+biopsies; (c, f, i) biopsies from three control
+subjects (V1, V2 and V5).
+
+Fig 5. (a) The number of tryptase-positive
+mast cells in lesional and nonlesional skin
+compared with controls; statistics were
+performed as in Fig. 1. (b-d)
+Photomicrographs of antitryptase staining in
+control (b), nonlesional (c) and lesional (d)
+
+skin; original magnification x 400.
+
+ 
+
+Inflammation and chronic spontaneous urticaria, A.B. Kay ef al. 509
+
+Lesional Nonlesional Control
+(b)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) P=0-002
+100 P=0-0006 P=0-9
+“Ee 80
+=
+3 Tryptase*
+3 S mast cells
+s =
+Z =
++e 40
+FA
+2
+= me
+=
+& 20 as
+a ’ *,
+- >
+° Control
+Control Nonlesional Lesional
+
+ 
+
+ 
+
+ 
+
+ 
+
+"7 aire
+
+>
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD31+ blood vessels, as well as eosinophils and neutrophils, finding was the observation that uninvolved skin, unlike skin
+than uninvolved skin, supporting the view that inflammatory from the control group, appeared to have persisting
+cell infiltration contributes to vascular leakage. Basophils, mac- eosinophils and CD31+ endothelial cells and CD31+ blood
+rophages and T cells were also increased in lesional compared vessels on a background of raised mast cell counts. The latter
+with nonlesional skin but these differences were less marked findings suggest that nonlesional skin, unlike ‘normal’ skin,
+than with eosinophils and neutrophils. The second novel may be primed for further wealing. Although the number of
+
+© 2014 The Authors. British Journal of Dermatology
+
+British Journal of Dermatology (2014) 171, pp505-511
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+510 Inflammation and chronic spontaneous urticaria, A.B. Kay et al.
+
+subjects in the study group was small, the differences in the
+various markers measured were statistically significant and
+often substantial.
+
+Although histamine is clearly a key mediator in CSU it is
+unlikely to account solely for the entire wealing process characteristically observed over a 24-h period. Biopsies from CSU
+weals have several pathological features in common with the
+allergen-induced late-phase allergic skin reaction (LPR). In
+order to support the view that the LPR can serve as a model
+for CSU we considered it important to take biopsies from
+weals of > 4 h duration (when the LPR is established and the
+early histamine reaction is resolved) and < 8 h (when the LPR
+begins to decline). Sabroe et al.? observed more neutrophils
+and eosinophils in lesional compared with uninvolved skin.
+However, they took biopsies from weals at < 4 h and > 12 h.
+The differences they reported, although significant, were not
+as marked as those observed in the 4-8-h biopsies used in the
+present study. In contrast to our own findings, these same
+investigators did not find an increase in eosinophils in uninvolved skin. However, the affinity-purified polyclonal antiMBP used in the present study'” appeared to be more stringent in detecting tissue eosinophils. Polyclonal anti-MBP antibody detects multiple epitopes on MBP molecules and thus
+may allow us to identify eosinophils with greater sensitivity
+than with a monoclonal antibody. Furthermore, close examination of the photomicrograph reveals diffuse extracellular
+staining of eosinophil MBP, particularly in lesional skin, suggesting that some component(s) of eosinophils are released
+into the tissues. Elevated serum concentrations of eotaxin, a
+potent eosinophil chemotactic factor, have previously been
+identified in CSU and presumably reflect ongoing mast cell
+activation.'* Whether eosinophils and their products contribute directly to wealing in CSU, or act more as repair cells, is
+presently unclear. Eosinophil-derived MBP does have direct,
+nonspecific, mast cell degranulating properties that may be
+relevant to mechanisms.”
+
+We propose that in CSU mast cell activation leads to wealing by at least two mechanisms, i.e. histamine release and
+inflammatory cell infiltration producing neutrophil-dependent
+oedema. At the same time angiogenic factors, particularly vascular endothelial growth factor (VEGF), are expressed. VEGF is
+known to be released by activated mast cells and has a rapid
+effect on endothelial cells.'? We (article submitted for publication), and others,!® have shown VEGF expression in the skin
+of CSU. Thus increased VEGF brings about new blood vessel
+formation as shown in our present study by increases in
+CD31+ endothelial cells and CD31+ blood vessels. It is
+assumed that when urticarial weals resolve, either spontaneously or as the result of treatment, so do the numbers of
+inflammatory cells and CD31+ endothelial cells and blood vessels. However, as shown in Figure 3, the number of CD31+
+endothelial cells and CD31+ blood vessels did not return to
+baseline levels, i.e. to those of the control group.
+
+We have confirmed our previous findings of low numbers
+of basophils in biopsies from CSU* and here extend this to
+
+demonstrate slightly higher numbers in lesional compared
+
+British Journal of Dermatology (2014) 171, pp505-511
+
+with nonlesional skin. The significance of this observation is
+unclear, as the overall numbers are small compared with neutrophils and eosinophils. However, we cannot exclude a role
+for basophil products in vascular leakage events. The recruitment of basophils to skin lesions in patients with CSU may
+explain the basopenia commonly seen in these patients.”°
+
+Although urticaria is by definition a vascular reaction, with
+dilatation of postcapillary venules, as far as we are aware this is
+the first demonstration of new blood vessel formation in both
+involved and uninvolved CSU skin. We were surprised that
+new blood vessel formation appeared to occur quite rapidly,
+ie. in 4~8-h weals. However, in an earlier study using human
+endothelial cell cultures, VEGF-induced early endothelial cell
+activation, as shown by enhanced inositol phosphate accumulation, occurred within 5 min, and increased P-selectin expression was demonstrated within 15 min.'? Previous studies
+identified elevations of P- and E-selectin, and intercellular
+adhesion molecule-1 in both lesional and nonlesional skin,
+indicating that in this disease small vessels are ‘primed’ even at
+baseline.*' The present study supports these findings in that
+there was greater expression of CD31+ endothelial cells and
+CD31+ blood vessels in lesional compared with nonlesional
+skin, and nonlesional skin compared with controls, observations confirmed by confocal imaging with the lectin UEA-1.
+Therefore, uninvolved skin is not normal as there are persisting
+eosinophils, increased mast cell numbers and a greater number
+of blood vessels compared with controls. We found no association between the duration of disease and the expression of vascular markers, indicating that these changes occur within
+months rather than years following the onset of symptoms.
+
+In conclusion, we have shown that vascular markers,
+together with eosinophil and neutrophil infiltration, are the
+dominant features of lesional skin in CSU and may contribute
+to tissue oedema. On the other hand, eosinophils and microvascular changes persist in uninvolved sites and might,
+together with increased mast cells, prime skin for further
+
+wealing.
+
+Acknowledgments
+
+We are grateful to Dr Qiu Meng for technical assistance, Dr
+Lars Brunken and Dr Joachim Fluhr for help in collecting skin
+biopsies and Dr Anna Chapman for input with the protocol
+
+design.
+
+References
+
+1 Greaves M. Chronic urticaria. J Allergy Clin Immunol 2000; 105:664—
+72,
+
+2 Hide M, Francis DM, Grattan CE et al. Autoantibodies against the
+
+high-affinity IgE receptor as a cause of histamine release in
+
+chronic urticaria. N Engl J Med 1993; 328:1599-604.
+
+Eckman JA, Hamilton RG, Gober LM et al. Basophil phenotypes in
+
+w
+
+chronic idiopathic urticaria in relation to disease activity and autoantibodies. J Invest Dermatol 2008; 128:1956-63.
+
+4 Ying S, Kikuchi Y, Meng Q et al. Thl/Th2 cytokines and inflammatory cells in skin biopsies from chronic idiopathic urticaria:
+
+© 2014 The Authors. British Journal of Dermatology
+
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+a
+
+NI
+
+.°
+
+10
+
+Il
+
+12
+
+13
+
+comparison with the allergen-induced late-phase cutaneous reaction. J Allergy Clin Immunol 2002; 109:694-700.
+
+Sabroe RA, Poon E, Orchard GE et al. Cutaneous inflammatory cell
+infiltrate in chronic idiopathic urticaria: comparison of patients
+with and without anti-FceRI or anti-IgE autoantibodies. J Allergy
+Clin Immunol 1999; 103:484—93.
+
+Wedmore CV, Williams TJ. Control of vascular permeability by
+polymorphonuclear leukocytes in inflammation. Nature 1981;
+289:646-50.
+
+Piliponsky AM, Gleich GJ, Bar I, Levi-Schaffer F. Effects of eosinophils on mast cells: a new pathway for the perpetuation of allergic inflammation. Mol Immunol 2002; 38:1369.
+
+Nakamura Y, Kambe N, Saito M et al. Mast cells mediate neutrophil recruitment and vascular leakage through the NLRP3 inflammasome in histamine-independent urticaria. J Exp Med 2009;
+206:1037—-46.
+
+Haas N, Toppe E, Henz BM. Microscopic morphology of different
+types of urticaria. Arch Dermatol 1998; 134:41—6.
+
+Natbony SF, Phillips ME, Elias JM et al. Histologic studies of
+chronic idiopathic urticaria. J Allergy Clin Immunol 1983; 71:177-83.
+Smith CH, Kepley C, Schwartz LB, Lee TH. Mast cell number and
+phenotype in chronic idiopathic urticaria. J Allergy Clin Immunol
+1995; 96:360—4.
+
+Zuberbier T, Asero R, Bindslev-Jensen C et al. Dermatology Section of
+the European Academy of Allergology and Clinical Immunology;
+Global Allergy and Asthma European Network; European Dermatology Forum; World Allergy Organization. EAACI/GA2LEN/EDF/
+WAO guideline: management of urticaria. Allergy 2009; 64:1427-43.
+Ying S, Robinson DS, Meng Q etal. Enhanced expression of
+eotaxin and CCR3 mRNA and protein in atopic asthma and their
+
+© 2014 The Authors. British Journal of Dermatology
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+
+Inflammation and chronic spontaneous urticaria, A.B. Kay et al. 511
+
+20
+
+2
+
+association with airway hyperresponsiveness and predominant colocalization of eotaxin mRNA to bronchial epithelial and endothelial cells. Eur J Immunol 1997; 27:3507—16.
+
+Hashimoto M, Tanaka H, Abe H. Quantitative analysis of bronchial
+wall vascularity in the medium and small airways of patients with
+asthma and COPD. Chest 2005; 127:965-72.
+
+Corrigan CJ, Wang W, Meng Q et al. T-helper cell type 2 (Th2)
+memory T cell-potentiating cytokine 25 has the potential to promote angiogenesis in asthma. Proc Natl Acad Sci USA 2011;
+108:1579-84.
+
+Williams MJ, Lowrie MB, Bennett JP et al. Cadherin-10 is a novel
+blood-brain barrier adhesion molecule in human and mouse. Brain
+Res 2005; 1058:62—72.
+
+Leiferman KM, Ackerman SJ, Sampson HA et al. Dermal deposition of eosinophil-granule major basic protein in atopic dermatitis. Comparison with onchocerciasis. N Engl J Med 1985;
+313:282-5.
+
+Tedeschi A, Asero R, Lorini M et al. Serum eotaxin levels in
+patients with chronic spontaneous urticaria. Eur Ann Allergy Clin
+Immunol 2012; 44:188-92.
+
+Hippenstiel S, Kriill M, Ikemann A et al. VEGF induces hyperpermeability by a direct action on endothelial cells. Am J Physiol 1998;
+274:L678-84.
+
+Grattan CE, Walpole D, Francis DM et al. Flow cytometric analysis
+of basophil numbers in chronic urticaria: basopenia is related to
+serum histamine releasing activity. Clin Exp Allergy 1997; 27:141724.
+
+Zuberbier T, Schadendorf D, Haas N et al. Enhanced P-selectin
+expression in chronic and dermographic urticaria. Int Arch Allergy
+Immunol 1997; 114:86-9.
+
+British Journal of Dermatology (2014) 171, pp505-511
+

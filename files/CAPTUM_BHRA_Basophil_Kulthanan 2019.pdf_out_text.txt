@@ -1,0 +1,1769 @@
+Allergy Asthma Immunol Res. 2019 Sep;11(5):736-755
+https://doi.org/10.4168/aair.2019.11.5.736
+pISSN 2092-7355-elSSN 2092-7363
+
+Allergy, Asthma &
+Immunology Research
+
+ 
+
+Original Article
+
+|® Check for updates
+
+ie] OPEN ACCESS
+
+Factors Predicting the Response to
+Cyclosporin Treatment in Patients
+With Chronic Spontaneous Urticaria:
+A Systematic Review
+
+Kanokvalai Kulthanan,” Chanika Subchookul,' Saowalak Hunnangkul,”
+Leena Chularojanamontri,'’ Papapit Tuchinda’
+
+‘Department of Dermatology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand
+2Office of Research and Development, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok,
+Thailand
+
+ 
+
+Received: Apr 29, 2019
+Revised: May 30, 2019
+Accepted: Jun 3, 2019
+
+Correspondence to
+
+Kanokvalai Kulthanan, MD
+
+Department of Dermatology, Faculty of
+Medicine, Siriraj Hospital, Mahidol University, 2
+Wanglang Road, Bangkoknoi, Bangkok 10700,
+Thailand.
+
+Tel: +66-2419-4333
+
+Fax: +66-2411-5031
+
+E-mail: kanokvalai.kul@mahidol.ac.th
+
+Copyright © 2019 The Korean Academy of
+Asthma, Allergy and Clinical Immunology The Korean Academy of Pediatric Allergy and
+Respiratory Disease
+
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+
+Disclosure
+There are no financial or other issues that
+might lead to conflict of interest.
+
+https://e-aair.org
+
+ABSTRACT
+
+Purpose: This study aimed to systemically review literature relating to factors that could
+potentially predict a favorable response to cyclosporine A (CsA) treatment for chronic
+spontaneous urticaria (CSU).
+
+Methods: A systematic literature review was done according to Preferred Reporting Items for
+Systematic Reviews and Meta-Analysis recommendations.
+
+Results: A total of 13 studies (404 patients with CSU and 200 healthy patients) were included.
+There were only 1 randomized controlled trial (RCT) and 12 non-RCTs. Our systematic review
+showed that positive autologous serum skin test results, positive baseline basophil histamine
+release assays, positive baseline basophil activation test responses, elevated baseline plasma
+D-dimer levels, elevated baseline serum interleukin (IL)-2, IL-5, and tumor necrosis factoralpha (TNF-a) levels, and low baseline serum IgE levels might assist in predicting favorable CsA
+responses in CSU patients. Decreased plasma D-dimer levels; and decreased serum IL-2, IL-5,
+and TNF-« levels were reported to be correlated with clinical improvement after CsA treatment.
+Conclusions: Since most positive results were from non-RCT articles and some data were still
+inconsistent, this systematic review identified no reliable practical biomarker for predicting
+CsA treatment response in patients with CSU. There were no positive predictors with good
+consistency and mechanical plausibility.
+
+Keywords: Urticaria; cyclosporine; treatment outcome
+
+INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is defined as the occurrence of spontaneous wheals,
+angioedema, or both for more than 6 weeks.! The EAACI/GA*LEN/EDE/WAO guidelines
+recommend modern, second-generation, H;-antihistamines as the first-line therapy. If
+
+the symptoms are inadequately controlled after 2-4 weeks, up-dosing second-generation
+Hrantihistamines up to 4-fold is recommended.’ For antihistamine-unresponsive CSU,
+omalizumab and cyclosporine A (CsA) are recommended as add-on therapy. However, CsA is
+an off-label use for urticaria.
+
+736
+
+ 
+
+s
+%
+ES
+=
+Ey
+3
+$
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+CsA, a potent immunosuppressive drug, inhibits Ty; cells by blocking the production of
+
+ 
+
+inflammatory cytokines. The complex between CsA and cyclophilin inhibits the phosphatase
+activity of calcineurin, which down-regulates the transcription of cytokine genes (interleukin
+[IL]-2, IL-2; IL-3; IL-4; and tumor necrosis factor alpha [TNF-a]).? In vitro studies showed
+that pre-incubating leukocytes with CsA inhibited histamine release after stimulation
+
+with sera from CSU patients.’ CsA has been shown to reduce histamine, leukotriene, and
+prostaglandin release by mast cells and basophils both in vitro and in vivo.* Harrison et
+
+al.’ showed that CsA inhibited the IgE-mediated histamine release from mast cells bya
+concentration dependent effect. Grattan et al.° reported a reduction in serum histaminereleasing activity and the autologous serum skin test (ASST) response after CsA treatment.
+Also, CsA reportedly reduces serum levels of IL-2R, IL-5, and TNF-a.’ These findings support
+the hypothesis that the mechanisms of CsA in CSU may involve effects on activated T cells,
+basophils, mast cells, and perhaps other cells.
+
+A meta-analysis study showed overall response rates of CSU to CsA treatment of 54%,
+
+66%, and 73% at 4, 8, and 12 weeks, respectively.’ There are increasing reports of potential
+factors of CsA treatment response. The study of reliable factors could lead to a personalized
+approach and would serve as an objective follow-up for patients. We then performed a
+systematic review to identify factors which may potentially predict a favorable response to
+CsA treatment for CSU.
+
+MATERIALS AND METHODS
+
+The systematic literature review was done according to the Preferred Reporting Items for
+Systematic Reviews and Meta-Analysis recommendations.’
+
+Search strategy and eligibility criteria
+
+A literature search of electronic databases (PubMed, Medline, Web of Science, EMBASE, and
+The Cochrane Library) was performed using the term “chronic spontaneous (or idiopathic)
+urticaria and ciclosporin (or cyclosporine or cyclosporin).” Then all articles that related to
+factors predicting the response to CsA treatment in patients with CSU were later selected.
+CsA either the microemulsion formulation (Neoral, Novartis, Basel, Switzerland and generic
+euivalents) or the original formulation (Sandimmun, Novartis, Basel, Switzerland and
+generic euivalent) was included in this study. The eligibility criteria for included reports were:
+i) randomized controlled trials (RCTs) and non-RCTs; ii) CSU patients treated with CsA;
+
+and iii) any reported factors that were or were not significantly associated with a response
+
+to CsA treatment. In vitro studies, review articles, case reports, case series, comments, and
+replies were excluded. Non-English articles and non-full-text publications were excluded. The
+remaining articles were initially screened by 2 independent reviewers (K.K. and C.S.), who
+subsequently obtained full texts and reviewed them for eligibility. Thirteen relevant articles
+were systematically reviewed (Figure).
+
+Data extraction and bias assessments
+
+The data extraction was independently conducted by 2 reviewers. The following characteristics
+were identified in each study: i) the first author's name and the publication year; ii) study
+design; iii) number of CsA-treated patients and controls; iv) number of studied patients; v)
+CsA dose and treatment duration; vi) severity and treatment-response assessment; and vii)
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 737
+B10'see-a//:sdyay
+
+9EL'S'LL'6LOG WIee/B9Lb“O1/B40"10p//:sd1ay
+
+8eL
+
+ 
+
+ 
+
+Web of Science
+
+©
+BI EMBASE
+& PubMed
+2 Medline
+3
+
+2,259 records identified through database searching:
+n=1,628
+n=185
+
+The Cochrane Library
+
+ 
+
+ 
+
+=
+
+ 
+
+Records after duplicates removed (n = 2,066)
+
+ 
+
+eu
+o
+o
+he!
+2)
+7)
+
+¥
+
+ 
+
+Screened by titles and abstracts (n = 2,066)
+
+ 
+
+ 
+
+v
+
+ 
+
+vy
+
+ 
+
+ 
+
+Full-text articles assessed for eligibility (n = 92)
+
+ 
+
+ 
+
+Eligibility
+
+1,974 records excluded; no association with CsA treatment outcome in CSU
+
+ 
+
+ 
+
+ 
+
+ 
+
+yv
+
+ 
+
+1 RCT
+
+ 
+
+Studies included in systematic review and assessed for inclusion (n = 13) 6
+
+1 RCT (switched to open-labelled, prospective study)
+3 retrospective studies
+8 open-labelled, prospective, control studies
+
+ 
+
+ 
+
+79 records excluded;
+1 lack of a comparator group
+>| 2 in vitro studies
+3 pediatric population with no direct relationship with the factors and
+CsA treatment
+comments and reply
+11 case reports or case series with no association with CsA treatment
+outcome in CSU
+12 lack of published full texts
+44 review articles
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+i
+
+i
+
+:
+
+|
+
+ 
+
+Clinical factors* (n = 4)
+
+Included
+
+- Prior histories of urticaria
+(iretrospective study)
+
+- Disease severity
+(2 open-labelled, prospective
+studies; 1 retrospective study)
+
+- Disease duration
+(2 open-labelled, prospective
+studies; 2 retrospective studies)
+
+ 
+
+ 
+
+Histamine-releasing
+activity* (n = 8)
+
+- ASST (1 RCT; 5 open-labelled,
+prospective studies; 1 retrospective
+study)
+
+- Basophil level (1 retrospective study)
+
+- BHRA (1 RCT; 2 retrospective review
+studies)
+
+ 
+
+ 
+
+Coagulation and
+inflammation‘ (n = 3)
+
+- D-dimer (1 open-labelled,
+prospective study)
+
+- CRP (1 open-labelled, prospective,
+control study; 2 open-labelled,
+prospective studies without controls)
+
+-ESR
+(1 open-labelled, prospective study)
+
+ 
+
+Autoantibodies’ (n = 4)
+
+ANAs (2 retrospective studies)
+TAs (1 open-labelled, prospective
+study without controls;
+
+1 retrospective study)
+
+Other autoantibodies
+
+(1 open-labelled prospective
+study; 1 retrospective study)
+
+ 
+
+ 
+
+Cytokines! (n = 4)
+
+- Immunophenotypical of lymphocytes
+(1 open-labelled, prospective study)
+- Igs, C3, C4 and CICs
+(1 open-labelled, prospective study)
+- Serum IgE (1 open-labelled, prospective
+study; 1 retrospective study)
+- IL-2 (1 open-labelled, prospective study)
+- IL-5 (1 open-labelled, prospective study)
+~ TNF-a
+(1 open-labelled, prospective study)
+
+ 
+
+ 
+
+Figure. Flow diagram of literature review in this study. Thirteen studies met the inclusion criteria and were included in our systematic review.
+CsA, cyclosporine A; CSU, chronic spontaneous urticaria; RCT, randomized controlled trial; ASST, autologous serum skin test; BHRA, basophil histamine release assay; CRP, C-reactive protein; ESR,
+erythrocyte sedimentation rate; ANA, antinuclear antibody; TA, thyroid autoantibody; |g, immunoglobulin; CIC, circulating immune complex; IL, interleukin; TNF-a, tumor necrosis factor alpha.
+*For analysis of relationship between clinical factors—including prior histories of urticaria, disease severity and disease duration—4 studies were included’*"*; tFor the correlation between
+histamine-releasing activity and CsA response in CSU, 8 studies were included®*"™"*"9"", involving the ASST,*"5"5"*""!23 and BHRA®"*"*; #Three studies showed a correlation between coagulation and
+inflammatory factors and the CsA response, involving D-dimer,” CRP,” and ESR"; SAutoantibodies, including ANA,"°” TAs," and other autoantibodies” were shown in 4 studies; “Four studies
+showed a correlation between cytokines and the CsA response, involving immunophenotypical lymphocytes (CD3, CD4, CD56, CD57, CD19, CD19+CD5+, and CD19+CD23+)”; Igs, C3, C4, and CICs*;
+
+serum IgE” *; IL-2; IL-5; and TNF-a.”
+
+9D 03 asuodsay ay} BUI}IIPa.d S10}9e4
+
+unodso}
+
+ypueassy ABojounwuy,
+3B ewUasy ‘ABsaIIY
+
+MW
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+ 
+
+https://e-aair.org
+
+predicting factors for a CsA response. Discrepancies were resolved by consensus discussion
+between the authors. In the case of RCTs, the quality and risk of bias were assessed using
+Cochrane Collaboration's tool for assessing the risk of bias,'° and for non-RCTs, the
+Methodological Index for Non-Randomized Studies (Supplementary Table $1). The studies
+identified as being relevant to a CsA response in CSU were assessed for their evidence levels
+using the Grading of Recommendations Assessment, Development and Evaluation system.”
+
+RESULTS
+
+Literature search results
+
+A total of 13 studies (404 patients with CSU and 200 healthy patients) met the eligibility
+criteria and were included in our systematic review (Figure).°”'* There were 1 RCT°; 8
+open-labelled, prospective studies?3">7'80!3; and 3 retrospective studies.*"°? One study
+was an RCT at first, but was subsequently switched to an open-labelled, prospective study
+because of control failures.” The quality and risk of bias of the studies included were shown
+in Supplementary Table $1.
+
+Potential factors for response to CsA treatment
+
+We classified factors into 5 categories: clinical factors, histamine-releasing factors,
+coagulation and inflammatory factors, autoantibodies, and cytokines. Because 1 study might
+report more than 1 outcome, so each study might be shown in more than 1 table.
+
+Clinical factors (Supplementary Table S2, Table 1)
+
+1) History of urticaria
+
+Hollander et al."° performed a retrospective study of 62 CSU patients receiving 1 mg/kg/day
+of CsA every 2 to 4 weeks. They concluded that prior histories of acute or chronic urticaria
+predicted favorable responses to CsA (P= 0.010).
+
+2) Disease severity
+
+Three articles (2 open-labelled, prospective studies; 1 retrospective study) examined
+associations between baseline disease severity and clinical response to CsA. Asero” performed
+an open-label, prospective study in 29 severe antihistamine-resistant CSU patients. The author
+reported no relationship between baseline disease severity assessed by the urticaria activity
+score (UAS) and clinical CsA responses (P= 0.906). These results are also supported by studies
+of Santiago et al.” and Endo et al.”*
+
+3) Disease duration
+
+Four studies (2 open-labelled, prospective studies; 2 retrospective studies) were identified.
+Asero" reported that the baseline duration of urticaria in 29 CSU patients, receiving 4 mg/
+kg/day of CsA, was not associated with clinical responses to CsA (P= 0.252). This study has
+been supported by the studies of Santiago et al.” and Endo et al.” In contrast, Hollander et al."°
+studied 68 patients with CSU receiving 1 mg/kg/day of CsA. The average duration of the current
+episodes of urticaria was 100 weeks. The mean duration of urticaria in the complete responders
+and partial/non-responders was 55 and 259 weeks, respectively (P= 0.030). They concluded that
+a shorter duration of urticaria was a predictive factor for favorable CsA responses.
+
+https://doi.org/10.4168/aair.2019.11.5.736 739
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+Factors Predicting the Response to Cyclosporin
+
+*(pasanco ysowje = € ‘s}eaYyM AB1e} OS-OL JO s}eayM JEWS OS< = Z ‘S]}eaYM ABE] OL JO S}aYM ]]/BWS OS-OL = L“S]}EBYM }}eWS OL> = 0) s}eayM
+
+Jo Jaquinn ( ‘(asuaqui = ¢ ‘ayesapow = Z ‘py}w =| ‘aUOU = 0) sNyNsd Jo AyisuaquI (L :sal0Bayed Z Jo 3109s }e10} ‘a10dg AYANOY BLUedIUN) UOISs!Wad = p Pue yUA}]9OXx~a = ¢ ‘asuOdsaJ poos = Z ‘asuodsal jeIUed =
+L ‘asuodsa ou = 9 :a109s asuodsa Julod-gg ‘(sjeaym OS UBY} aJOW = ¢ ‘s}eaYM OS-0Z = G ‘S}EAYM OZ-L = | “BUOU = 0) s}eayM Jo saquinu (Z ‘(asuaqu! = ¢ ‘ayBJapOW =Z ‘pyiw = | “BUOU = 0) sMyANid Jo Aysuaqut
+(L :sai08ayeo Z Jo a109s 12101 syn Aylep (p-0 Woy aBUe,) Syn Ajlep Jo SAep Z Jo WINS; $906 < IE A109S JEDIUN]D Jo JUaWANOJdW! ‘“asUOdsa a}a]GLOD, £%/o06-%0E Je B10IS ]ed!Ul]9 Jo JUaWano’dW! ‘asuodsay,
+-asuodsa Ou ‘YN ‘asuodsal yelqJed ‘Yd ‘asuodsal 938]dWOd “YO ‘UOITeIAap psepueys ‘ds ‘a10os MANE EURONN ‘sy/N ‘Apnys ay) Ul a]qeyeAe Jou sem eyep “W/N Sv aulsodso}DAo “ys
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(9/9) ¢ 24N(91) LL2ud(Bz) £5 :4O- (0%) ‘ON ‘ayes asuodsay
+viN OOL
+(ym sueaw)
+*(co0=d) —BHeORUN Jo eposida (ym ‘ueaw) eueonin (yo
+(siopuodsas-uou Joy ym 6sz YUMpareduios  WaUINDJOUOReINg —_ Jo aposide quauuNo Jo uoNNeING pauramuayy 89 89
+“ssapuodsa, aya}dui0d 40 4M GS) WSD 02 “sy UO g 404
+asuodsas yeoIulj9 poo8 yn pareloosse uoneinp aseasia ajqeys3dey_uoneinp aseesia
+8q 0} punoy sem euRoNN Jo aposida %/9:4D- 9/6 !HD- yquowi sd “uoissiuas
+quauuno Jo uoneinp Jeuoys e Bune v/N vIN vIN vIN uojse) }eueonun saye ym
+“(L010 =d) vO Oy asuodsas annjeSen @nysod anesan @NiySOd ‘Surrey jo Kep yo ian
+ajqeioney e yo1paud 03 punoy sem ‘o1UOIYO eyeoqunjo Kio: (iyes2n0) (ie1270) Ls tuossiwes (uepow) Swos-sz 29 89. (tt02) “Te38
+Jo aynoe saysia “eLseoNUN Jo Kl0YSIy 4OLLg ‘Aquanas aseasip auyjaseg yes (GEL 8L fer ayejduiog- —v/N 803 —paseaioul) | Maines aseasia —v/N (v/N) so sapueyjoH
+2 98%
+(ym ‘Ue!pau) eveomun jo uoneing
+uoneinp aseasig
+“uoneunp aseesip vIn (se-s7zz eBued) of BLM eg > (6108)
+pur Aanas aseasip pue yso 01 esuodses (eBues ‘ueipaw) svn (jjes2n0) (iierer0) syn :@suodsax yee
+uaanyaq punoy a1am suAe!DOSSE ON ‘Auuianas aseasip auyjaseg ° 0 es es poop- —ysvn a & ve ote v/N (vIN) so oBenues
+
+ 
+
+‘mainas wey aanpedsonay
+(8"El) 7 2YN(09°42) 8 *ud(98S) Lt 4O- “6
+(0%) “on ‘ayes asuodsey
+2 set
+(ym ‘uvew) ereorun Jo uoneing
+
+ayeueq
+
+ 
+
+uoneinp aseasiq
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(8'81) + 4N- quawenoidust
+(9/9142) 8 *8d- %08-%0S
+(09°88) LL :4D- - :poo5(%) ‘ON ‘ayes asuodsay suioxduiks
+“(annoadsau “Zs3'0 pur 906'0 = d) VSO vIN ROSEY. josouasqe a0
+(03 asuodsas yeoluno aug Yum payeloosse you (as + ueaw) svn (jye12n0) (yyes2/0) ayejduioo + asuodsas e(SLOZ)
+‘4@n UoReuNp aseasip pue syn euljaseg ‘Ausnas aseesip aujasea v/N we 6s 98 tuorssiwey- — ujod-¢ a v 6 6 v/N (w/n) ws o1esy
+*(1000'0 > d) auas8yIP
+Anueoyjudis sem yso ym quounean . we
+Jaye pur a0jaq LS¥N ul edueYo YL (6mm ‘ueipow) eveonun jo uoneina
+“(Kyannedsas ‘s9r0 = d ‘1800 d) uoneunp aseasig
+ojenp 10 AuaNas aseasip aujjeseq IN (6r-0% @Bues) se mae 9 5 /svn (6102)
+pur yso 01 asuodsay jeo|uljo usemaaq (as = ueawi) ,/svn (ijex2n0) (ie1en0) ‘asuodsai ee
+
+ 
+
+ppoop- = /SwN v € ve ve v/N (w/N) vs opuz
+pms annoadsoid payaqey-uedo
+uoneinp aseasip 10 ‘fyienas aseasip “eueonn Jo Aloysty 40lAd
+
+ 
+
+1S OU Sem aay, ‘Auanas aseasip aujasea 0 ° 8e Ea
+
+ 
+
+y(uoneanp) (ws yo
+sesuodses .(uoneinp) im) (fep (on) Con) ‘UOT NULIOY
+quounean vso Joyy quawnean ys a1jeq —_(%)3N0(%) + @ajdusodyo—_sasuodsai jo asuodse:  qwewssesse uolyenp = /y/Su!) eseo © aseo-uoneopaw —_—payeyew))
+
+ 
+
+ 
+
+uorsnjouo9 ‘awioano doia _asdejey Be uesieg —_—aBequeoseg —jo.uoniuyea —_—Aauanes —quewyeay, aBesopso pms Teil _qwewulosuoD —_ quouNeadL (aA) Apms
+$40]98J JOIUND :S9}9!14e papnyou! Jo sasi4aqoeseYo Apnis *L B1qeL
+
+ 
+
+ 
+
+740
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+Histamine-releasing activity factors (Supplementary Table S2, Table 2)
+1) ASST
+Seven studies investigated the relationship between ASSTs and clinical responses to CsA
+
+ 
+
+(1 RCT; 5 open-labelled, prospective studies; and 1 retrospective study).°"°'7! Three
+studies showed a significant association between positive ASSTs and CsA responses.'*3 In
+contrast, 4 other studies showed no significant association.° 5°?! The wheal diameter of the
+ASST response after CsA treatment was significantly reduced as reported by 3 studies.°!*"
+Three studies also reported that the number of positive ASST patients decreased after CsA
+treatment.
+
+Grattan et al.° studied 19 CSU patients (13 received CsA; 6 received a placebo). ASSTs were
+performed with stored baseline serum on the last day of CsA administration (weeks 4 or 8 for
+an open-labelled study) and 2 weeks after stopping CsA. All patients had positive baseline
+ASSTs with no significant differences in baseline wheal diameters between the CsA-treated
+and placebo groups (P > 0.050). The ASST wheal diameter, 2 weeks after stopping the CsA
+treatment was significantly reduced (4.8 vs. 2.1mm, P= 0.040, n = 13). Positive baseline
+ASST responses did not predict good clinical responses to CsA, as 10 patients with positive
+baseline ASSTs did not respond to treatment.
+
+Endo etal.” studied 34 CSU patients, whose symptoms could not be controlled with up to
+
+ 
+
+2-fold of recommended dosage of second-generation AHs, receiving 3 mg/kg/day of CsA for
+4 weeks. ASST result was positive in 21 patients and negative in 13 patients. A significant
+improvement of UAS7 was found in patients of ASST-positive group more than in those of
+the ASST-negative group (P= 0.0048). Therefore, the positive ASST results were suggested as
+useful markers for predicting the response to CsA treatment in CSU patients.
+
+Boubouka et al. studied 23 positive ASST CSU patients, receiving 0.55-2.16 mg/kg/day of
+CsA. After discontinuing the CsA for 3-6 months, the ASST responses were significantly
+suppressed. Eighteen of 23 CSU patients had negative ASST results, and clinical symptoms
+were absent (78.3%). Two patients had a positive ASST, but were complete responders
+(8.7%), while for 3 patients—despite having negative ASSTs—clinical symptoms were
+present (13%). Consequently, ASSTs could not be considered 100% reliable for predicting
+treatment responses.
+
+Baskan et al.'* studied 20 CSU patients with positive ASSTs and recalcitrant to antihistamines.
+The patients were randomized to receive 4 mg/kg/day of CsA for 4 or 12 weeks. The mean
+wheal diameter of the ASST responses was significantly smaller 2 weeks after discontinuing
+the CsA than at baseline (1.4 + 2.0 us. 6.2 2.3, P= 0.020 for the 4-week group; 3.5 + 2.8
+
+vs. 6.3 + 2.1, P< 0.0001 for the 12-week group). The authors concluded that CsA provided
+clinical improvement for CSU patients with positive ASSTs.
+
+Di Gioacchino et al.” studied 40 patients with severe CSU and positive ASSTs, receiving 4—5
+mg/kg/day of CsA for 16 weeks. The ASSTs were performed before CsA treatment, at the
+end of treatment, and at least once during relapses of the disease. The ASST results were
+scored from 0 to 4+. The mean ASST score was 3 (range: 2-4) at baseline. Of the 16 patients
+with complete remission of the disease at the end of treatment, the ASST was negative for
+
+ 
+
+13 patients but positive for 3. All patients with relapses continued to have positive ASSTs
+but with a significant reduction of their ASST scores (P< 0.002). The reduction of the ASST
+scores after CsA was statistically significant for all patients (3.0 vs. 0.3, P= 0.002).
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 741
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+Factors Predicting the Response to Cyclosporin
+
+(e8ed yxeu 84} 0} panulquos)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ool) asuodsas
+5 = 0@/08 oO i = = Que: 5 = 0% 0 a dnou8 AyajesH
+98HN Y IN- asuodsai
+(09) (ov) (09) (ov) paw :zovo Olly o1/9 owe = = * = oL oL a dnou8 payeeanun
+9tud-  Liad- Om 42) (Qmat) 92 asuodso1 (GL-OL4M) L
+“aunjaseg vey samo} AAUEDYIUBIS OL:HO- 3:4O- ove Campo, POPU ayoos (LW) s
+jou sem queues so Jaye stud Gyre) (esi) (zs) (var) mai), vorssiwes —_Aqysanas. (eunuiwjues) (661)
+Assv enjisod jo sequinu ayL vIN Go GL/e vin yu o/s ve VSL os imu) 92 MNj:0-  ueWeUalg a (o-Ly)€ 6L bd vIn vso yey 1qno.
+*(G00'0 > d) a109s ayy UI uoNONpad
+quBOYIUBIS B YUM ING LssV anNsod aney VG Md (M91) COL
+01 panuquos sasdeyay yam squared Ty Exe) ELIHO- £280" OE (me) ooL — (suwioxduiks (1-64) »
+(00'0 = d) auyaseq josouasqe gions
+oj paredwioo paonpaiApuesyiuZis 100s (S"Ze) (S'Z9) 21008 (001) Gms) aya} dwoo) ‘Aquanas (£002) "J238
+a40ds |Ss¥ “JUaWIva!) WS) JeYyW IssvUREW OF/EL OF/LZ ISSvUReW 0 or/ov 0 09 OOL (miss peuysp3oN- —asdeyau aL (8-L) $ or Or vIn (je408N) ysD_— OUNDOROID Id
++(dnou8 ym-21
+UL L000'0 > d ‘Anos ym-h Ut ZO'O = d)
+auyjaseg ueyy 4am) AUedYILBis sem
+quawijeey yso Suiddoys weye ym-Z (ZL 4M) (001)
+asuodsay Issyjouajoweipyeaym wg ssse WN vw/N wWLse9 0 oL/ot i) sue vIN (mat) 08 a v oL OL (w/N) vs
+“(L90°0 = d pue eurjeseq
+$0°0 <d) dno3 ym-g1 pue ym-p Uaamaaq J0%SB>
+ayesasuodsai issy queuneen-asod pue (4m) (oo) ‘o1synjo si(002) "1818
+auyjeseg Ul soUsJeyIP UeOYyIUBISON WWOZFPL WN WN wWwEsZFs9 O ot/oL 0 lod vIN (ym 4) os uononpay- 3swn v v OL oL vIN (w/N) vso ueyseg
+(o-LL4M)
+Gm 02) 88 ss'0
+(OL-eL 4m)
+Om 91) 28 €g'0
+(ai-6 >)
+e:ud- Gmail) ie (08 < ee
+suononpar (8-s4m)
+-passauddns BLD: GYD (me) or aioss ——auoas ze
+‘Ajueoyjusis sem quawyeasy ySD Jo pua (ete) (u’8) (001) (im 02) yeolurjo) ‘Aquenas (b-L4m) a(Ll0z) 1238
+au Jaye syuoW 9-¢ esuodsey IsSy BUL v/N Bale e0/e viN i ees SEL £94 Gyr) ie pauyap3oN- —aujod-y 0 1s & fel vIn (win) ws eynognog
+“(8r00'0 = vex pM
+d) ASS¥ aniusod ym squared ul puny usvn te=Lsvn 295 /SvN
+sem uaunear yso Jaye pue aojeq ueaw — ueaul- (ijzienc) (ese) ~—tasuodsax <c(6102)
+SVN 843 U eoUBJayIp JLOYUBISy NN vn v/N viIN @is)e Gee 0 ° ee 8e olSvn v € ve ve v/N (win) so “ye 38 opua
+pms ana2adsoid pajeqe)-uado
+dnou8 oqeseid
+v/IN vin vIN oO (ym 4) 02 v vin ov/ot yea uado“siepuodsar wu
+-UOU 818M Sissy aujaseg anlysod YM OL:YN- QBFEY (o) (oo)9 0 (m4) 0 ¢ vIN 9 oL oqaceld
+squajied OL se “ys 01 esuodsas yeo1uNjo siapuodseiuou
+poo8 e joIpaud you pip IssW annisod €24O- vin tL Omg) Ls aurjeseq 8 v O@/t.
+G0'0>d) (94m 40%SG> (sdnoi8 ye) (0002)
+peonpas Ajuesyjusis sem quawiean ys) “p00 =d) (esac) (qyesano) or swnjo Aep/8u 0% =~ (aunwiujues) ye19
+Jaye asuodses IssJoieleweIp ay =— WL v/N WwUsLFSe 0 (oo)er SL Om bz) 9% CIM») ov uononpay- 3swn v v €L 0% eurzuned vso ueyeiy
+Jeu jouo paziwopuey
+issv
+asuodses (-)__(+)_—asuodsey—(-) @) s(voneinp) (fep (vsos0
+wines “(@) ONISSY wines (A) ON ISSY (a) esuodsas —_(uojeunp) (im) /8y/Bu) Con) Con) uoneynussoy
+quewnean yso yy quauntea yso a10jog ano (%) _—ayajduioojo asuodsaijo asuodse © quauissesse uoneinp afesop = seo ase) UoNeoIpau ©—payey.eu)
+uossnjouog —————suioanouew ~=~=SM. ase Be UBIO —aBEIUEDIG JOUORIUYOA fUION|S © quOUNEE, YSD_~—=SsAMG_—«yeIOL_-queMWODUCD © auaueaLL (4) Apmg
+
+  
+
+ 
+
+suoqoes Ayaijoe Bulseajas-aulweysiy :sajai4e papnjou! jo sonsiaqoeseyo Apnis *% aque
+
+742
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+Table 2. (Continued) Study characteristics of included articles: histamine-releasing activity factors
+
+ 
+
+Bio0'see-a//:sdyqy
+
+9EL'S'LL'6LOG WIee/B9Lb“O1/B40"10p//:sd1ay
+
+ebl
+
+ 
+
+ 
+
+ 
+
+Study (yr) Treatment Concomitant Total Study CsA Treatment Severity —_Definitionof Percentage Percentage Relapse Drop Main outcome Conclusion
+(marketed medication case case dosage duration assessment response of response ofcomplete  (%) out. Before CsA treatment After CsA treatment
+formulation (No) (No) (mg/kg/——(wk) (duration)* response (%%) _ASST,No.(%) Serum ASST, No.(%) Serum
+of CsA) day) (duration)t [o) © response (+) —((-)_sresponse
+Retrospective study
+Hollander CsA (N/A) N/A 68 58 I(increased 20.8 N/A Complete 94.1 78 13.2 29.4 ASST, No. (%) Serum ASST, No. (%) Serum ASST was not predictive of response to
+etal. (2011) 25-50mg_ (median) remission (overall) —_—_ (overall) (O) () response (*).—(-)_response CsAtreatment (P = 0.34).
+every 2-4 <1day of 55/58 3/58 N/A N/A N/A N/A
+wk after having (948) (6.2)
+remission, urticarial
+kept lesion per
+stable for month
+6 months,
+then weaned
+off)
+Blood basophil
+Open-label prospective study
+Endo etal. CsA (N/A) N/A 34 34 3 4 uAs7® —-Goodelinical 38 38 0 0 Mean blood basophil + SD (per mm’) There was no significant association
+(2019) response: (overall) (overall) 331264 N/A between blood basophil level and
+UAST < 6 at clinical response to CsA (P = 0.385).
+wk 4
+BHRA
+Randomized control trial
+Grattan et al. CsA Cetirizine 20 1 4 4 ast Reduction of 40(4wk) 26 (24 wk). 75 5 Mean BHRA (°%) UAS Mean BHRA (%)  UAS No significant difference in baseline
+(2000)* (Sanimmune) 20 mg/day (paired UAS to < 25% (overall) (overall) BHRA between CsA treatment and
+{all groups) pre-, of baseline placebo groups (P> 0.05).
+post- 36 23.6 5 12 Mean percentage of BHRA significantly
+treatment) decreased from baseline (P < 0.0001).
+-Open trial: 7/20 4 8 57 (8 wk) 4 N/A N/A N/A UAS and BHRA corresponded quite
+nonresponders closely during relapse and sustained
+Placebo 10 N/A 4 0 (4wk) N/A - : remission.
+-Open trial: 10/10 N/A 4 70 (4 wk) te) N/A N/A N/A
+placebo group
+Retrospective study
+Iqbal et al. CsA (N/A) Ahs 58 58 4 12-16 Clinical N/A 48.3 (days 70.7 (days N/A N/A BHRA, No. (%) BHRA, No. (%) CSU patients with a positive BHRA were
+(2012) response -above3 —- above3 (o) oO (0) >) more likely to respond clinically than
+assessed by months) months) 27/58 31/58 N/A N/A those of negative BHRA (P< 0.001).
+clinician? (46.6) (53.4) CR: 22 -CR:6
+(81%) (19%)
+~PR: 3 PR: 10
+(11%) (32%)
+-NR: 2 -NR:15
+(8%) (49%)
+
+ 
+
+(continued to the next page)
+
+9D 03 asuodsay ay} BUI}IIPa.d S10}9e4
+
+unodso}
+
+ypaeasay ABojounuiuiy
+B ewyysy ‘AGaIIy
+
+MWY
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+‘ing the Response to Cyclosporin
+
+Factors Predi
+
+*(s}eaym Og UeYR a10W = € ‘s}BAYM OS-0Z = Z ‘S]RAYM OZ-L
+
+= L ‘auou = 0) sjeaym jo saquunu (Z ‘(asuaqu! = € ‘ayesapow = Z ‘pyiwi = L ‘auoU = Q) sNyANid Jo Aysuagut (L :salso8aqed Z Jo 409s 12101 SN Aylep (Gp-0 Woy adueJ) SYN Ayep jo Skep 1 Jo wis ,, Apoqnue
+1¥394-1Ue Ue JO a7e]a409 ay} SI XepU| ND aniisod y ‘OL Ue ssa] Bulaq 3Nsau }eWJOU e YIM ‘payiodai sI Xapu! Ue puk ‘painseaw si skesse asauy Jo Yea WO. paseaja, aUIWeISIY Jo JUNO ay, *(syJUOW
+€<) paAejep pue (syjuow ¢-| Wo.) are} “(yYJUOW eB UIYIM) jee ‘(sKep UlYIUM) eTe|pawWU! se pasiioseze9 sem asuodse) JeIWed 40 a}a]dWOd & JO J@SUO 07 ALU! BY “AUOU JO ele ‘aja}dWod se peusisap
+sem duliodsojoAo 0) asuodsai jeqo}8 ay1++!(€-0) Ajsuequ! sniinid pue (0) suoise] Jo uo!Jeinp asesane ‘(E-0) SUOISA] JO azIs eBeIAAe ‘(E°0) Seposide ayesedas 4o AaquuNuU ‘(E-0) SUOISa] Jo JaquUNU :a400S
+Aquanas uewauaig,, '(++++) spodopnasd yim jeaym “(+++) uooeas SUIWeISIY UY} 1o7e918 }eaymM ‘(++) UONOBa1 aulWeISIY 0} }ENba jeaym “(+) }o4UOD auljeS e UBYI WW S"L <= }eaYM “(Q) }049U09 aul|eS
+0} }enba jeaym :a09s Lssv,, ‘splosays Aq panjosad sasdejai Jo aouasino90 = ¢ ‘aujweysiyue-'H Aq panjosas sasdejai Jo aouasundd0 = Z ‘sunoy vz UIYIUM Ajsnoauequods panjosai sasdejad Jo 8dUeLINIIO
+
+= L fswojdwis Jo uolssiwias Jueysuod = Q :a409s AqlJenas asdejey, ‘(¢-0) uoeunp snqunad asesane pure (E-0) Jeaym sau] ay Jo JeJaWwWeIp “(E-0) s}eaym Jo 4aquinu ‘(E-¢0) Ayenas snyunid :a109S
+Auanas ulod-py ‘wnsas ]041U09 aAeBau pure aniqisod se }}aM se winsas S,ualed ayi YIM Paxiw aue s}]a9 poojq JoUOP YoIYM UI! Aesse aseajas aUIWEIsIY ‘DYyIDadsuoU e SI XapUT EIAeDIUIN D1UOAYD ‘xapul
+NDg ‘(pasanod Isowje = € ‘S}BaYM 9818) OS-OL JO sjeaym ]JeEWS OS< = % ‘s}eaYM ade] OL JO s]}BaYM }]}BWS OS-OL = L ‘S]BBYM }]}PWS OL > = 0) S}BAYM Jo Jaquinn (Z ‘(asueyu! = € ‘ayeapoW = Z ‘py = | ‘auoU
+= 0) snqunud Jo Aysuayul (1 :saoBayed Z Jo a109s }e10} ‘a10ag AYANY BLBO!N: $%06 < IE 2109S JBOIU!}9 JO JUaWaAOAdWUI ‘@sUOdsad aIa]GWOD, £%06-%0E IB B109S ]ed|UN]9 Jo JUaWAaAodW! ‘asuodsay,
+“eLeOIN dIUOAYD ‘ND ‘eWeOIUN snoauequods d!UO4Yd ‘NSO ‘Aesse aseajas aUIWEISIY JIYdoseq ‘WHHA ‘uONeIAap
+
+puepurys ‘as ‘asuodsai jelued ‘yd ‘asuodsa, ou ‘YN ‘asuodsad ajajduwiod ‘YD ‘asoos AyAoe BLeoln ‘syn ‘Apnys ay} U! a}qeyeAe JOU SeM eJep “Y/N “3S8} UD}S LUNAS SNOo}OINe ‘I SsV ‘WW auLOdso}aAo “ys
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(yo
+paueam vaya
+“syquow 9
+404 agers
+yauow day
+°%09 86 Jad uo}so} ‘vojssiwias
+uO- 24° yeveorun Jaye ym
+vin v/N vin v/N ‘Buyney jo Aep 3 huena
+“(60'0 = d) auaunean yso 0 asuodses oO ® oO (e) (iieieno) = (jesan0) Luo ssywia (veiw) Bu os-sz (L102)
+rysseoons & paroipaid xepul 19 anmasod (9%) sxepuino (%) xepui no ves el BL v6 arejduio9- v/N 803 paseaiul)L 89 v/N (w/n) ws>__“}838 JepueToH
+asuodser (-) @)—asuodsen () GH) s(woneinp) (ep (uso
+wmes —(%) "ON ‘Issv_ wines (%) “ON'ISSYV_—(%) asuodsa1 —_(uoresnp) Gm) 34/8) CON) CON) uone|nuLios
+quawyea. YS Jey quawyees ySD aojeg ano (%) +~—-aajdwoojo asuodsesyo = esuodses 9 quawissesse © uoneinp == aS esop. eseo = @seOuoHeoIpaus payeyzew)
+uoisnjauoa @uuODINO LIEW doig asdejy aBeiuscieg aBequacieg yo uonuyag —ueneg queue, YS Apmis _yet0L_querwiosu0g —_ quauneaiL (GA) Apms
+
+ 
+
+s10}9ej Ayarjoe Bulseajas-aulweysly :s9]9114e papnjou! Jo sonsiayoeseyo Apnys (panuuod) "3 aqeL
+
+744
+
+//doi.org/10.4168/aair.2019.11.5.736
+
+https
+
+-aair.org
+
+//e
+
+https
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+Toubi et al. studied 19 patients receiving 1-3 mg/kg/day of CsA. The baseline ASSTs were positive
+
+ 
+
+for 8/19 patients (42.1%), 5 of which became negative at the end of treatment (3 complete
+responders and 2 partial responders). Of the remaining 3 positive ASSTs, 2 patients had
+complete responses, while 1 patient had a partial response. There was no significant correlation
+between the ASST results and their effectiveness in predicting favorable CsA responses.
+
+Hollander et al.'° studied the ASST scores of 55 CSU patients. The authors concluded that
+ASSTs were not predictive of a complete response to CsA treatment (P= 0.340).
+
+2) Basophil histamine release assay (BHRA)
+
+Three studies (1 RCT and 2 retrospective review studies) were included.*"*" All showed that
+CSU patients with positive baseline BHRA results responded better to CsA than those with
+negative baseline BHRA results. One study reported the suppression of the BHRA response
+was significantly increased after CsA.°
+
+Grattan et al.° analyzed the available, paired, pre-/post-treatment sera in 11 out of 14 CSU
+patients with positive BHRAs. There was a significant reduction in the mean percentage
+
+of BHRA from 36% to 5% (P< 0.0001). All 11 included patients were clinical responders
+
+to the CsA treatment; their mean UAS reduced from 23.6 to 1.2. A correlation between the
+clinical responses and serum BHRAs was reported in 4 patients who responded to CsA and
+had been followed for 16 weeks. After CsA treatment, serum BHRA significantly reduced,
+corresponding to UAS.
+
+Iqbal et al.* studied 58 severe CSU patients receiving 4 mg/kg/day of CsA. The baseline BHRA
+was positive in 27 and negative in 31 patients. Eighty-one percent of the BHRA-positive
+patients had complete CsA responses, whereas only 19% of the BHRA-negative patients did
+(P< 0.001). The authors concluded that BRHA was useful for predicting complete responses
+to CsA treatment in antihistamine-unresponsive CSU patients (P< 0.001).
+
+Hollander et al.'° studied the CU Index (a non-specific histamine release assay) in 24 CSU
+patients receiving 1 mg/kg/day of CsA. Ninety-three percent of the patients with a positive
+CU Index (defined as 10 or more) achieved complete remissions. A positive CU Index was
+therefore found to predict favorable CsA responses (P= 0.050).
+
+Coagulation and inflammatory factors (Supplementary Table $2, Table 3)
+
+1) D-dimer
+
+Asero® performed an open-labelled, prospective study of 29 severe CSU patients receiving
+CsA. The baseline plasma D-dimer levels were elevated in 18 of the 29 patients (62%; data
+not shown in the table). Seventeen of 29 patients (7 with elevated plasma D-dimer levels; 10
+with normal plasma D-dimer levels) were complete responders. Eight patients with elevated
+plasma D-dimer levels were partial responders. Four patients (3 with elevated plasma
+D-dimer levels; 1 with normal plasma D-dimer levels) were non-responders.
+
+The baseline plasma D-dimer levels showed a statistically significant negative correlation
+with the CsA response (P< 0.017). Plasma D-dimer levels during or after the CsA were
+available in 11 patients. The elevated baseline plasma D-dimer levels reverted to normal levels
+in half of the patients (10/11; 90.9% to 6/11; 54.5%) along with the clinical response. The
+authors concluded that plasma D-dimer is useful for monitoring clinical responses to CsA
+
+ 
+
+treatment in most patients with severe disease.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 745
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+Factors Predicting the Response to Cyclosporin
+
+4O Jaquunu (z ‘(asuaqu! = ¢ ‘ayesapow = Z ‘pyiw = | ‘auou = Q) snyunid jo Aysuay
+
+ 
+
+*(syeaYyM OS UeY} d4OW = € ‘S}BaYM OS-0Z = G ‘S}EAYM OZ-L = L ‘@UOU = Q) sjeayM
+
+1891408979 Z JO 8409S ]2303 SN Ajrep (Gy-O Woy adues) SYN AlleP Jo SKep 1 JO WNSg ‘UOISSILUAJ = 7 PUR qUA]]90xX9 = €
+
+‘asuodsa, poos =z ‘asuodsai yelqied = | ‘asuodsai ou = 0 :a409s asuodsaL JUIOd-G} 19/06 < Je A109 JBIIUN]D JO JUaaNcAdUU! ‘asuodsal a39)dWOD, '/06-%0E 2 2409s JeOIUIJO Jo JUaWanosdu! ‘asuodsay,
+
+‘ayes uoeqUaWIpas ayAoo1y Ue “ys ‘e109s AqIAIIOe
+
+BUedIUIN ‘syn Sulajoud aAlyoRAJ-9 ‘dO ‘eIWeOI1IN SnoaueqUOds dIUOAYD ‘NSO ‘asuodsaJ OU ‘YN ‘asuodsal JeIed ‘yd ‘asuodsad aJa}dWOd ‘YD ‘Apnjs ay} Ul a]qeyeAe JOU sem eIep “Y/N SW aULOdsO]DAD “Ys
+
+ 
+
+ 
+
+“quaunean yso 03 astiodses jeoruNo aun
+
+UUM paze!oosse JOU 1AM sjanay Ysa payen|a
+
+*(S0°0 > d) Adesoya yso ye10 03 asuodseu Ayeo
+ue annioipaid aq pinoo sjana] duo parensya uy
+“sj@na) dO JeULHOU Jo
+
+asoy UeY) usw) YSD JO UONTeINp 4e140Ys
+ey sjan2] dD parenaye yymsquaned nso
+“quawyeas so Jeye jena] dyd paseailep
+Pemoys dd perenaye Ym squaned auU Ty
+
+ 
+
+"uaunean ys9 01 esuodsai yeo}UND 942
+YM paye!Dosse yOu a4am s}aN9} dU parena|s
+
+“SIO NO] dud PUR ySO 04
+asuodsas uaamaeq punoy sem uoneIDOsse ON
+
+“squaned Jo %L/ ul parenaja Sem do
+
+ 
+
+“NSD asanas
+us quawyean ys9 0} asuodses yeo!UN}o ay
+J4UOW 03 yryasn aq osye Aew s8WIp-a eUISe|d
+
+-saseo dn-pamoyo}
+au Jo SOW U! uaUNAN YSO 01 asuodseL
+ajgesoney ai moray 03 paseadde quawyeasy
+gaye 40 Suunp sana] sewip-g ewseld
+
+*(10°0 > d) asuodsax
+‘v8 WM UoRe|aI09 onneTaU URDYIUSIS AIYSIY
+ pamoys s]an9] JeWIp-qewse|d aujeseg
+
+€SYN
+Lud
+
+OL dOviN
+
+ 
+
+v o
+(%) ON ‘usa
+
+(c92) (eet)
+ELFL8 LLFL% Sify Si/L
+
+ 
+
+Ne
+Gidd- S$ :ud€:YO- pl dO
+v/N vn v/N
+
+v o v Cad
+
+(uow) qewnee
+youoneinpueaW —(%) “ON ‘AHO
+
+vIn viN
+(ap/8w ‘ueaw) duo
+
+cud dd
+Gd D- Gd
+(S's¥) u/s (ss) w/o
+v o
+
+(%) ‘ON sOWIp- eWSeId
+
+(2) (626)
+82/88/98
+v o
+
+(%) “ON “HSA VIN Gmatyes (ima) 98
+
+(ey) @s6)
+
+drift Lpifork  ~ 2 - q
+(im v2) OL
+(im 02) 298
+Om ol) eee
+Gmail) 09
+
+(09) (or) Gym) 9°98
+
+sé si/9 fo) vIN v/N Gimp) 08
+
+el) (sis)
+
+Bis Bie
+
+v o
+
+(%)ON‘dHD WNW Gmaies Cima) 98
+
+B8OF HEL
+(ap/Sw ‘ueaw) dud 0 I (rezan0) 5 —(je19N0) gg
+
+(06) (ve)
+u/ot Wt
+Vv o
+(%) ‘ON
+seump-dewseid v/N Gates Gmail) 98
+
+ayaueq
+auos :yeIUed
+quewanoiduut
+%08-%/00S :POOD
+swoydusjo 21098
+
+ 
+
+ 
+
+aouasqe ajejduioa —asuodses (S102)
+tuorssiway- — quiod-g a v 83 6 vIN (w/N) wso oes
+Apms annoadsoud aq] uedo
+usa
+= 2 > cyt bb yoau0o AyeeH
+re
+ym) pasedea (OLOZ)
+v/N OL Gime SL SL vIN (jei08N) vso_—ByNSIYO
+quewanoidw
+%08-940S :poo5SwOrduMKS J syoo5
+aouasqe aradWod 3. odaay oad)
+MOBSIISH  yuiod-s a v B & v/N (w/n) wso o1esy
+Lyme 9s (6102)
+iswn :esuodsai ee
+yeolurja poop- és WN a € te ve v/N (w/N) vso. ogenues
+Apms annoadsoud yeqe] uado
+duo
+ayeusq
+awios :yensedquewanoidut
+°%08-940S :PooDswioyduifs jo 21095
+aouasqe ajejduioa —asuodsa (S102)
+suorssiwey- — quiod-¢ a v w 6 v/N (w/N) ws9 oes
+
+Apmys anjoadsoud ‘payjeqe) uedo
+Jeup-a euiseid
+
+ 
+
+uorsnjouop,
+
+ 
+
+y(uoneanp)
+quowyeen quewyeen (%) asuodsar —_,(uoneinp)
+yso 184 ys0 1098 qno—(%) ~—ayejduioo-—asuodsaijo
+auco3no doiq asdejey joaSequeciag aSequacied
+
+ 
+
+(wo.
+Gym) (on) Con) Jo uonejn oy
+asuodsas quawissesse uoneinp (Aep/3y/Bw) aseo aseo uoneopew. pareyrew)
+Jo vontuyea Ayueres queues eBesop ys9_Apmg e101 queywooU0D —_quaueaLL (4) Apmg
+
+ 
+
+sioqors MoyeuWeyU! pue UO!e]NZeOd :sajo!e papnjou! Jo saMsayoeseYo Apnis “E a1qUL
+
+746
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+2) C-reactive protein (CRP)
+Three studies (2 open-labelled, prospective, control studies and 1 open-labelled, prospective
+
+ 
+
+study without controls) were identified." "” Recently, Santiago et al.” studied 34 CSU patient
+receiving 3 mg/kg/day of CsA for 12 weeks. The CRP levels were elevated in 71% of patients,
+but no association with response to CsA treatment. Asero™ studied 29 severe CSU patients
+receiving 4 mg/kg/day of CsA. Baseline serum CRP levels were elevated in 5 of 27 patients
+(18.5%); of these 5 patients 3 were complete responders. The elevated baseline serum CRP
+levels showed no significant association with the clinical responses to CsA.
+
+In contrast, Ohtsuka” studied 15 CSU patients unresponsive to antihistamines, receiving 3
+mg/kg/day of CsA and tapering off after 3 months. Baseline high sensitivity-serum CRP levels
+were elevated in 9 patients and the levels decreased after CsA treatment in all patients. The
+treatment duration was significantly shorter in the elevated high sensitivity-CRP patients
+than in the normal serum CRP level patients (P< 0.050). The author concluded that CSU
+patients with elevated serum CRP showed good responses to CsA.
+
+3) Erythrocyte sedimentation rate (ESR)
+
+Asero® performed an open-labelled, prospective study of 28 patients with severe,
+antihistamine-resistant CSU receiving 4 mg/kg/day of CsA. The ESR levels were elevated in 2
+of 28 patients (1 complete responder; 1 partial responder), while those of 26 were normal (16
+complete responders; 7 partial responders; and 3 non-responders). The study suggested no
+significant association between elevated ESR levels and the response to CsA.
+
+Autoantibodies (Supplementary Table $2, Table 4)
+
+1) Antinuclear antibodies (ANAs)
+
+Two retrospective studies’*” examined the association between ANA and response to CsA
+treatment. Santiago et al.” reported that 62% of CSU patients had positive ANA but there was
+no association with CsA response. Hollander et al. reported that 6 out of 27 CSU patients
+had positive ANAs (at a titer of 21:80). All positive ANA patients achieved complete remission
+with CsA treatment. The remaining 21 patients had negative ANA results (14 complete
+remission; 7 failed treatment). There were no significant differences between the ANA
+
+results before and after CsA treatment (P= 0.100). The study showed there is no significant
+association between positive ANAs and CsA responses.
+
+2) Thyroid autoantibodies (TAs)
+
+Three studies (1 open-labelled, prospective study without controls; 2 retrospective studies)
+reported on the association between the levels of TAs and CsA responses.'*°” All studies
+showed no significant association between the levels of TAs and CsA responses.
+
+Asero® studied 11 CSU patients with positive TAs who received 4 mg/kg/day of CsA. Five
+patients (39%) had complete responses, 3 each had partial responses, and non-responses
+consecutively. Similarly, Hollander et al.'° and Santiago et al.” reported that the presence of
+TAs was not a predictive factor for CsA response in CSU patients, receiving 1 and 3 mg/kg/day
+of CsA, respectively (P= 0.920).
+
+3) Other autoantibodies
+
+Endo et al.” studied the association between the concentrations of anti-FceRIa, anti-IgE
+autoantibodies and clinical response after CsA, in 34 CSU patients receiving 3 mg/kg/day
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 TAT
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+Factors Predicting the Response to Cyclosporin
+
+“UOISS|WAJ = 7 Pue ]U;a]]99x = ¢ ‘asuodsa, poos =z ‘asuodses yeIL1ed = | ‘asuodsai ou = ¢ ‘409s asuodsai quIod-G)
+
+<(syeaym Og ueY] BOW = ¢ ‘s}eayM OS-0Z = ‘S]PA9YM OZ-L = | ‘@uOU = OQ) SjeaYM Jo Jaquunu (z ‘(asuaju! = ¢ ‘ayeJapow = Z ‘pyiwi = | ‘auou = Q) sNyanid jo Aysuaqui (| :sa1408a7e9 Z JO 409s 1210] SYN
+Ayep (Gp-0 wo. sues) syn Ayrep Jo skep 1 Jo WINS ‘08:1 48112 VNV AANISOd YW; !%06 < JO 2109S JedIUI]D Jo JUaWaACAdUI ‘asUOdsa BI@]TWIOD, %O6-Y/o0E JO 8409S BOIL] Jo Juatarcsduu! ‘asuodsay,
+
+“uleyo-o1Y304 “b1Y304 ‘Apoqnueo ny 81 ‘qv 8] ‘esuodsas
+
+jemed ‘ud ‘Apognueoqny pioiAyi ‘WL ‘asuodsad ou ‘YN ‘asuodsai ajajdwiod ‘yD ‘asoos AANOR eLeoIUN ‘syn ‘Apnjs ay) Ul ajqey!eAe JOU Sem eIep “Y/N ‘salpoqiue seajonunue “yNY ‘y eul4odsojaAo ‘yso
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vIN SELF OL
+*(986'0 = d) WSO oyasuodsay (qw/3n (w/gn
+Jeoluy pue a8} o3sqvy usamaq — ‘as = UeaL) ‘as = ueaw)
+uoljetoosse quedYyIUBIs OU SEM aueyL SV 38I-QUY sqvv 38i-nuy
+VIN SELF EBL
+“(908'0 = d) vso oyasuodsas (qwi/n (qw/8n yymae 9 5 csvn
+JeolUnO PUR DIYSOJ OI SqyW UGaMIaq “aS = UROL) ‘as + uvaw) (je1an0) (iesen0) resuodser ee(8L02)
+Uoneposse UeDYIUBIS OU SEM BOY SAVY DIYSO-NuW Sav DINOS 0 0 8e Be Teotuyo poop- svn v & ee vin (v/N) wso “e219 opua
+Apms annoadsoud eq] uedo
+sqw 31
+(yo paueam
+ata ‘syauow 9
+qquow sed 4y a1qe1s 1day,
+oso} jeueolun ‘uorssiuias Jaye
+“(660 =d) wueunven yso jo asuodse1 (esano) re80) Buneyjo Aep i> (ueipow) yw p< Auene Bu ai(LLO@) “1838
+ayejdwiooiopaid ioupip svi W/N WIN WIN WIN 6G EL 8 tre uorssiwias azejdwoo- viN 80% —-OS-Sepaseeiul)L ee 89 v/N (v/N) vs JepuenoH
+vN vIn we 8. Lyme g > ZS¥N
+-yynsau yi pur yso oyesuodsas = (-) ® © @® (qesano) (ije29n0) rasuodsas (6102) “1e8
+uganMaq PUNO} SEM UOITEIDOSSe ON (%) VL (eo) VL tC) tC) es es 9 pooy- guSvn a € ve ve v/N (w/N) vs o8eiques
+Apmis annoadso.ey
+L:YN-8cHNyUd- End
+@Liuo- s:uo- (L009) (€'6e)
+WN VIN 80/LL_— tL ayauag awios
+quawenoud ut
+CG) @) QO %/08-%0S PpOoD- (ODES
+"quawqeay yso 03 asuodsal e: Om ai) Qimal) swoyduiAs jo aouasqe asuodsay a(SLOZ)
+au) YIM pazeioosse OU aM SYL ——_(%) “ON “WL. (%) ON ‘WL = W/N ve 6s 98 ‘aqayduioo :uoissiwiey- quiod-s a v 8 «6 v/N (W/N) vs9 aiasy
+Apms ennoadsoud aq] uedo
+SvL
+(yo peueem
+LIN- way ‘syuow 9
+vLUO- 9:4O- (BL) 2) tnuow sed 40} a qe1s 1494
+“(wo=d) vn vN ie =—B/9 UOISS} TEMES EAN “uOIssiuted OYE
+asuodsa yso ym pareoosse —(-) eo) Oo © (neseno) e100) Buineyjo Aep > (uepow) ym p-¢ ane Bus (L102) “1838
+‘AnueayjuBis you sem Aynnisod yNV — (%)ON“WNW —(%) “ON ‘WNW v'6G GEL Ea ‘6 uorssiwas ayejdwo9- vin 80S —«OS-SGpaseasul)L We 89 WN (w/n) ws JapuenoH
+vN vIn ee 2 Lyme 9 > Ls¥N
+“]nseu WN pur ys oyesuodsar —(-) o OO & (e100) (iesen0) resuodsay (6102) 13
+uaamjag PuNoy sem UO!RIDOSSE ON (%) WNW (%) vNV ie) ie) es es yeoluro poop- svn a 7 ve ve v/N (v/N) vs odenues
+Apis annoadso.ey
+3vNV
+(uoneanp) (vs Jo
+quawiyeal quawyea (%) asuodsas (uoneinp) (ON) (CON) ‘uoITe|NWLIO
+ysoueyy ysoaiojea = M0 (%) ayejdwos jo —asuodsai yo ‘esuodsea quauissasse (ym) uoneunp. (Kep/3y aseo aseo paw! paiayew)
+uoysnjpuo3 ‘u0oIno doiq asdejey — afequaciag —aBequaaiag yo uonuyaq Auenas queweay, —/Bwu) aBesop ys Apmg ero —_yueyWODU0D queuneay, (A) Kpmg
+
+ 
+
+salpoqiueojne :sayare papnjoul Jo sonsiiaqoeseyo Apnis “py a1qeL
+
+748
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+of CsA for 4 weeks. There was no significant association between these factors and CsA
+response (P= 0.506, P= 0.986, respectively).
+
+ 
+
+Cytokines and immunoglobulins (Supplementary Table $2, Table 5)
+
+1) Immunophenotypical analysis of lymphocytes
+
+One open-labelled, prospective study by Loria et al.° examined the association of the
+distribution of serum blood T, B, and natural killer (NK) cells before and after short-term CsA
+treatment in 10 CSU patients. At baseline, T cells (CD3, CD4, CD8), B cells (CD19), and NK cells
+(CD56, CD57) were normal, but high percentage of activated B cells (CD19+CD23+ cells) in all
+patients. After CsA treatment, the CD3, CD4, CD8, CD56, and CD 19 expression were reduced,
+but no statistically significant differences. A decrease in activated B cells was reported in only 2
+patients, but the differences in the mean percentages were not statistically significant.
+
+2) Serum immunoglobulins (Igs), C3, C4, circulating immune complexes (CICs)
+
+One open-labelled, prospective study investigated the association of serum Igs, C3, C4
+levels and CICs before and after CsA treatment. Loria et al.° studied 20 patients with
+antihistamine-resistant CSU. CsA (5 mg/kg/day for 8 weeks) was prescribed for 10 patients,
+and prednisolone (20 mg/day for 8 weeks) was prescribed for the other 10. The serum Igs,
+C3, and C4 complement levels were normal either before or after receiving CsA treatment,
+whereas the CICs were negative before and after treatment with CsA. The findings indicated
+that serum Igs, C3, C4 and CICs are not associated with the responses to CsA treatment.
+
+3) Serum IgE
+
+Santiago et al. and Endo et al.? studied the association between serum IgE levels and clinical
+responses after 3 mg/kg/day of CsA treatment. They found that clinical responders were
+significantly higher in patients with low serum IgE levels than in those with high serum IgE
+levels (P= 0.0002 and P= 0.0009, respectively). Taken together, serum IgE levels might be
+one of the biomarkers for predicting the response to CsA therapy.
+
+4) Serum IL-2, IL-5, and TNF-a
+
+Serhat Inaloz et al.’ performed an open-labelled, prospective study and reported that the
+serum IL-2, IL-5, and TNF-a levels were elevated in all 27 CSU patients before treatment,
+with consequent decreases after treatment with CsA. The increase in clinical efficacy and the
+significant decreases in serum IL-2, IL-5, and TNF-a levels suggested that inhibition of IL-2,
+IL-5, and TNF-a. generation might be involved in the action of CsA. The authors concluded
+that there was a significant association between higher levels of serum IL-2, IL-5, and TNF-a
+and good responses to CsA treatment.
+
+DISCUSSION
+
+The study of reliable factors could lead to a personalized approach in the management of
+CSU and offer objective information regarding response to therapy. Our systematic review
+showed that prior histories of urticaria (1 non-RCT); positive ASST results (3 non-RCTs);
+positive baseline BHRAs (1 RCT, 2 non-RCTs); elevated baseline plasma D-dimer levels (1
+non-RCT); and elevated baseline serum IL-2, IL-5, and TNF-a levels (1 non-RCT) might help
+predict favorable CsA responses in CSU patients. Decreased plasma D-dimer levels (1 nonRCT); and decreased serum IL-2 (1 non-RCT), IL-5 (1 non-RCT), TNF-a levels (1 non-RCT),
+and low baseline serum IgE levels (2 non-RCTs) after CsA treatment correlated with clinical
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 749
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+‘ing the Response to Cyclosporin
+
+Factors Predi
+
+(a8ed xeu ay} 0] panunuos)
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘Kep/8y/3ui 06
+0 OL oO OL 0 OL oO OL 0 OL oO OL v/N OL OL aU}OSIUPald
+vaugjosiupaid =, o o o o o oO o oO oL o oO
+yunsoyssymsoe (+) ) VY @ YT @& © OO FY @ Yio
+quawneal eye pue quawa}dwos quawa}dwos
+aloyaqanneBou aiamsoI9 S019 yo'eo SB} wines so10 ya's SB} wines
+“auojostupaid ym 40 ys
+uM Jaya quaueAN eye
+pur asoyaq yews0u asm
+sanqen $9 pur €9 ‘s8] wines SOID ‘vO ‘ED ‘SB] wnsas s ob OL (win) vs
+fep/By/Bui 0%
+“WSO YIM qUaWTeA + cd 8s Ed v/N ol OL auO|OSIUpald
+Jaye payipous Ayueoyiusis wo Eid 6s ee
+jouarmserooyduiA a (9) uoissexco (6) uorssaidxa (9) uorssaudxo (%) uorssascxo
+Uo uoIssaidxe +S0D+6LGD +€C0D+6LD URAW = ++SGD+6LGI RAW = +ETTD+GLD URW = + S09 +610 URE
+“(+e¢a9+6109)
+s]}89 @ payeanoe wines
+jo aBequeaiad ysiy e
+pamoys squared yy sqasqns 120 @ payeanoe wines $ ob | OL (w/n) ws
+Aep/By/3u1 06
+“yso WIM quaUeaN 98% 89% vN OL OL auojosiupard
+saye payipow Aqueoyiudis 00% 961
+jou asamsavooyduuhy @ (an/snao) uorssasdxa GLAD UeaW (ari/syeo) uossaidxe Ladd URE
+inias uo uorssasdxe 6109 syed g wnsas s ool (v/N) so
+‘Aep/By/3u1 06
+8th 868 ue vN OL OL auojosiupald
+“ws UUM eve Ob ue
+quewnean 1eye payjpow! (ari/sy20) (an/sye0) (ari/sye0)
+KaueoyiuBis ou eam ——_uossaudxe uojssaidxe uossaidxe uojssaidxe
+uojssaadx@ 9ga3 pur LsaD 9Sd9 Ura sap ueaW 9Sd5 Ura sap ues
+“squared ye ul yewi0u
+SPM qUAUU}eAN} a10J9q $}]29
+DN wunasjo URNQUASip Sys seo IN winses s ol OL (v/N) vso
+Kep/By/3u1 06
+904 wee v9s'l 619 888 Wort 0 ov (ym) OOL vIN OL OL ‘uojosiuperd
+OLS OSL ese'L BLS ‘LBL eg
+‘weunean — (an/syeo)——(ari/sye9)——(ari/syjeo)_—(ani/sjjao)_— artsy) (aif/syy@9)
+ys Jaye paylpow you uoissaidxe uoissaidxauojssaidxa~—uoissaidxe—uoissaidxe —_uoissaudxe
+alamgao puedo ‘edd sGdoueeW Fa URaW EdoUueEW gsdoUREW PradUeEW sad ueEW (m8) COL
+sswuaned (quened ye ——_;auoos
+ye ul euuou sem uawyeany ulo=aioos = Aquanas.
+aaye pue ai0aq syjeo 1 yeouyjo) = — woydwiXs oe(L002)
+winJas Jo UONUISIP BL syj@o Lines oO id (Gms) 00L — (MZ) COL _—_-Pauyap I0N- yeqoL, 8 $ ol OL v/N (W/N) vso*J238 eUOT
+Apms annoadsoud pajeqe] uado
+S019 "¥9 ‘€9 ‘S81 ‘s}j20 g payennoe ‘s}j99 4 ‘S}}99 WN ‘S}}99 1 wNIaS
+,(uoneinp) (Rep (ws yo
+(%) asuodses —_,(uonesnp) Qm) — /84/8w) CON) (on) uore|nUO}
+quawnean yso seyy queUeAA yso a10)98 qno—(%) ~—arajduioo © asuodse © asuodsas © quouissasse © uonenp © @Besop aseoaseD UONRDIpau —_payey.eW))
+uoisnjoueg auioo3no doig asdejey yoquscied jo qedieg —youonuyeq ——yienas —queuneen ys) Apmig_yev01_quejuiooucg —quaunead, (af) kpmag
+
+ 
+
+saulyoyfo :sajo!U1e papnjou! Jo sasiuayoeseyo Apnis *¢ aqeL
+
+750
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+AAIR™
+
+Allergy, Asthma &
+Immunology Research
+
+Factors Predicting the Response to Cyclosporin
+
+*(sjeaym Og ueY} a40W = ¢ ‘S}LAYM OS-0Z =Z ‘S}RaYM OZ-L =
+
+L ‘euou = 0) syeaym Jo saquinu (Z ‘(asuajul = ¢ ‘ayesapow = Z ‘pw = | ‘euou = Q) snynid Jo Aysuayul (| :salioBeyzed Z Jo a109s Je307 SwN Ajlep (Gr-0 Woy eBuRJ) SvN Ajlep Jo Sep Z Jo WNSg ‘(E-0) s}eayM
+
+4O Jaquinu pue ‘(¢-0) avey “(€-0) Asanas Bulyou :a109s Ay Janes WOdWAS 12101; $%06 < Je a109S ]ed!
+“eydje 10}9e4 Siso199uU JOWIN) “-4NL ‘uL{Na}JaqU! *7| ‘asuodsad Jeed ‘Yq ‘asuodsa, ou ‘YN ‘asuodsal aja}dwoo
+
+ 
+
+9 Jo Juawanosdul ‘asuodsai 939)dWOD, $%06-%0E Ye 8409S ]BIUN]D Jo JUaWaAoiduI! ‘“asuodsey,
+
+“uD ‘uoneIAap puepuris ‘Gs ‘a100s AWANOR BLWeONIN ‘syn ‘sexe;dwioo aun! BUIJE|NDAI9 ‘sDID ‘suNqo}ZounwU ‘s8} ‘Apnys ay} u! a}qeyeAe JOU sem eIep “W/N S4a)})} JeANTeU SN Sy auLdodso}DA9 “YS
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yonuoo
+‘Bumas yey - - - vO F808 a VIN AuueeH
+Siu} Ul SO JO UORDE ay Ut (er =¢ “jonu0s
+Panjonut s! UoNNeJOUSS D-4NL *L000°0 = d ‘auyjaseq (1000°0 > d)
+wun4es4o uoriqiyu 4a SEFB'9 URN IOMOH) LE=IBL «LL FLOTE Be F9C'bL
+yso88ns sjen9}0-4NL wines (qw/3d) (qw/3d)
+uy aseauoep Anuesyiuss pue ——(ueaw) /svn D-JNL winias (ueaw) ssvn D-3NL wes
+Aoeouye Jeo ‘)-4NL wmas v st a a“ (je108N) vso
+yenuco
+Teo ee a 8 BBE= S86 - v/N we ‘Auge
+ay ut parjonu (8¢'0=d “jonu0D
+S-T1wuniasjo uomqi {100° =¢ ‘auyjaseq (to0'0 = 4)
+yey ISe8ZNs $7] wnu9s Ul BEF URI OMO)) F'DEF HL «LL F LOVE BLOF Hee
+aseaiep Anueoyu3s pue —(ueewi) svn (1/3) s-iwinyes = (ueew) svn (1w/8d) st Win4as
+uyaseasouy si wines a rd Bo & (je109N) ws
+ynuco
+‘Bumes 2 = 0 G99L = ZLLLy = 0 * = 5 = v/N we ‘Auge
+JeoIUN siUa UI ysD Jo LORDe (vis'o=d
+‘uy ut parjonut si uoneseued jonuos $1000°0 > d
+Z-1 wnuas jo uongiyut “auyjeseq ey 49Mo}) (1000 =d)
+yeyy 1S9BBNs 1] wnuas Ut Bere SCLLF BY'ZeS LL Love e813 = 99°%99 euyjaseq 40 48002)
+aseauoap Ajueoyiugis pue svn ueeW (qw/n) oI wnuas zswn.ueeW (qwy/n) 6-1 wnues %S%> 01 SVN ye 39 ZOPUI
+Adeouye Jeo!uNO ul aseasoU} Bl wag wW/N = (Mr) ¥'0L = M4) COL yoUONONpaY- isn ¢ St rd rd VIN (je108N) WSO yeyses
+Apmis ennoadsoud jeqe] uedo
+D-ANL ‘STI STI wes
+“Goo! = d) (LMI
+USWn ul esees29p) qwawyees
+ys9 03 asuodsas yeotuyjo
+am uonejai09 anneZou
+queoyjudis Ajayesepous
+epamoys sien] 331 v/N 2aN- S'8bL UN‘aurjaseq wnas “(L00°0 = d) (02-0) s* W/N2uO- (se-s¢'z) 0€ Ob HO- ro
+syapuodsas WSO Ul Jamo} (ueipow) (qw/ni ‘ueew) (e8ues ‘ueipew) (quwi/ni ‘ueew) we 95zsvn 2(6102)
+Anueoyuais a10ms]9n9) tsvn 38) wines tsvn aBjwines (ieseno) ——_({yexan0) sasuodsoi R20
+38] eujaseq winses ueaW 38) wines ye 0), 0 es €5 —eoquapoop- gus a £ ve v8 vIn (w/N) vso oBenues
+‘Apms annoadsonay
+*(€000°0 = d)
+yso 03 asuodsai (8°19 ‘12= U) :9<svn me
+Jeoluqo pue 38] wnses (ea'88 L=u) :9 5 “svn w9>LsvN
+Je103 uaamgaq UoReIDOsSe v/N BE = 85% (yesan0) x (8102)
+JUPOYIUBIS SEM BBY. (Quint ‘as = ueaw) 33) wines ye201 i) Be ssw v e ve VE vin (W/N) vso "Je 39 opua
+Apmis annoadsoud yeqe] uado
+38] wruas
+,(uoneinp) (ep (vso jo
+asuodses —_,(uonesnp) Qm) — /84/8w) CON) (on) ‘uolqe]NuI0}
+quawnean yso seyy quawnean yso a10j8 (%)  arajdwoo —asuodses — asuodsas  quewissesse uoneinp © aBesop sed aseo uoNesIpaul —_pajay eu)
+uoisnjoueg ‘auioaino doig asdejey yoquscied jo qedieg —youonuyeq ——yienas —queuneen ys) Apmig_yev01_quejuiooucg —quaunead, (af) kpmg
+
+ 
+
+ 
+
+saulyoyfo :saja!ue papnjou! Jo sonsisayoeseyo Apna (panu!quod) *s aqeL
+
+751
+
+https://doi.org/10.4168/aair.2019.11.5.736
+
+https://e-aair.org
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+improvement; they might be used to monitor clinical CsA responses. However, it should be
+
+ 
+
+noted that there is only 1 study regarding a history of urticaria, either acute or chronic.
+
+Histamine-releasing activity can be evaluated by a BHRA and the flow cytometric
+measurement of CD63 expression. Basophil activation can induce the release of mediators as
+well as the expression of membrane-bound activation markers, such as CD63 and CD203c.**?°
+CD63 up-regulation has been shown to be correlated with histamine release from activated
+basophils.’ Three studies concluded that CSU patients with positive baseline BHRA results
+responded better to CsA than those with negative results. The suppression of the BHRA
+response was significantly increased after CsA treatment.*'*°
+
+The pathogenesis of CSU has been reported to be associated with thrombin generation. The
+D-dimer level is a marker for fibrin generation and subsequent degradation.” One study
+reported that baseline plasma D-dimer levels showed a statistically significant negative
+correlation with the CsA response. The authors concluded that plasma D-dimer is useful for
+monitoring the clinical response to CsA treatment in most patients with severe diseases.”
+
+Pro-inflammatory cytokines, released from T cells, also play a major role in the pathogenesis
+of CSU.” CsA reduced the effect of the transcription factor in T cells that regulate the
+transcription of a number of cytokine genes including IL-2, IL-6, and TNF-a.” Serhat Inaloz
+et al.’ reported a significant association between higher levels of serum IL-2, IL-5, and TNF-a
+and good responses to CsA treatment.
+
+Several limitations should be noted in this study. The results should be interpreted with
+caution. First, we cannot exclude the possibility of publication bias as the majority of
+included articles were observational studies, which did not have pre-registered study
+protocols. Therefore, they might not report negative results. In addition, the included studies
+did not adjust the results for potential confounders and we cannot be certain whether the
+observed results were a function of the variable of interest or confounders. The sample size
+in observation studies is also frequently not optimized for a hypothesis testing. Therefore,
+the lack of statistical significance may be simply due to the lack of statistical power and does
+not suggest the lack of clinical relevance. Secondly, a general problem in the assessment of
+potential factors is the lack of specificity for the predicting factors. For example, D-dimer
+
+or CRP levels have been shown to be elevated in CSU and to correlate with the responses to
+treatment. However, they can be elevated in many other diseases (¢.g., chronic infections and
+autoimmune disorders). Moreover, the differences in the study designs and the ages of the
+patients included in various studies should be taken into consideration: these factors could
+have influenced the outcomes of the potential-factor assessments. RCTs regarding factors
+that could potentially predict a favorable response to CsA treatment for CSU are needed
+
+to fulfil the gap. Thirdly, only 5 of 13 articles described marketed formulations of CsA (the
+microemulsion or the original formulation) which may have affected the interpretation of
+response to CsA in each study.
+
+In conclusion, since most positive results were from non-RCT articles and some data were
+still inconsistent, this systematic review identified no reliable practical biomarker for
+predicting CsA treatment response. There were no positive predictors with good consistency
+and mechanical plausibility.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 752
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+ACKNOWLEDGMENTS
+
+ 
+
+We thank Dr. Patompong Ungprasert, MD, MS (Clinical Epidemiology Unit, Department
+of Research and Development, Faculty of Medicine, Siriraj Hospital, Mahidol University,
+Bangkok, Thailand) for his assistance with the statistical assessment. We also thank Dr.
+Rungsima Kiratiwongwan for all her kind support.
+
+SUPPLEMENTARY MATERIALS
+
+Supplemetary Table $1
+
+Quality and risk of bias assessment of included articles
+Click here to view
+
+Supplementary Table $2
+GRADE evidence profile of factors predicting response to cyclosporine treatment in CSU
+
+Click here to view
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, et al. The EAACI/GA(2)LEN/
+EDE/WAO Guideline for the definition, classification, diagnosis and management of urticaria. The 2017
+revision and update. Allergy 2008;73:1393-414.
+
+PUBMED | CROSSREF
+
+2. Matsuda S, Koyasu S. Mechanisms of action of cyclosporine. Immunopharmacology 2000;47:119-25.
+PUBMED | CROSSREF
+
+3. Marsland AM, Soundararajan S, Joseph K, Kaplan AP. Effects of calcineurin inhibitors on an in vitro assay
+for chronic urticaria. Clin Exp Allergy 2005;35:554-9.
+
+PUBMED | CROSSREF
+
+4. de Montjoye L, Herman A, Nicolas JF, Baeck M. Treatment of chronic spontaneous urticaria:
+immunomodulatory approaches. Clin Immunol 2017;190:53-63.
+PUBMED | CROSSREF
+
+5. Harrison CA, Bastan R, Peirce MJ, Munday MR, Peachell PT. Role of calcineurin in the regulation of
+human lung mast cell and basophil function by cyclosporine and FK506. Br J Pharmacol 2007;150:509-18.
+PUBMED | CROSSREF
+
+6. Grattan CE, O'Donnell BF, Francis DM, Niimi N, Barlow RJ, Seed PT, et al. Randomized double-blind
+study of cyclosporin in chronic ‘idiopathic’ urticaria. Br J Dermatol 2000;143:365-72.
+
+PUBMED | CROSSREF
+
+7. Serhat Inaloz H, Ozturk S, Akcali C, Kirtak N, Tarakcioglu M. Low-dose and short-term cyclosporine
+treatment in patients with chronic idiopathic urticaria: a clinical and immunological evaluation. J
+Dermatol 2008;35:276-82.
+
+PUBMED | CROSSREF
+
+8. Kulthanan K, Chaweekulrat P, Komoltri C, Hunnangkul S, Tuchinda P, Chularojanamontri L, et al.
+Cyclosporine for chronic spontaneous urticaria: a meta-analysis and systematic review. J Allergy Clin
+Immunol Pract 2018;6:586-99.
+
+PUBMED | CROSSREF
+
+9. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, et al. Preferred reporting items for
+systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev 2015;4:1.
+
+PUBMED | CROSSREF
+
+ 
+
+10. Higgins J. Cochrane handbook for systematic reviews of interventions version 5.1.0 [Internet].
+Chichester: John Wiley & Son; 2011 [cited 2019 Jan 10]. Available from: http://handbook.cochrane.org.
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 753
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+11. Slim K, Nini E, Forestier D, Kwiatkowski F, Panis Y, Chipponi J. Methodological index for non-randomized
+studies (minors): development and validation ofa new instrument. ANZ J Surg 2003;73:712-6.
+PUBMED | CROSSREF
+
+12. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, et al. GRADE: an emerging
+consensus on rating quality of evidence and strength of recommendations. BMJ 2008;336:924-6.
+PUBMED | CROSSREF
+
+ 
+
+13. Asero R. Plasma D-dimer levels and clinical response to ciclosporin in severe chronic spontaneous
+urticaria. J Allergy Clin Immunol 2015;135:1401-3.
+PUBMED | CROSSREF
+
+14. Iqbal K, Bhargava K, Skov PS, Falkencrone S, Grattan CE. A positive serum basophil histamine release
+assay is a marker for ciclosporin-responsiveness in patients with chronic spontaneous urticaria. Clin
+Transl Allergy 2012;2:19.
+PUBMED | CROSSREF
+
+15. Boubouka CD, Charissi C, Kouimintzis D, Kalogeromitros D, Stavropoulos PG, Katsarou A. Treatment of
+autoimmune urticaria with low-dose cyclosporin A: a one-year follow-up. Acta Derm Venereol 2011;91:50-4.
+PUBMED | CROSSREF
+
+16. Hollander SM, Joo SS, Wedner HJ. Factors that predict the success of cyclosporine treatment for chronic
+urticaria. Ann Allergy Asthma Immunol 2011;107:523-8.
+PUBMED | CROSSREF
+
+17. Ohtsuka T. Response to oral cyclosporine therapy and high sensitivity-CRP level in chronic idiopathic
+urticaria. Int J Dermatol 2010;49:579-84.
+PUBMED | CROSSREF
+
+ 
+
+18. Baskan EB, Tunali S, Turker T, Saricaoglu H. Comparison of short- and long-term cyclosporine A therapy
+in chronic idiopathic urticaria. J Dermatolog Treat 2004;15:164-8.
+PUBMED
+
+19. Di Gioacchino M, Di Stefano F, Cavallucci E, Verna N, Ramondo §, Paolini F, et al. Treatment of
+chronic idiopathic urticaria and positive autologous serum skin test with cyclosporine: clinical and
+immunological evaluation. Allergy Asthma Proc 2003;24:285-90.
+PUBMED
+
+20. Loria MP, Dambra PP, D'Oronzio L, Nettis E, Pannofino A, Cavallo E, et al. Cyclosporin A in patients
+affected by chronic idiopathic urticaria: a therapeutic alternative. Immunopharmacol Immunotoxicol
+2001;23:205-13.
+PUBMED | CROSSREF
+
+21. Toubi E, Blant A, Kessel A, Golan TD. Low-dose cyclosporin A in the treatment of severe chronic
+idiopathic urticaria. Allergy 1997;52:312-6.
+PUBMED | CROSSREF
+
+22. Santiago L, Ferreira B, Ramos L, Goncalo M. IgE levels are negatively correlated with clinical response to
+ciclosporin in chronic spontaneous urticaria. Br J Dermatol 2019;180:199-200.
+PUBMED | CROSSREF
+
+23. Endo T, Toyoshima S, Kanegae K, Izaki S, Nishimori N, Ito M, et al. Identification of biomarkers for
+predicting the response to cyclosporine A therapy in patients with chronic spontaneous urticaria. Allergol
+Int 2019;68:270-3.
+PUBMED | CROSSREF
+
+24. Schroeder JT, MacGlashan DW Jr, Lichtenstein LM. Human basophils: mediator release and cytokine
+production. Adv Immunol 2001;77:93-122.
+PUBMED | CROSSREF
+
+ 
+
+25. Falcone FH, Haas H, Gibbs BF. The human basophil: a new appreciation of its role in immune responses.
+Blood 2000;96:4028-38.
+PUBMED
+
+26. Ye YM, Yang EM, Yoo HS, Shin YS, Kim SH, Park HS. Increased level of basophil CD203c expression
+predicts severe chronic urticaria. J Korean Med Sci 2014;29:437.
+PUBMED | CROSSREF
+
+27. Knol EF, Mul FP, Jansen H, Calafat J, Roos D. Monitoring human basophil activation via CD63 monoclonal
+antibody 435. J Allergy Clin Immunol 1991;88:328-38.
+PUBMED | CROSSREF
+
+28. Asero R, Tedeschi A, Coppola R, Griffini S, Paparella P, Riboldi P, et al. Activation of the tissue factor
+pathway of blood coagulation in patients with chronic urticaria. J Allergy Clin Immunol 2007;119:705-10.
+PUBMED | CROSSREF
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 754
+Allergy, Asthma & AAI R
+Factors Predicting the Response to Cyclosporin Immunology Research
+
+29. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies against the highaffinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-604.
+PUBMED | CROSSREF
+
+30. Tokura Y, Récken M, Clark RA, Haliasos E, Takigawa M, Sinha AA. What are the most promising
+strategies for the therapeutic immunomodulation of allergic diseases? Exp Dermatol 2001;10:128-40.
+PUBMED | CROSSREF
+
+ 
+
+https://e-aair.org https://doi.org/10.4168/aair.2019.11.5.736 755
+

@@ -1,0 +1,1021 @@
+Asia Pac Allergy. 2020 Apr;10(2):e12
+
+https://doi.org/10.5415/apallergy.2020.10.e12
+
+PISSN 2233-8276-elSSN 2233-8268
+
+Asia Pacific allergy
+
+ 
+
+Original Article
+
+® Check for updates |
+
+6 OPEN ACCESS
+
+ 
+
+Received: Dec 10, 2019
+Accepted: Apr 2, 2090
+
+*Correspondence to
+
+Yoshimichi Okayama
+
+Allergy and Immunology Research Project
+Team, Research Institute of Medical Science,
+Center for Allergy, Center for Medical
+Education, Nihon University School of
+Medicine, 30-1 Oyaguchi-kamicho, Itabashiku, Tokyo 173-8610, Japan.
+
+Tel: +81-3-3272-811
+
+Fax: +81-3-3972-8171
+
+E-mail: okayama.yoshimichi@nihon-u.ac.jp
+
+Takahiro Endo and Shota Toyoshima
+contributed equally to this article.
+
+Copyright © 2090. Asia Pacific Association of
+Allergy, Asthma and Clinical Immunology.
+
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+
+ORCID iDs
+
+Takahiro Endo @
+https://orcid.org/O000-0003-3590-7051
+Shota Toyoshima @
+https://orcid.org/0000-0002-3474-5743
+Koremasa Hayama (®
+https://orcid.org/OO00-0001-8651-2493
+Maho Tagui ®
+https://orcid.org/0000-0001-8152-6802
+Yusuke Niwa @
+https://orcid.org/0000-0002-6613-2976
+
+https://apallergy.org
+
+Relationship between changes in the
+7-day urticaria activity score after
+treatment with omalizumab and the
+responsiveness of basophils to FceRI
+stimulation in patients with chronic
+spontaneous urticaria
+
+Takahiro Endo ®*?*+t, Shota Toyoshima ®*?*t, Koremasa Hayama ®*?%,
+Maho Tagui ®*”*, Yusuke Niwa ()**, Mana Ito’?*, Tadashi Terui ®”*, and
+Yoshimichi Okayama ®*?*"
+
+‘Allergy and Immunology Research Project Team, Research Institute of Medical Science, Nihon University
+School of Medicine, Tokyo, Japan
+
+*Center for Allergy, Nihon University School of Medicine, Tokyo, Japan
+
+‘Department of Dermatology, Nihon University School of Medicine, Tokyo, Japan
+
+“Center for Medical Education, Nihon University School of Medicine, Tokyo, Japan
+
+ 
+
+ABSTRACT
+
+Background: About one-half of all patients with chronic spontaneous urticaria have low or
+less reactivity of the basophils to FceRI stimulation. However, the differences in the clinical
+characteristics between patients who show normal and attenuated basophil reactivities to
+FceRI stimulation are still unclear. Furthermore, it also remains unknown as to what factors
+induce the poor reactivity of basophils to FceRI stimulation.
+
+Objective: The aim of the study is to investigate the differences in the clinical characteristics
+between patients who show normal and attenuated basophil reactivities to FceRI stimulation.
+Methods: We compared the clinical characteristics, including the autologous serum skin
+test-positive rates, serum concentrations of anti-IgE and anti-FceRIa autoantibodies, and the
+FceRI-crosslinking ability of these autoantibodies between patients with a negative basophil
+activation test (BAT) (<10% CD203c"*" basophils, n = 9) and positive BAT (>10% CD203c""
+basophils, n = 13). We also monitored the changes in the 7-day urticaria activity scores after
+treatment with omalizumab, as compared to the score at the baseline, between the BATpositive and BAT-negative patients.
+
+Results: The BAT-negative patients showed a significantly higher urticaria control test
+
+score than the BAT-positive patients (p = 0.01). There were no significant differences in
+
+the autologous serum skin test-positive rates, concentrations of anti-IgE and anti-FeeRIa
+autoantibodies, and the FceRI-crosslinking ability of these autoantibodies between the
+
+2 groups. After treatment with omalizumab for 35 days, the score decreased to under 15
+(corresponding to controlled or mild chronic spontaneous urticaria) in all of the BATnegative patients, whereas in 6 out of the 13 BAT-positive patients, the scores remained over
+16 (corresponding to moderate or severe chronic spontaneous urticaria).
+
+yi2
+
+ 
+
+ssoudyurjuux {5} 4a pos
+Omalizumab and basophil activation test in CSU patients
+
+Asia Pacific allergy
+
+ 
+
+Tadashi Terui Cio}
+https://orcid.org/O000-0002-0275-4311
+Yoshimichi Okayama @
+
+https: //orcid.org/0000-0001-5469-3541
+
+Conflict of interest
+There are no financial or other issues that
+might lead to conflict of interest.
+
+Author Contributions
+
+Conceptualization: Yoshimichi Okayama.
+Data curation: Takahiro Endo, Shota
+Toyoshima, Koremasa Hayama, Maho Tagui,
+Yusuke Niwa, Mana Ito. Formal analysis:
+Takahiro Endo, Shota Toyoshima. Funding
+acquisition: Yoshimichi Okayama, Tadashi
+Terui. Methodology: Takahiro Endo, Shota
+Toyoshima, Yoshimichi Okayama. Project
+administration: Yoshimichi Okayama, Tadashi
+Terui. Visualization: Takahiro Endo, Shota
+Toyoshima, Yoshimichi Okayama. Writing
+
+- original draft: Yoshimichi Okayama. Writing review & editing: Yoshimichi Okayama.
+
+https://apallergy.org
+
+Conclusions: The weak reactivity of basophils to FceRI stimulation may not be due to the
+desensitization of basophils by anti-IgE or anti-FceRIa autoantibodies. The time to response
+to omalizumab might differ between BAT-negative and BAT-positive patients with chronic
+spontaneous urticaria.
+
+Keywords: Autoantibody; Basophil; Basophil activation test: FeeRIa; Immunoglobulin E;
+Urticaria
+
+INTRODUCTION
+
+Chronic spontaneous urticaria (CSU) is characterized by the spontaneous occurrence of
+systemic daily wheals that persist for at least 6 weeks [1]. Basophils from patients with CSU
+have been shown to exhibit a bimodal response to anti-IgE activation [2]. About one-half
+of CSU patients show reduced anti-IgE-induced histamine release from basophils, and are
+designated as showing a negative result on the basophil activation test (BAT) (hereinafter,
+BAT-negative patients). Although an earlier study suggested a link between the serum
+histamine-releasing activity and the reduced response of basophils to anti-IgE stimulation
+in patients with CSU, evidence has also been accumulated to suggest that the reduced
+basophil response to anti-IgE stimulation can also be noted in subjects without serum
+histamine-releasing activity [2, 3]. Syk deficiency has been shown to be more common in
+BAT-negative patients than in BAT-positive patients, cold urticaria patients, atopic patients,
+or healthy donors (p < 0.05) [4]. It has been shown that in some patients with CSU, anti-IgE
+or anti-FceRI a-chain (FceRIa) autoantibodies (AAbs) induce downregulation of Syk in the
+eripheral blood basophils [4]. We previously demonstrated that the ability of the anti-IgE
+AAbs to induce FceRI crosslinking differed significantly between nonatopic healthy subjects
+and CSU patients [5]. Yanase et al. [6] mentioned in their review, that basophils in CSU
+
+ 
+
+atients appear to be in a constant state of mild activation and continuously release small
+amounts of histamine.
+
+It has been suggested that a positive basophil histamine release assay (BHRA) and positive
+autologous serum skin test (ASST) are predictive ofa slow response to omalizumab in patients
+with CSU [7]. These assays are used to detect serum AAbs directed against either cell-bound
+IgE or unoccupied FceRIo [7]. Furthermore, the inability of the serum from patients with CSU
+to upregulate CD203c expression on the peripheral blood basophils of healthy subjects has
+been reported to be correlated with the clinical response to omalizumab [8]. These findings
+suggest that patients with CSU who have some histamine-releasing factors, including AAbs
+against FceRIa and IgE in their sera show a slow or weak response to omalizumab therapy.
+Therefore, we hypothesized that the low reactivity of basophils to FceRI stimulation might be
+due to desensitization of the basophils by anti-IgE and/or anti-FceRIa AAbs, and that BATnegative patients may show a relatively slow or weak response to omalizumab.
+
+MATERIALS AND METHODS
+
+Ethical considerations
+
+This study was approved by the Ethics Committees of the Nihon University School of
+Medicine (RK-15908-12). All the subjects provided written informed consent in accordance
+with the Helsinki Declaration of the World Medical Association.
+
+https://doi.org/10.5415/apallergy.2020.10.e12 2/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific al | lergy
+
+ 
+
+https://apallergy.org
+
+Patient enrollment
+
+Twenty-two consecutive patients with CSU who were receiving treatment with omalizumab
+(15 females and 7 males; age range, 24 to 87 years) were recruited for this study between
+April 2017 and August 2018. The characteristics of the patients are summarized in Table
+
+1. The majority of patients were referred by doctors in private practice to the outpatient
+clinic of Nihon University Hospital. Of the 22 patients, 21 had already received treatment
+with high-dose H1-antihistamines. None of the patients had were received treatment with
+systemic corticosteroids or cyclosporine within the previous 3 weeks. We also enrolled 20
+nonatopic healthy control (NC) subjects (8 females and 12 males; age range, 23 to 64 years)
+with no history of urticaria, asthma, allergic diseases, or autoimmune diseases as negative
+controls for the measurement of the anti-IgE and anti-FceRIa AAbs concentrations, and also
+measurement of the ability of anti-FceRIa and anti-IgE AAbs to induce FceRI crosslinking in
+an in vitro elicitation test (Table 1).
+
+Definitions and study protocol
+
+The diagnosis of CSU was made according to the classification of the European Academy of
+Allergy and Clinical Immunology (EAACI), the Global Allergy and Asthma European Network
+(GA[2] LEN), the European Dermatology Forum (EDF), and the World Allergy Organization
+(WAO) [9]. The 7-day urticaria activity score (UAS7) is a patient-reported scoring system that
+captures the severity of pruritus and the number of hives appearing during one week [10].
+The intensity of pruritus (range, 0 [none] to 3 [severe]) and the number of hives (range, 0
+[none] to 3 [>50 hives]) were recorded daily (maximum, 6 points per day). The scores were
+then summed for 1 week to represent the UAS7 scale, (0-42). Urticaria control test (UCT) is a
+system that evaluates the status of urticaria for past 4 weeks by asking 4 questions. The score
+ranges from 0 to 16, and the larger the number, the better the state [11]. The serum IgE levels,
+basophil counts were checked by blood test.
+
+Autologous serum skin test
+The ASST was performed using 50 wL of the patient's own serum intradermally injected into
+the flexor aspect of the forearm; 50 uL of saline was injected 3-5 cm away as a control. The
+
+Table 1. Characteristics of the all patients with CSU
+
+ 
+
+ 
+
+Variable NC subject (n = 20) CSU (n = 22)
+Age (yr) 35.5 (23-64) 47 (24-87)
+Female sex 8 (42) 15 (68)
+Disease duration (mo) N/A 38 (4-216)
+UAS7 N/A 31 (14-42)
+UCT score N/A 5 (0-8)
+ASST- positive rate (n = 20) ND 7 (35)
+Presence of angioedema at baseline 0 (0) 3 (13.6)
+Treatment
+
+H1 antihistamine at the conventional dosage 0 (0) 1 (4.5)
+
+H1 antihistamine at high dose 0 (0) 21 (95.5)
+
+Leukotriene receptor antagonists 0 (0) 20 (91.0)
+
+Systemic corticosteroids 0 (0) 0 (0)
+
+Cyclosporin 0 (0) 0 (0)
+History
+
+Asthma 0 (0) 1 (4.5)
+
+Allergic rhinitis 0 (0) 1 (4.5)
+
+Atopic dermatitis 0 (0) 5 (22.7)
+
+Pollinosis 0 (0) 3 (13.6)
+
+ 
+
+Values are presented as number (%) or median (range) unless otherwise indicated.
+NC, nonatopic control; CSU, chronic spontaneous urticaria; UAS7, 7-day urticaria activity score; UCT, urticaria
+control test; ASST, autologous serum skin test; N/A, not applicable; ND, not done.
+
+https://doi.org/10.5415/apallergy.2020.10.e12 3/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific a | lergy
+
+ 
+
+https://apallergy.org
+
+results were measured after 30 minutes. If the serum-injected site manifested a wheal with
+a diameter of 1.5 mm greater than that of the saline-injected site, the result was considered
+positive [12]. According to the EAACI/GA(2) LEN task force consensus report [12],
+antihistamines were discontinued for 2-3 days prior to the ASST.
+
+Basophil activation test
+
+The Allergenicity Kit (Beckman Coulter Inc, Brea, CA, USA) was used for quantifying the
+expression of CD203c on the basophils. Heparinized whole blood was incubated with
+anti-FceRI antibody (clone CRA1, BioAcademia, Osaka, Japan; 3 g/mL), anti-IgE antibody
+(clone E124-2-8D, Beckman Coulter Inc.; 10 g/mL), N-formyl-L-methionyl-L-leucyl-Lphenylalanine (fMLP) (Sigma-Aldrich, Darmstadt, Germany; 1 1g/mL) or the negative
+control substance (phosphate-buffer saline), as indicated, for 15 minutes. PC7-conjugated
+anti-CD3, FITC-conjugated anti-CRTH2, and PE-conjugated anti-CD203c antibodies were
+also added during the reaction. The samples were analyzed using the Gallios flow cytometer
+(Beckman Coulter Inc., Brea, CA, USA) and FlowJo software (TreeStar, Woodburn, OR, USA).
+Basophils were identified on the basis of the forward and side scatter characteristics, negative
+expression of CD3 and positive expression of CRTH2 on the cells. Activated basophils were
+identified by the upregulated expression of CD203c as compared to that on the unstimulated
+cells (negative control). At least 500 basophils were analyzed in each assay.
+
+Isolation of IgG fraction from serum
+
+IgG was purified from sera of patients with CSU and NC subjects using Ab-Rapid SPiN EX
+(ProteNova, Kagawa, Japan) according to the manufacturer's protocol. The purified IgG was
+reconstituted with phosphate-buffered saline (PBS) using Amicon centrifugal filter units
+(Merck Millipore, Darmstadt, Germany). The final concentrations of the purified IgG were
+diluted to one-sixth of the serum IgG concentrations.
+
+Measurement of concentrations of anti-FceRla AAbs
+
+The truncated human FceRIa ectodomain (4172 amino acids; rh soluble FceRIa) was secreted
+from transfected Chinese hamster ovary cells as described [5]. Secreted rh soluble FceRIa.
+
+was purified from the culture supernatant of the cells using mouse anti-FceRIa (clone CRA2,
+BioAcademia) [13]. An enzyme-linked immunosorbent assay (ELISA) for detecting anti-human
+FceRIa AAbs was performed as previously described [5, 14-17] with the exception that a standard
+curve for IgG anti-FceRIo was generated using humanized anti-FceRIa mAb (clone CRA2, isotype
+human IgG1) [18]. Briefly, 1 1g/mL of purified recombinant soluble FceRIJa proteins [19] in sodium
+carbonate, pH 9.6 (Calbiochem, San Diego, CA, USA), were used to coat polystyrene microwells
+ofan ELISA plate (Maxisorp; Nunc, Roskilde, Denmark) in duplicates and were incubated
+overnight at 4°C. The plate was washed 4 times with PBS containing 0.05% Tween 20 (PBST)
+
+and then blocked with 10% fetal bovine serum (FBS) in PBS for 1 hour at room temperature.
+
+After washing, the purified IgG from the sera of patients with CSU or NC subjects were added
+
+at a 1:10 dilution with PBS to each well, then incubated for 2 hours at room temperature. After
+washing, horseradish peroxidase (HRP)-conjugated anti-human IgG mAb (clone G18-145; BD
+Pharmingen, Franklin, NJ, USA) was added to each well at a 1:10,000 dilution for measuring its
+
+ 
+
+concentration of total IgG, then incubated for 1 hour at room temperature. The reactions in the
+wells were developed with hydrogen peroxide plus 3,3',5,5'-tetramethylbenzidine in 100 mM
+citrate-phosphate buffer, pH 5.0 (KPL, Gaithersburg, MD, USA), and their absorbances were
+monitored at 450 nm and 570 nm using a Multiskan GO microplate spectrophotometer (Thermo
+Fisher Scientific, Yokohama, Japan) after the addition of 2 N sulfuric acid. The linear region of the
+standard curve was used to quantify the anti- FceRIa in the purified IgG.
+
+https://doi.org/10.5415/apallergy.2020.10.e12 4/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific al | lergy
+
+ 
+
+https://apallergy.org
+
+Measurement of concentrations of anti-IgE AAbs
+
+An ELISA was used to detect anti-IgE AAbs, as previously described [5, 20-23]. Briefly, the
+polystyrene microwells of an ELISA plate (Maxisorp) were coated with human myeloma
+
+IgE (1 g/mL in sodium carbonate pH 9.6, Calbiochem) and incubated overnight at 4°C.
+Unbound protein was removed by 4 washes with PBST. Free binding sites were blocked by
+incubation with 10% FBS in PBS for 1 hour at room temperature. After washing, the purified
+IgG from the sera of patients with CSU or NC subjects were added at a 1:10 dilution with PBS
+to each well, which were then incubated for 2 hours at room temperature. After washing,
+HRP-conjugated anti-human IgG mAb (clone G18-145) was added to each well at a 1:10,000
+dilution, which was then incubated for 1 hour at room temperature. The reactions in the
+wells were developed as mentioned above. The quantity of reactive IgG was calculated
+using standard amounts of purified human IgG (Jackson Immuno Research Laboratories,
+West Grove, PA, USA) ranging from 0.775 ng/mL to 50 ng/mL bound directly to the plates.
+To normalize the data among the plates, one specific donor's anti-IgE level was measured
+repeatedly on all of the plates.
+
+Preparation of RS-ATL8 cells and RBL-NL4 cells
+
+RS-ATL8 cells or RBL-NL4 cells (2.0 x 10° cells/1000 j1L/well) [24] were cultured in MEM
+containing 10% FBS, 1% GlutaMAX-I, 100-U/mL penicillin, 100-11g/mL streptomycin, 0.5-mg/
+mL geneticin, and 0.2-mg/mL hygromycin B on a Costar 24-well clear tissue culture-treated
+multiple well plate (Corning Inc., Corning, NY, USA) at 37°C for 2 days in a 5% CO, incubator
+[5, 24]. The cells were replated and cultured as described above for an additional 2 days. The
+cells were then replated on a 96-well plate at 2 x 10* cells/50 pL/well and cultured at 37°C
+overnight in a 5% CO, incubator.
+
+Measurement of the ability of anti-FceRla and anti-IgE AAbs to induce FceRI
+crosslinking using an in vitro elicitation test (modified EXiLE test)
+
+An in vitro elicitation test was modified from a previously described method reported by us
+[5, 24]. The test was performed by assessing an EXiLE test using human FceRIoPy2 genesand nuclear factor of activated T-cell-responsive luciferase reporter gene-introduced rat
+basophilic leukemia cells (RS-ATL8 cells) [25]. The purified IgG was replaced with MEM
+containing 10% FBS, 1% GlutaMAX-I, 100-U/mL penicillin, 100-1g/mL streptomycin,
+0.5-mg/mL geneticin, and 0.2-mg/mL hygromycin B, using Amicon centrifugal filter units
+(Merck Millipore). To measure the ability of anti-FceRIa AAbs to induce FceRI crosslinking,
+50 ul of purified IgG (equivalent to a 1:6 dilution of the serum IgG levels) obtained from
+CSU patients was added to each well and the samples were incubated at 37°C for 3 hours in
+a 5% CO; incubator. To measure the ability of anti-IgE AAbs to induce FceRI-crosslinking,
+the purified IgG was preincubated with well-coated rh soluble FceRIo. (1 pg/mL), and the
+supernatants were sequentially incubated with well-coated rh soluble FceRIa twice. Then,
+the supernatants were applied to IgE-sensitized RS-ATLS8 cells. Fifty pL of luciferase substrate
+solution containing a cell lysis reagent (ONE Glo, Promega, Madison, WI, USA) was added
+to the cells, and the chemiluminescence was measured using a Centro LB 960 plate reader
+(Berthold Technologies, Bad Wildbad, Germany). Standard curves for the fold inductions
+in luciferase fluorescence were induced by mouse anti-human FceRIa mAb (clone CRA1)
+
+or rabbit anti-human IgE Ab (Dako, Santa Clora, CA, USA). The luciferase expression
+
+levels were represented as the fold increase in light units compared with the results in
+nonstimulated cells. The minimum concentration of CRAI or rabbit anti-human IgE Ab that
+induced a significantly higher intensity of luciferase fluorescence than that observed in the
+nonstimulated wells was used to define as the sensitivity of the EXiLE test.
+
+https://doi.org/10.5415/apallergy.2020.10.e12 5/12
+Omalizumab and basophil activation test in CSU patients
+
+Asia Pacific allergy
+
+ 
+
+Statistical analysis
+
+We compared continuous variables between the 2 groups using the Mann-Whitney U test; to
+compare categorical variables, a 2-sided Fisher exact test was used. Basophil counts and BATs
+before and after omalizumab were compared using Wilcoxon matched-pairs signed-rank
+test. A p value was considered significant at p < 0.05. The data analyses were performed using
+Prism version 7 (GraphPad Software Inc., La Jolla, CA, USA).
+
+RESULTS
+
+We enrolled 22 patients with CSU in this study. The clinical and laboratory data of the
+patients are shown in Table 2. The patients with CSU were divided into 2 groups according
+
+to the results on the BAT, namely, the basophil activation rates after stimulation with
+anti-FceRIa monoclonal antibody (clone CRA1), as previously described [26]. Patients in
+whom the percentage of CD203c's" basophils in the BAT remained at <10% were defined as
+BAT-negative (n = 9), while those in whom the number of CD203c"*' basophils increased to
+>10% were defined as BAT-positive (n = 13), as previously described [26, 27]. The response
+characteristics of the CSU patients are summarized in Table 3. We found that there was no
+significant difference in the UAS7 between the BAT-negative and BAT-positive patients, but
+that the UCT score was significantly higher in the BAT-negative than in the BAT-positive
+patients (p= 0.010). No significant differences were found in the age, sex, disease duration,
+positivity rates of ASST, peripheral blood basophil count, peripheral blood eosinophil count,
+serum total IgE levels, positivity rate of antinuclear antibody, concentrations of anti-IgE AAbs
+(Fig. 1A) and anti-FceRIa AAbs (Fig. 1B) concentrations or in the FceRI-crosslinking ability of
+these AAbs (Fig. 1C, D).
+
+Table 2. Clinical and laboratory data of the patients with CSU
+
+ 
+
+ 
+
+Patient No. Age Sex DD UAS7 UCT ASST Basophil Eosinophil Total Serum Anti-IgE Serum Anti-FeeRla Proportion (%) of
+(yr) (mo) count (/p1L) count IgE concentration, AAbs concentration, AAbs CD203c"*" basophil
+Pre Post (/pt) (IU/ml) — anti-IgE AAbs (Fl) anti-FceRia. (Fi) Anti- — Anit-IgE
+(ug/mL) AAbs (g/mL) FeeRIaAb Ab
+Negative 1 38 M 4 21 8 YY 38.5 50 259 2,129 1.83 115 1.59 1.06 119 1.4
+BAT 2 35 F 14 35 7 sal B15 30 ng 79 1.53 1.42 1.18 1.03 1.51 4.93
+patients 3 4 FF 360 98 = 7 = 42.449 m 478 0.50 1.30 0.48 1.00 179 30.2
+4 31 Lg 216 23 8 ND 42.4 37.8 545 69 ND ND ND ND 2.56 1.8
+5 47 F 18 35 6 + 37.2 53 an 83 1.32 1.10 1.08 0.97 2.8 13.7
+6 49 F 60 32 6 + 11.8 ND 0 1 2m 1.55 1.44 1.95 3.12 1.59
+7 41 M 8 42 4 + 18 41 41 340 1.54 ND 0.29 ND 5.64 47.9
+8 33 M 84 28 5 ss 19.4 35.7 155 562 1.30 1.31 2.09 1.08 6.04 23
+9 82 F 24 30 3 a 12.4 50.4 50 180 0.64 1.42 0.42 1.10 7.38 34.1
+Positive 10 val M 7 42 1 oe 54 37.2 90 585 0.98 114 0.29 1.06 10.5 23.9
+BAT 1 68 M 40 35 3 - 8.8 ND 70 1149 1.35 1,22 1.81 1.03 10.6 32.1
+patients 12 64 F 4 35 5 + 332 63 108 413 0.99 1.09 1.89 0.97 13.6 31.8
+13 24 F 12 20 6 = 38.5 68.4 424 946 0.81 1.58 0.97 0.58 71 69.8
+14 <3) Ei 48 28 (o) a5 10.6 21.6 81 pe) 0.92 1.29 O71 1.65 17.3 42.2
+15 47 F 96 42 0 ® ) ND 81 272 0.95 1.10 0.56 1.12 18.8 59.4
+16 51 M 24 28 7 ND 69.3 70 122 318 1.07 1.16 0.31 1.00 20.8 35.9
+7 48 F180 42 {0} + 32.7 69.3 142 243 2.89 179: 5.35. 1.06 29, 60.1
+18 67 M 72 42 0 = 18.2 41 400 190 0.95 1.13 0.20 0.96 31 39.1
+a3} 44 iS 168 22 6 - 29.6 28.8 ns 72 1.32 ND 0.50 ND 38.5 74
+20 60 F 30 42 ia ss 11.4 81.9 ie} 830 0.80 1.30 1.18 0.87 41.2 48.5
+21 87 Ei 60 14 5 ae 31.8 60 297 8 2.05 1.96 4.22 13.00 58.1 38
+22 27 F 60 14 4 = 19.2 28.2 90 1,595 1.21 1.40 1.80 1.40 61 74.9
+
+ 
+
+CSU, chronic spontaneous urticaria; BAT, basophil activation test; AAbs, autoantibodies; DD, disease duration; UAS7, 7-day urticaria activity score; UCT, urticaria
+control test; ASST, autologous serum skin test; Ab, antibody; Fl, fold increase; ND, not done.
+
+https://apallergy.org
+
+https://doi.org/10.5415/apallergy.2020.10.e12 6/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific al | lergy
+
+Table 3. Comparison of patient characteristics between CSU patients with responders and nonresponders
+
+ 
+
+ 
+
+ 
+
+Variable Negative BAT patients (n=9) _ Positive BAT patients (n = 13) pvalue
+Age (yr) 41 (24-87) 51 (24-87) 0.1491
+Female sex 6 (66.7) 9 (69.2) >0.999*
+Disease duration (mo) 24 (8-216) 42 (4-180) 0.480t
+UAS7 30 (21-42) 35 (14-42) 0.753t
+UCT score 6 (3-8) 3 (0-7) 0.01" t
+ASST-positive rate 4/8 (50) 3/12 (25) 0.356"
+blood basophil count (/pL) 28.1+12.8 28.2 + 18.0 0.544t
+blood eosinophil count (/p1L) 166 +165 156 + 132 0.909
+Total IgE (IU/mL) 436 + 665 512 + 486 0.471t
+Antinuclear antibody positive rate 2 (22.2) 2 (15.4) >0.999"
+
+ 
+
+Values are presented as median (range), number (°), or mean + standard deviation.
+
+CSU, chronic spontaneous urticaria; BAT, basophil activation test; UAS7, 7-day urticaria activity score; UCT,
+urticaria control test; ASST, autologous serum skin test.
+
+*statistical significance between CSU patients with responders and nonresponders. *Fisher exact test. ‘MannWhitney U test.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B p= 0.298 c D
+4 ~ 8 p= 0.804 2.5
+a
+a & p= 0.381 s 56 ~
+oo) >f 3
+33 s & ° 3B Pad
+i Q oft ot
+a 2 oe 15 Qs
+i: a fs a
+= 120
+w z ° SS Zz v
+m4 8 2 ey * Le fs
+Pa is 6 5 0.5 <
+< iS @
+0 < ot= 1
+£
+@' 0"
+eS
+S
+
+  
+
+Fig. 1. Comparison of the serum concentrations of anti-IgE AAbs (A) and anti-FceRla AAbs (B), and the FceRI-crosslinking ability of these AAbs (C, D) among
+nonatopic control (NC) subjects (n = 20), BAT-negative patients (n = 9), and BAT-positive patients (n = 13). The luciferase expression levels are represented as the
+fold increase in light units as compared to the results from the nonstimulated cells. Statistical analyses were performed using the Mann-Whitney U test. AAbs,
+autoantibodies; BAT, basophil activation test. BAT-Neg. Pt., BAT-negative patients; BAT-Pos. Pt., BAT-positive patients.
+
+Omalizumab 300 mg was administered by subcutaneous injection 3 times at 4-week intervals
+(arrows in Fig. 2A). The first day on which a response was detected was defined as the first
+of 7 continuous days on which the UAS7 score was 6 or less [7]. Venous blood samples
+
+were collected before the start of omalizumab treatment and on day 84 after the start of
+omalizumab treatment. At the end of 84 days of treatment, the UAS7 was <6 in 16 patients
+(73%) (Fig. 2A). The UAS7 was significantly decreased on days 7, 35, and 84 as compared to
+that on day 0 in both the BAT-negative and BAT-positive patients (Fig. 2B, C). Furthermore,
+the UAS7 was significantly lower on days 35 and 84 as compared to that on day 7 in the BATnegative patients (Fig. 2B), whereas in the BAT-positive patients, a significant difference in
+the UAS7 score was only observed between day 7 and day 84 (Fig. 2C). After omalizumab
+treatment for 35 days, the UAS score decreased to under 15 (corresponding to controlled or
+mild CSU; Fig. 2B) in all of the BAT-negative patients, whereas in 6 out of the 13 BAT-positive
+patients, the scores remained over 16 (corresponding to moderate or severe CSU; Fig. 2C).
+Significant increase in the peripheral blood basophil counts after treatment with omalizumab
+was found in both the BAT-negative and BAT- positive patients (Fig. 3A, p = 0.0391; Fig. 3B,
+p= 0.0186; respectively). Significant increase of the percentages of CD203c'#* basophils in
+response to FceRI stimulation was seen after treatment with omalizumab in both the BATnegative and BAT- positive patients (Fig. 3C, p = 0.0156; Fig. 3D, p = 0.0156; respectively).
+
+https://apallergy.org https://doi.org/10.5415/apallergy.2020.10.e12 7/12
+Omalizumab and basophil activation test in CSU patients
+
+Asia Pacific allergy
+
+ 
+
+Response rate (%)
+
+UAS7 (score)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 80 4
+60 4
+40 4
+204
+0 tt ott tt
+0 7 14 21 28 35 42 49 56 63 70 77 84
+t t t
+Days after first injection of omalizumab
+BAT-negative patients c BAT-positive patients
+p= 0.0078 p= 0.0017
+p= 0.0195 p= 0.0205
+p= 0.0039 p= 0.0005
+p= 0.0078 p= 0.0073
+
+ 
+
+UAS7 (score)
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.
+0 7 14 21 28 35 42 49 56 63 70 77 84
+
+ 
+
+T T T r T T T T T T
+0 7 14 21 28 35 42 49 56 63 70 77 84
+Time (day) Time (day)
+
+Fig. 2. Efficacy of omalizumab in the BAT-negative (n = 9) and BAT-positive patients (n = 13). (A) The percentage of all patients (n = 22) in whom UAS7 < 6 was
+achieved, plotted against the day of response to omalizumab therapy. The arrows indicate the days of omalizumab injections. (B) Changes in the UAS7 score
+in the BAT-negative patients before (day 0) and after treatment with omalizumab (days 7, 35, and 84; n = 9). (C) Changes in the UAS7 score in the BAT-positive
+patients before (day 0) and after treatment with omalizumab (days 7, 35, and 84; n = 13). Dotted lines show the boundaries of the disease severity. Statistical
+analyses were performed using the Mann-Whitney U test. BAT, basophil activation test; UAS7, 7-day urticaria activity score.
+
+https://apallergy.org
+
+Although a significant increase in the percentage of CD203c"8" basophils in response to fMLP
+stimulation was seen after treatment with omalizumab in the BAT-positive patients (Fig. 3F,
+p= 0.0313), no such difference was observed in the BAT-negative patients (Fig. 3E).
+
+DISCUSSION
+
+We demonstrated that after treatment with omalizumab for 35 days, all of the BAT-negative
+patients showed a decrease of the UAS corresponding to a controlled or mild severity
+
+state (Fig. 2B), while 6 out of the 13 BAT-positive patients (46%) still showed scores
+corresponding to moderate or severe CSU (Fig. 2C). Although the precise reason(s) is
+unclear, the significantly lower UCT score in the BAT-positive patients as compared to the
+BAT-negative patients (Table 3) could be one possible reason. The findings must be verified
+ina larger population. Palacios et al. [8] and Gericke et al. [7] reported that CSU patients
+with basophil-activating serum activity are less likely to show a complete and rapid response
+
+https://doi.org/10.5415/apallergy.2020.10.e12 8/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific al | lergy
+
+ 
+
+ 
+
+ 
+
+ 
+
+A BAT-negative patients B BAT-positive patients
+100 p= 0.0391 100 p= 0.0186
+2 80 2 80
+Ss S
+2 2
+= 60 = 60
+fo} fo}
+s) 5
+= 40 = 40
+Qa Qa
+fo} fo}
+«& 20 & 20
+a a
+0 1 1 0 T 1
+Pre Post Pre Post
+Omalizumab treatment Omalizumab treatment
+c BAT-negative patients D BAT-positive patients E BAT-negative patients F BAT-positive patients
+100 p= 0.0156 100 P= 0.0156 15 p= 0.875 40 p= 0.0313
+—~ gfe ER > > EEE => eee
+& & & &
+> 80 => 80 i = 30
+= = = =
+o ay a 10 [om
+2 60 2 60 2 2
+= 40 & 40 S S
+aa) aa) % 5 xe)
+8 8 3 10
+a 20 a 20 qQ q
+a a a a
+[s) [s) (S) S)
+0 T 0 T T 0 T 0 T T
+Pre Post Pre Post Pre Post Pre Post
+Omalizumab treatment Omalizumab treatment Omalizumab treatment Omalizumab treatment
+
+Fig. 3. Comparison of the peripheral blood basophil counts (A, n = 8; B, n= 11), proportion (%) of CD203"#" basophils after FceRI aggregation (C, n= 7; D, n= 7),
+and proportion (%) of CD203"#" basophils following N-formyl-L-methionyl-L-leucyl-L-phenylalanine (fMLP) stimulation (E, n = 4 ; F, n = 6) in the BAT-negative
+and BAT-positive patients before (day 0) and after treatment with omalizumab (day 84). Statistical analyses were performed using the Mann-Whitney U test. BAT,
+basophil activation test;
+
+to omalizumab, respectively. The discrepancy between the findings of the aforementioned
+authors [7, 8] and our results suggests that the presence of histamine-releasing activity in
+the serum of BHRA-positive and ASST-positive patients might not induce desensitization
+of basophils to IgE-mediated stimulation, resulting in the weak activation of basophils in
+
+response to FceRI stimulation.
+
+In our study, no significant differences in the positivity rate of ASST were found between the
+BAT-negative and BAT-positive patients (Table 3). Thus, the positivity rate of ASST showed
+no correlation with the reactivity of basophils to FceRI stimulation in the BAT. Furthermore,
+the serum concentrations of anti-IgE and anti-FceRIa AAbs, and the FceRI-crosslinking
+ability of these AAbs were not significantly different between the BAT-negative and BATpositive patients (Fig. 1). Thus, anti-IgE and anti-FceRla AAbs might not be necessary or
+sufficient to induce weak reactivity of the basophils to FceRI stimulation. Another serologic
+factor may be autoreactive IgE [28, 29] and/or the so-called cytokinergic IgE [30, 31]. In
+
+our study, a significant increase in the percentages of CD203c''#' basophils in response to
+FceRI stimulation after treatment with omalizumab was seen in both the BAT-negative and
+BAT-positive patients (Fig. 3C, p = 0.0156; Fig. 3D, p = 0.0156; respectively). Furthermore,
+most BAT-negative patients converted to BAT-positive after treatment with omalizumab. The
+basophil surface expression levels of FceRIa. has been reported to decrease significantly after
+treatment with omalizumab [32]. Thus, omalizumab increases the reactivity of basophils to
+FceRI stimulation by changing intracellular signaling. While a significant difference in the
+
+https://apallergy.org https://doi.org/10.5415/apallergy.2020.10.e12 9/12
+Omalizumab and basophil activation test in CSU patients Asia Pacific a | lergy
+
+percentage of CD203c'"*" basophils following f{MLP stimulation between before and after
+
+ 
+
+the treatment with omalizumab was seen in the BAT-positive patients (Fig. 3F), no such
+difference was seen in the BAT-negative patients (Fig. 3E), A previous study demonstrated
+that utilization of fMLP did not reveal any differences in basophil activation between the BATnegative and BAT-positive patients [26]. Further studies are therefore required. Omalizumab
+binds to free IgE and may also bind to autoreactive IgE. If autoantigens were present in the
+skin tissues of patients with CSU, but not in healthy donors, the suggestion by Vonakis et al.
+[2] that the anti-IgE response of the basophils from patients with CSU is not related to the
+presence of serologic factors would be reasonable.
+
+Limitations of the study are that all the data are derived from an open observational study
+without controls. Another weakness is that the number of patients is small. The findings
+must be confirmed in a sufficiently large population. Furthermore, the majority of patients
+with CSU (91%) receive treatment with high doses of H1 antihistamines (Table 1); the
+possible influence of high-dose H1 antihistamine therapy on the efficacy of omalizumab
+cannot be excluded.
+
+In conclusion, we demonstrated that the time to response to omalizumab might differ
+between BAT-negative and BAT-positive patients with CSU. Further studies are required to
+identify factors that induce weak FceRI-mediated basophil activation.
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, Bernstein JA, Bindslev-Jensen
+C, Brzoza Z, Buense Bedrikow R, Canonica GW, Church MK, Craig T, Danilycheva IV, Dressler C, Ensina
+LF, Giménez-Arnau A, Godse K, Gongalo M, Grattan C, Hebert J, Hide M, Kaplan A, Kapp A, Katelaris CH,
+Kocatiirk E, Kulthanan K, Larenas-Linnemann D, Leslie TA, Magerl M, Mathelier-Fusade P, Meshkova RY,
+Metz M, Nast A, Nettis E, Oude-Elberink H, Rosumeck §, Saini SS, Sanchez-Borges M, Schmid-Grendelmeier
+P, Staubach P, Sussman G, Toubi E, Vena GA, Vestergaard C, Wedi B, Werner RN, Zhao Z, Maurer M.
+Endorsed by the following societies: AAAAI, AAD, AAIITO, ACAAI, AEDV, APAAACI, ASBAI, ASCIA, BAD,
+BSACI, CDA, CMICA, CSACI, DDG, DDS, DGAKI, DSA, DST, EAACI, EIAS, EDE, EMBRN, ESCD, GA°LEN,
+IAACI, IADVL, JDA, NVvA, MSAI, OGDY, PSA, RAACI, SBD, SED, SGAI, SGDV, SIAAIC, SIDeMaST, SPDV,
+TSD, UNBB, UNEV and WAO. The EAACI/GA(2)LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis and management of urticaria. The 2017 Revision and Update. Allergy 2018;73:1393-414.
+PUBMED | CROSSREF
+
+2. Vonakis BM, Vasagar K, Gibbons SP Jr, Gober L, Sterba PM, Chang H, Saini SS. Basophil FcepsilonRI
+histamine release parallels expression of Src-homology 2-containing inositol phosphatases in chronic
+idiopathic urticaria. J Allergy Clin Immunol 2007;119:441-8.
+PUBMED | CROSSREF
+
+3. Miescher SM, Horn MP, Pachlopnik JM, Baldi L, Vogel M, Stadler BM. Natural anti-FcepsilonRlalpha
+autoantibodies isolated from healthy donors and chronic idiopathic urticaria patients reveal a restricted
+repertoire and autoreactivity on human basophils. Hum Antibodies 2001;10:119-26.
+PUBMED | CROSSREF
+
+4. Vonakis BM, Saini SS. Syk-deficient basophils from donors with chronic idiopathic urticaria exhibit a
+spectrum of releasability. J Allergy Clin Immunol 2008;121:262-4.
+PUBMED | CROSSREF
+
+5. IzakiS, Toyoshima S, Endo T, Kanegae K, Nunomura S, Kashiwakura JI, Sasaki-Sakamoto T, Nakamura R,
+Akiyama H, Ra C, Hayama K, Terui T, Okayama Y. Differentiation between control subjects and patients
+with chronic spontaneous urticaria based on the ability of anti-IgE autoantibodies (AAbs) to induce FceRI
+crosslinking, as compared to anti-FceRIo AAbs. Allergol Int 2019;68:342-51.
+PUBMED | CROSSREF
+
+6. Yanase Y, Takahagi S, Hide M. Chronic spontaneous urticaria and the extrinsic coagulation system.
+Allergol Int 2018;67:191-4.
+PUBMED | CROSSREF
+
+ 
+
+https://apallergy.org https://doi.org/10.5415/apallergy.2020.10.e12 10/12
+Omalizumab and basophil activation test in CSU patients
+
+Asia Pacific allergy
+
+ 
+
+https://apallergy.org
+
+Ds
+
+10.
+
+i.
+
+12,
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22,
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, Falkencrone S, Brand J, Kromminga A,
+Hawro T, Church MK, Maurer M. Serum autoreactivity predicts time to response to omalizumab therapy
+in chronic spontaneous urticaria. J Allergy Clin Immunol 2017;139:1059-61.e1.
+
+PUBMED | CROSSREF
+
+Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203c-upregulating activity as an
+immunological marker to predict response to treatment with omalizumab in patients with symptomatic
+chronic urticaria. J Allergy Clin Immunol Pract 2016;4:529-30.
+
+PUBMED | CROSSREF
+
+Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, Church MK, Ensina
+
+LF, Giménez-Arnau A, Godse K, Gongalo M, Grattan C, Hebert J, Hide M, Kaplan A, Kapp A, Abdul
+Latiff AH, Mathelier-Fusade P, Metz M, Nast A, Saini SS, Sanchez-Borges M, Schmid-Grendelmeier
+
+P, Simons FE, Staubach P, Sussman G, Toubi E, Vena GA, Wedi B, Zhu XJ, Maurer M. European
+
+Academy of Allergy and Clinical ImmunologyGlobal Allergy and Asthma European NetworkEuropean
+Dermatology ForumWorld Allergy Organization. The EAACI/GA(2) LEN/EDE/WAO Guideline for the
+definition, classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy
+2014;69:868-87.
+
+PUBMED | CROSSREF
+
+Mathias SD, Crosby RD, Rosén KE, Zazzali JL. The minimal important difference for measures of urticaria
+disease activity: updated findings. Allergy Asthma Proc 2015;36:394-8.
+
+PUBMED | CROSSREF
+
+Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, Martus P, Casale TB, Staubach P, Maurer
+M. Development and validation of the Urticaria Control Test: a patient-reported outcome instrument for
+assessing urticaria control. J Allergy Clin Immunol 2014;133:1365-72, 1372.e1-6.
+
+PUBMED | CROSSREF
+
+Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P, Grattan CE. EAACI/GA(2)
+LEN task force consensus report: the autologous serum skin test in urticaria. Allergy 2009;64:1256-68.
+PUBMED | CROSSREF
+
+Takai T, Yuuki T, Iwamoto-Yasue N, Okumura K, Ra C. Epitope analysis and primary structures of variable
+regions of anti-human FcepsilonRI monoclonal antibodies, and expression of the chimeric antibodies
+fused with human constant regions. Biosci Biotechnol Biochem 2000;64:1856-67.
+
+PUBMED | CROSSREF
+
+Lee MF, Lin TM, Liu SW, Chen YH. A rapid method of detecting autoantibody against FceRJa for chronic
+spontaneous urticaria. PLoS One 2014;9:e109565.
+
+PUBMED | CROSSREF
+
+Mozena JD, Tijana A, Negri J, Steinke JW, Borish L. Lack ofa role for cross-reacting anti-thyroid
+antibodies in chronic idiopathic urticaria. J Invest Dermatol 2010;130:1860-5.
+
+PUBMED | CROSSREF
+
+Pachlopnik JM, Horn MP, Fux M, Dahinden M, Mandallaz M, Schneeberger D, Baldi L, Vogel M, Stadler
+BM, Miescher SM. Natural anti-FcepsilonRIalpha autoantibodies may interfere with diagnostic tests for
+autoimmune urticaria. J Autoimmun 2004;22:43-51.
+
+PUBMED | CROSSREF
+
+Fiebiger E, Hammerschmid F, Sting] G, Maurer D. Anti-FcepsilonRIalpha autoantibodies in autoimmunemediated disorders. Identification of a structure-function relationship. J Clin Invest 1998;101:243-51.
+PUBMED | CROSSREF
+
+Takai T, Yuuki T, Ra C. Inhibition of IgE-dependent histamine release from human peripheral blood
+basophils by humanized Fab fragments that recognize the membrane proximal domain of the human Fc
+epsilon RI alpha-chain. Int Arch Allergy Immunol 2000;123:308-18.
+
+PUBMED | CROSSREF
+
+RaC, Kuromitsu S, Hirose T, Yasuda S, Furuichi K, Okumura K. Soluble human high-affinity receptor for
+IgE abrogates the IgE-mediated allergic reaction. Int Immunol 1993;5:47-54.
+
+PUBMED | CROSSREF
+
+Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, Opper B, Magerl M, Liidtke R,
+Kromminga A, Maurer M. Autologous whole blood injections to patients with chronic urticaria and a
+positive autologous serum skin test: a placebo-controlled trial. Dermatology 2006;212:150-9.
+
+PUBMED | CROSSREF
+
+Cho CB, Stutes SA, Altrich ML, Ardoin SP, Phillips G, Ogbogu PU. Autoantibodies in chronic idiopathic
+urticaria and nonurticarial systemic autoimmune disorders. Ann Allergy Asthma Immunol 2013;110:29-33.
+PUBMED | CROSSREF
+
+Atta AM, Rodrigues MZ, Sousa CP, Medeiros Junior M, Sousa-Atta ML. Autoantibody production in chronic
+idiopathic urticaria is not associated with Helicobacter pylori infection. Braz J Med Biol Res 2004;37:137.
+PUBMED | CROSSREF
+
+ 
+
+https://doi.org/10.5415/apallergy.2020.10.e12 n/12
+Omalizumab and basophil activation test in CSU patients
+
+Asia Pacific allergy
+
+ 
+
+https://apallergy.org
+
+23
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+BL.
+
+32.
+
+Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence and functional role of anti-IgE
+autoantibodies in urticarial syndromes. J Invest Dermatol 1988;90:213-7.
+
+PUBMED | CROSSREF
+
+Nakamura R, Uchida Y, Higuchi M, Nakamura R, Tsuge I, Urisu A, Teshima R. A convenient and sensitive
+allergy test: IgE crosslinking-induced luciferase expression in cultured mast cells. Allergy 2010;65:1266-73.
+PUBMED | CROSSREF
+
+Nakamura R, Ishiwatari A, Higuchi M, Uchida Y, Nakamura R, Kawakami H, Urisu A, Teshima R.
+Evaluation of the luciferase assay-based in vitro elicitation test for serum IgE. Allergol Int 2012;61:4317.
+PUBMED | CROSSREF
+
+Rauber MM, Pickert J, Holiangu L, Mébs C, Pfiitzner W. Functional and phenotypic analysis of basophils
+allows determining distinct subtypes in patients with chronic urticaria. Allergy 2017;72:1904-11.
+
+PUBMED | CROSSREF
+
+Oda Y, Fukunaga A, Washio K, Imamura S, Hatakeyama M, Ogura K, Nishigori C. Low responsiveness of
+basophils via FceRI reflects disease activity in chronic spontaneous urticaria. J Allergy Clin Immunol Pract
+2019;7:2835-44.e7.
+
+PUBMED | CROSSREF
+
+Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T, Terui T, Ra C, Okayama Y. Significantly
+high levels of anti-dsDNA immunoglobulin E in sera and the ability of dsDNA to induce the degranulation of
+basophils from chronic urticaria patients. Int Arch Allergy Immunol 2013;161 Suppl 2:154-8.
+
+PUBMED | CROSSREF
+
+Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, Maurer M. IL-24 is a common and
+specific autoantigen of IgE in patients with chronic spontaneous urticaria. J Allergy Clin Immunol
+2018;142:876-82.
+
+PUBMED | CROSSREF
+
+Kashiwakura J, Okayama Y, Furue M, Kabashima K, Shimada §, Ra C, Siraganian RP, Kawakami Y,
+Kawakami T. Most highly cytokinergic IgEs have polyreactivity to autoantigens. Allergy Asthma Immunol
+Res 2012;4:332-40.
+
+PUBMED | CROSSREF
+
+Kashiwakura J, Kawakami Y, Yuki K, Zajonc DM, Hasegawa S, Tomimori Y, Caplan B, Saito H, Furue M,
+Oettgen HC, Okayama Y, Kawakami T. Polyclonal IgE induces mast cell survival and cytokine production.
+Allergol Int 2009;58:411-9.
+
+PUBMED | CROSSREF
+
+Metz M, Staubach P, Bauer A, Brehler R, Gericke J, Kangas M, Ashton-Chess J, Jarvis P, Georgiou
+
+P, Canvin J, Hillenbrand R, Erpenbeck VJ, Maurer M. Clinical efficacy of omalizumab in chronic
+spontaneous urticaria is associated with a reduction of FceRI-positive cells in the skin. Theranostics
+2017;7:1266-76.
+
+PUBMED | CROSSREF
+
+ 
+
+https://doi.org/10.5415/apallergy.2020.10.e12 12/12
+

@@ -1,0 +1,745 @@
+Association of alopecia areata with atopic dermatitis and
+chronic spontaneous urticaria
+
+Eli Magen, M.D.,? Tinatin Chikovani, M.D., Ph.D.,? Dan-Andrei Waitman, M.D., M.P.H.,'
+and Natan R. Kahan, R.Ph., Ph.D.'*
+
+ABSTRACT
+
+Background: Epidemiologic studies report that alopecia areata (AA) is related to various atopic and autoimmune diseases.
+The purpose of this study was to identify clinical characteristics and the prevalence of comorbid conditions in Israeli patients
+with AA.
+
+Methods: This retrospective, matched, case-control study was based on data from an electronic patient record data base. The
+patients with an electronically documented diagnosis of AA were included in the AA group. The control group was randomly
+sampled from the remaining subjects, with a case-to-control ratio of two controls for each case. Comorbidity was compared
+between the study groups.
+
+Results: A total of 1751 subjects (49.4% men and 50.6% women), ages 34.9 + 17.8 years old, were identified. The control
+group consisted of 3502 age- and sex-matched subjects. The AA group was characterized by a higher blood eosinophil count
+(0.39 + 0.12 cells/mm) than the control group (0.31 + 0.14 cells/mm?; p < 0.001). In the AA group, there was a higher
+prevalence of allergic rhinitis (odds ratio [OR] 2.15 [1.85-2.49]; p < 0.001), asthma (OR 1.57 [1.28-1.93]; p < 0.001), atopic
+dermatitis (AD) (OR 4.17 [3.18-5.47]; p < 0.001), and food allergy (OR 2.79 [1.58—4.91]; p < 0.001) than in the control
+group. The prevalence of organ-specific and systemic autoimmune diseases was significantly higher in the AA group than in
+the control group, with the OR of having any autoimmune disease calculated to be 4.72 (3.99-5.57; p < 0.001). The OR of
+having chronic spontaneous urticaria (CSU) with AA was 6.15 (4.06—9.32; p < 0.001). In patients with concomitant AA and
+CSU, allergic rhinitis and AD were more prevalent than in patients with CSU in the control group.
+
+Conclusion: An estimated prevalence of AA among an Israeli population was ~0.8%. The novel finding of our study was
+
+the high prevalence of food allergy and CSU in patients with AA.
+(Allergy Asthma Proc 39:96-102, 2018; doi: 10.2500/aap.2018.39.4114)
+
+lopecia areata (AA) is a relatively common disease, with a global prevalence of 0.1-0.2%.1?
+Although the etiology of AA is still unclear, experimental and clinical evidence indicate that AA is caused
+by an autoimmune attack against hair follicles.? Autoimmunity largely arises from defects in immune tolerance, which results in the production and proliferation
+of autoreactive T cells and autoantibodies.*~° The prevalence among different ethnic groups can be higher
+than that observed worldwide, with an observed prevalence that ranges from ~0.7 to 3% in the United
+States,” to ~2% in the United Kingdom.*
+The lifetime risk of AA over 20 years was estimated
+to be 2.1% in Olmsted County, Minnesota.” Although
+some epidemiologic studies reported that AA is related
+
+ 
+
+From the "Leumit Health Services, Tel-Aviv, Israel, Medicine C Department, Barzilai
+Medical Center, Ben Gurion University of the Negev, Israel, Department of Immunology, Tbilisi State Medical University, Tbilisi, Georgia, and “School of Public
+Health, Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel
+
+No external funding sources reported
+
+The authors have no conflicts of interest to declare pertaining to this article
+Address correspondence to Eli Magen, M.D., Clinical Immunology and Allergy Unit,
+Ben Gurion University of Negeo, Barzilai University Medical Center, Ashkelon, Israel
+E-mail address: allergologycom@gmail.com
+
+Copyright © 2018, OceanSide Publications, Inc., U.S.A.
+
+ 
+
+96
+
+to various atopic and autoimmune diseases,'° other
+
+studies calculated that the frequencies of autoimmune
+and atopic diseases in patients with AA are comparable with controls.'! A meta-analysis of 17 studies that
+assessed atopic dermatitis (AD) and AA concluded
+that patients with AA have a significantly increased
+risk for AD.'? In another study, the prevalence of AD,
+vitiligo, psoriasis, and lichen planus was higher in the
+patients with AA than in the general population.'% The
+purpose of this study was to identify clinical characteristics and the prevalence of comorbid conditions in
+Israeli patients with AA.
+
+METHODS
+
+Patients and Setting
+
+This study was conducted by using the electronic
+patient record data base of the Southern Region of
+Leumit Health Care Services (LHS), a health maintenance organization that covers ~220,000 residents of
+this region of Israel. LHS has implemented an electronic patient record system that facilitates the creation of a comprehensive data base that includes the
+following: data on resource utilization of the covered
+population, demographic data, records of clinical
+
+March-April 2018, Vol. 39, No. 2
+visits, laboratory tests performed at a central laboratory, diagnostic codes by using the International Classification of Diseases, Ninth Revision, Clinical Modification, * hospitalization, imaging and drug prescription,
+and purchase. This data base was mined to capture data
+on relevant documented diagnoses and laboratory results
+through cross-linking of a unique patient-identity number. This study was approved by LHS Institutional Review Committee.
+
+All patients with an electronically documented diagnosis of AA during the years 2010-2016 were identified and were included in the AA group. The control
+group was composed of a random sample of the remaining LHS members, with a case-to-control ratio of
+two controls for each case (1:2). The randomization was
+performed by using the Epi Info 6 software (Atlanta,
+GA). Comorbidities were identified by using the International Classification of Diseases, Ninth Revision, Clinical
+Modification,"* for specific diagnostic codes registered
+by the board-certificated attending physicians. A patient was diagnosed with a definite rheumatic disease
+if he or she matched the diagnostic criteria of each
+specific rheumatologic disease, for example, the 1997
+revised American College of Rheumatology (ACR)
+classification criteria for systemic lupus erythematosus,!> 1987 ACR criteria for rheumatoid arthritis,'© 2002
+European criteria for Sjogren syndrome,’” 1984 modified New York criteria for ankylosing spondylitis, '®
+and 1980 ACR criteria for systemic sclerosis (scleroderma).’’ Data capture was performed by using IBM
+Cognos 10.1.1 BI Report Studio software (IBM Corp.,
+New York, NY). A chart review of all identified eligible
+patients was then performed to validate the cases retrieved by an electronic search. The final validated
+patient population was accrued and recorded into Microsoft Excel (version 14; Microsoft Corporation, Redmond, Washington) spreadsheets for analysis.
+
+Statistical Analyses
+
+Data were analyzed by using SPSS software version
+18 (SPSS Inc., Chicago, IL). The means + standard
+deviations were calculated for continuous variables.
+Statistical significance for categorical variables was calculated by using the x” test or the Fisher exact test. The
+multivariate regression analyses adjusted for sex and
+age (odds ratio [OR] with 95% confidence intervals
+[CI]) were performed individually for each substratum
+of comorbidity to eliminate potential sources of bias.
+To prevent possible multiplicity issues, we applied a
+Bonferroni correction testing at a significance level of
+(0.05)/k (k - the number of independent variables /tests
+in Bonferoni correction) to lower the chance of a type I
+error. A two-tailed p value of <0.05 was considered
+statistically significant.
+
+Allergy and Asthma Proceedings
+
+RESULTS
+
+Demographic, Clinical, and Laboratory
+Characteristics of the Patients with AA and the
+Controls
+
+A total of 1751 subjects, ages 34.9 + 17.8 years old.
+were identified with a registered diagnosis of AA between January 1, 2010, and December 31, 2016. The
+study population consisted of 865 men (49.4%) and 886
+women (50.6%). No differences between male and female patients were observed with respect to clinical
+and laboratory characteristics (Table 1). The control
+group consisted of 3502 age- and sex-matched subjects.
+The AA group was characterized by a higher blood
+eosinophil count (0.39 + 0.12 cells/mm?°) than the control group (0.31 + 0.14 cells/mm*?; p < 0.001) (Table 1).
+
+Allergic Diseases and AA
+
+Significant differences in the rates of allergic diseases
+were found between the AA and control groups. In the
+AA group, there was a higher prevalence of allergic
+rhinitis (425 [24.3%] versus 454 [12.9%] in the control
+group; p < 0.001) with OR 2.15 [95% CI, 1.85-2.49], p <
+0.001); asthma (173 [9.9%] versus 228 [6.5%] in the
+control group, p < 0.001; with OR 1.57 [95% CI, 1.281.93), p < 0.001), AD (161 [9.2%] versus 83 [2.4%] in the
+control group, p < 0.001; with OR 4.17 [95% CI, 3.185.47], p < 0.001), and food allergy (29 [1.7%] versus 21
+[0.6%] in the control group, p < 0.001; with OR 2.79
+[95% CI, 1.58-4.91], with OR 2.79 [95% CI, 1.58-4.91],
+p < 0.001) (Table 1). No difference in the prevalence of
+allergic contact dermatitis was observed between the
+two groups.
+
+ 
+
+Autoimmune Diseases and AA
+
+Thyroid diseases were the most common autoimmune diseases associated with AA; 177 (10.1%) of the
+patients in the AA group had Hashimoto thyroiditis
+compared with 46 (1.3%) (p < 0.001) in the control
+group. The odds of having Hashimoto thyroiditis was
+8.42 times greater than in the control group (6.07—
+11.74); p < 0.001) and OR of having Graves disease was
+4.94 (2.78-8.67); p < 0.001) in the AA group compared
+with the control group subjects (Table 1). As presented
+in Table 1, the prevalence of other organ-specific and
+systemic autoimmune diseases was significantly higher
+in the AA group than in the control group, with the OR
+of having any autoimmune disease calculated to be 4.72
+(3.99-5.57; p < 0.001) for the AA group compared with
+the control group.
+
+Concomitant Dermatologic Diseases and AA
+
+There were 79 cases (4.5%) of patients with chronic
+spontaneous urticaria (CSU) in the AA group in contrast to 32 cases (0.9%) (p < 0.001) of patients in the
+
+97
+Table 1 Demographic, clinical, and laboratory characteristics of the AA and control groups
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AA Group Control p Multiple Logistic
+(n = 1751) (n = 3502) Regression Model OR
+(95% CI); p Value*
+Women, no. (%) 886 (50.6) 1772 (50.6) 0.999
+Age, y 34.9 + 17.8 80.1 + 17.6 0.698
+Body mass index, kg/m? 26.4 + 3.3 263+ 3:1 0.28
+White blood cell count, cells /mm* TAL 37 6.9 + 3.5 0.075
+Lymphocytes, cells/mm? 2441.7 24415 0.999
+Eosinophils, cells/mm°* 0.39 + 0.11 0.31 + 0.14 <0.00
+Basophils, cells/mm? 0.18 + 0.16 0.18 + 0.14 0.999
+Platelets cells, x10°/mm? 263 + 131 258 + 124 0.16
+Allergic diseases, no. (%)
+Allergic rhinitis 425 (24.3) 454 (12.9) <0.00 2.15 (1.85-2.49); <0.001
+Asthma 173 (9.9) 228 (6.5) <0.00 1.57 (1.28-1.93); <0.001
+Atopic dermatitis 161 (9.2) 83 (2.4) <0.00 4.17 (3.18-5.47); <0.001
+Allergic contact dermatitis 98 (5.6) 176 (5.1) 0.392 1.12 (0.84-1.41); 0.381
+Food allergy 29 (1.7) 21 (0.6) <0.00 2.79 (1.58-4.91); <0.001
+Autoimmune diseases, no. (%)
+Hashimoto thyroiditis 177 (10.1) 46 (1.3) <0.00 8.42 (6.07-11.74); <0.001
+Graves disease 41 (2.3) 17 (0.5) <0.00 4.94 (2.78-8.67); <0.001
+Type I diabetes mellitus 34 (1.9) 11 (0.3) <0.00 6.28 (3.17-12.43); <0.001
+Pernicious anemia 19 (1.1) 5 (0.1) 0.001 7.67 (2.85-20.57); <0.001
+Celiac disease 36 (2.1) 19 (0.5) <0.00 3.84 (2.20-6.72); <0.001
+Inflammatory bowel disease 21 (1.2) 27 (0.8) 0.125 1.56 (0.88-2.77); 0.129
+Multiple sclerosis 0 (0.03) 0.999 0.67 (0.02-16.36); 0.803
+Sjogren disease 21 (1.2) 24 (0.7) 0.079 1.75 (0.97-3.16); 0.062
+Systemic lupus erythematosus 27 (185) 15 (0.4) <0.00 3.63 (1.93-6.86); <0.001
+Mixed connective tissue disease 1 (0.05) 0 0.334 6.01 (0.24-147.43); 0.272
+Systemic sclerosis 1 (0.05) 3 (0.09) 0.999 0.67 (0.06-6.41); 0.725
+Rheumatoid arthritis 32 (1.8) 27 (0.8) 0.001 2.39 (1.43-4.01); <0.001
+Overlap syndromes 11 (0.6) 10 (0.3) 0.064 2.21 (0.93-5.21); 0.071
+Fibromyalgia 39 (2.2) 43 (1.2) 0.009 1.83 (1.18-2.83); 0.007
+Dermatologic diseases, no. (%)
+Chronic spontaneous urticaria 79 (4.5) 32 (0.9) <0.001 6.15 (4.06-9.32); <0.001
+Psoriasis 74 (4.2) 53 (1.5) <0.001 3.18 (2.23-4.53); <0.001
+Dermatitis herpetiformis 6 (0.3) 2 (0.06) 0.021 6.01 (1.21-29.83); 0.028
+Vitiligo 8 (0.4) 2 (0.06) 0.003 8.02 (1.71-37.85); 0.009
+Seborrheic dermatitis 22 (1.4) 45 (1.3) 0.999 0.97 (0.58-1.63); 0.931
+Rosacea 71 (4.1) 137 (3.9) 0.822 1.03 (0.77-1.39); 0.802
+Erythema nodosum 3 (0.2) 4 (0.1) 0.692 1.51 (0.33-6.71); 0.595
+Lichen planus 5 (0.3) 9 (0.3) 0.999 1.11 (0.37-3.32); 0.850
+
+ 
+
+AA = Alopecia areata; OR = odds ratio; CI = confidence interval.
+*The OR (95% CI) between the AA and control patients; a significant OR after Bonferroni correction (p < 0.0019; a = 0.05/27
+
+tests = 0.0019; k = 27 in Bonferoni correction).
+
+control group. The OR of having CSU with AA was
+6.15 (95% CI, 4.06-9.32; p < 0.001). The patients in the
+AA group were characterized with a higher prevalence
+of concomitant psoriasis (OR 3.18 [95% CI, 2.23-4.53);
+p < 0.001) and vitiligo (OR 8.02 [1.71-37.85]; p = 0.009)
+(Table 1).
+
+98
+
+Clinical and Laboratory Characteristics of Patients
+with CSU with and without Concomitant AA
+
+The subjects with CSU and with concomitant AA
+were more frequently women (62 [78.5%] versus 19
+[59.4%] in subjects with CSU in the control group; p =
+
+March-April 2018, Vol. 39, No. 2
+0.04), had higher blood levels of eosinophils (0.41 +
+0.13 cells/mm?* versus 0.28 + 0.15 cells/mm’; p <
+0.001) and immunoglobulin E (IgE) (175.8 + 101.3
+kU/L versus 129.5 + 94.2 kU/L than in patients with
+CSU in the control group; p = 0.028). In patients with
+concomitant AA and CSU, allergic rhinitis and AD was
+more prevalent than in the patients with CSU in the
+control group (Table 2). Although there were no statistically significant differences in the prevalence of concomitant autoimmune diseases, the OR of having any
+concomitant autoimmune disease was 2.67 (95% CI,
+1.13-6.32; p = 0.025) for patients with CSU from the
+AA group compared with the patients with CSU from
+the control group (Table 2).
+
+DISCUSSION
+
+Our study aimed to evaluate the comorbid conditions associated with AA in the Israeli population seen
+in the southern region of LHS during a 6-year period.
+There are two main findings in this study: (1) AA was
+associated with a higher rate of allergic diseases, such
+as allergic rhinitis, asthma, AD, and food allergy, and
+with higher blood levels of eosinophils; (2) autoimmune diseases and CSU were more prevalent in patients with AA than in sex- and age-matched controls.
+Indeed, many of these findings were confirmed in multiple previous studies, but the strengths of the association between AA and various comorbid conditions
+observed in our study were somewhat different than
+previously reported.
+
+In our study, the estimated prevalence of AA among
+an Israeli population was ~0.8%. Our study added
+insight into the comorbid conditions that affect AA,
+and, similar to previous studies, we observed that AA
+was associated with allergic rhinitis, asthma, and AD."*
+Previously, an important retrospective study evaluated
+the prevalence of comorbid conditions among 3568
+patients with AA seen at tertiary care hospitals in
+Boston during an 11-year period and found a high
+prevalence of comorbid autoimmune and atopic diseases in individuals with AA.7° Recently, the “Nurses’
+Health Study 2” assessed the risk of AA and vitiligo
+associated with AD in a large cohort of U.S. women.*!
+The study found that AD was associated with an increased risk of developing AA and vitiligo in adulthood.”? It was intriguing that, in our study, the odds of
+AD in patients with AA were higher than the odds of
+other allergic diseases. Previously, it was indicated that
+concomitant AD may indicate a poor prognostic value
+for AA”°; nevertheless, our study did not include data
+about the AD severity and/or phenotype.
+
+The co-occurrence of AD with AA raises the question
+as to whether these diseases have similar pathophysiologic mechanisms. Alternatively, shared genetics may be
+responsible for these associations. For example, filaggrin
+
+Allergy and Asthma Proceedings
+
+gene mutations were found to be associated with more
+severe AA.” There may be shared pathways that are
+activated in these disorders, such as type 2 T-helper
+(Th) deviation, Th17/Th22 cells,”* thymic stromal lymphopoietin,* and endothelin-1.7° Although AA has
+traditionally been considered a Thl-mediated disease,
+association of AA with atopic diseases*”-* and the
+proof of Th2 cytokine responses in an animal model of
+AA” verify the role of Th2 cells in the pathophysiology
+of AA. There are few studies that support a possible
+Th2 association of AA that have been reported lately.
+Fuentes-Duculan et al.?” studied biopsy specimens of
+pretreatment lesional and nonlesional scalp and of
+posttreatment (intralesional steroid injection) lesional
+scalp of six patients with patchy scalp and with AA by
+using immunohistochemistry and gene expression
+analysis. The study showed concurrent activation of
+both Th1 and Th2 immune axes as well as interleukin
+(IL) 23 and IL-32 cytokine pathways in lesional AA
+scalp and observed significant downregulation with
+corticosteroid injection in IL-12/IL-23p40, CCL18
+(Chemokine [C-C motif] ligand 18), and IL-32.??
+Sudrez-Farifias et al.7* performed microarray and reverse transcription—-polymerase chain reaction profiling of 27 lesional and 17 nonlesional scalp samples
+from patients with AA for comparison with 6 normal
+scalp samples and found that AA scalp transcriptome
+is associated a highly inflammatory profile of Th2, Th1,
+IL-23, and IL-9-Th9 pathway genes with heavy Th2
+polarization, including “hallmark” atopic biomarkers.
+In addition, our AA group was characterized by a
+higher blood eosinophil count than the control subjects. Eosinophil infiltration into the skin lesions at any
+stage is a valuable diagnostic element of AA? Previously, high serum IgE levels, eosinophilia, and infiltration of eosinophils in AA lesions were found to be
+correlated with AA higher severity.*! Another finding
+of our study was the higher prevalence of food allergy
+in patients with AA, which, to our knowledge, has not
+been previously described. We found only two case
+reports on a patient with a combination of AD, AA,
+and food allergy,” and of eosinophilic esophagitis in a
+patient with AA.*° A plausible explanation for this
+finding was that eosinophils express chemokine receptors, such as CCR3 (C-C chemokine receptor type 3)
+and CRTH2 (Chemoattractant receptor-homologous
+molecule expressed on Th2 cells), and, in Th2-predominant inflammation, their recruitment and accumulation may occur via stimulation of these receptors.*°
+Our results were consistent with the previous findings of an increased prevalence of several systemic and
+organ-specific autoimmune diseases in patients with
+AA As in previous studies, the main association
+for AA in our cohort was thyroid autoimmunity.*4
+Recently, diabetes mellitus (both types) was found in
+11.1% of patients with AA”. we also observed an in
+ 
+
+99
+Table 2. CSU severity and responses to treatment in the patients with CSU and with and without AA
+
+ 
+
+ 
+
+CSU with AA CSU without AA p
+(n = 79) (n = 32)
+Women, no. (%) 62 (78.5) 19 (59.4) 0.040
+Age, mean + SD, y 32.7 + 14.2 34.1 + 16.5 0.654
+Body mass index, mean + SD, kg/m? 26:2 #31 26.4 + 3.2 0.761
+Angioedema, no. (%) 24 (30.4) 7 (21.8) 0.365
+ASST, performed /positive result (%) 53/28 (52.8) 19/7 (36.8) 0.231
+Eosinophils, mean + SD, no. cells/mm? 0.41 + 0.13 0.28 + 0.15 <0.001
+Basophils, mean + SD, no. cells /mm* 0.12 + 0.09 0.13 + 0.11 0.621
+Anti-TPO ab test, performed/positive result (%) 61/24 (39.3) 26/7 (26.9) 0.268
+Antithyroglobulin ab, no. performed/positive results (%) 61/10 (16.4) 26/4 (15.4) 0.906
+ANA, performed /positive (%) 73/7 (9.6) 28/2 (7.1) 0.497
+hs-C reactive protein value, mean + SD, mg/L 7TA+91 5.7 + 8.4 0.364
+TSH value, mean + SD, ulU/mL 2.5+1.7 2.3414 0.557
+Serum IgE level, mean + SD, kU/L 175.8 + 101.3 129.5 + 94.2 0.028
+25-Hydroxyvitamin D, mean + SD, nmol/L 2a 11.5 2371 + 12.1 0.744
+Allergic diseases, no. (%)
+Allergic rhinitis 29 (36.7) 5 (15.6) 0.029
+Asthma 8 (10.1) 2 (6.2) 0.721
+Atopic dermatitis 15 (18.9) 1(3.1) 0.028
+Allergic contact dermatitis 5 (6.3) 2 (6.2) 0.962
+Food allergy 1 (1.3) 0 0.522
+Autoimmune diseases, no. (%)
+Hashimoto thyroiditis 23 (29.1) 4 (12.5) 0.055
+Graves disease 2 (2.5) 0 0.363
+Type I diabetes mellitus 2 (2.5) 0 0.363
+Pernicious anemia 1 (1.3) 0 0.522
+Celiac disease 3 (3.8) 1(3.1) 0.863
+Inflammatory bowel disease 1 (1.3) 1(3.1) 0.504
+Multiple sclerosis 0 0 0.999
+Sjogren disease 4 (5.1) 1(3.1) 0.655
+Systemic lupus erythematosus 3 (3.8) 1(3.1) 0.863
+Mixed connective tissue disease 0 0 0.999
+Systemic sclerosis 0 0 0.999
+Rheumatoid arthritis 2 (2:5) 0 0.363
+Overlap syndromes 1 (1.3) 0 0.522
+Fibromyalgia 3 (3.8) 2 (6.2) 0.572
+Dermatologic diseases, no. (%)
+Psoriasis 4 (5.1) 1(3.1) 0.655
+Dermatitis herpetiformis 0 0 0.999
+Vitiligo 2 (2.5) 0 0.363
+Seborrheic dermatitis 1 (1.3) 1(3.1) 0.504
+Rosacea 3 (3.8) 2 (6.2) 0.572
+Erythema nodosum 0 0 0.999
+Lichen planus 0 0 0.999
+
+ 
+
+CSU = Chronic spontaneous urticaria; AA = alopecia areata; SD = standard deviation; ASST = autologous serum skin test;
+TPO = thyroid peroxidase; ab = antibody; ANA = antinuclear antibody; hs-C reactive protein = a high-sensitivity C-reactive
+protein; TSH = thyroid-stimulating hormone; IgE = immunoglobulin E; ulU/mL = microgram international units per
+milliliter.
+
+Anti-TPO ab (anti-thyroid peroxidase antibodies) >75 [U/mL and/or antithyroglobulin (ab) antibodies >150 IU/mL.
+
+100 March-April 2018, Vol. 39, No. 2
+creased prevalence of IDDM (Insulin-Dependent Diabetes Mellitus) in patients with AA and with an OR of 6.28
+compared with controls; however, the novel finding of
+our study was the high prevalence of CSU in patients
+with AA that has not been reported. Several mechanisms
+have been investigated as possibly contributing to the
+pathogenesis of CSU, including autoimmunity.*° The autologous serum skin test (ASST) is considered to be a
+screening test for autoimmune CSU because of IgG-antiIgE autoantibodies, anti-FceRI (high-affinity IgE receptor,
+[or Fe epsilon RI]) autoantibodies, or both.*°
+
+A negative ASST result has a high predictive value
+for the absence of circulating functional autoantibodies, therefore, to assess the rate of possible autoimmunity in CSU, we compared the ASST positivity in the
+patients with concomitant AA and CSU, and in those
+with CSU from the control group. Rates of ASST positivity were similar in patients with CSU and with and
+without AA. Recently, autoreactive CD4* T cells that
+target FceRIa were detected in most subjects with CSU,
+with a cytokine secretion profile typical of a Th1 cell
+response.*” However, in biopsy specimens of CSU
+wheals, Th2 and Th17 cells were significantly more
+frequent than in controls.** Recently, we observed an
+association between CSU and atopic diseases.* It is
+noteworthy that AD is also accompanied by expansion
+of skin-homing Th2 and Th22 subsets with lower Th1
+frequencies.*° The presence of atopic diseases is significantly associated with risks of autoimmune diseases,
+and the coexistence of AD, allergic rhinitis, and asthma
+exacerbates the risk of autoimmunity.*!
+
+Evidence that supports a genetic basis of autoimmunity for AA originates from multiple lines of epidemiologic and genetic studies.*? The first genome-wide
+association study of AA involved a total of 1054 cases
+of patients with AA (U.S. patients of self-reported European ancestry) and 3278 controls, and investigated
+genome-wide significance for most genomic regions
+implicated in autoimmunity and in T-cell—mediated
+pathways.*° The study defined the genetic underpinnings of AA, which placed it within the context of
+shared pathways among autoimmune diseases, revealed the upregulation of ULBP (UL16-binding proteins) ligands in triggering autoimmunity.” In a follow-up study, a genome-wide significant association
+was found for IL-13 and KIAA0350/CLEC16A (C-type
+lectin domain family 16, member A) as susceptibility
+loci for AA, whereas IL-13 and KIAA0350/CLEC16A
+are also susceptibility loci for other autoimmune diseases, which supports the hypothesis of shared pathways of autoimmune susceptibility.“
+
+CONCLUSION
+Our results, together with epidemiologic links between AA and atopy and robust genetic associations of
+
+Allergy and Asthma Proceedings
+
+an IL-13 pathway with AA further supported a feasible
+pathogenic role of the Th2 axis in the pathophysiology
+of AA. Therefore, there is a rationale for investigating
+Th2-targeting strategies for patients with AA because
+Th2-targeting strategy was found to be effective in AD
+and asthma.**“° The link of AA and CSU may also
+indicate that targeting FceRIa on mast cells and IgE
+might also provide possible benefit in patients with
+AA. Recent reports that antihistamines may be beneficial in at least some patients with AA emphasize the
+practical clinical relevance of targeting mast cells in
+AA**8 We suggest that more specific therapies
+should be considered, including the use of bispecific
+antibodies so as to selectively block mast cells.
+
+The strengths of our study were that our team used
+the electronically documented AA registry and then
+manually ensured that relevant data were obtained for
+all the patients. The main limitation of this study was
+that, as a retrospective study, it may have information
+bias because of possible inaccurate clinical records, loss
+to follow-up, and missing data. Future prospective
+studies should be aimed at closing the gaps of knowledge on the role of atopy and autoimmunity in patients
+with CSU and AA.
+
+REFERENCES
+
+1. Jabbari A, Petukhova L, Cabral RM, Clynes R, Christiano AM.
+Genetic basis of alopecia areata: a roadmap for translational
+research. Dermatol Clin. 2013; 31:109-117.
+
+2. Gregoriou S, Papafragkaki D, Kontochristopoulos G, Rallis E,
+Kalogeromitros D, Rigopoulos D. Cytokines and other mediators in alopecia areata. Mediators Inflamm. 2010; 2010:928030.
+
+3. Dainichi T, Kabashima K. Alopecia areata: What's new in epidemiology, pathogenesis, diagnosis, and therapeutic options? J
+Dermatol Sci. 2017; 86:3-12.
+
+4. Fenoglio D, Bernuzzi F, Battaglia F, et al. Th17 and regulatory T
+lymphocytes in primary biliary cirrhosis and systemic sclerosis
+as models of autoimmune fibrotic diseases. Autoimmun Rev.
+2012; 12:300-304.
+
+5. Gianchecchi E, Delfino DV, Fierabracci A. Recent insights into
+the role of the PD-1/PD-L1 pathway in immunological tolerance and autoimmunity. Autoimmun Rev. 2013; 12:1091-1100.
+
+6. Romo-Tena J, Gomez-Martin D, Alcocer-Varela J. CTLA-4 and
+autoimmunity: new insights into the dual regulator of tolerance. Autoimmun Rev. 2013; 12:1171-1176.
+
+7. Ito T. Recent advances in the pathogenesis of autoimmune hair
+loss disease alopecia areata. Clin Dev Immunol. 2013; 2013:
+348546.
+
+8. MacLean KJ, Tidman MJ. Alopecia areata: more than skin deep.
+Practitioner. 2013; 257:29-32, 3.
+
+9. Mirzoyev SA, Schrum AG, Davis MDP, Torgerson RR. Lifetime
+incidence risk of alopecia areata estimated at 2.1% by Rochester
+Epidemiology Project, 1990-2009. J Invest Dermatol. 2014; 134:
+1141-1142.
+
+10. Chu SY, Chen YJ, Tseng WC, et al. Comorbidity profiles among
+patients with alopecia areata: the importance of onset age, a
+nationwide population-based study. J Am Acad Dermatol.
+2011; 65:949-956.
+
+11. Serarslan G, Savas N, Yenin JZ. Is atopy and autoimmunity
+more prevalent in patients with alopecia areata? A comparative
+study. J Eur Acad Dermatol Venereol. 2012; 26:720-723.
+
+101
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+Dor
+
+26.
+
+27.
+
+28.
+
+29.
+
+102
+
+Mohan GC, Silverberg JI. Association of vitiligo and alopecia
+areata with atopic dermatitis: A systematic review and metaanalysis. JAMA Dermatol. 2015; 151:522-528.
+
+Garzorz N, Alsisi M, Todorova A, et al. Dissecting susceptibility
+from exogenous triggers: the model of alopecia areata and
+associated inflammatory skin diseases. J Eur Acad Dermatol
+Venereol. 2015; 29:2429-2435.
+
+International Classification of Diseases, Ninth Revision, Clinical
+Modification (ICD-9-CM). Available at https://www.cdc.gov/
+nchs/icd/icd9cm.htm.
+
+Hochberg MC. Updating the American College of Rheumatology revised criteria for the classification of systemic lupus erythematosus. Arthritis Rheum. 1997; 40:1725.
+
+Bernelot Moens HJ, van de Laar MA, van der Korst JK. Comparison of the sensitivity and specificity of the 1958 and 1987
+criteria for rheumatoid arthritis. J Rheumatol. 1992; 19:198-203.
+Vitali C, Bombardieri S, Jonsson R, Moutsopoulos HM, Alexander EL, Carsons SE, Daniels TE, Fox PC, Fox RI, Kassan SS,
+Pillemer SR, Talal N, Weisman MH; European Study Group on
+Classification Criteria for Sjogren’s Syndrome. Classification
+criteria for Sjégren’s syndrome: a revised version of the European criteria proposed by the American-European Consensus
+Group. Ann Rheum Dis. 2002; 61:554-558.
+
+Deodhar A. Axial spondyloarthritis criteria and modified NY
+criteria: issues and controversies. Clin Rheumatol. 2014; 33:741747.
+
+Walker JG, Pope J, Baron M, Leclercq S, Hudson M, Taillefer S,
+Edworthy SM, Nadashkevich O, Fritzler MJ. The development
+of systemic sclerosis classification criteria. Clin Rheumatol.
+2007; 26:1401-1409.
+
+Huang KP, Mullangi S, Guo Y, Qureshi AA. Autoimmune,
+atopic, and mental health comorbid conditions associated with
+alopecia areata in the United States. JAMA Dermatol. 2013;
+149:789-794.
+
+Drucker AM, Thompson JM, Li WQ, et al. Incident alopecia
+areata and vitiligo in adult women with atopic dermatitis:
+Nurses’ Health Study 2. Allergy. 2017; 72:831-834.
+
+Betz RC, Pforr J, Flaquer A, et al. Loss-of-function mutations in
+the filaggrin gene and alopecia areata: strong risk factor for a
+severe course of disease in patients comorbid for atopic disease.
+J Invest Dermatol. 2007; 127:2539-2543.
+
+Eyerich K, Novak N. Immunology of atopic eczema: overcoming the Th1/Th2 paradigm. Allergy. 2013; 68:974—982.
+Jariwala SP, Abrams E, Benson A, Fodeman J, Zheng T. The role
+of thymic stromal lymphopoietin in the immunopathogenesis
+of atopic dermatitis. Clin Exp Allergy. 2011; 41:1515-1520.
+Tsybikov NN, Petrisheva IV, Kuznik BI, Magen E. Plasma endothelin-1 levels during exacerbation of atopic dermatitis. Allergy Asthma Proc. 2015; 36:320-324.
+
+McElwee KJ, Hoffmann R. Alopecia areata—animal models.
+Clin Exp Dermatol. 2002; 27:410—417.
+
+Fuentes-Duculan J, Gulati N, Bonifacio KM, et al. Biomarkers of
+alopecia areata disease activity and response to corticosteroid
+treatment. Exp Dermatol. 2016; 25:282-286.
+
+Sudrez-Farifas M, Ungar B, Noda §S, et al. Alopecia areata
+profiling shows TH1. TH2, and IL-23 cytokine activation without parallel TH17/TH22 skewing. J Allergy Clin Immunol.
+2015; 136:1277-1287.
+
+Elston DM, McCollough ML, Bergfeld WF, Liranzo MO, Heibel
+M. Eosinophils in fibrous tracts and near hair bulbs: a helpful
+diagnostic feature of alopecia areata. J Am Acad Dermatol.
+1997; 37:101-106.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43,
+
+44,
+
+45.
+
+46.
+
+47.
+
+48.
+
+Peckham SJ, Sloan SB, Elston DM. Histologic features of alopecia areata other than peribulbar lymphocytic infiltrates. J Am
+Acad Dermatol. 2011; 65:615-620.
+
+Zhang B, Zhao Y, Cai Z, et al. Early stage alopecia areata is
+associated with inflammation in the upper dermis and damage
+to the hair follicle infundibulum. Australas J Dermatol. 2013;
+54:184-191.
+
+Ono S, Otsuka A, Miyachi Y, Kabashima K. No filaggrin gene
+mutation in a patient with a combination of atopic dermatitis,
+alopecia areata and food allergy. Eur J Dermatol. 2012; 22:785—
+786.
+
+Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AF, Yokozeki
+H. Basophil recruitment and activation in inflammatory skin
+diseases. Allergy. 2011; 66:1107-1113.
+
+Kurtev A, Iliev E. Thyroid autoimmunity in children and adolescents with alopecia areata. Int J Dermatol. 2005; 44:457—-461.
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)
+LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis, and management of urticaria: the 2013 revision and
+update. Allergy. 2014; 69:868—887.
+
+Konstantinou GN, Asero R, Ferrer M, et al. EAACI taskforce
+position paper: evidence for autoimmune urticaria and proposal for defining diagnostic criteria. Allergy. 2013; 68:27-36.
+Auyeung P, Mittag D, Hodgkin PD, Harrison LC. Autoreactive
+T cells in chronic spontaneous urticaria target the IgE Fe receptor Ia subunit. J Allergy Clin Immunol. 2016; 138:761-768.e4.
+Moy AP, Murali M, Nazarian RM. Identification of a Th2- and
+Th17-skewed immune phenotype in chronic urticaria with Th22
+reduction dependent on autoimmunity and thyroid disease
+markers. J Cutan Pathol. 2016; 43:372-378.
+
+Shalom G, Magen E, Dreiher J, et al. Chronic urticaria and
+atopic disorders: a cross-sectional study of 11,271 patients. Br J
+Dermatol. 2017; 177:e96-e97.
+
+Czarnowicki T, Gonzalez J, Shemer A, et al. Severe atopic
+dermatitis is characterized by selective expansion of circulating
+TH2/TC2 and TH22/TC22, but not TH17/TC17, cells within
+the skin-homing T-cell population. J Allergy Clin Immunol.
+2015; 136:104-115.e7.
+
+Hou YC, Hu HY, Liu IL, Chang YT, Wu CY. The risk of
+autoimmune connective tissue diseases in patients with atopy:
+A nationwide population-based cohort study. Allergy Asthma
+Proc. 2017; 38:383-389.
+
+McDonagh AJ, Tazi-Ahnini R. Epidemiology and genetics of
+alopecia areata. Clin Exp Dermatol. 2002; 27:405-409.
+Petukhova L, Duvic M, Hordinsky M, et al. Genome-wide
+association study in alopecia areata implicates both innate and
+adaptive immunity. Nature. 2010; 466:113-117.
+
+Jagielska D, Redler S, Brockschmidt FF, et al. Follow-up study
+of the first genome-wide association scan in alopecia areata:
+IL13 and KIAA0350 as susceptibility loci supported with genome-wide significance. J Invest Dermatol. 2012; 132:2192-2197.
+Simpson EL, Bieber T, Guttman-Yassky E, et al. Two phase 3
+trials of dupilumab versus placebo in atopic dermatitis. N Engl
+J Med. 2016; 375:2335-2348.
+
+Corren J, Lemanske RF, Hanania NA, et al. Lebrikizumab treatment in adults with asthma. N Engl J Med. 2011; 365:1088-1098.
+Inui S, Nakajima T, Itami S. Two cases of alopecia areata responsive to fexofenadine. J Dermatol. 2007; 34:852-854.
+Ohyama M, Shimizu A, Tanaka K, Amagai M. Experimental
+evaluation of ebastine, a second-generation anti-histamine, as a
+supportive medication for alopecia areata. J Dermatol Sci. 2010;
+58:154-157. Oo
+
+March-April 2018, Vol. 39, No. 2
+

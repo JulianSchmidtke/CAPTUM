@@ -1,0 +1,1210 @@
+Original Article
+
+ 
+
+Relevance of the Basophil High-Affinity IgE
+Receptor in Chronic Urticaria: Clinical Experience
+from a Tertiary Care Institution
+
+Gustavo Deza, MD®, Alvaro March-Rodriguez, MD*®, Silvia Sanchez, BSN°, Clara Ribas-Llaurad6, BS”, Dulce Soto, BSN”,
+Ramon M. Pujol, MD, PhD*, Ramon Gimeno, MD, PhD”, and Ana M. Giménez-Arnau, MD, PhD® Barcelona, Spain
+
+What is already known about this topic? The activation of the high-affinity IgE receptor (FceRI) on basophils and mast
+cells is crucial for the immediate hypersensitivity responses in subjects with atopic dermatitis, allergic asthma, and allergic
+
+rhinitis.
+
+What does this article add to our knowledge? Basophil FceRI expression is significantly upregulated in chronic
+
+spontaneous and inducible urticaria. Patients who present negative autologous serum/plasma skin test, undetected levels
+of antithyroid antibodies, or satisfactory clinical response to omalizumab exhibit higher FceRI levels.
+
+How does this study impact current management guidelines? Although further multicenter studies are needed to
+corroborate these findings, the assessment of basophil FceRI expression might be relevant in daily clinical practice
+supporting an autoimmune pathogenesis and predicting response to anti-IgE treatment.
+
+BACKGROUND: The high-affinity IgE receptor (FceRI)
+expression on effector cells has been poorly characterized in
+patients with chronic urticaria (CU) to date.
+
+OBJECTIVES: To investigate the FceRI expression on blood
+basophils in a large cohort of patients with CU and its potential
+relationship with relevant features of the disease.
+
+METHODS: Basophil FceRI expression was measured by flow
+cytometry in 287 patients with CU (192 with chronic
+spontaneous urticaria and 95 with chronic inducible urticaria) at
+their initial evaluation in our department. A control group of
+healthy nonatopic individuals was included to provide reference
+data, and the effect of antihistamine and anti-IgE therapy on the
+
+"Department of Dermatology, Hospital del Mar-Institut Mar d’Investigacions Médiques, Universitat Autonoma de Barcelona (UAB), Barcelona, Spain
+
+'Department of Immunology, Hospital del Mar-Institut Mar d’Investigacions Médiques, Barcelona, Spain
+
+This study was supported by the grant PI17/00198 from Fondo de Investigacion
+Sanitaria (FIS), Instituto de Salud Carlos II,Ministerio de Economia y Competitividad, Spain.
+
+Conflicts of interest: G. Deza has participated in clinical trials and educational activities sponsored by Novartis. A. M. Giménez-Arnau is a medical advisor for
+Uriach Pharma, Genentech, and Novartis; has received research grants from
+Intendis-Bayer, Uriach Pharma, and Novartis; and has participated in educational
+activities sponsored by Uriach Pharma, Novartis, Genentech, Menarini, Glaxo
+‘Smith & Kline, Merck MSD, Almirall, and Leo Pharma. The rest of the authors
+declare that they have no relevant conflicts of interest.
+
+Received for publication October 28, 2018; revised December 21, 2018; accepted for
+publication January 11, 2019.
+
+Available online iil
+
+Corresponding author: Ana M. Giménez-Arnau, MD, PhD, Department of Dermatology, Hospital del Mar-Institut Mar d’Investigacions M@diques, Universitat
+Autonoma de Barcelona (UAB), Passeig Maritim, 25-29, 08003 Barcelona, Spain.
+E-mail: anamariagimenezarnau@ gmail.com or 22505aga@comb.cat.
+
+2213-2198
+
+© 2019 American Academy of Allergy, Asthma & Immunology
+
+https://doi.org/10.1016/j.jaip.2019.01.026
+
+ 
+
+ 
+
+basophil FceRI expression was also evaluated in a cohort of
+patients with CU.
+
+RESULTS: The median FceRI expression was found significantly
+higher in patients with CU compared with healthy controls
+(P< .0001). A positive correlation was found between serum IgE
+levels and basophil FceRI expression (R = 0.422; P < .001).
+Significantly higher FceRI levels on basophils were detected in
+patients with CU who presented with concomitant atopic
+features (P = .003), negative autologous serum skin test
+
+(P = .002), negative autologous plasma skin test (P = .009), or
+undetected levels of antithyroid antibodies (P = 0.01). Baseline
+FceRI expression was not related to the activity and duration of
+the disease, and was not significantly modified during
+antihistamine therapy; however, it correlated with the clinical
+response to omalizumab (P = .003).
+
+CONCLUSIONS: Although further multicenter studies are
+needed to corroborate these findings, the assessment of basophil
+FceRI levels might be relevant in daily clinical practice
+supporting an autoimmune pathogenesis and predicting
+response to anti-IgE treatment. © 2019 American Academy of
+Allergy, Asthma & Immunology (J Allergy Clin Immunol Pract
+2019; =)
+
+ 
+
+Key words: Basophil; Chronic urticaria; FceRI; FceRI expression; IgE receptor; Omalizumab
+
+Chronic urticaria (CU) is a common skin condition characterized by the recurrent appearance of itchy wheals and/or
+angioedema for longer than 6 weeks.' It is classified into 2
+subtypes: chronic spontaneous urticaria (CSU), when the lesions
+occur without an obvious stimulus, and chronic inducible urticaria (CIndU), when symptoms are induced by different triggers,
+for example, low temperatures, heat, pressure, or exercise.'”
+Existing evidence demonstrates that CU symptoms may have
+2 DEZA ETAL
+
+Abbreviations used
+Anti-Tg- Antithyroglobulin
+Anti-TPO- Antithyroid peroxidase
+APST- Autologous plasma skin test
+ASST- Autologous serum skin test
+ATA- Antithyroid antibody
+CIndU- Chronic inducible urticaria
+CsTT- Critical stimulation time threshold
+CSU- Chronic spontaneous urticaria
+CTT- Critical temperature threshold
+CU- Chronic urticaria
+FceRI- High-affinity IgE receptor
+HC- Healthy control
+MFI- Mean fluorescence intensity
+UAS7- 7-day urticaria activity score
+UCT- Urticaria Control Test
+
+major detrimental effects on quality of life, including daily
+activities and emotional well-being.”
+
+The pathophysiology of CU involves the activation and
+degranulation of effector cells, such as basophils and mast cells,
+and the subsequent release of proinflammatory/pathologic
+mediators that play a key role in the development of CU
+symptoms.*” As of yet, it is unclear completely what causes such
+activation and degranulation. One of the most attractive explanations in most of the patients is the autoimmune mechanism, in
+which effector cells are activated by IgE or IgG through the highaffinity IgE receptor (FceRI) located on the surface of basophils,
+mast cells, and antigen-presenting cells.°° Thereby, crosslinking
+of FceRI with the complex IgE-autoantigen (type I autoimmunity) or with just IgG or the complex IgG-IgE (type Ib autoimmunity) would cause the activation/degranulation of effector
+cells with the consequent release of preformed mediators and
+newly synthetized active substances.”'”
+
+Despite its supposed importance in the disease pathogenesis,
+the FceRI expression on effector cells has been poorly characterized in patients with CU to date. Therefore, we sought to
+investigate the FceRI expression on blood basophils in a large
+cohort of patients with CSU and ClndU to answer the following
+questions: (1) Are basophil FceRI levels increased in patients
+with CU? (2) Are there clinical features that modulate the FceRI
+expression in patients with CSU or CIndU? (3) Is the FceRI
+expression modified during treatment in patients with CU? and
+more important, (4) Is the assessment of the FceRI expression
+relevant in daily clinical practice?
+
+ 
+
+ 
+
+PATIENTS AND METHODS
+Subjects and study design
+
+This prospective study included patients with CSU or CIndU
+referred to the Urticaria Clinic of the Department of Dermatology of
+Hospital del Mar (Barcelona) during the period from January 2014
+to June 2018 (ethical approval no. 2012/4913/I). After a systematized clinical protocol, a thorough and structured history (including
+age, sex, disease duration, disease severity, personal history of atopic
+features [ie, atopic dermatitis, allergic rhinitis, and/or allergic
+asthma], presence of angioedema, and concomitant subtypes of CU)
+and laboratory analyses (including total serum IgE levels, thyroid
+function, and levels of antithyroid antibodies [ATAs]: antithyroid
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+peroxidase [anti-TPO] and antithyroglobulin [anti-Tg]) were performed in all patients at the initial evaluation. In addition, autologous serum skin test (ASST), autologous plasma skin test (APST),
+and/or standardized inducible testing were performed (when
+appropriate) as part of the routine study protocol. CIndU diagnosis
+was based on the patients’ clinical history and the results of standardized provocation testing.” As the main objective of the present
+investigation, peripheral blood samples were obtained from patients
+with CU to measure the FceRI expression on basophils by flow
+cytometry. To avoid potential interferences, patients who were under treatment with biologic therapies (including omalizumab), oral
+corticosteroids, and/or other immunosuppressive agents were
+excluded from the study. Blood samples from a group of healthy
+controls [HCs] without a family and personal history of CU or
+atopic features were also evaluated to obtain reference data.
+
+n addition, FceRI levels were assessed in a cohort of patients with
+CU at different time points to investigate the effect of antihistamine
+and anti-IgE therapy on the basophil FceRI expression. For antihistamine treatment, FceRI levels were measured at the baseline
+
+ 
+
+evaluation and at least 1 month after the initiation of therapy
+(nonsedating H1-antihistamines, doses ranging from | to 4 times the
+recommended dose depending on the patient’s symptoms severity).
+Response to therapy was defined as an improvement in the patients’
+signs and symptoms achieving a 7-day urticaria activity score (UAS7,
+a composite score of itch severity and hive count over 7 days; range,
+0-42) <6 and/or an Urticaria Control Test (UCT, a validated tool
+for assessing disease control in daily practice; range, 0-16) > ig
+On the other hand, as the effect of omalizumab on the FceRI
+
+ 
+
+expression in patients with CSU has been extensively studied in
+
+recent investigations, '~"'> we have focused on the analysis of the
+kinetic of FceRI levels during anti-IgE therapy in patients diagnosed
+with pure CIndU. Thus, the FceRI expression was evaluated in
+patients with ClndU who showed unsatisfactory response to antihistamines and were therefore treated with subcutaneous injections
+of omalizumab 300 mg monthly. Basophil FceRI levels were
+measured on day 0 and on weeks 4, 8, and 20 of treatment (ie,
+before the Ist, 2nd, 3rd, and 6th injections), and response to therapy
+
+was evaluated at 6 months of treatment according to the UCT score.
+
+ 
+
+Most primary endpoints of the study (eg, evaluate the basophil
+FceRI expression as a potential biomarker of disease activity, disease
+duration, therapeutic response, and for confirming CSU and
+distinguishing it from HCs) were prespecified at the initiation of the
+investigation. Nevertheless, some observations, such as the FceRIIgE correlation and the differences in FceRI expression regarding the
+“autoimmune” condition in patients with CSU, were evaluated after
+the data collection was completed.
+
+Basophil cell preparation and flow cytometry for the
+FceRI expression
+
+Flow cytometry analysis was performed following standard
+procedures. '* Briefly, 150 [LL of anticoagulated blood was incubated
+on the same day of collection during 20 minutes at 4°C with an
+excess of human immunoglobulins to block unspecific binding.
+Afterward, blood was stained with anti-CD123-PE (BD Biosciences,
+San Jose, Calif) and anti-CD193-APC (Miltenyi Biotec GmbH,
+Bergisch Gladbach, Germany) to identify basophils and with antiFceRla-FITC (clone CRAI; eBioscience, San Diego, Calif) or an
+isotype control to establish the expression of FceRI on the surface of
+blood basophils. It should be taken into account that, after fine
+tuning the technique and evaluating the FceRI expression using
+
+separately anti-CD123-PE and anti-CD193-APC markers, similar
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+TABLE I. Clinical and demographic features of the study population
+
+Patients with CU
+
+ 
+
+cl I variables (n = 287)
+Female sex, n (%) 210 (73.2)
+Age (range), y 45 (4-88)
+Concomitant atopic features, n (%) 65 (22.6)
+Angioedema, n (%) 57 (19.9)
+Thyroid impairment, n (%)* 38 (13.2)
+Elevated levels of ATAs, n (%) 31 (10.8)
+Disease duration (range), mo 48 (2-480)
+Median value of UAS7 (range) NA
+Median value of CsTT (range)’, min NA
+Median value of CTT (range)', °C NA
+Concomitant CIndU, n (%) NA
+Positive ASST, n (%) NA
+Positive APST, n (%) NA
+
+Total serum IgE levels (range), KU/L
+Blood basophil count (range), 10°/uL.
+
+100.0 (1.0-4700.0)
+0.03 (0.01-0.14)
+
+DEZAETAL 3
+
+Patients with CSU Patients with CindU Healthy controls
+
+(n = 192) (n = 95) (n = 46)
+144 (75.0) 66 (69.5) 35 (76.1)
+46 (4-88) 43 (9-79) 51 (21-68)
+46 (24.0) 19 (20.0) 0)
+46 (24.0) 11 (11.6) 0)
+28 (14.6) 10 (10.5) =
+27 (14.1) 4 (4.2) =
+40 (2-480) 60 (2-360) =
+21 (0-42) NA =
+NA 3.0 (0.5-5.0) NA 14 (4-26) =
+57 (29.7) NA 0)
+78 (62.9) NA =
+56 (45.2) NA =
+
+103.0 (1.0-1855.0)
+0.03 (0.01-0.14)
+
+78.9 (2.6-4700.0)
+
+0.04 (0.01-0.10) 0.05 (0.02-0.09)
+
+APST, Autologous plasma skin test; ASST, autologous serum skin test; ATA, antithyroid antibody; CindU, chronic inducible urticaria; CsTT, critical stimulation time threshold;
+CSU, chronic spontaneous urticaria; CTT, critical temperature threshold; CU, chronic urticaria; NA, not applicable; UAS7, 7-day urticaria activity score.
+
+*Defined as the alteration of the thyroid-stimulating hormone serum levels.
++With respect to the 54 patients with cold urticaria.
+
+{For clinical reasons, ASST and APST were only assessed in 124 patients with CSU.
+
+basophil FceRI levels were observed in terms of mean fluorescence
+intensity (MFI; Figure E1, available in this article’s Online Repository at www.jaci-inpractice.org); however, both antibodies were
+simultaneously used to avoid FceRI positive dendritic cells. The
+samples were then lysed and fixed using the FACS Lysing Solution
+(BD Biosciences) and analyzed by flow cytometry in a FACSCanto
+using the FACSDiva software. At least 2 x 10° events were acquired.
+Levels of the basophil FceRI receptor were expressed as MFI. Instrument settings (eg, scatter and voltage settings and compensation
+matrix) and experimental conditions (eg, antibody clones and dilution) remained constant for all samples throughout the study. To
+ensure consistency in the analysis, the same investigator processed
+
+ 
+
+and analyzed all samples and 2 independent researchers correlated
+the levels of basophil FceRI expression and the clinical scores.
+
+Serum IgE levels, levels of ATAs, and ASST/APST
+Total IgE and levels of circulating anti-TPO and anti-Tg antibodies were analyzed in serum by a chemiluminescence immunoassay technique using the IMMULITE 2000 XPi System (Siemens,
+Munich, Germany). The ASST was performed in patients with CSU
+as previously described.'* Briefly, venous blood was taken at the
+initial evaluation, and samples were centrifuged at 2500 rpm for 10
+minutes and the serum was separated. For the APST, citrated blood
+was centrifuged at room temperature to separate the plasma. Afterward, patients received intradermal injections of 50 ML of fresh
+undiluted autologous serum and 50 [LL of autologous plasma on the
+volar forearm. Similar volumes of 0.9% NaCl saline and 100 mg/mL
+histamine were used as negative and positive controls, respectively. A
+positive ASST/APST was considered when the diameter of seruminduced wheal was >1.5 mm compared with the saline-induced
+response at 30 minutes.
+
+Statistical analysis
+Descriptive statistics were performed for each variable, using
+median, range, and percentiles 25th (P25) and 75th (P75) for
+
+quantitative variables, and absolute (n) and relative (%) frequencies
+
+ 
+
+for categorical variables. The Mann-Whitney U test was used to
+compare the FceRI receptor expression between patients with CSU,
+ClIndU, and HCs. Pearson’s correlation was used to evaluate the
+association of the FceRI receptor expression with serum IgE levels,
+blood basophil count, disease duration, and scores of disease severity.
+The paired samples test and Wilcoxon signed-rank test were used
+to evaluate changes in FceRI levels during treatment with antihistamines and omalizumab, respectively. All analyses were carried out
+with the SPSS 22.0 statistical package, and a P value < .05 was
+considered statistically significant.
+
+RESULTS
+Demographics and FceRI expression in the study
+population
+
+During the study period, 287 patients with CU were referred
+to our clinic and were therefore included in the analysis. Of
+these, 192 (66.9%) patients suffered from CSU predominantly
+and the remaining 95 (33.1%) from pure CIndU (54 cold urticaria, 15 symptomatic dermographism, 10 solar urticaria, 7
+cholinergic urticaria, 7 delayed pressure urticaria, 1 contact urticaria, and 1 aquagenic urticaria). In addition, 46 HCs were
+included to obtain reference data. Clinical and demographics
+eatures of the study population are summarized in Table I.
+
+Regarding basophil FceRI levels, the median (P25-P75) FceRI
+expression was found significantly higher in patients with CU
+compared with HCs (9033 [5864-13,630] of MFI vs 4743
+2771-7580] of MFI, respectively; P < .0001; Figure 1).
+However, among patients with CU, no significant differences
+regarding the FceRI expression were found in patients with CSU
+compared with those with pure CIndU (9234 [5934-13,534] of
+MFI vs 8932 [5566-13,919] of MFI, respectively; P = .826;
+Figure 1). It should also be mentioned that no significant dif
+erences were observed regarding total serum IgE levels and
+basophil count between these 2 groups of patients (CSU vs pure
+
+ 
+4 DEZA ETAL
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30000
+iL
+=
+=
+c
+2
+Q
+®
+
+& 20000
+x
+oO
+[aay
+a)
+(3)
+ir
+=
+a
+
+3 10000
+o
+a
+ra
+to)
+2
+@
+>
+®
+al
+
+0
+
+Chronic Chronic Chronic Healthy
+Urticaria Spontaneous Inducible Controls
+Urticaria Urticaria
+
+FIGURE 1. Box-whiskers plots presenting median, interquartile range, and maximum and minimum of basophil high-affinity IgE receptor
+(FceRI) levels in all patients with chronic urticaria (n = 287), patients with chronic spontaneous urticaria (n = 192), patients with chronic
+inducible urticaria (n = 95), and healthy controls (n = 46). MF/, Mean fluorescence intensity. ***P <.0001.
+
+CIndU; Table 1). However, CU subjects showed significantly
+lower blood basophil numbers than HCs (P = .005).
+
+FceRI
+
+variables
+Some clinical and laboratory variables had significant associ
+expression and clinical and _ laboratory
+
+ation with the basophil FceRI expression in our cohort of patients with CU. Thus, subjects who presented with concomitant
+atopic features showed significantly higher FceRI levels than
+those without a personal history of atopic dermatitis, allergic
+rhinitis, and/or allergic asthma (median [P25-P75] FceRI
+expression: 11,534 [6561-15,649] of MFI vs 8583 [543813,109] of MFI, respectively; P = .003). Likewise, higher
+basophil FceRI levels were detected in patients with CSU with
+negative ASST compared with those with positive ASST (median
+[P25-P75] FceRI expression: 10,684 [7352-16,150] of MFI vs
+8061 [1301-12,726] of MFI, respectively; P = .002; Figure 2). A
+similar trend was found regarding the APST result (median
+[P25-P75] FceRI expression: 10,403 [6992-15,515] of MFI in
+APST negative patients vs 7903 [1243-13,601] of MFI in APST
+positive patients; P = .009; Figure 2). The FceRI expression also
+differed among patients with CU depending on the levels of
+circulating ATAs, with lower FceRI levels in patients with
+elevated ATA levels (ie, >35 UI/mL of anti-TPO and/or >40
+Ul/mL of anti-T'g; median [P25-P75] FceRI expression: 6442
+(1621-11,141] of MFI vs 9396 [6261-13,793] of MFI;
+P= .010; Figure 2).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We also investigated whether the basophil FceRI expression in
+patients with CU could be associated with total serum IgE levels
+and/or blood basophil count. A positive correlation was found
+between IgE levels and the FceRI expression (R = 0.422;
+P < .001; Figure 3). Conversely, no association was detected
+between blood basophil count and FceRI levels (R = 0.095;
+P= 5132)¢
+
+FceRI expression and disease activity and duration
+
+Disease activity was evaluated by using the UAS7 in patients
+with CSU and appropriate threshold tests in patients with
+ClIndU (eg, the critical temperature threshold [CTT] and the
+critical stimulation time threshold [CsTT] assessed by the
+TempTest 3.0 in patients with cold urticaria).!”'” In this case,
+the basophil FceRI expression was not found associated with
+disease activity in patients with CSU (R = 0.114; P = .156), or
+with the CTT (R = 0.062; P = .708) and the CsTT (R = 0.010;
+P = .953) in patients with cold urticaria. Regarding CU prognosis, disease duration, defined as the time from symptoms onset
+to the initial evaluation, was also not found associated with the
+basophil FceRI expression in patients with CU (R = 0.031;
+P= 613).
+
+FceRI expression and therapeutic response
+
+FceRI levels were evaluated in 60 subjects (47 CSU and 13
+ClIndU) during antihistamine therapy (median [range] number
+of months on therapy before follow-up measurement: 3 [1-21]
+months). In this group of patients, the FceRI expression was
+J ALLERGY CLIN IMMUNOL PRACT DEZAETAL 5
+VOLUME Il, NUMBER i
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30000 — ;
+i
+=
+= —_ —_- °
+pa — oD.
+2 7
+a
+7)
+2
+5 200004 ——
+x
+oO
+oc
+@
+°°
+nm
+=
+Qa
+8 10000
+sv]
+a
+i)
+2
+oO
+>
+oO
+oo ——
+0 at
+Positive Negative Positive Negative Elevated Non-elevated
+ASST ASST APST APST ATA levels ATA levels
+
+FIGURE 2. Box-whiskers plots presenting median, interquartile range, and maximum and minimum of basophil high-affinity IgE receptor
+(FceRI) levels in patients with chronic urticaria with positive and negative results of the autologous serum skin test (ASST), the autologous plasma skin test (APST), and elevated and nonelevated levels of antithyroid antibodies (ATAs). MF/, Mean fluorescence intensity.
+
+30000
+
+20000
+
+10000
+
+Levels of basophil FceRI expression (MFI)
+
+ 
+
+1 10 100 1000 10000
+
+Total serum IgE (kU/L) [log scale]
+
+FIGURE 3. Correlation between basophil high-affinity IgE receptor (FceRI) expression and total serum IgE levels (represented in the
+logarithmic scale) in patients with chronic urticaria. MF/, Mean fluorescence intensity.
+6 DEZAETAL
+
+>
+w
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—e- Responders
+0000 ~-k- Non responders
+c c
+= =
+© €
+2 =
+3 3
+3 3
+2 2
+5 200004 a
+g g
+3 &
+= ia
+3 ra
+8 ~ 8
+iv j in
+z z
+& i &
+2 10000 4 ; 3
+8 i 8
+s 4 s
+6 6
+2 2
+ro 3
+g g
+3 3
+FE 3
+8 T T
+Baseline During
+evaluation antihistamine
+therapy
+
+30000 4
+
+20000 4
+
+10000 4
+
+° See ae —s
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+ 
+
+~® Responders
+“+4 Non responders
+
+ 
+
+ 
+
+ 
+
+ 
+
+T T
+Dayo 4.weeks 8 weeks 20 weeks
+
+Time after first dose of omalizumab
+
+FIGURE 4. Evolution of the basophil high-affinity IgE receptor (FceRI) expression (median, interquartile range) during treatment with
+(A) antihistamines and (B) omalizumab in patients with chronic urticaria. MF/, Mean fluorescence intensity.
+
+not significantly modified during treatment (P = .118; Figure 4,
+A). Furthermore, no significant differences were observed
+regarding the baseline FceRI expression in responders and nonresponders to antihistamines (P = .787). On the other hand, in
+the 14 patients diagnosed with pure CIndU who received
+treatment with omalizumab (9 cold urticaria, 3 solar urticaria,
+and 2 symptomatic dermographism), a significant drop in the
+basophil FceRI expression was observed after the first injection
+(median [P25-P75] reduction from baseline at 4 weeks: 86.4%
+[83.7-93.6]; P = .003; Figure 4, B), and such reduction was
+maintained throughout the whole treatment (median reduction
+from baseline at weeks 8 and 20: 90.3% and 88.0%, respectively). At 6 months of anti-IgE therapy, 11 (78.6%) patients
+achieved significant clinical improvement (UCT > 12), whereas
+3 (21.4%) subjects were considered to have poorly controlled
+disease (UCT < 12). Interestingly, these omalizumab “nonresponders” showed very low baseline FceRI levels (median
+[range] FceRI expression: 2547 [1172-3778] of MFI in “nonresponders” vs 13,591 [7982-18,512] of MFI in “responders”).
+
+DISCUSSION
+
+FceRI is a molecular complex expressed on the surface of mast
+cells, basophils, antigen-presenting cells, and eosinophils, and its
+activation appears to be critical for the immediate hypersensitivity response that is characteristic of allergic diseases.'®
+Thereby, the FceRI expression has been found significantly
+upregulated in subjects with atopic dermatitis, allergic asthma,
+and allergic rhinitis compared with healthy nonatopic
+individuals.'”7° Likewise, the results obtained from the present
+large cohort study demonstrate that the FceRI expression on
+circulating basophils is also substantially increased in patients
+with active CSU and ClIndU. Although the exact functional
+significance of elevated FceRI expression on effector cells in
+allergic conditions is not completely understood, accumulated
+evidence suggests that these receptors could enhance their roles as
+effector cells in allergic inflammation.'? It has also been postulated that the elevated FceRI expression might profoundly alter
+the spectrum of allergen-presenting cells available to present
+allergens to T cel Is,°° and that FceRI downregulation may be
+
+ 
+
+ 
+
+followed by an increase in the threshold above which degranulation of effector cells is triggered.'” Taken together, our observations support the involvement of FceRI on the complex
+inflammatory response that occurs in patients with CSU and
+ClIndU, and also support the assumption that circulating basophils play an important role in the pathophysiology of CU.
+Several lines of evidence also support a regulatory role for
+serum IgE in the expression of its high-affinity receptor on
+human mast cells and basophils." Thereby, a very strong association (correlation coefficient close to 1) has been found
+between serum IgE levels and FceRI expression on effector cells
+in a great variety of disease states, particularly in atopic individuals, but also in other IgE-driven conditions like hyper-IgE
+syndrome or helminth infestation.'”°* Although the basis for
+this correlation has not been elucidated in detail, it has been
+suggested either that there are similar regulatory mechanisms to
+both IgE levels and IgE receptor or that IgE itself upregulates or
+stabilizes surface expression of the receptor leading to elevated
+expression in allergic diseases.*! However, such association has
+not been previously evaluated in patients with CSU and CIndU.
+According to our results, in these conditions, which are not
+considered classic allergen-driven diseases, this potential association IgE-FceRI expression seems to be weaker (R = 0.422),
+suggesting that there must be other regulatory mechanisms with
+a significant influence on the FceRI levels in patients with CU.
+In addition, it does not appear that certain CU features, such as
+the activity/severity or the duration of the disease, may play an
+important role in the regulation of the FceRI expression on
+effector cells.
+Previous studies have indicated that approximately 30% to
+60% of patients with CU may have an autoimmune etiology on
+the basis of various pieces of laboratory and clinical evidence.°”** Such autoimmune background is supported by the
+identification of circulating autoantibodies against FceRI or (less
+commonly) IgE that may induce activation of basophils and mast
+cells, secretion of histamine, and recruitment of inflammatory
+cells.°°* The detection of such autoantibodies may have a
+complex methodology with variable sensitivity and specificity
+and, as of yet, is not fully implemented in routine clinical
+practice.”* Accordingly, several tests have been proposed to
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+evaluate such autoimmune mechanism in patients with CU.
+Among them, 2 of the most accessible and used in daily practice
+are the ASST/APST and the detection of circulating ATAs,
+because accumulated evidence demonstrates that autoantibodies
+to FceRI are more frequently identified in patients with positive
+ASST and/or elevated ATA levels,” which may be in line with
+our findings. Thus, according to our results, patients with
+negative ASST/APST or undetected ATAs showed significantly
+higher basophil FceRI levels, suggesting that these autoantibodies
+against FceRI (or other functional autoantibodies that bind to
+the FceRI receptor) that are presumably present in patients with
+autoimmune CU could interfere in the measurement of the
+basophil FceRI expression, reducing their levels detected by flow
+cytometry. Thereby, although there was an overlap of values
+between both groups of patients, it could be said that the
+assessment of the basophil FceRI expression may help distinguishing CU individuals according to the potential pathogenic
+mechanism of their disease. These observations could have
+important implications for clinicians, because patients with CU
+with an autoimmune etiology may present distinctive clinical
+features and patterns of therapeutic response.°** Further
+research is needed to see whether the FceRI measurement can
+distinguish autoimmune patients without this overlap.
+
+Given the emergence of new therapies in CU, there is a
+growing interest to look for objective biomarkers that reliably
+predict the effectiveness of a specific therapeutic intervention.
+Thus, many clinical and laboratory parameters have been claimed
+to correlate with the response to therapy in CU during the last
+years.”** ° However, there are no validated biomarkers in clinical
+practice for this disease to date. In the particular case of omalizumab, previous data from our group and Metz et al demonstrated that the fast clinical improvement achieved during
+omalizumab therapy in patients with CSU is associated with a
+rapid and sharp reduction in the FceRI expression on effector
+cells that is maintained throughout the whole treatment.'”!?”!
+Furthermore, recent investigations have shown that patients
+with CSU who do not respond to omalizumab therapy have
+lower baseline FceRI levels on basophils compared with
+responder patients, >? suggesting that this biomarker may
+represent a potential predictor of omalizumab response in CSU.
+Similarly, in the present study, we have observed that this trend
+can also be applied in patients with CIndU, because nonresponders to omalizumab showed almost undetectable baseline
+FceRI levels. The reason why these patients show very low
+basophil FceRI expression is not yet fully understood. Genetic
+variability or some masquerading factors could be plausible
+explanations, because previous studies have shown that experimental molecular changes in the subunits of this receptor can
+affect its expression on the cell surface.*? Although further
+multicenter prospective studies are needed to confirm such
+observations, these findings might have an important impact in
+daily practice, allowing physicians to early identify patients who
+will not benefit from omalizumab therapy.
+
+Regarding antihistamines, previous data have also suggested
+the existence of a possible link between certain aspects related to
+the IgE receptor and the response to this treatment in patients
+with CU. Thus, for example, Guo et al identified a single
+nucleotide polymorphism in the FCERIA gene (a gene that
+encodes the @-chain of the FceRI) that might be associated with
+the therapeutic efficacy of nonsedating antihistamines in Chinese
+patients with CSU. However, to our knowledge, the effect of
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DEZAETAL 7
+
+antihistamine therapy on the FceRI expression has not been
+previously evaluated. In this sense, we could not find an association between FceRI levels and response to antihistamine
+therapy in our cohort of patients with CU, because the basophil
+FceRI expression was not significantly modified during treatment
+and no differences regarding this parameter were observed
+between responder and nonresponder patients.
+
+Some limitations of the present study should be pointed out.
+The analysis was done based on data from real clinical practice,
+and therefore, some comparisons may not have reached statistical
+significance probably due to a small sample size and insignificant
+power to show statistical differences (a prior sample calculation
+was not addressed). A matching procedure for some variables (eg,
+age and sex) was not used for the selection of the control group.
+The overlap of 25 to 75 ranges between ASST/APST positive
+(autoimmune) and negative patients, even though the median
+values were significantly different, may limit the blood basophil
+FceRI expression clinical relevance. Further studies in larger
+patient populations are needed to see how distinct the 2 populations are, to determine the amount of overlap, and to establish
+a cutoff value for the FceRI expression that might provide an
+optimal sensitivity and specificity. Although the evolution of the
+
+ 
+
+basophil FceRI expression appears to be similar as in patients
+with CSU, the limited number of patients with CIndU treated
+with omalizumab in the present study does not allow drawing
+firm conclusions about the baseline FceRI expression as a
+biomarker of omalizumab response.
+
+In summary, the FceRI expression on blood basophils is
+significantly upregulated in subjects with CSU and CIndU
+compared with healthy nonatopic individuals. The association
+between serum total IgE levels and basophil FceRI expression in
+
+ 
+
+CU is weaker than in other classic allergic diseases, suggesting
+that there must be other regulatory mechanisms with an
+important influence on the FceRI levels in this disease.
+Furthermore, significantly higher FceRI levels might be detected
+in patients with CU who present with concomitant atopic features, negative ASST/APST, or undetected levels of ATAs.
+Although the FceRI expression would not provide information
+regarding CU activity and prognosis, its assessment might be
+relevant in daily clinical practice, helping physicians to identify
+those patients with the suggested autoimmune pathogenesis
+(driven by IgE or IgG autoantibodies against FceRI). More
+extensive studies would be useful to confirm this observation and
+to define the clinical value of FceRI expression in blood basophils
+as a potential biomarker of omalizumab response.
+
+Acknowledgments
+
+We would like to thank Xavier Duran (Mar Institute of
+Medical Research Foundation) for his help in conducting the
+statistical analysis, and Sara Inés Lozano Ramos (Laboratori de
+Referéncia de Catalunya) for providing laboratory data.
+
+All authors listed have made a substantial, direct, and intellectual contribution to the work. A. M. Giménez-Arnau designed
+the study. G. Deza, A. March-Rodriguez, S. Sanchez, and A. M.
+Giménez-Arnau collected the patients’ data. C. Ribas-Llauradé,
+D. Soto, and R. Gimeno provided the laboratory data. G. Deza,
+R. M. Pujol, and A. M. Giménez-Arnau drafted the initial
+manuscript. All authors critically revised and approved the final
+version of the manuscript.
+ARTICLE IN PRESS
+
+8 DEZAETAL
+
+This work was conducted within the framework of the PhD in
+medicine for G. Deza from the Universitat Autonoma de Barcelona (UAB).
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACIGA*LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy 2018;73:1393-414.
+
+2. Mager! M, Altrichter S, Borzova E, Giménez-Amau A, Grattan CEH, Lawlor F,
+et al. The definition, diagnostic testing, and management of chronic inducible
+urticarias—the EAACI/GA(2) LEN/EDF/UNEV consensus recommendations
+2016 update and revision. Allergy 2016;71:780-802.
+
+3, Maurer M, Weller K, Bindslev-Jensen C, Giménez-Amau A, Bousquet PJ,
+Bousquet J, et al. Unmet clinical needs in chronic spontaneous urticaria. A
+GALEN task force report. Allergy 2011;66:317-30.
+
+4. Deza G, Giménez-Amau AM. Itch in urticaria management. Curr Probl Dermatol 2016;50:77-85.
+
+5. Kaplan AP, Greaves M. Pathogenesis of chronic urticaria, Clin Exp Allergy
+2009:39:777-87.
+
+6. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer 0, Maurer M. Autoimmune chronic spontaneous urticaria: what we know and what we do not
+know. J Allergy Clin Immunol 2017;139:1772-17781.e1.
+
+7. Kaplan AP. Diagnosis, pathogenesis, and treatment of chronic spontaneous
+urticaria, Allergy Asthma Proc 2018;39:184-90.
+
+8. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies against the high-affinity IgE receptor as a cause of histamine release
+in chronic urticaria, N Engl J Med 1993;328:1599-604.
+
+9. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in
+chronic urticaria, J Allergy Clin Immunol 2001:107:1056-62.
+
+10. Altman K, Chang C. Pathogenic intracellular and autoimmune mechanisms in
+urticaria and angioedema. Clin Rev Allergy Immunol 2013:45:47-62.
+
+11. Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control, J Allergy Clin Immunol 2014;133:
+1365-72.
+
+12. Deza G, Bertolin-Colilla M, Pujol RM, Curto-Barredo L, Soto D, Garcia M,
+et al. Basophil FcARI expression in chronic spontaneous urticaria: a potential
+immunological predictor of response to omalizumab therapy. Acta Derm
+Venereol 2017:97:698-704.
+
+13, Metz M, Staubach P, Bauer A, Brehler R, Gericke J, Kangas M, et al. Clinical
+efficacy of omalizumab in chronic spontaneous urticaria is associated with a
+reduction of FceRI-positive cells in the skin, Theranostics 2017;7:1266-76.
+
+14, Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CEH. EAACI/GA(2)LEN task force consensus report: the autologous
+serum skin test in urticaria. Allergy 2009;64:1256-68.
+
+15, Siebenhaar F, Staubach P, Metz M, Mager! M, Jung J, Maurer M. Peltier eftectbased temperature challenge: an improved method for diagnosing cold urticaria.
+J Allergy Clin Immunol 2004;114:1224-5.
+
+16. Martinez-Escala ME, Curto-Barredo L, Carnero L, Pujol RM, GiménezArnau AM. Temperature thresholds in assessment of the clinical course of acquired cold contact urticaria: a prospective observational one-year study. Acta
+Derm Venereol 2015;95:278-82.
+
+17. Mlynek A, Magerl M, Siebenhaar F, Weller K, Vieira Dos Santos R,
+Zuberbier T, et al, Results and relevance of critical temperature threshold testing
+in patients with acquired cold urticaria, Br J Dermatol 2010;162:198-200.
+
+20.
+
+21.
+
+22.
+
+23.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+‘STs
+
+32.
+
+33.
+
+34,
+
+J ALLERGY CLIN IMMUNOL PRACT.
+MONTH 2019
+
+. Sutton BJ, Davies AM, Structure and dynamics of IgE-receptor interactions:
+
+FeeRI and CD23/FceRI. Immunol Rey 2015;268:222-35.
+
+. Sihra BS, Kon OM, Grant JA, Kay AB. Expression of high-affinity IgE
+
+receptors (Fe epsilon RI) on peripheral blood basophils, monocytes, and
+eosinophils in atopic and nonatopic subjects: relationship to total serum IgE
+concentrations. J Allergy Clin Immunol 1997;99:699-706.
+
+Maurer D, Fiebiger E, Reininger B, Wolff-Winiski B, Jouvin MH, Kilgus O,
+et al, Expression of functional high affinity immunoglobulin E receptors (Fe
+epsilon RI) on monocytes of atopic individuals. J Exp Med 1994;179:745-50.
+Kinet JP. The high-affinity IgE receptor (Fe epsilon RI): from physiology to
+pathology. Annu Rev Immunol 1999;17:931-72.
+
+Saini $S, Klion AD, Holland SM, Hamilton RG, Bochner BS, Macglashan DW.
+The relationship between serum IgE and surface levels of FceR on human
+
+ 
+
+leukocytes in various diseases: correlation of expression with FceRI on basophils but not on monocytes or eosinophils. J Allergy Clin Immunol 2000;106:
+514-20,
+
+Saini SS, Kaplan AP, Chronic spontaneous urticaria: the devil’s itch, J Allergy
+Clin Immunol Pract 2018;6:1097-106.
+
+. Ulambayar B, Chen YH, Ban GY, Lee JH, Jung CG, Yang EM, et al. Detection
+
+of circulating IgG autoantibody to FceRIa in sera from chronic spontaneous
+urticaria patients [published online ahead of print November 14, 2017]. J
+Microbiol Immunol Infect, https://doi.org/10.1016/j,jmii.2017.10.003.
+Baioumy SA, Esawy MM, Shabana MA. Assessment of circulating FCeRIa in
+chronic spontaneous urticaria patients and its correlation with clinical and
+immunological variables. Immunobiology 2018;223:807-11.
+
+Alyasin $, Hamidi M, Karimi AA, Amiri A, Ghaffarpasand F, Ehsaei MJ.
+Correlation between clinical findings and results of autologous serum skin test
+in patients with chronic idiopathic urticaria, South Med J 2011;104:111-5.
+Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et al.
+Autologous whole blood injections to patients with chronic urticaria and a
+positive autologous serum skin test: a placebo-controlled trial. Dermatology
+2006;212:150-9.
+
+Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum
+autoreactivity predicts time to response to omalizumab therapy in chronic
+spontaneous urticaria. J Allergy Clin Immunol 2017;139:1059-10561.e1.
+
+Deza G, Ricketti PA, Giménez-Arnau AM, Casale TB. Emerging biomarkers
+and therapeutic pipelines for chronic spontaneous urticaria, J Allergy Clin
+Immunol Pract 2018:6:1 108-17.
+
+Kolkhir P, André F, Church MK, Maurer M, Metz M. Potential blood
+biomarkers in chronic spontaneous urticaria. Clin Exp Allergy 2017:47:
+19-36.
+
+Deza G, Bertolin-Colilla M, Sanchez S, Soto D, Pujol RM, Gimeno R, et al.
+Basophil FceRI expression is linked to time to omalizumab response in chronic
+spontaneous urticaria. J Allergy Clin Immunol 2018;141:2313-2316.e1.
+
+Jorg L, Pecaric-Petkovic T, Reichenbach S, Coslovsky M, Stalder O,
+Pichler W, et al. Double-blind placebo-controlled trial of the effect of
+omalizumab on basophils in chronic urticaria patients. Clin Exp Allergy
+2018:48:196-204.
+
+Cruse G, Yin Y, Fukuyama T, Desai A, Arthur GK, Baumer W, et al. Exon
+skipping of FceRI eliminates expression of the high-affinity IgE receptor in
+mast cells with therapeutic potential for allergy. Proc Natl Acad Sci US A 2016;
+113:14115-20,
+
+Guo A, Zhu W, Zhang C, Wen S, Chen X, Chen M, et al, Association of
+FCERIA genetic polymorphisms with risk for chronic spontaneous urticaria and
+efficacy of nonsedating H1-antihistamines in Chinese patients. Arch Dermatol
+Res 2015;307:183-90.
+J ALLERGY CLIN IMMUNOL PRACT DEZA ET AL 8.e1
+VOLUME i, NUMBER
+
+ONLINE REPOSITORY
+
+ 
+
+ 
+
+ 
+
+10° jo
+FeERIa FTCA.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD193 APC-A
+
+ 
+
+£
+
+8 gy
+: 50 100 150 200 250 402
+
+FSCA (& 1.000)
+
+ 
+
+ 
+
+108
+
+ 
+
+10° 10°
+FeER la FITCA,
+
+FIGURE E1. Comparison of the basophil gating strategy. (A) Anti-CD123-PE and (C) anti-CD193-APC allow the identification of basophils
+among the cells contained in the respective gate. B, D, High-affinity IgE receptor (FceRI) expression on basophils gated in (A) and (C),
+respectively. MF/, Mean fluorescence intensity.
+

@@ -1,0 +1,2564 @@
+(®) Check for updates
+
+Supplement
+
+AMERICAN ACADEMY OF
+( OTOLARYNGOLOGY
+HEAD AND NECK SURGERY
+FOUNDATION
+
+ 
+
+Targeted Molecular Therapies in Allergy pa
+
+and Rhinology
+
+Cecelia C. Damask, DO', Matthew W. Ryan, MD?,
+
+Thomas B. Casale, MD?, Mario Castro, MD‘,
+
+Christine B. Franzese, MD®, Stella E. Lee, MD®,
+
+Otolaryngology—
+Head and Neck Surgery
+
+© American Academy of
+Otolaryngology-Head and Neck
+Surgery Foundation 2020
+
+Reprints and permission:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0194599820965233
+http://otojournal.org
+
+@SAGE
+
+Joshua M. Levy, MD’, Sandra Y. Lin, MD®, Peter A. Lio, MD’,
+
+Anju T. Peters, MD’, Michael P. Platt, MD'°,
+and Andrew A. White, MD''
+
+Abstract
+
+Biologic agents, monoclonal antibodies that target highlyspecific molecular pathways of inflammation, are becoming
+integrated into care pathways for multiple disorders that are
+relevant in otolaryngology and allergy. These conditions
+share common inflammatory mechanisms of so-called Type 2
+inflammation with dysregulation of immunoglobulin E production and eosinophil and mast cell degranulation leading to
+tissue damage. Biologic agents are now available for the treatment of chronic rhinosinusitis with nasal polyps (CRSWNP),
+asthma, eosinophilic granulomatosis with polyangiitis (EGPA),
+atopic dermatitis (AD), and chronic spontaneous urticaria
+(CSU). This paper summarizes the diagnosis and management
+of these conditions and critically reviews the clinical trial data
+that has led to regulatory approval of biologic agents for these
+conditions.
+
+Keywords
+
+biologics, biologic agent, anti-IgE, anti-IL-5, anti-IL-4, anti-IL13, anti-TSLP, omalizumab, mepolizumab, reslizumab, benralizumab, dupilumab, tezepelumab, T2 inflammation, asthma,
+allergic asthma, eosinophilic asthma, chronic rhinosinusitis
+with nasal polyposis, atopic dermatitis, chronic spontaneous
+urticaria, eosinophilic granulomatosis with polyangiitis, aspirinexacerbated respiratory disease, eosinophilia, unified airway
+
+Received July 3, 2020; accepted September 1|5, 2020.
+
+ew biologic agents are now available for a variety of
+
+inflammatory diseases that are relevant to the otolar
+yngologist and allergist. The biologics discussed in
+this review are monoclonal antibodies that target highly specific and critical pathways that are essential in the pathogenesis of allergic and respiratory disorders. These agents are
+changing the treatment paradigms for chronic rhinosinusitis
+with nasal polyps (CRSwNP), aspirin-exacerbated respiratory
+disease (AERD), asthma, eosinophilic granulomatosis with polyangiitis (EGPA), atopic dermatitis (AD), and chronic spontaneous urticaria (CSU).
+
+There is a rapidly expanding scientific literature on the
+role of biologics in these disorders, and recognizing a need
+to educate otolaryngologists and allergists on the current state
+of knowledge concerning these treatments, the American
+Academy of Otolaryngic Allergy convened a multidisciplinary panel of experts for a Biologics Roundtable discussion in
+May 2019. Panelists were assigned specific content areas for
+presentation to the group, summarized pivotal trials that led to
+the current indications for use of these treatments, and critically reviewed current treatment paradigms. The panel also
+offered insight on a variety of practical issues concerning the
+use of biologics and where more research is needed to support
+informed decision making. In addition to analyzing evidence
+that underpins the approved indications for these agents, the
+panel considered the relative clinical benefit of biologics as
+compared with standard or traditional treatment approaches.
+This article summarizes the discussion that occurred at the
+May 2019 Biologics Roundtable regarding diseases relevant
+to allergy and rhinology for which biologic agents are a treatment option. Panelists did not receive any compensation for
+their participation.
+
+Type 2 Inflammation
+
+While CRSwNP, AERD, asthma, EGPA, AD, and CSU are
+heterogeneous in nature and have multiple phenotypes, most
+are characterized by type 2 inflammation (Figure 1). In type
+
+ 
+
+‘University of Central Florida, Lake Mary, Florida, USA
+
+2UT Southwestern Medical Center, Dallas, Texas, USA
+3University of South Florida, Tampa, Florida, USA
+
+‘University of Kansas Medical Center, Kansas City, Kansas, USA
+5University of Missouri Medical Center, Columbia, Missouri, USA
+‘University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+
+7Emory Medicine, Atlanta, Georgia, USA
+
+8Johns Hopkins Medicine, Baltimore, Maryland, USA
+°Northwestern Medicine, Chicago, Illinois, USA
+
+‘Boston Medical Center, Boston, Massachusetts, USA
+
+"'Scripps Clinic, La Jolla, California, USA
+
+Corresponding Author:
+Cecelia C. Damask, DO, University of Central Florida, 795 Primera Blvd, Ste
+1031, Lake Mary, FL 32746.
+Email: cbaukus@yahoo.com
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Allergens
+
+  
+
+Dendritic
+cell
+
+ 
+
+Mast
+cell
+Naive
+T cell
+be IL-4
+alle The cell
+IL-13
+Bell ks
+
+   
+
+Eosinophil
+
+Microbes
+Viruses
+
+Glycolipids
+Pollution
+
+   
+
+IL-33 Macrophage
+TSLP
+@ ILc2
+Ss.
+
+Figure |. T2 inflammation. Type 2 immune responses involve accumulation of eosinophils, mast cells, Th2 cells, ILC2s, and IgE-producing B
+cells, and type 2 mediators and cytokines (IL-4, IL-5, and IL-13). IgE, immunoglobulin E; IL-4, interleukin 4; IL-5, interleukin 5; IL-13, interleukin 13; IL-25, interleukin 25; IL-33, interleukin 33; ILC2, type 2 innate lymphoid cell; Th2 cell, T helper type 2 cell; TSLP, thymic stromal
+
+lymphopoietin.
+
+2 inflammation, antigens interact with dendritic cells, leading to T-cell activation and differentiation. In allergic disease, type 2 differentiated T-helper (Th2) cells drive the
+formation of allergen-specific immunoglobulin E (IgE) via
+IL-4 and IL-13. This IgE binds to mast cells and basophils
+and functions as the receptor that triggers allergen-induced
+degranulation. Released mediators as well as IL-4 and IL-13
+lead to tissue eosinophilia.’ In nonallergic type 2 inflammation, type 2 differentiated innate lymphoid (ILC2) cells drive
+the same cell types and mediators to produce eosinophilic
+inflammation. This eosinophilic inflammation is sustained
+by IL-5. The recruitment, activation, and secretion of these
+inflammatory cells lead to tissue damage and a cycle of
+chronic inflammation.“
+
+Targeting the Molecules of Type 2
+Inflammation
+
+Immunoglobulin E
+
+IgE is the basis for atopy and plays a central role in allergic
+inflammatory disorders. IgE is secreted by B cells and
+plasma cells, found in serum, and bound to high- and lowaffinity IgE cell surface receptors! (Figure 2). IgE-receptor
+interactions are involved in multiple aspects of the allergic
+response, making IgE a long-standing target for therapeutic
+intervention.?~+
+
+The immediate allergic response is triggered by allergeninduced cross-linking of receptor-bound IgE on mast cells
+and basophils, resulting in the release of a variety of inflammatory mediators, such as histamine. Omalizumab is a
+
+humanized monoclonal anti-IgE antibody that forms complexes with circulating free IgE, inhibiting binding of the IgE
+molecules to high-affinity and CD23 receptors. Omalizumab
+cannot complex with or displace bound IgE, nor can it bind to
+IgE receptors. This is important because omalizumab does not
+activate mast cells or basophils.
+
+By binding to free IgE and forming small complexes,
+omalizumab prevents the IgE from binding to receptors on
+mast cells. This prevents mast cell-bound IgE-antigen interaction and IgE cross-linking, effectively preventing mast cell
+degranulation and subsequent release of mediators. In turn,
+this prevents the allergic symptoms normally caused by
+these events. When IgE levels remain at low levels with
+omalizumab treatment, high-affinity cell surface receptors
+are also downregulated, further inhibiting the development
+of allergic symptoms by reducing the potential for basophil
+and mast cell activation by uncomplexed free IgE molecules.** Similar downregulation of receptors occurs in mast
+cells and basophils, but downregulation is faster in basophils.*° Omalizumab also blocks binding of IgE to lowaffinity IgE receptors, although the therapeutic relevance of
+this action is less clear.'°
+
+IL-5
+
+Interleukin 5 (IL-5) is a potent proeosinophilic cytokine that
+controls cellular differentiation and maturation of eosinophils in the bone marrow, as well as the survival and activation of eosinophils at peripheral sites. Eosinophils are central
+to the pathogenesis and severity of chronic inflammatory
+disorders of the airway, including asthma and nasal
+Damask et al
+
+ 
+
+Allergens
+
+    
+ 
+
+Dendritic
+cell
+
+&D Eosinophil
+
+Smooth muscle
+
+Figure 2. IgE-mediated allergic/inflammatory pathway. Allergens are taken up by dendritic cells and presented to naive T-helper cells. A cascade of events leads to production of the type 2 cytokines IL-4, IL-5, and IL-13; secretions of IgE by B cells; and chemoattraction of mast
+cells and eosinophils. IgE, immunoglobulin E; IL-4, interleukin 4; IL-5, interleukin 5; IL-13, interleukin 13; IL-25, interleukin 25; IL-33, interleukin 33; Th2 cell, T helper type 2 cell; TSLP, thymic stromal lymphopoietin.
+
+be Viruses ie
+
+ 
+
+Glycolipids i Migrobgs Pollution == Tobacco Smoke
+IL-25 IL-25
+IL-33 Macophage IL-33
+TSLP TSLP
+NKT cell
+ILC2
+
+Smooth
+muscle
+
+&D Eosinophil
+
+Figure 3. ILC2-mediated type 2 responses. The interaction of environmental exposures with the airway epithelium leads to the release of
+the mediators IL-33, IL-25, and TSLP. Type 2 cytokines can be produced by ILC2s. ILC2 can be activated by proteases, pathogens, pollution,
+and other stimuli. IL-5, interleukin 5; IL-13, interleukin 13; IL-25, interleukin 25; IL-33, interleukin 33; ILC2, type 2 innate lymphoid cell; NKT
+
+cell, natural killer cell; TSLP, thymic stromal lymphopoietin.
+
+polyposis, and patients with asthma and eosinophilia have
+more frequent exacerbations.
+
+IL-5 is produced by Th2 lymphocytes and ILC2 cells
+(Figure 3). Th2 cells synthesize and release IL-5 when they
+are activated by antigen-presenting dendritic cells in the
+presence of IL-4. This process occurs via stimulation of
+STAT6 (signal transducer and activator of transcription 6)
+
+and GATA3 (GATA binding protein 3). ILC2 cells also produce IL-5 upon activation by epithelium-derived alarmins,
+such as IL-25, IL-33, and thymic stromal lymphopoietin,
+which can also activate GATA3.'”!> Elevated levels of IL-5
+mRNA are observed in bronchial biopsies of patients with
+asthma, and elevated IL-5 levels correlate with asthma
+
+severity. MayD
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Allergens
+
+   
+   
+
+Dendritic
+
+TSLP
+cell
+
+Mast
+cell
+
+Naive
+T cell
+Omalizumab
+
+Y Y ioe IL-4 |}—Dupilumab
+X
+
+ 
+
+©) Pai Th2 cell
+IL-13
+
+Beall Tap x
+jupilumal
+
+Reslizumab
+
+Mepolizumab
+
+Benralizumab
+
+Eosinophil
+
+Microbes
+Viruses
+
+Glycolipids
+Pollution
+
+IL-33 Macrophage
+TSLP
+
+ILC2
+
+   
+ 
+
+Reslizumab
+Mepolizumab
+Benralizumab
+
+Figure 4. Molecular targets for biologic therapies. The schematic includes sites of targeted treatments with approved monoclonal antibodies. The interaction of genetic susceptibility and environmental exposures, such as allergens, viruses, pollutants, and irritants, creates airway
+inflammation. This process lends itself to numerous therapeutic targets that have been approved by the US Food and Drug Administration.
+IgE, immunoglobulin E; IL-4, interleukin 4; IL-5, interleukin 5; IL-13, interleukin 13; IL-25, interleukin 25; IL-33, interleukin 33; ILC2, type 2
+
+innate lymphoid cell; TSLP, thymic stromal lymphopoietin.
+
+Since IL-5 is critical for eosinophil growth, differentiation, and migration to the airways, it is an appropriate therapeutic target in eosinophilic asthma.
+
+There are 2 ways that monoclonal antibodies can block
+the effects of IL-5. One approach is to bind to IL-5 itself.
+Mepolizumab and reslizumab are 2 humanized monoclonal
+antibodies that bind directly to IL-5, preventing it from binding to the IL-5 receptor. Mepolizumab and reslizumab bind to
+IL-5, blocking its binding to the alpha chain of the IL-5 receptor complex on the eosinophil cell surface.'® By inhibiting IL5 signaling through blockade, mepolizumab and reslizumab
+reduce the production and survival of eosinophils.
+
+Another approach to IL-5 blockade is to bind to a component of the IL-5 receptor. Benralizumab targets the IL-5
+receptor a on eosinophils and basophils, which prevents IL5 binding.'® As with the other monoclonal antibodies that
+target IL-5, benralizumab depletes blood and airway eosinophils. However, unlike mepolizumab and reslizumab, benralizumab induces antibody-dependent, cell-mediated cytotoxicity.
+An active immune response against benralizumab-tagged eosinophils and basophils, via natural killer cells, leads to apoptosis
+and further depletion of eosinophil numbers. !°!7
+
+IL-4/13
+
+IL-4 and IL-13 fuel eosinophilic and allergic inflammatory
+processes in type 2 inflammatory diseases via a variety of
+mechanisms, including IgE synthesis, induction of airway
+hyperresponsiveness, proliferation of bronchial fibroblasts,
+enhanced mucus production, and recruitment of basophils
+
+and eosinophils. IL-4 and IL-13 function upstream of IL-5
+and affect more cell types beyond eosinophils, including
+airway smooth muscle cells, fibroblasts, macrophages, mast
+cells, and basophils. Beyond their ability to promote a multimodal inflammatory response, IL-4 and IL-13 also appear to
+downregulate important components of barrier function in
+AD, such as filaggrin, ceramides, and antimicrobial peptides,
+in the skin and airways.!*??
+
+Blockade of IL-4 and IL-13 can be achieved via receptor
+inhibition or neutralizing antibodies. Dupilumab binds to the
+IL-4Ra subunit, inhibiting IL-13 and IL-4 signaling and
+decreasing IgE production by about 40%. The IL-4 w
+receptor is a common receptor domain for IL-4 and IL-13.
+
+Figure 4 presents sites of the targeted treatments with
+approved monoclonal antibodies.
+
+Chronic Rhinosinusitis With Nasal Polyps
+Definition and Diagnosis
+
+CRSwNP is an inflammatory condition of the nose and paranasal sinuses that lasts >12 weeks.?* Symptoms include
+nasal obstruction/congestion, anterior or posterior nasal discharge, and loss of the sense of smell. The diagnosis of
+CRSwNP is confirmed by the finding of nasal polyps (usually bilateral) on anterior rhinoscopy or nasal endoscopy.
+Phenotyping of chronic rhinosinusitis (CRS) into CRSwNP
+and CRS without nasal polyps does not adequately reflect
+the pathophysiologic diversity*> of these conditions; nevertheless, most CRSwNP is characterized by type 2
+Damask et al
+
+ 
+
+eosinophilic inflammation, and CRSwNP is closely linked to
+atopy/allergy and asthma.”°
+
+Management
+
+In general, corticosteroids are the most effective treatments
+for nasal polyp inflammation. Patients with mild symptoms
+or minimal polyp burden can be adequately treated with
+long-term topical corticosteroids.?”°* When control of this
+inflammation is insufficient, short courses of oral corticosteroids (OCSs) are often added. The optimal duration of OCS
+treatment is not established, but randomized controlled trials
+of a 2-week flat course or 3-week tapering course of oral
+steroid, beginning at a prednisone equivalent dose of 40 to
+50 mg, achieved significant reduction of polyp size with a
+concomitant improvement in CRS symptoms.’? The longterm efficacy of such as a course of oral steroids, in conjunction with daily topical intranasal steroids, is likely 8 to 12
+weeks.*° Short courses of antibiotics (<3 weeks), especially
+if concomitant bacterial infection is present, and longer-term
+courses of macrolide antibiotics (>3 months) may provide
+subjective benefit in select patients.*! Aspirin desensitization
+is an option in patients with AERD.”’
+
+Sinus surgery is useful when appropriate medical therapy
+fails to alleviate symptoms or eliminate polyps and sinus
+inflammation or when recurrent polyps necessitate the use of
+oral steroids >2 times a year. Complete sinus surgery creates
+access to improve the effectiveness of topical intranasal steroids. ‘“‘High dose” topical steroids administered via saline
+irrigation, head-down positioning, or specialized applicator
+devices have been shown to be beneficial in these patients.*”
+
+Some nasal polyp disease is so severe that complications
+arise from excessive steroid use.*’ For these patients, the
+emerging biologic therapies hold great promise as an add-on
+treatment approach that will control disease without repeated
+surgery or repeated requirements for systemic steroids.
+
+CRSwNP Treatment With Biologics
+
+Dupilumab. At present, the only biologic approved by the US
+Food and Drug Administration (FDA) for treatment of nasal
+polyp disease is dupilumab. Dupilumab is approved for addon maintenance treatment for adults with inadequately controlled CRSwNP. A phase II study was conducted to determine if dupilumab would improve clinical measures of
+disease when added to intranasal corticosteroids (INCSs) in
+patients with CRSwNP. The primary endpoint was change
+in endoscopic nasal polyp score (NPS) after 16 weeks.
+Secondary endpoints included sinus computed tomography
+(CT) scores, olfaction, validated symptom scores, biomarkers, and safety assessments. The trial enrolled 60 adults
+with CRSwNP, of whom 35 had asthma. All had failed >8
+weeks of INCS, had >2 symptoms of CRSwNP, and had
+bilateral nasal polyps on endoscopy. Participants were
+treated with a subcutaneous (SC) 600-mg loading dose of
+dupilumab, followed by SC 300 mg weekly plus mometasone furoate (MF) nasal spray for 16 weeks. All clinical
+outcomes—including NPS, Lund-McKay CT score, Sino
+Nasal Outcome Score (SNOT-22), and measures of
+olfaction—improved significantly in the group treated with
+dupilumab as compared with control. NPS was reduced by
+1.6 relative to placebo in the actively treated group (mean
+baseline NPS of 5.9 in the active treatment group). LundMackay CT score*? significantly improved by 8.9 points
+relative to placebo (baseline in active group, 18.6). Sinonasal quality of life significantly improved in participants
+treated with dupilumab (26-point reduction relative to
+placebo; baseline score of 41 in active treatment arm).
+Olfaction, as assessed by the University of Pennsylvania
+Smell Identification Test (UPSIT), significantly improved
+with dupilumab treatment. The baseline UPSIT score was
+13 of 40 in the active treatment group, and the mean UPSIT
+score increased by 13 relative to placebo. In patients with
+asthma, dupilumab improved FEV1 percentage predicted
+(forced expiratory volume in | second; 7.1% increase relative to placebo) and asthma control (1.1-unit reduction on
+Asthma Control Questionnaire—5 score). The Asthma Control Questionnaire minimal clinically important difference
+has been well established and accepted as 0.5 points for
+within-person change.*+*> Biomarkers associated with Th2
+cells, such as serum IgE and plasma eotaxin 3, decreased
+with treatment, but peripheral eosinophil count did not significantly decrease.*°
+
+SINUS-24 was a phase III trial of dupilumab versus placebo in 276 participants with severe CRSwNP with and
+without comorbid asthma who had been treated with systemic corticosteroids and/or surgery and were being treated
+with daily intranasal MF. Patients were randomized to SC
+dupilumab (300 mg) or placebo every 2 weeks for 24 weeks.
+
+Dupilumab significantly improved the NPS (baseline
+score of 5.6 on a 0-8 scale, with a mean improvement of 2),
+nasal congestion, Lund-Mackay CT score (baseline score of
+19, with a mean improvement of 7.4), olfaction (UPSIT,
+with a mean improvement of 10.6), and SNOT-22 (baseline
+score of 48, with a mean improvement of 21.1 points). The
+proportion requiring systemic corticosteroids or nasal polyposis surgery (surgery for nasal polyp disease) during the
+24-week treatment period was 7.2% in the dupilumab group
+versus 23.3% in the placebo group (16% absolute risk
+reduction).>”
+
+Epistaxis occurred more frequently in the dupilumab
+group versus the control group (7.7% vs 3.0% placebo).
+Treatment discontinuation due to adverse events occurred in
+2% in the dupilumab group. Dupilumab-treated participants
+had a greater initial increase from baseline in blood eosinophil count as compared with those treated with placebo,
+which is likely related to its underlying mechanism of action
+in blocking IL-4—mediated eosinophil migration out of the
+bloodstream. The clinical significance of the transient
+increase in eosinophils is unknown.
+
+SINUS-52 was a 3-arm phase III trial that randomized
+448 participants into 3 treatment groups: SC dupilumab (300
+mg) every 2 weeks for 52 weeks; SC dupilumab (300 mg)
+every 2 weeks for 24 weeks, then every 4 weeks for an
+additional 28 weeks; and placebo. SINUS-52 enrolled
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+participants with baseline disease characteristics similar to
+those enrolled in SINUS-24. Seventy-two percent of those in
+SINUS-24 had prior sinus surgery, and 58% of those in
+SINUS-52 had prior surgery with a mean number of 2.0
+prior procedures in both groups. Both groups had an average
+of 1.6 systemic corticosteroid courses in the 2 years prior to
+enrollment. The average NPS was 5.8 in SINUS-24 and 6.1
+in SINUS-52. Fifty-eight percent of the SINUS-24 group
+and 60% in the SINUS-52 group had comorbid asthma, with
+30% in SINUS-24 and 27% in SINUS-52 having AERD.
+Both groups had baseline eosinophils >300 cells/wL and a
+total IgE >200 IU/mL.
+
+Dupilumab significantly improved the NPS (baseline
+score of 6.1 on a 0-8 scale, with a mean improvement of
+1.80), nasal congestion, Lund-Mackay CT score (baseline
+score of 18, with a mean improvement of 6.94), olfaction
+(UPSIT, with a mean improvement of 10.30), and SNOT-22
+(baseline score of 52, with a mean improvement of 20.96
+points). Dupilumab reduced systemic corticosteroid use and
+need for sinus surgery versus placebo, and in those with
+comorbid asthma, dupilumab improved lung function
+(FEV 1) and asthma control (Asthma Control Questionnaire—
+5). Results showed that nasal polyp, SNOT-22, and olfaction
+scores improved significantly in both dupilumab arms starting at week 4, and effects continued for 1 year during treatment in SINUS-52. In SINUS-24, symptoms returned after
+cessation of treatment, as soon as 12 weeks after cessation.
+
+Injection site reactions were the most common treatmentassociated adverse event, which occurred at a higher frequency in the dupilumab-treated group, and nasopharyngitis
+was the most common treatment-emergent adverse event
+across all treatment groups. Overall, as compared with dupilumab administered every 2 weeks followed by every 4
+weeks, the 300-mg dose administered every 2 weeks yielded
+better sustained improvements in the objective measures of
+the NPS and Lund-Mackay CT score and fewer breakthrough treatment-emergent adverse events of worsening of
+nasal polyps, asthma, and sinusitis; the drug was also well
+tolerated.**
+
+In the pooled safety population, the incidence of adverse
+events emerging during the 24-week treatment period was
+lower in the dupilumab-treated group than in the placebo
+group. The most commonly reported adverse events were
+nasopharyngitis, nasal polyps, headache, asthma, epistaxis,
+and injection site erythema; these events were more frequent
+with placebo. In both studies, and consistent with previous
+dupilumab studies, there was a transient increase in mean
+blood eosinophil counts in those treated with dupilumab. In
+SINUS-52, eosinophil counts returned to baseline levels by
+the end of the 52-week treatment period.*”
+
+There is an ongoing single-center, single-blinded study
+being conducted in adult patients with AERD that is assessing the efficacy and safety of dupilumab in treating symptoms of CRS. All participants are being treated with SC
+dupilumab (300 mg) every 2 weeks for 7 months and will
+continue their background medications for CRS with nasal
+
+polyposis and asthma. The primary outcome of this trial is
+SNOT-22 score.*° Of note, all studies have excluded patients
+with suspected allergic fungal rhinosinusitis.
+
+Omalizumab. Several trials have demonstrated that omalizumab is effective in allergic and nonallergic participants with
+nasal polyps and asthma. A pilot study by Penn and Mikula
+examined whether anti-IgE therapy was efficacious in the
+treatment of nasal polyposis. Data were retrospectively collected on 2 groups of patients with atopic asthma and nasal
+polyposis who underwent endoscopic sinus surgery (ESS),
+including a control group (n = 4) and an anti-IgE treatment
+group (n = 4), who received omalizumab postoperatively.
+Both groups were evaluated by sinus CT and nasal endoscopic examination, and comparisons were made between
+the groups with respect to differences in the recurrence of
+nasal polyposis after ESS. Collectively, the participants
+showed a direct relationship between nasal polyposis severity and pretreatment total serum IgE levels. Relative to preoperative values, the NPSs significantly improved in the
+omalizumab group, whereas the control group showed no
+significant improvement. This pilot study established that
+endoscopic nasal polyposis severity directly correlates to
+total serum IgE levels and that inclusion of anti-IgE therapy
+in the postpolypectomy management of atopic asthma may
+reduce the severity of nasal polyposis recurrence.’
+
+A later trial of 24 allergic and nonallergic patients with
+CRSwNP and asthma focused on change in polyp score at
+16 weeks. There was a significant decrease in total nasal
+endoscopic polyp scores after 16 weeks in the omalizumabtreated group (improvement of 2.67), and secondary endpoints demonstrated Lund-Mackay CT score improvement
+from 17.6 to 13.6 after 16 weeks in the omalizumab-treated
+group. The omalizumab-treated group also had improvement
+in quality-of-life scores based on the Short-Form Health
+Questionnaire, 31-item Rhinosinusitis Outcome Measuring
+Instrument, and Asthma Quality of Life Questionnaire, irrespective of the presence of allergy. Study patients were
+selected by the presence of nasal polyps and asthma, irrespective of the presence of allergy. Nevertheless, omalizumab was equally efficacious in allergic and nonallergic
+patients with nasal polyps and asthma in this study.”
+
+In a small randomized double-blind placebo-controlled
+clinical trial by Pinto et al, participants with CRS despite
+treatment—including surgery, intranasal steroids, and systemic steroids—were randomized to receive omalizumab or
+placebo for 6 months. The primary outcome was quantitative
+measurement of sinus inflammation on imaging (LundKennedy Scoring System). Secondary outcome measures
+included quality of life, symptoms, cellular inflammation,
+nasal airflow (nasal peak inspiratory flow), and olfactory
+testing (UPSIT). Patients diagnosed with CRS with total IgE
+levels between 30 and 700 IU/mL were dosed by weight and
+IgE levels every 4 weeks for a 6-month study duration. The
+omalizumab-treated group showed reduced inflammation
+with no such change in the placebo-treated group; also, the
+Damask et al
+
+ 
+
+omalizumab-treated group used significantly fewer courses
+of steroids over the length of the study as compared with the
+placebo group, with a trend toward less antibiotic use.**
+
+Two multicenter double-blind randomized placebo-controlled
+trials of omalizumab in participants with CRSwNP completed enrollment in March 2019.45 POLYP 1 and POLYP
+2 are replicate phase III studies designed to determine the
+efficacy and safety of omalizumab as compared with placebo in adults with CRSwNP who had an inadequate
+response to standard-of-care treatment. Both were multicenter
+randomized double-blind placebo-controlled trials, with POLYP
+1 enrolling 138 participants and POLYP 2 enrolling 127
+with NPS scores >5 (pooled average, 6.3) and baseline
+SNOT-22 scores >20 (pooled average, 59.8). Other baseline characteristics for the studies included blood eosinophils >250 cells/L and total serum IgE >100 IU/mL for
+both studies. The primary outcomes for both trials were
+change from baseline in average daily nasal congestion
+score at week 24 and change from baseline in NPS at week
+24. Participants in the studies were administered omalizumab or placebo by SC injection every 2 to 4 weeks based
+on IgE levels and weight. These trials also included a considerable number of secondary outcomes, such as change in
+total nasal symptom score, olfaction as assessed by UPSIT,
+quality of life, and need for surgery.
+
+Results from these 2 important trials were published*®
+after the roundtable meeting. In these 2 phase III studies,
+omalizumab met co—primary endpoints and multiple key secondary endpoints. Omalizumab significantly improved
+health-related quality of life, smell, congestion, endoscopic
+nasal polyp size, postnasal drip (posterior rhinorrhea score),
+and runny nose (anterior rhinorrhea score). Positive therapeutic effects were observed as early as week 4. There were
+no new or unexpected safety signals identified, and the
+safety profile in these studies was consistent with the known
+safety profile for omalizumab. The data suggest that omalizumab may be a promising new therapy for the treatment of
+CRSwNP in patients refractory to first-line therapies.*” It is
+speculated that omalizumab may also gain FDA approval for
+the indication of CRSwNP in 2020 (fourth quarter) or 2021
+(first quarter).
+
+An open-label crossover extension of these omalizumab
+trials is ongoing. Specifically, the extension is evaluating the
+safety, efficacy, and durability of response of omalizumab in
+an open-label setting in adult participants with CRSwNP
+who completed the 2 double-blind placebo-controlled phase
+III studies described earlier (POLYP 1 and POLYP 2). After
+enrollment into the open-label crossover extension, participants will receive 28 weeks of omalizumab dosing before
+entering a 24-week off-treatment observation phase.**
+
+A real-life small study by Bidder et al examined omalizumab as a treatment for coexistent CRSwNP and asthma.
+Adult patients with CRSwNP and severe allergic asthma
+with total IgE levels between 30 and 1500 kU/mL (n = 13)
+received omalizumab every 2 or 4 weeks based on weight
+and IgE levels and were matched with a surgery group (n =
+24), who did not receive omalizumab. Assessment of SNOT
+22 and the Asthma Control Questionnaire—7 scores was performed at 4 and 16 weeks of treatment in those treated with
+omalizumab and compared with those in the postsurgery
+group.
+
+Both groups had baseline eosinophils >500 cells/yL and
+total serum IgE median >250 IU/L, with 77% in the
+omalizumab-treated group and 63% in the surgery group
+having aspirin sensitivity. The median SNOT-22 at baseline
+was 52 (range, 27-78) in the omalizumab group and 70
+(range, 26-104) in the surgery-only group. Omalizumab led
+to a rapid improvement in the SNOT-22 in patients with
+CRSwNP. This improvement was seen early postomalizumab and sustained with continued treatment. There was no
+statistical difference in the median SNOT-22 between the
+omalizumab- and surgery-treated groups. Rapid asthma improvement occurred alongside as reflected in the significantly decreased Asthma Control Questionnaire—7 at 4 and
+16 weeks of treatment.”
+
+Mepolizumab. Three studies have examined the impact of
+mepolizumab on severe CRSwNP. The first assessed 30 participants with severe CRSwNP with grade 3 or 4 polyps or
+recurrent polyps following sinus surgery. Participants were
+randomized to receive 2 single doses of intravenous (IV)
+mepolizumab (750 mg) or placebo 28 days apart. The primary outcome was change in NPS; secondary outcomes
+included symptoms and molecular markers of eosinophilic
+inflammation in serum and nasal secretions. At 48 weeks,
+polyp scores were significantly lower in the mepolizumab
+group as compared with placebo. Although CT scan scores
+and clinical symptoms showed trends toward improvement,
+neither reached statistical significance. Serum markers of
+eosinophilic inflammation were significantly lower in the
+mepolizumab-treated group, but nasal secretions demonstrated mixed results in the treatment arm. Side effects were
+mild and not significantly different between groups.
+Overall, this small trial demonstrated a favorable improvement in nasal polyp burden among patients with CRSwNP
+who were treated with mepolizumab.”?
+
+In a subsequent mepolizumab trial, 103 patients with
+CRSwNP who failed treatment with daily INCS and were
+deemed to be surgical candidates (defined by an NPS of at
+least 2 on one side and 3 on the other, as well as symptoms
+>7 on a visual analog scale) were randomized to receive 6
+doses of IV mepolizumab (750 mg) 28 days apart or placebo.
+Both arms received daily INCS. The primary outcome in this
+study was the need for nasal polyp surgery. At enrollment,
+100% of patients were candidates for surgery. However, at
+completion of the 25-week treatment period, 70% in the
+mepolizumab group met criteria for surgery versus 90% in
+the placebo group. Secondary outcome measures showed significant improvements with mepolizumab treatment. These
+included improved symptom severity as measured by visual
+analog scale score, endoscopic NPS, and SNOT-22 scores.
+However, there was no difference between groups in olfaction, pulmonary function, or non—disease-specific quality
+of life. The safety profile of mepolizumab was comparable
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+to placebo. Overall, this study demonstrated a favorable
+improvement in nasal polyp treatment for some patients
+with CRSwNP.*!
+
+There is an active randomized double-blind parallelgroup phase III study, SYNAPSE, investigating SC mepolizumab (100 mg) every 4 weeks for 52 weeks as an add-on to
+maintenance treatment in 413 adults with severe bilateral
+nasal polyposis. In this study, the study group and the placebo group are receiving a standard of care for nasal polyposis, which consists of daily MF nasal spray and, if required,
+saline nasal douching, occasional short courses of high-dose
+OCS, and/or antibiotics. In addition, up to the first 200 randomized participants will be followed monthly for up to 6
+months after the last dose, to assess maintenance of response
+and to validate a physiologic model derived from a previous
+phase II study. The primary outcomes include a change from
+baseline in total endoscopic NPS at week 52 and change
+from baseline in mean nasal obstruction visual analog scale
+score during the 4 weeks prior to week 52. This trial was
+scheduled to be completed in December 2019.
+
+Reslizumab. A small 3-arm phase I study of reslizumab randomized 24 participants with CRSwNP to receive placebo
+or a single infusion of reslizumab at 3 mg/kg or | mg/kg.
+NPSs decreased in half the treated patients for up to 4
+weeks, but these differences were not statistically significant. However, pretreatment IL-5 levels in nasal secretions
+predicted response to reslizumab treatment, a promising
+finding in the search for biomarkers that could help select
+appropriate patients for treatment with this biologic therapy.
+In this early-phase study, 96% of patients had at least 1 nonsevere adverse event, most commonly an upper respiratory
+tract infection, with no significant difference between the
+study groups and placebo group. Overall, the intervention
+was safe and well tolerated.°*
+
+Benralizumab. A phase II study of benralizumab in 63 participants with eosinophilic CRS was completed in 2017. The
+primary outcome of this trial was change in NPS at week
+12, and secondary outcomes included change in CT scores,
+treatment discontinuation, change in eosinophil count, and
+change in nasal airway resistance.** The results of this trial
+have not been published.
+
+An ongoing single-center phase II trial of 32 patients
+CRS and eosinophilic polyposis is examining the effect of
+SC benralizumab (30 mg) versus placebo on NPS after 6
+months of treatment. Secondary outcomes include nasal
+polyp size by CT, SNOT-22, olfaction, eosinophil count,
+time to surgery, and dropout rate. This trial was scheduled to
+be completed in June 2020.°° OSTRO, a phase III trial of
+benralizumab in patients with severe nasal polyposis, is also
+ongoing. This study comprised 400 patients who were still
+symptomatic despite standard-of-care therapy, including current use of INCS and prior surgery and/or use of systemic
+corticosteroids. Patients were randomized to receive SC benralizumab (30 mg) plus MF or placebo plus MF over 56
+weeks of treatment. The primary outcome measures in this
+trial are the effect of benralizumab on nasal polyp burden, as
+
+measured by the NPS and patient-reported nasal blockage
+score, the latter of which is assessed in a daily diary by
+asking patients to rate the severity of their worst nasal blockage over the past 24 hours. Secondary outcomes include
+quality of life, nasal polyp surgery, systemic corticosteroid
+use for relief of nasal symptoms, and nasal symptom scores.
+In addition, the first 200 participants who complete the
+56-week treatment will have a 6-month follow-up period
+without dosing. The trial was scheduled to be completed in
+September 2020.°°
+
+Where Do Biologics Fit in the Treatment
+Paradigm of CRSWNP?
+
+Current guidelines recommend topical corticosteroids, shortterm systemic corticosteroids, antibiotics, and nasal saline irrigations as potential medical treatment options for CRS.??*? In
+general, patients whose CRS is inadequately controlled with
+medical therapy should be treated with surgery.
+
+There is a high recurrence of nasal polyposis following
+ESS: a recent multicenter study revealed 35% recurrence at
+6 months and 40% at 18 months.°’ Several potential risk factors for polyp recurrence, including AERD, atopy, eosinophilia, and asthma, have also been associated with worse
+outcomes.°* These clinical factors exhibit a type 2 endotype
+that is amenable to treatment directed at T2 cytokines.
+
+Endotyping of CRS could help identify which patients
+exhibit T2 inflammation and would likely respond to current
+biologic therapies targeting cytokines IL-4/IL-13 and IL-5 as
+well as IgE. The presence of other type 2 inflammatory diseases may be suggestive of an endotype, but optimally,
+serum or tissue markers for biologic therapy targets could
+help select the appropriate candidates for treatment. For the
+currently available biologic therapies targeting type 2
+inflammation, patients should exhibit a type 2 endotype.
+
+The role of biologic therapies in the treatment of medically and surgically refractory CRSwNP is promising given
+the favorable data in clinical trials. Dupilumab demonstrated
+a reduction in NPS and improvement in nasal congestion
+and olfaction in clinical trials. Other biologics are currently
+being studied and are expected to gain FDA approval.
+Comparative studies with medical and surgical therapies will
+be needed to ultimately determine the appropriate place for
+biologics in treatment algorithms.
+
+Current trials investigated use for 24 or 52 weeks; however, with a chronic disease that fluctuates over the course of
+years, it is presumed that longer-term treatment will be
+needed to achieve sustained outcomes. Recurrence of CRS
+symptoms and polyps was seen within a few months of stopping these agents, confirming that continuous treatment will
+be needed to achieve long-term improvement with these
+interventions alone. As with any chronic treatment regimen,
+concerns about long-term safety profiles and costs are significant factors in deciding to undergo treatment.
+
+There are many unanswered questions regarding the place
+for biologics in the treatment algorithms for CRSwNP:
+Which patients should be considered appropriate candidates
+Damask et al
+
+ 
+
+CRSwNP
+ich Gum Pe <=) | Controied |
+
+ 
+
+ 
+
+Shared decision making
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Asthma comorbiditie:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compl
+
+ 
+
+ 
+
+ 
+
+Not Controlled pat EN | controlled |
+
+Not Controlled
+
+os
+
+Restart Algorithm
+
+ 
+
+Figure 5. Proposed pathway for the treatment of chronic rhinosinusitis with nasal polyposis (CRSwNP).
+
+for treatment with biologics? Which patients will respond to
+biologics? Should biologics be considered before considering surgical therapies?
+
+The current ICAR recommendation for revision surgery
+for patients with refractory CRSwNP includes failure of
+appropriate medical therapy for 3 to 4 weeks.** This recommendation is also a reasonable consideration for use of a biologic agent in refractory CRSwNP. A proposed pathway for
+treatment of CRSwNP with biologic agents (Figure 5)
+includes appropriate medical therapy for a minimum of 3 to
+4 weeks prior to initiation of a biologic agent. Comorbidities, suitability for surgery, and a shared decision-making
+approach are all factors included in the proposed algorithm.
+
+The decision to use a biologic agent should include consideration of other comorbid conditions for which these
+agents have known benefit. For example, a patient with
+severe persistent asthma and CRSwNP would be an ideal
+candidate. This would also include patients who have risk
+factors for severe recurrent nasal polyp disease, such as
+those with severe AERD or numerous prior surgical procedures with rapid polyp recurrence.
+
+For patients who are considered poor surgical candidates,
+biologics may be an ideal treatment option. Patients with
+endotypes that have worse treatment outcomes, such as
+severe AERD, might be considered candidates for biologic
+use post- or preoperatively.
+
+With all the uncertainty remaining in this new and promising treatment option, a shared decision-making approach
+is essential for clinicians to allow patients to make informed
+decisions with the best available evidence and accepted
+uncertainty regarding long-term outcomes and risks. The
+patient’s decision to undergo sinus surgery, as opposed to
+continuing with medical therapy, was demonstrated to be
+based on the severity of baseline disease-specific quality of
+life, as measured by the SNOT-22.°° Patients with more
+severe quality-of-life index self-selected to undergo surgery
+
+in studies. Patients may self-select biologics rather than surgery if presented the option in an shared decision-making
+approach with consideration of the efficacy, risks, and financial implications for long-term treatment. There is a need for
+development of biomarkers for CRSwNP that will help predict patient-specific treatments and to monitor response to
+such treatments.
+
+The Unified Airway
+
+CRSwNP is often associated with asthma. The upper and
+lower airways share similar histology and inflammatory
+infiltrates.°° The immunopathologic features of CRSwNP,
+allergic rhinitis, and asthma share similar T2 immune
+response features,°' and there is a well-documented epidemiologic link between allergic rhinitis and asthma.” There
+is also significant clinical evidence that treatment of rhinosinusitis results in improved outcomes for concurrent lower
+airway disease.°*°° Thus, in treating upper respiratory disease such as nasal polyposis, the lower airways should also
+be considered.
+
+Moderate to Severe Asthma
+Definition and Treatment
+
+Asthma is a heterogeneous disease characterized by chronic
+airway inflammation. Asthma severity is determined by pulmonary function and the level of treatment that is required to
+control symptoms and exacerbations. In general, patients
+with moderate to severe persistent asthma require daily treatment with medium- or high-dose inhaled corticosteroid in
+conjunction with a long-acting bronchodilator. Poor symptom control and/or frequent exacerbations (>2/year) requiring oral steroids or serious exacerbations (>1/year) requiring
+hospitalization, despite appropriate daily inhaled medications, warrant consideration of adding a biologic to the treatment regimen.
+10
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Table |. Pivotal Trials Supporting Approved Indications for Asthma.
+
+ 
+
+Biologic agent Inclusion criteria
+
+Effects and outcomes Notable findings
+
+ 
+
+Omalizumab: IgE 12-75 y old, asthma inadequately
+controlled with ICS. Positive SPT to DF,
+DP, cockroach, dog, or cat. Total IgE
+30-700 IU/mL
+
+18-75 y old, asthma inadequately
+controlled with ICS + LABA, LTRA, or
+cromolyn. ACQ >1.5. Sputum EOS >3%
+
+18-82 y old, asthma inadequately
+controlled with ICS + | additional
+controller. >2 exacerbations in past year
+treated with OCS. EOS >150 cells/wL at
+screening; >300 cells/j.L within past year
+
+12-75 y old, asthma inadequately
+controlled with ICS + LABA. >2
+exacerbations in past year
+
+>18 y old, asthma inadequately controlled
+on medium to high dose with ICS +
+
+Reslizumab: IL-5
+
+Mepolizumab: IL-5
+
+Benralizumab: IL-5
+
+ 
+
+Dupilumab: IL-4/13
+
+ 
+
+LABA. >| exacerbation in past year
+
+Reduced exacerbations (40% overall /
+60% if EOS >300 cells/L). Improved
+QOL. Decreased ICS use. Decreased
+asthma symptoms
+
+Reduced exacerbations (approximately
+50%-60%). Improved FEV! (0.100
+Improved responses with
+JFeNO and EOS >300
+cell/wL. Improvement in
+FEVI less consistent
+
+Greatest improvement in
+FEVI of all 3 anti-IL-5
+
+0.160 L) agents
+Reduced exacerbations (47%-53% Most efficacious with EOS
+overall / 79% if EOS >500 cells/L). >500 cell/wL
+
+Improved FEVI (0.100 L overall /
+0.122 L if EOS >500 cell/L)
+
+Reduced exacerbations (28%-5 1%).
+Improved FEV! (0.100-0.160 L)
+
+Efficacy correlates with
+increased EOS
+
+Most effective if EOS
+>300 cell/wL
+
+Reduced exacerbations (60%-80%).
+Improved FEV! (0.150-0.160 L)
+
+ 
+
+Abbreviations: ACQ, Asthma Control Questionnaire; DF, Dermatophagoides farinae; DP, Dermatophagoides pteronyssinus; EOS, eosinophils; FeNO, fractional
+exhaled nitric oxide; FEVI, forced expiratory volume in | second; ICS, inhaled corticosteroid; IgE, immunoglobulin E; IL, interleukin; LABA, long-acting betaagonist; LTRA, leukotriene receptor antagonist; OCS, oral corticosteroid; QOL, quality of life; SPT, skin prick test.
+
+Several biomarkers can be used to help guide patient
+management. Peripheral eosinophil count is used as a criterion for several biologic therapies for asthma. Blood eosinophils >150 to 400 cells/L are associated with response to
+treatment with omalizumab, mepolizumab, benralizumab,
+reslizumab, and dupilumab.® Fractional exhaled nitric
+oxide (FeNO) >25 to 50 ppb is another biomarker that is
+associated with steroid responsiveness and T2 airway
+inflammation.°’ Sputum eosinophils have the strongest correlation with T2-high asthma, but this marker is more difficult to assess from a technical standpoint. Specific IgE
+identifies the presence of atopy, and it is measured with a
+skin prick test or serum-specific IgE. Total IgE is easily
+measured and provides additional phenotypic information
+that is different from peripheral eosinophil count.°?
+
+In patients with severe asthma, specific comorbidities can
+influence the choice of biologic therapy. For example, CRS
+with or without polyposis is common in moderate to severe
+asthma, and AD occurs frequently in people with allergic
+asthma. Allergic sensitization to allergens such as pets, dust
+mites, grass, and pollen should also be noted and their relevance established.”
+
+Approved Indications for Asthma Treatment
+With Biologics
+Currently, various biologics are available for the add-on treat
+ment of moderate and severe persistent asthma (Table 1).
+These include the anti-IgE agent omalizumab; the anti-IL-5
+
+agents reslizumab, mepolizumab, and benralizumab; and
+the anti-IL4/13 agent dupilumab. Clinical trials for these
+agents enrolled patients with moderate and/or severe persistent asthma who were already being treated with inhaled
+corticosteroids and other adjuncts. Some studies enrolled
+patients with OCS-dependent asthma. While the clinical trials
+varied in design, consistent findings in the actively treated
+groups included a reduction in asthma exacerbations and
+improvement in pulmonary function. Studies of omalizumab
+showed that it could improve asthma symptoms and reduce
+overall inhaled steroid requirements.’"”* Omalizumab had a
+favorable impact on quality of life, pulmonary function,
+unscheduled outpatient visits, and hospitalizations.’*”4
+
+Studies of reslizumab on patients with asthma’~”” showed
+that IV reslizumab significantly relieved asthma symptoms
+and improved asthma-related quality of life.
+
+Studies of mepolizumab showed that it significantly reduced
+eosinophil counts.*° Mepolizumab treatment also resulted in a
+significantly lower rate of exacerbations requiring hospitalization or an emergency department visit,S’ improved diseasespecific quality of life,*? reduced oral glucocorticoid dose
+requirements, and demonstrated long-term safety.**
+
+Studies of benralizumab**’ showed that patients with
+noneosinophilic disease did not improve with treatment.
+However, reduction in exacerbations and improved FEV1
+and asthma symptom score are seen in patients with eosinophils >300 cells/L.°° Improvements can be maintained over
+an 8-week dosing interval,’' including a reduction in OCS
+use for patients with severe, uncontrolled OCS-dependent
+Damask et al
+
+ 
+
+Table 2. Monoclonal Antibodies for Use in Asthma.
+
+ 
+
+Omalizumab! Mepolizumab*
+
+Reslizumab? Benralizumab* Dupilumab*”
+
+ 
+
+Mechanism of Anti-lgE Anti-IL-5
+action
+
+Biomarker/test Blood EOS >150
+cells/L or history
+of blood EOS >300
+
+cells/wL
+
+IgE 30-700 IU/mL
+requirement
+
+Patient population >6 y old with
+
+moderate to
+
+> 6y old with
+severe asthma
+severe asthma
+Administration
+
+Route SC-lyo; PFS SC-lyo; PFS and Al at
+home
+Dosing schedule q2w/q4w q4w
+
+Anti-IL-5 Anti-IL-SRa Anti-IL-4Ra
+
+Blood EOS >400 Blood EOS >300 Blood EOS >150
+
+cells/L cells/wL (phase III cells/L or FENO
+data); company >25 ppb
+messaging, >150
+cells/wL
+>18 y old with 212 y old with > 12 y old with
+
+severe asthma severe asthma moderate to
+
+severe asthma
+
+PFS in office and Al
+at home
+
+PFS and PFP at
+home
+
+IV (phase III PFS SC
+trial failed)
+q4w
+
+q8w (after 3 q4w qzw
+
+doses)
+
+ 
+
+Abbreviations: Al, autoinjector; EOS, eosinophils; FeNO, fractional exhaled nitric oxide; IgE, immunoglobulin E; IV, intravenous; PFS, prefilled syringe; PFP, prefilled pen; q2w, every 2 weeks; q4w, every 4 weeks; q8w, every 8 weeks; SC, subcutaneous; SC-lyo, subcutaneous lyophilized powder.
+
+eosinophilic asthma. Benralizumab studies have also demonstrated long-term safety: no new consequences of long-term
+eosinophil depletion occurred, and the incidence of other
+adverse events (including opportunistic infections) was similar during the second year of treatment.
+
+Studies of dupilumab in asthma treatment have shown
+a beneficial effect on asthma control (Asthma Control
+Questionnaire—5) and symptoms.” Those with baseline eosinophils >300/uL or FeNO >25 ppb showed the greatest
+benefit in FEV1, but an asthma exacerbation reduction of
+37% and 68% was seen among intervention patients with
+eosinophils <300.°*"* Dupilumab treatment has also been
+demonstrated to reduce oral steroid requirements.”
+
+Which to Choose?
+
+As clinicians start to relate the observable characteristics
+(phenotypes) present in patients to the mechanisms driving
+disease (endotypes) through the use of biomarkers, this will
+allow them to better understand how mechanisms of disease
+can give rise to many of the characteristic features of severe
+asthma. Identifying asthmatic patients by phenotype and,
+ideally, endotype—truly bringing us into the realm of precision medicine—will result in a thoughtful approach to
+choosing a biologic for patients with moderate to severe
+asthma. For our patients with T2 asthma, this means that
+there are now novel, targeted treatment options that have
+demonstrated reduced asthma exacerbations. Many factors
+need to be taken into account when creating an individualized treatment plan, particularly the likelihood of treatment
+responsiveness as well as patient preferences.
+
+As we move into this era of personalized (precision) medicine, patients are playing a larger role in their health care.
+Shared decision making plays a crucial part in the decision
+of which biologic to choose.°°°’ Shared decision making is
+
+an approach where clinicians and patients share the best
+available evidence when faced with the task of making decisions and where patients are supported to consider options to
+achieve informed preferences.
+
+Some factors to discuss with patients when choosing their
+treatment option include the following: patient age (currently,
+omalizumab and mepolizumab have an indication down to 6
+years of age), frequency of dosing (every 2, 4, or 8 weeks),
+route of administration (SC vs IV), importance of weightbased dosing, and location of administration (dupilumab, the
+autoinjector form of mepolizumab, and the benralizumab pen
+can be self-administered at home; the others require treatment
+in a medical office setting; Table 2). Of course, our treatment
+choices are influenced by other factors, including cost and
+insurance coverage issues. Existence of poorly controlled
+comorbidities that can be treated by these agents should also
+be taken into consideration.
+
+For allergic uncontrolled asthma in patients with a perennial allergen sensitization, omalizumab is currently a good
+choice for therapy. Choice of anti-IL-5 agent may be limited
+by peripheral eosinophil count. Although there is no strict
+eosinophil cut point for dupilumab, studies suggest better
+therapeutic response with higher eosinophil counts or elevated FeNO. All the biologics demonstrated an improvement
+in their primary endpoints of asthma exacerbations, but there
+were differences in their secondary endpoints, including lung
+function and symptoms. There are currently no approved targeted therapies for non-T2 asthma.
+
+Choosing the right biologic for the right patient is challenging. Comparative head-to-head studies would be ideal;
+however, these are unlikely to occur. We are left with “‘real
+world’’ studies, meta-analyses, network meta-analyses, and
+our own clinical experience to help guide us in our decisions
+in choosing the right biologic.
+12
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Aspirin-Exacerbated Respiratory Disease
+Definition and Diagnosis
+
+One example of tightly linked upper and lower respiratory
+inflammatory disease is AERD. AERD (or N-ERD in many
+European countries) is defined by acute upper and lower
+respiratory tract reactions triggered by nonsteroidal antiinflammatory drugs (NSAIDs), and this reaction is contingent on cyclooxygenase | inhibition. Patients with AERD
+typically have CRSwNP and asthma. AERD is considered to
+be a distinct endotype of asthma and CRSwNP.”® Diagnosis of
+AERD begins with report of respiratory symptoms triggered
+by NSAID exposure.””!” If the history of respiratory symptoms after NSAID exposure is unconvincing or the presence
+of chronic airway disease is uncertain, oral aspirin challenge
+or similar challenge can be performed to establish the
+diagnosis. '°!
+
+Management
+
+Treatment of AERD includes the use of oral and topical/
+inhaled corticosteroids, leukotriene modifiers, ASA desensitization, and ESs,!
+
+Biologics and AERD
+
+Monoclonal antibodies are potential therapies in the treatment of AERD because these cases are so difficult to control
+with current treatment approaches. In a prospective cohort
+study of 21 patients, Hayashi et al noted that omalizumab
+administration produced a significant decrease in concentration of urinary LTE4 and a PGD2 metabolite in a postsurgical AERD population and helped to ameliorate upper and
+lower respiratory tract symptoms.!°
+
+A small retrospective study of mepolizumab for patients
+with AERD demonstrated positive results. Fourteen participants who received at least 3 doses of mepolizumab were
+included, and outcomes such as absolute eosinophil count,
+SNOT-22 and ACT scores, and FEV1 were investigated.
+After receipt of at least 3 doses of mepolizumab, the absolute eosinophil count decreased significantly; SNOT-22
+decreased by 17.7 points; and the ACT score significantly
+increased by 5.1. FEV1 percentage predicted increased by
+6.3%. During this time, no patients required sinus surgery,
+and none needed to start or increase their dose of oral corticoids. This is the first study to show the efficacy of mepolizumab in patients with AERD.'™ However, this retrospective
+analysis of mepolizumab in AERD has limitations: it was not
+randomized, blinded, or placebo controlled, and it involved
+patient-reported data.
+
+A substudy on AERD from a phase II trial of dupilumab
+was conducted by Laidlaw et al. Results for 19 patients with
+self-reported AERD were analyzed (8 in the dupilumabtreated group and 11 in the placebo group). At baseline,
+those with AERD had significantly higher Lund-Mackay CT
+scores than those without AERD (21.2 vs 17.5). Patients
+with AERD had worse olfactory function as measured by
+UPSIT score. This substudy by Laidlaw et al demonstrated
+that treatment with dupilumab improved UPSIT score by 10,
+
+led to a 30-point reduction in the SNOT-22 score, and
+reduced the NPS by 2.5 points.'°°
+
+Eosinophilic Granulomatosis With
+Polyangiitis
+Definition and Diagnosis
+
+EGPA is defined by eosinophil-rich and necrotizing granulomatous inflammation/vasculitis that often involves the
+respiratory tract and other organ systems.'°° EGPA is distinguished from other small-vessel vasculitides by the presence
+of severe asthma and blood and tissue eosinophilia.’°”
+EGPA onset typically occurs in middle age among patients
+with asthma and eosinophilia, who go on to develop vasculitis. Laboratory findings for patients with EGPA generally
+include eosinophilia >10% or >1000 cells/L, increased
+erythrocyte sedimentation rate, C-reactive protein, IgE, rheumatoid factor, and antinuclear antibody. There is perinuclear
+antineutrophil cytoplasmic antibody positivity in 30% to
+40% of patients with EGPA, and this is associated with renal
+involvement, neuropathy, and biopsy-proven vasculitis.!°*
+
+The diagnosis of EGPA relies primarily on clinical parameters.'°”:!!° The following criteria have been suggested for
+diagnosing and documenting EGPA:
+
+A history or presence of asthma
+Blood eosinophil level of 10% or an absolute eosinophil count >1000 cells/wL
+e The presence of >2 of the following features:
+o Biopsy: eosinophilic vasculitis
+© Biopsy: perivascular eosinophilic infiltration
+or eosinophil-rich granulomatous inflammation
+© Neuropathy (mono- or polyneuropathy via motor
+deficit or nerve conduction abnormality)
+Pulmonary infiltrates
+Sinonasal abnormality
+Cardiomyopathy
+Glomerulonephritis (hematuria, red cell casts,
+proteinuria)
+o Alveolar hemorrhage (by bronchoalveolar
+lavage)
+Palpable purpura
+o Antineutrophil cytoplasmic antibody positivity
+(anti-MPO [myeloperoxidase], perinuclear
+antineutrophil cytoplasmic antibody)
+
+oo00
+
+Management
+
+Treatment of EGPA should begin as early as possible.
+Steroids inhibit eosinophil colony growth and survival as
+well as cytokine production, making these drugs effective in
+>90% of patients with EGPA. However, some patients do
+not respond to steroids, and even among patients in whom
+these drugs are effective, EGPA often recurs with steroid
+withdrawal. As a result, very few patients with EGPA can
+fully discontinue steroid treatment. When EGPA affects critical organs, patients are usually treated with corticosteroids
+Damask et al
+
+ 
+
+combined with another immunosuppressive drug, such as
+cyclophosphamide, methotrexate, or azathioprine.
+
+Approved Indications for EGPA Treatment
+
+With Biologics
+
+Mepolizumab is indicated for treatment of adults with
+EGPA. The recommended dose of mepolizumab for patients
+with EGPA is 300 mg administered once every 4 weeks as 3
+separate 100-mg SC injections into the upper arm, thigh, or
+abdomen.!!!
+
+Pivotal Trials Supporting Approved Indications
+
+Mepolizumab. Mepolizumab’s indication for use in treating
+adults with EGPA was based on findings from the randomized placebo-controlled MIRRA trial.'!* This double-blind
+parallel-group trial enrolled EGPA patients aged >18 years
+with a history of relapsing or refractory disease who were
+taking stable prednisolone/prednisone for >4 weeks. The
+52-week trial included administration of SC mepolizumab
+(300 mg) plus standard of care (n = 65) or placebo plus
+standard of care (n = 65). Primary efficacy endpoints were
+total accrued weeks of remission (defined as Birmingham
+Vasculitis Activity Score''? of 0 and prednisolone/prednisone dose <4 mg/d) over 52 weeks and the proportion of
+participants in remission at weeks 36 and 48. Secondary
+endpoints included time to first relapse of EGPA and average corticosteroid dose during weeks 48 to 52.
+
+During the trial, the mepolizumab arm demonstrated significantly more weeks of accrued remission, a higher remission rate by week 12, and a longer time to first major
+relapse. Median daily glucocorticoid dosing was lower
+among patients treated with mepolizumab, starting in week 5
+of the trial and continuing for 8 weeks beyond the treatment
+period. Mepolizumab improved asthma control scores
+(Asthma Control Questionnaire—6) starting in week 4 of the
+trial, and these differences were present at 12 of 13 time
+points over the course of the trial. In contrast, Birmingham
+Vasculitis Activity Scores differed little between the treatment arms, and findings for SNOT-22 scores were mixed
+during follow-up.
+
+Chronic Spontaneous Urticaria
+Definition and Diagnosis
+
+CSU (or CIU [chronic idiopathic urticaria]) is characterized
+by hives with or without angioedema for >6 weeks with no
+apparent external trigger. CSU lesions are typically edematous pink or red wheals of variable size and shape with surrounding erythema, and they are generally pruritic. Individual
+urticarial lesions usually fade within 24 to 48 hours, but new
+lesions may develop simultaneously at other sites. The diagnosis of CSU is made thorough history and physical examination; diagnostic testing is not usually warranted.!!+1!°
+
+Management
+
+H,-antihistamines are the mainstay of treatment for CSU,
+and nonsedating antihistamines are preferred. In some cases,
+antihistamine doses up to 4 times the labeled dose are
+required for adequate symptomatic control.'!* Potential addon treatments include leukotriene receptor antagonists, systemic corticosteroids, cyclosporine, dapsone, and methotrexate; these all lack approval for CSU and have low-quality
+clinical evidence supporting their use. Long-term use of systemic corticosteroids is not recommended in patients with
+CSU. In patients unresponsive to antihistamines, current
+guidelines recommend the use of omalizumab.
+
+Approved Indications for Urticaria Treatment
+
+With Biologics
+
+Omalizumab. Omalizumab is an anti-IgE antibody that is
+FDA approved for treatment of CSU in adults and adolescents >12 years of age who remain symptomatic despite H,
+antihistamine treatment. In CSU, omalizumab is administered at 150 mg or 300 mg SC every 4 weeks independent
+of serum IgE and body weight. The appropriate duration of
+therapy for CSU has not been determined, so patients must
+be reassessed periodically to determine the need for continued therapy. The pivotal trials that supported the CSU indication are summarized in Table 3.!!°1!8
+
+Moderate to Severe AD
+
+Definition and Diagnosis
+
+Diagnosis of AD is made clinically on the basis of historical
+features, distribution and morphology of skin lesions, and
+associated clinical signs. Laboratory testing is used occasionally to exclude alternate diagnoses. The American Academy
+of Dermatology clinical guidelines!!” require the presence of
+4 key features for diagnosis: pruritus, eczema, a chronic or
+relapsing history, and typical morphology and age-specific
+distribution patterns. Facial, neck, and extensor eczematous
+lesions are seen in infants and children; flexural lesions are
+seen in any age group; and the groin and axillary regions are
+spared. Additional features that support the diagnosis of AD
+include early age of onset, presence of atopy, personal and/
+or family history of AD, IgE reactivity, and xerosis (dry
+skin).
+
+Management
+
+AD is characterized by a relapsing and remitting nature,
+with periods of relative improvement interspersed with periods of flares or exacerbations over many years. Management
+of AD involves maintenance therapy and treatment of
+exacerbations. Bathing, moisturization, and trigger avoidance strategies are the main nonpharmacologic interventions.
+Topical prescription medications include topical corticosteroids, topical calcineurin inhibitors, and crisaborole ointment.
+14
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Table 3. Pivotal Trials Supporting Approved Indications for Omalizumab for CSU.
+
+ 
+
+ 
+
+Trial Study design Inclusion criteria Primary outcome Effects
+ASTERIA! Evaluate efficacy and safety of 12-75 y old with uncontrolled Change from baseline in a Diminished clinical
+(N = 329) omalizumab (75 mg, 150 mg, CSU for 8 mo despite weekly ISS at week 12 symptoms and signs
+300 mg) or placebo. Double- approved doses of H,- of CSU
+blind treatment period was antihistamines
+24 wk
+ASTERIA Il Evaluate efficacy and safety of >12 y old with uncontrolled Change from baseline in a Diminished clinical
+(N = 323) omalizumab (75 mg, 150 mg, CSU for 6 mo despite weekly ISS at week 12 symptoms and signs
+300 mg) or placebo. Double- approved doses of H,- of CSU
+blind treatment period was antihistamines
+12 wk
+GLACIAL Evaluate efficacy and safety of 12-75 y old with uncontrolled Asses safety of omalizumab in Diminished clinical
+(N = 336) omalizumab (300 mg) vs CSU for 8 mo despite those with different add-on symptoms and signs
+
+placebo
+
+treatment with H,antihistamines at up to 4 times
+the approved dose plus H2antihistamines, LTRAs, or both
+
+therapies. Key efficacy
+endpoint was change in mean
+weekly ISS at week 12
+
+of CSU. Similar
+adverse events
+between omalizumab
+and placebo groups
+
+ 
+
+Abbreviations: CSU, chronic spontaneous urticaria; ISS, itch severity score; LTRA, leukotriene receptor antagonist.
+
+Approved Indications for AD Treatment With Biologics
+
+Dupilumab is FDA approved for treatment of patients aged
+>6 years with moderate to severe AD whose disease is not
+adequately controlled with topical prescription therapies or
+when those therapies are not advisable. Dupilumab can be
+used with or without topical corticosteroids. In adults, an initial dose of 600 mg SC is administered as two 300-mg injections in different injection sites, followed by 300 mg SC
+every 2 weeks. The most common adverse reactions are
+injection site reactions, conjunctivitis, blepharitis, oral
+herpes, keratitis, eye pruritus, other herpes simplex virus
+infection, and dry eye.'*°
+
+Pivotal Trials Supporting Approved Indications
+
+Three clinical trials of dupilumab treatment led to the current
+indication in patients with AD. These trials are summarized
+in Table 4.171"?
+
+ 
+
+Clinical Practicalities of Using Biologics
+
+Clinicians should ensure that they have the staff, equipment,
+and knowledge to prepare, store, and administer these treatments; to monitor the effects of treatment; and to recognize
+and treat adverse effects at the point of administration and
+over the entire course of treatment. Given the many
+unknowns of biologic therapies—including optimal patient
+selection, timing of treatment, costs, and unknown long-term
+risks—it is important to include a patient-centered decisionmaking approach when considering treatment. Biologic agents
+have different dosing schedules, and patient preference may
+play a role in choosing the agent employed. Insurance coverage and out-of-pocket costs will also factor into whether
+patients can receive biologic therapies (Table 5).
+
+Omalizumab
+
+Although omalizumab is indicated for asthma and CSU, the
+dosing in these 2 patient populations differs. In asthma, the
+dose and dosing frequency are determined by body weight
+and serum total IgE level before the start of treatment. By
+contrast, in CSU, omalizumab (150 or 300 mg) is administered every 4 weeks, independent of serum IgE or body
+weight. Omalizumab has 2 formulation options: a prefilled
+syringe and a powder formulation that requires reconstitution
+with sterile water.
+
+Omalizumab must be administered in a health care setting
+by health care providers prepared to manage life-threatening
+anaphylaxis. Anaphylaxis has been reported in 0.1% to 0.2%
+of patients, a side effect that resulted in a black box warning.
+The Omalizumab Joint Task Force recommended that
+patients be kept under observation for 2 hours for the first 3
+injections and 30 minutes for each subsequent injection.
+However, these observation periods can be modified by a
+physician’s clinical judgment after discussion of risks with
+the patient.'*? Discontinuation of omalizumab is recommended if patients experience a severe hypersensitivity
+reaction.
+
+Mepolizumab
+
+Mepolizumab dosing for asthma in patients >12 years old is
+SC 100 mg; in patients 6 to 11 years old, it is 40 mg every 4
+weeks independent of weight and eosinophil levels.
+Mepolizumab is available as a lyophilized powder for reconstitution in sterile water, but it is also available in a prefilled
+syringe or an autoinjector for at-home administration. For
+patients with EGPA, the 300-mg dose requires three 100-mg
+injections administered at least 5 cm apart.
+Damask et al 15
+
+ 
+
+Table 4. Pivotal Trials Supporting Approved Indications for Dupilumab for AD.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trial Study design Inclusion criteria Primary outcome Effects
+SOLO | Evaluate efficacy of > 18 y old with moderate to Percentage with 38% in q2w arm and 37% in
+(N = 671) dupilumab 300 mg q2w severe AD inadequately IGA score of 0 or qlw arm had IGA score of
+(after 600-mg loading controlled with topical I (clear or almost 0 to |. 51% in q2w arm and
+dose), dupilumab 300 mg treatment; chronic AD for clear) at 16 wk 52% in ql w arm achieved
+qlw (after 600-mg loading at least 3 y; and IGA score EASI-75
+dose), placebo of 3or4
+SOLO 2 Evaluate efficacy of > 18 y old with moderate to Percentage with 36% in q2w arm and 36% in
+(N = 708) dupilumab 300 mg q2w severe AD inadequately IGA score of 0 or qlw arm had IGA score of
+(after 600-mg loading controlled with topical I at 16 wk 0 to 1. 44% in q2w arm and
+dose), dupilumab 300 mg treatment; chronic AD for 48% in qlw arm achieved
+qlw (after 600-mg loading at least 3 y; and IGA score EASI-75
+dose), placebo of 3or4
+CHRONOS Evaluate dupilumab > 18 y old with moderate to Percentage with 64% in qlw arm + TCS and
+(N = 740) treatment and concomitant severe AD inadequately IGA score of 0 65% in q2w + TCS arm
+TCS: dupilumab 300 mg controlled with topical or | sustained EASI -75. 39% in
+qlw + TCS, dupilumab 300 treatment; chronic AD for qlw arm had IGA score of
+mg q2w + TCS, placebo + at least 3 y; and IGA score 0 to | at 26 wk and 39% in
+TCS. Determine efficacy of 3 q2w arm had IGA score 0
+and long term safety or | at 16 wk
+
+ 
+
+Abbreviations: AD, atopic dermatitis; EASI-75, improvement of >75% in Eczema Area and Severity Index; IGA, Investigators Global Assessment; qlw, every
+week; q2w, every 2 weeks; TCS, topical corticosteroid.
+
+Table 5. Monoclonal Antibodies and Their FDA-Approved Indications.
+
+ 
+
+ 
+
+Monoclonal antibody: mechanism of action Patient type Dosing
+Asthma
+Omalizumab: IgE (at Fce3) IgE, 30-700; positive SPT for at least | perennial SC q2w to q4w based
+allergen; moderate to severe asthma. Age >6 y on IgE and weight
+Mepolizumab: IL-5 Blood EOS >300 within 12 mo or >150 within SC q4w
+6 wk; severe asthma. Age >6 y
+Reslizumab: IL-5 Sputum EOS >3%; blood EOS >400; severe IV q4w
+asthma. Age >18 y
+Benralizumab: IL-SRa Severe asthma; >| exacerbation/y; EOS >300. SC q8w (first 3 doses
+Age >12y monthly)
+Dupilumab: IL-4Ra Moderate to severe asthma with an eosinophilic SC q2w
+
+phenotype or with OCS-dependent asthma
+regardless of phenotype. Age >12 y
+Atopic dermatitis
+
+Dupilumab: IL-4Ra Moderate to severe AD. Age >6 y SC q2w
+Chronic spontaneous urticaria
+
+Omalizumab: IgE Moderate to severe CSU. Age >12 y SC q4w
+Eosinophilic granulomatosis with polyangiitis
+
+Mepolizumab: IL-5 EGPA on stable oral steroids. Age >18 y SC q4w
+CRSwNP
+
+Dupilumab: IL-4Ra CRSwNP in adults whose disease is not SC q2w
+
+controlled. Age >18 y
+
+ 
+
+Abbreviations: AD, atopic dermatitis; CRSWNP, chronic rhinosinusitis with nasal polyposis; CSU, chronic spontaneous urticaria; EGPA, eosinophilic granulomatosis with polyangiitis; EOS, eosinophils; FDA, Food and Drug Administration; IgE, immunoglobulin E; lV, intravenous; OCS, oral corticosteroids; q2w, every 2
+weeks; q4w, every 4 weeks; q8w, every 8 weeks; SC, subcutaneous; SPT, skin prick test.
+16
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+Herpes zoster has occurred in patients receiving mepolizumab in controlled clinical trials, and vaccination should be
+considered if medically appropriate. Patients with preexisting helminth infections should be treated prior to mepolizumab therapy. Reports of anaphylaxis have been received in
+postmarketing surveillance.
+
+Reslizumab
+
+Reslizumab is indicated for treatment of patients aged >18
+years with severe asthma and eosinophils >400. Reslizumab
+is administered as an IV infusion over 20 to 50 minutes, and
+dosing is weight based. Anaphylaxis occurred in 0.3% of
+treated subjects in placebo-controlled studies; malignancies
+were noted in 0.6% of treated subjects versus 0.3% of placebo; and helminth and parasitic infections have been
+observed. Patients with preexisting helminth infections must
+be treated before initiating reslizumab. If patients become
+infected while taking reslizumab and do not respond to antihelminth treatment, reslizumab treatment should be discontinued until the infection resolves.
+
+Benralizumab
+
+Benralizumab is indicated for treatment of severe eosinophilic asthma in patients aged >12 years. This medication is
+administered by SC injection, and dosing is independent of
+weight and eosinophil levels. The recommended dose is 30
+mg once every 4 weeks for the first 3 doses, then once every
+8 weeks thereafter. Patients with preexisting helminth infections should be treated before initiating therapy with benralizumab. Benralizumab can be administered by a health care
+professional; however, there is an additional option for athome administration with a benralizumab pen.
+
+Dupilumab
+
+Dupilumab is indicated for moderate to severe asthma (or
+OCS-dependent asthma, regardless of phenotype) in patients
+>12 years old, moderate to severe AD in patients >6 years
+old, and adults with uncontrolled CRSwNP. Dupilumab has
+different dosing schedules for patients with AD, asthma, and
+CRSwNP. For adults with AD, dupilumab is not weight or
+eosinophil based, but in adolescents aged 12 to 17 years with
+AD, it is dosed above and below 60 kg with 200- and 300-mg
+doses available. For AD, in the pediatric (6-11 years of age)
+population, dupilumab is given either every 2 weeks (200 mg)
+or four weeks (300 mg), based on weight, following an initial
+loading dose. For patients aged 12 to 17 years with asthma,
+either dose can be used, but if patients are OCS dependent or
+if they have comorbid AD, the 300-mg dose is suggested.
+There is no loading dose for CRSwNP. The medication is delivered in prefilled syringes or prefilled pens for SC administration.
+Conjunctivitis was the most frequently reported adverse event
+in trials of this drug, with most patients recovering relatively
+quickly. For patients with asthma, clinicians should be alert to
+vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy in patients with eosinophilia, as
+these may be associated with a reduction of OCSs.
+
+ 
+
+Conclusion
+
+Biologic therapy provides a new and promising modality for
+patients with severe eosinophilic diseases (asthma, CRSwNP,
+AERD, EGPA) and other inflammatory conditions, such as
+AD and CSU. Clinical trials have demonstrated that these biologic agents improve objective and subjective parameters of
+disease, particularly in severe cases. At the same time, biologic therapy appears to reduce the need for systemic steroid
+treatment and the attendant risks of these steroids.
+
+The introduction of multiple biologic agents in a relatively short period has resulted in a number of unanswered
+questions regarding optimal use. The costs of new biologic
+agents should be balanced against their relative benefits.
+Costs are a factor in any long-term treatment, and biologic
+agents are expensive. Cost-utility analysis is a common type
+of cost-effectiveness analysis in which quality-adjusted life
+years (QALYs) are used as the measure of benefit. In the
+United States, therapies are generally considered costeffective at ceilings of $50,000 to $150,000.'*4
+
+A recent report by the Institute for Clinical and Economic
+Review (ICER)!*> for the treatment of asthma associated
+with type 2 inflammation concluded that biologic agents provide gains in quality-adjusted survival over standard care
+alone; however, they seem to be priced higher than the modeled benefits over a lifetime horizon at commonly accepted
+cost-effective thresholds. The ICER base case incremental
+cost-effectiveness ratio analysis found that biologics range
+from $325,000 to $391,000 (2018 dollars) per QALY
+gained. ICER defines a value-based benchmark for a drug as
+the price that would achieve incremental cost-effectiveness
+ratios between $100,000 to $150,00 per QALY gained. No
+biologic agent achieved the likelihood of meeting that
+threshold. The ICER report recommended that biologic costs
+would need to be reduced to 62% to 80% from their 2018
+wholesale acquisition cost, depending on the biologic to
+meet this threshold. Biologics do need to become costeffective for patients to have access to therapy long-term.
+Scangas et al evaluated the cost-effectiveness of dupilumab
+versus ESS for patients with CRSwNP and found that the
+ESS strategy cost $50,436.99 and produced 9.80 QALYs.
+The dupilumab treatment strategy cost $536,420.22 and produced 8.95 QALYs. With 1-way sensitivity analyses, the
+authors determined that ESS was cost-effective versus dupilumab, regardless of the frequency of revision surgery and at
+any yearly cost of dupilumab above $855.'7°
+
+In general, initiation of biologic treatment should depend
+on a failure of conventional treatments. Thus, medication
+adherence, frequency of exacerbations, and severity of
+symptoms need to be thoroughly evaluated before the use of
+a biologic agent is considered. In nasal polyp disease, the
+adequacy of previous surgery should also be assessed.
+Disease phenotype/endotype should be elucidated to the
+extent possible to help determine the appropriate biologic
+agent to employ. Therefore, biomarkers are needed to aid in
+selection of the most appropriate biologic agents for a
+patient. Ideally, these biomarkers would also be able to
+Damask et al
+
+17
+
+ 
+
+predict response and track improvement. Finally, the identification of new endotypes through biomarkers would allow
+for new biologic therapies that could target specific pathways beyond those currently available.
+
+The introduction of biologic therapies has led to groundbreaking improvements for patients with severe inflammatory diseases that are important in allergy and rhinology.
+These biologic agents are finding an important place in our
+treatment paradigms.
+
+Author Contributions
+
+Cecelia C. Damask, coordination of project, preparation work for
+roundtable discussion, presentation of assigned topics to the roundtable, participation in roundtable discussion, contributed to creation
+of manuscript, and editing of manuscript; Matthew W. Ryan, preparation work for roundtable discussion, presentation of assigned
+topics to the roundtable, participation in roundtable discussion,
+contributed to creation of manuscript, and editing of manuscript;
+Thomas B. Casale, preparation work for roundtable discussion,
+presentation of assigned topics to the roundtable, participation in
+roundtable discussion, contributed to creation of manuscript, and
+editing of manuscript; Mario Castro, preparation work for roundtable discussion, presentation of assigned topics to the roundtable,
+participation in roundtable discussion, and contributed to creation
+of manuscript; Christine B. Franzese, preparation work for roundtable discussion, presentation of assigned topics to the roundtable,
+participation in roundtable discussion, and contributed to creation
+of manuscript; Stella E. Lee, preparation work for roundtable discussion, presentation of assigned topics to the roundtable, participation in roundtable discussion, and contributed to creation of
+manuscript; Joshua M. Levy, preparation work for roundtable discussion, presentation of assigned topics to the roundtable, participation in roundtable discussion, contributed to creation of
+manuscript, and editing of manuscript; Sandra Y. Lin; preparation
+work for roundtable discussion, presentation of assigned topics to
+the roundtable, participation in roundtable discussion, and contributed to creation of manuscript; Peter A. Lio, preparation work for
+roundtable discussion, presentation of assigned topics to the roundtable, participation in roundtable discussion, contributed to creation
+of manuscript, and editing of manuscript; Anju T. Peters, preparation work for roundtable discussion, presentation of assigned topics
+to the roundtable, participation in roundtable discussion, contributed
+to creation of manuscript, and editing of manuscript; Michael P.
+Platt, preparation work for roundtable discussion, presentation of
+assigned topics to the roundtable, participation in roundtable discussion, contributed to creation of manuscript, and editing of
+manuscript; Andrew A. White, preparation work for roundtable
+discussion, presentation of assigned topics to the roundtable, participation in roundtable discussion, contributed to creation of
+manuscript, and editing of manuscript.
+
+Disclosures
+
+Competing interests: Cecelia C. Damask: ALK—advisory board;
+AstraZeneca—contracted clinical research; Audigy Medical—
+consultant; GSK—contracted clinical research, speaker’s bureau;
+OptiNose—contracted clinical research, speaker’s bureau. Thomas
+B. Casale: Sanofi/Regeneron—advisory board, principal investigator on studies to university; Novartis—advisory board, principal
+
+investigator on studies to university; Genentech—advisory board,
+principal investigator on studies to university; AstraZeneca—advisory
+board. Mario Castro: 4D Pharma—consultant; ALA—university/
+grant funding; AstraZeneca—industry-sponsored studies/speaker;
+Aviragen—consultant; Boehringer-Ingelheim— industry-sponsored
+studies/speaker; Boston Scientific—consultant/speaker; Chiesi—
+industry-sponsored studies; Elsevier—royalties; Genentech—
+consultant/speaker; GSK—industry-sponsored _ studies/speaker;
+Mallincrodt—consultant; National Institutes of Health—university/
+grant funding; Novartis—industry-sponsored studies; Nuvaira—
+consultant; PCORI—university/grant funding; Regeneron—speaker;
+Sanofi—industry-sponsored studies/speaker; Therabron—consultant;
+Theravance—consultant; Teva—consultant/speaker; Vectura—
+consultant; VIDA—consultant. Christine B. Franzese: ALK—
+advisory board, research funding, speaker’s bureau; Allovate—bonds;
+Greer—advisory board, research funding, speaker’s bureau; GSK—
+advisory board, research funding, speaker’s bureau; Merck—tesearch
+funding; Genentech-Novartis/Roche—tesearch funding; OptiNose—
+advisory board, research funding, speaker’s bureau; Sanofi/
+Regeneron—advisory board, speaker’s bureau. Stella E. Lee:
+AstraZeneca—tesearch funding; GSK—tesearch funding; Novartis—
+advisory board; Sanofi—advisory board, research funding. Sandra Y.
+Lin: Aerin Medical—consultant; Redesign Health—consultant.
+Peter A. Lio: AbbVie—consultant, investigator grants/research
+funding; Altus Labs—advisory board stock, options; Anacor
+Pharmaceuticals, Inc—advisory board; AOBiome, LLC—principal
+investigator grants/research funding; Dermavant Sciences—advisory
+board; Dermira—consultant; DermTap, Inc—advisory board, stock
+options; DermVeda—advisory board, stock options; Eli Lilly &
+Co—consultant; Exeltis—consultant; Ferndale Laboratories, Inc—
+speaker; Franklin BioScience—consultant, stock options; Galderma
+Laboratories, LP—speaker, consultant; gpower—advisory board;
+Heel (Biologische Heilmittel Heel GmbH)—consultant; Intraderm
+Pharmaceuticals—advisory board; Johnson & Johnson Consumer
+Products Company—speaker, advisory board, consultant fees;
+Kiniksa Pharmaceuticals, Ltd—consultant, honoraria; La Fondation
+pour la DermatiAtopique (Foundation for Atopic Dermatitis)—
+principal investigator grants/research funding; La Roche-Posay
+Laboratorie Pharmaceutique—speaker; LearnHealth/LearnSkin—
+stockholder, stock options; L’Oreal USA Inc—consultant, honoraria;
+Medable—stockholder, stock options; Menlo Therapeutics—
+advisory board, honoraria; Micreos Human Health BV—advisory
+board stock options; Mission—speaker/faculty education; Modernizing Medicine—stockholder, stock options; Odeza LLC—
+consultant, stock options; Pfizer Inc—speaker; Pierre Fabre
+Dermatologie—speaker; Realm Therapeutics—advisory board;
+Regeneron—advisory board, speaker, investigator grants/research
+funding; Sanofi US Services—advisory board; Syncere Skin
+Systems—advisory board, stock options; Theraplex—consultant;
+UCB—advisory board; Unilever—consultant; Valeant Pharmaceuticals
+International—consultant; Valeant Pharmaceuticals North America
+LLC—speaker. Anju T. Peters: AstraZeneca—advisory board,
+research funding; Novartis—advisory board; OptiNose—advisory
+board, research funding; Sanofi/Regeneron—advisory board.
+Michael P. Platt: GI Reviewers—consultant; Plural Publishing—
+royalties. Andrew A. White: AstraZeneca—advisory board, speaker;
+OptiNose—advisory board; Regeneron—advisory board, speaker.
+
+Sponsorships: None.
+
+Funding source: American Academy of Otolaryngic Allergy.
+18
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+References
+
+1.
+
+ 
+
+Johansson SG, Haahtela T, O’Byrne PM. Omalizumab and the
+immune system: an overview of preclinical and clinical data.
+Ann Allergy Asthma Immunol. 2002;89(2):132-138.
+
+. Sutton BJ, Gould HJ. The human IgE network. Nature. 1993;
+
+366(6454):421-428.
+
+. Heusser C, Jardieu P. Therapeutic potential of anti-IgE antibo
+dies. Curr Opin Immunol. 1997;9:805-814.
+
+. Davies AM, Allan EG, Keeble AH, et al. Allosteric mechanism
+
+of action of the therapeutic anti-IgE antibody omalizumab.
+J Biol Chem. 2017;292(24):9975-9987.
+
+. Presta LG, Lahr SJ, Shields RL, et al. Humanization of an anti
+body directed against IgE. J Immunol. 1993;151(5):2623-2632.
+
+. Henry AJ, McDonnell JM, Ghirlando R, et al. Conformation of
+
+the isolated c3 domain of IgE and its complex with the high
+affinity receptor, FcRI. Biochem. 2000;39(25):7406-74 13.
+
+. MacGlashan DW Jr, Bochner BS, Adelman DC, et al. Down
+regulation of Fc(epsilon)RI on human basophils during in vivo
+treatment of atopic patients with anti-IgE antibody. J Immunol.
+1997; 158(3):1438-1445.
+
+. Lin H, Boesel KM, Griffith DT, et al. Omalizumab rapidly
+
+decreases nasal allergic response and FcepsilonRI on basophils.
+J Allergy Clin Immunol. 2004;113(2):297-302.
+
+. Beck LA, Marcotte GV, MacGlashan D, et al. Omalizumab
+induced reductions in mast cell Fce psilon RI expression and
+function. J Allergy Clin Immunol. 2004;114(3):527-530.
+
+. Stokes J, Casale T. Anti-IgE therapy. Accessed April 16, 2019.
+
+https://www.uptodate.com/contents/anti-igetherapy
+
+. Saco TV, Pepper A, Casale TB. Uses of biologics in allergic
+
+diseases: what to choose and when. Ann Allergy Asthma Immunol.
+2018;120(4):357-366.
+
+. Farne HA, Wilson A, Powell C, et al. Anti-IL5 therapies for
+
+asthma. Cochrane Database Syst Rev. 2017;9:CD010834.
+
+. Patterson MF, Borish L, Kennedy JL. The past, present, and
+
+future of monoclonal antibodies to IL-5 and eosinophilic
+asthma: a review. J Asthma Allergy. 2015;8:125-134.
+
+. Zeiger RS, Schatz M, Dalal AA, et al. Blood eosinophil count
+
+and outcomes in severe asthma: a prospective study. J Allergy
+Clin Immunol Pract. 2017;5:144-153.
+
+. Price DB, Rigazio A, Campbell JD, et al. Blood eosinophil
+
+count and prospective annual asthma disease burden: a UK
+cohort study. Lancet Respir Med. 2015;3:849-858.
+
+. Tabatabaian F, Ledford DK, Casale TB. Biologic and new
+
+therapies in asthma. /mmunol Allergy Clin N Am. 2017;37(2):
+329-343.
+
+. Menzella F, Lusuardi M, Galeone C, et al. The clinical profile
+
+of benralizumab in the management of severe eosinophilic
+asthma. Ther Adv Respir Dis. 2016;10(6):534-548.
+
+. Klonowska J, Glen J, Nowicki RJ, Trzeciak M. New cytokines
+
+in the pathogenesis of atopic dermatitis—new therapeutic targets. Int J Mol Sci. 2018;19(10):E3086.
+
+. Bagnasco D, Ferrando M, Varricchi G, Passalacqua G,
+
+Canonica GW. A critical evaluation of anti-IL-13 and anti-IL-4
+strategies in severe asthma. /nt Arch Allergy Immunol. 2016;
+170(2):122-131.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+Strid J, McLean WI, Irvine AD. Too much, too little or just
+enough: a goldilocks effect for IL-13 and skin barrier regulation? J Invest Dermatol. 2016;136(3):561-564.
+
+Zuyderduyn S, Ninaber DK, Schrumpf JA, et al. IL-4 and IL13 exposure during mucociliary differentiation of bronchial
+epithelial cells increases antimicrobial activity and expression
+of antimicrobial peptides. Respir Res. 2011;12(1):59.
+Guttman-Yassky E, Bissonnette R, Ungar B, et al. Dupilumab
+progressively improves systemic and cutaneous abnormalities
+in patients with atopic dermatitis. J Allergy Clin Immunol.
+2019;143(1):155-172.
+
+Wenzel S, Ford L, Pearlman D, et al. Dupilumab in persistent
+asthma with elevated eosinophil levels. N Engl J Med. 2013;
+368:2455-2466.
+
+Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical
+practice guideline (update): adult sinusitis. Otolaryngol Head
+Neck Surg. 2015;152(2):S1-S39.
+
+Tomassen P, Vandeplas G, Van Zele T, et al. Inflammatory
+endotypes of chronic rhinosinusitis based on cluster analysis of
+biomarkers. J Allergy Clin Immunol. 2016;137(5):1449-1456.
+Benjamin MR, Stevens WM, Li N, et al. Clinical characteristics of patients with chronic rhinosinusitis without nasal polyps
+in an academic setting. J Allergy Clin Immunol Pract. 2019;
+7(3):1010-1016.
+
+Orlandi RR, Kingdom TT, Hwang PH, et al. International consensus statement on allergy and rhinology: rhinosinusitis. /nt
+Forum Allergy Rhinol. 2016;6(supp! 1):S22-S209.
+
+Van Zele T, Gevaert P, Holtappels G, et al. Oral steroids and
+doxycycline: two different approaches to treat nasal polyps.
+J Allergy Clin Immunol. 2010;125(5):1069-1076, e4.
+
+Hissaria P, Smith W, Wormald PJ, et al. Short course of systemic corticosteroids in sinonasal polyposis: a double-blind,
+randomized, placebo-controlled trial with evaluation of outcome measures. J Allergy Clin Immunol. 2006;118(1):128-133.
+Bonfils P, Avan P, Malinvaud D. Influence of allergy on the
+symptoms and treatment of nasal polyposis. Acta Otolaryngol.
+2006; 126(8):839-844.
+
+Fokkens WJ, Lund VJ, Mullol J, et al. European position paper
+on rhinosinusitis and nasal polyps 2012. Rhinol Suppl. 2012;
+23:1-298.
+
+Sindwani R, Han JK, Soteres DF, et al. NAVIGATE I: randomized, placebo-controlled, double-blind trial of the exhalation
+delivery system with fluticasone for chronic rhinosinusitis with
+nasal polyps. Am J Rhinol Allergy. 2019;33(1):69-82.
+
+Lund VJ, Mackay IS. Staging in rhinosinusitus. Rhinology.
+1993;31(4):183-184.
+
+Barnes PJ, Casale TB, Dahl R, Pavord ID, et al. The Asthma
+Control Questionnaire as a clinical trial endpoint: past experience and recommendations for future use. Allergy. 2014;69(9):
+1119-1140.
+
+Jia CE, Zhang HP, Lv Y, et al. The Asthma Control Test and
+Asthma Control Questionnaire for assessing asthma control:
+systematic review and meta-analysis. J Allergy Clin Immunol.
+2013;131(3):695-703.
+
+Bachert C, Mannent L, Naclerio RM, et al. Effect of subcutaneous dupilumab on nasal polyp burden in patients with
+Damask et al
+
+19
+
+ 
+
+3%
+
+38.
+
+39.
+
+ 
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+. Penn R, Mikula S. The role of anti-[gE immunoglol
+
+. ClinicalTrials.gov. A clinical
+
+chronic sinusitis and nasal polyposis a randomized clinical
+trial. JAMA. 2016;315(5):469-479.
+
+Han JK, Bachert C, Desrosiers M, et al. Efficacy and safety of
+dupilumab in patients with chronic rhinosinusitis with nasal
+polyps: results from the randomized phase 3 SINUS-24 study.
+J Allergy Clin Immunol. 2019;143(2):AB422.
+
+Bachert C, Desrosiers M, Mullol J, et al. A randomized phase 3
+study, SINUS-52, evaluating the efficacy and safety of dupilumab in patients with severe chronic rhinosinusitis with nasal
+polyps. J Allergy Clin Immunol. 2019;143(2):AB433.
+
+Bachert C, Han JK, Desrosiers M, et al. Efficacy and safety of
+dupilumab in patients with severe chronic rhinosinusitis with
+nasal polyps (LIBERTY NP SINUS-24 and LIBERTY NP
+SINUS-52): results from two multicentre, randomised, doubleblind, placebo-controlled, parallel-group phase 3 trials. Lancet.
+Published online September 19, 2019. doi:10.1016/S01406736(19)31881-1
+
+. ClinicalTrials.gov. Dupilumab for aspirin-exacerbated respira
+tory disease. Accessed May 29, 2019. https://clinicaltrials.gov/
+ct2/show/NCT03595488
+
+ 
+
+ulin therapy in nasal polyposis: a pilot study. Am J Rhinol. 2007;21(4):
+428-432.
+
+. Gevaert P, Calus L, Van Zele T, et al. Omalizumab is effective
+
+in allergic and nonallergic patients with nasal polyps and
+asthma. J Allergy Clin Immunol. 2013;131(1):110-116.
+
+. Pinto JM, Mehta N, DiTineo M, Wang J, Baroody FM,
+
+Naclerio RM. A randomized, double-blind, placebo-controlled
+trial of anti-IgE for chronic rhinosinusitis. Rhinology. 2010;
+48(3):3 18-324.
+
+trial of omalizumab in participants with chronic rhinosinusitis with nasal polyps (POLYP 1).
+Accessed May 29, 2019. https://clinicaltrials.gov/ct2/show/
+NCT03280550?term=NCT03280550&rank=1
+ClinicalTrials.gov. A clinical trial of omalizumab in participants with chronic rhinosinusitus with nasal polyps (POLYP
+2). Accessed May 29, 2019. https://clinicaltrials.gov/ct2/show/
+NCT03280537?term=NCT03280537 &rank=1
+
+Gevaert P, Omachi TA, Corren J, et al. Efficacy and safety of
+omalizumab in nasal polyposis: 2 randomized phase 3 trials. J
+Allergy Clin Immunol. Published online June 7, 2020. doi:10.
+1016/j.jaci.2020.05.032
+
+Genentech. Xolair (omalizumab) significantly reduced nasal
+polyps and congestion symptoms in adults with chronic rhinosinusitis with nasal polyps in two phase III studies. Accessed
+October 24, 2019. https://www.gene.com/media/press-releases/
+14792/2019-06-02/xolair-omalizumab-significantly-reducedClinicaltrials.gov. An extension study of omalizumab in participants with chronic rhinosinusitis with nasal polyps. Accessed
+May 29, 2019. https://clinicaltrials.gov/ct2/show/NCT03478930
+Bidder T, Sahota J, Rennie C, et al. Omalizumab treats chronic
+rhinosinusitis with nasal polyps and asthma together—a real
+life study. Rhinology. 2018;56(1):42-45.
+
+Gevaert P, Van Bruaene N, Cattaert T, et al. Mepolizumab, a
+humanized anti-IL-5 mAb, as a treatment option for severe
+nasal polyposis. J Allergy Clin Immunol. 2011;128(5):989-995,
+el-e8.
+
+ 
+
+Al.
+
+$2.
+
+53.
+
+54.
+
+55.
+
+56.
+
+STs
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+Bachert C, Sousa AR, Lund VJ. Reduced need for surgery in
+severe nasal polyposis with mepolizumab: randomized trial. J
+Allergy Clin Immunol. 2017;140(4):1024-1031.
+ClinicalTrials.gov. Effect of mepolizumab in severe bilateral
+nasal polyps. Accessed May 29, 2019. https://clinicaltrials.gov/
+ct2/show/NCT03085797?term=mepolizumab+and+tnasal+poly
+ps&rank=1
+
+Gevaert P, Lang-Loidolt D, Lackner A, et al. Nasal IL-5 levels
+determine the response to anti-IL-5 treatment in patients with
+nasal polyps. J Allergy Clin Immunol. 2006;118(5):1133-1141.
+ClinicalTrials.gov. Study of benralizumab (KHK4563) in patients
+with eosinophilic chronic rhinosinusitis. Accessed May 29,
+2019. https://clinicaltrials.gov/ct2/show/NCT02772419
+ClinicalTrials.gov. Benralizumab effect on severe chronic rhinosinusitis with eosinophilic polyposis. Accessed May 29, 2019.
+https://clinicaltrials. gov/ct2/show/NCT03450083?term=NCT034
+50083 &rank=1
+
+ClinicalTrials.gov. Efficacy and safety study of benralizumab
+for patients with severe nasal polyposis (OSTRO). Accessed
+May 29, 2019. https://clinicaltrials.gov/ct2/show/NCT0340122
+9?term=NCT03401229&rank=1
+
+DeConde AS, Mace JC, Levy JM, et al. Prevalence of polyp
+recurrence after endoscopic sinus surgery for chronic rhinosinusitis with nasalpolyposis. Laryngoscope. 2017;127(3):550-555.
+Batra PS, Tong L, Citardi MJ. Analysis of comorbidities and
+objective parameters in refractory chronic rhinosinusitis. Laryngoscope. 2013;123(suppl 7):S1-S11.
+
+Soler ZM, Rudmik L, Hwang PH, et al. Patient-centered decision making in the treatment of chronic rhinosinusitis.
+Laryngoscope. 2013;123:2341-2346.
+
+Cingi C, Muluk NB, Cobanoglu B, et al. Nasobronchial interaction. World J Clin Cases. 2015;3(6):499-503.
+
+Okano M, Kariya S, Ohta N, et al. Association and management of eosinophilic inflammation in upper and lower airways.
+Allergol Int. 2015;64(2):131-138.
+
+Brozek JL, Bousquet J, Agache I, et al. Allergic rhinitis and its
+impact on asthma (ARIA) guidelines—2016 revision. J Allergy
+Clin Immunol. 2017;140(4):950-958.
+Schlosser RJ, Smith TL, Mace J, Soler ZM. Asthma quality of
+life and control after sinus surgery in patients with chronic rhinosinusitis. Allergy. 2017;72(3):483-491.
+Ehnhage A, Olsson P, Kélbeck KG, et al. One year after endoscopic sinus surgery in polyposis: asthma, olfaction, and
+quality-of-life outcomes. Otolaryngol Head Neck Surg. 2012;
+46(5):834-841.
+Batra PS, Kern RC, Tripathi A, et al. Outcome analysis of
+endoscopic sinus surgery in patients with nasal polyps and
+asthma. Laryngoscope. 2003;113(10):1703-1706.
+
+Price DB, Rigazio A, Campbell D, et al. Blood eosinophil
+count and prospective annual asthma disease burden: a UK
+cohort study. Lance Respir Med. 2015;3(11):849-858.
+
+Fahy JV. Type 2 inflammation in asthma—present in most,
+absent in many. Nat Rev Immunol. 2015;15:57-65.
+
+Pavlidis S, Takahahis K, Ng Kee Kwong F, et al. ““T2-high” in
+severe asthma related to blood eosinophil, exhaled nitric oxide
+and serum periostin. Eur Respir J. Published online January 3,
+2019. doi:10.1183/13993003.00938-2018
+
+ 
+
+ 
+20
+
+Otolaryngology—Head and Neck Surgery
+
+ 
+
+69.
+
+70.
+
+71.
+
+yee
+
+Be
+
+74.
+
+Ws
+
+76.
+
+Ts
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+Haughhney J, Morice A, Blyth KG, et al. A retrospective
+cohort study in severe asthma describing commonly measured
+biomarkers: eosinophil count and IgE levels. Respir Med. 2018;
+134:117-123.
+
+Philpott CM, Erskine S, Hopkins C, et al. Prevalence of
+asthma, aspirin sensitivity and allergy in chronic rhinosinusitis:
+data from the UK National Chronic Rhinosinusitis Epidemiology
+Study. Respir Res. 2018;19(1):129.
+
+Busse W, Corren J, Lanier BQ, et al. Omalizumab, anti-IgE recombinant humanized monoclonal antibody, for the treatment of severe
+allergic asthma. J Allergy Clin Immunol. 2001;108:184-190.
+
+Soler M, Matz J, Townley R, et al. The anti-IgE antibody omalizumab reduces exacerbations and steroid requirement in allergic asthmatics. Eur Respir J. 2001;18(2):254-261.
+
+Finn A, Gross G, van Bavel J, et al. Omalizumab improves
+asthma-related quality of life in patients with severe allergic
+asthma. J Allergy Clin Immunol. 2003;111(2):278-284.
+
+Buhl R, Hanf G, Soler M, et al. The anti-IgE antibody omalizumab improves asthma-related quality of life in patients with
+allergic asthma. Eur Respir J. 2002;20(5):1088-1094.
+
+Castro M, Mathur S, Hargreave F, et al. Reslizumab for poorly
+controlled, eosinophilic asthma: a randomized, placebo-controlled
+study. Am J Respir Crit Care Med. 2011;184(10):1125-1132.
+Bjermer L, Lemiere C, Maspero J, et al. Reslizumab for inadequately controlled asthma with elevated blood eosinophil
+levels: a randomized phase 3 study. Chest. 2016;150:789-798.
+Castro M, Zangrilli J, Wechsler ME, et al. Reslizumab for
+inadequately controlled asthma with elevated blood eosinophil
+counts: results from two multicentre, parallel, double-blind,
+
+ 
+
+randomised, placebo-controlled, phase 3 trials. Lancet Respir
+Med. 2015;3:355-366.
+
+Corren J, Weinstein S, Janka L, Zangrilli J, Garin M. Phase 3
+study of reslizumab in patients with poorly controlled asthma:
+effects across a broad range of eosinophil counts. Chest. 2016;
+150:799-810.
+
+Murphy K, Jacobs J, Bjermer L, et al. Long-term safety and
+efficacy of reslizumab in patients with eosinophilic asthma.
+J Allergy Clin Immunol Pract. 2017;5(6):1572-1581, e3.
+Pavord ID, Korn S, Howard P, et al. Mepolizumab for severe
+eosinophilic asthma (DREAM): a multicentre, double-blind,
+placebo-controlled trial. Lancet. 2012;380(9842):65 1-659.
+Ortega HG, Liu MC, Pavord ID, et al. Mepolizumab treatment
+in patients with severe eosinophilic asthma. N Engl J Med.
+2014;371(13):1198-1207.
+
+Chupp GL, Bradford ES, Albers FC, et al. Efficacy of mepolizumab add-on therapy on health-related quality of life and
+markers of asthma control in severe eosinophilic asthma
+(MUSCA): a randomised, double-blind, placebo-controlled,
+parallel-group, multicentre, phase 3b trial. Lancet Respir Med.
+2017;5(5):390-400.
+
+Bel EH, Wenzel SE, Thompson PJ, et al. Oral glucocorticoidsparing effect of mepolizumab in eosinophilic asthma. N Engl
+J Med. 2014;371(13):1189-1197.
+
+Lugogo N, Domingo C, Chanez P, et al. Long-term efficacy
+and safety of mepolizumab in patients with severe eosinophilic
+asthma: a multi-center, open-label, phase IIIb study. Clin Ther.
+2016;38(9):2058-2070.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+Castro M, Wenzel SE, Bleecker ER, et al. Benralizumab, an
+anti-interleukin 5 receptor a monoclonal antibody, versus placebo for uncontrolled eosinophilic asthma: a phase 2b randomised dose-ranging study. Lancet Respir Med. 2014;2(11):879890.
+
+Ferguson GT, Mansur AH, Jacobs JS, et al. Assessment of an
+accessorized pre-filled syringe for home-administered benralizumab in severe asthma. J Asthma Allergy. 2018;11:63-72.
+Ferguson GT, FitzGerald JM, Bleecker ER, et al. Benralizumab
+for patients with mild to moderate, persistent asthma (BISE): a
+randomised, double-blind, placebo-controlled, phase 3. trial.
+Lancet Respir Med. 2017;5(7):568-576.
+
+Nair P, Wenzel S, Rabe KF, et al. Oral glucocorticoid-sparing
+effect of benralizumab in severe asthma. N Engl J Med. 2017;
+376(25):2448-2458.
+
+Busse WW, Bleecker ER, FitzGerald JM, et al. Long-term
+safety and efficacy of benralizumab in patients with severe,
+uncontrolled asthma: 1-year results from the BORA phase 3
+extension trial. Lancet Respir Med. 2019;7(1):46-59.
+
+Bleecker ER, FitzGerald JM, Chanez P, et al. Efficacy and
+safety of benralizumab for patients with severe asthma uncontrolled with high-dosage inhaled corticosteroids and long-acting
+B2-agonists (SIROCCO): a randomised, multicentre, placebocontrolled phase 3 trial. Lancet. 2016;388(10056):2115-2127.
+FitzGerald JM, Bleecker ER, Nair P, et al. Benralizumab, an
+anti-interleukin-5 receptor « monoclonal antibody, as add-on
+treatment for patients with severe, uncontrolled, eosinophilic
+asthma (CALIMA): a randomised, double-blind, placebocontrolled phase 3 trial. Lancet. 2016;388(10056):2128-2141.
+Wenzel S, Ford L, Pearlman D, et al. Dupilumab in persistent
+asthma with elevated eosinophil level. N Engl J Med. 2013;
+8(26):2455-2466.
+
+Wenzel S, Castro M, Corren J, et al. Dupilumab efficacy and
+safety in adults with uncontrolled persistent asthma despite use
+of medium-to-high-dose inhaled corticosteroids plus a long-acting
+beta2 agonist: a randomised double-blind placebo-controlled pivotal phase 2b dose-ranging trial. Lancet. 2016;388(10039):3 1-44.
+Castro M, Corren J, Pavord ID, et al. Dupilumab efficacy and
+safety in moderate-to-severe uncontrolled asthma. N Engl J
+Med. 2018;378(26):2486-2496.
+
+Rabe KF, Nair P, Brusselle G, et al. Efficacy and safety of
+dupilumab in glucocorticoid-dependent severe asthma. N Engl
+J Med. 2018;378(26):2475-2485.
+
+Elwyn G, Frosch D, Thomson R, et al. Shared decision
+making: a model for clinical practice. J Gen Intern Med. 2012;
+27(10):1361-1367.
+
+Desai M, Oppenheimer J. Choosing the right biologic for
+severe asthma: precision medicine through the lens of patientcentered decision making. Ann Allergy Asthma Immunol. Published
+online July 24, 2019. doi: 10.1016/j.anai.2019.07.012
+
+Létvall J, Akdis CA, Bacharier LB, et al. Asthma endotypes: a
+new approach to classification of disease entities within the
+asthma syndrome. J Allergy Clin Immunol. 2011;127(2):355-360.
+Dursun AB, Woessner KA, Simon RA, Karasoy D, Stevenson
+DD. Predicting outcomes of oral aspirin challenges in patients
+with asthma, nasal polyps, and chronic sinusitis. Ann Allergy
+Asthma Immunol. 2008;100(5):420-425.
+
+ 
+
+ 
+Damask et al
+
+21
+
+ 
+
+ 
+
+00.
+
+01.
+
+02.
+
+03.
+
+04.
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10.
+
+11.
+
+12;
+
+13.
+
+14.
+
+Sezceklik A, Nizankowska E, Duplaga M. Natural history of
+aspirin induced asthma. Eur Resp J. 2000;16(3)432-436.
+Kowalski ML, Agache I, Bavbek S, et al. Diagnosis and management of NSAID-exacerbated respiratory disease (N-ERD):
+a EAACI position paper. Allergy. 2019;74(1):28-39.
+
+White AA, Stevenson DD. Aspirin-exacerbated respiratory
+disease. N Engl J Med. 2018;379(11):1060-1070.
+
+Hayashi H, Mitsui C, Nakatani E, et al. Omalizumab reduces
+cysteinyl leukotriene and 9a,118-prostaglandin F2 overproduction in aspirin-exacerbated respiratory disease. J Allergy
+Clin Immunol. 2016;137(5):1585-1587.
+
+Tuttle KL, Buchheit KM, Laidlaw TM, Cahill KN. A retrospective analysis of mepolizumab in subjects with aspirinexacerbated respiratory disease. J Allergy Clin Immunol Pract.
+2018;6(3):1045-1047.
+
+Laidlaw TM, Mullol J, Fan C, et al. Dupilumab improves
+nasal polyp burden and asthma control in patients with CRSwNP
+and AERD. J Allergy Clin Immunol Pract. 2019;7:2462-2465.
+Jennette JC, Falk RJ, Bacon PA, et al. 2012 Revised
+International Chapel Hill Consensus Conference Nomenclature
+of Vasculitides. Arthritis Rheum. 2013;65(1):1-11.
+Mouthon L, Dunogue B, Guillevin L. Diagnosis and classification of eosinophilic granulomatosis with polyangiitis (formerly named Churg-Strauss syndrome). J Autoimmunity. 2014;
+48-49:99-103.
+Sablé-Fourtassou R, Cohen P, Mahr A, et al; French
+Vasculitis Study Group. Antineutrophil cytoplasmic antibodies and the Churg-Strauss syndrome. Ann Intern Med. 2005;
+143(9):632-638.
+Groh M, Pagnoux C, Baldini C, et al. Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) (EGPA) Consensus
+Task Force recommendations for evaluation and management.
+Eur J Intern Med. 2015;26(7):545-553.
+
+Cottin V, Bel E, Bottero P, et al. Respiratory manifestations
+of eosinophilic granulomatosis with polyangiitis (ChurgStrauss). Eur Respir J. 2016;48(5):1429-1441.
+
+GSK. Mepolizumab prescribing information. Accessed May
+14, 2019. https://www.gsksource.com/pharma/content/dam/
+GlaxoSmithKline/US/en/Prescribing_Information/Nucala/pdf/
+NUCALA-PI-PIL.PDF
+
+Wechsler ME, Akuthota P, Jayne D, et al. Mepolizumab or
+placebo for eosinophilic granulomatosis with polyangiitis. NV
+Engl J Med. 2017;376(20):1921-1932.
+
+Mukhtyar C, Lee R, Brown D, et al. Modification and validation of the Birmingham Vasculitis Activity Score (version 3).
+Ann Rheum Dis. 2009;68(12):1827-1832.
+
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA?LEN/
+EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy. 2018;73(7):1393-1414.
+
+ 
+
+115.
+
+116.
+
+117.
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+
+123:
+
+124.
+
+125.
+
+126.
+
+Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and
+management of acute and chronic urticaria: 2014 update.
+J Allergy Clin Immunol. 2014;133(5):1270-1277.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and
+safety of omalizumab in patients with chronic idiopathic/
+spontaneous urticaria who remain symptomatic on H1 antihistamines: a randomized, placebo-controlled study. J Invest
+Dermatol. 2015;135(1):67-75.
+
+Maurer M, Rosén K, Hsieh HJ, et al. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria. N
+Engl J Med. 2013;368(10):924-935.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria
+despite standard combination therapy. J Allergy Clin Immunol.
+2013;132(1):101-109.
+
+Eichenfield LF, Tom WL, Chamlin SL, et al. Guidelines of
+care for the management of atopic dermatitis: section 1.
+Diagnosis and assessment of atopic dermatitis. J Am Acad
+Dermatol. 2014;70(2):338-351.
+
+Food and Drug Administration. Dupilumab package insert.
+Accessed May 29, 2019. https://www.accessdata.fda.gov/
+drugsatfda_docs/label/2017/761055lbl.pdf
+
+Simpson EL, Akinlade B, Ardeleanu M. Two phase 3 trials of
+dupilumab versus placebo in atopic dermatitis. N Engl J Med.
+2017;376(11):1090-1091.
+
+Blauvelt A, de Bruin-Weller M, Gooderham M, et al. Longterm management of moderate-to-severe atopic dermatitis
+with dupilumab and concomitant topical corticosteroids
+(LIBERTY AD CHRONOS): a 1-year, randomised, doubleblinded, placebo-controlled, phase 3 trial. Lancet. 2017;
+389(10086):2287-2303.
+
+Cox L, Platts-Mills TA, Finegold I, et al. American Academy
+of Allergy, Asthma & Immunology/American College of
+Allergy, Asthma and Immunology Joint Task Force Report on
+omalizumab-associated anaphylaxis. J Allergy Clin Immunol.
+2007;120(6):1373-1377.
+
+Neumann PJ, Cohen JT. QALYs in 2018: advantages and concerns. JAMA. 2018;319:2473-2474.
+
+Institute for Clinical and Economic Review. Biologic
+Therapies for Treatment of Asthma Associated With Type 2
+Inflamation: Effectiveness, Value, and Value-Based Price
+Benchmarks: Final Evidence Report. Published 2018. Accessed
+May 29, 2019. https://icer-review.org/material/asthma-finalevidence-report/
+
+Scangas GA, Wu AW, Ting JY, et al. Cost utility analysis of
+dupilumab versus endoscopic sinus surgery for chronic rhinosinusitis with nasal polyps. Laryngoscope. Published online
+April 3, 2020. doi:10.1002/lary.28648
+

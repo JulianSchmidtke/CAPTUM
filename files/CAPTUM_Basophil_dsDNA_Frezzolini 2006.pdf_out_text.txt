@@ -1,0 +1,799 @@
+Allergy 2006: 61: 1071-1077
+
+© 2006 The Authors
+Journal compilation © 2006 Blackwell Munksgaard
+
+DOI: 10.1111/j.1398-9995.2006.01033.x
+
+ 
+
+Original article
+
+Serum-induced basophil CD63 expression by means of a tricolour
+flow cytometric method for the in vitro diagnosis of chronic
+
+urticaria
+
+Background: Functional autoantibodies against the o-chain of the high-affinity
+IgE receptor (FceRI«) identify a subset of patients with chronic urticaria (CU)
+due to autoreactivity, as assessed by an in vivo positive response to autologous
+serum skin test (ASST). We performed a study to standardize the serum-induced
+basophil activation assay by flow cytometry (FCM) using a new tricolour
+method, assessing the diagnostic performance of this test in discriminating beween ASST + and ASST- CU patients.
+
+Methods: Sera of 64 CU patients (22 ASST+ CU and 42 ASST- CU) and 10
+healthy subjects were tested for their ability to induce basophil CD63 expression
+when incubated with whole blood of both atopic (Da) and non-atopic donors
+(Dna). Using a triple-labelled strategy with anti-CD123, anti- HLA-DR and
+anti-CD63 antibodies, CD63+ basophils were identified on a selected populaion of CD123+ HLA-DR- cells. In 3 ASST+ CU patients who underwent
+cyclosporine therapy, the assay was performed before and after treatment.
+Results: The ASST+ CU sera resulted in a significant higher induction of
+basophil CD63 expression compared with ASST- CU and healthy donors sera;
+when whole blood from Da, was used, sensitivity and specificity of the assay were
+95.5% and 90.5% respectively. ASST + CU serum activity was significantly
+decreased during cyclosporine A treatment, in parallel with clinical remission.
+Conclusions: Chronic urticaria serum-induced CD63 expression assay performed
+on Da whole blood by means of our tricolour FCM method could be the most
+useful tool for identification of a subset of patients with autoimmune CU and
+may become a promising tool also for monitoring treatment efficacy.
+
+ 
+
+ 
+
+ 
+
+A. Frezzolini', A. Provini’, P. Teofoli’,
+D. Pomponi’, 0. De Pita’
+
+‘Laboratory of Immunology and Allergology;
+2Division of Dermatology, Istituto Dermopatico dell”
+Immacolata, IDI-IRCCS, Rome, Italy
+
+Key words: autologous serum skin test; basophils;
+CD63; chronic urticaria; cyclosporine.
+
+Alessandra Frezzolini
+
+Laboratory of Immunology and Allergology
+Istituto Dermopatico dell'lmmacolata, IDI-IRCCS
+Via dei Monti di Creta, 104
+
+1-00167 Rome
+
+Italy
+
+Accepted for publication 13 November 2005
+
+ 
+
+Chronic idiopathic urticaria (CIU), defined as the occurrence of daily pruritic wheals for at least 6 weeks, is a
+common skin disorder in which pathophysiological
+mechanism often remains unknown, despite extensive
+laboratory investigations (1, 2). A subset of patients with
+Chronic urticaria (CU) may have an autoimmune basis
+for their condition, suggested by a positive skin test
+response to intradermal injection of autologous serum
+[autologous serum skin test (ASST)] (3, 4). It is now well
+accepted that up to half of patients with CIU (35-55%)
+have functional circulating IgG autoantibodies directed
+against the o-chain of the high-affinity IgE receptor
+(FceRIa) or, less commonly, against IgE itself, which are
+able to induce in vitro histamine release from basophils
+and mast cells via a direct cross-linking of adjacent IgE or
+IgE receptors (5-7). Although several attempts have been
+made to develop specific and sensitive in vitro tests for the
+detection of anti-FcsRIa autoantibodies in sera of
+
+patients with autoimmune chronic urticaria (AICU), no
+routine laboratory test is yet available for in vitro
+diagnosis of AICU and time-consuming functional assays
+(histamine release from healthy donor basophils and mast
+cells) are required (8-11). As regard, basophil activation
+can induce the release of several soluble mediators
+(histamine, leucotrienes, cytokines and chemokines) as
+well as the expression of membrane bound activation
+markers (12, 13). CD63, a surface molecule (glycoprotein53) member of the tetraspan family, is the only marker
+expressed de novo with a high density on activated
+basophils (14) and its up-regulation have been shown to
+well correlate with histamine release from basophils after
+stimulation with N-formyl-methionyl-leucyl-phenylalanine (fMLP), anti-IgE antibody or allergens (15-17). Thus,
+CD63 expression has been proposed as a reliable tool to
+monitor basophil activation and several literature data
+account for the application of flow cytometric analysis of
+
+1071
+Frezzolini et al.
+
+in vitro activated basophils assessed by CD63 in allergy
+diagnosis (16, 17). Recently, two independent studies
+performed by Wedi et al. (18) and Gyimesi et al. (19)
+investigated a flow cytometric basophil activation test for
+the detection of AICU. The authors, using different
+methods of basophil isolation and activation, demonstrated that sera from patients with CU and positive ASST
+are able to induce in vitro CD63 expression on atopic
+donor basophils identified by flow cytometry (FCM)
+using monoclonal antibody (MoAb) directed against IgE.
+
+In order to confirm the relationship between the in vivo
+response to ASST and in vitro serum-induced basophil
+CD63 expression we performed a study in a large series of
+CU patients using a novel tricolour flow cytometric
+method based on CD63, CD123 and HLA-DR expression. It is well documented that, by means of FCM,
+peripheral blood basophils can be selectively identified as
+a distinctive single cell population using MoAbs directed
+against the alpha chain of interleukin-3 receptor (antiIL-3Roa/CD123), staining predominantly basophils and
+monocyte-derived dendritic cells (20), and the HLA-DR
+antigen which is virtually absent on basophils (21-23).
+Thus this method allows to accurately quantify CD63 +
+activated cells on a selected population of CD123+
+HLA-DR- basophils from whole blood. Furthermore we
+statistically established a cut-off able to discriminate
+ASST+ CU from ASST- CU patients giving the best
+values of sensitivity and specificity by means of a
+receiving operating characteristic (ROC) curve. Three
+patients with severe unremitting CU and a positive ASST
+underwent cyclosporine A (CyA) treatment and modulation of serum-induced CD63 expression was evaluated in
+response to therapy.
+
+ 
+
+Patients and methods
+Patients, sera and donors
+
+We enrolled for the study 64 patients (46 females and 18 males
+ageing from 32 to 54 years) with diagnosis of CU defined as
+recurrent whealing occurring at least twice a week for more than
+6 weeks. Physically or drug-induced urticaria, urticaria vasculitis
+and allergic (IgE-mediated) urticaria were considered as criteria for
+exclusion. When assumed, antihistamine treatment was stopped at
+least 1 week before the study and none of the patients was taking
+any other drug when serum samples were collected for ASST and
+CD63 expression assay.
+
+The severity of urticaria was estimated according to the body
+surface area (BSA) affected by wheals at the assessment time and
+scored as follows: 0 = no wheals; 1 = <20% BSA; 2 = from 20%
+to 50% BSA; 3 = >50% BSA. The severity of itching was graded
+from 0 to 3, where 0 = none, 1 = mild, 2 = moderate, 3 = severe.
+The wheal and itch scores were added together, so that the maximum urticaria activity score was 6 (Tables | and 2).
+
+Sera from 10 non-atopic healthy subjects served as control samples.
+All sera, stored at —20°C until investigations, were thawed to room
+temperature (RT) and heat inactivated (30 min at 56°C) before their
+use to eliminate IgE and inactive complement. For in vitro seruminduced basophil activation test one non-atopic healthy donor (Dna;
+
+1072
+
+Table 1. Clinical activity scores assessed in ASST— CU patients (n = 42)
+
+ 
+
+Urticaria
+activity score
+(wheal + itch)
+
+Urticaria
+duration Wheal Itch
+(months) score score
+
+9
+12
+4
+5
+12
+9
+8
+25
+33
+12
+2
+2
+1
+6
+14
+10
+9
+9
+12
+
+n
+®
+gS
+
+ 
+
+we _— = mo
+
+wn
+
+mre mrnnnnnSen rTM MHS HHM SAM MTM MVS MSNVSMVSVSMNSTNZEeE
+PER SSYUN NW ENGANENNSRVYAR BWR
+
+WBN NB WF PENN ENN BBB WENWEENNWWENY ENB ENNNNDND |=
+WNHNSFENOWNWWNENSENENOHBONSENWWNWOENNWONSOENNWNHND
+MwWWWNRH DWAR RWWWANWHANNTNWTAUTTMANAWTHwWWWRR TW
+
+ 
+
+circulating IgE 32 kU/l) and one atopic donor (Da) suffering from
+allergic rhinitis (serum specific IgE for seasonal allergens: 920 kU/l)
+were selected and they were both out of any antihistamine treatment
+when heparinized whole blood was collected.
+
+Autologous serum skin test
+
+Upon informed consent each subject enrolled in the study underwent
+an intradermal test with 0.05 ml of fresh autologous serum performed
+as described by Sabroe et al.; autologous serum, sterile saline solution
+(0.9% W/v NaCl) as negative control and histamine (1 mg/ml) as
+positive control were injected into the volar forearm healthy skin and
+the ASST reactions were scored as positive when a red serum-induced
+wheal with a diameter of > 1.5 mm than the saline-induced response
+at 30 min could be observed. Twenty-two of 64 CU patients (34.3%)
+Table 2. Clinical activity scores assessed in ASST+ CU patients (n = 22)
+
+ 
+
+Urticaria
+duration Wheal Itch
+Sex (months) score score
+
+26
+9
+18
+42
+6
+3
+13
+38
+20
+12
+4
+12
+18
+24
+6
+14
+d
+9
+12
+16
+8
+Fe 34
+
+Urticaria
+activity score
+(wheal + itch)
+
+ 
+
+Zeman nMe naa e7eT7|T
+
+aa
+3
+
+2
+NWWN FNP P HB wWWNAFNNwWFENEND
+
+WNWSFENWOENBAONNNWWNNOSNN|
+DAARMWWONWNDAHEWHNNHW WwW
+
+ 
+
+“Patients selected for CyA treatment.
+
+were strongly positive on ASST (ASST + CU) and 42 of 64 (65.6%)
+were negative (ASST- CU). ASST performed on the healthy control
+group (n = 10) was negative in all subjects.
+
+Flow-cytometric basophil CD63 serum-induced activation assay
+
+Flow-cytometric quantitative expression of CD63 on activated basophils was measured on Dya and Dag cells. Briefly, 100 ul of
+heparinized whole blood was directly incubated at 37°C on water
+bath for 30 min with 100 wl of heat-inactivated undiluted sera of
+CU patients and controls, making a final volume of 200 ul. Degranulation was stopped by adding 10 ul of 20 mM EDTA at RT
+for 5 min and cells where then stained with 20 pl of CD63-FITC/
+CD123-PE/Anti-HLA-DR-PerCP antibody cocktail (BD FastImmune™ CD63/CD123/Anti-HLA-DR; Becton-Dickinson, San
+Jose, CA) and incubated for 15 min at RT. Finally, whole blood
+probes were lysed (Ix BD FACS lysing solution; Becton-Dickinson), washed and resuspended in 300 l of 0.5% paraformaldehyde
+to be measured on a FACScan flow cytometer (Becton-Dickinson
+Immunocytometry System, San Jose, CA) within 2 h. Setting a
+threshold on FL2 (red fluorescence) to eliminate most of CD123
+negative cells, at least 500 CD123+ cells per probe were acquired
+and basophils were then identified as low side scatter (SSC),
+CD123+ and HLA-DR- cells with a double gating strategy. CD63
+basophil surface expression measured on FLI (green fluorescence)
+was quantified on the gated CD123 + HLA-DR- cells (Fig. 1). The
+addition of wash buffer alone and fMLP (1 pmol/l) to distinct tubes
+served to establish respectively baseline values and positive control
+of CD63 expression on donors’ basophils in three consecutive
+experiments (MV + SD of CD63+ cells at baseline was
+7.3% + 1.2% for Dna and 6.4 + 0.2 for Da; MV + SD of
+CD63 + cells after fMLP stimulation was 23% + 3% for Dna and
+45% + 2.2 for Da, P < 0.001).
+
+ 
+
+In vitro diagnosis of chronic urticaria
+
+ 
+
+104
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Fy
+SF
+Es: A B
+3. 2
+*; 2
+3g #
+2 20
+= Se
+32
+a8 3
+s 2
+R
+3
+109 70+ 400° 404 02 "403 f04
+Anti-HLA-DR PerCP
+3 &Activatea D
+basophils:
+3 & 57%
+w w
+a a
+RE a8
+a a
+oO oO
+2 =
+3 3 rT rT T
+“400 101 103 104 409 101 02 103 104
+
+ 
+
+4
+CD63 FITC
+
+102
+CD63 FITC
+
+Figure 1. Identification of activated basophils by means of a
+whole blood tricolour flow cytometric protocol using antiCD123, anti-HLA-DR and anti-CD63 MoAbs. Gate R1 (A)
+isolates the low side-scatter (SSC), CD123+ basophil population, while gate R2 (B) detects a well defined population of cells
+which are highly positive for CD123 but negative for HLA-DR
+(CD123+ HLA-DR- basophils) on a biparametric dot plot
+activated on R1. With a double gating strategy, the expression
+of CD63 is determined in the upper right quadrant of a biparametric dot plot CD123-CD63 referred to the combined gate
+RI + R2. (C, D) percentage of CD63 activated basophils on
+Da whole blood after incubation with representative ASST—
+CU (C) and ASST+ CU sera (D).
+
+ 
+
+Three of 22 ASST+ CU patients with severe relapsing disease,
+unresponsive to antihistamines, were selected for short-term CyA
+treatment (Sandimmun Neoral® at 3 mg/kg/day for 4 weeks, 2 mg/
+kg/day for the next 2 weeks and | mg/kg/day for the remaining
+2 weeks). Serum samples from these patients were collected to
+perform ASST and serum-induced CD63 activation assay before,
+after 4 weeks and at the end of the therapy (8 weeks).
+
+Statistical analysis
+
+Statistical analysis was performed by a software package (SigmaStat
+2.03 for Windows; SPSS Inc, Chicago, IL, USA) and Student’s
+t-test or Mann-Whitney rank sum test were alternatively used to
+determine significant differences between groups, depending on the
+type of distribution. In ASST+ CU patients treated with CyA, a
+Paired #-test served to establish the modulation of serum induced
+CD63 expression during treatment. A ROC curve analysis was used
+to estimate the cut-off of CD63 serum-induced assay able to discriminate ASST + CU from ASST- CU patients, regarding optimal
+values of sensitivity and specificity. The area under the ROC curves
+(AUC) was calculated by Analyse-it 1.69 program (Analyse-it
+software, Ltd, Leeds, UK) to evaluate the discriminatory value of
+the test. Unless otherwise stated, all data are shown as mean values + standard deviation (MV + SD) and a probability (P) value
+of <0.05 was considered to be statistically significant.
+
+1073
+Frezzolini et al.
+
+Results
+CD63 surface expression on donor basophils in response to sera
+
+As shown in Fig. 2, when heat-inactivated, undiluted
+ASST+ CU sera (1 = 22) were used to stimulate donors
+whole blood, a significant induction of CD63 on basophils from both Da and Dna with respect to ASST-— CU
+(n = 42) and normal sera (n = 10) was documented by
+FCM (P < 0.001). However, ASST+ CU sera activity
+was about 1.8-fold higher in Da than in Dna, being the
+mean percentage of CD63+ basophils significantly higher in Da when compared with Dyna (33.3 + 14 vs
+18.9 + 7; P < 0.001).
+
+Diagnostic performance of the serum-induced CD63 expression
+assay
+
+A ROC curve was derived to establish the ability of the
+serum-induced CD63 expression assay to discriminate
+ASST+ CU and ASST- CU patients when whole blood
+from Da was used. The AUC for the assay was 0.971,
+that means an overall probability (97.1%) that ASST +
+CU patients can be correctly identified by FCM measurement of CD63 expression (P < 0.0001). By analysing
+the ROC curve, the cut-off value giving the best
+sensitivity and specificity (95% and 91% respectively)
+was found to be 15% (Fig. 3).
+
+50
+
+45
+
+QO Healthy donors sera (n=10)
+GASST- CU sera (n=42)
+BASST+ CU sera (n=22)
+
+P<0.001
+
+P<0.001
+
+33.3£14
+
+P<0,001
+
+CD63 expression (%)
+
+ 
+
+DNA DA
+
+Figure 2. ASST + CU sera are able to induce CD63 expression
+on basophils of both Dna and Da with respect to ASST- CU
+and healthy donors sera. ASST + CU sera activity, however, is
+about 1.8-fold higher (P < 0.001) when evaluated on Da
+basophils when compared with the activity on Dy. Data are
+reported as mean values +SD. ASST, autologous serum skin
+test, CU, chronic urticaria, Dya, nonatopic donor, Da, atopic
+donor.
+
+1074
+
+Modification of serum-induced CD63 expression during CyA
+therapy
+
+In three ASST+ CU patients treated with oral administration of CyA serum samples were collected before
+(TO), after 4 weeks (T1) and at the end of therapy (T2)
+and evaluated for CD63 induction on Da whole blood.
+When compared with TO, a significant reduction of mean
+percentage of CD63+ basophils was detected at T1
+(57 + 8.5% vs 14.6 + 6.4; P = 0.02), further decreasing
+at T2 below the calculated cut-off (9.3 + 2%; P < 0.01)
+(Fig. 4). All treated patients showed an early clinical
+response (2 weeks) in terms of itch and wheals reduction,
+and a complete clearing of skin lesions was obtained at
+4 weeks, still maintaining when CyA was tapered at lower
+dosage for further 4 weeks. The ASST performed at T1
+and at the end of CyA therapy (T2) was negative in all
+patients.
+
+Discussion
+
+Involvement of functional autoantibodies against the
+high-affinity IgE receptor (FceRI) of dermal mast cells
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASST CU
+CD63 Positive Negative Total
+>15 21 4 25
+<15 1 38 39
+Total 2 2 64
++ + ++ + + we
+”
+~ o
+A 7
+Z o
+Qa A
+o Ss :
+=) x
+FS 0.4 Pa
+2 af
+2 037 co
+‘2 0 acne 5
+5 oo Fa No discrimination
+a e —#—Serum-induced CD63
+0.1 wt
+a
+0 ; ' : : 1
+0 0.2 0.4 0.6 0.8 1
+
+1-Specificity (false positives)
+
+Figure 3. Diagnostic performance of the serum-induced CD63
+expression assay was established by a receiver operating characteristic (ROC) curve stratifying chronic urticaria (CU) patients
+according to the autologous serum skin test (ASST) response;
+at the calculated cut-off of 15%, the assay provided the best
+discrimination between ASST+ and ASST- CU patients
+(P < 0.0001) regarding optimal values of sensitivity (95%) and
+specificity (91%). In the table is reported the relative number of
+ASST + and ASST- CU patients whose serum activity was above
+or below the cut-off value of CD63 expression.
+CD63 expression (%)
+
+ 
+
+CyA treatment
+
+Figure 4. Serum induced CD63 expression is significantly
+reduced in three patients treated with short-term CyA at T1 with
+respect to the beginning of the therapy (T0; P = 0.02), further
+decreasing at the end of the treatment (T2; P < 0.01). Percentage values of single determination of CD63 at TO, Tl and T2
+are reported for each patient.
+
+and basophils has been largely documented (2, 5-7) and
+the term of AICU now identifies a subset of patients in
+which these autoantibodies are the cause of the lesions, as
+suggested by a positive in vivo response to intradermal
+injection of autologous serum (3, 4). Although numerous
+attempts have been made to devise specific and sensitive
+in vitro tests for AICU, including enzyme-linked immunosorbent assay and other immunobinding assays (6, 7,
+11), the current gold standard laboratory test is the
+demonstration and measurement of histamine release
+from target basophils or dermal mast cells (4, 9). It is well
+known that basophils activation can be detected by flow
+cytometric measurement of CD63, a tetraspan granule
+protein that appears de novo on basophils membrane after
+degranulation (14); in resting basophils, CD63 is anchored in basophilic intracytoplasmic granules and, as a
+consequence of cell degranulation, it is expressed with a
+high density on activated basophils and mirrors mediators
+release (15-17). Two previous studies by Wedi et al. (18)
+and Gyimesi et al. (19) based on different laboratory
+approach demonstrated that sera of a subset of CU
+patients with positive ASST are able to induce CD63
+expression on atopic donors basophil when identified with
+a two-colour flow cytometric method using anti-IgE and
+anti-CD63 MoAbs. On the basis of these interesting data,
+the goal of our study was to standardize the CU seruminduced CD63 expression assay on a large series of
+patients by means of a new tricolour flow cytometric
+method which allows to accurately quantify activated
+CD63 + cells on a selected population of CD123+ HLADR- basophils from whole blood, without IL-3 pretreatment (22, 23). Applying this method for the first time in a
+large series of CU patients, our results demonstrated that
+
+ 
+
+In vitro diagnosis of chronic urticaria
+
+(i) sera from ASST+ CU patients are able to induce
+CD63 expression on donors basophil in a significant
+higher manner when compared with ASST- CU patients
+and healthy donors sera, (ii) ASST+ CU serum activity
+on CD63 expression was significantly enhanced when
+basophils from an atopic sensitized donor were used, (iii)
+according to the ROC-generated cut-off value of 15%, the
+sensitivity and specificity of the serum-induced CD63
+expression assay was 95.5% and 90.5% respectively, (iv)
+ASST+ CU serum induced CD63+ basophils from Da
+are significantly decreased below the cut-off during CyA
+treatment, in parallel with the complete clearing of skin
+lesions and the reduced ASST response. Wedi et al. (18),
+using whole blood primed with IL-3, demonstrated
+serum-induced CD63 expression in 70% of ASST + CU
+patients, as well as in 45% of ASST- CU and in 35% of
+control subjects (both atopic and nonatopic), thus concluding that CU serum activity inducing CD63 expression
+cannot be regarded as a diagnostic marker of CU.
+Gyimesi et al. proposed a modified protocol of CU
+serum-induced CD63 expression assay using dextransedimented washed leucocytes from highly sensitized
+atopic donors, thus avoiding preliminary priming with
+IL-3. With this method they reported higher values of
+sensitivity and specificity in respect to Wedi et al.,
+documenting CD63 expression in 91% of ASST+ CU
+patients and in 17% of ASST- CU patients, with no
+induction of CD63 in both healthy and disease control
+groups (19). On one hand, our results confirm, in
+agreement with Gyimesi et al., that ASST+ CU sera are
+able to significantly induce CD63 expression on basophils,
+in contrast to ASST-— CU and healthy donors sera. On the
+other hand, using a model consisting of whole blood
+without IL-3 pretreatment and a different strategy of
+basophils identification, we statistically found values of
+sensitivity and specificity of the serum-induced CD63
+assay higher than those observed in the previous studies.
+We believe that the improved diagnostic performance may
+be due especially to the new tricolour flow cytometric
+method used in our study which allows an high basophil
+recovery even in whole blood. Indeed, the identification of
+basophils using prior protocols relied on a single IgElabelling, although it is known that FceRI expression can
+vary considerably on cell surfaces from one subject to
+another (24). CD123, costitutively expressed at high
+density on basophils, is known to be a useful marker for
+basophil identification, as its expression is less variable
+than surface IgE and is independent of the allergy status
+of the donor (20, 23). With a double gating strategy of
+basophil phenotyping which isolate low side scatter,
+CD123+ HLA-DR- cells, the expression of CD63 can
+be easily and accurately quantify in this selected population. The higher sensitivity of this method could also
+explain the ASST+ CU serum activity in inducing CD63
+expression also on Dna basophils, although the use of Da
+whole blood is highly recommended to obtain a better
+results in terms of the magnitude of the serum challenge.
+
+ 
+
+1075
+Frezzolini et al.
+
+Taking in mind the crucial need for inter-laboratory
+standardization in clinical decision-making, we suggest
+that the easy recognition of basophils in whole blood
+and the reliable assessment of their activation by means
+of this tricolour FCM protocol could be the most useful
+tool for in vitro identification of a subset of patients with
+CU of possible autoimmune origin in which a third line
+therapy with immunomodulatory drugs could be contemplated (1, 2, 4). As regard, cyclosporine has been
+successfully employed in randomized controlled trials
+involving severe, unremitting AICU (25, 26) and its
+effectiveness may be attributed to the ability to inhibit
+basophil and mast cell degranulation as well as T-cell
+dependent antibody formation by B cells (25, 27-29). In
+our study we provide the first evidence that, in severe
+ASST+ CU patients who underwent short-term CyA
+treatment, serum-induced CD63 expression is signifi
+cantly reduced during therapy, in accordance to clinical
+remission and ASST response, suggesting that the assay
+may also become a promising tool for monitoring the
+effectiveness of immunomodulatory drugs in AICU.
+Recently, the presence of a histamine-releasing factor
+specific for mast cells and not active on basophils, other
+than an anti-FceRI or anti-IgE autoantibody, has been
+documented by Sabroe et al. (6) in a small subset of CU
+patients with positive ASST (about 9%) and, in these
+cases, a negative serum-induced basophil activation test
+result should be expected. Furthermore, although many
+functional and structural similarities between basophils
+and mast cells exist, a FCM detection system using mast
+cell lines and/or chimeric cell lines expressing the human
+FceRI may be validated in the future for a larger
+screening of CU sera with both basophil and mast cells
+activating properties.
+
+References
+
+1. Kozel MM, Sabroe RA. Chronic urtic- 8. Tong LJ, Balakrishnan G, Kochan JP, 16. Crockard AD, Ennis M. Laboratoryaria: aetiology, management and current Kinet JP, Kaplan AP. Assessment of based allergy diagnosis: should we go
+and future treatment options. Drugs autoimmunity in patients with chronic with the flow? Clin Exp Allergy
+2004;64:25 15-2536. urticaria. J Allergy Clin Immunol 2001;31:975-977.
+
+2. Kaplan AP. Chronic urticaria: patho- 1997;99:461—465. 17. Ebo DG, Hagendorens MM, Bridts CH,
+genesis and treatment. J Allergy Clin 9. Ferrer M, Kinet JP, Kaplan A. Com- Schuerwegh AJ, De Clerck LS, Stevens
+Immunol 2004;114:465-474. parative studies of functional and bind- WJ. In vitro allergy diagnosis: should we
+
+3. Sabroe RA, Grattan CE, Francis DM, ing assays for IgG anti-Fe (epsilon) RI follow the flow? Clin Exp Allergy
+Barr RM, Kobza Black A, Greaves MW. alpha (alpha subunit) in chronic urtic- 2004;34:332-339.
+
+The autologous serum skin test: a aria. J Allergy Clin Immunol 18. Wedi B, Novacovic V, Koerner M, Kapp
+screening test for autoantibodies in 1998;101:672-676. A. Chronic urticaria serum induces hischronic idiopathic urticaria. Br J Der- 10. Kikuchi Y, Kaplan AP. Mechanisms of tamine release, leukotriene production,
+
+matol 1999;140:446-452. autoimmune activation of basophils in and basophil CD63 surface expression—
+
+4. Grattan CE. Autoimmune urticaria. chronic urticaria. J Allergy Clin Immu- inhibitory effects of anti-inflammatory
+Immunol Allergy Clin North Am nol 2001;107:1056-1062. drugs. J Allergy Clin Immunol
+2004;24:163-181. 11. Zuberbier T, Henz BM, Fiebiger E, 2000;105:552—560.
+
+5. Hide M, Francis DM, Grattan CE, Maurer D, Stingl G. Anti-FcepsilonRI- 19. Gyimesi E, Sipka S, Danko K, Kiss E,
+Hakimi J, Kochan JP, Greaves MW. alpha serum autoantibodies in different Hidvegi B, Gal M et al. Basophil CD63
+Autoantibodies against the high-affinity subtypes of urticaria. Allergy expression assay on highly sensitized
+IgE receptor as a cause of histamine re- 2000;55:95 1-954. atopic donor leucocytes — a useful
+lease in chronic urticaria. N Engl J Med 12. Schroeder JT, MacGlashan DW Jr, method in chronic autoimmune urtic1993;328:1599-1604. Lichtenstein LM. Human basophils: aria. Br J Dermatol 2004;151:388-396.
+
+6. Sabroe RA, Fiebiger E, Francis DM, mediator release and cytokine produc- 20. Moretti S, Lanza F, Dabusti M, Tieghi
+Maurer D, Seed PT, Grattan CE et al. tion. Adv Immunol 2001;77:93-122. A, Campioni D, Dominici M et al.
+Classification of anti-FcepsilonRI and 13. Falcone FH, Haas H, Gibbs BF. The CD123 (interleukin 3 receptor alpha
+anti-IgE autoantibodies in chronic idio- human basophil: a new appreciation of chain). J Biol Regul Homeost Agents
+pathic urticaria and correlation with its role in immune responses. Blood 2001;15:98-100.
+disease severity. J Allergy Clin Immunol 2000;96:4028-4038. 21. Olweus J, BitMansour A, Warnke R,
+2002;110:492-499. 14. Knol EF, Mul FP, Jansen H, Calafat J, Thompson PA, Carballido J, Picker LJ
+
+7. Fiebiger E, Hammerschmid F, Stingl G, Roos D. Monitoring human basophil et al. Dendritic cell ontogeny: a human
+Maurer D. Anti-FcepsilonRIalpha activation via CD63 monoclonal anti- dendritic cell lineage of myeloid origin.
+autoantibodies in autoimmune-mediated body 435. J Allergy Clin Immunol Proc Natl Acad Sci USA 1997;94:12551—
+disorders. Identification of a structure- 1991;88:328-338. 12556.
+function relationship. J Clin Invest 15. Sainte-Laudy J, Sabbah A, Vallon C, 22. Heinemann A, Hartnell A, Stubbs VE,
+
+1998;101:243-251.
+
+1076
+
+Guerin JC. Analysis of anti-IgE and
+allergen induced human basophil activation by flow cytometry. Comparison
+with histamine release. Inflamm Res
+1998;47:401—408.
+
+Murakami K, Soler D, LaRosa G et al.
+Basophil responses to chemokines are
+regulated by both sequential and
+cooperative receptor signaling. J Immunol 2000;165:7224-7233.
+23.
+
+24.
+
+25.
+
+Varro R, Chen C-H. A no-wash 3-color
+basophil degranulation assay using the
+CD123+ HLA DR-phenotype for
+basophil classification. Cytometry
+2000;10:S116.
+
+Kinet JP. The high-affinity IgE receptor
+(Fe eRI): from physiology to pathology.
+Annu Rev Immunol 1999;17:93 1-972.
+Grattan CE, ODonnell BF, Francis DM,
+Niimi N, Barlow RJ, Seed PT et al.
+Randomized double-blind study of
+cyclosporin in chronic ‘idiopathic’
+urticaria. Br J Dermatol 2000;143:
+365-372.
+
+26.
+
+27.
+
+Di Gioacchino M, Di Stefano F,
+Cavallucci E, Verna N, Ramondo S,
+Paolini F et al. Treatment of chronic
+idiopathic urticaria and positive autologous serum skin test with cyclosporine:
+clinical and immunological evaluation.
+Allergy Asthma Proc 2003;24:285-290.
+Plath KE, Grabbe J, Gibbs BF. Calcineurin antagonists differentially affect
+mediator secretion, p38 mitogen-activated protein kinase and extracellular
+signal-regulated kinases from immunologically activated human basophils.
+Clin Exp Allergy 2003;33:342-350.
+
+In vitro diagnosis of chronic urticaria
+
+28. Marsland AM, Soundararajan S, Joseph
+
+K, Kaplan AP. Effects of calcineurin
+inhibitors on an in vitro assay for chronic urticaria. Clin Exp Allergy
+2005;35:554—-559.
+
+29. Stellato C, de Paulis A, Ciccarelli A,
+
+Cirillo R, Patella V, Casolaro V et al.
+Anti-inflammatory effect of cyclosporin
+A on human skin mast cells. J Invest
+Dermatol 1992:98:800-804.
+
+1077
+

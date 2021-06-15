@@ -1,0 +1,1133 @@
+doi:10.1684/ejd.2017.3085
+
+Review
+
+Marta FERRER!
+
+Isabelle BOCCON-GIBOD?
+Margarida GONCALO*
+Hiiseyin Serhat INALOZ4
+André KNULST®
+
+Hilde LAPEERE®
+
+Anchala PARTHASARADHI!’
+Georg STINGL®
+
+Anna TAGKA?®
+
+Fernando VALENZUELA”
+Jensen YEUNG"!
+
+Simon Francis THOMSEN”
+
+! Department of Allergy and Clinical
+Immunology,
+
+Clinica Universidad de Navarra,
+Pamplona, Spain
+
+? Clinique Universitaire de Médecine
+Interne CHU de Grenoble,
+
+Grenoble, France
+
+3 Clinic of Dermatology,
+
+University Hospital and Faculty of
+Medicine,
+
+University of Coimbra, Coimbra, Portugal
+4 Department of Dermatology and
+Venereology,
+
+University of Gaziantep,
+
+Gaziantep, Turkey
+
+> Department of Dermatology/Allergology,
+University Medical Center Utrecht,
+Utrecht, The Netherlands
+
+© Department of Dermatology,
+
+UZ Gent, Gent, Belgium
+
+7 Anchala’s Skin Institute,
+
+Hyderabad, India
+
+8 Department of Dermatology,
+
+Medical University of Vienna,
+
+Vienna, Austria
+
+° 15 Dermatology University Clinic,
+Andreas Syggros Hospital,
+
+Athens, Greece
+
+!0 Department of Dermatology,
+University of Chile,
+
+Santiago, Chile
+
+'! Division of Dermatology,
+
+Women’s College Hospital, Toronto,
+Canada; University of Toronto, Toronto,
+Canada
+
+'? Department of Dermatology,
+Bispebjerg Hospital & Department of
+Biomedical Sciences,
+
+University of Copenhagen, Copenhagen,
+Denmark
+
+Reprints: S. F. Thomsen
+<simonfrancisthomsen @ gmail.com>
+
+Article accepted on 09/05/2017
+
+Eur J Dermatol 2017; 27(5): 455-63
+
+Expert opinion: defining response to omalizumab
+in patients with chronic spontaneous urticaria
+
+Omalizumab (a recombinant, humanized anti-immunoglobulin-E antibody) has been shown in three pivotal Phase III trials (ASTERIA I, II
+and GLACIAL) and real-world studies to be effective and well-tolerated
+for the treatment of chronic spontaneous urticaria (CSU), and is the
+only licensed third-line treatment for CSU. However, the definition of
+response to omalizumab treatment often differs between clinical trials,
+real-world studies, and daily practice of individual physicians globally.
+As such, a consensus definition of “complete”, “partial” and “nonresponse” to omalizumab is required in order to harmonize treatment
+management and compare data. Here, it is proposed that a disease measurement tool, for example, the 7-Day Urticaria Activity Score (UAS7)
+or Urticaria Control Test (UCT) is required for defining response. The
+addition of quality of life measurements is helpful to gain insight into
+a patient’s disease burden and its changes during treatment. A potential
+omalizumab treatment approach based on speed and pattern of response
+at 1-3 and 3-6 months is suggested. In cases where there is no response
+during the first 1-3 months, physicians should consider reassessing the
+original CSU diagnosis. Moreover, in patients showing partial response
+at 12 weeks, treatment with omalizumab should be continued in order
+to maximize the possibility of achieving symptom control. If patients
+have a UAS7>6 and/or UCT <12, then continued treatment is advised,
+dependent on physician judgement and patient expectations. In treatment
+responders, omalizumab treatment can be resumed at a later stage after
+discontinuation with the same degree of symptom control.
+
+Key words: chronic spontaneous urticaria, complete response, partial
+response, H-antihistamines, omalizumab
+
+the spontaneous occurrence of wheals (hives),
+
+angioedema, or both, lasting for six weeks or more
+with no known specific trigger [1]. Hives are characterized
+by a central swelling of variable size, usually surrounded
+by a reflex erythema, and are typically associated with
+intense itching. Angioedema is identified as a sudden, pronounced swelling of the lower dermis and subcutaneous
+tissue, commonly with mucous membrane involvement. It
+is often accompanied by pain or burning rather than itch
+C hronic spontaneous urticaria (CSU) is defined as
+
+EJD, vol. 27, n° 5, September-October 2017
+
+ing [1]. As well as the clinical burden associated with the
+signs and symptoms of hives and angioedema, CSU impacts
+many other facets of patients’ daily lives. Indeed, factors
+such as the unpredictability of attacks, social isolation, and
+reduced sleep quality due to itching and associated fatigue
+all contribute to a diminished quality of life (QoL) [2-4].
+Moreover, CSU bears a socioeconomic burden due to direct
+(medication, healthcare visits) and indirect (reduced work
+productivity, increased work absenteeism) healthcare costs
+(2, 5].
+
+we 455
+
+ 
+
+ 
+
+To cite this article: Ferrer M, Boccon-Gibod I, Gongalo M, Inaléz HS, Knulst A, Lapeere H, Parthasaradhi A, Sting] G, Tagka A, Valenzuela F, Yeung J, Thomsen SF.
+Expert opinion: defining response to omalizumab in patients with chronic spontaneous urticaria. Eur J Dermatol 2017; 27(5): 455-63 doi:10.1684/ejd.2017.3085
+
+ 
+
+ 
+
+ 
+ 
+
+The EAACI/GA?LEN/EDF/WAO international urticaria
+guidelines recommend second-generation Hj -antihistamines, at licensed doses, as first-line treatment for CSU, and
+in those patients not responding to therapy, at up to four
+times the licensed dose as second-line treatment [1]. However, licensed doses of Hj-antihistamines lead to absence
+of symptoms in fewer than 50% of patients with CSU
+[1, 2, 6-8], and up-dosing can increase the efficacy of H)antihistamines in some, but not all patients [6, 7, 9-12].
+A recent systematic review and meta-analysis regarding
+up-dosing of non-sedating antihistamines in patients with
+CSU found the proportion who responded to antihistamine
+up-dosing was 63.2%, with 38% of patients responding to
+licensed doses. Moreover, the authors found that up-dosing
+appears to lead to a significant improvement in the itch control component of CSU, but not the number of hives [12]. In
+cases where patients do not respond adequately to increased
+doses of H,-antihistamines, the international urticaria
+guidelines recommend either omalizumab, ciclosporin, or
+montelukast as third-line add-on treatment [1].
+Omalizumab is a_ recombinant, humanized  antiimmunoglobulin (Ig)-E antibody, approved as add-on
+therapy for the treatment of CSU in adults and adolescent
+(12 years and above) patients with inadequate response
+to Hj,-antihistamine treatment [13, 14]. Omalizumab is
+the only licensed treatment for use as third-line therapy
+or CSU. By binding to free IgE, omalizumab prevents
+it from binding to high-affinity receptors (FceRI). This
+ultimately reduces the signs and symptoms of urticaria
+15]. Notably, it is likely that omalizumab achieves its
+therapeutic effects through various different pathways
+16, 17], and as such its mechanism of action in CSU has
+yet to be fully elucidated. Approval of omalizumab as
+third-line treatment for CSU was based on the results of
+three Phase III, multicentre, randomized, double-blind,
+placebo-controlled studies, namely ASTERIA I, ASTERIA IL, and GLACIAL [18-20]. Together, these pivotal
+trials demonstrated that omalizumab, at 300 mg, provided
+significant and sustained improvement versus placebo
+or the symptoms of CSU with an inadequate response
+to Hj-antihistamine treatment. Omalizumab treatment
+resulted in a significantly reduced weekly Itch Severity
+Score (ISS) between baseline and Week 12 (ASTERIA I,
+ASTERIA II and GLACIAL) and baseline and Week 24
+(ASTERIA I and GLACIAL). Moreover, no new safety
+concerns were raised with omalizumab in this patient
+population relative to its known safety profile for allergic
+asthma [15, 18-20].
+The licensed dose of omalizumab is 300 mg in the EU and
+either 150 or 300 mg in the US [13], by subcutaneous injection every four weeks. Some reports have shown examples
+of the optimization of omalizumab treatment in patients
+who show inadequate response by increasing the dose or
+decreasing the dosing intervals [21, 22]. There is currently
+no internationally agreed algorithm for the individualized
+management of omalizumab treatment, although a Danish
+algorithm was published in 2014, which was dependent on
+the 7-Day Urticaria Activity Score (UAS7) [23]. In addition, in patients who respond to omalizumab treatment, a
+consensus is needed on when and how to stop omalizumab.
+Moreover, there is no agreement on the definition of a nonresponder and when to admit this status and consider other
+treatment options.
+
+ 
+
+ 
+
+456
+
+The Urticaria Activity Score (UAS) is a validated measure for assessing urticaria activity in patients with CSU
+[24]. EAACI/GA2LEN/EDF/WAO international urticaria
+guidelines recommend evaluation of disease activity and
+response to treatment in routine clinical practice using the
+UAS7 (the sum of the UAS over seven consecutive days)
+[1]. However, differences exist with regard to how CSU
+treatment response is measured and defined in both clinical
+trials and real-world clinical practice [18, 20, 25-32]. This
+lack of consensus on the definition of response to treatment
+potentially impacts perceived treatment efficacy, as well as
+patient satisfaction and subsequent compliance with therapy. Improved characterization of response to treatments
+such as omalizumab may help healthcare providers to better
+convey realistic expectations of the likelihood of a response
+to treatment at different time points [33].
+
+A meeting of 12 chronic urticaria expert physicians was
+convened on 8" October 2015 in Copenhagen, Denmark,
+with the following objectives: (1) to reach a consensus on
+how response to treatment should be measured in clinical trials and real-world clinical practice; (2) to develop
+definitions of response and non-response to treatment in
+patients with CSU; and (3) to gain insight into the characteristics of responders and non-responders (or response
+patterns) to omalizumab and the practical implications of
+response and non-response, as well as different response
+patterns. The aim of this article is to provide a summary
+of key discussion points from the meeting regarding definitions of treatment response, modes of response/response
+patterns, factors affecting response, and a potential omalizumab treatment approach based on response patterns.
+
+Definitions of response
+
+Given variations in the definition of response to treatment
+in CSU among physicians globally, it was agreed that there
+is a need for clarity regarding how “complete”, “partial”
+and “non-response” are defined. It should be noted, however, that the differing expert definitions of response broadly
+align on the same ultimate goal of complete control of
+urticaria signs and symptoms as rapidly and as safely as possible. A disease measurement tool is required when defining
+treatment response, supplemented by a patient-orientated
+measure (including patient expectations and QoL, such
+as the Chronic Urticaria Quality of Life questionnaire
+[CU-Q20L] or Dermatology Life Quality Index [DLQI]).
+Further, UAS7 should be assessed every week during omalizumab treatment. This is particularly important during the
+first 12 weeks, when it would be possible to define a slow,
+fast, or partial response pattern (figure 1). Once the responder profile is defined, we believe that the UAS7 should
+be measured again the week before receiving omalizumab.
+Likewise, the Angioedema Activity Score (AAS) should
+be recorded for four consecutive weeks. This is important
+since patients suffering from CSU could have days with
+severe urticarial lesions, without swelling, and vice versa.
+
+The UAS7 provides a validated composite of the ISS and
+number of hives score over a period of seven days (score
+ranges from 0 to 42), providing semi-quantitative information on disease activity between clinic visits [34]. A UAS7
+
+EJD, vol. 27, n° 5, September-October 2017
+ 
+
+1.0
+09
+08
+07
+
+ASTERIA I UAS7s6
+
+ 
+
+ 
+
+— PBO (n= 80)
+
+OMA 75 mg (n= 77)
+—— OMA 150 mg (n = 80)
+— OMA 300 mg (n= 81)
+
+ 
+
+ 
+
+ASTERIA I UAS7=0
+
+1.05
+09 J
+08 4
+07 4
+
+ 
+
+ 
+
+— PBO (n=80)
+
+OMA 75 mg (n= 77)
+— OMA 150 mg (n= 80)
+— OMA 300 mg (n= 81)
+
+ 
+
+ 
+
+ 
+
+0.6
+05
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pi
+g
+2 4
+2 03
+B02
+£
+= o1
+0
+0 2 4 6 8 0 2 4 6 18 2 2 24
+Time to first response (weeks)
+No at isk
+PBO o 9 3 8 & 8 0 9 %6 8 8 ©
+OMAISmg 77 7 8% THB
+4a 8 7 2 © 97 M 8 Mo OM
+4 9 8 3% Mo 7 2 2% 2 2 Ww 6
+GLACIAL UAS7s6
+10 — PBO (n= 83)
+
+ 
+
+ 
+
+09 — OMA 300 mg (n = 252)
+
+08
+07
+0.6
+0s
+04
+03
+02
+o1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Proportion achieving response
+
+ 
+
+ 
+
+Time to first response (weeks)
+
+No. at risk
+PBO 83 83 81872 TSC
+OMA300mg 252.227 «183.133, 9H— BST TST.
+
+ 
+
+06 4
+os 4
+o4 4
+
+ 
+
+ 
+
+ 
+
+Proportion achieving response
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time to first response (weeks)
+
+No. at risk
+
+ 
+
+PBO 80 80 76S 72 GREG GHGS
+OMASmg 77 77 10 69 67 68 6s Gl SS SH 52 52 82
+OMA 150. mg 80073 «7 «62 85 SHR SRST
+OMA300mg 81 8164 5H 8S 8 TMS
+
+GLACIAL UAS7 = 0
+
+ 
+
+1.0 — PBO (n=83)
+— OMA 300 mg (n = 252)
+
+i
+
+06 1
+\
+
+04 ;
+7 i
+
+i
+
+i
+
+0.2
+i
+
+7 i
+
+0+ 7 T T T + i T T T i 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Proportion achieving response
+°
+
+ 
+
+ 
+
+ 
+
+Time to first response (weeks)
+
+No. at risk
+PBO Cr
+OMA300mg 252 252203183187 434123107103 10095
+
+ 
+
+ 
+
+Figure 1. Time to achieve first well-controlled (UAS7<6) or complete (UAS7 = 0) response in ASTERIA I and GLACIAL.
+Reproduced from Kaplan et al. [33]. CC BY-NC-ND 4.0. Copyright © 2015 The Authors. Published by Elsevier Inc. All rights
+
+reserved.
+
+of 0 indicates that the patient is itch- and hive-free, i.e. a
+complete response. A UAS7<6 has been proposed to reflect
+well-controlled disease. UAS7 ranging from 7-15, 16-27,
+and 28-42 are proposed to indicate mild, moderate, and
+severe disease activity, respectively. These cut-off values
+appear to efficiently describe CSU health states with regards
+to signs and symptoms of the disease [35]. However, across
+studies employing the UAS7 tool, response to treatment
+has been defined differently (table 1) [18, 20, 25-32]. Some
+studies have defined treatment response as a UAS7 of 0, to
+indicate absence of itch and hives [30], although this may
+be difficult to achieve in real-life clinical practice and may
+not make a clinical difference in terms of QoL compared
+to a UAS7 of 1-6. Furthermore, individuals without CU
+are likely to experience itch occasionally, therefore having
+UAS7>0, but no urticaria. As such, a UAS7<6 is proposed
+as a definition of CU treatment response.
+
+The UAS7 does not include a component relating to
+angioedema and it is thought that the rate of angioedema
+may be under-reported in clinical trials. More than 50%
+of patients with CSU have associated angioedema at baseline and the presence of angioedema has been shown to
+
+EJD, vol. 27, n° 5, September-October 2017
+
+impair QoL more than hives alone [36-39]. Omalizumab
+has been shown to be effective in treating CSU with associated angioedema. For example, a subgroup analysis of the
+Phase II] GLACIAL trial demonstrated that omalizumab
+treatment was associated with a reduction in angioedema
+compared with placebo [37]. Similarly, the X-ACT study in
+CSU patients with frequent angioedema, who had an inadequate response to Hj-antihistamines at increased doses,
+found that following omalizumab treatment, the number
+of angioedema burdened days was 14.6 days compared
+with 49.5 days in the placebo group [40]. Overall, therefore, a definition of treatment response that incorporates
+angioedema would be useful.
+
+The Urticaria Control Test (UCT) is a validated instrument
+designed to assess the level of disease control in patients
+with CU and thus aid treatment decisions [41, 42]. The test
+comprises four questions around how much patients have
+suffered from urticaria symptoms, how much symptoms
+have affected quality of life, how often treatment was not
+enough to control symptoms, and how well patients felt
+their urticaria was under control, over the past four weeks.
+The answer to each question is rated from 0 to 4, resulting
+
+wee 457
+
+ 
+m™ Sor
+
+LIOT 42q0120 -4aquiaydag ‘6 “LZ 104 ELA
+
+Table 1. Clinical trials and real-world study response data for omalizumab in patients with inadequately-controlled CSU [18, 20, 25-32].
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clinical trials Real-world studies
+X-CUISITE MYSTIQUE ASTERIA I+II GLACIAL  Labrador-Horillo Metz et al., Rottem et al., Sussman et al.,
+et al., 2013 [31] 2014 [28] 2014 [29] 2014 [30]
+Dose, mg 75-375 300 300 300 150 300 150-300 150-300 300 150 150
+Treatment 24 4 4 12 12 12 NS NS NS NS Various
+duration, weeks
+Definition of UAS7=0 90% UAS7T=0 UAS7<6 UAS7<6 UAS7<6 Clinical 90% Clinical Clinical Clinical
+response improvement judgement improvement in judgement judgement judgement
+in UAS7 UAS7, no
+antihistamines
+Responders, % 70 40 36 59 41 52, 82 83 71 36 69
+
+ 
+
+NS: not specified; UAS7: 7-day Urticaria Activity Score.
+
+ 
+ 
+
+if patient scores UAST>6*
+and/or UCT<12*, continued
+treatment is required®
+
+CSU disease activity
+
+ 
+
+Slow
+responders
+
+Fast
+responders
+
+T T + T T ad
+
+ 
+
+ 
+
+4 5 6 J 8 9
+Time (months)
+
+ 
+
+ 
+
+Figure 2. Recommended treatment for complete, partial or non-responders to omalizumab: (a) during the first 1-3 months of
+treatment, it is important to define the response profile of the patient; (b) if no response during the first 1-3 months, consider
+reassessing the diagnosis e.g. autoinflammation/autoimmunity; (c) if there is a partial response during the first 1-3 months,
+consider optimizing dose/dosing intervals/both; (d) in patients with an early “flare-up” before the end of the four-week dosing
+period, consider shortening the dosing intervals; (e) if partial response for 3-6 months, consider reassessing the diagnosis (if no
+reassessment occurred at 1-3 months); (f) if complete response has been present for 3-6 months, consider tapering or discontinuing
+to assess for spontaneous remission.*The presence or absence of angioedema should also be considered using AAS. { Also
+dependent on physician judgement and patient expectations based on previous disease activity.
+
+in a total score ranging from 0 to 16. A UCT score of 0
+indicates “no disease control”, a score of <11 indicates poor
+disease control, and a score of > 12 points to well-controlled
+CU. The highest possible score of 16 represents complete
+disease control [41, 42]. It should also be noted that the UCT
+score comprises pruritus, wheals, and/or angioedema.
+
+The DLQI is a validated patient questionnaire for evaluating health-related QoL (HR-QoL) in patients with a variety
+of skin conditions, including CSU. The DLQI consists of
+10 questions across six domains: symptoms and feelings,
+daily activities, leisure, work and school, personal relationships, and treatment. Impact of CSU on each factor is scored
+from 0 (not at all) to 3 (very much) and scores are totalled
+to give an overall DLQI score from 0-30. The minimum
+index scoring, from 0 to 1, corresponds to no effect at all
+on the patient’s life and the maximum, from 21 to 30, to an
+extremely large effect on the patient’s life [43-45].
+
+The validated CU-Q20L was specifically designed for
+the assessment of HR-QoL in CU, including the physical, psychosocial, and practical aspects of this condition.
+Twenty-three questions cover six key CSU-specific
+domains: itch, swelling, impact on life activities, sleep problems, “looks”, and limits. The overall score ranges from
+0-100 with a higher score indicating greater impairment in
+HR-QoL [46].
+
+In addition to using validated instruments, many physicians
+will base their definitions of treatment response on prior
+experience and clinical judgement. Some physicians may
+augment this by using real-life-orientated measures, such as
+the Physician’s Global Assessment (PGA). Ina recent retrospective analysis that evaluated the outcome of omalizumab
+treatment in 154 patients with CU, treatment response was
+graded according to a modified PGA, whereby complete or
+almost complete response corresponded to >90% reduction
+in symptoms, partial response to a reduction of between
+30% and 89%, and no or limited response to a reduction of
+<30% [47].
+
+ 
+
+EJD, vol. 27, n° 5, September-October 2017
+
+We believe it would be valuable to conduct a responder
+analysis that separates response defined by ISS and number of hives (the individual components of UAS7), UAS7,
+and a QoL index, such as CU-Q20L or DLQI, in order to
+better define treatment response in patients with CSU. A
+similar analysis for the four items of the UCT would also
+be helpful in this regard. Furthermore, since the presence
+of angioedema is often under-reported in clinical trials, it
+would be worth considering the addition of one line to the
+UAS7 to report the occurrence of angioedema. This could
+be a score of 0 (no angioedema in the previous 24 hours)
+or 1 (patient experienced angioedema in the previous 24
+hours) that would be considered in addition to the patient’s
+total UAS7. Such an approach would of course require
+further study for the purposes of validation. Alternatively,
+AAS should be used as a validated measure of angioedema
+activity [48].
+
+Modes of response/response patterns
+
+A recent publication provided more insights into data from
+the three pivotal clinical trials of omalizumab in 975 patients
+with CSU [33]. Patients were randomized to either placebo
+or omalizumab (75, 150 or 300 mg in ASTERIA I [n = 318;
+24 weeks] and ASTERIA II [n = 322; 12 weeks]), or 300 mg
+in GLACIAL [n = 335; 24 weeks). Response was defined as
+well-controlled urticaria (UAS7<6) or complete response
+(UAS7 = 0). Results of the analysis showed that omalizumab at 300 mg over six months was associated with
+the highest response rates (both well-controlled and complete) (figure 2). Additionally, median times to achieve
+well-controlled urticaria with omalizumab at 300 mg were
+three weeks in ASTERIA II and six weeks in ASTERIA I
+and GLACIAL, compared with seven weeks in ASTERIA
+
+wee 459
+
+ 
+ 
+
+ILand 11 weeks in ASTERIA I with omalizumab at 150 mg
+[33].
+
+The authors of the analysis suggested that the timing of
+attaining well-controlled urticaria or a complete response
+indicated there were potentially two categories of responder
+to omalizumab, i.e. “fast responders” (within Weeks 4-6)
+and those who required more than three doses to respond
+(“slow responders’’). The finding that some patients with
+CSU responded to omalizumab treatment early while others
+took longer to achieve a response (Weeks 12-16) suggests
+that stopping treatment before three months may be too
+early and potentially misses an opportunity to control CSU
+symptoms in those patients who take longer to respond [33].
+In the real-world setting, similar response rates with omalizumab treatment are observed across studies despite
+differences in definitions of response (table 1). Furthermore, the response rates achieved in these real-world studies
+are generally better than those seen in clinical trials.
+
+Factors affecting response
+
+The ability to predict response to omalizumab treatment for
+CSU would be highly beneficial since this would aid treatment decisions in clinical practice. In a recent retrospective
+study, a number of factors were found to be associated
+with an improved response to omalizumab [47]. Notably,
+CSU was associated with a higher proportion of complete or almost complete responders compared with chronic
+inducible urticaria, as assessed by PGA grading (67.4% vs
+52.9%, respectively). Furthermore, among the patients with
+CSU, a greater proportion of complete/almost complete
+responders: had a negative histamine release test (77.3%
+vs 27.3%; odds ratio [OR]: 9.07; p<0.001); did not have
+angioedema (72.3% vs 56.1%; OR: 2.05; p = 0.066); and
+had no prior history of treatment with systemic immunosuppressants (71.4% vs 56.8%; OR: 1.91; p =0.105). Moreover,
+there was a tendency for improved treatment response with
+older age at onset and a shorter disease duration [47].
+With regards to a potential biomarker for predicting patient
+response to omalizumab treatment, a lack of basophil
+CD203c-upregulating activity in the serum of patients with
+CU has been found to correlate with clinical response to
+omalizumab [49]. In a retrospective study of 41 patients
+with CU with inadequate response to H,-antihistamines,
+CD203c-upregulating activity was present in 18 patients.
+Of these, nine patients (50%) demonstrated improvement
+with omalizumab treatment. In the 23 patients with no
+CD203c-upregulating activity, 20 (87%) had a response to
+omalizumab treatment [49]. Recently, Gericke et al. [50]
+found that basophil histamine release induced by CSU sera
+seems to correlate with a slow response to omalizumab, and
+may represent a future biomarker. Although this remains
+to be confirmed in larger, prospective studies, a lack of
+basophil CD203c-upregulating activity may be a clinically
+useful biomarker of response to omalizumab treatment in
+patients with CU. At present, there is insufficient evidence
+regarding which biomarkers may be predictive of response
+to omalizumab treatment.
+
+According to Metz et al., the majority of patients with
+CSU showing a complete response to omalizumab treatment suffer a relapse (reoccurrence of symptoms) within
+2-8 weeks of receiving their last omalizumab injection
+
+460
+
+[51]. In this retrospective analysis, there was evidence that
+re-treatment with omalizumab is effective in this patient
+population [51]. Overall, 100% (n = 25) of patients achieved
+a complete response, defined as >90% improvement in
+UAS7, to omalizumab retreatment (doses ranged from 150
+to 600 mg/month, in 2- to 4-week intervals). This finding
+is important because relapse following treatment discontinuation was seen in the Phase III clinical trials and
+commonly occurs in real-world clinical practice. Similar
+results regarding response to omalizumab re-treatment have
+been observed by Labrador-Horrillo and colleagues [31]
+and by Ghazanfar and colleagues [47]. Any algorithm for
+the management of omalizumab treatment would have to
+take relapse and re-treatment into account.
+
+Assessing non-response/recommended
+treatment algorithm
+
+In our opinion, patients should be treated for at least six
+months, before concluding that they are a non-responder to
+omalizumab treatment. As noted in the analysis by Kaplan
+et al., timing of response to omalizumab may vary, with
+some patients being fast responders (within 4-6 weeks) and
+others taking longer to start to respond (Weeks 12-16) [33].
+Based on these observations, it would seem reasonable to
+suggest that treatment with omalizumab at 300 mg should
+be continued in patients showing limited response at 12
+weeks in order to maximize the possibility of achieving
+symptom control.
+
+A complete response could be achieved in patients with
+CSU who are partial responders to third-line omalizumab
+by individualizing the treatment regimen, e.g. increasing
+the dose of omalizumab or reducing the dosing interval. In
+this regard, different treatment regimens may be required
+for the different types of omalizumab responder, i.e. fast,
+slow, or any other responder subgroups identified. Our proposed potential approach for omalizumab management for
+complete, partial and non-responders to treatment is shown
+in figure 2.
+
+Prior to starting omalizumab treatment, it is important
+to exclude certain differential diagnoses of CSU, for
+example urticarial vasculitis and urticarial eruptions in autoinflammatory syndromes. This should be completed as part
+of the guideline-recommended diagnostic algorithm [1].
+During the first 1-3 months of treatment with omalizumab,
+we believe that it is important to define the response profile
+of the patient. In cases where there is no response during
+the first 1-3 months, physicians should consider reassessing the original diagnosis before attempting up-dosing or
+continuing treatment with omalizumab. If a primary diagnosis of CSU is confirmed, omalizumab treatment should
+be continued at the same or higher dose as judged by the
+individual clinician, in line with patient expectations, and
+according to local guidelines. Where a partial response to
+treatment is seen, physicians should first ensure that the
+patient has not stopped taking his/her Hy-antihistamine
+treatment (occasionally, in our experience following initiation of omalizumab, when patients start to see a response
+they may decide that they no longer need to take antihistamines in addition to omalizumab). Following this,
+physicians should consider optimizing the omalizumab
+
+ 
+
+EJD, vol. 27, n° 5, September-October 2017
+dose or dosing intervals, or both. Patients’ variation in
+response between doses should also be taken into account.
+For example, some patients may experience a relapse of
+CSU symptoms towards the end of the four weeks between
+omalizumab doses. In this patient population, it may be
+useful to consider shortening omalizumab dosing intervals.
+After 3-6 months of treatment, in cases where a partial
+response is seen, physicians should consider reassessing
+the diagnosis (if the diagnosis has not previously been
+reassessed). As before, if a primary diagnosis of CSU is
+confirmed, omalizumab treatment should be continued and
+the individual clinician should judge whether to increase
+the dose. If a complete response has been present for 3-6
+months, we advise physicians to consider reducing the
+dose of omalizumab and/or increasing the dosing intervals,
+or discontinuing omalizumab to assess for spontaneous
+remission. Results from the ongoing Phase II] OPTIMA
+(Efficacy of Optimized Re-treatment and Step-up Therapy
+With Omalizumab in CSU Patients) study are expected to
+clarify optimal omalizumab dose [52].
+
+If there is no response to omalizumab after six months of
+treatment, we would advise considering the patient to be a
+non-responder, discontinuing omalizumab and considering
+an alternative treatment option.
+
+In treatment responders, omalizumab treatment can be
+resumed at a later stage after discontinuation with the same
+degree of symptom control [51]. A clear algorithm for when
+to restart treatment is needed. If patients have a UAS7>6
+and/or UCT <12 (indicating active disease and/or poor disease control) during follow-up, then continued treatment
+is advised. This is also dependent on physician judgement
+and the patient’s own expectations. For example, depending on their previous disease activity, some patients may be
+content to live with moderate CSU and their physician may
+propose to restart treatment when their UAS7 is >16. The
+presence or absence of angioedema should also be considered, as described previously when evaluating response and
+managing treatment.
+
+Key areas for future research
+
+Clinical trials and real-world studies that support the efficacy and safety of omalizumab treatment in patients with
+CSU with an inadequate response to H,-antihistamines
+continue to accumulate. Nevertheless, many important
+questions regarding the use of omalizumab remain to be
+answered in order to optimize treatment management and
+patient outcomes.
+
+In particular, further investigations into predictors of good
+outcome, optimal dose, and dosing intervals based on treatmentresponse to omalizumab in CSU are needed. We define
+outcome as an objective treatment effectiveness measurement. There is also an urgent need to clarify the options on
+how to treat non-responders. In addition, further studies
+to determine the optimal duration of therapy and longterm treatment effects, in terms of efficacy and remission
+rates and the safety/tolerability profile of omalizumab, are
+required, as well as studies to determine the best strategy
+for discontinuing omalizumab. Finally, it is important to
+harmonize patient/physician evaluation and definition of
+treatment response globally, across countries, for improved
+comparison of real-world data.
+
+EJD, vol. 27, n° 5, September-October 2017
+
+Acknowledgements. This review summarizes discussions
+from a meeting that took place in Copenhagen, Denmark
+in October 2015. The publication presents the views of the
+authors and not Novartis. Editorial assistance was provided
+by Sharon Smalley, David Steele, and Jane Blackburn, professional medical writers contracted to CircleScience, an
+Ashfield company, part of UDG Healthcare plc. Writing
+support was provided by Novartis Pharma AG.
+
+Disclosure. Financial support: This review is supported
+by Novartis Pharma AG, Basel, Switzerland. Conflict of
+interest: Marta Ferrer has received research support from
+Novartis; consultancy fees from FAES, Genentech, Inc, and
+Novartis; and lecture fees from MSD and Menarini. Isabelle
+Boccon-Gibod has received consultancy fees and honoraria from Novartis for participation in advisory boards
+and presentations, and financial contribution to research
+projects. Margarida Gongalo has received consultancy fees
+from Novartis and lecture fees from Janssen Pharmaceutica and Novartis. Hiiseyin Serhat Inaléz has received
+honoraria from Novartis, MSD, AbbVie, Pfizer, Eli Lilly,
+Roche, the Menarini Group, Deva, and Erkim. André Knulst
+has received payment from Novartis for participation in
+advisory boards, giving presentations, and financial contribution to research projects. Hilde Lapeere has received
+payment from Novartis for participation in advisory boards.
+Anna Tagka has received lecture fees from Novartis. Fernando Valenzuela has received payment from AbbVie, Eli
+Lilly, Janssen, Novartis, and Pfizer for participation in advisory boards and research projects. Jensen Yeung has beena
+speaker, consultant, and investigator for AbbVie, Allergan,
+Amgen, Astellas, Baxalta, Boehringer Ingelheim, Celgene,
+Centocor, Coherus, Dermira, Eli Lilly, Forward, Galderma,
+Janssen, Leo, Medimmune, Novartis, Pfizer, Regeneron,
+Roche, Takeda, Valeant, and Xenon. Simon Francis Thomsen has received research support, consultancy fees, and
+lecture fees from Novartis.
+
+Ee
+References
+
+1. Zuberbier 1, Aberer W, Asero R, et ail. The
+EAACI/GA2LEN/EDF/WAO Guideline for the definition, classification, diagnosis and management of urticaria. The 2013 revision
+and update. Allergy 2014; 69: 868-87.
+
+2. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs
+in chronic spontaneous urticaria. A GA?LEN task force report. Allergy
+2011; 66: 317-30.
+
+3. O'Donnell BF. Urticaria: impact on quality of life and economic
+cost. Immunol Allergy Clin North Am 2014; 34: 89-104.
+
+4. Staubach P, Dechene M, Metz M, et al. High prevalence of mental
+disorders and emotional distress in patients with chronic spontaneous
+urticaria. Acta Derm Venereol 2011;91: 557-61.
+
+5. Delong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual
+direct and indirect health care costs of chronic idiopathic urticaria:
+a cost analysis of 50 nonimmunosuppressed patients. Arch Dermatol
+2008; 144: 35-9.
+
+6. Asero R. Chronic unremitting urticaria: is the use of antihistamines
+above the licensed dose effective? A preliminary study of cetirizine at
+licensed and above-licensed doses. Clin Exp Dermatol 2007; 32: 34-8.
+7. Staevska M, Popov TA, Kralimarkova T, et al. The effectiveness of
+levocetirizine and desloratadine in up to 4 times conventional doses in
+difficult-to-treat urticaria. J Allergy Clin Immunol 2010; 125: 676-82.
+
+=_— 461
+
+ 
+ 
+
+8. Sharma M, Bennett C, Carter B, Cohen SN. H1-antihistamines
+for chronic spontaneous urticaria: an abridged Cochrane Systematic
+Review. J Am Acad Dermatol 2015; 73:710-6.
+
+9. Kameyoshi Y, Tanaka T, Mihara S, Takahagi S, Niimi N, Hide
+M. Increasing the dose of cetirizine may lead to better control of
+chronic idiopathic urticaria: an open study of 21 patients. BrJ Dermatol
+2007; 157: 803-4.
+
+10. Ferrer M, Sastre J, Jauregui |, ef al. Effect of antihistamine
+up-dosing in chronic urticaria. J Investig Allergol Clin Immunol
+2011; 21:34-9.
+
+11. Sdnchez-Borges M, Ansotegui I, Jimenez JM, Rojo MI, Serrano C,
+Yanez A. Comparative efficacy of non-sedating antihistamine updosing
+in patients with chronic urticaria. World Allergy Organ J 2014; 7:33.
+12. Guillén-Aguinaga S, Jauregui Presa |, Aguinaga-Ontoso E,
+Guillen-Grima F, Ferrer M. Updosing non-sedating antihistamines in
+patients with chronic spontaneous urticaria: a systematic review and
+meta-analysis. Br J Dermatol 2016; 175: 1153-65.
+13. US Food and Drug Administration. Omalizumab (marketed as
+Xolair) Information 2014. Available at: http://www.fda.gov/Drugs/
+DrugSafety/PostmarketDrugSafetylnformationforPatientsandProviders/
+ucm103291.htm. Last accessed: 27 April 2017.
+14. European Medicines Evaluation Agency (EMEA). Omalizumab (Xolair). Summary of Product Characteristics (SmPC)
+2014. Available at: hitp://www.ema.europa.eu/docs/en_GB/
+document_library/EPAR_-_Product_Information/human/000606/
+WC500057298.pdf. Last accessed: 27 April 2017.
+15. LabradorHorrillo M, Ferrer M. Profile of omalizumab in the
+treatment of chronic spontaneous urticaria. Drug Des Devel Ther
+2015; 9:4909-15.
+16. Eggel A, Baravalle G, Hobi G, et al. Accelerated dissociation
+of IgE-FcepsilonRI complexes by disruptive inhibitors actively desensitizes allergic effector cells. J Allergy Clin Immunol 2014; 133:
+1709-19.
+
+17. Serrano-Candelas E, Martinez-Aranguren R, et al. Comparable
+actions of omalizumab on mast cells and basophils. Clin Exp Allergy
+2016; 46: 92-102.
+
+18. Kaplan A, Ledford D, Ashby M, ef al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria despite
+standard combination therapy. J Allergy Clin Immunol 2013; 132:
+101-9.
+
+19. Saini SS, BindslevJensen C, Maurer M, ef al. Efficacy
+and safety of omalizumab in patients with chronic idiopathic
+urticaria/chronic spontaneous urticaria who remain symptomatic on
+H)-antihistamines: a randomized placebo-controlled study. J Invest Dermatol 2015; 135: 67-75.
+
+20. Maurer M, Rosén K, Hsieh HJ, ef al. Omalizumab for the treat
+ment of chronic idiopathic or spontaneous urticaria. N Engl J Med
+2013; 368: 924-35.
+
+21. Fiorino |, Loconte F, Rucco AS, et al. Long-term treatment of refractory severe chronic urticaria by omalizumab: analysis of two cases.
+Postepy Dermatol Alergol 2014; 31: 332-4.
+
+22. Silva PM, Costa AC, Mendes A, Barbosa MP. Long-term efficacy
+of omalizumab in seven patients with treatment-resistant chronic spontaneous urticaria. Allergol Immunopathol 2015; 43: 168-73.
+
+23. Uysal P, Eller E, Mortz CG, BindslevJensen C. An algorithm for
+treating chronic urticaria with omalizumab: dose interval should be
+individualized. J Allergy Clin Immunol 2014; 133:914-5.
+
+24. Mlynek A, ZalewskaJanowska A, Martus P, Staubach P, Zuberbier T, Maurer M. How to assess disease activity in patients with
+chronic urticaria? Allergy 2008; 63: 777-80.
+
+25. Maurer M, Altrichter S, Bieber T, et al. Efficacy and safety of
+omalizumab in patients with chronic urticaria who exhibit IgE against
+thyroperoxidase. J Allergy Clin Immunol 2011; 128: 202-9.
+
+26. Saini S, Rosén KE, Hsieh HJ, et al. A randomized, placebocontrolled, dose-ranging study of single-dose omalizumab in patients
+with H1-antihistamine-refractory chronic idiopathic urticaria. J Allergy
+Clin Immunol 2011; 128: 567-73.
+
+27. Saini SS, BindslevJensen C, Maurer M, et al. Efficacy and
+safety of omalizumab in Hj-antihistamine-refractory chronic idiopathic/spontaneous urticaria: results of a Phase Ill randomized,
+double-blind, placebo-controlled trial. Ann Allergy Asthma Immunol
+2013; 111:A18.
+
+ 
+
+ 
+
+462
+
+28. Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an
+effective and rapidly acting therapy in difficultto-treat chronic urticaria:
+a retrospective clinical analysis. J Dermatol Sci 2014; 73: 57-62.
+
+29. Rottem M, Segal R, Kivity S, ef al. Omalizumab therapy for
+chronic spontaneous urticaria: the Israeli experience. Isr Med Assoc
+J 2014; 16: 487-90.
+
+30. Sussman G, Hébert J, Barron C, et al. Real-life experiences with
+omalizumab for the treatment of chronic urticaria. Ann Allergy Asthma
+Immunol 2014; 112: 170-4.
+
+31. Labrador-Horrillo M, Valero A, Velasco M, et al. Efficacy of omalizumab in chronic spontaneous urticaria refractory to conventional
+therapy: analysis of 110 patients in reallife practice. Expert Opin Biol
+Ther 2013; 13: 1225-8.
+32. Casale TB, Bernstein JA, Maurer M, ef al. Similar efficacy with omalizumab in chronic idiopathic/spontaneous urticaria
+despite different background therapy. J Allergy Clin Immunol Pract
+2015; 3:743-50.
+33. Kaplan A, Ferrer M, Bernstein JA, et al. Timing and duration o}
+omalizumab response in patients with chronic idiopathic/spontaneous
+urticaria. J Allergy Clin Immunol 2016; 137: 474-81.
+34. Giménez-Arnau AM, Grattan C, Zuberbier T, Toubi E. An individualized diagnostic approach based on guidelines for chronic urticaria
+(CU). J Eur Acad Dermatol Venereol 2015; 29: 3-11.
+
+35. Stull DE, McBride DW, Giménez-Arnau A, Grattan C, Khali
+S, Balp MM. Validation of chronic spontaneous/idiopathic urticaria
+(CSU/CIU) health states using weekly urticaria activity score (UAS7]
+and Dermatology Life Quality Index (DLQI). J Am Acad Dermatol
+2015;72: AB154.
+36. Weller K, Grattan C, Abuzakouk M, et al. Patient profile from
+the first international burden of illness study in inadequately controlled
+chronic spontaneous urticaria: ASSURE-CSU. Presented at the Annua
+Congress of the European Academy of Dermatology and Venereology (EADV), Copenhagen, Denmark, 7-10 October 2015.(Latebreaker
+ePoster LATCOP-0036).
+
+37. Maurer M, Spector S, Bernstein JA, et al. Effect of omalizumab
+over a 6é-month treatment period on angioedema and quality of life
+associated with refractory chronic idiopathic/spontaneous urticaria
+(CIU/CSU): subgroup analyses focused on the presence of baseline angioedema. Presented at the Annual Congress of the European
+Academy of Allergy and Clinical Immunology (EAACI), Barcelona,
+Spain, 6-10 June 2015.(Poster TPS-51).
+
+38. Kang MJ, Kim HS, Kim HO, Park YM. The impact of chronic idiopathic urticaria on quality of life in Korean patients. Ann Dermatol
+2009; 21: 226-9.
+
+39. Silvares MR, Fortes MR, Miot HA. Quality of life in chronic
+urticaria: a survey at a public university outpatient clinic, Botucatu
+(Brazil). Rev Assoc Med Bras 2011; 57: 577-82.
+
+40. Staubach P, Metz M, Rothe-Chapman N, ef al. Effect of
+omalizumab on angioedema in H1-antihistamine-resistant chronic
+spontaneous urticaria patients: results from X-ACT, a randomized controlled trial. Allergy 2016; 71: 1135-44.
+
+41. Weller K, Groffik A, Church MK, et al. Development and validation of the Urticaria Control Test: a patientreported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol
+2014; 133: 1365-72.
+
+42. Weller K, Zuberbier T, Maurer M. Chronic urticaria: tools to aid
+the diagnosis and assessment of disease status in daily practice. J Eur
+Acad Dermatol Venereol 2015; 29: 38-44.
+
+43. Finlay AY, Khan GK. Dermatology Life Quality Index (DLQl]-a
+simple practical measure for routine clinical use. Clin Exp Dermatol
+1994; 19: 210-6.
+
+44. Lennox RD, Leahy MJ. Validation of the Dermatology Life Quality
+Index as an outcome measure for urticaria-related quality of life. Ann
+Allergy Asthma Immunol 2004; 93: 142-6.
+
+45. Cardiff University. Dermatology Life Quality Index (DLQI).
+1992. Available at: hitp://sites.cardiff.ac.uk/dermatology/quality-of
+life/dermatology-quality-of-life-index-diqi. Last accessed: 27 April
+2015.
+
+46. Baiardini |, Pasquali M, Braido F, et al. A new tool to evaluate the impact of chronic urticaria on quality of life: chronic
+urticaria quality of life questionnaire (CU-Gol). Allergy 2005; 60:
+1073-8.
+
+ 
+
+ 
+
+ 
+
+ 
+
+EJD, vol. 27, n° 5, September-October 2017
+47. Ghazanfar M, Sand C, Thomsen SF. Effectiveness and safety of
+omalizumab in chronic spontaneous or inducible urticaria: evaluation
+of 154 patients. Br J Dermatol 2016; 175: 404-6.
+
+48. Weller K, Groffik A, Magerl M, ef al. Development, validation, and initial results of the Angioedema Activity Score. Allergy
+2013; 68: 1185-92.
+
+49. Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil
+CD203c-upregulating activity as an immunological marker to predict
+response to treatment with omalizumab in patients with symptomatic
+chronic urticaria. J Allergy Clin Immunol Pract 2016; 4: 529-30.
+
+EJD, vol. 27, n° 5, September-October 2017
+
+50. Gericke J, Metz M, Ohanyan T, et al. Serum autoreactivity predicts time to response to omalizumab therapy in chronic spontaneous
+urticaria. J Allergy Clin Immunol 2016; 139: 1059-61.
+
+51. Metz M, Ohanyan T, Church MK, Maurer M. Retreatment with
+omalizumab results in rapid remission in chronic spontaneous and
+inducible urticaria. JAMA Dermatol 2014; 150: 288-90.
+
+52. Clinicaltrials.gov. OPTIMA: Efficacy of optimized re-treatment
+and step-up therapy with omalizumab in chronic spontaneous
+urticaria (CSU) patients. Available at: https://clinicaltrials.gov/
+ct2/show/NCT02161562. Last accessed: 27 April 2017.
+
+= 463
+
+ 
+

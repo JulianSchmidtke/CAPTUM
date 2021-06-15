@@ -1,0 +1,1534 @@
+Original Article
+
+Low Responsiveness of Basophils via FccRI Reflects
+Disease Activity in Chronic Spontaneous Urticaria
+
+Yoshiko Oda, MD, Atsushi Fukunaga, MD, PhD, Ken Washio, MD, PhD, Shinya Imamura, MD,
+Mayumi Hatakeyama, MD, PhD, Kanako Ogura, MD, PhD, and Chikako Nishigori, MD, PhD Kobe, Japan
+
+What is already known about this topic? A basophil functional abnormality has been reported because some patients
+with chronic spontaneous urticaria have less histamine release to anti-IgE.
+
+What does this article add to our knowledge? Attenuated basophil responsiveness via FceRI in patients with chronic
+
+spontaneous urticaria is associated with the severity of disease and relatively shorter disease duration.
+
+How does this study impact current management guidelines? Classification of chronic spontaneous urticaria patients
+according to basophil CD203c reactivity may help to elucidate the mechanisms involved in the dysregulation of basophils
+
+ 
+
+and their role in the pathogenesis of urticaria.
+
+BACKGROUND: The insufficient effect of H1-antihistamine in
+some patients with chronic spontaneous urticaria (CSU) suggests
+that factors other than histamine are involved in the pathophysiology of CSU. Moreover, a central role for basophils in the
+pathophysiology of CSU has been hypothesized. However, few
+studies have focused on the relationship between basophil
+reactivity via FceRI and clinical features in patients with CSU.
+OBJECTIVE: To assess basophil reactivity via FceRI against
+anti-IgE and FceRI stimulation in patients with CSU, and its
+association with disease activity in CSU. FceRI expression and
+IgE binding on basophils from patients with CSU were also
+investigated.
+
+METHODS: We analyzed 38 patients with CSU, 8 patients with
+atopic dermatitis (AD), and 11 healthy controls (HCs). The
+surface CD203c expression with or without anti-IgE or FceRI
+stimulation, and IgE and FceRI (CRA1, CRA2) expression on
+blood basophils were evaluated. Patients with CSU were also
+evaluated and classified by disease activity and the above parameters were compared.
+
+RESULTS: The proportion of CD203c'8" basophils after antiIgE or anti-FceRI stimulation was lower in patients with CSU
+compared with HCs and patients with AD. It was lowest in the
+
+Division of Dermatology, Department of Internal Related, Kobe University Graduate
+School of Medicine, Kobe, Japan
+
+This work was supported in part by a Grant-in-Aid for Scientific Research (C) (ISPS
+KAKENHI Grant Numbers 15K09742 and 16K19722) from the Ministry of
+Education, Culture, Sports, Science and Technology, Japan (to A.F. and K.W.).
+
+Conflicts of interest: The authors declare that they have no relevant conflicts of
+interest.
+
+Received for publication February 4, 2019; revised May 10, 2019; accepted for
+publication May 17, 2019.
+
+Available online iil
+
+Corresponding author: Atsushi Fukunaga, MD, PhD, Division of Dermatology,
+Department of Internal Related, Kobe University Graduate School of Medicine, 75-1 Kusunoki-cho, Chuo-ku, Kobe 650-0017 Japan. E-mail: atsushi@med.kobe-u
+ac.jp.
+
+2213-2198
+© 2019 American Academy of Allergy, Asthma & Immunology
+https://doi.org/10.1016/j.jaip.2019.05.020
+
+CSU group with severe disease. Basophils from patients with
+CSU had higher FceRI (CRA1) expression, although it was not
+closely related to the severity of CSU. Subgroup analysis revealed
+that patients with CSU showing low responsiveness of basophils
+via FceRI exhibited a short duration of disease but severe disease
+activity.
+
+CONCLUSIONS: Low reactivity of basophils via FceRI is
+characteristic of patients with CSU. This attenuated reactivity is
+associated with severe clinical activity in patients with CSU (250
+of 250). © 2019 American Academy of Allergy, Asthma &
+Immunology (J Allergy Clin Immunol Pract 2019;m:m-m)
+
+Key words: Chronic spontaneous urticaria; CD203c; Basophil
+activation test
+
+Chronic spontaneous urticaria (CSU) is a common skin disease, characterized by spontaneous appearance of wheals,
+angioedema, or both for more than 6 weeks due to known
+(ie, the presence of mast cell—activating autoantibodies) or unknown causes.'’? Histamine from activated skin mast cells plays
+a central role in the pathophysiological aspects of CSU; however,
+H1-antihistamine treatment leads to the absence of symptoms in
+fewer than 50% of patients with CSU.° This suggests that factors other than histamine from mast cells are involved in the
+pathophysiology of CSU. Thus, other inflammatory cells
+including basophils are currently being investigated. Histologically, a perivascular infiltrate of mixed inflammatory cells,
+including basophils, is present in skin lesions of patients with
+csu.*° Recently, the expression of activation markers has been
+assessed on the surface of basophils in patients with CSU.
+CD203c, also known as ectonucleotide pyrophosphatase phosphodiesterase3 (E-NPP3),’ isa basophil activation marker that is
+upregulated in the steady state on the basophils of patients with
+csu.® According to Lourenco et al,” upregulation of CD203c
+expression without stimulation of the basophils was present in
+patients with CSU, regardless of autologous serum skin test
+(ASST) responses. In other cases, the ASST reflects histaminereleasing anti-FceRI autoantibodies, suggesting that would
+
+ 
+2 ODA ETAL
+
+Abbreviations used
+AD- Atopic dermatitis
+ASST- Autologous serum skin test
+CSU- Chronic spontaneous urticaria
+
+EAACI- European Academy of Allergy and Clinical Immunology
+EDTA- Ethylenediaminetetraacetic acid
+
+HC- Healthy control
+
+PBS- Phosphate-buffered saline
+
+UAS- Urticaria activity score
+
+ 
+
+correlate with basophil activation mar! ers.'° Furthermore, Ye
+et al'' mentioned that basophil CD203c expression in patients
+with severe CSU was significantly higher than in nonsevere CSU.
+In addition, the reactivity of basophils from patients with CSU
+has been assessed via various detection methods. A previous study
+reported that basophils of some patients with CSU exhibit little
+histamine release in response to anti-IgE. '? Furthermore, CD63
+expression of basophils after anti-FceRI stimulation is less in a
+subgroup of patients with CSU than basophils of healthy controls (HCs).'° In contrast, another report documented that patients with CSU with high histamine release response to anti-IgE
+experienced significantly higher current itch scores compared
+with nonresponders.“ In addition, the activated status of CSU
+basophils was reported based on enhancement of histamine
+release induced by anti-IgE stimulus.’
+
+The expression of FceRI and bound IgE on basophils from
+patients with CSU plays an important role in the pathophysiology and therapeutic response to omalizumab in CSU. Omalizumab binds to free IgE, which lowers its level, and causes
+downregulation of FceRI receptors on basophils and mast cells.'”
+Furthermore, the expression of FceRI (CRA1) is increased on the
+basophils of patients with CSU compared with HCs, and a
+positive correlation was found between IgE serum levels and
+FceRI receptor expression."
+
+Thus, basophils are noteworthy cells in terms of playing a
+critical role in the pathophysiology of CSU. Indeed, Saini
+et al'” reported that blood basophil percentage and numbers
+increased in patients with CSU in response to treatment with
+omalizumab. However, few studies have focused on the association between basophil reactivity via FceRI, levels of
+FceRI and IgE on basophils, and clinical features including
+disease activity in patients with CSU. Furthermore, few
+studies have also compared the reactivity of basophils from
+patients with CSU and patients with other inducible types of
+urticaria.
+
+In this study, we analyzed the expression of the activation
+marker CD203c with or without anti-IgE and FceRI stimulation
+in patients with CSU, patients with atopic dermatitis (AD), and
+HCs to detect basophil reactivity via FceRI stimulation.
+Furthermore, we examined the association between basophil
+reactivity via FceRI and disease severity of CSU. In addition, the
+degree of IgE binding as well as FceRI receptor (CRA1, CRA2)
+expression on basophils was analyzed and the association between
+receptor expression and disease activity in CSU was examined.
+We also discussed the clinical features of subgroups of patients
+with CSU divided according to basophil CD203c upregulation
+via FceRI expression.
+
+ 
+
+ 
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+MATERIALS AND METHODS
+Study population
+
+Patients with CSU and AD who agreed to participate in this study
+were enrolled at the Dermatological Institute of Kobe University
+Hospital. CSU was defined as recurrent wheals occurring for more
+than 6 weeks without an identifiable cause. HCs were enrolled from
+healthy adult volunteers who are currently without symptoms of
+urticaria and no history of urticaria. Disease activity in patients with
+CSU was assessed both in clinical care and trials with the urticaria
+activity score 7 (UAS7). The UAS is the sum of the urticaria and
+itching scores, and UAS7 (which is the total of 7 days of UAS scores)
+can evaluate CSU activity over 1 week.'* The UAS7 is recommended by the European Academy of Allergy and Clinical Immunology (EAACI) guidelines as a method for evaluating disease
+activity by patients with urticaria and their treating physicians.’
+Patients with CSU were categorized into 3 groups based on their
+UAS7 scores, modified according to Hawe et al'” (UAS7 0-6, mild;
+7-15, moderate; 16-42, severe). Patients who were treated with
+omalizumab were excluded from this study. Their past history was
+obtained from medical interview. All study participants provided oral
+consent for this study after verbal and written explanation. The
+study protocol was approved by the Institutional Review Board
+
+(Kobe University; No. 180186).
+
+ 
+
+Basophil activation test
+
+Whole blood (up to 2 mL) was taken from the patients with CSU,
+mild-to-moderate AD, and HCs using ethylenediaminetetraacetic
+acid (EDTA) containing blood collection tubes and assays were performed. within 24 hours of blood sampling. The Allergenicity Kit
+(Beckman Coulter, Fullerton, Calif) was modified and used for the
+quantification of basophil CD203c expression.”” Basophils were
+stimulated with anti-IgE antibody (clone: E124-2-8D) (10 [g/mL)
+from the Allergenicity kit as a positive control, VioBlue conjugated
+anti-IgE antibody (clone: MB10-5C4) (110 [lg/mL) (Miltenyi Biotec,
+Bergisch Gladbach, Germany), or biotinylated anti-FceRI antibody
+(clone: CRA1 or CRA2) (1.6 and 0.9 mg/mL, respectively) (BioAcademia, Osaka, Japan). The CRA1 antibody binds FceRI even in
+the presence of IgE, whereas the CRA2 antibody reacts with the
+FceRI& subunit at a region that overlaps with the IgE binding site;
+thus it competes with IgE for receptor binding.”' Basophils incubate
+with phosphate-buffered saline (PBS) were used as a negative control.
+
+Briefly, 50 UL of fresh EDTA blood was incubated with 10 [tL of
+staining reagent consisting of CRTH2-FITC, CD203c-PE, and
+CD3-PC7 in activation buffer and mixed with the respective stimulant or PBS at 37°C for 15 minutes. The biotinylated antibodies
+against CRAI or CRA2 were then coupled with APC streptavidin
+(BD, Franklin Lakes, NJ) at 4°C for 30 minutes. Afterward, blood
+samples were depleted of erythrocytes by incubation in fixative and
+lysis buffer for more than 10 minutes and centrifuged at 200 x g for
+
+ 
+
+ 
+
+5 minutes and supernatant aspirated. Next, leukocytes were washe
+in 1500 UL of PBS. Finally, cells were resuspended in 0.3 mL PBS
+0.1% formaldehyde and evaluated by flow cytometry (FACS verse;
+BD Biosciences, San Jose, Calif).
+
+Flow cytometry results were analyzed by FlowJo software
+(FlowJo, LLC, Ashland, Ore). Basophils were identified by their
+
+characteristic forward and side scatter, expression of basophil acti
+ 
+
+ 
+
+vation markers, and the absence of CD3 (Figure E1, available in this
+article’s Online Repository at www. jaci-inpractice.org). The doublegated cells were analyzed on the CRTH/CD203c plot as basophils.
+
+Results of antibody stimulation are expressed as proportion
+
+CD203c"8" basophils. The proportion CD203c"" basophils were
+
+ 
+
+ 
+
+ 
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+determined using a threshold defined as the expression level above
+which only 5% of basophils in the negative control sample fluoresce,
+on average.” Moreover, patients with CSU were defined as nonresponders when less than 10% of basophils were CD203c!®" basophils after anti-IgE antibody (clone: E124-2-8D) stimulation, and
+as responders when more than 10% were.
+
+Measurement of IgE and FceRI levels on basophils
+Basophils were incubated with a VioBlue conjugated anti-IgE
+antibody (clone: MB10-5C4) (Miltenyi Biotec) and biotinylated
+anti-FceRI antibody (clone: CRAI1 or CRA2) (BioAcademia) and
+analyzed by flow cytometry. The method of observing IgE and FceRI
+levels on basophils and FlowJo analysis was the same as for the basophil
+activation test after anti-lgE, CRA] or CRA2 antibody stimulation.
+IgE and FceRI levels were evaluated as the mean fluorescence intensity.
+
+Autologous serum skin test
+
+The ASST was performed according to established methods.”
+The diameters of wheals and erythema were measured after 15
+minutes. Reactions were assessed as positive if the diameter of the
+wheal induced by serum was >6 mm.
+
+Statistical analysis
+
+The nonparametric Mann-Whitney U test and unpaired r test
+were used to assess differences between patients with CSU and HCs
+or patients with AD, or responders and nonresponders. The KruskalWallis result with the Dunn test was used for comparing 3 or 4
+groups of nonparametric variables. To assess correlations between 2
+factors, adjusted r, (Spearman’s rank correlation coefficient) values
+were calculated. All statistical analyses were carried out using
+GraphPad Prism 7 (GraphPad Software, San Diego, Calif). Two
+sided P values of <.05 were considered statistically significant.
+
+RESULTS
+Study population
+
+The characteristics of patients with CSU are described in
+Table I. Thirty-eight patients with CSU (14 male and 24 female
+patients) were enrolled in the study. The mean age was 46.3 +
+16.2 years and the median duration of disease was 4.0 years.
+Median serum total IgE was 139.5 IU/mL. The ASST was
+performed in 17 patients, with the result being positive in 41.1%
+(7 of 17). Only 1 patient had concomitant angioedema.
+
+In this study, the patients with CSU were categorized into 3
+subgroups based on the severity of disease according to the
+UAS7. The characteristics of these subgroups are described in
+Table Il. Importantly, they exhibited no significant differences
+regarding sex, age, serum total IgE, and disease duration. In
+addition, it was observed that the median value of total serum
+IgE levels in the severe group was lowest. However, this was only
+a tendency, with no statistically significant value.
+
+ 
+
+Measurement of CD203c expression after FceRI
+stimulation on basophils in patients with CSU
+
+First, we analyzed the expression of the activation marker
+CD203c with or without anti-[gE and/or FceRI stimulation in
+patients with CSU, patients with AD, and HCs to examine
+basophil reactivity via FceRI. Unlike previous reports,® the
+expression of CD203c on peripheral blood basophils in patients
+with CSU in the steady state without anti-IgE and/or FceRI
+stimulation was equivalent to HCs (Figure E2, available in this
+article’s Online Repository at www.jaci-inpractice.org). When
+peripheral blood basophils were stimulated with anti-IgE (E124
+ODAETAL 3
+
+TABLE I. Clinical and laboratory characteristics of patients with
+chronic spontaneous urticaria (CSU)
+
+Demographics characteristics
+
+of patients with CSU CSU (n = 38)
+Age, y 46.3 + 16.2
+Female, n (%) 24 (63.1%)
+Disease duration, y 4.0 (0.2-33)
+Total IgE (IU/mL) 139.5 (3-4392)
+UAS7 17.08 + 12.09
+UCT 7.184 + 4.097
+ASST positive rate (n = 17), n (%) 7 (41.1%)
+Presence of angioedema at baseline, n (%) 1 (2.6%)
+Treatment, n (%)
+HI antihistamines at the conventional dosage 19 (50%)
+HI antihistamines at high dosage 14 (36.8%)
+Leukotriene receptor antagonists 9 (23.6%)
+Systemic corticosteroids 8 (21%)
+Cyclosporine 1 (2.6%)
+History, n (%)
+Asthma 5 (13.1%)
+Allergic rhinitis 2 (5.2%)
+Atopic dermatitis 1 (2.6%)
+Pollinosis 2 (5.2%)
+
+ASST, Autologous serum skin test; UAS7, 7-day urticaria activity score; UCT, urticaria control test.
+
+Data are given as mean + standard deviation for age, UAS7, UCT; n (%) for sex,
+ASST positive rate, presence of angioedema, treatment, history; and median (range)
+for disease duration, and serum total IgE.
+
+2-8D, MB-105C4), expression of CD203c was upregulated in
+basophils of almost all HCs (labeled CD203ch8 basophils).
+Notably, the percentage of CD203chi# basophils was significantly lower in patients with CSU than in HCs (Figure 1, A and
+B). In addition, basophils from patients with CSU showed
+attenuated upregulation of CD203c after anti-FceRI (CRA1)
+stimulation compared with basophils from HCs (Figure 1, C). In
+contrast, anti-FceRI (CRA2) stimulation scarcely upregulated
+CD203c in either patients with CSU or HCs (Figure 1, D).
+CRAI antibody binds FceRI even in the presence of IgE,
+whereas the CRA2 antibody reacts with the FceRI@, subunit at a
+region that overlaps with the IgE binding site. Basophils in
+almost all patients with CSU who showed upregulation of
+CD203c after anti-IgE (E124-2-8D) were also activated by both
+another anti-IgE clone (MB10-5C4) and anti-FceRI (CRA1)
+stimulation (Table El, available in this article’s Online Re.
+pository at www.jaci-inpractice.org). Basophils in almost all patients with CSU who did not show upregulation of CD203
+after anti-IgE (E124-2-8D) were not activated by these 2 othe
+antibodies (Table E1). Upregulation of CD203c against 2 kin
+of anti-IgE (E124-2-8D, MB10-5C4) and anti-FceRI (CRA
+significantly correlated respectively (data not shown). CD203
+low responsiveness on basophils in many patients with CSU, bui
+not HCs, could be observed in parallel after stimulation with
+these 3 antibodies, suggesting that FceRI-mediated basophil
+reactivity in patients with CSU is dysregulated. Interestingly, the
+proportion of CD203chi8* basophils after anti-IgE (E124-2-8D,
+MB10-5C4) stimulation was also significantly lower in patients
+with CSU than in patients with AD (Figure 1, A and B). When
+stimulated with anti-FceRI (CRA1), although only the tendency
+that the proportion of CD203c8* basophils was lower in
+
+fi
+
+ts}
+
+ 
+
+2
+
+ave
+
+ 
+
+ 
+4 ODAETAL J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+TABLE Il. Clinical and laboratory characteristics of patients with chronic spontaneous urticaria (CSU) classified into 3 groups based on
+disease activity
+
+Demographics characteristics
+
+based on disease activity Mild (UAS7 score 0-6) (n = 9) Moderate (UAS7 score 7-15) (n = 10) Severe (UAS7 score 16-42) (n = 19)
+Age, y 49.4 + 17.6 44 + 18.3 46.1 + 14.9
+
+Female, n (%) 5 (55.5%) 7 (10%) 12 (63.1%)
+
+Disease duration, y 8 (0.5-10) 4 (1-10) 3 (0.2-33)
+
+Total IgE (IU/mL) 326.6 (67.2-504) 185 (73-347.5) 126 (3-4392)
+
+UAS7 0 (0-5) 12.5 (8.5-14.5) 27.5 (16-38.5)
+
+UCT score 13 (5-16) 8 (4-10) 5 (3-10)
+
+ASST positive rate 1/1 (100%) 1/4 (25%) 6/12 (50%)
+
+ASST, Autologous serum skin test; UAS7, 7-day urticaria activity score; UCT, urticaria control test.
+Data are given as mean + standard deviation for age; n (%) for sex, ASST positive rate; median (range) for disease duration, serum total IgE, UAS7, and UCT.
+
+Anti-IgE antibody (E124-2-8D) stimulation Anti-IgE antibody (MB10-5C4) stimulation
+P=.02 P=.02
+_P=001___ P>.99 _P=001 _ P>.99
+
+CD203c"2" basophil (%)
+
+ 
+
+> —_-CD203cht* basophil (%)
+
+ 
+
+is]
+
+ 
+
+Anti-FceRI antibody (CRA1) stimulation Anti-FceRI antibody (CRA2) stimulation
+P =.002 P>99
+P =A46 =
+100 —P=.20 2 100 P>99 P=.96
+
+CD203ch#* pasophil (%)
+CD203c4i84 basophil (%)
+
+  
+
+S 2 S S °
+Cc eC £ v D e ¥
+
+FIGURE 1. Comparison of the proportion of CD203c"" basophils between patients with CSU, HCs, and patients with AD (A-D). A, Anti-IgE (E1242-8D) stimulation. B, Anti-IgE (MB10-5C4) stimulation. C, Anti-FceR1 (CRA1) stimulation. D, Anti-FceR1 (CRA2) stimulation. Statistical analyses
+were performed using the Kruskal-Wallis result with the Dunn test (A-D). AD, Atopic dermatitis; CSU, chronic spontaneous urticaria; HC, healthy
+
+control.
+
+patients with CSU than HCs was observed, it was significantly Next, we studied the relationship between this attenuated
+lower in patients with CSU than in patients with AD (Figure 1, CD203c expression and disease activity in CSU. Patients with
+©). Thus, CD203c expression on basophils after stimulation via CSU were categorized into 3 groups: mild, moderate, and severe,
+FceRI was attenuated in patients with CSU compared with both based on disease severity according to their UAS7 scores
+
+HCs and patients with AD. (Table I1).?° Notably, the proportion of CD203chis basophils
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+Anti-IgE antibody (E124-2-8D) stimulation
+P>99
+
+  
+
+P=25\_ P<.001
+
+e
+S
+
+v
+vy’
+
+ry
+Ss
+
+2
+Ss
+
+FS
+s
+
+20:
+
+CD203chie basophil (%)
+
+ 
+
+Anti-FceRI antibody (CRA1) stimulation
+P>.99
+
+CD203cz" basophil (%)
+
+ 
+
+ODAETAL 5
+
+Anti-IgE antibody (MB10-5C4) stimulation
+
+P>.99
+P=.052
+P= 32
+100 P=.68 P<.001
+
+SS
+oo
+A
+Z 60
+a
+2
+EA 40
+=
+S 20
+1S)
+
+0
+
+ 
+
+wo
+
+FIGURE 2. Comparison of the proportion of CD203c"%" basophils between patients with CSU classified into 3 groups by UAS7 score and
+HCs. A, Anti-IgE (E124-2-8D) stimulation. B, Anti-IgE (MB10-5C4) stimulation. C, Anti-FceR1 (CRA1) stimulation. Statistical analyses
+were performed using the Kruskal-Wallis result with the Dunn test. CSU, Chronic spontaneous urticaria; HC, healthy control; UAS, ur
+ticaria activity score.
+
+was significantly lower in severe group than in HCs when
+stimulated with anti-IgE (E124-2-8D, MB-105C4), whereas
+there was no significant difference between moderate/mild group
+and HCs (Figure 2, A and B). In contrast, only a trend was
+observed when stimulated with anti-FceRI (CRA1) (Figure 2,
+©). UAS7 score and proportion of CD203chis basophils after
+anti-IgE antibody (E124-2-8D) stimulation showed a weak
+negative correlation (Figure E3, available in this article’s Online
+Repository at www.jaci-inpractice.org). Collectively, attenuated
+CD203c expression on basophils after stimulation via FceRI was
+a characteristic phenomenon in patients with severe CSU when
+compared with HCs and patients with AD.
+
+To further define the attenuated CD203c expression on basophils by phenotype, we performed analysis segregated based on
+the different treatment groups and according to history of
+symptoms. Although we classified patients with CSU into 2
+
+ 
+
+groups according to whether they took conventional or high
+doses of H1 antihistamines, there was no difference between
+these 2 groups (data not shown). Moreover, we classified patients
+with CSU into 2 groups according to whether they had allergic
+past history (asthma, allergic rhinitis, AD, and pollinosis) and
+analyzed basophil reactivity respectively. However, there was no
+difference between these 2 groups (data not shown).
+
+In addition, although we examined the correlations between
+serum tryptase levels and CD203c reactivity with or without
+stimulation, all parameters were not correlated (Figure E4, available in this article’s Online Repository at www.jaci-inpractice.org).
+
+Measurement of IgE and FceRI levels on basophils of
+patients with CSU
+
+The expression of FceRI on basophils in the steady state has
+been reported to be higher in patients with CSU than in HCs.”’'°
+6 ODA ETAL
+
+IgE expression
+P=,55
+
+ 
+
+FceRI (CRA1) expression
+P=01
+
+ 
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+FceRI (CRA2) expression
+P=59
+
+300:
+
+200:
+
+MFI
+
+100:
+
+ 
+
+FIGURE 3. Comparison of basophil IgE levels or FceRI receptor expression as MFI between patients with CSU and HCs. A, IgE expression.
+B, Total FceRI expression (CRA1). C, FceRI unbound IgE expression (CRA2). Statistical analyses were performed using the unpaired ¢ test
+(A) or the Mann-Whitney U test (B, C). CSU, Chronic spontaneous urticaria; HC, healthy control; MF/, mean fluorescence intensity.
+
+Because activation of basophils, including upregulation of
+CD203c, is triggered by cross-linking of IgE and FceRI on basophils, we next examined FceRI and IgE levels on basophils in patients with CSU and HCs. The FceRI (CRA1) expression on
+basophils was significantly higher in patients with CSU compared
+with HCs (Figure 3, B), whereas there were no significant differences in the levels of cell-bound IgE and FceRI (CRA2) (Figure 3,
+A and C). These data revealed that total FceRI expression, but
+not the level of IgE binding on basophils, was increased in patients
+with CSU.
+
+Furthermore, we studied the relationship between the levels of
+basophil-bound IgE, FceRI expression, and the severity of CSU.
+CRAI expression on basophils was statistically slightly higher in
+the moderate group, but not mild or severe groups, compared
+with HCs (Figure 4, B). There were no significant differences in
+IgE and CRA2 levels on basophils between these 4 groups
+(Figure 4, A and C). There was also no difference in serum total
+IgE levels among the groups based on the severity of CSU
+(Table II). These data indicate that serum total IgE levels,
+basophil-bound IgE, and FceRI expression in patients with CSU
+are not closely linked with the severity of CSU.
+
+Previous studies reported that basophil surface IgE density and
+FceRI expression are correlated with serum IgE levels in nonallergic subjects, allergic asthma, AD, _ hypereosinophilic
+
+ 
+
+ 
+
+syndromes, hyper-IgE syndrome, helminth infestation, and IgE
+myeloma.”’ We investigated the relationship between serum IgE
+levels and IgE, CRA1 or CRA2 levels on basophils in patients
+with CSU. Similar to other disorders, serum IgE levels were
+strongly correlated with IgE or CRA1 expression on basophils
+(Figure E5, A and B, available in this article’s Online Repository
+at www.jaci-inpractice.org), but uncorrelated with CRA2
+expression (Figure E5, C, available in this article’s Online Repository at www.jaci-inpractice.org).
+
+In addition, we examined the correlations between serum
+tryptase levels and IgE or FceRI expression on basophils.
+Although serum tryptase levels were negatively correlated with
+IgE expression on basophils (7, = —0.57, P = .01) (Figure E6, A,
+available in this article’s Online Repository at www.jaci-inpractice.
+org), FeeRI expressions on basophils were not correlated
+(Figure E6, Band C, available in this article’s Online Repository at
+
+www.jaci-inpractice.org).
+
+ 
+
+ 
+
+IgE and FceRI levels on basophils in patients with
+CSU were not strongly correlated with CD203c
+expression
+
+Because activation of basophils is induced by cross-linking of
+FceRI-bound IgE and FceRI on basophils, the IgE and FceRI
+level on basophils can affect CD203c expression via FceRI
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+IgE expression
+
+ 
+
+FceRI (CRA1) expression
+P>.99
+P=.03
+
+ 
+
+B
+
+ODAETAL 7
+
+FceRI (CRA2) expression
+P>.99
+P>.99
+P>.99
+
+30
+
+ 
+
+FIGURE 4. Comparison of basophil IgE levels or FceRI receptor expression as MFI between patients with CSU classified into 3 groups by
+UAS and HCs. A, IgE expression. B, Total FceRI expression (CRA1). C, FceRI unbound IgE expression (CRA2). Statistical analyses were
+performed using the Kruskal-Wallis result with the Dunn test. CSU, Chronic spontaneous urticaria; HC, healthy control; MF/, mean
+
+fluorescence intensity; UAS, urticaria activity score.
+
+response to anti-IgE and anti-FceRI. To study these relationships, we examined the correlations between the IgE or CRA1
+levels and CD203c expression after anti-IgE and anti-FceRI
+stimulation in patients with CSU. The IgE and CRA expression
+on basophils in patients with CSU had a weak positive correlation with CD203c expression after anti-IgE and anti-FceRI
+(Figures E7 and E8, available in this article’s Online Repository
+at www.jaci-inpractice.org). More interestingly, focusing on
+Figures 1, C, and 3, B, although FceRI expression on basophils
+was significantly higher in patients with CSU than HCs, the
+response to anti-FceRI stimulation was significantly attenuated
+in patients with CSU compared with HCs. These data indicate
+that the intensity of IgE and/or FceRI expression on basophils in
+patients with CSU is not directly linked with CD203c responsiveness of basophils via FceRI in patients with CSU.
+
+Classification of patients with CSU according to
+basophil CD203c reactivity
+
+Finally, we focused on the attenuated CD203c expression on
+basophils that is characteristic of some patients with CSU and
+
+conducted subgroup analysis. Patients with CSU could be
+classified into 2 groups based on whether basophil CD203c
+expression was close to that of activated HCs (proportion
+CD203ch8" basophils after anti-IgE stimulation as noted in a
+previous report:'” nonresponders [<10% CD203c8" basophil] and responders [>10% CD203chish basophil]). Interestingly, durations of disease were significantly shorter in
+nonresponders to anti-IgE than in responders (Figure 5, A).
+Proportion CD203ch8" basophils after anti-IgE stimulation
+and disease duration showed a positive correlation (Figure 5,
+D). No significant differences regarding age, sex ratio, ASST
+positive rate, and serum total IgE levels were found between
+the 2 groups (data not shown). The nonresponders had
+significantly higher UAS7 scores and lower urticaria control test
+scores than responders (Figure 5, B and C). Furthermore, the
+nonresponders to anti-IgE exhibited significantly lower reactivity against the CRA antibody (Figure 6, A) and significantly
+lower FceRI expression on basophils than the responders
+(Figure 6, B). The subgroup characteristics of responders and
+nonresponders to anti-IgE are summarized in Table E2
+ODA ET AL
+
+duration of disease
+
+P=.003
+
+ 
+
+ 
+
+c
+
+duration of disease (y)
+
+J ALLERGY CLIN IMMUNOL PRACT
+MONTH 2019
+
+ 
+
+ 
+
+4
+r= 429
+° p=.007
+3 a ae
+e
+20:
+e
+
+ 
+
+20 40
+
+60
+CD203c'"basophil (%) induced by anti-IgE (MB10-5C4) stimulation
+
+D
+
+80 100
+
+FIGURE 5. Comparison of disease duration (A), UAS7 (B), and UCT (C) between responders and nonresponders. Correlation of disease
+
+duration and proportion of CD203c"9"
+
+basophils in patients with CSU (D). Statistical analyses were performed using the Mann-Whitney U
+
+test (A, B), unpaired ¢ test (C), or Spearman’s rank correlation coefficient (D). CSU, Chronic spontaneous urticaria; UAS, urticaria activity
+
+score; UCT, urticaria control test.
+
+(available in this article’s Online Repository at www.jaciinpractice.org).
+
+DISCUSSION
+
+This study focused on the fluctuation of CD203c expression as. an
+activation marker on basophils in CSU pathogenesis. Previous
+studies have noted the unique features of peripheral blood basophils
+in patients with CSU. Some reports documented that basophils in
+patients with CSU have reduced histamine release in response to
+anti-IgE or CD63 induction in response to anti-FceRI.'”'? In
+contrast, other studies found that basophils of patients with CSU
+exhibit high response to anti-IgE based on histamine release.”’'*
+However, there is little research on basophils in patients with
+CSU simultaneously comparing various stimuli via FceRI. Based on
+this background, our study adopted examination methods using a
+variety of FceRI stimuli (anti-IgE [E124-2-8D, MB-105C4], antiFceRI [CRA1, CRA2]). By using this technique, it was shown that
+CD203c expression on basophils in patients with CSU was signif
+icantly attenuated compared with HCs after stimulation with the 3
+antibodies, that is, except for CRA2, which appears to have the
+weakest stimulating ability on basophils. In addition, a low response
+
+to these 3 antibodies was observed in basophils from many patients
+with CSU (Table E1, available in this article’s Online Repository at
+www. jaci-inpractice.org). These data emphasized that low responsiveness of basophils via FceRI is a distinctive phenomenon in patients with CSU. Moreover, we attempted to compare the basophil
+responsiveness between patients with CSU and patients with AD.
+Notably, basophil low responsiveness was not observed in patients
+with mild-to-moderate AD, indicating that this phenomenon may
+be specific to patients with CSU.
+
+FceRI on mast cells is upregulated by IgE binding on mast
+cells,“ and binding of monomeric IgE to FceRI, without crosslinking, potentiates the activity of mast cells in the absence of
+degranulation.”’ It has been reported that serum total IgE is
+elevated in patients with CSU.”’ These previous data lead us to
+focus on the levels of IgE and FceRI on basophils of patients
+with CSU. Consistent with previous studies,” '° the FceRI
+(CRA1) expression on basophils was higher in patients with
+CSU than HCs. The presence of IgE and interaction between
+IgE and FceRI can also upregulate FceRI expression on basophils.*” Similarly, our study demonstrated that elevated serum
+total IgE levels were correlated with FceRI (CRA1) expression
+on basophils in patients with CSU, suggesting that the serum
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+Anti-FceRI antibody (CRA1) stimulation
+P<.0001
+
+100:
+
+80:
+
+60:
+
+40:
+
+20:
+
+CD203chie basophil(%)
+
+ 
+
+FIGURE 6. Comparison of parameters between responders and nonresponders. A, Proportion of CD203c
+
+ODAETAL 9
+
+FceRI (CRA1) expression
+
+P=.04
+
+  
+
+B
+
+high
+
+basophils after anti-FceR1
+
+(CRA1) stimulation. B, Basophil CRA1 receptor expression as MFI. Statistical analyses were performed using the Mann-Whitney U test.
+
+MFI, Mean fluorescence intensity.
+
+monomeric IgE in patients with CSU induces upregulation of
+FceRI expression on basophils (Figure E5, B, available in this
+article’s Online Repository at www.jaci-inpractice.org).””
+However, IgE or FceRI expression on basophils was not
+strongly correlated with CD203c reactivity of basophils in
+patients with CSU after stimulation via FceRI (Figures E7 and
+E8, available in this article’s Online Repository at www.jaciinpractice.org). These data suggest the possibility that monomeric IgE has an effect including upregulation of FceRI, etc.,
+on basophils in CSU, but that basophils in CSU are maintained without CD203c upregulation and/or activation, for
+example, histamine release regardless of elevated FceRI
+expression and are “primed” for augmented function to other
+activators. However, further research is needed to prove this
+hypothesis. Because previous studies show that pathways for
+degranulation other than via FceRI appear not to be affected in
+basophils of patients with CSU (N-formyl-met-leu-phe,
+monocyte chemoattractant protein 1), this abnormal responsiveness of basophils in patients with CSU may be due to
+elevated expression of intracellular phosphatases regulating the
+FceRI signaling pathway.°°” Previous study reports elevated
+SHIP-1 and SHIP-2 protein, negative regulatory phosphatases,
+and a reduction in FceRI-mediated phosphoAkt generation in
+some CSU basophils.*”
+
+EAACI/GA*LEN/EDF/WAO Guidelines recommend that
+disease activity in CSU should be assessed and monitored both
+in clinical care and trials with UAS7.' Patients with CSU can
+be categorized into 3 groups (mild, moderate, and severe disease) based on their UAS7 scores. Subsequently, we assessed
+the relationship between disease severity and various parameters
+including CD203c responsiveness via FceRI and the expression
+of IgE and FceRI on basophils in patients with CSU. Notably,
+low responsiveness of CD203c on basophils after various
+stimuli via FceRI was marked in patients with severe CSU
+(Figure 2). In contrast, the expression of IgE and FceRI on
+basophils in patients with CSU was not closely linked with
+severity of CSU in patients. These observations revealed that
+
+ 
+
+low responsiveness of basophils via FceRI, but not surface
+markers on basophils, is associated with disease severity in
+patients with CSU.
+
+CSU can be characterized as a heterogeneous disease based on
+activity, evolution, pathophysiological aspects, and response to
+treatment. In this study, we attempted to classify patients with
+CSU into subgroups based on low responsiveness of basophils.
+Patients with CSU were classified into 2 groups based on
+responsiveness of basophil CD203c express to anti-IgE stimulation (responders and nonresponders). Interestingly, clinical features of nonresponders exhibited shorter duration of disease but
+severe disease activity, unlike a previous study.'? It is reported
+that the mean disease duration of 117 patients with CSU not
+controlled by a standard dose of antihistamine is 27.4 months.*'
+In our study, the median disease duration of nonresponders and
+responders to anti-IgE was 1.2 (0.2-8) years and 6 (1-33) years,
+respectively. Therefore, we thought that a nonresponse to antiIgE is associated with shorted disease duration. In addition,
+nonresponders to anti-IgE also showed nonresponsiveness to
+anti-FceRI stimulation. Collectively, this subgroup analysis indicates that the subgroup of patients with CSU with severe
+disease features low responsiveness of basophils via FceRI and is
+relatively rapidly developing compared with nonsevere groups.
+Moreover, this basophil abnormality seems to be correlated with
+disease severity and disease duration of patients with CSU.
+
+There are several limitations in this study, such as the pathophysiological mechanism regarding low responsiveness of
+basophil CD203c to FceRI stimulation not being investigated in
+detail. Furthermore, although patients with CSU treated with
+omalizumab were excluded, other treatment of patients with
+CSU was not uniform.
+
+In conclusion, basophil low responsiveness via FceRI is a
+characteristic phenomenon in patients with CSU and is associated with disease severity. In addition, the subgroup showing
+attenuated basophil reactivity via FceRI reflects unique clinical
+features of patients with CSU. It will be necessary in the future to
+elucidate the mechanisms involved in the dysregulation of
+
+ 
+
+ 
+
+ 
+ARTICLE IN PRESS
+
+10 ODAETAL
+
+basophils in the cascade of CSU pathogenesis and link them to
+CSU therapy.
+
+Acknowledgments
+
+We thank Simon Teteris, PhD, from the Edanz Group (www.
+edanzediting.com/ac) and Tatsuya Horikawa, for editing the
+English text of a draft of this manuscript.
+
+REFERENCES
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACIIGA*LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria. Allergy 2018;73:1393-414.
+
+2. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al. The
+diagnosis and management of acute and chronic urticaria: 2014 update.
+J Allergy Clin Immunol 2014;133:1270-1277.c66.
+
+3. Vestergaard C, Toubi E, Maurer M, Triggiani M, Ballmer-Weber B,
+Ballmer-Weber B, et al. Treatment of chronic spontaneous urticaria with an
+inadequate response to H1-antihistamines: an expert opinion. Eur J Dermatol
+2017:27:10-9.
+
+4, Elias J, Boss E, Kaplan AP. Studies of the cellular infiltrate of chronic idiopathic
+urticaria: prominence of T lymphocytes, monocytes, and mast cells, J Allergy
+Clin Immunol 1986;78:914-8.
+
+5. Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. THI/TH2 cytokines and
+inflammatory cells in skin biopsy specimens from patients with chronic idiopathic urticaria: comparison with the allergen-induced late-phase cutaneous
+reaction, J Allergy Clin Immunol 2002;109:694-700.
+
+6. Kay AB, Clark P, Maurer M, Ying S, Elevations of T-helper-2-initiating cytokines (interleukin-33, interleukin-25, and thymic stromal lymphopoietin) in
+lesional skin from chronic spontaneous (“idiopathic”) urticaria, Br J Dermatol
+20153172:1294-302.
+
+7. De Weck AL, Sanz ML, Gamboa PM, Aberer W, Bienvenu J, Blanca M, et al.
+Diagnostic tests based on human basophils: more potentials and perspectives
+than pitfalls: II. Technical issues. J Investig Allergol Clin Immunol 2008;18:
+143-55.
+
+8. Christensen CU, Vestergaard C, Hoffmann HJ. Activation markers CD63 and
+CD203c are upregulated in chronic urticaria. Ann Dermatology 2013;25:522-3.
+
+9, Lourenco FD, Azor MH, Santos JC, Prearo E, Maruta CW, Rivitti EA, et al.
+Activated status of basophils in chronic urticaria leads to interleukin-3 hyperresponsiveness and enhancement of histamine release induced by anti-IgE
+stimulus. Br J Dermatol 2008;158:979-86.
+
+10. Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Stat C, et al. Classification of anti-FceRI and anti IgE autoantibodies in chronic idiopathic urticaria and correlation with disease activity. J Allergy Clin Immunol 2002;110:
+492-9,
+
+11. Ye YM, Yang EY, Yoo HS, Shin YS, Kim SH, Park HS. Increased level of
+basophil CD203c expression predicts severe chronic urticaria. J Korean Med Sci
+2014;29:43-7.
+
+12. Grattan CE, Borzova E. Basophil phenotypes in chronic idiopathic urticaria in
+relation to disease activity and autoantibodies. J Invest Dermatol 2009;129:
+1035-6.
+
+13. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfiitzner W. Functional and
+phenotypic analysis of basophils allows determining distinct subtypes in patients with chronic urticaria, Allergy 2017;72:1904-11.
+
+14, Baker R, Vasagar K, Ohameje N, Gober L, Chen SC, Patricia M, et al. Basophil
+histamine release activity and disease severity in chronic idiopathic urticaria.
+Ann Allergy Asthma Immunol 2008;100:244-9.
+
+20.
+
+21.
+
+22.
+
+23.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29;
+
+30.
+
+31.
+
+J ALLERGY CLIN IMMUNOL PRACT.
+MONTH 2019
+
+. Kaplan A, Gimenez-Arnau A, Saini SS. Mechanisms of action that contribute to
+
+efficacy of omalizumab in chronic spontaneous urticaria, Allergy 2017;72:
+519-33,
+
+. Deza G, Bertolin-Colilla M, Pujol R, Curto-Barredo L, Soto D, Garcia M, et al.
+
+Basophil FceRI expression in chronic spontaneous urticaria: a potential
+immunological predictor of response to omalizumab therapy. Acta Derm
+Venereol 2017;97:698-704.
+
+. Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosen K, Sterba PM, et al.
+
+Effect of omalizumab on blood basophil counts in patients with chronic idiopathic/spontaneous urticaria. J Invest Dermatol 2017;134:958-61.
+
+. Mtynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T,
+
+Maurer M. How to assess disease activity in patients with chronic urticaria?
+Allergy 2008:63:777-80.
+
+. Hawe E, McBride D, Balp M-M, Tian H, Halliday A, Stull DE. EQ-SD utilities
+
+ 
+
+in chronic spontaneous/idiopathic urticaria. Pharmacoeconomics 2016;34:
+521-7.
+
+Iwamoto T, Yuta A, Tabata T, Sugimoto H, Gabazza EC, Hirai H, et al.
+Evaluation of basophil CD203c as a predictor of carboplatin-related hypersensitivity reaction in patients with gynecologic cancer. Biol Pharm Bull 2012;35:
+1487-95.
+
+Takai T, Yuuki T, Iwamoto Y, Okumura K, Ra C. Epitope analysis and primary
+structures of variable regions of anti-human FcepsilonRI monoclonal antibodies,
+and expression of the chimeric antibodies fused with human constant regions.
+Biosci Biotechnol Biochem 2000;64:1856-67.
+
+Fukunaga A, Bito T, Tsuru K, Ohashi A, Yu X, Ichihashi M, et al. Responsiveness to autologous sweat and serum in cholinergic urticaria classifies its
+clinical subtypes. J Allergy Clin Immunol 2005;116:397-402.
+
+Saini SS, Klion AD, Holland SM, Hamilton RG, Bochner BS,
+MacGlashan DW. The relationship between serum IgE and surface levels of
+FeeR on human leukocytes in various diseases: correlation of expression with
+FceRI on basophils but not on monocytes or eosinophils. J Allergy Clin
+Immunol 2000;106:514-20.
+
+. Kubo S, Matsuoka K, Taya C, Kitamura F, Takai T, Yonekawa H, et al. Drastic
+
+up-regulation of FcRI on mast cells is induced by IgE binding through stabilization and accumulation of FcRI on the cell surface, J Immunol 2001;167:
+3427-34,
+
+Chang TW, Chen C, Lin C-J, Metz M, Church MK, Maurer M, The potential
+pharmacologic mechanisms of omalizumab in patients with chronic spontaneous
+urticaria, J Allergy Clin Immunol 2015;135:337-342.e2.
+
+Kessel A, Helou W, Bamberger E, Sabo E, Nusem D, Panassof J, et al. Elevated
+serum total IgE—a potential marker for severe chronic urticaria, Int Arch
+Allergy Immunol 2010;153:288-93.
+
+MacGlashan D, Lichtenstein LM, McKenzie-White J, Chichester K, Henry AJ,
+Sutton BJ, et al. Upregulation of FceRI on human basophils by IgE antibody is
+mediated by interaction of IgE with FceRI. J Allergy Clin Immunol 1999;104:
+492-8.
+
+Luquin E, Kaplan AP, Ferrer M. Increased responsiveness of basophils of patients with chronic urticaria to sera but hypo-responsiveness to other stimuli.
+Clin Exp Allergy 2005;35:456-60.
+
+Saini SS, Kaplan AP. Chronic spontaneous urticaria: the devil’s itch. J Allergy
+Clin Immunol Pract 2018;6:1097-106.
+
+Vonakis BM, Vasagar K, Gibbons SP, Gober L, Sterba PM, Chang H, et al.
+Basophil FceRI histamine release parallels expression of Sre-homology
+2-containing inositol phosphatases in chronic idiopathic urticaria. J Allergy
+Clin Immunol 2007;119:441-8.
+
+Hiragun M, Hiragun T, Mihara , Akita T, Tanaka J, Hide M. Prognosis of
+chronic spontaneous urticaria in 117 patients not controlled by a standard dose
+of antihistamine. Allergy 2013;68:229-35.
+J ALLERGY CLIN IMMUNOL PRACT
+VOLUME Mf, NUMBER
+
+ONLINE REPOSITORY
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+250K {FSC-A, SSC-A subset ©
+30.6%
+
+250K
+200K 200K
+
+150K 4 150K
+
+SSC-A
+
+100K 4 100K
+
+50K 4 50K
+
+ 
+
+ 
+
+0 SOK 100K 150K 200K 250K
+FSC-A
+
+Comp-PE-Cy7-A:: PE-Cy7-A
+
+ 
+
+ 
+
+ 
+
+ODAETAL 10.e1
+10°
+<
+gi 10°
+Se
+: Fo
+Including Bas =]
+37.0% q
+Ei?
+10
+Ss
+is)
+10!
+"Ss
+10
+
+ 
+
+Comp-FITC-A:: FITC-A
+
+FIGURE E1. Flow cytometry data analysis. On the FSC/SSC plot (left), the basophil scatter gate and leukocyte gate are defined. On the
+PE-Cy7/SSC plot (middle), the CD3 negative population is defined. On the FITC/CD203c plot (right), both CRTH and CD203c positive
+groups are defined as basophils. F/7C, Fluorescein isothiocyanate; FSC, forward scatter; PE, phycoerythrin; PE-Cy7, PE-cyanine 7; SSC,
+
+side scatter.
+
+CD203c expression (without stimulation)
+
+6000: P=.54
+
+ 
+
+FIGURE E2. Comparison of basophil CD203c expression in the
+steady state without anti-lgE and/or FceRI stimulation as MFI
+between patients with CSU and HCs. Statistical analysis was
+performed using the Mann-Whitney U test. CSU, Chronic spontaneous urticaria; HC, healthy control; MF/, mean fluorescence
+intensity.
+
+100 ” e
+\ 80: oe =.
+z s ‘ tya34
+5 oy ® Pe 03
+= e e
+2 a4 ° °
+y « ° e
+R
+a
+0
+
+ 
+
+UAS7
+
+FIGURE E3. Correlation of UAS7 score and proportion of
+CD203c"*" basophils in patients with CSU. Statistical analyses
+were performed using Spearman’s rank correlation coefficient.
+CSU, Chronic spontaneous urticaria; UAS, urticaria activity score.
+10.e2 ODAETAL J ALLERGY CLIN IMMUNOL PRACT
+
+MONTH 2019
+
+Tryptase levels (ug/L)
+
+ 
+
+0 1000 2000 3000 4000 5000
+CD203c expression (without stimulation)
+
+Tryptase levels (ug/L)
+
+Tryptase levels (ug/L)
+
+  
+
+0 20 40 60 80 100 0 20 40 60 80 100
+CD203c#2"bhasophil (%) induced by anti-IgE antibody (E124-2-8D) CD203cti#4hasophil (%) induced by anti-IgE (MB10-5C4) stimulation
+
+B Cc
+
+_
+iy
+ae
+1
+
+w
+
+15:
+
+ 
+
+104 @
+
+Tryptase levels (ug/L)
+e
+89,
+e
+I
+Tryptase levels (ug/L)
+
+ 
+ 
+
+0 20 40 60 80 100 o a oe a
+CD203c*#"pasophil (%) induced by anti-FceRI (CRA1) stimulation CD203chizhhasophil (%) induced by anti-FceRI (CRA2) stimulation
+
+D E
+
+FIGURE E4. Correlation of serum tryptase levels (g/L) and basophil reactivity with or without stimulation in patients with CSU. A,
+Without stimulation. B, Anti-IgE (E124-2-8D) stimulation. C, Anti-IgE (MB10-5C4) stimulation. D, Anti-FceR1 (CRA1) stimulation. E, Anti
+FceR1 (CRA2) stimulation. Statistical analyses were performed using Spearman’s rank correlation coefficient (B, D) or Pearson’s rank
+correlation coefficient (A, C, E). CSU, Chronic spontaneous urticaria.
+J ALLERGY CLIN IMMUNOL PRACT
+
+ODAETAL  10.e3
+VOLUME i, NUMBER
+
+ 
+
+ae | ; r= .63
+= 4000 P<.001
+5 1500: °
+a
+= 1000:
+
+3
+= e
+E500 e
+i
+vo
+g
+0 5000 10000 15000 20000
+IgE expression
+A
+5000: 1,=.67
+F) Ano P<.001
+5 1500: °
+ic}
+= 1000:
+E 500 e e
+5 e
+
+  
+
+0 5000 10000 0 100 200 300
+
+B FceRI (CRA1) expression e FceRI (CRA2) expression
+
+FIGURE E5. Correlation of serum total IgE (IU/mL) and basophil IgE or CRA expression as MFI in patients with CSU. A, Basophil IgE
+expression. B, Basophil CRA1 receptor expression. C, Basophil CRA2 receptor expression. Statistical analyses were performed using
+Spearman’s rank correlation coefficient. CSU, Chronic spontaneous urticaria; MF/, mean fluorescence intensity.
+10.e4 ODAETAL
+
+15
+= +57
+a _
+F . P=.01
+% 10 e
+3 > °s
+zs es *
+=
+=|
+
+ 
+
+ 
+
+0 5000 10000 ~=—-15000 ~~ 20000
+A IgE expression
+
+15
+i
+&
+= 10
+ve
+>
+2
+2
+= §
+ES
+&
+
+0
+
+0 2000 = 4000» «6000~SSS«8000
+
+B FeeRI (CRAI) expression
+
+J ALLERGY CLIN IMMUNOL PRACT
+
+ 
+
+MONTH 2019
+1S r,=.10
+a P= 68
+SD e
+= 1
+P|
+es
+>
+2
+3
+£5
+Pe
+=
+
+ 
+
+0 20 40 60 80 100
+
+c FceRI (CRA2) expression
+
+FIGURE E6. Correlation of serum tryptase levels (|ig/L) and basophil IgE or CRA expression as MFI in patients with CSU. A, Basophil IgE
+expression. B, Basophil CRA1 receptor expression. C, Basophil CRA2 receptor expression. Statistical analyses were performed using
+Spearman’s rank correlation coefficient (A) or Pearson’s rank correlation coefficient (B, C). CSU, Chronic spontaneous urticaria; MFI,
+
+mean fluorescence intensity.
+J ALLERGY CLIN IMMUNOL PRACT ODAETAL 10.e5
+VOLUME Il, NUMBER i
+
+20000: 1,=.25 20000 1,=.19
+P= 12 P= .23
+e
+
+15000:
+
+IgE expression
+—
+s
+—
+Ss
+Od
+e
+e
+e
+e
+IgE expression
+
+  
+
+0 20 40 60 80 100 0 20 40 60 80 100
+CD203c#"pasophil (%) induced by anti-IgE (E124-2-8D) stimulation — CD203c"#"pasophil (%) induced by anti-IgE (MB10-5C4) stimulation
+
+A B
+
+ 
+
+IgE expression
+
+ 
+
+0 20 40 60 80 100
+CD203chigbasophil (%) induced by anti-FceRI (CRA1) stimulation
+
+Cc
+
+FIGURE E7. Correlation of basophil bound-IgE levels as MFI and proportion of CD203c"®" basophils in patients with CSU. A, Anti-IgE
+(E124-2-8D) stimulation. B, Anti-lgE (MB10-5C4) stimulation. C, Anti-FceR1 antibody (CRA1) stimulation. Statistical analyses were
+performed using Spearman’s rank correlation coefficient. CSU, Chronic spontaneous urticaria; MF/, mean fluorescence intensity.
+10.e6 ODAETAL J ALLERGY CLIN IMMUNOL PRACT
+
+  
+
+ 
+
+MONTH 2019
+10000: eo
+5 A 1=.29
+A 3 P= 071
+g $ °
+a a e
+Ey 3
+= Pe e
+3 3 5000: e
+ie e
+g g “*
+% % “ ry
+. & swaee ef e
+0 20 40 60 80 100 0 20 40 60 80 100
+CD203ch#*basophil (7%) induced by anti-IgE (E124-2-8D) stimulation CD203c"2*basophil (%) induced by anti-IgE (MB10-5C4) stimulation
+A B
+10000: e
+
+i] r= 33
+
+s uy
+
+a P=.03
+
+& °
+
+A
+
+= e
+
+Z 5000: e
+
+bd e
+e
+g ° s
+%
+e
+%
+i Pa od o*% e
+0 20 40 60 80 100
+CD203chi2basophil (%) induced by anti-FceRI (CRA1) stimulation
+
+Cc
+
+FIGURE E8. Correlation of basophil CRA1 receptor expression as MFI and proportion of CD203c"®" basophils in patients with CSU. A,
+Anti-IgE (E124-2-8D) stimulation. B, Anti-IgE (MB10-5C4) stimulation. C, Anti-FceR1 antibody (CRA1) stimulation. Statistical analyses
+were performed using Spearman’s rank correlation coefficient. CSU, Chronic spontaneous urticaria; MF/; mean fluorescence intensity.
+J ALLERGY CLIN IMMUNOL PRACT ODAETAL 10.e7
+VOLUME Il, NUMBER i
+
+TABLE E1. Response characteristics of patients with chronic spontaneous urticaria
+
+Stimulation (proportion of CD203c"'s" basophil) Expression
+
+. Age Sex Disease duration (y) PBS (MFI) E124-2-8D (%) MB10-5C4(%) CRA1(%) CRA2(%) IgE (MFI) CRA1 (MFI) CRA2 (MFI)
+
+No.
+
+1 37 M le 1375) 9.28 5.68 7.14 0.87 8073 1398 241
+
+2 73M 25 754 42 474 28.4 1.45 2744 1886 54.1
+3 2300 8 1856 94.1 85.9 86.2 7.83 12,900 9923 109
+4 49 M 5 1635 4.35 11.6 TAS 7.54 296 1202 52.1
+SD) 20 F 4 437 2.33 2.14 337 2.06 6957 4202 26.1
+6 7233, M 7 1468 80.1 84.9 62.7 14.9 5887 7279 93.2
+7 57 eE, 33) 1604. 52.8 22) 32.8 5.63 8634 3308 30.2
+8 17 M 1 812 44.6 54.3 49.1 0.647 10,600 2921 2577.
+9 230 E, 3 1187 34 45 3933) 78 11,000 1532 172
+10 SI M 1 1085 8.39 10.3 13.4 7.18 10,900 3746 22:1
+ise 320 1 1051 14.4 192) 15 9.16 7846 826 295
+12 49 F 4 998 29.7 51.4 36.9 4.99 2379 1665 15.1
+13, 63 =F 4 1873 4.55 12.1 6.61 7.33 164 45.6 24.4
+14 35 M 2, 2215 87.1 88.1 70.4 6.97 14,000 1199 28.2
+15 61 F 3 3060 6.38 921) 7.82 6.15 7248 1324 522
+16 40 F 1 4980 10 14 1.82 5133 10,200 2467 16.7
+17 36 =F 8 1910 35 88 85.6 6.35 15,700 4781 237,
+18 41 F 0.2 1298 1353) 1.97 LS 2.08 4120 1620 22:3
+19 42 M 3 1582 8.37 27.6 223 0.719 5912 1123 ae
+20 68 F 0.5 1230 7.91 6.16 2.05 a9 12,900 724 27
+21 58 F 28 1304 70 724 53:5 1.06 13,700 3507 37.8
+22 43 M 5 3353 70.6 64 36.7 9.51 13,100 4043 83.1
+23 41 =F 1543 95.1 95.2 90 64 2210 809 67.2
+24 61 F 2272 65 93:3 57.4 30.5 1523 94.8 30.7
+25 47 M 15 2613 61 63.2 2D) Il 5.13 6796 241 31.8
+26 45 F 3 922 79.3 82.4 53.3 3.05 16,100 6847 49.2
+27 37 «~#F 693 15.9 18.1 8.08 2.1 11,700 1330 23.8
+28 18 M 0.5 1268 1.75 0.901 2.4 2.1 7642 473 17.6
+29 41 M 1 2482 20.8 24.6 18.7 8.33 12,200 3630 222
+30 40 F 7 1143 Bi 47.4 34.7 4.8 9808 2551 43.1
+31 42 F 3 925 227. 71.6 30.5 0.851 9797 3109 38.4
+32 74 F 10 4009 52.9. 56.1 43.1 15.8 10,100 5617 20.9
+33 46 =F 8 2173 63 64.8 28.8 6.75 9957 3134 24.1
+34. 45 «=#F 10 1651 214 32:1 26.2 7.76 7405 1265 20.4
+357M. 8 1046 8.03 7.13 3.85 1.46 4363 177 24.1
+36 45 «=F 1 1315 5:13 3.37 1.43 0 5355 354 28.7
+37 38 =F oR) 927 89.1 88.7 2 0.939 4226 1241 19.7
+38 75 M 4 2440 76.3 82.2 65.3 6.55 4845 794 19.4
+
+MFI, Mean fluorescence intensity; PBS, phosphate-buffered saline.
+CD203c expression without stimulation (PBS) is described as MFI. CD203c expression under each antibody stimulation is described as CD203c!"*" basophils (%). IgE and CRA
+expression are described as MFI.
+
+TABLE E2. Patients with chronic spontaneous urticaria were
+divided into 2 subtypes based on the proportion of CD203c9"
+basophils after anti-IgE antibody stimulation
+
+The clinical characteristics
+
+based on basophil responsiveness Responders Nonresponders*
+Duration of disease Long Relatively short
+CD203c™2" basophil (%) with anti-FeeR1 High Low
+
+antibody (CRA1) stimulation
+Total FceRI expression on basophils High Low
+UAS7 Low High
+UCT High Low
+
+UAS7, 7-Day urticaria; UCT, urticaria control test.
+*Nonresponders, less than 10%; responders, more than 10%.
+

@@ -1,0 +1,1348 @@
+Allergology International xxx (xxxx) Xxx
+
+ 
+
+ 
+
+journal homepage: http://www.elsevier.com/locate/alit
+
+Contents lists available at ScienceDirect
+
+AWERGOLOGY
+
+Allergology International
+
+INTERNATIONAL
+
+ 
+
+ 
+
+Original Article
+
+Differentiation between control subjects and patients with chronic
+spontaneous urticaria based on the ability of anti-IgE autoantibodies
+(AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs
+
+Satoshi Izaki * >: !
+
+, Shota Toyoshima *°', Takahiro Endo *”:', Kazuko Kanegae **‘,
+
+Satoshi Nunomura “, Jun-ichi Kashiwakura °, Tomomi Sasaki-Sakamoto * ‘,
+
+a,b
+
+Ryosuke Nakamura . Haruyo Akiyama ®°, Chisei Ra 5.1 Koremasa Hayama *”,
+Tadashi Terui °, Yoshimichi Okayama * © *
+
+* Allergy and Immunology Research Project Team, Nihon University School of Medicine, Tokyo, Japan
+
+> Department of Dermatology, Nihon University School of Medicine, Tokyo, Japan
+
+© Center for Institutional Research and Medical Education, Nihon University School of Medicine, Tokyo, Japan
+
+* Department of Microbiology, Nihon University School of Medicine, Tokyo, Japan
+
+4 Division of Medical Biochemistry, Department of Biomolecular Sciences, Saga Medical School, Saga, Japan
+
+© Department of Immunology, Graduate School of Pharmaceutical Sciences, Hokkaido University, Sapporo, Japan
+' Division of Medicinal Safety Science, National Institute of Health Sciences, Kawasaki, Japan
+
+8 Division of Pharmacotherapeutics, Faculty of Pharmaceutical Sciences, Teikyo Heisei University, Tokyo, Japan
+
+' Department of Clinical Laboratory, Asahi General Hospital, Chiba, Japan
+
+ 
+
+ARTICLE INFO
+
+ABSTRACT
+
+ 
+
+Article history:
+
+Received 21 September 2018
+Received in revised form
+
+9 January 2019
+
+Accepted 9 January 2019
+Available online xxx
+
+ 
+
+Keywords:
+Autoantibody
+Basophil/mast cell
+FeeRIa.
+Immunoglobulin E
+Urticaria
+
+ 
+
+Abbreviations:
+
+AAbs, autoantibodies; ASST, autologous
+serum skin test; CSU, chronic spontaneous
+urticaria; EXiLE test, IgE crosslinkinginduced luciferase expression test;
+
+h, human; FceRIo, FceRI #-chain; NC, nonatopic healthy control; NF-AT, nuclear factor
+of activated T-cell; PBST, PBS containing
+0.05% Tween 20; PMA, phorbol 12-myristate
+13-acetate; r, recombinant; ROC, receiver
+operator characteristic; soluble
+
+FceRIo, soluble form of FceRI #-chain
+ectodomain; SCF, stem cell factor
+
+Background: The reported prevalences of IgG autoantibodies (AAbs) to FceRIa and IgE in sera from patients with chronic spontaneous urticaria (CSU) have varied, and these AAbs are also often observed in
+healthy control subjects. Regarding the histamine release activity of purified IgG from patients with CSU,
+the number of examined patients has been small. Thus, we sought to determine the prevalence and FceRI
+crosslinking ability of these AAbs in a large number of patients with CSU and non-atopic control (NC)
+subjects.
+Methods: We compared the concentrations of anti-IgE and anti-FceRla AAbs and the abilities of these
+AAbs to cause FceRI aggregation in patients with CSU (n = 134) and NC subjects (n = 55) using ELISA and
+an in vitro elicitation test, respectively.
+Results: The concentration of anti-IgE AAbs was significantly different between the NC subjects and the
+CSU patients (P < 0.0001, cutoff value: 0.558 j1g/mL), whereas the concentration of anti-FceRIa AAbs was
+not. A significant difference in the duration of illness was noted between patients with lower and those
+with higher concentrations of anti-IgE AAbs relative to the cutoff value. The abilities of anti-IgE AAbs, but
+not anti-FceRIa AAbs, to induce FceRI crosslinking were significantly higher in CSU patients than in NC
+subjects (P = 0.0106).
+Conclusions: In the Japanese population of CSU patients studied, the ability of the anti-IgE AAbs to induce
+FceRI crosslinking differed significantly between NC subjects and CSU patients, suggesting the involvement of anti-IgE AAbs in the pathogenesis of CSU in the Japanese population.
+Copyright © 2019, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+ 
+
+* Corresponding author. Allergy and Immunology Research Project Team, Center for Institutional Research and Medical Education, Nihon University School of Medicine, 301 Oyaguchi-kamicho, Itabashi-ku, Tokyo 173-8610, Japan.
+E-mail address: okayama.yoshimichi@nihon-u.ac.jp (Y. Okayama).
+Peer review under responsibility of Japanese Society of Allergology.
+
+| These authors contributed equally to this work.
+
+https://doi.org/10.1016/j.alit.2019.01.003
+1323-8930/Copyright © 2019, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+
+ 
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+doi.org/10.1016/j.alit.2019.01.003
+
+ 
+
+ 
+
+ 
+2 S. Izaki et al. / Allergology International xxx (xxxx) xxx
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is defined as the occurrence of systemic daily wheals for at least 6 weeks.' Since the
+presence of IgG autoantibodies (AAbs) to FceRI -chain (FceRIa) and
+IgE has been repeatedly observed in patients with CSU,'* autoimmunity is thought to be one of the major causes of CSU.’ However,
+the prevalence of anti-FceRIa and anti-IgE AAbs in sera ranged from
+4% to 64% and from 0% to 69% among CSU patients and from 0% to
+43% and from 0% to 30% among healthy controls, respectively‘ and
+these AAbs have also been observed in not only healthy control
+subjects but also patients with autoimmune diseases such as
+rheumatoid arthritis and systemic lupus erythematosus.>®
+Recently, Kolkhir et al. assessed existing evidence supporting the
+role for autoimmunity in CSU using Hill's criteria of causality for
+level 1 (causal relationship) to level 5 (causality not likely).4 The IgG
+AAbs type of autoimmunity in patients with CSU has been assessed
+to have a level 2 causality (causal relationship likely).
+
+Several studies have demonstrated that sera from some patients
+with CSU induce histamine release from human basophils and human mast cell lines.’ '! However, sera contain complement and
+other factors that may induce histamine release and augment IgGdependent histamine release from basophils.”'* Regarding the histamine release activity of purified IgG from patients with CSU, the
+number of examined patients has been small. Purified IgG from
+patients with CSU induced histamine release in four out of eight
+patients’ and in six out of 11 patients.’ Therefore, to evaluate the
+ability of anti-FceRIa or anti-IgE AAbs to induce the crosslinking of
+FceRI on mast cells and basophils, purified IgG from a relatively large
+number of patients with CSU and healthy control subjects is needed.
+Furthermore, the IgE-dependent reactivity of basophils depends on
+the donors of the basophils. Which anti-FceRIa or anti-IgE AAbs
+activate basophils to induce histamine release is not distinguishable
+using basophils unless IgE stripping has been performed. Thus, a
+recently developed luciferase-reporting mast cell line (RS-ATL8),
+which express human FceRI, to detect IgE crosslinking-induced
+luciferase expression (EXiLE),'* was used and modified to measure
+mast cell activation by anti-FceRIa and anti-IgE AAbs from patients
+with CSU (designated as a modified EXiLE test).
+
+Methods
+Ethical considerations
+
+This study was approved by the Ethics Committees of the Nihon
+University School of Medicine (RK-15908-12 and RK-160112-2). All
+the subjects provided written informed consent in accordance with
+the Helsinki Declaration of the World Medical Association.
+
+Patient enrollment
+
+One hundred and thirty eight patients with CSU (93 females and
+45 males; ranging in age from 13 to 87 years) were consecutively
+recruited between October 2009 and August 2017. Four patients
+were excluded because steroids had been used within 3 weeks. The
+characteristics of one hundred and thirty four patients with CSU (90
+females and 44 males; ranging in age from 13 to 87 years) are
+summarized in Table 1. The majority of patients were referred from
+private practice doctors to the outpatient clinic of Nihon University
+Hospital. Some patients had already received treatment with H1antihistamines. We also enrolled 55 non-atopic healthy control
+(NC) subjects (32 females and 23 males; ranging in age from 22 to
+57 years) whose criteria were no history of urticaria, asthma,
+allergic diseases, or autoimmune diseases (Table 1). Routine blood
+
+ 
+
+ 
+
+Table 1
+Characteristics of the patients with CSU and NC subjects.
+Characteristics CSU (n = 134) NC (n= 55)
+Demographic details
+Age (y), median (range) 44 (13-87) 31 (22-57)
+Sex: female (%) 67.2 58.2
+Urticaria
+Durations of illness (Mo), median (range) 26.5 (2-480) NA
+Severity score, median (range) 3 (3-6) NA
+Medication use at time of review (%)
+H1 antihistamine 94.0 0
+H2 antihistamine 35.8 0
+Leukotriene receptor antagonist 19.4 0
+(montelukast)
+Corticosteroid (0) 0
+Cyclosporine A 0 0
+Tranexamic acid 0 0
+Dapsone 0.75 0
+Nil 1.49 100
+
+NA, Not applicable.
+
+and urine tests and liver and kidney function were all normal.
+Women who were pregnant or nursing were excluded.
+
+Definitions and study protocol
+
+The diagnosis of CSU was made according to the classification of
+the European Academy of Allergy and Clinical Immunology (EAACI),
+the Global Allergy and Asthma European Network (GA? LEN), the
+European Dermatology Forum (EDF), and the World Allergy Organization (WAO).'° Subjects were excluded if steroids or immunosuppressive drugs had been used within 3 weeks. The UAS7 is a
+patient-reported scoring system that captures the severity of pruritus and the number of hives appearing during 1 week.'° The intensity of pruritus (range, 0 [none] to 3 [severe]) and the number of
+hives (range, O [none] to 3 [>50 hives]) were recorded daily
+(maximum, 6 points per day). The scores were then summed for 1
+week to represent the UAS7 scale, (0—42). To estimate urticarial
+activity, urticaria severity scores were also used according to the
+guidelines of the Japanese Dermatology Association
+(Supplementary Table 1).'’ Blood tests, which included serum IgE
+levels, basophil counts, IgG anti-nuclear AAbs, IgG antithyroglobulin AAbs, and IgG anti-thyroid microsomal AAbs, were
+performed.
+
+Autologous serum skin test (ASST)
+
+The ASST was performed using 50 uL of the patient's own serum
+intradermally injected into the flexor aspect of the forearm; 50 pL of
+saline was injected 3—5 cm away as a control. The results were
+measured after 30 min. If the serum-injected site manifested a
+wheal with a diameter of 1.5 mm greater than that of the salineinjected site, the result was considered positive.'® According to
+the EAACI/GA (2)LEN task force consensus report,'® antihistamines
+were discontinued for 2—3 days prior to the ASST. The sera used for
+the ASST were also used for measurement of concentrations of the
+AAbs and the abilities of the AAbs to induce FceRI-crosslinking
+
+Isolation of IgG fraction from serum
+
+IgG was purified from sera of patients with CSU and NC subjects
+using Ab-Rapid SPiN EX (ProteNova, Kagawa, Japan) according to
+the manufacturer's protocol. The purified IgG was reconstituted
+with PBS using Amicon centrifugal filter units (Merck Millipore,
+Darmstadt, HE, Germany). The final concentrations of the purified
+IgG were diluted to one-sixth of the serum IgG concentrations.
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+S. Izaki et al. / Allergology International xxx (xxxx) xxx 3
+
+Expression of recombinant human (rh) soluble form of FceRIa
+ectodomain (soluble FceRIa) and purification of secreted rh soluble
+FceRIa
+
+The truncated human FceRIa ectodomain (1—172 amino acids)
+was secreted from transfected Chinese hamster ovary (CHO) cells as
+described.'® Secreted rh soluble FceRIo. was purified from the culture supernatant of the cells using mouse anti-FceRIa (clone
+CRA2).7° rh soluble FceRIa. was eluted using an acid buffer (0.1 M
+glycine/0.2 M NaCl, pH 2.7), immediately neutralized using a basic
+buffer (1 M Tris—HCl, pH 9), quantified using Bradford method, and
+applied to a gradient gel for SDS-PAGE, as described previously.'°
+
+Generation of humanized anti-human FceRIa mAb, clone CRA2
+
+The anti-human FceRIa mAb, clone CRA2,2° was humanized by
+complementarity-determining region grafting onto human V region frameworks encoded by human germline V and J genes, as
+described previously.”! Appropriate light and heavy chain expression vectors were co-transfected into COS7 cells using LipofectAMINE reagent (Life Technologies, Grand Island, NY), as described
+previously.*! The purification of recombinant mAb was performed
+as described.”°
+
+Measurement of concentrations of anti-FceRIa AAbs
+
+An ELISA for detecting anti-human FceRIa AAbs was performed
+as previously described®* ** with the exception that a standard
+curve for IgG anti-FceRIa was generated using humanized antiFceRIa mAb (clone CRA2, isotype human IgG1).7! Briefly, 1 g/mL of
+purified recombinant soluble FceRIa proteins'® in sodium carbonate, pH 9.6 (Calbiochem, San Diego, CA), were used to coat polystyrene microwells of an ELISA plate (Maxisorp; Nunc, Roskilde,
+Denmark) in duplicates and were incubated overnight at 4 °C. The
+plate was washed 4 times with PBS containing 0.05% Tween 20
+(PBST) and then blocked with 10% FBS in PBS for 1 h at room
+temperature. After washing, the purified IgG from the sera of NC
+subjects and patients with CSU were added at a 1:10 dilution with
+PBS to each well, then incubated for 2 h at room temperature. After
+washing, HRP-conjugated anti-human IgG mAb (clone G18-145; BD
+Pharmingen, Franklin, NJ), HRP-conjugated anti-human IgG1 mAb
+(clone HP6069; ThermofFisher Scientific, Waltham, MA), or HRPconjugated anti-human IgG4 mAb (clone HP6025; ThermoFisher
+Scientific) was added to each well at a 1:10,000 dilution for
+measuring its concentration of total IgG, IgG1 or IgG4, respectively,
+then incubated for 1 h at room temperature. The reactions in the
+wells were developed with hydrogen peroxide plus 3,3’,5,5’-tetramethylbenzidine in 100 mM citrate-phosphate buffer, pH 5.0 (KPL,
+Gaithersburg, MD), and their absorbances were monitored at
+450 nm and 570 nm using a Multiskan GO microplate spectrophotometer (Thermo Fisher Scientific) after the addition of 2 N
+sulfuric acid. The linear region of the standard curve was used to
+quantify the anti-FceRIa in the purified IgG.
+
+ 
+
+ 
+
+Measurement of concentrations of anti-IgE AAbs
+
+An ELISA was used to detect anti-IgE AAbs, as previously
+described.” *’ Briefly, the polystyrene microwells of an ELISA
+plate (Maxisorp) were coated with human myeloma IgE (1 »g/mLin
+sodium carbonate pH 9.6, Calbiochem) and incubated overnight at
+4°C. Unbound protein was removed by four washes with PBST. Free
+binding sites were blocked by incubation with 10% FBS in PBS for
+1 h at room temperature. After washing, the purified IgG from the
+sera of NC subjects and patients with CSU were added at a 1:10
+dilution with PBS to each well, which were then incubated for 2 h at
+
+room temperature. After washing, HRP-conjugated anti-human IgG
+mAb (clone G18-145) was added to each well at a 1:10,000 dilution,
+which was then incubated for 1 h at room temperature. The reactions in the wells were developed as mentioned above. The
+quantity of reactive IgG was calculated using standard amounts of
+purified human IgG (Jackson Immuno Research Laboratories, West
+Grove, PA) ranging from 0.775 ng/mL to 50 ng/mL bound directly to
+the plates. To normalize the data among the plates, one specific
+donor (CSU donor# 35)'s anti-IgE AAbs level was measured
+repeatedly on all of the plates.
+
+Preparation of RS-ATL8 cells*® and RBL-NLA4 cells
+
+RS-ATL8 cells or RBL-NL4 cells (2.0 x 10° cells/1000 L/well)
+were cultured in MEM containing 10% FBS, 1% GlutaMAX-I, 100 U/
+mL penicillin, 100 j1g/mL streptomycin, 0.5 mg/mL geneticin and
+0.2 mg/mL hygromycin B on a Costar® 24-well clear tissue culturetreated multiple well plate (Corning Inc., Corning, NY) at 37 °C for 2
+days in a 5% CO2 incubator.** The cells were re-plated and cultured
+as described above for an additional 2 days. The cells were then replated on a 96-well plate at 2 x 104 cells/50 ,tL/well and cultured at
+37 °C overnight in a 5% CO2 incubator.
+
+Measurement of the ability of anti-FceRIa and anti-IgE AAbs to
+induce FceRI crosslinking using an in vitro elicitation test (modified
+EXiLE test)
+
+An in vitro elicitation test was modified from a previously
+described method reported by us.?° The test was performed by
+assessing an EXiLE test using human FceRlaPy2 genes- and nuclear
+factor of activated T-cell (NF-AT)-responsive luciferase reporter
+gene-introduced rat basophilic leukemia cells (RS-ATLS cells).'“ The
+purified IgG was replaced with MEM containing 10% FBS, 1%
+GlutaMAX-I, 100 U/mL penicillin, 100 g/mL streptomycin, 0.5 mg/
+ml geneticin and 0.2 mg/mL hygromycin B, using Amicon centrifugal filter units (Merck Millipore). To measure the ability of antiFceRI AAbs to induce FceRI crosslinking, 50 uL of purified IgG
+(equivalent to a 1:6 dilution of the serum IgG levels) obtained from
+NC subjects or CSU patients was added to each well and the samples were incubated at 37 °C for 3 h in a 5% CO2 incubator. To
+measure the ability of anti-IgE AAbs to induce FceRI-crosslinking,
+the purified IgG was pre-incubated with well-coated rh soluble
+FceRIa. (1 pg/mL), and the supernatants were sequentially incubated with well-coated rh soluble FceRIa twice. Then, the supernatants were applied to IgE-sensitized RS-ATLS8 cells. Fifty uL of
+luciferase substrate solution containing a cell lysis reagent (ONE
+Glo, Promega, Madison, WI) was added to the cells, and the
+chemiluminescence was measured using a Centro LB 960 plate
+reader (Berthold Technologies, Bad Wildbad, Germany). Standard
+curves for the fold inductions in luciferase fluorescence were
+induced by mouse anti-human FceRIa mAb (clone CRA1; eBioscience, San Diego, CA) or rabbit anti-human IgE Ab (Dako, Santa
+Clora, CA). The luciferase expression levels were represented as the
+fold increase in light units compared with the results in nonstimulated cells. The minimum concentration of CRA1 or rabbit
+anti-human IgE Ab that induced a significantly higher intensity of
+luciferase fluorescence than that observed in the non-stimulated
+wells was used to define as the sensitivity of the EXiLE test.
+
+ 
+
+Removal of anti-FceRIa AAbs from purified IgG obtained from CSU
+patients
+
+To examine whether anti-FceRIa AAbs were directly bound to
+cell surface FceRI on RS-ATL8 cells, purified IgG from the sera o
+patients with CSU was pre-incubated with well-coated rh soluble
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+4 S. Izaki et al. / Allergology International xxx (xxxx) xxx
+
+FceRIa (1 jg/mL), and the supernatants were sequentially incubated with well-coated rh soluble FceRIa twice. As positive control,
+humanized anti-FceRIa mAb (clone CRA2) in place of the antiFceRIa AAbs obtained from patients with CSU was similarly preincubated in wells coated with rh soluble FceRIa. Then, the supernatants were applied to the RS-ATLS8 cells for use in the modified
+EXiLE test.
+
+Removal of anti-IgE AAbs from purified IgG obtained from CSU
+patients
+
+To examine whether anti-IgE AAbs bind directly to cell surfacebound IgE on RS-ATLS8 cells, anti-FceRIa AAbs-absorbed purified IgG
+from sera obtained from patients with CSU was pre-incubated with
+well-coated human myeloma IgE (1 pg/mL, Calbiochem), and the
+supernatants were sequentially incubated with well-coated human
+myeloma IgE twice. Then, the supernatants were applied to IgEsensitized RS-ATL8 cells for the modified EXiLE test.
+
+Basophil isolation, purification and basophil activation test
+
+Blood samples were collected from 3 healthy donors. Basophilenriched suspensions were obtained by Percoll (GE Healthcare UK,
+Buckinghamshire, England) density gradient centrifugation. Briefly,
+basophil-enriched preparations were isolated from whole fresh
+blood. Blood was layered over a two-step discontinuous Percoll
+gradient consisting of 15 mL of 62% Percoll overlaid with 15 mL of
+53% Percoll prepared in 50 mL tubes and centrifuged. A basophil
+rich layer, which was located 1 cm above the 53/62% interface, was
+harvested.”° Furthermore, basophil enrichment was carried out by
+using a negative selection method with the Human Basophil
+Isolation Kit II (Milteny Biotec, Bergisch Gladbach, Germany).°° The
+purified basophils (purity; 70-94%) were suspended in Hepes
+buffer. The number of basophils used for the experiments was
+adjusted to 2 x 10* cells/100 tL. The purified basophils were
+stimulated with CRA1, rabbit anti-human IgE Ab (Dako) or Nformyl-methionyl-leucyl-phenylalanine (fmlp; Sigma-Aldrich, St.
+Louis, MO) for 30 min at 37 °C. Activation was stopped by chilling
+
+ 
+
+on ice for 5 min. Thereafter, the cells were labeled with FITCconjugated anti-CD123 (Biolegend, San Diego, CA) and PEconjugated anti-CD203c (Milteny Biotec) and incubated for
+20 min on ice. Finally, cells were washed and analyzed on a flow
+cytometer. Only basophils with bright CD123 expression were
+gated. Data on at least 1000 basophils were acquired, and the
+percentage of CD203c-expressing basophils was calculated.*!
+
+Statistical analysis
+
+To identify variables associated with CSU or a specific CSU patient group, we compared continuous variables between the NC
+subjects and patients with CSU or between two different patient
+groups using the Mann-Whitney-U test; to compare categorical
+variables, a 2-sided Fisher exact test was used. We estimated the
+effects on the odds ratio using a 2-sided Fisher exact test. The
+receiver operator characteristic curve (ROC curve) was used to
+determine the optimal cutoff values that maximized the sum of the
+specificity and sensitivity. Spearman rank correlation coefficients
+were calculated to determine the strength of the correlations between continuous variables. P value was considered significant at
+P < 0.05. The data analyses were performed using Prism version 7
+(GraphPad software; San Diego, CA).
+
+See the Supplementary Methods for more information.
+
+Results
+
+Comparison of concentrations of anti-FceRIa and anti-IgE AAbs
+between NC subjects and patients with CSU
+
+We first compared the concentrations of anti-FceRIa and antiIgE AAbs between 55 NC subjects and 134 patients with CSU. The
+concentrations of anti-IgE AAbs were significantly different between the NC subjects and the CSU patients (Fig. 1B, C; P < 0.0001;
+odds ratio, 7.14 with a cutoff value of 0.558 ug/mL, sensitivity,
+76.2%; specificity, 69.1% by ROC curve analysis comparing NC subjects and CSU patients), but those of anti-FceRIa AAbs were not
+(Fig. 1A). A significant correlation was not seen between the
+
+ 
+
+ 
+
+ 
+
+A B c
+Cut off > 0.558
+OR=7.14
+P=0.818 P< 0.0001 AUC = 0. 757
+g 207 56. ——— 100
+$_isl ° 8 . = 80
+. = >
+BE zz 10 ° 5 60
+Ze 10 0 06980 BS ° 3 40
+aa ae ae z= 5 A 5 oo
+3 3 = A 8 see
+= Specificity: 69.1
+a ee ‘i sali
+NC csu NC csu 0 20 40 60 80 100
+(n=55) (n= 134) (n=55) (n= 130) 100% - Specificity %
+D E
+NC (n= 55) CSU (n = 130)
+2.0. 15
+2 e =0125 8 =0.110
+215, 5 r=0. 2 r=0.
+$4 © P=0.363 27 10 o = P=0.214
+wE1.01° > ws, oe
+ae s ZS 54. °
+= 0.5. 27
+5 Poo o 8 —
+0
+0 5 10 +10 0 5 0 15 20
+
+ 
+
+ 
+
+anti-FceRla AAbs (ug/mL) anti-FeeRla AAbs (g/mL)
+
+Fig. 1. Comparison of concentrations of anti-FceRIa (A) and anti-IgE AAbs (B) between
+
+NC subjects and patients with CSU (scatter plot). (C) ROC curve analyses for stratifying CSU
+
+patients according to the concentration of anti-FceRIa and anti-IgE AAbs; at a calculated cutoff of 0.558 g/mL, the assay provided the best discrimination between NC subjects and
+CSU patients (P < 0.0001) and the optimal values for sensitivity (76.2%) and specificity (69.1%). The medians and inter-quartile ranges are also shown. OR, odds ratios. Correlation
+between concentrations of anti-IgE to anti-FceRIx. AAbs in NC subjects (D) and CSU patients (E).
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+S. Izaki et al. / Allergology International xxx (xxxx) xxx 5
+
+concentrations of anti-FceRI« and anti-IgE AAbs in both NC subjects
+(Fig. 1D) and patients with CSU (Fig. 1E).
+
+Next, to clarify the clinical characteristics between CSU patients
+with lower and higher concentrations of anti-IgE AAbs relative to
+the cutoff value, we compared the variables between these two
+groups of CSU patients. While no significant differences in the patient age, urticaria severity scores, frequency of positive results of
+ASST, or clinical data including the serum IgE levels, basophil
+counts, the concentrations of anti-FceRIa AAbs, and positive rates of
+IgG AAbs to nucleus, thyroglobulin, and thyroid microsomal protein
+were observed between the two patient groups, a significant difference in the duration of illness was noted between the two
+groups, as shown in Table 2 (P = 0.0101).
+
+Evaluation of ability of anti-FceRIa to induce FceRI aggregation in
+patients with CSU, compared with NC subjects
+
+Next, we evaluated the ability of anti-FceRIa to induce FceRI
+aggregation in NC subjects and patients with CSU using the
+modified EXiLE test. We evaluated the accuracy of this assay.
+Figure 2A shows the standard curve for the fold inductions in
+luciferase fluorescence induced by mouse anti-human FceRIa mAb
+(clone CRA1). As a positive control, the fold inductions in luciferase
+fluorescence induced by phorbol 12-myristate 13-acetate
+(PMA) + ionomycin were used (Supplementary Fig. 1A). To clarify
+that the effect of anti-FceRIa AAbs was mediated by cell surface
+FceRI on RS-ATL8 cells, purified IgG from patients with CSU was
+preincubated with well-coated rh soluble FceRIa, and the resulting
+supernatants were used in the modified EXiLE test. The results
+clearly showed that removal of anti-FceRIa AAbs from purified IgG
+obtained from the CSU patients significantly blocked the effects of
+FceRI crosslinking induced by anti-FceRIa AAbs (Fig. 2B-a,
+P = 0.0039). Pre-incubation of humanized anti-FceRla mAb (clone
+CRA2) with soluble FceRIa completely blocked the effects (Fig. 2Bb). Also, we confirmed that humanized anti-FceRIla mAb (clone
+CRA2) induced less than 1.5-fold increase of luciferase fluorescence
+in the control cells, which consisted of NF-AT-responsive luciferase
+reporter gene-introduced rat basophilic leukemia cells without the
+induction of human FceRlaBy2 genes (RBL-NL4 cells), and the fold
+increases in the luciferase fluorescence intensity were not
+
+ 
+
+Table 2
+Comparison of patient characteristics between CSU patients with lower and higher
+concentrations relative to the cutoff value for anti-IgE AAbs.
+
+ 
+
+anti-IgE AAbs (g/mL) P value
+<0.558 2 0.558
+Number 31 99
+Female sex (%) 774 66.7 0.3732
+Age (years), median (range) 42(19-76) 44(13-87) 0.729
+Durations of illness (months), 12 (2-240) 30(2—480) 0.0101},
+median (range)
+ASST positive (%) 40 40.7 >0.999+
+Severity scores, median (range) 3.5 (3-5) 3 (3-6) 0.186
+UAS7, median (range) 28 (28-28) 28 (0—42) >0.999
+
+Serum IgE level (IU/mL, mean + SD) 226.4 + 213.7 406.6 + 627.4 0.173
+
+Blood basophils (mm?, mean+SD)  28.5+16.8 36.2 433.1 0.411
+Anti-nuclear AAbs positive (%) 16.7 14.3 0.750:
+Anti-thyroglobulin AAbs positive (%) 13.0 79 0.430:
+Anti-thyroid microsomal 227 10.2 0.266:
+
+AAbs positive (%)
+
+Anti-FceRIa AAbs (g/mL, mean + SD) 1.71+2.03 2.36+293 0.199
+
+ 
+
+SD, standard deviation.
+
++ Statistical significance between CSU patients with a value lower than the cutoff
+value for anti-IgE AAbs concentrations and patients with a value higher than the
+cutoff value.
+
+| Fisher exact test.
+
+’ Mann Whitney U test.
+
+dependent on the concentration of CRA2 (Supplementary Fig. 1B).
+PMA + ionomycin induced ~350-fold increase of luciferase fluorescence (Supplementary Fig. 1C). We used purified IgG (equivalent
+to a 1:6 dilution of the serum IgG levels) from NC subjects or CSU
+patients in the assays to compare the ability of the anti-FceRIa AAbs
+to induce FceRI aggregation and to avoid the effects of other components, such as complement and IgE to autoantigens in the
+sera.*”*? As can be seen in Figure 2C, anti-FceRIa AAbs from the CSU
+patients did not induce significantly more FceRI crosslinking than
+anti-FceRIa, AAbs from the NC subjects (P = 0.131). Only 4 of the 134
+patients with CSU exhibited higher values than the highest value
+observed in the NC subjects (2.117-fold increase in the ability of
+anti-FceRIa AAbs to induce FceRI crosslinking). The maximum effects of the anti-FceRIa AAbs from patients with CSU were almost
+equivalent to those induced by ~10 ng/mL of CRA1 (Fig. 2A). Significant correlations were not seen between the concentrations of
+anti-FceRIa AAbs and the levels of FceRI crosslinking in NC subjects
+and CSU patients (Fig. 2D, E). There were no significant differences
+in clinical parameters between CSU patients with over 2.117 fold
+increase of the ability of anti-FceRIa AAbs to induce FceRI crosslinking and patients with lower 2.117 fold increase of the ability of it
+(data not shown).
+
+Evaluation of ability of anti-[gE AAbs to induce FceRI aggregation in
+patients with CSU, compared with NC subjects
+
+Next, we similarly evaluated the ability of anti-IgE AAbs to
+induce FceRI aggregation in NC subjects and patients with CSU
+using the modified EXiLE test. We evaluated the accuracy of this
+assay. Figure 3A shows the standard curve for the fold inductions in
+luciferase fluorescence induced by rabbit anti-human IgE Ab. To
+clarify that the effect of anti-IgE AAbs was mediated by cell surfacebound IgE on RS-ATL8 cells, purified IgG from patients with CSU
+was preincubated with well-coated human myeloma IgE and soluble FceRIa, and the resulting supernatants were used in the
+modified EXiLE test. The results clearly showed that the removal of
+both anti-IgE and anti-FceRIa AAbs from purified IgG obtained from
+CSU patients significantly blocked the effects of FceRI crosslinking
+induced by anti-IgE AAbs (Fig. 3B-a; P = 0.0039). Pre-incubation of
+rabbit anti-human IgE Ab with human myeloma IgE and soluble
+FceRIa blocked the effects (Fig. 3B-b). We used purified IgG
+(equivalent to a 1:6 dilution of the serum IgG levels) from NC
+subjects or CSU patients in the assays. To avoid the effects of antiFceRIa. AAbs, anti-FceRIa AAbs in purified IgG were absorbed. For
+IgE sensitization, the RS-ATL8 cells were incubated with human
+myeloma IgE for 30 min at 37 °C. As can be seen in Figure 3C, antiIgE AAbs from the CSU patients induced significantly more FceRI
+crosslinking than anti-IgE AAbs from the NC subjects (P = 0.0106;
+odds ratio, 2.51) with a cutoff value of a 1.302-fold increase derived
+from a ROC analysis comparing NC subjects and CSU patients
+(Fig. 3D; sensitivity, 70.8% and specificity, 50.9%). Seventy percent
+of the patients with CSU exhibited a value that was over the cutoff
+value for the discrimination of the ability anti-IgE AAbs to induce
+FceRI crosslinking. The maximum effects of the anti-IgE AAbs from
+patients with CSU were almost equivalent to those induced by
+0.3 g/mL of rabbit anti-human IgE Ab (Fig. 3A). Significant correlations were not seen between the concentrations of anti-IgE AAbs
+and the levels of FceRI crosslinking in NC subjects and CSU patients
+(Fig. 3E, F). There were no significant differences in clinical parameters between CSU patients with a value lower than the cutoff
+value for the discrimination of the ability of anti-IgE AAbs to induce
+FceRI crosslinking (<1.302-fold) and patients with a value higher
+than the cutoff value (>1.302-fold, Table 3). Although no significant
+correlations were observed between the ability of anti-FceRIa and
+anti-IgE AAbs to induce FceRI aggregation in NC subjects (Fig. 3G)
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+6 S. Izaki et al. / Allergology International xxx (xxxx) xxx
+
+      
+
+ 
+
+ 
+
+   
+
+A B c
+(a) P=0.0039 — (b) P=0.131
+
+101 5) —— 10 CRA2 15
+ry ** p< 0.0005 o
+8 =" p< 0.0001 ane 2 4 3 (git) g °
+2 2 Vo3 £ 10
+8 36 3 6 01 8 :
+£ o £ £
+= 3x10! £3 4 =
+z 3 4 \ Bs
+irq 2 4 27 oN 2 > °°
+
+10° 0 otii>___ as ___
+
+102 107 10° 10' Adsorption (.) (+) (+) NC CSU
+CRA1 (ng/mL) with sol FceRla (n=55) (n= 134)
+(n= 9)
+D E
+NC (n= 55) CSU (n = 134)
+2.0 r= 0.239 15 r= -0,0106
+245 P= 0.0789 ° P= 0,903
+
+8
+£ 1.0
+= 1.0
+
+© 0.5
+o
+0
+
+Fold increase
+
+ 
+
+0 10 20 30 40 0 5 10
+anti-FceRla AAbs (ug/mL)
+
+ 
+
+15 20 25
+
+anti-FceRla AAbs (ug/mL)
+
+Fig. 2. Evaluation of ability of anti-FceRIa AAbs to induce FceRI aggregation in patients with CSU, compared with NC subjects. (A) Standard curve for the fold inductions in luciferase
+fluorescence induced by mouse anti-human FceRIa mAb (clone CRA1). The results are shown as the mean + SEM of 9 independent experiments. (B) The fold inductions of luciferase
+chemiluminescence by anti-FceRIa AAbs-stimulation were dependent on cell surface FceRI on mast cells. The purified IgG from patients with CSU (a) or CRA2 (b) was preincubated
+with well-coated rh soluble FceRIa, and the resulting supernatants were used in the modified EXiLE test. sol FceRIa, soluble FceRIa. (C) Comparison of ability of anti-FceRIla AAbs to
+induce FceRI aggregation between NC subjects and patients with CSU (scatter plot). The medians and inter-quartile ranges are also shown. (D) and (E) Correlation between the
+concentrations of anti-FceRIa AAbs and the fold increases in NC subjects (D) and CSU patients (E).
+
+and CSU patients (Fig. 3H), the ability of anti-IgE AAbs to induce
+FceRI aggregation tended to be correlated with the ability of antiFceRIa AAbs to induce FceRI aggregation.
+
+Comparison of the modified EXiLE test with the histamine release
+assay in human basophils and cultured synovium-derived mast cells
+following FceRI aggregation
+
+The values of the modified EXiLE test were compared with the
+results of the histamine release assay for human basophils and
+human synovium-derived cultured mast cells in response to
+0.03—1000 ng/mL of mouse anti-human FceRIa mAb (clone CRA1)
+or 0.01—10 pg/mL of rabbit anti-human IgE Ab. Human basophils
+were activated in response to 3—1000 ng/mL of CRA1 (Fig. 4A).
+Comparison of the results of the basophil activation test (Fig. 4A)
+and modified EXiLE test for CRA1 (Fig. 2A) revealed a 30- to-100fold higher sensitivity of the latter for detecting FceRI crosslinking. The human synovium-derived cultured mast cells induced
+histamine release in response to 3—1000 ng/mL of CRA1 (Fig. 4C).
+Human basophils and human synovium-derived cultured mast
+cells were activated in response to 0.03—10.00 jwg/mL and
+0.01—10.00 j1g/mL of anti-human IgE Ab, respectively (Fig. 4B, D),
+indicating that the anti-IgE AAbs from patients with CSU had the
+ability to induce histamine release from both human basophils and
+synovium-cultured mast cells.
+
+Discussion
+
+This is the first definite report to demonstrate that the abilities
+of anti-IgE AAbs in purified IgG obtained from a large number of
+patients with CSU to induce FceRI crosslinking were significantly
+higher than those of anti-IgE AAbs from NC subjects (Fig. 3C);
+however, similar results were not observed for anti-FceRla AAbs
+(Fig. 2C). When the modified EXiLE tests was compared to activation assays for human basophils and synovium-derived cultured
+mast cells (Fig. 4), the modified EXiLE test was found to be
+
+appropriate for evaluating the crosslinking of FceRI by anti-IgE AAbs
+in a disease context.
+
+Our observation suggests that there is something qualitatively
+different about these AAbs in the sera of patients with CSU that
+causes them to crosslink FceRI and thus could be a mechanism of the
+CSU for this population of patients with CSU. The finding that there
+was no correlation between the concentrations of anti-IgE AAbs and
+the ability of the AAbs to induce FceRI crosslinking in purified IgG
+from patients with CSU (Fig. 3E) suggests that only a small fraction of
+the total AAbs are responsible for driving the disease per se. AntiFceRIa and anti-IgE AAbs from patients with CSU would contain
+polyclonal Abs in nature and might contain a mixture of anti-FceRIa
+and anti-IgE AAbs with different biological functions, including
+different isotypes. Thus, these findings support the hypothesis that
+either the avidity of the offending AAbs is different from that of the
+innocuous ones, that the bound epitopes differ, or that the proportion of isotypes of the AAbs differ. We found that the avidity of antiFceRIa AAbs from patients with CSU was significantly higher than
+that from NC subjects (Supplementary Fig. 2A, P = 0.012), but there
+was no significant correlation between the avidity of anti-FceRIa
+AAbs and the ability of anti-FceRIa. AAbs to induce FceRI crosslinking
+in patients with CSU (Supplementary Fig. 2B). Also, the ratio of IgG1
+anti-FceRIa AAbs to IgG4 anti-FceRla AAbs between NC subjects and
+patients with CSU were not significant (Supplementary Fig. 2C).
+Although we were unable to investigate the difference in the epitopes of these AAbs between NC subjects and patients with CSU, the
+different abilities of anti-FceRIa and anti-IgE AAbs to induce FceRI
+crosslinking may be due to the mixtures of different avidities, epitopes and isotypes of the offending and innocuous AAbs in patients
+with CSU. Further studies are needed to clarify the qualitative difference in anti-FceRIa and anti-IgE AAbs between NC subjects and
+patients with CSU.
+
+Since complement was excluded in our modified EXiLE test for
+measuring the ability of these AAbs to induce FceRI crosslinking by
+using purified IgG, the fold increases were induced by IgG alone.
+Another factor that would affect the modified EXiLE test is crosslinking between FcyRIIb and FceRI. Human IgGs reportedly bind to
+
+ 
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+S. Izaki et al. / Allergology International xxx (xxxx) xxx 7
+
+      
+  
+ 
+
+      
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B c out or ise
+(a) P=0.0039 (b) P=0.0106
+» 10 *p<0.005 oe > 25 10 4% —
+a ™* p< 0.0005 o a
+Hy sp <0.001 g 20 8 3 4
+S 515 6 3 3
+£3x10° = 10 4 £5) ° 3°
+z 5 i 3 oo
+2 2 05 2 21 ae = ae
+10°. 0 0 0
+10% 102 10-7 10° 101 Adsorption with (-) (+) ¢) NC CSU
+anti-IgE Ab (ugimL) sol FceRla + IgE (n=55) (n= 130)
+(n=8)
+D E F
+NC (n = 55) CSU (n = 130)
+400 AUC = 0. 616 5 r=0.230 5 r= 0.367
+© 2 P=0.0916 @ ‘ P=0.679
+a 80 a4 a4
+2 60 33 é 53
+= 40 =. = 2
+= 30, Sensitivity: 70.8 Bq Beem e se 3)
+2 Specificity: 50.9 ze i 0. 0
+0 20 40 60 80 100 0 05 10 15 20 0 5 10 15
+100% - Specificity % anti-IgE AAbs (g/mL) anti-IgE AAbs (yg/mL)
+G H
+NC (n= 55) CSU (n = 130)
+= -0.17!
+_3 ps ned 54 r= 0.0327
+. ji °
+g g ° g 84] P=0.712
+$a 2 s2,
+Ee) rc Esl cet
+Be ae ° 2 *
+es es
+o+ ot
+0 05 1.0 15 2.0 2.5 0 5 10 15
+Fold increase Fold increase
+(anti-FceRla AAbs) (anti-FceRla AAbs)
+
+Fig. 3. Evaluation of ability of anti-IgE AAbs to induce FceRI aggregation in patients with CSU, compared with NC subjects. (A) Standard curve for the fold inductions in luciferase
+fluorescence induced by rabbit anti-human IgE Ab. The results are shown as the mean + SEM of 8 independent experiments. (B) Anti-FceRIa. AAbs in purified IgG were absorbed. The
+purified IgG from patients with CSU (a) or rabbit anti-human IgE polyclonal Ab (b) was preincubated with well-coated human myeloma IgE, and the resulting supernatants were
+used in the modified EXiLE test. sol FceRIa, soluble FceRIa. (C) Comparison of ability of anti-IgE AAbs to induce FceRI aggregation between NC subjects and patients with CSU (scatter
+plot). The medians and inter-quartile ranges are also shown. (D) ROC curve analysis for stratifying CSU patients according to the fold increases (modified EXiLE test); at the
+calculated cutoff of a 1.302-fold increase, the assay provided the best discrimination between NC subjects and CSU patients (P = 0.0106) and the optimal values for sensitivity
+(70.8%) and specificity (50.9%). (E) and (F) Correlation between the concentrations of anti-IgE AAbs to the fold increases in NC subjects (E) and CSU patients (F). (G) and (H)
+Correlation between the ability of anti-FceRIa and anti-IgE AAbs to induce FceRI aggregation in NC subjects (G) and CSU patients (H).
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compnicon of patient characteristics between CSU patients with a value lower than MOUSE FcyRIlb with remarkably similar binding strength to human
+the cutoff value for the discrimination of the ability of anti-IgE AAbs to induce FceRI FcyRIlb.** Therefore, human IgGs are most likely to bind to rat
+crosslinking and patients with a value higher than the cutoff value. FcyRIIb. It should be noted that human mast cells and basophils
+Fold increase P value express FcyRIIb. Thus, the results of the modified EXiLE test for
+TT measuring the ability of anti-IgE AAbs to induce FceRI crosslinking
+<1302 = 1302 using RS-ATL8 cells might reflect the ability of anti-IgE AAbs to
+
+Number 38 92 induce FceRI crosslinking using human mast cells and basophils.
+hae ase edian (range) Se 76) DB AS-87 en ; The question is whether anti-FceR1 0 AAbs detected in patients
+Durations of illness (months), 31(2-480)  24(2-300) 0.783 with CSU may play any physiological role, since the ability of these
+median (range) AAbs to induce aggregation of FceRI did not differ significantly
+ASST positive (%) 33.3 43.6 0.461! between the NC subjects and CSU patients (Fig. 2C). Addition of
+ee eS ee (range) sta apy 38 ti 8) eee more than 3 ng/mL of CRA1 induced activation of basophils
+Serum IgE level (IU/mL, mean + SD) 241.8 +2308 421.7 +6564. 0.140: (Fig. 4A). CRA1 (3 ng/mL) induced about a 5-fold increase in the
+Blood basophils (mm2, mean+ SD) 40.8 + 45 3194214 0.634: luciferase fluorescence intensity (Fig. 2A). However, a 5-fold inAnti-nuclear AAbs positive (%) 16.1 14.1 0.769! crease induced by the anti-FceRIla AAbs was observed in only two
+Anti-thyroglobulin AAbs positive (%) 10.3 8.6 0.719" patients with CSU and none of NC subjects (Fig. 2C). These findings
+Antithyrold microsomal a ie Ongs suggest that anti-FceRlo, AAbs obtained from a very small popula
+AAbs positive (%) . : . : . :
+Anti-FceRIa. AAbs (jig/mL, mean + SD) 194+230 2314291 0253: tion of patients with CSU might be able to activate basophils.
+
+Anti-IgE AAbs (g/mL, mean + SD) 1.214129 1404+1.81 0.830; The absence of any significant correlations between the results
+euHHiaGa ©. of ASST and the results of the modified EXiLE test (Table 3) sug
+gested that circulating histamine-releasing factors may include not
+32.33
+
+SD, standard deviation.
+| Fisher exact test. +
++ Mann Whitney U test. only IgG AAbs but also complement,*> autoreactive Ig!
+
+ 
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+doi.org/10.1016/j.alit.2019.01.003
+
+ 
+
+ 
+
+ 
+8 S. Izaki et al. / Allergology International xxx (xxxx) xxx
+
+So
+
+-2-nNowOBR a
+oooscsd
+
+% of CD203c
+positive basophil
+
+0
+3.
+ll
+3
+1
+3
+100
+
+°o
+So
+oO
+
+1000:
+fmip:
+
+oS
+
+0.0
+
+anti-FceRla Ab
+(ng/mL)
+
+100
+80
+60
+40
+20
+
+0
+esua-ees
+o
+
+% Histamine Release
+
+oo
+oo
+=O
+
+1000
+A23187
+anti-FceRla Ab
+(ng/mL)
+
+B
+=50
+3 $40
+a 830
+o
+5 £20
+3910
+8 0
+essere reres
+oaf? E
+anti-lgE Ab
+(ug/mL)
+D
+oa
+@ 100
+2
+& 80
+g 60
+— 40
+s§
+2 20
+=
+« 0
+"  988sgrees
+oo oO
+—_
+anti-lgE Ab
+(ug/mL)
+
+Fig. 4. Activation of human basophils and synovium-derived cultured mast cells following aggregation of FceRI. The percentages of CD203c-positive basophils among all basophils
+after stimulation with 0.03—1000.00 ng/mL of mouse anti-human FceRIa mAb (clone CRA1, A) and 0.01—10.00 g/mL of rabbit anti-human IgE Ab (B) are shown. fmlp; N-formylmethionyl-leucyl-phenylalanine (10> M) Results are shown as the means + SD of three experiments using samples from three different healthy donors. Histamine release from
+human synovium-derived cultured mast cells in response to 0.03—1000.00 ng/mL of mouse anti-human FceRIa mAb (clone CRA1, C) and 0.01—10.00 pg/mL of rabbit anti-human IgE
+Ab (D). A23187: calcium ionophore A23187 (10°° M) Results of (D) are shown as the mean + SD of three experiments using three different patients with osteoarthritis. (A)
+representative data from three experiments using three different patients with osteoarthritis are shown in (C).
+
+neuropeptides,*°*” coagulation factors*® and unknown factors. A
+positive result of the ASST apparently persisted even after IgG
+depletion from the sera of patients with CSU, suggesting that a
+positive result of ASST may indicate the presence of other vasoactive factors rather than that of IgG AAbs.*?
+
+A significant difference in the duration of illness was noted
+between CSU patients with lower and higher concentrations of
+anti-IgE AAbs relative to the cutoff value (Table 2, P = 0.0101). The
+mechanisms have been unknown. Previous studies reported that
+the presence of serum anti-thyroid AAbs, levels of vitamin D, total
+IgE levels, and the present with concomitant angioedema or
+inducible urticaria were linked to disease duration.4° Further
+research is needed to clarify the mechanisms why CSU patients
+with higher concentrations of anti-IgE AAbs may show longer
+disease duration.
+
+Because the specificity revealed by the ROC analysis was only
+50.9%, many NC subjects had higher titers than the tentative cutoff
+value. This was a limitation of the present study. We could not
+estimate a definite cutoff value for the ability of anti-IgE AAbs for
+aggregation of FceRI because of the small number of patients and
+the paucity of previous reports suitable for verifying the validity of
+the cutoff value. The findings need to be confirmed in different
+cohorts, each comprising at least 200 individuals.
+
+The result of this study is different from those published previously by researchers in the USA and Europe. They reported that
+the frequencies of patients, whose sera containing anti-FceRIa AAbs
+
+have ability of degranulation of basophils, were higher compared
+with those, whose sera containing anti-IgE AAbs do“! ~*? and that
+the frequencies of anti-FceRIa AAbs-positive patients were higher
+than those of anti-IgE AAbs.?°*?*? Several groups°?!!!341:42.4445
+have reported that the percentage of patients (or subjects) carrying anti-FceRIa AAbs was higher in patients with CSU than in NC
+subjects. Although Fiebiger et al.'° have reported that in patients
+with CSU the percentage of anti-IgE AAbs carrying patients (69%)
+was higher than the percentage of anti-FceRIa AAbs carrying patients (37.5%), they also found anti-IgE AAbs in 73% and 26% of
+patients with atopic dermatitis and healthy controls, respectively
+and they found anti-FceRIa AAbs neither in patients with atopic
+dermatitis nor healthy controls, suggesting that anti-IgE AAbs are
+poorly disease specific. A few have reported that the percentage of
+patients (or subjects) carrying anti-FceRIa AAbs did not differ between CSU patients and NC subjects.”“*?° This discrepancy might
+be due to the different methods used for detecting the AAbs or
+differences in the populations examined. Furthermore, the finding
+that concentration of anti-IgE AAbs was significantly different between the NC subjects and CSU patients, whereas that of antiFceRIa AAbs was not, may be consistent with the clinical observation that omalizumab, a humanized anti-IgE mAb, was effective in
+most antihistamine-refractory CSU patients.” However, further
+studies are required to validate this hypothesis.
+
+In conclusion, the ability of anti-IlgE AAbs, compared with antiFceRIa AAbs, to induce FceRI crosslinking was capable o'
+
+ 
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+Please cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRIa AAbs, Allergology International, https://
+
+ 
+
+ 
+S. Izaki et al. / Allergology International xxx (xxxx) xxx 9
+
+differentiating between NC subjects and patients with CSU. This
+finding provides further insight into the pathogenesis of CSU as an
+autoimmune disease.
+
+Acknowledgments
+
+We thank the staff members of the Departments of Dermatology
+of Nihon University Hospital for supplying the human specimens
+and for their willing and capable assistance. This work was supported in part by Grants-in-Aid for Scientific Research from the
+Ministry of Education, Culture, Sports, Science and Technology of
+the Japanese Government (Project No. (C) 15K09558, awarded to
+Y.O. and Project No. 17K10257, awarded to T.T., K.H. and Y.O.), the
+Nihon University Multidisciplinary Research Grant for 2015—2016
+and 2018 (Project No. So15-010, So-16-014 and So18-009, awarded
+to Y.O.), and the MEXT-Supported Program for the Strategic
+Research Foundation at Private Universities, 2015—2019 (Project
+No. $1511014, awarded to T.T and Y.O.).
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.alit.2019.01.003.
+
+Conflict of interest
+The authors have no conflict of interest to declare.
+
+Authors’ contributions
+
+SI, ST, TE, KK, JK and TS performed experiments. SI, TE and KH contributed to
+data collection. SI, ST, TE and JK performed the statistical analysis. RN and HA
+advised experiments. YO designed the study and wrote the manuscript. SN supervised SI. TT and CR supervised SI, TE, ST and KH. All authors read and approved the
+final manuscript.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B,
+et al. The EAACI/GA(2)LEN/EDF/WAO Guideline for the definition, classification,
+diagnosis and management of urticaria. The 2017 revision and update. Allergy
+2018;73:1393—414.
+
+2. Kaplan AP. Chronic spontaneous urticaria: pathogenesis and treatment considerations. Allergy Asthma Immunol Res 2017;9:477—82.
+
+3. Church MK, Kolkhir P, Metz M, Maurer M. The role and relevance of mast cells
+in urticaria, Immunol Rev 2018;282:232—47.
+
+4. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: what we know and what we do not know.
+J Allergy Clin Immunol 2016;139:1772—81.
+
+5. Cho CB, Stutes SA, Altrich ML, Ardoin SP, Phillips G, Ogbogu PU. Autoantibodies
+in chronic idiopathic urticaria and nonurticarial systemic autoimmune disorders. Ann Allergy Asthma Immunol 2013;110:29—33.
+
+6. Fiebiger E, Hammerschmid F, Sting] G, Maurer D. Anti-FceRIa, autoantibodies in
+autoimmune-mediated disorders. Identification of a structure-function relationship. J Clin Invest 1998;101:243—51.
+
+7. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in
+chronic urticaria. J Allergy Clin Immunol 2001;107:1056—62.
+
+8. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW. Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in
+chronic urticaria. N Engl J Med 1993;328:1599—604.
+
+9. Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional and binding
+assays for IgG anti-FceRI». (#-subunit) in chronic urticaria. J Allergy Clin Immunol
+1998;101:672—6.
+
+10. Niimi N, Francis DM, Kermani F, O'Donnell BF, Hide M, Kobza-Black A, et al.
+Dermal mast cell activation by autoantibodies against the high affinity IgE
+receptor in chronic urticaria. J Invest Dermatol 1996;106:1001—6.
+
+11. Zuberbier T, Henz BM, Fiebiger E, Maurer D, Stingl G. Anti-FceRIa serum autoantibodies in different subtypes of urticaria. Allergy 2000;55:951—4.
+
+12. Kikuchi Y, Kaplan AP. A role for C5a in augmenting IgG-dependent histamine
+release from basophils in chronic urticaria. J Allergy Clin Immunol 2002;109:
+114-8.
+
+13. Fiebiger E, Maurer D, Holub H, Reininger B, Hartmann G, Woisetschlager M,
+et al. Serum IgG autoantibodies directed against the « chain of FceRI: a selective
+marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J Clin Invest 1995;96:2606—12.
+
+14. Nakamura R, Ishiwatari A, Higuchi M, Uchida Y, Nakamura R, Kawakami H,
+et al. Evaluation of the luciferase assay-based in vitro elicitation test for serum
+IgE. Allergol Int 2012;61:431—7.
+
+15. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update.
+Allergy 2014;69:868—87.
+
+16. Mathias SD, Crosby RD, Rosen KE, Zazzali JL. The minimal important difference
+for measures of urticaria disease activity: updated findings. Allergy Asthma Proc
+2015;36:394—8,
+
+17. Hide M, Hiragun T, Japanese Dermatological Association. Japanese guidelines
+for diagnosis and treatment of urticaria in comparison with other countries.
+Allergol Int 2012;61:517—27.
+
+18. Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CE, EAACI/GA(2)LEN task force consensus report: the autologous serum
+skin test in urticaria. Allergy 2009;64:1256—68.
+
+19. Ra C, Kuromitsu S, Hirose T, Yasuda S, Furuichi K, Okumura K. Soluble human
+high-affinity receptor for IgE abrogates the IgE-mediated allergic reaction. Int
+Immunol 1993;5:47—54,
+
+20. Takai T, Yuuki T, Iwamoto-Yasue N, Okumura K, Ra C. Epitope analysis and
+primary structures of variable regions of anti-human FceRI monoclonal antibodies, and expression of the chimeric antibodies fused with human constant
+regions. Biosci Biotechnol Biochem 2000;64:1856—67.
+
+21. Takai T, Yuuki T, Ra C. Inhibition of IgE-dependent histamine release from
+human peripheral blood basophils by humanized Fab fragments that recognize
+the membrane proximal domain of the human FceRI g-chain. Int Arch Allergy
+Immunol 2000;123:308—18.
+
+22. Lee MF, Lin TM, Liu SW, Chen YH. A rapid method of detecting autoantibody against FceRIa. for chronic spontaneous urticaria. PLoS One 2014;9:
+e109565.
+
+23. Mozena JD, Tinana A, Negri J, Steinke JW, Borish L. Lack of a role for crossreacting anti-thyroid antibodies in chronic idiopathic urticaria. J Invest Dermatol 2010;130:1860—5.
+
+24. Pachlopnik JM, Horn MP, Fux M, Dahinden M, Mandallaz M, Schneeberger D,
+et al. Natural anti-FceRI. autoantibodies may interfere with diagnostic tests for
+autoimmune urticaria. J Autoimmun 2004;22:43—51.
+
+25. Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et al.
+Autologous whole blood injections to patients with chronic urticaria and a
+positive autologous serum skin test: a placebo-controlled trial. Dermatology
+2006;212:150—9.
+
+26. Atta AM, Rodrigues MZ, Sousa CP, Medeiros Junior M, Sousa-Atta ML. Autoantibody production in chronic idiopathic urticaria is not associated with
+Helicobacter pylori infection. Braz J Med Biol Res 2004;37:13—7.
+
+27. Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence and
+functional role of anti-IgE autoantibodies in urticarial syndromes. J Invest
+Dermatol 1988;90:213—7.
+
+28. Nakamura R, Uchida Y, Higuchi M, Nakamura R, Tsuge I, Urisu A, et al.
+A convenient and sensitive allergy test: IgE crosslinking-induced luciferase
+expression in cultured mast cells. Allergy 2010;65:1266—73.
+
+29. Eskandari N, Bastan R, Ahmadi M, Peachell PT. Evaluation of the correlation and
+reproducibility between histamine, IL-4, and IL-13 release from human basophils. Ir J Allergy Asthma Immunol 2014;13:190—7.
+
+30. Zenarruzabeitia O, Vitalle J, Terren I, Orrantia A, Astigarraga I, Dopazo L,
+et al. CD300c co-stimulates IgE-mediated basophils activation and its
+expression is increased in cow s milk allergy. J Allergy Clin Immunol 2019;
+143:700—11.e5.
+
+31. De Swerdt A, Van Den Keybus C, Kasran A, Cadot P, Neyens K, Coorevits L,
+et al. Detection of basophil-activating IgG autoantibodies in chronic idiopathic urticaria by induction of CD 63. J Allergy Clin Immunol 2005;116:
+662-7.
+
+32. Hatada Y, Kashiwakura J, Hayama K, Fujisawa D, Sasaki-Sakamoto T,
+Terui T, et al. Significantly high levels of anti-dsDNA immunoglobulin E in
+sera and the ability of dsDNA to induce the degranulation of basophils
+from chronic urticaria patients. Int Arch Allergy Immunol 2013;161(Suppl
+2):154-8.
+
+33. Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a
+common and specific autoantigen of IgE in chronic spontaneous urticaria.
+J Allergy Clin Immunol 2018;142:876—82.
+
+34. Dekkers G, Bentlage AEH, Stegmann TC, Howie HL, Lissenberg-Thunnissen S,
+Zimring J, et al. Affinity of human IgG subclasses to mouse Fe receptors. MAbs
+2017;9:767—73.
+
+35. Ferrer M, Nakazawa K, Kaplan AP. Complement dependence of histamine
+release in chronic urticaria. J Allergy Clin Immunol 1999;104:169—72.
+
+36. Fujisawa D, Kashiwakura J, Kita H, Kikukawa Y, Fujitani Y, Sasaki-Sakamoto T,
+et al. Expression of Mas-related gene X2 on mast cells is upregulated in the skin
+of patients with severe chronic urticaria. J Allergy Clin Immunol 2014;134:
+622—33..e9.
+
+37. Metz M, Krull C, Hawro T, Saluja R, Groffik A, Stanger C, et al. Substance P is
+upregulated in the serum of patients with chronic spontaneous urticaria.
+J Invest Dermatol 2014;134:2833—6.
+
+38. Asero R, Tedeschi A, Riboldi P, Cugno M. Plasma of patients with chronic urticaria shows signs of thrombin generation, and its intradermal injection
+causes wheal-and-flare reactions much more frequently than autologous
+serum. J Allergy Clin Immunol 2006;117:1113—7.
+
+39. Fagiolo U, Kricek F, Ruf C, Peserico A, Amadori A, Cancian M. Effects of
+complement inactivation and IgG depletion on skin reactivity to autologous
+serum in chronic idiopathic urticaria. J Allergy Clin Immunol 2000;106:
+567-72.
+
+ 
+
+ 
+
+Plea
+
+ 
+
+doi.org/10.1016/j.alit.2019.01.003
+
+cite this article as: Izaki S et al., Differentiation between control subjects and patients with chronic spontaneous urticaria based on the
+ability of anti-IgE autoantibodies (AAbs) to induce FceRI crosslinking, as compared to anti-FceRla AAbs, Allergology International, https://
+
+ 
+
+ 
+ARTICLE IN PRESS
+
+10
+
+40.
+
+41.
+
+42.
+
+43.
+
+S. Izaki et al. / Allergology International xxx (xxxx) xxx
+
+Deza G, Ricketti PA, Gimenez-Arnau AM, Casale TB. Emerging biomarkers and
+therapeutic pipelines for chronic spontaneous urticaria. J Allergy Clin Immunol
+Pract 2018;6:1108—17.
+
+Tong LJ, Balakrishnan G, Kochan JP, Kinet JP, Kaplan AP. Assessment of autoimmunity in patients with chronic urticaria. J Allergy Clin Immunol 1997;99:
+461-5.
+
+Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CE, et al. Classification of anti-FceRI and anti-IgE autoantibodies in chronic idiopathic urticaria and correlation with disease severity. J Allergy Clin Immunol 2002;110:
+492-9.
+
+Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes
+in chronic idiopathic urticaria in relation to disease activity and autoantibodies.
+J Invest Dermatol 2008;128:1956—63.
+
+44, Sun L, Erxun K, Li J, Yang J, Han C. Correlations between anti-mast cell autoantibodies and chronic idiopathic urticaria. Ann Dermatol 2014;26:145—9.
+
+45. Hidvegi B, Nagy E, Szabo T, Temesvari E, Marschalko M, Karpati S, et al. Correlation between T-cell and mast cell activity in patients with chronic urticaria.
+Int Arch Allergy Immunol 2003;132:177—82.
+
+46. Vasagar K, Vonakis BM, Gober LM, Viksman A, Gibbons Jr SP, Saini SS. Evidence
+of in vivo basophil activation in chronic idiopathic urticaria. Clin Exp Allergy
+2006;36:770—6.
+
+47. Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E,
+Bradley MS, et al. Efficacy and safety of omalizumab in patients with
+chronic idiopathic/spontaneous urticaria who remain symptomatic on H1
+antihistamines: a randomized, placebo-controlled study. J Invest Dermatol
+2015;135:925.
+
+ 
+

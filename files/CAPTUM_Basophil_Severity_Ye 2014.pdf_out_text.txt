@@ -1,0 +1,546 @@
+ORIGINAL ARTICLE
+
+CrossMark Immunology, Allergic Disorders & Rheumatology
+
+Click for updates
+
+JKMS
+
+ 
+
+http://dx.doi.org/10.3346/jkms.2014.29.1.43 « J Korean Med Sci 2014; 29: 43-47
+
+Increased Level of Basophil CD203c Expression Predicts Severe
+
+Chronic Urticaria
+
+Young-Min Ye, Eun-Mi Yang,
+Hye-Soo Yoo, Yoo-Seob Shin,
+Seung-Hyun Kim, and Hae-Sim Park
+
+Department of Allergy and Clinical Immunology,
+Ajou University School of Medicine, Suwon, Korea
+
+Increased FesR10 expression with upregulated CD203c expression on peripheral basophils is
+seen in patients with chronic urticaria (CU). However, there has been no published report
+on the association between CD203c expression level and clinical disease activity in CU
+patients. To investigate whether the increase of basophil activation is associated with the
+disease activity of CU, we measured basophil CD203c expression using a tricolor flow
+
+cytometric method in 82 CU patients and 21 normal controls. The relationship between the
+
+Received: 24 September 2013
+Accepted: 8 November 2013
+
+Address for Correspondence:
+
+Hae-Sim Park, MD
+
+Department of Allergy and Clinical Immunology, Ajou University
+School of Medicine, 164 Worldcup-ro, Yongtong-gu, Suwon
+443-721 Korea
+
+Tel: +82.31-219-5150, Fax: +82.31-219-4265
+
+E-mail: hspark@ajou.ac.kr
+
+percentage of CD203c-expressing basophils and clinical parameters was analyzed. The
+mean basophil CD203c expression was significantly higher in CU patients than in healthy
+controls (57.5% vs 11.6%, P< 0.001). The basophil CD203c expression in severe CU
+patients was significantly higher than in non-severe CU (66.5% + 23.3% vs
+
+54.0% + 23.3%, P= 0.033). Multiple logistic regression analysis indicated that both
+
+> 72% basophil CD203c expression and urticaria activity score (UAS) > 13 were significant
+predictors of severe CU (P= 0.005 and P = 0.032, respectively). These findings suggest
+
+that the quantification of basophil activation with CD203c at baseline may be used as a
+
+This work was supported by both a Korean Science and
+Engineering Foundation grant (MEST, 2009-00786746) and by a
+grant from the National Research Foundation, the Korean
+Government (MEST 2013-003341).
+
+INTRODUCTION
+
+Chronic urticaria (CU) is a common skin disorder characterized by persistent or recurrent itchy wheals that last for at least 6
+weeks. The cause of CU is heterogeneous, as many triggering
+and aggravating factors are involved in its pathogenesis, including physical stimuli, drugs, infections, and autoimmune mechanisms. The clinical phenotypes, severity, and prognosis of CU
+differ from patient to patient, so that management strategies
+need to be personalized. Recent guideline suggests a stepwise
+treatment based on effective symptomatic control with non-sedating antihistamines up to four folds of dosage, which is often
+efficacious but may not reach well-controlled state in 5% to as
+many as 50% of CU patients (1, 2). The growing evidence that
+autoimmunity and altered basophil functions are involved in
+the pathogenesis of CU has accelerated the introduction of immunomodulating agents for refractory patients (1, 3-5). Accordingly, the need for safe and reliable in vitro diagnostic tools to
+link each mechanism with reasonable therapeutic approaches
+has increased. Although elevated plasma levels of metalloproteinase (MMP) 9, interlukin (IL) 6 and 18 and D-dimer have
+been reported as possible biomarkers in association with CU
+severity, those are not specific for the pathogenesis of CU (6-9).
+Approximately half of CU patients are characterized by an autoreactive state with autoantibodies specific for the high-affinity
+
+© 2014 The Korean Academy of Medical Sciences.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http: /creativecommons.org/licenses/by-nc/3.0)
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited
+
+potential predictor of severe CU requiring another treatment option beyond antihistamines.
+
+Keywords: Chronic Urticaria; Basophil Activation; CD203c Protein, Human
+
+IgE receptor (FceRIa) and IgE itself (10). Although both the sensitivity and specificity of the autologous serum skin test (ASST)
+are limited, it has been recommended for defining a subgroup
+with autoreactive CU (10). However, the association between
+ASST positivity and disease activity is inconsistent.
+
+Basophils are rare granulocytes that resemble tissue mast
+cells, in that they express FceRIa and release histamine and chemical mediators (11). In active CU patients, basophils infiltrate
+the urticarial wheals and there is relative basopenia (12-14).
+While peripheral basophils do not represent cutaneous basophils completely, basophil histamine release (BHR) using healthy donor basophils has been used to evaluate autoreactive CU
+(15, 16). The basophil activation test (BAT) using flow cytometry has been applied as an in vitro diagnostic method for various allergic diseases (17). CD203c (ectonucleotide pyrophosphatase [E-NPP3]) is a surface marker observed uniquely on
+basophils and mast cells that is upregulated by anti-IgE antibody and allergens (18). For predicting causative allergens in
+patients with food, insect sting and drug allergy, the measurement of basophil CD203c expression induced by various kinds
+of allergens is reported to be useful (17, 19).
+
+To-date, few studies have examined the phenotypes and characteristics of basophils in CU patients (14, 20, 21). Although the
+expression of the basophil activation markers CD63 and CD69
+is increased in CU patients (22), there is to our knowledge no
+
+pISSN 1011-8934
+elSSN 1598-6357
+JKMS
+
+Ye Y-M, et al. * Increased Basophil CD203c Expression Predicts Severe Chronic Urticaria
+
+ 
+
+report of the clinical relevance of CD203c-BAT in CU patients.
+Therefore, this study evaluated the association of basophil CD203c
+expression with urticarial activity and autoimmunity in CU patients.
+
+MATERIALS AND METHODS
+
+Subjects
+
+This was a hospital-based, cross-sectional study including 21
+healthy controls (NC) and 82 CU patients who had current urticarial symptoms almost daily for at least 6 weeks. CU disease
+activity was assessed using the urticaria activity score (UAS),
+which combines pruritus and four characteristics of wheals, including number, distribution range, mean diameter, and duration in total score range, 0-15, with higher scores indicating higher disease activity (23). After 3 months from the enrollment, we
+reviewed medical records and calculated the medication requirement of each CU patient enrolled. Those patients requiring more than a third level of medication according to the guidelines or systemic steroids to control urticaria were classified as
+severe CU (10).
+
+Autologous serum skin test and measurements of total IgE
+and anti-thyroid antibody
+
+Antihistamines and corticosteroids were withdrawn at least 1
+week before blood sampling. Intradermal autologous serum
+skin test (ASST) was performed following the method by EAACI/GA°’LEN task force consensus report (10). Serum-induced
+wheal of diameter greater by at least 1.5 mm than that of a control induced by saline at 30 min was accepted as positive. The
+levels of total IgE were measured by the ImmunoCAP system
+(Pharmacia Diagnostics, Uppsala, Sweden) according to the
+manufacturer’s instructions. Anti-thyroglobulin and thyroid
+microsomal antibodies were detected by radioimmunoassay
+(BRAHMS Aktiengesellschaft, Hennigsdorf, Germany).
+
+Sampling and assays
+
+The basophil CD203c expression was measured by flow cytometry. Subjects did not take any medication yet or stopped medication for at least one week before blood sampling. Whole blood
+was collected in ethylene diamine tetra-acetic acid (EDTA) tubes
+and red blood cells (RBCs) were lysed with RBC lysis buffer
+(0.154 M NH.Cl, 10 mM KHCOs;, 0.1 mM EDTA, pH 7.2-7.4). After washing with phosphate-buffered saline (PBS), the resuspended cells were stained with phycoerythrin (PE)-conjugated
+antihuman CD203c (Beckman Coulter, Marseille, France), fluorescein isothiocyanate (FITC)-conjugated antihuman CD123
+(BD PharMingen, San Jose, CA, USA), and allophycocyanin
+(APC)-conjugated antihuman human leukocyte antigen (HLA)DR (BD PharMingen), or isotype-matched controls on ice in
+the dark for 30 min. After washing once with PBS, the cells were
+
+44 = http://jkms.org
+
+analyzed on a FACS Canto II flow cytometer (Becton Dickinson, San Jose, CA, USA). The cells were gated initially based on
+the dot plot defined by the forward and side scatter, and then a
+second gate of high FITC-CD123+ cells and low APC-HLA-DR
+was defined to select the basophil population, analyzing at least
+500 basophils. The percent CD203c expression was defined as
+the percentage of basophils expressing more CD203c than the
+critical point located at 10° < x < 10‘ in the histogram, which
+was about 10% of the basophils incubated with buffer only in
+the normal control. This was determined by defining region M1
+on the histogram analysis.
+
+Statistical analysis
+
+The receiver-operating characteristic (ROC) curve was used to
+determine the optimal cutoff of the percentage of CD203c-expressing basophils used to diagnose CU, and the area under the
+curve (AUC) with a 95% confidence interval (CI) was computed. Fisher’s test and the Mann-Whitney U-test were used to
+compare the clinical characteristics of CU, including the positive rate of atopy, autoantibodies, and serum total IgE level. Spearman’s rho was used for the correlation analysis. Logistic regression was used to examine the effect of various factors on the
+optimal cut-off of basophil CD203c expression and the risk for
+severe CU. P values < 0.05 were considered to indicate statistical significance. All statistical analyses were performed using
+SPSS for Windows (ver. 12; SPSS, Chicago, IL, USA).
+
+Ethics statement
+
+All of the subjects gave written informed consent at the time of
+enrollment, and the study was approved by the institutional review board of Ajou University Hospital (AJIRB-GEN-GEN-09140).
+
+RESULTS
+The positive ASST, anti-thyroid autoantibody, and atopy rates
+were 37.8%, 19.0%, and 39% in the CU patients, respectively
+
+(Table 1). The mean white blood cell counts and differential for
+basophils in peripheral blood were 7,297.5 + 2,248.8/yL and
+
+Table 1. Clinical characteristics of study subjects
+
+ 
+
+ 
+
+Characteristics CU (n = 82) NC (n = 21) Pvalue
+No. of men (%) 32 (39.0) 11 (62.4) 0.324*
+Age (yr) 89.2 + 13.6 29.9 +7.0 0.003"
+Atopy rate 32 (39.0%) 4 (19.0%) 0.124*
+ASST positivity 31 (37.8%) 3 (14.3%) 0.066*
+Anti-thyroid Ab 15 (19.0%) NA
+
+Log[total IgE] 2.06 + 0.5 NA
+
+Baseline expression of CD203c 57.5 + 23.9 116480 <0.001
+
+ 
+
+*Fisher’s exact test, ‘Mann-Whitney test. ASST, autologous serum skin test; Log[total
+IgE], log-transformed serum total IgE levels; CU, chronic urticarial; NC, normal control; Ab, antibody; NA, not assessed.
+
+http://dx.doi.org/10.3346/jkms.2014.29.1.43
+Ye Y-M, et al. * Increased Basophil CD203c Expression Predicts Severe Chronic Urticaria
+
+JKMS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 P<0.001 P=0.033 Table 2. Predictors of severe chronic urticaria in the multiple logistic regression analr > ysis
+Variabl Pal Exp(B) sn
+= fariables value
+= 80 + ails : Lower Upper
+s Age (y) 0.534 1.013 0.972 1.056
+B eg | Men 0.470 1.524 0.486 4.776
+g 7 Atopy 0.120 0.381 0.113 1.285
+8 ASST 0.489 0.650 0.192 2.199
+qi 40 + UAS 2 13 0.032 3.590 1.119 11.516
+oS _ BAT-CD2038c > 72% 0.005 5.551 1.690 18.233
+3 95% Cl, 95% confidence interval; ASST, autologous serum skin test; UAS, urticaria
+& 20 5 activity score; BAT-CD203c, percentage of CD203c-expressing basophils.
+11.6280 575239 66.5+23.3 54.0233 (P< 0.001, Fig. 1). There was no significant difference in the
+NC cu SavareCU! NGfi-s8veraCU baseline basophil CD203c expression according to gender or
+n=21 n= 82 n=23 n=59 ASST, antithyroid autoantibodies, or atopy positivity rates among
+
+Fig. 1. Mean percentages of basophil CD203c expression (%) at baseline in normal
+controls (NC) and patients with chronic urticaria (CU) classified into severe and nonsevere groups. P values were determined using the Mann-Whitney U-test.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 f or OU
+__S
+80 +
+= et
+2
+=
+A
+&
+a” 40 2 |b Cutoff level: 21.3%
+Sensitivity: 91.4%
+Specificity: 90.5%
+0 20 40 60 80 100
+
+100-Specificity (%)
+
+Fig. 2. Receiver-operating characteristic (ROC) curve analysis yielded 21.3% CD203cexpressing basophils as the optimal cut-off for discriminating chronic urticaria (CU)
+from normal controls (NC). The sensitivity and specificity were 91.4% and 90.5%, respectively, with an AUC value of 0.963 (95% Cl, 0.932-0.995; P< 0.001). The sensitivity and specificity were calculated according to the identified optimal cutoffs, and
+Pvalues were adjusted for age and gender.
+
+0.5% + 0.2%, respectively. The 23 patients requiring at least thirdlevel treatment according to the guidelines were classified as
+severe CU. The mean UAS was significantly higher in severe CU
+(11.5 + 2.8 vs 9.8 + 3.2, P = 0.037), while their ASST response,
+positive anti-thyroid autoantibody and atopy rates did not differ from non-severe CU patients.
+
+In CU patients, the mean percentage of basophil CD203c expression at baseline was 57.5% + 23.9%, compared with an average activation of 11.6% + 8.0% of basophils in normal controls
+
+http://dx.doi.org/10.3346/jkms.2014.29.1.43
+
+the CU patients. The leukocyte differential of basophils in peripheral blood was significantly correlated with CD203c expression (r = -0.220, P = 0.049) and serum total IgE level (r = -0.237,
+P= 0.033).
+
+Taking a cutoff of 21.3% CD203c+ basophils as the positivity
+threshold yielded a sensitivity of 91.4% and a specificity of 90.5%
+with an AUC value of 0.9663 (95% CI, 0.931-0.995, P < 0.001).
+After adjusting for age, gender, and atopy, the logistic regression
+analysis revealed that the odds ratio for a 21.3% basophil CD203c
+expression at baseline for detecting CU patients was 166.04 (95%
+CI, 19.804-1392.071, P < 0.001, Fig. 2).
+
+Severe CU patients had significantly higher CD203c expression than the non-severe group (66.5% + 23.3% vs 54.0% + 23.3%,
+P = 0.033, Fig. 1). Using the ROC analysis of CD203c expression
+to determine severe CU, a cutoff of 72.0% CD203+ basophils was
+chosen as the threshold of severe CU. However, the sensitivity
+(65.2%) and specificity (71.7%) were not remarkable (95% CI,
+0.512-0.782). CD203c-expressing basophils = 72% (P = 0.005)
+and a UAS 2 13 (P = 0.032) were significant, independent predictors of severe CU after adjusting for other factors, including
+age, gender, atopy, and ASST results (Table 2).
+
+DISCUSSION
+
+This study confirmed previous reports (14, 21) that patients with
+CU show increased basophil CD203c expression at baseline and
+suggested that a cutoff basophil CD203c expression of 21.3% be
+used for determining basophil activation in CU patients, with a
+very high odds ratio of 166.04. Moreover, this study is the first to
+suggest that patients with severe CU have higher levels of basophil activation.
+
+We found a significant negative correlation between the number of peripheral basophils and both the percentage of CD203cexpressing basophils and total IgE level in CU patients. Previous
+investigators suggested that basophils migrate from the circulation into wheals according to the urticarial activity (12). It has
+
+http://jkms.org 45
+JKMS
+
+Ye Y-M, et al. * Increased Basophil CD203c Expression Predicts Severe Chronic Urticaria
+
+ 
+
+been demonstrated that serum IgE upregulates the expression
+of FceRI on human basophils both in vitro and in vivo (24). In
+response to cross-linking of IgE and FceRI, human basophils
+produce IL-3, which plays a crucial role in their development,
+survival, and priming for greater expression of activation markers and histamine release in an autocrine manner (14, 25). Various surface markers expressed on human basophils, such as
+CD63, CD69, and CD203c, have been used to demonstrate the
+role of basophils in vivo and in vitro (11, 12). Compared with
+other activation markers, the regulation of CD203c is not limited to the FceRI-mediated reaction, but is also induced by IL-3.
+CD203c is thought to be the most useful marker of basophil activation and differentiation (18, 26, 27). The measurement of
+basophil CD203c expression has been demonstrated to be useful for detecting causative allergenic components in patients
+with wheat allergy and wheat dependent exercise-induced anaphylaxis, insect sting and amoxicillin allergy (17, 19). If peripheral basophils of CU patients were sensitized by autoantibodies,
+inflammatory mediators and other extrinsic stimulants during
+the active urticaria, they would express a high amount of IgE
+bound to FceRIo, on their surface. And then, as like basophils
+from other allergic diseases are triggered by different stimulants
+(19), they upregulate several activation markers including CD203c
+on their surface. Notably, basophil CD203c expression was significantly higher in severe CU patients whose symptoms were
+not completely controlled with antihistamines.
+
+There are no convincing predictors of urticarial development
+after antihistamine treatment or when patients can stop taking
+immunomodulators. The guidelines emphasize using the UAS
+in clinical practice to determine disease activity and the response
+to treatment of CU (10). We also found that a UAS = 13 was a
+significant determinant of severe CU. However, as one recent
+study demonstrated (14), the ASST response was not reflected
+in the basophil CD203c expression or the clinical severity of the
+CU patients in our series. Flow cytometric BAT for CU patients
+is usually performed to detect the serologic factors in the patients that trigger histamine release from donor basophils. Recently, several serological markers, such as MMP-9, IL-6, IL-18,
+C-reactive protein and D-dimer, in association with the clinical
+severity of CU have been suggested (6-9). Since the coagulation
+factors, complement, and cytokines associated with chronic
+low-grade inflammation, in addition to the IgE- and FceRI-dependent pathways, may activate basophils, a variety of diagnostic
+tools should be used to further our understanding of CU. This
+study enrolled 82 CU patients and obtained the optimal cutoff
+for determining basophil activation in CU patients and identifying severe CU using ROC analysis, although a validation study
+is needed in a second cohort. Therefore, BAT using CD203c expression can be extended to assess the degree of basophil activation for predicting the clinical severity of and treatment response to CU.
+
+46 = http://jkms.org
+
+In conclusion, we suggest that the quantification of basophil
+CD203c expression at baseline is useful for predicting severe
+CU patients, who may need further treatment beyond antihistamines.
+
+DISCLOSURE
+
+The authors have no conflicts of interest to disclose.
+
+REFERENCES
+
+1. Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G, Church
+MK, Giménez-Arnau AM, Grattan CE, Kapp A, Maurer M, Merk HE, et
+al. EAACI/GA(2)LEN/EDF/WAO guideline: management of urticaria.
+Allergy 2009; 64: 1427-43.
+
+2. Morgan M, Khan DA. Therapeutic alternatives for chronic urticaria: an
+evidence-based review, part 1. Ann Allergy Asthma Immunol 2008; 100:
+403-11.
+
+w
+
+. Kaplan AP. Treatment of chronic spontaneous urticaria. Allergy Asthma
+Immunol Res 2012; 4: 326-31.
+
+4, Grattan CE, O’Donnell BE Francis DM, Niimi N, Barlow BJ, Seed PT,
+Kobza Black A, Greaves MW. Randomized double-blind study of cyclosporin in chronic ‘idiopathic’ urticaria. Br ] Dermatol 2000; 143: 365-72.
+
+. Nam YH, Kim JH, Jin HJ, Hwang EK, Shin YS, Ye YM, Park HS. Effects of
+
+omalizumab treatment in patients with refractory chronic urticaria. Al
+lergy Asthma Immunol Res 2012; 4: 357-61.
+
+Kessel A, Bishara R, Amital A, Bamberger E, Sabo E, Grushko G, Toubi E.
+
+Increased plasma levels of matrix metalloproteinase-9 are associated
+
+with the severity of chronic urticaria. Clin Exp Allergy 2005; 35: 221-5.
+
+Kasperska-Zajac A, Sztylc J, Machura E, Jop G. Plasma IL-6 concentra
+tion correlates with clinical disease activity and serum C-reactive protein
+
+wo
+
+>
+
+aa
+
+concentration in chronic urticaria patients. Clin Exp Allergy 2011; 41:
+1386-91.
+
+8. Tedeschi A, Lorini M, Suli C, Asero R. Serum interleukin-18 in patients
+with chronic ordinary urticaria: association with disease activity. Clin
+Exp Dermatol 2007; 32: 568-70.
+
+. Triwongwaranat D, Kulthanan K, Chularojanamontri L, Pinkaew S. Cor
+©
+
+relation between plasma D-dimer levels and the severity of patients with
+chronic urticaria. Asia Pac Allergy 2013; 3: 100-5.
+
+. Zuberbier T, Asero R, Bindslev-Jensen C, Walter Canonica G, Church
+MK, Giménez-Arnau A, Grattan CE, Kapp A, Merk HE, Rogala B, et al.
+EAACI/GA(2)LEN/EDF/WAO guideline: definition, classification and
+diagnosis of urticaria. Allergy 2009; 64: 1417-26.
+
+. Falcone FH, Knol EE Gibbs BE. The role of basophils in the pathogenesis
+of allergic disease. Clin Exp Allergy 2011; 41: 939-47.
+
+12. Grattan CE, Dawn G, Gibbs S, Francis DM. Blood basophil numbers in
+chronic ordinary urticaria and healthy controls: diurnal variation, influence of loratadine and prednisolone and relationship to disease activity. Clin Exp Allergy 2003; 33: 337-41.
+
+. Ito Y, Satoh T, Takayama K, Miyagishi C, Walls AE Yokozeki H. Basophil
+recruitment and activation in inflammatory skin diseases. Allergy 2011;
+66: 1107-13.
+
+14. Lourengo FD, Azor MH, Santos JC, Prearo E, Maruta CW, Rivitti EA,
+
+Duarte AJ, Sato MN. Activated status of basophils in chronic urticaria
+
+a
+
+S
+
+i
+
+c
+
+if
+
+&
+
+http://dx.doi.org/10.3346/jkms.2014.29.1.43
+Ye Y-M, et al. * Increased Basophil CD203c Expression Predicts Severe Chronic Urticaria
+
+JKMS
+
+ 
+
+leads to interleukin-3 hyper-responsiveness and enhancement of histamine release induced by anti-IgE stimulus. Br J Dermatol 2008; 158: 97986.
+
+15. Asero R, Lorini M, Chong SU, Zuberbier T, Tedeschi A. Assessment of
+histamine-releasing activity of sera from patients with chronic urticaria
+showing positive autologous skin test on human basophils and mast cells.
+Clin Exp Allergy 2004; 34: 1111-4.
+
+16. Gentinetta T, Pecaric-Petkovic T, Wan D, Falcone FH, Dahinden CA,
+Pichler WJ, Hausmann OV. Individual IL-3 priming is crucial for consistent in vitro activation of donor basophils in patients with chronic urticaria. J Allergy Clin Immunol 2011; 128: 1227-34.e5.
+
+17. Chirumbolo S. Basophil activation test in allergy: time for an update?
+Int Arch Allergy Immunol 2012; 158: 99-114.
+
+18. Boumiza R, Monneret G, Forissier ME, Savoye J, Gutowski MC, Powell
+WS, Bienvenu J. Marked improvement of the basophil activation test by
+detecting CD203c instead of CD63. Clin Exp Allergy 2003; 33: 259-65.
+
+19. Chinuki Y, Kaneko S, Dekio I, Takahashi H, Tokuda R, Nagao M, Fujisawa T, Morita E. CD203c expression-based basophil activation test for diagnosis of wheat-dependent exercise-induced anaphylaxis. J Allergy Clin
+Immunol 2012; 129: 1404-6.
+
+20. Eckman JA, Hamilton RG, Gober LM, Sterba PM, Saini SS. Basophil phenotypes in chronic idiopathic urticaria in relation to disease activity and
+autoantibodies. J Invest Dermatol 2008; 128: 1956-63.
+
+http://dx.doi.org/10.3346/jkms.2014.29.1.43
+
+21. Yasnowsky KM, Dreskin SC, Efaw B, Schoen D, Vedanthan PK, Alam R,
+Harbeck RJ. Chronic urticaria sera increase basophil CD203c expression.
+J Allergy Clin Immunol 2006; 117: 1430-4.
+
+22. Vasagar K, Vonakis BM, Gober LM, Viksman A, Gibbons SP Jr, Saini SS.
+Evidence of in vivo basophil activation in chronic idiopathic urticaria.
+Clin Exp Allergy 2006; 36: 770-6.
+
+23. Ye YM, Park JW, Kim SH, Choi JH, Hur GY, Lee HY, Lee EH, Park HS.
+Clinical evaluation of the computerized chronic urticaria-specific quality of life questionnaire in Korean patients with chronic urticaria. Clin
+Exp Dermatol 2012; 37: 722-8.
+
+24. Saini SS, MacGlashan D. How IgE upregulates the allergic response. Curr
+Opin Immunol 2002; 14: 694-7.
+
+25. Schroeder JT, Chichester KL, Bieneman AP. Human basophils secrete
+IL-3: evidence of autocrine priming for phenotypic and functional responses in allergic disease. J Immunol 2009; 182: 2432-8.
+
+26. Gernez Y, Tirouvanziam R, Yu G, Ghosn EE, Reshamwala N, Nguyen T,
+Tsai M, Galli SJ, Herzenberg LA, Herzenberg LA, et al. Basophil CD203c
+levels are increased at baseline and can be used to monitor omalizumab
+treatment in subjects with nut allergy. Int Arch Allergy Immunol 2011;
+154: 318-27.
+
+27. Biihring Hy, Streble A, Valent P. The basophil-specific ectoenzyme E-NPP3
+(CD203c) as a marker for cell activation and allergy diagnosis. Int Arch
+Allergy Immunol 2004; 133: 317-29.
+
+http://jkms.org 47
+

@@ -1,0 +1,712 @@
+Dermatologic and ocular diseases
+
+Effects of complement inactivation and
+IgG depletion on skin reactivity to
+autologous serum in chronic idiopathic
+
+urticaria
+
+Umberto Fagiolo, MD,4 Franz Kricek, PhD,» Christine Ruf,® Andrea Peserico, MD,¢
+Alberto Amadori, MD,‘ and Mauro Cancian, MD? Padova, Italy, and Vienna, Austria
+
+Background: Intradermal injection of autologous serum elicits
+a wheal-and-flare response in about 60% of patients with
+chronic idiopathic urticaria (CIU). This reactivity has been
+attributed to the presence of IgG autoantibodies directed
+against IgE or the -chain of the high-affinity IgE receptor
+(Fe RI_) expressed on basophils and mast cells, leading to the
+hypothesis that at least some forms of CIU could be sustained
+by an autoimmune process.
+
+Objectives: The aim of this study was to investigate the relationship between the presence of anti-IgE or anti-Fe RI antibodies and the ability to induce wheal-and-flare responses in
+CIU sera selected for the capacity to give a positive skin test
+response.
+
+Methods: Fifteen patients with CIU and a positive skin test
+response to autologous serum were injected intradermally with
+native serum and with serum heated at 56°C for 30 minutes
+and then adsorbed on Sepharose-protein G to obtain IgG
+depletion. Serum levels of anti-IgE and anti-Fe RI antibodies
+were measured by ELISA by using purified IgE and recombinant RI -soluble double-fusion protein RI -human serum
+albumin-RI_, respectively. The histamine-releasing activity of
+sera was tested by using ELISA with whole human blood from
+a healthy donor.
+
+Results: All patients had positive cutaneous responses to native
+serum injection. Anti-Fe RI antibodies were present in 14 of
+15 native sera, only two of which were able to induce in vitro
+basophil degranulation. On the contrary, detectable amounts
+of anti-IgE antibodies were not found in any serum. IgG depletion by protein G resulted in complete (10/14 samples) or considerable (4/14 samples) removal of anti-Fe RI antibodies.
+The two sera endowed with functional activity lost their capacity to trigger histamine release from basophils after heating
+and protein G adsorption. Nonetheless, heat-decomplemented/
+
+From the Department of Medical and Surgical Sciences, ‘the Institute of
+Clinical Dermatology, and “the Department of Oncology and Surgical Sciences, University of Padova, Padova, Austria; and Novartis Forschungsinstitut, Vienna, Austria.
+
+Supported in part by grants from Ministero dell’Universita e della Ricerca
+Scientifica e Tecnologica, 60%.
+
+Received for publication Nov 24, 1999; revised Mar 2, 2000; accepted for
+publication May 24, 2000.
+
+Reprint requests: Umberto Fagiolo, MD, Dipartimento di Scienze Mediche e
+Chirurgiche, Universita degli Studi di Padova, Via Giustiniani, 2, 35128
+Padova, Italy, fax +(39)049 821 2151; E-mail mcancian@uxi.unipd.it
+
+Copyright © 2000 by Mosby, Inc.
+
+0091-6749/2000 $12.00 +0 1/1/108913
+
+doi:10.1067/mai.2000.108913
+
+IgG-depleted sera elicited wheal-and-flare reactions comparable with those observed with untreated sera.
+
+Conclusions: These results strongly suggest that skin reactivity
+to autologous serum could be due to as yet unidentified non—Ig
+reactants present in the sera of patients with CIU. (J Allergy
+Clin Immunol 2000;106:567-72.)
+
+Key words: Chronic idiopathic urticaria, IgE receptor, autoantibodies, histamine release, cutaneous response
+
+Chronic idiopathic urticaria (CIU) is a form of longlasting urticaria (>6 weeks) the cause and pathogenesis
+of which are still poorly understood.! In the past few
+years, it was observed that intradermal injection of autologous serum elicits immediate wheal-and-flare responses in a variable portion of patients with active CIU.2 The
+ability of serum to induce a cutaneous reaction is associated with active disease because it decreases or disappears during remission phases.” These data suggested the
+presence of histamine-releasing factors (HRFs) able to
+cause cutaneous mast cell degranulation in sera from
+patients with CIU. At present, the nature of these HRFs
+is controversial.
+
+Several authors described the finding of IgG autoantibodies directed to IgE, the -chain of the high-affinity
+IgE receptor (Fe RI_), or both in sera from patients with
+CIU.3-7 Subsequent works demonstrated that in some
+cases these autoantibodies were able to induce histamine
+release from basophils of healthy donors and from isolated mast cells; a role for activation of the complement
+pathway was also proposed.3-68-!! It was therefore
+hypothesized that skin reactivity to autologous serum
+could be due to the presence in sera of autoantibodies able
+to activate the cutaneous mast cells. However, although
+only a few studies investigated the relationship between
+cutaneous reactivity to autologous serum and the presence
+of circulating anti-IgE or anti-Fe RI autoantibodies in
+the same cohort of patients,>-°8 it is well established that
+there is a discrepancy between the numbers of patients
+with CIU who have a positive skin test response2-3-6-8 and
+those in whom functional anti-IgE or anti-Fe RI can be
+demonstrated.3-6!° This observation suggests that at least
+in some patients with CIU, the cutaneous response to
+autologous serum may be due to non-Ig reactants.
+
+We recently observed that heparinized plasma did not
+induce a cutaneous response in patients with CIU com
+567
+568 Fagiolo et al
+
+Abbreviations used
+CIU: Chronic idiopathic urticaria
+Fe RI: -Chain of the high-affinity IgE receptor
+gahIgG: Goat anti-human IgG
+HRA: Histamine-releasing activity
+HRF: Histamine-releasing factor
+HRP: Horseradish peroxidase
+HSA: Human serum albumin
+RI -DFP: Double-fusion protein RI -HSA-RI
+
+pared with autologous serum. Moreover, addition of
+heparin to sera or adsorption on Sepharose-couple
+heparin before testing was associated with loss of cutaneous activity, probably by a direct effect of heparin on
+the HRFs present in sera.!2
+
+We therefore hypothesized that HRFs of a different
+nature could be present in different patients with CIU or
+even in the same patient. To verify this hypothesis, in a
+group of patients with CIU and positive skin test responses
+to autologous serum, we investigated the relationship
+between the presence of anti-IgE or anti-Fe RI antibodies, their functional activity, and the ability of sera to cause
+a positive wheal-and-flare response in both native and heatdecomplemented/IgG-depleted sera. Our results disclosed
+the presence in almost all native sera of anti-Fe RI antibodies, only a minority of which were endowed with histamine-releasing activity (HRA) on human basophils. Heat
+treatment/IgG depletion was associated with abrogation of
+the in vitro functional activity, but the sera retained their
+ability to induce wheal-and-flare responses. These data
+strongly suggest that skin reactivity to autologous serum
+could be sustained by as yet unidentified non-Ig factors.
+
+ 
+
+ 
+
+METHODS
+Study population
+
+Fifteen patients with severe CIU and a positive skin test response
+to autologous serum (14 women and | man; age range, 19-58 years)
+were selected from our CIU patient cohort, which was composed of
+132 individuals, 72 of whom had positive reactions to intradermal
+injection of autologous serum. The duration of urticaria ranged
+from 6 to 48 months, and all patients were under treatment with cetirizine associated in some cases with steroids. At the time of the
+study, none of the patients had been given cetirizine during the last
+48 hours before testing, and steroid therapy was withdrawn at least
+7 days before. All sera were collected and injected during the active
+phase of the disease.
+
+Moreover, 10 healthy volunteers from the medical staff were
+tested as normal control subjects for skin reactivity to autologous
+serum or to heat-decomplemented/IgG-depleted serum.
+
+All patients gave their informed consent to this study. The study
+was approved by the institutional review committee for human
+experimentation.
+
+Sera preparation
+
+Serum was obtained from venous blood clotted for 30 minutes at
+room temperature in silicone-coated Vacutainer tubes (BectonDickinson, Marlan, France) and centrifuged at 350g for 15 minutes.
+Sera of both patients with CIU and normal control subjects were
+stored at —20°C until use.
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2000
+
+Immunoaffinity depletion of IgG
+
+All sera were heated for 30 minutes at 56°C before protein G
+adsorption. IgG was depleted from serum samples by incubating 1mL serum aliquots with an equal volume of Sepharose 4B—coupled
+protein G (Pharmacia-LKB, Uppsala, Sweden). After 30 minutes of
+incubation at room temperature on a rotating platform, the serum
+was recovered by centrifugation and stored at —20°C until use.
+Residual IgG contents in protein G—adsorbed sera were measured
+by RIA! and were found to be less than 10 «g/mL (not shown). As
+a control, saline was incubated with Sepharose-protein G and treated as above to exclude the release of skin irritants from Sepharoseprotein G.
+
+Anti-Fe RI antibodies
+
+Sera were tested for the presence of anti-Fe RI antibodies by
+ELISA. The extracellular domain of the human Fe RI chain fused
+to human serum albumin (HSA) to form the double-fusion protein
+RI -HSA-RI (RI -DFP), expressed in mammalian CHO cells,
+was obtained from Novartis (Basel, Switzerland). One microgram
+of RI -DFP was immobilized in Costar RIA Strip Plate-8 microtiter
+plate wells (Costar, Cambridge, Mass) and incubated for 2 hours at
+37°C with 100 oL of serum samples diluted 1:50 with PBS/0.05%
+Tween-20/2% FCS (Sigma, St Louis, Mo). Bound Ig was detected
+by horseradish peroxidase (HRP)-coupled goat anti-human IgG
+(gahIgG-HRP; BioRad Laboratories, Hercules, Calif) with the HRP
+Substrate Kit (BioRad) for development of the color reaction. The
+plates were read at 405 nm, and OD values were corrected for nonspecific binding to HSA-coated wells. Crossreactivity of gahIgGHRP with human IgE was ruled out by solution-binding assays:
+human IgE and RI -DFP were incubated at equimolar amounts
+(4°C overnight). Formed complexes were added to microtiter plate
+wells coated with the monoclonal anti-hIgE antibody Le27 (Ce4specific); captured complexes could be detected with gahIgE-HRP
+or gaHSA-HRP but not with gahIgG-HRP. The amount of anti-Fe
+RI antibodies was calculated by using polyclonal human IgG
+(Sigma) for comparison and then expressed as IgG concentrations
+(in nanograms per milliliter).
+
+Anti-IgE antibodies
+
+Determination of the anti-IgE antibody contents in sera was performed an ELISA. Briefly, 1 «g of human IgE (SUS-11, kindly provided by Novartis) was immobilized in Costar RIA Strip Plate-8
+microtiter plate wells and incubated for 2 hours at 37°C with 100
+aL of serum samples diluted 1:50 with PBS/0.05% Tween-20/2%
+FCS. Bound Ig was detected by HRP-coupled goat anti-human IgG
+(Fab specific, Sigma) with the HRP Substrate Kit for development
+of the color reaction.
+
+Histamine-release assay
+
+Serum samples (1:50 final dilution) were tested for histamine
+release on human whole blood from a single, highly responsive,
+healthy donor with low IgE levels (<10 U/mL) by using an enzyme
+immunoassay (Immunotech International, Marseille, France),
+according to the manufacturer’s instructions.
+
+Skin testing
+
+Fifty-microliter aliquots of native or heat-decomplemented/
+Sepharose-protein G—adsorbed serum were injected intradermally
+into the volar forearm. As a control, the patients were also injected
+with 50 «L of saline or saline incubated with Sepharose-protein G.
+Skin reactivity was assessed by using a standard histamine prick test
+(histamine hydrochloride 1%; Bayer, Milan, Italy). All the injection
+sites were scored 30 minutes after inoculation. The largest diameter
+(D1) of the wheal-and-flare reaction and the diameter perpendicular
+J ALLERGY CLIN IMMUNOL.
+VOLUME 106, NUMBER 3
+
+300 5
+250 |
+
+zg
+
+2 200 |
+
+E]
+
+3 150 J
+
+8
+
+a
+
+= 100 |
+
+Fagiolo et al 569
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. L l I |
+o4 = 4 1 nl 1,
+2 3 4 5 6 7
+
+8 9 10 i 12 13 14 15
+
+Patient number
+
+FIG 1. Anti-Fe RI
+
+auto antibody levels in native (black bars) and |gG-depleted (open bars) sera from 15 CIU
+
+patients. IgG was depleted from serum samples by Sepharose-protein G adsorption, as described in the
+
+“Methods” section. Native and IgG-depleted sera were tested for the presence of anti-Fe RI
+
+antibodies by
+
+ELISA. RI -DFP was coated on plate wells, and sera were added at a 1:50 dilution. Bound IgG was detected
+with peroxidase-conjugated goat anti-human IgG, and OD values were corrected for nonspecific binding to
+
+HSA-coated wells. Anti-Fe Rl
+
+IgG concentrations were calculated by using human IgG as a standard in a
+
+parallel ELISA with coated anti-human IgG. Results are means of measurements in duplicate.
+
+to this (D2) were recorded according to the following formula: D1
++ D2/2. Reactions showing a mean wheal-and-flare diameter of less
+than 0.5 cm were scored as negative. All the skin tests were performed with stored sera (-20°C). The freezing and thawing procedures did not modify the cutaneous reactivity of native or heatdecomplemented/IgG-depleted sera from both patients with CIU
+and healthy control subjects (not shown).
+
+Statistical analysis
+
+Data were managed by Statgraphics. The Spearman rank correlation test and the Wilcoxon matched pair test were used where
+appropriate.
+
+RESULTS
+
+In all patients the prick test with histamine elicited
+positive results, whereas the injection of plain saline
+always elicited negative results. When autologous serum
+was injected, significant wheal-and-flare responses were
+observed in all 15 patients studied (Table I).
+
+None of the native sera showed detectable amounts of
+anti-IgE autoantibodies (data not shown); on the contrary, it was possible to demonstrate the presence of variable amounts of anti-Fe RI antibodies in 14 of 15 sera,
+ranging from 25 to 255 ng/mL (Fig 1). To rule out interference of serum IgE binding to Fe RI , sera were also
+tested at 1:200 dilutions without significant differences
+in the anti-Fe RI IgG pattern. Furthermore, preincubation of selected serum samples with an excess of the
+mAb BSW17, which is known to inhibit IgE/Fe RI
+binding and to displace receptor-bound IgE,!4 had no
+effect on the anti-Fe RI IgG readout (data not shown).
+
+No correlation was observed between the diameter of
+the wheal-and-flare reaction in individual patients and the
+amount of anti-Fe RI antibodies present in serum (7 =
+—0.26, P = .33 according to the Spearman rank test). When.
+
+sera were tested for the ability to trigger histamine release
+from human blood basophils, only two samples induced
+significant histamine release (Fig 2, sera 7 and 15).
+
+To verify whether complement inactivation and IgG
+removal were associated with a change in cutaneous
+activity, the sera were heated for 30 minutes at 56°C and
+then absorbed on Sepharose-protein G. As shown in Fig
+1, protein G adsorption resulted in a total or considerable
+(samples 1, 8, 10, and 11) removal of anti-Fe RI autoantibodies. Accordingly, the two sera with HRA lost their
+ability to trigger histamine release from human basophils
+after complement inactivation and IgG depletion (Fig 2).
+
+Nevertheless, injection of treated sera induced whealand-flare responses in all patients comparable with those
+observed with native sera (O 2.46 + 0.57 cm vs 2.42 +
+0.56 cm; t = 21.5, P = .17 according to the Wilcoxon
+test). On the other hand, the injection of Sepharoseprotein G—incubated saline did not evoke any cutaneous
+reaction, thus showing a lack of nonspecific skin irritants
+in Sepharose-protein G—incubated samples (Table I). The
+lack of nonspecific irritants in the treated sera was confirmed by testing the cutaneous reactivity to both native
+and heat-decomplemented/IgG-depleted autologous sera
+in healthy donors; these tests always elicited negative
+results (not shown).
+
+DISCUSSION
+
+In this study we extend the knowledge about the presence of anti-Fe RI IgG antibodies in the sera from
+patients with CIU and a positive skin test response to
+autologous serum. Moreover, we show, for the first time,
+that heat-decomplemented/IgG-depleted sera retain the
+ability to induce wheal-and-flare reactions.
+570 Fagiolo et al
+
+100 5
+90 5
+80 5
+70 +
+60 4
+
+g
+
+2 50 4
+
+2
+
+‘404
+
+E
+
+mx)
+
+= 304
+20 4
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7
+
+8
+
+Patient number
+
+ 
+
+13
+
+14 15
+
+FIG 2. Histamine release from homologous basophils induced by native (black bars) and heat-decomple
+mented/IgG-depleted (open bars) sera from 15 CIU patients. Anti-Fe RI
+
+autoantibodies were detected in all
+
+sera except in sample 2, ranging in concentration from 25 to 255 ng/mL. Residual amounts of anti-Fe RI
+
+IgG were still present in serum samples 1, 8, 10, and 11 after IgG depletion by Sepharose-protein G. Serum
+dilutions (1:50) were tested for histamine release by using fresh human blood from a highly responsive
+healthy donor by Immunotech histamine ELISA, according to the supplier's instructions. Histamine values
+represent whole blood levels (in nanograms per milliliter). Mean values of measurements made in duplicate
+
+are shown.
+
+TABLE I. Skin reactivity to native and heat-decomplemented/IgG-depleted sera in 15 patients with chronic idiopathic
+
+ 
+
+ 
+
+urticaria*
+
+Decomplemented/ Sepharose-protein
+Patient No. Native serum IgG-depleted serumt Histamine Saline G-incubated saline
+
+1 0.7/3.0% 0.7/3.1 1.0/1.2 Negatives Negative
+
+2 0.8/2.5 0.6/2.4 0.6/1.0 Negative Negative
+
+3 1.2/2.6 1.1/2.6 0.4/1.0 Negative Negative
+
+4 0.7/2.5 0.7/2.3 0.5/1.2 Negative Negative
+
+5 1.0/2.2 1.0/2.0 0.6/1.0 Negative Negative
+
+6 0.8/2.6 0.7/2.6 0.7/1.1 Negative Negative
+
+7 1.3/2.2 1.3/2.0 0.8/1.3 Negative Negative
+
+8 1.3/3.0 1.3/2.8 0.6/1.1 Negative Negative
+
+9 0.9/3.3 1.0/3.1 0.8/1.3 Negative Negative
+
+10 1.0/1.6 1.0/1.4 0.6/0.9 Negative Negative
+
+Ll 0.8/1.8 0.9/1.7 0.5/1.4 Negative Negative
+
+12 1.1/1.6 1.0/1.5 0.6/1.1 Negative Negative
+
+13 2.2/3.5 2.0/3.2 0.5/1.2 Negative Negative
+
+14 1.4/2.2 1.4/2.4 0.7/1.1 Negative Negative
+
+15 1.4/3.4 1.4/3.0 0.8/1.7 Negative Negative
+
+ 
+
+“Patients with CIU were injected intradermally with native serum, heat-decomplemented/IgG-depleted serum, saline, and Sepharose-protein G—incubated
+saline according to the protocol detailed in the “Methods” section. Skin reactivity was assessed by histamine prick test.
+tIgG depletion was achieved by incubation of 1 mL of heat-decomplemented (30 minutes at 56°C) serum with an equal volume of Sepharose-protein G for 30
+
+minutes at room temperature.
+
+{Mean wheal-flare diameters are given in centimeters and calculated as described in the “Methods” section.
+
+SMean diameter of less than 0.5 cm.
+
+The finding of anti-[gE and anti-Fe RI autoantibodies in sera of patients with CIU has been repeatedly
+reported. Anti-IgE antibodies, isolated?-5 or in association with anti-Fe RI autoantibodies,®-8:!5 have been
+detected in a variable percentage of patients with CIU by
+
+several authors, with an incidence ranging from 5% to
+69%. In the case series reported here, we did not detect
+anti-IgE antibodies, but our results could simply reflect
+the small number of patients investigated.
+
+On the other hand, anti-Fc RI autoantibodies were
+J ALLERGY CLIN IMMUNOL.
+VOLUME 106, NUMBER 3
+
+found in almost all the sera examined. Our figures are
+higher than those reported by others®.7-!0.16 but comparable with those recently reported by Horn et al.!7 These
+differences may be due to several nonmutually exclusive
+explanations, including the selection of patients with
+CIU, the methods used to detect anti-Fc RI antibodies,
+and the means of evaluating positive and negative results.
+As far as the first point is concerned, we selected patients
+with positive skin test responses to autologous serum, in
+which the prevalence of anti-Fe RI antibodies could be
+particularly high. The detection method also entails critical issues. Although the basophil histamine release assay
+may be considered the method of choice to identify antiFe RI antibodies endowed with functional activity,°8!6
+this approach may not be appropriate when the purpose
+is to define the actual prevalence of these autoantibodies
+in a population. On the other hand, one could also argue
+against results obtained by immunoblotting techniques.
+n fact, when the subunit of the Fe receptor is blotted,
+its conformational structure may be modified, with eventual loss of reactivity of antibodies directed against con‘ormational epitopes. Indeed, Ferrer et al! found a substantial number of patients who had negative test results
+by immunoblot but had positive basophil histamine
+responses. This apparent discrepancy could also be due
+to the working dilution used by these authors to test their
+sera, assuming that an arbitrary cut-off dilution to discriminate between negative and positive sera may be
+misleading. In our opinion a quantitative descriptive
+approach allowing direct comparison of the values
+obtained in healthy subjects and individuals with CIU
+would be desirable.
+
+In this regard quantitative ELISA assays with a recombinant soluble Fe RI have been reported,?!7 which
+exploit the antigen in its native conformation and therefore should be able to detect all anti-Fe RI antibodies
+present in the sera. Using an ELISA method with Fe RI
+proteins produced in CHO mammalian cells, Horn et al!7
+found circulating anti-Fe RI IgG in all 68 patients with
+urticaria and in sera from 8 healthy control subjects.
+These figures are higher than those reported by Fiebiger
+et al,? who used ELISA with recombinant Fe RI
+obtained in insect cells, which differs from CHO proteins
+in terms of biologic activity.!7 In addition, Fiebiger et al?
+assumed cut-off values for normal sera that were arbitrarily chosen to define background levels. In our study
+we used a method very similar to that reported by Horn
+et al!7 and chose not to use background levels, and therefore the lower prevalence of anti-Fe RI IgG reported by
+others may be mainly due to the antigen and the method
+used for Ig detection and data expression. In any case the
+real prevalence and physiologic significance of antiFe RI antibodies in normal and CIU sera are still an
+open question, which may be resolved by careful comparison of data obtained with different functional and
+biochemical methods in a large case series of both
+healthy subjects and individuals with CIU.
+
+In our study, although all patients had a positive skin
+test response, the anti-Fe RI antibody titer varied great
+ 
+
+ 
+
+ 
+
+Fagiolo et al 571
+
+ly, and no correlation was recorded between skin responsiveness and anti-Fe receptor antibody titer. Nonetheless, only two sera with a high titer of anti-Fe RI antibodies were able to induce histamine release from
+basophils. These findings raise several considerations
+concerning the functional activity of these antibodies and
+their relationship with the skin response to autologous
+serum. The possibility that the in vitro HRA depends on
+the amounts of anti-Fe RI autoantibodies is unlikely
+because sera with comparable titers of anti-Fe RI IgG
+showed a different behavior with respect to basophil
+degranulation (Figs 1 and 2). On the other hand, the antiFe RI antibodies could differ in their affinity for a common ligand, recognize different epitopes on Fe receptor,
+or differ in the ability to activate the complement pathway, as recently suggested.?.!!
+
+In our study the two sera endowed with functional
+activity lost their ability to trigger histamine release from
+basophils after heat inactivation and protein G absorption. By contrast, all the treated sera retained the capacity to induce a wheal-and-flare response, thus suggesting
+that skin reactivity to autologous serum could depend on
+as yet unidentified non-Ig reactants present in sera of
+patients with CIU. This idea is supported by our previous
+finding that heparin addition to CIU sera or adsorption on
+solid-phase heparin before skin testing was associated
+with loss of cutaneous activity. !2
+
+Once we admit that skin reactivity to autologous
+serum could be due to non-Ig factors, several hypotheses
+may be advanced. The possibility that the putative HRFs
+act on mast cells rather than on circulating basophils
+seems unlikely. In fact, although basophils and mastocytes show many functional differences,!8 Ferrer et al!®
+recently found an excellent correlation between histamine release from basophils and cutaneous mast cells
+stimulated in vitro with sera from patients with CIU. On
+the other hand, non-Ig HRFs could cause histamine
+release from skin mastocytes in vivo, although in vitro
+they are not able to degranulate basophils and mast cells.
+In this regard one could also advance the provocative
+hypothesis that the putative HRF could not act on
+basophils or mastocytes but directly exert their activity
+on the cutaneous microvasculature bypassing these cells.
+
+We thank Dr Rita Zamarchi and Raffaele Bendo, University of
+Padova, for their technical assistance.
+
+REFERENCES
+
+1, Champion RH. A practical approach to urticarial syndromes—a dermatologist’s view. Clin Exp Allergy 1990;20:21-4
+
+2. Grattan CEH, Wallington TB, Warin RP, Kennedy CTC, Bradfield JW. A
+serological mediator in chronic idiopathic urticaria—a clinical, immunological and histological evaluation. Br J Dermatol 1986;114:583-90.
+
+3. Grattan CEH, Francis DM, Hide M, Greaves MW. Detection of circulating histamine releasing autoantibodies with functional properties of antiIgE in chronic urticaria. Clin Exp Allergy 1991;21:695-704
+
+4. Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence
+and functional role of anti-IgE autoantibodies in urticarial syndromes. J
+Invest Dermatol 1988;90:213-7
+
+5. Fagiolo U, Quinti I, Ossi E, Scala E, Cancian M, Carmini D, et al. Autoanti-IgE antibodies and immunocomplexes in chronic urticaria-angioede572 Fagiolo et al
+
+. Fiebiger E, Hammerschmid F, Sting! G, Maurer D. AntiFe RI
+
+ma syndrome with and without joint symptoms. Giorn It Allergol
+Immunol Clin 1991;1:147-51
+
+. Hide M, Francis DM, Grattan CEH, Hakimi J, Kochan JP, Greaves MW.
+
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in chronic urticaria. N Engl J Med 1993;328:1599-604
+
+. Fiebiger E, Maurer D, Holub H, Reininger R, Hartmann G,
+
+Woisetschlager M, et al. Serum IgG autoantibodies directed against the
+-chain of Fe RI: a selective marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J Clin Invest 1995;96:2606-12
+
+. Niimi N, Francis DM, Kermani F, O’Donnel BF, Hide M, Kobza-Black A,
+
+et al. Dermal mast cell activation by autoantibodies against the high affinity IgE receptor in chronic urticaria. J Invest Dermatol 1996;106:1001-6
+
+autoantibodies in autoimmune-mediated disorders. J Clin Invest 1998;101:243-51
+
+. Ferrer M, Kinét JP, Kaplan AP. Comparative studies of functional and
+
+binding assays for IgG anti-Fe RI ( -subunit) in chronic urticaria. J
+Allergy Clin Immunol 1998;101:672-6
+
+. Ferrer M, Nakazawa K, Kaplan AP. Complement dependence of histamine
+
+release in chronic urticaria. J Allergy Clin Immunol 1999;104:169-72
+
+J ALLERGY CLIN IMMUNOL
+SEPTEMBER 2000
+
+. Fagiolo U, Cancian M, Bertollo L, Peserico A, Amadori A. Inhibitory
+
+effect of heparin on skin reactivity to autologous serum in chronic idiopathic urticaria. J Allergy Clin Immunol 1999;103:1143-7
+
+. Amadori A, Zamarchi R, Ciminale V, Del Mistro A, Siervo S, Alberti A,
+
+et al. HIV-1-specific B cell activation. A major constituent of spontaneous
+B cell activation during HIV-1 infection. J Immunol 1989;143:2146-52
+
+. Rudolf MP, Furukawa K, Miescher S, Vogel M, Kricek F, Stadler BM.
+
+Effect of anti-IgE antibodies on Fe RI bound IgE. J Immunol
+1996;151:5646-52
+
+. Tong LJ, Balakrishnan G, Kochan JP, Kinét JP, Kaplan AP. Assessment
+
+of autoimmunity in patients with chronic urticaria. J Allergy Clin
+Immunol 1997;99:461-5
+
+. Greaves MW. Chronic urticaria. N Engl J Med 1995;332:1767-72
+. Horn MP, Gerster T, Ochensberger B, Berer T, Kricek F, Jouvin MH, et
+
+al. Human anti-Fe RI autoantibodies isolated from healthy donors
+
+cross-react with tetanus toxoid. Eur J Immunol 1999;29:1139-48
+
+. Charlesworth EN. Role of basophils and mast cells in acute and late reac
+tions in the skin. In: Marone G, ed. Human basophils and mast cells: clinical aspects. Basel: Karger; 1995. p. 84-107
+
+ 
+
+Receive tables of contents by e-mail
+
+To receive the tables of contents by e-mail, sign up through our Web site at
+
+http://www.mosby.com/jaci
+
+Choose E-mail notification. Simply type your e-mail address in the box and click the Subscribe
+
+button.
+
+Alternatively, you may send an e-mail message to
+
+majordomo@mosby.com
+
+Leave the subject line blank and type the following as the body of your mesage:
+
+subscribe jaci_toc
+
+You will receive an e-mail message confirming that you have been added to the mailing list.
+Note that TOC e-mails will be sent out when a new issue is posted to the Web site.
+
+ 
+

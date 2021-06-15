@@ -1,0 +1,755 @@
+Check for
+updates
+
+Article type —: Original Article
+
+Effectiveness of omalizumab in chronic spontaneous urticaria assessed with
+patient reported outcomes: a prospective study
+
+Misbah Noshela Ghazanfar, MD’, Jesper Grgnlund Holm MD", Simon Francis Thomsen, MD, PhD”?
+*Department of Dermatology, Bispebjerg Hospital, Copenhagen, Denmark.
+
+"Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.
+
+Conflict of interest: None
+
+Correspondence
+
+Misbah Noshela Ghazanfar, MD
+
+Department of Dermatology
+
+Bispebjerg Hospital
+
+Bispebjerg Bakke 23
+
+DK-2400 Copenhagen NV
+
+Denmark
+
+E-mail: misbah.noshela.ghazanfar@regionh.dk
+
+Telephone: +45 5330 9691
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/jdv.15045
+
+This article is protected by copyright. All rights reserved.
+Abstract
+
+Aim: To examine the effectiveness of omalizumab (anti-lgE) on symptoms and disease-related
+quality of life in chronic spontaneous urticaria (CSU), and to identify possible patient specific factors
+
+associated with response to omalizumab in patients with antihistamine refractory CSU.
+
+Methods: Six months prospective trial of omalizumab 300 mg every four weeks among patients with
+CSU from a dermatological university department. The primary outcome was the urticaria activity
+
+score in the past week (UAS7) at three months.
+
+Results: A total of 117 patients (39 men and 78 women) with a mean age of 42 years were included.
+The mean baseline UAS7 score was 29.3 points (SD=10.8), which improved to 11.9 points (SD=12.9)
+at three months follow up, difference=17.4 points (95% Cl: 14.8-19.9), p<0.0001. Other patientreported outcomes (PROs) also improved significantly during three months of treatment. No
+significant further improvement was seen between three and six months follow up. None of the
+following patient specific factors: sex, age, age of onset of CSU, symptom duration, presence of
+chronic inducible urticaria (CINDU), comorbidities, positive urticaria HR test, smoking, ethnicity,
+angioedema, serum total IgE level, CRP, leukocytes, absolute neutrophil count or previous treatment
+with prednisolone or montelukast were significantly associated with response to omalizumab at
+three months, p>0.05 for all comparisons. Previous treatment with traditional immunosuppressant
+drugs (azathioprine, cyclosporine or methotrexate) was associated with poorer treatment response
+to omalizumab at three months, p<0.001. A strong correlation was seen between different patient
+reported outcomes (PROs) at baseline and three months follow up. Fifteen patients (12.8%) reported
+
+side effects of the treatment.
+
+This article is protected by copyright. All rights reserved.
+Conclusion: Omalizumab is a highly effective therapy for antihistamine refractory CSU with
+treatment effects similar to those observed in randomized controlled trials. Validated PROs to assess
+disease activity, disease control and impairment of quality of life are valuable tools in the clinical
+management of CSU. Identification of patient specific predictors of effect and safety of omalizumab
+
+in CSU is still warranted.
+
+Introduction
+
+Chronic urticaria is a common itching skin disease characterized by wheals and/or angioedema for
+more than six weeks. Chronic urticaria is divided into chronic spontaneous urticaria (CSU) and
+chronic inducible urticaria (CINDU), which is induced by specific stimuli such as heat, cold, sun
+
+exposure or pressure [1].
+
+The recommended treatment of chronic urticaria is oral antihistamines once daily. The dose of
+antihistamines can be increased up to fourfold in case of lack of response. If symptoms still persist,
+
+add-on therapy with omalizumab is third-line therapy, whereas cyclosporine is fourth-line [1].
+
+Omalizumab is a humanized monoclonal antibody, which binds to immunoglobulin E (IgE) and
+thereby inhibits its binding to the high affinity receptor, FceRI on the surface of mast cells and
+basophils. Thus, omalizumab reduces the level of free IgE and downregulates IgE receptors on these
+
+cells [2].
+
+Clinical trials have shown that treatment with omalizumab is effective on urticaria symptoms and
+disease-related quality of life and also reduces the need for additional medication [2-10]. Out-of-trial
+data have shown that approximately 65% of patients with CSU report complete response to
+omalizumab, while 25% obtain partial response and around 15% have no or very limited response
+
+[11]. However, prospective data on real-life response to omalizumab in CSU is still lacking.
+
+This article is protected by copyright. All rights reserved.
+Response patterns to omalizumab treatment in CSU vary and can be categorized as fast when
+occurring already within 2-4 weeks after initiation and as slow when observed after 12-16 weeks
+after initiation of treatment [12]. It is therefore recommended that omalizumab treatment is
+continued for at least 6 months before considering other treatment options. The majority of patients
+who show complete response to omalizumab experience relapse of symptoms within 2-8 weeks
+after receiving the last dose of omalizumab; however re-treatment with omalizumab is as effective
+
+as initial treatment [13].
+
+Only a few patient specific factors have been shown to influence the response to omalizumab in
+CSU. One retrospective study indicated that better response to omalizumab treatment is seen
+among patients with a negative urticaria histamine release (HR) test, no history of angioedema and
+no previous treatment with systemic immunosuppressants [14]; whereas Gericke et al. [15] and
+Palacios et al. [16] found that a negative basophil activation test was associated with better
+response to omalizumab. Furthermore, Ertas et al. [17] found that increased levels of serum IgE
+were linked to faster relapse in CSU patients, who discontinued omalizumab treatment. However, at
+present more information is needed regarding reliable biomarkers or patient specific factors, which
+
+can be used to predict a favorable response to omalizumab in the clinical setting.
+
+The aim of this prospective trial was to: 1) examine the effectiveness of omalizumab on CSU
+symptoms and disease-related quality of life, and 2) identify possible patient specific factors
+
+associated with response to omalizumab in patients with antihistamine refractory CSU.
+
+Methods
+
+All patients with CSU from a dermatological university department (Department of Dermatology,
+Bispebjerg Hospital, Copenhagen, Denmark) who were refractory to high-dose antihistamines and
+
+who initiated treatment with add-on therapy of omalizumab (300 mg every four weeks) between
+
+This article is protected by copyright. All rights reserved.
+January 2015 and May 2017 were included in the study. The patients were evaluated before
+treatment and at three and six months with patient reported outcomes (PROs); i.e. urticaria activity
+score in the past week (UAS7), urticaria control test (UCT), chronic urticaria quality of life
+questionnaire (CU-Q,o0L), and dermatology life quality index (DLQI). Patients were advised to
+continue with high-dose antihistamines during treatment with omalizumab. Patients who were not
+able to complete the PROs either by themselves or with help from health care personnel or a family
+
+member were excluded.
+
+Patient reported outcomes (PROs)
+
+The UAS7 prospectively documents signs and symptoms of urticaria for seven days. UAS7 is based on
+intensity of itch, which ranges from 0 (none) to 3 (severe) and number of wheals, which range from
+0 (none) to 3 (>50 wheals per day). The score is summed over seven days giving a UAS7 score of 0 to
+42 points. A UAS7 score of <6 corresponds to minimal disease activity; a UAS7 score of 7-15 indicates
+mild urticaria, a score of 16-27 points indicates moderate urticaria, whereas severe urticaria is
+characterized by a UAS7 score of 28-42 points [18]. The minimal clinically important difference in
+UAS7 is equivalent to 10 points [19, 20]. The UCT is a retrospective 4-item questionnaire, which
+documents control of urticaria in the past four weeks. Each question is scored from 0 to 4. A UCT
+score >11 indicates well controlled disease. The minimal clinically important difference is 3 points
+[21-23]. The CU-Q,oL consists of 23 questions, each ranging from 1 to 5 points. A higher score
+indicates a more severe impact of the disease on quality of life. The minimal clinically important
+difference is determined to be a reduction of 15 points [24, 25]. The generic DLQI is based on 10
+questions and is a widely used questionnaire in dermatology for measuring quality of life. It covers
+aspects such as symptoms, social activity, personal relationships and treatment associated problems.
+Each question in the DLQI is scored from 0, which indicates no impact to 3, which indicates very high
+
+impact on quality of life. The minimal clinically important difference is from 2.24 to 3.10 points [26,
+
+This article is protected by copyright. All rights reserved.
+27]. Another study determined the minimal clinical difference in inflammatory disease to be 4 points
+
+[28].
+
+Medical history
+
+Before initiating treatment with omalizumab complete medical history and blood samples were
+obtained. Physical tests for CINDU such as cold, heat or UV provocation were performed if indicated.
+For each patient the following data were recorded: sex, age, age of onset of CSU, ethnicity,
+comorbidities, smoking habits, presence of CINDU, presence of angioedema, result of the seruminduced basophil HR test, serum total IgE, CRP, leukocytes, absolute neutrophil count, previous
+treatment with: oral corticosteroids, leukotriene receptor antagonists (montelukast), traditional
+immunosuppressant drugs, administered dose of omalizumab, side effects of omalizumab and
+
+reasons for discontinuation if treatment was discontinued.
+
+Statistical analysis
+
+Data were analysed with IBM SPSS Statistics (version 22). Scores of UAS7, UCT, CU,-QoL and DLQI
+questionnaires were evaluated at baseline, three and six months with explanatory covariates in
+linear regression analysis. The primary outcome was the UAS7 score at three months. In a previously
+performed retrospective study [14] by the authors it was seen that CSU patients with a positive
+urticaria HR test responded poorer to omalizumab treatment compared to patients with a negative
+urticaria HR test. Therefore, this study was powered to detect at least a 10 point difference in UAS7
+score (minimal clinically important difference [19, 20]) between patients with a positive urticaria HR
+test compared to patients with a negative urticaria HR test from baseline to three months assuming
+a standard deviation in UAS7 of 8 points, a power of 80% and a p-value of 0.05. For missing
+
+observations data were analysed with the baseline score of UAS7 carried forward corresponding to
+
+This article is protected by copyright. All rights reserved.
+non-response imputation. A total of 12 patients in each group are needed to detect this difference,
+and patients were sampled consecutively until 12 subjects with a positive urticaria HR test were
+included. Secondary outcomes were UCT, CU-Q,o0L, and DLQI scores at three months and all PRO
+
+scores at six months.
+
+Results
+
+In total 120 patients initiated treatment with omalizumab for CSU from January 2015 to May 2017
+and were included in the study (Figure 1). Three patients were excluded due to missing baseline
+data. Another three patients had missing data at three months, whereas seven patients were
+
+treated with omalizumab less than three months.
+
+Patient characteristics at baseline
+
+There were 39 men (33.3%) and 78 women (66.7%) with a mean age of 42 years (SD=15.3, range 1277 years) (Table 1). The mean age at disease onset was 34.8 years (SD=16.9, range 4-72 years) and
+the average age when treatment with omalizumab was initiated was 40.3 years (SD= 15.2, range 1073 years). The average duration of symptoms before initiation of treatment with omalizumab was
+5.4 years (SD=7.5, range 0-36.5 years). Nineteen patients (25.3%) were smokers; however smoking
+history was only available for 75 patients. A history of angioedema was present in 34 patients
+(29.1%) and 12 patients (10.3%) had a positive serum-induced basophil histamine release (HR) test.
+A total of 63 patients (53.8%) had at least one significant comorbidity. The most common
+comorbidities were atopic dermatitis (14 patients), inhalant and food allergies (10), asthma (10) and
+psychiatric disorders such as depression (4), attention deficit hyperactivity disorder (ADHD) (3) and
+
+anxiety (2).
+
+This article is protected by copyright. All rights reserved.
+The mean baseline score of UAS7 was 29.3 points (median=28.0; standard deviation, SD=10.8
+points), and 115 patients (98.3%) reported a UCT score < 11 points (mean score=2.9, SD=2.8 points).
+Mean scores of CU-Q,oL and DLQI at baseline were 70.9 (median=70.0, SD=18.9 points) and 15.8
+(median=16, SD=7.6 points), respectively. Patients with a positive urticaria HR test had a higher
+baseline UAS7 score compared to patients who had a negative urticaria HR test (35.4 (SD=6.1) vs.
+28.6 (SD=11.0) points), p=0.041. None of the following factors were associated with UAS7 score at
+baseline: sex, age, age of onset of CSU, symptom duration, presence of CINDU, angioedema,
+comorbidities, ethnicity, smoking, serum total IgE, CRP, leukocytes, absolute neutrophil count or
+treatment with montelukast, prednisolone or traditional immunosuppressants. At baseline the UAS7
+score was significantly correlated with UCT (r=-0.426, p<0.001), CU-Q,0L (r=0.369, p<0.001) and DLQI
+(r=0.439, p<0.001) (Table 3). Significant correlations were also observed between UCT, CU-Q,o0L and
+
+DLQI (p<0.001 for all comparisons) at baseline.
+
+Primary outcome
+
+The mean value of UAS7 improved from 29.3 points (SD=10.8) at baseline to 11.9 points (SD=12.9) at
+three months follow up; difference in UAS7=17.4 points (95% Cl=14.8-19.9 points), p<0.0001 (Figure
+2). A total of 49 patients (41.9%) achieved a UAS7 score of 6 or less at three months follow up,
+indicating minimal disease activity; 40 patients (34.2%) achieved a UAS7 score of 0 at three months
+follow up, while nine patients (7.7 %) reported a UAS7 score between 1 and 6 points. The minimal
+clinical important difference of 10 points in UAS7 was achieved in 77 patients (65.8%) at three
+
+months follow up.
+
+This article is protected by copyright. All rights reserved.
+Secondary outcomes
+
+All PROs improved significantly from baseline to three months with mean changes exceeding the
+minimal clinically important difference (Figure 2). UCT improved from 2.8 to 11.0 points (SD=4.6) at
+three months follow up; difference=8.2 points (95% Cl=7.2-9.2 points), p<0.001, CU2-QoL improved
+from 70.9 to 43.5 points (SD=20.5); difference=27.4 points (95% Cl= 23.3-31.5 points), p<0.001 and
+DLQI improved from 15.8 to 5.8 points (SD=6.6); difference=9.9 points (95% Cl= 8.3-11.5 points),
+p<0.001. A significant correlation was seen between all APRO values between baseline and three
+months follow up (p<0.001 for all comparisons) (Table 3). The minimal clinical important difference
+in UCT, CU2-QoL and DLQI was achieved in 96 (82.1%), 81 (69.2%) and 85 (72.6%) patients,
+respectively, at three months follow up. A total of 45 patients (38.5 %) achieved a DLQI score of 0 or
+
+1 at three months.
+
+None of the following patient specific factors: sex, age, age of onset of CSU, symptom duration,
+presence of CINDU, angioedema, comorbidities, ethnicity, smoking, serum total IgE, CRP, leukocytes,
+absolute neutrophil count or treatment with antihistamines, montelukast, or prednisolone were
+associated with response to omalizumab at three months assessed by change in mean UAS7,
+whereas a higher mean change in UAS7 score from baseline to three months was observed in
+patients who were naive to traditional immunosuppressant drugs such as azathioprine,
+methotrexate or cyclosporine compared to patients who had previously received traditional
+immunosuppressant treatment, difference in UAS7=14.47 (95% Cl=-22.32; -6.63), p<0.001 (Table 4).
+This was also observed when analysing patient specific factors in relation to changes in mean scores
+
+of UCT, CU-Q,o0L and DLQI from baseline to three months follow up.
+
+This article is protected by copyright. All rights reserved.
+The above mentioned patient specific factors were also analysed with Chi-square test (categorical
+factors) and unpaired t-test (continuous factors) according to response to omalizumab based on
+“non-responders” vs. “responders”, i.e. patients achieving a UAS7 score of 6 or less at three months
+and patients achieving the MCID in UAS7 of at least 10 points at three months. However, no
+
+significant difference was seen between patient specific factors and responders and non-responders.
+
+At six months follow up a total of 84 patients were still treated with omalizumab, whereas 23
+patients had terminated treatment (Figure 1). No significant further improvement in PRO scores was
+
+seen between three and six months follow up (Figure 2).
+
+Adherence and side effects
+
+The majority of the patients (n=114, 97.4%) were treated with omalizumab in the recommended
+dose of 300 mg every 4 weeks, whereas three patients were treated with a reduced dose of 150 mg
+omalizumab every 4 weeks. All three patients were under the age of 18. During omalizumab
+treatment only 57 patients (48.7%) reported use of oral antihistamines although omalizumab was
+intended as add-on therapy. Some patients used them daily while others used them during flare-ups.
+For thirty-three patients (28.2%) treatment intervals were prolonged from every 4 weeks to every 6
+weeks and further to every 8 weeks. One patient was prolonged to every 12 weeks. Side effects
+were reported by 15 patients (12.8%). The most common side effects were transient hair-loss (3
+
+patients), arthralgia (6), palpitations (2), headache (2) and fatigue (1).
+
+This article is protected by copyright. All rights reserved.
+Discussion
+
+The fluctuating nature of urticaria symptoms makes it difficult for physicians to evaluate the activity
+and severity of the disease. This prospective trial of the effectiveness of omalizumab in patients with
+antihistamine refractory CSU showed that omalizumab treatment is highly effective in patients with
+CSU and that validated PROs to assess disease activity, disease control and impairment of quality of
+
+life are valuable tools in the clinical management of CSU.
+
+Patients with CSU in this study had significant disease activity, low disease control and severely
+affected quality of life before omalizumab treatment. Significantly reduced disease activity, well
+controlled symptoms and better quality of life were achieved within three months after initiating
+treatment with omalizumab and approximately 45% of the patients reported a good or very good
+clinical response to omalizumab after three months of treatment (UAS7 score <7). However, further
+significant improvement was not observed between three and six months of treatment. Similar
+observations were reported in a retrospective study, where most patients reached a plateau of
+treatment effectiveness around four to five months after initiating treatment [29]. The clinical
+effectiveness of omalizumab in the current study is comparable to the observed efficacy in
+randomized control trials [2-5]. We found a significant correlation between the various PRO scores
+(UAS7, UCT, CU-Q,0L and DLQI) at baseline and also between the mean change in the various PRO
+scores between baseline and three months follow up. These results were similar to those previously
+
+reported [21, 30].
+
+Side effects were reported by approximately 13% of the patients during treatment with omalizumab.
+The most common side effects were transient hair loss, arthralgia, palpitations, headache and
+injection side reactions. No serious side effects were reported consistently with the observations in
+
+previous randomized controlled trials [2-5, 10].
+
+This article is protected by copyright. All rights reserved.
+We found that patients with a positive urticaria HR test had more severe disease activity (a higher
+UAS7 score) at baseline compared to patients with a negative urticaria HR test. However, the clinical
+response to omalizumab was the same in patients with a positive urticaria HR test compared to
+patients with a negative urticaria HR test. In a recent study by Berti et al. [31] similar observations
+were reported. However, a larger reduction in disease activity and a more frequent spontaneous
+disease remission at 12 months were reported by patients with a positive urticaria HR test. This is
+not congruent with several other previous studies [14-16], which have found that a positive urticaria
+
+HR test was associated with poorer response to omalizumab treatment.
+
+In our study we found no correlation between total serum IgE levels at baseline and response to
+omalizumab, however in recent studies [32, 33] it was seen that the clinical response to omalizumab
+treatment in CSU patients was linked to IgE levels. It was seen that non-responders had significantly
+lower IgE levels than partial responders and complete responders. Furthermore, it was seen that IgE
+levels increased in the first week after omalizumab treatment among responders, while IgE levels in
+
+non-responders did not [32].
+
+Patients who were previously treated with traditional immunosuppressant drugs such as
+azathioprine, methotrexate or cyclosporine had a significantly poorer response to omalizumab
+treatment in the present trial. Similar observations were reported in a retrospective study [14]. The
+reasons for a poorer response among these patients could be more severe disease activity at onset
+or long standing refractory disease. Furthermore, presence of angioedema is seen as a significant
+predictor of impaired quality of life in CSU patients [34] and low response to omalizumab treatment
+[14]. In our study almost 30% of the patients reported presence of angioedema, which is a bit less
+
+compared to previous studies where almost 40-55% of the patients reported angioedema [2-4, 7-8];
+
+This article is protected by copyright. All rights reserved.
+however it was not possible to predict a significant difference in clinical response to omalizumab
+between patients with or without angioedema. Our results were similar to the post hoc analysis
+based on the randomized controlled trials [7]. The analysis reported a similar improvement in DLQI
+
+scores regardless of whether angioedema was present at baseline or not.
+
+The most common comorbidities in this trial were atopic dermatitis, allergies (pollen, dust, and
+food), asthma, and psychiatric disorders such as depression, ADHD and anxiety. However, no
+significant association was seen between comorbidities and disease activity/control or response to
+omalizumab. In a population based study from Taiwan [35] the prevalence of comorbidities
+increased steadily with duration of chronic urticaria. The most commonly reported comorbidities in
+the Taiwan population were (non-specified) inflammatory disease followed by psychiatric disorders,
+rheumatic diseases and thyroid disorders. Furthermore, in a systematic review it was seen that CSU
+
+patients, especially females, have an increased risk of concomitant autoimmune diseases [36].
+
+This trial was a prospective study in which validated PROs were used. Furthermore, it had a prespecified primary outcome. There were also some limitations: (1) It was carried out in only one
+dermatological centre, (2) Some patients were missed during follow up, and (3) there was no control
+
+group.
+
+In conclusion, omalizumab is a highly effective treatment for antihistamine refractory CSU.
+Furthermore, validated PROs are valuable tools in the clinical management of CSU and should be
+used regularly to assess disease activity and control. Previous treatment with traditional
+immunosuppressant drugs was associated with poorer treatment response to omalizumab and this
+
+finding deserves further merit. Further studies are needed to investigate the long-term effectiveness
+
+This article is protected by copyright. All rights reserved.
+and response patterns of omalizumab in CSU patients and to identify patient specific factors
+
+associated with response to omalizumab.
+
+References
+
+1: Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, Bernstein
+JA, Bindslev-Jensen C,Brzoza Z,Buense Bedrikow R,Canonica GW, Church MK, Craig
+T, Danilycheva IV, Dressler C, Ensina LF, Giménez-Arnau A, Godse K, Gongalo M, Grattan
+C, Hebert J, Hide M, Kaplan A, Kapp A, Katelaris CH, Kocattrk E, Kulthanan K, LarenasLinnemann D, Leslie TA, Magerl M, Mathelier-Fusade P,Meshkova RY, Metz M, Nast
+A, Nettis E, Oude-Elberink H, Rosumeck S, Saini SS, Sanchez-Borges M, Schmid-Grendelmeier
+P, Staubach P, Sussman G, Toubi E, Vena GA, Vestergaard C,Wedi B, Werner RN, Zhao
+Z, Maurer M.The EAACI/GA2LEN/EDF/WAO Guideline for the Definition, Classification,
+Diagnosis and Management of Urticaria. The 2017 Revision and Update. Allergy. 2018 Jan
+15.
+
+2: Maurer M, Rosén K, Hsieh HJ, Saini S, Grattan C, Gimenéz-Arnau A, Agarwal S, Doyle R, Canvin
+J, Kaplan A, Casale T. Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria.
+The New England Journal of Medicine 2013:368:924-35.
+
+3: Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, Veith J, Kamath N, Staubach P, Jakob
+T, Stirling RG, Kuna P, Berger W, Maurer M, Rosén K. Omalizumab in patients with symptomatic
+chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin
+Immunol 2013:132:101-9.
+
+4: Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbil BE, Bradley MS, Canvin J, Rahmaoui
+A, Georgiou P, Alpan O, Spector S, Rosén K. Efficacy and safety of omalizumab in patients with
+chronic idiopathic/spontaneous urticaria who remain symptomatic on H, antihistamines: a
+randomized, placebo-controlled study. J Clin Investig Dermatol 2015:135(1):67-75.
+
+5: Maurer M, Altrichter S, Bieber T, Biedermann T, Brautigam M, Seyfried S, Brehler R, Grabbe
+J, Hunzelmann N, Jakob T, Jung A, Kleine-Tebbe J, Mempel M,Meurer M, Reich K, Ruéff F, Schakel
+K, Sengupta K, Sieder C, Simon JC, Wedi B, Zuberbier T, Mahler V, Staubach P. Efficacy and safety of
+omalizumab in patients with chronic urticaria who exhibit IgE against thyroperoxidase, J Allergy Clin
+Immunol 2011:128:202-9.
+
+This article is protected by copyright. All rights reserved.
+6. Finlay AY,Kaplan AP,Beck LA,Antonova EN, Balp MM, Zazzali J, Khalil S, Maurer M.
+Omalizumab substantially improves dermatology-related quality of life in patients with chronic
+spontaneous urticaria. J Eur Acad Dermatol Venereol 2017:31(10):1715-21.
+
+7. Maurer M, Sofen H, Ortiz B, Kianifard F, Gabriel 5S, Bernstein JA.
+Positive impact of omalizumab on angioedema and quality of life in patients with refractory chronic
+idiopathic/spontaneous urticaria: analyses according to the presence or absence of angioedema. J
+Eur Acad Dermatol Venereol 2017:31(6):1056-63.
+
+8. Staubach P, Metz M, Chapman-Rothe N, Sieder C, Brautigam M, Maurer M, Weller K.
+Omalizumab rapidly improves angioedema-related quality of life in adult patients
+with chronic spontaneous urticaria: X-ACT study data. Allergy. 2018 Mar;73(3):576-584.
+
+9. Maurer M, Kaplan A, Rosén K, Holden M, Iqbal A, Trzaskoma BL, Yang M, Casale TB. The XTENDCIU study: long term use of omalizumab in chronic idiopathic urticaria. J. Allergy Clin. Immunol. 2017
+Nov.
+
+10. Zhao Z, JiC, Yu W, Meng L, Hawro T, Wei JF, Maurer M. Omalizumab for the treatment of chronic
+spontaneous urticaria: a meta-analysis of randomized clinical trials. J. Allergy Clin. Immunol. 2016:
+137; 1742-1750.
+
+11: Ghazanfar MN, Thomsen SF. Omalizumab for chronic urticaria. Aftermarket reports of efficacy
+and side effects. Curr Derm Rep 2017:6:48-54.
+
+12. Ferrer M, Boccon-Gibod |, Gongalo M, inaléz HS, Knulst A, Lapeere H, Parthasaradhi A, Stingl
+G, Tagka A, Valenzuela F, Yeung J, Thomsen SF. Expert opinion: defining response to omalizumab in
+patients with chronic spontaneous urticaria. Eur J Dermatol 2017:27(5):455-63.
+
+13: Metz M, Ohanyan T, Church MK, Maurer M. Retreatment with omalizumab results in
+rapid remission in chronic spontaneous and inducible urticaria. JAMA Dermatol 2014
+Mar:150(3):288-90.
+
+14: Ghazanfar MN, Sand C, Thomsen SF. Effectiveness and safety of omalizumab in chronic
+spontaneous or inducible urticaria: Evaluation of 154 patients. Br J Dermatol 2016:175:404-6.
+
+This article is protected by copyright. All rights reserved.
+15: Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, Falkencrone S, Brand
+J, Kromminga A, Hawro T, Church MK, Maurer M. Serum autoreactivity predicts time to
+response to omalizumab therapy in chronic spontaneous urticaria. J Allergy Clin
+Immunol 2017:139(3):1059-61.
+
+16. Palacios T, Stillman L, Borish L, Lawrence M. Lack of basophil CD203c-upregulating
+activity as an immunological marker to predict response to treatment with omalizumab in
+patients with symptomatic chronic urticaria. J Allergy Clin Immunol Pract. 2016;4(3):529-30.
+
+17. Ertas R, Ozyurt K, Ozlu E, Ulas Y, Avci A, Atasoy M, Hawro T, Maurer M. Increased IgE
+levels are linked to faster relapse in patients with omalizumab-discontinued chronic
+spontaneous urticaria. J. Allergy Clin. Immunol. 2017:140;1749-1751.
+
+18. Stull D, McBride D, Tian H, Gimenez Arnau A, Maurer M, Marsland A, Balp MM, Khalil
+S, Grattan C.
+Analysis of disease activity categories in chronic spontaneous/idiopathic urticaria. Br oJ
+Dermatol. 2017 Oct;177(4):1093-110.
+
+19: Hawro T, Ohanyan T, Schoepke N, Metz M, Peveling-Oberhag A, Staubach P, Maurer
+M, Weller K. The Urticaria Activity Score-Validity, Reliability, and Responsiveness. J Allergy
+Clin Immunol Pract. 2017 Nov; 2213-2198.
+
+20: Mathias SD, Crosby RD, Zazzali JL, Maurer M, Saini SS. Evaluating the minimally important
+difference of the urticaria activity score and other measures of disease activity in patients with
+chronic idiopathic urticaria. Ann Allergy Asthma Immunol 2012:108(1):20-4.
+
+21: Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, Martus P, Casale TB, Staubach
+P, Maurer M. Development and validation of the Urticaria Control Test: a patient-reported outcome
+instrument for assessing urticaria control. J Allergy Clin Immunol 2014:133(5):1365-72.
+
+22: Weller K, Siebenhaar F, Hawro T, Altrichter S, Schoepke N, Maurer M. Clinical Measures of
+Chronic Urticaria. Immunol Allergy Clin A Am 2017:37:35-49.
+
+23: Ohanyan T, Schoepke N, Bolukbasi B, Metz M, Hawro T, Zuberbier T, Peveling-Oberhag
+A, Staubach P, Maurer M, Weller K. Responsiveness and minimal important difference of the
+urticaria control test. J Allergy Clin Immunol. 2017 Dec;140(6):1710-1713.
+
+This article is protected by copyright. All rights reserved.
+24: Baiardini |, Pasquali M, Braido F, Fumagalli F, Guerra L, Compalati E, Braga M, Lombardi C, Fassio
+O, Canonica GW. A new tool to evaluate the impact of chronic urticaria on quality of life: chronic
+urticaria quality of life questionnaire (CU-QoL). Allergy 2005:60(8):1073-8.
+
+25: Kulthanan K, Chularojanamontri L, Tuchinda P, Rujitharanawong C, Baiardini |, Braido F. Minimal
+clinical important difference (MCID) of the Thai Chronic Urticaria Quality of Life Questionnaire (CUQ2oL). Asian Pac J Allergy Immunol 2016:34:137-45.
+
+26: Basra MK, Fenech R, Gatt RM, Salek MS, Finlay AY. The Dermatology Life Quality Index 1994—
+2007: a comprehensive review of validation data and clinical results. Br J Dermatol 2008:159:997—
+1035.
+
+27: Shikiar R, Harding G, Leahy M, Lennox RD. Minimal important difference (MID) of the
+Dermatology Life Quality Index (DLQI): results from patients with chronic idiopathic urticaria. Health
+Qual Life Outcomes 2005:20:36.
+
+28: Basra MK, Salek MS, Camilleri L, Sturkey R, Finlay AY. Determining the minimal clinically
+important difference and responsiveness of the Dermatology Life Quality Index (DLQI):
+further data. Dermatology. 2015;230(1):27-33.
+
+29: Vadasz Z, Tal Y, Rotem M, Shichter-Confino V, Mahlab-Guri K, Graif Y, Kessel A, AgmonLevin N, Maoz-Segal R, Kivity S, Benor S, Lachover-Roth I, Zeldin Y, Stein M, Toker
+
+O, Hassoun G, Bezalel-Rosenberg S, Toubi E, Asher |, Sthoeger Z, Israeli Forum for
+investigating and treating Chronic Spontaneous Urticaria (CSU). Omalizumab for severe
+chronic spontaneous urticaria: Real-life experiences of 280 patients. J Allergy Clin Immunol
+Pract 2017:5:1743-45.
+
+30: Hawro T, Ohanyan T, Schoepke N, Metz M, Peveling-Oberhag A, Staubach P, Maurer
+M, Weller K. The Urticaria Activity Score-Validity, Reliability, and Responsiveness. J Allergy
+Clin Immunol Pract 2017:2213:30751-1.
+
+31: Berti A, Yacoub MR, Stahl Skov P, Falkencrone S, Casati L, Burastero S, Sabbadini MG, Colombo G.
+Histamine release positive test associates with disease remission in chronic spontaneous urticaria: a
+proof-of-concept study. Eur Ann Allergy Clin Immunol 2017:49(4):154-60.
+
+This article is protected by copyright. All rights reserved.
+32. Ertas R, Ozyurt K, Atasoy M, Hawro T, Maurer M, The clinical response to omalizumab in CSU
+patients is linked to and predicted by IgE levels and their change. Allergy. 2018 Mar;73(3):705-712.
+
+33. Straesser MD, Oliver E, Palacios T, Kyin T, Patrie J, Borish L, Saini SS, Lawrence MG. Serum IgE as
+an immunological marker to predict response to omalizumab treatment in symptomatic chronic
+urticaria. J Allergy Clin Immunol Pract. 2017 Nov
+
+34: Choi WS, Lim ES, Ban GY, Kim JH, Shin YS, Park HS, Ye YM. Disease-specific impairment of the
+quality of life in adult patients with chronic spontaneous urticaria. Korean J Intern Med. 2016
+
+35: Chu CY,Cho YT, Jiang JH, Lin El, Tang CH. Epidemiology and comorbidities of patients
+with chronic urticariain Taiwan: A nationwide population-based study. J Dermatol
+Sci 2017:88(2):192-98.
+
+36: Kolkhir P, Borzova E, Grattan C, Asero R, Pogorelov D, Maurer M. Autoimmune comorbidity in
+chronic spontaneous urticaria: A systematic review. Autoimmun Rev 2017:16(12):1196-1208.
+
+This article is protected by copyright. All rights reserved.
+Table 1. Characteristics of the patients included at baseline.
+
+Patient characteristics N=117
+
+ 
+ 
+
+Mean age (years, SD) 42.0 (15.3)
+
+Mean age at omalizumab initiation (years, SD) 40.3 (15.2)
+
+Non-white ethnicity 19 (15.9)
+
+Angioedema, n (%) 34 = (29.1)
+
+Serum total IgE [x 10° IU/L] (mean, SD) 466.6 (1075.9)
+
+Leukocytes [x 10° L] (mean, SD) 8.26 (2.8)
+
+Concomitant CINDU, n (%) 32 (26.2)
+
+ 
+
+Previous treatment, n (%)
+
+High dose non-sedating antihistamines 116 (99.1)
+
+Montelukast
+
+Prednisolone 33 (20-9)
+
+Other immunosuppressants* 53 (45.3)
+13 (11.3)
+
+This article is protected by copyright. All rights reserved.
+Urticaria Activity Score 7 (UAS7), mean (SD) 29.3 (10.9)
+
+>6 (n, %) 3 (2.6)
+
+7-15
+
+ar 11 (9.4)
+
+28-42 29 (24.8)
+74 (63.2)
+
+     
+
+Chronic urticaria Quality of Life (CU-Q,oL), mean
+(SD)
+
+70.9 (18.9)
+
+ 
+
+* Azathioprine (11 patients), cyclosporine (1) and methotrexate (1).
+
+Table 2. Adherence and side effects reported during treatment.
+
+     
+
+Prolonged treatment intervals, n (%) 55 (51.4)
+
+ 
+
+This article is protected by copyright. All rights reserved.
+Table 3. Correlation between PRO scores at baseline and correlation between changes in PRO scores
+between baseline and three months follow up.
+
+ 
+
+ 
+
+UAS7 UCT CU-Q,oL DLQI
+UAS7 fi 0.676 0.581 0.605
+UCT -0.426 1 0.738 0.705
+CU-QoL 0.369 -0.445 1 0.817
+DLQI 0.439 -0.511 0.783 1
+
+Correlations (Pearson) between PRO scores at baseline (below diagonal) and between changes in
+PRO scores (APRO) between baseline and three months follow up (above diagonal). P<0.001 for all
+comparisons.
+
+This article is protected by copyright. All rights reserved.
+Table 4. Change in UAS7 from baseline to three months follow up according to patient specific
+factors.
+
+ 
+
+Patient specific factor N (%) AUAS7 Mean difference p-value
+
+(95% Cl)
+
+  
+
+   
+
+0.11 (-0.28; 0.06)
+
+Symptom duration 0.05 (-0.30; 0.40) 0.782
+
+ 
+
+Comorbidities
+
+Yes 63 (53.8) AS.57 0.132
+
+No 54 (46.2) 19.54 3.97 (-9.14; 1.21)
+
+   
+
+Smoking
+
+Yes 19 (25.3) 20.21 3.28 (-3.73; 10.29) 0.354
+
+No 56(74.7) 16.93
+
+ 
+
+Angioedema
+
+Yes 34 (29.1) 17.88 0.68 (-5.06; 6.41) 0.815
+
+No 83 (70.9) 17.20
+
+CRP levels -0.271 (0.62; 0.74) 0.123
+
+This article is protected by copyright. All rights reserved.
+Absolute neutrophil 0.404 (-0.53; 1.34) 0.392
+count
+
+ 
+
+Previous treatment with
+montelukast
+
+Yes
+
+29. 16. 0.496
+No 35 (29.9) 6.03
+
+82 (70.1) 17.99 1.96 (-7.64; 3.72)
+
+   
+
+For non-categorical patient-specific factors the mean difference corresponds to the regression
+coefficient, i.e. the change in UAS7 score per change on the scale of the patient-specific factor.
+
+This article is protected by copyright. All rights reserved.
+Figure 1. Overview of included patients.
+
+Screening
+120 patients initiated treatment with omalizumab
+from January 2015 — May 2017
+
+Baseline
+117 patients
+
+3 months
+107 patients
+6 months
+84 patients
+
+This article is protected by copyright. All rights reserved.
+
+ 
+
+3 patients were excluded
+due to missing baseline data
+
+10 patients terminated treatment
+*Lack of response (10)
+
+23 patients terminated treatment
+*Missed follow up (8)
+
+*Remission (7)
+
+*Lack of response (4)
+
+*Pregnancy (2)
+
+*Due to side effects (2)
+Figure 2. PRO scores at baseline, three and six months follow up.
+
+MiBaseline
+3 months
+O16 months
+
+40,00: Error bars: 95% Cl
+
+ 
+
+,00
+
+Mean PRO Scores at baseline, 3 months and 6 months follow up
+
+*Significant difference in mean PRO scores from baseline to three and six months follow up
+(p<0.001).
+
+This article is protected by copyright. All rights reserved.
+

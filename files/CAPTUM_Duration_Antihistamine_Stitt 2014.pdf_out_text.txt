@@ -1,0 +1,953 @@
+Drug Evaluation
+
+o
+
+Immunotherapy
+
+For reprint orders, please contact: reprints@futuremedicine.com
+
+The potential role of omalizumab in the
+treatment of chronic urticaria
+
+Treatment of chronic urticaria refractory to antihistamines presents a challenge to
+both people affected with the disease as well as the physicians who treat them.
+Omalizumab, a monoclonal antibody against IgE, has emerged as one potential
+solution to this challenge. In several clinical trials published between 2011 and 2013,
+omalizumab significantly reduced or eliminated symptoms of chronic urticaria. The
+optimal dose for chronic urticaria is 300 mg administered every 4 weeks, a dose that
+differs from those used in asthma, which are based on the patient’s weight and IgE
+level. Omalizumab does not appear to cause lasting symptom remission, and the ideal
+duration of treatment for chronic urticaria has not been defined.
+
+Keywords: anti-IgE ¢ chronic urticaria clinical trial ¢ hives ¢ omalizumab
+
+Introduction to chronic urticaria
+
+Chronic urticaria is defined as hives on most
+days of the week for more than 6 weeks Q.
+Approximately 20% of cases are due to
+physical stimuli, and of the remainder, the
+majority are considered to be idiopathic (2).
+In half of the cases, there is evidence for an
+autoimmune process, based on a positive
+autologous serum skin test, basophil histamine release or basophil activation testing,
+but the evidence that chronic urticaria is
+an ‘autoimmune’ disease is controversial (3).
+Approximately 3% of the population suffers
+from chronic urticaria at some point in their
+lives [4]. The EAACI/GA2LEN/EDF/WAO
+Urticaria Treatment Guidelines recommend
+initial treatment with standard doses of
+nonsedating antihistamines, and increased
+doses up to four-times the standard in those
+who do not respond to standard doses [5].
+Depending on the population studied and
+dose of antihistamines used, approximately
+10-50% of cases of chronic urticaria will
+not respond to antihistamines [6,7]. For those
+patients, the guidelines recommend addition
+of leukotriene receptor antagonist or changing the nonsedating antihistamine, and use
+of steroids for flares for 3-7 days at a time [5].
+
+However, the toxicity of corticosteroids
+makes them undesirable for long-term treatment [8]. If patients are still symptomatic,
+immunomodulatory treatment with cyclosporine or dapsone is recommended in the
+EAACI guidelines. Omalizumab (Xolair®,
+Genentech Inc., CA, USA) is also mentioned
+as an option for treatment. A position paper
+rom the World Allergy Organization pubished in 2012 makes similar recommendations (9). A recent review article proposes
+‘step-up/step-down’ treatment for those who
+have failed other treatments, specifically,
+cyclosporine and omalizumab comprise the
+ourth step in the treatment approach [10].
+
+ 
+
+n March 2014, omalizumab was approved
+in Europe and in the USA as add-on therapy for the treatment of chronic spontaneous urticaria in adults and adolescents with
+inadequate response to H1-antihistamine
+treatment [11].
+
+Immunomodulatory treatment with cyclosporine has the greatest quantity of published
+data, and the evidence was outlined in a recent
+review article [12]. Another immunomodulatory treatment with success in urticaria is mycophenolate mofetil (13,14). There is also evidence
+for efficacy of other anti-inflammatory and
+
+ 
+
+Jenny M Stitt* &
+Stephen C Dreskin
+
+University of Colorado Denver, Division
+of Allergy & Clinical Immunology,
+Campus Box B164, Research Complex 2,
+Room 10002, 2700 E 19th Ave, Aurora,
+
+CO 80045, USA
+
+*Author for correspondence:
+Tel.: +1 303 724 7190
+
+Fax: +1 303 724 7212
+jenny.stitt@ucdenver.edu
+
+Future °
+Medicine bares
+
+ 
+
+ 
+
+10.2217/IMT.14.31 © 2014 Future Medicine Ltd
+
+Immunotherapy (2014) 6(6), 691-697
+
+ISSN 1750-743X
+
+691
+Drug Evaluation _ stitt & Dreskin
+
+immunomodulatory treatments including sulfasalazine, hydroxychloroquine and methotrexate in treatment of chronic urticaria [15,16]. However, each of these
+medications have significant limitations, including slow
+onset of action of weeks to months with sulfasalazine,
+hydroxychloroquine and dapsone, and potentially serious side effects that require intensive monitoring including hypertension and renal failure with cyclosporine, and
+teratogenicity with mycophenolate mofetil [12,17]. Thus,
+omalizumab is an attractive treatment option, given its
+relatively benign side-effect profile and generally rapid
+onset of action.
+
+Introduction to omalizumab
+
+Omalizumab is a recombinant humanized monoclonal
+antibody to IgE. It was created by inserting a mouse
+complementarity-determining region of monoclonal
+anti-IgE onto the consensus sequence of human IgGl.
+Omalizumab binds to IgE at the CH3 domain, which
+is the same epitope that binds to the a-chain of FceRI,
+the high-affinity IgE receptor. Thus, omalizumab forms
+complexes with circulating, non-receptor-bound IgE
+and once IgE is bound to omalizumab, it cannot bind.
+to its receptor [18]. For this reason, omalizumab does
+not induce spontaneous histamine release from surfacebound IgE on basophils and mast cells. Complexes of
+IgE and omalizumab are primarily heterotrimers. By
+binding up free IgE, omalizumab decreases the availability of IgE to bind to IgE receptors. IgE bound to
+FceRI stabliizes the FceRI on mast cells and basophils.
+A loss of free IgE able to bind to FceRI thus results in
+decreased expression of high-affinity IgE receptors on
+mast cells and basophils [19]. After 3 months of treatment with anti-IgE antibody in 15 atopic patients, free
+IgE decreased to 1% of prior levels and FceRI levels
+decreased from 220,000 to 8300 receptors per basophil, which is approximately 4% of pretreatment levels.
+In a subset of these patients, this decrease in number
+occurred over only 3 days [20]. A similar effect on skin
+mast cells was demonstrated in three patients with allergic rhinitis undergoing intradermal skin testing and
+subsequent skin biopsy. Compared with controls, those
+treated with omalizumab had decreased skin mast cell
+expression of FceRI, as measured by the expression of
+the a-chain, at 70 and 196 days of omalizumab treatment, as well as decreased wheal size in response to
+the allergen {21}. A decrease in receptor numbers then
+decreases release of mediators and subsequent allergic
+inflammation [22]. All of the studies on omalizumab’s
+mechanism of action have been performed in atopic
+patients, and since most patients with chronic urticaria
+are not atopic, the exact mechanism of omalizumab’s
+action in chronic urticaria is unknown. In the studies
+of omalizumab in chronic urticaria, the drug is slowly
+
+absorbed, reaching peak concentrations at 7-8 days,
+and its terminal half-life is 19-22 days (23).
+
+Clinical efficacy of omalizumab in chronic
+urticaria
+
+While omalizumab has been FDA approved for treatment of allergic asthma since 2003, the first case report
+of omalizumab’s use in chronic urticaria was not published until 2006. This report noted improvement of
+cold-induced urticaria in a 12-year-old child after initiation of omalizumab for allergic asthma, with complete resolution of symptoms after 5 months of treatment (24]. The next year, a case series of three patients
+with chronic idiopathic urticaria was published. Their
+symptoms previously were resistant to antihistamines
+and antileukotrienes, but resolved with omalizumab,
+and two out of the three experienced resolution within
+1 week of starting treatment (25). Following the initial case reports, in 2008, Kaplan’s proof-of-concept
+study examined the use of omalizumab in 12 chronic
+urticaria patients whose symptoms were refractory to
+antihistamines [26]. It found that omalizumab administered by asthma dosing tables that adjusted the dose
+for weight and initial IgE levels (from 75 to 375 mg
+administered every 2—4 weeks) for 16 weeks resulted
+ina significant reduction in symptoms, with mean
+urticaria activity scores dropping from a baseline of
+75 to 2.6 in the final 4 weeks of treatment [26]. In
+this study, 58% of patients had complete resolution
+of symptoms and 92% had some symptom improvement. Rescue medication use decreased and quality
+of life also improved with treatment. All patients in
+
+ 
+
+this study had positive ‘autoimmune’ markers, defined.
+by a positive autologous serum skin test and basophil
+histamine release [26].
+
+Two Phase II studies published in 2011 examined
+the use of omalizumab versus placebo in larger populations of patients with chronic urticaria. In the first,
+Maurer examined a specific and unusual subset of
+patients with chronic urticaria who demonstrated IgE
+autoantibodies to thyroperoxidase and had symptoms
+refractory to antihistamines (27]. In this study, 49 subjects were treated with either omalizumab or placebo for
+24 weeks, with dosing based on asthma dosing tables
+that adjusted the dose for weight and initial IgE levels
+(from 75 to 375 mg administered every 2—4 weeks).
+Of the subjects treated with omalizumab, symptoms
+measured by the urticarial activity score over 7 days
+(UAS7) were significantly reduced from baseline compared with placebo (reduction of 17.8 vs 7.9). In addition, 19 out of the 27, or 70% of, subjects treated with
+omalizumab experienced complete resolution of their
+urticaria symptoms, compared with one out of 22, or
+4.5% of, placebo-treated subjects.
+
+ 
+
+692
+
+Immunotherapy (2014) 6(6)
+
+future science group fsg
+The potential role of omalizumab in the treatment of chronic urticaria. Drug Evaluation
+
+While the two prior studies treated subjects with
+chronic urticaria with doses of omalizumab based on
+asthma dosing tables, those tables were developed for
+an atopic population that typically has elevated IgE
+levels. Chronic urticaria patients typically have normal IgE levels and the need for adjustment of dosing
+based on IgE levels was not clear. The second Phase II
+study published in 2011 was Saini’s dose-ranging study
+of omalizumab in 90 subjects with chronic idiopathic
+urticaria refractory to antihistamines. This study
+examined the effect of omalizumab 75, 300, 600 mg or
+placebo administered as a one-time dose on symptoms
+4 weeks later [23]. There was a significant improvement
+in symptoms at 4 weeks in both the 300- and 6000-mg
+groups, with the 300-mg group reducing urticarial
+activity scores by 19.9 and the 600-mg group reducing urticarial activity scores by 14.6, both significantly
+more than the reduction of 6.9 in the placebo group.
+More than half of the patients in the 300- and 600-mg
+groups reported a >50% symptom improvement from
+baseline, and a 100% symptom improvement was
+noted in 36% of the 300-mg and 28.6% of the 600-mg
+treatment groups. Furthermore, symptoms improved
+rapidly within the first 1-2 weeks after administration
+of omalizumab (23). It is worth noting that this study
+did not select for patients with ‘autoimmune’ urticaria
+or patients with potentially pathologic IgE, as the prior
+studies did, but demonstrated efficacy of omalizumab
+in a general population of chronic urticaria patients.
+This suggested a broader applicability of this treatment, but optimal dosing and duration of treatment
+was unknown.
+
+Two Phase III studies examined the use of omalizumab to treat chronic urticaria in larger populations
+over longer periods of time. Maurer examined the use of
+omalizumab in 323 patients with chronic urticaria who
+were symptomatic despite standard doses of H1-antihistamines (28). This study compared omalizumab 75,
+150 and 300 mg to placebo, administered every 4 weeks
+for 12 weeks (three total injections). There was a signif
+icant decrease in itch severity score as well as the weekly
+urticarial activity score (UAS7) in both the 150- and
+300-mg groups. The 150-mg group had a decrease of
+8.1 in itch severity score and a decrease of 17.1 in UAS7
+from baseline, and the 300-mg group had a decrease
+of 9.8 in itch severity score and a decrease of 21.8 in
+UAS7 from baseline. By the end of treatment, 43%
+in the 150-mg group and 66% in the 300-mg group
+achieved a minimal symptom level of UAS7 <6. All
+subjects were followed for an additional 16 weeks after
+treatment was stopped, and symptom scores gradually
+increased over time in all groups, and by the end of the
+follow-up, period scores in the treatment groups were
+similar to the placebo group’s [28]. Kaplan’s Phase III
+
+study is the largest and longest published to date, and
+it assessed the effect of omalizumab 300 mg administered every 4 weeks for 24 weeks (six total injections) in
+336 subjects, with a follow-up period of 16 weeks [29].
+The population in this study included relatively more
+severely affected subjects compared with Maurer’s
+study. These subjects had all failed to achieve symptom
+control with greater than standard H1-antihistamines,
+plus H2-antihistamines and/or leukotriene receptor
+antagonists. It demonstrated a significant reduction in
+itch severity of 8.5 after 12 weeks, with similar effect
+at 24 weeks. Symptom remission, defined as a UAS7
+of 0, occurred in a third of subjects by 12 weeks, and
+reduction of symptoms to a negligible amount, defined
+as a UAS7 <6 occurred in half of all patients [29]. During the follow-up period, symptom scores gradually
+increased, and reached placebo score levels by the end
+of the 16 weeks of follow-up. This study demonstrated
+omalizumab’s efficacy in a more severely affected population of subjects with chronic urticaria, who had failed
+second- and third-line treatments.
+
+In addition to clinical efficacy, most of the trials
+have examined the impact of omalizumab on quality
+of life, which is an important patient-related outcome
+in chronic urticaria [30]. Mean Dermatology Quality
+of Life Index (DQLI) scores significantly improved
+from baseline to week 12 in Kaplan’s 2008 study, and
+there were statistically significant differences in DQLI
+between the omalizumab and placebo groups in Maurer’s 2011 and 2013 studies, as well as Kaplan’s 2013
+study [27-29]. Significant changes were also observed
+in the Skindex 29 and urticaria-specific quality-of-life
+questionnaire, the Chronic Urticaria Quality of Life
+Questionnaire (CU-Q,oL) [27.28]. For a summary of
+this section, please see Table 1.
+
+Safety & tolerability of omalizumab
+
+In the published studies on chronic urticaria, omalizumab was generally well tolerated, without serious
+adverse events compared with placebo. The risk of anaphylaxis with omalizumab is listed as a black-box warning on the US prescribing information for omalizumab,
+due to 0.1% frequency of anaphylaxis attributed to the
+medication in premarketing studies and to 0.2% frequency in postmarketing studies on asthma [31]. However, no anaphylactic reactions were reported in the
+Phase II or III trials (23,27-29]. Furthermore, no patients
+developed anti-omalizumab antibodies after 40 weeks
+in Kaplan’s study 29). The omalizumab prescribing
+information also notes that malignancies occurred
+with greater frequency in patients treated with omalizumab (0.5%) versus placebo (0.2%) in premarketing
+studies in asthma, with follow-up generally <1 year (31).
+However, no malignancies have been reported in the
+
+ 
+
+future science group
+
+www.futuremedicine.com
+
+693
+Drug Evaluation _ stitt & Dreskin
+
+ 
+
+Phase II or III trials in urticaria, including the Kaplan
+trial, which followed patients for a total of 9 months [29].
+In addition, further studies on asthma patients have not
+supported the initial concern for malignancy risk with
+
+ 
+
+it
+
+use of omalizumab [32]. In a large, unpublished cohort
+study of patients with asthma, EXCELS, there was a
+nonsignificant increase in arterial thrombotic events
+
+improvemen
+
+t
+
+in patients treated with omalizumab versus controls
+when adjusted for baseline cardiovascular risk, hazard ratio 1.11 (95% CI: 0.70-1.76) and this was also
+reflected in the analysis of all controlled clinical trials of
+omalizumab, hazard ratio 1.86 (95% CI: 0.73—4.72),
+although this was not adjusted for baseline cardiovascular risk 33]. While further epidemiologic study is warranted based on this information, it is notable that no
+thrombotic events were reported in the studies of omali
+in treatment symptoms
+
+Significant reductions in
+versus placebo
+
+ignifican
+Significant reductions in
+symptoms versus placebo
+>50% improvement:
+symptoms in the 150- and
+300-mg groups
+Significant reductions
+
+| response
+s
+
+Clinical
+
+0 in 33%
+
+zumab in chronic urticaria [23,26-29}. In terms of adverse
+events that were not serious, headache (8.7 vs 3.6%)
+and upper respiratory tract infections (7.1 vs 2.4%)
+were more commonly reported while on omalizumab
+than placebo in the Kaplan study, and headache was
+more common in the 150-mg omalizumab group than
+
+ission
+
+100% improvement:
+UAS7 <6 in 50%
+
+70 versus 4.5% in
+UAS7
+
+Remi
+58%
+UAS7 <6 in:
+
+placebo in the Maurer study [28,29].
+
+Regulatory affairs
+
+Omalizumab was approved in March 2014 both in
+Europe and in the USA as add-on therapy for the
+treatment of chronic urticaria in adults and adoles
+Dose of omalizumab
+Asthma dosing: based
+on serum IgE level and
+
+Asthma dosing
+75 mg q4w
+300 mg q4w
+600 mg q4w
+75 mg q4w
+150 mg q4w
+300 mg q4w
+
+cents 12 years and above with inadequate response to
+H1-antihistamine treatment [11].
+
+Future research questions
+Long-term treatment
+In patients with chronic urticaria that respond to omali
+Duration
+12 weeks
+24 weeks
+
+4 week f/u
+to week 16
+12 week f/u
+to week 28
+to week 40
+
+zumab, the optimal duration of treatment has not been
+defined in the published clinical trials. The longest
+duration of treatment in clinical trials was 24 weeks (six
+injections), and most subjects’ symptoms returned to the
+levels of the placebo groups by 12-16 weeks after their
+last injection [28,29]. This suggests that omalizumab is
+not likely to be ‘disease modifying’, unlike the effect of
+cyclosporine, where in one clinical trial, 60% of patients
+treated for 3 months had continued resolution or signifi
+=
+t
+loa
+D
+=
+°
+f=)
+m
+=)
+=
+=
+x
+o
+w
+S
+at
+nN
+<
+cc
+in
+ra
+3
+N
+z=
+so)
+&
+o
+=
+
+Prior treatments
+failed
+Antihistamines
+Standard dose
+H1-antihistamines
+Standard dose
+H1-antihistamines
+Standard dose
+H1-antihistamines
+antihistamines
+
+ic
+icaria
+
+ic urti
+
+th
+
+cant improvement in their symptoms after discontinuation of treatment (34). Thus, treatment with omalizumab
+may be more of a temporizing measure until the chronic
+
+Autoimmune: +
+IgE-anti-TPO Ab
+
+Type of chron
+idiopa
+
+ASST or BHR
+Positive
+
+urticaria resolves on its own than a disease-modifying
+treatment. Retrospective analyses have attempted to
+define the optimal treatment duration with omalizumab
+
+Size
+12
+49
+
+and describe the effects of tapering or reducing doses on
+urticaria symptoms.
+In a retrospective review, Song etal. reported
+
+Ab: Antibody; ASST: Autologous serum skin test; BHR: Basophil histamine release; f/u: Follow-up; LTRA: Leukotriene receptor antagonist; NA: Not applicable; q4w: Every 4 weeks; TPO: Thyroperoxidase.
+
+MF-lo)(-Wa El Tol (e-] da t-] te) medaat-1 (P40 ]ent-] oMlamaalcolalrem (elle) oy-laal(eal¥lad(e- ate
+
+*Not significant versus placebo.
+
+90
+Phase III"
+‘Double-blind placebo-controlled, parallel studies.
+
+Study (year),
+Kaplan et al.
+(2008), open
+label, proof of
+Mauer et al.
+Phase III*
+
+et al. (2013),
+
+on 16 patients with chronic urticaria treated with
+omalizumab 150 mg every 2—4 weeks and followed
+
+ 
+
+ 
+
+Saini et al.
+et al. (2013),
+
+ 
+
+694 Immunotherapy (2014) 6(6) future science group fsg)
+The potential role of omalizumab in the treatment of chronic urticaria. Drug Evaluation
+
+up for 9-11 months [35]. This population was a
+severely affected one, with 13 out of 16 patients haying required oral steroids to control their symptoms
+in the past. In this study, 88% of subjects improved
+after six injections of omalizumab, with ten out of 16
+(62%) achieving remission after one injection, four
+out of 16 (25%) achieving remission after 2—6 injections, and two patients not improving after two doses
+and discontinuing treatment. Dosing was spread out
+to every 6-8 weeks ifimprovement occurred; however,
+this resulted in flares of symptoms in two patients.
+In follow-up, of the 14 patients who achieved initial
+remission with omalizumab, four patients (29%)
+remained in remission despite no further omalizumab
+for 9 months, seven patients (50%) continued on
+omalizumab with continued control of symptoms, and.
+three (22%) who initially responded to omalizumab
+developed symptoms refractory to omalizumab {35}.
+This suggests that a subset of patients may be able to
+stop omalizumab after a short period of time, but that
+most patients will need to continue treatment for continued symptom control. It is concerning that in this
+retrospective, open-label study, a minority of patients
+who initially responded to omalizumab seemed to
+become refractory to it, which was not noted in the
+Phase III clinical trials.
+
+Lefévre et al. retrospectively analyzed 15 patients
+with chronic urticaria treated with omalizumab
+150-300 mg every 4 weeks, who were followed for
+up to 37 months of treatment [36]. One patient had
+no improvement after 2 months and stopped, but
+all others had symptom improvement and were followed for between 2 and 37 months, with an average
+of 15.53 months of observation. During this time,
+none of the patients could maintain symptom control
+with antihistamines or immunosuppressants alone,
+and symptom scores increased in the week prior to
+omalizumab administration. This study suggests
+that treatment for over a year with omalizumab is
+sufficient to control symptoms, but it does suggest
+that omalizumab does not cause remission in most
+patients even after 1.25 years of treatment in most
+patients. Taken together, these two studies suggest
+that long-term treatment with omalizumab may help
+with symptom control in those who initially respond
+to treatment, but attempts to spread out treatments
+or stop treatments will generally result in symptom
+flares.
+
+Patient-related outcomes
+
+Subjects with chronic urticaria treated with omalizumab have experienced significant improvements
+in their quality of life in the published trials. Future
+studies should continue to examine multiple measures
+
+of quality of life including DQLI and CU-Q,oL,
+as well as other patient-related outcomes including reductions in antihistamine use and need for
+corticosteroids.
+
+Populations to treat
+
+While the clinical trials suggest that omalizumab is an
+effective treatment for most patients with chronic urticaria, predicting which patients may respond to omalizumab is not possible at this point. A small subset of
+patients with chronic idiopathic/spontaneous urticaria
+seems to not respond to omalizumab at all, and how
+to identify this group of patients is not clear. While
+the initial proof-of-concept study in 2008 only looked
+at patients with ‘autoimmune’ urticaria, defined as a
+positive autologous serum skin test or presence of antiIgE receptor antibodies, omalizumab’s efficacy is not
+limited to this subset of patients and the Phase III trials
+did not report results of these ‘autoimmune’ tests for
+urticaria. It appears that this is not an important distinction in determining who will respond to treatment
+among patients with chronic idiopathic/spontaneous
+urticaria.
+
+The efficacy of omalizumab for physical urticaria is
+also unclear. While the first case report outlined omalizumab’s success in cold urticaria, the Phase II and III
+clinical trials have focused on patients with idiopathic/
+spontaneous chronic urticaria. It is unknown whether
+the efficacy of omalizumab in these trials translates
+to patients with primarily physical urticarias. Case
+reports are conflicting, as there have been case reports
+that suggested omalizumab reduced symptoms of
+cold, solar, cholinergic and delayed pressure urticaria,
+but other case reports have noted lack of improvement
+of solar and cholinergic urticaria after treatment with
+omalizumab (37). Thus, due to lack of quality data, at
+this point, it is not possible to extrapolate the efficacy
+of omalizumab in chronic idiopathic/spontaneous
+urticaria to physical urticaria.
+
+Certain populations have not been included in clinical trials, including pregnant women and. children,
+and the effect of omalizumab is unknown in these
+populations. Chronic urticaria most commonly affects
+women in between their 30s and 40s, a time during
+which childbearing can be a consideration, but the
+effect of omalizumab on chronic urticaria in women
+who are trying to conceive, pregnant or nursing has
+not been studied in clinical trials. There is an ongoing database of women treated with omalizumab for
+asthma before or during pregnancy, but it does not
+include women treated for chronic urticaria [38]. Omalizumab has also not been studied in young children
+with chronic urticaria, as most studies used a cutoff
+age of 12 or 18 years.
+
+ 
+
+future science group
+
+www.futuremedicine.com
+
+695
+Drug Evaluation _ stitt & Dreskin
+
+Conclusion
+
+Chronic urticaria refractory to treatment with antihistamines has been a challenging condition for both
+patients affected by the disease and physicians treating them, due to the toxicities of second- and thirdline treatments and limited data available on them.
+In the clinical trials published, omalizumab dosed at
+300 mg every 4 weeks seems to be an ideal treatment
+for antihistamine refractory chronic urticaria, with
+most patients responding to treatment with minimal side effects. In the future, assessment of optimal
+duration of treatment, as well as the efficacy of omalizumab in subtypes of chronic physical urticarias that
+were not previously studied and populations previously
+excluded from clinical trials should help guide further
+treatment.
+
+Executive summary
+
+Mechanism of action
+
+¢ Omalizumab (Xolair®, Genentech Inc., CA, USA) is a recombinant humanized monoclonal antibody to IgE.
+¢ Omalizumab binds IgE at the same epitope that binds to the a-chain of FceRI, the high-affinity IgE receptor,
+
+and forms complexes with circulating IgE.
+
+© Omalizumab decreases the availability of IgE to bind to IgE receptors and decreases the expression of high-affinity
+IgE receptors on mast cells and basophils, decreasing mediator release.
+¢ The exact mechanism of action in chronic urticaria is undefined.
+
+Pharmacokinetic properties
+
+¢ Omalizumab is slowly absorbed, reaching peak concentrations at 7-8 days.
+
+© Omalizumab’s half-life is 19-22 days.
+Clinical efficacy
+
+¢ In patients with chronic urticaria refractory to antihistamines, omalizumab decreased urticarial activity scores
+
+(itch and hive symptoms) significantly.
+
+¢ Omalizumab induced remission of symptoms in 30-70% of patients.
+
+¢ Omalizumab is effective in patients who failed other treatments including high dose H1-antihistamines,
+leukotriene receptor antagonists and H2-antihistamines.
+
+© Improvement in symptoms occurred in many patients after only one dose.
+
+¢ Omalizumab is not disease modifying as patients who stopped treatment experienced recurrence of
+
+symptoms.
+
+ 
+
+¢ Omalizumab is effective in patients regardless of autoimmune status.
+
+Safety & tolerability
+
+© There is no evidence of severe adverse reactions including anaphylaxis or neoplastic disease in clinical trials for
+
+urticaria.
+Dosage & administration
+
+¢ The dosage and administration of omalizumab is a subcutaneous injection of 300 mg every 4 weeks.
+
+¢ The optimal duration of treatment is unknown.
+
+Financial & competing interests disclosure
+SC Dreskin receives grant support from the NIH and from
+Genentech Inc. He serves as a consultant for Genentech Inc.
+and the Clinical Immunization and Safety Assessment Network (administered by Vanderbilt University). He serves on a
+Medical Expert Panel for the Division of Vaccine Injury Compensation, Department of Health and Human Services and is
+a member of a Medical Expert Panel for Vaccine Review for
+Pfizer Inc. He also serves on the board of the American Board
+of Allergy and Immunology. The authors have no other relevant affiliations or financial involvement with any organization
+or entity with a financial interest in or financial conflict with
+the subject matter or materials discussed in the manuscript
+apart from those disclosed.
+
+No writing assistance was utilized in the production of this
+manuscript.
+
+ 
+
+ 
+
+ 
+
+References
+
+1 Kaplan AP. Clinical practice. Chronic urticaria and
+angioedema. N. Engl. J. Med. 346(3), 175-179 (2002).
+
+2 Dreskin S. Urticaria and angioedema. In: Cecil Medicine.
+Goldman L, Schafer AI (Eds). Saunders Elsevier, PA, USA
+(2011).
+
+3 Stitt JM, Dreskin SC. Urticaria and autoimmunity: where are
+we now? Curr. Allergy Asthma Rep. 13(5), 555-562 (2013).
+
+4 Najib U, Sheikh J. The spectrum of chronic urticaria. Allergy
+Asthma Proc. 30(1), 1-10 (2009).
+
+5 Zuberbier T, Asero R, Bindslev-Jensen C et al. EAACI/
+GA(2)LEN/EDF/WAO guideline: management of urticaria.
+Allergy 64(10), 1427-1443 (2009).
+
+6 Humphreys F, Hunter JA. The characteristics of urticaria in
+390 patients. Br. J. Dermatol. 138(4), 635-638 (1998).
+
+7 Asero R, Tedeschi A. Usefulness of a short course of oral
+prednisone in antihistamine-resistant chronic urticaria:
+a retrospective analysis. J. Invest. Allergol. Clin. Immunol.
+20(5), 386-390 (2010).
+
+ 
+
+696
+
+Immunotherapy (2014) 6(6)
+
+ 
+
+future science group
+19
+
+20
+
+21
+
+22
+
+23
+
+The potential role of omalizumab in the treatment of chronic urticaria. Drug Evaluation
+
+Khan DA. Chronic urticaria: diagnosis and management.
+Allergy Asthma Proc. 29(5), 439-446 (2008).
+
+Sanchez-Borges M, Asero R, Ansotegui IJ e¢ al. Diagnosis
+and treatment of urticaria and angioedema: a worldwide
+perspective. World Allergy Organ. J. 5(11), 125~147 (2012).
+
+Asero R, Tedeschi A, Cugno M. Treatment of chronic
+urticaria. Immunol. Allergy Clin. North Am. 34(1), 105-116
+(2014).
+
+Novartis announces Xolair® approved in EU as first and only
+licensed therapy for chronic spontaneous urticaria (CSU)
+patients unresponsive to antihistamines.
+www.novartis.com/newsroom/media-releases/
+en/2014/1766627.shtml
+
+Trojan TD, Khan DA. Calcineurin inhibitors in chronic
+urticaria. Curr. Opin. Allergy Clin. Immunol. 12(4), 412-420
+(2012)
+
+Shahar E, Bergman R, Guttman-Yassky E, Pollack S.
+Treatment of severe chronic idiopathic urticaria with
+oral mycophenolate mofetil in patients not responding to
+antihistamines and/or corticosteroids. Jnt. J. Dermatol.
+45(10), 1224-1227 (2006).
+
+Zimmerman AB, Berger EM, Elmariah SB, Soter NA.
+
+The use of mycophenolate mofetil for the treatment of
+autoimmune and chronic idiopathic urticaria: experience in
+19 patients. J. Am. Acad Dermatol. 66(5), 767-770 (2012).
+
+Morgan M, Khan DA. Therapeutic alternatives for chronic
+urticaria: an evidence-based review, part 1. Ann. Allergy
+Asthma Immunol. 100(5), 403-411; quiz 412-404, 468
+(2008).
+
+Morgan M, Khan DA. Therapeutic alternatives for chronic
+urticaria: an evidence-based review, part 2. Ann. Allergy
+Asthma Immunol. 100(6), 517-526; quiz 526-518, 544
+(2008).
+
+Kim M, Rostas $, Gabardi S. Mycophenolate fetal
+
+toxicity and risk evaluation and mitigation strategies.
+Am. J. Transplant. 13(6), 1383-1389 (2013).
+
+US FDA. Omalizumab Drug Advisory Meeting 2003.
+www.fda.gov/ohrms/dockets/ac/03/briefing/3952B1_01_
+Genentech-Xolair.htm
+
+Holgate ST, Polosa R. Treatment strategies for allergy and
+asthma. Nat. Rev. Immunol. 8(3), 218-230 (2008).
+MacGlashan DW Jr, Bochner BS, Adelman DC et al. Downregulation of Fc(epsilon) RI expression on human basophils
+during in vivo treatment of atopic patients with anti-IgE.
+antibody. J. Immunol, 158(3), 1438-1445 (1997).
+
+Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S.
+Omalizumab-induced reductions in mast cell Fcepsilon RI
+expression and function. J. Allergy Clin. Immunol. 114(3),
+527-530 (2004).
+
+Galli SJ, Tsai M. IgE and mast cells in allergic disease. Nat.
+Med. 18(5), 693-704 (2012).
+
+Saini S, Rosen KE, Hsieh HJ er al. A randomized, placebocontrolled, dose-ranging study of single-dose omalizumab in
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+patients with H1-antihistamine-refractory chronic idiopathic
+urticaria. J. Allergy Clin. Immunol. 128(3), 567-573 (2011).
+
+Boyce JA. Successful treatment of cold-induced urticaria/
+anaphylaxis with anti-IgE. J. Allergy Clin. Immunol. 117(6),
+1415-1418 (2006).
+
+Spector SL, Tan RA. Effect of omalizumab on patients with
+chronic urticaria. Ann. Allergy Asthma Immunol. 992),
+190-193 (2007).
+
+Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK.
+Treatment of chronic autoimmune urticaria with
+omalizumab. J. Allergy Clin. Immunol. 122(3), 569-573
+(2008).
+
+Maurer M, Altrichter S, Bieber T er al. Efficacy and safety of
+omalizumab in patients with chronic urticaria who exhibit
+IgE against thyroperoxidase. J. Allergy Clin. Immunol.
+128(1), 202-209. e205 (2011).
+
+Maurer M, Rosén K, Hsieh HJ et a/. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria.
+
+N. Engl. J. Med. 368(10), 924-935 (2013).
+Kaplan A, Ledford D, Ashby M et al, Omalizumab in
+
+patients with symptomatic chronic idiopathic/spontaneous
+urticaria despite standard combination therapy. /. Allergy
+Clin. Immunol. 132(1), 101-109 (2013).
+
+Baiardini I, Braido F, Bindslev-Jensen C et al.
+Recommendations for assessing patient-reported outcomes
+and health-related quality of life in patients with urticaria:
+a GA(2) LEN taskforce position paper. Allergy 66(7),
+840-844 (2011).
+
+Xolair®, prescribing information. Genentech Inc., CA, USA
+(2010).
+
+Busse W, Buhl R, Fernandez Vidaurre C et al, Omalizumab
+and the risk of malignancy: results from a pooled analysis.
+J. Allergy Clin. Immunol. 129(4), 983-989 (2012).
+
+Medicines and Healthcare products Regulatory Agency
+(MHRA). Omalizumab: potential risk of arterial thrombotic
+events.
+
+www.mhra.gov.uk
+
+Kessel A, Toubi E. Cyclosporine-A in severe chronic
+urticaria: the option for long-term therapy. Allergy 65(11),
+1478-1482 (2010)
+
+Song CH, Stern S, Giruparajah M, Berlin N, Sussman GL.
+Long-term efficacy of fixed-dose omalizumab for patients
+with severe chronic spontaneous urticaria. Ann. Allergy
+Asthma Immunol. 110 (2), 113-117 (2013).
+
+Lefévre AC, Deleuran M, Vestergaard C. A long term
+
+case series study of the effect of omalizumab on chronic
+spontaneous urticaria. Ann. Dermatol. 25(2), 242-245
+(2013).
+
+Ivyanskiy I, Sand C, Thomsen SF. Omalizumab for chronic
+urticaria: a case series and overview of the literature. Case
+Rep. Dermatol. 4(1), 19-26 (2012).
+
+EXPECT Registry.
+
+www.xolairpregnancyregistry.com
+
+ 
+
+future science group
+
+www.futuremedicine.com
+
+697
+

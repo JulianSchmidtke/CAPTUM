@@ -1,0 +1,1089 @@
+DR. SABINE ALTRICHTER (Orcid ID : 0000-0001-9955-385x)
+PROF. CLAUS BACHERT (Orcid ID : 0000-0003-4742-1665)
+
+PROF. MARCUS MAURER (Orcid ID : 0000-0002-4121-481X)
+
+Article type —: Original Article: Experimental Allergy and Immunology
+
+In chronic spontaneous urticaria, IgE against staphylococcal enterotoxins is common
+and functional
+
+S Altrichter', T Hawro', M. Liedtke’, G. Holtappels’, C. Bachert®, P. S. Skov®, M Maurer’
+
+'Charité - Universitatsmedizin Berlin, Department of Dermatology and Allergology, Berlin,
+Germany
+
+? Upper Airways Research Laboratory, Department of Oto-Rhino-Laryngology, Ghent
+University Hospital, Ghent, Belgium
+
+° RefLab ApS, Copenhagen, Denmark
+
+Corresponding Author: Marcus Maurer, Allergie-Centrum-Charité, Department of
+Dermatology and Allergy, Charité — Universitatsmedizin Berlin, Charitéplatz 1, D-10117
+Berlin, Germany, Phone: +49-30-450-518042, Fax: +49-30-450-518972, E-mail:
+
+marcus.maurer @charite.de
+
+Short title: slgE against superantigens in CSU
+
+Keywords: Chronic spontaneous urticaria, sIgE, total IgE, staphylococcal superantigens
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.111 1/all.13381
+
+This article is protected by copyright. All rights reserved.
+Author Contributions:
+
+S. Altrichter: retrospective sample and clinical data acquisition, study coordination,
+manuscript writing
+
+T. Hawro: statistical analysis, proof-reading
+
+M. Liedtke: statistical analysis
+
+G. Holtappels: ELISA
+
+C. Bachert: ELISA data analysis, study coordination, proof-reading
+P.S. Skov: basophil histamine release assay, proof-reading
+
+M. Maurer: study lead and coordination, proof-reading
+
+Conflict of Interest Statement:
+
+S. Altrichter: none
+
+T. Hawro: none
+
+M. Liedtke: none
+
+G. Holtappels: none
+
+C. Bachert: none
+
+P.S. Skov: scientific board and consultant at RefLab
+
+M. Maurer: Speaker and/or consultant Allakos, Aralez, Genentech, FAES, Moxie, Novartis,
+Uriach. Recipient of institutional grant support Astra Zeneca, FAES, Genentech, Novartis,
+Uriach
+
+This article is protected by copyright. All rights reserved.
+Abbreviations:
+
+BBS Tesrcsscsonnesnensac autologous serum skin test
+CSU... ee chronic spontaneous urticaria
+
+Hi nasmusmncaams healthy control
+
+VAS vcs esermsseerne urticaria activity score
+
+SIGE vrsunscesanenenssesin specific IgE
+
+SES... Staphylococcus aureus enterotoxins
+Go) em staphylococcal enterotoxin A
+Soba staphylococcal enterotoxin B
+TST A ccceccnonnennonns Toxic shock syndrome toxin -1
+Abstract
+
+Background: Chronic spontaneous urticaria (CSU) is a frequent disorder with recurrent itchy
+wheals and/or angioedema. Despite the known effectiveness of omalizumab therapy, the
+relevant IgE antigens are largely unknown. Recently, increased rates of elevated levels of
+
+IgE towards Staphylococcus aureus enterotoxins (SEs) were described in CSU.
+
+Aim: To assess the prevalence and functional relevance of IgE to SEs in CSU.
+
+Method: We investigated serum levels of IgE against SEs in 49 CSU patients and in 15 CSU
+patients additional specific IgE to SE components and basophil histamine release (BHR).
+
+Sera of 15 healthy controls (HCs) served as control group.
+
+Results: 25 (51%) of the CSU patients had detectable levels of SE-lgE as compared to 5
+(33%) of HCs. Specific IgE to one of the SEs, Staphylococcus enterotoxin B (SEB), was
+
+present in 5 (33%) of 15 randomly selected CSU patients vs 3 (20%) of HC. Total IgE serum
+
+This article is protected by copyright. All rights reserved.
+levels in CSU patients were significantly correlated with SE-IgE (r = 0.52, p<0.001) and SEBIgE (r = 0.54, p = 0.04) serum concentrations. Interestingly, SEB-IgE levels were strongly
+correlated with disease activity (UASday) in CSU patients (r=0.657, p=0.01). Furthermore,
+BHR in response to SEB was significantly higher in basophils loaded with the serum of CSU
+patients compared to HC (p<0.05) and was clinically correlated with duration of disease (r
+
+>0.51, p <0.05).
+
+Discussion: IgE against SEs may contribute to the pathogenesis of CSU in a subpopulation
+of patients Its role and relevance in the pathophysiology of CSU needs to be further
+
+analysed.
+
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a frequent and disabling disease characterized by
+recurrent itchy wheals and/or angioedema that result from the activation of cutaneous mast
+cells (MCs) [1]. The results of recent studies of the underlying etiopathogenesis of CSU
+suggest that two types of signals, MC secretagogues and MC modulators, are important for
+the activation of skin MCs in CSU [2]. MC secretagogues induce MC degranulation, the
+process that leads to the development of CSU signs and symptoms. MC modulators change
+the susceptibility of MCs to the effects of MC secretagogues, by lowering or increasing the
+MC threshold to respond with degranulation [3]. The effects of MC priming by these
+threshold modifiers, together with those of MC secretagogues, result in the release of
+histamine and other proinflammatory mediators by skin MCs, which induce subsequent
+vasodilatation and extravasation as well as and nerve activation, resulting in the typical itchy
+
+wheal and flare type reactions.
+
+Several independent lines of evidence suggest that IgE, via its high affinity IgE
+receptor, FceRI, is the major MC secretagogue in CSU: i) Total IgE is elevated in CSU, and
+
+CSU patients have a higher prevalence of elevated IgE levels as compared to controls [4, 5].
+
+This article is protected by copyright. All rights reserved.
+ii) The activation of skin MCs via IgE and its receptor leads to urticaria signs and symptoms,
+e.g. in skin prick testing, as a side effect of specific immunotherapy, or in acute allergic
+urticaria [6, 7]. iii) Treatment with Omalizumab, a monoclonal humanized anti-IgE antibody,
+
+is very effective in CSU [8, 9].
+
+MCs degranulate when FceRIs on their cell surface aggregate and crosslink. This
+happens when two or more FceRI-bound IgE molecules that are all specific for the same
+antigen bind this allergen, a pollen allergen for example [10]. Allergen-induced IgE/FceRImediated MC degranulation is the hallmark pathogenic feature of type | allergies, such as
+allergic rhinoconjunctivitis [11, 12]. CSU, in contrast is not a classical allergy and typical
+exoallergens are not involved in the degranulation of MCs in CSU. As of yet, the antigens to
+which CSU-relevant IgEs are specific, are largely unknown. Although specific IgE against
+classical common allergens, i.e. aeroallergens and food allergens [13-16], or to less
+common allergens such as fungi [5, 17] can be detected in some patients with CSU, they are
+not regarded as pathophysiological relevant for the development of the signs and symptoms
+of CSU [14, 15, 18-20]. Autoallergens might be the targets for the IgE molecules in CSU, but
+
+there is very little evidence as of yet to support this [21-23].
+
+What could be the specific targets of the IgE that induces skin MC degranulation in
+CSU patients? Some older studies [24, 25] have shown that bacterial antigens may be the
+target of IgE, and that MCs with antibacterial IgE on their surface IgE receptors degranulate
+
+when exposed to IgE-specific bacterial antigens such as staphylococcal enterotoxins (SEs).
+
+Indeed, IgE to staphylococcus toxins has been demonstrated to be elevated and
+linked to disease activity and exacerbation in several MC-driven diseases including atopic
+dermatitis [26], nasal polyposis and allergic rhinitis [27, 28]. Leung et al. [29] have
+demonstrated that 57% of patients with atopic dermatitis have serum IgE against
+staphylococcal toxins and that their basophils release histamine upon exposure to the
+
+relevant SEs. Sharma et al reported that antibacterial treatment reduced urticaria symptoms
+
+This article is protected by copyright. All rights reserved.
+in colonized patients with chronic urticaria [30].
+
+Most interestingly, Ye and co-workers detected an increased prevalence of specific
+IgE against staphylococcal enterotoxin A and B and toxic shock syndrome toxin TSST-1
+(13.7%, 12.0% and 18.0%, respectively) in Korean patients with chronic urticaria, and
+described associations with aspirin sensitivity, elevated total IgE serum levels, higher rates
+of atopy and specific HLA haplotypes (HLA DQB1*0609 and DRB1*1302) [31]. Recently a
+second study of the same group described, in a larger cohort of Korean patients, increased
+rates of IgE against SE. These where significantly elevated for SEB and TSST-1 compared
+to healthy controls (SEA 10.0% vs. 6.1%, n.s.; SEB 21.3% vs. 6.3%, p<0.001; and TSST-1
+
+26.75% vs. 12.3%, p<0.001) [32].
+
+In this study, we wanted to confirm these findings in Caucasian CSU patients and address
+
+the question if the IgE against SE is functional and relevant in CSU.
+
+Materials and Methods
+
+Study subjects
+
+In this retrospective study, 49 sera of CSU patients from the Department of Dermatology and
+Allergy, Charité - Universitatsmedizin, Berlin were analyzed and correlated with clinical
+parameter of the patients. 15 healthy control sera were analyzed in the study. Study
+subjects’ details are given in Table 1. Patient sera and data used for this study were
+exclusively derived from the blood obtained for the routine clinical management of patient
+and their medical chart documentation, respectively. None of the enrolled participants had
+taken systemic corticosteroids or applied topical antihistamines, corticosteroids or mast-cell
+stabilizers for 2 weeks and not taken oral antihistamines at least 72 hours prior to routine
+
+assessment.
+
+This article is protected by copyright. All rights reserved.
+Questionnaire
+
+Patients were asked to keep a symptom diary and to document, every day, their itch score
+(0= none, 1= mild, 2=moderate, 3=severe) and their numbers of wheals (0O= none, 1= little
+intensity, 2= moderate intensity, 3= severe intensity), in order to assess their disease
+severity. By adding these scores the weekly urticaria activity score (UAS7, range 0-42) of the
+last seven days before blood drawing were calculated. As 32% of the CSU had taken
+second generation antihistamines (median 2 Tabl.) in the week before blood drawing, we
+also calculated the daily urticaria activity score (UASday, range 0-6) on the day of blood
+
+drawing, where the patients had stopped AH treatment at least 72h before.
+
+Autologous serum skin test (ASST)
+
+The ASST was routinely performed in CSU patients as described before [33]. The ASST was
+regarded positive if a serum-induced weal occurred with a diameter of >/= 1.5 mm bigger
+
+than the saline-induced response at 30 min.
+
+Serum analysis
+
+By using the Immuno CAP System Phadia Laboratory Systems, Thermo Fisher Scientific
+
+Inc, Uppsala, Sweden, the following parameters were determined:
+
+General:
+
+e — total-IgE
+e slgE Grass Mix (gx3)
+
+e slgE Dermatophagoides pteron. (d1)
+
+Staphylococcus specific:
+
+This article is protected by copyright. All rights reserved.
+e — slgE Staphyloccocus enterotoxin B (m81)
+
+e SE-lgEs (URL, Ghent University, not commercially available)
+
+Total IgE levels >100 kU/I were considered as elevated (as given in the manual of Immuno
+
+CAP). Detection level of SE-IgE was 0.1kU/I.
+
+Basophil histamine release (BHR)
+
+15 randomly selected CSU sera (8 SE-IgE detectable, 7 SE-IgE below detection limit; 5
+SEB-IgE detectable, 10 SEB-IgE below detection limit) were used for BHR. Clinical
+characteristics of the randomly selected CSU patients did not differ from the whole 49 CSU
+
+patients (see Supplemental Table 1)
+
+Passive sensitization was performed using heparinized blood from the same single healthy
+non-allergic donor, with the following characteristics: 1. confirmed strong reaction to anti-IgE
+(histamine released: 52 + 5 ng/mL) and 2. No response to SEA or SEB. To remove the IgE
+bound from the basophils surface, 3 mL of blood samples were treated with 10 mL of
+stripping buffer (0.14 M NaCl, 0.005 M KCI and 0.0134 M lactic acid) for 10 min at 4°C.
+Thereafter the cells were washed with PIPES buffer (10 mM piperazine-N,N(bis-ethane
+sulfonic acid), 140 mM sodium acetate, 5 mM potassium acetate, 0.6 mM CaCl, 1.1 mM
+MgClo, 1 mg/mL glucose, 0.3 mg/mL HSA, 15 IE/mL heparin) and resuspended to a total
+volume of 3 mL in the PIPES buffer. Then, 130 pL of sera from patients or controls were
+incubated with 3 mL of the “IgE-stripped” donor blood for 60 min at 37°C. Aliquots of 25 uL
+of passively sensitized blood in the presence of IL-3 (2 ng/mL blood) were incubated in the
+glass fibre-prepared microtiter plates (RefLab ApS, Copenhagen, Denmark), with 25 ul of
+SEA or SEB at a concentration of 100 and 30 g/mL for 60 min at 37°C. The SEA and SEB
+concentration chosen for this test were the highest values that did not lead to unspecific
+histamine release in a dose-response curve. This level corresponded to the mean + 3 x SD
+
+of the histamine release values measured in 5 non-allergic subjects without a specific
+
+This article is protected by copyright. All rights reserved.
+stimulus. As a positive control of the passive sensitization was used 25 ul of anti-IgE (KPL,
+
+USA, MD) in a concentration of 5 pg/mL.
+
+After incubation, the microtiter plate was washed with H2O for 1 min to remove cells and
+interfering substances. Thereafter, 75 yl of NaOH/ortho-phtaldialdehyde (OPA) mixture was
+added to each well allowing glass fiber bound histamine to be released and coupled to OPA.
+After 10 min the coupling reaction was stopped and histamine-OPA complexes stabilised by
+adding 75 ul of 0.59% HClO... Histamine was determined fluorometrically in the
+Histareader™ 501 manufacturing company (RefLab). Results were expressed as ng/mL of
+
+histamine released.
+
+Statistical Analyses
+
+Statistical analysis was performed using Graph Pad Prism Version 6 for Windows, 2012.
+D'Agostino & Pearson omnibus normality test was used to test for normal distribution.
+Parametric data are depicted using mean and standard error of mean values, non
+parametric data using median and (interquartile) range.
+
+Binominal variables were analyzed using Chi-square test. Parametric variables were
+compared using unpaired t-test. Non-parametric continuous variables were compared using
+Mann-Whitney test. Correlations were calculated using the Spearman’s rank test. P < 0.05
+
+was considered to indicate statistical significance.
+
+This article is protected by copyright. All rights reserved.
+Results
+
+In CSU patients, total IgE levels are elevated, but specific IgE levels against staphylococcal
+
+enterotoxin are comparable to those of healthy controls.
+
+In our study, CSU patients had significantly elevated levels of total IgE (median 95 kU/I) as
+compared to healthy control subjects (median 29.5 kU/I, p=0.026, Figure 1a). We also found
+specific IgE against a mix of staphylococcal enterotoxins (SEs) in the blood of 51% of CSU
+patients versus 33% of healthy controls, but IgE-anti-SE-levels were not significantly higher
+
+in the CSU group as compared to the healthy control group (Figure 1b).
+
+Specific IgE to one of the SEs, Staphylococcus enterotoxin B (SEB), was present in 33% of
+CSU patients vs 20% of healthy controls. Again, the median serum levels in CSU patients
+
+and healthy controls were comparable (Figure 1b).
+
+Detectable specific IgE against staphylococcal enterotoxins are significantly correlated with
+
+total IgE serum levels.
+
+SE-IgE serum concentrations were significantly correlated with total IgE serum levels in
+both, CSU and healthy controls (CSU: r = 0.52, p<0.001, healthy: r = 0.74, p = 0.002). In
+contrast, SEB-IgE and total IgE were significantly correlated only in CSU patients (r = 0.54, p
+= 0.04), but not in healthy controls (r = 0.39, p = 0.155). In both populations, SEB-IgE was
+
+correlated very well with SE-IgE (r = 0.87, p < 0.001).
+
+In CSU patients, levels of SEB-IgE, but not SE-IgE, correlate with disease activity.
+
+In CSU, SE-IgE did not correlate with any assessed clinical features such as duration of
+disease, disease activity (determined by UASday or UAS7) or ASST/APST-wheal diameter
+
+(Table 2a). In contrast, SEB-IgE levels were strongly correlated with disease activity
+
+This article is protected by copyright. All rights reserved.
+(UASday) in CSU patients (Rs=0.657, p=0.01, Table 2b). Interestingly, most CSU patients
+with elevated SEB-IgE levels were ASST negative (80%). The significant correlation of SEBIgE with disease activity (UASday) was pronounced in ASST negative CSU patients
+(Rs=0.702, p=0.043, n=9) but absent in ASST positive patients (Rs=0.791, p=0.400, n=5).
+
+There was no significant correlation with the UAS7 score.
+
+SEB-IgE from CSU patients induces basophil histamine release
+
+When we exposed donor basophils first to the serum of 15 randomly selected CSU patients
+or healthy control sera and then to SEB, histamine release was significantly more
+pronounced in the basophils sensitized with CSU sera (Figure 2a-c). SEB-induced histamine
+release was significantly correlated with levels of total IgE and with the disease duration in
+
+CSU patients (see Table 3).
+
+Basophil exposure to SEA or TSST-1 did not result in histamine release neither in basophils
+
+sensitized with the serum of CSU patients nor healthy controls (data not shown).
+
+Discussion
+
+This study shows that many CSU patients have IgE to staphylococcal toxins. The levels of
+IgE to one of these toxins, SEB, are correlated with total IgE levels and CSU activity. Also,
+the SEB-specific IgE of CSU patients has histamine-releasing effects, which are linked to
+
+disease activity and duration.
+
+CSU patients frequently have IgE against staphylococcal enterotoxins
+
+In comparison to the study of Ye et al. in Korean CSU patients (31.8%) [31] we detected a
+
+higher prevalence of about 50% sIgE against staphylococcal enterotoxins in our Caucasian
+
+This article is protected by copyright. All rights reserved.
+CSU patients. In this study also, the healthy controls had lower prevalences (13%)
+compared to our study (33%). In comparison to this publication we also detected more
+frequently IgE against Staphylococcus enterotoxin B (SEB). Compared to the study of Ye et
+al. it was present in 33% of our CSU patients (compared to 12%) vs 20% of healthy controls
+(compared to 4.3%). To our knowledge it is not known if Asians overall have lower sIgE
+against staphylococcal enterotoxins rates compared to Caucasians. As in both studies the
+same test system had been used, these differences are not the result of different test
+
+sensitivities.
+
+The mean levels of specific IgE against staphylococcal enterotoxins including SEB was not
+significantly higher compared to the healthy control groups (Figure 1b). If looking at the
+specific IgE levels in the positive CSU patients and healthy controls, we did see higher sIgE
+levels in CSU patients (SE-IgE mean 0.84 kU/I 0.14 compared to 0.49 kU/I +0.08 in healthy
+controls; SEB-IgE mean 0.65 kU/I + 0.05 compared to 0.32 kU/I + 0.06 in healthy), but this
+differences missed statistical significance, due to the low number of patients. Ye et al. in
+
+comparison did not report the levels of IgE against staphylococcal enterotoxins.
+
+Our results confirm earlier studies showing that CSU patients have elevated serum levels of
+total IgE [4, 5, 21, 34]. Comparative to other studies [35-37], we also saw in our study a
+trend to more frequent detectable levels against perennial or seasonal inhalant antigens as
+compared to healthy controls (see Supplemental Table 1). The highest detection rates had
+been described for house dust mite allergens [13, 14, 16], for which we could also detect
+specific IgE in almost half of our patients. In line with a previous study [14], overall the
+prevalence was not significantly different to those of healthy controls (see Supplemental
+Figure 1). The clinical significance of these specific IgE antibodies is still not clear. In the
+literature these sensitisations are mostly regarded as irrelevant to CSU symptoms [15, 18
+20].
+
+This article is protected by copyright. All rights reserved.
+Aspirin intolerance has not been assessed in our patient population. Previously, chronic
+urticaria patients with aspririn intolerance [31], aspirin intolerant patients with nasal polyposis
+[38] and aspirin intolerant asthma patients [39], have been reported to show higher rates of
+specific IgE to superantigens. Thereasons for this are not completely understood yet. None
+of the studies was able to provide evidence for a direct link between IgE to Staphylococcus
+
+aureus and aspirin intolerance, and further studies are needed.
+
+IN CSU, IgE-anti-SEB is linked to total IgE and disease activity
+
+In line with the paper Ye et al. [31] we also detected a correlation of SE-IgE and SEB-IgE
+with the total IgE levels. This fact, that serum IgE-anti-SEB levels in CSU patients were
+strongly correlated to total IgE levels, suggests that the elevation of total IgE in CSU may be
+
+explained, at least in part, by the production of IgE to SEB and other bacterial antigens.
+
+As of now it is largely unclear why CSU patients have elevated total IgE levels. In some
+publications IgE against classical common allergens, i.e. aeroallergens and food allergens
+[13-16], or to less common allergens such as fungi [5, 17] had been detected in some
+patients with CSU. Nevertheless, they are not regarded as pathophysiological relevant for
+the development of the signs and symptoms of CSU [14, 15, 18-20], as the symptoms occur
+independently of exoallergen contact. This is in contrast to contact urticaria, where
+symptoms occur (immediately) upon contact and can be detected via BHR [40]. We have
+shown in a former publication that some CSU patients do have IgE against autoantigens
+such as TPO [21]. How these autoreactive IgE molecules evolve in CSU is unknown. It can
+be speculated that they develop as a result of cross-reactivity e.g. after infectious diseases,
+as infections are a common cause of acute and chronic urticaria [41]. Staphylococcus
+aureus is a common skin colonizing bacteria known for causing various infectious diseases.
+
+Accordingly, Staphylococcus aureus specific antibodies including IgE might occur as a result
+
+This article is protected by copyright. All rights reserved.
+of such infections, which then might lead to the development of allergic symptoms, as seen
+
+in CSU.
+
+That IgE-anti-SEB levels are correlated with disease activity in CSU patients indicates this
+specific IgE may contribute to the mast cell degranulation occurring in CSU skin. Neither SEIgE nor SEB-IgE were correlated with ASST positive reactivity, suggesting that sensitisations
+to staphylococcal antigens are not associated with autoreactivity in CSU. In contrast,
+elevated SEB-IgE levels were more often seen in ASST negative patients and in this
+subpopulation the correlation with the UASday was significant, in contrast to the ASST
+positive population, probably indicating that SEB-IgE can be a driver of disease in the nonautoreactive patient population. SEB-IgE did not correlate with the UAS7 in our CSU
+patients, but in this tested selected population, 27.7% of the patients had taken
+antihistamines in the week before blood drawing, probably affecting the UAS7 score, thus
+
+leading to missed correlations due to a low total patient number.
+
+Interestingly, the sensitisation against staphylococcal antigens seemed to have developed
+irrespective of the sensitisations against environmental antigens in CSU patients. This was
+in contrast to the healthy controls, where the occurrence of staphylococcus specific IgE, if
+present, was highly correlated with specific environmental IgE levels (Supplemental Table
+2). Thus, sensitisations against staphylococcal antigens seem to evolve by a different route
+in CSU compared to healthy controls, e.g. via (recurrent) bacterial infections or (constant)
+colonisation. In In CSU patients, rates of skin colonisation with Staphylococcus aureus are
+reportedly very low, 3% in one study [42]. In contrast, nasal colonization rates were found to
+be increased in two independent studies, 53% in CSU vs. 13% of healthy controls in one
+study [43]; and 56% in CSU vs. 28% of healthy controls in the other [30]). Interestingly,
+antibiotic treatment of CSU patients with nasal colonization with S. aureus reportedly
+
+reduced urticaria symptoms, in one study [30].
+
+This article is protected by copyright. All rights reserved.
+SEB induced histamine release is significantly higher in CSU patients, but limited.
+
+In CSU patients the SEB induced histamine release on sensitized basophils was significantly
+higher compared to healthy controls, but the total histamine release was relatively low
+compared to the histamine released evoked via anti-lgE induced histamine release (e.g.
+mean 12.1% SEB 100yug/m! compared to the anti-IgE induced histamine release, mean
+5.4% SEB 30yg/ml; Figure 2c). Interestingly, the SEB-induced histamine release was
+significantly correlated with the disease duration in CSU patients. This can either indicate
+that SEB-IgE (and possible recurrent SE contact) can prolong CSU disease duration, or that
+long lasting CSU and a pro-lgE switched immune system preferably produces (also) IgE to
+
+SE.
+
+Accordingly, high SEB-level could also induce histamine release via unspecific basophil
+activation. Overall, the contribution to the total histamine release in CSU patients is limited,
+indicating that SEB-IgE induced mast cell activation might not be sufficient to solely evoke
+the clinical symptoms of CSU. Probably several specific IgE stimulations in parallel have to
+occur in CSU (sum effect), or the specific IgE primes the effector cells to histamine release
+to other (unspecific) trigger factors (priming effect). The significant correlation of the SEB
+induced histamine release with the total IgE levels could point towards the first assumption,
+that several specific IgEs (and their respective antigens) are needed in CSU to provoke a
+clinical significant skin reaction. Currently we have no clear explanation, why SEA and
+TSST-1 did not result in basophil activation. This is in contrast to reports on atopic dermatitis
+where basophil histamine release to SEA or TSST-1 was seen [29]. We speculate that levels
+and rates of specific IgE are lower in CSU patients as compared to AD, and that this may
+
+affect the sensitivity of ex vivo basophil activation assays.
+
+This article is protected by copyright. All rights reserved.
+Beside the seen direct effect on basophils and mast cells in CSU, staphylococcal
+superantigens could also contribute to the eosinophilic and mixed Th1/Th2 cell-mediated
+inflammatory response seen in histologic examinations of CSU patients [44] [45]. In mice
+exposed to staphylococcal superantigens, mixed Th1/Th2 cellular infiltration was reported
+[46], and intracutaneous injection of SEB in wild type mice, but not in T cell deficient mice,
+elicited mast cell degranulation and inflammatory responses, indicating that both,
+superantigens and T cells are required for mast cell degranulation [47]. Taken together,
+these findings suggest that IgE directed against staphylococcal superantigens may trigger
+and perpetuate inflammation in at least some CU patients by effects on T cells and other non
+
+mast cell populations.
+
+Limitations of the study are the limited number and patient material of CSU patients and
+healthy control subjects, the retrospective analysis of the patients’ data and the missing
+information of aspirin intolerance and the patients’ colonisation status. Nevertheless, we
+were able to detect specific IgE against SE’s and give first hints of functional relevance of
+IgE-antibodies directed against staphylococcal enterotoxins, and especially the antigen SEB,
+in CSU. IgE against staphylococcal enterotoxin B is functional in CSU patient sera and
+
+linked to a prolonged course of CSU as well as daily disease activity.
+
+The overall frequent detection of SE-IgE also in healthy controls, the relatively low serum
+levels and mild histamine release of basophils do need further prospective investigations to
+clarify the relevance of this finding. Our results should encourage the further assessment of
+
+these types of IgE antibodies and their role and relevance in the pathophysiology of CSU.
+
+This article is protected by copyright. All rights reserved.
+References
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Zuberbier, T., et al., The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy,
+2014. 69(7): p. 868-87.
+
+Maurer, M., et al., Questions and answers in chronic urticaria: where do we stand and where
+do we go? J Eur Acad Dermatol Venereol, 2016. 30 Suppl 5: p. 7-15.
+
+Nosbaum, A., et al., [Pathophysiology of urticaria]. Ann Dermatol Venereol, 2014. 141 Suppl
+3: p. $559-64.
+
+Kessel, A., et al., Elevated serum total IgE--a potential marker for severe chronic urticaria. \nt
+Arch Allergy Immunol, 2010. 153(3): p. 288-93.
+
+Staubach, P., et al., Patients with chronic urticaria exhibit increased rates of sensitisation to
+Candida albicans, but not to common moulds. Mycoses, 2009. 52(4): p. 334-8.
+
+Rodriguez-Perez, N., et al., Frequency of acute systemic reactions in patients with allergic
+rhinitis and asthma treated with sublingual immunotherapy. Ann Allergy Asthma Immunol,
+2008. 101(3): p. 304-10.
+
+Muller, U.R., [Insect venom allergy]. Ther Umsch, 1994. 51(1): p. 38-44.
+
+Maurer, M., et al., Current and future therapies for treating chronic spontaneous urticaria.
+Expert Opin Pharmacother, 2016. 17(8): p. 1131-9.
+
+Zhao, Z.T., et al., Omalizumab for the treatment of chronic spontaneous urticaria: A metaanalysis of randomized clinical trials. J Allergy Clin Immunol, 2016. 137(6): p. 1742-1750 e4.
+
+Rivera, J. and A. Olivera, A current understanding of Fc epsilon Rl-dependent mast cell
+activation. Curr Allergy Asthma Rep, 2008. 8(1): p. 14-20.
+
+Bachert, C., [Immediate and late phases of allergic rhinitis]. Immun Infekt, 1990. 18(5): p.
+164-8.
+
+Poole, J.A. and L.J. Rosenwasser, The role of immunoglobulin E and immune inflammation:
+implications in allergic rhinitis. Curr Allergy Asthma Rep, 2005. 5(3): p. 252-8.
+
+Caliskaner, Z., et al., Skin test positivity to aeroallergens in the patients with chronic urticaria
+without allergic respiratory disease. J Investig Allergol Clin Immunol, 2004. 14(1): p. 50-4.
+
+Gecer, E. and T. Erdem, Aeroallergen prick skin test and autologous serum skin test results in
+patients with chronic urticaria and their comparison. Ann Dermatol, 2012. 24(4): p. 472-4.
+
+Kulthanan, K., et al., Prevalence and relevance of the positivity of skin prick testing in patients
+with chronic urticaria. } Dermatol, 2008. 35(6): p. 330-5.
+
+This article is protected by copyright. All rights reserved.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+Song, Z., et al., Evaluation of autologous serum skin test and skin prick test reactivity to
+house dust mite in patients with chronic spontaneous urticaria. PLoS One, 2013. 8(5): p.
+e64142.
+
+Zhang, M., et al., Sensitization and cross-reactions of dermatophyte and Candida albicans
+allergens in patients with chronic urticaria. Int J Dermatol, 2016. 55(10): p. 1138-42.
+
+Kulthanan, K. and C. Wachirakaphan, Prevalence and clinical characteristics of chronic
+urticaria and positive skin prick testing to mites. Acta Derm Venereol, 2008. 88(6): p. 584-8.
+
+Zuberbier, T., et al., Epidemiology of urticaria: a representative cross-sectional population
+survey. Clin Exp Dermatol, 2010. 35(8): p. 869-73.
+
+Augey, F., et al., Chronic spontaneous urticaria is not an allergic disease. Eur J Dermatol,
+2011. 21(3): p. 349-53.
+
+Altrichter, S., et al., IgE mediated autoallergy against thyroid peroxidase--a novel
+pathomechanism of chronic spontaneous urticaria? PLoS One, 2011. 6(4): p. e14794.
+
+Hatada, Y., et al., Significantly high levels of anti-dsDNA immunoglobulin E in sera and the
+ability of dsDNA to induce the degranulation of basophils from chronic urticaria patients. Int
+Arch Allergy Immunol, 2013. 161 Suppl 2: p. 154-8.
+
+Panaszek, B., et al., Autoreactive IgE in Chronic Spontaneous/Idiopathic Urticaria and
+Basophil/Mastocyte Priming Phenomenon, as a Feature of Autoimmune Nature of the
+Syndrome. Arch Immunol Ther Exp (Warsz), 2016.
+
+Brarda, O.A., L.M. Vanella, and R.V. Boudet, Anti-Staphylococcus aureus, anti-Streptococcus
+pneumoniae and anti-Moraxella catarrhalis specific IgE in asthmatic children. J Investig
+Allergol Clin Immunol, 1996. 6(4): p. 266-9.
+
+Bachert, C., et al., Total and specific IgE in nasal polyps is related to local eosinophilic
+inflammation. J Allergy Clin Immunol, 2001. 107(4): p. 607-14.
+
+Orfali, R.L., et al., Staphylococcal enterotoxin B induces specific IgG4 and IgE antibody serum
+levels in atopic dermatitis. Int J Dermatol, 2015. 54(8): p. 898-904.
+
+Bachert, C., et al., Specific IgE against Staphylococcus aureus enterotoxins: an independent
+risk factor for asthma. J Allergy Clin Immunol, 2012. 130(2): p. 376-81 e8.
+
+Tomassen, P., et al., Inflammatory endotypes of chronic rhinosinusitis based on cluster
+analysis of biomarkers. J Allergy Clin Immunol, 2016. 137(5): p. 1449-1456 e4.
+
+Leung, D.Y., et al., Presence of IgE antibodies to staphylococcal exotoxins on the skin of
+patients with atopic dermatitis. Evidence for a new group of allergens. J Clin Invest, 1993.
+92(3): p. 1374-80.
+
+Sharma, A.D., Role of Nasal Carriage of Staphylococcus aureus in Chronic Urticaria. Indian J
+Dermatol, 2012. 57(3): p. 233-6.
+
+This article is protected by copyright. All rights reserved.
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+Ye, Y.M., et al., Association of specific IgE to staphylococcal superantigens with the
+phenotype of chronic urticaria. J Korean Med Sci, 2008. 23(5): p. 845-51.
+
+Palikhe, S., et al., Association Between PTPN22 Polymorphisms and IgE Responses to
+Staphylococcal Superantigens in Chronic Urticaria. Allergy Asthma Immunol Res, 2015. 7(3):
+p. 290-4.
+
+Sabroe, R.A., et al., The autologous serum skin test: a screening test for autoantibodies in
+chronic idiopathic urticaria. Br J Dermatol, 1999. 140(3): p. 446-52.
+
+Toubi, E., et al., Clinical and laboratory parameters in predicting chronic urticaria duration: a
+prospective study of 139 patients. Allergy, 2004. 59(8): p. 869-73.
+
+Chang, K.L., et al., Analysis of serum total IgE, specific IgE and eosinophils in children with
+acute and chronic urticaria. J Microbiol Immunol Infect, 2013. 46(1): p. 53-8.
+
+de Vos, G., et al., Increased allergic sensitization to mugwort in chronic urticaria.
+Dermatology, 2012. 225(2): p. 141-6.
+
+Bains, P. and A. Dogra, Skin prick test in patients with chronic allergic skin disorders. \ndian J
+Dermatol, 2015. 60(2): p. 159-64.
+
+Perez-Novo, C.A., et al., Aspirin sensitivity and IgE antibodies to Staphylococcus aureus
+enterotoxins in nasal polyposis: studies on the relationship. \nt Arch Allergy Immunol, 2004.
+133(3): p. 255-60.
+
+Suh, Y.J., et al., Specific immunoglobulin E for staphylococcal enterotoxins in nasal polyps
+from patients with aspirin-intolerant asthma. Clin Exp Allergy, 2004. 34(8): p. 1270-5.
+
+Turjanmaa, K., et al., Basophil histamine release and lymphocyte proliferation tests in latex
+contact urticaria. In vitro tests in latex contact urticaria. Allergy, 1989. 44(3): p. 181-6.
+
+Zuberbier, T. and M. Maurer, Urticaria: current opinions about etiology, diagnosis and
+therapy. Acta Derm Venereol, 2007. 87(3): p. 196-205.
+
+Park, H.Y., et al., Staphylococcus aureus Colonization in Acute and Chronic Skin Lesions of
+Patients with Atopic Dermatitis. Ann Dermatol, 2013. 25(4): p. 410-6.
+
+Ertam, |., et al., The frequency of nasal carriage in chronic urticaria patients. J Eur Acad
+Dermatol Venereol, 2007. 21(6): p. 777-80.
+
+Ying, S., et al., TH1/TH2 cytokines and inflammatory cells in skin biopsy specimens from
+patients with chronic idiopathic urticaria: comparison with the allergen-induced late-phase
+cutaneous reaction. J Allergy Clin Immunol, 2002. 109(4): p. 694-700.
+
+Kay, A.B., et al., Elevations in vascular markers and eosinophils in chronic spontaneous
+urticarial weals with low-level persistence in uninvolved skin. Br J Dermatol, 2014. 171(3): p.
+505-11.
+
+This article is protected by copyright. All rights reserved.
+46. Savinko, T., et al., Topical superantigen exposure induces epidermal accumulation of CD8+ T
+cells, a mixed Th1/Th2-type dermatitis and vigorous production of IgE antibodies in the
+murine model of atopic dermatitis. J Immunol, 2005. 175(12): p. 8320-6.
+
+47. Saloga, J., et al., Cutaneous exposure to the superantigen staphylococcal enterotoxin B elicits
+a T-cell-dependent inflammatory response. J Invest Dermatol, 1996. 106(5): p. 982-8.
+
+This article is protected by copyright. All rights reserved.
+Figures and Tables
+
+Tablet: Clinical characteristics of study participants
+
+CSU patients healthy controls
+
+n=49 n=15
+
+ 
+
+Age
+
+median (range) 43 (15 - 82)
+
+ 
+
+Sex
+
+M:F
+
+ 
+
+Duration of disease (years)
+
+median (range) 1.6 (0.1 -31 )
+
+ 
+
+UASday (0-6 points) (n = 48)
+
+median (range) 2.5 (0 - 6)
+
+ 
+
+UAS7 (0-42 points) (n = 48)
+
+median (range) 17 (0 - 42)
+
+ 
+
+ASST (n = 44)
+
+Negative : Positive* 34:10
+
+ 
+
+* wheal to autologous serum 21,5mm compared to saline
+
+This article is protected by copyright. All rights reserved.
+Figure 1: Individual subjects are depicted as open (healthy; = controls) or filled (CSU; =
+patients with chronic spontaneous urticaria) circles. Median values (line) and Interquartile
+range (whiskers) are depicted. * p<0.05, n.s.=not significant. (a) CSU patients (n = 49) have
+significantly elevated total IgE serum levels compared to healthy controls (n = 15). (b) CSU
+patients (SE: n = 49; SEB: n = 15) have comparable specific IgE serum levels in SE/SEBIgE positive subjects against staphylococcal enterotoxins (SE) including SEB as healthy
+controls (n = 15). SEB-lgE measurements were performed in 15 randomly selected CSU
+patients.
+
+a)
+
+1000
+
+—~ 800
+5
+=
+
+n= 600
+B=)
+
+0
+
+3 40
+
+200
+
+ 
+
+healthy CSU
+slgE (kU/I)
+
+healthy
+
+csu
+
+ 
+
+SEB
+
+healthy
+
+csu
+
+Table 2a: Correlation of SE-IgE with selected clinical parameter
+
+CSU patients
+r (correlation)
+
+p value
+
+healthy controls
+r (correlation)
+
+P=
+
+ 
+
+ 
+
+Duration of
+disease
+
+ 
+
+UASday
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Total IgE
+
+ 
+
+SEB-IgE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 2b: Correlation of SEB-IgE levels of randomly selected CSU patients* and healthy
+controls n=15 each
+
+CSU patients Healthy controls
+Rs
+
+p
+
+ 
+
+ 
+
+Duration of
+disease
+
+ 
+
+UAS day
+
+ 
+
+Total IgE
+
+ 
+
+SE-IgE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This article is protected by copyright. All rights reserved.
+Figure 2: Individual patients are depicted as open (healthy controls) or filled (CSU) circles.
+Mean values and standard error of mean are depicted. * p<0.05, n.s.=not significant.
+Basophil histamin-release to SEB antigen (100yug or 301g) is more pronounced in CSU
+patients compared to healthy controls.
+
+(a) absolute histamine release to anti IgE (positive control); healthy controls mean 37.5
+ng/ml + 1.04, CSU mean 37.6 ng/ml + 1.49 .
+
+(b) absolute histamine release to 2 concentrations of SEB antigen (100ug/ml and 30yg/ml);
+100ug SEB: healthy controls mean 2.6 ng/ml + 0.05, CSU mean 4.53 ng/ml + 0.77,
+p=0.042); 30g SEB: healthy controls mean 0.4 ng/ml + 0.65, CSU mean 2.0 ng/ml + 0.67,
+p=0.038).
+
+(c) relative histamine release to 2 concentrations of SEB antigen (100yg/mI: healthy controls
+mean 7.2 % + 0.33, CSU mean 12.1 % + 0.56, p=0.079; 30pug/ml: healthy controls mean 1.3
+% + 0.16, CSU mean 5.4 % + 0.45, p=0.048) and anti-IgE histamine release (%).
+
+50
+
+ay
+So
+
+30
+
+20
+
+=
+oS
+
+Histamine release to anti-IgE
+(ng/ml)
+
+ 
+
+healthy CSU
+Histamine release to SEB
+
+c)
+
+Histamine release to SEB
+(relative to anti-IgE, %)
+
+(ng/ml)
+
+100
+helathy
+
+100
+healthy
+
+CSU
+
+CSU
+
+30
+healthy
+
+ 
+
+ 
+Table 3: Correlation of SEB specific histamine release with other clinical data
+
+Correlation
+
+Duration of
+disease
+
+absolute
+histamine
+release to SEB
+100pg in
+selected CSU
+patients n=15 (if
+not given else)
+
+Rs=
+
+p=
+
+absolute
+histamine
+release to SEB
+30yg in selected
+CSU patients
+n=15 (if not
+given else)
+
+Rs=
+
+p=
+
+% histamine
+release to SEB
+100g in
+selected CSU
+patients n=15
+
+(if not given
+else)
+
+Rs=
+
+p=
+
+% histamine
+release to SEB
+30g in selected
+CSU patients
+n=15 (if not
+given else)
+
+ 
+
+ 
+
+Total IgE
+
+SE-IgE
+
+ 
+
+0.22
+
+0.438
+
+ 
+
+0.38
+
+0.167
+
+0.23
+
+0.418
+
+ 
+
+0.35
+
+0.198
+
+ 
+
+ 
+
+Significant correlations are depicted in bold. Correla'
+
+are depicted in cursive.
+
+ 
+
+This article is protected by copyright. All rights reserved.
+
+ions that marginally missed significance
+

@@ -1,0 +1,850 @@
+doi: 10.1111/j.1365-2222.2010.03473.x
+
+ORIGINA
+
+ 
+
+0 Le =e Clinical Mechanisms in Allergic Disease
+
+Clinical & Experimental Allergy, 40, 875-881
+© 2010 Blackwell Publishing Ltd
+
+ 
+
+ 
+
+ 
+
+Plasma levels of matrix metalloproteinase-9 in chronic urticaria patients
+correlate with disease severity and C-reactive protein but not with
+circulating histamine-releasing factors
+
+A. Tedeschi’, R. Asero”, M. Lorini'?
+
+_ A.V. Marzano* and M. Cugno*®
+
+"Unita Operativa di Allergologia e Immunologia Clinica, Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena, Fondazione Istituto di Ricovero e Cura a Carattere
+
+Scientifico (IRCCS), Milano, Italy, ?Ambulatorio di Allergologia, Clinica San Carlo, Paderno Dugnano, Milano, Italy, “Dipartimento di Medicina Interna, Universita di
+Milano, Milano, Italy, “Istituto di Scienze Dermatologiche, Universitd di Milano, Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena, Fondazione IRCCS, Milano,
+Italy and °Unita Operativa di Medicina Interna 2, Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena, Fondazione IRCCS, Milano, Italy
+
+ 
+
+Clinical &
+Experimental
+Allergy
+
+Correspondence:
+
+Dr Alberto Tedeschi, Unita Operativa di
+Allergologia e Immunologia Clinica,
+Ospedale Maggiore Policlinico,
+Mangiagalli e Regina Elena, Fondazione
+Istituto di Ricovero e Cura a Carattere
+Scientifico (IRCCS), Via Pace, 9, 20122
+Milano, Italy.
+
+E-mail: albited@alice.it
+
+Cite this as: A. Tedeschi, R. Asero,
+
+M. Lorini, A. V. Marzano and M. Cugno,
+Clinical & Experimental Allergy, 2010
+(40) 875-881.
+
+Summary
+
+Background Matrix metalloproteinase-9 (MMP-9) is an endopeptidase produced by many
+inflammatory cells that has been found in increased amounts in plasma from patients with
+chronic urticaria (CU).
+
+Objective To evaluate plasma levels of MMP-9 and its tissue inhibitor of metalloproteinase-1
+(TIMP-1) in CU patients in relation with disease severity, C-reactive protein (CRP) and
+circulating histamine-releasing factors.
+
+Methods Fifty-two consecutive CU patients were included in the study and disease activity
+was graded from 0 to 3. Plasma MMP-9, TIMP-1 and CRP levels were measured by enzyme
+immunoassays. Circulating histamine-releasing factors were assessed using in vivo
+(autologous serum skin test) and in vitro (basophil histamine release) tests. Seven CU patients
+were studied both during active disease and during remission. Thirty healthy subjects were
+used as normal controls.
+
+Results Plasma levels of MMP-9, TIMP-1 and CRP were significantly higher in CU patients
+than in healthy controls (P= 0.0001, 0.003 and 0.005, respectively) and a trend towards a
+higher MMP-9/TIMP-1 molar ratio was found (P= 0.051). A significant correlation was found
+between plasma MMP-9 levels and urticaria severity score (r= 0.48, P<0.0001). CRP levels
+correlated with MMP-9 levels (r= 0.37, P=0.008) and CU severity score (r= 0.52, P= 0.0001),
+but not with TIMP-1 (r=0.13) concentrations. MMP-9, TIMP-1 and CRP plasma levels and
+MMP-9/TIMP-1 molar ratio did not differ in patients either with or without an evidence of
+circulating histamine-releasing factors. Seven patients evaluated during remission showed a
+significant reduction of MMP-9 and CRP plasma levels.
+Conclusion Plasma levels of MMP-9 and its inhibitor TIMP-1 are increased in CU patients.
+MMP-9 levels are associated with disease severity and CRP levels, but not with skin reactivity
+to autologous serum and with circulating histamine-releasing factors. These findings suggest
+that in CU there is an ongoing inflammatory process independent of the presence of
+circulating histamine-releasing factors.
+
+ 
+
+ 
+
+Keywords autologous serum skin test, chronic urticaria, C-reactive protein, histaminereleasing factors, matrix metalloproteinase-9, tissue inhibitor of metalloproteinase- 1
+Submitted 26 May 2009; revised 22 December 2009; accepted 4 January 2010
+
+ 
+
+Introduction
+
+Matrix metalloproteinase-9 (MMP-9, gelatinase B) is a
+
+zinc-dependent endopeptidase,
+
+tissue remodelling and degradation of the extracellular
+
+matrix [1, 2]. It is secreted as a 92kDa zymogen (proMMP), which is activated by a variety of proteinases
+and inhibited by specific tissue inhibitors of metalloproteinases (TIMPs) and by «2-macroglobulin [3, 4].
+Increased plasma levels of MMP-9 have been found in
+
+that is responsible for the
+876 A Tedeschi et al
+
+ 
+
+patients with chronic urticaria (CU) and have been shown
+to be associated with the disease severity [5]. The main
+cellular source of MMP-9 in CU has not been defined, but
+it has been suggested that it could be derived at least in
+part by degranulating mast cells. In fact, according to
+Kessel et al. [5], the correlation between urticaria severity
+and the circulating MMP-9 suggests a relationship between MMP-9 levels and cutaneous mast cell degranulation. In vitro experiments have shown that human mast
+cells derived from peripheral blood can release MMP-9 on
+contact with activated T cells and a similar mechanism
+might be operating in CU [6]. The sites of wealing in CU
+patients are characterized by a perivascular infiltrate of
+lymphocytes (mainly of the CD4* type), monocytes,
+neutrophils and eosinophils recalling the late-phase antigen-induced reaction [7-10]. It has been hypothesized
+that activated CD4* T cells might reside in close proximity
+to mast cells and induce mast cell degranulation by
+cell-cell contact thus contributing to the appearance of
+urticaria symptoms. In the last two decades, it has been
+demonstrated that CU is often an autoimmune disorder
+due to histamine-releasing autoantibodies, namely autoantibodies directed against the o-subunit of the highaffinity IgE receptor or against IgE [11, 12]. However,
+histamine-releasing autoantibodies can be detected in
+about 30-50% of CU patients, and the mechanism operating in the other cases still has to be defined [13]. Direct
+stimulation by activated T cells might be an alternative
+mechanism of mast cell degranulation independent of the
+presence of histamine-releasing autoantibodies [6, 14].
+The aim of this study was to evaluate MMP-9 and
+TIMP-1 levels in a population of CU patients in relation
+to the presence of circulating histamine-releasing factors,
+as assessed in vivo by autologous serum skin test (ASST)
+and in vitro by basophil histamine release assay (BHR),
+and to C-reactive protein (CRP) plasma concentrations.
+
+Subjects and methods
+
+Subjects
+
+Fifty-two consecutive patients with chronic ordinary
+urticaria (CU) (14 males and 38 females, mean age 42.7
+years) were evaluated at the allergy centres of Ospedale
+Maggiore Policlinico of Milano and Clinica S. Carlo,
+Paderno Dugnano, Italy, and selected for the study. CU
+was diagnosed on the basis of the recurrence of spontaneous weals with or without angioedema for >6 weeks.
+Patients with physical urticaria were excluded. All
+patients had active urticaria at the time of the study.
+Disease activity was estimated according to the number
+of weals present at the time when blood samples from
+these 52 patients were collected, as described previously
+by Sabroe et al. [15]: 1-10 small (<3cm in diameter)
+weals = grade 1 (mild); 10-50 small weals or 1-10 large
+
+weals = grade 2 (moderate); and > 50 small weals or > 10
+large weals = grade 3 (severe). An intradermal test with
+0.05 mL of fresh autologous serum (ASST) was carried out
+at least 5 days after stopping the antihistamine therapy
+(cetirizine, levocetirizine, loratadine, desloratadine or
+fexofenadine in all cases). ASST was performed following
+the method by Sabroe et al. [16], reading the weal and
+flare reaction at 30 min. Intradermal injection of saline
+solution (0.9% weight/volume NaCl) was performed as a
+negative control and skin prick test with 10mg/mL
+histamine as positive control. Patients showing a red weal
+with a diameter at least 1.5mm greater than the control
+saline solution were considered positive.
+
+At the time of blood sampling, none of the patients had
+associated chronic inflammatory disorders, hepatitis C or
+an history of recent acute infectious disease. In seven
+patients, blood samples were taken during active disease
+and during remission. All subjects participating in the
+study gave their informed consent to ASST and peripheral
+blood collection for BHR, MMP-9, TIMP1 and CRP determinations. Thirty healthy subjects (12 males and 18
+females, mean age 42.3 years) served as a control group
+for serum and plasma measurements. The study was
+approved by the local Institutional Review Board.
+
+Matrix metalloproteinase-9 and tissue inhibitor of
+metalloproteinase-1 determinations
+
+Blood samples for MMP-9 and TIMP-1 determinations
+were collected using heparin as an anticoagulant and were
+centrifuged (15min at 1200g) within 30min after removal. The samples were then stored at —20°C until
+assayed. MMP-9 concentration was measured using a
+sandwich enzyme immunoassay manufactured by R&D
+Systems (Minneapolis, MN, USA) using two monoclonal
+and polyclonal antibodies specific for MMP-9. The sensitivity of the assay is 0.156ng/mL. Plasma TIMP-1 concentration was measured using a sandwich enzyme
+immunoassay manufactured by R&D Systems. The assay
+used a solid-phase bound monoclonal antibody specific
+for TIMP-1 and an enzyme-linked polyclonal antibody
+specific for TIMP-1; the sensitivity is 0.156ng/mL. The
+intra- and inter-assay variability was lower than 10% for
+both MMP-9 and TIMP-1 methods. The molar ratio
+between MMP-9 and TIMP-1 levels was calculated for
+each patient assuming a molecular weight of 92 kDa for
+MMP-9 and 28 kDa for TIMP-1.
+
+C-reactive protein determination
+
+CRP plasma concentration was measured using a sandwich enzyme immunoassay (Zymutest CRP, Hyphen
+BioMed, Neuville-sur-Oise, France). Intra- and inter-assay
+variability was lower than 11%.
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+MMP-9 and CRP as inflammatory markers in chronic urticaria 877
+
+ 
+
+Basophil histamine release assay
+
+Leucocyte suspensions from normal blood donors were
+prepared by dextran sedimentation of peripheral venous
+blood, anticoagulated with 0.01 mM EDTA and mixed with
+6% dextran in saline solution (Plander 70, Fresenius Kabi
+Italia, Isola della Scala, Verona, Italy) and 30 mm dextrose
+(Sigma Chemicals, St Louis, MO, USA). The cells were
+allowed to settle for 60-90 min at room temperature,
+according to Lichtenstein and Osler [17]. The leucocyterich plasma was aspirated and centrifuged at 300g for
+15min at 4°C, and the cell button was washed twice in
+Tyrode's buffer, pH 7.4, containing (mm) 140 NaCl, 5.5
+dextrose, 2.7 KCI, 0.36 NaH,PO, and 12 NaHCO3. Leucocytes (with about 7 x 10* basophils) were then resuspended
+in 100 uL volume of Tyrode’s buffer with 1.8 mm CaCl, and
+0.5mm MgCl, and incubated with 100uL of the serum
+under examination, making a final volume of 200 uL.
+After incubation for 40min at 37°C, the reaction was
+stopped by the addition of 800uL of ice-cold buffer
+solution and centrifugation at 1000g for 10 min at 4°C.
+After centrifugation, the supernatants were aspirated,
+mixed with an equal volume of 6% HCI0, and centrifuged
+at 1000 g for 10 min at 4°C. Histamine concentration in
+the supernatants was measured by an automated fluorometric method, according to Ruff et al. [18] Spontaneous
+histamine release was evaluated by measuring the histamine concentration in the supernatant of unstimulated
+cells, incubated for 40min at 37°C. Total histamine
+content was obtained by adding 100 uL of 6% HClO, to
+100 pL of cell suspension. Net histamine release was
+calculated as a percentage of total histamine content, after
+the subtraction of spontaneous release. A 5% release cutoff value was used, as described previously [19]. Sera were
+tested with leucocyte suspensions from three normal
+donors whose basophils were shown previously to release
+30% of the total histamine content on challenge with an
+optimal dose of goat polyclonal anti-human IgE (10 pg/
+mL, Sigma Chemicals). In order to detect the presence of
+functionally active anti-FceRI autoantibodies, basophil
+histamine release was also evaluated after the stripping
+of membrane-bound IgE with 10mmol/L lactic acid
+(pH 3.9, incubation for 3.5 min at room temperature), a
+procedure that allows dissociation of FceRI-bound IgE
+without damaging basophil functional activity [20]. One
+assay per serum was performed to detect the histaminereleasing activity. Histamine-release assay was carried out
+using the same sera used for ASST.
+
+ 
+
+Statistical analysis
+
+ 
+
+Results were expressed as mean+SEM and were logtransformed before analysis because they were positively
+skewed. Differences between means were assessed by
+Student’s t-test for unpaired values, and correlation was
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+
+assessed by the Pearson’s test. The correlation with urticaria clinical score was assessed by the Spearman’s rank
+test. P-values lower than 0.05 were considered significant.
+
+Results
+
+Plasma levels of MMP-9 and TIMP-1 were higher in CU
+patients than in healthy controls (mean+SEM: 51.9+7.5
+vs. 23.3+1.9ng/mL, P=0.0001 and 63.9+2.7 vs.
+52.8+1.9 ng/mL, P=0.003, respectively) (Figs 1 and 2).
+MMP-9/TIMP-1 molar ratio was higher in patients than in
+controls, although the difference did not reach statistical
+significance (0.24+0.03 vs. 0.16+0.03, P=0.051) (Fig. 3).
+MMP-9 levels paralleled the severity of CU, and a significant correlation was found between plasma concentrations and the clinical score (r=0.48, P<0.0001) (Fig.
+4). Also, MMP-9/TIMP-1 molar ratio was associated with
+urticaria severity (r= 0.34, P=0.011). TIMP-1 levels were
+not associated with disease severity (r=0.18, P, NS), and
+no significant differences were found between patients
+with different degrees of urticaria severity. Because of the
+limited sample supply, CRP plasma levels were determined
+in 50 of 52 CU patients and were significantly higher than
+those found in healthy controls (2.98+0.68 pg/mL, range
+0.21-18.66 vs. 0.7140.8 g/mL, range 0.10-1.60 pg/mL,
+P=0.005). A significant correlation was found between
+MMP-9 and CRP plasma levels (r=0.37, P=0.008), but
+not between TIMP-1 and CRP plasma levels (r=0.13, P,
+NS). CRP levels were also associated with CU severity
+(r=0.52, P<0.0001).
+
+In the seven patients observed during CU exacerbation
+and during remission, MMP-9 and CRP plasma levels
+significantly decreased during remission (MMP-9 from
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+300
+°
+P=0.0001
+250 4
+= 2004 °
+=
+a fo)
+= 1504
+Be fe}
+a (e}
+S foKe)
+= 4
+100 Ro
+090 n52 n30
+50 080g g 05 Ce ao
+89g90588e 22 oe.
+5 PERELELE EET 83808 ,°8g08
+Chronic urticaria Control subjects
+
+patients
+
+Fig. 1. Plasma levels of matrix metalloproteinase-9 (MMP-9) in patients
+with chronic urticaria (CU) and in normal controls. Results are expressed
+as ng/mL, and horizontal lines represent the mean values. MMP-9 plasma
+levels were significantly higher in patients with CU than in controls.
+878 A Tedeschi et al
+
+ 
+
+ 
+
+120
+08
+90 | - P =0.003
+~ 29800 6
+= ©8806 8
+S 2980
+= 604 eoge? n52 0 90 0, 130
+Ly ° °
+e 83888 2858900
+5 350° ce
+30 4 °
+0
+
+ 
+
+ 
+
+ 
+
+Chronic urticaria
+patients
+
+Control subjects
+
+Fig. 2. Plasma levels of tissue inhibitor of metalloproteinase-1 (TIMP-1)
+in patients with chronic urticaria (CU) and in normal controls. Results are
+expressed as ng/mL, and horizontal lines represent the mean values.
+TIMP-1 plasma levels were significantly higher in patients with CU than
+in controls.
+
+ 
+
+ 
+
+ 
+
+1.4
+1.24 ® 6
+
+° P=0.051
+
+£104
+
+as]
+
+fe}
+
+E 0.8 4 é
+
+7 3}
+
+& fe}
+
+2 064 58
+
+oO ome)
+
+1 °
+
+$044 0068
+
+= 0°
+0.2 Oregase N52 26820 39
+B oo ceKe)
+
+8880 209000 02 BAT
+
+} B66 05 MOG 0 0°~ 650900
+
+ 
+
+Chronic urticaria
+patients
+
+Control subjects
+
+Fig. 3. Molar ratio between plasma levels of matrix metalloproteinase-9
+(MMP-9) and tissue inhibitor of metalloproteinase-1 (TIMP-1) in patients
+with chronic urticaria and in normal controls. Horizontal lines represent
+the mean values. MMP-9/TIMP-1 molar ratio tended to be higher in
+patients than in controls, although the difference did not reach statistical
+significance.
+
+ 
+
+167.22+37.0 to 23.62+3.76 ng/mL, P=0.0007, and CRP
+from 5.64+2.19 to 1.6+0.66,1g/mL, P=0.008). Also,
+TIMP-1 plasma levels decreased during remission but to
+a lesser extent without reaching statistical significance
+(from 55.78+2.7 to 41.24+5.51 ng/mL) (Fig. 5).
+
+ASST, performed in 43 patients who accepted to undergo the test, was positive in 24 patients (55.8%) and
+negative in 19 (44.2%). No significant difference was
+found between ASST-positive and ASST-negative
+patients regarding MMP-9, TIMP-1 and CRP levels, and
+MMP-9/TIMP-1 molar ratio (Table 1). BHR was positive in
+18 patients out of 52 patients (34.6%), with a mean release
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+280 2
+r=0.48
+230 P<0.0001
+Zz 200 °
+2 160 2
+Aa $
+a
+& 120 ° 8 nto
+Ss
+80 5 0 8 Ont4
+ce}
+n28
+40 ° go °
+oo 0°
+8 go8e88 8 °°
+Mild Moderate Severe
+
+Fig. 4. Plasma levels of matrix metalloproteinase-9 (MMP-9) in patients
+with chronic urticaria divided into three different subsets according to
+the severity of the disease (mild, moderate and severe). Results are
+expressed as ng/mL, and horizontal lines represent the mean values. A
+significant correlation was found between MMP-9 plasma levels and
+urticaria severity score, as assessed by the Spearman’s rank test.
+
+of 19.80+2.92%. None of the BHR-negative sera converted to BHR positive after lactic acid stripping of
+basophil-bound IgE; however, an increase in histamine
+release after stripping of membrane-bound IgE was found
+in three patients who already tested weakly positive (from
+5.8640.46 to 12.56+2.79%). None of the sera from the 30
+healthy subjects caused histamine release above 5% of
+total histamine content (maximum release 3.1%). MMP-9,
+TIMP-1 and CRP plasma levels as well as MMP-9/TIMP- 1
+molar ratio were not significantly different in BHRpositive and BHR-negative patients (Table 2). In BHRpositive patients, no significant correlation was found
+between percentage of histamine release and urticaria
+severity score, MMP-9 levels or TIMP-1 levels.
+
+ 
+
+ 
+
+ 
+
+Discussion
+
+The present study shows that plasma levels of MMP-9 and
+TIMP-1 are significantly higher in CU patients than in
+normal subjects. MMP-9 levels as well as MMP-9/TIMP
+molar ratio paralleled the severity of CU, and a significan
+correlation was found between plasma concentrations and
+clinical score. In contrast, TIMP-1 levels were not associated with disease severity and no significant differences
+were found between patients with different degrees o
+urticaria severity. Although plasma levels of both MMP-9
+and TIMP-1 are elevated in CU patients, it appears that the
+former is increased to a greater extent than the latter,
+suggesting that the increased release of MMP-9 in CU
+patients is not balanced by an adequate release of the
+natural inhibitor TIMP-1. Accordingly, the MMP-9/TIMP-1
+molar ratio was higher in CU patients than in norma
+subjects, but the difference was not statistically significant. These findings are in agreement with the observations of Kessel et al. [5], who found increased plasma
+
+ 
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+MMP-9 and CRP as inflammatory markers in chronic urticaria 879
+
+ 
+
+ 
+
+ 
+
+350 100 18
+P=0.0007 Pns P =0.008
+
+300 re
+
+_~ 250 oe 7s 10
+tok —
+E E qZ
+S 200 > =
+
+= = 50 Zo
+150 a ° a
+2 2 (5)
+
+= 400 re 8
+
+25
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exacerbation Remission
+
+Exacerbation
+
+Remission Exacerbation Remission
+
+Fig. 5. Matrix metalloproteinase-9 (MMP-9), tissue inhibitor of metalloproteinase-1 (TIMP-1) and C-reactive protein (CRP) levels in plasma samples
+taken during active disease and during remission in seven chronic urticaria patients.
+
+Table 1. Matrix metalloproteinase-9 (MMP-9), tissue inhibitor of metalloproteinase-1 (TIMP-1) and C-reactive protein (CRP) plasma levels, and
+MMP-9/TIMP-1 molar ratio in CU patients divided according to the
+results of autologous serum skin test (ASST)
+
+Table 2. Matrix metalloproteinase-9 (MMP-9), tissue inhibitor of metalloproteinase-1 (TIMP-1) and C-reactive protein (CRP) plasma levels, and
+MMP-9/TIMP-1 molar ratio in chronic urticaria (CU) patients divided
+according to the results of basophil histamine release assay (BHR)
+
+ 
+
+MMP-9/
+
+TIMP-1
+Patient MMP-9 TIMP-1 CRP molar
+category n_ (ng/mL) (ng/mL) (g/mL) ratio
+
+ 
+
+51.93410.68 68.694+4.18 2.89+0.82 0.23+0.04
+50.17+14.92 61.19+4.70 3.13+1.30 0.24+0.06
+
+ASST positive 24
+ASST negative 19
+
+ 
+
+Results are expressed as mean+SEM and are not significantly different in
+the patient groups.
+
+levels of MMP-9 in CU patients and observed a good
+correlation with the clinical severity score. Antiga et al.
+[21] found increased MMP-9 plasma levels in patients
+with chronic autoimmune urticaria (i.e. with positive
+ASST), but not in patients with chronic idiopathic urticaria
+(ie. with negative ASST). While confirming the higher
+plasma levels of MMP-9 in CU patients when compared
+with healthy controls, Altrichter et al. [22] failed to find a
+positive correlation with disease activity, although a slight
+and not significant tendency to higher MMP-9 levels in
+patients with more severe disease was observed. Interestingly, these authors found higher plasma MMP-9 levels in
+CU patients with elevated CRP serum levels than in CU
+patients with normal CRP serum concentrations. Furthermore, Altrichter et al. [22] observed no significant difference between ASST-positive and ASST-negative patients
+regarding plasma MMP-9 levels, in agreement with our
+findings. The results of our study also indicate that CU
+patients have raised CRP plasma levels that correlate with
+disease severity, but not with the presence of circulating
+histamine-releasing factors. In fact, CRP plasma levels
+were not significantly different in subsets of CU patients
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+
+MMP-9/
+Patient MMP-9 TIMP-1 CRP TIMP-1
+category n (ng/mL) (ng/mL) (ug/mL) molar ratio
+
+ 
+
+BHR positive 18
+BHR negative 34
+
+60.31412.98 60.32+4.84 2.3340.82 0.28+0.05
+71.42£17.33 65.9443.18 3.3640.97* 0.22+0.04
+
+ 
+
+Results are expressed as mean+SEM and are not significantly different in
+the patient groups.
+
+*CRP levels were measured in 32 BHR-negative patients out of 34
+because of the limited sample supply.
+
+testing positive or negative on ASST and BHR. Indeed, CU
+is associated with an increase in an inflammatory biomarker as CRP independently from the presence of detectable
+circulating histamine-releasing factors. Also, MMP-9
+plasma levels were found to correlate with the severity
+score and CRP plasma levels, but not with the presence of
+histamine-releasing factors, as assessed by ASST and
+BHR. Interestingly, in the seven CU patients evaluated
+during activity and remission, both MMP-9 and CRP
+plasma levels significantly decreased during remission. It
+is conceivable that the elevated MMP-9 plasma levels
+reflect the inflammatory process occurring in CU patients
+independently from the presence of circulating histaminereleasing factors. This view is in line with the presence of a
+cutaneous cellular infiltrate consisting mainly of neutrophils, eosinophils and T lymphocytes in CU patients either
+with or without evidence of circulating histamine-releasing autoantibodies [9]. So far, the main cellular source of
+MMP-9 in CU has not been defined, although it has been
+demonstrated that several cell types detected in CU skin
+infiltrate are able to produce and release it. MMP-9 can be
+secreted as a 92 kDa zymogen (pro-MMP) by monocytes,
+
+ 
+
+ 
+
+ 
+880 A. Tedeschi et al
+
+ 
+
+macrophages, neutrophils, eosinophils, mast cells and T
+lymphocytes [6, 23-25]. TIMP-1, an inducible protein that
+forms non-covalent complexes with MMPs, blocking the
+access of substrates to the MMP catalytic site, is also
+synthesized by many cells and tissues [4, 26]. Many
+physiological functions of TIMP-1 are linked to the functions of MMPs and an altered balance of MMP and TIMP
+production has been described in pathological conditions
+such as arthritis, tumour growth and metastasis [26]. The
+balance between MMP-9 and TIMP-1 is also altered in CU
+patients because MMP-9 is increased to a greater extent
+than TIMP-1, thereby contributing to the creation of a
+pro-inflammatory environment.
+
+Whatever the cellular source of MMP-9 and TIMP-1, the
+data of the present study support the concept that CU is an
+inflammatory disorder that may, or may not, be associated
+with circulating histamine-releasing autoantibodies. In
+some CU patients, namely in those with ASST and BHR
+positivity, mast cell activation can be primarily ascribed to
+histamine-releasing autoantibodies; in the other patients
+with negative ASST and BHR, skin inflammation might be
+driven by cell-mediated mechanisms. In this respect, a
+role for T cells has been hypothesized following the in
+vitro observation that they have the capacity to activate
+mast cells directly by cell-to-cell contact [5, 14]. Although
+direct activation by T cells has been demonstrated for
+human mast cells derived from peripheral blood [6], but
+not yet for skin mast cells, Kessel et al. [5] have suggested
+that activated CD4" T cells that reside in close apposition
+to cutaneous mast cell might cause mast cell degranulation and secretion of MMP-9. Further support for a
+possible role of T cells in CU pathophysiology stems from
+the observation of a positive correlation between a marker
+of T-cell activation (the soluble IL-2 receptor) and the
+mast cell-derived tryptase in CU patients [27].
+
+ 
+
+References
+
+1 Wilhelm SM, Collier IE, Marmer BL, Eisen AZ, Grant GA, Goldberg GI. SV40-transformed human lung fibroblasts secrete a 92kDa type IV collagenase which is identical to that secreted by
+normal human macrophages. J Biol Chem 1989; 264:17213-21.
+
+2 Borkakoti N. Matrix metalloproteases: variations on a theme.
+Prog Biophys Mol Biol 1998; 70:73-94.
+
+3 Malla N, Sjoli S, Winberg JO, Hadler-Olsen E, Uhlin-Hansen L.
+Biological and pathobiological functions of gelatinase dimers
+and complexes. Connect Tissue Res 2008; 49:180-4.
+
+4 Murphy G, Docherty AJ. The matrix metalloproteinases and their
+inhibitors. Am J Respir Cell Mol Biol 1992; 7:120-5.
+
+5 Kessel A, Bishara R, Amital A et al. Increased plasma levels of
+matrix metalloproteinase-9 are associated with the severity of
+chronic urticaria. Clin Exp Allergy 2005; 38:221-5.
+
+6 Baram D, Vaday GG, Salamon P, Drucker I, Hershkovicz R,
+Mekori IA. Human mast cells release metalloproteinase-9 on
+contact with activated T cells: juxtacrine regulation by TNFalpha. J Immunol 2001; 167:4008-16.
+
+nN
+
+Mekori YA, Giorno RC, Anderson P, Kohler PF. Lymphocyte
+subpopulations in the skin of patients with chronic urticaria.
+J Allergy Clin Immunol 1983; 72:681-4.
+
+Elias J, Bosse E, Kaplan AP. Studies of the cellular infiltrate of
+
+chronic idiopathic urticaria: prominence of T-lymphocytes, mono
+cytes, and mast cells. J Allergy Clin Immunol 1986; 78:914-8.
+
+9 Sabroe RA, Poon E, Orchard GE et al. Cutaneous inflammatory
+cell infiltrate in chronic idiopathic urticaria: comparison of
+patients with and without anti-FceRIx or anti-IgE autoantibodies. J Allergy Clin Immunol 1999; 103:484-93.
+
+10 Ying S, Kikuchi Y, Meng Q, Kay AB, Kaplan AP. Ty1/Ty2
+cytokines and inflammatory cells in skin biopsy specimens from
+patients with chronic idiopathic urticaria: comparison with the
+allergen-induced late-phase cutaneous reaction. J Allergy Clin
+Immunol 2002; 109:694-700.
+
+11 Grattan CE, Francis DM, Hide M, Greaves MW. Detection of
+circulating histamine releasing autoantibodies with functional
+properties of anti-IgE in chronic urticaria. Clin Exp Allergy 1991;
+21:695-704.
+
+12 Hide M, Francis DM, Grattan CEH, Hakimi J, Kochan JP, Greaves
+MW. Autoantibodies against the high-affinity IgE receptor as a
+cause of histamine release in chronic urticaria. N Engl J Med
+1993; 328:1599-604.
+
+13 Sabroe RA, Greaves MW. Chronic idiopathic urticaria with functional autoantibodies: 12 years on. BrJ Dermatol 2006; 154:813-9.
+
+14 Bhattacharyya SP, Drucker I, Reshef T, Kirshenbaum AS, Metcalfe DD, Mekori YA. Activated T lymphocytes induce degranulation and cytokine production by human mast cells following
+cell-to-cell contact. J Leukoc Biol 1998; 63:337-41.
+
+15 Sabroe RA, Fiebiger E, Francis DM et al. Classification of antiFceRI and anti-IgE autoantibodies in chronic idiopathic urticaria
+and correlation with disease severity. J Allergy Clin Immunol
+2002; 110:492-9.
+
+16 Sabroe RA, Grattan CE, Francis DM, Barr RM, Kobza-Black A,
+Greaves MW. The autologous serum skin test: a screening test for
+autoantibodies in chronic idiopathic urticaria. Br J Dermatol
+1999; 140:446-52.
+
+17 Lichtenstein LM, Osler AG. Study on the mechanism of hypersensitivity phenomena. IX Histamine release from human leukocytes by ragweed pollen antigen. J Erp Med 1964; 120:507-30.
+
+18 Ruff F, Saindelle A, Dutripon E, Parrot JL. Continuous automatic
+fluorometric evaluation of total blood histamine. Nature 1967;
+214:279-81.
+
+19 Asero R, Tedeschi A, Lorini M, Salimbeni R, Zanoletti T, Miadonna A. Chronic urticaria: novel clinical and serological
+aspects. Clin Exp Allergy 2001; 31:1105-10.
+
+20 Pruzansky JJ, Grammer LC, Patterson R, Roberts M. Dissociation of
+IgE from receptors on human basophils. I. Enhanced passive
+sensitization for histamine release. J Immunol 1983; 131:1949-53.
+
+21 Antiga E, Volpi W, Del Bianco E, Fabbri P, Caproni M. Plasma
+levels of metalloproteinase-9 are elevated in patients with
+chronic autoimmune urticaria. Br J Dermatol 2009; 161:712-4.
+
+22 Altrichter S, Boodstein N, Maurer M. Matrix metalloproteinase9: a novel biomarker for monitoring disease activity in patients
+with chronic urticaria? Allergy 2009; 64:652-6.
+
+23 Hayashi M, Schellenberg RR, Tsang S, Roberts CR.
+
+Matrix metalloproteinase-9 in myeloid cells: implications for
+
+allergic inflammation. Int Arch Allergy Immunol 1999;
+
+118:429-32.
+
+c}
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+MMP-9 and CRP as inflammatory markers in chronic urticaria 881
+
+ 
+
+24 Swallow CJ, Murray MP, Guillem JG. Metastatic colorectal 26 Gomez DE, Alonso DF, Yoshiji H, Thorgeirsson UP. Tissue
+
+cancer cells induce matrix metalloproteinase release by human inhibitors of metalloproteinases: structure, regulation and biomonocytes. Clin Exp Metastasis 1996; 14:3-11. logical functions. Eur J Cell Biol 1997; 74:111-22.
+
+25 Montgomery AM, Sabzevari H, Reisfeld RA. Production and 27 Hidvégi B, Nagy E, Szabo T et al. Correlation between T-cell and
+regulation of gelatinase B by human T-cells. Biochim Biophys mast cell activity in patients with chronic urticaria. Int Arch
+Acta 1993; 1176:265-8. Allergy Immunol 2003; 132:177-82.
+
+© 2010 Blackwell Publishing Ltd, Clinical & Experimental Allergy, 40 :875-881
+

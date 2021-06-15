@@ -1,0 +1,1771 @@
+Taylor & Francis
+
+Taylor Francis Group
+
+ 
+
+Journal of Asthma
+
+ 
+
+ISSN: 0277-0903 (Print) 1532-4303 (Online) Journal homepage: https://www.tandfonline.com/loi/ijas20
+
+ 
+
+Asthma phenotypes and associated comorbidities
+in a large cohort of adolescents in Israel
+
+Yossy Machluf, Rivka Farkash, Ron Rotkopf, Daniel Fink & Yoram Chaiter
+
+To cite this article: Yossy Machluf, Rivka Farkash, Ron Rotkopf, Daniel Fink & Yoram Chaiter
+(2019): Asthma phenotypes and associated comorbidities in a large cohort of adolescents in Israel,
+Journal of Asthma, DOI: 10.1080/02770903.2019.1604743
+
+ 
+
+To link to this article: https://doi.org/10.1080/02770903.2019.1604743
+
+ 
+
+iN
++] View supplementary material @
+
+ 
+
+a Published online: 24 Apr 2019.
+
+ 
+
+ 
+
+~
+(gy Submit your article to this journal @
+
+ali article views: 11
+
+® View Crossmark data
+
+CrossMark
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallnformation?journalCode=ijas20
+JOURNAL OF ASTHMA
+https://doi.org/10.1080/02770903.2019.1604743
+
+Taylor & Francis Group
+
+ 
+
+® Check for updates
+
+Asthma phenotypes and associated comorbidities in a large cohort of
+
+adolescents in Israel
+
+Yossy Machluf, pho®”, Rivka Farkash, MPH, BSc, Ron Rotkopf, pho“, Daniel Fink, MoS @, and
+
+Yoram Chaiter, MD, MSc*
+
+*Medical Corps, IDF, Israel; Shamir Research Institute, University of Haifa, Kazerin, Israel; “Shaarei Zedek Medical Center, Jerusalem,
+Israel; ‘Department of Life Sciences Core Facilities, Faculty of Biochemistry, Weizmann Institute of Science, Rehovot, Israel
+
+ABSTRACT
+
+Objectives: Asthma is a multifactorial, heterogeneous, complex and common chronic
+respiratory disease driven by diverse mechanisms. Although asthma presents various clinical
+forms with different levels of severity, it is unclear whether asthma severities are a consequence of disease management or varied etiologies. We sought to investigate this question.
+Methods: This article presents a cross-sectional study of 113,671 Israeli adolescents.
+Univariate and multivariable logistic regression models were performed to analyze the independent associations between mild asthma and moderate-to-severe asthma phenotypes
+and coexistent medical conditions within each gender separately. Hierarchical clustering of
+the odds ratios of the diverse statistically significant medical conditions associated with
+asthma severity-gender groups was also performed. We focused on the allergic and neurological-cognitive-mental disorders.
+
+Results: Among males, two associations were common to both asthma groups (atopic
+dermatitis and allergic rhinitis), five unique to mild asthma (urticaria/angioedema,
+Hymenoptera/bee allergies, allergic conjunctivitis, epilepsy and migraine) and two unique to
+moderate-to-severe asthma (learning disabilities and ADD/ADHD (Attention-deficit disorder/
+Attention-deficit/hyperactivity disorder)). Among females, two associations were common to
+both clinical asthma groups (allergic rhinitis and urticaria/angioedema), and five unique to
+moderate-to-severe asthma (atopic dermatitis, learning disabilities, ADD/ADHD, anxiety/
+mood disorders and migraine). Allergic rhinitis was the only condition to be associated with
+all four groups. Learning disabilities and ADD/ADHD were only associated with moderate-tosevere asthma (but not with mild asthma), in both males and females. Hierarchical clustering analysis uncovered two prominent clusters, separating mild from moderate-tosevere asthma.
+
+Conclusions: The differences between mild and moderate-to-severe asthma enhance
+asthma phenotype characterization, with respect to comorbidities, and indicate varied etiologies.
+
+ARTICLE HISTORY
+Received 1 December 2018
+Revised 11 March 2019
+Accepted 2 April 2019
+
+KEYWORDS
+
+Asthma phenotypes;
+comorbidities; adolescents;
+asthma severity;
+hierarchical clustering
+
+Taylor & Francis
+
+Introduction
+
+Asthma is a multifaceted, complex and common
+chronic respiratory disease that affects over 330 million people worldwide. Its prevalence, clinical impact
+upon quality of life and healthcare expenditure, alongside mortality and morbidity statistics, provide a complete and relevant indication of its significance and
+global burden (1-3). Its pathophysiology includes
+abnormalities of the immune regulation of allergic,
+inflammatory and neuroendocrine responses (4,5). It
+is characterized by intermittent bronchial hyperresponsiveness and reversible airway obstruction, yet
+presents with multiple clinical forms and levels of
+severity. In light of this clinical and pathophysiological
+
+heterogeneity, there have been numerous attempts to
+define asthma phenotypes (6-18). Although early
+attempts were merely one-dimensional emphasizing a
+simple classification criterion such as the duality of
+atopic versus non-atopic asthma, later attempts were
+based on either disease symptom severity or asthma
+pathogenesis, and more recent analyses have clustered
+patients by multiple features (19-21). Each phenotype
+is defined using some or all of the following respiratory symptoms and/or other clinical, trigger-related,
+healthcare utilization and treatment, demographic
+and pathological parameters: interactions between
+genetic and environmental factors, clinical severity,
+age of onset, atopy, physiological indicators and
+
+ 
+
+CONTACT Yoram Chaiter, MD, MSc t=) chaiter@bezeqint.net (rx) Medical Corps, Israel Defense Forces, 72 Pinsker Street, Haifa 3271214, Israel.
+© Supplemental data for this article can be accessed on the publisher's website.
+
+© 2019 Taylor & Francis Group, LLC
+2 © Y.MACHLUF ET AL.
+
+inflammatory cells involved in the pathophysiologic
+pathway, spirometry, airway hyperresponsiveness,
+exhaled nitric oxide (NO) concentration, requirement
+for medication and type of treatment, persistence of
+wheezing (treatment responsiveness), triggers and trigger-related phenotypes, healthcare utilization and
+comorbidities. Recently, elucidation of asthma phenotypes has been further refined on the basis of pathophysiologic mechanisms (endotypes) and associated
+biomarkers (19,22,23). Of note, transitions between
+asthma phenotypes were common, mainly in early
+childhood but less in late childhood (18).
+Classification of asthma phenotypes is important for
+understanding these mechanistically distinct groups
+and identifying relevant and distinctive cellular or
+molecular biomarkers and then, hopefully, predicting
+prognosis, clinical response, outcome and ultimately,
+achieving personalized targeted therapy.
+
+As asthma is such a common diagnosis, other conditions frequently occur concurrently. A recent, large
+cross-sectional analysis (24) revealed that 36 of 39
+assessed comorbidities were more common in adults
+with asthma, where 62.6% (compared with 46.2% of
+non-asthmatic adults) had at least one coexisting condition and 16.3% (compared with 8.7%) had four or
+more coexisting conditions. Asthma comorbidity places a significant burden on individuals and the healthcare system with higher rates of hospitalization,
+emergency department visits and ambulatory care
+claims among individuals with asthma compared with
+those without asthma (25-27). Increasing attention
+has been paid in recent years to comorbidities
+(28-34), including allergic diseases (such as allergic
+rhinitis, food allergies, hymenoptera sting allergy,
+atopic atopic skin conditions),
+migraine (35), attention-deficit/hyperactivity disorder
+(ADHD) and psychogenic disorders (depressive or
+mood disorders and anxiety). These were shown to be
+more prevalent among asthmatic subjects and some
+may be related to a more severe form of asthma,
+refractoriness to treatment, impaired health-related
+quality of life and increasing demand on resources. In
+addition, smoking-related comorbidities, metabolic
+syndrome, gastroesophageal reflux disease (GERD)
+and obstructive sleep apnea were shown to be associated with asthma and to influence its clinical manifestation and treatment response. The associations of
+specific asthma phenotypes with specific comorbidities
+and their impact on asthma control and management
+were investigated (33,36-38), as such comorbidities
+may be coincidental findings or they may contribute
+directly to asthma severity (39) and to difficult-to
+ 
+
+dermatitis and
+
+treat phenotype (33). Recently, a diagnostic and management algorithm for assessing comorbid conditions
+in patients with severe asthma was outlined (33).
+
+A notable sex disparity has been observed in
+asthma prevalence, incidence, severity, hospitalization
+rate and duration, being more common and severe in
+boys during early childhood, equalizing during adolescence and having female predominance in adulthood
+(40-42). The role of sex hormones, genetic predisposition and comorbidities in airway inflammation,
+smooth muscle contraction, mucus production and
+airway mechanics has been demonstrated (43,44).
+Identifying sex-specific risk factors for asthma (45)
+may have potential diagnostic, therapeutic and prognostic implications.
+
+Previously, we employed a comparative approach
+to characterize mild asthma and moderate-to-severe
+asthma with reference to subjects without asthma
+among Israeli adolescent males and females separately,
+while examining secular trends and relationships with
+sociodemographic variables and anthropometric indices (46). Differences between asthma severity phenotypes among males and females suggested that
+different mechanisms might be involved in the pathogenesis of mild compared with moderate-to-severe
+asthma, and between males and females (46). Here,
+we take a further step, defining heterogeneity of
+asthma among males and females based on coexistent
+medical conditions. This approach may shed light on
+the origin and development of diverse asthma phenotypes and hopefully have an impact on management.
+
+ 
+
+ 
+
+Objectives
+
+The objective of this study was to examine similarities
+and differences between mild asthma and moderateto-severe asthma within genders regarding associations with coexistent medical conditions. We also
+explore the intricate and hierarchical relationships
+between severity, gender
+ical signatures.
+
+asthma and med
+Hypothesis
+
+If the progression of asthma in childhood from mild
+to moderate-to-severe symptoms depends on proper
+management and treatment, one would expect similar
+with coexisting medical
+However, if these two groups’ coexisting medical conditions are not similar, we may be dealing with separate sub-populations with differing susceptibilities to
+developing mild or moderate-to-severe asthma.
+
+associations conditions.
+The study hypothesis is that the asthma severity
+phenotypes within each gender are characterized by
+unique medical signatures of allergic and neurological-cognitive-mental comorbidities. Hierarchical
+clustering might relationships
+these factors.
+
+uncover between
+
+Methods
+Data source
+
+Military service is compulsory in Israel though various
+minorities and religious exempt.
+Mandatory pre-induction medical examination of all
+recruits takes place at regional recruitment centers
+where they undergo a comprehensive medical interview and physical examination by board certified
+physicians who then refer for further investigation as
+necessary. At the end of the medical process, a medical profile and appropriate Functional Classifications
+Codes (FCCs) describing the medical status and severity as well as an occupational ranking, are assigned to
+each recruit. Medical data and all FCCs are routinely
+stored in the main Israel Defense Force (IDF) database (47) which was the source of the data analyzed
+in this study. The medical processes and data are routinely assessed and evaluated for control and assurance (47-50). More detailed information on the
+medical process and database, as well as characteristics
+of the population, can be seen elsewhere (51).
+
+women are
+
+The study population
+
+The study population included all northern district
+recruits examined at one recruitment center between
+the years 1987-2010 inclusive. To ensure a uniform
+medical baseline, we focused on conscripts who completed the medical profiling process at the age of
+16-19. No selection criteria (neither inclusive nor
+exclusive) were applied. Only the northern recruitment
+center was chosen as the medical examinations at this
+center were performed by a small group of highly
+trained medical personnel with subsequent documented
+high quality of its medical processes (48). The study
+was approved by the IDF Institutional Review Board,
+approval number 1199-2012 and was conducted in
+compliance with the Helsinki Agreement.
+
+Asthma diagnosis and categorization
+
+Asthma diagnosis was established by medical history
+including primary care records, physical examination,
+spirometry results together with subsequent
+
+JOURNAL OF ASTHMA @) 3
+
+pulmonologist’s evaluation and conclusion. The definition of active asthma included wheezing, chronic
+cough, dyspnea on effort, asthma attacks upon exposure to allergens during the last 3 years and use of
+medication. This was subdivided into mild asthma
+(normal rest and exercise spirometry including lack of
+confirmed reversible airflow obstruction or bronchial
+hyper-reactivity and medication only as needed) and
+moderate-to-severe asthma (evidence of airway hyperreactivity on spirometry including confirmed reversible airflow obstruction or bronchial hyper-reactivity
+and medication on a daily basis). These correspond to
+the GINA (Global Initiative for Asthma) classifications
+(1,52) of “intermittent and mild” and “moderate and
+severe” persistent asthma groupings (http://www.medicalcriteria.com/criteria/pul_asthma.htm), which were
+the most recent and acceptable criteria at the time of
+data These
+remained stable over the entire study period, as well as
+the standards and methods for asthma diagnosis enabling comparison between years and sub-populations.
+
+collection. classification — definitions
+
+Definitions of anthropometric indices and
+comorbidities
+
+In addition to anthropometric and medical data, the
+computerized database contained further personal,
+educational and socio-demographic information about
+each recruit as recorded by the Ministry of Internal
+Affairs. This was validated and updated by interviews
+and questionnaires. Socio-demographic variables were
+included in the analysis. Many findings have been
+previously reported (46) and we now report novel
+findings regarding the additional coexistent medical
+conditions. Definitions of these key variables, which
+were used in the univariate analysis (and if statistically
+significant also in the multivariable logistic regression
+analysis), are provided in detail in Appendix A.
+
+Statistical method
+
+Characteristics
+and means + SD.
+
+As this study aims to investigate the independent
+associations between comorbidities and the outcome
+in the two asthma groups (mild or moderate-tosevere) for each gender separately, a three-step process
+was applied:
+
+First, a distinct univariate analysis was conducted
+for each of the four combinations of clinical asthma
+group and gender (mild asthma among males, moderate-to-severe asthma among males, mild asthma among
+
+were described by proportions
+4 © Y.MACHLUF ET AL.
+
+females, moderate-to-severe asthma among females),
+with the two reference groups comprising subjects of
+the corresponding gender without asthma (males without asthma and females without asthma). Univariate
+analyses used Chi-square or Fisher’s exact test to compare categorical variables between groups and unpaired
+Student’s T-test for continuous variables.
+
+Subsequently, a distinct multivariable logistic
+regression model was conducted for each combination
+of clinical asthma group and gender again using the
+above two reference groups. Covariates in each model
+included variables which were found to be significantly associated with the outcome in the univariate
+analysis as described in Appendix B, ie. the criterion
+for entrance into each of the regression models was a
+probability value of P< 0.05 in the corresponding univariate analysis, and P>0.10 for removal from the
+model. Co-linear variables were excluded from the
+models, which were adjusted to control for potentially
+confounding effects. Associations of each of the two
+clinical asthma groups were compared with each
+other, treating each gender separately. Odds ratios
+(ORs) and 95% confidence intervals (95% CI) were
+calculated. The statistical tests were two-tailed.
+
+A similar approach was conducted directly comparing moderate-to-severe asthma subjects to mild
+asthma subjects (as reference).
+
+All analyses were carried out using the SPSS statistical
+package (version 22.0; IBM Corporation, Armonk, NY).
+
+Clustering analysis
+
+Hierarchical clustering of the ORs of the different
+medical conditions (only allergic as well as neurological-cognitive-mental disorders were taken into
+account) and asthma severity-gender groups, was performed with Partek® Genomics Suite” software, version 6.6 Copyright ©; 2014 Partek Inc., St Louis, MO,
+USA; with Pearson’s dissimilarity and complete linkage.
+Of note, only statistically significant associations in the
+multivariable analysis were included, whereas non-significant values (variables included in the multivariable
+analysis) or missing values (variables not included in
+the multivariable analysis, due to lack of association in
+the univariate analysis) were conferred a value of 1,
+namely no significant association/difference.
+
+Results
+Study population
+
+The initial study population comprised 158,255 subjects, of whom 59% were males. To ensure a uniform
+
+and valid medical baseline, we focused on 116,979
+records of conscripts who completed the medical
+profiling process between 16 and 19 years of age. Of
+these, 3308 records lacked height and/or weight data
+and were omitted. The final study population comprised 113,671 adolescents including 66,547 males and
+47,124 females.
+
+Associations with coexistent medical conditions
+
+In order to investigate the independent associations
+between comorbidities and anthropometric indices
+and the outcome in the two asthma groups (mild or
+moderate-to-severe) separately within genders, analyses were conducted to compare each of the four categories (mild asthma among males, moderate-to-severe
+asthma among males, mild asthma among females
+and moderate-to-severe asthma among females) with
+its corresponding reference group (males without
+asthma and females without asthma). We conducted
+univariate analyses and consequent
+logistic regression models as described above in the
+Methods section. The comprehensive associations with
+coexistent medical conditions found by univariate
+analysis are shown in the Supplementary Table S1 and
+described in Appendix B. The multivariable analysis
+findings are shown in the Supplementary Table S2.
+Notably, each of the multivariable logistic regression
+models encompasses diverse personal and _ sociodemographic variables, anthropometric indices and
+medical comorbidities which were significantly associated with the asthma severity and gender group. Yet,
+we focus on the well-established associations with
+allergic as well as neurological-cognitive-mental conditions as presented in Figure 1.
+
+Among males, the multivariable logistic regression
+models conducted for each group revealed seven positive associations with mild asthma (Figure 1A) and
+four with moderate-to-severe asthma (Figure 1B) only two were common to both groups (atopic dermatitis and allergic rhinitis), five unique to mild asthma
+(urticaria/angioedema, Hymenoptera/bee allergies,
+allergic conjunctivitis, epilepsy and migraine) and two
+unique to moderate-to-severe asthma (learning disabilities and ADD/ADHD).
+
+Among females, the multivariable logistic regression models conducted for each group revealed only
+two positive associations with mild asthma (Figure
+1C) and
+(Figure 1D) - two were common to both clinical
+asthma groups (allergic rhinitis and urticaria/angioedema), and five unique to moderate-to-severe asthma
+
+ 
+
+multivariable
+
+seven with moderate-to-severe asthma
+A. Mild asthma - Males
+
+ 
+
+Migainep | —o—
+ne ie
+Allergicconjunctivitist. = | ——
+ec allergy} = {—#——
+UnticarifAngioedemat = jg
+Aopiedermatiist — fe
+Allergic rhinitis : ———
+
+ 
+
+o 1 2 3 4 S$ 6 7 8 9 0 1 122
+
+C. Mild asthma - Females
+
+Urticaria/Angioedema:
+
+Allergic rhinitis
+
+ 
+
+JOURNAL OF ASTHMA @) 5
+
+B. Moderate-severe asthma - Males
+
+ 
+
+ 
+
+ 
+
+Leamingdisabiltiest = | —9—
+Apo/aoHo} |
+T .
+1 eee
+hopicdemanst = | —~—
+Allergcthinitist = —+—_
+o 123 «4 5 © 7 8 o tm HB
+D. Moderate-severe asthma - F
+Migaieet Le
+Anxiety-mooddisordert = | —$—
+Leamingdisabiltiest = | —
+ADD/ADHD $ |
+ome
+Unticaria/Angioedemat = |—#——
+Atopic dermatitis i—
+Allergicrhinitist 4 _=
+
+ 
+
+ 
+
+ 
+
+o 1 2 3 4 $ 6 7 8 9 0 1 12
+
+Figure 1. Correlates (ORs and 95% Cls) of mild asthma (A, in males; B, in females) and moderate-to-severe asthma (C, in males; D,
+in females) with comorbidities in the multivariable logistic regression analysis. Significant associations are marked by black text
+and rhombus, whereas non-significant associations are marked by gray text and rhombus. Medical conditions are grouped to allergic conditions and neurological-cognitive-mental conditions, and sorted by OR within the moderate-to-severe asthma phenotype.
+Of note, only these variables which were significant in the univariate analysis and included in the multivariable regression analysis
+
+are shown.
+
+(atopic dermatitis, learning disabilities, ADD/ADHD,
+anxiety/mood disorders and migraine).
+
+Among the allergic and _neurological-cognitivemental conditions, allergic rhinitis was the only condition to be associated with all four groups. The positive
+associations of allergic rhinitis with asthma had the
+largest OR (at least 6.8 compared with a range of
+~1.5-3). Learning disabilities and ADD/ADHD were
+only associated with the moderate-to-severe form of
+asthma but not with mild asthma, in both males and
+females (Figure 1). Pneumothorax was only associated
+with moderate-to-severe asthma in males and with
+mild asthma in females (OR of ~6 and 19, respectively, Supplementary Table S2). No protecting effects
+in these two clinical asthma groups were observed.
+
+Hierarchical clustering
+
+Distinctive patterns of associations of medical conditions with clinical asthma phenotypes emerged within
+genders and between genders. In addition, within each
+of the four groups, diverse positive associations were
+observed among the allergic and _neurological
+cognitive-mental conditions. To further investigate the
+intricate relationships between clinical asthma severity
+and gender (with regard to medical signature of allergic and neurological-cognitive-mental conditions)
+hierarchical clustering was conducted.
+
+Two prominent clusters were obtained: one within
+the mild asthma categories of both genders, and the
+other, within the moderate-to-severe categories of
+both genders (Figure 2). The medical conditions were
+mixed rather than being segregated into allergic and
+neurological-cognitive-mental conditions.
+
+The cluster of moderate-to-severe asthma was characterized by positive associations of asthma with allergic rhinitis, ADD/ADHD, learning disabilities and
+atopic dermatitis in both genders. Anxiety/mood disorder, urticaria/angioedema and migraine were associated with asthma only in females and there were no
+associations with allergic conjunctivitis, epilepsy and
+Hymenoptera/bee allergies.
+
+The cluster of mild asthma was characterized by
+positive associations of asthma with allergic rhinitis
+and urticaria/angioedema. Allergic conjunctivitis,
+Hymenoptera/bee allergies, _ epilepsy,
+
+ 
+
+ 
+
+migraine,
+6 © Y.MACHLUF ET AL.
+
+Hierarchical Clustering
+
+ 
+
+ 
+
+Allergic conjunctivitis
+Epilepsy
+Bee allergy
+Migraine
+Unicaria Angioedema
+
+Anxiecty-mood disorder
+
+ 
+
+Learning disabilities
+Ly Atopic dermatitis
+ADD/ADHD
+
+Allergic rhinitis
+
+ 
+
+ 
+
+Mild Asthma; Female
+
+ 
+
+fo
+
+Mild Asthma: Male
+Moderate-Severe Asthma: Male
+Moderate-Severe Asthma: Female
+
+ 
+
+ 
+
+ 
+
+100
+
+5.59 10.18
+
+Figure 2. Hierarchical clustering of odds rations of the allergic and neurological-cognitive-mental conditions and gender-asthma
+severity groups. Statistically significant increased risks are denoted by blue shades, whereas white demarcates nonsignificant ORs.
+
+learning disabilities and atopic dermatitis were associated with asthma only in males and there were no
+associations with
+ADD/ADHD.
+
+In females the neurological-cognitive-mental condi
+anxiety/mood disorder and
+
+tions were mainly associated with moderate-to-severe
+asthma, and in males the allergic conditions were
+mainly associated with mild asthma (Figures 1 and 2).
+
+Direct comparison of asthma phenotypes’associated comorbidities
+
+To further assess differences between comorbidities
+associated with asthma severity groups, moderate-tosevere asthma subjects (n = 2,077) were directly compared with mild asthma subjects (n = 2,504). A similar
+approach was applied, in which variables significantly
+associated with increased/decreased risk of developing
+moderate-to-severe asthma were entered into a multivariable logistic regression model. This direct analysis
+further supports the association of the allergic comorbidities (allergic rhinitis, atopic dermatitis, allergic
+conjunctivitis, and borderline significance of urticaria
+and angioedema) and neurological-cognitive-mental
+comorbidities (learning disorders, migraine, ADD/
+ADHD and anxiety-depression) with increased risk of
+developing moderate-to-severe asthma (Figure 3). In
+addition, female gender, above normal body mass
+index (BMI) and hypertension are all associated with
+
+increased risk of developing moderate-to-severe
+asthma, whereas family related variables (eldest child
+
+and bigger family size) display a protective effect.
+
+Discussion
+
+The disparities between mild and moderate-to-severe
+asthma, among both males and females, with regard
+to associations with comorbidities (mainly allergic and
+neurological-cognitive-mental conditions) may suggest
+varied etiologies. The findings of this study are consistent with our previous analysis based on secular
+trends of asthma prevalence as well as association
+with socio-demographic and anthropometric risk factors (46). This study further strengthens the growing
+body of evidence supporting this notion.
+
+This study’s major strengths include a large population size (113,671 adolescents), long period of data
+collection (24years), a uniform screening process for
+all subjects based on thorough anamnesis and standardized high-quality medical examinations, and stable
+diagnostic criteria for asthma and the other medical
+conditions, throughout the study period. A high-quality asthma diagnosis was made by experts in pulmonology based on physical examination and pulmonary
+function tests and supported by inquiry about medical
+history and documentation. Other objective evidence
+including exhaled NO and methacholine bronchial
+challenge, was collected in some subjects and we
+Moderate-severe asthma vs. Mild asthma
+
+socio-demographic variables
+
+JOURNAL OF ASTHMA @) 7
+
+t
+
+Gender: Female
+Education: 12+ years
+Family size: > 3 siblings
+Eldest child
+
+[2.12-2.75}
+{0.99-1.32)
+[0.75-0.98}
+[0.73-0.96}
+
+ 
+
+Above normal BMI
+
+6gttt¢
+Pre-hypertensior
+
+Hypertension I+!
+
+Anthropometric indices
+
+[1.06-1.44)
+{0.99-1.29}
+(0.37-0.66]
+
+ 
+
+Pneumothorax
+
+Lactase deficiency
+
+Other comorbidities
+
+[1.05-10.3]
+
+ 
+
+{
+
+Migraine
+
+|
+
+Anxiety-mood disorder
+Learning disabilities
+ADD/ADHD
+
+t
+
+Neurological-cognitive-mental comorbidities
+
+————$——$———————__—.
+
+[1.03-2.16]
+
+(1.12-3.92]
+[1.32-2.43]
+11.56-7.44)
+
+ 
+
+Allergic conjunctivitis
+
+  
+ 
+
+rticaria/Angioec
+Atopic dermati
+Allergic rhinitis
+
+t) 1 2 3 4
+
+ 
+
+Allergic comorbidities {0.48-1.00}
+
+[0.45-1.01]
+[1.02-2.23]
+
+{1.22-1.61]
+
+6 7 8 9 10 11 12 13 14
+
+Figure 3. Correlates (ORs and 95% Cls) of moderate-to-severe asthma vs. mild asthma in the multivariable logistic regression analysis. Significant associations are marked by black text and rhombus, whereas non-significant associations are marked by gray text
+and rhombus. Variables are grouped to socio-demographic ones, anthropometric indices and medical conditions (allergic conditions, neurological-cognitive-mental conditions, and other conditions). N.S stands for “Not significant” in the univariate analysis,
+therefore not included in the multivariable regression analysis (for variables which were shown in Figure 1).
+
+found the great majority were consistent with the
+reported physician-designated diagnosis and severity
+(data not shown). Similar rigorous screening procedures were applied for all other comorbidities, regardless of asthma existence and conditions. Noteworthy,
+diagnosis of medical conditions among all study
+population - both asthmatic subjects and non-asthmatic ones - is based on the same medical screening
+process, rather than a subject-driven referral to clinic.
+Cross-sectional surveys and small cohorts support the
+relationship of asthma with diverse comorbidities
+including: upper airway diseases (rhinitis - usually
+allergic, sinusitis and rhinosinusitis), neurologic disorders (learning disorders - mainly ADHD, migraine
+and epilepsy) and psychological dysfunction (depression, anxiety, mood and behavioral disorders), GERD
+and other gastrointestinal (GI) diseases (dyspepsia),
+laryngeal dysfunction (mainly paradoxical vocal fold
+movement), pulmonary and__ bronchial
+(chronic obstructive lung disease, bronchiectasis,
+bronchitis, bronchopneumonia, recurrent respiratory
+infections), atherosclerotic cardiac disease and circulatory disorders, dermatologic conditions (eczema/psoriasis), connective tissue/rheumatic diseases, metabolic
+disorders and hormonal imbalance, immunologic and
+hematologic disease, obesity, sleep apnea and chronic
+pain conditions (24,28-31). Assessing the prevalence
+of physical and mental health comorbidities in asthmatic subjects has often served to inform clinicians
+
+ 
+
+diseases
+
+about the close relationships between asthma and
+these diverse conditions, to help identify asthma early
+and appropriately control, treat and manage both
+asthma and the comorbidities and to improve the outcomes and quality of life. The potential for comorbidity clusters to exert combined effects on asthma
+outcome was recently highlighted (32). Cluster analyses of asthma-related comorbidities have identified
+diverse profiles and clinical asthma phenotypes in
+children and adults (9,53,54). Evidence about unique
+associations coexisting morbidities
+diverse asthma phenotypes is now emerging (36-38),
+
+between and
+yet without considering the distinction between genders. The significance of gender to asthma developthe
+comorbidities between genders (and asthma severity
+groups) have strongly emerged in this study.
+
+This study aimed to shed light on the coexistence of
+medical conditions with asthma severity phenotypes
+the
+aforementioned medical conditions were indeed associ
+ment and differences in asthma-associated
+
+among adolescent males and females. Most o:
+ated with asthma (in the univariate analysis), yet not
+necessarily with both mild and moderate-to-severe
+asthma, and some conditions were prevalent in either
+males or females. After adjustment for background variables (in the multivariable logistic regression analysis),
+the allergic and neurological-cognitive-mental condi
+ 
+
+tions were determined to be associated with asthma.
+
+Further hierarchical clustering analysis uncovered
+8 © Y.MACHLUF ET AL.
+
+unique associations, separating mild from moderate-tosevere asthma and supporting the notion of differential
+mechanisms in the development of asthma severity
+groups. The medical conditions were mixed rather than
+segregated into allergic and neurological-cognitive-mental conditions, suggesting intricate interactions between
+asthma and coexistent diseases.
+
+Direct comparison between moderate-to-severe
+asthma to mild asthma further supported the associations of allergic comorbidities and neurological-cognitive-mental with risk of
+developing moderate-to-severe asthma. It also brought
+to light associations of lactase deficiency and hypertension with development of moderate-to-severe asthma.
+Little is known on these associations which required
+further study. Altogether, this analysis strengthens the
+notion that the two asthma severity groups are probably etiologically distinct phenotypes of asthma.
+
+comorbidities increased
+
+Focusing on associations with particular
+comorbidities
+
+The following will focus on associations of asthma
+severity and gender groups with ADHD and atopic
+dermatitis - and discuss the possible implications of
+these associations. These were both associated the
+moderate-to-severe asthma, and the latter with mild
+asthma only in males.
+
+Asthmatic children have a higher risk of ADHD,
+where the magnitude of association increases with
+asthma severity (55). Increased rates and severity of
+attention-deficit symptoms have been demonstrated in
+asthmatic children, with distinct gender differences
+(56). This may be due to the burden of their medical
+condition and may reflect the negative impact of
+asthma on neurobehavioral health. Swedish twin modeling indicated that the association of childhood asthma
+with the subsequent development of hyperactivityimpulsivity could be partly explained by genetic influences. Nevertheless, it was suggested that ADHD and
+asthma are independently transmitted in families.
+
+Children with ADHD are more likely to have not
+only asthma but also atopic dermatitis as well as allergic conditions (allergic rhinitis and allergic conjunctivitis). In addition, the odds of having ADHD and
+asthma have been reported to significantly increase in
+children with atopic dermatitis. Boulet and Boulay
+(29) claimed that “there is epidemiological evidence of
+an overlap between asthma and atopic dermatitis in
+early life, in addition to being a risk factor for asthma,
+particularly in regard to some severe forms
+of asthma”.
+
+ 
+
+The mechanism of this association remains unclear.
+Yet, the hippocampus might potentially be the connecting link between these conditions. Both asthma
+(in males) (57) and ADHD (58) are associated with
+structural brain differences - mainly a smaller hippocampal volume. The hippocampus has been shown to
+be associated with other medical conditions whose
+association with asthma was established previously
+and in this study, such as epilepsy (59) and allergic
+conditions (60).
+
+Another potential connecting link is the transient
+receptor potential vanilloid type 1 which was shown
+to play a key role in both the manifestation of various
+symptoms of airway hypersensitivity including asthma
+(61), disorders associated with hyperdopaminergia
+such as ADHD, and atopic dermatitis. It was also
+shown to be involved in migraine pathophysiology.
+
+High levels of stress are associated with all these
+conditions and predominantly, the more severe form
+of asthma (62). Not only was drug treatment for
+asthma, allergic rhinitis and atopic dermatitis more
+common among ADHD subjects, but also medication
+prescription for asthma and allergic rhinitis among
+parents was associated with ADHD treatment in their
+children (63).
+pathophysiological mechanisms and genes have been
+suggested to underlie both asthma and ADHD, some
+of which may also be related to atopic dermatitis. All
+these possible connecting links are expected to be
+
+ 
+
+Diverse, common immune-related
+
+more prominent in subjects with a more severe form
+of asthma.
+
+Although a limited influence of more health seeking behavior is possible, the stringent screening active
+procedures to substantiate the diagnoses as well as the
+mechanisms that we bring as possible biological
+explanation of the association, and the already wellestablished association described in the literature all
+point toward a true association between asthma and
+ADHD. Furthermore, had the association been due to
+health seeking behavior, it would have the same effect
+in mild asthma and moderate- severe asthma groups,
+rather than only the later.
+
+Concluding remarks, limitations and
+future directions
+
+Whereas the symptoms of asthma severity groups are
+easily recognized, our understanding of the incident
+factors, pathogenesis, prognosis and treatment of
+asthma remains incomplete. Better characterization of
+asthma phenotypes is required, from both an etiological and clinical perspective. This cross-sectional
+study contributes innovative insights into the field of
+asthma research by providing a comparative view of
+mild asthma and moderate-to-severe asthma in reference to subjects without asthma, among Israeli adolescent males and females separately, while incorporating
+coexisting medical conditions. This study adds to our
+previous report that used a similar protocol but
+focused on secular trends in asthma prevalence and
+its associations with anthropometric indices and
+socio-demographic variables (46).
+
+This study illuminates differences and similarities
+based on stratification of gender and asthma severity.
+The findings suggest that perhaps different mechanisms and probably etiological bases are involved in
+the pathogenesis of mild compared with moderate-tosevere asthma, and between males and females. The
+differences might have implications not just for our
+view of asthma pathogenesis and progression in different sub-populations, but also for asthma (and comorbidities) diagnosis, monitoring and treatment.
+
+The limitations of this study include being
+restricted to one recruitment center and to a certain
+age group, an under-representation of certain populations (such as minorities and religious women that
+are exempt from service), lack of additional background information on socio-demographic and lifestyle (socio-economic (SES) and
+smoking habits) and genetic information. Information
+about age of asthma onset, which is directly related to
+some asthma phenotype classifications (13,14), was
+not available. We have no longitudinal data therefore
+we could not assess natural history and progression of
+the disease. Furthermore, the initial classification of
+asthma severity were based on asthma symptoms
+exacerbation frequency - as evident in the more
+recent and common GINA classifications at the time
+of data collection. However,
+research led to the development of evidence-based
+guidelines, rather than a consensus of expert opinion,
+and a major paradigm shift to control-based asthma
+management, as developed by The National Heart,
+Lung, and Blood Institute, The British Thoracic
+Society and GINA - “each using the same volume of
+evidence but emphasizing aspects particular to their
+specific patient populations and socioeconomic needs”
+(64). It would be interesting and valuable to apply a
+similar study design employing the current classification of asthma phenotypes and severity.
+
+Future attempts to profile the “medical signature”
+of asthmatic adolescents should use parallel protocols
+among children and adults (males and females separately), as well as longitudinally follow the progression
+
+ 
+
+factors status
+
+advances in asthma
+
+JOURNAL OF ASTHMA @) 9
+
+of such profiles over time. This could provide a highresolution and dynamic definition of asthma phenotypes (6) and promote our understanding of the disease state and identify more precise preventive
+strategies, leading to personalized therapeutics (13).
+Big data analytics and diverse modeling approaches
+and tools - beyond mining and patterning longitudinal data - may advance the translation of asthma
+phenotypic discovery into mechanistic insights and
+actionable solutions such as better diagnostic decisionmaking and clinical practice (65). For example, by
+investigating the extent of within-phenotype variations
+and delineating more precisely the characteristics of
+the individual trajectories assigned to each phenotype.
+These findings would have significant medical, financial and healthcare implications, at both the individual
+and national levels.
+
+ 
+
+Declaration of interest
+
+The authors report no conflicts of interest. The
+authors alone are responsible for the content and
+writing of this article.
+
+ORCID
+Daniel Fink @® http://orcid.org/0000-0003-1448-7799
+
+References
+
+1. Masoli M, Fabian D, Holt S, Beasley R. The global
+burden of asthma: executive summary of the GINA
+Dissemination Committee report. Allergy 2004;59:
+469-478. Epub 2004/04/15. —_doi:10.1111/j.13989995.2004.00526.x.
+
+2. Asher I, Pearce N. Global burden of asthma among
+children. Int J Tuberc Lung Dis 2014;18:1269-1278.
+Epub 2014/10/10. doi:10.5588/ijtld.14.0170.
+
+3. Bateman ED, Jithoo A. Asthma and allergy - a global
+perspective. Allergy 2007;62:213-215. Epub 2007/02/
+15. doi:10.1111/j.1398-9995.2007.01324.x.
+
+4. Palomares O, Akdis M, Martin-Fontecha M, Akdis
+CA. Mechanisms of immune regulation in allergic diseases: the role of regulatory T and B cells. Immunol
+Rev 2017;278:219-236. Epub 2017/06/29. doi:10.1111/
+imr.12555.
+
+5. Miyasaka T, Dobashi-Okuyama K, Takahashi T,
+Takayanagi M, Ohno I. The interplay between neuroendocrine activity and psychological stress-induced
+exacerbation of allergic asthma. Allergol Int 2017;67:
+32-42. Epub 2017/05/26. doi:10.1016/j.alit.2017.04.013.
+PubMed PMID: 28539203.
+
+6. Chung KF. Defining phenotypes in asthma: a step
+towards personalized medicine. Drugs 2014;74:
+719-728. Epub 2014/05/07. doi:10.1007/s40265-0140213-9.
+
+ 
+
+ 
+10 @) Y. MACHLUF ET AL.
+
+10.
+
+ll.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+Chung KF, Wenzel SE, Brozek JL, Bush A, Castro M,
+Sterk PJ, Adcock IM, Bateman ED, Bel EH, Bleecker
+ER, et al. International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma. Eur
+Respir J 2014;43:343-373. Epub 2013/12/18. doi:
+0.1183/09031936.00202013.
+
+Fitzpatrick AM, Teague WG, Meyers DA, Peters SP,
+Li X, Li H, Wenzel SE, Aujla S, Castro M, Bacharier
+LB, et al. Heterogeneity of severe asthma in childood: confirmation by cluster analysis of children in
+the National Institutes of Health/National Heart,
+Lung, and Blood Institute Severe Asthma Research
+Program. J Allergy Clin Immunol 2011;127:382-389
+el-13. Epub 2011/01/05. PubMed PMID: 21195471;
+PubMed Central PMCID: PMCPMC3060668. doi:
+0.1016/j.jaci.2010.11.015.
+
+Haldar P, Pavord ID, Shaw DE, Berry MA, Thomas
+M, Brightling CE, Wardlaw AJ, Green RH. Cluster
+analysis and clinical asthma phenotypes. Am J Respir
+Crit Care Med 2008;178:218-224. Epub 2008/05/16.
+PubMed PMID: 18480428; PubMed Central PMCID:
+PMCPMC3992366. doi:10.1164/rccm.200711-17540C.
+
+Sonnappa S, Bastardo CM, Wade A, Saglani S,
+McKenzie SA, Bush A, Aurora P, et al. Symptom-pattern phenotype and pulmonary function in preschool
+wheezers. J Allergy Clin Immunol 2010;126:519-526
+el-7. Epub 2010/06/29. doi:10.1016/j.jaci.2010.04.018.
+
+Savenije OE, Granell R, Caudri D, Koppelman GH,
+Smit HA, Wijga A, de Jongste JC. Comparison of
+childhood wheezing phenotypes in 2 birth cohorts:
+ALSPAC and PIAMA. J Allergy Clin Immunol 2011;
+27:1505-1512. e14. Epub 2011/03/18. doi:10.1016/
+j.jaci.2011.02.002.
+
+Pite H, Gaspar A, Morais-Almeida M. Preschool-age
+wheezing phenotypes and asthma persistence in adolescents. Allergy Asthma Proc 2016;37:231-241. Epub
+2016/04/15. doi:10.2500/aap.2016.37.3955.
+
+Carr TF, Bleecker E. Asthma heterogeneity and severity.
+World Allergy Organ J 2016;9:41Epub 2016/12/17. doi:
+10.1186/s40413-016-0131-2. PubMed PMID: 27980705;
+PubMed Central PMCID: PMCPMC5129643.
+
+Lee E, Lee SH, Kwon JW, Kim YH, Yoon J, Cho HJ,
+Yang SI, Jung YH, Kim HY, Seo JH, et al. Persistent
+asthma phenotype related with late-onset, high atopy,
+and low socioeconomic status in school-aged Korean
+children. BMC Pulm Med 2017;17:45. Epub 2017/02/
+25. PubMed PMID: 28231776; PubMed Central
+PMCID: PMCPMC5324247. doi:10.1186/s12890-0170387-5.
+
+Reinke SN, Gallart-Ayala H, Gomez C, Checa A,
+Fauland A, Naz S, Kamleh MA, Djukanovi¢ R, Hinks.
+Metabolomics analysis identifies different metabotypes
+of asthma severity. Eur Respir J 2017;49:1601740.
+Epub 2017/03/31. PubMed PMID: 28356371; PubMed
+Central PMCID: PMCPMC5399350.  doi:10.1183/
+3993003.01740-2016.
+
+Zoratti EM, Krouse RZ, Babineau DC, Pongracic JA,
+O'Connor GT, Wood RA, Khurana Hershey GK,
+Kercsmar CM, Gruchalla RS, Kattan M, et al. Asthma
+phenotypes in inner-city children. J Allergy Clin
+mmunol 2016;138:1016-1029. Epub 2016/10/11.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17:
+
+18.
+
+19.
+
+20.
+
+21,
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27;
+
+28.
+
+29.
+
+30.
+
+PubMed PMID: 27720016; PubMed Central PMCID:
+PMCPMC5104222. doi:10.1016/j.jaci.2016.06.061.
+Boulet LP, FitzGerald JM, Reddel HK. The revised
+2014 GINA strategy report: opportunities for change.
+Curr Opin Pulm Med 2015;21:1-7. Epub 2014/11/19.
+0i:10.1097/mep.0000000000000125.
+
+Garden FL, Simpson JM, Mellis CM, Marks GB.
+Change in the manifestations of asthma and asthmarelated traits in childhood: a latent transition analysis.
+Eur Respir J 2016;47:499-509. Epub 2015/10/24. doi:
+0.1183/13993003.00284-2015.
+
+Corren J. Asthma phenotypes and endotypes: an
+evolving paradigm for classification. Discov Med
+2013;15:243-249. Epub 2013/05/03.
+Pembrey L, Barreto ML, Douwes J, Cooper P,
+Henderson J, Mpairwe H, Ardura-Garcia C, Chico M,
+Brooks C, Cruz AA, et al. Understanding asthma phenotypes: the World Asthma Phenotypes (WASP)
+international collaboration. ERJ Open Res 2018;4.
+Epub 2018/08/29. PubMed PMID: 30151371; PubMed
+Central PMCID: PMCPMC6104297.  doi:10.1183/
+23120541.00013-2018.
+Spycher BD, Silverman M, Kuehni CE. Phenotypes of
+childhood asthma: are they real? Clin Exp Allergy
+2010;40:1130-1141. Epub 2010/06/16. doi:10.1111/
+j-1365-2222.2010.03541.x.
+Just J, Bourgoin-Heck M, Amat F. Clinical phenotypes
+in asthma during childhood. Clin Exp Allergy 2017;
+47:848-855. Epub 2017/04/20. doi:10.1111/cea.12939.
+Eguiluz-Gracia I, Tay TR, Hew M, Escribese MM,
+Barber D, O’Hehir RE, Torres MJ. Recent developments and highlights in biomarkers in allergic diseases and asthma. Allergy 2018;73:2290-2305. Epub
+2018/10/06. doi:10.1111/all.13628.
+Weatherburn CJ, Guthrie B, Mercer SW, Morales DR.
+Comorbidities in adults with asthma: populationbased cross-sectional analysis of 1.4 million adults in
+Scotland. Clin Exp Allergy 2017;47:1246-1252. Epub
+2017/07/01. doi:10.1111/cea.12971.
+Gershon AS, Wang C, Guan J, To T. Burden of
+comorbidity in individuals with asthma. Thorax 2010;
+65:612-618. Epub 2010/07/16. doi:10.1136/
+thx.2009.131078.
+
+Zhang T, Carleton BC, Prosser RJ, Smith AM. The
+added burden of comorbidity in patients with asthma.
+J Asthma 2009;46:1021-1026. Epub 2009/12/10. doi:
+10.3109/02770900903350473.
+
+Ferkh KE, Nwaru BI, Griffiths C, Patel A, Sheikh A.
+Healthcare costs of asthma comorbidities: a systematic
+review protocol. BMJ Open 2017;7:e015102. Epub
+2017/06/02. PubMed PMID: 28566366; PubMed
+Central PMCID: PMCPMC5730013.  doi:10.1136/
+bmjopen-2016-015102.
+de Groot EP, Duiverman EJ, Brand PL. Comorbidities
+of asthma during childhood: possibly important, yet
+poorly studied. Eur Respir J 2010;36:671-678. Epub
+2010/10/12. doi:10.1183/09031936.00185709.
+
+Boulet LP, Boulay ME. Asthma-related comorbidities.
+Expert Rev Respir Med 2011;5:377-393. Epub 2011/
+06/28. doi:10.1586/ers.11.34.
+Cazzola M, Calzetta L, Bettoncelli G, Novelli L,
+Cricelli C, Rogliani P. Asthma and comorbid medical
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+illness. Eur Respir J 2011;38:42-49. Epub 2010/12/24.
+doi:10.1183/09031936.00140310.
+
+Ullmann N, Mirra V, Di Marco A, Pavone M,
+Porcaro F, Negro V, Onofri A, Cutrera R. Asthma:
+differential diagnosis and comorbidities. Front Pediatr
+2018;6:276. Epub 2018/10/20. PubMed PMID:
+30338252; PubMed Central PMCID:
+PMCPMC6178921. doi:10.3389/fped.2018.00276.
+
+Tay TR, Hew M. Comorbid “treatable traits” in difficult asthma: current evidence and clinical evaluation.
+Allergy 2018;73:1369-1382. Epub 2017/11/28. doi:
+10.1111/all.13370.
+
+Bardin PG, Rangaswamy J, Yo SW. Managing comorbid conditions in severe asthma. Med J Aust 2018;
+209:S11-SS7. Epub 2018/11/21.
+
+Oielea MR, Rascu A, The Asthma Obese Phenotype.
+In: Huang K-HG, ed. Asthma diagnosis and management. London, UK: IntechOpen; 2018:165-184.
+
+Graif Y, Shohat T, Machluf Y, Farkash R, Chaiter Y.
+Association between asthma and migraine - a crosssectional study of over 110,000 Adolescents. Clin
+Respir J 2018;12:2491-2496. Epub 2018/07/14. doi:
+10.1111 /crj.12939.
+
+Labor M, Labor S, Juric I, Fijacko V, Grle SP, Plavec
+D. Mood disorders in adult asthma phenotypes. J
+Asthma 2018;55:57-65. Epub 2017/05/11. doi:10.1080/
+02770903.2017.1306546.
+
+Adamia N, Jorjoliani L, Khachapuridze D, Katamadze
+N, Chkuaseli N. Allergic diseases and asthma in adolescents. Georgian Med News 2015;243:58-62. Epub
+2015/06/20.
+
+Ross MK, Romero T, Sim MS, Szilagyi PG. Obese- and
+allergic-related asthma phenotypes among children
+across the United States. J Asthma 2018;1-10. Epub
+2018/04/20. doi: 10.1080/02770903.2018.1466317.
+Fischer GB, Sarria EE, Mattiello R, Mocelin HT,
+Castro-Rodriguez JA. Post infectious bronchiolitis
+obliterans in children. Paediatr Respir Rev 2010511:
+233-239. Epub 2010/11/27. doi:10.1016/j.prrv.2010.
+07.005.
+
+Skobeloff EM, Spivey WH, St CSS, Schoffstall JM. The
+influence of age and sex on asthma admissions.
+AMA 1992;268:3437-3440. Epub 1992/12/23.
+
+Meurer JR, George V, Subichin S, Yauck J, Layde P.
+Asthma severity among children hospitalized in 1990
+and 1995. Arch Pediatr Adolesc Med 2000;154:
+43-149. Epub 2000/02/09.
+
+Chen Y, Dales R, Stewart P, Johansen H, Scott G,
+Taylor G. Hospital readmissions for asthma in chilren and young adults in Canada. Pediatr Pulmonol
+2003;36:22-26. Epub 2003/05/29. doi:10.1002/ppul.
+0307.
+
+Raghavan D, Jain R. Increasing awareness of sex differences in airway diseases. Respirology 2016;21:
+449-459. Epub 2015/12/19. doi:10.1111/resp.12702.
+Fuseini H, Newcomb DC. Mechanisms driving gender
+differences in asthma. Curr Allergy Asthma Rep 2017;
+7:19. Epub 2017/03/24. doi:10.1007/s11882-017-0686-1.
+Tse SM, Rifas-Shiman SL, Coull BA, Litonjua AA,
+Oken E, Gold DR. Sex-specific risk factors for childhood wheeze and longitudinal phenotypes of wheeze.
+Allergy Clin Immunol 2016;138:1561-1568.e6. Epub
+
+ 
+
+ 
+
+ 
+
+46.
+
+47.
+
+48.
+
+49,
+
+50.
+
+51.
+
+52.
+
+53,
+
+54.
+
+55)
+
+JOURNAL OF ASTHMA @) 11
+
+2016/06/02. PubMed PMID: 27246527; PubMed
+Central PMCID: PMCPMC5083247.  doi:10.1016/
+j.jaci.2016.04.005.
+
+Machluf Y, Farkash R, Fink D, Chaiter Y. Asthma
+severity and heterogeneity: insights from prevalence
+trends and associated demographic variables and
+anthropometric indices among Israeli adolescents. J
+Asthma 2018;55:826-836. Epub 2017/09/06. doi:
+10.1080/02770903.2017.1373809.
+
+Machluf Y, Navon N, Yona A, Pirogovsky A, Palma
+E, Tal O, et al. From a quality assurance and control
+system for medical processes, through epidemiological
+trends of medical conditions, to a nationwide health
+project. In: Eldin AB, ed. Modern approaches to quality control. Rijeka, Croatia: InTech; 2011:259-282.
+Chaiter Y, Machluf Y, Pirogovsky A, Palma E, Yona
+A, Shohat T, Yitzak A, Ash N, Cohen A, Chaiter Y.
+Quality control and quality assurance of medical committee performance in the Israel Defense Forces. Int J
+Health Care Qual Assur 2010;23:507-515. Epub 2010/
+09/18.
+
+Chaiter Y, Palma E, Machluf Y, Yona A, Cohen A,
+Pirogovsky A, Shohat T, Yitzak A, Tal O, Ash N.
+Quality-assuring intervention for technical medical
+staff at medical committees. Int J Health Care Qual
+Assur 2011;24:19-30. Epub 2011/04/05.
+
+Machluf Y, Pirogovsky A, Palma E, Yona A, Navon
+A, Shohat T, Yitzak A, Tal O, ash N, Nachman M, et
+al. Coordinated computerized systems aimed at management, control, and quality assurance of medical
+processes and informatics. Int J Health Care Qual
+Assur 2012;25:663-681. Epub 2013/01/02. doi:10.1108/
+09526861211270622.
+Machluf Y, Fink D, Farkash R, Rotkopf R, Pirogovsky
+A, Tal O, Shohat T, Weisz G, Ringler E, Dagan D,
+et al. Adolescent BMI at Northern Israel: from trends,
+to associated variables and comorbidities, and to medical signatures. Medicine (Baltimore) 2016;95:e3022.
+Epub 2016/03/26. doi:10.1097/md.0000000000003022.
+Bousquet J. Global initiative for asthma (GINA) and
+its objectives. Clin Exp Allergy 2000;30: 2-5. Epub
+2000/06/13.
+Amelink M, de Nijs SB, de Groot JC, van Tilburg
+PMB, van Spiegel PI, Krouwels FH, Lutter R,
+Zwinderman AH, Weersink EJ, ten Brinke A, et al.
+Three phenotypes of adult-onset asthma. Allergy
+2013;68:674-680. Epub 2013/04/18. — doi:10.1111/
+all.12136.
+Moore WC, Fitzpatrick AM, Li X, Hastie AT, Li H,
+Meyers DA, Bleecker ER. Clinical heterogeneity in the
+severe asthma research program. Ann Am Thorac Soc
+
+ 
+
+ 
+
+2013;10:S118-S124. Epub 2013/12/01. PubMed
+PMID: 24313761; PubMed Central PMCID:
+PMCPMC3960988. _—_ doi:10.1513/AnnalsATS.201309307AW.
+
+Chen MH, Su TP, Chen YS, Hsu JW, Huang KL,
+Chang WH, Chen TJ, Bai YM. Asthma and attentiondeficit/hyperactivity disorder: a nationwide population-based prospective cohort study. J Child Psychol
+Psychiatry 2013;54:1208-1214. Epub 2013/06/05. doi:
+10.111 1/jcpp.12087.
+
+ 
+
+ 
+
+ 
+12 © Y. MACHLUF ET AL.
+
+56. Borschuk AP, Rodweller C, Salorio CF. The influence
+of comorbid asthma on the severity of symptoms in
+children with attention-deficit hyperactivity disorder. J
+Asthma 2018;55:66-72. Epub 2017/05/02. doi:10.1080/
+02770903.2017.1306549.
+
+57. Carlson SM, Kim J, Khan DA, King K, Lucarelli RT,
+McColl R, Peshock R, Brown ES. Hippocampal volume in patients with asthma: Results from the Dallas
+
+Heart Study. J Asthma 2017;54:9-16. Epub 2016/05/
+
+8. PubMed PMID: 27187077; PubMed Central
+
+PMCID: PMCPMC5602555. doi:10.1080/
+
+02770903.2016.1186174.
+
+58. Al-Amin M, Zinchenko A, Geyer T. Hippocampal
+
+subfield volume changes in subtypes of attention def
+icit hyperactivity disorder. Brain Res 2018;1685:1-8.
+
+Epub 2018/02/11. doi:10.1016/j.brainres.2018.02.007.
+
+59. Chatzikonstantinou A. Epilepsy and the hippocampus.
+
+Front Neurol Neurosci 2014;34:121-142. Epub 2014/
+
+04/30. doi:10.1159/000356435.
+
+60. Klein B, Mrowetz H, Thalhamer J, Scheiblhofer S,
+
+Weiss R, Aigner L. Allergy enhances neurogenesis
+
+and modulates microglial activation in the hippocam
+pus. Front Cell Neurosci 2016;10:169. Epub 2016/07/23.
+
+PubMed PMID: 27445696; PubMed Central PMCID:
+
+PMCPMC4923262. doi:10.3389/fncel.2016.00169.
+
+61. Lee LY, Gu Q. Role of TRPV1 in inflammation
+induced airway hypersensitivity. Curr Opin
+
+Pharmacol 2009;9:243-249. PubMed PMID:
+
+PMC2704095. doi:10.1016/j.coph.2009.02.002.
+
+62. Rosenberg SL, Miller GE, Brehm JM, Celedon JC.
+
+Stress and asthma: novel insights on genetic, epigen
+etic, and immunologic mechanisms. J Allergy Clin
+
+mmunol 2014;134:1009-1015. Epub 2014/08/19.
+
+PubMed PMID: 25129683; PubMed Central PMCID:
+
+PMCPMC4252392. doi:10.1016/j.jaci.2014.07.005.
+
+63. van der Schans J, Pleiter JC, de Vries TW, SchuilingVeninga CC, Bos JH, Hoekstra PJ, Hak E. Association
+between medication prescription for atopic diseases
+and attention-deficit/hyperactivity disorder. Ann
+Allergy Asthma Immunol 2016;117:186-191. Epub
+2016/06/19. doi:10.1016/j.anai.2016.05.025.
+
+64. Reddy AP, Gupta MR. Management of asthma: the
+current US and European guidelines. Adv Exp Med
+Biol 2014;795:81-103. Epub 2013/10/29. doi:10.1007/
+978-1-4614-8603-9_6.
+
+65. Oksel C, Haider S, Fontanella S, Frainay C, Custovic
+A. Classification of pediatric asthma: from phenotype
+discovery to clinical practice. Front Pediatr 2018;6:
+258. Epub 2018/10/10. PubMed PMID: 30298124;
+PubMed Central PMCID: PMCPMC6160736. doi:
+10.3389/fped.2018.00258.
+
+ 
+
+Appendix A
+
+Criteria for the diagnosis of each medical
+condition (variables)
+
+This study is aimed at providing an overarching characterization of the medical signature of asthma severity phenotypes, within each gender separately. Therefore, on one
+hand diverse medical conditions were grouped together,
+
+while focusing on the more common medical conditions
+among conscripts, such as scoliosis/kyphosis and refraction
+errors. Other medical conditions, such as allergy and neurologic-cognitive-mental disorders, which were shown to be
+associated with asthma, were separated into the sub-conditions constituting them, in order to provide a higher resolution. No self- reported measurements were used in this
+study. The medical conditions were as follows.
+
+Allergies
+
+Allergic conjunctivitis
+
+Diagnosis was made according to previous documentation,
+a history of redness of conjunctiva, edema, itching and lacrimation associated with season and/or allergens and verified by an eye specialist.
+
+Allergic rhinitis
+
+Diagnosis was made according to previous documentation
+verified by ear, nose and throat (ENT) specialist or allergy
+specialist. Diagnosis required chronic rhinitis associated
+with allergens and/or season of year.
+
+Atopic dermatitis
+
+Diagnosis was made according to previous documentation
+and history of characteristic itchy, red, swollen rash of skin,
+associated with seasons and/or allergens according to diagnosis of a certified dermatologist or allergy specialist.
+
+Hymenoptera/bee allergies
+
+Hymenoptera allergy was diagnosed according to previous
+documentation and history of reaction to bee, yellow jacket
+or hornet sting accompanied by swelling. rash, angioedema
+or anaphylactic shock and verified by skin tests as well as
+specific Immunoglobulin E tests and confirmed by an
+allergy specialist.
+
+Urticaria and angioedema/food allergies
+
+Diagnosis was made according to previous documentation
+and characteristic history of typical general skin rash (hives)
+for urticaria, general swelling including swelling of the neck,
+face, tongue and larynx for angioedema, specific skin tests
+and IgE levels for specific foods allergy, verified by a specialist in allergy.
+
+ 
+
+Neurologic-cognitive-mental disorders
+
+Epilepsy
+
+Diagnosis of epilepsy was made according to previous documentation involving recurrent general or focal seizures, a
+neurological workup including EEG and certified by a specialist neurologist.
+
+Migraine
+
+The diagnosis of migraine relied on at least 1 year’s documentation of headaches with typical characteristics of a
+migraine, which was verified by a neurologist.
+
+Learning disabilities
+
+Learning disabilities were diagnosed by specific psychodiagnostic tests and verified by neurologist and or psychiatrist examination. In this analysis, only the severe learning
+disorders were included, such those accompanied with dyspraxia or coordination problems.
+Attention-deficit hyperactivity disorder
+
+ADD/ADHD was diagnosed according to specific psychodiagnostic tests and verified by a neurologist or psychiatrist
+examination. In this analysis, only severe ADD/ADHD was
+included, requiring daily consumption of medication
+(Ritalin or Concerta).
+
+Anxiety-mood disorder/depression
+
+Anxiety and mood disorders were diagnosed according to
+previous documentation from a certified psychologist or
+psychiatrist, relied on typical medical history and was verified by an examination by a certified psychiatrist at the
+recruitment center.
+
+Other diseases
+
+Gastro-esophageal reflux disease
+
+Diagnosis was made according to previous documentation
+and characteristic history of heartburn, bloating, taste of
+acid and food coming back to the mouth (reflux), tightness
+of breathing and chest characteristically after meals, and
+certified by a specialist gastroenterologist.
+
+Irritable BOWEL Syndrome (IBS)
+
+Irritable bowel syndrome was diagnosed by certified gastroenterologist after a work up including blood laboratory tests
+to exclude other conditions such as inflammatory bowel disease (IBD), imaging including ultrasound of abdomen, computerized tomography (CT) on GI tract, endoscopy and
+colonoscopy.
+
+Inflammatory bowel disease
+
+IBD was diagnosed by certified gastroenterologists, relying
+on medical history, laboratory blood workup demonstrating
+elevated C-reactive protein, sediment rate and fecal calprotectin levels as well as other serological indexes as well as a
+thorough GI workup including CT, magnetic resonance
+enterography and endoscopy including colonoscopy.
+Diagnosis was verified by results of typical findings and
+histopathological findings.
+
+Lactase deficiency
+Lactase deficiency was diagnosed by a certified gastroenterologist relying on medical history and laboratory workup.
+
+Scoliosis/Kyphosis
+Spine deformities included scoliosis and kyphosis as established by clinical examination and X-ray imaging.
+
+ 
+
+Chest deformations
+
+Chest deformation was diagnosed according to characteristic findings on physical examination by two physicians and
+included pectus excavatum, pectus carinatum and other
+deformations of chest wall. In cases of a moderate-to-severe
+deformity, a spirometry was performed to assess possible
+restrictive condition.
+
+Diabetes mellitus
+
+Diabetes mellitus diagnosis was established by fasting blood
+glucose levels above 126mg/dL for those examined after
+1998, and above 140 mg/dL for those examined during previous years in repeated analysis, and or 2h post-prandial
+glucose levels above 200 mg/dL. The change in the fasting
+glucose level threshold was made according to changes in
+
+JOURNAL OF ASTHMA @&) 13
+
+definition as decided by the World Health Organization
+(WHO) and National Health Institute (NIH).
+
+Autoimmune connective tissue diseases
+
+This group of diseases included rheumatoid arthritis, systemic lupus erythematosus, Sjogren disease, scleroderma,
+mixed connective tissue disease, polymyositis dermatomyositis and psoriatic arthritis. Diagnosis of the conditions was
+made according toprevious medical documentation,
+accepted criteria including complete laboratory workup and
+confirmation by a specialist in rheumatology.
+
+Hyperlipidemia
+Hyperlipidemia was diagnosed as low-density lipoprotein
+cholesterol levels above 150 mg/dL and/or triglyceride levels
+above 200 mg/dL.
+
+Cardiac anomalies (heart disease)
+
+Cardiac anomalies were diagnosed according to cardiologist
+examination and Echo Doppler study. Cardiac anomalies
+included valvar abnormalities such as bicuspid aortic valve,
+aortic valve insufficiency or stenosis, mitral valve insufficiency or stenosis, pulmonary stenosis or insufficiency, tricuspid valve insufficiency or stenosis. Non-valvar anomalies
+included patent ductus arteriosus, atrial septal defect, ventricular septal defect, coarctation of the aorta, tetralogy of
+Fallot, complete transposition of great vessels and
+dextrocardia.
+
+Pneumothorax
+
+Pneumothorax was diagnosed relying on findings of pulmonologist, previous documentation including discharge letters
+from hospital and by performing spirometry and Xray imaging.
+
+Hoarseness
+
+Hoarseness was diagnosed according to examination and
+previous documentation and was substantiated by a certified
+ENT specialist following examination of the larynx and
+pharynx for possible pathologies.
+
+Eating disorders
+Eating disorders were diagnosed by certified psychiatrists
+relying on additional documentation and on a thorough
+psychiatric status examination verifying criteria for eating
+disorders by International Classification of Diseases.
+
+Sleep disorders
+Sleep disorders included mainly sleep apnea syndrome and
+somnambulism diagnosed at a certified sleep disorders
+laboratory and verified by a sleep disorders specialist.
+
+The following anthropometric indices were included in
+the univariate analyses.
+
+ 
+
+Body mass index
+
+BMI groups were defined according to gender-related percentiles for 17-year old BMI on growth charts of the Israeli
+Ministry of Health, similarly to the approach of the U.S.
+Centers for Disease Control and Prevention. The actual definitions were as follows: Obesity - above the 95th percentile
+(>28.2 and >29.6 kg/m for males and females, respectively); Overweight - the 85th-95th percentiles (25.0-28.2
+and 25.2-29.6 kg/m”); Underweight - below 5th percentile
+(<17.6 and <17.2kg/m’). The age of 17 years was chosen as
+14 © Y. MACHLUF ET AL.
+
+the median age [and interquartile range] of males and
+females was 17.35 [17.08-17.9] and 17.24 [17.02-17.63],
+respectively.
+
+Blood pressure
+Systolic and diastolic blood pressure (BP) measures (herein
+SBP and DBP, respectively) were obtained by a sphygmomanometer, in a relaxed, sitting position. Categories were
+defined following age (17 years old)- and height (174 and
+162cm for males and females, respectively) - adjusted definitions of Ministry of Health. Six categories were defined
+hierarchically based on clinical severity: Missing BP: either
+DBP = 0 or SBP = 0; Abnormal BP: either DBP = 1-39 or
+SBP = 1-79 or SBP-DBP < 20; Hypertension type II
+(>99th percentile + 5mmHg): either DBP > 90 or SBP >
+146/139 or males/females or recruits belonging to 1 of the
+3BP categories indicated below and having FCC indicative
+of taking medications due to hypertension type II;
+Hypertension type I (>95th percentile and <99th percentile
++ 5mmHg): DBP = 86-90 or SBP = 135-146/129-139 for
+males/females; Pre-hypertension (>90th percentile and
+<95th percentile + 5mmHg): DBP = 80-85 or SBP =
+120-134/120-138 for males/females; Hypotension: DBP =
+40-49 or SBP = 80-89; Normal BP: DBP = 50-79 or SBP
+= 90-119. Diagnosis of hypertension warranted also further
+workup including ten measurements of BP every alternate day.
+
+The following socio-demographic variables were included
+in the univariate analyses: year of birth, season of birth,
+country of birth, migration status, education, religion, residential area, family size (number of children in the family),
+birth order (place of child among children), age of parents
+at child’s birth (advanced/young parental age) and SES.
+
+These variables and the related findings were described
+in detail previously (see reference 46 and __ its
+Supplementary Material).
+
+ 
+
+ 
+
+Appendix B
+
+Description of univariate analysis findings
+Associations in males
+
+Of the medical conditions, 12 conditions were associated
+with either mild asthma or moderate-to-severe asthma - all
+associated with a higher risk among the asthmatic male populations (compared with the corresponding non-asthmatic
+ones). Of these, six variables were associated with both mild
+and moderate-to-severe asthma (Allergic rhinitis, allergic
+dermatitis, urticarial/angioedema/food allergies, learning disorders, migraine and allergic conjunctivitis), two variables
+were only associated with mild asthma (Hymenoptera/bee
+allergies and epilepsy) and four variables were only associated
+with moderate-to-severe asthma (ADHD/ADD, hyperlipidemia, pneumothorax and hoarseness).
+
+Associations in females
+
+Of the medical conditions, 12 conditions were associated
+with either mild asthma or moderate-to-severe asthma — al
+associated with a higher risk among the asthmatic female
+populations (compared with the corresponding non-asthmatic ones, with one exception: learning disorders was less
+prevalent among the mild asthma phenotype). Of these, five
+variables were associated with both mild and moderate-tosevere asthma (Allergic rhinitis, allergic dermatitis, urticarial/angioedema/food allergies, learning disorders and allergic conjunctivitis), one variable was only associated with
+mild asthma (Scoliosis/Kyphosis) and six variables were
+only associated with = moderate-to-severe asthma
+(Hymenoptera/bee allergies, GERD, sleep disorder,
+migraine, anxiety-mood disorder/depression, ADHD/ADD).
+
+ 
+
+Only these variables, which were shown to be significantly associated with either of the asthma severity-gender
+groups, were included in the corresponding multivariable
+logistic regression models.
+

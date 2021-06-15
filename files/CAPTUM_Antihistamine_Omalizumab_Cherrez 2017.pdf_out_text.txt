@@ -1,0 +1,1061 @@
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+DOI 10.1186/s40413-017-0150-7 World Allergy
+
+Organization Journal
+
+ORIGINAL RESEARCH Open Access
+
+Knowledge and management of chronic Ou
+spontaneous urticaria in Latin America: a
+cross-sectional study in Ecuador
+
+A. Cherrez'?, M. Maurer’, K. Weller?, J. C. Calderon'*, D. Simancas-Racines? and |. Cherrez Ojeda!”
+
+ 
+
+Abstract
+
+Background: The current EAACI/GA*LEN/EDF/WAO guideline for urticaria provide specific recommendations for the
+diagnostic workup and treatment of patients with chronic spontaneous urticaria (CsU). This study explored if
+physicians in Ecuador know these recommendations and implement them in their actual clinical practice for CsU.
+
+Methods: We investigated physicians who treat CsU patients in a cross-sectional study using a standardized
+questionnaire. Descriptive statistics were employed, adjusted logistic regression was performed to assess the link of
+guideline knowledge and use of therapy.
+
+Results: Seven hundred forty surveys were collected and analyzed. The mean age of physicians was 42.3 (+12.5) years.
+Most of the participants (65.1%) were general physicians (GP), 13.7% were pediatricians, 11.0% internists, 6.8%
+dermatologists or allergists (D/A). Only 18.8% knew the EAACI/GA7LEN/EDF/WAO guideline. 44.5% of GPs searched for
+CsU etiology in contrast to 90% of D/A. Most common diagnostic test was total serum IgE (83.5%). Most common first
+line symptomatic treatment was oral corticoids (46.3%), followed by second generation antihistamines (sgAHs, 36.8%).
+A/D prescribed more sgAHs (regular doses) (74.1 vs 28.6% of GP) (p < 0.05). Experience with omalizumab was reported
+only by 3.5%, of physicians, and higher rates among who were familiar with the guideline.
+
+Conclusion: This study shows that the knowledge of guideline recommendations in physicians who treat urticaria
+patients in Ecuador is low. The diagnostic workup and treatment of CsU patients are largely not in line with guideline
+recommendations in real life practice settings. We were able to compare results between German and Ecuadorian
+physicians and found that Ecuadorian physicians have lower awareness of the current guideline (33 vs 18%). Only
+one-third of physicians reported using regular doses of sgAHs as the first line treatment. Also, only 12.9% of physicians
+use sgAHs in higher doses and physicians still use fgAHs, particularly pediatricians (42.9%). Our results suggest that
+disparities in knowledge between physicians from different countries could influence the management of CsU.
+Knowledge of the guidelines is linked to better choices of treatments. Awareness of guidelines needs to be promoted
+for better management of chronic urticaria.
+
+ 
+
+Keywords: Chronic urticaria, Guidelines, Latin America, Management, Treatment
+
+ 
+
+ 
+
+ 
+
+* Correspondence: ivancherrez@gmail.com
+
+'Respiralab Research Group, Respiralab, Guayaquil, Ecuador
+
+4School of Medicine, Universidad Espiritu Santo, Samborondén, Guayas,
+Ecuador
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+
+C BioMed Central International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+Background
+
+Urticaria is a disease characterized by the development of wheals (hives), angioedema or both. Chronic
+urticaria (CU) is defined by the appearance of these
+signs and symptoms for 26 weeks and is categorized
+into two main types: chronic spontaneous urticaria
+(CsU) and chronic inducible urticaria [1]. CsU is
+thought to affect 0.5-1% of the global population at
+any given time, accounting for approximately twothirds of all cases of CsU. Chronic Urticaria can have
+a considerable burden on patients, healthcare systems
+and society [2].
+
+Different studies have evaluated the economic impact
+of CsU and a total annual cost of $ 2047 per patient has
+been estimated, with indirect costs accounted for 15.7%
+($322) [3]. More importantly, this disease is commonly
+associated with an impairment of patients in many aspects of their daily living (e.g. their choice of clothes or
+food) [4], with marked impact on their quality of life
+(QoL) and productivity (e.g. impaired work performance,
+absence from work) [3].
+
+Several guidelines, consensus papers, and practice parameters are available for the management of chronic
+urticaria. The leading international guideline is the
+EAACI/GA?LEN/EDE/WAO guideline for urticaria,
+which was revised and updated in 2013. National practice parameters include those of the US American
+AAAAT/ACAAI Joint Task Force, which were updated in
+2014. The recommendations given by all of these documents are similar, although some minor differences exist
+[5]. For example, the EAACI/GA*LEN/EDF/WAO
+guideline for urticaria does not recommend H2 antihistamines or first generation antihistamines for CsU,
+whereas the US practice parameters do [6].
+
+The EAACI/GA°*LEN/EDF/WAO guideline for urticaria provides a set of specific recommendations for the
+management of CU. For example, they recommend a
+stepwise approach in the management of CsU, beginning
+with licensed doses of modern second generation H1antihistamines (sgAHs) [1] as the first line therapy,
+which is effective in resolving symptoms in about 40% of
+patients with CsU [2]. As second line therapy, the guideline recommends increasing the doses of sgAHs up to
+four times the regular doses, if a patient does not respond to first line treatment after 2 weeks. For patients
+non-responsive to higher doses of sgAHs, the guideline
+recommends the addition of a third-line treatment option
+such as omalizumab, cyclosporine or montelukast [1].
+
+Recent studies on guideline and awareness in physicians who treat urticaria patients have shown interesting
+results. In one such study, performed in Germany, the
+level of urticaria guideline knowledge was highest in dermatologists (50.6%) when compared with pediatricians
+(24.2%) and general physicians (12.6%). Physicians who
+
+Page 2 of 10
+
+were familiar with the guidelines were significantly more
+likely to perform useful diagnostic tests such as the
+ASST (autologous serum skin test). However, even in
+physicians who knew the guideline, the test was still only
+performed by one of five physicians. Physicians who
+stated to be familiar with the guidelines were less likely
+to use sedating antihistamines and systemic steroids as a
+first- and/or second-line treatment, indicating that
+guideline recommendations may improve the quality
+of care [7].
+
+Most of the studies performed indicate that the knowledge and awareness of guidelines for the management
+of patients with chronic urticaria is low in physicians
+who treat them. This may be responsible, at least in part,
+for the fact that more than 70% of the patients had
+stopped consulting a physician, resigning themselves to
+self-treatment or simply living with their condition [8].
+
+As of now, little is known about the knowledge of
+urticaria guidelines in physicians in Latin America
+who treat urticaria patients or about their clinical
+practice and the impact of guidelines. Our study
+intended to explore the awareness and knowledge of
+urticaria guidelines in physicians in Ecuador and to
+better characterize and understand the actual clinical
+practice for CsU.
+
+Methods
+
+From March 2015 to March 2016 we conducted a crosssectional survey study using a standardized questionnaire. This was approved by the Ethics Committee of
+Hospital Luis Vernaza.
+
+The participants were physicians, and this survey covered several topics about CsU: general questions about
+urticaria (e.g. prevalence, duration, and disease activity),
+questions about the diagnostic and therapeutic management of CsU as well as consequences of insufficient
+symptom control. In addition, questions on how the
+physicians perceive the patients, self-assessment of the
+participating physicians and questions concerning the
+implementation of the current guidelines were also
+addressed.
+
+Recruitment
+
+The target populations were general physicians and specialists from Ecuador attending the Respiratory and Allergy Medicine Conference and physicians working in
+hospitals and private practices in different cities of
+Ecuador. The participation criterion was having a diploma in medicine and being a certified medical doctor.
+When a candidate was identified, we asked if he/she
+often sees patients with urticaria. Once agreed, the data
+collection team asked for consent and delivered the selfassessment survey.
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+Study survey
+
+The original survey questions were previously developed
+by an expert panel from Germany. It has been successfully pretested for comprehensibility and feasibility in a
+limited number of physicians (1 = 32). We used a rigorous method of validation for the translated version of
+the German questionnaire [1, 9] which we briefly
+described. Two official translators translated the German
+version (GV) of the original survey to Spanish. Next, the
+Spanish-language version was translated to German language by a third translator who did not know the
+original version of the questionnaire. Then, the backtranslated German version of the new Spanish-language
+questionnaire was compared with the original Germanlanguage version. Each item on the back-translated
+German-language version was ranked by 30 individuals
+who were bilingual and independent of the study team
+for comparability and similarity of interpretability with
+the same item on the original German-language version.
+Any translated item with a mean score >3 (seven was
+the worst agreement and one was the best agreement)
+was formally reviewed and corrected. The revised item
+was then translated back to German and compared
+again with the original German-language version of that
+item. This process continued until the mean scores for
+each item indicated a valid version (<3 on each of the
+comparability and interpretability rankings, and preferably <2.5 on the interpretability rankings) [9].
+
+In total, the survey consisted of 32 questions, mostly
+involving Likert-scale ratings, quantitative questions,
+yes / no lists and multiple choice questions (the
+complete survey can be provided upon request). Only
+physicians who reported attending at least one patient
+at month with idiopathic chronic urticaria were considered for analysis. Also, the outliers values of patients
+reported to be attended with chronic urticaria at last
+month were excluded of analysis (1 = 31, 6.6%). After
+that, the values left blank automatically were treated as
+missing values, in total, 7.3% of data were missed.
+Further missing value analysis determined that these
+missing values were random.
+
+Statistical analysis
+
+Descriptive statistics were employed to compare frequencies and percentages values are given as means and
+standard deviation (SD), unless specified otherwise. We
+used Chi square test to compare proportions across specialty groups (allergists/dermatologist, general physician,
+internal medicine, pediatrician, and others) and between
+physicians who do or do not know the EAACI/
+GA°’LEN/EDE/WAO guideline for the management of
+urticaria. Finally, adjusted logistic regression was performed to test the association of guideline knowledge
+and use of second line therapy for confounders
+
+Page 3 of 10
+
+(physicians’ specialty and location, years in practice, and
+gender. SPSS version 20 (SPSS, Inc, Chicago, IL) was
+employed. A p value of less than 0.05 was considered
+significant for all tests.
+
+Results
+
+Demographics
+
+From March 2015 to March 2016, a total of 740 surveys
+were collected, and 438 (59.2%) of physicians reported
+attending at least one patient with idiopathic chronic urticaria. The mean age of the physicians was 42.3 (+12.5)
+years, an average of 15.0 years of practice (411.2), and
+51.5% were female. The majority of the participants
+(65.1%) were general physicians (GP), 13.7% were pediatricians, 11.0% internists, 6.8% dermatologists or allergists (D/A), and 3.4% belonged to other professional
+groups (Table 1). Most of the physicians (81.1%) worked
+in urban areas and 47.0% were working as single practice
+physicians. Pediatricians reported to see 5.3 (SD 5.1)
+patients with CsU compared to 15.8 (SD 9.6) patients
+with atopic dermatitis per month.
+
+Few physicians know the EAACI/GA7LEN/EDF/WAO
+urticaria guideline
+
+Only 79 of 421 (18.8%) physicians reported to know the
+EAACI/GA?LEN/EDE/WAO urticaria guideline, and
+more than half of them (66.7%) were D/As (Additional
+file 1: Figure $1). 60 of 419 (14.3%) physicians surveyed
+reported that they know other guidelines (Additional
+file 2: Figure S2).
+
+Chronic spontaneous urticaria is a frequent diagnosis
+
+In general, physicians attended a mean of 4.7 patients
+with CsU per month (SD 4.4, median 3.0, IQR 2 — 6).
+GPs responded that they see approximately 4.8 patients
+with CsU per month (SD 4.5). D/As reported that they
+see 4,3 (SD 3.1) patients with CsU per month, as compared to 5.2 (SD 2.8) patients with psoriasis vulgaris. In
+contrast, pediatricians reported to see 5.3 (SD 5.1) patients with CsU compared to 15.8 (SD 9.6) patients with
+atopic dermatitis per month.
+
+CsU patients are subjected to multiple diagnostic tests
+196 physicians (49.4%) reported to look for causes of
+CU. 52.9% of the GPs search for the causes of CsU in
+contrast to 85.0% of the D/As who were aware of guidelines (Fig. la—b). The cause of urticaria was identified
+only in approx. 34.2% of patients and this was similar for
+both GPs and D/As.
+
+The most common diagnostic tests performed were
+total serum IgE (83.5%), differential blood count
+(59.5%), serological tests (56.5%), allergy test (prick test)
+(56.0%), C-reactive protein / erythrocyte sedimentation
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cherrez et al. World Allergy Organization Journal (2017) 10:21 Page 4 of 10
+Table 1 Demographic data according to specialties
+
+GPs A/D Others Ped IM Total
+
+n % n % n % n % n % n %
+Age, mean - SD 38.6 12.1 459 9.3 48.7 10.5 50.0 10.3 50.1 104 423 125
+Male 132 48.2 12 40.0 9 69.2 24 42.1 27 574 204 48.5
+Female 142 518 18 60.0 4 30.8 33 57.9. 20 426 217 S15
+Less than 20 years in practice 207 734 15 50.0 6 40.0 19 BL 18 375 265 60.9
+Between 20 to 30 years in practice 51 18.1 12 40.0 6 40.0 36 60.0 19 39.6 124 285
+More than 30 years in practice 24 85 3 10.0 3 20.0 5 83 11 22.9 46 10.6
+Rural 73 258 1 3.3 0 0.0 4 67 4 8.5 82 18.9
+Urban 210 74.2 29 96.7 As 100.0 56 93.3 43 915 353 81.1
+GPs General Physician, A/D Allergist/Dermatologists, Ped Pediatricians, /M Internal Medicine
+
+a Rates of searching for CsU etiology among physicians knowing
+
+the EAACI/GA2LEN/EDF/WAO guidelines
+
+ 
+
+ 
+
+ 
+
+ 
+
+43.8% 43.2% pu
+ae 33.3% 34.2%
+20%
+0.0%
+0%
+
+GP (n=224) AID (n=10) Others (n=12) Ped (n=38) IM (n=37) Total (n=321)
+
+100,0% mYES =NO
+100%
+85% 86.7%
+80%
+x 66,7% 65,8%
+&
+2 com
+£ 52,9%
+Q 47.1%
+2
+a
+40%
+33,3% 34.2%
+atte 15.0% 13.3%
+[ ad i
+GP (n=34) AID (n=20) Others (n=1) Ped (n=15) IM (n=6) Total (n=76)
+b Rates of searching for CsU etiology among physicians not
+knowing the EAACI/GA2LEN/EDF/WAO guidelines
+100%
+100% mYES =NO
+80%
+ss fo y
+‘c 66.7% 65.8%
+Q 94
+5 60% 56.3% 56.8% Bane
+ae
+o
+g
+£
+a
+
+Fig. 1 a Rates of searching for csU etiology according to specialty among physicians who know the EAACI/GA2LEN/EDF/WAO guidelines, in percentage.
+b Rates of searching for csU etiology according to specialty among physicians who don’t know the EAACI/GA2LEN/EDF/WAO guidelines, in percentage
+
+ 
+
+ 
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+rate (46.5%), autoimmune diagnostic (45.5%), thyroid
+hormones and autoantibodies (34.5%), and autologous
+serum skin test (13.5%).
+
+Important differences were observed in the preference
+for laboratory testing and other specialist consultations
+between groups. The majority of the D/As ordered more
+serological tests in comparison to the GPs (Table 2), and
+there was a similar trend for the diagnostic workup of
+autoimmune diseases, thyroid hormones and autoantibodies, IgE tests, helicobacter tests, dentist consultation
+(p <0.05). However, autologous serum skin test and allergy test (prick test) were similar between all groups
+(Table 2). Diagnostic tests were performed more frequently by physicians who know the EAACI/GA7LEN/
+EDF/WAO guideline (Table 2).
+
+Most physicians do not treat CsU patients according to
+guideline recommendations
+
+The most used first choice symptomatic treatment in previously untreated patients was an oral corticosteroid
+(OCS), by 46.3% of physicians. 40.7% of D/As reported
+having experience with OCS treatment, but only 57.1% are
+convinced that this therapy is useful. Second generation
+antihistamines (sgAHs) were used in approved dose by
+36.8% of physicians as first line treatment; (74.1%) of D/
+
+Page 5 of 10
+
+As, (29.1%) of GPs (28.6% of pediatricians and 37.5% of internists, (p< 0.001, Table 3). First generation antihistamines (fgAHs), at normal doses, were used by 13.9% of the
+respondents as first choice treatment. Meanwhile, fgAHs
+at higher doses were used by 7.0%. Physicians, who were
+familiar with the EAACI/GA?LEN/EDE/WAO guideline,
+were more likely to use higher doses of fgAHs (14.0 vs
+4.8% of those who do not know the guidelines) (p < 0.05,
+Table 3). Despite years of practice, specialties, location,
+and gender, these physicians report using higher doses of
+fgAHs (OR 4.3; CI 1.1-16.4) (Table 4). Pediatricians use
+most frequently (42.9%) fgAHs as first line treatment
+(Table 3). We did not find any statistical differences
+(p> 0.05) according to awareness of guidelines and use
+of normal doses of sgAHs (Table 3).
+
+In approximately one quarter of patients (26.9%, SD
+20.9), the first applied therapy was reported not to be
+successful (D/As 32.6%, GPs 28.6%, Internists 20.8% and
+Pediatricians 21.3%).
+
+Only 12.9% of physicians used sgAHs in higher doses
+as second line treatment, and there is a statistically significant difference between D/A and GPs (51.9 vs. 7.7%;
+p<0.001). Physicians stated that the use of sgAHs in
+normal or higher doses was successful in approximately
+65% of CsU patients (Table 5). Physicians, who were
+
+ 
+
+Table 2 Diagnostic tests for searching CsU etiology and knowledge of the EAACI/GA*LEN/EDF/WAO guideline according to
+
+ 
+
+ 
+
+ 
+
+specialties
+GPs A/D Others Peds IM Total Chi Aware of Not aware of Total Chi
+square guideline guideline square
+n%e n%e nh n% nH % nN % pvalue n % n % n % ~~ pvalue
+
+Differential count of leukocytes 64 55.2 20 741 3 600 17 60.7 15 625 119 595 0495 33 660 83 572 116 59.5 0.277
+Serological tests 56 483 23 85.2 3 600 17 607 14 583 113 565 0.014 30 60.0 80 55.2 110 564 0.553
+CRP/ESR 49 422 18 66.7 2 400 13 464 11 458 93 465 0253 35 70.0 55 379 90 46.2 0.000
+C1 esterase inhibitor 6 52 1 37 0 00 2 7A 2 83 11 55 0910 3 60 8 55 11 56 0898
+Autoimmune disease diagnoses 45 388 19 704 0 0.0 14 500 13 542 91 455 0.007 27 540 64 441 91 467 0.228
+(eg: ANA)
+
+Autologous serum skin test 13112 4 148 0 00 4 143 6 250 27 135 0396 10 200 17 117° 27 138 0.144
+Microbiology analyses 17 147 18 667 1 200 7 250 7 29.2 50 250 0000 18 360 31 214 49 25.1 0.040
+Auto-antibodies and thyroid 38 328 19 704 0 00 5 179 7 292 69 345 0.000 23 460 44 303 67 344 0.044
+hormones
+
+Allergy test (eg: Prick test) 62 534 13 481 2 400 20 714 15 625 112 560 0329 34 680 77 53.1 111 56.9 0.067
+IgE levels 97 83.6 26 963 2 40.0 22 786 20 833 167 83.5 0.032 46 920 117 80.7 163 83.6 0.063
+Low intake of pseudo-allergens 49 42.2 17 630 1 200 9 321 7 292 83 415 0.071 29 580 54 372 83 426 0.010
+Helicobacter test 25 216 16 593 0 00 11 393 6 250 58 290 0001 19 380 37 255 56 28.7 0.093
+Dentistry consultation 2 17 4 148 0 000 00 1 42 7 35 0014 3 60 4 28 7 3.6 0.288
+Instrumental test (eg: 12 103 4 148 0 00 7 250 4 167 27 135 0269 6 120 21 145 27 138 0.661
+ultrasound)
+
+ENT consultation 8 69 7 259 1 200 2 71 4 16.7 22 110 0045 6 120 15 10.3 21 108 0,745
+Others 2 17 2 74.0 00 1 36 3 125 8 40 0130 1 20 6 41 7 3.6 0483
+
+ 
+
+CRP C-reactive Protein, ESR erythrocyte sedimentation rate
+Cherrez et al. World Allergy Organization Journal (2017) 10:21 Page 6 of 10
+
+Table 3 First line symptomatic treatment and knowledge of the EAACI/GA*LEN/EDF/WAO guideline according to specialties
+
+ 
+
+ 
+
+ 
+
+GPs A/D Others Peds IM Total Chi square Aware of Not aware of — Chi square
+guideline guideline
+n % n % n % n % n % n % p value rn % nn % | p value
+fgAHs (normal doses) 9 77 1 37 1 200 12 429 5 208 28 139 0.000 5 10.0 22 15.1 0,369
+fgAHs (highest doses) 9 dd 2 74 0 00 3 107 O 00 14 70 0.578 7 140 7 48 0.029
+sgAHs (normal doses) 34 291 20 741 3 600 8 286 9 375 74 368 0.000 23 460 50 342 0.138
+sgAHs (highest doses) 9 77 14 519 0 00 3 107 0 00 26 129 0.000 14 280 12 82 0,000
+Combination of fgAHs 2 17 0 00 0 OO 1 36 1 42 4 2.0 0.802 1 20 2 14 0.754
+Combination of sgAHs 24 205 1 37 0 00 0 00 7 292 32 159 0.007 2 40 30 205 0.006
+fgAHs plus sgAHS 5 43 1 37 0 00 0 00 0 00 6 3.0 0.650 3 60 3 21 0.162
+fgAHs plus AH2 2 he 2 74 0 00 0 00 0 00 4 2.0 0.261 1 20 3 21 0.981
+sgAHS plus AH2 14 120 2 74 0 00 0 00 3 125 19 95 0.319 1 20 18 123 0,033
+fgAHs plus alk 4 34 1 37 0 O00 1 36 2 83 8 40 0.825 3 60 4 27 0.284
+sgAHs plus alk 6 51 6 222 0 O00 2 711 42 15 75 0.037 9 180 6 4] 0.001
+fgAHs plus AH2 plus alk 2 17 0 00 0 OO 1 36 0 00 3 15 0.789 0 00 3 21 0.307
+sgAHs plus AH2 plus alk 7 60 7 259 0 O00 2 71 0 00 16 80 0.005 9 180 7 48 0.003
+Ciclosporine 8 68 2 74 0 00 2 711 42 13 65 0.958 3 60 8 55 0.890
+Dapsone 3 26 7 259 0 O00 2 71 2 83 14 70 0.001 8 160 6 4] 0.005
+Hydroxychloroquine 1 09 3 #111 0 #00 1 36 0 00 5 25 0.034 2 40 3 21 0451
+Ketotifen 2 1701 37 0 00 0 00 1 42 4 2.0 0.789 1 20 2 14 0.754
+Methotrexate 3 26 6 222 0 00 0 00 0 00 9 45 0.000 8 160 1 07 0,000
+Omalizumab 3 26 4 148 0 00 0 00 0 00 7 35 0.013 6 120 1 0.7 0.000
+Oral cortico-steroids 53 453 11 407 2 400 13 464 14 583 93 463 0.761 20 400 72 493 0.255
+Sulfasalazine 0 00 0 00 0 00 0 00 1 42 1 0.5 0.116 0 00.61 07 0557
+Tricyclic antidepressants 1 09 0 00 0 00 0 00 0 00 1 05 0.949 0 00 1 07 0.557
+Others 0 00 6 222 1 200 1 36 0 00 8 40 0.000 3 60 5 34 0427
+
+ 
+
+fgAHs first generation antihistamines, sgAHs second generation antihistamines, AH-2 anti-H2, ALK anti-leukotriene
+
+Table 4 Adjusted logistic regression (OR) for predicting
+
+prescription of fgAHs (higher doses) and specialty (reference:
+internal medicine), years of practice (reference: <20 years in
+practice), location (reference: rural), gender (reference: female), and
+
+familiar with the EAACI/GA°LEN/EDE/WAO guideline,
+were more likely to use higher doses of sgAHs (28.2 vs
+8.2%, who don’t know the guidelines) (p < 0.001, Table 3).
+We could not find any statistical differences between
+
+oe 2
+awareness of EAACI/GA7LEN/EDF/WAO Guidelines (reference: no) physicians, who were aware of the EAACI/GA°LEN/
+
+ 
+
+EDF/WAO guideline and report the use of sgAHs at
+
+ 
+
+p value OR 95% C1 OR lard d first li d
+GPs 0998 NS NS NS regular doses, an OCS as first line treatment compare
+to those who were not aware of the guideline (p > 0.05)
+NE 0998 NS NS Me (Table 3). With respect to third line therapies, the comOthers 1.000 NS NS NS bination of sgAHs + leukotriene inhibitors is used by
+Pediatrician 0.998 NS NS NS 7.5% of physicians, mostly by A/D (22.2%), and followed
+20 - 30 years of practice 0.338 0.477 105 2170 by pediatricians and GPs (7.1 and 5.1%) (p <0.01). The
+530 years of practice 0699 0641 0.067 6106 combination sgAHs + leukotriene inhibitor + H2 blocker
+Aware‘of guidelines ane 55 ee 1oso( Was used by 8.0% of physicians, and D/As used it more
+frequently (25.9%, p< 0.01). Of the physicians who used
+Male 0550 0608 0202 254 these combinations, 55.9% reported to see good
+Urban 0.035 4259 1.104
+
+16426 outcomes in their patients. Only 3.5% of physicians
+
+ 
+
+fgAHs first generation antihistamines
+
+p value of model: 0.153
+
+Internal medicine, <20 years of practice, not being aware of guidelines, female
+and rural location were references categories in the model
+
+stated that they have experience with omalizumab and
+physicians who know the EAACI/GA7LEN/EDF/WAO
+guideline were more likely to use it (Table 3).
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+Table 5 Perception of satisfactory outcomes and side effects
+according to treatment
+
+ 
+
+ 
+
+Mean SD
+sgAH (normal doses) % of patients with satisfactory 64.7 268
+outcomes
+% of patients without side 421 321
+effects
+% of patients with level of 736 304
+
+collaboration
+
+sgAH (higher doses) % of patients with satisfactory 623 307
+
+outcomes
+
+% of patients without side effects 45.2 322
+
+% of patients with level of 706 316
+collaboration
+
+sSAH + AH2 blocker % of patients with satisfactory 60.2 32.1
+outcomes
+
+% of patients without side effects 503 99.2
+
+% of patients with level of 835 999
+collaboration
+
+sgAH + antileukotrienes % of patients with satisfactory 547 315
+outcomes
+
+% of patients without side effects 52.0 32.7
+
+% of patients with level of 60.9 33.1
+collaboration
+ssAH + AH2 blocker+ — % of patients with satisfactory 559 324
+antileukotrienes outcomes
+
+% of patients without side effects 478 32.5
+
+% of patients with level of 726 303
+collaboration
+
+ 
+
+SgAHs second generation antihistamines, AH-2 anti-H2, ALK anti-leukotriene
+
+Adverse effects of therapy
+
+Physicians reported that no adverse effects were
+observed in 42.1% of patients receiving regular doses of
+sgAHs and in 45.2% treated with higher doses of sgAHs.
+Elevating the doses of sgAHs didn’t appear to result in
+an increase in adverse effect rates (Table 5).
+
+Adherence and quality of life
+
+The most frequent problems that physicians observed in
+their patients following CsU therapy, were reported to
+be in 38.6% adherence, 31.2% somnolence, 13.3% the
+cost of treatment and in 13.0% gastrointestinal symptoms. Physicians also reported that patients, who are
+resistant to treatment, are more vulnerable to have daily
+life problems, such as reduced QoL (40.9% of patients),
+social isolation (27.4%), and occupational disability
+(22.3%). Half of the physicians reported that their patients have an increased psychological burden as a consequence of the disease.
+
+Approximately 50% of physicians responded that they
+need more time than usual for CsU patients and that the
+cost in medications and diagnostic tests for these patients is higher as compared to patients with other
+
+Page 7 of 10
+
+diseases. 62.1% of the physician reported referring patients to urticaria specialists.
+
+Discussion
+
+This study shows that the knowledge of guideline recommendations in physicians who treat urticaria patients
+in Ecuador is low. The diagnostic workup and treatment
+of CsU patients is largely not in line with guideline recommendations in real life practice settings.
+
+The EAACI/GA*LEN/EDF/WAO — guideline _ for
+chronic urticaria has been recently updated [1], but the
+management of CsU varies among different parts of the
+world [1, 10-12]. Given the fact that this survey was
+previously used in Germany [7], we could compare
+results between the two regions and found that
+Ecuadorian physicians have lower awareness of the
+current guideline (33 vs 18%). Less than one quarter
+of GPs know the EAACI/GA*LEN/EDE/WAO guideline, but approximately two thirds of the D/As do.
+Physicians who know the guideline were aware of the
+importance of searching for the cause of CsU and
+this was found in approximately one third of patients.
+Interestingly specialist D/A, who report not to know
+the guidelines, still look for the etiology of CsU in
+their patients. (Fig. la and b).
+
+In the EAACI/GA7LEN/EDE/WAO guideline, only differential blood count and CRP or ESR are recommended
+as routine diagnostic tests for CsU patients [1]. Approximately half of the surveyed physicians don’t follow these
+recommendations. This could increase unnecessarily the
+costs of searching for CsU etiology.
+
+Early studies suggested that almost 40% of the patients previously diagnosed with CsU had circulating
+autoantibodies, which might be implicated in the
+pathogenesis [13, 14].
+
+A recent EAACI taskforce position paper proposed
+that the ‘gold standard’ for autoimmune chronic urticaria diagnosis should be a combination of a positive
+bioassay, positive auto reactivity and a positive immunoassay [15]. In Ecuador, we only have the possibility to do ASST (autologous serum skin test).
+Interestingly, 12.9% of participants use this test, in line
+with guideline recommendations. Notably, those physicians who were familiar with the current guidelines
+were significantly more likely to perform an ASST,
+similar to the results of the previous study [7]. Although the most common diagnostic test performed
+was the determination of total serum IgE (83.5%), ultimately it is not useful in the management of most
+chronic urticaria patients. We believe that, for a great
+number of GPs, chronic urticaria could be synonymous
+with allergy. Therefore, they perform this test and determine the total serum IgE.
+
+ 
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+The prevalence of parasitic infection in Ecuador is
+approximately 65%, especially soil-transmitted helminth
+species [16, 17]. In our country, parasites in the stool are
+not routinely looked for, despite of the high prevalence
+of parasitic infections. Because physicians are aware
+of the high prevalence of parasitic disorders in Ecuador,
+they prefer to treat CsU patients with antiparasitic drugs
+without looking for it.
+
+Our study confirms that CsU severely affects patients’
+quality of life. Acccording to the participating physicians
+of our study, more than 40% of patients have QoL impairment and 50% have psychological burden as a consequence of the disease. These results support the need to
+incorporate in the evaluation of CsU patients an objective diagnostic measure, a survey for example, to assess
+their QoL impairment and to rule out disorders such as
+depression and anxiety.
+
+Therapy of CsU
+
+The EAACI/GA*LEN/EDE/WAO guideline for urticaria
+recommends the use of a regular dosed sgAHs as the
+first line therapy, followed by the use of sgAH in higher
+doses up to four times the regular dose, for those patients who do not respond to first line therapy [1, 10].
+
+In our study, only one third of physicians reported to
+use regular doses of sgAHs as the first line treatment.
+Also, only 12.9% of physicians use sgAHs in higher doses
+and there is a statistic significant difference between D/
+A and GPs (Table 3). Physicians reported that 35% of
+the patients did not respond to this treatment. This contrasts with the results from the previous german study,
+where the majority of physicians reported to use regular
+doses and high doses of sgAHs as first and second line
+therapy, respectively.
+
+Physicians still use fgAHs, particularly pediatricians;
+they probably consider this medication safe. After all,
+some practice parameters continue to recommend them
+{12]. In another study, hydroxyzine was the second most
+frequently prescribed drug, with no difference between
+dermatologists and allergists [18]. This could be the explanation why physicians, who are aware of the EAACI/
+GA°’LEN/EDE/WAO guideline, are more likely to report
+using higher doses of fgAHs. Another possible explanation could be that fgAHs, in Ecuador, cost less than
+sgAHs.
+
+The use of systemic steroids is not recommended as
+the first line therapy [1, 10, 12]; however it is still used
+by a meaningful number of physicians in our study. One
+possible explanation for the preference of steroids could
+be that these physicians have more experience and feel
+confident using them a rather than increasing the doses
+of sgAHs, as recommended in the guideline. Another explanation could be that they believe steroids relieve
+symptoms faster than other drugs. Interestingly, D/A
+
+ 
+
+ 
+
+Page 8 of 10
+
+reported having experience with oral steroids but less
+than half are not convinced that this therapy has been
+useful.
+
+Increasing the dosage up to fourfold of modern second
+generation AH is a relatively new recommendation and
+probably physicians are not confident enough using
+them, because up-dosing antihistamines significantly improved control of pruritus but not of wheal number and
+there are weakness of the studies and the significant heterogeneity [19] or are afraid of possible adverse effects
+with the dosage increase.
+
+On the other hand, systemic steroids are cheaper than
+the fourfold dosage of sgAHs and this difference in costs
+could influence the physician’s decision. We believe all
+this could explain the low use of higher doses of sgAHs
+in our study. Indeed, coverage and payment for healthcare may play an important role in our country. As previously discussed, costs vary among drugs and this may
+influence patient and physicians’ choices. Public hospitals may not cover third line therapy in our country,
+thereby obstructing with physicians’ treatment and
+management.
+
+Differing to the previous German study, we could not
+find a difference between physicians aware vs not aware
+of the EAACI/GA*LEN/EDE/WAO guideline regarding
+the likelihood of using regular dosed fgAHs or systemic
+steroids as a first-and/or second-line treatment. In
+Germany, physicians familiar with the guideline were
+less likely to use them [7].
+
+Similar to the German study, the participants of our
+study reported that high dosing of sgAHs is effective in
+a higher percentage of patients when compared to regular doses [7]. But only few physicians use this approach
+in real life as previously discussed.
+
+As for third line therapy, the use of the combination
+of sgAHs and leukotriene antagonists or H2 blockers
+was reported only by few physicians, and one third of
+them have satisfactory outcomes in their patients
+(Table 5). Pediatricians used montelukast more frequently than other groups, probably because they are familiar with this drug from treating asthma and rhinitis.
+
+In our study only around 15% of physicians have experience with immunosuppressive drugs and omalizumab, D/A being the most experienced group. It is
+interesting that physicians familiar with the EAACI/
+GA°’LEN/EDE/WAO guideline prescribed omalizumab
+more frequently. Omalizumab was approved for CsU in
+2014 in our country. In another study of our group
+about omalizumab for CsU, we found that 77% of patients had a complete or partial response after treatment
+of 3 months; however, 65.4% of patients did not
+complete 3 months of treatment, likely owing to the cost
+of omalizumab and it not being reimbursed by health insurance programs [20].
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+Limitations and strengths of the study
+
+The validity and reliability of the original version of
+the survey had not been reported, but the selection of
+the items was developed using a rigorous method [9].
+The present study did not intend to validate the
+questionnaire. Consequently, face validity and reliability need to be established in a future study. Also, the
+survey-based design may present reporting and recall
+bias.
+
+All results are specific for Ecuador and cannot be
+generalized to other countries in the region given the
+different healthcare systems and government funding,
+changing probably the management of CsU between
+countries.
+
+In our country, patients can be attended at public hospitals, such as hospitals from the Social Security System
+or the Ministry of Health, or private practices for
+consultation. Public hospitals tend to have less time per
+patient, and in the case of chronic urticaria, it is wellknown that physicians need more time with these
+patients for a good consultation (approx.30 min). Consultations of less than 10 min are unacceptable and do
+not allow for adequate patient care [21]. Studies suggest
+approx. 18-20 min per patient should be available to
+satisfy the patient and accomplish quality standards of
+medical consultation and patient care [22, 23].
+
+One group of the surveyed physicians was attending
+medical meetings and conferences; their medical knowledge is more likely to be updated than the surveyed
+group of physicians who do not attend continuing medical education meetings.
+
+Also we cannot compare one to one our results with
+the previous German study, since the distribution of specialties were different. In the German study, most of the
+surveyed physicians were dermatologists (43%) and in
+our study GPs (67.6%). This could explain some differences in the findings. Nevertheless, to the best of our
+knowledge, this is the first study that explores CsU management in Latin-America and compares it with Europe.
+Our results suggest that disparities in knowledge between
+physicians from different countries could influence the
+management of CsU. In a previous study, we reported differences between Latin American and European physicians in the management of asthma and the patientphysician relationship [24]. Another strength of our
+study is the high rate of participants (m = 740), larger
+than the calculated sample size. Also, because of the
+high rate of participating GPs in our study, we could
+identify a relevant lack of knowledge in CsU management among these physicians. The increased diffusion
+of the current guidelines could improve the knowledge
+of diagnostic and therapeutic management for CsU patients and could lead to improved outcomes and better
+patient care.
+
+Page 9 of 10
+
+Conclusion
+
+This study is the first to describe guideline knowledge
+and the real life management of CsU among physicians
+in a Latin-American country. Of note, it showed a low
+awareness of the current EAACI/GA*LEN/EDE/WAO
+guideline; although there is significant number of patients with CsU. It also showed that only a limited number of physicians are using third level medication when
+needed.
+
+Our results suggest that differences in knowledge between physicians from different countries could influence
+the management of CsU and this should be considered
+and confirmed in future studies.
+
+We believe that despite increasing efforts to disseminate knowledge and awareness of chronic urticaria, important information about management does not reach
+the GPs and specialists. Awareness and knowledge of
+chronic urticaria needs to increase especially among
+GPs, because they are often the first physicians to be
+consulted by patients, and the low knowledge of guidelines could influence CsU control and_ treatment,
+delaying the consultation by the specialist.
+
+Additional files
+
+ 
+
+Additional file 1: Figure $1. Awareness of the EAACI/GA2LEN/EDF/
+WAO guidelines according to specialty in percentage. (JPEG 87 kb)
+
+Additional file 2: Figure $2. Awareness of other guidelines about
+management of CsU among all physicians in percentage. (JPEG 89 kb)
+
+ 
+
+Abbreviations
+
+ASST: Autologous serum skin test; CsU: Chronic spontaneous urticaria;
+CU: Chronic urticaria; D/A: Dermatologist/Allergist; fgAHS: First generation
+H1-antihistamines; GP: General physician; OCS: Oral corticosteroids;
+
+QoL: Quality if life; sgAHS: Second generation H1-antihistamines
+
+Acknowledgments
+
+We appreciate the guidance and knowledge imparted by the MECOR
+Program; specially to Sonia Buist, MD and Ana Menezes, MD. Finally, we are
+also very grateful for all the support provided by Karin Plaza, José Alfredo
+Cano, Gabriela Martinetti, and Linda Vera, as well as all members of the
+RespiraLab team, and Mario Vasquez.
+
+Funding
+The study was not funded by any organization.
+
+Availability of data and materials
+All data generated or analyzed during this study are included in this
+published article (and its supplementary information files).
+
+Authors’ contributions
+
+AC, MM, KW, JCC, DSR and ICO designed the study. JCC, DSR, ICO acquired
+the data. All authors interpreted the data, drafted the article, revised it
+critically and approved the final version to be published.
+
+Competing interests
+
+KW reports personal fees from Dr. R. Pfleger, personal fees from Novartis,
+personal fees from UCB, personal fees from Uriach, personal fees from
+MOXIE, personal fees from Essex pharma (now MSD), outside the submitted
+work. K. Weller is or was involved in clinical research projects of Dr. R.
+Pfleger, Essex pharma (now MSD), Faes, Uriach, and Novartis. MM reports
+grants and personal fees from Genentech, personal fees from MSD, personal
+Cherrez et al. World Allergy Organization Journal (2017) 10:21
+
+fees from Moxie, personal fees from Sanofi, grants and personal fees from
+
+Novartis, grants and personal fees from Uriach, grants and personal fees from
+
+FAES, personal fees from Menarini, outside the submitted work.
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent to participate
+The study was approved by Ethics Committee of Hospital Luis Vernaza in
+Guayaquil, Ecuador.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Author details
+
+'Respiralab Research Group, Respiralab, Guayaquil, Ecuador. *School of
+Medicine, University of Heidelberg, Heidelberg, Germany. "Department of
+Dermatology and Allergy, Allergie-Centrum-Charité, Charité —
+Universitatsmedizin Berlin, Berlin, Germany. “School of Medicine, Universidad
+Espiritu Santo, Samborondén, Guayas, Ecuador. °Centro de Investigacién en
+Salud Publica y Epidemiologia Clinica, Facultad de Ciencias de la Salud
+Eugenio Espejo, Universidad Tecnolégica Equinoccial, Quito, Ecuador.
+
+Received: 13 January 2017 Accepted: 7 April 2017
+Published online: 23 May 2017
+
+References
+1. Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW,
+et al. The EAACI/GA2LEN/EDF/WAO guideline for the definition,
+
+classification, diagnosis, and management of urticaria: the 2013 revision and
+
+update. Allergy. 2014;69(7):868-87.
+
+2. Maurer M, Weller K, Bindslev-Jensen C, Giménez-Arnau A, Bousquet PJ,
+Bousquet J, et al. Unmet clinical needs in chronic spontaneous urticaria. A
+GAQ2LEN task force reportl. Allergy. 201 1;66(3):317-30.
+
+3. DeLong LK, Culler SD, Saini SS, Beck LA, Chen SC. Annual direct and indirect
+
+health care costs of chronic idiopathic urticaria: a cost analysis of 50
+nonimmunosuppressed patients. Arch Dermatol. 2008;144(1):35-9.
+
+4, Finlay AY, Khan GK. Dermatology life quality index (DLQ))—a simple practical
+measure for routine clinical use. Clin Exp Dermatol. 1994;19(3):210-6.
+
+5. Beck LA, Bernstein JA, Maurer M. A review of international
+recommendations for the diagnosis and management of chronic urticaria.
+Acta Derm Venereol. 2017;97(2):149-58,
+
+6. Fine LM, Bernstein JA. Urticaria guidelines: consensus and controversies in the
+European and American guidelines. Curr Allergy Asthma Rep. 2015;15(6):1-7.
+
+7. Weller K, Viehmann K, Brautigam M, Krause K, Siebenhaar F, Zuberbier T,
+et al. Management of chronic spontaneous urticaria in real life — in
+accordance with the guidelines? A cross-sectional physician-based survey
+study. J Eur Acad Dermatol Venereol. 2013;27(1):43-50.
+
+8. — Maurer M, Staubach P, Raap U, Richter-Huhn G, Baier-Ebert M, Chapman-Rothe N.
+ATTENTUS, a German online survey of patients with chronic urticaria highlighting
+
+the burden of disease, unmet needs and real-life clinical practice. Br J Dermatol.
+2016;174(4):892-4.
+
+9. Sperber AD. Translation and validation of study instruments for crosscultural research. Gastroenterology. 2004;126:S124-S8.
+
+10. Larenas-Linnemann D, Medina-Avalos M, Ortega-Martell J, Beirana-Palencia
+A, Rojo-Gutiérrez M, Morales-Sanchez M, et al. Mexican guidelines on the
+diagnosis and treatment of urticaria. Rev Alerg Mex (Tecamachalco, Puebla,
+Mexico: 1993). 2013;61:5118-93.
+
+11. Powell RJ, Leech SC, Till S, Huber PAJ, Nasser SM, Clark AT. BSACI guideline
+for the management of chronic urticaria and angioedema. Clin Exp Allergy.
+2015;45(3):547-65.
+
+12. Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, et al. The
+diagnosis and management of acute and chronic urticaria: 2014 update.
+
+J Allergy Clin Immunol. 2014;133(5):1270-7.e66.
+
+13. Grattan C, Francis D, Hide M, Greaves M. Detection of circulating histamine
+releasing autoantibodies with functional properties of anti-lgE in chronic
+urticaria. Clin Exp Allergy. 1991;21(6):695-704.
+
+14. Hide M, Francis DM, Grattan C, Hakimi J, Kochan JP, Greaves MW.
+Autoantibodies against the high-affinity IgE receptor as a cause of
+histamine release in chronic urticaria. N Engl J Med. 1993;328(22):1599-604.
+
+20.
+
+21.
+
+22.
+
+23
+
+24.
+
+Page 10 of 10
+
+Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, et al. EAACI
+taskforce position paper: evidence for autoimmune urticaria and proposal
+for defining diagnostic criteria. Allergy. 2013;68(1):27-36.
+
+Cepon-Robins TJ, Liebert MA, Gildner TE, Urlacher SS, Colehour AM,
+Snodgrass JJ, et al. Soil-transmitted helminth prevalence and infection
+intensity among geographically and economically distinct Shuar
+communities in the Ecuadorian Amazon. J Parasitol. 2014;100(5):598-607.
+Rinne S, Rodas EJ, Galer-Unti R, Glickman N, Glickman LT. Prevalence
+and risk factors for protozoan and nematode infections among children
+in an Ecuadorian highland community. Trans R Soc Trop Med Hyg.
+2005;99(8):585-92.
+
+Ferrer M, Jauregui |, Bartra J, Davila |, Del Cuvillo A, Montoro J, et al.
+Chronic urticaria: do urticaria nonexperts implement treatment
+guidelines? A survey of adherence to published guidelines by nonexperts.
+Br J Dermatol. 2009;160(4):823-7.
+
+Guillén-Aguinaga S, Jauregui Presa |, Aguinaga-Ontoso E, Guillén-Grima F,
+Ferrer M. Updosing nonsedating antihistamines in patients with chronic
+spontaneous urticaria: a systematic review and meta-analysis. Br J Dermatol.
+2016;175(6):1153-65.
+
+Wilches P, Wilches P, Calderon JC, Cherrez A, Cherrez Ojeda |, Omalizumab
+for chronic urticaria in Latin America. World Allergy Organ J. 2016;9(1):36.
+Chen LM, Farwell WR, Jha AK. Primary care visit duration and quality: does
+good care take longer? Arch Intern Med. 2009;169(20):1866-72.
+
+Braddock CH, Snyder L. The doctor will see you shortly. J Gen Intern Med.
+2005;20(11):1057-62.
+
+Migongo AW, Charnigo R, Love MM, Kryscio R, Fleming ST, Pearce KA.
+Factors relating to patient visit time with a physician. Med Decis Making.
+2012;32(1):93-104.
+
+Chérrez Ojeda |, Calderon JC, Mori J, Colombaro D, Braido F, Soria E, et al.
+Patient-physician relationship in the management of asthma: multicentric
+approach in Latin America. J Asthma. 2016;53(7):75 1-60.
+
+ 
+
+ 
+
+Submit your next manuscript to BioMed Central
+and we will help you at every step:
+
+* We accept pre-submission inquiries
+
+* Our selector tool helps you to find the most relevant journal
+¢ We provide round the clock customer support
+
+* Convenient online submission
+
+* Thorough peer review
+
+* Inclusion in PubMed and all major indexing services
+
+* Maximum visibility for your research
+
+Submit your manuscript at
+
+www.biomedcentral.com/submit © BioMed Central
+
+ 
+
+ 
+

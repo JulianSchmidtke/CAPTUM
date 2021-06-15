@@ -1,0 +1,1371 @@
+jdiuosnueyy soulny yduosnueyy soulny jdiuosnueyy soulny
+
+ydiuosnuepy souyny
+
+“» HHS Public Access
+Wa
+
+Author manuscript
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+
+ 
+
+Published in final edited form as:
+Int Arch Allergy Immunol. 2019 ; 179(1): 21-30. doi:10.1159/000496 162.
+
+Effects of an oral CRTH2 antagonist (AZD1981) on eosinophil
+activity and symptoms in chronic spontaneous urticaria
+
+Eric Tyrell Oliver, M.D.':", Kris Chichester’, Kelly Devine’, Patricia Meghan Sterba’, Craig
+Wegner, PhD.2, Becky Marie Vonakis, PhD.’, and Sarbjit Singh Saini, M.D."
+
+‘Division of Allergy and Clinical Immunology, Department of Medicine, Johns Hopkins University
+School of Medicine, Baltimore, MD USA.
+
+2Scientific Partnering and Alliances, IMED Biotech Unit, AstraZeneca, Boston, USA.
+
+Abstract
+
+Background: Approximately 50% of patients with chronic spontaneous urticaria (CSU)
+experience symptoms that are not fully controlled by antihistamines, indicating an unmet clinical
+need.
+
+Objective: To evaluate the effects of the selective CRTh2 antagonist AZD1981 on symptoms and
+targeted leukocytes in adults with persistent CSU despite treatment with Hj- antihistamines.
+
+Methods: We performed a single center, randomized, placebo-controlled study involving adult
+CSU subjects with symptoms despite daily antihistamines. Subjects underwent a 2-week placebo
+run-in, 4 weeks of double-blinded therapy with either AZD1981 40 mg TID or placebo, followed
+by a 2-week placebo washout. The primary objective was the effect of AZD1981 on CSU signs
+and symptoms. Secondary objectives included the effects of AZD1981 on PGD>-induced
+eosinophil shape change, circulating leukocyte subsets, CRTh2 expression on blood leukocytes,
+and total blood leukocyte histamine content.
+
+Results: Twenty-eight subjects were randomized to AZD1981 or placebo, with 26 completing
+the study. Urticaria activity scores declined during the treatment phase for both groups, and were
+significantly reduced in the AZD1981 group at the end of washout. AZD1981 treatment increased
+circulating eosinophils and significantly impaired PGD -mediated eosinophil shape change.
+
+ 
+
+“Corresponding Author: Eric Tyrell Oliver, M.D., Division of Allergy and Clinical Immunology, Department of Medicine, Johns
+Hopkins University School of Medicine, 5501 Hopkins Bayview Circle, Room 2B. 71B, Baltimore, MD 21224, Telephone: (410)
+§50-2129, Fax: (410) 550-2527, eolivel S@jhmi.edu.
+
+~>-Author Contributions
+All authors have read and approved all versions of the manuscript, its content, and its submission.
+7. Supplementary Material
+See Supplementary Materials File
+
+8. Statements
+
+8.2. Statement of Ethics
+
+This study was conducted using the International Conference on Harmonization E6 Guidelines for Good Clinical Practice. All subjects
+gave their written informed consent. Before study initiation, the protocol and the written informed consent documents were approved
+by The Johns Hopkins Hospital Institutional Review Board (NA_00089252).
+
+8.3. Disclosure Statement
+Craig Wegner, PhD was in full-time employment with AstraZeneca during the design, initiation, and conduct of this study. He had no
+role in data collection or analysis. The remaining authors have no other conflicts of interest to declare.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al. Page 2
+
+CRTh2 surface expression rose significantly on blood basophils during active treatment. No
+serious adverse events were observed.
+
+Conclusions: This is the first study to examine the efficacy of a CRTh2 antagonist in
+antihistamine-refractory CSU. AZD1981 treatment was well-tolerated, effectively inhibited PGDmediated eosinophil shape change, shifted numbers of circulating eosinophils, and reduced weekly
+itch scores more than hives during treatment and into washout. Further studies are needed to
+determine whether inhibition of the PGD2/CRTh2 pathway will be an effective treatment for CSU.
+
+Keywords
+basophils; clinical trial; CRTh2; eosinophil; prostaglandin D9; urticaria
+
+ 
+
+2. Introduction
+
+Chronic spontaneous urticaria (CSU) is defined as pruritus and hives occurring daily or
+almost daily for at least 6 weeks without an underlying etiology [1]. Although second
+generation H1- antihistamines are first-line therapy for CSU, 30-50% of patients fail to
+achieve symptom control with antihistamines alone [2-4]. Cyclosporine, sulfasalazine,
+dapsone, plaquenil, and mycophenolate mofetil have been used in more severe cases of
+CSU, but each has the potential for significant toxicities that require frequent laboratory
+monitoring [4, 5]. Omalizumab is approved for antihistamine-refractory CSU by the U.S.
+Food and Drug Administration (FDA) at 150 mg or 300 mg every 4 weeks, and the
+European Medicines Agency (EMA) at 300 mg every 4 weeks. The optimal dose of
+omalizumab is 300 mg every 4 weeks [6, 7], yet 47-66% of patients treated fail to achieve
+complete symptom control (UAS7=0) at this dose[4, 6-8]. The disadvantages of
+omalizumab treatment include the high cost of a biologic agent, the requirement for
+subcutaneous injection in a physician’s office, and the need for an epinephrine auto-injector
+prescription due to the risk of drug-related anaphylaxis of up to 0.2% [9, 10]. Thus, there
+remains a need for safe, affordable, and convenient therapies for antihistamine-refractory
+CSU.
+
+While the pathogenesis of CSU remains unknown, biopsies of CSU skin lesions reveal
+evidence of mast cell degranulation and infiltration by CRTh2-bearing leukocytes which
+include basophils, eosinophils, and Th2 lymphocytes [11]. The endogenous agonist for
+CRTh2 is prostaglandin Dz (PGD2) [12, 13], which is synthesized and released by activated
+mast cells [14-18]. We recently reported that CRTh2 levels were notably decreased on blood
+basophils and eosinophils from CSU subjects as compared to healthy controls [19]. This
+finding is consistent with ongoing in vivo receptor-ligand engagement, leading to CRTh2
+receptor internalization [20, 21].
+
+The cellular effects of CRTh2 activation include shape change, chemotaxis, upregulation of
+CD11b, Th2 cytokine production by Th2 cells and group 2 innate lymphoid cells (ILC2s),
+eosinophil cationic protein (ECP) release by eosinophils, and enhancement of allergeninduced basophil histamine release [21-28]. Animal studies have shown that PGD2
+propagates eosinophil mobilization from bone marrow [29] and mediates eosinophil
+infiltration into the airway and skin [30-33]. PGDp injection into healthy human skin has
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 3
+
+been shown to trigger wheal and flare responses [34, 35]. While the functional role of the
+CRTh2 activation in CSU is unknown, 2 single nucleotide polymorphisms in the CRTh2
+promoter region are associated with antihistamineresistance in CSU [36].
+
+AZD1981 is an oral, potent, selective, reversible antagonist of CRTh2 [37]. Preclinical
+studies have shown that AZD1981 blocks CRTh2-mediated shape change in human
+eosinophils and basophils in vitro, inhibits CRTh2-mediated chemotaxis of human Th2 cells
+and eosinophils, and blocks PGD -mediated eosinophil release from bone marrow in guinea
+pigs [37]. In clinical trials, oral CRTh2 antagonists have reduced esophageal eosinophils in
+eosinophilic esophagitis [38] and provided an improvement in airway function and
+protection against allergen-induced symptoms in patients with allergic rhinoconjunctivitis
+and asthma [39-43]. Here we report the results of the first study to examine the safety and
+efficacy of the selective oral CRTh2 antagonist AZD1981 as add-on therapy to standard
+antihistamines in CSU.
+
+3. Materials and Methods
+3.1 Study Design and Participants
+
+This is a phase II, single-center, randomized, double-blind, placebo-controlled, parallel
+group study which recruited patients with CSU, ages 18 to 65, who remained symptomatic
+despite treatment with standard doses of non-sedating Hrantihistamines (for details of
+inclusion and exclusion criteria, see the Online Supplemental Materials section). This study
+involved a 1- week screening period (days —7 to 0), a 2-week single-blind placebo run-in
+(days | to 14), a 4- week randomized double-blind treatment period (days 15 to 42), and a 2week single-blind placebo washout (days 43 to 56) (Fig. 1).
+
+During the screening and placebo run-in periods, subjects were required to have an in-clinic
+physician-assessed urticaria activity score (UAS) of 2 or greater (range 0-6) and
+demonstrate a UAS over 7 days (UAS7) of => 8. The UAS is a validated measure of CSU
+disease activity which scores the intensity of pruritus (0-3) and number of hives (0-3) with a
+maximum value of 6 [44]. The UAS7 is the sum of the daily average UAS scores (average of
+a.m. and p.m.) for 7 days with a maximum value of 42 [45]. Participants were required to
+show compliance with twice-daily symptom recording in eDiaries throughout the study.
+
+Subjects who met screening and run-in criteria for symptom activity were randomized on
+day 15 in a 1:1 ratio to receive either AZD1981 40 mg TID or matched placebo administered
+orally as 10 mg tablets. This dose was selected based on preclinical PK and PD studies
+comparing BID to TID dosing as well as safety considerations. Throughout the study,
+participants were required to maintain stable doses of their pre-randomization,
+Hrantihistamine treatment. Participants could take diphenhydramine 25 mg up to TID as a
+rescue medication. Subjects who required therapies other than diphenhydramine (e.g.,
+prednisone) to treat disease symptoms were removed from the study.
+
+All research team members were blinded to treatment assignments with the exception of the
+site pharmacists who dispensed the study drug, but did not interact with participants. The
+pharmacists randomized subjects in blocks of 4 to maintain a balanced randomization.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al. Page 4
+
+3.2 Study Endpoints
+
+The primary efficacy endpoint was the change in diary-based clinical symptoms as measured
+by the UAS7 from baseline (placebo run-in, days 8 to 14) to the last week in the treatment
+period (days 36 to 42).
+
+Secondary endpoints included the following: the safety of AZD1981; the pharmacodynamics
+(PD) of AZD1981 through an ex-vivo eosinophil shape change assay; the pharmacokinetics
+of AZD1981 through a serum bioassay; and quality of life benefit as measured by
+Dermatology Life Quality Index (DLQI) questionnaires. Additional efficacy endpoints
+included the change from baseline to the last week of treatment of the following: weekly itch
+severity scores (ISS), weekly score for number of hives, weekly score for the sleep
+interference, rescue medication use, and presence of angioedema. Safety analyses included
+adverse events (AEs), severe AEs (SAEs), laboratory abnormalities, and physical
+examination abnormalities.
+
+Exploratory endpoints were as follows: the change in circulating leukocyte population
+numbers that are targeted by CRTh2 such as blood basophils, eosinophil and lymphocyte
+numbers by automated analysis; the change in basophil histamine release and whole blood
+histamine content; and pruritus-free and hive-free days during the treatment period. For
+details of laboratory experiments, please see the Methods section in this article’s Online
+Supplemental Materials.
+
+3.3. Data Analysis
+
+The analysis of the primary endpoint (change in UAS7 from baseline to week 4) was made
+using pairwise comparisons. The UAS7 obtained 1 week prior to randomization was used as
+the baseline score. The minimally important difference (MID) of the UAS7 for patients with
+CSU is estimated to be 9.5 to 10.5 [45]. The Wilcoxon matched-pairs signed-rank test
+(Prism 7.00) was used for intragroup comparisons between UAS7 values at baseline, the end
+of treatment, and the end of placebo washout. The secondary endpoints were analyzed using
+pairwise comparisons among the 2 study groups. Treatment comparisons of change from
+baseline to week 6 in the weekly ISS and number of hives score was made using the
+Wilcoxon signed-rank test. For missing patient-entered data (ISS and number of hives), the
+preceding recorded observation carried forward. Patient characteristics were analyzed using
+Chi-Square test and 2-sample t test for categorical and continuous variables, respectively.
+Any AEs or SAEs were tabulated by system organ class and preferred term, as well as by
+seriousness, severity, and treatment relatedness and reported by frequency. P values of < .05
+were considered significant.
+
+4. Results
+
+4.1 Subject Characteristics
+
+A total of 38 subjects were consented and 28 subjects were randomized to treatment with
+AZD1981 or placebo. Following randomization, | subject withdrew due to CSU disease
+progression and | subject withdrew due to inability to comply with study visits, leaving 26
+subjects (93%) who completed the study (See the Online Supplemental Materials, Fig. S1).
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 5
+
+Baseline characteristics were similar across treatment groups (Table 1). All CSU subjects
+were taking approved doses of H;-receptor antagonists. No subjects were taking leukotriene
+receptor antagonists (LTRAs), aspirin, or nonsteroidal anti-inflammatory drugs (NSAIDs)
+during the study.
+
+4.2 Patient-reported Outcomes
+
+During the course of the study, UAS7 scores decreased during the treatment phase for both
+active and placebo groups, but reached a significant reduction only in the AZD1981 group at
+the end of washout (Fig. 2). Active treatment had a greater effect on weekly itch severity
+scores (35.9% reduction) than on hives (20.5% reduction, not shown), but only itch was
+significantly reduced at the end of washout compared to baseline (P= .001 vs. P= .33).
+
+This delayed effect raised the possibility of a carry-over effect as has been seen in prior
+studies with CRTh2 antagonists [46]. UAS7 scores also decreased in the placebo group from
+baseline to the end of treatment, but did not reach statistical significance. There was no
+difference in symptom response to AZD1981 based on aspirin/NSAID sensitivity or
+tolerance, baseline laboratory assessments (CRTh2 expression, blood eosinophil percent,
+eosinophil shape change response), baseline UAS scores, or medication compliance. There
+was no significant change in diphenhydramine use, DLQI, angioedema episodes, sleep
+disturbance, emergency room visits, or hive-free days with AZD1981 treatment relative to
+placebo.
+
+Compliance with eDiary entry was high (90%) throughout the study and was similar
+among groups. Of the 14 subjects who completed the study in the AZD1981 arm, | patient
+was excluded from the final data analysis due to a dispensing error which resulted in the
+patient receiving AZD1981 during the washout period. No other dispensing errors occurred.
+One active patient and placebo patient were excluded from symptom analysis due to
+malfunction or loss of eDiary device. Pill counts after each 2 week dispensation were
+performed by the research pharmacists and revealed an overall compliance level of 86.54%
+and 84.79% for active and placebo groups, respectively, during the 4 week randomized
+treatment period.
+
+4.3. Effects on Eosinophil Shape Change
+
+Eosinophil shape change after PGD» stimulation is shown as mean increase in forward
+scatter above vehicle for subjects at randomization, the end of treatment, and the end of
+washout (Fig. 3). At baseline, the ia vitro addition of AZD1981 significantly impaired
+PGD)-mediated eosinophil shape change at 0.1 tM dose (not shown) and 1 uM dose as
+calculated by AUC (Table S1). ia vitro incubation with 1 uM AZD1981 significantly
+decreased the area under the curve (AUC) of PGD2-mediated eosinophil shape at baseline
+(prior to randomization) in both the active and placebo arms (P= .0005 and P= .002,
+respectively).
+
+At the end of the treatment period, ex vivo PGD-induced eosinophil shape change was
+significantly inhibited in the AZD1981-treated group but not in the placebo group (Fig. 3).
+Treatment with oral AZD1981 showed similar impairment in PGD-mediated eosinophil
+shape change to in vitro inhibition with 1 4M AZD1981 performed at baseline. Furthermore,
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 6
+
+peak serum drug levels achieved at end of AZD1981 therapy fell within or above this range
+(Table $2). This inhibitory effect of AZD1981 therapy trended toward baseline at the end of
+washout. In the placebo group, there were no significant changes observed at the end of
+treatment and washout relative to baseline (Table S1B).
+
+4.5. Effects on CRTh2* Leukocyte Percentages in Blood
+
+The functional inhibition of eosinophil shape change observed at the end of AZD1981
+treatment (Fig. 3A) occurred in parallel with a rise in circulating eosinophils at the end of
+treatment (Fig. 4A) that did not reach statistical significance (from 2.49 + 0.37% to 3.5
+
++ 0.70%, P= .08). This rise in circulating eosinophils appeared to reverse at the end of
+washout (2.9 + 0.46%, P= .40), supporting a transient impairment in eosinophil trafficking
+to the skin. Shifts in the percentage of blood basophils did not follow a similar pattern as
+eosinophils in the AZD1981 group, but assessments were limited by the presence of notable
+basopenia in subjects (Fig. 4B). No changes in these parameters were seen in the placebo
+
+group.
+
+4.4 Effects on Basophil Surface Markers and Function
+
+ 
+
+At the end of AZD1981 therapy, levels of CRTh2 surface expression rose significantly on
+blood basophils (P= .03) (Fig. 5A) and trended towards baseline at the end of washout (P=.
+13). Similar changes in basophil CRTh2 expression were not seen in the placebo group (Fig.
+5B) or on blood eosinophils (Fig. 5C and 5D). We did not observe changes in the expression
+levels of other basophil chemoattractant surface receptors, including CCR1, CCR3, or CCR5
+(not shown). There was also no significant change in CD11b expression on basophils or
+eosinophils, or CD203c expression on basophils, which are known to be enhanced after in
+vitro exposure to PGD.[24] We did not observe significant changes in total blood leukocyte
+histamine content, which is a reflection of blood basophil presence, or changes in basophil
+histamine release (Fig. S2). Both of these measures for blood basophils were limited by the
+small numbers of subjects in this study.
+
+4.6 Safety and Tolerability
+
+During the treatment period and follow-up period, no significant safety AEs, CBC, or liver
+function test abnormalities occurred. A total of 9 patients (64.2 %) in the AZD1981 group
+experienced at least one AE compared with 8 patients (66.6 %) in the placebo group (Table
+2). The majority of adverse events were mild and led to no patients withdrawing from the
+study. The most frequently reported adverse events among subjects were infection (5 active
+and 5 placebo).
+
+5. Discussion/Conclusion
+
+This is the first study to examine the safety and efficacy of a CRTh2 antagonist in CSU. For
+this study, we allowed the use of antihistamines as a major goal of this our study was to
+evaluate the use of AZD1981 as an add-on therapy in antihistamine-refractory CSU patients.
+As such, we required all subjects to take a standard dose of H1 antihistamines throughout
+the study. Regardless, all patients continued to have moderate disease despite antihistamine
+use and we excluded subjects whose symptoms were controlled on antihistamines.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 7
+
+With AZD1981 treatment, UAS7 scores decreased during the treatment phase, but reached a
+significant decline from baseline at the end of drug washout. During this same time period,
+AZD1981-treated subjects experienced a 35.9% decline in itch component scores. This
+suggests the possibility of a carry-over effect as has been seen in other diseases targeted by a
+CRTh2 antagonist [46]. In the placebo group, decreases were observed in UAS7 and itch
+scores from baseline to the end of treatment which did not reach statistical significance.
+These findings were confirmed using one-way ANOVA, with significant differences
+(P<0.01) being seen only in the active group for UAS7 and itch. Active treatment had a
+greater effect on weekly itch severity scores than on hive scoring (Fig. 2). However, this
+study failed to meet the primary endpoint (UAS7 decrease > 9.5). There was no significant
+change in DLQL, sleep interference, or in-clinic UAS scoring as a result of this brief 4-week
+treatment period. Rescue medications were rarely taken by our subjects and there was no
+significant impact of AZD1981 treatment on rescue medication use.
+
+Consistent with the in vitro effects of AZD1981 on eosinophil migration, we found marked
+inhibition of ex vivo eosinophil PGD -induced shape change in CSU subjects on active
+therapy (Fig. 3) along with a transient rise in circulating eosinophils (Fig. 4). Both changes
+trended towards baseline during drug washout suggesting a drug-induced effect on
+eosinophils. This suggests that PGD2 may be a central pathway for eosinophil migration to
+the skin. Surprisingly, these changes did not correspond with a significant change in CRTh2
+surface expression on blood eosinophils. Although in vitro PGD2 binding to CRTh2 leads to
+receptor internalization [20, 21], our results suggest that the decrease in eosinophil CRTh2
+observed in CSU subjects compared to healthy controls [19] may not solely reflect CRTh2
+receptor activation by PGD». For instance, in vitro IL-5 stimulation significantly reduces
+human eosinophil CRTh2 expression [20] and it was shown that IL-5 m-RNA and protein
+expression are increased in chronic urticaria lesions [11, 47].
+
+Although eosinophils are a consistent infiltrating cell in urticarial skin biopsies [11, 48],
+their role in CSU disease is unknown. The changes seen in eosinophil shape change and
+circulating eosinophils with CRTh2 antagonism suggest a role for mast cell-derived PGD2 in
+the migration of eosinophils into skin lesions in CSU and contribution to itch. While
+eosinopenia is not a feature of CSU, there is data to suggest overall lower eosinophil counts
+in CSU as compared to healthy controls [49]. In contrast to this study, CRTh2 antagonism in
+subjects with persistent eosinophilic asthma led to reductions in sputum and tissue
+eosinophils and in asthma symptoms, but did not shift peripheral eosinophils counts [43].
+Thus, the effects of PGD2 may be disease and tissue compartment specific.
+
+In support of impairment of PGD2 actions on basophils, levels of CRTh2 surface expression
+rose significantly on blood basophils at the end of AZD1981 therapy (Fig. SA). Unlike
+eosinophils, this finding in basophils supports the hypothesis that the reduced levels of
+basophil CRTh2 expression previously noted in active CSU subjects is due to ongoing
+
+PGD -mediated receptor downregulation [19]. We were limited in the performance of
+additional functional assays of basophil CRTh2 inhibition such as basophil shape change
+due to the basopenia associated with CSU. However, the effects of AZD1981 on basophil
+receptor expression were specific to CRTh2, as we did not observe changes in the expression
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 8
+
+levels of other basophil chemoattractant surface receptors that may also have roles in
+basophil skin recruitment.
+
+Interval improvement in clinical symptoms in CSU patients are reported to occur with rising
+blood basophil numbers [50]. After 4 weeks of AZD1981 treatment, we did not find
+significant changes in the percentage of basophils or a rise in total blood leukocyte histamine
+content. Given the wide variance of this latter measure in CSU disease, we were underpowered to detect basophil number increase based on past experience [51]. In addition, the
+lack of change in other basophil chemoattractant receptors may also explain the lack of
+change in measures of circulating basophils.
+
+The reason for the decrease in itch from AZD1981 therapy is currently unknown.
+Intradermal PGD) injections trigger wheal and flare responses but do not produce immediate
+itching [35]. We did not alter basophil histamine release mediated through the IgE receptor
+or spontaneous histamine release, consistent with past studies that showed that PGD
+enhances antigen mediated basophil histamine release but not that from polyclonal IgE
+receptor crosslinking [52]. Therefore, the improvements in CSU subjects’ itch in our
+AZD1981 trial may be through indirect actions on mast cells and/or basophils.
+
+The late onset of itch reduction in AZD1981 recipients could be the result of reduction in
+eosinophil recruitment to the skin and/or eosinophil-derived granule proteins (EDGPs) that
+contribute to itch pathways. Previous studies have shown that PGD} activation of
+eosinophils triggers ECP release [22]. Thus, it is possible that PGD> may trigger the release
+of other EDGPs. Prior studies have revealed evidence of eosinophil activation CSU,
+specifically the presence of extracellular MBP and ECP in CSU skin lesions and elevated
+levels of ECP and major basic protein (MBP) in the serum of CSU patients despite normal
+peripheral eosinophil counts [53, 54]. MBP produces an immediate erythematous wheal
+when injected intradermally in humans and guinea pigs [55, 56]. Eosinophil MBP and
+eosinophil peroxidase (EPO) were recently shown to trigger histamine release from skinderived mast cells via MrgX2 receptors which are increased in CSU skin mast cells
+compared to healthy controls [57]. Thus, there is a need for additional studies to fully
+understand the consequences of CRTh2 activation on eosinophil EDGP release.
+
+Among the limitations of this study are the small number of subjects, short duration of
+therapy and washout periods, and the lack of skin tissue biopsies to correlate with peripheral
+blood leukocyte findings. In addition, the optimal dose of AZD1981 in CSU is unknown and
+we were limited to the use of a single dose (40 mg TID) in this study. AZD1981 was
+previously studied in allergic asthma at doses ranging from 10 mg BID to 400 mg BID, but
+failed to produce a clinically relevant improvement in lung function in patients with allergic
+asthma on ICS and LABA therapy [58]. This dose was selected based on preclinical PK and
+PD studies comparing BID to TID dosing and safety considerations. While it is possible that
+the use of a higher dose may have achieved the primary endpoint, a higher frequency of liver
+function abnormalities were previously noted in higher doses (400 mg BID) [58]. Despite
+this, we did observe a delayed yet modest reduction of disease activity particularly in itch,
+impairment in eosinophil shape change and potentially migration, and a rise in basophil
+CRTh2 expression, which would suggest that this pathway was inhibited by AZD1981.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al. Page 9
+
+In summary, this is the first study to examine the safety and efficacy of a CRTh2 antagonist
+in antihistamine-refractory CSU. Our findings of AZD1981 support the hypothesis that the
+CRTh2 pathway contributes to the formation of CSU skin lesions and symptoms,
+particularly for eosinophils. AZD1981 was well-tolerated with no significant safety issues.
+AZD1981 appeared to have a delayed positive effect on itch more so than wheals, although
+the study failed to meet the primary endpoint in UAS7 reduction at the dose studied. Given
+these findings, further studies are needed with longer treatment periods and higher dose
+ranges to determine whether inhibition of the PGDz/CRTh2 pathway will be an effective
+treatment for CSU.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+8.1 Acknowledgement
+
+We would like to thank our patients for their participation in this study, Tina Grace who managed our database, and
+Dr. Mark Liu who served as the medical monitor.
+
+8.4. Funding Sources
+This study was an investigator-sponsored study, with funding and clinical supplies from AstraZeneca. AstraZeneca
+had input into the dosing of study drug. AstraZeneca had no involvement in other aspects of study design, data
+
+collection, the analysis or interpretation of the data, the writing of the manuscript or the decision to submit to this
+journal. E.O. was supported in part by an institutional training grant funded by NHLBI (T32HL007534).
+
+6. Appendix
+
+None
+
+Abbreviations used:
+
+AE Adverse event
+
+AUC Area under the curve
+
+BID Two times a day
+
+CBC Complete blood count
+
+CRTh2 Chemoattractant receptor-homologous molecule expressed on Th2
+cells
+
+CSU Chronic spontaneous urticaria
+
+DLQI Dermatology Life Quality Index
+
+ECP Eosinophil cationic protein
+
+eDiary Electronic diary
+
+EDGP Eosinophil-derived granule proteins
+
+EMA European Medicines Agency
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+EPO
+FDA
+fMLP
+HR
+ILC2
+ISS
+LTRA
+Mrgx2
+MBP
+MID
+NSAID
+PGD2
+SAE
+SD
+SEM
+TID
+UAS
+
+UAS7
+
+8.6 References
+
+Page 10
+
+Eosinophil peroxidase
+
+United States Food and Drug Administration
+N-Formyl]-methiony]-leucyl-phenylalanine
+Histamine release
+
+Group 2 innate lymphoid cells
+
+Itch severity score
+
+Leukotriene receptor antagonist
+Mas-related gene X2
+
+Major basic protein
+
+Minimally important difference
+Nonsteroidal anti-inflammatory drug
+Prostaglandin Dy
+
+Serious adverse event
+
+Standard deviation
+
+Standard error of mean
+
+Three times a day
+
+Urticaria activity score
+
+Urticaria activity score over 7 days
+
+(1). Greaves M: Chronic urticaria. J.Allergy Clin.Immunol. 2000; 105: 664-672. [PubMed: 10756214]
+(2). Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica GW, Church MK,
+
+Ensina LF, Gimenez-Arnau A, Godse K, Goncalo M, Grattan C, Hebert J, Hide M, Kaplan A,
+Kapp A, Abdul Latiff AH, Mathelier-Fusade P, Metz M, Nast A, Saini SS, Sanchez-Borges M,
+Schmid- Grendelmeier P, Simons FE, Staubach P, Sussman G, Toubi E, Vena GA, Wedi B, Zhu
+XJ and Maurer M: The EAACI/GA(2) LEN/EDF/WAO Guideline for the definition,
+classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy
+2014; 69: 868-887. [PubMed: 24785199]
+
+(3). Bernstein JA, Lang DM, Khan DA, Craig T, Dreyfus D, Hsieh F, Sheikh J, Weldon D, Zuraw B,
+
+ 
+
+24766875]
+
+Bernstein DI, Blessing-Moore J, Cox L, Nicklas RA, Oppenheimer J, Portnoy JM, Randolph CR,
+Schuller DE, Spector SL, Tilles SA and Wallace D: The diagnosis and management of acute and
+chronic urticaria: 2014 update. J.Allergy Clin.Immunol. 2014; 133: 1270-1277. [PubMed:
+
+(4). Kaplan AP and Popov TA: Biologic agents and the therapy of chronic spontaneous urticaria.
+Curr.Opin. Allergy Clin.Immunol. 2014; 14: 347-353. [PubMed: 24936849]
+
+(5). Morgan M and Khan DA: Therapeutic alternatives for chronic urticaria: an evidence-based review,
+Part 2. Ann.Allergy Asthma Immunol. 2008; 100: 517-26; quiz 526-8, 544. [PubMed:
+
+18592813]
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 11
+
+(6). Maurer M, Rosen K, Hsieh HJ, Saini S, Grattan C, Gimenez-Arnau A, Agarwal S, Doyle R,
+Canvin J, Kaplan A and Casale T: Omalizumab for the treatment of chronic idiopathic or
+spontaneous urticaria. N.Engl.J.Med. 2013; 368: 924-935. [PubMed: 23432142]
+
+(7). Saini SS, Bindslev-Jensen C, Maurer M, Grob JJ, Bulbul Baskan E, Bradley MS, Canvin J,
+Rahmaoui A, Georgiou P, Alpan O, Spector S and Rosen K: Efficacy and Safety of Omalizumab
+in Patients with Chronic Idiopathic/Spontaneous Urticaria Who Remain Symptomatic on H
+Antihistamines: A Randomized, Placebo-Controlled Study. J.Invest.Dermatol. 2014; .
+
+(8). Kaplan A, Ledford D, Ashby M, Canvin J, Zazzali JL, Conner E, Veith J, Kamath N, Staubach P,
+Jakob T, Stirling RG, Kuna P, Berger W, Maurer M and Rosen K: Omalizumab in patients with
+symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy.
+J.Allergy Clin.Immunol. 2013; 132: 101-109. [PubMed: 23810097]
+
+(9). Cox L, Platts-Mills TA, Finegold I, Schwartz LB, Simons FE, Wallace DV, American Academy of
+Allergy, Asthma & Immunology and American College of Allergy, Asthma and Immunology:
+American Academy of Allergy, Asthma & Immunology/American College of Allergy, Asthma
+and Immunology Joint Task Force Report on omalizumab-associated anaphylaxis. J.Allergy
+Clin.Immunol. 2007; 120: 1373-1377. [PubMed: 17996286]
+
+(10). Cox L, Lieberman P, Wallace D, Simons FE, Finegold I, Platts-Mills T and Schwartz L:
+
+American Academy of Allergy, Asthma & Immunology/American College of Allergy, Asthma &
+
+mmunology Omalizumab-Associated Anaphylaxis Joint Task Force follow-up report. J.Allergy
+
+Clin.Immunol. 2011; 128: 210-212. [PubMed: 21531014]
+
+(11). Ying S, Kikuchi Y, Meng Q, Kay AB and Kaplan AP: TH1/TH2 cytokines and inflammatory
+
+cells in skin biopsy specimens from patients with chronic idiopathic urticaria: comparison with
+
+the allergen-induced late-phase cutaneous reaction. J.Allergy Clin.Immunol. 2002; 109: 694-700.
+
+PubMed: 11941321]
+
+(12). Sedej M, Schroder R, Bell K, Platzer W, Vukoja A, Kostenis E, Heinemann A and Waldhoer M:
+
+D-type prostanoid receptor enhances the signaling of chemoattractant receptor-homologous
+
+molecule expressed on T(H)2 cells. J.Allergy Clin.Immunol. 2012; 129: 492-500, 500.¢1—9.
+
+PubMed: 21930295]
+
+(13). Arima M and Fukuda T: Prostaglandin D(2) and T(H)2 inflammation in the pathogenesis of
+
+ronchial asthma. Korean J.Intern.Med. 2011; 26: 8-18. [PubMed: 21437156]
+
+(14). Benyon RC, Robinson C and Church MK: Differential release of histamine and eicosanoids from
+
+uman skin mast cells activated by IgE-dependent and non-immunological stimuli.
+
+BrJ.Pharmacol. 1989; 97: 898-904.
+
+(15). Dahlen SE and Kumlin M: Monitoring mast cell activation by prostaglandin D2 in vivo. Thorax
+
+2004; 59: 453-455. [PubMed: 15170020]
+
+(16). Nantel F, Fong C, Lamontagne S, Wright DH, Giaid A, Desrosiers M, Metters KM, O’Neill GP
+
+and Gervais FG: Expression of prostaglandin D synthase and the prostaglandin D2 receptors DP
+
+and CRTH2 in human nasal mucosa. Prostaglandins Other Lipid Mediat. 2004; 73: 87-101.
+
+[PubMed: 15165034]
+
+(17). Urade Y, Eguchi N, Aritake K and Hayaishi O: Functional analyses of lipocalin-type and
+
+hematopoietic prostaglandin D synthases. Nihon Yakurigaku Zasshi. 2004; 123: 5—13. [PubMed:
+
+14695453]
+
+(18). Urade Y and Eguchi N: Lipocalin-type and hematopoietic prostaglandin D synthases as a novel
+
+example of functional convergence. Prostaglandins Other Lipid Mediat. 2002; 68-69: 375-382.
+
+(19). Oliver ET, Sterba PM, Devine K, Vonakis BM and Saini SS: Altered expression of
+chemoattractant receptor-homologous molecule expressed on T(H)2 cells on blood basophils and
+eosinophils in patients with chronic spontaneous urticaria. J.Allergy Clin.Immunol. 2016; 137:
+304-306. [PubMed: 26194547]
+
+(20). Hamada K, Yamada Y, Kamada Y, Ueki S, Yamaguchi K, Oyamada H, Fujita M, Usami A, Chiba
+T, Kanda A, Kayaba H and Chihara J: Prostaglandin D2 and interleukin-5 reduce CRTH2 surface
+expression on human eosinophils. Allergology international : official journal of the Japanese
+Society of Allergology 2004; 53: 179-184.
+
+(21). Xue L, Salimi M, Panse I, Mjosberg JM, McKenzie AN, Spits H, Klenerman P and Ogg G:
+Prostaglandin D2 activates group 2 innate lymphoid cells through chemoattractant receptor
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+(22).
+
+(23).
+
+(24).
+
+(25).
+
+(26).
+
+(27).
+
+(28).
+
+(29).
+
+(30).
+
+(31).
+
+(32).
+
+(33).
+
+(34).
+
+(35).
+
+(36).
+
+(37).
+
+Page 12
+
+omologous molecule expressed on TH2 cells. J.Allergy Clin.Immunol. 2014; 133: 1184-1194.
+PubMed: 24388011]
+Gervais FG, Cruz RP, Chateauneuf A, Gale S, Sawyer N, Nantel F, Metters KM and O'neill GP:
+Selective modulation of chemokinesis, degranulation, and apoptosis in eosinophils through the
+PGD2 receptors CRTH2 and DP. J.Allergy Clin.Immunol. 2001; 108: 982-988. [PubMed:
+1742277]
+Hirai H, Tanaka K, Yoshie O, Ogawa K, Kenmotsu K, Takamori Y, Ichimasa M, Sugamura K,
+Nakamura M, Takano S and Nagata K: Prostaglandin D2 selectively induces chemotaxis in T
+elper type 2 cells, eosinophils, and basophils via seven-transmembrane receptor CRTH2.
+-Exp.Med. 2001; 193: 255-261. [PubMed: 11208866]
+
+Monneret G, Boumiza R, Gravel S, Cossette C, Bienvenu J, Rokach J and Powell WS: Effects of
+prostaglandin D(2) and 5-lipoxygenase products on the expression of CD203c and CD11b by
+asophils. J.Pharmacol.Exp.Ther. 2005; 312: 627-634. [PubMed: 15388786]
+
+Kostenis E and Ulven T: Emerging roles of DP and CRTH2 in allergic inflammation. Trends
+Mol.Med. 2006; 12: 148-158. [PubMed: 16545607]
+
+Townley RG and Agrawal S: CRTH2 antagonists in the treatment of allergic responses involving
+TH2 cells, basophils, and eosinophils. Ann.Allergy Asthma Immunol. 2012; 109: 365-374.
+[PubMed: 23176872]
+
+Kupezyk M and Kuna P: Targeting the PGD2/CRTH2/DP1 Signaling Pathway in Asthma and
+Allergic Disease: Current Status and Future Perspectives. Drugs 2017; 77: 1281-1294. [PubMed:
+28612233]
+
+Charlesworth EN, Hood AF, Soter NA, Kagey-Sobotka A, Norman PS and Lichtenstein LM:
+Cutaneous late-phase response to allergen. Mediator release and inflammatory cell infiltration.
+J.Clin. Invest. 1989; 83: 1519-1526. [PubMed: 2468688]
+
+Heinemann A, Schuligoi R, Sabroe I, Hartnell A and Peskar BA: Delta 12-prostaglandin J2, a
+plasma metabolite of prostaglandin D2, causes eosinophil mobilization from the bone marrow
+and primes eosinophils for chemotaxis. J.Immunol. 2003; 170: 4752-4758. [PubMed: 12707356]
+Satoh T, Moroi R, Aritake K, Urade Y, Kanai Y, Sumi K, Yokozeki H, Hirai H, Nagata K, Hara T,
+Utsuyama M, Hirokawa K, Sugamura K, Nishioka K and Nakamura M: Prostaglandin D2 plays
+an essential role in chronic allergic inflammation of the skin via CRTH2 receptor. J.Immunol.
+2006; 177: 2621-2629. [PubMed: 16888024]
+
+Spik I, Brenuchon C, Angeli V, Staumont D, Fleury S, Capron M, Trottein F and Dombrowicz D:
+Activation of the prostaglandin D2 receptor DP2/CRTH2 increases allergic inflammation in
+mouse. J.Immunol. 2005; 174: 3703-3708. [PubMed: 15749909]
+
+Shiraishi Y, Asano K, Nakajima T, Oguma T, Suzuki Y, Shiomi T, Sayama K, Niimi K, Wakaki
+M, Kagyo J, Ikeda E, Hirai H, Yamaguchi K and Ishizaka A: Prostaglandin D2-induced
+eosinophilic airway inflammation is mediated by CRTH2 receptor. J.Pharmacol.Exp.Ther. 2005;
+312: 954-960. [PubMed: 15528449]
+
+Almishri W, Cossette C, Rokach J, Martin JG, Hamid Q and Powell WS: Effects of prostaglandin
+D2, 15-deoxy-Deltal2,14-prostaglandin J2, and selective DP1 and DP2 receptor agonists on
+pulmonary infiltration of eosinophils in Brown Norway rats. J.Pharmacol.Exp.Ther. 2005; 313:
+64-69. [PubMed: 15590767]
+
+Soter NA, Lewis RA, Corey EJ and Austen KF: Local effects of synthetic leukotrienes (LTC4,
+LTD4, LTE4, and LTB4) in human skin. J.Invest.Dermatol. 1983; 80: 115-119. [PubMed:
+6296237]
+
+Beasley R, Hovel C, Mani R, Robinson C, Varley J and Holgate ST: Comparative vascular effects
+of histamine, prostaglandin (PG) D2 and its metabolite 9 alpha,11 beta-PGF2 in human skin.
+Clin.Allergy 1988; 18: 619-627. [PubMed: 3242978]
+
+Palikhe NS, Kim SH, Ye YM, Hur GY, Cho BY and Park HS: Association of CRTH2 gene
+polymorphisms with the required dose of antihistamines in patients with chronic urticaria.
+Pharmacogenomics 2009; 10: 375-383. [PubMed: 19290788]
+
+Schmidt JA, Bell FM, Akam E, Marshall C, Dainty [A, Heinemann A, Dougall IG, Bonnert RV
+and Sargent CA: Biochemical and pharmacological characterization of AZD1981, an orally
+
+ 
+
+ 
+
+ 
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+Page 13
+
+available selective DP2 antagonist in clinical development for asthma. Br.J.Pharmacol. 2013;
+
+68: 1626-1638. [PubMed: 23146091]
+
+(38). Straumann A, Hoesli S, Bussmann C, Stuck M, Perkins M, Collins LP, Payton M, Pettipher R,
+
+Hunter M, Steiner J and Simon HU: Anti-eosinophil activity and clinical efficacy of the CRTH2
+
+antagonist OC000459 in eosinophilic esophagitis. Allergy 2013; 68: 375-385. [PubMed:
+
+23379537]
+
+(39). Horak F, Zieglmayer P, ZiegImayer R, Lemell P, Collins LP, Hunter MG, Steiner J, Lewis T,
+
+Payton MA, Perkins CM and Pettipher R: The CRTH2 antagonist OC000459 reduces nasal and
+
+ocular symptoms in allergic subjects exposed to grass pollen, a randomised, placebo-controlled,
+
+double-blind trial. Allergy 2012; 67: 1572-1579. [PubMed: 23025511]
+
+(40). Barnes N, Pavord I, Chuchalin A, Bell J, Hunter M, Lewis T, Parker D, Payton M, Collins LP,
+
+Pettipher R, Steiner J and Perkins CM: A randomized, double-blind, placebo-controlled study of
+
+the CRTH2 antagonist OC000459 in moderate persistent asthma. Clin.Exp.Allergy 2012; 42: 38—
+
+48. [PubMed: 21762224]
+
+(41). Diamant Z, Sidharta PN, Singh D, O’Connor BJ, Zuiker R, Leaker BR, Silkey M and
+
+Dingemanse J: Setipiprant, a selective CRTH2 antagonist, reduces allergen-induced airway
+responses in allergic asthmatics. Clin.Exp.Allergy 2014; 44: 1044-1052. [PubMed: 24964348]
+
+(42). Busse WW, Wenzel SE, Meltzer EO, Kerwin EM, Liu MC, Zhang N, Chon Y, Budelsky AL, Lin
+J and Lin SL: Safety and efficacy of the prostaglandin D2 receptor antagonist AMG 853 in
+asthmatic patients. J.Allergy Clin.Immunol. 2013; 131: 339-345. [PubMed: 23174659]
+
+(43). Gonem S, Berair R, Singapuri A, Hartley R, Laurencin MF, Bacher G, Holzhauer B, Bourne M,
+Mistry V, Pavord ID, Mansur AH, Wardlaw AJ, Siddiqui SH, Kay RA and Brightling CE:
+Fevipiprant, a prostaglandin D2 receptor 2 antagonist, in patients with persistent eosinophilic
+asthma: a single-centre, randomised, double-blind, parallel-group, placebo-controlled trial.
+Lancet Respir.Med. 2016; 4: 699-707. [PubMed: 27503237]
+
+(44). Mlynek A, Zalewska-Janowska A, Martus P, Staubach P, Zuberbier T and Maurer M: How to
+assess disease activity in patients with chronic urticaria? Allergy 2008; 63: 777-780. [PubMed:
+18445192]
+
+(45). Mathias SD, Crosby RD, Zazzali JL, Maurer M and Saini SS: Evaluating the minimally
+important difference of the urticaria activity score and other measures of disease activity in
+patients with chronic idiopathic urticaria. Ann.Allergy Asthma Immunol. 2012; 108: 20-24.
+[PubMed: 22192960]
+
+(46). Horak F, Zieglmayer P, Zieglmayer R, Lemell P, Collins LP, Hunter MG, Steiner J, Lewis T,
+Payton MA, Perkins CM and Pettipher R: The CRTH2 antagonist OC000459 reduces nasal and
+ocular symptoms in allergic subjects exposed to grass pollen, a randomised, placebo-controlled,
+double-blind trial. Allergy 2012; 67: 1572-1579. [PubMed: 23025511]
+
+(47). Kay AB, Clark P, Maurer M and Ying S: Elevations in Th2-initiating cytokines (IL-33, IL-25,
+TSLP) in lesional skin from Chronic Spontaneous (“Idiopathic”) Urticaria. Br.J.Dermatol. 2014; .
+
+(48). Kay AB, Ying S, Ardelean E, Mlynek A, Kita H, Clark P and Maurer M: Elevations in vascular
+markers and eosinophils in chronic spontaneous urticarial weals with low-level persistence in
+uninvolved skin. Br.J.Dermatol. 2014; 171: 505-511. [PubMed: 24665899]
+
+(49). Grattan CE, Dawn G, Gibbs S and Francis DM: Blood basophil numbers in chronic ordinary
+urticaria and healthy controls: diurnal variation, influence of loratadine and prednisolone and
+relationship to disease activity. Clin.Exp.Allergy 2003; 33: 337-341. [PubMed: 12614448]
+
+(50). Oliver ET, Sterba PM and Saini SS: Interval shifts in basophil measures correlate with disease
+activity in chronic spontaneous urticaria. Allergy 2015; 70: 601-603. [PubMed: 25631394]
+
+(51). Saini SS, Omachi TA, Trzaskoma B, Hulter HN, Rosen K, Sterba PM, Courneya JP, Lackey A
+and Chen H: Effect of Omalizumab on Blood Basophil Counts in Patients with Chronic
+Idiopathic/Spontaneous Urticaria. J.Invest.Dermatol. 2017; 137: 958-961. [PubMed: 27939380]
+
+(52). Atkins PC, Schwartz LB, Adkinson NF, von Allmen C, Valenzano M and Zweiman B: In vivo
+antigen-induced cutaneous mediator release: simultaneous comparisons of histamine, tryptase,
+and prostaglandin D2 release and the effect of oral corticosteroid administration. J.Allergy
+Clin.Immunol. 1990; 86: 360-370. [PubMed: 1698845]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+(53).
+
+(54).
+
+(55).
+
+(56).
+
+(57).
+
+(58).
+
+Page 14
+
+Haas N, Motel K and Czarnetzki BM: Comparative immunoreactivity of the eosinophil
+constituents MBP and ECP in different types of urticaria. Arch.Dermatol.Res. 1995; 287: 180—
+185. [PubMed: 7539247]
+
+Peters MS, Schroeter AL, Kephart GM and Gleich GJ: Localization of eosinophil granule major
+basic protein in chronic urticaria. J.Invest.Dermatol. 1983; 81: 39-43. [PubMed: 6345685]
+Gleich GJ, Schroeter AL, Marcoux JP, Sachs MI, O’Connell EJ and Kohler PF: Episodic
+angioedema associated with eosinophilia. N.Engl.J.Med. 1984; 310: 1621-1626. [PubMed:
+6727934]
+
+Plager DA, Davis MD, Andrews AG, Coenen MJ, George TJ, Gleich GJ and Leiferman KM:
+Eosinophil ribonucleases and their cutaneous lesion-forming activity. J. Immunol. 2009; 183:
+4013-4020. [PubMed: 19717523]
+
+Fujisawa D, Kashiwakura J, Kita H, Kikukawa Y, Fujitani Y, Sasaki-Sakamoto T, Kuroda K,
+Nunomura 8, Hayama K, Terui T, Ra C and Okayama Y: Expression of Mas-related gene X2 on
+mast cells is upregulated in the skin of patients with severe chronic urticaria. J.Allergy
+Clin.Immunol. 2014; 134: 622-633.e9. [PubMed: 24954276]
+
+Bateman ED, O’Brien C, Rugman P, Luke S, Ivanov S and Uddin M: Efficacy and safety of the
+CRTh2 antagonist AZD1981 as add-on therapy to inhaled corticosteroids and long-acting beta2agonists in patients with atopic asthma. Drug Des.Devel.Ther. 2018; 12: 1093-1106.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+jdisosnueyy Joujny jdiuosnueyy Joulny jdisosnuey Jouny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+Consent Randomized 1:1
+| 1 week 2 weeks | 4 weeks
+
+Page 15
+
+2 weeks
+
+Washout,
+
+Placebo TID
+
+ 
+
+Run-in, AZD1981 40 mg TID
+Placebo TID or Placebo 40 mg TID
+
+iT 24 at 4's
+t t
+
+ 
+
+# Eosinophil Shape Change; Basophil, Eosinophil CRTh2 Levels; Basophil Histamine Release
+
+* Clinical Visits
+* Safety Labs
+
+Figure 1.
+Study design.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+jdiosnueyy soujny jdiuosnueyy Joulny jdisosnuey Jouny
+
+jdisosnuey souny
+
+Oliver et al. Page 16
+
+A. UAS7 — AZD1981 Group (n=12) B. Itch Scores — AZD1981 Group (n=12)
+
+40 20
+
+30
+
+UAS7
+nN»
+o
+a
+
+a
+
+10
+
+Weekly Itch Scores
+o
+
+ 
+
+0 0
+Baseline End End Baseline End End
+Treatment Washout Treatment Washout
+C. UAS7 — Placebo Group (n=11) D. Itch Scores — Placebo Group (n=11)
+40 20
+
+=
+a
+
+Weekly Itch Scores
+a °
+
+ 
+
+Baseline End End Baseline End End
+Treatment Washout Treatment Washout
+
+Figure 2.
+Effect of AZD1981 therapy and washout on UAS7 and weekly itch scores is shown in upper
+
+panels. Placebo is shown in lower panels. Values are shown as mean + SEM. *P<.05.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al.
+
+A.
+
+Increase in forward scatter above vehicle
+
+AZD1981 Group
+
+“a "@ Baseline
+
+=i Baseline + 1 uM AZD1981
+~_
+
+>
+
+35 End Treatment
+
+End Washout
+30
+
+ 
+
+25
+
+20
+
+15
+
+10
+
+a
+
+°
+
+8 -7.5 7 6.5 -6 -5
+[PGD,] [logy M]
+
+Figure 3.
+
+   
+   
+
+Increase in forward scatter above vehicle
+
+Page 17
+
+a
+2
+°
+©
+og
+()
+Q
+2,
+3
+¢
+ib}
+
+Baseline
+
+Baseline + 1 uM AZD1981
+
+    
+  
+  
+
+40
+
+35
+
+End Treatment
+
+ttt?
+
+ 
+
+End Washout
+30
+
+25
+
+20
+
+15
+
+10
+
+-8 -7.5 -7 “6.5 -6 5
+[PGD,] logy, M]
+
+Effect of AZD1981 therapy on ex vivo eosinophil shape change is shown as net change
+
+(baseline value - no PGD2) for subjects at randomization, the end of treatment, and the end
+of washout. Values are shown as mean + SEM. *P<.05.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+idiuosnueyy soulny yduosnuey soulny diuosnueyy souiny
+
+jdiuosnueyy soulny
+
+Oliver et al. Page 18
+A. Eosinophils B. Basophils
+=@® AZD1981 Group (n=11) =@ AZD1981 Group (n=11)
+5.07 = Placebo Group (n=12) 1.57 =i Placebo Group (n=12)
+4.0
+& Ss 1.0
+‘= 3.0 =
+8 &
+2 °
+ie o
+» 2.0 ©
+° m 0.5
+Ww
+1.0
+
+ 
+
+Baseline End End Baseline End End
+Treatment Washout Treatment Washout
+
+Figure 4.
+
+Chelle numbers of CRTh2* leukocytes based on CBC. Shown is the % of peripheral
+blood (A) eosinophils and (B) basophils at baseline, end of treatment, and washout. Data is
+not shown for 3 active subjects (2 subjects lacked a CBC differential at the end of washout,
+and | subject was administered AZD1981 during the washout period). Values are displayed
+as mean + SEM. *P<.05.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+
+ 
+jdisosnueyy Joujny jdiuosnueyy Joulny jdisosnuey Jouny
+
+jdiuosnueyy soulny
+
+Oliver et al. Page 19
+
+  
+
+A. Basophil CRTh2 Expression — B. Basophil CRTh2 Expression —
+AZD1981 Group Placebo Group
+400 400
+300 300
+bs 200 = 200
+2 2
+100 100
+0 t')
+Baseline End End Baseline End End
+Treatment Washout Treatment Washout
+C. Eosinophil CRTh2 Expression — D. Eosinophil CRTh2 Expression —
+AZD1981 Group Placebo Group
+100 100
+80 80
+i“ 60 i“ 60
+= =
+2 40 2 40
+20 20
+0 0
+Baseline End End Baseline End End
+Treatment Washout Treatment Washout
+
+Figure 5.
+Expression of CRTh2 on blood basophils and eosinophils is shown at baseline, the end of
+
+treatment, and the end of washout. A,B. Upper panels: basophil CRTh2 levels in active (left)
+and placebo recipients. C,D. Lower panels: eosinophil CRTh2 levels in active (left) and
+placebo recipients. Values are shown as mean + SEM. *P<.05.
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+ydiosnueyy Jouny
+
+ydiuosnuepy souyny
+
+Oliver et al. Page 20
+
+TABLE 1.
+
+Characteristics of subjects who completed the study
+
+Active (n=14) Placebo(n=12) P value
+
+Age (years) 41.85 (23-65) 45.17 (23-64) 54
+
+Female (%) 10 (71.4) 10 (83.3) AT
+
+Race/ Ethnicity (%)
+Caucasian 6 (42.9) 4 (33.3) 62
+African American 4 (28.6) 4 (33.3) 79
+Asian 3(21.4) 2(16.7) 61
+Pacific Islander 0 1 (8.3) 31
+More than 1 Race Let) 1 (8.3) 91
+Hispanic 0 0
+
+Baseline Symptom Scores (days 8-14)
+
+UAS7 20.61 22279) 83
+Weekly Itch Scores. 9.71 10.17 81
+Weekly Hives Scores 11.11 12.46 93
+
+Aspirin/NSAID Sensitivity *
+
+Sensitive (%) 6 (42.9) 3 (25) 34
+
+Tolerant (%) 6 (42.9) 9 (75) 10
+
+Unknown (%) 2(14.3) 0(0) AT
+Current Atopy
+
+Allergic Rhinitis 5 (35.7) 2(16.7) 19
+
+Asthma 3(21.4) 0 06
+
+Atopic Dermatitis 1(7.1) 2(16.7) AS
+
+Values are expressed as % or median.
+
+" aspirin/NSAID sensitivity was determined (by patient interview) if a subject reported increased symptoms within 24 hours of taking either an
+aspirin or NSAIDs, which led to avoidance.
+
+Pyalues are based on a X? test for the categorical variables, and based on a 2-sample t test for the continuous variables.
+
+yduosnueyy souny
+
+ydiosnueyy soujny
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+yduosnuey soulny idiuosnueyy souiny diuosnueyy soulny
+
+ydiosnueyy soujny
+
+Oliver et al.
+
+Reported adverse events
+
+Adverse event, n (%)
+
+Headache
+Musculoskeletal
+Infection
+
+Sleep impairment
+Respiratory disorders (non-infectious)
+Gastrointestinal disorders
+Blood disorders
+
+Eye and vision disorders
+Cardiovascular disorders
+Renal disorders
+Reproductive disorders
+Skin or hair disorders
+
+Immunologic disorders
+
+Active (n = 14)
+
+0
+3(21.4)
+5 (35.7)
+107.1)
+0
+5 (35.7)
+0
+0
+1(7.1)
+
+coos
+
+TABLE 2.
+
+Placebo (n = 12)
+
+2 (16.6)
+1 (8.3)
+5(41.7)
+1 (8.3)
+0
+2 (16.6)
+0
+1 (8.3)
+1 (8.3)
+0
+0
+2 (16.6)
+0
+
+P values are based on Chi-Square test for the categorical variables
+
+Int Arch Allergy Immunol. Author manuscript; available in PMC 2020 March 15.
+
+P value
+
+10
+36
+-76
+91
+
+34
+
+.27
+91
+

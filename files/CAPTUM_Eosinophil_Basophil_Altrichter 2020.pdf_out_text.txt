@@ -1,0 +1,812 @@
+Check for
+updates
+
+DR. SABINE ALTRICHTER (Orcid ID : 0000-0001-9955-385X)
+DR. VASILIKI ZAMPELI (Orcid ID : 0000-0002-62 19-1178)
+PROF. MARCUS MAURER (Orcid ID : 0000-0002-4121-481X)
+
+Article type —: Original Article: Atopic Dermatitis, Urticaria and Skin Disease
+
+IgMand IgA in addition to IgG autoantibodiesagainst FcsRla are
+frequent and associated with disease markers of chronic spontaneous
+urticaria
+
+Sabine Altrichter’, Vasiliki Zampeli’, André Ellrich’, Ke Zhang?, Martin K Church‘and
+Marcus Maurer’
+
+‘Dermatological Allergology, Allergie-Centrum-Charité, Dpt. of Dermatology and Allergy,
+Charité- Universitatsmedizin Berlin, Germany
+
+2 Department of Pediatrics, David Geffen School of Medicine at UCLA, Los Angeles, CA
+90095, USA
+
+Short title:
+
+autoantibodies to FceRlain urticaria
+
+Key words: autoantibodies, autoimmunity, chronic spontaneous urticaria, FceRla, IgM
+
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process, which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.1111/ALL.14412
+
+This article is protected by copyright. All rights reserved
+Word count (not including abstracts, figure legends and references): words:3319/3500,
+
+tables: 1, figures: 3, supplemental tables: 2, supplemental figures: 2
+
+Corresponding author
+
+Marcus Maurer, MD, Dpt. of Dermatology and Allergy, Allergie-Centrum-Charité/ECARF,
+Charité-Universitatsmedizin Berlin, Charitéplatz 1 10117 Berlin, Germany
+Tel +49 30 450 518 043, Fax +49 30 450 518 972
+
+email: marcus.maurer@charite.de
+
+Abbreviations
+
+Ab Antibody
+
+ASST Autologous serum skin test
+
+BAT Basophile Activation Test
+
+BHRA Basophil histamine release assay
+CRP C-reactive protein
+
+CSU Chronic Spontaneous Urticaria
+DLQI Dermatology Life Quality Index
+ELISA Enzyme linked immunosorbent assay
+FceRla High-affinity IgE receptor a
+
+MC Mast cell
+
+SD Standard deviation
+
+TSH Thyroid Stimulating Hormone
+UAS Urticaria activity score
+Authorship
+
+Sabine Altrichter has coordinated the study, collected patient data, was involved in
+
+statistical analysis and drafted the manuscript.
+
+Vasiliki Zampeli was involved in manuscript preparation and proof-reading of the
+
+manuscript.
+
+André Ellrich was involved in the statistical analysis and proof-reading of the manuscript.
+
+This article is protected by copyright. All rights reserved
+Ke Zhang performed laboratory tests and was involved in the proof-reading of the
+
+manuscript.
+
+Martin Church was involved in manuscript preparation and proof-reading of the
+
+manuscript
+
+Marcus Maurer was the overall study coordinator and was involved in manuscript
+
+preparation and proof-reading of the manuscript.
+
+Acknowledgement
+
+We want to thank Beate Schinzel for assistance and Gillian Brodie for English proof
+reading.
+
+This study and the development of our report benefitted from the exchange of ideas and
+interactions with the members of the GALEN network of Urticaria Centers of Reference
+
+and Excellence (UCARE; www.ga2len-ucare.com).
+
+Conflict of Interest
+
+All authors have no conflict of interests in relation to this work.
+
+This article is protected by copyright. All rights reserved
+Abstract
+
+Background: IgG-autoantibodiesagainst the high affinity IgE-receptor,FceRla, contribute
+the pathogenesis of autoimmune chronic spontaneous urticaria (CSU). However, it is not
+
+known if such patients also exhibit IgM or IgA autoantibodies against FceRla.
+
+Objectives: To develop an ELISAto assess serum levels of IgG, IgM andlgA
+autoantibodies against FceRla, and to investigateif their presence is linked to clinical
+
+features of CSU including the response to autologous serum skin testing (ASST).
+
+Methods: Serum samples of 35 CSU patients (25 ASST-positive) and 52 healthy
+controlindividuals were analyzed using a newly developed competitive ELISA for IgG,
+
+IgM and IgAautoantibodies to FcsRla.
+
+Results: One in four CSU patients (8/35, 24%) had elevated serum levels of IgG-antiFceRla compared with(3/52, 6%) in healthy controls. More than half of patients had IgM
+(21/35, 60%) and IgA (20/35, 57%) vs (3/52, 5%) each in healthy controls. ElevatedigM,
+but not IgG or IgA autoantibodies, were significantly more frequent in ASST-positive CSU
+patients (18/25, 72%) compared with ASST-negative patients (3/10, 33%, P =0.022).Also,
+elevated levels of IgM-anti-FceRla, but not of IgG or IgA against FceRla, were linked to
+low blood basophil(r = 0.414, P = 0.021) and eosinophil(r = 0.623, P < 0.001) counts.
+
+Conclusions: Increased serum levels of IgM-anti-FceRla are common in patients with
+CSU and linked to features of autoimmune CSU. The role and relevance of
+autoantibodies to FceRla in CSU can and should be further characterized in future
+
+studies, and our novel assay can help with this.
+
+This article is protected by copyright. All rights reserved
+Introduction
+
+Chronic spontaneous urticaria (CSU) is a mast cell—driven skin disease
+characterized by the recurrence of transient wheals, angioedema, or both for more than 6
+weeks.' Mast cell degranulation induced via the high affinity IgE receptor (FceRI) is
+considered to be one of the most frequent initiating factors in CSU.? This is evidenced by
+the effectiveness of omalizumab (anti-IgE) in reducing the symptoms of the disease.? In
+CSU, FceRI-dependent mast cell degranulation may occur in either of two ways. First is
+Type | autoimmunity (aka autoallergy) in which a patient’s IgE is directed to
+autoallergens, such as thyroid peroxidase * and interleukin-24.5: © Second is Type II
+autoimmunity in which autoantibodies to IgE or FceRI, initiate mast cell activation.’”:
+8Beside these well characterized mechanisms further, yet unidentified, serum derived
+
+mast cell activation factors could be involved in the pathomechanism of CSU.%""
+
+The initial suggestion of autoantibodies to IgE or FceRI arose more than 30 years
+ago from the autologous serum skin test (ASST) in which a positive response was the
+development of a wheal at the site of injection of a patient’s own serum. '? Studies by
+Grattan and colleagues identified these autoantibodies of the IgG class.® 13: ‘4 More
+recent studies have indicated them to be IgG, and IgG3, which are able to cause
+degranulation of skin mast cells and activate complement.1518
+
+Whether or not CSU patients exhibit IgM or IgA autoantibodies to FcsRI, is
+presently unknown as immunoblotting assays with purified IgG 182° and ELISAs 5 2" for
+the detection of IgG-anti-FceRI or IgG-anti-IgE are not yet well-established for other
+antibodies. Althougha rapid and specific dot-blot immunoassay to detect autoantibodies
+against FceRla was introduced by Lee and colleagues in 2014,72it is not available for
+routine clinical use.
+
+In this study, we aimed to develop a simple and practical, yet highly specific,
+ELISA test to detect autoantibodies against FceRla in the serum of patients with CSU.
+We did this fortwo reasons.First, wewished to facilitate the identification of CSU patients
+with Type Ilb autoimmune urticaria by providing a test that is suitable foruse in routine
+
+Clinical practice. Second,we wished to analyze the serum of CSU patients for IgM- and
+
+This article is protected by copyright. All rights reserved
+IgA-autoantibodies against FceRla and assess if their presence is linkedto positiveASST
+
+responses, disease activity and other clinical parameters.
+
+Methods
+
+Patients
+
+Serum samples and clinical information was obtained from 35 patients with CSU seen at
+the Urticaria Center of Reference and Excellence (UCARE) at the Department of
+Dermatology and Allergy, Charité—Universitatsmedizin Berlin.2? CSU was diagnosed and
+its severity assessed according to the recent EAACI/GA7LEN/EDF/WAO guideline for
+urticaria 24. Patient blood samples and data were obtained as part of their clinical
+diagnostic workup, and surplus serum from clinical analyses was stored at —80°C until
+used for this study. All patients provided prior informed consent on the use of left-over
+serum as well as their clinical data for research purposes. As all analyses were
+performed retrospectively and anonymously, additional ethics approval was not needed
+or obtained. Patients had not taken systemic steroids and H,-antihistamines in the last
+two weeks and three days before sampling, respectively.
+
+The control group consisted of 52 serum samples from healthy controlswith a
+negative history of chronic urticaria, autoimmune disease, or clinically relevant allergic
+disease. Within this group, a sex- and age-matched healthy subgroup (n=16) was
+analyzed in detail, to rule out differences due to demographics. Clinical characteristics
+and demographics of all patients with CSU and healthy controls are presented in
+
+Supplemental Table S1.
+
+Development of an ELISA-based assay for the detection of antiFceRlaautoantibodies
+
+An ELISA for IgM, IgG and IgA autoantibodies against FceRla was developed and used
+to test sera of patients with CSU and healthy controls. Recombinant soluble FceRla
+expressed from yeast (MyBiosource, San Diego, CA, USA) was coated at 50 ng/ml onto
+96 well microtiter ELISA plates with 0.1 M bicarbonate buffer pH 9.6 overnight at 4°C.
+The plates were blocked with 10% foetal bovine serum (FBS) in phosphate buffered
+saline with 0.1% Tween-20 (PBST) for two hours. CSU and healthy control sera (1:100
+with 10% FBS-PBST) were pre-incubated with FceRla at 100 ng/ml or with respective
+
+This article is protected by copyright. All rights reserved
+volume PBST of for one hour at room temperature. Pre-incubated and mock-incubated
+sera were loaded into the plates in parallel. After two hours of incubation at room
+temperature, the plates were washed with PBST (0.05% Tween-20) three times, followed
+by incubation with appropriately diluted AP-labelled goat-anti-human IgG, IgM or IgA
+(KPL, Gaithersburg, MD, USA) for one hour at room temperature. The plates were
+washed five times prior to adding the blue phosphatase substrates for colorimetric
+development and read with a wavelength of 650 nm. The reduction of signal by preincubation with FceRla was considered to indicate the presence of antibodies to FceRla
+of the respective immunoglobulin group. Since those assays detect the presence of
+autoantibodies (IgG, IgM, IgA) against FceRla via signal differences with and without the
+pre-incubation with soluble FceRla (ratio of signal without and with FceRla), its results are
+largely independent of background signals and lower ratios reflect higher levels of
+autoantibodies (Supplemental Figure 1).
+
+Selected sera were measured repetitively (ten times) to assess the intra-assay variationcoefficient (Supplemental Figure 2). The normal range of assay results was determined
+by the use of healthy control sera. No significant differences between the autoantibodies
+values and ranges were seen when unselected healthy controls or selected age- and
+sex-matched cohorts were analyzed (Supplemental Table 1). The 95% percentile was
+identified to give the best discriminative values (Supplemental Table 2) and set as the
+cut-off for elevated levels of anti-FceRlaautoantibodies. The 95% percentile cut-off values
+set with all healthy controls for IgM were determined at a ratio of 0.50, for IgA at 0.49,
+and for IgG at 0.46.
+
+Routine Laboratory Assessments
+
+Routine laboratory assessments were performed in the central laboratory of the CharitéUniversitatsmedizin Berlin. Routine assessments included C-reactive protein (CRP),
+complete blood count, total serum IgG, IgA, IgM and IgE, electrolyte levels (sodium,
+potassium), laboratory values of the kidney (creatinine, urea) and liver (aspartate
+transaminase, alanine transaminase, gamma-GT), thyroid stimulating hormone (TSH),
+free thyroxine (fT4), free triiodothyronine (fT3), thyroid autoantibodies (anti-TPO, antiTG), and IgG to hepatitis A, B and C. Presence of Helicobacter pylori antigen was
+
+analyzed via PCR in the feces.
+
+This article is protected by copyright. All rights reserved
+Autologous Serum Skin Test (ASST)
+
+The ASST was performed as described previously 2°. Reactions were evaluated after 15
+and 30 minutes andwheal diameter of at least 1.5 mm greater than that of the control
+wheal induced by the saline solution was recorded as positive. Because a higher
+prevalence of IgG-anti-FceRla was expected in ASST-positive patients, CSU patients
+
+were preselected into 25 ASST-positive and 10 ASST-negative patients.
+
+Assessment of urticaria activity and quality of life
+
+Urticaria activity was assessed using the seven-day urticaria activity score (UAS7).
+‘Assessment of disease control over the previous four weeks on signs and symptoms,
+quality of life impairment, efficacy of treatment and overall disease control was performed
+using the urticaria control test (UCT).?° ?”’Quality of life was assessed by the dermatology
+life quality index (DLQI) using the validated “band descriptors” *8as follows: DLQI: 0-1 =
+no effect on patient's life, 2-5 = small effect, 6-10 = moderate effect, 11-20 = very large
+
+effect, 21-30 = extremely large effect.
+
+Statistics
+
+D'Agostino & Pearson omnibus normality test was used to test for normal distribution.
+Parametric data are depicted using mean and standard error of mean values and nonparametric data using median and interquartile (IQR) range.Variation coefficient was
+calculated for repetitive measurements. For the cut-off determination of IgA, IgM and IgG
+the 0.05 percentile of the healthy population was calculated. The cut-offs assessed this
+way resulted in excellent specificity and were close to expert suggestions of a cut-off of
+0.5, and therefore considered best practice for the analysis.Binominal variables were
+analyzed using Chi-square test. Parametric variables were compared using the unpaired
+t test. Non-parametric continuous variables were compared using the Mann-Whitney test.
+Correlations between two continuous variables were calculated using Spearman's rank
+
+correlation coefficient. P < 0.05 was considered to indicate statistical significance.
+
+Results
+
+This article is protected by copyright. All rights reserved
+CSU patients have elevated levels of IgG, IgM, and IgAautoantibodies against
+FeeRla
+
+Of 35 patients with CSU, 8 (24%) had elevated serum levels of IgG autoantibodies
+against FceRla (IgG-anti-FceRla), compared with 6% of the healthy control group (P =
+0.037, Table 1). Among all tested sera, IgG-anti-FceRla levels, on average, were
+comparable in CSU patients and healthy subjects (CSU median 0.82 [IQR 0.48 - 1.02] vs
+healthy median 0.79 [IQR 0.67 - 1.01], P = 0.661).
+
+More than half of the CSU patients analyzed, 60% and 57%, respectively, had
+elevated IgM antibodies and IgA antibodies against FceRla as compared to 5 % each of
+healthy controls. The CSU patient cohort also had significantly higher average levels of
+IgM-anti-FceRI and IgA-anti-FcsRI (as reflected by lower ratios) compared with healthy
+controls (P < 0.001, Table 1).
+
+Only four CSU patients (11%) did not have elevated levels of antiFceRlaautoantibodies of any subclass, and two patients (6%) were positive for all three
+subclasses. Six of the eight IgG-anti-FceRla-positive patients also had elevated levels of
+antibodies of other subclasses (IgM: n=3; IgA: n=5). A large proportion of CSU patients
+(n=12; 35%) had both, elevated IgM and IgA antibodies against FceRla(Figure 1).
+
+Across all sera tested (CSU patients and healthy control subjects), IgG-antiFceRla levels correlated weakly but significantly with IgA-anti-FceRla (r = 0.349, P=
+0.001), but not with IgM-anti-FceRla (r = 0.066, P = 0.547). IgM-anti-FceRla and IgA-antiFceRla were also significantly correlated, albeit weakly (r = 0.375, P< 0.001).
+
+In patients with CSU, a positive ASST is linked to elevated levels of IgM against
+FceRla, but not IgG or IgA against FccRla
+
+The analyzed CSU patient cohort contained 25 ASSTpositive (71%) and 10
+ASSTnegative (29%) patients. IgG-anti-FceRla levels were elevated in four of the ASSTpositive (17%) and four of the ASST-negative (40%) patients (P = 0.154, Figure 2a). IgAanti-FceRla antibodies were elevated in about half the patients who were ASST-positive
+(n = 13, 52%) and ASST-negative (n = 6, 60%, p = 0.668) (Figure 2b).In contrast, IgM
+anti-FceRla were elevated significantly more often in ASST-positive patients (n = 18,
+
+This article is protected by copyright. All rights reserved
+72%) compared with ASST-negative patients with CSU (n = 3, 30%; P = 0.022) (Figure
+2c).
+
+In patients with CSU, IgM against FceRla, but not IgG or IgA against FceRIa, is
+linked to basopenia and eosinopenia
+
+The presence of elevated levels of IgM-anti-FceRla, but not lgG-anti-FceRla or IgA-antiFceRla, correlated with low basophil numbers (r = 0.414, P= 0.021). IgM-anti-FceRlapositive CSU patients had significantly lower blood basophil numbers (median 0.02/nl
+[IQR 0.01 - 0.03]) as compared to IgM-anti-FceRla-negative patients (median 0.22/nl
+[IQR 0.13 - 0.32] P=0.0081, see Figure 3a).
+
+The presence of elevated levels of IgM-anti-FceRla also showed a clear
+correlation with the patients’ eosinophil numbers (r = 0.623, P< 0.001). Again, IgM-antiFceRla-positive CSU patients had significantly lower absolute eosinophil numbers
+(median 0.11/nl [IQR 0.04 - 0.15]) compared with IgM-anti-FceRla-negative patients
+(median 0.2/nl [IQR 0.12 - 0.32] P = 0.0016; see Figure 3b). The presence of elevated
+levels of IgG-anti-FceRla or IgA-anti-FceRla was not linked to eosinopenia, and patients
+who were positive for these autoantibodies did not have reduced blood eosinophil
+numbers as compared to patients who were not (data not shown).
+
+A weak, but significant correlation of IgM-anti-FceRla-positivity, but not IgG-antiFceRla-positivity or IgA-anti-FceRla-positivity, was also seen with lymphocyte numbers (r
+= 0.38, P = 0.028).
+
+Indicators of disease activity (UAS7), disease control (UCT) or quality of life
+(DLQI) in our CSU patient cohort were not significantly different or correlated with any of
+the anti-FceRla subclasses tested. There were also no difference or link to other cells
+assessed in the blood count, electrolyte levels, CRP levels, kidney or liver markers,
+thyroid hormones or thyroid autoantibodies or total IgE. Furthermore, IgG, IgM and IgA
+autoantibodies against FceRla were not correlated with total serum IgG, IgM and IgA
+
+levels, respectively.
+
+Discussion
+
+This article is protected by copyright. All rights reserved
+In this study, we present a new method for the detection of autoantibodies against
+FceeRla. To our knowledge, this is the first report to show that CSU patients, in addition to
+having IgG autoantibodies, have IgM and IgA autoantibodies against FceRla. This new
+ELISA-based test is inexpensive and easy to perform, suitable for high through-put
+routine analysis. The assay has proved to be robust in repetitive measurements and
+circumvents the common problem of serum background signals, by using specific
+competitive signal inhibition by soluble FceRla pre-incubation.
+
+IgG autoantibodies against FceRlawere first described in patients with CSU more
+than 20 years ago '8. Despite this, no routine testing of these autoantibodies is currently
+available. Some of the methods used require IgG purification of the serum before
+detecting via Western blot techniques 18: 19: 29-33, which is time-consuming. Using our
+newly developed ELISA, the prevalence of elevated levels of IgG autoantibodies against
+FceRlawas 24% in the analyzed CSU patient sera. These results are in line with many
+other reports in the literature where rates of 25% up to 52% had been reported in CSU
+patients 18, 19, 29-33 |
+
+More interestingly, the majority of our analyzed sera also contained elevated levels
+of IgM (60%) and IgA autoantibodies (57%) to FceRla. Little is known about the
+prevalence and function of IgM and IgA autoantibodies in patients with CSU. Gruber et al.
+34 analyzed the prevalence of IgG and IgM autoantibodies directed against IgE in distinct
+subsets of urticaria, namely CSU and cold urticaria as well as urticaria vasculitis. IgGanti-IgE antibodies were found in 50% of patients with CSU, in 55% of patients with cold
+urticaria, and in 50% of patients with urticarial vasculitis. IgM-anti-IgE antibodies with
+histamine-releasing activity were found exclusively in cold urticaria (22%), but not in
+patients with CSU.
+
+The ASST is a well-established test to investigate serum autoreactivity in patients
+with CSU * and has been associated with IgG antibodies against the FceRla or against
+IgE (Type Ilb autoimmunity) ” 9°. Also, basophil activation tests and basophil histamine
+release tests have been shown to be a good surrogate marker for autoimmunity in CSU ’,
+but are not commonly available as routine analysis and had not been assessed in this
+study cohort. Surprisingly, in our cohort, ASST-positive patients did not show a higher
+
+rate of elevated levels of IgG to FceRlacompared with ASST-negative patients. This
+
+This article is protected by copyright. All rights reserved
+finding is somewhat contradictory those of other groups, who reported up to 6-fold higher
+rates of IgG autoantibodies to FcsRlain ASST-positive patients compared to ASSTnegative CSU patients 29 3°. However, our cohort had overall small numbers, especially in
+the ASST-negative CSU patient group, which limits the interpretation of our results.
+Furthermore, other studies used different methods for IgG antibody detection, which
+might explain, in part, the large differences reported among different studies. In previous
+reports it had been shown that the IgG autoantibodies in urticaria patients belong
+predominately to the IgG1 and IgG3 subtype and, to a lesser extent, IgG4'® 3”, who have
+complement fixing and basophil activation abilities. Asero and colleagues has shown that
+>100kDa serum fractions (that include IgG) are able to degranulate basophils and that at
+least in some cases complement seems essential for histamine-releasing activity of
+serum from patients with CIU%®. In our study we have not further discriminated the IgG
+subtypes or complement fixation ability.
+
+One of the most interesting findings of our study is that elevated levels of IgM-antiFceRla are markedly more common in ASST positive patients (72%) compared with
+ASST negative patients (30%) (Figure 2b).
+
+Antibodies involved in autoimmunity usually belong to the IgG and IgM
+subclasses. In CSU, Grattan et a/. showed that the IgM fraction of three CSU sera led to
+some histamine release from healthy donor basophils, but the specificity of these IgM
+antibodies remains elusive®. To our knowledge, there are no identified IgM
+autoantibodies with known specificity in patients with CSU in the literature. As IgG
+autoantibodies to IgE or to FceRla exist in CSU, the presence of IgM autoantibodies to
+IgE or to FceRIa is feasible and could play a significant role in the pathogenesis of CSU.
+Their presence might explain ASST reactivity in IgG-anti-FceRla and IgG-anti-IgE
+negative CSU patients, especially as there were only a few patients (n=3) who were
+double positive for IgG and IgM autoantibodies.Specific IgM is thought to precede IgG
+formation®°and thus, IgM positive CSU patients might become IgG positive in the course
+of their disease. Longitudinal studies following CSU patients over longer time periods
+assessing IgG or other autoantibodies are currently missing.
+
+Additionally, IgA autoantibodies to FceRla were also frequently elevated (57%) in
+
+our CSU cohort. Of note, all of the 4 patients in our cohort who tested positive for
+
+This article is protected by copyright. All rights reserved
+Helicobacter antigen displayed IgA autoantibodies (data not shown), and five out of eight
+IgA positive patients had IgG antibodies against hepatitis A, but none of the seven IgA
+negative patients, whose serological hepatitis were available (Fisher exact; P = 0.007),
+indicating that present or past gastrointestinal or mucosal associated infections could be
+a trigger for the development of IgA autoantibodies. These autoantibodies showed a
+correlation with IgM autoantibodies, and more than one third (35%) of the CSU patients
+were double positive for both autoantibodies. In contrast to the IgM autoantibody titers,
+there was no significant difference between the ASST positive and negative CSU patient
+cohorts (Fig. 2c)
+
+FcsRla is not only expressed on mast cells, but also on basophils 4° and in some
+inflammatory diseases, also on eosinophils.*': 42 In CSU, basopenia has been shown to
+be correlated with disease activity and is restored upon successful treatment with
+omalizumab.*?: 44 In a subgroup of CSU patients, eosinopenia can also be observed.*5
+Serum-induced basophil activation, which can be observed with many CSU sera
+samples, is thought to be due to autoantibodies against IgE or FceRla, leading to
+basopenia “°. In our study, IgM, but not IgG autoantibodies against FceRla, were
+significantly correlated with basopenia and eosinopenia. IgM, like some IgG subclasses,
+is a complement fixing antibody that can directly activate the complement system with
+subsequent cell destruction,*” possibly leading to the observed low cell count.
+
+In our CSU patient cohort, the presence of autoantibodies of any class was not
+associated with higher disease activity, disease burden or less disease control. It has
+been reported that the presence of IgG autoantibodies against FceRIa is linked to more
+severe symptoms and a poor response to conventional antihistamine therapy, as well as
+a slower response to anti-IgE treatment.’ 2° 48 In a large multicenter trial using this new
+assay for IgG-anti-FceRla determination, along with many other autoimmune markers,
+higher UAS7 scores in autoimmune type II CSU patients were seen, but not in other
+scorings.’ We cannot explainwhy we did not see this correlation in our study but the small
+sample size or the preselection of patients may have been relevant. Of note, there was
+also no correlation with the total serum IgG, IgM or IgA values, which strengthens the
+
+idea that the detected autoantibodies are rather specific.
+
+This article is protected by copyright. All rights reserved
+The overall limitations of this study are the retrospective analysis and the limited
+number of preselected patients from a specialized tertiary care center. Nevertheless, we
+were able to demonstrate, for the first-time, the presence of new immunoglobulin class
+antibodies against FceRla and the association with autoimmune disease features. Further
+limitations are given by the fact that this test assesses the occurrence of the
+autoantibodies, but does not directly answer the question of functional relevance of these
+autoantibodies. Here further studies are needed to prove this.
+
+In conclusion, this study reports a new and easy method for the detection of IgG,
+IgM, and IgA autoantibodies against FceRla. Elevated levels of IgM and IgA class
+autoantibodies against FceRla were more frequent than those of IgG. The detection of
+these new autoantibody classes in CSU and, in the case of IgM, the association with
+Clinical features such as the ASST and basopenia adds to our understanding of the role
+
+of autoantibodies in CSU.
+
+References
+
+1. Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, et al.
+The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis and
+management of urticaria. Allergy 2018;73(7):1393-1414.
+
+2. Kolkhir P, Church MK, Weller K, Metz M, Schmetzer O, Maurer M. Autoimmune
+chronic spontaneous urticaria: What we know and what we do not know. J Allergy Clin
+Immunol 2017;139(6):1772-1781 e1771.
+
+3 Chang TW, Chen C, Lin CJ, Metz M, Church MK, Maurer M. The potential
+pharmacologic mechanisms of omalizumab in patients with chronic spontaneous
+urticaria. J Allergy Clin Immunol 2015;135(2):337-342.
+
+4. Altrichter S, Peter HJ, Pisarevskaja D, Metz M, Martus P, Maurer M. IgE mediated
+autoallergy against thyroid peroxidase--a novel pathomechanism of chronic spontaneous
+urticaria? PLoS One 2011;6(4):e14794.
+
+This article is protected by copyright. All rights reserved
+5. Schmetzer O, Lakin E, Topal FA, Preusse P, Freier D, Church MK, et al. IL-24 is a
+common and specific autoantigen of IgE in chronic spontaneous urticaria. J Allergy Clin
+Immunol 2017:In Press.
+
+6. Lakin E, Church MK, Maurer M, Schmetzer O. On the Lipophilic Nature of
+Autoreactive IgE in Chronic Spontaneous Urticaria. Theranostics 2019;9(3):829-836.
+
+7. Schoepke N, Asero R, Ellrich A, Ferrer M, Gimenez-Arnau A, Grattan CEH, et al.
+Biomarkers and clinical characteristics of autoimmune chronic spontaneous urticaria
+(aiCSU): Results of the PURIST Study. Allergy 2019.
+
+8. Grattan CE, Francis DM, Hide M, Greaves MW. Detection of circulating histamine
+releasing autoantibodies with functional properties of anti-IgE in chronic urticaria. Clin
+Exp Allergy 1991;21(6):695-704.
+
+Of Grattan CE, Hamon CG, Cowan MA, Leeming RJ. Preliminary identification of a
+low molecular weight serological mediator in chronic idiopathic urticaria. Br J Dermatol
+1988;119(2):179-183.
+
+10. Bossi F, Frossi B, Radillo O, Cugno M, Tedeschi A, Riboldi P, et al. Mast cells are
+critically involved in serum-mediated vascular leakage in chronic urticaria beyond highaffinity IgE receptor stimulation. Allergy 201 1;66(12):1538-1545.
+
+11. | Cugno M, Tedeschi A, Frossi B, Bossi F, Marzano AV, Asero R. Detection of LowMolecular-Weight Mast Cell-Activating Factors in Serum From Patients With Chronic
+Spontaneous Urticaria. J Investig Allergol Clin Immunol 2016;26(5):310-313.
+
+12. Grattan CE, Wallington TB, Warin RP, Kennedy CT, Bradfield JW. A serological
+mediator in chronic idiopathic urticaria--a clinical, immunological and histological
+evaluation. Br J Dermatol 1986;114(5):583-590.
+
+13. Grattan CE. Histamine-releasing autoantibodies in chronic urticaria. Skin
+Pharmacol 1991;4 Suppl 1:64-70.
+
+14. Hide M, Francis DM, Grattan CE, Hakimi J, Kochan JP, Greaves MW.
+Autoantibodies against the high-affinity IgE receptor as a cause of histamine release in
+chronic urticaria. N Engl J Med 1993;328(22):1599-1604.
+
+15. | Fiebiger E, Hammerschmid F, Stingl G, Maurer D. Anti-FcepsilonRlalpha
+autoantibodies in autoimmune-mediated disorders. Identification of a structure-function
+relationship. J Clin Invest 1998;101(1):243-251.
+
+This article is protected by copyright. All rights reserved
+16. Konstantinou GN, Asero R, Ferrer M, Knol EF, Maurer M, Raap U, et al. EAACI
+taskforce position paper: evidence for autoimmune urticaria and proposal for defining
+diagnostic criteria. Allergy 2013;68(1):27-36.
+
+17. | Church MK, Kolkhir P, Metz M, Maurer M. The role and relevance of mast cells in
+urticaria. Immunol Rev 2018;282(1):232-247.
+
+18. Fiebiger E, Maurer D, Holub H, Reininger B, Hartmann G, Woisetschlager M, et al.
+Serum IgG autoantibodies directed against the alpha chain of Fc epsilon RI: a selective
+marker and pathogenetic factor for a distinct subset of chronic urticaria patients? J Clin
+Invest 1995;96(6):2606-2612.
+
+19. | Sabroe RA, Fiebiger E, Francis DM, Maurer D, Seed PT, Grattan CE, et al.
+Classification of anti-FcepsilonRI and anti-lgE autoantibodies in chronic idiopathic
+urticaria and correlation with disease severity. J Allergy Clin Immunol 2002;110(3):492499.
+
+20. Kikuchi Y, Kaplan AP. Mechanisms of autoimmune activation of basophils in
+chronic urticaria. J Allergy Clin Immunol 2001;107(6):1056-1062.
+
+21. Zuberbier T, Henz BM, Fiebiger E, Maurer D, Stingl G. Anti-FcepsilonRlalpha
+serum autoantibodies in different subtypes of urticaria. Allergy 2000;55(10):951-954.
+
+22. Lee MF, Lin TM, Liu SW, Chen YH. A rapid method of detecting autoantibody
+against FcepsilonRlalpha for chronic spontaneous urticaria. PLoS One
+2014;9(10):e109565.
+
+23. Maurer M, Metz M, Bindslev-Jensen C, Bousquet J, Canonica GW, Church MK, et
+al. Definition, aims, and implementation of GA(2) LEN Urticaria Centers of Reference and
+Excellence. Allergy 2016;71(8):1210-1218.
+
+24.  Zuberbier T, Aberer W, Asero R, Abdul Latiff AH, Baker D, Ballmer-Weber B, et al.
+The EAACI/GA?LEN/EDF/WAO guideline for the definition, classification, diagnosis and
+management of urticaria. The 2017 revision and update. Allergy 2018;73(7):1393-1414.
+25. Staubach P, Onnen K, Vonend A, Metz M, Siebenhaar F, Tschentscher I, et al.
+Autologous whole blood injections to patients with chronic urticaria and a positive
+autologous serum skin test: a placebo-controlled trial. Dermatology 2006;212(2):150-159.
+26. Weller K, Groffik A, Church MK, Hawro T, Krause K, Metz M, et al. Development
+
+and validation of the Urticaria Control Test: a patient-reported outcome instrument for
+
+This article is protected by copyright. All rights reserved
+assessing urticaria control. J Allergy Clin Immunol 2014;133(5):1365-1372, 1372 e13611366.
+
+27. |Ohanyan T, Schoepke N, Bolukbasi B, Metz M, Hawro T, Zuberbier T, et al.
+Responsiveness and minimal important difference of the urticaria control test. J Allergy
+Clin Immunol 2017;140(6):1710-1713 e1711.
+
+28. Hongbo Y, Thomas CL, Harrison MA, Salek MS, Finlay AY. Translating the
+science of quality of life into practice: What do dermatology life quality index scores
+mean? J Invest Dermato! 2005;125(4):659-664.
+
+29. | Ulambayar B, Chen YH, Ban GY, Lee JH, Jung CG, Yang EM, et al. Detection of
+circulating IgG autoantibody to FcepsilonRlalpha in sera from chronic spontaneous
+urticaria patients. J Microbiol Immunol Infect 2017.
+
+30. Sabroe RA, Seed PT, Francis DM, Barr RM, Black AK, Greaves MW. Chronic
+idiopathic urticaria: comparison of the clinical features of patients with and without antiFcepsilonRI or anti-IgE autoantibodies. J Am Acad Dermatol 1999;40(3):443-450.
+
+31. Ferrer M, Kinet JP, Kaplan AP. Comparative studies of functional and binding
+assays for IgG anti-Fc(epsilon)Rlalpha (alpha-subunit) in chronic urticaria. J Allergy Clin
+Immunol 1998;101(5):672-676.
+
+32. Grattan CE. Autoimmune urticaria. Immunol Allergy Clin North Am
+2004;24(2):163-181, v.
+
+33. | Baioumy SA, Esawy MM, Shabana MA. Assessment of circulating FCepsilonRla in
+Chronic Spontaneous Urticaria patients and its correlation with clinical and immunological
+variables. Immunobiology 2018.
+
+34. Gruber BL, Baeza ML, Marchese MJ, Agnello V, Kaplan AP. Prevalence and
+functional role of anti-lgE autoantibodies in urticarial syndromes. J Invest Dermatol
+1988;90(2):213-217.
+
+35. | Konstantinou GN, Asero R, Maurer M, Sabroe RA, Schmid-Grendelmeier P,
+Grattan CE. EAACI/GA(2)LEN task force consensus report: the autologous serum skin
+test in urticaria. Allergy 2009;64(9):1256-1268.
+
+36. Baioumy SA, Esawy MM, Shabana MA. Assessment of circulating FCepsilonRla in
+Chronic Spontaneous Urticaria patients and its correlation with clinical and immunological
+variables. Immunobiology 2018;223(12):807-811.
+
+This article is protected by copyright. All rights reserved
+37. | Soundararajan S, Kikuchi Y, Joseph K, Kaplan AP. Functional assessment of
+pathogenic IgG subclasses in chronic autoimmune urticaria. J Allergy Clin Immunol
+2005;115(4):815-821.
+
+38. Asero R, Tedeschi A, Lorini M, Salimbeni R, Zanoletti T, Miadonna A. Chronic
+urticaria: novel clinical and serological aspects. Clin Exp Allergy 2001;31(7):1105-1110.
+39. Janeway CAJ, Travers P, Walport M, Shlomchik MJ. Immunobiology. Garland
+Publishing. 2001;5th Edition, ISBN 978-0-8153-3642-6. (via NCBI Bookshelf).
+
+40. Stone KD, Prussin C, Metcalfe DD. IgE, mast cells, basophils, and eosinophils. J
+Allergy Clin Immunol 2010;125(2 Suppl 2):S73-80.
+
+41. | Messingham KN, Holahan HM, Frydman AS, Fullenkamp C, Srikantha R, Fairley
+JA. Human eosinophils express the high affinity IgE receptor, FcepsilonRI, in bullous
+pemphigoid. PLoS One 2014;9(9):e107725.
+
+42. Gounni AS, Lamkhioued B, Delaporte E, Dubost A, Kinet JP, Capron A, et al. The
+high-affinity IgE receptor on eosinophils: from allergy to parasites or from parasites to
+allergy? J Allergy Clin Immunol 1994;94(6 Pt 2):1214-1216.
+
+43. | Ferrer M. Immunological events in chronic spontaneous urticaria. Clin Transl
+Allergy 2015;5:30.
+
+44. Gericke J, Ohanyan T, Church MK, Maurer M, Metz M. Omalizumab may not
+inhibit mast cell and basophil activation in vitro. J Eur Acad Dermatol Venereol
+2015;29(9):1832-1836.
+
+45. Kolkhir P, Church MK, Altrichter S, Stahl Skov P, Hawro T, Frischbutter S, et al.
+Eosinopenia, in chronic spontaneous urticaria, is associated with high disease activity,
+autoimmunity and poor response to treatment J Allergy Clin Immunol Pract 2019;In
+Press.
+
+46. Rauber MM, Pickert J, Holiangu L, Mobs C, Pfutzner W. Functional and
+phenotypic analysis of basophils allows determining distinct subtypes in patients with
+chronic urticaria. Allergy 2017;72(12):1904-1911.
+
+47. Parwaresch MR, Horny HP, Lennert K. Tissue mast cells in health and disease.
+Pathol Res Pract 1985;179(4-5):439-461.
+
+48. Gericke J, Metz M, Ohanyan T, Weller K, Altrichter S, Skov PS, et al. Serum
+autoreactivity predicts time to response to omalizumab therapy in chronic spontaneous
+urticaria. J Allergy Clin Immunol 2017;139(3):1059-1061.
+
+This article is protected by copyright. All rights reserved
+Legends
+
+Table 1: Patients with CSU more frequently display elevated levels of autoantibodies of different subclasses
+against FceRlIa. For IgG-anti-FceRI, IgM-anti-FceRI, and IgA anti-FceRI (all assessed by the use of a
+competitive ELISA), subjects with values below the cut-off of 0.46, 0.59 and 0.49 were considered positive,
+respectively. Rates of patients or healthy controls with elevated autoantibody levels, i.e. values below the
+cut-off, are given in the upper panel, median and interquartile ranges of ratios are shown in the lower panel
+
+of each Ig subclass.
+
+Aabs CSU patients Healthy controls P value
+n=35 n—52
+
+IgG-anti-FceRI«. positive
+Number (%) of patients 8 (24%) 3 (6%) 0.037
+n= 34#
+IgG-anti-FceRIa (ratio)
+median (q1; q3) 0.82 (0.48; 1.02) 0.79 (0.67; 1.01) 0.661
+[range] [0.19 - 1.61] (0.4; 1.37]
+n= 34#
+
+ 
+
+ 
+
+IgM-anti-FceRIa positive
+
+Number (%) of patients 21 (60%) 3 (6%) < 0.001
+IgM-anti-FceRIa (ratio)
+
+median (q1; q3) 0.47 (0.37; 0.98) 0.88 (0.74; 0.99) 0.001
+[range] [0.01 - 1.39] [0.19 - 1.79]
+
+IgA-anti-FceRIa positive
+Number (%) of patients 20 (67%) 3 (6%) < 0.001
+n=5l*
+
+ 
+
+IgA-anti-FceRIa (ratio)
+median (q1; q3) 0.47 (0.24; 0.76) 0.87 (0.74; 1.03) < 0.001
+[range] [0 - 1.77] [0.39 - 1.66]
+
+n=5l*
+
+ 
+
+nis given if not all patients of the group were included.
+ql 25% percentile
+q3 75% percentile
+
+# single sample missing due to a technical problem
+
+This article is protected by copyright. All rights reserved
+Figure 1: Venn diagram of co-occurrence of anti-FceRIa antibodies of the three different
+
+subclasses. Numbers in the graph give the number of single, double or triple positive CS.
+
+Figure 2: Autoantibodies to FceRIa in the ASST positive (n = 24) and ASST negative (n = 10)
+CSU patient subgroups. All three panels of this figure show ratios of individual patients (every dot
+represents one patient). Low ratios reflect high autoantibody titers. In addition, median and
+interquartile ranges are shown for the ASST subgroups for a) IgG-anti-FceRIa, b) IgA antiFceeRIa, c) IgM-anti-FceRla. Cut-offs of the individual assays are depicted as dotted line and areas
+
+of elevated levels are depicted in light gray.
+
+Figure 3: The presence of elevated levels of IgM antibodies against FceRIais linked to low
+basophil (3a) and eosinophil numbers (3b). Ratios of individual patients are displayed as dots,
+median and interquartile ranges are shown for the anti- FceRIa IgM positive (n = 20) and negative
+
+subgroups (n = 11).
+
+This article is protected by copyright. All rights reserved
+ 
+
+icle
+
+all_14412_f1.jpg
+
+Accepted Art
+
+This article is protected by copyright. All rights reserved
+fo) ASST neg
+
+ASST pos
+
+ 
+
+elevated
+
+2.0 1.5 1.0 0.5 0.0
+IgG-anti-FceRla (ratio)
+
+ 
+
+all_14412 f2a.jpg
+
+This article is protected by copyright. All rights reserved
+° ° Si ASST neg
+
+ 
+ 
+ 
+
+¢ BAssT pos
+
+elevated
+
+2.0 1.5 1.0 0.5 0.0
+IgA-anti-FceRla (ratio)
+
+all_14412_f2b.jpg
+
+This article is protected by copyright. All rights reserved
+foie) ASST neg.
+
+@
+@ e@
+@ Pd [e) @ e ASST pos.
+| 1e
+I elevated
+
+ 
+
+2.0 1.5 1.0 0.5 0.0
+IgM-anti-FceRla (ratio)
+
+all_14412_f2cjpg
+
+This article is protected by copyright. All rights reserved
+0.15
+
+0.10
+
+Basophils /nl
+
+0.05
+
+ 
+
+0.00
+
+IgM + IgM 
+all_14412 f3a.jpg
+
+This article is protected by copyright. All rights reserved
+Eosinophils /nl
+
+ 
+
+IgM + IgM 
+all_14412_f3b.jpg
+
+This article is protected by copyright. All rights reserved
+

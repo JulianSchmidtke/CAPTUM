@@ -1,0 +1,1071 @@
+Real-world use of omalizumab in patients with chronic
+idiopathic/spontaneous urticaria in the United States
+
+Jacqueline Eghrari-Sabet, M.D.,' Ellen Sher, M.D.,?2 Abhishek Kavati, Ph.D.,> Dominic Pilon, M.A.,+
+Maryia Zhdanava, M.A.,4 Maria-Magdalena Balp, M.D., MSc.,° Patrick Lefebvre, M.A.,*
+Benjamin Ortiz, MLD., and Jonathan A. Bernstein, M.D.°”
+
+ABSTRACT
+
+Background: Omalizumab was approved for the treatment of chronic idiopathic urticaria (CIU)/chronic spontaneous
+urticaria (CSU) in the United States in March 2014.
+
+Objective: This study sought to describe real-world omalizumab use, in the United States, in a large cohort of patients with
+CIU/CSU.
+
+Methods: Patients with CIU/CSU (ages =12 years) initiated on omalizumab (index date) with =12 months of pre- and
+postindex data were identified in the an insurance claims data base (January 1, 2013, to July 31, 2016). Treatment patterns,
+including the dosing regimen and continuous use of omalizumab (no gaps for =60 days), were described during the 12-month
+postindex follow-up period.
+
+Results: A total of 1546 patients (mean + standard deviation [SD] ages, 44 + 14.5 years; 73.1% women) were identified.
+Most of the patients (84.5%) were initiated on omalizumab 300-mg dose; 90% maintained the initial dose, 7.5% had a dose
+increase, and 4.6% had a dose decrease. The mean + SD omalizumab treatment duration was 9.1 + 3.8 months, the mean +
+SD number of omalizumab administrations was 8.3 + 4.8, and the mean + SD administration frequency was 44 + 29 days.
+A proportion of the patients continuously treated with omalizumab for 6, 9, and 12 months was 67.3, 54.8, and 47.4%,
+respectively. Among the patients who discontinued omalizumab for =3 months (39.8%), 21% restarted the treatment after a
+mean + SD of 4.4 + 1.3 months. The proportion of patients who used other CIU/CSU-related medications decreased pre- to
+postindex (94.8 to 81.1%), with the highest decrease observed in oral corticosteroids (75.7 to 49.9%).
+
+Conclusion: In this large real-world study, the majority of the patients with CIU/CSU were initiated on a 300-mg
+omalizumab dose and treated without titration up or down for 9 months on average. Most of the patients were continuously
+treated with omalizumab for =6 months, and one-fourth of the patients who discontinued treatment resumed it. Moreover,
+compared with baseline levels, the use of other CIU/CSU-related medications was lower after omalizumab initiation, with the
+most prominent decrease observed in oral corticosteroids.
+
+(Allergy Asthma Proc 39:191-200, 2018; doi: 10.2500/aap.2018.39.4132)
+
+hronic idiopathic urticaria (CIU) or chronic spontaneous urticaria (CSU) is a dermatologic condition characterized by itchy hives with or without an
+gioedema and symptoms that lasted =6 weeks without
+an apparent trigger.! The prevalence of CIU/CSU in
+the United States is 0.5-1%, and it persists for 1-5
+years, with a prolonged duration in patients with more
+severe symptoms.?~* Second-generation H,-antihistamines are the current standard of care for CIU/CSU*;
+however, >50% of patients do not achieve symptom
+
+ 
+
+From the "Family Allergy and Asthma Care, Gaithersburg, Maryland, 2Atlantic
+
+Research Center, LLC, Ocean, New Jersey, *Novartis Pharmaceuticals Corporation,
+East Hanover, New Jersey, “Analysis Group, Montréal, Quebec, Canada, Novartis
+Pharma AG, Basel, Switzerland, “Bernstein Clinical Research Center, Cincinnati,
+Ohio and ’University of Cincinnati College of Medicine, Cincinnati, Ohio
+
+This research was funded by Novartis Pharmaceuticals Corporation
+
+P. Lefebore, D. Pilon, and M. Zhdanava are employees of Analysis Group, Inc., a
+consulting company that has received research grants from Novartis Pharmaceuticals
+Corporation to conduct this study. A. Kavati and B. Ortiz are employees of Novartis
+Pharmaceuticals Corporation. M.M. Balp is an employee of Novartis Pharma AG. J.
+Eghrari-Sabet, E. Sher, and J.A. Bernstein received consulting fees from Novartis
+Pharmaceuticals Corporation
+
+Presented in part at the 2017 European Academy of Dermatology and Venereology,
+September 13-17, 2017, Geneva, Switzerland, and at the 2017 Annual Scientific
+Meeting of the American College of Allergy, Asthma, and Immunology, October
+26-30, 2017, Boston, Massachusetts
+
+Supplemental data available at www.IngentaConnect.com
+
+Address correspondence to Dominic Pilon, M.A., Analysis Group, Inc, 1000 De La
+Gaucheti¢re West, Suite 1200, Montréal, QC H3B 4W5 Canada
+
+E-mail address: dominic.pilon@analysisgroup.com
+
+Allergy and Asthma Proceedings
+
+control even with drugs administered up to four times
+the licensed doses.”° Omalizumab, a biologic that targets immunoglobulin E (IgE), was approved in the
+United States, in March 2014, for the treatment of adults
+and adolescents (=12 years old) with refractory CIU/
+CSU. The U.S. stepwise approach to CIU/CSU therapy
+recommends omalizumab among other step-4 options,
+including cyclosporine, other immunosuppressants, and
+anti-inflammatory agents.”
+
+ 
+
+Published online March 7, 2018
+Copyright © 2018, OceanSide Publications, Inc., U.S.A.
+
+ 
+
+191
+Clinical trials demonstrated safety and efficacy of
+omalizumab in CIU/CSU’®; however, the information
+on practical aspects of omalizumab use, including
+treatment duration, dosage, and dose change, is still
+limited in the United States. A number of international
+studies investigated experiences with omalizumab in a
+real-world setting, but these studies were small (=110
+patients), and some studies included off-label use of
+omalizumab.'°-™* A few early U.S. real-world studies
+of omalizumab in CIU/CSU had a sample size of <300
+patients.'*?° To the best of our knowledge, this study
+was among the first to describe characteristics and
+treatment patterns in a large sample of patients with
+CIU/CSU initiated on omalizumab in a real-life setting
+in the United States.
+
+METHODS
+
+Data Source
+
+The Truven Health MarketScan Commercial Claims
+and Encounters and the Medicare Supplemental and
+Coordination of Benefits data bases (January 1, 2013, to
+July 31, 2016) were used. Available data included patient demographics, medical, and prescription drug
+claims. The data bases cover all U.S. Census regions
+with a concentration in the South and North Central
+(Midwest) regions, and allow creation of a nationally
+representative data sample of Americans with employerprovided health insurance. The data bases are fully
+compliant with the Health Insurance Portability and
+Accountability Act; therefore, no ethics review was
+necessary.
+
+Study Design
+
+In this retrospective descriptive study, the index date
+was defined as the date of omalizumab initiation. Patient demographics and clinical characteristics as well
+as the use of preomalizumab CIU/CSU-related medications were reported during the baseline period, defined as the 12 months before the index date. Treatment patterns were analyzed during the follow-up
+period, which spanned from the index date until the
+end of data availability for a minimum of 12 months.
+Sensitivity analyses were conducted in patients with
+218 and 24 months of follow-up.
+
+To be included in the study, the patients were required to have CIU/CSU identified based on the validated algorithm’: two or more independent claims
+with a diagnosis for idiopathic (the International Classification of Diseases, Ninth Revision, Clinical Modification
+[ICD-9-CM] code 708.1x; the International Classification
+of Diseases, Tenth Revision, Clinical Modification [ICD-10CM] code L50.1xx), other (ICD-9-CM code 708.8x; ICD10-CM code L50.8xx), or unspecified urticaria (ICD9-CM code 708.9x; ICD-10-CM code L50.9xx) =6 weeks
+apart or one or more claims with a diagnosis for idio
+192
+
+pathic, other, or unspecified urticaria; and one or more
+claims with a diagnosis for angioedema (ICD-9-CM
+code 995.1x; ICD-10-CM code T78.3) =6 weeks apart. In
+addition, the patients were required to have one or
+more pharmacy or medical claims of omalizumab, with
+the first claim being after March 21, 2014. The patients
+without 12 months of continuous health plan eligibility
+before and after the index date and those <12 years old
+at the index date were excluded from the study.
+
+Outcome Measures
+
+The baseline use of CIU/CSU-related medications
+(i.e., oral corticosteroids [OCS], H,- and H,-antihistamines, leukotriene receptor antagonists [LTRA], antiinflammatory and immunosuppressive agents, and antidepressants) was defined as one or more prescription
+fills of such medication. The number of prescription
+fills as well as the highest step of the CIU/CSU step
+ 
+
+21 claim with a diagnosis for idiopathic, other or unspecified urticaria’
+n = 634,848
+
+|
+
+Diagnosed CIU/CSU based on algorithm’:
+either 2 2 independent claims with a diagnosis for idiopathic, other or
+unspecified urticaria > 6 weeks apart, or > 1 claim with a diagnosis for
+urticaria and 2 1 claim with a diagnosis for angioedema = 6 weeks apart’
+
+n= 91,996 (14%)
+
+ 
+
+ 
+
+ 
+
+y
+2 1 omalizumab pharmacy or medical claim
+with the first claim (defined as the index date) being after March 21, 2014
+n = 4,582 (5%)
+
+ 
+
+ 
+
+v
+2 12 months of eligibility prior to the index date
+
+n= 3,370 (74%)
+
+ 
+
+ 
+
+vy
+212 months of eligibility after the index date
+
+n= 1,560 (46%)
+
+ 
+
+ 
+
+ 
+
+y
+2 12 years of age at the index date
+
+n= 1,546 (99%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1. Sample selection. Data from Truven Health MarketScan
+Commercial and Medicare Supplemental Databases (January 1,
+2013, to July 31, 2016). CIU = chronic idiopathic urticaria;
+CSU = chronic spontaneous urticaria; ICD-9-CM = the International Classification of Diseases, Ninth Revision, Clinical Modification; ICD-10-CM = the International Classification of Diseases,
+Tenth Revision, Clinical Modification. Notes: (1) Idiopathic urticaria: ICD-9-CM code 708.1x and ICD-10-CM code L50.1xx; other
+urticaria: ICD-9-CM code 708.8x and ICD-10-CM code L50.8xx;
+unspecified urticaria: ICD-9-CM code 708.9x and ICD-10-CM
+code L50.9xx; (2) the claims algorithm for identifying patients with
+CIU/CSU was validated by Ref. 17; and (3) angioedema: ICD9-CM code 995.1x and ICD-10-CM code T78.3.
+
+May-June 2018, Vol. 39, No. 3
+care approach achieved during the baseline period
+were also reported.° Treatment patterns described during the follow-up period included an omalizumab dosing regimen, continuous use of omalizumab at various
+time points, concomitant use of omalizumab with other
+CIU/CSU-related medications at the index date, treatment changes associated with omalizumab, and the
+
+use of other CIU/CSU-related medications during the
+follow-up period.
+
+Omalizumab Dosing Regimen
+
+Omalizumab, available in vials of 150 mg, is indicated in patients with CIU/CSU at one or two vials
+
+Table 1 Patient baseline characteristics (N = 1546)
+
+ 
+
+Characteristics
+
+Observation period, mean + SD (median; Q1-Q3; IQR), days
+Age, mean + SD (median; Q1—Q3; IQR), y*
+
+ 
+
+612 + 151 (617; 475-751; 276)
+44.4 + 14.5 (45; 35-55; 20)
+
+Women no. (%) 1130 (73.1)
+Region of residence, no. (%)*
+South 687 (44.4)
+North Central 308 (19.9)
+West 266 (17.2)
+North East 281 (18.2)
+Unknown 4 (0.3)
+Type of commercial health care plan, no. (%)*
+PPO 943 (61.0)
+Comprehensive 61 (3.9)
+CDHP and HDHP 27175)
+HMO and POS with capitation 138 (8.9)
+POS and EPO {12 (7.2)
+Unknown 21 (1.4)
+Medicare coverage, no. (%)* 96 (6.2)
+Year of index date, no. (%)
+2014 982 (63.5)
+2015 564 (36.5)
+Quan-Charlson Comorbidity Index, mean + SD (median; Q1-Q3; IQR)# 0.79 + 1.09 (0; 0-1; 1)
+Angioedema#§ 506 (32.7)
+Top three CIU/CSU-related comorbidities, no. (%)#§
+Allergic rhinitis 779 (50.4)
+Asthma 491 (31.8)
+Food and other allergies 327 (21.2)
+Top three mental comorbidities, no (%)#]
+Anxiety disorders 203 (13.1)
+Depressive disorders 198 (12.8)
+Sleep-wake disorders 181 (11.7)
+Top three cardio- and cerebrovascular comorbidities, no. (%)#§
+Coronary artery disease 48 (3.1)
+Sinus tachycardia 29'(2.5)
+Stroke and transient ischemic attack 30 (1.9)
+
+ 
+
+SD = standard deviation; Q1 = first quartile; Q3 = third quartile; IQR = interquartile range; PPO = preferred provider
+organization; CDHP = consumer directed health plan; HDHP = high deductible health plan; HMO = health maintenance
+organization; POS = point of service; EPO = exclusive provider organization; CIU = chronic idiopathic urticaria; CSU =
+chronic spontaneous urticaria.
+
+*Measured at the index date.
+
+#Measured during the 12-mo baseline period.
+
+§Diagnostic codes to identify comorbidities are provided in Supplemental Appendix 1.
+
+YFrom American Psychiatric Association. Diagnostic and statistical manual of mental disorders (DSM-5®). American
+Psychiatric Pub; 2013 May 22.
+
+Allergy and Asthma Proceedings 193
+every 4 weeks. The dosing regimen was assessed in
+patients with pharmacy claims of omalizumab by using information on the days and the quantity supplied.
+The initial (index) dose, number and frequency of
+omalizumab administrations, and dose changes were
+described.
+
+Continuous Use of Omalizumab
+
+The proportion of the patients who used omalizumab continuously for 6, 9, and 12 months was re
+ported. Continuous omalizumab use was defined as an
+absence of a gap (i.e., 30, 60, and 90 days) between
+consecutive days of omalizumab supply or between
+the last day of omalizumab supply and the end of the
+follow-up period.
+
+Concomitant Use with Other CIU/CSU-Related
+Medications at the Index Date
+
+Concomitant use of omalizumab with other CIU/
+CSU-related medications (i.e., OCS, H,- and H,-antihis
+Table 2 Baseline use of CIU/CSU-related medications (N = 1546)
+
+ 
+
+Medications
+
+ 
+
+Oral corticosteroids, no. (%)
+
+No. fills, mean + SD (median; Q1-Q3; IOR)
+Leukotriene receptor antagonists, no. (%)
+
+No. fills, mean + SD (median; Q1-Q3; IOR)
+Antidepressants, no. (%)*
+
+No. fills, mean + SD (median; Q1-Q3; IOR)
+
+Prescription H,-antihistamines, first generation, no. (%)#
+
+No. fills, mean + SD (median; Q1-Q3; IQR)
+Prescription H,-antihistamines, no. (%)#
+No. fills, mean + SD (median; Q1-Q3; IOR)
+
+Prescription H,-antihistamines, second generation, no. (%)#
+
+No. fills, mean + SD (median; Q1-Q3; IOR)
+Anti-inflammatory agents, no. (%)§
+No. fills, mean + SD (median; Q1-Q3; IOR)
+Immunosuppressive agents, no. (%)],
+No. fills, mean + SD (median; Q1-Q3; IOR)
+
+ 
+
+ 
+
+1171 (75.7)
+
+2.7 + 2.8 (2; 1-4; 3)
+812 (52.5)
+
+1.9 + 2.8 (1; 0-3; 3)
+692 (44.8)
+
+2.8 + 4.7 (0; 0-4; 4)
+726 (47.0)
+
+15 + 2.7 (0; 0-2; 2)
+501 (32.4)
+
+11 + 2.2 (0; 0-1; 1)
+367 (23.7)
+
+0.9 + 2.2 (0; 0-0; 0)
+197 (12.7)
+
+0.5 + 1.9 (0; 0-0; 0)
+154 (10.0)
+
+0.4 + 1.7 (0; 0-0; 0)
+
+Patterns of treatment based on the step-care approach, no. (%)#l|
+
+Step 1**
+
+Step 24H
+
+Step 3§§
+
+Step 4 (excluding omalizumab){]
+Unclassified|| ||
+
+37 (2.4)
+86 (5.6)
+614 (39.7)
+309 (20.0)
+500 (32.3)
+
+ 
+
+CIU = chronic idiopathic urticaria; CSU = chronic spontaneous urticaria; SD = standard deviation; Q1 = quartile 1; Q3 =
+
+quartile 3; IQR = interquartile range.
+“Included doxepin.
+
+#Use of antihistamines might be underreported due to over-the-counter medications not being captured in pharmacy claims
+
+data.
+
+§Included hydroxychloroquine, dapsone, colchicine, and sulfasalazine.
+
+Yincluded cyclosporine, mycophenolate, and methotrexate.
+
+|The highest step during the baseline period was reported (from Ref. 5).
+“Defined as the use (=7 days) of second-generation antihistamine alone.
+
+##Defined as the use (=7 days) of one or more of the following: second-generation antihistamine alone in a dose larger than
+that approved by the U.S. Food and Drug Administration, =2 second-generation H,-antihistamines, second-generation
+H,-antihistamine with H,-antihistamine, leukotriene receptor antagonists, or first-generation H,-antihistamine. Combination
+patterns were identified based on the overlapping episodes of continuous use. Use was considered continuous if there was no
+gap of =30 days between days of supply.
+
+§§Defined as the use (=7 days) of hydroxyzine or doxepin.
+
+Y§[Defined as the use (=7 days) of anti-inflammatory or immunosuppressive agents.
+
+|| [Patients who did not use prescription second-generation H,-antihistamines, hydroxyzine, doxepin, anti-inflammatory or
+immunosuppressive agents remained unclassified.
+
+194 May-June 2018, Vol. 39, No. 3
+Percentage of patients w ith initial dose of omalizumab and dose change
+
+100%
+
+3.2%
+
+92.3%
+
+90% 84.5%
+
+80.0%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+
+8.6% aay 4%
+
+“ = - I)
+
+300 mg
+
+150 mg = 300mg
+
+Initial dose,
+by year of omalizumab initiation
+
+90.0% 89.8% 90.4%
+
+| | | om a
+| | | eee |
+
+Stable dose Dose increase Dose decrease
+
+Dose change,
+by year of omalizumab initiation
+
+"Overall "2014 = 2015
+Figure 2. The initial dose of omalizumab and dose change by year of omalizumab initiation. Notes: (1) The initial dose of omalizumab and
+subsequent dose change were assessed among patients with one or more pharmacy claims; (2) the dose change was defined based on the change
+in the number of 150-mg vials supplied per 4 weeks. An increase (decrease) compared with the previous prescription represents a dose increase
+
+(decrease).
+
+tamines, LTRAs, anti-inflammatory and immunosuppressive agents, and antidepressants) at the index date
+was defined as a continuous use of a medication (i.e.,
+no gap of =30 days between consecutive days of the
+supply) for =30 days after omalizumab initiation.
+
+Treatment Changes Associated with Omalizumab
+
+Discontinuation of omalizumab was defined as a gap
+of =90 days between consecutive days of omalizumab
+supply or between the last day of omalizumab supply
+and the end of the follow-up period. A switch from
+omalizumab was defined as a prescription fill for another CIU/CSU-related medication during the 90-day
+period after omalizumab discontinuation; the new
+treatment had to be either discontinued or never used
+before the switch date. Restart of omalizumab was
+defined as a gap of =90 days between consecutive days
+of omalizumab supply. Add-on to omalizumab was
+defined as an overlap in continuous use of omalizumab
+and another CIU/CSU-related medication not used
+concomitantly at the index date, with one or more
+refills of omalizumab during the overlap.
+
+Use of Other CIU/CSU-Related Medications During
+the Follow-up Period
+
+The use of other CIU/CSU-related medications during the follow-up period was defined as one or more
+prescription fills for such medication. It was described
+over the entire follow-up period as well as in 3-month
+intervals postindex to capture potential changes in the
+use of medications after the omalizumab initiation.
+
+Allergy and Asthma Proceedings
+
+Statistical Analysis
+
+Patient characteristics and treatment patterns were
+described by using mean + SD, median, first and third
+quartiles, and interquartile range for continuous variables and frequencies and proportions for categorical
+variables. All statistical analyses were conducted by
+using SAS 9.4 (SAS Institute, Inc., Cary, NC).
+
+RESULTS
+
+Patient Characteristics
+
+A total of 91,996 patients with CIU/CSU were identified, among whom 4582 were initiated on omalizumab after March 21, 2014, and 1546 met the remaining selection criteria (Fig. 1). The sample covered all
+U.S. Census regions, with 44.4% of the patients from
+the South, 19.9% from the North Central, 18.2% from
+the North East, and 17.2% from the West region (Table
+1). The mean + SD duration of the follow-up period
+was 612 + 151 days; 946 patients (61.2%) had =18
+months of follow-up, and 447 (28.9%) had =24 months
+of follow-up. The majority of the patients with =18 and
+24 months of follow-up were initiated on omalizumab
+early in 2014. The patients had a mean + SD age of
+44 + 145 years and were predominately women
+(73.1%). During the baseline period, 32.7% of the patients had one or more diagnoses of angioedema, and
+the top three CIU/CSU-related conditions included allergic rhinitis (50.4%), asthma (31.8%), and food and other
+allergies (21.2%) (diagnostic codes to identify comorbidities are provided in Supplemental Appendix 1). The top
+
+195
+ 
+
+ 
+
+ 
+
+ 
+
+three mental comorbidities included anxiety, depres- oS =
+sive, and sleep-wake disorders with a prevalence of a =
+13.1, 12.8, and 11.7%, respectively. The majority of a 2 a5 =
+patients (80.5%) had one or more visits to an allergist or 3 “ B =
+immunologist, and 38.7% had one or more visits to a 9 %B ca iB a
+dermatologist. iS) % eS vy 8 s
+* + age 2 ll ao “+ co iS)
+Baseline Use of Medications Aslo ES ey >
+During the baseline period, the majority of patients ic ~ 4s oe) 2 =
+(75.7%) used an OCS, with the mean + SD number of 3 u q qi E
+fills being 2.7 + 2.8) (Table 2). Slightly more than half = N o So 7
+of the patients (52.5%) used an LTRA, predominantly & =o & 3
+montelukast (51.5%), with the mean + SD number of “ 5
+fills being 1.9 + 2.8. Only prescribed H,-antihistamines ~ &
+were captured in the data, with the use as following: = s
+47.0% used first-generation H,-antihistamines (mean + 0) oS ~ 2
+SD, 1.5 + 2.7 fills), 32.4% used H,-antihistamines E & nq =
+(mean + SD, 1.1 + 2.2 fills), and 23.7% used second- ba} a ~ S =
+generation H,-antihistamines (mean + SD, 0.9 + 2.2 ‘3 5 a a a 3
+fills). The baseline use of anti-inflammatory and immu- ¥ ‘I & a “ 5
+nosuppressive agents that indicate refractory CIU/ 6 = a SS a BS
+CSU was relatively low, at 12.7 and 10.0%, respec- 2 | ~ 5 3S © =
+tively. Close to half of the patients (44.8%) filled one or Ss 3 a atc) . &e
+more prescriptions (mean + SD, 2.8 + 4.7) for an antide- ‘S a + +H tl So D
+pressant, including doxepin. Also, when classifying pa- 2B Be % = Ss =
+tients according to the highest step in the U.S. step-care & a * sy
+approach to CIU/ CSU,> most patients (39.7%) received & FS g ES
+treatment according to step 3 (i.e., hydroxyzine or dox- Rie & 8 3
+epin) protocol, which precedes initiation of treatment ha a 3 nd 5
+with omalizumab. y S ge fT = =
+—— Z/2-|4 - & [ese
+Omalizumab Dosing Regimen Z| 2 g % xn i a8
+Most patients (84.5%) were initiated on a 300-mg a a in) ss NY 8 aS $ 2
+dose of omalizumab. The index dose of 300 mg was z = ll Ra + ot = B3
+slightly less common in patients initiated on omali- ~ < 2/9 eS nt S58
+zumab in 2014 (80.0%) compared with 2015 (92.3%) 2|e = es = 2 A
+(Fig. 2) and in patients with longer follow-up. Most g + Ho +I Ss =
+patients (90.0%) were maintained on their index dose, ia Ss oD I 3B 8
+7.5% had a dose increase, and 4.6% had a dose de- 3 iS og coi BS
+crease. Among the patients with a dose increase, 39.5% = a & ee
+increased to 300 mg and the rest increased to higher & a ses
+doses. Dose increases were more frequent in patients ‘S E ok tl § = =
+initiated on omalizumab in the first year of its approval 5 2 al & g 6 = g @
+(8.0% in 2014 versus 6.6% in 2015). The duration of treat- ~ a5 a = 2 > ges = ~
+ment with omalizumab (mean + SD, 273 + 113 days), # 5 & A} & eS isd Ts BS 2
+number of omalizumab administrations (mean + SD, = oe SLSR SS x
+8.3 + 4.8) and frequency of administrations (mean + SD, £ 5 o g OF a 2s
+44 + 29 days) were similar among the patients initiated 2 x Ey E Ey EF o|s 5 5 =
+on 150- and 300-mg doses of omalizumab (Table 3). The g 2 3 3 3 s ¢ BH 28
+patients with =18 and 24 months of follow-up had a a Be sEEO/S See
+longer duration of treatment with omalizumab (mean + ir £ a E a Sf dls oa iS =
+SD, 384 + 179 and 518 + 242 days, respectively). é 3? 2 as RS S eee
+a OCYVlIS SRE
+Continuous Use of Omalizumab 9 § § o zs § g Els a 3 8
+The majority of the patients (67.3%) were continu- 2 § 5 s 6 5 eA 5 = Q i
+ously treated with omalizumab for =6 months without ial a 2 6 AnMwRwS
+
+196 May-June 2018, Vol. 39, No. 3
+Percentage of patients continuously treated w ith omalizumab
+80%
+
+72%
+70% 67%
+
+61%
+60%
+
+55%
+50%
+40%
+30%
+20%
+
+10%
+
+0%
+
+55% 54%
+
+AT%
+39%
+31%
+9 12
+
+Months after initiation of treatmentwith omalizimab
+
+= 90-day gap
+
+"60-day gap 30-day gap
+
+Figure 3. Continuous use of omalizumab. Note: continuous omalizumab use was defined as an absence of a gap between consecutive days
+of omalizumab supply or between the last day of omalizumab supply and the end of the follow-up period. Gaps of =30, 60, or 90 days were
+
+considered.
+
+a gap in treatment of =60 days. Over time, continuous
+use of omalizumab displayed a decreasing trend, with
+fewer than half of the patients (47.4%) continuously
+treated up to 12 months. Similar trends were observed
+when using different gap length (i.e., 30 and 90 days)
+(Fig. 3) and in the patients with =18 and 24 months of
+follow-up.
+
+Concomitant Use with Other CIU/CSU-Related
+Medications at the Index Date and Treatment
+Changes Associated with Omalizumab
+
+At the index date, 56.5% of patients received one or
+more other medication with omalizumab (Table 4). The
+most common combination was with an LTRA (27.8%),
+followed by an antidepressant (25.9%). The percentages of the patients who used prescription H,- and
+H,-antihistamines concomitantly with omalizumab
+were 21.0 and 14.2%, respectively. Over the follow-up
+period, 39.8% of the patients discontinued omalizumab
+for =3 months with the mean + SD time to discontinuation being 131 + 76 days. Among those who discontinued, 54% switched to another CIU/CSU-related
+medication (most commonly, to a prescription H,-antihistamine), and 21.0% subsequently restarted treatment with omalizumab. An add-on to omalizumab
+was observed in 34.2% of the patients, with an OCS
+being the most common medication added (37.7%),
+followed by a prescription H,-antihistamine (25.2%).
+Among the patients with =18 and 24 months of follow
+Allergy and Asthma Proceedings
+
+up, higher proportions discontinued omalizumab (50.1
+and 53.2%, respectively) and subsequently resumed it
+(29.1 and 39.5%, respectively).
+
+Use of Other CIU/CSU-Related Medications During
+the Follow-up Period
+
+Initiation of omalizumab was associated with a decreased use of other CIU/CSU-related medications:
+94.8% of the patients had one or more fills of such medication during the baseline period versus 84.6% during
+the follow-up period (Fig. 4). This decrease occurred
+across all medications, with the most prominent observed
+in OCS (75.7% during the baseline versus 49.9% during
+the follow-up). Furthermore, the use of medications was
+consistently decreasing during the follow-up period,
+from 72.8% over the first 3 months to 58.5% over the last
+3 months. This trend was observed in all medications
+with the exception of antidepressants, the use of which
+remained constant but at a lower level compared with the
+baseline period.
+
+DISCUSSION
+
+Our study described characteristics and treatment
+patterns of a large sample of U.S. patients with CIU/
+CSU initiated on omalizumab in a clinical setting. Patients from all U.S. Census regions were included in the
+study, and the results were generalizable to the commercially insured U.S. population. Patient demographic char
+197
+Table 4 Concomitant use with other CIU/CSU medications at index date and treatment changes associated
+
+with omalizumab (N = 1546)
+
+ 
+
+Treatment patterns
+
+ 
+
+Medications used concomitantly with omalizumab at
+the index date, no. (%)*
+Leukotriene receptor antagonists
+Antidepressants
+H,-antihistamines
+H,-antihistamines
+Oral corticosteroids
+Anti-inflammatory agents#
+Immunosuppressive agents§
+Discontinuation of omalizumab, no. (%) J
+Time to first discontinuation, mean + SD (median;
+Q1-Q3; IQR), days
+Switch from omalizumab, no. (%)|
+H,-antihistamines
+Oral corticosteroids
+Leukotriene receptor antagonists
+H,-antihistamines
+Anti-inflammatory agents#
+Immunosuppressive agents§
+Restart of omalizumab, no. (%)**
+Time from discontinuation to restart, mean + SD
+(median; Q1-Q3; IQR), days
+Add-on to omalizumab, no. (%)##
+Oral corticosteroids
+H,-antihistamines
+Leukotriene receptor antagonists
+H,-antihistamines
+Anti-inflammatory agents#
+Immunosuppressive agents§
+
+873 (56.5)
+
+430 (27.8)
+401 (25.9)
+324 (21.0)
+219 (14.2)
+162 (10.5)
+
+77 (5.0)
+
+38 (2.5)
+
+615 (39.8)
+
+131.4 + 75.9 (127; 68-189; 121)
+
+129 (21.0)
+133.2 + 39.7 (122; 102-153; 51)
+
+528 (34.2)
+199 (37.7)
+133 (25.2)
+
+76 (14.4)
+
+71 (13.4)
+32 (6.1)
+17 (3.2)
+
+ 
+
+CIU = chronic idiopathic urticaria; CSU = chronic spontaneous urticaria; SD = standard deviation; Q1 = quartile 1; Q3 =
+
+quartile 3; IQR = interquartile range.
+
+“Concomitant use was defined as a continuous use of a CIU/CSU medication (no gap of =30 days between consecutive days
+
+of supply) for =30 days after omalizumab initiation.
+
+#Anti-inflammatory agents included hydroxychloroquine, dapsone, colchicine, and sulfasalazine.
+§Immunosuppressive agents included cyclosporine, mycophenolate, and methotrexate.
+YDiscontinuation was defined as a gap of =90 days between consecutive days of omalizumab supply or between the last day
+
+of omalizumab supply and the end of the follow-up period.
+
+Switch was defined as a prescription fill for another CIU/CSU medication during the 90-day period after omalizumab
+discontinuation; the new treatment had to be either discontinued or never used before the switch date.
+
+“Restart was defined as a gap of =90 days between consecutive days of omalizumab supply.
+
+##Add-on was defined as an overlap in continuous use of omalizumab and another CIU/CSU treatment not used concomitantly
+at the index date, with one or more refills of omalizumab during the overlap.
+
+acteristics were comparable with those reported in clinical trials.” In terms of severity, the prevalence of
+angioedema, which can be considered an unfavorable
+prognostic factor, was lower in our study (32.7%) compared with a range of 38-54% in trials.”° Preomalizumab use of immunosuppressive agents was similar
+to that in the GLACIAL trial.” The patients in our study
+
+198
+
+had a slightly lower preomalizumab use of LTRAs
+(52.5% compared with 57.5% in the GLACIAL trial);
+however, the use of OCS was higher, at 75.7% compared with 57.9% in the GLACIAL trial.
+
+In our study, the majority of the patients were initiated
+on a 300-mg dose of omalizumab. In early real-world
+studies, patients were reported to predominantly start
+
+May-June 2018, Vol. 39, No. 3
+Percentage of patients using a given treatment
+
+All treatments combined
+100% 95%
+90% Oral corticosteroid
+
+80%
+
+Base 0-12 03 36 69912 Base 0-12 03 36 69 912
+Antidepressant H2-antihistamine
+50% 45%
+40%
+29% x
+
+30% 24%
+20%
+a ioe
+0%
+
+Base 0-12 03 36 69 912 Base 0-12 03 36 69 912
+
+85%
+76%
+70%
+60%
+50%
+
+50%
+40%
+30%
+20%
+“ li fl
+
+0%
+
+H1-antihistamine Leukotriene receptor modifier
+
+80%
+
+53%
+37%
+30%
+20%
+A i 10%
+0%
+
+Base 0-12 03 36 69 9-12
+
+58%
+
+i
+Base 0-12 03 36 69 9-12
+
+Immunosuppressive agent
+50%
+
+Anti-inflammatory agent
+
+40%
+30%
+
+13% 1495 iid
+
+Base 0-12 03 36 69 912
+
+10% go,
+
+ia 10%
+Go as = cs 0%
+Base 0-12 03 36 69 912
+
+12-months baseline period (base) versus 12-months follow-up period (0-12)
+Figure 4. Utilization (from Ref. 1) of other CIU/CSU medications after omalizumab initiation. CIU = chronic idiopathic urticaria; CSU =
+chronic spontaneous urticaria. Note: (1) Utilization is defined as one or more prescription fills for a corresponding medication; (2)
+anti-inflammatory agents included hydroxychloroquine, dapsone, colchicine, and sulfasalazine; and (3) immunosuppressive agents included
+
+cyclosporine, mycophenolate, and methotrexate.
+
+omalizumab with a 150-mg dose.'’%"4 In our study,
+more patients were initiated on a 300-mg dose in the
+second versus the first year after approval of omalizumab, a change in prescribing practice that could be
+related to publications that show improved efficacy of
+omalizumab in CIU/CSU when administered as a
+300-mg dose.'* Among the patients with a dose increase,
+60.5% increased the dose to >300 mg. This finding
+should be interpreted with caution because the number
+of patients to increase the dose to >300 mg was small
+(n = 46). Moreover, the majority initiated omalizumab
+shortly after its approval (in 2014, n = 29), and such dose
+increases could be due to limited clinical experience with
+the drug. Of note, one clinical trial examined the use of
+the 600 mg of omalizumab but did not find it to be more
+effective than the 300-mg dose.’
+
+At 6 months, which corresponds to the duration of
+treatment with omalizumab in the ASTERIA I? and
+GLACIAL’ trials, and exceeds the treatment length
+in the ASTERIA II trial, >50% of the patients remained.
+treated with omalizumab, which indicates that omali
+Allergy and Asthma Proceedings
+
+zumab might be administered for >6 months in approximately one-half of the patients. Among the patients who
+discontinued omalizumab for =3 months, 21% restarted
+the treatment. Clinical”*”° and real-world studies!®115
+reported a possibility of symptom reoccurrence once
+omalizumab is discontinued, which could be one of the
+reasons to restart omalizumab. Reasons for omalizumab
+discontinuation and restarting were not available in the
+claims data; however, another study reported the lack of
+time for treatment, insurance disenrollment, and symptom resolution among the top reasons for omalizumab
+discontinuation that might lead to a subsequent restart of
+omalizumab.!°
+
+The use of other CIU/CSU-related medications in
+our study decreased after omalizumab initiation compared with baseline levels. A numerical decrease of 25
+percentage points in the proportion of patients who
+used OCS exceeded that reported in a recent realworld study.’ This was an important finding given an
+increased risk of adverse effects reported in patients
+
+199
+with CIU/CSU treated with OCS.”! Evidence of decreased utilization of other CIU/CSU-related medications after omalizumab initiation was also reported in
+another real-world study.'?
+
+Study Limitations
+
+This study was subject to a number of limitations. Only
+prescription H,-antihistamines are captured in pharmacy
+claims, and, because H,-antihistamines could be obtained
+over the counter, the current study likely underreported
+heir use. The dose of omalizumab injections adminisered in a medical setting cannot be identified in claims
+data, hence, only patients with one or more pharmacy
+claims were considered for the analysis of the omalizumab dosing regimen. A pharmacy claim corresponds
+‘o an order of the drug and provides an approximation
+on the actual dose and frequency of the drug administration; moreover, a pharmacy claim does not guarantee that
+he medication was taken, which potentially led to overestimation of medication use. Of note, omalizumab use
+was described based on both pharmacy claims and medical claims for injections, the latter served as a guarantee
+hat the medication was administered. Also, administrative claims data might have inherent limitations, such as
+potential miscoding or may contain inaccurate or missing
+data on prescriptions, procedures, and diagnoses.
+
+ 
+
+CONCLUSION
+
+In this large real-world study of patients with CIU/
+CSU who were treated with omalizumab, the majority
+were initiated on a 300-mg dose and received the medication for an average of 9 months without dose titration
+up or down. Most of the patients were continuously
+treated with omalizumab for =6 months. Among patients who discontinued omalizumab for =3 months,
+one-fourth resumed it. The discontinuation and restart
+rates were higher in the patients with longer follow-up.
+The use of CIU/CSU-related medications decreased after
+omalizumab initiation compared with baseline levels and
+displayed a declining trend during the follow-up period.
+
+REFERENCES
+
+1. Greaves MW, Tan KT. Chronic urticaria: recent advances. Clin
+Rev Allergy Immunol. 2007; 33:134-143.
+
+2. Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical
+needs in chronic spontaneous urticaria. A GA*LEN task force
+report. Allergy. 2011; 66:317-330.
+
+3. Toubi E, Kessel A, Avshovich N, et al. Clinical and laboratory
+parameters in predicting chronic urticaria duration: a prospective study of 139 patients. Allergy. 2004; 59:869-873.
+
+4. Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2)LEN/
+EDF/WAO Guideline for the definition, classification, diagno
+200
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+TZ
+
+18.
+
+19.
+
+20
+
+21,
+
+sis, and management of urticaria: The 2013 revision and update.
+Allergy. 2014; 69:868—887.
+
+Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and
+management of acute and chronic urticaria: 2014 update. J
+Allergy Clin Immunol. 2014; 133:1270-1277.
+
+Staevska M, Popov TA, Kralimarkova T, et al. The effectiveness
+of levocetirizine and desloratadine in up to 4 times conventional
+doses in difficult-to-treat urticaria. J Allergy Clin Immunol.
+2010; 125:676-682.
+
+Kaplan A, Ledford D, Ashby M, et al. Omalizumab in patients
+with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy. J Allergy Clin Immunol.
+2013; 132:101-109.
+
+Maurer M, Rosén K, Hsieh HJ, et al. Omalizumab for the
+treatment of chronic idiopathic or spontaneous urticaria. N Engl
+J Med. 2013; 368:924-935.
+
+Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and safety of
+omalizumab in patients with chronic idiopathic/spontaneous urticaria who remain symptomatic on H1 antihistamines: a randomized, placebo-controlled study. J Invest Dermatol. 2015; 135:67-75.
+Bongiorno MR, Crimi N, Corrao S, et al. Omalizumab for the
+treatment of chronic spontaneous urticaria in clinical practice.
+Ann Allergy Asthma Immunol. 2016; 117:703-707.
+
+Metz M, Ohanyan T, Church MK, Maurer M. Omalizumab is an
+effective and rapidly acting therapy in difficult-to-treat chronic
+urticaria: A retrospective clinical analysis. J Dermatol Sci. 2014;
+73:57-62.
+
+Labrador-Horrillo M, Valero A, Velasco M, et al. Efficacy of
+omalizumab in chronic spontaneous urticaria refractory to conventional therapy: analysis of 110 patients in real-life practice.
+Expert Opin Biol Ther. 2013; 13:1225-1228.
+
+Sussman G, Hébert J, Barron C, et al. Real-life experiences with
+omalizumab for the treatment of chronic urticaria. Ann Allergy
+Asthma Immunol. 2014; 112:170-174.
+
+Rottem M, Segal R, Kivity S, et al. Omalizumab therapy for
+chronic spontaneous urticaria: The Israeli experience. Isr Med
+Assoc J. 2014; 16:487—490.
+
+Wang L, Ke X, Kavati A, et al. Real-world treatment patterns
+and outcomes of omalizumab use in patients with chronic idiopathic urticaria. Curr Med Res Opin. 2018; 34:35-39.
+
+Ke X, Kavati A, Wertz D, et al. Real-world characteristics and
+treatment patterns in patients with urticaria initiating omalizumab
+in the United States. J Manag Care Spec Pharm. 2017:1-11.
+Cherepanov D, Raimundo K, Chang E, et al. Validation of an
+ICD-9-based claims algorithm for identifying patients with
+chronic idiopathic/spontaneous urticaria. Ann Allergy Asthma
+Immunol. 2015; 114:393-398.
+
+Kaplan A, Ferrer M, Bernstein JA, et al. Timing and duration of
+omalizumab response in patients with chronic idiopathic/spontaneous urticaria. J Allergy Clin Immunol. 2016; 137:474—481.
+Saini S, Rosen KE, Hsieh HJ, et al. A randomized, placebocontrolled, dose-ranging study of single-dose omalizumab in
+patients with H1-antihistamine-refractory chronic idiopathic
+urticaria. J Allergy Clin Immunol. 2011; 128:567-573.e1.
+Gimenez-Arnau AM, Toubi E, Marsland AM, Maurer M. Clinical management of urticaria using omalizumab: the first licensed biological therapy available for chronic spontaneous urticaria. J Eur Acad Dermatol Venereol. 2016; 30(suppl 5):25-32.
+Ledford D, Broder MS, Antonova E, Omachi TA, Chang E,
+Luskin A. Corticosteroid-related toxicity in patients with
+chronic idiopathic urticaria-chronic spontaneous urticaria. Allergy Asthma Proc. 2016; 37:458—465. Oo
+
+May-June 2018, Vol. 39, No. 3
+
